@@ -1,4 +1,4 @@
-# 每日论文雷达 - 2026-06-05
+# 每日论文索引 - 2026-06-05
 
 ## 今日新增论文索引
 
@@ -28,12 +28,12 @@
 - DOI：https://doi.org/10.1017/hpl.2026.10129
 - 真实发表日期：2026-05（Cambridge 官方 accepted manuscript，在线可引）
 - 来源链接：https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B32858B8FE18A723B7BE4BB80A4F8D9B/S2095471926101297a.pdf/compensation-of-carrier-envelope-phase-slip-using-machine-learning.pdf
-- 与方向关系：AI/机器学习用于高功率飞秒激光控制 + CEP 稳定 + 强场实验基础设施
+- 与方向关系：机器学习用于高功率飞秒激光控制 + CEP 稳定 + 强场实验基础设施
 
 ## 检索与去重执行记录
 
 - 检索日期：2026-06-05。
-- 重点检索方向：激光等离子体、强场 QED、高能量密度物理、PIC，以及 AI/机器学习在上述方向中的应用。
+- 重点检索方向：激光等离子体、强场 QED、高能量密度物理、PIC，以及 机器学习在上述方向中的应用。
 - 优先来源：ScienceDirect、Nature Portfolio、Cambridge Core 官方论文页 / 官方 accepted manuscript 页面。
 - 去重基线：`state/processed_articles.json` 与 `state/daily_retry_candidates.json`（运行前唯一 DOI/标题键合计 85 条）。
 - 本次新增候选：3 条，均未命中现有 processed/retry 台账。
@@ -58,5 +58,5 @@
 
 ## 当日总结
 
-- 今天补入了 2 条正式论文和 1 条官方 accepted manuscript，继续覆盖激光等离子体建模、超快激光等离子体诊断以及 AI 控激光三个子方向。
+- 今天补入了 2 条正式论文和 1 条官方 accepted manuscript，继续覆盖激光等离子体建模、超快激光等离子体诊断以及 机器学习控制激光三个子方向。
 - 当前主阻塞仍是本地运行时外网出站；网络恢复后应优先把 `2026-06-05` 这 3 条与 `2026-06-03`、`2026-06-04` 的积压候选一起完成 PDF 校验与中文笔记。

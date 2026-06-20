@@ -1,12 +1,12 @@
 # everyday_paper
 
-一个持续更新的高功率激光、等离子体物理与相关应用论文雷达仓库。它按天搜集、去重、下载并分析与你研究方向相关的最新论文，并把已入库论文沉淀成可浏览的中文分类索引。
+一个持续更新的高功率激光、等离子体物理与相关应用论文索引仓库。按天搜集、去重、下载并分析本仓库研究方向相关论文，并将已入库论文整理为分类索引。
 
 ## 目录
 
-- [这是什么](#这是什么)
+- [项目定位](#项目定位)
 - [关注主题](#关注主题)
-- [如何使用](#如何使用)
+- [索引文件](#索引文件)
 - [仓库结构](#仓库结构)
 - [分类索引](#分类索引)
 - [当前状态](#当前状态2026-06-20)
@@ -14,14 +14,14 @@
 - [PDF 下载稳健性](#pdf-下载稳健性)
 - [维护约定](#维护约定)
 
-## 这是什么
+## 项目定位
 
-这个仓库主要做四件事：
+仓库内容包括：
 
-- 每日跟踪激光等离子体、强场 QED、高能量密度物理、PIC、AI/ML 等方向的新论文。
+- 每日跟踪激光等离子体、强场 QED、高能量密度物理、PIC、机器学习等方向的新论文。
 - 优先从正式发表来源检索，必要时补充高质量 arXiv 预印本。
 - 为新增论文下载并校验 PDF，生成中文结构化笔记。
-- 仿照 `everyday_github` 的方式维护可浏览分类、论文页、每日索引和 GitHub 同步。
+- 维护分类索引、论文页、每日索引和 GitHub 同步记录。
 
 ## 关注主题
 
@@ -29,20 +29,21 @@
 - 强场 QED（strong-field QED）
 - 高能量密度物理（high energy density physics）
 - PIC 及相关计算方法
-- AI / 机器学习 / 先进算法在上述方向中的应用与结合
+- 机器学习 / 数据驱动方法 / 先进算法在上述方向中的应用与结合
 - 激光加速电子束、离子束及其应用：包括电子束打转换靶产生韧致辐射 / 伽马源、光核反应、中子 / 同位素产生、核诊断、辐照、诊疗、材料研究，以及相关束流品质、靶设计、转换效率和辐射防护问题
 
-## 如何使用
+## 索引文件
 
-1. 先看总入口：[`INDEX.md`](./INDEX.md)。
-2. 按研究方向进入 [`categories/`](./categories/) 分类索引。
-3. 查看单篇论文时进入 [`papers/<paper>/README.md`](./papers/)；详细中文解读以原始 `daily/YYYY-MM-DD/notes/` 笔记为准。
-4. 想看当天新增，进入 [`daily/README.md`](./daily/README.md) 或最新日期目录。
+- 总索引：[`INDEX.md`](./INDEX.md)
+- 分类索引：[`categories/`](./categories/)
+- 单篇论文索引：[`papers/<paper>/README.md`](./papers/)
+- 每日索引：[`daily/README.md`](./daily/README.md)
+- 中文笔记：`daily/YYYY-MM-DD/notes/`
 
 ## 仓库结构
 
-- `daily/`：按日期归档的每日论文雷达、下载报告、中文笔记和运行结果。
-- `papers/`：按单篇论文生成的浏览入口，由 `scripts/build_indexes.py` 自动维护。
+- `daily/`：按日期归档的每日论文索引、下载报告、中文笔记和运行结果。
+- `papers/`：按单篇论文生成的索引页，由 `scripts/build_indexes.py` 自动维护。
 - `categories/`：按主题生成的分类索引，由 `scripts/build_indexes.py` 自动维护。
 - `state/processed_articles.json`：已处理论文去重台账和索引数据源。
 - `state/daily_retry_candidates.json`：下载失败或待重试候选台账。
@@ -61,7 +62,7 @@
 - [强场 QED 与辐射反作用](./categories/strong-field-qed-radiation.md)
 - [高能量密度物理、ICF 与实验室天体](./categories/hedp-icf-laboratory-astrophysics.md)
 - [PIC、动理学与数值模拟](./categories/pic-and-plasma-simulation.md)
-- [AI/机器学习与等离子体物理](./categories/ai-ml-plasma-physics.md)
+- [机器学习与等离子体物理](./categories/ai-ml-plasma-physics.md)
 - [磁约束聚变与 alpha 粒子](./categories/magnetic-fusion-and-alpha-particles.md)
 - [实验平台、靶设计与诊断](./categories/experimental-platforms-diagnostics.md)
 - [综合等离子体与交叉方法](./categories/general-plasma-and-methods.md)
@@ -72,7 +73,7 @@
 - `daily/YYYY-MM-DD/pdfs/`: 当天新发现论文 PDF
 - `daily/YYYY-MM-DD/notes/`: 逐篇中文笔记
 - `daily/YYYY-MM-DD/index.md`: 当天论文索引与汇总
-- `papers/<paper>/README.md`: 单篇论文浏览入口
+- `papers/<paper>/README.md`: 单篇论文索引页
 - `categories/*.md`: 主题分类索引
 - `INDEX.md`: 总索引
 - `state/processed_articles.json`: 已处理论文去重台账
@@ -81,7 +82,7 @@
 ## 当前状态（2026-06-20）
 
 - 已连续维护到 `daily/2026-06-20/`。
-- 关注主题已扩展到激光加速电子束与离子束的应用场景，后续每日检索应把转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、激光离子加速应用和相关靶/诊断/防护问题纳入候选筛选。
+- 关注主题已扩展到激光加速电子束与离子束应用方向，后续每日检索纳入转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、激光离子加速应用和相关靶/诊断/防护问题。
 - `2026-06-20` 新增 3 条高相关论文并完成 PDF 校验与中文笔记，均为 arXiv 高相关补充，分别覆盖波导去相位 LWFA、数据驱动 stellarator alpha-particle confinement Bayesian optimization，以及用于高重复频 HEDP 的流体微透镜 caustic 增强方案。
 - 已处理论文总数增至 126 条；`state/daily_retry_candidates.json` 维持 12 条。
 - 当前重试队列只剩已明确的来源侧限制：10 条 ScienceDirect / Elsevier `HTTP 403`、1 条 Nature `cookies_not_supported`、1 条 IOP / New Journal of Physics Radware/Perfdrive 验证页。
@@ -148,6 +149,6 @@ python scripts/retry_download_queue.py --source-family iop
 python scripts/build_indexes.py
 ```
 
-- 索引脚本会重建 `papers/`、`categories/`、`daily/README.md` 与 `INDEX.md`；这些文件是 GitHub 浏览入口的一部分。
+- 索引脚本会重建 `papers/`、`categories/`、`daily/README.md` 与 `INDEX.md`；这些文件构成 GitHub 论文索引。
 - GitHub 仓库默认不跟踪 PDF 文件，避免仓库过大；PDF 本地路径仍保留在元数据与论文页中。
 - 自动化成功完成后，默认提交并推送到 `origin/master`。

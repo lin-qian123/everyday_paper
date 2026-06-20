@@ -1,4 +1,4 @@
-# 每日论文雷达 - 2026-06-03
+# 每日论文索引 - 2026-06-03
 
 ## 今日新增论文索引
 
@@ -12,7 +12,7 @@
 - DOI：https://doi.org/10.1038/s42005-026-02689-2
 - 真实发表日期：2026-06-01
 - 来源链接：https://www.nature.com/articles/s42005-026-02689-2
-- 与方向关系：AI for fusion plasma diagnostics/control + 可解释机器学习 + 跨装置泛化
+- 与方向关系：机器学习用于 fusion plasma diagnostics/control + 可解释机器学习 + 跨装置泛化
 
 ### 2) Ultrafast many-body dynamics of dense Rydberg gases and ultracold plasma
 - 作者：Mario Grossmann, Jette Heyer, Julian Fiedler et al.
@@ -28,12 +28,12 @@
 - DOI：https://doi.org/10.1038/s42005-026-02626-3
 - 真实发表日期：2026-05-01
 - 来源链接：https://www.nature.com/articles/s42005-026-02626-3
-- 与方向关系：AI4Fusion + 自监督预训练 + 诊断重建与控制接口统一
+- 与方向关系：机器学习用于 fusion + 自监督预训练 + 诊断重建与控制接口统一
 
 ## 检索与去重执行记录
 
 - 检索日期：2026-06-03。
-- 重点检索方向：激光等离子体、强场 QED、高能量密度物理、PIC，以及 AI/机器学习在上述方向中的应用。
+- 重点检索方向：激光等离子体、强场 QED、高能量密度物理、PIC，以及 机器学习在上述方向中的应用。
 - 优先来源：Nature Portfolio 正式论文页面与对应 DOI。
 - 去重基线：`state/processed_articles.json` 与 `state/daily_retry_candidates.json`（运行前唯一 DOI/标题键合计 79 条）。
 - 本次新增候选：3 条，均未命中现有 processed/retry 台账。

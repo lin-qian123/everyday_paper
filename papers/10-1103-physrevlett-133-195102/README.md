@@ -11,6 +11,6 @@
 - 中文笔记：[打开笔记](yearly/2024/notes/Y. Sakawa et al. - 2024 - Laser-Driven Proton-Only Acceleration in a Multicomponent Near-Critical-Density Plasma.md)
 - 本地 PDF：未补回或未跟踪
 
-## 阅读入口
+## 索引说明
 
-这页由 `scripts/build_indexes.py` 根据 `state/processed_articles.json` 自动生成，核心阅读内容以中文笔记为准。
+本页由 `scripts/build_indexes.py` 根据 `state/processed_articles.json` 自动生成；正文解读以中文笔记为准。

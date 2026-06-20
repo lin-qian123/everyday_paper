@@ -11,6 +11,6 @@
 - 中文笔记：[打开笔记](daily/2026-06-12/notes/Mahindra Rautela et al. - 2026 - PDE foundation model-accelerated inverse estimation of system parameters in inertial confinement fusion.md)
 - 本地 PDF：[本地路径](daily/2026-06-12/pdfs/Mahindra Rautela et al. - 2026 - PDE foundation model-accelerated inverse estimation of system parameters in inertial confinement fusion.pdf)
 
-## 阅读入口
+## 索引说明
 
-这页由 `scripts/build_indexes.py` 根据 `state/processed_articles.json` 自动生成，核心阅读内容以中文笔记为准。
+本页由 `scripts/build_indexes.py` 根据 `state/processed_articles.json` 自动生成；正文解读以中文笔记为准。

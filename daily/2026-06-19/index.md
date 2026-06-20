@@ -1,4 +1,4 @@
-# 每日论文雷达 - 2026-06-19
+# 每日论文索引 - 2026-06-19
 
 ## 今日新增论文索引
 
@@ -22,7 +22,7 @@
 - DOI：https://doi.org/10.48550/arXiv.2606.12127
 - 真实发表日期：2026-06-15（arXiv v2）
 - 来源链接：https://arxiv.org/abs/2606.12127
-- 与方向关系：虽然场景偏 beam-sustained plasma，但论文提出的新型 electrostatic hose 机制与束流-等离子体耦合、尾场加速稳定性和 PIC 验证方法直接相通。
+- 与方向关系：虽然问题偏 beam-sustained plasma，但论文提出的新型 electrostatic hose 机制与束流-等离子体耦合、尾场加速稳定性和 PIC 验证方法直接相通。
 
 ### 3) Hierarchical Framework of Runaway Electrons using Deep Learning
 - 作者：Tyler Mark, Christopher J. McDevitt
@@ -30,7 +30,7 @@
 - DOI：https://doi.org/10.48550/arXiv.2606.12567
 - 真实发表日期：2026-06-10（arXiv submitted）
 - 来源链接：https://arxiv.org/abs/2606.12567
-- 与方向关系：直接覆盖 AI / 机器学习在等离子体动理学中的代理建模。工作把伴随公式和 PINN 结合起来，加速 runaway electron 电流、平均能量和能谱预测。
+- 与方向关系：直接覆盖 机器学习在等离子体动理学中的代理建模。工作把伴随公式和 PINN 结合起来，加速 runaway electron 电流、平均能量和能谱预测。
 
 ### 4) Mixed Hermite-Legendre spectral method for kinetic plasma simulations
 - 作者：Opal Issan, Gian Luca Delzanno, Vadim Roytershteyn
@@ -43,7 +43,7 @@
 ## 检索与去重执行记录
 
 - 检索日期：2026-06-19。
-- 重点检索方向：激光等离子体、强场 QED、高能量密度物理、PIC，以及 AI / 机器学习在上述方向中的应用。
+- 重点检索方向：激光等离子体、强场 QED、高能量密度物理、PIC，以及 机器学习在上述方向中的应用。
 - 优先来源：先复查 Cambridge HPL latest volume 与 JPP 近期页面；确认页面可访问，但 2026-06-19 这轮没有筛出比当前基线更强的非重复正式来源增量。随后转向 arXiv `physics.plasm-ph` / `physics.acc-ph` 近一周列表与相关检索结果。
 - 去重基线：`state/processed_articles.json` 与 `state/daily_retry_candidates.json`。
 - 本次新增候选：4 条，均未命中现有 processed/retry 台账。
@@ -74,5 +74,5 @@
 
 ## 当日总结
 
-- 今天补入 4 条高相关论文，分别覆盖了激光/束驱尾场加速的束质统一理论、束流诱导等离子体中的新型 hose 不稳定性、AI 驱动的 runaway electron 动理学代理，以及 kinetic plasma 的低噪声谱方法。
+- 今天补入 4 条高相关论文，分别覆盖了激光/束驱尾场加速的束质统一理论、束流诱导等离子体中的新型 hose 不稳定性、机器学习驱动的 runaway electron 动理学代理，以及 kinetic plasma 的低噪声谱方法。
 - 今天最值得优先读的是 `2606.18845`，因为它把 LWFA / PWFA 里一批原本分散的稳定性和束质问题收拢到统一的多极分类框架，对后续做实验设计、仿真诊断和 Bayesian optimization 都有组织价值。

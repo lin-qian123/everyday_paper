@@ -1,4 +1,4 @@
-# 每日论文雷达 - 2026-05-07
+# 每日论文索引 - 2026-05-07
 
 ## 今日新增论文索引
 
@@ -7,7 +7,7 @@
 ## 检索与去重执行记录
 
 - 检索日期：2026-05-07。
-- 重点检索方向：激光等离子体、强场 QED、高能量密度物理、PIC，以及 AI/机器学习在这些方向中的应用。
+- 重点检索方向：激光等离子体、强场 QED、高能量密度物理、PIC，以及 机器学习在这些方向中的应用。
 - 主要检索来源：Nature / Nature Communications、APS、Elsevier（JCP/CPC/Engineering Applications of AI）、arXiv（仅补充）。
 - 去重基线：`state/processed_articles.json` 与 `state/daily_retry_candidates.json`。
 - 去重结果：

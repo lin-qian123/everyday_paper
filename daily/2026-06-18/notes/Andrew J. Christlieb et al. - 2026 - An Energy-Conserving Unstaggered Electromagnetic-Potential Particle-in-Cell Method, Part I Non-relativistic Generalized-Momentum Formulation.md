@@ -22,8 +22,8 @@
 
 ## 4. 可复现实验/仿真要点
 - 复现时应同时检查三件事：Lorenz gauge / Gauss 定律是否在离散层面保持、总能量是否在长时间推进中无系统漂移、冷双流不稳定性的增长与非线性阶段是否被新 particle pusher 扭曲。
-- 如果以后要迁移到更强相关场景，最值得追踪的是它从非相对论 Part I 扩展到相对论/全电磁强场问题时，orbit-averaged discrete gradient 的构造是否仍然代价可控。
+- 如果以后要迁移到更强相关问题，最值得追踪的是它从非相对论 Part I 扩展到相对论/全电磁强场问题时，orbit-averaged discrete gradient 的构造是否仍然代价可控。
 
 ## 5. 后续行动项
 - 这篇适合纳入“结构保持 PIC”线索，和最近的 cylindrical deposition、hybrid / reduced-order PIC 方法并列，形成一条更清晰的数值方法分支。
-- 如果你后面关心强场或长时间积分误差积累，优先值得深挖的是它与已有 charge-conserving / symplectic / implicit PIC 家族的关系，而不是只看单一 benchmark。
+- 如果后续后面关心强场或长时间积分误差积累，优先值得深挖的是它与已有 charge-conserving / symplectic / implicit PIC 家族的关系，而不是只看单一 benchmark。

@@ -1,4 +1,4 @@
-# 每日论文雷达 - 2026-06-10
+# 每日论文索引 - 2026-06-10
 
 ## 今日新增论文索引
 
@@ -12,7 +12,7 @@
 - DOI：https://doi.org/10.48550/arXiv.2602.19110
 - 真实发表日期：2026-02-22（arXiv submitted）
 - 来源链接：https://arxiv.org/abs/2602.19110
-- 与方向关系：虽然场景是 WEST 托卡马克，但文章核心是用 transformer 直接从预设放电配置预测全局等离子体参数，属于 AI/ML 加速等离子体建模与控制的高相关补充。
+- 与方向关系：虽然问题是 WEST 托卡马克，但文章核心是用 transformer 直接从预设放电配置预测全局等离子体参数，属于 机器学习 加速等离子体建模与控制的高相关补充。
 
 ### 2) Simulation Design for Velocity-Controlled Spatio-Temporal Drivers in Laser Wakefield Acceleration
 - 作者：Chiara Badiali, Rafael Almeida, Thales Silva, Jorge Vieira
@@ -33,7 +33,7 @@
 ## 检索与去重执行记录
 
 - 检索日期：2026-06-10。
-- 重点检索方向：激光等离子体、强场 QED、高能量密度物理、PIC，以及 AI/机器学习在上述方向中的应用。
+- 重点检索方向：激光等离子体、强场 QED、高能量密度物理、PIC，以及 机器学习在上述方向中的应用。
 - 优先来源：先尝试正式出版社来源增量；今日未找到清晰且未重复的官方新条目后，补充转向高相关 arXiv 预印本。
 - 去重基线：`state/processed_articles.json` 与 `state/daily_retry_candidates.json`（运行前唯一 DOI/标题键合计 196 条）。
 - 历史去重补充：额外排除了已在 `daily/2026-04-01/` 中出现过的 `Single-laser scheme for reaching strong field QED regime via direct laser acceleration`，避免重复处理旧预印本。
@@ -59,5 +59,5 @@
 
 ## 当日总结
 
-- 今天补入了 3 条新的高相关 2026 预印本，分别覆盖 AI/ML 等离子体参数预测、LWFA 时空驱动的 PIC 仿真设计，以及 dense plasma focus 的混合 PIC-fluid 建模。
+- 今天补入了 3 条新的高相关 2026 预印本，分别覆盖 机器学习等离子体参数预测、LWFA 时空驱动的 PIC 仿真设计，以及 dense plasma focus 的混合 PIC-fluid 建模。
 - 由于当前自动化运行时仍然无法连通外部网络，今天继续维持 blocked-day 模式：保留真实下载失败证据、更新去重台账与重试队列，但不向 processed 台账写入未校验论文。

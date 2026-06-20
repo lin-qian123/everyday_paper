@@ -1,4 +1,4 @@
-# 每日论文雷达 - 2026-04-30
+# 每日论文索引 - 2026-04-30
 
 ## 今日新增论文索引
 - 无（经 DOI/标题/来源三重去重后，无新的未处理论文）
@@ -7,7 +7,7 @@
 
 - 检索时间：2026-04-30
 - 重点来源：Nature / Nature Communications / Nature Reviews Physics / Scientific Reports / APS PRL / IOP
-- 主题覆盖：激光等离子体、强场 QED、高能量密度物理、PIC、AI/机器学习相关方法
+- 主题覆盖：激光等离子体、强场 QED、高能量密度物理、PIC、机器学习相关方法
 
 ### 去重命中（示例）
 - `10.1038/s41467-026-70113-y`（已在 `state/processed_articles.json`）

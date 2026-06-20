@@ -25,5 +25,5 @@
 - 建议重点跟踪反应率增强倍数、离子分布函数尾部形状、不同反应通道的温度诊断，以及剪切流耗散与热点湍流强度之间的对应关系。
 
 ## 5. 后续行动项
-- 如果你后面在看 ICF hotspot 的多物理场耦合，这篇值得和 foundation model / inverse estimation 那类 AI 工作配对阅读：前者告诉你哪些 kinetic 效应值得保留，后者才知道 surrogate 或反演该学什么。
+- 如果后续后面在看 ICF hotspot 的多物理场耦合，这篇值得和 foundation model / inverse estimation 那类 机器学习工作配对阅读：前者告诉哪些 kinetic 效应值得保留，后者才知道 surrogate 或反演该学什么。
 - 对实验解释层面，也可以把它作为“流体模型失真边界”案例，提醒自己不要把 Maxwellian reactivity 当成永远安全的默认近似。

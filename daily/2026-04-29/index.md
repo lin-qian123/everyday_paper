@@ -1,4 +1,4 @@
-# 每日论文雷达 - 2026-04-29
+# 每日论文索引 - 2026-04-29
 
 ## 今日新增论文索引
 - 无（经 DOI/标题/来源三重去重后，无新的未处理论文）
@@ -7,7 +7,7 @@
 
 - 检索时间：2026-04-29
 - 重点来源：Nature Communications、Communications Physics、APS PRL/PRAB、IOP/NJP
-- 主题覆盖：激光等离子体、强场 QED、HEDP、PIC、AI/机器学习优化
+- 主题覆盖：激光等离子体、强场 QED、HEDP、PIC、机器学习优化
 
 ### 去重命中（示例）
 - `10.1038/s41467-026-69283-6`（已在 `state/processed_articles.json`）

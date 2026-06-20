@@ -1,4 +1,4 @@
-# 每日论文雷达 - 2026-06-14
+# 每日论文索引 - 2026-06-14
 
 ## 今日新增论文索引
 
@@ -29,7 +29,7 @@
 - DOI：https://doi.org/10.48550/arXiv.2606.04887
 - 真实发表日期：2026-06-03（arXiv submitted；v2 on 2026-06-08）
 - 来源链接：https://arxiv.org/abs/2606.04887
-- 与方向关系：针对具有低阶方位角不稳定性的圆柱等离子体提出 reduced-order PIC，核心贡献是把 3D 场求解压成少模态 2D 问题，直接对应你关注的 PIC 算法加速。
+- 与方向关系：针对具有低阶方位角不稳定性的圆柱等离子体提出 reduced-order PIC，核心贡献是把 3D 场求解压成少模态 2D 问题，直接对应本仓库关注的 PIC 算法加速。
 
 ### 4) A Surrogate Model for Proton Spectrum Prediction to Map Transitions in Laser-Ion Acceleration
 - 作者：Chengqi-Zhang, Yang He, Mamat Ali Bake, Xilin-Wang, Bai-Song Xie
@@ -37,12 +37,12 @@
 - DOI：https://doi.org/10.48550/arXiv.2606.06210
 - 真实发表日期：2026-06-04（arXiv submitted）
 - 来源链接：https://arxiv.org/abs/2606.06210
-- 与方向关系：把 β-VAE、MLP 和不确定性量化用于 laser-ion acceleration 的连续质子谱预测，直接覆盖 AI/ML + 激光等离子体加速。
+- 与方向关系：把 β-VAE、MLP 和不确定性量化用于 laser-ion acceleration 的连续质子谱预测，直接覆盖 机器学习 + 激光等离子体加速。
 
 ## 检索与去重执行记录
 
 - 检索日期：2026-06-14。
-- 重点检索方向：激光等离子体、强场 QED、高能量密度物理、PIC，以及 AI/机器学习在上述方向中的应用。
+- 重点检索方向：激光等离子体、强场 QED、高能量密度物理、PIC，以及 机器学习在上述方向中的应用。
 - 优先来源：先检查 Cambridge HPL 正式来源 / accepted manuscripts 与 arXiv 近期 plasma / accelerator 方向列表。今天确认到 1 条新的高相关 Cambridge 正式来源；其余正式来源未筛出更强且未重复的新增条目，因此补入 3 条高相关 arXiv 预印本。
 - 去重基线：`state/processed_articles.json` 与 `state/daily_retry_candidates.json`（运行前唯一 DOI/标题键合计按既有记法为 214 条）。
 - 本次新增候选：4 条，均未命中现有 processed/retry 台账；追加后唯一 DOI/标题键合计按既有记法为 218 条。
@@ -73,5 +73,5 @@
 
 ## 当日总结
 
-- 今天补入了 1 条正式来源和 3 条高相关预印本，分别覆盖高重复频 LWFA 气体靶工程、两段式注入 LWFA、新型 reduced-order PIC 方法，以及 AI 驱动的 laser-ion 质子谱预测。
+- 今天补入了 1 条正式来源和 3 条高相关预印本，分别覆盖高重复频 LWFA 气体靶工程、两段式注入 LWFA、新型 reduced-order PIC 方法，以及 机器学习驱动的 laser-ion 质子谱预测。
 - 运行环境中的 arXiv 下载链路继续稳定，Cambridge 来源也可用，但暴露出 `safe_pdf_download.py` 在个别 Cambridge PDF 直链上的传输卡住问题，值得后续单独修补。

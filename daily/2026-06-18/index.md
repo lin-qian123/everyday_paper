@@ -1,4 +1,4 @@
-# 每日论文雷达 - 2026-06-18
+# 每日论文索引 - 2026-06-18
 
 ## 今日新增论文索引
 
@@ -14,7 +14,7 @@
 - DOI：https://doi.org/10.48550/arXiv.2606.17733
 - 真实发表日期：2026-06-16（arXiv submitted）
 - 来源链接：https://arxiv.org/abs/2606.17733
-- 与方向关系：直接命中 AI/ML + PIC。论文把 PIC 场求解写成 residual-closure FNO 问题，在 SOL 与 two-stream 等基准上兼顾闭环物理一致性和场求解加速。
+- 与方向关系：直接命中 机器学习 + PIC。论文把 PIC 场求解写成 residual-closure FNO 问题，在 SOL 与 two-stream 等基准上兼顾闭环物理一致性和场求解加速。
 
 ### 2) An Energy-Conserving Unstaggered Electromagnetic-Potential Particle-in-Cell Method, Part I: Non-relativistic Generalized-Momentum Formulation
 - 作者：Andrew J. Christlieb, Luis Chacon, Sining Gong
@@ -35,7 +35,7 @@
 ## 检索与去重执行记录
 
 - 检索日期：2026-06-18。
-- 重点检索方向：激光等离子体、强场 QED、高能量密度物理、PIC，以及 AI / 机器学习在上述方向中的应用。
+- 重点检索方向：激光等离子体、强场 QED、高能量密度物理、PIC，以及 机器学习在上述方向中的应用。
 - 优先来源：先检查 Cambridge HPL accepted manuscripts 与 latest volume；确认页面可访问，但未筛出比当前基线更强的非重复正式来源增量。随后转向 arXiv `physics.plasm-ph` / `physics.acc-ph` 新稿及近几日相关 PIC/LWFA 检索结果。
 - 去重基线：`state/processed_articles.json` 与 `state/daily_retry_candidates.json`。
 - 本次新增候选：3 条，均未命中现有 processed/retry 台账。
@@ -65,5 +65,5 @@
 
 ## 当日总结
 
-- 今天补入 3 条高相关论文，覆盖了 AI 驱动的 PIC 场求解加速、结构保持/能量守恒 PIC 新格式，以及面向 ReMPI 的 LWFA 脉冲列实验准备。
+- 今天补入 3 条高相关论文，覆盖了 机器学习驱动的 PIC 场求解加速、结构保持/能量守恒 PIC 新格式，以及面向 ReMPI 的 LWFA 脉冲列实验准备。
 - 这轮正式来源仍未提供足够强的新增量，继续保持“正式来源优先，但一旦增量质量不足就快速切回高价值 arXiv”的策略仍然合理。

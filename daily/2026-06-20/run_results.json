@@ -83,10 +83,10 @@
       "pdf_url": "https://arxiv.org/pdf/2606.19523.pdf",
       "publication_date": "2026-06-17",
       "journal": "arXiv 预印本（高相关补充）",
-      "topic": "AI/机器学习 + 聚变等离子体优化，Bayesian optimization，stellarator，alpha-particle confinement",
+      "topic": "机器学习 + 聚变等离子体优化，Bayesian optimization，stellarator，alpha-particle confinement",
       "impact_score": 8,
       "similarity_score": 8,
-      "reason": "属于物理约束下智能优化的高质量方法论文，适合和近期 AI for plasma/fusion 条目并读，对 PIC/HEDP 参数空间重参数化也有借鉴意义。",
+      "reason": "属于物理约束下智能优化的高质量方法论文，适合和近期 机器学习用于 plasma/fusion 条目并读，对 PIC/HEDP 参数空间重参数化也有借鉴意义。",
       "summary": "通过 quantile transform 与 PCA 重塑 stellarator 设计空间，再把 guiding-center tracing 接入异步 Bayesian optimization，以改进 alpha 粒子约束性能。",
       "keywords": "Bayesian optimization、stellarator、alpha-particle confinement、PCA、data-informed parameterization"
     }
@@ -133,7 +133,7 @@
       "impact_score": 7,
       "similarity_score": 7,
       "reason": "偏实验平台和靶设计，但直接命中高能量密度物理，且强调微焦耳飞秒脉冲驱动与高重复频可扩展性，适合作为 HEDP 补充线索。",
-      "summary": "利用液体射流中的 caustic microlensing 增强局域吸收和表面非线性过程，并在高能量密度场景下实现 GPa 级冲击生成。",
+      "summary": "利用液体射流中的 caustic microlensing 增强局域吸收和表面非线性过程，并在高能量密度问题下实现 GPa 级冲击生成。",
       "keywords": "high-energy-density physics、fluidic microlens、caustics、ultrafast laser、shock generation"
     }
   }

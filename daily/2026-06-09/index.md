@@ -1,4 +1,4 @@
-# 每日论文雷达 - 2026-06-09
+# 每日论文索引 - 2026-06-09
 
 ## 今日新增论文索引
 
@@ -12,7 +12,7 @@
 - DOI：https://doi.org/10.1017/S0022377825101050
 - 真实发表日期：2026-02-05（Published online by Cambridge University Press）
 - 来源链接：https://www.cambridge.org/core/product/D2265426E60D45572203017E81913120
-- 与方向关系：用 POD 与神经网络加速边界等离子体湍流模拟，直接对应 AI/ML 加速等离子体数值计算这一主线，对 PIC/输运建模方法论也有参考价值。
+- 与方向关系：用 POD 与神经网络加速边界等离子体湍流模拟，直接对应 机器学习 加速等离子体数值计算这一主线，对 PIC/输运建模方法论也有参考价值。
 
 ### 2) Design of experiments characterising heat conduction in magnetised, weakly collisional plasma
 - 作者：T. A. Vincent, P. Ariyathilaka, L. Creaser, C. Danson, D. Lamb, J. Meinecke, C.A.J. Palmer, S. Pitt, H. Poole, C. Spindloe, P. Thomas, E. Tubman, L. Wilson, W. Garbett, G. Gregori, P. Tzeferacos, T. Hodge, A. F. A. Bott
@@ -20,7 +20,7 @@
 - DOI：https://doi.org/10.1017/hpl.2026.10152
 - 真实发表日期：2026-05-12（Published online by Cambridge University Press）
 - 来源链接：https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/accepted-manuscripts
-- 与方向关系：聚焦磁化弱碰撞等离子体热传导实验平台设计，面向 HEDP/ICF 中的输运物理与 FLASH 类辐射流体模拟验证，和你的高能量密度主线高度相关。
+- 与方向关系：聚焦磁化弱碰撞等离子体热传导实验平台设计，面向 HEDP/ICF 中的输运物理与 FLASH 类辐射流体模拟验证，与高能量密度物理主线高度相关。
 
 ### 3) Suppression and Enhancement of Electromagnetic Pulses from Laser-Target Interactions by Strong Magnetic Fields
 - 作者：P. V. Heuer, J. L. Peebles, J. R. Davies, D. H. Barnak, B. Stanley, N. Pelepchan, M. Cufari, J. A. Frenje, C. Niemann, N. A. Rongione, C. Constantin, E. Cisneros, P. Pribyl, H. Sio, H. Chen
@@ -33,7 +33,7 @@
 ## 检索与去重执行记录
 
 - 检索日期：2026-06-09。
-- 重点检索方向：激光等离子体、强场 QED、高能量密度物理、PIC，以及 AI/机器学习在上述方向中的应用。
+- 重点检索方向：激光等离子体、强场 QED、高能量密度物理、PIC，以及 机器学习在上述方向中的应用。
 - 优先来源：Cambridge Core 官方 HPL accepted manuscripts、JPP 正式论文页与 DOI 页面。
 - 去重基线：`state/processed_articles.json` 与 `state/daily_retry_candidates.json`（运行前唯一 DOI/标题键合计 190 条）。
 - 本次新增候选：3 条，均未命中现有 processed/retry 台账；追加后唯一 DOI/标题键合计 196 条。
@@ -59,5 +59,5 @@
 
 ## 当日总结
 
-- 今天补入了 3 条新的 Cambridge/JPP 高相关候选，分别覆盖 AI/ML 加速等离子体湍流模拟、磁化弱碰撞等离子体热传导实验设计，以及强磁场下的激光靶 EMP 行为。
+- 今天补入了 3 条新的 Cambridge/JPP 高相关候选，分别覆盖 机器学习 加速等离子体湍流模拟、磁化弱碰撞等离子体热传导实验设计，以及强磁场下的激光靶 EMP 行为。
 - 额外修复了 `scripts/safe_pdf_download.py` 的失败分类回归：`curl` 回退路径下的“代理不可连”和“DNS 失败”现在不再落到 `unknown`，而会正确标记为运行环境阻塞。

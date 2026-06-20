@@ -18,12 +18,12 @@
 
 ## 3. 与当前研究方向的关系
 - 相关性评分: 9/10；影响力评分: 6/10。
-- 这篇工作非常贴近你关注的 PIC 数值方法。它不直接讨论某个具体激光等离子体器件，但对圆柱几何、非均匀网格、dense plasma focus / Z-pinch / thruster 这类问题都很实用，属于“基础算法改进但能直接影响后续物理可信度”的论文。
+- 这篇工作非常贴近本仓库关注的 PIC 数值方法。它不直接讨论某个具体激光等离子体器件，但对圆柱几何、非均匀网格、dense plasma focus / Z-pinch / thruster 这类问题都很实用，属于“基础算法改进但能直接影响后续物理可信度”的论文。
 
 ## 4. 可复现实验/仿真要点
 - 复现时要同时检查三类误差指标：总电荷恢复、连续性残差、单粒子 residual self-field；只看前两个容易高估沉积格式的真实质量。
-- 如果你后面要把它并入现有 PIC 代码，最该优先对比的是 face-centered、cell-centered 和 shifted cell-centered 电场布局对单粒子自场噪声、能量守恒和束流长时间推进稳定性的影响。
+- 如果后续后面要把它并入现有 PIC 代码，最该优先对比的是 face-centered、cell-centered 和 shifted cell-centered 电场布局对单粒子自场噪声、能量守恒和束流长时间推进稳定性的影响。
 
 ## 5. 后续行动项
 - 值得把文中的沉积公式和 control-volume 定义整理成实现笔记，尤其是柱坐标半径因子与非均匀步长如何进入 charge/current assignment。
-- 如果你最近在看 cylindrical PIC、reduced-order PIC 或强梯度区局部加密网格，这篇可以和前几天收的 reduced-order / exponential solver 两篇一起读，形成一组“PIC 数值内核更新”材料。
+- 如果后续最近在看 cylindrical PIC、reduced-order PIC 或强梯度区局部加密网格，这篇可以和前几天收的 reduced-order / exponential solver 两篇一起读，形成一组“PIC 数值内核更新”材料。

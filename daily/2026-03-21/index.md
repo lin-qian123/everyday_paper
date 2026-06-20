@@ -6,7 +6,7 @@
 - 新增论文数：3
 - 重点来源：Nature Communications（3）
 - 主题分布：激光等离子体/实验室天体物理（1），强场QED（1），等离子体加速与PIC相关（1）
-- 总体判断：今日高质量新增集中在强场粒子动力学与等离子体加速；AI/ML 与上述方向的高质量新正式论文未见明显增量。
+- 总体判断：今日高质量新增集中在强场粒子动力学与等离子体加速；机器学习 与上述方向的高质量新正式论文未见明显增量。
 - 下载状态：已通过稳健下载器补齐 2/3 篇原文 PDF（2026-03-22）；`10.1038/s41467-026-70113-y` 在出版社页面当前仅提供 reference PDF，暂无法获取正文 PDF。
 
 ## 论文清单
@@ -68,5 +68,5 @@
   - 1) Observation of quantum effects on radiation reaction in strong fields：强场QED核心，统计显著性高，模型判别方法可迁移到后续实验。
   - 2) Measurement of ion acceleration and diffusion in a laser-driven magnetized plasma：激光等离子体与高能粒子输运直接耦合，机制讨论对HEDP与实验室天体物理都关键。
   - 3) Plasma-wakefield accelerator simultaneously boosts electron beam energy and brightness：对等离子体加速平台和 PIC 对照建模有直接工程价值。
-- AI / 机器学习方法是否出现新的结合点：
-  - 今日入选的高质量正式论文中，AI/ML 不是主贡献点；但在强场QED论文中，贝叶斯模型比较与不确定性量化框架已体现“统计学习式”分析路径，值得在后续数据处理流程中借鉴。
+- 机器学习方法是否出现新的结合点：
+  - 今日入选的高质量正式论文中，机器学习 不是主贡献点；但在强场QED论文中，贝叶斯模型比较与不确定性量化框架已体现“统计学习式”分析路径，值得在后续数据处理流程中借鉴。

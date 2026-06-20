@@ -26,4 +26,4 @@
 
 ## 5. 后续行动项
 - 这篇适合作为“kinetic solver 方法地图”的一块补丁，和近期的能量守恒 PIC、cylindrical deposition、reduced-order PIC 一起整理成更清晰的方法分支。
-- 如果后面你想比较“PIC 噪声 vs Vlasov 谱精度”的取舍，这篇是很好的对照入口。
+- 如果后续想比较“PIC 噪声 vs Vlasov 谱精度”的取舍，这篇是很好的对照文献。

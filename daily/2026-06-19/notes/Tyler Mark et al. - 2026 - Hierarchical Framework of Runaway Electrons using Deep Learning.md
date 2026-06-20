@@ -18,12 +18,12 @@
 
 ## 3. 与当前研究方向的关系
 - 相关性评分: 8/10；影响力评分: 7/10。
-- 这篇不在激光等离子体主线，但它是很标准的“AI/ML + plasma kinetics”案例。对于以后评估 PINN、operator learning 或 surrogate model 在强场/聚变/高能密度模拟中的价值，很适合作为一个质量不错的参照物。
+- 这篇不在激光等离子体主线，但它是很标准的“机器学习 + plasma kinetics”案例。对于以后评估 PINN、operator learning 或 surrogate model 在强场/聚变/高能密度模拟中的价值，很适合作为一个质量不错的参照物。
 
 ## 4. 可复现实验/仿真要点
 - 复现时最该查的是三类量：RE current、平均能量和完整能谱是否都能稳定逼近传统求解器；尤其要避免只在矩量上看起来准、但在分布尾部失真。
 - 如果要迁移到别的等离子体代理问题，这篇最值得借的是“伴随问题先行，再用 PINN 做层级代理”的方法论，而不是直接照搬 RE 专用变量定义。
 
 ## 5. 后续行动项
-- 这篇适合并入仓库里的“AI for plasma”线索，和 Grad-Shafranov neural operator、PIC-FNO、ICF inverse design 等条目放在一组比较。
-- 如果后面你更关心强场或 HEDP 场景，值得追踪的问题是：这种伴随 + PINN 分层框架能否迁移到辐射输运、QED 粒子分布或激光驱动快电子输运上。
+- 这篇适合并入仓库里的“机器学习用于 plasma”线索，和 Grad-Shafranov neural operator、PIC-FNO、ICF inverse design 等条目放在一组比较。
+- 如果后续更关心强场或 HEDP 问题，值得追踪的问题是：这种伴随 + PINN 分层框架能否迁移到辐射输运、QED 粒子分布或激光驱动快电子输运上。

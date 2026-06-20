@@ -1,4 +1,4 @@
-# 每日论文雷达 - 2026-06-15
+# 每日论文索引 - 2026-06-15
 
 ## 今日新增论文索引
 
@@ -13,7 +13,7 @@
 - DOI：https://doi.org/10.48550/arXiv.2606.08827
 - 真实发表日期：2026-06-07（arXiv submitted）
 - 来源链接：https://arxiv.org/abs/2606.08827
-- 与方向关系：把可微仿真、自动微分和神经网络参数化用于 ICF implosion 逆向设计，直接覆盖 AI/ML + HEDP/ICF。
+- 与方向关系：把可微仿真、自动微分和神经网络参数化用于 ICF implosion 逆向设计，直接覆盖 机器学习 + HEDP/ICF。
 
 ### 2) Conservative Charge and Current Deposition on Nonuniform 3D Cylindrical PIC Meshes with Residual Self-Field Diagnostics
 - 作者：Zhe Liu, Zhijun Zhou, Yinjian Zhao
@@ -42,7 +42,7 @@
 ## 检索与去重执行记录
 
 - 检索日期：2026-06-15。
-- 重点检索方向：激光等离子体、强场 QED、高能量密度物理、PIC，以及 AI/机器学习在上述方向中的应用。
+- 重点检索方向：激光等离子体、强场 QED、高能量密度物理、PIC，以及 机器学习在上述方向中的应用。
 - 优先来源：先检查 Cambridge HPL accepted manuscripts 等正式来源，未筛出比历史基线更强且明确非重复的新条目；随后转到 arXiv `physics.plasm-ph` 与 `physics.acc-ph` 当前列表，筛出 4 条新的高相关预印本。
 - 去重基线：`state/processed_articles.json` 与 `state/daily_retry_candidates.json`（运行前唯一 DOI/标题键合计按既有记法为 218 条）。
 - 本次新增候选：4 条，均未命中现有 processed/retry 台账；追加后唯一 DOI/标题键合计按既有记法为 222 条。

@@ -11,6 +11,6 @@
 - 中文笔记：[打开笔记](yearly/2021/notes/T. Kurz et al. et al. - 2021 - Demonstration of a compact plasma accelerator powered by laser-accelerated electron beams.md)
 - 本地 PDF：[本地路径](yearly/2021/pdfs/T. Kurz et al. et al. - 2021 - Demonstration of a compact plasma accelerator powered by laser-accelerated electron beams.pdf)
 
-## 阅读入口
+## 索引说明
 
-这页由 `scripts/build_indexes.py` 根据 `state/processed_articles.json` 自动生成，核心阅读内容以中文笔记为准。
+本页由 `scripts/build_indexes.py` 根据 `state/processed_articles.json` 自动生成；正文解读以中文笔记为准。

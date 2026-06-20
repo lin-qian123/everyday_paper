@@ -1,4 +1,4 @@
-# 每日论文雷达 - 2026-06-17
+# 每日论文索引 - 2026-06-17
 
 ## 今日新增论文索引
 
@@ -14,7 +14,7 @@
 - DOI：https://doi.org/10.48550/arXiv.2606.15687
 - 真实发表日期：2026-06-14（arXiv submitted）
 - 来源链接：https://arxiv.org/abs/2606.15687
-- 与方向关系：直接命中激光质子加速 + PIC + AI 优化。作者用 Bayesian optimization 驱动 2D PIC，在固定总能量下把双脉冲 TNSA 的截止能量从 7.7 MeV 推到 17.7 MeV。
+- 与方向关系：直接命中激光质子加速 + PIC + 机器学习优化。作者用 Bayesian optimization 驱动 2D PIC，在固定总能量下把双脉冲 TNSA 的截止能量从 7.7 MeV 推到 17.7 MeV。
 
 ### 2) On modeling energetic electrons in laser fusion plasmas
 - 作者：Wallace Manheimer
@@ -30,12 +30,12 @@
 - DOI：https://doi.org/10.48550/arXiv.2606.15512
 - 真实发表日期：2026-06-13（arXiv submitted）
 - 来源链接：https://arxiv.org/abs/2606.15512
-- 与方向关系：虽然更偏磁约束聚变，但它是很典型的 AI for plasma/fusion 方法论文，核心是跨装置迁移的 neural operator，对“可复用 surrogate”这条支线有参考价值。
+- 与方向关系：虽然更偏磁约束聚变，但它是很典型的 机器学习用于 plasma/fusion 方法论文，核心是跨装置迁移的 neural operator，对“可复用 surrogate”这条支线有参考价值。
 
 ## 检索与去重执行记录
 
 - 检索日期：2026-06-17。
-- 重点检索方向：激光等离子体、强场 QED、高能量密度物理、PIC，以及 AI / 机器学习在上述方向中的应用。
+- 重点检索方向：激光等离子体、强场 QED、高能量密度物理、PIC，以及 机器学习在上述方向中的应用。
 - 优先来源：先检查 Cambridge HPL accepted manuscripts 与 latest volume；确认页面可访问，但未筛出比当前基线更强的非重复正式来源增量。随后转向 arXiv `physics.plasm-ph` 新稿与相关 AI/fusion 检索结果。
 - 去重基线：`state/processed_articles.json` 与 `state/daily_retry_candidates.json`。
 - 本次新增候选：3 条，均未命中现有 processed/retry 台账。

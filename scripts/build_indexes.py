@@ -117,7 +117,7 @@ CATEGORIES = [
     },
     {
         "slug": "ai-ml-plasma-physics",
-        "title": "AI/机器学习与等离子体物理",
+        "title": "机器学习与等离子体物理",
         "description": "代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。",
         "keywords": [
             "machine learning",
@@ -297,9 +297,9 @@ def write_paper_pages(items: list[dict], category_by_slug: dict[str, dict]) -> N
             f"- 中文笔记：{md_link('打开笔记', str(note)) if note else '未生成'}",
             f"- 本地 PDF：{md_link('本地路径', str(pdf)) if pdf else '未补回或未跟踪'}",
             "",
-            "## 阅读入口",
+            "## 索引说明",
             "",
-            "这页由 `scripts/build_indexes.py` 根据 `state/processed_articles.json` 自动生成，核心阅读内容以中文笔记为准。",
+            "本页由 `scripts/build_indexes.py` 根据 `state/processed_articles.json` 自动生成；正文解读以中文笔记为准。",
             "",
         ]
         (paper_dir / "README.md").write_text("\n".join(lines), encoding="utf-8")
@@ -396,7 +396,7 @@ def write_daily_index() -> None:
     daily_dir = ROOT / "daily"
     days = sorted([p for p in daily_dir.iterdir() if p.is_dir()], reverse=True)
     lines = [
-        "# 每日论文雷达索引",
+        "# 每日论文索引",
         "",
         "每日目录保存当日新增论文、下载报告、中文笔记和运行结果。",
         "",
@@ -427,13 +427,13 @@ def write_root_index(items: list[dict], category_by_slug: dict[str, dict]) -> No
     lines = [
         "# everyday_paper 索引",
         "",
-        "面向激光等离子体、强场 QED、高能量密度物理、PIC、AI/ML 等方向的每日论文雷达。",
+        "激光等离子体、强场 QED、高能量密度物理、PIC、机器学习等方向的每日论文索引。",
         "",
-        "## 快速入口",
+        "## 索引文件",
         "",
         "- [分类索引](./categories/README.md)",
         "- [论文总索引](./papers/README.md)",
-        "- [每日雷达](./daily/README.md)",
+        "- [每日索引](./daily/README.md)",
         "- [年度回填](./yearly/index.md)",
         "- [项目 README](./README.md)",
         "- [开发记录 TODO](./TODO.md)",
@@ -474,4 +474,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

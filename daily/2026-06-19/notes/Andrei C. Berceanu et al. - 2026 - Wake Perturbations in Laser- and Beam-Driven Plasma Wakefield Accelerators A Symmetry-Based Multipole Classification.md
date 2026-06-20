@@ -26,4 +26,4 @@
 
 ## 5. 后续行动项
 - 这篇适合放在“LWFA/PWFA 束质控制”主线上，和近期脉冲整形、注入控制、surrogate proton spectrum prediction 一起读，会比单看某一篇局部机制更有组织性。
-- 如果后面要做 AI for accelerator optimization，这篇最后点到的 symmetry-equivariant Bayesian optimization 值得继续追踪，因为它提示了搜索空间可以直接按物理对称性压缩。
+- 如果后面要做 机器学习用于 accelerator optimization，这篇最后点到的 symmetry-equivariant Bayesian optimization 值得继续追踪，因为它提示了搜索空间可以直接按物理对称性压缩。

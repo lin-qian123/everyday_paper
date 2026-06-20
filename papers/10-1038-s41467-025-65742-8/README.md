@@ -11,6 +11,6 @@
 - 中文笔记：[打开笔记](daily/2026-03-21/notes/Zhang et al. - 2025 - Plasma-wakefield accelerator simultaneously boosts electron beam energy and brightness.md)
 - 本地 PDF：[本地路径](daily/2026-03-21/pdfs/Zhang et al. - 2025 - Plasma-wakefield accelerator simultaneously boosts electron beam energy and brightness.pdf)
 
-## 阅读入口
+## 索引说明
 
-这页由 `scripts/build_indexes.py` 根据 `state/processed_articles.json` 自动生成，核心阅读内容以中文笔记为准。
+本页由 `scripts/build_indexes.py` 根据 `state/processed_articles.json` 自动生成；正文解读以中文笔记为准。

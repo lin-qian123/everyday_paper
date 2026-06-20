@@ -19,7 +19,7 @@
 - 期刊 / 平台：Nature Communications
 - 影响因子分：`9/10`
 - 专业相似度分：`10/10`
-- 推荐理由：AI+plasma代表作。
+- 推荐理由：机器学习+plasma代表作。
 - 一句话总结：贝叶斯优化用于LWFA多参数自动控制，显著改善电子束与X射线输出。
 - 笔记文件：`notes/R. J. Shalloo et al. et al. - 2020 - Automation and control of laser wakefield accelerators using Bayesian optimization.md`
 

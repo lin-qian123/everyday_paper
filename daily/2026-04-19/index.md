@@ -1,4 +1,4 @@
-# 每日论文雷达 - 2026-04-19
+# 每日论文索引 - 2026-04-19
 
 ## 今日纳入论文索引
 
@@ -10,9 +10,9 @@
 - 来源链接：https://www.nature.com/articles/s41467-025-63917-x
 - PDF 文件名：`Wang et al. - 2025 - Learning plasma dynamics and robust rampdown trajectories with predict-first experiments at TCV.pdf`
 - 影响因子分：8/10（依据：Nature Communications 为高影响力综合期刊；该工作为等离子体控制方向的实验+算法结合）
-- 专业相似度分：8/10（AI/ML 与等离子体控制直接结合，虽非激光等离子体主线，但对“AI for plasma”高度相关）
+- 专业相似度分：8/10（机器学习 与等离子体控制直接结合，虽非激光等离子体主线，但对“机器学习用于 plasma”高度相关）
 - 推荐理由：把 SciML 神经状态空间模型与强化学习联用到 tokamak rampdown，体现了“数据驱动 + 物理约束 + 实验闭环”的可迁移范式。
-- 一句话总结：论文展示了可在少样本高性能工况下预测放电演化并设计更稳健轨迹的 AI 控制框架。
+- 一句话总结：论文展示了可在少样本高性能工况下预测放电演化并设计更稳健轨迹的 机器学习控制框架。
 
 ### 2) Direct observation of a wakefield generated with structured light
 - 作者：Aaron Liberman et al.
@@ -22,7 +22,7 @@
 - 来源链接：https://www.nature.com/articles/s41467-025-66056-5
 - PDF 文件名：`Liberman et al. - 2025 - Direct observation of a wakefield generated with structured light.pdf`
 - 影响因子分：8/10（依据：Nature Communications 高影响力；主题处于激光尾场加速前沿）
-- 专业相似度分：9/10（直接针对 laser-plasma wakefield 与结构光操控，核心贴合激光等离子体/PIC 场景）
+- 专业相似度分：9/10（直接针对 laser-plasma wakefield 与结构光操控，核心贴合激光等离子体/PIC 问题）
 - 推荐理由：给出结构光驱动 wakefield 的直接实验观测，对延迟去相位和超长加速长度设计具有直接参考价值。
 - 一句话总结：工作首次系统成像结构光产生的尾场并揭示其相速度与结构调控规律。
 
@@ -61,6 +61,6 @@
 - 对我当前研究最值得优先阅读的 1-3 篇论文及原因：
   - 1) `10.1038/s41467-025-66056-5`：最贴近激光尾场加速核心物理，直接影响后续 PIC 建模与实验方案；
   - 2) `10.1038/s41467-025-66535-9`：连接 LWFA 与 HEDP 应用平台，便于评估“源-诊断-应用”全链路可行性；
-  - 3) `10.1038/s41467-025-63917-x`：提供 AI for plasma 的可落地控制范式，可迁移到复杂放电阶段优化。
-- AI / 机器学习方法是否在相关方向出现新的结合点：
+  - 3) `10.1038/s41467-025-63917-x`：提供 机器学习用于 plasma 的可落地控制范式，可迁移到复杂放电阶段优化。
+- 机器学习方法是否在相关方向出现新的结合点：
   - 有。`10.1038/s41467-025-63917-x` 显示了“物理知识 + 小样本数据 + RL 轨迹优化”的融合路线，值得在激光等离子体实验参数优化与 surrogate 模型中借鉴。

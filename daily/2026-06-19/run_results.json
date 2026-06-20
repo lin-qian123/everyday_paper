@@ -86,7 +86,7 @@
       "topic": "束流等离子体不稳定性，PIC/Monte Carlo，等离子体加速相关束流动力学",
       "impact_score": 7,
       "similarity_score": 8,
-      "reason": "虽然场景偏电子束维持等离子体，但论文提出的新型 electrostatic hose 机制与束流-等离子体耦合、PIC 验证和尾场加速稳定性问题直接相通。",
+      "reason": "虽然问题偏电子束维持等离子体，但论文提出的新型 electrostatic hose 机制与束流-等离子体耦合、PIC 验证和尾场加速稳定性问题直接相通。",
       "summary": "发现一种由束流质心与撞击电离生成等离子体耦合触发的新型静电 hose 不稳定性，并给出线性理论和 PIC/Monte Carlo 验证。",
       "keywords": "beam-plasma instability、hose instability、PIC、Monte Carlo、electron beam"
     }
@@ -129,10 +129,10 @@
       "pdf_url": "https://arxiv.org/pdf/2606.12567.pdf",
       "publication_date": "2026-06-10",
       "journal": "arXiv 预印本（高相关补充）",
-      "topic": "AI/机器学习 + 聚变等离子体，runaway electrons，PINN",
+      "topic": "机器学习 + 聚变等离子体，runaway electrons，PINN",
       "impact_score": 7,
       "similarity_score": 8,
-      "reason": "直接覆盖 AI/ML 在等离子体动理学中的代理建模，用 PINN 加速 runaway electron 分布与矩量预测，适合和现有 fusion AI 线索并读。",
+      "reason": "直接覆盖 机器学习 在等离子体动理学中的代理建模，用 PINN 加速 runaway electron 分布与矩量预测，适合和现有 fusion AI 线索并读。",
       "summary": "把伴随公式和 PINN 结合成快速代理模型，用于预测 runaway electron 电流、平均能量和能谱演化。",
       "keywords": "runaway electrons、deep learning、PINN、adjoint、fusion plasma"
     }

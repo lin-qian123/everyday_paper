@@ -1,4 +1,4 @@
-# 每日论文雷达 - 2026-05-04
+# 每日论文索引 - 2026-05-04
 
 ## 今日新增论文索引
 
@@ -7,7 +7,7 @@
 ## 检索与去重执行记录
 
 - 检索日期：2026-05-04。
-- 重点检索方向：激光等离子体、强场 QED、高能量密度物理、PIC，以及 AI/机器学习在这些方向中的应用。
+- 重点检索方向：激光等离子体、强场 QED、高能量密度物理、PIC，以及 机器学习在这些方向中的应用。
 - 主要检索来源：Nature 系列（含 Nature Communications / Scientific Reports / Nature Reviews Physics）、APS、ScienceDirect、arXiv（仅作正式来源不足时补充）。
 - 去重基线：`state/processed_articles.json` 与 `state/daily_retry_candidates.json`。
 - 结果：检索到的高相关候选中，近期条目均已在历史运行中处理或进入失败重试队列；今天没有新的未入库论文。

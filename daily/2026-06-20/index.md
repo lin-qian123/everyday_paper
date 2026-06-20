@@ -1,4 +1,4 @@
-# 每日论文雷达 - 2026-06-20
+# 每日论文索引 - 2026-06-20
 
 ## 今日新增论文索引
 
@@ -22,7 +22,7 @@
 - DOI：https://doi.org/10.48550/arXiv.2606.19523
 - 真实发表日期：2026-06-17（arXiv submitted）
 - 来源链接：https://arxiv.org/abs/2606.19523
-- 与方向关系：属于 AI / 机器学习在聚变等离子体优化中的高质量方法论文。它把数据驱动参数化、降维和 Bayesian optimization 直接接到 alpha-particle confinement 设计环路上，和你关注的“物理约束下的智能优化”高度一致。
+- 与方向关系：属于 机器学习在聚变等离子体优化中的高质量方法论文。它把数据驱动参数化、降维和 Bayesian optimization 直接接到 alpha-particle confinement 设计环路上，和本仓库关注的“物理约束下的智能优化”高度一致。
 
 ### 3) Caustic-Driven Fluidic Microlenses for Enhanced Nonlinear and High-Energy-Density Physics
 - 作者：Sourabh Singh, S. Sree Harsha, Tamanna, Prashant Kumar Singh
@@ -35,7 +35,7 @@
 ## 检索与去重执行记录
 
 - 检索日期：2026-06-20。
-- 重点检索方向：激光等离子体、强场 QED、高能量密度物理、PIC，以及 AI / 机器学习在上述方向中的应用。
+- 重点检索方向：激光等离子体、强场 QED、高能量密度物理、PIC，以及 机器学习在上述方向中的应用。
 - 优先来源：先复查 Cambridge HPL latest volume / accepted manuscripts 与 JPP recent 页面；确认页面可访问，但本轮没有筛到比当前基线更强且明确非重复的正式来源增量。随后转向 arXiv `physics.plasm-ph` / `physics.acc-ph` 近两日新稿。
 - 去重基线：`state/processed_articles.json` 与 `state/daily_retry_candidates.json`。
 - 本次新增候选：3 条，均未命中现有 processed/retry 台账。
@@ -65,5 +65,5 @@
 
 ## 当日总结
 
-- 今天补入 3 条高相关论文，分别覆盖波导去相位 LWFA、新型数据驱动 stellarator alpha-particle confinement 优化，以及适合高重复频 HEDP 场景的液体微透镜局域吸收方案。
+- 今天补入 3 条高相关论文，分别覆盖波导去相位 LWFA、新型数据驱动 stellarator alpha-particle confinement 优化，以及适合高重复频 HEDP 问题的液体微透镜局域吸收方案。
 - 今天最值得优先读的是 `2606.20298`，因为它不只是给出新的激光脉冲构造技巧，而是直接把 LWFA 的核心 dephasing 限制改写成可设计的波导模工程问题，并且已有 scaling law 和 quasi-3D PIC 支撑。

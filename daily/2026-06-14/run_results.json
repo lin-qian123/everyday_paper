@@ -44,7 +44,7 @@
       "source_url": "https://arxiv.org/abs/2606.04887",
       "publication_date": "2026-06-03",
       "journal": "arXiv 预印本（高相关补充）",
-      "topic": "低阶方位角不稳定性场景下的 reduced-order PIC"
+      "topic": "低阶方位角不稳定性问题下的 reduced-order PIC"
     },
     {
       "doi": "10.48550/arXiv.2606.06210",
@@ -52,7 +52,7 @@
       "source_url": "https://arxiv.org/abs/2606.06210",
       "publication_date": "2026-06-04",
       "journal": "arXiv 预印本（高相关补充）",
-      "topic": "AI/ML 预测 laser-ion acceleration 连续质子能谱"
+      "topic": "机器学习 预测 laser-ion acceleration 连续质子能谱"
     }
   ],
   "download_attempts": [
