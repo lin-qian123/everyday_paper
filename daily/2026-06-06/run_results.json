@@ -1,0 +1,69 @@
+{
+  "date": "2026-06-06",
+  "dedup_unique_doi_keys": 88,
+  "source_connectivity_checks": [],
+  "new_candidates": [
+    {
+      "doi": "10.1038/s41598-026-35800-2",
+      "title": "Enhanced terahertz radiation generation by phase-controlled two-color laser pulses interacting with an under-dense plasma",
+      "source_url": "https://www.nature.com/articles/s41598-026-35800-2",
+      "publication_date": "2026-02-14",
+      "journal": "Scientific Reports（正式期刊，Open Access）",
+      "topic": "两色激光与欠密等离子体相互作用 + THz 产生增强 + 激光等离子体辐射诊断"
+    },
+    {
+      "doi": "10.1017/hpl.2026.10149",
+      "title": "Multi-pulse and multi-angle ultrafast X-ray imaging driven by petawatt-class ultrafast laser pulses",
+      "source_url": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/multipulse-and-multiangle-ultrafast-xray-imaging-driven-by-petawattclass-ultrafast-laser-pulses/377C4FD30BE9B10679E9462699301DDE",
+      "publication_date": "2026-05-15",
+      "journal": "High Power Laser Science and Engineering（Accepted manuscript，官方已接收）",
+      "topic": "拍瓦级超快激光 + 多脉冲多角度超快 X 射线成像 + FBPIC/Geant4 支撑 HED/ICF 诊断"
+    },
+    {
+      "doi": "",
+      "title": "Dual-picosecond-laser-driven generation of MV/m giant electromagnetic pulses",
+      "source_url": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/dualpicosecondlaserdriven-generation-of-mvm-giant-electromagnetic-pulses/7455A103DE0717CC117130D01914BF65",
+      "publication_date": "2026-05-19",
+      "journal": "High Power Laser Science and Engineering（Accepted manuscript，官方已接收）",
+      "topic": "双皮秒激光驱动 EMP 产生 + 热电子扩展关联 + 激光等离子体设施诊断与 PIC 验证"
+    }
+  ],
+  "download_attempts": [
+    {
+      "doi": "10.1038/s41598-026-35800-2",
+      "title": "Enhanced terahertz radiation generation by phase-controlled two-color laser pulses interacting with an under-dense plasma",
+      "cmd": "python3 scripts/safe_pdf_download.py --url https://www.nature.com/articles/s41598-026-35800-2.pdf --url https://www.nature.com/articles/s41598-026-35800-2 --doi 10.1038/s41598-026-35800-2 --output '/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-06/pdfs/K. P. Anjana et al. - 2026 - Enhanced terahertz radiation generation by phase-controlled two-color laser pulses interacting with an under-dense plasma.pdf'",
+      "returncode": 1,
+      "stdout": "",
+      "stderr": "Failed to download PDF. Attempts:\n- [env-proxy] https://www.nature.com/articles/s41598-026-35800-2.pdf -> URLError: <urlopen error [Errno 1] Operation not permitted>\n- [direct] https://www.nature.com/articles/s41598-026-35800-2.pdf -> URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>\n- [env-proxy] https://www.nature.com/articles/s41598-026-35800-2 -> URLError: <urlopen error [Errno 1] Operation not permitted>\n- [direct] https://www.nature.com/articles/s41598-026-35800-2 -> URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>\n- [env-proxy] https://doi.org/10.1038/s41598-026-35800-2 -> URLError: <urlopen error [Errno 1] Operation not permitted>\n- [direct] https://doi.org/10.1038/s41598-026-35800-2 -> URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>\n",
+      "output_pdf": "daily/2026-06-06/pdfs/K. P. Anjana et al. - 2026 - Enhanced terahertz radiation generation by phase-controlled two-color laser pulses interacting with an under-dense plasma.pdf",
+      "attempted_at": "2026-06-06T09:04:59+0800"
+    },
+    {
+      "doi": "10.1017/hpl.2026.10149",
+      "title": "Multi-pulse and multi-angle ultrafast X-ray imaging driven by petawatt-class ultrafast laser pulses",
+      "cmd": "python3 scripts/safe_pdf_download.py --url https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/multipulse-and-multiangle-ultrafast-xray-imaging-driven-by-petawattclass-ultrafast-laser-pulses/377C4FD30BE9B10679E9462699301DDE --doi 10.1017/hpl.2026.10149 --output '/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-06/pdfs/Hong Zhang et al. - 2026 - Multi-pulse and multi-angle ultrafast X-ray imaging driven by petawatt-class ultrafast laser pulses.pdf'",
+      "returncode": 1,
+      "stdout": "",
+      "stderr": "Failed to download PDF. Attempts:\n- [env-proxy] https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/multipulse-and-multiangle-ultrafast-xray-imaging-driven-by-petawattclass-ultrafast-laser-pulses/377C4FD30BE9B10679E9462699301DDE -> URLError: <urlopen error [Errno 1] Operation not permitted>\n- [direct] https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/multipulse-and-multiangle-ultrafast-xray-imaging-driven-by-petawattclass-ultrafast-laser-pulses/377C4FD30BE9B10679E9462699301DDE -> URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>\n- [env-proxy] https://doi.org/10.1017/hpl.2026.10149 -> URLError: <urlopen error [Errno 1] Operation not permitted>\n- [direct] https://doi.org/10.1017/hpl.2026.10149 -> URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>\n",
+      "output_pdf": "daily/2026-06-06/pdfs/Hong Zhang et al. - 2026 - Multi-pulse and multi-angle ultrafast X-ray imaging driven by petawatt-class ultrafast laser pulses.pdf",
+      "attempted_at": "2026-06-06T09:04:59+0800"
+    },
+    {
+      "doi": "",
+      "title": "Dual-picosecond-laser-driven generation of MV/m giant electromagnetic pulses",
+      "cmd": "python3 scripts/safe_pdf_download.py --url https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/dualpicosecondlaserdriven-generation-of-mvm-giant-electromagnetic-pulses/7455A103DE0717CC117130D01914BF65 --output '/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-06/pdfs/Aihui Niu et al. - 2026 - Dual-picosecond-laser-driven generation of MV-m giant electromagnetic pulses.pdf'",
+      "returncode": 1,
+      "stdout": "",
+      "stderr": "Failed to download PDF. Attempts:\n- [env-proxy] https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/dualpicosecondlaserdriven-generation-of-mvm-giant-electromagnetic-pulses/7455A103DE0717CC117130D01914BF65 -> URLError: <urlopen error [Errno 1] Operation not permitted>\n- [direct] https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/dualpicosecondlaserdriven-generation-of-mvm-giant-electromagnetic-pulses/7455A103DE0717CC117130D01914BF65 -> URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>\n",
+      "output_pdf": "daily/2026-06-06/pdfs/Aihui Niu et al. - 2026 - Dual-picosecond-laser-driven generation of MV-m giant electromagnetic pulses.pdf",
+      "attempted_at": "2026-06-06T09:04:59+0800"
+    }
+  ],
+  "notes_generated": [],
+  "state_update": {
+    "processed_articles_json": "unchanged",
+    "daily_retry_candidates_json": "appended_3"
+  },
+  "blocked_reason": "Outbound network egress remains blocked in the current runtime: env-proxy requests fail with Operation not permitted and direct requests fail with DNS resolution errors."
+}

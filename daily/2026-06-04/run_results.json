@@ -1,0 +1,71 @@
+{
+  "date": "2026-06-04",
+  "dedup_unique_doi_keys": 82,
+  "source_connectivity_checks": [],
+  "new_candidates": [
+    {
+      "doi": "10.1016/j.future.2025.108087",
+      "title": "A hybrid quantum-classical particle-in-cell method for plasma simulations",
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S0167739X25003814",
+      "publication_date": "2026-02",
+      "journal": "Future Generation Computer Systems（正式期刊，Open Access）",
+      "topic": "PIC 数值方法 + 混合量子经典求解器 + 物理约束机器学习"
+    },
+    {
+      "doi": "10.1016/j.hedp.2025.101256",
+      "title": "Enhanced plasma heating by interaction with high-contrast laser and cone-shaped target",
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S1574181825000849",
+      "publication_date": "2026-03",
+      "journal": "High Energy Density Physics（正式期刊）",
+      "topic": "高能量密度物理 + 高对比度激光加热 + 快点火/惯性约束聚变相关"
+    },
+    {
+      "doi": "10.1016/j.cpc.2026.110140",
+      "title": "Simulating ultrarelativistic beam-plasma instabilities with a quasistatic particle-in-cell code",
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S0010465526001220",
+      "publication_date": "2026-03-25",
+      "journal": "Computer Physics Communications（正式期刊，Online first）",
+      "topic": "束流-等离子体不稳定性 + 准静态 PIC + 激光/等离子体尾场加速建模"
+    }
+  ],
+  "download_attempts": [
+    {
+      "doi": "10.1016/j.future.2025.108087",
+      "title": "A hybrid quantum-classical particle-in-cell method for plasma simulations",
+      "cmd": "python scripts/safe_pdf_download.py --url https://www.sciencedirect.com/science/article/pii/S0167739X25003814/pdfft --url https://www.sciencedirect.com/science/article/pii/S0167739X25003814 --doi 10.1016/j.future.2025.108087 --output '/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-04/pdfs/Pratibha Raghupati Hegde et al. - 2026 - A hybrid quantum-classical particle-in-cell method for plasma simulations.pdf'",
+      "returncode": 1,
+      "stdout": "",
+      "stderr": "Failed to download PDF. Attempts:\n- [env-proxy] https://www.sciencedirect.com/science/article/pii/S0167739X25003814/pdfft -> URLError: <urlopen error [Errno 1] Operation not permitted>\n- [direct] https://www.sciencedirect.com/science/article/pii/S0167739X25003814/pdfft -> URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>\n- [env-proxy] https://www.sciencedirect.com/science/article/pii/S0167739X25003814 -> URLError: <urlopen error [Errno 1] Operation not permitted>\n- [direct] https://www.sciencedirect.com/science/article/pii/S0167739X25003814 -> URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>\n- [env-proxy] https://doi.org/10.1016/j.future.2025.108087 -> URLError: <urlopen error [Errno 1] Operation not permitted>\n- [direct] https://doi.org/10.1016/j.future.2025.108087 -> URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>\n",
+      "output_pdf": "daily/2026-06-04/pdfs/Pratibha Raghupati Hegde et al. - 2026 - A hybrid quantum-classical particle-in-cell method for plasma simulations.pdf"
+    },
+    {
+      "doi": "10.1016/j.hedp.2025.101256",
+      "title": "Enhanced plasma heating by interaction with high-contrast laser and cone-shaped target",
+      "cmd": "python scripts/safe_pdf_download.py --url https://www.sciencedirect.com/science/article/pii/S1574181825000849/pdfft --url https://www.sciencedirect.com/science/article/pii/S1574181825000849 --doi 10.1016/j.hedp.2025.101256 --output '/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-04/pdfs/Yuga Karaki et al. - 2026 - Enhanced plasma heating by interaction with high-contrast laser and cone-shaped target.pdf'",
+      "returncode": 1,
+      "stdout": "",
+      "stderr": "Failed to download PDF. Attempts:\n- [env-proxy] https://www.sciencedirect.com/science/article/pii/S1574181825000849/pdfft -> URLError: <urlopen error [Errno 1] Operation not permitted>\n- [direct] https://www.sciencedirect.com/science/article/pii/S1574181825000849/pdfft -> URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>\n- [env-proxy] https://www.sciencedirect.com/science/article/pii/S1574181825000849 -> URLError: <urlopen error [Errno 1] Operation not permitted>\n- [direct] https://www.sciencedirect.com/science/article/pii/S1574181825000849 -> URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>\n- [env-proxy] https://doi.org/10.1016/j.hedp.2025.101256 -> URLError: <urlopen error [Errno 1] Operation not permitted>\n- [direct] https://doi.org/10.1016/j.hedp.2025.101256 -> URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>\n",
+      "output_pdf": "daily/2026-06-04/pdfs/Yuga Karaki et al. - 2026 - Enhanced plasma heating by interaction with high-contrast laser and cone-shaped target.pdf"
+    },
+    {
+      "doi": "10.1016/j.cpc.2026.110140",
+      "title": "Simulating ultrarelativistic beam-plasma instabilities with a quasistatic particle-in-cell code",
+      "cmd": "python scripts/safe_pdf_download.py --url https://www.sciencedirect.com/science/article/pii/S0010465526001220/pdfft --url https://www.sciencedirect.com/science/article/pii/S0010465526001220 --doi 10.1016/j.cpc.2026.110140 --output '/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-04/pdfs/Article authors - 2026 - Simulating ultrarelativistic beam-plasma instabilities with a quasistatic particle-in-cell code.pdf'",
+      "returncode": 1,
+      "stdout": "",
+      "stderr": "Failed to download PDF. Attempts:\n- [env-proxy] https://www.sciencedirect.com/science/article/pii/S0010465526001220/pdfft -> URLError: <urlopen error [Errno 1] Operation not permitted>\n- [direct] https://www.sciencedirect.com/science/article/pii/S0010465526001220/pdfft -> URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>\n- [env-proxy] https://www.sciencedirect.com/science/article/pii/S0010465526001220 -> URLError: <urlopen error [Errno 1] Operation not permitted>\n- [direct] https://www.sciencedirect.com/science/article/pii/S0010465526001220 -> URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>\n- [env-proxy] https://doi.org/10.1016/j.cpc.2026.110140 -> URLError: <urlopen error [Errno 1] Operation not permitted>\n- [direct] https://doi.org/10.1016/j.cpc.2026.110140 -> URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>\n",
+      "output_pdf": "daily/2026-06-04/pdfs/Article authors - 2026 - Simulating ultrarelativistic beam-plasma instabilities with a quasistatic particle-in-cell code.pdf"
+    }
+  ],
+  "notes_generated": [],
+  "state_update": {
+    "processed_articles_appended": 0,
+    "retry_candidates_appended": 3,
+    "dedup_basis": [
+      "state/processed_articles.json",
+      "state/daily_retry_candidates.json"
+    ],
+    "dedup_unique_keys": 85
+  },
+  "blocked_reason": "Official-source metadata was confirmed, but external network egress in the local runtime still blocks PDF download and validation."
+}

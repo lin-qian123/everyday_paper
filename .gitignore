@@ -1,0 +1,14 @@
+.DS_Store
+._*
+.__*
+
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Keep the GitHub repository browseable and lightweight. The Markdown notes,
+# metadata, download reports, and local PDF paths remain tracked.
+daily/*/pdfs/*.pdf
+yearly/*/pdfs/*.pdf
+

@@ -1,0 +1,27 @@
+# 实验平台、靶设计与诊断
+
+高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
+
+- 当前收录：18 篇
+- 索引更新时间：2026-06-20
+
+| 入库日期 | 论文 | 期刊/平台 | 笔记 |
+| --- | --- | --- | --- |
+| 2026-06-20 | [Caustic-Driven Fluidic Microlenses for Enhanced Nonlinear and High-Energy-Density Physics](../papers/arxiv-2606-20125/README.md) | arXiv 预印本（高相关补充） | [笔记](../daily/2026-06-20/notes/Sourabh Singh et al. - 2026 - Caustic-Driven Fluidic Microlenses for Enhanced Nonlinear and High-Energy-Density Physics.md) |
+| 2026-06-18 | [Ultrashort Pulse Train Generation on a 100TW Laser Beamline Using a Delay Mask After the Final Focusing Optics](../papers/arxiv-2606-13183/README.md) | arXiv 预印本（高相关补充） | [笔记](../daily/2026-06-18/notes/David Gregocki et al. - 2026 - Ultrashort Pulse Train Generation on a 100TW Laser Beamline Using a Delay Mask After the Final Focusing Optics.md) |
+| 2026-06-17 | [Bayesian optimization of double-pulse temporal shaping for enhanced target-normal-sheath proton acceleration under fixed laser energy](../papers/arxiv-2606-15687/README.md) | arXiv 预印本（高相关补充） | [笔记](../daily/2026-06-17/notes/Chengqi Zhang et al. - 2026 - Bayesian optimization of double-pulse temporal shaping for enhanced target-normal-sheath proton acceleration under fixed laser energy.md) |
+| 2026-06-15 | [Conservative Charge and Current Deposition on Nonuniform 3D Cylindrical PIC Meshes with Residual Self-Field Diagnostics](../papers/arxiv-2606-09168/README.md) | arXiv 预印本（高相关补充） | [笔记](../daily/2026-06-15/notes/Zhe Liu et al. - 2026 - Conservative Charge and Current Deposition on Nonuniform 3D Cylindrical PIC Meshes with Residual Self-Field Diagnostics.md) |
+| 2026-06-15 | [Optimization of EUV output by experimentally validated radiation-hydrodynamic simulations across a broad laser parameter space](../papers/arxiv-2606-05948/README.md) | arXiv 预印本（高相关补充） | [笔记](../daily/2026-06-15/notes/Nozomi Tanaka et al. - 2026 - Optimization of EUV output by experimentally validated radiation-hydrodynamic simulations across a broad laser parameter space.md) |
+| 2026-06-14 | [Electron injection and acceleration into laser-driven wakefield from a solid overdense plasma target](../papers/arxiv-2606-02454/README.md) | arXiv 预印本（高相关补充） | [笔记](../daily/2026-06-14/notes/M. Caetano de Sousa et al. - 2026 - Electron injection and acceleration into laser-driven wakefield from a solid overdense plasma target.md) |
+| 2026-06-14 | [Supersonic gas jet catcher system for differential pumping in laser plasma interaction experiments](../papers/10-1017-hpl-2026-10148/README.md) | High Power Laser Science and Engineering | [笔记](../daily/2026-06-14/notes/S. Lorenz et al. - 2026 - Supersonic gas jet catcher system for differential pumping in laser plasma interaction experiments.md) |
+| 2026-06-11 | [Design of experiments characterising heat conduction in magnetised, weakly collisional plasma](../papers/10-1017-hpl-2026-10152/README.md) | High Power Laser Science and Engineering（Accepted manuscript，官方已接收） | 未生成 |
+| 2026-06-11 | [Suppression and Enhancement of Electromagnetic Pulses from Laser-Target Interactions by Strong Magnetic Fields](../papers/10-1017-hpl-2026-10147/README.md) | High Power Laser Science and Engineering（Accepted manuscript，官方已接收） | 未生成 |
+| 2026-06-08 | [Experimental investigation of SRS and SBS growth in thick and exploded foil targets in smoothed and unsmoothed beam interactions](../papers/experimental-investigation-of-srs-and-sbs-growth-in-thick-and-exploded-foil-targets-in-smoothed-/README.md) | High Power Laser Science and Engineering（Accepted manuscript，官方已接收） | 未生成 |
+| 2026-06-08 | [High-repetition-rate, all-reflective optical guiding and electron acceleration in helium using an off-axis axicon](../papers/10-1017-hpl-2026-10154/README.md) | High Power Laser Science and Engineering（Accepted manuscript，官方已接收） | 未生成 |
+| 2026-06-06 | [FusionMAE, a self-supervised pretrained model to optimize and simplify diagnostic and control of fusion plasma](../papers/10-1038-s42005-026-02626-3/README.md) | Communications Physics（正式期刊） | 未生成 |
+| 2026-06-06 | [Femtosecond laser-driven ultrafast X-ray dynamics experimental station](../papers/10-11884-hplpb202638-250382/README.md) | High Power Laser and Particle Beams（正式期刊） | 未生成 |
+| 2026-06-06 | [ARISE: an algorithm for rapid ion spectrum extraction enabling real-time optimisation in high-repetition-rate laser-driven ion acceleration](../papers/10-1017-hpl-2025-10083/README.md) | High Power Laser Science and Engineering（正式期刊） | 未生成 |
+| 2026-06-06 | [Multi-PW laser-driven proton acceleration using a plasma-lens target](../papers/10-1038-s41598-025-29793-7/README.md) | Scientific Reports（正式期刊） | 未生成 |
+| 2026-04-19 | [Learning plasma dynamics and robust rampdown trajectories with predict-first experiments at TCV](../papers/10-1038-s41467-025-63917-x/README.md) | Nature Communications | 未生成 |
+| 2026-03-22 | [Experimental Signatures of the Quantum Nature of Radiation Reaction in the Field of an Ultraintense Laser](../papers/10-1103-physrevx-8-031004/README.md) | Physical Review X | [笔记](../yearly/2018/notes/K. Poder et al. - 2018 - Experimental Signatures of the Quantum Nature of Radiation Reaction in the Field of an Ultraint.md) |
+| 2026-03-22 | [Plasma holograms for ultrahigh-intensity optics](../papers/10-1038-nphys4007/README.md) | Nature Physics | [笔记](../yearly/2017/notes/A. Leblanc et al. - 2017 - Plasma holograms for ultrahigh-intensity optics.md) |

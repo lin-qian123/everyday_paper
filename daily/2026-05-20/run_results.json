@@ -1,0 +1,44 @@
+{
+  "date": "2026-05-20",
+  "dedup_unique_doi_keys": 74,
+  "source_connectivity_checks": [],
+  "new_candidates": [
+    {
+      "doi": "10.48550/arXiv.2604.25823",
+      "title": "Revealing Laser and Electron Beam Evolution in 10-GeV-class Laser-Plasma Accelerators",
+      "source_url": "https://arxiv.org/abs/2604.25823",
+      "publication_date": "2026-04-28",
+      "journal": "arXiv (preprint)",
+      "topic": "Laser-plasma accelerator + diagnostics + simulation constraints"
+    },
+    {
+      "doi": "10.48550/arXiv.2604.20672",
+      "title": "Attosecond Nonlinear Quantum Electrodynamics in Laser-Driven Plasmas via Two-Photon Synchrotron Emission",
+      "source_url": "https://arxiv.org/abs/2604.20672",
+      "publication_date": "2026-04-22",
+      "journal": "arXiv (preprint)",
+      "topic": "Strong-field QED + laser-plasma + attosecond photon-pair emission"
+    }
+  ],
+  "download_attempts": [
+    {
+      "doi": "10.48550/arXiv.2604.25823",
+      "title": "Revealing Laser and Electron Beam Evolution in 10-GeV-class Laser-Plasma Accelerators",
+      "cmd": "python scripts/safe_pdf_download.py --url https://arxiv.org/pdf/2604.25823.pdf --url https://arxiv.org/abs/2604.25823 --doi 10.48550/arXiv.2604.25823 --output /Volumes/PHILIPS/programs/everyday_paper/daily/2026-05-20/pdfs/arXiv authors - 2026 - Revealing Laser and Electron Beam Evolution in 10-GeV-class Laser-Plasma Accelerators.pdf",
+      "returncode": 1,
+      "stdout": "",
+      "stderr": "Failed to download PDF. Attempts:\n- [env-proxy] https://arxiv.org/pdf/2604.25823.pdf -> URLError: <urlopen error [Errno 1] Operation not permitted>\n- [direct] https://arxiv.org/pdf/2604.25823.pdf -> URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>\n- [env-proxy] https://arxiv.org/abs/2604.25823 -> URLError: <urlopen error [Errno 1] Operation not permitted>\n- [direct] https://arxiv.org/abs/2604.25823 -> URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>\n- [env-proxy] https://doi.org/10.48550/arXiv.2604.25823 -> URLError: <urlopen error [Errno 1] Operation not permitted>\n- [direct] https://doi.org/10.48550/arXiv.2604.25823 -> URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>\n",
+      "output_pdf": "daily/2026-05-20/pdfs/arXiv authors - 2026 - Revealing Laser and Electron Beam Evolution in 10-GeV-class Laser-Plasma Accelerators.pdf"
+    },
+    {
+      "doi": "10.48550/arXiv.2604.20672",
+      "title": "Attosecond Nonlinear Quantum Electrodynamics in Laser-Driven Plasmas via Two-Photon Synchrotron Emission",
+      "cmd": "python scripts/safe_pdf_download.py --url https://arxiv.org/pdf/2604.20672.pdf --url https://arxiv.org/abs/2604.20672 --doi 10.48550/arXiv.2604.20672 --output /Volumes/PHILIPS/programs/everyday_paper/daily/2026-05-20/pdfs/arXiv authors - 2026 - Attosecond Nonlinear Quantum Electrodynamics in Laser-Driven Plasmas via Two-Photon Synchrotron Emission.pdf",
+      "returncode": 1,
+      "stdout": "",
+      "stderr": "Failed to download PDF. Attempts:\n- [env-proxy] https://arxiv.org/pdf/2604.20672.pdf -> URLError: <urlopen error [Errno 1] Operation not permitted>\n- [direct] https://arxiv.org/pdf/2604.20672.pdf -> URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>\n- [env-proxy] https://arxiv.org/abs/2604.20672 -> URLError: <urlopen error [Errno 1] Operation not permitted>\n- [direct] https://arxiv.org/abs/2604.20672 -> URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>\n- [env-proxy] https://doi.org/10.48550/arXiv.2604.20672 -> URLError: <urlopen error [Errno 1] Operation not permitted>\n- [direct] https://doi.org/10.48550/arXiv.2604.20672 -> URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>\n",
+      "output_pdf": "daily/2026-05-20/pdfs/arXiv authors - 2026 - Attosecond Nonlinear Quantum Electrodynamics in Laser-Driven Plasmas via Two-Photon Synchrotron Emission.pdf"
+    }
+  ],
+  "notes_generated": []
+}

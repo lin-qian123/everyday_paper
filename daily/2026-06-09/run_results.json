@@ -1,0 +1,71 @@
+{
+  "date": "2026-06-09",
+  "dedup_unique_doi_keys": 190,
+  "new_candidates": [
+    {
+      "doi": "10.1017/S0022377825101050",
+      "title": "Data-driven model order reduction for accelerating boundary plasma turbulence simulations",
+      "source_url": "https://www.cambridge.org/core/product/D2265426E60D45572203017E81913120",
+      "publication_date": "2026-02-05",
+      "journal": "Journal of Plasma Physics（正式期刊，Open Access）",
+      "topic": "AI/ML reduced-order model 加速边界等离子体湍流模拟"
+    },
+    {
+      "doi": "10.1017/hpl.2026.10152",
+      "title": "Design of experiments characterising heat conduction in magnetised, weakly collisional plasma",
+      "source_url": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/accepted-manuscripts",
+      "publication_date": "2026-05-12",
+      "journal": "High Power Laser Science and Engineering（Accepted manuscript，官方已接收）",
+      "topic": "磁化弱碰撞等离子体热传导实验设计 + FLASH/HEDP + ICF 相关输运物理"
+    },
+    {
+      "doi": "10.1017/hpl.2026.10147",
+      "title": "Suppression and Enhancement of Electromagnetic Pulses from Laser-Target Interactions by Strong Magnetic Fields",
+      "source_url": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/accepted-manuscripts",
+      "publication_date": "2026-05-05",
+      "journal": "High Power Laser Science and Engineering（Accepted manuscript，官方已接收）",
+      "topic": "强磁场下激光靶相互作用 EMP 抑制/增强 + 激光等离子体设施诊断"
+    }
+  ],
+  "download_attempts": [
+    {
+      "doi": "10.1017/S0022377825101050",
+      "title": "Data-driven model order reduction for accelerating boundary plasma turbulence simulations",
+      "cmd": "python3 scripts/safe_pdf_download.py --url https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D2265426E60D45572203017E81913120/S0022377825101050a.pdf/datadriven_model_order_reduction_for_accelerating_boundary_plasma_turbulence_simulations.pdf --url https://www.cambridge.org/core/product/D2265426E60D45572203017E81913120 --doi 10.1017/S0022377825101050 --output \"daily/2026-06-09/pdfs/Andreas Solheim et al. - 2026 - Data-driven model order reduction for accelerating boundary plasma turbulence simulations.pdf\"",
+      "returncode": 1,
+      "stdout": "",
+      "stderr": "Failed to download PDF. Attempts:\n- [env-proxy] https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D2265426E60D45572203017E81913120/S0022377825101050a.pdf/datadriven_model_order_reduction_for_accelerating_boundary_plasma_turbulence_simulations.pdf -> curl: curl: (7) Failed to connect to 127.0.0.1 port 1087 after 0 ms: Couldn't connect to server\n- [direct] https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D2265426E60D45572203017E81913120/S0022377825101050a.pdf/datadriven_model_order_reduction_for_accelerating_boundary_plasma_turbulence_simulations.pdf -> curl: curl: (6) Could not resolve host: www.cambridge.org\n- [env-proxy] https://www.cambridge.org/core/product/D2265426E60D45572203017E81913120 -> curl: curl: (7) Failed to connect to 127.0.0.1 port 1087 after 0 ms: Couldn't connect to server\n- [direct] https://www.cambridge.org/core/product/D2265426E60D45572203017E81913120 -> curl: curl: (6) Could not resolve host: www.cambridge.org\n- [env-proxy] https://doi.org/10.1017/S0022377825101050 -> curl: curl: (7) Failed to connect to 127.0.0.1 port 1087 after 0 ms: Couldn't connect to server\n- [direct] https://doi.org/10.1017/S0022377825101050 -> curl: curl: (6) Could not resolve host: doi.org\n",
+      "output_pdf": "daily/2026-06-09/pdfs/Andreas Solheim et al. - 2026 - Data-driven model order reduction for accelerating boundary plasma turbulence simulations.pdf",
+      "attempted_at": "2026-06-09T09:07:02+08:00",
+      "failure_class": "runtime_proxy_blocked"
+    },
+    {
+      "doi": "10.1017/hpl.2026.10152",
+      "title": "Design of experiments characterising heat conduction in magnetised, weakly collisional plasma",
+      "cmd": "python3 scripts/safe_pdf_download.py --url https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/accepted-manuscripts --doi 10.1017/hpl.2026.10152 --output \"daily/2026-06-09/pdfs/T. A. Vincent et al. - 2026 - Design of experiments characterising heat conduction in magnetised weakly collisional plasma.pdf\"",
+      "returncode": 1,
+      "stdout": "",
+      "stderr": "Failed to download PDF. Attempts:\n- [env-proxy] https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/accepted-manuscripts -> curl: curl: (7) Failed to connect to 127.0.0.1 port 1087 after 0 ms: Couldn't connect to server\n- [direct] https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/accepted-manuscripts -> curl: curl: (6) Could not resolve host: www.cambridge.org\n- [env-proxy] https://doi.org/10.1017/hpl.2026.10152 -> curl: curl: (7) Failed to connect to 127.0.0.1 port 1087 after 0 ms: Couldn't connect to server\n- [direct] https://doi.org/10.1017/hpl.2026.10152 -> curl: curl: (6) Could not resolve host: doi.org\n",
+      "output_pdf": "daily/2026-06-09/pdfs/T. A. Vincent et al. - 2026 - Design of experiments characterising heat conduction in magnetised weakly collisional plasma.pdf",
+      "attempted_at": "2026-06-09T09:07:02+08:00",
+      "failure_class": "runtime_proxy_blocked"
+    },
+    {
+      "doi": "10.1017/hpl.2026.10147",
+      "title": "Suppression and Enhancement of Electromagnetic Pulses from Laser-Target Interactions by Strong Magnetic Fields",
+      "cmd": "python3 scripts/safe_pdf_download.py --url https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/accepted-manuscripts --doi 10.1017/hpl.2026.10147 --output \"daily/2026-06-09/pdfs/P. V. Heuer et al. - 2026 - Suppression and Enhancement of Electromagnetic Pulses from Laser-Target Interactions by Strong Magnetic Fields.pdf\"",
+      "returncode": 1,
+      "stdout": "",
+      "stderr": "Failed to download PDF. Attempts:\n- [env-proxy] https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/accepted-manuscripts -> curl: curl: (7) Failed to connect to 127.0.0.1 port 1087 after 0 ms: Couldn't connect to server\n- [direct] https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/accepted-manuscripts -> curl: curl: (6) Could not resolve host: www.cambridge.org\n- [env-proxy] https://doi.org/10.1017/hpl.2026.10147 -> curl: curl: (7) Failed to connect to 127.0.0.1 port 1087 after 0 ms: Couldn't connect to server\n- [direct] https://doi.org/10.1017/hpl.2026.10147 -> curl: curl: (6) Could not resolve host: doi.org\n",
+      "output_pdf": "daily/2026-06-09/pdfs/P. V. Heuer et al. - 2026 - Suppression and Enhancement of Electromagnetic Pulses from Laser-Target Interactions by Strong Magnetic Fields.pdf",
+      "attempted_at": "2026-06-09T09:07:02+08:00",
+      "failure_class": "runtime_proxy_blocked"
+    }
+  ],
+  "notes_generated": [],
+  "state_update": {
+    "processed_articles_json": "unchanged",
+    "daily_retry_candidates_json": "appended_3"
+  },
+  "blocked_reason": "Outbound access remains blocked in the current runtime: env-proxy curl attempts fail to connect to 127.0.0.1:1087, and direct curl attempts fail DNS resolution for publisher and DOI hosts."
+}

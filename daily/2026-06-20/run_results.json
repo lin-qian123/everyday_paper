@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Dephasingless laser wakefield acceleration in a plasma waveguide",
+    "doi": "10.48550/arXiv.2606.20298",
+    "source_url": "https://arxiv.org/abs/2606.20298",
+    "pdf_path": "daily/2026-06-20/pdfs/J.P. Palastro et al. - 2026 - Dephasingless laser wakefield acceleration in a plasma waveguide.pdf",
+    "pdf_name": "J.P. Palastro et al. - 2026 - Dephasingless laser wakefield acceleration in a plasma waveguide.pdf",
+    "cmd": [
+      "python",
+      "scripts/safe_pdf_download.py",
+      "--url",
+      "https://arxiv.org/pdf/2606.20298.pdf",
+      "--url",
+      "https://arxiv.org/abs/2606.20298",
+      "--doi",
+      "10.48550/arXiv.2606.20298",
+      "--output",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-20/pdfs/J.P. Palastro et al. - 2026 - Dephasingless laser wakefield acceleration in a plasma waveguide.pdf",
+      "--report-json",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-20/J.P. Palastro et al. - 2026 - Dephasingless laser wakefield acceleration in a plasma waveguide.download_report.json"
+    ],
+    "returncode": 0,
+    "stdout": "Downloaded: /Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-20/pdfs/J.P. Palastro et al. - 2026 - Dephasingless laser wakefield acceleration in a plasma waveguide.pdf (21709751 bytes) from https://arxiv.org/pdf/2606.20298.pdf via env-proxy\n",
+    "stderr": "",
+    "report": {
+      "ok": true,
+      "output": "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-20/pdfs/J.P. Palastro et al. - 2026 - Dephasingless laser wakefield acceleration in a plasma waveguide.pdf",
+      "source_url": "https://arxiv.org/pdf/2606.20298.pdf",
+      "mode": "env-proxy",
+      "attempts": []
+    },
+    "paper": {
+      "title": "Dephasingless laser wakefield acceleration in a plasma waveguide",
+      "authors": "J.P. Palastro, K.G. Miller, C.D. Arrowsmith, R. Almeida, M.R. Edwards, A.L. Elliott, A. Kiewel, A. Konzel, L.S. Mack, D. Ramsey, D. Singh, A.G.R. Thomas, J. Vieira",
+      "doi": "10.48550/arXiv.2606.20298",
+      "source_url": "https://arxiv.org/abs/2606.20298",
+      "pdf_url": "https://arxiv.org/pdf/2606.20298.pdf",
+      "publication_date": "2026-06-18",
+      "journal": "arXiv 预印本（高相关补充）",
+      "topic": "激光等离子体加速，LWFA，去相位控制，波导模工程，quasi-3D PIC",
+      "impact_score": 8,
+      "similarity_score": 10,
+      "reason": "直接解决 LWFA 的核心 dephasing 限制，并给出可设计的波导模叠加方案和 quasi-3D PIC 支撑，和激光等离子体加速主线高度一致。",
+      "summary": "提出波导模叠加形成的时空结构化激光脉冲，在保持超短脉冲和恒定光斑的同时驱动真空光速相位的尾场，从而显著缓解 LWFA 去相位限制。",
+      "keywords": "LWFA、dephasing、plasma waveguide、spatiotemporal pulse、quasi-3D PIC"
+    }
+  },
+  {
+    "title": "Bayesian optimization of stellarator alpha-particle confinement using data-informed parameter spaces and dimensionality reduction",
+    "doi": "10.48550/arXiv.2606.19523",
+    "source_url": "https://arxiv.org/abs/2606.19523",
+    "pdf_path": "daily/2026-06-20/pdfs/Matt Landreman et al. - 2026 - Bayesian optimization of stellarator alpha-particle confinement using data-informed parameter spaces and dimensionality reduction.pdf",
+    "pdf_name": "Matt Landreman et al. - 2026 - Bayesian optimization of stellarator alpha-particle confinement using data-informed parameter spaces and dimensionality reduction.pdf",
+    "cmd": [
+      "python",
+      "scripts/safe_pdf_download.py",
+      "--url",
+      "https://arxiv.org/pdf/2606.19523.pdf",
+      "--url",
+      "https://arxiv.org/abs/2606.19523",
+      "--doi",
+      "10.48550/arXiv.2606.19523",
+      "--output",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-20/pdfs/Matt Landreman et al. - 2026 - Bayesian optimization of stellarator alpha-particle confinement using data-informed parameter spaces and dimensionality reduction.pdf",
+      "--report-json",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-20/Matt Landreman et al. - 2026 - Bayesian optimization of stellarator alpha-particle confinement using data-informed parameter spaces and dimensionality reduction.download_report.json"
+    ],
+    "returncode": 0,
+    "stdout": "Downloaded: /Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-20/pdfs/Matt Landreman et al. - 2026 - Bayesian optimization of stellarator alpha-particle confinement using data-informed parameter spaces and dimensionality reduction.pdf (1816717 bytes) from https://arxiv.org/pdf/2606.19523.pdf via env-proxy\n",
+    "stderr": "",
+    "report": {
+      "ok": true,
+      "output": "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-20/pdfs/Matt Landreman et al. - 2026 - Bayesian optimization of stellarator alpha-particle confinement using data-informed parameter spaces and dimensionality reduction.pdf",
+      "source_url": "https://arxiv.org/pdf/2606.19523.pdf",
+      "mode": "env-proxy",
+      "attempts": []
+    },
+    "paper": {
+      "title": "Bayesian optimization of stellarator alpha-particle confinement using data-informed parameter spaces and dimensionality reduction",
+      "authors": "Matt Landreman, Michael Czekanski, Andrew Giuliani, Byoungchan Jang, Rory Conlin",
+      "doi": "10.48550/arXiv.2606.19523",
+      "source_url": "https://arxiv.org/abs/2606.19523",
+      "pdf_url": "https://arxiv.org/pdf/2606.19523.pdf",
+      "publication_date": "2026-06-17",
+      "journal": "arXiv 预印本（高相关补充）",
+      "topic": "AI/机器学习 + 聚变等离子体优化，Bayesian optimization，stellarator，alpha-particle confinement",
+      "impact_score": 8,
+      "similarity_score": 8,
+      "reason": "属于物理约束下智能优化的高质量方法论文，适合和近期 AI for plasma/fusion 条目并读，对 PIC/HEDP 参数空间重参数化也有借鉴意义。",
+      "summary": "通过 quantile transform 与 PCA 重塑 stellarator 设计空间，再把 guiding-center tracing 接入异步 Bayesian optimization，以改进 alpha 粒子约束性能。",
+      "keywords": "Bayesian optimization、stellarator、alpha-particle confinement、PCA、data-informed parameterization"
+    }
+  },
+  {
+    "title": "Caustic-Driven Fluidic Microlenses for Enhanced Nonlinear and High-Energy-Density Physics",
+    "doi": "10.48550/arXiv.2606.20125",
+    "source_url": "https://arxiv.org/abs/2606.20125",
+    "pdf_path": "daily/2026-06-20/pdfs/Sourabh Singh et al. - 2026 - Caustic-Driven Fluidic Microlenses for Enhanced Nonlinear and High-Energy-Density Physics.pdf",
+    "pdf_name": "Sourabh Singh et al. - 2026 - Caustic-Driven Fluidic Microlenses for Enhanced Nonlinear and High-Energy-Density Physics.pdf",
+    "cmd": [
+      "python",
+      "scripts/safe_pdf_download.py",
+      "--url",
+      "https://arxiv.org/pdf/2606.20125.pdf",
+      "--url",
+      "https://arxiv.org/abs/2606.20125",
+      "--doi",
+      "10.48550/arXiv.2606.20125",
+      "--output",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-20/pdfs/Sourabh Singh et al. - 2026 - Caustic-Driven Fluidic Microlenses for Enhanced Nonlinear and High-Energy-Density Physics.pdf",
+      "--report-json",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-20/Sourabh Singh et al. - 2026 - Caustic-Driven Fluidic Microlenses for Enhanced Nonlinear and High-Energy-Density Physics.download_report.json"
+    ],
+    "returncode": 0,
+    "stdout": "Downloaded: /Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-20/pdfs/Sourabh Singh et al. - 2026 - Caustic-Driven Fluidic Microlenses for Enhanced Nonlinear and High-Energy-Density Physics.pdf (7462888 bytes) from https://arxiv.org/pdf/2606.20125.pdf via env-proxy\n",
+    "stderr": "",
+    "report": {
+      "ok": true,
+      "output": "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-20/pdfs/Sourabh Singh et al. - 2026 - Caustic-Driven Fluidic Microlenses for Enhanced Nonlinear and High-Energy-Density Physics.pdf",
+      "source_url": "https://arxiv.org/pdf/2606.20125.pdf",
+      "mode": "env-proxy",
+      "attempts": []
+    },
+    "paper": {
+      "title": "Caustic-Driven Fluidic Microlenses for Enhanced Nonlinear and High-Energy-Density Physics",
+      "authors": "Sourabh Singh, S. Sree Harsha, Tamanna, Prashant Kumar Singh",
+      "doi": "10.48550/arXiv.2606.20125",
+      "source_url": "https://arxiv.org/abs/2606.20125",
+      "pdf_url": "https://arxiv.org/pdf/2606.20125.pdf",
+      "publication_date": "2026-06-18",
+      "journal": "arXiv 预印本（高相关补充）",
+      "topic": "高能量密度物理，流体微透镜，caustics，高重复频超快激光平台",
+      "impact_score": 7,
+      "similarity_score": 7,
+      "reason": "偏实验平台和靶设计，但直接命中高能量密度物理，且强调微焦耳飞秒脉冲驱动与高重复频可扩展性，适合作为 HEDP 补充线索。",
+      "summary": "利用液体射流中的 caustic microlensing 增强局域吸收和表面非线性过程，并在高能量密度场景下实现 GPa 级冲击生成。",
+      "keywords": "high-energy-density physics、fluidic microlens、caustics、ultrafast laser、shock generation"
+    }
+  }
+]

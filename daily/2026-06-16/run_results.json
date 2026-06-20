@@ -1,0 +1,126 @@
+{
+  "date": "2026-06-16",
+  "dedup_unique_doi_keys": 222,
+  "source_connectivity_checks": [
+    {
+      "url": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/latest-issue",
+      "ok": true,
+      "error": null,
+      "note": "Cambridge HPL 最新卷可访问，并筛出 1 条高相关且未重复的正式来源。"
+    },
+    {
+      "url": "https://arxiv.org/list/physics.plasm-ph/new",
+      "ok": true,
+      "error": null,
+      "note": "arXiv plasma 当前新稿可访问，并筛出 PIConGPU 纳米等离子体论文。"
+    },
+    {
+      "url": "https://arxiv.org/list/physics.plasm-ph/current",
+      "ok": true,
+      "error": null,
+      "note": "arXiv plasma 月度当前列表可访问，用于补充 warm dense matter 与强场/PIC 方向候选。"
+    }
+  ],
+  "new_candidates": [
+    {
+      "doi": "10.1017/hpl.2026.10115",
+      "title": "Equation of state measurements of boron nitride under laser-driven compression at the Prague Asterix Laser System facility",
+      "source_url": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/equation-of-state-measurements-of-boron-nitride-under-laserdriven-compression-at-the-prague-asterix-laser-system-facility/9B71874D6F9DB182D74372D40E442618",
+      "publication_date": "2026-02-06",
+      "journal": "High Power Laser Science and Engineering（正式来源）",
+      "topic": "激光驱动压缩下 BN 的状态方程测量与 HEDP/ICF 材料约束"
+    },
+    {
+      "doi": "10.48550/arXiv.2606.14300",
+      "title": "PIConGPU modeling of nanoplasma formation in helium nanodroplets irradiated by intense femtosecond laser pulses",
+      "source_url": "https://arxiv.org/abs/2606.14300",
+      "publication_date": "2026-06-12",
+      "journal": "arXiv 预印本（高相关补充）",
+      "topic": "GPU PIC 建模强场氦纳米液滴纳米等离子体形成"
+    },
+    {
+      "doi": "10.48550/arXiv.2606.02890",
+      "title": "Kinetic Theory for Electronic Transport Properties of Warm Dense Matter: Chapman-Enskog Solution of the Uehling-Uhlenbeck Equation",
+      "source_url": "https://arxiv.org/abs/2606.02890",
+      "publication_date": "2026-06-01",
+      "journal": "arXiv 预印本（高相关补充）",
+      "topic": "warm dense matter 电子输运的 BUU/Chapman-Enskog 动理学框架"
+    },
+    {
+      "doi": "10.48550/arXiv.2606.04332",
+      "title": "Radiation-induced electron spin polarization in ultrarelativistic kinetic turbulence",
+      "source_url": "https://arxiv.org/abs/2606.04332",
+      "publication_date": "2026-06-04",
+      "journal": "arXiv 预印本（高相关补充）",
+      "topic": "强磁化辐射主导等离子体湍流中的自旋极化与 PIC/QED 诊断"
+    }
+  ],
+  "download_attempts": [
+    {
+      "doi": "10.1017/hpl.2026.10115",
+      "title": "Equation of state measurements of boron nitride under laser-driven compression at the Prague Asterix Laser System facility",
+      "cmd": "python3 /Volumes/PHILIPS/programs/everyday_paper/scripts/safe_pdf_download.py --url https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/equation-of-state-measurements-of-boron-nitride-under-laserdriven-compression-at-the-prague-asterix-laser-system-facility/9B71874D6F9DB182D74372D40E442618 --doi 10.1017/hpl.2026.10115 --output /Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-16/pdfs/Hanna Marchenko et al. - 2026 - Equation of state measurements of boron nitride under laser-driven compression at the Prague Asterix Laser System facility.pdf",
+      "returncode": 0,
+      "stdout": "Downloaded via env-proxy.",
+      "stderr": "",
+      "output_pdf": "daily/2026-06-16/pdfs/Hanna Marchenko et al. - 2026 - Equation of state measurements of boron nitride under laser-driven compression at the Prague Asterix Laser System facility.pdf",
+      "attempted_at": "2026-06-16T09:00:00+08:00",
+      "failure_class": null
+    },
+    {
+      "doi": "10.48550/arXiv.2606.14300",
+      "title": "PIConGPU modeling of nanoplasma formation in helium nanodroplets irradiated by intense femtosecond laser pulses",
+      "cmd": "python3 /Volumes/PHILIPS/programs/everyday_paper/scripts/safe_pdf_download.py --url https://arxiv.org/pdf/2606.14300.pdf --url https://arxiv.org/abs/2606.14300 --doi 10.48550/arXiv.2606.14300 --output /Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-16/pdfs/Cristian Medina et al. - 2026 - PIConGPU modeling of nanoplasma formation in helium nanodroplets irradiated by intense femtosecond laser pulses.pdf",
+      "returncode": 0,
+      "stdout": "Downloaded via env-proxy.",
+      "stderr": "",
+      "output_pdf": "daily/2026-06-16/pdfs/Cristian Medina et al. - 2026 - PIConGPU modeling of nanoplasma formation in helium nanodroplets irradiated by intense femtosecond laser pulses.pdf",
+      "attempted_at": "2026-06-16T09:00:00+08:00",
+      "failure_class": null
+    },
+    {
+      "doi": "10.48550/arXiv.2606.02890",
+      "title": "Kinetic Theory for Electronic Transport Properties of Warm Dense Matter: Chapman-Enskog Solution of the Uehling-Uhlenbeck Equation",
+      "cmd": "python3 /Volumes/PHILIPS/programs/everyday_paper/scripts/safe_pdf_download.py --url https://arxiv.org/pdf/2606.02890.pdf --url https://arxiv.org/abs/2606.02890 --doi 10.48550/arXiv.2606.02890 --output /Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-16/pdfs/Lucas J. Babati et al. - 2026 - Kinetic Theory for Electronic Transport Properties of Warm Dense Matter Chapman-Enskog Solution of the Uehling-Uhlenbeck Equation.pdf",
+      "returncode": 0,
+      "stdout": "Downloaded via env-proxy.",
+      "stderr": "",
+      "output_pdf": "daily/2026-06-16/pdfs/Lucas J. Babati et al. - 2026 - Kinetic Theory for Electronic Transport Properties of Warm Dense Matter Chapman-Enskog Solution of the Uehling-Uhlenbeck Equation.pdf",
+      "attempted_at": "2026-06-16T09:00:00+08:00",
+      "failure_class": null
+    },
+    {
+      "doi": "10.48550/arXiv.2606.04332",
+      "title": "Radiation-induced electron spin polarization in ultrarelativistic kinetic turbulence",
+      "cmd": "python3 /Volumes/PHILIPS/programs/everyday_paper/scripts/safe_pdf_download.py --url https://arxiv.org/pdf/2606.04332.pdf --url https://arxiv.org/abs/2606.04332 --doi 10.48550/arXiv.2606.04332 --output /Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-16/pdfs/Peng Liu et al. - 2026 - Radiation-induced electron spin polarization in ultrarelativistic kinetic turbulence.pdf",
+      "returncode": 0,
+      "stdout": "Downloaded via env-proxy.",
+      "stderr": "",
+      "output_pdf": "daily/2026-06-16/pdfs/Peng Liu et al. - 2026 - Radiation-induced electron spin polarization in ultrarelativistic kinetic turbulence.pdf",
+      "attempted_at": "2026-06-16T09:00:00+08:00",
+      "failure_class": null
+    }
+  ],
+  "retry_queue_attempt": {
+    "cmd": "python3 /Volumes/PHILIPS/programs/everyday_paper/scripts/retry_download_queue.py --source-family all",
+    "completed": false,
+    "note": "全量重试在来源受限条目上耗时过长，已中断；未对 retry/processed 台账产生变更。"
+  },
+  "artifacts_written": [
+    "daily/2026-06-16/index.md",
+    "daily/2026-06-16/run_results.json",
+    "daily/2026-06-16/pdfs/Hanna Marchenko et al. - 2026 - Equation of state measurements of boron nitride under laser-driven compression at the Prague Asterix Laser System facility.pdf",
+    "daily/2026-06-16/pdfs/Cristian Medina et al. - 2026 - PIConGPU modeling of nanoplasma formation in helium nanodroplets irradiated by intense femtosecond laser pulses.pdf",
+    "daily/2026-06-16/pdfs/Lucas J. Babati et al. - 2026 - Kinetic Theory for Electronic Transport Properties of Warm Dense Matter Chapman-Enskog Solution of the Uehling-Uhlenbeck Equation.pdf",
+    "daily/2026-06-16/pdfs/Peng Liu et al. - 2026 - Radiation-induced electron spin polarization in ultrarelativistic kinetic turbulence.pdf",
+    "daily/2026-06-16/notes/Hanna Marchenko et al. - 2026 - Equation of state measurements of boron nitride under laser-driven compression at the Prague Asterix Laser System facility.md",
+    "daily/2026-06-16/notes/Cristian Medina et al. - 2026 - PIConGPU modeling of nanoplasma formation in helium nanodroplets irradiated by intense femtosecond laser pulses.md",
+    "daily/2026-06-16/notes/Lucas J. Babati et al. - 2026 - Kinetic Theory for Electronic Transport Properties of Warm Dense Matter Chapman-Enskog Solution of the Uehling-Uhlenbeck Equation.md",
+    "daily/2026-06-16/notes/Peng Liu et al. - 2026 - Radiation-induced electron spin polarization in ultrarelativistic kinetic turbulence.md",
+    "state/processed_articles.json",
+    "README.md",
+    "TODO.md"
+  ],
+  "processed_articles_json": "appended_4",
+  "daily_retry_candidates_json": "unchanged"
+}

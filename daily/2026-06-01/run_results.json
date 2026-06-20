@@ -1,0 +1,34 @@
+{
+  "date": "2026-06-01",
+  "dedup_unique_doi_keys": 77,
+  "source_connectivity_checks": [
+    {
+      "url": "https://api.crossref.org/works?rows=1",
+      "ok": false,
+      "error": "URLError(PermissionError(1, 'Operation not permitted'))"
+    },
+    {
+      "url": "https://arxiv.org/search/?query=laser+plasma&searchtype=all",
+      "ok": false,
+      "error": "URLError(PermissionError(1, 'Operation not permitted'))"
+    },
+    {
+      "url": "https://www.nature.com/search?q=laser+plasma",
+      "ok": false,
+      "error": "URLError(PermissionError(1, 'Operation not permitted'))"
+    }
+  ],
+  "new_candidates": [],
+  "download_attempts": [],
+  "notes_generated": [],
+  "state_update": {
+    "processed_articles_appended": 0,
+    "retry_candidates_appended": 0,
+    "dedup_basis": [
+      "state/processed_articles.json",
+      "state/daily_retry_candidates.json"
+    ],
+    "dedup_unique_keys": 77
+  },
+  "blocked_reason": "External network egress blocked in current runtime; daily online search cannot complete."
+}

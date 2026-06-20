@@ -1,0 +1,57 @@
+# Generating keV ion distributions for nuclear reactions at near solid-density using intense short-pulse lasers 笔记
+
+## 0. 论文信息
+
+- 标题: Generating keV ion distributions for nuclear reactions at near solid-density using intense short-pulse lasers
+- 作者: A. J. Kemp, S. C. Wilks, E. P. Hartouni, et al.
+- 期刊: Nature Communications
+- DOI: 10.1038/s41467-019-12076-x
+- 主题关键词: 激光等离子体, 强场QED, HEDP, PIC
+
+## 1. 摘要
+
+### 1.1 核心结论
+- 强短脉冲激光在近固体密度靶中生成keV离子分布并驱动核反应。
+
+### 1.2 文章定位
+- HEDP与激光核反应方向关键实验/模拟结合。
+
+## 2. 引言与物理图景
+- 该工作聚焦于高能密度/强场/等离子体粒子动力学中的关键问题，并给出可复现实验或理论路径。
+
+## 3. 方法与关键公式（待精读补全）
+### 3.1 核心概念
+- 主要物理机制需结合全文进一步细读。
+
+### 3.2 公式推导
+#### 公式 1: 关键无量纲参数（示意）
+$$\chi \sim \gamma E_\perp / E_cr$$
+
+**变量说明:**
+- $\chi$: 强场量子参数
+- $\gamma$: 粒子洛伦兹因子
+- $E_\perp$: 粒子静止系等效横向场
+- $E_cr$: QED 临界场
+
+**推导过程:**
+1. 由洛伦兹变换得到粒子静止系等效场量纲。
+2. 以临界场归一化得到无量纲强场参数。
+
+**物理直觉:**
+- 参数越大，量子辐射与对产生效应越显著。
+
+**关键点/物理意义:**
+- 是连接实验参数与强场QED可观测量的核心桥梁。
+
+## 4. 开放问题与个人理解
+### 4.1 理论端
+- 模型近似的适用区间仍需结合参数扫描验证。
+
+### 4.2 数值/实验端
+- 建议与 PIC/混合模型做对照，明确系统误差来源。
+
+### 4.3 实验端
+- 诊断带宽、时空重合精度与统计量是关键瓶颈。
+
+## 5. 复习用速记
+- 强短脉冲激光在近固体密度靶中生成keV离子分布并驱动核反应。

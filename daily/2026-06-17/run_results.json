@@ -1,0 +1,105 @@
+{
+  "date": "2026-06-17",
+  "dedup_unique_doi_keys": 244,
+  "source_connectivity_checks": [
+    {
+      "url": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/accepted-manuscripts",
+      "ok": true,
+      "error": null,
+      "note": "Cambridge HPL accepted manuscripts 页面可访问，但 2026-06-16 附近的新正式条目未筛出比当前基线更强的非重复增量。"
+    },
+    {
+      "url": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/latest-issue",
+      "ok": true,
+      "error": null,
+      "note": "Cambridge HPL latest volume 页面可访问，但本轮新增条目以激光工程/器件为主。"
+    },
+    {
+      "url": "https://arxiv.org/list/physics.plasm-ph/new",
+      "ok": true,
+      "error": null,
+      "note": "arXiv plasm-ph 新稿可访问，并筛出 BO-PIC 优化与 laser fusion 相关新稿。"
+    }
+  ],
+  "new_candidates": [
+    {
+      "doi": "10.48550/arXiv.2606.15687",
+      "title": "Bayesian optimization of double-pulse temporal shaping for enhanced target-normal-sheath proton acceleration under fixed laser energy",
+      "source_url": "https://arxiv.org/abs/2606.15687",
+      "publication_date": "2026-06-14",
+      "journal": "arXiv 预印本（高相关补充）",
+      "topic": "Bayesian optimization 驱动 2D PIC 寻优双脉冲 TNSA 质子加速"
+    },
+    {
+      "doi": "10.48550/arXiv.2606.16066",
+      "title": "On modeling energetic electrons in laser fusion plasmas",
+      "source_url": "https://arxiv.org/abs/2606.16066",
+      "publication_date": "2026-06-14",
+      "journal": "arXiv 预印本（高相关补充）",
+      "topic": "激光聚变中热电子输运的 Fokker-Planck 建模与 rad-hydro 嵌入"
+    },
+    {
+      "doi": "10.48550/arXiv.2606.15512",
+      "title": "Towards Data-Efficient Cross-Device Generalization of Grad-Shafranov Equilibria via Transfer Learning Neural Operator",
+      "source_url": "https://arxiv.org/abs/2606.15512",
+      "publication_date": "2026-06-13",
+      "journal": "arXiv 预印本（高相关补充）",
+      "topic": "面向 fusion equilibrium 的跨装置迁移 neural operator"
+    }
+  ],
+  "download_attempts": [
+    {
+      "doi": "10.48550/arXiv.2606.15687",
+      "title": "Bayesian optimization of double-pulse temporal shaping for enhanced target-normal-sheath proton acceleration under fixed laser energy",
+      "cmd": "python3 /Volumes/PHILIPS/programs/everyday_paper/scripts/safe_pdf_download.py --url https://arxiv.org/pdf/2606.15687.pdf --url https://arxiv.org/abs/2606.15687 --doi 10.48550/arXiv.2606.15687 --output daily/2026-06-17/pdfs/Chengqi Zhang et al. - 2026 - Bayesian optimization of double-pulse temporal shaping for enhanced target-normal-sheath proton acceleration under fixed laser energy.pdf --report-json daily/2026-06-17/bo_tnsa_report.json",
+      "returncode": 0,
+      "stdout": "Downloaded via env-proxy.",
+      "stderr": "",
+      "output_pdf": "daily/2026-06-17/pdfs/Chengqi Zhang et al. - 2026 - Bayesian optimization of double-pulse temporal shaping for enhanced target-normal-sheath proton acceleration under fixed laser energy.pdf",
+      "attempted_at": "2026-06-17T09:00:00+08:00",
+      "failure_class": null
+    },
+    {
+      "doi": "10.48550/arXiv.2606.16066",
+      "title": "On modeling energetic electrons in laser fusion plasmas",
+      "cmd": "python3 /Volumes/PHILIPS/programs/everyday_paper/scripts/safe_pdf_download.py --url https://arxiv.org/pdf/2606.16066.pdf --url https://arxiv.org/abs/2606.16066 --doi 10.48550/arXiv.2606.16066 --output daily/2026-06-17/pdfs/Wallace Manheimer - 2026 - On modeling energetic electrons in laser fusion plasmas.pdf --report-json daily/2026-06-17/energetic_electrons_report.json",
+      "returncode": 0,
+      "stdout": "Downloaded via env-proxy.",
+      "stderr": "",
+      "output_pdf": "daily/2026-06-17/pdfs/Wallace Manheimer - 2026 - On modeling energetic electrons in laser fusion plasmas.pdf",
+      "attempted_at": "2026-06-17T09:00:00+08:00",
+      "failure_class": null
+    },
+    {
+      "doi": "10.48550/arXiv.2606.15512",
+      "title": "Towards Data-Efficient Cross-Device Generalization of Grad-Shafranov Equilibria via Transfer Learning Neural Operator",
+      "cmd": "python3 /Volumes/PHILIPS/programs/everyday_paper/scripts/safe_pdf_download.py --url https://arxiv.org/pdf/2606.15512.pdf --url https://arxiv.org/abs/2606.15512 --doi 10.48550/arXiv.2606.15512 --output daily/2026-06-17/pdfs/Jay Phil Yoo et al. - 2026 - Towards Data-Efficient Cross-Device Generalization of Grad-Shafranov Equilibria via Transfer Learning Neural Operator.pdf --report-json daily/2026-06-17/grad_shafranov_report.json",
+      "returncode": 0,
+      "stdout": "Downloaded via env-proxy.",
+      "stderr": "",
+      "output_pdf": "daily/2026-06-17/pdfs/Jay Phil Yoo et al. - 2026 - Towards Data-Efficient Cross-Device Generalization of Grad-Shafranov Equilibria via Transfer Learning Neural Operator.pdf",
+      "attempted_at": "2026-06-17T09:00:00+08:00",
+      "failure_class": null
+    }
+  ],
+  "retry_queue_attempt": {
+    "cmd": null,
+    "completed": false,
+    "note": "未运行全量重试；旧队列仍是已明确的来源侧限制，不值得在本轮耗时空跑。"
+  },
+  "artifacts_written": [
+    "daily/2026-06-17/index.md",
+    "daily/2026-06-17/run_results.json",
+    "daily/2026-06-17/pdfs/Chengqi Zhang et al. - 2026 - Bayesian optimization of double-pulse temporal shaping for enhanced target-normal-sheath proton acceleration under fixed laser energy.pdf",
+    "daily/2026-06-17/pdfs/Wallace Manheimer - 2026 - On modeling energetic electrons in laser fusion plasmas.pdf",
+    "daily/2026-06-17/pdfs/Jay Phil Yoo et al. - 2026 - Towards Data-Efficient Cross-Device Generalization of Grad-Shafranov Equilibria via Transfer Learning Neural Operator.pdf",
+    "daily/2026-06-17/notes/Chengqi Zhang et al. - 2026 - Bayesian optimization of double-pulse temporal shaping for enhanced target-normal-sheath proton acceleration under fixed laser energy.md",
+    "daily/2026-06-17/notes/Wallace Manheimer - 2026 - On modeling energetic electrons in laser fusion plasmas.md",
+    "daily/2026-06-17/notes/Jay Phil Yoo et al. - 2026 - Towards Data-Efficient Cross-Device Generalization of Grad-Shafranov Equilibria via Transfer Learning Neural Operator.md",
+    "state/processed_articles.json",
+    "README.md",
+    "TODO.md"
+  ],
+  "processed_articles_json": "appended_3",
+  "daily_retry_candidates_json": "unchanged"
+}

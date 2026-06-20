@@ -1,0 +1,27 @@
+{
+  "date": "2026-05-17",
+  "dedup_unique_doi_keys": 73,
+  "source_connectivity_checks": [
+    {
+      "name": "crossref_query",
+      "url": "https://api.crossref.org/works?rows=3&sort=published&order=desc&query.bibliographic=laser%20plasma%20PIC%20QED",
+      "ok": false,
+      "error": "URLError(PermissionError(1, 'Operation not permitted'))"
+    },
+    {
+      "name": "arxiv_query",
+      "url": "https://export.arxiv.org/api/query?search_query=all:plasma%20AND%20all:particle-in-cell&start=0&max_results=2",
+      "ok": false,
+      "error": "URLError(PermissionError(1, 'Operation not permitted'))"
+    },
+    {
+      "name": "nature_qed",
+      "url": "https://www.nature.com/search?q=strong-field+QED",
+      "ok": false,
+      "error": "URLError(PermissionError(1, 'Operation not permitted'))"
+    }
+  ],
+  "new_candidates": [],
+  "download_attempts": [],
+  "notes_generated": []
+}

@@ -1,0 +1,93 @@
+{
+  "date": "2026-06-11",
+  "dedup_unique_doi_keys": 202,
+  "source_connectivity_checks": [
+    {
+      "url": "https://api.crossref.org/works?rows=1",
+      "ok": false,
+      "error": "shell runtime blocked; latest-paper retrieval performed via external search while local downloader remained egress-blocked"
+    },
+    {
+      "url": "https://arxiv.org/search/?query=laser+plasma&searchtype=all",
+      "ok": false,
+      "error": "shell runtime blocked; external search identified candidates but local runtime still cannot reach arxiv.org"
+    },
+    {
+      "url": "https://www.nature.com/search?q=laser+plasma",
+      "ok": false,
+      "error": "shell runtime blocked; official-source search did not yield clear new non-duplicate additions before fallback to arXiv"
+    }
+  ],
+  "new_candidates": [
+    {
+      "doi": "10.48550/arXiv.2606.06232",
+      "title": "Plasma wakefield dynamics of self-generated electron bunch trains",
+      "source_url": "https://arxiv.org/abs/2606.06232",
+      "publication_date": "2026-06-04",
+      "journal": "arXiv 预印本（高相关补充）",
+      "topic": "激光尾场加速中自发电子 bunch train 的实验与 PIC 动力学"
+    },
+    {
+      "doi": "10.48550/arXiv.2605.18542",
+      "title": "An explicit, energy-conserving particle-in-cell scheme for relativistic plasmas",
+      "source_url": "https://arxiv.org/abs/2605.18542",
+      "publication_date": "2026-05-18",
+      "journal": "arXiv 预印本（高相关补充）",
+      "topic": "相对论等离子体显式守恒 PIC 数值方法"
+    },
+    {
+      "doi": "10.48550/arXiv.2604.00462",
+      "title": "A machine learning framework for developing quasilinear saturation rules of turbulent transport from linear gyrokinetic data",
+      "source_url": "https://arxiv.org/abs/2604.00462",
+      "publication_date": "2026-04-01",
+      "journal": "arXiv 预印本（高相关补充）",
+      "topic": "用神经网络从线性 gyrokinetic 数据构建湍流输运饱和规则"
+    }
+  ],
+  "download_attempts": [
+    {
+      "doi": "10.48550/arXiv.2606.06232",
+      "title": "Plasma wakefield dynamics of self-generated electron bunch trains",
+      "cmd": "python3 scripts/safe_pdf_download.py --url https://arxiv.org/pdf/2606.06232.pdf --url https://arxiv.org/abs/2606.06232 --doi 10.48550/arXiv.2606.06232 --output \"daily/2026-06-11/pdfs/Salome Benracassa et al. - 2026 - Plasma wakefield dynamics of self-generated electron bunch trains.pdf\"",
+      "returncode": 1,
+      "stdout": "",
+      "stderr": "Failed to download PDF. Attempts:\n- [env-proxy] https://arxiv.org/pdf/2606.06232.pdf -> curl: curl: (7) Failed to connect to 127.0.0.1 port 1087 after 0 ms: Couldn't connect to server\n- [direct] https://arxiv.org/pdf/2606.06232.pdf -> curl: curl: (6) Could not resolve host: arxiv.org\n- [env-proxy] https://arxiv.org/abs/2606.06232 -> curl: curl: (7) Failed to connect to 127.0.0.1 port 1087 after 0 ms: Couldn't connect to server\n- [direct] https://arxiv.org/abs/2606.06232 -> curl: curl: (6) Could not resolve host: arxiv.org\n- [env-proxy] https://doi.org/10.48550/arXiv.2606.06232 -> curl: curl: (7) Failed to connect to 127.0.0.1 port 1087 after 0 ms: Couldn't connect to server\n- [direct] https://doi.org/10.48550/arXiv.2606.06232 -> curl: curl: (6) Could not resolve host: doi.org\n",
+      "output_pdf": "daily/2026-06-11/pdfs/Salome Benracassa et al. - 2026 - Plasma wakefield dynamics of self-generated electron bunch trains.pdf",
+      "attempted_at": "2026-06-11T09:05:28+0800",
+      "failure_class": "runtime_proxy_blocked"
+    },
+    {
+      "doi": "10.48550/arXiv.2605.18542",
+      "title": "An explicit, energy-conserving particle-in-cell scheme for relativistic plasmas",
+      "cmd": "python3 scripts/safe_pdf_download.py --url https://arxiv.org/pdf/2605.18542.pdf --url https://arxiv.org/abs/2605.18542 --doi 10.48550/arXiv.2605.18542 --output \"daily/2026-06-11/pdfs/Lee Ricketson et al. - 2026 - An explicit, energy-conserving particle-in-cell scheme for relativistic plasmas.pdf\"",
+      "returncode": 1,
+      "stdout": "",
+      "stderr": "Failed to download PDF. Attempts:\n- [env-proxy] https://arxiv.org/pdf/2605.18542.pdf -> curl: curl: (7) Failed to connect to 127.0.0.1 port 1087 after 0 ms: Couldn't connect to server\n- [direct] https://arxiv.org/pdf/2605.18542.pdf -> curl: curl: (6) Could not resolve host: arxiv.org\n- [env-proxy] https://arxiv.org/abs/2605.18542 -> curl: curl: (7) Failed to connect to 127.0.0.1 port 1087 after 0 ms: Couldn't connect to server\n- [direct] https://arxiv.org/abs/2605.18542 -> curl: curl: (6) Could not resolve host: arxiv.org\n- [env-proxy] https://doi.org/10.48550/arXiv.2605.18542 -> curl: curl: (7) Failed to connect to 127.0.0.1 port 1087 after 0 ms: Couldn't connect to server\n- [direct] https://doi.org/10.48550/arXiv.2605.18542 -> curl: curl: (6) Could not resolve host: doi.org\n",
+      "output_pdf": "daily/2026-06-11/pdfs/Lee Ricketson et al. - 2026 - An explicit, energy-conserving particle-in-cell scheme for relativistic plasmas.pdf",
+      "attempted_at": "2026-06-11T09:05:28+0800",
+      "failure_class": "runtime_proxy_blocked"
+    },
+    {
+      "doi": "10.48550/arXiv.2604.00462",
+      "title": "A machine learning framework for developing quasilinear saturation rules of turbulent transport from linear gyrokinetic data",
+      "cmd": "python3 scripts/safe_pdf_download.py --url https://arxiv.org/pdf/2604.00462.pdf --url https://arxiv.org/abs/2604.00462 --doi 10.48550/arXiv.2604.00462 --output \"daily/2026-06-11/pdfs/Preeti Sar et al. - 2026 - A machine learning framework for developing quasilinear saturation rules of turbulent transport from linear gyrokinetic data.pdf\"",
+      "returncode": 1,
+      "stdout": "",
+      "stderr": "Failed to download PDF. Attempts:\n- [env-proxy] https://arxiv.org/pdf/2604.00462.pdf -> curl: curl: (7) Failed to connect to 127.0.0.1 port 1087 after 0 ms: Couldn't connect to server\n- [direct] https://arxiv.org/pdf/2604.00462.pdf -> curl: curl: (6) Could not resolve host: arxiv.org\n- [env-proxy] https://arxiv.org/abs/2604.00462 -> curl: curl: (7) Failed to connect to 127.0.0.1 port 1087 after 0 ms: Couldn't connect to server\n- [direct] https://arxiv.org/abs/2604.00462 -> curl: curl: (6) Could not resolve host: arxiv.org\n- [env-proxy] https://doi.org/10.48550/arXiv.2604.00462 -> curl: curl: (7) Failed to connect to 127.0.0.1 port 1087 after 0 ms: Couldn't connect to server\n- [direct] https://doi.org/10.48550/arXiv.2604.00462 -> curl: curl: (6) Could not resolve host: doi.org\n",
+      "output_pdf": "daily/2026-06-11/pdfs/Preeti Sar et al. - 2026 - A machine learning framework for developing quasilinear saturation rules of turbulent transport from linear gyrokinetic data.pdf",
+      "attempted_at": "2026-06-11T09:05:28+0800",
+      "failure_class": "runtime_proxy_blocked"
+    }
+  ],
+  "notes_generated": [],
+  "state_update": {
+    "processed_articles_json": "unchanged",
+    "daily_retry_candidates_json": "appended_3",
+    "dedup_basis": [
+      "state/processed_articles.json",
+      "state/daily_retry_candidates.json"
+    ],
+    "dedup_unique_keys": 208
+  },
+  "blocked_reason": "Outbound access remains blocked in the current runtime: env-proxy curl attempts fail to connect to 127.0.0.1:1087, and direct curl attempts fail DNS resolution for arxiv.org and doi.org."
+}

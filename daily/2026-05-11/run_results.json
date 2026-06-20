@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Full EPIC-GOD: An energy-conserving full particle-in-cell code for GPU acceleration using OpenACC",
+    "doi": "10.1016/j.cpc.2026.110021",
+    "year": "2026",
+    "journal": "Computer Physics Communications",
+    "authors": "CPC 2026 authors",
+    "urls": [
+      "https://www.sciencedirect.com/science/article/pii/S0010465526000032",
+      "https://doi.org/10.1016/j.cpc.2026.110021"
+    ],
+    "status": "dedup"
+  },
+  {
+    "title": "Geometric and uniformly accurate Particle-in-Cell methods for Vlasov-Poisson system with strong magnetic field",
+    "doi": "10.1016/j.jcp.2026.114867",
+    "year": "2026",
+    "journal": "Journal of Computational Physics",
+    "authors": "JCP 2026 authors",
+    "urls": [
+      "https://www.sciencedirect.com/science/article/pii/S0021999126002172",
+      "https://doi.org/10.1016/j.jcp.2026.114867"
+    ],
+    "cmd": "python3 /Volumes/PHILIPS/programs/everyday_paper/scripts/safe_pdf_download.py --url https://www.sciencedirect.com/science/article/pii/S0021999126002172 --url https://doi.org/10.1016/j.jcp.2026.114867 --doi 10.1016/j.jcp.2026.114867 --output '/Volumes/PHILIPS/programs/everyday_paper/daily/2026-05-11/pdfs/JCP 2026 authors - 2026 - Geometric and uniformly accurate Particle-in-Cell methods for Vlasov-Poisson system with strong magnetic field.pdf'",
+    "returncode": 1,
+    "stdout": "",
+    "stderr": "Traceback (most recent call last):\n  File \"/Volumes/PHILIPS/programs/everyday_paper/scripts/safe_pdf_download.py\", line 20, in <module>\n    import requests\nModuleNotFoundError: No module named 'requests'\n",
+    "pdf_path": "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-05-11/pdfs/JCP 2026 authors - 2026 - Geometric and uniformly accurate Particle-in-Cell methods for Vlasov-Poisson system with strong magnetic field.pdf",
+    "status": "failed"
+  },
+  {
+    "title": "A High-Order Low-Order extended moment method for the Vlasov-Darwin particle-in-cell system",
+    "doi": "10.1016/j.jcp.2026.114991",
+    "year": "2026",
+    "journal": "Journal of Computational Physics",
+    "authors": "JCP 2026 authors",
+    "urls": [
+      "https://www.sciencedirect.com/science/article/pii/S002199912600344X",
+      "https://doi.org/10.1016/j.jcp.2026.114991"
+    ],
+    "cmd": "python3 /Volumes/PHILIPS/programs/everyday_paper/scripts/safe_pdf_download.py --url https://www.sciencedirect.com/science/article/pii/S002199912600344X --url https://doi.org/10.1016/j.jcp.2026.114991 --doi 10.1016/j.jcp.2026.114991 --output '/Volumes/PHILIPS/programs/everyday_paper/daily/2026-05-11/pdfs/JCP 2026 authors - 2026 - A High-Order Low-Order extended moment method for the Vlasov-Darwin particle-in-cell system.pdf'",
+    "returncode": 1,
+    "stdout": "",
+    "stderr": "Traceback (most recent call last):\n  File \"/Volumes/PHILIPS/programs/everyday_paper/scripts/safe_pdf_download.py\", line 20, in <module>\n    import requests\nModuleNotFoundError: No module named 'requests'\n",
+    "pdf_path": "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-05-11/pdfs/JCP 2026 authors - 2026 - A High-Order Low-Order extended moment method for the Vlasov-Darwin particle-in-cell system.pdf",
+    "status": "failed"
+  }
+]

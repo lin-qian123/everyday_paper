@@ -1,0 +1,103 @@
+{
+  "date": "2026-06-13",
+  "dedup_unique_doi_keys": 211,
+  "source_connectivity_checks": [
+    {
+      "url": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/latest-issue",
+      "ok": true,
+      "error": null,
+      "note": "Cambridge 最新卷可访问，并确认 1 条新的高相关正式论文增量。"
+    },
+    {
+      "url": "https://www.nature.com/search?q=laser%20plasma&order=date_desc",
+      "ok": true,
+      "error": null,
+      "note": "Nature 检索入口可访问，但落到 cookies_not_supported 页面，未形成可稳定筛选的今日正式增量。"
+    },
+    {
+      "url": "https://arxiv.org",
+      "ok": true,
+      "error": null,
+      "note": "arXiv 可访问，补入 2 条高相关预印本。"
+    }
+  ],
+  "new_candidates": [
+    {
+      "doi": "10.1017/hpl.2026.10136",
+      "title": "Spectral and spatial ion beam parameter optimization at petawatt laser facilities",
+      "source_url": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/spectral-and-spatial-ion-beam-parameter-optimization-at-petawatt-laser-facilities/0D7DD5608E6A14B3F752AD7DFD6A6E45",
+      "publication_date": "2026-06-08",
+      "journal": "High Power Laser Science and Engineering（正式期刊）",
+      "topic": "PW 激光离子束优化、靶参数与高能量密度实验束流整形"
+    },
+    {
+      "doi": "10.48550/arXiv.2606.07147",
+      "title": "Multi-kilohertz laser plasma acceleration driven by an industrial-grade Yb:YAG laser",
+      "source_url": "https://arxiv.org/abs/2606.07147",
+      "publication_date": "2026-06-05",
+      "journal": "arXiv 预印本（高相关补充）",
+      "topic": "高平均功率 Yb:YAG 驱动的多 kHz 激光等离子体加速实验"
+    },
+    {
+      "doi": "10.48550/arXiv.2605.12132",
+      "title": "High-order exponential solver method for particle-in-cell simulations in cylindrical geometry",
+      "source_url": "https://arxiv.org/abs/2605.12132",
+      "publication_date": "2026-05-12",
+      "journal": "arXiv 预印本（高相关补充）",
+      "topic": "圆柱几何 PIC 高阶指数求解器与 LWFA 数值加速"
+    }
+  ],
+  "download_attempts": [
+    {
+      "doi": "10.1017/hpl.2026.10136",
+      "title": "Spectral and spatial ion beam parameter optimization at petawatt laser facilities",
+      "cmd": "python3 /Volumes/PHILIPS/programs/everyday_paper/scripts/safe_pdf_download.py --url https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0D7DD5608E6A14B3F752AD7DFD6A6E45/S2052320626001365a.pdf/spectral-and-spatial-ion-beam-parameter-optimization-at-petawatt-laser-facilities.pdf --url https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/spectral-and-spatial-ion-beam-parameter-optimization-at-petawatt-laser-facilities/0D7DD5608E6A14B3F752AD7DFD6A6E45 --doi 10.1017/hpl.2026.10136 --output /Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-13/pdfs/Evgeny Filippov et al. - 2026 - Spectral and spatial ion beam parameter optimization at petawatt laser facilities.pdf",
+      "returncode": 0,
+      "stdout": "Downloaded via env-proxy after resolving Cambridge article page to official PDF.",
+      "stderr": "",
+      "output_pdf": "daily/2026-06-13/pdfs/Evgeny Filippov et al. - 2026 - Spectral and spatial ion beam parameter optimization at petawatt laser facilities.pdf",
+      "attempted_at": "2026-06-13T09:00:00+08:00",
+      "failure_class": null
+    },
+    {
+      "doi": "10.48550/arXiv.2606.07147",
+      "title": "Multi-kilohertz laser plasma acceleration driven by an industrial-grade Yb:YAG laser",
+      "cmd": "python3 /Volumes/PHILIPS/programs/everyday_paper/scripts/safe_pdf_download.py --url https://arxiv.org/pdf/2606.07147.pdf --url https://arxiv.org/abs/2606.07147 --doi 10.48550/arXiv.2606.07147 --output /Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-13/pdfs/Bonaventura Farace et al. - 2026 - Multi-kilohertz laser plasma acceleration driven by an industrial-grade YbYAG laser.pdf",
+      "returncode": 0,
+      "stdout": "Downloaded via env-proxy.",
+      "stderr": "",
+      "output_pdf": "daily/2026-06-13/pdfs/Bonaventura Farace et al. - 2026 - Multi-kilohertz laser plasma acceleration driven by an industrial-grade YbYAG laser.pdf",
+      "attempted_at": "2026-06-13T09:00:00+08:00",
+      "failure_class": null
+    },
+    {
+      "doi": "10.48550/arXiv.2605.12132",
+      "title": "High-order exponential solver method for particle-in-cell simulations in cylindrical geometry",
+      "cmd": "python3 /Volumes/PHILIPS/programs/everyday_paper/scripts/safe_pdf_download.py --url https://arxiv.org/pdf/2605.12132.pdf --url https://arxiv.org/abs/2605.12132 --doi 10.48550/arXiv.2605.12132 --output /Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-13/pdfs/Szilard Majorosi et al. - 2026 - High-order exponential solver method for particle-in-cell simulations in cylindrical geometry.pdf",
+      "returncode": 0,
+      "stdout": "Downloaded via env-proxy.",
+      "stderr": "",
+      "output_pdf": "daily/2026-06-13/pdfs/Szilard Majorosi et al. - 2026 - High-order exponential solver method for particle-in-cell simulations in cylindrical geometry.pdf",
+      "attempted_at": "2026-06-13T09:00:00+08:00",
+      "failure_class": null
+    }
+  ],
+  "state_updates": {
+    "processed_articles_json": "appended_3",
+    "daily_retry_candidates_json": "unchanged",
+    "processed_total_after_run": 101,
+    "retry_total_after_run": 12
+  },
+  "artifacts": [
+    "daily/2026-06-13/index.md",
+    "daily/2026-06-13/run_results.json",
+    "daily/2026-06-13/pdfs/Evgeny Filippov et al. - 2026 - Spectral and spatial ion beam parameter optimization at petawatt laser facilities.pdf",
+    "daily/2026-06-13/pdfs/Bonaventura Farace et al. - 2026 - Multi-kilohertz laser plasma acceleration driven by an industrial-grade YbYAG laser.pdf",
+    "daily/2026-06-13/pdfs/Szilard Majorosi et al. - 2026 - High-order exponential solver method for particle-in-cell simulations in cylindrical geometry.pdf",
+    "daily/2026-06-13/notes/Evgeny Filippov et al. - 2026 - Spectral and spatial ion beam parameter optimization at petawatt laser facilities.md",
+    "daily/2026-06-13/notes/Bonaventura Farace et al. - 2026 - Multi-kilohertz laser plasma acceleration driven by an industrial-grade YbYAG laser.md",
+    "daily/2026-06-13/notes/Szilard Majorosi et al. - 2026 - High-order exponential solver method for particle-in-cell simulations in cylindrical geometry.md",
+    "state/processed_articles.json",
+    "state/daily_retry_candidates.json"
+  ]
+}

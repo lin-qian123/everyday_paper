@@ -1,0 +1,111 @@
+{
+  "date": "2026-06-18",
+  "dedup_unique_doi_keys": 115,
+  "source_connectivity_checks": [
+    {
+      "url": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/accepted-manuscripts",
+      "ok": true,
+      "error": null,
+      "note": "Cambridge HPL accepted manuscripts 页面可访问，但本轮未筛出比当前基线更强且明确非重复的正式来源增量。"
+    },
+    {
+      "url": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/latest-issue",
+      "ok": true,
+      "error": null,
+      "note": "Cambridge HPL latest volume 页面可访问，但新增条目仍以器件/诊断方向为主。"
+    },
+    {
+      "url": "https://arxiv.org/list/physics.plasm-ph/new",
+      "ok": true,
+      "error": null,
+      "note": "arXiv plasm-ph 新稿可访问，并筛到 LRC-FNO PIC 场求解相关新稿。"
+    },
+    {
+      "url": "https://arxiv.org/list/physics.acc-ph/new",
+      "ok": true,
+      "error": null,
+      "note": "arXiv acc-ph 新稿可访问，但本轮未形成比已选三条更强的直接增量。"
+    }
+  ],
+  "new_candidates": [
+    {
+      "doi": "10.48550/arXiv.2606.17733",
+      "title": "Latent Residual-Closure Fourier Neural Operator for Robust Multi-Field Solving in Particle-in-Cell Simulations",
+      "source_url": "https://arxiv.org/abs/2606.17733",
+      "publication_date": "2026-06-16",
+      "journal": "arXiv 预印本（高相关补充）",
+      "topic": "AI/ML 代理多场求解 + PIC 闭环物理一致性"
+    },
+    {
+      "doi": "10.48550/arXiv.2606.15035",
+      "title": "An Energy-Conserving Unstaggered Electromagnetic-Potential Particle-in-Cell Method, Part I: Non-relativistic Generalized-Momentum Formulation",
+      "source_url": "https://arxiv.org/abs/2606.15035",
+      "publication_date": "2026-06-13",
+      "journal": "arXiv 预印本（高相关补充）",
+      "topic": "结构保持 PIC + Lorenz gauge / Gauss 定律 + 总能量守恒"
+    },
+    {
+      "doi": "10.48550/arXiv.2606.13183",
+      "title": "Ultrashort Pulse Train Generation on a 100TW Laser Beamline Using a Delay Mask After the Final Focusing Optics",
+      "source_url": "https://arxiv.org/abs/2606.13183",
+      "publication_date": "2026-06-11",
+      "journal": "arXiv 预印本（高相关补充）",
+      "topic": "ReMPI / LWFA 脉冲列前端实验技术"
+    }
+  ],
+  "download_attempts": [
+    {
+      "doi": "10.48550/arXiv.2606.17733",
+      "title": "Latent Residual-Closure Fourier Neural Operator for Robust Multi-Field Solving in Particle-in-Cell Simulations",
+      "cmd": "python scripts/safe_pdf_download.py --url https://arxiv.org/pdf/2606.17733.pdf --url https://arxiv.org/abs/2606.17733 --doi 10.48550/arXiv.2606.17733 --output \"daily/2026-06-18/pdfs/Jianhua Lyu and Linlin Zhong - 2026 - Latent Residual-Closure Fourier Neural Operator for Robust Multi-Field Solving in Particle-in-Cell Simulations.pdf\" --report-json daily/2026-06-18/lrc_fno_report.json",
+      "returncode": 0,
+      "stdout": "Downloaded via env-proxy.",
+      "stderr": "",
+      "output_pdf": "daily/2026-06-18/pdfs/Jianhua Lyu and Linlin Zhong - 2026 - Latent Residual-Closure Fourier Neural Operator for Robust Multi-Field Solving in Particle-in-Cell Simulations.pdf",
+      "attempted_at": "2026-06-18T09:00:00+08:00",
+      "failure_class": null
+    },
+    {
+      "doi": "10.48550/arXiv.2606.15035",
+      "title": "An Energy-Conserving Unstaggered Electromagnetic-Potential Particle-in-Cell Method, Part I: Non-relativistic Generalized-Momentum Formulation",
+      "cmd": "python scripts/safe_pdf_download.py --url https://arxiv.org/pdf/2606.15035.pdf --url https://arxiv.org/abs/2606.15035 --doi 10.48550/arXiv.2606.15035 --output \"daily/2026-06-18/pdfs/Andrew J. Christlieb et al. - 2026 - An Energy-Conserving Unstaggered Electromagnetic-Potential Particle-in-Cell Method, Part I Non-relativistic Generalized-Momentum Formulation.pdf\" --report-json daily/2026-06-18/energy_conserving_pic_report.json",
+      "returncode": 0,
+      "stdout": "Downloaded via env-proxy.",
+      "stderr": "",
+      "output_pdf": "daily/2026-06-18/pdfs/Andrew J. Christlieb et al. - 2026 - An Energy-Conserving Unstaggered Electromagnetic-Potential Particle-in-Cell Method, Part I Non-relativistic Generalized-Momentum Formulation.pdf",
+      "attempted_at": "2026-06-18T09:00:00+08:00",
+      "failure_class": null
+    },
+    {
+      "doi": "10.48550/arXiv.2606.13183",
+      "title": "Ultrashort Pulse Train Generation on a 100TW Laser Beamline Using a Delay Mask After the Final Focusing Optics",
+      "cmd": "python scripts/safe_pdf_download.py --url https://arxiv.org/pdf/2606.13183.pdf --url https://arxiv.org/abs/2606.13183 --doi 10.48550/arXiv.2606.13183 --output \"daily/2026-06-18/pdfs/David Gregocki et al. - 2026 - Ultrashort Pulse Train Generation on a 100TW Laser Beamline Using a Delay Mask After the Final Focusing Optics.pdf\" --report-json daily/2026-06-18/ultrashort_pulse_train_report.json",
+      "returncode": 0,
+      "stdout": "Downloaded via env-proxy.",
+      "stderr": "",
+      "output_pdf": "daily/2026-06-18/pdfs/David Gregocki et al. - 2026 - Ultrashort Pulse Train Generation on a 100TW Laser Beamline Using a Delay Mask After the Final Focusing Optics.pdf",
+      "attempted_at": "2026-06-18T09:00:00+08:00",
+      "failure_class": null
+    }
+  ],
+  "retry_queue_attempt": {
+    "cmd": null,
+    "completed": false,
+    "note": "未运行全量重试；旧队列仍是已明确的来源侧限制，不值得在本轮耗时空跑。"
+  },
+  "artifacts_written": [
+    "daily/2026-06-18/index.md",
+    "daily/2026-06-18/run_results.json",
+    "daily/2026-06-18/pdfs/Jianhua Lyu and Linlin Zhong - 2026 - Latent Residual-Closure Fourier Neural Operator for Robust Multi-Field Solving in Particle-in-Cell Simulations.pdf",
+    "daily/2026-06-18/pdfs/Andrew J. Christlieb et al. - 2026 - An Energy-Conserving Unstaggered Electromagnetic-Potential Particle-in-Cell Method, Part I Non-relativistic Generalized-Momentum Formulation.pdf",
+    "daily/2026-06-18/pdfs/David Gregocki et al. - 2026 - Ultrashort Pulse Train Generation on a 100TW Laser Beamline Using a Delay Mask After the Final Focusing Optics.pdf",
+    "daily/2026-06-18/notes/Jianhua Lyu and Linlin Zhong - 2026 - Latent Residual-Closure Fourier Neural Operator for Robust Multi-Field Solving in Particle-in-Cell Simulations.md",
+    "daily/2026-06-18/notes/Andrew J. Christlieb et al. - 2026 - An Energy-Conserving Unstaggered Electromagnetic-Potential Particle-in-Cell Method, Part I Non-relativistic Generalized-Momentum Formulation.md",
+    "daily/2026-06-18/notes/David Gregocki et al. - 2026 - Ultrashort Pulse Train Generation on a 100TW Laser Beamline Using a Delay Mask After the Final Focusing Optics.md",
+    "state/processed_articles.json",
+    "README.md",
+    "TODO.md"
+  ],
+  "processed_articles_json": "appended_3",
+  "daily_retry_candidates_json": "unchanged"
+}

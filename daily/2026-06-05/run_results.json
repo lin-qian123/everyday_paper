@@ -1,0 +1,74 @@
+{
+  "date": "2026-06-05",
+  "dedup_unique_doi_keys": 85,
+  "source_connectivity_checks": [],
+  "new_candidates": [
+    {
+      "doi": "10.1016/j.fpp.2026.100125",
+      "title": "Three-Dimensional Hybrid PIC-Fluid Simulation of Electron and Ion Dynamics in Laser-Produced Plasma Plumes",
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S277282852600018X",
+      "publication_date": "2026-05-25",
+      "journal": "Fundamental Plasma Physics（正式期刊，Open Access，In Press）",
+      "topic": "激光产生等离子体 + 三维 hybrid PIC-fluid 建模 + 非局域输运与离子加速"
+    },
+    {
+      "doi": "10.1038/s41598-025-34221-x",
+      "title": "Influence of plasma, surface, and angle on interlinked X-ray emission dynamics in femtosecond burst pulse ablation",
+      "source_url": "https://www.nature.com/articles/s41598-025-34221-x",
+      "publication_date": "2026-01-08",
+      "journal": "Scientific Reports（正式期刊，Open Access）",
+      "topic": "超快激光-等离子体 X 射线发射 + 激光烧蚀等离子体动力学 + 高场诊断"
+    },
+    {
+      "doi": "10.1017/hpl.2026.10129",
+      "title": "Compensation of Carrier Envelope Phase Slip using Machine Learning",
+      "source_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B32858B8FE18A723B7BE4BB80A4F8D9B/S2095471926101297a.pdf/compensation-of-carrier-envelope-phase-slip-using-machine-learning.pdf",
+      "publication_date": "2026-05",
+      "journal": "High Power Laser Science and Engineering（Accepted manuscript，官方已接收）",
+      "topic": "AI/机器学习用于高功率飞秒激光控制 + CEP 稳定 + 强场实验基础设施"
+    }
+  ],
+  "download_attempts": [
+    {
+      "doi": "10.1016/j.fpp.2026.100125",
+      "title": "Three-Dimensional Hybrid PIC-Fluid Simulation of Electron and Ion Dynamics in Laser-Produced Plasma Plumes",
+      "cmd": "python scripts/safe_pdf_download.py --url https://www.sciencedirect.com/science/article/pii/S277282852600018X/pdfft --url https://www.sciencedirect.com/science/article/pii/S277282852600018X --doi 10.1016/j.fpp.2026.100125 --output '/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-05/pdfs/Fundamental Plasma Physics authors - 2026 - Three-Dimensional Hybrid PIC-Fluid Simulation of Electron and Ion Dynamics in Laser-Produced Plasma Plumes.pdf'",
+      "returncode": 1,
+      "stdout": "",
+      "stderr": "Failed to download PDF. Attempts:\n- [env-proxy] https://www.sciencedirect.com/science/article/pii/S277282852600018X/pdfft -> URLError: <urlopen error [Errno 1] Operation not permitted>\n- [direct] https://www.sciencedirect.com/science/article/pii/S277282852600018X/pdfft -> URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>\n- [env-proxy] https://www.sciencedirect.com/science/article/pii/S277282852600018X -> URLError: <urlopen error [Errno 1] Operation not permitted>\n- [direct] https://www.sciencedirect.com/science/article/pii/S277282852600018X -> URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>\n- [env-proxy] https://doi.org/10.1016/j.fpp.2026.100125 -> URLError: <urlopen error [Errno 1] Operation not permitted>\n- [direct] https://doi.org/10.1016/j.fpp.2026.100125 -> URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>\n",
+      "output_pdf": "daily/2026-06-05/pdfs/Fundamental Plasma Physics authors - 2026 - Three-Dimensional Hybrid PIC-Fluid Simulation of Electron and Ion Dynamics in Laser-Produced Plasma Plumes.pdf",
+      "attempted_at": "2026-06-05T09:29:03+0800"
+    },
+    {
+      "doi": "10.1038/s41598-025-34221-x",
+      "title": "Influence of plasma, surface, and angle on interlinked X-ray emission dynamics in femtosecond burst pulse ablation",
+      "cmd": "python scripts/safe_pdf_download.py --url https://www.nature.com/articles/s41598-025-34221-x.pdf --url https://www.nature.com/articles/s41598-025-34221-x --doi 10.1038/s41598-025-34221-x --output '/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-05/pdfs/Daniel Metzner et al. - 2026 - Influence of plasma surface and angle on interlinked X-ray emission dynamics in femtosecond burst pulse ablation.pdf'",
+      "returncode": 1,
+      "stdout": "",
+      "stderr": "Failed to download PDF. Attempts:\n- [env-proxy] https://www.nature.com/articles/s41598-025-34221-x.pdf -> URLError: <urlopen error [Errno 1] Operation not permitted>\n- [direct] https://www.nature.com/articles/s41598-025-34221-x.pdf -> URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>\n- [env-proxy] https://www.nature.com/articles/s41598-025-34221-x -> URLError: <urlopen error [Errno 1] Operation not permitted>\n- [direct] https://www.nature.com/articles/s41598-025-34221-x -> URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>\n- [env-proxy] https://doi.org/10.1038/s41598-025-34221-x -> URLError: <urlopen error [Errno 1] Operation not permitted>\n- [direct] https://doi.org/10.1038/s41598-025-34221-x -> URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>\n",
+      "output_pdf": "daily/2026-06-05/pdfs/Daniel Metzner et al. - 2026 - Influence of plasma surface and angle on interlinked X-ray emission dynamics in femtosecond burst pulse ablation.pdf",
+      "attempted_at": "2026-06-05T09:29:03+0800"
+    },
+    {
+      "doi": "10.1017/hpl.2026.10129",
+      "title": "Compensation of Carrier Envelope Phase Slip using Machine Learning",
+      "cmd": "python scripts/safe_pdf_download.py --url https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B32858B8FE18A723B7BE4BB80A4F8D9B/S2095471926101297a.pdf/compensation-of-carrier-envelope-phase-slip-using-machine-learning.pdf --url https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/compensation-of-carrier-envelope-phase-slip-using-machine-learning/B32858B8FE18A723B7BE4BB80A4F8D9B --doi 10.1017/hpl.2026.10129 --output '/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-05/pdfs/Sung In Hwang et al. - 2026 - Compensation of Carrier Envelope Phase Slip using Machine Learning.pdf'",
+      "returncode": 1,
+      "stdout": "",
+      "stderr": "Failed to download PDF. Attempts:\n- [env-proxy] https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B32858B8FE18A723B7BE4BB80A4F8D9B/S2095471926101297a.pdf/compensation-of-carrier-envelope-phase-slip-using-machine-learning.pdf -> URLError: <urlopen error [Errno 1] Operation not permitted>\n- [direct] https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B32858B8FE18A723B7BE4BB80A4F8D9B/S2095471926101297a.pdf/compensation-of-carrier-envelope-phase-slip-using-machine-learning.pdf -> URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>\n- [env-proxy] https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/compensation-of-carrier-envelope-phase-slip-using-machine-learning/B32858B8FE18A723B7BE4BB80A4F8D9B -> URLError: <urlopen error [Errno 1] Operation not permitted>\n- [direct] https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/compensation-of-carrier-envelope-phase-slip-using-machine-learning/B32858B8FE18A723B7BE4BB80A4F8D9B -> URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>\n- [env-proxy] https://doi.org/10.1017/hpl.2026.10129 -> URLError: <urlopen error [Errno 1] Operation not permitted>\n- [direct] https://doi.org/10.1017/hpl.2026.10129 -> URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>\n",
+      "output_pdf": "daily/2026-06-05/pdfs/Sung In Hwang et al. - 2026 - Compensation of Carrier Envelope Phase Slip using Machine Learning.pdf",
+      "attempted_at": "2026-06-05T09:29:03+0800"
+    }
+  ],
+  "notes_generated": [],
+  "state_update": {
+    "processed_articles_appended": 0,
+    "retry_candidates_appended": 3,
+    "dedup_basis": [
+      "state/processed_articles.json",
+      "state/daily_retry_candidates.json"
+    ],
+    "dedup_unique_keys": 88
+  },
+  "blocked_reason": "Official-source metadata was confirmed, but external network egress in the local runtime still blocks PDF download and validation."
+}

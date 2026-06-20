@@ -1,0 +1,124 @@
+{
+  "date": "2026-06-15",
+  "dedup_unique_doi_keys": 218,
+  "source_connectivity_checks": [
+    {
+      "url": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/accepted-manuscripts",
+      "ok": true,
+      "error": null,
+      "note": "Cambridge accepted manuscripts 可访问，但未筛出比现有基线更强且明确非重复的新目标条目。"
+    },
+    {
+      "url": "https://arxiv.org/list/physics.plasm-ph/current",
+      "ok": true,
+      "error": null,
+      "note": "arXiv plasma 当前列表可访问，并筛出 4 条高相关非重复预印本候选中的 3 条主要来源。"
+    },
+    {
+      "url": "https://arxiv.org/list/physics.acc-ph/current",
+      "ok": true,
+      "error": null,
+      "note": "arXiv accelerator 当前列表可访问，用于交叉确认未重复的 PIC / accelerator 相关候选。"
+    }
+  ],
+  "new_candidates": [
+    {
+      "doi": "10.48550/arXiv.2606.08827",
+      "title": "High-dimensional inverse design of inertial fusion implosions via differentiable simulation",
+      "source_url": "https://arxiv.org/abs/2606.08827",
+      "publication_date": "2026-06-07",
+      "journal": "arXiv 预印本（高相关补充）",
+      "topic": "AI/ML 驱动的 ICF implosion inverse design"
+    },
+    {
+      "doi": "10.48550/arXiv.2606.09168",
+      "title": "Conservative Charge and Current Deposition on Nonuniform 3D Cylindrical PIC Meshes with Residual Self-Field Diagnostics",
+      "source_url": "https://arxiv.org/abs/2606.09168",
+      "publication_date": "2026-06-08",
+      "journal": "arXiv 预印本（高相关补充）",
+      "topic": "非均匀圆柱网格 PIC 守恒沉积与 residual self-field 诊断"
+    },
+    {
+      "doi": "10.48550/arXiv.2606.05948",
+      "title": "Optimization of EUV output by experimentally validated radiation-hydrodynamic simulations across a broad laser parameter space",
+      "source_url": "https://arxiv.org/abs/2606.05948",
+      "publication_date": "2026-06-04",
+      "journal": "arXiv 预印本（高相关补充）",
+      "topic": "激光产等离子体 EUV 源的辐射流体参数优化"
+    },
+    {
+      "doi": "10.48550/arXiv.2606.01860",
+      "title": "Probing kinetic enhancement of fusion reactivity in turbulent hot spots",
+      "source_url": "https://arxiv.org/abs/2606.01860",
+      "publication_date": "2026-06-01",
+      "journal": "arXiv 预印本（高相关补充）",
+      "topic": "ICF 热点中的非 Maxwell 尾分布、FP 与带核反应 PIC"
+    }
+  ],
+  "download_attempts": [
+    {
+      "doi": "10.48550/arXiv.2606.08827",
+      "title": "High-dimensional inverse design of inertial fusion implosions via differentiable simulation",
+      "cmd": "python3 /Volumes/PHILIPS/programs/everyday_paper/scripts/safe_pdf_download.py --url https://arxiv.org/pdf/2606.08827.pdf --url https://arxiv.org/abs/2606.08827 --doi 10.48550/arXiv.2606.08827 --output /Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-15/pdfs/A. J. Crilly et al. - 2026 - High-dimensional inverse design of inertial fusion implosions via differentiable simulation.pdf",
+      "returncode": 0,
+      "stdout": "Downloaded via env-proxy.",
+      "stderr": "",
+      "output_pdf": "daily/2026-06-15/pdfs/A. J. Crilly et al. - 2026 - High-dimensional inverse design of inertial fusion implosions via differentiable simulation.pdf",
+      "attempted_at": "2026-06-15T09:08:00+08:00",
+      "failure_class": null
+    },
+    {
+      "doi": "10.48550/arXiv.2606.09168",
+      "title": "Conservative Charge and Current Deposition on Nonuniform 3D Cylindrical PIC Meshes with Residual Self-Field Diagnostics",
+      "cmd": "python3 /Volumes/PHILIPS/programs/everyday_paper/scripts/safe_pdf_download.py --url https://arxiv.org/pdf/2606.09168.pdf --url https://arxiv.org/abs/2606.09168 --doi 10.48550/arXiv.2606.09168 --output /Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-15/pdfs/Zhe Liu et al. - 2026 - Conservative Charge and Current Deposition on Nonuniform 3D Cylindrical PIC Meshes with Residual Self-Field Diagnostics.pdf",
+      "returncode": 0,
+      "stdout": "Downloaded via env-proxy.",
+      "stderr": "",
+      "output_pdf": "daily/2026-06-15/pdfs/Zhe Liu et al. - 2026 - Conservative Charge and Current Deposition on Nonuniform 3D Cylindrical PIC Meshes with Residual Self-Field Diagnostics.pdf",
+      "attempted_at": "2026-06-15T09:08:00+08:00",
+      "failure_class": null
+    },
+    {
+      "doi": "10.48550/arXiv.2606.05948",
+      "title": "Optimization of EUV output by experimentally validated radiation-hydrodynamic simulations across a broad laser parameter space",
+      "cmd": "python3 /Volumes/PHILIPS/programs/everyday_paper/scripts/safe_pdf_download.py --url https://arxiv.org/pdf/2606.05948.pdf --url https://arxiv.org/abs/2606.05948 --doi 10.48550/arXiv.2606.05948 --output /Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-15/pdfs/Nozomi Tanaka et al. - 2026 - Optimization of EUV output by experimentally validated radiation-hydrodynamic simulations across a broad laser parameter space.pdf",
+      "returncode": 0,
+      "stdout": "Downloaded via env-proxy.",
+      "stderr": "",
+      "output_pdf": "daily/2026-06-15/pdfs/Nozomi Tanaka et al. - 2026 - Optimization of EUV output by experimentally validated radiation-hydrodynamic simulations across a broad laser parameter space.pdf",
+      "attempted_at": "2026-06-15T09:08:00+08:00",
+      "failure_class": null
+    },
+    {
+      "doi": "10.48550/arXiv.2606.01860",
+      "title": "Probing kinetic enhancement of fusion reactivity in turbulent hot spots",
+      "cmd": "python3 /Volumes/PHILIPS/programs/everyday_paper/scripts/safe_pdf_download.py --url https://arxiv.org/pdf/2606.01860.pdf --url https://arxiv.org/abs/2606.01860 --doi 10.48550/arXiv.2606.01860 --output /Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-15/pdfs/Yao Guo et al. - 2026 - Probing kinetic enhancement of fusion reactivity in turbulent hot spots.pdf",
+      "returncode": 0,
+      "stdout": "Downloaded via env-proxy.",
+      "stderr": "",
+      "output_pdf": "daily/2026-06-15/pdfs/Yao Guo et al. - 2026 - Probing kinetic enhancement of fusion reactivity in turbulent hot spots.pdf",
+      "attempted_at": "2026-06-15T09:08:00+08:00",
+      "failure_class": null
+    }
+  ],
+  "state_updates": {
+    "processed_articles_json": "appended_4",
+    "daily_retry_candidates_json": "unchanged",
+    "processed_total_after_run": 109,
+    "retry_total_after_run": 12
+  },
+  "artifacts": [
+    "daily/2026-06-15/index.md",
+    "daily/2026-06-15/run_results.json",
+    "daily/2026-06-15/pdfs/A. J. Crilly et al. - 2026 - High-dimensional inverse design of inertial fusion implosions via differentiable simulation.pdf",
+    "daily/2026-06-15/pdfs/Zhe Liu et al. - 2026 - Conservative Charge and Current Deposition on Nonuniform 3D Cylindrical PIC Meshes with Residual Self-Field Diagnostics.pdf",
+    "daily/2026-06-15/pdfs/Nozomi Tanaka et al. - 2026 - Optimization of EUV output by experimentally validated radiation-hydrodynamic simulations across a broad laser parameter space.pdf",
+    "daily/2026-06-15/pdfs/Yao Guo et al. - 2026 - Probing kinetic enhancement of fusion reactivity in turbulent hot spots.pdf",
+    "daily/2026-06-15/notes/A. J. Crilly et al. - 2026 - High-dimensional inverse design of inertial fusion implosions via differentiable simulation.md",
+    "daily/2026-06-15/notes/Zhe Liu et al. - 2026 - Conservative Charge and Current Deposition on Nonuniform 3D Cylindrical PIC Meshes with Residual Self-Field Diagnostics.md",
+    "daily/2026-06-15/notes/Nozomi Tanaka et al. - 2026 - Optimization of EUV output by experimentally validated radiation-hydrodynamic simulations across a broad laser parameter space.md",
+    "daily/2026-06-15/notes/Yao Guo et al. - 2026 - Probing kinetic enhancement of fusion reactivity in turbulent hot spots.md",
+    "state/processed_articles.json",
+    "state/daily_retry_candidates.json"
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "date": "2026-06-12",
+  "dedup_unique_doi_keys": 208,
+  "source_connectivity_checks": [
+    {
+      "url": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/latest-issue",
+      "ok": true,
+      "error": null,
+      "note": "官方来源页面可访问，但本轮未识别到清晰且未重复的新正式论文，转入 arXiv 高相关补充。"
+    },
+    {
+      "url": "https://www.nature.com/search?q=laser%20plasma&order=date_desc",
+      "ok": true,
+      "error": null,
+      "note": "Nature 检索页可访问，但未确认到清晰且未重复的新增高相关正式论文。"
+    },
+    {
+      "url": "https://arxiv.org",
+      "ok": true,
+      "error": null,
+      "note": "arXiv 可访问，作为今日高相关增量补充来源。"
+    }
+  ],
+  "new_candidates": [
+    {
+      "doi": "10.48550/arXiv.2604.20124",
+      "title": "SPRAY: A smoothed particle radiation hydrodynamics code for modeling high intensity laser-plasma interactions",
+      "source_url": "https://arxiv.org/abs/2604.20124",
+      "publication_date": "2026-04-22",
+      "journal": "arXiv 预印本（高相关补充）",
+      "topic": "GPU 加速 SPH 辐射流体代码用于高强度激光等离子体 / HEDP 数值建模"
+    },
+    {
+      "doi": "10.48550/arXiv.2603.05282",
+      "title": "Probing vacuum birefringence in an Ultrastrong Laser Field via High-energy Gamma-ray Polarimetry",
+      "source_url": "https://arxiv.org/abs/2603.05282",
+      "publication_date": "2026-03-05",
+      "journal": "arXiv 预印本（高相关补充）",
+      "topic": "超强激光场下真空双折射探测方案与非微扰强场 QED 模拟"
+    },
+    {
+      "doi": "10.48550/arXiv.2603.04606",
+      "title": "PDE foundation model-accelerated inverse estimation of system parameters in inertial confinement fusion",
+      "source_url": "https://arxiv.org/abs/2603.04606",
+      "publication_date": "2026-03-04",
+      "journal": "arXiv 预印本（高相关补充）",
+      "topic": "PDE foundation model 用于 ICF 多模态诊断反演与参数估计"
+    }
+  ],
+  "download_attempts": [
+    {
+      "doi": "10.48550/arXiv.2604.20124",
+      "title": "SPRAY: A smoothed particle radiation hydrodynamics code for modeling high intensity laser-plasma interactions",
+      "cmd": "python3 /Volumes/PHILIPS/programs/everyday_paper/scripts/safe_pdf_download.py --url https://arxiv.org/pdf/2604.20124.pdf --url https://arxiv.org/abs/2604.20124 --doi 10.48550/arXiv.2604.20124 --output /Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-12/pdfs/Min Ki Jung et al. - 2026 - SPRAY - A smoothed particle radiation hydrodynamics code for modeling high intensity laser-plasma interactions.pdf --report-json /var/folders/s4/q05dbzvd73v7hkm6t0_6ccrm0000gn/T/tmp56s0_2_8/report.json",
+      "returncode": 0,
+      "stdout": "Downloaded: /Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-12/pdfs/Min Ki Jung et al. - 2026 - SPRAY - A smoothed particle radiation hydrodynamics code for modeling high intensity laser-plasma interactions.pdf (17973911 bytes) from https://arxiv.org/pdf/2604.20124.pdf via env-proxy\n",
+      "stderr": "",
+      "output_pdf": "daily/2026-06-12/pdfs/Min Ki Jung et al. - 2026 - SPRAY - A smoothed particle radiation hydrodynamics code for modeling high intensity laser-plasma interactions.pdf",
+      "attempted_at": "2026-06-12T09:07:04+08:00",
+      "failure_class": null
+    },
+    {
+      "doi": "10.48550/arXiv.2603.05282",
+      "title": "Probing vacuum birefringence in an Ultrastrong Laser Field via High-energy Gamma-ray Polarimetry",
+      "cmd": "python3 /Volumes/PHILIPS/programs/everyday_paper/scripts/safe_pdf_download.py --url https://arxiv.org/pdf/2603.05282.pdf --url https://arxiv.org/abs/2603.05282 --doi 10.48550/arXiv.2603.05282 --output /Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-12/pdfs/Da-Lin Wang et al. - 2026 - Probing vacuum birefringence in an Ultrastrong Laser Field via High-energy Gamma-ray Polarimetry.pdf --report-json /var/folders/s4/q05dbzvd73v7hkm6t0_6ccrm0000gn/T/tmps39yt5aq/report.json",
+      "returncode": 0,
+      "stdout": "Downloaded: /Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-12/pdfs/Da-Lin Wang et al. - 2026 - Probing vacuum birefringence in an Ultrastrong Laser Field via High-energy Gamma-ray Polarimetry.pdf (6623817 bytes) from https://arxiv.org/pdf/2603.05282.pdf via env-proxy\n",
+      "stderr": "",
+      "output_pdf": "daily/2026-06-12/pdfs/Da-Lin Wang et al. - 2026 - Probing vacuum birefringence in an Ultrastrong Laser Field via High-energy Gamma-ray Polarimetry.pdf",
+      "attempted_at": "2026-06-12T09:07:15+08:00",
+      "failure_class": null
+    },
+    {
+      "doi": "10.48550/arXiv.2603.04606",
+      "title": "PDE foundation model-accelerated inverse estimation of system parameters in inertial confinement fusion",
+      "cmd": "python3 /Volumes/PHILIPS/programs/everyday_paper/scripts/safe_pdf_download.py --url https://arxiv.org/pdf/2603.04606.pdf --url https://arxiv.org/abs/2603.04606 --doi 10.48550/arXiv.2603.04606 --output /Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-12/pdfs/Mahindra Rautela et al. - 2026 - PDE foundation model-accelerated inverse estimation of system parameters in inertial confinement fusion.pdf --report-json /var/folders/s4/q05dbzvd73v7hkm6t0_6ccrm0000gn/T/tmpdqg8fh5e/report.json",
+      "returncode": 0,
+      "stdout": "Downloaded: /Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-12/pdfs/Mahindra Rautela et al. - 2026 - PDE foundation model-accelerated inverse estimation of system parameters in inertial confinement fusion.pdf (3199342 bytes) from https://arxiv.org/pdf/2603.04606.pdf via env-proxy\n",
+      "stderr": "",
+      "output_pdf": "daily/2026-06-12/pdfs/Mahindra Rautela et al. - 2026 - PDE foundation model-accelerated inverse estimation of system parameters in inertial confinement fusion.pdf",
+      "attempted_at": "2026-06-12T09:07:27+08:00",
+      "failure_class": null
+    }
+  ],
+  "notes_generated": [
+    "daily/2026-06-12/notes/Min Ki Jung et al. - 2026 - SPRAY - A smoothed particle radiation hydrodynamics code for modeling high intensity laser-plasma interactions.md",
+    "daily/2026-06-12/notes/Da-Lin Wang et al. - 2026 - Probing vacuum birefringence in an Ultrastrong Laser Field via High-energy Gamma-ray Polarimetry.md",
+    "daily/2026-06-12/notes/Mahindra Rautela et al. - 2026 - PDE foundation model-accelerated inverse estimation of system parameters in inertial confinement fusion.md"
+  ],
+  "state_update": {
+    "processed_articles_json": "appended_3",
+    "daily_retry_candidates_json": "unchanged",
+    "dedup_basis": [
+      "state/processed_articles.json",
+      "state/daily_retry_candidates.json"
+    ],
+    "dedup_unique_keys": 211
+  },
+  "blocked_reason": null
+}

@@ -1,0 +1,124 @@
+{
+  "date": "2026-06-14",
+  "dedup_unique_doi_keys": 214,
+  "source_connectivity_checks": [
+    {
+      "url": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/accepted-manuscripts",
+      "ok": true,
+      "error": null,
+      "note": "Cambridge accepted manuscripts 可访问，并确认 1 条新的高相关正式来源增量。"
+    },
+    {
+      "url": "https://arxiv.org/list/physics.plasm-ph/current",
+      "ok": true,
+      "error": null,
+      "note": "arXiv plasma 列表可访问，并筛出 3 条高相关非重复预印本。"
+    },
+    {
+      "url": "https://arxiv.org/list/physics.acc-ph/current",
+      "ok": true,
+      "error": null,
+      "note": "arXiv accelerator 列表可访问，用于交叉确认 LWFA / PIC 相关候选。"
+    }
+  ],
+  "new_candidates": [
+    {
+      "doi": "10.1017/hpl.2026.10148",
+      "title": "Supersonic gas jet catcher system for differential pumping in laser plasma interaction experiments",
+      "source_url": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/supersonic-gas-jet-catcher-system-for-differential-pumping-in-laser-plasma-interaction-experiments/53E0393B43AA9806F71CF144966C07F5",
+      "publication_date": "2026-05-11",
+      "journal": "High Power Laser Science and Engineering（Accepted manuscript，正式来源）",
+      "topic": "高重复频 LWFA 气体靶、differential pumping 与开放几何集成"
+    },
+    {
+      "doi": "10.48550/arXiv.2606.02454",
+      "title": "Electron injection and acceleration into laser-driven wakefield from a solid overdense plasma target",
+      "source_url": "https://arxiv.org/abs/2606.02454",
+      "publication_date": "2026-06-01",
+      "journal": "arXiv 预印本（高相关补充）",
+      "topic": "两段式过密-欠密结构下的 LWFA 注入与加速"
+    },
+    {
+      "doi": "10.48550/arXiv.2606.04887",
+      "title": "A Reduced-Order Particle-in-Cell Method with Azimuthal Fourier-Decomposed Fields for Nominally Axisymmetric Plasmas",
+      "source_url": "https://arxiv.org/abs/2606.04887",
+      "publication_date": "2026-06-03",
+      "journal": "arXiv 预印本（高相关补充）",
+      "topic": "低阶方位角不稳定性场景下的 reduced-order PIC"
+    },
+    {
+      "doi": "10.48550/arXiv.2606.06210",
+      "title": "A Surrogate Model for Proton Spectrum Prediction to Map Transitions in Laser-Ion Acceleration",
+      "source_url": "https://arxiv.org/abs/2606.06210",
+      "publication_date": "2026-06-04",
+      "journal": "arXiv 预印本（高相关补充）",
+      "topic": "AI/ML 预测 laser-ion acceleration 连续质子能谱"
+    }
+  ],
+  "download_attempts": [
+    {
+      "doi": "10.1017/hpl.2026.10148",
+      "title": "Supersonic gas jet catcher system for differential pumping in laser plasma interaction experiments",
+      "cmd": "curl -L --fail --max-time 120 -o daily/2026-06-14/pdfs/S. Lorenz et al. - 2026 - Supersonic gas jet catcher system for differential pumping in laser plasma interaction experiments.pdf https://www.cambridge.org/core/services/aop-cambridge-core/content/view/53E0393B43AA9806F71CF144966C07F5/S2095471926101480a.pdf/supersonic-gas-jet-catcher-system-for-differential-pumping-in-laser-plasma-interaction-experiments.pdf",
+      "returncode": 0,
+      "stdout": "Downloaded via curl using Cambridge official Save PDF link; local file header validated as %PDF-.",
+      "stderr": "",
+      "output_pdf": "daily/2026-06-14/pdfs/S. Lorenz et al. - 2026 - Supersonic gas jet catcher system for differential pumping in laser plasma interaction experiments.pdf",
+      "attempted_at": "2026-06-14T09:00:00+08:00",
+      "failure_class": null
+    },
+    {
+      "doi": "10.48550/arXiv.2606.02454",
+      "title": "Electron injection and acceleration into laser-driven wakefield from a solid overdense plasma target",
+      "cmd": "python3 /Volumes/PHILIPS/programs/everyday_paper/scripts/safe_pdf_download.py --url https://arxiv.org/pdf/2606.02454.pdf --url https://arxiv.org/abs/2606.02454 --doi 10.48550/arXiv.2606.02454 --output /Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-14/pdfs/M. Caetano de Sousa et al. - 2026 - Electron injection and acceleration into laser-driven wakefield from a solid overdense plasma target.pdf",
+      "returncode": 0,
+      "stdout": "Downloaded via env-proxy.",
+      "stderr": "",
+      "output_pdf": "daily/2026-06-14/pdfs/M. Caetano de Sousa et al. - 2026 - Electron injection and acceleration into laser-driven wakefield from a solid overdense plasma target.pdf",
+      "attempted_at": "2026-06-14T09:00:00+08:00",
+      "failure_class": null
+    },
+    {
+      "doi": "10.48550/arXiv.2606.04887",
+      "title": "A Reduced-Order Particle-in-Cell Method with Azimuthal Fourier-Decomposed Fields for Nominally Axisymmetric Plasmas",
+      "cmd": "python3 /Volumes/PHILIPS/programs/everyday_paper/scripts/safe_pdf_download.py --url https://arxiv.org/pdf/2606.04887.pdf --url https://arxiv.org/abs/2606.04887 --doi 10.48550/arXiv.2606.04887 --output /Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-14/pdfs/Shaun Andrews - 2026 - A Reduced-Order Particle-in-Cell Method with Azimuthal Fourier-Decomposed Fields for Nominally Axisymmetric Plasmas.pdf",
+      "returncode": 0,
+      "stdout": "Downloaded via env-proxy.",
+      "stderr": "",
+      "output_pdf": "daily/2026-06-14/pdfs/Shaun Andrews - 2026 - A Reduced-Order Particle-in-Cell Method with Azimuthal Fourier-Decomposed Fields for Nominally Axisymmetric Plasmas.pdf",
+      "attempted_at": "2026-06-14T09:00:00+08:00",
+      "failure_class": null
+    },
+    {
+      "doi": "10.48550/arXiv.2606.06210",
+      "title": "A Surrogate Model for Proton Spectrum Prediction to Map Transitions in Laser-Ion Acceleration",
+      "cmd": "python3 /Volumes/PHILIPS/programs/everyday_paper/scripts/safe_pdf_download.py --url https://arxiv.org/pdf/2606.06210.pdf --url https://arxiv.org/abs/2606.06210 --doi 10.48550/arXiv.2606.06210 --output /Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-14/pdfs/Chengqi-Zhang et al. - 2026 - A Surrogate Model for Proton Spectrum Prediction to Map Transitions in Laser-Ion Acceleration.pdf",
+      "returncode": 0,
+      "stdout": "Downloaded via env-proxy.",
+      "stderr": "",
+      "output_pdf": "daily/2026-06-14/pdfs/Chengqi-Zhang et al. - 2026 - A Surrogate Model for Proton Spectrum Prediction to Map Transitions in Laser-Ion Acceleration.pdf",
+      "attempted_at": "2026-06-14T09:00:00+08:00",
+      "failure_class": null
+    }
+  ],
+  "state_updates": {
+    "processed_articles_json": "appended_4",
+    "daily_retry_candidates_json": "unchanged",
+    "processed_total_after_run": 105,
+    "retry_total_after_run": 12
+  },
+  "artifacts": [
+    "daily/2026-06-14/index.md",
+    "daily/2026-06-14/run_results.json",
+    "daily/2026-06-14/pdfs/S. Lorenz et al. - 2026 - Supersonic gas jet catcher system for differential pumping in laser plasma interaction experiments.pdf",
+    "daily/2026-06-14/pdfs/M. Caetano de Sousa et al. - 2026 - Electron injection and acceleration into laser-driven wakefield from a solid overdense plasma target.pdf",
+    "daily/2026-06-14/pdfs/Shaun Andrews - 2026 - A Reduced-Order Particle-in-Cell Method with Azimuthal Fourier-Decomposed Fields for Nominally Axisymmetric Plasmas.pdf",
+    "daily/2026-06-14/pdfs/Chengqi-Zhang et al. - 2026 - A Surrogate Model for Proton Spectrum Prediction to Map Transitions in Laser-Ion Acceleration.pdf",
+    "daily/2026-06-14/notes/S. Lorenz et al. - 2026 - Supersonic gas jet catcher system for differential pumping in laser plasma interaction experiments.md",
+    "daily/2026-06-14/notes/M. Caetano de Sousa et al. - 2026 - Electron injection and acceleration into laser-driven wakefield from a solid overdense plasma target.md",
+    "daily/2026-06-14/notes/Shaun Andrews - 2026 - A Reduced-Order Particle-in-Cell Method with Azimuthal Fourier-Decomposed Fields for Nominally Axisymmetric Plasmas.md",
+    "daily/2026-06-14/notes/Chengqi-Zhang et al. - 2026 - A Surrogate Model for Proton Spectrum Prediction to Map Transitions in Laser-Ion Acceleration.md",
+    "state/processed_articles.json",
+    "state/daily_retry_candidates.json"
+  ]
+}

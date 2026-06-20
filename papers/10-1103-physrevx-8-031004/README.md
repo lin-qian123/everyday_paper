@@ -1,0 +1,16 @@
+# Experimental Signatures of the Quantum Nature of Radiation Reaction in the Field of an Ultraintense Laser
+
+## 基本信息
+
+- 分类：[强场 QED 与辐射反作用](../../categories/strong-field-qed-radiation.md), [高能量密度物理、ICF 与实验室天体](../../categories/hedp-icf-laboratory-astrophysics.md), [PIC、动理学与数值模拟](../../categories/pic-and-plasma-simulation.md), [AI/机器学习与等离子体物理](../../categories/ai-ml-plasma-physics.md), [实验平台、靶设计与诊断](../../categories/experimental-platforms-diagnostics.md)
+- 期刊/平台：Physical Review X
+- 发表日期：2018-07-05
+- 入库日期：2026-03-22
+- DOI：[10.1103/PhysRevX.8.031004](https://doi.org/10.1103/PhysRevX.8.031004)
+- 来源：[https://journals.aps.org/prx/abstract/10.1103/PhysRevX.8.031004](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.8.031004)
+- 中文笔记：[打开笔记](yearly/2018/notes/K. Poder et al. - 2018 - Experimental Signatures of the Quantum Nature of Radiation Reaction in the Field of an Ultraint.md)
+- 本地 PDF：未补回或未跟踪
+
+## 阅读入口
+
+这页由 `scripts/build_indexes.py` 根据 `state/processed_articles.json` 自动生成，核心阅读内容以中文笔记为准。

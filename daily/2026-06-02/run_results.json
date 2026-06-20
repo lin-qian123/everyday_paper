@@ -1,0 +1,54 @@
+{
+  "date": "2026-06-02",
+  "dedup_unique_doi_keys": 77,
+  "source_connectivity_checks": [],
+  "new_candidates": [
+    {
+      "doi": "10.1038/s41467-026-73196-9",
+      "title": "Quasi-monoenergetic deuteron acceleration via boosted coulomb explosion by reflected picosecond laser pulse",
+      "source_url": "https://www.nature.com/articles/s41467-026-73196-9",
+      "publication_date": "2026-05-29",
+      "journal": "Nature Communications（正式期刊）",
+      "topic": "激光离子加速 + 惯性约束聚变相关离子源 + 激光等离子体实验"
+    },
+    {
+      "doi": "10.1038/s41598-025-29793-7",
+      "title": "Multi-PW laser-driven proton acceleration using a plasma-lens target",
+      "source_url": "https://www.nature.com/articles/s41598-025-29793-7",
+      "publication_date": "2025-12-06",
+      "journal": "Scientific Reports（正式期刊）",
+      "topic": "多 PW 激光质子加速 + 近临界等离子体透镜 + HEDP 应用"
+    }
+  ],
+  "download_attempts": [
+    {
+      "doi": "10.1038/s41467-026-73196-9",
+      "title": "Quasi-monoenergetic deuteron acceleration via boosted coulomb explosion by reflected picosecond laser pulse",
+      "cmd": "python scripts/safe_pdf_download.py --url https://www.nature.com/articles/s41467-026-73196-9.pdf --url https://www.nature.com/articles/s41467-026-73196-9 --doi 10.1038/s41467-026-73196-9 --output '/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-02/pdfs/Tianyun Wei et al. - 2026 - Quasi-monoenergetic deuteron acceleration via boosted coulomb explosion by reflected picosecond laser pulse.pdf'",
+      "returncode": 1,
+      "stdout": "",
+      "stderr": "Failed to download PDF. Attempts:\n- [env-proxy] https://www.nature.com/articles/s41467-026-73196-9.pdf -> URLError: <urlopen error [Errno 1] Operation not permitted>\n- [direct] https://www.nature.com/articles/s41467-026-73196-9.pdf -> URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>\n- [env-proxy] https://www.nature.com/articles/s41467-026-73196-9 -> URLError: <urlopen error [Errno 1] Operation not permitted>\n- [direct] https://www.nature.com/articles/s41467-026-73196-9 -> URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>\n- [env-proxy] https://doi.org/10.1038/s41467-026-73196-9 -> URLError: <urlopen error [Errno 1] Operation not permitted>\n- [direct] https://doi.org/10.1038/s41467-026-73196-9 -> URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "output_pdf": "daily/2026-06-02/pdfs/Tianyun Wei et al. - 2026 - Quasi-monoenergetic deuteron acceleration via boosted coulomb explosion by reflected picosecond laser pulse.pdf"
+    },
+    {
+      "doi": "10.1038/s41598-025-29793-7",
+      "title": "Multi-PW laser-driven proton acceleration using a plasma-lens target",
+      "cmd": "python scripts/safe_pdf_download.py --url https://www.nature.com/articles/s41598-025-29793-7.pdf --url https://www.nature.com/articles/s41598-025-29793-7 --doi 10.1038/s41598-025-29793-7 --output '/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-02/pdfs/Vojtěch Horný et al. - 2026 - Multi-PW laser-driven proton acceleration using a plasma-lens target.pdf'",
+      "returncode": 1,
+      "stdout": "",
+      "stderr": "Failed to download PDF. Attempts:\n- [env-proxy] https://www.nature.com/articles/s41598-025-29793-7.pdf -> URLError: <urlopen error [Errno 1] Operation not permitted>\n- [direct] https://www.nature.com/articles/s41598-025-29793-7.pdf -> URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>\n- [env-proxy] https://www.nature.com/articles/s41598-025-29793-7 -> URLError: <urlopen error [Errno 1] Operation not permitted>\n- [direct] https://www.nature.com/articles/s41598-025-29793-7 -> URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>\n- [env-proxy] https://doi.org/10.1038/s41598-025-29793-7 -> URLError: <urlopen error [Errno 1] Operation not permitted>\n- [direct] https://doi.org/10.1038/s41598-025-29793-7 -> URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "output_pdf": "daily/2026-06-02/pdfs/Vojtěch Horný et al. - 2026 - Multi-PW laser-driven proton acceleration using a plasma-lens target.pdf"
+    }
+  ],
+  "notes_generated": [],
+  "state_update": {
+    "processed_articles_appended": 0,
+    "retry_candidates_appended": 2,
+    "dedup_basis": [
+      "state/processed_articles.json",
+      "state/daily_retry_candidates.json"
+    ],
+    "dedup_unique_keys": 79
+  },
+  "blocked_reason": "Official-source metadata was confirmed, but external network egress in the local runtime still blocks PDF download and validation."
+}

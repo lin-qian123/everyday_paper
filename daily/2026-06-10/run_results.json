@@ -1,0 +1,71 @@
+{
+  "date": "2026-06-10",
+  "dedup_unique_doi_keys": 196,
+  "new_candidates": [
+    {
+      "doi": "10.48550/arXiv.2602.19110",
+      "title": "Machine learning prediction of plasma behavior from discharge configurations on WEST",
+      "source_url": "https://arxiv.org/abs/2602.19110",
+      "publication_date": "2026-02-22",
+      "journal": "arXiv 预印本（高相关补充）",
+      "topic": "AI/ML 预测 tokamak 放电配置到全局等离子体参数"
+    },
+    {
+      "doi": "10.48550/arXiv.2603.28473",
+      "title": "Simulation Design for Velocity-Controlled Spatio-Temporal Drivers in Laser Wakefield Acceleration",
+      "source_url": "https://arxiv.org/abs/2603.28473",
+      "publication_date": "2026-03-30",
+      "journal": "arXiv 预印本（高相关补充）",
+      "topic": "时空驱动激光尾场加速的 OSIRIS/PIC 仿真设计"
+    },
+    {
+      "doi": "10.48550/arXiv.2604.09032",
+      "title": "A Fully Electromagnetic Hybrid PIC-Fluid Model for Predictive Fusion Neutron Yield in Dense Plasma Focus",
+      "source_url": "https://arxiv.org/abs/2604.09032",
+      "publication_date": "2026-04-10",
+      "journal": "arXiv 预印本（高相关补充）",
+      "topic": "Dense plasma focus 的混合 PIC-fluid 中子产额预测"
+    }
+  ],
+  "download_attempts": [
+    {
+      "doi": "10.48550/arXiv.2602.19110",
+      "title": "Machine learning prediction of plasma behavior from discharge configurations on WEST",
+      "cmd": "python3 scripts/safe_pdf_download.py --url https://arxiv.org/pdf/2602.19110.pdf --url https://arxiv.org/abs/2602.19110 --doi 10.48550/arXiv.2602.19110 --output \"daily/2026-06-10/pdfs/Chenguang Wan et al. - 2026 - Machine learning prediction of plasma behavior from discharge configurations on WEST.pdf\"",
+      "returncode": 1,
+      "stdout": "",
+      "stderr": "Failed to download PDF. Attempts:\n- [env-proxy] https://arxiv.org/pdf/2602.19110.pdf -> curl: curl: (7) Failed to connect to 127.0.0.1 port 1087 after 0 ms: Couldn't connect to server\n- [direct] https://arxiv.org/pdf/2602.19110.pdf -> curl: curl: (6) Could not resolve host: arxiv.org\n- [env-proxy] https://arxiv.org/abs/2602.19110 -> curl: curl: (7) Failed to connect to 127.0.0.1 port 1087 after 0 ms: Couldn't connect to server\n- [direct] https://arxiv.org/abs/2602.19110 -> curl: curl: (6) Could not resolve host: arxiv.org\n- [env-proxy] https://doi.org/10.48550/arXiv.2602.19110 -> curl: curl: (7) Failed to connect to 127.0.0.1 port 1087 after 0 ms: Couldn't connect to server\n- [direct] https://doi.org/10.48550/arXiv.2602.19110 -> curl: curl: (6) Could not resolve host: doi.org\n",
+      "output_pdf": "daily/2026-06-10/pdfs/Chenguang Wan et al. - 2026 - Machine learning prediction of plasma behavior from discharge configurations on WEST.pdf",
+      "attempted_at": "2026-06-10T09:04:11+08:00",
+      "failure_class": "runtime_proxy_blocked"
+    },
+    {
+      "doi": "10.48550/arXiv.2603.28473",
+      "title": "Simulation Design for Velocity-Controlled Spatio-Temporal Drivers in Laser Wakefield Acceleration",
+      "cmd": "python3 scripts/safe_pdf_download.py --url https://arxiv.org/pdf/2603.28473.pdf --url https://arxiv.org/abs/2603.28473 --doi 10.48550/arXiv.2603.28473 --output \"daily/2026-06-10/pdfs/Chiara Badiali et al. - 2026 - Simulation Design for Velocity-Controlled Spatio-Temporal Drivers in Laser Wakefield Acceleration.pdf\"",
+      "returncode": 1,
+      "stdout": "",
+      "stderr": "Failed to download PDF. Attempts:\n- [env-proxy] https://arxiv.org/pdf/2603.28473.pdf -> curl: curl: (7) Failed to connect to 127.0.0.1 port 1087 after 0 ms: Couldn't connect to server\n- [direct] https://arxiv.org/pdf/2603.28473.pdf -> curl: curl: (6) Could not resolve host: arxiv.org\n- [env-proxy] https://arxiv.org/abs/2603.28473 -> curl: curl: (7) Failed to connect to 127.0.0.1 port 1087 after 0 ms: Couldn't connect to server\n- [direct] https://arxiv.org/abs/2603.28473 -> curl: curl: (6) Could not resolve host: arxiv.org\n- [env-proxy] https://doi.org/10.48550/arXiv.2603.28473 -> curl: curl: (7) Failed to connect to 127.0.0.1 port 1087 after 0 ms: Couldn't connect to server\n- [direct] https://doi.org/10.48550/arXiv.2603.28473 -> curl: curl: (6) Could not resolve host: doi.org\n",
+      "output_pdf": "daily/2026-06-10/pdfs/Chiara Badiali et al. - 2026 - Simulation Design for Velocity-Controlled Spatio-Temporal Drivers in Laser Wakefield Acceleration.pdf",
+      "attempted_at": "2026-06-10T09:04:12+08:00",
+      "failure_class": "runtime_proxy_blocked"
+    },
+    {
+      "doi": "10.48550/arXiv.2604.09032",
+      "title": "A Fully Electromagnetic Hybrid PIC-Fluid Model for Predictive Fusion Neutron Yield in Dense Plasma Focus",
+      "cmd": "python3 scripts/safe_pdf_download.py --url https://arxiv.org/pdf/2604.09032.pdf --url https://arxiv.org/abs/2604.09032 --doi 10.48550/arXiv.2604.09032 --output \"daily/2026-06-10/pdfs/Yinjian Zhao et al. - 2026 - A Fully Electromagnetic Hybrid PIC-Fluid Model for Predictive Fusion Neutron Yield in Dense Plasma Focus.pdf\"",
+      "returncode": 1,
+      "stdout": "",
+      "stderr": "Failed to download PDF. Attempts:\n- [env-proxy] https://arxiv.org/pdf/2604.09032.pdf -> curl: curl: (7) Failed to connect to 127.0.0.1 port 1087 after 0 ms: Couldn't connect to server\n- [direct] https://arxiv.org/pdf/2604.09032.pdf -> curl: curl: (6) Could not resolve host: arxiv.org\n- [env-proxy] https://arxiv.org/abs/2604.09032 -> curl: curl: (7) Failed to connect to 127.0.0.1 port 1087 after 0 ms: Couldn't connect to server\n- [direct] https://arxiv.org/abs/2604.09032 -> curl: curl: (6) Could not resolve host: arxiv.org\n- [env-proxy] https://doi.org/10.48550/arXiv.2604.09032 -> curl: curl: (7) Failed to connect to 127.0.0.1 port 1087 after 0 ms: Couldn't connect to server\n- [direct] https://doi.org/10.48550/arXiv.2604.09032 -> curl: curl: (6) Could not resolve host: doi.org\n",
+      "output_pdf": "daily/2026-06-10/pdfs/Yinjian Zhao et al. - 2026 - A Fully Electromagnetic Hybrid PIC-Fluid Model for Predictive Fusion Neutron Yield in Dense Plasma Focus.pdf",
+      "attempted_at": "2026-06-10T09:04:12+08:00",
+      "failure_class": "runtime_proxy_blocked"
+    }
+  ],
+  "notes_generated": [],
+  "state_update": {
+    "processed_articles_json": "unchanged",
+    "daily_retry_candidates_json": "appended_3"
+  },
+  "blocked_reason": "Outbound access remains blocked in the current runtime: env-proxy curl attempts fail to connect to 127.0.0.1:1087, and direct curl attempts fail DNS resolution for arXiv and DOI hosts."
+}
