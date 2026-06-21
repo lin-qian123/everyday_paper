@@ -8,7 +8,7 @@
 - 入库日期：2026-03-22
 - DOI：[10.1103/PhysRevLett.123.025001](https://doi.org/10.1103/PhysRevLett.123.025001)
 - 来源：[https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.025001](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.025001)
-- 中文笔记：[打开笔记](yearly/2019/notes/Matthew R. Edwards et al. - 2019 - Laser Amplification in Strongly Magnetized Plasma.md)
+- 中文笔记：[打开笔记](../../yearly/2019/notes/Matthew R. Edwards et al. - 2019 - Laser Amplification in Strongly Magnetized Plasma.md)
 - 本地 PDF：未补回或未跟踪
 
 ## 索引说明

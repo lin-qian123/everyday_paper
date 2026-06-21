@@ -8,8 +8,8 @@
 - 入库日期：2026-06-14
 - DOI：[10.1017/hpl.2026.10148](https://doi.org/10.1017/hpl.2026.10148)
 - 来源：[https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/supersonic-gas-jet-catcher-system-for-differential-pumping-in-laser-plasma-interaction-experiments/53E0393B43AA9806F71CF144966C07F5](https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/supersonic-gas-jet-catcher-system-for-differential-pumping-in-laser-plasma-interaction-experiments/53E0393B43AA9806F71CF144966C07F5)
-- 中文笔记：[打开笔记](daily/2026-06-14/notes/S. Lorenz et al. - 2026 - Supersonic gas jet catcher system for differential pumping in laser plasma interaction experiments.md)
-- 本地 PDF：[本地路径](daily/2026-06-14/pdfs/S. Lorenz et al. - 2026 - Supersonic gas jet catcher system for differential pumping in laser plasma interaction experiments.pdf)
+- 中文笔记：[打开笔记](../../daily/2026-06-14/notes/S. Lorenz et al. - 2026 - Supersonic gas jet catcher system for differential pumping in laser plasma interaction experiments.md)
+- 本地 PDF：[本地路径](../../daily/2026-06-14/pdfs/S. Lorenz et al. - 2026 - Supersonic gas jet catcher system for differential pumping in laser plasma interaction experiments.pdf)
 
 ## 索引说明
 

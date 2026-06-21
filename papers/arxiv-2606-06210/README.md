@@ -8,8 +8,8 @@
 - 入库日期：2026-06-14
 - DOI：[10.48550/arXiv.2606.06210](https://doi.org/10.48550/arXiv.2606.06210)
 - 来源：[https://arxiv.org/abs/2606.06210](https://arxiv.org/abs/2606.06210)
-- 中文笔记：[打开笔记](daily/2026-06-14/notes/Chengqi-Zhang et al. - 2026 - A Surrogate Model for Proton Spectrum Prediction to Map Transitions in Laser-Ion Acceleration.md)
-- 本地 PDF：[本地路径](daily/2026-06-14/pdfs/Chengqi-Zhang et al. - 2026 - A Surrogate Model for Proton Spectrum Prediction to Map Transitions in Laser-Ion Acceleration.pdf)
+- 中文笔记：[打开笔记](../../daily/2026-06-14/notes/Chengqi-Zhang et al. - 2026 - A Surrogate Model for Proton Spectrum Prediction to Map Transitions in Laser-Ion Acceleration.md)
+- 本地 PDF：[本地路径](../../daily/2026-06-14/pdfs/Chengqi-Zhang et al. - 2026 - A Surrogate Model for Proton Spectrum Prediction to Map Transitions in Laser-Ion Acceleration.pdf)
 
 ## 索引说明
 

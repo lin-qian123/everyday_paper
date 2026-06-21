@@ -9,7 +9,7 @@
 - DOI：[10.1038/s41598-025-29793-7](https://doi.org/10.1038/s41598-025-29793-7)
 - 来源：[https://www.nature.com/articles/s41598-025-29793-7](https://www.nature.com/articles/s41598-025-29793-7)
 - 中文笔记：未生成
-- 本地 PDF：[本地路径](daily/2026-06-02/pdfs/Vojtěch Horný et al. - 2026 - Multi-PW laser-driven proton acceleration using a plasma-lens target.pdf)
+- 本地 PDF：[本地路径](../../daily/2026-06-02/pdfs/Vojtěch Horný et al. - 2026 - Multi-PW laser-driven proton acceleration using a plasma-lens target.pdf)
 
 ## 索引说明
 

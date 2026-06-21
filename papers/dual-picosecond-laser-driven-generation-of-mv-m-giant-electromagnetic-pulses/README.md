@@ -9,7 +9,7 @@
 - DOI：未记录
 - 来源：[https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/dualpicosecondlaserdriven-generation-of-mvm-giant-electromagnetic-pulses/7455A103DE0717CC117130D01914BF65](https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/dualpicosecondlaserdriven-generation-of-mvm-giant-electromagnetic-pulses/7455A103DE0717CC117130D01914BF65)
 - 中文笔记：未生成
-- 本地 PDF：[本地路径](daily/2026-06-06/pdfs/Aihui Niu et al. - 2026 - Dual-picosecond-laser-driven generation of MV-m giant electromagnetic pulses.pdf)
+- 本地 PDF：[本地路径](../../daily/2026-06-06/pdfs/Aihui Niu et al. - 2026 - Dual-picosecond-laser-driven generation of MV-m giant electromagnetic pulses.pdf)
 
 ## 索引说明
 

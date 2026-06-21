@@ -8,8 +8,8 @@
 - 入库日期：2026-06-15
 - DOI：[10.48550/arXiv.2606.09168](https://doi.org/10.48550/arXiv.2606.09168)
 - 来源：[https://arxiv.org/abs/2606.09168](https://arxiv.org/abs/2606.09168)
-- 中文笔记：[打开笔记](daily/2026-06-15/notes/Zhe Liu et al. - 2026 - Conservative Charge and Current Deposition on Nonuniform 3D Cylindrical PIC Meshes with Residual Self-Field Diagnostics.md)
-- 本地 PDF：[本地路径](daily/2026-06-15/pdfs/Zhe Liu et al. - 2026 - Conservative Charge and Current Deposition on Nonuniform 3D Cylindrical PIC Meshes with Residual Self-Field Diagnostics.pdf)
+- 中文笔记：[打开笔记](../../daily/2026-06-15/notes/Zhe Liu et al. - 2026 - Conservative Charge and Current Deposition on Nonuniform 3D Cylindrical PIC Meshes with Residual Self-Field Diagnostics.md)
+- 本地 PDF：[本地路径](../../daily/2026-06-15/pdfs/Zhe Liu et al. - 2026 - Conservative Charge and Current Deposition on Nonuniform 3D Cylindrical PIC Meshes with Residual Self-Field Diagnostics.pdf)
 
 ## 索引说明
 

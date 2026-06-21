@@ -9,7 +9,7 @@
 - DOI：[10.48550/arXiv.2604.25823](https://doi.org/10.48550/arXiv.2604.25823)
 - 来源：[https://arxiv.org/abs/2604.25823](https://arxiv.org/abs/2604.25823)
 - 中文笔记：未生成
-- 本地 PDF：[本地路径](daily/2026-05-20/pdfs/arXiv authors - 2026 - Revealing Laser and Electron Beam Evolution in 10-GeV-class Laser-Plasma Accelerators.pdf)
+- 本地 PDF：[本地路径](../../daily/2026-05-20/pdfs/arXiv authors - 2026 - Revealing Laser and Electron Beam Evolution in 10-GeV-class Laser-Plasma Accelerators.pdf)
 
 ## 索引说明
 

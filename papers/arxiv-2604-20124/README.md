@@ -8,8 +8,8 @@
 - 入库日期：2026-06-12
 - DOI：[10.48550/arXiv.2604.20124](https://doi.org/10.48550/arXiv.2604.20124)
 - 来源：[https://arxiv.org/abs/2604.20124](https://arxiv.org/abs/2604.20124)
-- 中文笔记：[打开笔记](daily/2026-06-12/notes/Min Ki Jung et al. - 2026 - SPRAY - A smoothed particle radiation hydrodynamics code for modeling high intensity laser-plasma interactions.md)
-- 本地 PDF：[本地路径](daily/2026-06-12/pdfs/Min Ki Jung et al. - 2026 - SPRAY - A smoothed particle radiation hydrodynamics code for modeling high intensity laser-plasma interactions.pdf)
+- 中文笔记：[打开笔记](../../daily/2026-06-12/notes/Min Ki Jung et al. - 2026 - SPRAY - A smoothed particle radiation hydrodynamics code for modeling high intensity laser-plasma interactions.md)
+- 本地 PDF：[本地路径](../../daily/2026-06-12/pdfs/Min Ki Jung et al. - 2026 - SPRAY - A smoothed particle radiation hydrodynamics code for modeling high intensity laser-plasma interactions.pdf)
 
 ## 索引说明
 

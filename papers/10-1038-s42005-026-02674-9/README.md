@@ -9,7 +9,7 @@
 - DOI：[10.1038/s42005-026-02674-9](https://doi.org/10.1038/s42005-026-02674-9)
 - 来源：[https://www.nature.com/articles/s42005-026-02674-9](https://www.nature.com/articles/s42005-026-02674-9)
 - 中文笔记：未生成
-- 本地 PDF：[本地路径](daily/2026-06-03/pdfs/Mario Grossmann et al. - 2026 - Ultrafast many-body dynamics of dense Rydberg gases and ultracold plasma.pdf)
+- 本地 PDF：[本地路径](../../daily/2026-06-03/pdfs/Mario Grossmann et al. - 2026 - Ultrafast many-body dynamics of dense Rydberg gases and ultracold plasma.pdf)
 
 ## 索引说明
 

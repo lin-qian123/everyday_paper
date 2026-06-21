@@ -8,8 +8,8 @@
 - 入库日期：2026-03-22
 - DOI：[10.1038/s41467-020-20245-6](https://doi.org/10.1038/s41467-020-20245-6)
 - 来源：[https://www.nature.com/articles/s41467-020-20245-6](https://www.nature.com/articles/s41467-020-20245-6)
-- 中文笔记：[打开笔记](yearly/2020/notes/R. J. Shalloo et al. et al. - 2020 - Automation and control of laser wakefield accelerators using Bayesian optimization.md)
-- 本地 PDF：[本地路径](yearly/2020/pdfs/R. J. Shalloo et al. et al. - 2020 - Automation and control of laser wakefield accelerators using Bayesian optimization.pdf)
+- 中文笔记：[打开笔记](../../yearly/2020/notes/R. J. Shalloo et al. et al. - 2020 - Automation and control of laser wakefield accelerators using Bayesian optimization.md)
+- 本地 PDF：[本地路径](../../yearly/2020/pdfs/R. J. Shalloo et al. et al. - 2020 - Automation and control of laser wakefield accelerators using Bayesian optimization.pdf)
 
 ## 索引说明
 

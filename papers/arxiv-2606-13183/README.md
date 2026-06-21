@@ -8,8 +8,8 @@
 - 入库日期：2026-06-18
 - DOI：[10.48550/arXiv.2606.13183](https://doi.org/10.48550/arXiv.2606.13183)
 - 来源：[https://arxiv.org/abs/2606.13183](https://arxiv.org/abs/2606.13183)
-- 中文笔记：[打开笔记](daily/2026-06-18/notes/David Gregocki et al. - 2026 - Ultrashort Pulse Train Generation on a 100TW Laser Beamline Using a Delay Mask After the Final Focusing Optics.md)
-- 本地 PDF：[本地路径](daily/2026-06-18/pdfs/David Gregocki et al. - 2026 - Ultrashort Pulse Train Generation on a 100TW Laser Beamline Using a Delay Mask After the Final Focusing Optics.pdf)
+- 中文笔记：[打开笔记](../../daily/2026-06-18/notes/David Gregocki et al. - 2026 - Ultrashort Pulse Train Generation on a 100TW Laser Beamline Using a Delay Mask After the Final Focusing Optics.md)
+- 本地 PDF：[本地路径](../../daily/2026-06-18/pdfs/David Gregocki et al. - 2026 - Ultrashort Pulse Train Generation on a 100TW Laser Beamline Using a Delay Mask After the Final Focusing Optics.pdf)
 
 ## 索引说明
 

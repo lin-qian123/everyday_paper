@@ -8,8 +8,8 @@
 - 入库日期：2026-06-16
 - DOI：[10.48550/arXiv.2606.14300](https://doi.org/10.48550/arXiv.2606.14300)
 - 来源：[https://arxiv.org/abs/2606.14300](https://arxiv.org/abs/2606.14300)
-- 中文笔记：[打开笔记](daily/2026-06-16/notes/Cristian Medina et al. - 2026 - PIConGPU modeling of nanoplasma formation in helium nanodroplets irradiated by intense femtosecond laser pulses.md)
-- 本地 PDF：[本地路径](daily/2026-06-16/pdfs/Cristian Medina et al. - 2026 - PIConGPU modeling of nanoplasma formation in helium nanodroplets irradiated by intense femtosecond laser pulses.pdf)
+- 中文笔记：[打开笔记](../../daily/2026-06-16/notes/Cristian Medina et al. - 2026 - PIConGPU modeling of nanoplasma formation in helium nanodroplets irradiated by intense femtosecond laser pulses.md)
+- 本地 PDF：[本地路径](../../daily/2026-06-16/pdfs/Cristian Medina et al. - 2026 - PIConGPU modeling of nanoplasma formation in helium nanodroplets irradiated by intense femtosecond laser pulses.pdf)
 
 ## 索引说明
 

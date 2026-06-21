@@ -8,8 +8,8 @@
 - 入库日期：2026-03-22
 - DOI：[10.1038/s41467-026-69283-6](https://doi.org/10.1038/s41467-026-69283-6)
 - 来源：[https://www.nature.com/articles/s41467-026-69283-6](https://www.nature.com/articles/s41467-026-69283-6)
-- 中文笔记：[打开笔记](yearly/2026/notes/J. C. Wood et al. - 2026 - Bright electron bunches from a plasma-wakefield accelerator with a steep density down-ramp.md)
-- 本地 PDF：[本地路径](yearly/2026/pdfs/J. C. Wood et al. - 2026 - Bright electron bunches from a plasma-wakefield accelerator with a steep density down-ramp.pdf)
+- 中文笔记：[打开笔记](../../yearly/2026/notes/J. C. Wood et al. - 2026 - Bright electron bunches from a plasma-wakefield accelerator with a steep density down-ramp.md)
+- 本地 PDF：[本地路径](../../yearly/2026/pdfs/J. C. Wood et al. - 2026 - Bright electron bunches from a plasma-wakefield accelerator with a steep density down-ramp.pdf)
 
 ## 索引说明
 

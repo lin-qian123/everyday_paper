@@ -8,8 +8,8 @@
 - 入库日期：2026-06-12
 - DOI：[10.48550/arXiv.2603.05282](https://doi.org/10.48550/arXiv.2603.05282)
 - 来源：[https://arxiv.org/abs/2603.05282](https://arxiv.org/abs/2603.05282)
-- 中文笔记：[打开笔记](daily/2026-06-12/notes/Da-Lin Wang et al. - 2026 - Probing vacuum birefringence in an Ultrastrong Laser Field via High-energy Gamma-ray Polarimetry.md)
-- 本地 PDF：[本地路径](daily/2026-06-12/pdfs/Da-Lin Wang et al. - 2026 - Probing vacuum birefringence in an Ultrastrong Laser Field via High-energy Gamma-ray Polarimetry.pdf)
+- 中文笔记：[打开笔记](../../daily/2026-06-12/notes/Da-Lin Wang et al. - 2026 - Probing vacuum birefringence in an Ultrastrong Laser Field via High-energy Gamma-ray Polarimetry.md)
+- 本地 PDF：[本地路径](../../daily/2026-06-12/pdfs/Da-Lin Wang et al. - 2026 - Probing vacuum birefringence in an Ultrastrong Laser Field via High-energy Gamma-ray Polarimetry.pdf)
 
 ## 索引说明
 

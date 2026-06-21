@@ -8,7 +8,7 @@
 - 入库日期：2026-03-22
 - DOI：[10.1103/PhysRevLett.127.114801](https://doi.org/10.1103/PhysRevLett.127.114801)
 - 来源：[https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.114801](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.114801)
-- 中文笔记：[打开笔记](yearly/2021/notes/Luca Fedeli et al. - 2021 - Probing Strong-Field QED with Doppler-Boosted Petawatt-Class Lasers.md)
+- 中文笔记：[打开笔记](../../yearly/2021/notes/Luca Fedeli et al. - 2021 - Probing Strong-Field QED with Doppler-Boosted Petawatt-Class Lasers.md)
 - 本地 PDF：未补回或未跟踪
 
 ## 索引说明

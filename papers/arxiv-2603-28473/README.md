@@ -9,7 +9,7 @@
 - DOI：[10.48550/arXiv.2603.28473](https://doi.org/10.48550/arXiv.2603.28473)
 - 来源：[https://arxiv.org/abs/2603.28473](https://arxiv.org/abs/2603.28473)
 - 中文笔记：未生成
-- 本地 PDF：[本地路径](daily/2026-06-10/pdfs/Chiara Badiali et al. - 2026 - Simulation Design for Velocity-Controlled Spatio-Temporal Drivers in Laser Wakefield Acceleration.pdf)
+- 本地 PDF：[本地路径](../../daily/2026-06-10/pdfs/Chiara Badiali et al. - 2026 - Simulation Design for Velocity-Controlled Spatio-Temporal Drivers in Laser Wakefield Acceleration.pdf)
 
 ## 索引说明
 

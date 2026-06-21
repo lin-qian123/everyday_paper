@@ -8,8 +8,8 @@
 - 入库日期：2026-06-13
 - DOI：[10.1017/hpl.2026.10136](https://doi.org/10.1017/hpl.2026.10136)
 - 来源：[https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/spectral-and-spatial-ion-beam-parameter-optimization-at-petawatt-laser-facilities/0D7DD5608E6A14B3F752AD7DFD6A6E45](https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/spectral-and-spatial-ion-beam-parameter-optimization-at-petawatt-laser-facilities/0D7DD5608E6A14B3F752AD7DFD6A6E45)
-- 中文笔记：[打开笔记](daily/2026-06-13/notes/Evgeny Filippov et al. - 2026 - Spectral and spatial ion beam parameter optimization at petawatt laser facilities.md)
-- 本地 PDF：[本地路径](daily/2026-06-13/pdfs/Evgeny Filippov et al. - 2026 - Spectral and spatial ion beam parameter optimization at petawatt laser facilities.pdf)
+- 中文笔记：[打开笔记](../../daily/2026-06-13/notes/Evgeny Filippov et al. - 2026 - Spectral and spatial ion beam parameter optimization at petawatt laser facilities.md)
+- 本地 PDF：[本地路径](../../daily/2026-06-13/pdfs/Evgeny Filippov et al. - 2026 - Spectral and spatial ion beam parameter optimization at petawatt laser facilities.pdf)
 
 ## 索引说明
 

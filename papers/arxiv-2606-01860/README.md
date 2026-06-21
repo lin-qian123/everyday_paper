@@ -8,8 +8,8 @@
 - 入库日期：2026-06-15
 - DOI：[10.48550/arXiv.2606.01860](https://doi.org/10.48550/arXiv.2606.01860)
 - 来源：[https://arxiv.org/abs/2606.01860](https://arxiv.org/abs/2606.01860)
-- 中文笔记：[打开笔记](daily/2026-06-15/notes/Yao Guo et al. - 2026 - Probing kinetic enhancement of fusion reactivity in turbulent hot spots.md)
-- 本地 PDF：[本地路径](daily/2026-06-15/pdfs/Yao Guo et al. - 2026 - Probing kinetic enhancement of fusion reactivity in turbulent hot spots.pdf)
+- 中文笔记：[打开笔记](../../daily/2026-06-15/notes/Yao Guo et al. - 2026 - Probing kinetic enhancement of fusion reactivity in turbulent hot spots.md)
+- 本地 PDF：[本地路径](../../daily/2026-06-15/pdfs/Yao Guo et al. - 2026 - Probing kinetic enhancement of fusion reactivity in turbulent hot spots.pdf)
 
 ## 索引说明
 

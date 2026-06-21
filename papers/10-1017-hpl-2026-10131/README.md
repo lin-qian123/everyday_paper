@@ -8,8 +8,8 @@
 - 入库日期：2026-04-21
 - DOI：[10.1017/hpl.2026.10131](https://doi.org/10.1017/hpl.2026.10131)
 - 来源：[https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/enhanced-p11b-fusion-and-particle-production-from-laserirradiated-nanowire-arrays/3A2A5F79DC8FFB1920FAABEBC221152D](https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/enhanced-p11b-fusion-and-particle-production-from-laserirradiated-nanowire-arrays/3A2A5F79DC8FFB1920FAABEBC221152D)
-- 中文笔记：[打开笔记](daily/2026-04-21/notes/Qian Wang et al. - 2026 - Enhanced p11B fusion and alpha particle production from laser-irradiated nanowire arrays.md)
-- 本地 PDF：[本地路径](daily/2026-04-21/pdfs/Qian Wang et al. - 2026 - Enhanced p11B fusion and alpha particle production from laser-irradiated nanowire arrays.pdf)
+- 中文笔记：[打开笔记](../../daily/2026-04-21/notes/Qian Wang et al. - 2026 - Enhanced p11B fusion and alpha particle production from laser-irradiated nanowire arrays.md)
+- 本地 PDF：[本地路径](../../daily/2026-04-21/pdfs/Qian Wang et al. - 2026 - Enhanced p11B fusion and alpha particle production from laser-irradiated nanowire arrays.pdf)
 
 ## 索引说明
 

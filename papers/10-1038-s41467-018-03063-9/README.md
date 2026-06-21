@@ -8,8 +8,8 @@
 - 入库日期：2026-03-22
 - DOI：[10.1038/s41467-018-03063-9](https://doi.org/10.1038/s41467-018-03063-9)
 - 来源：[https://www.nature.com/articles/s41467-018-03063-9](https://www.nature.com/articles/s41467-018-03063-9)
-- 中文笔记：[打开笔记](yearly/2018/notes/A. Higginson et al. - 2018 - Near-100 MeV protons via a laser-driven transparency-enhanced hybrid acceleration scheme.md)
-- 本地 PDF：[本地路径](yearly/2018/pdfs/A. Higginson et al. - 2018 - Near-100 MeV protons via a laser-driven transparency-enhanced hybrid acceleration scheme.pdf)
+- 中文笔记：[打开笔记](../../yearly/2018/notes/A. Higginson et al. - 2018 - Near-100 MeV protons via a laser-driven transparency-enhanced hybrid acceleration scheme.md)
+- 本地 PDF：[本地路径](../../yearly/2018/pdfs/A. Higginson et al. - 2018 - Near-100 MeV protons via a laser-driven transparency-enhanced hybrid acceleration scheme.pdf)
 
 ## 索引说明
 

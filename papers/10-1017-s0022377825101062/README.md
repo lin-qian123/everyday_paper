@@ -9,7 +9,7 @@
 - DOI：[10.1017/S0022377825101062](https://doi.org/10.1017/S0022377825101062)
 - 来源：[https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/plasma-rotation-driven-by-lasers-with-zero-angular-momentum/2520AF3C7BB408A786E25666F28AE043](https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/plasma-rotation-driven-by-lasers-with-zero-angular-momentum/2520AF3C7BB408A786E25666F28AE043)
 - 中文笔记：未生成
-- 本地 PDF：[本地路径](daily/2026-06-07/pdfs/Camilla Willim et al. - 2026 - Plasma rotation driven by lasers with zero angular momentum.pdf)
+- 本地 PDF：[本地路径](../../daily/2026-06-07/pdfs/Camilla Willim et al. - 2026 - Plasma rotation driven by lasers with zero angular momentum.pdf)
 
 ## 索引说明
 

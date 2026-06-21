@@ -8,7 +8,7 @@
 - 入库日期：2026-03-22
 - DOI：[10.1103/PhysRevX.8.031004](https://doi.org/10.1103/PhysRevX.8.031004)
 - 来源：[https://journals.aps.org/prx/abstract/10.1103/PhysRevX.8.031004](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.8.031004)
-- 中文笔记：[打开笔记](yearly/2018/notes/K. Poder et al. - 2018 - Experimental Signatures of the Quantum Nature of Radiation Reaction in the Field of an Ultraint.md)
+- 中文笔记：[打开笔记](../../yearly/2018/notes/K. Poder et al. - 2018 - Experimental Signatures of the Quantum Nature of Radiation Reaction in the Field of an Ultraint.md)
 - 本地 PDF：未补回或未跟踪
 
 ## 索引说明

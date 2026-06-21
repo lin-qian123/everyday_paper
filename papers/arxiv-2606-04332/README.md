@@ -8,8 +8,8 @@
 - 入库日期：2026-06-16
 - DOI：[10.48550/arXiv.2606.04332](https://doi.org/10.48550/arXiv.2606.04332)
 - 来源：[https://arxiv.org/abs/2606.04332](https://arxiv.org/abs/2606.04332)
-- 中文笔记：[打开笔记](daily/2026-06-16/notes/Peng Liu et al. - 2026 - Radiation-induced electron spin polarization in ultrarelativistic kinetic turbulence.md)
-- 本地 PDF：[本地路径](daily/2026-06-16/pdfs/Peng Liu et al. - 2026 - Radiation-induced electron spin polarization in ultrarelativistic kinetic turbulence.pdf)
+- 中文笔记：[打开笔记](../../daily/2026-06-16/notes/Peng Liu et al. - 2026 - Radiation-induced electron spin polarization in ultrarelativistic kinetic turbulence.md)
+- 本地 PDF：[本地路径](../../daily/2026-06-16/pdfs/Peng Liu et al. - 2026 - Radiation-induced electron spin polarization in ultrarelativistic kinetic turbulence.pdf)
 
 ## 索引说明
 

@@ -9,7 +9,7 @@
 - DOI：[10.1038/s41598-026-41516-0](https://doi.org/10.1038/s41598-026-41516-0)
 - 来源：[https://www.nature.com/articles/s41598-026-41516-0](https://www.nature.com/articles/s41598-026-41516-0)
 - 中文笔记：未生成
-- 本地 PDF：[本地路径](daily/2026-04-26/pdfs/Mehdi Abedi-Varaki - 2026 - Beam shape effect on enhanced laser wakefield acceleration of electrons driven by 10-fs mJ-c.pdf)
+- 本地 PDF：[本地路径](../../daily/2026-04-26/pdfs/Mehdi Abedi-Varaki - 2026 - Beam shape effect on enhanced laser wakefield acceleration of electrons driven by 10-fs mJ-c.pdf)
 
 ## 索引说明
 

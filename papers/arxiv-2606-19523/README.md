@@ -8,8 +8,8 @@
 - 入库日期：2026-06-20
 - DOI：[10.48550/arXiv.2606.19523](https://doi.org/10.48550/arXiv.2606.19523)
 - 来源：[https://arxiv.org/abs/2606.19523](https://arxiv.org/abs/2606.19523)
-- 中文笔记：[打开笔记](daily/2026-06-20/notes/Matt Landreman et al. - 2026 - Bayesian optimization of stellarator alpha-particle confinement using data-informed parameter spaces and dimensionality reduction.md)
-- 本地 PDF：[本地路径](daily/2026-06-20/pdfs/Matt Landreman et al. - 2026 - Bayesian optimization of stellarator alpha-particle confinement using data-informed parameter spaces and dimensionality reduction.pdf)
+- 中文笔记：[打开笔记](../../daily/2026-06-20/notes/Matt Landreman et al. - 2026 - Bayesian optimization of stellarator alpha-particle confinement using data-informed parameter spaces and dimensionality reduction.md)
+- 本地 PDF：[本地路径](../../daily/2026-06-20/pdfs/Matt Landreman et al. - 2026 - Bayesian optimization of stellarator alpha-particle confinement using data-informed parameter spaces and dimensionality reduction.pdf)
 
 ## 索引说明
 

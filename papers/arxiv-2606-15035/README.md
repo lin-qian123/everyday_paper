@@ -8,8 +8,8 @@
 - 入库日期：2026-06-18
 - DOI：[10.48550/arXiv.2606.15035](https://doi.org/10.48550/arXiv.2606.15035)
 - 来源：[https://arxiv.org/abs/2606.15035](https://arxiv.org/abs/2606.15035)
-- 中文笔记：[打开笔记](daily/2026-06-18/notes/Andrew J. Christlieb et al. - 2026 - An Energy-Conserving Unstaggered Electromagnetic-Potential Particle-in-Cell Method, Part I Non-relativistic Generalized-Momentum Formulation.md)
-- 本地 PDF：[本地路径](daily/2026-06-18/pdfs/Andrew J. Christlieb et al. - 2026 - An Energy-Conserving Unstaggered Electromagnetic-Potential Particle-in-Cell Method, Part I Non-relativistic Generalized-Momentum Formulation.pdf)
+- 中文笔记：[打开笔记](../../daily/2026-06-18/notes/Andrew J. Christlieb et al. - 2026 - An Energy-Conserving Unstaggered Electromagnetic-Potential Particle-in-Cell Method, Part I Non-relativistic Generalized-Momentum Formulation.md)
+- 本地 PDF：[本地路径](../../daily/2026-06-18/pdfs/Andrew J. Christlieb et al. - 2026 - An Energy-Conserving Unstaggered Electromagnetic-Potential Particle-in-Cell Method, Part I Non-relativistic Generalized-Momentum Formulation.pdf)
 
 ## 索引说明
 

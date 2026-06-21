@@ -9,7 +9,7 @@
 - DOI：未记录
 - 来源：[https://www.cambridge.org/core/product/CA8C14175B277DA7154ABAC65E8104BB](https://www.cambridge.org/core/product/CA8C14175B277DA7154ABAC65E8104BB)
 - 中文笔记：未生成
-- 本地 PDF：[本地路径](daily/2026-06-08/pdfs/E. Hume et al. - 2026 - Experimental investigation of SRS and SBS growth in thick and exploded foil targets in smoothed.pdf)
+- 本地 PDF：[本地路径](../../daily/2026-06-08/pdfs/E. Hume et al. - 2026 - Experimental investigation of SRS and SBS growth in thick and exploded foil targets in smoothed.pdf)
 
 ## 索引说明
 

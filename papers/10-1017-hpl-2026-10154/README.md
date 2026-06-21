@@ -9,7 +9,7 @@
 - DOI：[10.1017/hpl.2026.10154](https://doi.org/10.1017/hpl.2026.10154)
 - 来源：[https://www.cambridge.org/core/product/4BA4AF292507C490FAC79A6DB27C1E34](https://www.cambridge.org/core/product/4BA4AF292507C490FAC79A6DB27C1E34)
 - 中文笔记：未生成
-- 本地 PDF：[本地路径](daily/2026-06-08/pdfs/Jiri Sisma et al. - 2026 - High-repetition-rate, all-reflective optical guiding and electron acceleration in helium usin.pdf)
+- 本地 PDF：[本地路径](../../daily/2026-06-08/pdfs/Jiri Sisma et al. - 2026 - High-repetition-rate, all-reflective optical guiding and electron acceleration in helium usin.pdf)
 
 ## 索引说明
 

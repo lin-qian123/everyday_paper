@@ -8,8 +8,8 @@
 - 入库日期：2026-06-12
 - DOI：[10.48550/arXiv.2603.04606](https://doi.org/10.48550/arXiv.2603.04606)
 - 来源：[https://arxiv.org/abs/2603.04606](https://arxiv.org/abs/2603.04606)
-- 中文笔记：[打开笔记](daily/2026-06-12/notes/Mahindra Rautela et al. - 2026 - PDE foundation model-accelerated inverse estimation of system parameters in inertial confinement fusion.md)
-- 本地 PDF：[本地路径](daily/2026-06-12/pdfs/Mahindra Rautela et al. - 2026 - PDE foundation model-accelerated inverse estimation of system parameters in inertial confinement fusion.pdf)
+- 中文笔记：[打开笔记](../../daily/2026-06-12/notes/Mahindra Rautela et al. - 2026 - PDE foundation model-accelerated inverse estimation of system parameters in inertial confinement fusion.md)
+- 本地 PDF：[本地路径](../../daily/2026-06-12/pdfs/Mahindra Rautela et al. - 2026 - PDE foundation model-accelerated inverse estimation of system parameters in inertial confinement fusion.pdf)
 
 ## 索引说明
 

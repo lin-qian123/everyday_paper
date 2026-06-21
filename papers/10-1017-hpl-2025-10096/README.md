@@ -9,7 +9,7 @@
 - DOI：[10.1017/hpl.2025.10096](https://doi.org/10.1017/hpl.2025.10096)
 - 来源：[https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/alloptically-controllable-electron-and-xray-sources-from-microchannelguided-direct-laser-acceleration/F208F22C7AC66CD2368B45701336A7E8](https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/alloptically-controllable-electron-and-xray-sources-from-microchannelguided-direct-laser-acceleration/F208F22C7AC66CD2368B45701336A7E8)
 - 中文笔记：未生成
-- 本地 PDF：[本地路径](daily/2026-04-24/pdfs/Chengyu Qin - 2026 - All-optically controllable electron and X-ray sources from microchannel-guided direct laser acce.pdf)
+- 本地 PDF：[本地路径](../../daily/2026-04-24/pdfs/Chengyu Qin - 2026 - All-optically controllable electron and X-ray sources from microchannel-guided direct laser acce.pdf)
 
 ## 索引说明
 

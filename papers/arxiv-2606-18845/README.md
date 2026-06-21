@@ -8,8 +8,8 @@
 - 入库日期：2026-06-19
 - DOI：[10.48550/arXiv.2606.18845](https://doi.org/10.48550/arXiv.2606.18845)
 - 来源：[https://arxiv.org/abs/2606.18845](https://arxiv.org/abs/2606.18845)
-- 中文笔记：[打开笔记](daily/2026-06-19/notes/Andrei C. Berceanu et al. - 2026 - Wake Perturbations in Laser- and Beam-Driven Plasma Wakefield Accelerators A Symmetry-Based Multipole Classification.md)
-- 本地 PDF：[本地路径](daily/2026-06-19/pdfs/Andrei C. Berceanu et al. - 2026 - Wake Perturbations in Laser- and Beam-Driven Plasma Wakefield Accelerators A Symmetry-Based Multipole Classification.pdf)
+- 中文笔记：[打开笔记](../../daily/2026-06-19/notes/Andrei C. Berceanu et al. - 2026 - Wake Perturbations in Laser- and Beam-Driven Plasma Wakefield Accelerators A Symmetry-Based Multipole Classification.md)
+- 本地 PDF：[本地路径](../../daily/2026-06-19/pdfs/Andrei C. Berceanu et al. - 2026 - Wake Perturbations in Laser- and Beam-Driven Plasma Wakefield Accelerators A Symmetry-Based Multipole Classification.pdf)
 
 ## 索引说明
 

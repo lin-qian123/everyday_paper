@@ -9,7 +9,7 @@
 - DOI：[10.1017/hpl.2025.10101](https://doi.org/10.1017/hpl.2025.10101)
 - 来源：[https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/pushing-the-frontiers-of-light-magnetized-plasma-lenses-and-chirp-tailoring-for-extreme-intensities/B06CB5E437556FDFF69156DDBE78E73B](https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/pushing-the-frontiers-of-light-magnetized-plasma-lenses-and-chirp-tailoring-for-extreme-intensities/B06CB5E437556FDFF69156DDBE78E73B)
 - 中文笔记：未生成
-- 本地 PDF：[本地路径](daily/2026-04-24/pdfs/Trishul Dhalia - 2026 - Pushing the frontiers of light: magnetized plasma lenses and chirp tailoring for extreme intensi.pdf)
+- 本地 PDF：[本地路径](../../daily/2026-04-24/pdfs/Trishul Dhalia - 2026 - Pushing the frontiers of light: magnetized plasma lenses and chirp tailoring for extreme intensi.pdf)
 
 ## 索引说明
 

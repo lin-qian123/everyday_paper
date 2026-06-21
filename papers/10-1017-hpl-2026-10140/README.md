@@ -8,8 +8,8 @@
 - 入库日期：2026-04-21
 - DOI：[10.1017/hpl.2026.10140](https://doi.org/10.1017/hpl.2026.10140)
 - 来源：[https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/preservation-of-3he-ion-polarization-after-laserdriven-acceleration-in-plasma/E6FC7622A7130299AF43998AC5B48A31](https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/preservation-of-3he-ion-polarization-after-laserdriven-acceleration-in-plasma/E6FC7622A7130299AF43998AC5B48A31)
-- 中文笔记：[打开笔记](daily/2026-04-21/notes/C. Zheng et al. - 2026 - Preservation of 3He ion polarization after laser-driven acceleration in plasma.md)
-- 本地 PDF：[本地路径](daily/2026-04-21/pdfs/C. Zheng et al. - 2026 - Preservation of 3He ion polarization after laser-driven acceleration in plasma.pdf)
+- 中文笔记：[打开笔记](../../daily/2026-04-21/notes/C. Zheng et al. - 2026 - Preservation of 3He ion polarization after laser-driven acceleration in plasma.md)
+- 本地 PDF：[本地路径](../../daily/2026-04-21/pdfs/C. Zheng et al. - 2026 - Preservation of 3He ion polarization after laser-driven acceleration in plasma.pdf)
 
 ## 索引说明
 

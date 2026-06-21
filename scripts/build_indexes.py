@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import json
+import os
 import re
 from collections import defaultdict
 from datetime import date
@@ -229,10 +230,7 @@ def rel(path: str | None, from_dir: Path) -> str | None:
     if not path:
         return None
     target = ROOT / path
-    try:
-        return target.relative_to(from_dir)
-    except ValueError:
-        return Path(path)
+    return Path(os.path.relpath(target, start=from_dir))
 
 
 def doi_url(doi: str | None) -> str | None:

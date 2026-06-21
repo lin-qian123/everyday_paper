@@ -9,7 +9,7 @@
 - DOI：[10.1038/s41598-026-42431-0](https://doi.org/10.1038/s41598-026-42431-0)
 - 来源：[https://www.nature.com/articles/s41598-026-42431-0](https://www.nature.com/articles/s41598-026-42431-0)
 - 中文笔记：未生成
-- 本地 PDF：[本地路径](daily/2026-05-18/pdfs/Scientific Reports authors - 2026 - High-energy gamma-photons and pair electrons generation in polarized ultraintense laser fields.pdf)
+- 本地 PDF：[本地路径](../../daily/2026-05-18/pdfs/Scientific Reports authors - 2026 - High-energy gamma-photons and pair electrons generation in polarized ultraintense laser fields.pdf)
 
 ## 索引说明
 

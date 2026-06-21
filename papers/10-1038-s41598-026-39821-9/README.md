@@ -8,8 +8,8 @@
 - 入库日期：2026-04-20
 - DOI：[10.1038/s41598-026-39821-9](https://doi.org/10.1038/s41598-026-39821-9)
 - 来源：[https://www.nature.com/articles/s41598-026-39821-9](https://www.nature.com/articles/s41598-026-39821-9)
-- 中文笔记：[打开笔记](daily/2026-04-20/notes/R. et al. - 2026 - Tailoring electron bunch quality in laser-plasma acceleration a comparative study of Bessel-Gaussian and Gaussian laser p.md)
-- 本地 PDF：[本地路径](daily/2026-04-20/pdfs/R. et al. - 2026 - Tailoring electron bunch quality in laser-plasma acceleration a comparative study of Bessel-Gaussian and Gaussian laser p.pdf)
+- 中文笔记：[打开笔记](../../daily/2026-04-20/notes/R. et al. - 2026 - Tailoring electron bunch quality in laser-plasma acceleration a comparative study of Bessel-Gaussian and Gaussian laser p.md)
+- 本地 PDF：[本地路径](../../daily/2026-04-20/pdfs/R. et al. - 2026 - Tailoring electron bunch quality in laser-plasma acceleration a comparative study of Bessel-Gaussian and Gaussian laser p.pdf)
 
 ## 索引说明
 

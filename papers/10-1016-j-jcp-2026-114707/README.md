@@ -8,7 +8,7 @@
 - 入库日期：2026-05-02
 - DOI：[10.1016/j.jcp.2026.114707](https://doi.org/10.1016/j.jcp.2026.114707)
 - 来源：[https://www.sciencedirect.com/science/article/pii/S0021999126000574](https://www.sciencedirect.com/science/article/pii/S0021999126000574)
-- 中文笔记：[打开笔记](daily/2026-05-02/notes/Oscar Amaro et al. - 2026 - Neural network sampling of Bethe-Heitler process in particle-in-cell codes.md)
+- 中文笔记：[打开笔记](../../daily/2026-05-02/notes/Oscar Amaro et al. - 2026 - Neural network sampling of Bethe-Heitler process in particle-in-cell codes.md)
 - 本地 PDF：未补回或未跟踪
 
 ## 索引说明

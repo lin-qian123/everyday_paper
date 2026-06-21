@@ -9,7 +9,7 @@
 - DOI：[10.48550/arXiv.2604.20672](https://doi.org/10.48550/arXiv.2604.20672)
 - 来源：[https://arxiv.org/abs/2604.20672](https://arxiv.org/abs/2604.20672)
 - 中文笔记：未生成
-- 本地 PDF：[本地路径](daily/2026-05-20/pdfs/arXiv authors - 2026 - Attosecond Nonlinear Quantum Electrodynamics in Laser-Driven Plasmas via Two-Photon Synchrotron Emission.pdf)
+- 本地 PDF：[本地路径](../../daily/2026-05-20/pdfs/arXiv authors - 2026 - Attosecond Nonlinear Quantum Electrodynamics in Laser-Driven Plasmas via Two-Photon Synchrotron Emission.pdf)
 
 ## 索引说明
 

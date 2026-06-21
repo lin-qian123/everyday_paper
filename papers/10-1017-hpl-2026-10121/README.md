@@ -9,7 +9,7 @@
 - DOI：[10.1017/hpl.2026.10121](https://doi.org/10.1017/hpl.2026.10121)
 - 来源：[https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/generation-of-polarizationtunable-hybrid-cylindrical-vector-gamma-rays-from-rotating-electron-beams/7ECAA9BDB454ACF208755F225D47B86E](https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/generation-of-polarizationtunable-hybrid-cylindrical-vector-gamma-rays-from-rotating-electron-beams/7ECAA9BDB454ACF208755F225D47B86E)
 - 中文笔记：未生成
-- 本地 PDF：[本地路径](daily/2026-04-24/pdfs/Si-Man Liu - 2026 - Generation of polarization-tunable hybrid cylindrical vector gamma rays from rotating electron b.pdf)
+- 本地 PDF：[本地路径](../../daily/2026-04-24/pdfs/Si-Man Liu - 2026 - Generation of polarization-tunable hybrid cylindrical vector gamma rays from rotating electron b.pdf)
 
 ## 索引说明
 

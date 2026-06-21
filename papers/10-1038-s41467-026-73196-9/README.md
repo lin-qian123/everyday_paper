@@ -9,7 +9,7 @@
 - DOI：[10.1038/s41467-026-73196-9](https://doi.org/10.1038/s41467-026-73196-9)
 - 来源：[https://www.nature.com/articles/s41467-026-73196-9](https://www.nature.com/articles/s41467-026-73196-9)
 - 中文笔记：未生成
-- 本地 PDF：[本地路径](daily/2026-06-02/pdfs/Tianyun Wei et al. - 2026 - Quasi-monoenergetic deuteron acceleration via boosted coulomb explosion by reflected picosecond laser pulse.pdf)
+- 本地 PDF：[本地路径](../../daily/2026-06-02/pdfs/Tianyun Wei et al. - 2026 - Quasi-monoenergetic deuteron acceleration via boosted coulomb explosion by reflected picosecond laser pulse.pdf)
 
 ## 索引说明
 

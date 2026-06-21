@@ -8,7 +8,7 @@
 - 入库日期：2026-03-22
 - DOI：[10.1103/PhysRevLett.131.065102](https://doi.org/10.1103/PhysRevLett.131.065102)
 - 来源：[https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.065102](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.065102)
-- 中文笔记：[打开笔记](yearly/2023/notes/K. Sugimoto et al. - 2023 - Positron Generation and Acceleration in a Self-Organized Photon Collider Enabled by an Ultra.md)
+- 中文笔记：[打开笔记](../../yearly/2023/notes/K. Sugimoto et al. - 2023 - Positron Generation and Acceleration in a Self-Organized Photon Collider Enabled by an Ultra.md)
 - 本地 PDF：未补回或未跟踪
 
 ## 索引说明

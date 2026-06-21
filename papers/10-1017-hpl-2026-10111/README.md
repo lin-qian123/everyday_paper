@@ -9,7 +9,7 @@
 - DOI：[10.1017/hpl.2026.10111](https://doi.org/10.1017/hpl.2026.10111)
 - 来源：[https://doi.org/10.1017/hpl.2026.10111](https://doi.org/10.1017/hpl.2026.10111)
 - 中文笔记：未生成
-- 本地 PDF：[本地路径](daily/2026-04-27/pdfs/Youjing Wang - 2026 - Probing Short-Lived Nuclear Isomers in Laser-Induced Plasmas.pdf)
+- 本地 PDF：[本地路径](../../daily/2026-04-27/pdfs/Youjing Wang - 2026 - Probing Short-Lived Nuclear Isomers in Laser-Induced Plasmas.pdf)
 
 ## 索引说明
 

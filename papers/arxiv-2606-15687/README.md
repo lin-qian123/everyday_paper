@@ -8,8 +8,8 @@
 - 入库日期：2026-06-17
 - DOI：[10.48550/arXiv.2606.15687](https://doi.org/10.48550/arXiv.2606.15687)
 - 来源：[https://arxiv.org/abs/2606.15687](https://arxiv.org/abs/2606.15687)
-- 中文笔记：[打开笔记](daily/2026-06-17/notes/Chengqi Zhang et al. - 2026 - Bayesian optimization of double-pulse temporal shaping for enhanced target-normal-sheath proton acceleration under fixed laser energy.md)
-- 本地 PDF：[本地路径](daily/2026-06-17/pdfs/Chengqi Zhang et al. - 2026 - Bayesian optimization of double-pulse temporal shaping for enhanced target-normal-sheath proton acceleration under fixed laser energy.pdf)
+- 中文笔记：[打开笔记](../../daily/2026-06-17/notes/Chengqi Zhang et al. - 2026 - Bayesian optimization of double-pulse temporal shaping for enhanced target-normal-sheath proton acceleration under fixed laser energy.md)
+- 本地 PDF：[本地路径](../../daily/2026-06-17/pdfs/Chengqi Zhang et al. - 2026 - Bayesian optimization of double-pulse temporal shaping for enhanced target-normal-sheath proton acceleration under fixed laser energy.pdf)
 
 ## 索引说明
 

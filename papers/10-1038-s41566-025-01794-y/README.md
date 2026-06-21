@@ -8,8 +8,8 @@
 - 入库日期：2026-04-20
 - DOI：[10.1038/s41566-025-01794-y](https://doi.org/10.1038/s41566-025-01794-y)
 - 来源：[https://www.nature.com/articles/s41566-025-01794-y](https://www.nature.com/articles/s41566-025-01794-y)
-- 中文笔记：[打开笔记](daily/2026-04-20/notes/Evaldas et al. - 2025 - Plasma lens for focusing attosecond pulses.md)
-- 本地 PDF：[本地路径](daily/2026-04-20/pdfs/Evaldas et al. - 2025 - Plasma lens for focusing attosecond pulses.pdf)
+- 中文笔记：[打开笔记](../../daily/2026-04-20/notes/Evaldas et al. - 2025 - Plasma lens for focusing attosecond pulses.md)
+- 本地 PDF：[本地路径](../../daily/2026-04-20/pdfs/Evaldas et al. - 2025 - Plasma lens for focusing attosecond pulses.pdf)
 
 ## 索引说明
 

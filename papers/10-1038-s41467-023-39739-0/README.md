@@ -8,8 +8,8 @@
 - 入库日期：2026-03-22
 - DOI：[10.1038/s41467-023-39739-0](https://doi.org/10.1038/s41467-023-39739-0)
 - 来源：[https://www.nature.com/articles/s41467-023-39739-0](https://www.nature.com/articles/s41467-023-39739-0)
-- 中文笔记：[打开笔记](yearly/2023/notes/Martin Rehwald et al. - 2023 - Ultra-short pulse laser acceleration of protons to 80 MeV from cryogenic hydrogen jets ta.md)
-- 本地 PDF：[本地路径](yearly/2023/pdfs/Martin Rehwald et al. - 2023 - Ultra-short pulse laser acceleration of protons to 80 MeV from cryogenic hydrogen jets ta.pdf)
+- 中文笔记：[打开笔记](../../yearly/2023/notes/Martin Rehwald et al. - 2023 - Ultra-short pulse laser acceleration of protons to 80 MeV from cryogenic hydrogen jets ta.md)
+- 本地 PDF：[本地路径](../../yearly/2023/pdfs/Martin Rehwald et al. - 2023 - Ultra-short pulse laser acceleration of protons to 80 MeV from cryogenic hydrogen jets ta.pdf)
 
 ## 索引说明
 

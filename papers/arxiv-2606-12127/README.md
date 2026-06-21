@@ -8,8 +8,8 @@
 - 入库日期：2026-06-19
 - DOI：[10.48550/arXiv.2606.12127](https://doi.org/10.48550/arXiv.2606.12127)
 - 来源：[https://arxiv.org/abs/2606.12127](https://arxiv.org/abs/2606.12127)
-- 中文笔记：[打开笔记](daily/2026-06-19/notes/Jia-Hong Chen et al. - 2026 - Ionization-Induced Electrostatic Hose Instability in Electron-Beam-Sustained Plasmas.md)
-- 本地 PDF：[本地路径](daily/2026-06-19/pdfs/Jia-Hong Chen et al. - 2026 - Ionization-Induced Electrostatic Hose Instability in Electron-Beam-Sustained Plasmas.pdf)
+- 中文笔记：[打开笔记](../../daily/2026-06-19/notes/Jia-Hong Chen et al. - 2026 - Ionization-Induced Electrostatic Hose Instability in Electron-Beam-Sustained Plasmas.md)
+- 本地 PDF：[本地路径](../../daily/2026-06-19/pdfs/Jia-Hong Chen et al. - 2026 - Ionization-Induced Electrostatic Hose Instability in Electron-Beam-Sustained Plasmas.pdf)
 
 ## 索引说明
 

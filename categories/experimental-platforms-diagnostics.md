@@ -2,11 +2,12 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：18 篇
-- 索引更新时间：2026-06-20
+- 当前收录：19 篇
+- 索引更新时间：2026-06-21
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-06-21 | [Short overview of solid, gas, cryogenic and liquid target fabrication for single-beam high-power laser experiments](../papers/10-1017-hpl-2026-10132/README.md) | High Power Laser Science and Engineering（正式期刊，Review） | [笔记](../daily/2026-06-21/notes/Stefania C. Ionescu et al. - 2026 - Short overview of solid gas cryogenic and liquid target fabrication for single-beam high-power laser experiments.md) |
 | 2026-06-20 | [Caustic-Driven Fluidic Microlenses for Enhanced Nonlinear and High-Energy-Density Physics](../papers/arxiv-2606-20125/README.md) | arXiv 预印本（高相关补充） | [笔记](../daily/2026-06-20/notes/Sourabh Singh et al. - 2026 - Caustic-Driven Fluidic Microlenses for Enhanced Nonlinear and High-Energy-Density Physics.md) |
 | 2026-06-18 | [Ultrashort Pulse Train Generation on a 100TW Laser Beamline Using a Delay Mask After the Final Focusing Optics](../papers/arxiv-2606-13183/README.md) | arXiv 预印本（高相关补充） | [笔记](../daily/2026-06-18/notes/David Gregocki et al. - 2026 - Ultrashort Pulse Train Generation on a 100TW Laser Beamline Using a Delay Mask After the Final Focusing Optics.md) |
 | 2026-06-17 | [Bayesian optimization of double-pulse temporal shaping for enhanced target-normal-sheath proton acceleration under fixed laser energy](../papers/arxiv-2606-15687/README.md) | arXiv 预印本（高相关补充） | [笔记](../daily/2026-06-17/notes/Chengqi Zhang et al. - 2026 - Bayesian optimization of double-pulse temporal shaping for enhanced target-normal-sheath proton acceleration under fixed laser energy.md) |

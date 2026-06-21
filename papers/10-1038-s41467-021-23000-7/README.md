@@ -8,8 +8,8 @@
 - 入库日期：2026-03-22
 - DOI：[10.1038/s41467-021-23000-7](https://doi.org/10.1038/s41467-021-23000-7)
 - 来源：[https://www.nature.com/articles/s41467-021-23000-7](https://www.nature.com/articles/s41467-021-23000-7)
-- 中文笔记：[打开笔记](yearly/2021/notes/T. Kurz et al. et al. - 2021 - Demonstration of a compact plasma accelerator powered by laser-accelerated electron beams.md)
-- 本地 PDF：[本地路径](yearly/2021/pdfs/T. Kurz et al. et al. - 2021 - Demonstration of a compact plasma accelerator powered by laser-accelerated electron beams.pdf)
+- 中文笔记：[打开笔记](../../yearly/2021/notes/T. Kurz et al. et al. - 2021 - Demonstration of a compact plasma accelerator powered by laser-accelerated electron beams.md)
+- 本地 PDF：[本地路径](../../yearly/2021/pdfs/T. Kurz et al. et al. - 2021 - Demonstration of a compact plasma accelerator powered by laser-accelerated electron beams.pdf)
 
 ## 索引说明
 

@@ -8,8 +8,8 @@
 - 入库日期：2026-03-22
 - DOI：[10.1038/s41467-020-18490-w](https://doi.org/10.1038/s41467-020-18490-w)
 - 来源：[https://www.nature.com/articles/s41467-020-18490-w](https://www.nature.com/articles/s41467-020-18490-w)
-- 中文笔记：[打开笔记](yearly/2020/notes/Rafal Zgadzaj et al. et al. - 2020 - Dissipation of electron-beam-driven plasma wakes.md)
-- 本地 PDF：[本地路径](yearly/2020/pdfs/Rafal Zgadzaj et al. et al. - 2020 - Dissipation of electron-beam-driven plasma wakes.pdf)
+- 中文笔记：[打开笔记](../../yearly/2020/notes/Rafal Zgadzaj et al. et al. - 2020 - Dissipation of electron-beam-driven plasma wakes.md)
+- 本地 PDF：[本地路径](../../yearly/2020/pdfs/Rafal Zgadzaj et al. et al. - 2020 - Dissipation of electron-beam-driven plasma wakes.pdf)
 
 ## 索引说明
 

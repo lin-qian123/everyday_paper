@@ -9,7 +9,7 @@
 - DOI：[10.48550/arXiv.2604.00462](https://doi.org/10.48550/arXiv.2604.00462)
 - 来源：[https://arxiv.org/abs/2604.00462](https://arxiv.org/abs/2604.00462)
 - 中文笔记：未生成
-- 本地 PDF：[本地路径](daily/2026-06-11/pdfs/Preeti Sar et al. - 2026 - A machine learning framework for developing quasilinear saturation rules of turbulent transport from linear gyrokinetic data.pdf)
+- 本地 PDF：[本地路径](../../daily/2026-06-11/pdfs/Preeti Sar et al. - 2026 - A machine learning framework for developing quasilinear saturation rules of turbulent transport from linear gyrokinetic data.pdf)
 
 ## 索引说明
 

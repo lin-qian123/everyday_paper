@@ -8,8 +8,8 @@
 - 入库日期：2026-06-14
 - DOI：[10.48550/arXiv.2606.04887](https://doi.org/10.48550/arXiv.2606.04887)
 - 来源：[https://arxiv.org/abs/2606.04887](https://arxiv.org/abs/2606.04887)
-- 中文笔记：[打开笔记](daily/2026-06-14/notes/Shaun Andrews - 2026 - A Reduced-Order Particle-in-Cell Method with Azimuthal Fourier-Decomposed Fields for Nominally Axisymmetric Plasmas.md)
-- 本地 PDF：[本地路径](daily/2026-06-14/pdfs/Shaun Andrews - 2026 - A Reduced-Order Particle-in-Cell Method with Azimuthal Fourier-Decomposed Fields for Nominally Axisymmetric Plasmas.pdf)
+- 中文笔记：[打开笔记](../../daily/2026-06-14/notes/Shaun Andrews - 2026 - A Reduced-Order Particle-in-Cell Method with Azimuthal Fourier-Decomposed Fields for Nominally Axisymmetric Plasmas.md)
+- 本地 PDF：[本地路径](../../daily/2026-06-14/pdfs/Shaun Andrews - 2026 - A Reduced-Order Particle-in-Cell Method with Azimuthal Fourier-Decomposed Fields for Nominally Axisymmetric Plasmas.pdf)
 
 ## 索引说明
 

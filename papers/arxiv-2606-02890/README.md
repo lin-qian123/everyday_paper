@@ -8,8 +8,8 @@
 - 入库日期：2026-06-16
 - DOI：[10.48550/arXiv.2606.02890](https://doi.org/10.48550/arXiv.2606.02890)
 - 来源：[https://arxiv.org/abs/2606.02890](https://arxiv.org/abs/2606.02890)
-- 中文笔记：[打开笔记](daily/2026-06-16/notes/Lucas J. Babati et al. - 2026 - Kinetic Theory for Electronic Transport Properties of Warm Dense Matter Chapman-Enskog Solution of the Uehling-Uhlenbeck Equation.md)
-- 本地 PDF：[本地路径](daily/2026-06-16/pdfs/Lucas J. Babati et al. - 2026 - Kinetic Theory for Electronic Transport Properties of Warm Dense Matter Chapman-Enskog Solution of the Uehling-Uhlenbeck Equation.pdf)
+- 中文笔记：[打开笔记](../../daily/2026-06-16/notes/Lucas J. Babati et al. - 2026 - Kinetic Theory for Electronic Transport Properties of Warm Dense Matter Chapman-Enskog Solution of the Uehling-Uhlenbeck Equation.md)
+- 本地 PDF：[本地路径](../../daily/2026-06-16/pdfs/Lucas J. Babati et al. - 2026 - Kinetic Theory for Electronic Transport Properties of Warm Dense Matter Chapman-Enskog Solution of the Uehling-Uhlenbeck Equation.pdf)
 
 ## 索引说明
 

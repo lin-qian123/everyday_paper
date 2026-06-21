@@ -9,7 +9,7 @@
 - DOI：[10.1017/hpl.2026.10142](https://doi.org/10.1017/hpl.2026.10142)
 - 来源：[https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/neural-networkbased-deconvolution-for-gevscale-gammaray-spectroscopy/2AB08C32D8EE51A389FBFC9696C6ED1A](https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/neural-networkbased-deconvolution-for-gevscale-gammaray-spectroscopy/2AB08C32D8EE51A389FBFC9696C6ED1A)
 - 中文笔记：未生成
-- 本地 PDF：[本地路径](daily/2026-06-07/pdfs/Zhuofan Zhang et al. - 2026 - Neural network-based deconvolution for GeV-Scale Gamma-Ray Spectroscopy.pdf)
+- 本地 PDF：[本地路径](../../daily/2026-06-07/pdfs/Zhuofan Zhang et al. - 2026 - Neural network-based deconvolution for GeV-Scale Gamma-Ray Spectroscopy.pdf)
 
 ## 索引说明
 

@@ -8,8 +8,8 @@
 - 入库日期：2026-06-14
 - DOI：[10.48550/arXiv.2606.02454](https://doi.org/10.48550/arXiv.2606.02454)
 - 来源：[https://arxiv.org/abs/2606.02454](https://arxiv.org/abs/2606.02454)
-- 中文笔记：[打开笔记](daily/2026-06-14/notes/M. Caetano de Sousa et al. - 2026 - Electron injection and acceleration into laser-driven wakefield from a solid overdense plasma target.md)
-- 本地 PDF：[本地路径](daily/2026-06-14/pdfs/M. Caetano de Sousa et al. - 2026 - Electron injection and acceleration into laser-driven wakefield from a solid overdense plasma target.pdf)
+- 中文笔记：[打开笔记](../../daily/2026-06-14/notes/M. Caetano de Sousa et al. - 2026 - Electron injection and acceleration into laser-driven wakefield from a solid overdense plasma target.md)
+- 本地 PDF：[本地路径](../../daily/2026-06-14/pdfs/M. Caetano de Sousa et al. - 2026 - Electron injection and acceleration into laser-driven wakefield from a solid overdense plasma target.pdf)
 
 ## 索引说明
 

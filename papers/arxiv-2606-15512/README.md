@@ -8,8 +8,8 @@
 - 入库日期：2026-06-17
 - DOI：[10.48550/arXiv.2606.15512](https://doi.org/10.48550/arXiv.2606.15512)
 - 来源：[https://arxiv.org/abs/2606.15512](https://arxiv.org/abs/2606.15512)
-- 中文笔记：[打开笔记](daily/2026-06-17/notes/Jay Phil Yoo et al. - 2026 - Towards Data-Efficient Cross-Device Generalization of Grad-Shafranov Equilibria via Transfer Learning Neural Operator.md)
-- 本地 PDF：[本地路径](daily/2026-06-17/pdfs/Jay Phil Yoo et al. - 2026 - Towards Data-Efficient Cross-Device Generalization of Grad-Shafranov Equilibria via Transfer Learning Neural Operator.pdf)
+- 中文笔记：[打开笔记](../../daily/2026-06-17/notes/Jay Phil Yoo et al. - 2026 - Towards Data-Efficient Cross-Device Generalization of Grad-Shafranov Equilibria via Transfer Learning Neural Operator.md)
+- 本地 PDF：[本地路径](../../daily/2026-06-17/pdfs/Jay Phil Yoo et al. - 2026 - Towards Data-Efficient Cross-Device Generalization of Grad-Shafranov Equilibria via Transfer Learning Neural Operator.pdf)
 
 ## 索引说明
 

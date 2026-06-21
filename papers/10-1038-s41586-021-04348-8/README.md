@@ -8,8 +8,8 @@
 - 入库日期：2026-03-22
 - DOI：[10.1038/s41586-021-04348-8](https://doi.org/10.1038/s41586-021-04348-8)
 - 来源：[https://www.nature.com/articles/s41586-021-04348-8](https://www.nature.com/articles/s41586-021-04348-8)
-- 中文笔记：[打开笔记](yearly/2022/notes/R. D'Arcy et al. et al. - 2022 - Recovery time of a plasma-wakefield accelerator.md)
-- 本地 PDF：[本地路径](yearly/2022/pdfs/R. D'Arcy et al. et al. - 2022 - Recovery time of a plasma-wakefield accelerator.pdf)
+- 中文笔记：[打开笔记](../../yearly/2022/notes/R. D'Arcy et al. et al. - 2022 - Recovery time of a plasma-wakefield accelerator.md)
+- 本地 PDF：[本地路径](../../yearly/2022/pdfs/R. D'Arcy et al. et al. - 2022 - Recovery time of a plasma-wakefield accelerator.pdf)
 
 ## 索引说明
 

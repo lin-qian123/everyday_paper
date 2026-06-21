@@ -9,7 +9,7 @@
 - DOI：[10.1017/S0022377825101050](https://doi.org/10.1017/S0022377825101050)
 - 来源：[https://www.cambridge.org/core/product/D2265426E60D45572203017E81913120](https://www.cambridge.org/core/product/D2265426E60D45572203017E81913120)
 - 中文笔记：未生成
-- 本地 PDF：[本地路径](daily/2026-06-09/pdfs/Andreas Solheim et al. - 2026 - Data-driven model order reduction for accelerating boundary plasma turbulence simulations.pdf)
+- 本地 PDF：[本地路径](../../daily/2026-06-09/pdfs/Andreas Solheim et al. - 2026 - Data-driven model order reduction for accelerating boundary plasma turbulence simulations.pdf)
 
 ## 索引说明
 

@@ -8,8 +8,8 @@
 - 入库日期：2026-03-22
 - DOI：[10.1038/s41467-019-12076-x](https://doi.org/10.1038/s41467-019-12076-x)
 - 来源：[https://www.nature.com/articles/s41467-019-12076-x](https://www.nature.com/articles/s41467-019-12076-x)
-- 中文笔记：[打开笔记](yearly/2019/notes/A. J. Kemp et al. - 2019 - Generating keV ion distributions for nuclear reactions at near solid-density using intense sh.md)
-- 本地 PDF：[本地路径](yearly/2019/pdfs/A. J. Kemp et al. - 2019 - Generating keV ion distributions for nuclear reactions at near solid-density using intense sh.pdf)
+- 中文笔记：[打开笔记](../../yearly/2019/notes/A. J. Kemp et al. - 2019 - Generating keV ion distributions for nuclear reactions at near solid-density using intense sh.md)
+- 本地 PDF：[本地路径](../../yearly/2019/pdfs/A. J. Kemp et al. - 2019 - Generating keV ion distributions for nuclear reactions at near solid-density using intense sh.pdf)
 
 ## 索引说明
 

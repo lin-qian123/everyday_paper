@@ -9,7 +9,7 @@
 - DOI：[10.1017/hpl.2026.10152](https://doi.org/10.1017/hpl.2026.10152)
 - 来源：[https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/accepted-manuscripts](https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/accepted-manuscripts)
 - 中文笔记：未生成
-- 本地 PDF：[本地路径](daily/2026-06-09/pdfs/T. A. Vincent et al. - 2026 - Design of experiments characterising heat conduction in magnetised weakly collisional plasma.pdf)
+- 本地 PDF：[本地路径](../../daily/2026-06-09/pdfs/T. A. Vincent et al. - 2026 - Design of experiments characterising heat conduction in magnetised weakly collisional plasma.pdf)
 
 ## 索引说明
 

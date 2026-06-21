@@ -9,7 +9,7 @@
 - DOI：[10.1017/hpl.2025.10083](https://doi.org/10.1017/hpl.2025.10083)
 - 来源：[https://doi.org/10.1017/hpl.2025.10083](https://doi.org/10.1017/hpl.2025.10083)
 - 中文笔记：未生成
-- 本地 PDF：[本地路径](daily/2026-04-27/pdfs/Ben C. Torrance - 2026 - ARISE an algorithm for rapid ion spectrum extraction enabling real-time optimisation in high-repetition-rate laser-driven ion acceleration.pdf)
+- 本地 PDF：[本地路径](../../daily/2026-04-27/pdfs/Ben C. Torrance - 2026 - ARISE an algorithm for rapid ion spectrum extraction enabling real-time optimisation in high-repetition-rate laser-driven ion acceleration.pdf)
 
 ## 索引说明
 

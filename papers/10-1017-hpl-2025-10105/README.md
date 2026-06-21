@@ -9,7 +9,7 @@
 - DOI：[10.1017/hpl.2025.10105](https://doi.org/10.1017/hpl.2025.10105)
 - 来源：[https://doi.org/10.1017/hpl.2025.10105](https://doi.org/10.1017/hpl.2025.10105)
 - 中文笔记：未生成
-- 本地 PDF：[本地路径](daily/2026-04-27/pdfs/Yijie Dong - 2026 - Efficient plasma-based polarization converter for intense X-ray lasers.pdf)
+- 本地 PDF：[本地路径](../../daily/2026-04-27/pdfs/Yijie Dong - 2026 - Efficient plasma-based polarization converter for intense X-ray lasers.pdf)
 
 ## 索引说明
 

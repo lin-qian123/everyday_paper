@@ -9,7 +9,7 @@
 - DOI：[10.48550/arXiv.2606.06232](https://doi.org/10.48550/arXiv.2606.06232)
 - 来源：[https://arxiv.org/abs/2606.06232](https://arxiv.org/abs/2606.06232)
 - 中文笔记：未生成
-- 本地 PDF：[本地路径](daily/2026-06-11/pdfs/Salome Benracassa et al. - 2026 - Plasma wakefield dynamics of self-generated electron bunch trains.pdf)
+- 本地 PDF：[本地路径](../../daily/2026-06-11/pdfs/Salome Benracassa et al. - 2026 - Plasma wakefield dynamics of self-generated electron bunch trains.pdf)
 
 ## 索引说明
 

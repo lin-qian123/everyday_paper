@@ -8,8 +8,8 @@
 - 入库日期：2026-03-22
 - DOI：[10.1038/nphys4007](https://doi.org/10.1038/nphys4007)
 - 来源：[https://www.nature.com/articles/nphys4007](https://www.nature.com/articles/nphys4007)
-- 中文笔记：[打开笔记](yearly/2017/notes/A. Leblanc et al. - 2017 - Plasma holograms for ultrahigh-intensity optics.md)
-- 本地 PDF：[本地路径](yearly/2017/pdfs/A. Leblanc et al. - 2017 - Plasma holograms for ultrahigh-intensity optics.pdf)
+- 中文笔记：[打开笔记](../../yearly/2017/notes/A. Leblanc et al. - 2017 - Plasma holograms for ultrahigh-intensity optics.md)
+- 本地 PDF：[本地路径](../../yearly/2017/pdfs/A. Leblanc et al. - 2017 - Plasma holograms for ultrahigh-intensity optics.pdf)
 
 ## 索引说明
 

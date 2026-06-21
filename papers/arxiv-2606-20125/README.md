@@ -8,8 +8,8 @@
 - 入库日期：2026-06-20
 - DOI：[10.48550/arXiv.2606.20125](https://doi.org/10.48550/arXiv.2606.20125)
 - 来源：[https://arxiv.org/abs/2606.20125](https://arxiv.org/abs/2606.20125)
-- 中文笔记：[打开笔记](daily/2026-06-20/notes/Sourabh Singh et al. - 2026 - Caustic-Driven Fluidic Microlenses for Enhanced Nonlinear and High-Energy-Density Physics.md)
-- 本地 PDF：[本地路径](daily/2026-06-20/pdfs/Sourabh Singh et al. - 2026 - Caustic-Driven Fluidic Microlenses for Enhanced Nonlinear and High-Energy-Density Physics.pdf)
+- 中文笔记：[打开笔记](../../daily/2026-06-20/notes/Sourabh Singh et al. - 2026 - Caustic-Driven Fluidic Microlenses for Enhanced Nonlinear and High-Energy-Density Physics.md)
+- 本地 PDF：[本地路径](../../daily/2026-06-20/pdfs/Sourabh Singh et al. - 2026 - Caustic-Driven Fluidic Microlenses for Enhanced Nonlinear and High-Energy-Density Physics.pdf)
 
 ## 索引说明
 

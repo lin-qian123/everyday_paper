@@ -9,7 +9,7 @@
 - DOI：[10.1038/s41586-026-10400-2](https://doi.org/10.1038/s41586-026-10400-2)
 - 来源：[https://www.nature.com/articles/s41586-026-10400-2](https://www.nature.com/articles/s41586-026-10400-2)
 - 中文笔记：未生成
-- 本地 PDF：[本地路径](daily/2026-04-26/pdfs/Nature article authors 2026 - 2026 - Efficiency-optimized relativistic plasma harmonics for extreme fields.pdf)
+- 本地 PDF：[本地路径](../../daily/2026-04-26/pdfs/Nature article authors 2026 - 2026 - Efficiency-optimized relativistic plasma harmonics for extreme fields.pdf)
 
 ## 索引说明
 

@@ -9,7 +9,7 @@
 - DOI：[10.1038/s42005-026-02689-2](https://doi.org/10.1038/s42005-026-02689-2)
 - 来源：[https://www.nature.com/articles/s42005-026-02689-2](https://www.nature.com/articles/s42005-026-02689-2)
 - 中文笔记：未生成
-- 本地 PDF：[本地路径](daily/2026-06-03/pdfs/Semin Joung et al. - 2026 - Explainable tokamak-agnostic forecasting of fusion plasma instability via megahertz turbulent fluctuations.pdf)
+- 本地 PDF：[本地路径](../../daily/2026-06-03/pdfs/Semin Joung et al. - 2026 - Explainable tokamak-agnostic forecasting of fusion plasma instability via megahertz turbulent fluctuations.pdf)
 
 ## 索引说明
 

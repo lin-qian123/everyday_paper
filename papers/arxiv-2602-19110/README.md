@@ -9,7 +9,7 @@
 - DOI：[10.48550/arXiv.2602.19110](https://doi.org/10.48550/arXiv.2602.19110)
 - 来源：[https://arxiv.org/abs/2602.19110](https://arxiv.org/abs/2602.19110)
 - 中文笔记：未生成
-- 本地 PDF：[本地路径](daily/2026-06-10/pdfs/Chenguang Wan et al. - 2026 - Machine learning prediction of plasma behavior from discharge configurations on WEST.pdf)
+- 本地 PDF：[本地路径](../../daily/2026-06-10/pdfs/Chenguang Wan et al. - 2026 - Machine learning prediction of plasma behavior from discharge configurations on WEST.pdf)
 
 ## 索引说明
 

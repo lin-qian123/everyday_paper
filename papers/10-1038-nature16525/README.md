@@ -8,8 +8,8 @@
 - 入库日期：2026-03-22
 - DOI：[10.1038/nature16525](https://doi.org/10.1038/nature16525)
 - 来源：[https://www.nature.com/articles/nature16525](https://www.nature.com/articles/nature16525)
-- 中文笔记：[打开笔记](yearly/2016/notes/S. Steinke et al. - 2016 - Multistage coupling of independent laser-plasma accelerators.md)
-- 本地 PDF：[本地路径](yearly/2016/pdfs/S. Steinke et al. - 2016 - Multistage coupling of independent laser-plasma accelerators.pdf)
+- 中文笔记：[打开笔记](../../yearly/2016/notes/S. Steinke et al. - 2016 - Multistage coupling of independent laser-plasma accelerators.md)
+- 本地 PDF：[本地路径](../../yearly/2016/pdfs/S. Steinke et al. - 2016 - Multistage coupling of independent laser-plasma accelerators.pdf)
 
 ## 索引说明
 

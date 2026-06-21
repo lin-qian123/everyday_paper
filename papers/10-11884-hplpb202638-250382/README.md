@@ -9,7 +9,7 @@
 - DOI：[10.11884/HPLPB202638.250382](https://doi.org/10.11884/HPLPB202638.250382)
 - 来源：[https://www.hplpb.com.cn/en/article/doi/10.11884/HPLPB202638.250382](https://www.hplpb.com.cn/en/article/doi/10.11884/HPLPB202638.250382)
 - 中文笔记：未生成
-- 本地 PDF：[本地路径](daily/2026-04-27/pdfs/Li Yifei - 2026 - Femtosecond laser-driven ultrafast X-ray dynamics experimental station.pdf)
+- 本地 PDF：[本地路径](../../daily/2026-04-27/pdfs/Li Yifei - 2026 - Femtosecond laser-driven ultrafast X-ray dynamics experimental station.pdf)
 
 ## 索引说明
 

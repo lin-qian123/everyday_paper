@@ -8,8 +8,8 @@
 - 入库日期：2026-06-17
 - DOI：[10.48550/arXiv.2606.16066](https://doi.org/10.48550/arXiv.2606.16066)
 - 来源：[https://arxiv.org/abs/2606.16066](https://arxiv.org/abs/2606.16066)
-- 中文笔记：[打开笔记](daily/2026-06-17/notes/Wallace Manheimer - 2026 - On modeling energetic electrons in laser fusion plasmas.md)
-- 本地 PDF：[本地路径](daily/2026-06-17/pdfs/Wallace Manheimer - 2026 - On modeling energetic electrons in laser fusion plasmas.pdf)
+- 中文笔记：[打开笔记](../../daily/2026-06-17/notes/Wallace Manheimer - 2026 - On modeling energetic electrons in laser fusion plasmas.md)
+- 本地 PDF：[本地路径](../../daily/2026-06-17/pdfs/Wallace Manheimer - 2026 - On modeling energetic electrons in laser fusion plasmas.pdf)
 
 ## 索引说明
 

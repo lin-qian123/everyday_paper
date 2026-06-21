@@ -8,8 +8,8 @@
 - 入库日期：2026-04-20
 - DOI：[10.1038/s41598-026-41795-7](https://doi.org/10.1038/s41598-026-41795-7)
 - 来源：[https://www.nature.com/articles/s41598-026-41795-7](https://www.nature.com/articles/s41598-026-41795-7)
-- 中文笔记：[打开笔记](daily/2026-04-20/notes/Kim et al. - 2026 - Electron bunch optimization in laser wakefield acceleration through temporally asymmetric pulse shaping in ionization in.md)
-- 本地 PDF：[本地路径](daily/2026-04-20/pdfs/Kim et al. - 2026 - Electron bunch optimization in laser wakefield acceleration through temporally asymmetric pulse shaping in ionization in.pdf)
+- 中文笔记：[打开笔记](../../daily/2026-04-20/notes/Kim et al. - 2026 - Electron bunch optimization in laser wakefield acceleration through temporally asymmetric pulse shaping in ionization in.md)
+- 本地 PDF：[本地路径](../../daily/2026-04-20/pdfs/Kim et al. - 2026 - Electron bunch optimization in laser wakefield acceleration through temporally asymmetric pulse shaping in ionization in.pdf)
 
 ## 索引说明
 

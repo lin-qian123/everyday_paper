@@ -9,7 +9,7 @@
 - DOI：[10.48550/arXiv.2605.18542](https://doi.org/10.48550/arXiv.2605.18542)
 - 来源：[https://arxiv.org/abs/2605.18542](https://arxiv.org/abs/2605.18542)
 - 中文笔记：未生成
-- 本地 PDF：[本地路径](daily/2026-06-11/pdfs/Lee Ricketson et al. - 2026 - An explicit, energy-conserving particle-in-cell scheme for relativistic plasmas.pdf)
+- 本地 PDF：[本地路径](../../daily/2026-06-11/pdfs/Lee Ricketson et al. - 2026 - An explicit, energy-conserving particle-in-cell scheme for relativistic plasmas.pdf)
 
 ## 索引说明
 

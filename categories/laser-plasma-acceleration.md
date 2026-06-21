@@ -2,11 +2,13 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：46 篇
-- 索引更新时间：2026-06-20
+- 当前收录：48 篇
+- 索引更新时间：2026-06-21
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-06-21 | [Plasma wakes driven by Compton scattering: nonlinear regime and particle acceleration](../papers/10-1017-s0022377826101858/README.md) | Journal of Plasma Physics（正式期刊） | [笔记](../daily/2026-06-21/notes/Thomas Grismayer et al. - 2026 - Plasma wakes driven by Compton scattering nonlinear regime and particle acceleration.md) |
+| 2026-06-21 | [Short overview of solid, gas, cryogenic and liquid target fabrication for single-beam high-power laser experiments](../papers/10-1017-hpl-2026-10132/README.md) | High Power Laser Science and Engineering（正式期刊，Review） | [笔记](../daily/2026-06-21/notes/Stefania C. Ionescu et al. - 2026 - Short overview of solid gas cryogenic and liquid target fabrication for single-beam high-power laser experiments.md) |
 | 2026-06-20 | [Dephasingless laser wakefield acceleration in a plasma waveguide](../papers/arxiv-2606-20298/README.md) | arXiv 预印本（高相关补充） | [笔记](../daily/2026-06-20/notes/J.P. Palastro et al. - 2026 - Dephasingless laser wakefield acceleration in a plasma waveguide.md) |
 | 2026-06-19 | [Wake Perturbations in Laser- and Beam-Driven Plasma Wakefield Accelerators: A Symmetry-Based Multipole Classification](../papers/arxiv-2606-18845/README.md) | arXiv 预印本（高相关补充） | [笔记](../daily/2026-06-19/notes/Andrei C. Berceanu et al. - 2026 - Wake Perturbations in Laser- and Beam-Driven Plasma Wakefield Accelerators A Symmetry-Based Multipole Classification.md) |
 | 2026-06-19 | [Ionization-Induced Electrostatic Hose Instability in Electron-Beam-Sustained Plasmas](../papers/arxiv-2606-12127/README.md) | arXiv 预印本（高相关补充） | [笔记](../daily/2026-06-19/notes/Jia-Hong Chen et al. - 2026 - Ionization-Induced Electrostatic Hose Instability in Electron-Beam-Sustained Plasmas.md) |

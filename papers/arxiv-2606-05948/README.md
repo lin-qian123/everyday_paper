@@ -8,8 +8,8 @@
 - 入库日期：2026-06-15
 - DOI：[10.48550/arXiv.2606.05948](https://doi.org/10.48550/arXiv.2606.05948)
 - 来源：[https://arxiv.org/abs/2606.05948](https://arxiv.org/abs/2606.05948)
-- 中文笔记：[打开笔记](daily/2026-06-15/notes/Nozomi Tanaka et al. - 2026 - Optimization of EUV output by experimentally validated radiation-hydrodynamic simulations across a broad laser parameter space.md)
-- 本地 PDF：[本地路径](daily/2026-06-15/pdfs/Nozomi Tanaka et al. - 2026 - Optimization of EUV output by experimentally validated radiation-hydrodynamic simulations across a broad laser parameter space.pdf)
+- 中文笔记：[打开笔记](../../daily/2026-06-15/notes/Nozomi Tanaka et al. - 2026 - Optimization of EUV output by experimentally validated radiation-hydrodynamic simulations across a broad laser parameter space.md)
+- 本地 PDF：[本地路径](../../daily/2026-06-15/pdfs/Nozomi Tanaka et al. - 2026 - Optimization of EUV output by experimentally validated radiation-hydrodynamic simulations across a broad laser parameter space.pdf)
 
 ## 索引说明
 

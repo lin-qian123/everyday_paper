@@ -8,8 +8,8 @@
 - 入库日期：2026-03-22
 - DOI：[10.1038/s41467-024-48413-y](https://doi.org/10.1038/s41467-024-48413-y)
 - 来源：[https://www.nature.com/articles/s41467-024-48413-y](https://www.nature.com/articles/s41467-024-48413-y)
-- 中文笔记：[打开笔记](yearly/2024/notes/R. Zgadzaj et al. - 2024 - Plasma electron acceleration driven by a long-wave-infrared laser.md)
-- 本地 PDF：[本地路径](yearly/2024/pdfs/R. Zgadzaj et al. - 2024 - Plasma electron acceleration driven by a long-wave-infrared laser.pdf)
+- 中文笔记：[打开笔记](../../yearly/2024/notes/R. Zgadzaj et al. - 2024 - Plasma electron acceleration driven by a long-wave-infrared laser.md)
+- 本地 PDF：[本地路径](../../yearly/2024/pdfs/R. Zgadzaj et al. - 2024 - Plasma electron acceleration driven by a long-wave-infrared laser.pdf)
 
 ## 索引说明
 

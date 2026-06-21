@@ -9,7 +9,7 @@
 - DOI：[10.1038/s41598-026-35800-2](https://doi.org/10.1038/s41598-026-35800-2)
 - 来源：[https://www.nature.com/articles/s41598-026-35800-2](https://www.nature.com/articles/s41598-026-35800-2)
 - 中文笔记：未生成
-- 本地 PDF：[本地路径](daily/2026-06-06/pdfs/K. P. Anjana et al. - 2026 - Enhanced terahertz radiation generation by phase-controlled two-color laser pulses interacting with an under-dense plasma.pdf)
+- 本地 PDF：[本地路径](../../daily/2026-06-06/pdfs/K. P. Anjana et al. - 2026 - Enhanced terahertz radiation generation by phase-controlled two-color laser pulses interacting with an under-dense plasma.pdf)
 
 ## 索引说明
 

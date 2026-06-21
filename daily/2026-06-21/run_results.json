@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Plasma wakes driven by Compton scattering: nonlinear regime and particle acceleration",
+    "doi": "10.1017/S0022377826101858",
+    "source_url": "https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/plasma-wakes-driven-by-compton-scattering-nonlinear-regime-and-particle-acceleration/3E8E7F22253C233A85A6B0795B686FA6",
+    "pdf_path": "daily/2026-06-21/pdfs/Thomas Grismayer et al. - 2026 - Plasma wakes driven by Compton scattering nonlinear regime and particle acceleration.pdf",
+    "pdf_name": "Thomas Grismayer et al. - 2026 - Plasma wakes driven by Compton scattering nonlinear regime and particle acceleration.pdf",
+    "cmd": [
+      "python",
+      "scripts/safe_pdf_download.py",
+      "--url",
+      "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3E8E7F22253C233A85A6B0795B686FA6/S0022377826101858a.pdf/div-class-title-plasma-wakes-driven-by-compton-scattering-nonlinear-regime-and-particle-acceleration-div.pdf",
+      "--url",
+      "https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/plasma-wakes-driven-by-compton-scattering-nonlinear-regime-and-particle-acceleration/3E8E7F22253C233A85A6B0795B686FA6",
+      "--doi",
+      "10.1017/S0022377826101858",
+      "--output",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-21/pdfs/Thomas Grismayer et al. - 2026 - Plasma wakes driven by Compton scattering nonlinear regime and particle acceleration.pdf",
+      "--report-json",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-21/Thomas Grismayer et al. - 2026 - Plasma wakes driven by Compton scattering nonlinear regime and particle acceleration.download_report.json"
+    ],
+    "returncode": 0,
+    "stdout": "Downloaded: /Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-21/pdfs/Thomas Grismayer et al. - 2026 - Plasma wakes driven by Compton scattering nonlinear regime and particle acceleration.pdf (5736436 bytes) from https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3E8E7F22253C233A85A6B0795B686FA6/S0022377826101858a.pdf/div-class-title-plasma-wakes-driven-by-compton-scattering-nonlinear-regime-and-particle-acceleration-div.pdf via env-proxy\n",
+    "stderr": "",
+    "report": {
+      "ok": true,
+      "output": "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-21/pdfs/Thomas Grismayer et al. - 2026 - Plasma wakes driven by Compton scattering nonlinear regime and particle acceleration.pdf",
+      "source_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3E8E7F22253C233A85A6B0795B686FA6/S0022377826101858a.pdf/div-class-title-plasma-wakes-driven-by-compton-scattering-nonlinear-regime-and-particle-acceleration-div.pdf",
+      "mode": "env-proxy",
+      "attempts": []
+    },
+    "paper": {
+      "title": "Plasma wakes driven by Compton scattering: nonlinear regime and particle acceleration",
+      "authors": "Thomas Grismayer, Fabrizio Del Gaudio, Luis O. Silva",
+      "doi": "10.1017/S0022377826101858",
+      "source_url": "https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/plasma-wakes-driven-by-compton-scattering-nonlinear-regime-and-particle-acceleration/3E8E7F22253C233A85A6B0795B686FA6",
+      "pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3E8E7F22253C233A85A6B0795B686FA6/S0022377826101858a.pdf/div-class-title-plasma-wakes-driven-by-compton-scattering-nonlinear-regime-and-particle-acceleration-div.pdf",
+      "publication_date": "2026-06-16",
+      "journal": "Journal of Plasma Physics（正式期刊）",
+      "topic": "wakefield acceleration，Compton scattering，nonlinear plasma wake，phase-locking，PIC",
+      "impact_score": 8,
+      "similarity_score": 8,
+      "reason": "直接关联 wakefield acceleration 主线，并从非传统 Compton-driven 机制角度讨论 phase velocity、dephasing 和二维 PIC 横向聚焦结构。",
+      "summary": "将 Compton scattering 驱动的 plasma wake 从线性理论推进到非线性区，指出准直驱动可支持近光速传播和更长相位锁定，而有限发散会重新引入 dephasing 限制。",
+      "keywords": "plasma wake、Compton scattering、particle acceleration、dephasing、PIC"
+    }
+  },
+  {
+    "title": "Short overview of solid, gas, cryogenic and liquid target fabrication for single-beam high-power laser experiments",
+    "doi": "10.1017/hpl.2026.10132",
+    "source_url": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/short-overview-of-solid-gas-cryogenic-and-liquid-target-fabrication-for-singlebeam-highpower-laser-experiments/644BC50D345BF37915D49744BBEFAF35",
+    "pdf_path": "daily/2026-06-21/pdfs/Stefania C. Ionescu et al. - 2026 - Short overview of solid gas cryogenic and liquid target fabrication for single-beam high-power laser experiments.pdf",
+    "pdf_name": "Stefania C. Ionescu et al. - 2026 - Short overview of solid gas cryogenic and liquid target fabrication for single-beam high-power laser experiments.pdf",
+    "cmd": [
+      "python",
+      "scripts/safe_pdf_download.py",
+      "--url",
+      "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/644BC50D345BF37915D49744BBEFAF35/S2095471926101327a.pdf/div-class-title-short-overview-of-solid-gas-cryogenic-and-liquid-target-fabrication-for-single-beam-high-power-laser-experiments-div.pdf",
+      "--url",
+      "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/short-overview-of-solid-gas-cryogenic-and-liquid-target-fabrication-for-singlebeam-highpower-laser-experiments/644BC50D345BF37915D49744BBEFAF35",
+      "--doi",
+      "10.1017/hpl.2026.10132",
+      "--output",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-21/pdfs/Stefania C. Ionescu et al. - 2026 - Short overview of solid gas cryogenic and liquid target fabrication for single-beam high-power laser experiments.pdf",
+      "--report-json",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-21/Stefania C. Ionescu et al. - 2026 - Short overview of solid gas cryogenic and liquid target fabrication for single-beam high-power laser experiments.download_report.json"
+    ],
+    "returncode": 0,
+    "stdout": "Downloaded: /Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-21/pdfs/Stefania C. Ionescu et al. - 2026 - Short overview of solid gas cryogenic and liquid target fabrication for single-beam high-power laser experiments.pdf (9983116 bytes) from https://www.cambridge.org/core/services/aop-cambridge-core/content/view/644BC50D345BF37915D49744BBEFAF35/S2095471926101327a.pdf/div-class-title-short-overview-of-solid-gas-cryogenic-and-liquid-target-fabrication-for-single-beam-high-power-laser-experiments-div.pdf via env-proxy\n",
+    "stderr": "",
+    "report": {
+      "ok": true,
+      "output": "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-21/pdfs/Stefania C. Ionescu et al. - 2026 - Short overview of solid gas cryogenic and liquid target fabrication for single-beam high-power laser experiments.pdf",
+      "source_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/644BC50D345BF37915D49744BBEFAF35/S2095471926101327a.pdf/div-class-title-short-overview-of-solid-gas-cryogenic-and-liquid-target-fabrication-for-single-beam-high-power-laser-experiments-div.pdf",
+      "mode": "env-proxy",
+      "attempts": []
+    },
+    "paper": {
+      "title": "Short overview of solid, gas, cryogenic and liquid target fabrication for single-beam high-power laser experiments",
+      "authors": "Stefania C. Ionescu, Vanessa L. J. Phung, Cristina C. Gheorghiu, Michael Ehret, Nina Gamaiunova, Yuji Fukuda, Stefan Popa, Timofej Chagovets, Lorenzo Giuffrida, Daniel Ursescu, Domenico Doria, Victor Leca",
+      "doi": "10.1017/hpl.2026.10132",
+      "source_url": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/short-overview-of-solid-gas-cryogenic-and-liquid-target-fabrication-for-singlebeam-highpower-laser-experiments/644BC50D345BF37915D49744BBEFAF35",
+      "pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/644BC50D345BF37915D49744BBEFAF35/S2095471926101327a.pdf/div-class-title-short-overview-of-solid-gas-cryogenic-and-liquid-target-fabrication-for-single-beam-high-power-laser-experiments-div.pdf",
+      "publication_date": "2026-03-25",
+      "journal": "High Power Laser Science and Engineering（正式期刊，Review）",
+      "topic": "target fabrication，高重复频激光实验，proton/gamma/neutron applications，laser particle acceleration",
+      "impact_score": 8,
+      "similarity_score": 9,
+      "reason": "系统覆盖固体、气体、低温和液体靶及其在离子/电子加速、bremsstrahlung、gamma/neutron 应用和高重复频实验中的角色，与当前扩展主题高度一致。",
+      "summary": "综述单束高功率激光实验里多类 target family 的制备路线与应用性能，把靶工程、高重复频运行和粒子/辐射源应用放到统一框架下讨论。",
+      "keywords": "target fabrication、high repetition rate、laser particle acceleration、bremsstrahlung、proton beam"
+    }
+  }
+]

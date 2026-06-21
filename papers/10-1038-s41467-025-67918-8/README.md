@@ -8,8 +8,8 @@
 - 入库日期：2026-03-21
 - DOI：[10.1038/s41467-025-67918-8](https://doi.org/10.1038/s41467-025-67918-8)
 - 来源：[https://www.nature.com/articles/s41467-025-67918-8](https://www.nature.com/articles/s41467-025-67918-8)
-- 中文笔记：[打开笔记](daily/2026-03-21/notes/Los et al. - 2026 - Observation of quantum effects on radiation reaction in strong fields.md)
-- 本地 PDF：[本地路径](daily/2026-03-21/pdfs/Los et al. - 2026 - Observation of quantum effects on radiation reaction in strong fields.pdf)
+- 中文笔记：[打开笔记](../../daily/2026-03-21/notes/Los et al. - 2026 - Observation of quantum effects on radiation reaction in strong fields.md)
+- 本地 PDF：[本地路径](../../daily/2026-03-21/pdfs/Los et al. - 2026 - Observation of quantum effects on radiation reaction in strong fields.pdf)
 
 ## 索引说明
 

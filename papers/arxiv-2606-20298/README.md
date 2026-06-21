@@ -8,8 +8,8 @@
 - 入库日期：2026-06-20
 - DOI：[10.48550/arXiv.2606.20298](https://doi.org/10.48550/arXiv.2606.20298)
 - 来源：[https://arxiv.org/abs/2606.20298](https://arxiv.org/abs/2606.20298)
-- 中文笔记：[打开笔记](daily/2026-06-20/notes/J.P. Palastro et al. - 2026 - Dephasingless laser wakefield acceleration in a plasma waveguide.md)
-- 本地 PDF：[本地路径](daily/2026-06-20/pdfs/J.P. Palastro et al. - 2026 - Dephasingless laser wakefield acceleration in a plasma waveguide.pdf)
+- 中文笔记：[打开笔记](../../daily/2026-06-20/notes/J.P. Palastro et al. - 2026 - Dephasingless laser wakefield acceleration in a plasma waveguide.md)
+- 本地 PDF：[本地路径](../../daily/2026-06-20/pdfs/J.P. Palastro et al. - 2026 - Dephasingless laser wakefield acceleration in a plasma waveguide.pdf)
 
 ## 索引说明
 

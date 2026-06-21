@@ -8,8 +8,8 @@
 - 入库日期：2026-03-22
 - DOI：[10.1038/ncomms15705](https://doi.org/10.1038/ncomms15705)
 - 来源：[https://www.nature.com/articles/ncomms15705](https://www.nature.com/articles/ncomms15705)
-- 中文笔记：[打开笔记](yearly/2017/notes/G. G. Manahan et al. - 2017 - Single-stage plasma-based correlated energy spread compensation for ultrahigh 6D brightnes.md)
-- 本地 PDF：[本地路径](yearly/2017/pdfs/G. G. Manahan et al. - 2017 - Single-stage plasma-based correlated energy spread compensation for ultrahigh 6D brightnes.pdf)
+- 中文笔记：[打开笔记](../../yearly/2017/notes/G. G. Manahan et al. - 2017 - Single-stage plasma-based correlated energy spread compensation for ultrahigh 6D brightnes.md)
+- 本地 PDF：[本地路径](../../yearly/2017/pdfs/G. G. Manahan et al. - 2017 - Single-stage plasma-based correlated energy spread compensation for ultrahigh 6D brightnes.pdf)
 
 ## 索引说明
 

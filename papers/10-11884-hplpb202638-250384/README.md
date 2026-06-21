@@ -9,7 +9,7 @@
 - DOI：[10.11884/HPLPB202638.250384](https://doi.org/10.11884/HPLPB202638.250384)
 - 来源：[https://www.hplpb.com.cn/en/article/doi/10.11884/HPLPB202638.250384](https://www.hplpb.com.cn/en/article/doi/10.11884/HPLPB202638.250384)
 - 中文笔记：未生成
-- 本地 PDF：[本地路径](daily/2026-04-27/pdfs/Abdughupur Ablimit - 2026 - Recent advances in Betatron radiation sources driven by laserplasma interactions.pdf)
+- 本地 PDF：[本地路径](../../daily/2026-04-27/pdfs/Abdughupur Ablimit - 2026 - Recent advances in Betatron radiation sources driven by laserplasma interactions.pdf)
 
 ## 索引说明
 

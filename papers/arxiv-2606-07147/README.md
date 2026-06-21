@@ -8,8 +8,8 @@
 - 入库日期：2026-06-13
 - DOI：[10.48550/arXiv.2606.07147](https://doi.org/10.48550/arXiv.2606.07147)
 - 来源：[https://arxiv.org/abs/2606.07147](https://arxiv.org/abs/2606.07147)
-- 中文笔记：[打开笔记](daily/2026-06-13/notes/Bonaventura Farace et al. - 2026 - Multi-kilohertz laser plasma acceleration driven by an industrial-grade YbYAG laser.md)
-- 本地 PDF：[本地路径](daily/2026-06-13/pdfs/Bonaventura Farace et al. - 2026 - Multi-kilohertz laser plasma acceleration driven by an industrial-grade YbYAG laser.pdf)
+- 中文笔记：[打开笔记](../../daily/2026-06-13/notes/Bonaventura Farace et al. - 2026 - Multi-kilohertz laser plasma acceleration driven by an industrial-grade YbYAG laser.md)
+- 本地 PDF：[本地路径](../../daily/2026-06-13/pdfs/Bonaventura Farace et al. - 2026 - Multi-kilohertz laser plasma acceleration driven by an industrial-grade YbYAG laser.pdf)
 
 ## 索引说明
 

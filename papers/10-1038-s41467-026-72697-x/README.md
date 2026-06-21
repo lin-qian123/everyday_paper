@@ -8,8 +8,8 @@
 - 入库日期：2026-05-03
 - DOI：[10.1038/s41467-026-72697-x](https://doi.org/10.1038/s41467-026-72697-x)
 - 来源：[https://www.nature.com/articles/s41467-026-72697-x](https://www.nature.com/articles/s41467-026-72697-x)
-- 中文笔记：[打开笔记](daily/2026-05-03/notes/Tanner Nutting et al. - 2026 - Transversely pumped laser driven particle accelerator.md)
-- 本地 PDF：[本地路径](daily/2026-05-03/pdfs/Tanner Nutting et al. - 2026 - Transversely pumped laser driven particle accelerator.pdf)
+- 中文笔记：[打开笔记](../../daily/2026-05-03/notes/Tanner Nutting et al. - 2026 - Transversely pumped laser driven particle accelerator.md)
+- 本地 PDF：[本地路径](../../daily/2026-05-03/pdfs/Tanner Nutting et al. - 2026 - Transversely pumped laser driven particle accelerator.pdf)
 
 ## 索引说明
 

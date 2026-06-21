@@ -9,7 +9,7 @@
 - DOI：[10.1038/s42005-026-02626-3](https://doi.org/10.1038/s42005-026-02626-3)
 - 来源：[https://www.nature.com/articles/s42005-026-02626-3](https://www.nature.com/articles/s42005-026-02626-3)
 - 中文笔记：未生成
-- 本地 PDF：[本地路径](daily/2026-06-03/pdfs/Zongyu Yang et al. - 2026 - FusionMAE, a self-supervised pretrained model to optimize and simplify diagnostic and control of fusion plasma.pdf)
+- 本地 PDF：[本地路径](../../daily/2026-06-03/pdfs/Zongyu Yang et al. - 2026 - FusionMAE, a self-supervised pretrained model to optimize and simplify diagnostic and control of fusion plasma.pdf)
 
 ## 索引说明
 

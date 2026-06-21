@@ -8,8 +8,8 @@
 - 入库日期：2026-03-22
 - DOI：[10.1038/s41467-025-56667-3](https://doi.org/10.1038/s41467-025-56667-3)
 - 来源：[https://www.nature.com/articles/s41467-025-56667-3](https://www.nature.com/articles/s41467-025-56667-3)
-- 中文笔记：[打开笔记](yearly/2025/notes/Yinren Shou et al. - 2025 - Laser-driven proton acceleration beyond 100 MeV by radiation pressure and Coulomb repulsion.md)
-- 本地 PDF：[本地路径](yearly/2025/pdfs/Yinren Shou et al. - 2025 - Laser-driven proton acceleration beyond 100 MeV by radiation pressure and Coulomb repulsion.pdf)
+- 中文笔记：[打开笔记](../../yearly/2025/notes/Yinren Shou et al. - 2025 - Laser-driven proton acceleration beyond 100 MeV by radiation pressure and Coulomb repulsion.md)
+- 本地 PDF：[本地路径](../../yearly/2025/pdfs/Yinren Shou et al. - 2025 - Laser-driven proton acceleration beyond 100 MeV by radiation pressure and Coulomb repulsion.pdf)
 
 ## 索引说明
 

@@ -8,7 +8,7 @@
 - 入库日期：2026-03-22
 - DOI：[10.1103/PhysRevLett.133.195102](https://doi.org/10.1103/PhysRevLett.133.195102)
 - 来源：[https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.195102](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.195102)
-- 中文笔记：[打开笔记](yearly/2024/notes/Y. Sakawa et al. - 2024 - Laser-Driven Proton-Only Acceleration in a Multicomponent Near-Critical-Density Plasma.md)
+- 中文笔记：[打开笔记](../../yearly/2024/notes/Y. Sakawa et al. - 2024 - Laser-Driven Proton-Only Acceleration in a Multicomponent Near-Critical-Density Plasma.md)
 - 本地 PDF：未补回或未跟踪
 
 ## 索引说明
