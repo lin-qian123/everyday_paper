@@ -1412,5 +1412,27 @@
     "processed_date": "2026-06-21",
     "pdf_path": "daily/2026-06-21/pdfs/Stefania C. Ionescu et al. - 2026 - Short overview of solid gas cryogenic and liquid target fabrication for single-beam high-power laser experiments.pdf",
     "note_path": "daily/2026-06-21/notes/Stefania C. Ionescu et al. - 2026 - Short overview of solid gas cryogenic and liquid target fabrication for single-beam high-power laser experiments.md"
+  },
+  {
+    "title": "RR-induced breaking of ponderomotive invariants in EM modes",
+    "normalized_title": "rr induced breaking of ponderomotive invariants in em modes",
+    "doi": "10.1017/S0022377826101809",
+    "source_url": "https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/rrinduced-breaking-of-ponderomotive-invariants-in-em-modes/E30748825098B8A7C25777FE40575BA6",
+    "journal": "Journal of Plasma Physics（正式期刊）",
+    "publication_date": "2026-06-10",
+    "processed_date": "2026-06-22",
+    "pdf_path": "daily/2026-06-22/pdfs/Felipe Russman et al. - 2026 - RR-induced breaking of ponderomotive invariants in EM modes.pdf",
+    "note_path": "daily/2026-06-22/notes/Felipe Russman et al. - 2026 - RR-induced breaking of ponderomotive invariants in EM modes.md"
+  },
+  {
+    "title": "Learning collision operators from plasma phase space data using differentiable simulators",
+    "normalized_title": "learning collision operators from plasma phase space data using differentiable simulators",
+    "doi": "10.1017/S0022377826101755",
+    "source_url": "https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/learning-collision-operators-from-plasma-phase-space-data-using-differentiable-simulators/AF996FF9346FDF028DE03EFCD3F408ED",
+    "journal": "Journal of Plasma Physics（正式期刊）",
+    "publication_date": "2026-06-10",
+    "processed_date": "2026-06-22",
+    "pdf_path": "daily/2026-06-22/pdfs/Diogo D. Carvalho et al. - 2026 - Learning collision operators from plasma phase space data using differentiable simulators.pdf",
+    "note_path": "daily/2026-06-22/notes/Diogo D. Carvalho et al. - 2026 - Learning collision operators from plasma phase space data using differentiable simulators.md"
   }
 ]

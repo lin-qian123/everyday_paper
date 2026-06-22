@@ -1,10 +1,12 @@
 # 论文总索引
 
-- 当前入库论文：128 篇
-- 索引更新时间：2026-06-21
+- 当前入库论文：130 篇
+- 索引更新时间：2026-06-22
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-06-22 | [RR-induced breaking of ponderomotive invariants in EM modes](./10-1017-s0022377826101809/README.md) | Journal of Plasma Physics（正式期刊） | [10.1017/S0022377826101809](https://doi.org/10.1017/S0022377826101809) |
+| 2026-06-22 | [Learning collision operators from plasma phase space data using differentiable simulators](./10-1017-s0022377826101755/README.md) | Journal of Plasma Physics（正式期刊） | [10.1017/S0022377826101755](https://doi.org/10.1017/S0022377826101755) |
 | 2026-06-21 | [Plasma wakes driven by Compton scattering: nonlinear regime and particle acceleration](./10-1017-s0022377826101858/README.md) | Journal of Plasma Physics（正式期刊） | [10.1017/S0022377826101858](https://doi.org/10.1017/S0022377826101858) |
 | 2026-06-21 | [Short overview of solid, gas, cryogenic and liquid target fabrication for single-beam high-power laser experiments](./10-1017-hpl-2026-10132/README.md) | High Power Laser Science and Engineering（正式期刊，Review） | [10.1017/hpl.2026.10132](https://doi.org/10.1017/hpl.2026.10132) |
 | 2026-06-20 | [Dephasingless laser wakefield acceleration in a plasma waveguide](./arxiv-2606-20298/README.md) | arXiv 预印本（高相关补充） | [10.48550/arXiv.2606.20298](https://doi.org/10.48550/arXiv.2606.20298) |

@@ -11,6 +11,7 @@
 
 ## 开发记录
 
+- 2026-06-22：完成当天目录初始化、去重基线检查和正式来源复查。继续优先检查 Cambridge `Journal of Plasma Physics` 当前 issue，在确认 2026-06-21 已处理过更偏 wakefield / target engineering 的增量后，本轮补入 2 条此前尚未入库、但更能补强强场辐射反作用与“可微模拟器 + PIC + 机器学习”主线的正式来源论文：`10.1017/S0022377826101809` 与 `10.1017/S0022377826101755`。2 条 PDF 均通过环境代理路径下载与文件头校验，并同步生成中文结构化笔记；`processed_articles.json` 从 128 增至 130，重试队列保持 12 条不变。
 - 2026-06-21：完成当天目录初始化、去重基线检查和正式来源复查。优先检查 Cambridge HPL latest volume 与 JPP June 2026 current issue；确认 `physics.plasm-ph` 最近页里的最高相关新稿已在前一天入库后，本轮不再补边缘 arXiv，而是新增 2 条正式来源：`10.1017/S0022377826101858` 与 `10.1017/hpl.2026.10132`。2 条 PDF 均通过环境代理路径下载与文件头校验，并同步生成中文结构化笔记；`processed_articles.json` 从 126 增至 128，重试队列保持 12 条不变。
 - 2026-06-20：仿照 `everyday_github` 的组织方式，为 `everyday_paper` 增加 GitHub 浏览结构：新增 `.gitignore` 排除 `.venv`、缓存和 PDF 大文件；新增 `scripts/build_indexes.py`，从 `state/processed_articles.json` 自动生成 `INDEX.md`、`categories/`、`papers/` 和 `daily/README.md`；更新 `README.md`/`AGENTS.md`，明确分类索引、总索引、每日更新和自动提交推送约定。
 - 2026-06-20：按用户要求扩展每日论文索引的主题过滤范围：在原有激光等离子体、强场 QED、高能量密度物理、PIC 与 机器学习应用基础上，新增“激光加速电子束与离子束应用”关注点；下一轮检索应覆盖电子束打转换靶产生韧致辐射 / 伽马源、光核反应、中子 / 同位素产生、激光离子加速辐照/诊疗/材料/核反应用途，以及束流品质、靶设计、转换效率、实验诊断和辐射防护等工程问题。已同步更新项目 `README.md` 与 everyday-paper 自动化 prompt。

@@ -2,11 +2,12 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：53 篇
-- 索引更新时间：2026-06-21
+- 当前收录：54 篇
+- 索引更新时间：2026-06-22
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-06-22 | [Learning collision operators from plasma phase space data using differentiable simulators](../papers/10-1017-s0022377826101755/README.md) | Journal of Plasma Physics（正式期刊） | [笔记](../daily/2026-06-22/notes/Diogo D. Carvalho et al. - 2026 - Learning collision operators from plasma phase space data using differentiable simulators.md) |
 | 2026-06-21 | [Plasma wakes driven by Compton scattering: nonlinear regime and particle acceleration](../papers/10-1017-s0022377826101858/README.md) | Journal of Plasma Physics（正式期刊） | [笔记](../daily/2026-06-21/notes/Thomas Grismayer et al. - 2026 - Plasma wakes driven by Compton scattering nonlinear regime and particle acceleration.md) |
 | 2026-06-20 | [Dephasingless laser wakefield acceleration in a plasma waveguide](../papers/arxiv-2606-20298/README.md) | arXiv 预印本（高相关补充） | [笔记](../daily/2026-06-20/notes/J.P. Palastro et al. - 2026 - Dephasingless laser wakefield acceleration in a plasma waveguide.md) |
 | 2026-06-19 | [Ionization-Induced Electrostatic Hose Instability in Electron-Beam-Sustained Plasmas](../papers/arxiv-2606-12127/README.md) | arXiv 预印本（高相关补充） | [笔记](../daily/2026-06-19/notes/Jia-Hong Chen et al. - 2026 - Ionization-Induced Electrostatic Hose Instability in Electron-Beam-Sustained Plasmas.md) |

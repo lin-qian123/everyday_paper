@@ -1,0 +1,94 @@
+[
+  {
+    "title": "RR-induced breaking of ponderomotive invariants in EM modes",
+    "doi": "10.1017/S0022377826101809",
+    "source_url": "https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/rrinduced-breaking-of-ponderomotive-invariants-in-em-modes/E30748825098B8A7C25777FE40575BA6",
+    "pdf_path": "daily/2026-06-22/pdfs/Felipe Russman et al. - 2026 - RR-induced breaking of ponderomotive invariants in EM modes.pdf",
+    "pdf_name": "Felipe Russman et al. - 2026 - RR-induced breaking of ponderomotive invariants in EM modes.pdf",
+    "cmd": [
+      "python",
+      "scripts/safe_pdf_download.py",
+      "--url",
+      "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E30748825098B8A7C25777FE40575BA6/S0022377826101809a.pdf/rrinduced_breaking_of_ponderomotive_invariants_in_em_modes.pdf",
+      "--url",
+      "https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/rrinduced-breaking-of-ponderomotive-invariants-in-em-modes/E30748825098B8A7C25777FE40575BA6",
+      "--doi",
+      "10.1017/S0022377826101809",
+      "--output",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-22/pdfs/Felipe Russman et al. - 2026 - RR-induced breaking of ponderomotive invariants in EM modes.pdf",
+      "--report-json",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-22/Felipe Russman et al. - 2026 - RR-induced breaking of ponderomotive invariants in EM modes.download_report.json"
+    ],
+    "returncode": 0,
+    "stdout": "Downloaded: /Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-22/pdfs/Felipe Russman et al. - 2026 - RR-induced breaking of ponderomotive invariants in EM modes.pdf (880546 bytes) from https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E30748825098B8A7C25777FE40575BA6/S0022377826101809a.pdf/rrinduced_breaking_of_ponderomotive_invariants_in_em_modes.pdf via env-proxy\n",
+    "stderr": "",
+    "report": {
+      "ok": true,
+      "output": "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-22/pdfs/Felipe Russman et al. - 2026 - RR-induced breaking of ponderomotive invariants in EM modes.pdf",
+      "source_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E30748825098B8A7C25777FE40575BA6/S0022377826101809a.pdf/rrinduced_breaking_of_ponderomotive_invariants_in_em_modes.pdf",
+      "mode": "env-proxy",
+      "attempts": []
+    },
+    "paper": {
+      "title": "RR-induced breaking of ponderomotive invariants in EM modes",
+      "authors": "Felipe Russman, Samuel Marini, Felipe Barbedo Rizzato, Iberê Luiz Caldas",
+      "doi": "10.1017/S0022377826101809",
+      "source_url": "https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/rrinduced-breaking-of-ponderomotive-invariants-in-em-modes/E30748825098B8A7C25777FE40575BA6",
+      "pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E30748825098B8A7C25777FE40575BA6/S0022377826101809a.pdf/rrinduced_breaking_of_ponderomotive_invariants_in_em_modes.pdf",
+      "publication_date": "2026-06-10",
+      "journal": "Journal of Plasma Physics（正式期刊）",
+      "topic": "radiation reaction，Landau-Lifshitz，electromagnetic pulse acceleration，ponderomotive invariant，single-particle dynamics",
+      "impact_score": 7,
+      "similarity_score": 8,
+      "reason": "直接补强强场辐射反作用主线，讨论 RR 如何改写强电磁脉冲中的加速阈值、最终速度和动力学区间划分。",
+      "summary": "在超强电磁脉冲加速问题中引入 Landau-Lifshitz 辐射反作用后，经典 ponderomotive invariant 不再守恒，从而系统性改变临界幅值与最终喷射速度预测。",
+      "keywords": "radiation reaction、Landau-Lifshitz、electromagnetic pulse、ponderomotive invariant、particle acceleration"
+    }
+  },
+  {
+    "title": "Learning collision operators from plasma phase space data using differentiable simulators",
+    "doi": "10.1017/S0022377826101755",
+    "source_url": "https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/learning-collision-operators-from-plasma-phase-space-data-using-differentiable-simulators/AF996FF9346FDF028DE03EFCD3F408ED",
+    "pdf_path": "daily/2026-06-22/pdfs/Diogo D. Carvalho et al. - 2026 - Learning collision operators from plasma phase space data using differentiable simulators.pdf",
+    "pdf_name": "Diogo D. Carvalho et al. - 2026 - Learning collision operators from plasma phase space data using differentiable simulators.pdf",
+    "cmd": [
+      "python",
+      "scripts/safe_pdf_download.py",
+      "--url",
+      "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AF996FF9346FDF028DE03EFCD3F408ED/S0022377826101755a.pdf/learning_collision_operators_from_plasma_phase_space_data_using_differentiable_simulators.pdf",
+      "--url",
+      "https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/learning-collision-operators-from-plasma-phase-space-data-using-differentiable-simulators/AF996FF9346FDF028DE03EFCD3F408ED",
+      "--doi",
+      "10.1017/S0022377826101755",
+      "--output",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-22/pdfs/Diogo D. Carvalho et al. - 2026 - Learning collision operators from plasma phase space data using differentiable simulators.pdf",
+      "--report-json",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-22/Diogo D. Carvalho et al. - 2026 - Learning collision operators from plasma phase space data using differentiable simulators.download_report.json"
+    ],
+    "returncode": 0,
+    "stdout": "Downloaded: /Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-22/pdfs/Diogo D. Carvalho et al. - 2026 - Learning collision operators from plasma phase space data using differentiable simulators.pdf (3820228 bytes) from https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AF996FF9346FDF028DE03EFCD3F408ED/S0022377826101755a.pdf/learning_collision_operators_from_plasma_phase_space_data_using_differentiable_simulators.pdf via env-proxy\n",
+    "stderr": "",
+    "report": {
+      "ok": true,
+      "output": "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-22/pdfs/Diogo D. Carvalho et al. - 2026 - Learning collision operators from plasma phase space data using differentiable simulators.pdf",
+      "source_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AF996FF9346FDF028DE03EFCD3F408ED/S0022377826101755a.pdf/learning_collision_operators_from_plasma_phase_space_data_using_differentiable_simulators.pdf",
+      "mode": "env-proxy",
+      "attempts": []
+    },
+    "paper": {
+      "title": "Learning collision operators from plasma phase space data using differentiable simulators",
+      "authors": "Diogo D. Carvalho, Pablo J. Bilbao, Warren B. Mori, Luis O. Silva, E. Paulo Alves",
+      "doi": "10.1017/S0022377826101755",
+      "source_url": "https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/learning-collision-operators-from-plasma-phase-space-data-using-differentiable-simulators/AF996FF9346FDF028DE03EFCD3F408ED",
+      "pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AF996FF9346FDF028DE03EFCD3F408ED/S0022377826101755a.pdf/learning_collision_operators_from_plasma_phase_space_data_using_differentiable_simulators.pdf",
+      "publication_date": "2026-06-10",
+      "journal": "Journal of Plasma Physics（正式期刊）",
+      "topic": "differentiable simulator，Fokker-Planck，collision operator，particle-in-cell，phase space inference",
+      "impact_score": 8,
+      "similarity_score": 9,
+      "reason": "同时落在 PIC 数值方法与机器学习/数据驱动建模两条主线上，用可微 Fokker-Planck 与二维 PIC 数据反演 collision operator。",
+      "summary": "提出基于 differentiable simulator 的 collision-operator 学习框架，从二维 PIC 相空间数据中反演更准确、内存需求更低的碰撞算子。",
+      "keywords": "differentiable simulator、Fokker-Planck、collision operator、PIC、phase space"
+    }
+  }
+]

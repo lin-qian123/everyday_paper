@@ -2,11 +2,12 @@
 
 强场量子效应、辐射反作用、非线性 Compton、pair production 与极端场实验。
 
-- 当前收录：32 篇
-- 索引更新时间：2026-06-21
+- 当前收录：33 篇
+- 索引更新时间：2026-06-22
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-06-22 | [RR-induced breaking of ponderomotive invariants in EM modes](../papers/10-1017-s0022377826101809/README.md) | Journal of Plasma Physics（正式期刊） | [笔记](../daily/2026-06-22/notes/Felipe Russman et al. - 2026 - RR-induced breaking of ponderomotive invariants in EM modes.md) |
 | 2026-06-21 | [Plasma wakes driven by Compton scattering: nonlinear regime and particle acceleration](../papers/10-1017-s0022377826101858/README.md) | Journal of Plasma Physics（正式期刊） | [笔记](../daily/2026-06-21/notes/Thomas Grismayer et al. - 2026 - Plasma wakes driven by Compton scattering nonlinear regime and particle acceleration.md) |
 | 2026-06-20 | [Caustic-Driven Fluidic Microlenses for Enhanced Nonlinear and High-Energy-Density Physics](../papers/arxiv-2606-20125/README.md) | arXiv 预印本（高相关补充） | [笔记](../daily/2026-06-20/notes/Sourabh Singh et al. - 2026 - Caustic-Driven Fluidic Microlenses for Enhanced Nonlinear and High-Energy-Density Physics.md) |
 | 2026-06-16 | [Radiation-induced electron spin polarization in ultrarelativistic kinetic turbulence](../papers/arxiv-2606-04332/README.md) | arXiv 预印本（高相关补充） | [笔记](../daily/2026-06-16/notes/Peng Liu et al. - 2026 - Radiation-induced electron spin polarization in ultrarelativistic kinetic turbulence.md) |

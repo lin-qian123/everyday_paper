@@ -9,7 +9,7 @@
 - [索引文件](#索引文件)
 - [仓库结构](#仓库结构)
 - [分类索引](#分类索引)
-- [当前状态](#当前状态2026-06-21)
+- [当前状态](#当前状态2026-06-22)
 - [去重规则](#去重规则)
 - [PDF 下载稳健性](#pdf-下载稳健性)
 - [维护约定](#维护约定)
@@ -79,17 +79,17 @@
 - `state/processed_articles.json`: 已处理论文去重台账
 - `templates/daily-index-template.md`: 每日索引模板
 
-## 当前状态（2026-06-21）
+## 当前状态（2026-06-22）
 
-- 已连续维护到 `daily/2026-06-21/`。
+- 已连续维护到 `daily/2026-06-22/`。
 - 关注主题已扩展到激光加速电子束与离子束应用方向，后续每日检索纳入转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、激光离子加速应用和相关靶/诊断/防护问题。
-- `2026-06-21` 新增 2 条高相关正式来源论文并完成 PDF 校验与中文笔记，分别覆盖 Compton-scattering 驱动的 nonlinear plasma wake / particle acceleration，以及单束高功率激光实验里固体/气体/低温/液体靶制备与高重复频应用的综述。
-- 已处理论文总数增至 128 条；`state/daily_retry_candidates.json` 维持 12 条。
+- `2026-06-22` 新增 2 条高相关正式来源论文并完成 PDF 校验与中文笔记，分别覆盖强场电磁脉冲粒子加速中的 radiation reaction 守恒量破缺，以及基于 differentiable simulator 与二维 PIC 数据的 collision operator 学习。
+- 已处理论文总数增至 130 条；`state/daily_retry_candidates.json` 维持 12 条。
 - 当前重试队列只剩已明确的来源侧限制：10 条 ScienceDirect / Elsevier `HTTP 403`、1 条 Nature `cookies_not_supported`、1 条 IOP / New Journal of Physics Radware/Perfdrive 验证页。
 - 2026-06-11 配置级诊断显示当前 Codex shell 已是 `danger-full-access` 且 network enabled；`127.0.0.1:1087` 代理路径可下载 arXiv PDF。此前 06-09 到 06-11 的 9 条 runtime-blocked 候选已通过 `retry_download_queue.py` 全部恢复。
 - 当前有 65 条已补到 PDF 但尚未补中文结构化笔记的历史条目。
 - 已新增自动索引脚本 `scripts/build_indexes.py`，可从 `state/processed_articles.json` 重建 `INDEX.md`、`papers/`、`categories/` 与 `daily/README.md`。
-- `scripts/safe_pdf_download.py` 已支持 HTML 落地页自动提取官方 PDF、失败分类输出和 `curl` 传输回退；其中 `curl` 回退下的代理不可连 / DNS 失败也已单独归类。`scripts/retry_download_queue.py` 可批量重试并自动更新 processed/retry 台账。今天再次验证：Cambridge 文章页/官方 PDF 直链下载仍可正常完成；但对来源侧长期受限的 12 条旧队列，全量重试仍会在无效来源上耗时过长，后续更适合按来源分组或限额运行。
+- `scripts/safe_pdf_download.py` 已支持 HTML 落地页自动提取官方 PDF、失败分类输出和 `curl` 传输回退；其中 `curl` 回退下的代理不可连 / DNS 失败也已单独归类。`scripts/retry_download_queue.py` 可批量重试并自动更新 processed/retry 台账。今天再次验证：Cambridge JPP 文章页/官方 PDF 直链下载仍可正常完成；但对来源侧长期受限的 12 条旧队列，全量重试仍会在无效来源上耗时过长，后续更适合按来源分组或限额运行。
 
 ## 去重规则
 
