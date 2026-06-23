@@ -9,7 +9,7 @@
 - [索引文件](#索引文件)
 - [仓库结构](#仓库结构)
 - [分类索引](#分类索引)
-- [当前状态](#当前状态2026-06-22)
+- [当前状态](#当前状态2026-06-23)
 - [去重规则](#去重规则)
 - [PDF 下载稳健性](#pdf-下载稳健性)
 - [维护约定](#维护约定)
@@ -79,12 +79,12 @@
 - `state/processed_articles.json`: 已处理论文去重台账
 - `templates/daily-index-template.md`: 每日索引模板
 
-## 当前状态（2026-06-22）
+## 当前状态（2026-06-23）
 
-- 已连续维护到 `daily/2026-06-22/`。
+- 已连续维护到 `daily/2026-06-23/`。
 - 关注主题已扩展到激光加速电子束与离子束应用方向，后续每日检索纳入转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、激光离子加速应用和相关靶/诊断/防护问题。
-- `2026-06-22` 新增 2 条高相关正式来源论文并完成 PDF 校验与中文笔记，分别覆盖强场电磁脉冲粒子加速中的 radiation reaction 守恒量破缺，以及基于 differentiable simulator 与二维 PIC 数据的 collision operator 学习。
-- 已处理论文总数增至 130 条；`state/daily_retry_candidates.json` 维持 12 条。
+- `2026-06-23` 先复查了 Cambridge `Journal of Plasma Physics` / `High Power Laser Science and Engineering` 当前页面，但未筛到比前两天已入库条目更强且明确非重复的正式来源增量；随后从近一周 arXiv 新稿补入 2 条高相关预印本，分别覆盖 ARC 级燃烧等离子体中快 alpha 对核心湍流/输运的稳化作用，以及强磁场磁化电子束冷却中的准粒子化简理论。
+- 已处理论文总数增至 132 条；`state/daily_retry_candidates.json` 维持 12 条。
 - 当前重试队列只剩已明确的来源侧限制：10 条 ScienceDirect / Elsevier `HTTP 403`、1 条 Nature `cookies_not_supported`、1 条 IOP / New Journal of Physics Radware/Perfdrive 验证页。
 - 2026-06-11 配置级诊断显示当前 Codex shell 已是 `danger-full-access` 且 network enabled；`127.0.0.1:1087` 代理路径可下载 arXiv PDF。此前 06-09 到 06-11 的 9 条 runtime-blocked 候选已通过 `retry_download_queue.py` 全部恢复。
 - 当前有 65 条已补到 PDF 但尚未补中文结构化笔记的历史条目。

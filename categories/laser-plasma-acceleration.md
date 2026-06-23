@@ -2,11 +2,12 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：49 篇
-- 索引更新时间：2026-06-22
+- 当前收录：50 篇
+- 索引更新时间：2026-06-23
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-06-23 | [Quasiparticles and ion cooling by an electron beam in a strong magnetic field](../papers/arxiv-2606-16126/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-23/notes/D.M. Popov et al. - 2026 - Quasiparticles and ion cooling by an electron beam in a strong magnetic field.md) |
 | 2026-06-22 | [RR-induced breaking of ponderomotive invariants in EM modes](../papers/10-1017-s0022377826101809/README.md) | Journal of Plasma Physics（正式期刊） | [笔记](../daily/2026-06-22/notes/Felipe Russman et al. - 2026 - RR-induced breaking of ponderomotive invariants in EM modes.md) |
 | 2026-06-21 | [Plasma wakes driven by Compton scattering: nonlinear regime and particle acceleration](../papers/10-1017-s0022377826101858/README.md) | Journal of Plasma Physics（正式期刊） | [笔记](../daily/2026-06-21/notes/Thomas Grismayer et al. - 2026 - Plasma wakes driven by Compton scattering nonlinear regime and particle acceleration.md) |
 | 2026-06-21 | [Short overview of solid, gas, cryogenic and liquid target fabrication for single-beam high-power laser experiments](../papers/10-1017-hpl-2026-10132/README.md) | High Power Laser Science and Engineering（正式期刊，Review） | [笔记](../daily/2026-06-21/notes/Stefania C. Ionescu et al. - 2026 - Short overview of solid gas cryogenic and liquid target fabrication for single-beam high-power laser experiments.md) |

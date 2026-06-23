@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Impact of energetic alpha particles on core turbulence in an ARC-class fusion power plant",
+    "doi": "10.48550/arXiv.2606.15965",
+    "source_url": "https://arxiv.org/abs/2606.15965",
+    "pdf_path": "daily/2026-06-23/pdfs/J. Hall et al. - 2026 - Impact of energetic alpha particles on core turbulence in an ARC-class fusion power plant.pdf",
+    "pdf_name": "J. Hall et al. - 2026 - Impact of energetic alpha particles on core turbulence in an ARC-class fusion power plant.pdf",
+    "cmd": [
+      "python",
+      "scripts/safe_pdf_download.py",
+      "--url",
+      "https://arxiv.org/pdf/2606.15965.pdf",
+      "--doi",
+      "10.48550/arXiv.2606.15965",
+      "--output",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-23/pdfs/J. Hall et al. - 2026 - Impact of energetic alpha particles on core turbulence in an ARC-class fusion power plant.pdf",
+      "--report-json",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-23/J. Hall et al. - 2026 - Impact of energetic alpha particles on core turbulence in an ARC-class fusion power plant.download_report.json"
+    ],
+    "returncode": 0,
+    "stdout": "Downloaded: /Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-23/pdfs/J. Hall et al. - 2026 - Impact of energetic alpha particles on core turbulence in an ARC-class fusion power plant.pdf (20855024 bytes) from https://arxiv.org/pdf/2606.15965.pdf via env-proxy\n",
+    "stderr": "",
+    "report": {
+      "ok": true,
+      "output": "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-23/pdfs/J. Hall et al. - 2026 - Impact of energetic alpha particles on core turbulence in an ARC-class fusion power plant.pdf",
+      "source_url": "https://arxiv.org/pdf/2606.15965.pdf",
+      "mode": "env-proxy",
+      "attempts": []
+    },
+    "paper": {
+      "title": "Impact of energetic alpha particles on core turbulence in an ARC-class fusion power plant",
+      "authors": "J. Hall, N.T Howard, P. Rodriguez-Fernandez, R.A. Tinguely, I. Sfiligoi, J. Ruiz-Ruiz, J.C. Hillesheim, A. Creely, E.A. Belli, J. Candy",
+      "doi": "10.48550/arXiv.2606.15965",
+      "source_url": "https://arxiv.org/abs/2606.15965",
+      "pdf_url": "https://arxiv.org/pdf/2606.15965.pdf",
+      "publication_date": "2026-06-18",
+      "journal": "arXiv（预印本）",
+      "topic": "burning plasma，alpha particles，gyrokinetics，CGYRO，ITG turbulence，ARC",
+      "impact_score": 8,
+      "similarity_score": 7,
+      "reason": "直接补充磁约束聚变与 alpha 粒子子线，讨论快 alpha 如何通过非线性多尺度耦合稳化 ARC 级核心湍流与输运。",
+      "summary": "在线性与非线性 CGYRO 模拟中，真实快 alpha 粒子会显著压低 ARC 内核区离子尺度热/粒子通量，并抬升 ITG 临界梯度。",
+      "keywords": "burning plasma、alpha particles、gyrokinetics、CGYRO、ITG turbulence、ARC"
+    }
+  },
+  {
+    "title": "Quasiparticles and ion cooling by an electron beam in a strong magnetic field",
+    "doi": "10.48550/arXiv.2606.16126",
+    "source_url": "https://arxiv.org/abs/2606.16126",
+    "pdf_path": "daily/2026-06-23/pdfs/D.M. Popov et al. - 2026 - Quasiparticles and ion cooling by an electron beam in a strong magnetic field.pdf",
+    "pdf_name": "D.M. Popov et al. - 2026 - Quasiparticles and ion cooling by an electron beam in a strong magnetic field.pdf",
+    "cmd": [
+      "python",
+      "scripts/safe_pdf_download.py",
+      "--url",
+      "https://arxiv.org/pdf/2606.16126.pdf",
+      "--doi",
+      "10.48550/arXiv.2606.16126",
+      "--output",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-23/pdfs/D.M. Popov et al. - 2026 - Quasiparticles and ion cooling by an electron beam in a strong magnetic field.pdf",
+      "--report-json",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-23/D.M. Popov et al. - 2026 - Quasiparticles and ion cooling by an electron beam in a strong magnetic field.download_report.json"
+    ],
+    "returncode": 0,
+    "stdout": "Downloaded: /Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-23/pdfs/D.M. Popov et al. - 2026 - Quasiparticles and ion cooling by an electron beam in a strong magnetic field.pdf (483200 bytes) from https://arxiv.org/pdf/2606.16126.pdf via env-proxy\n",
+    "stderr": "",
+    "report": {
+      "ok": true,
+      "output": "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-23/pdfs/D.M. Popov et al. - 2026 - Quasiparticles and ion cooling by an electron beam in a strong magnetic field.pdf",
+      "source_url": "https://arxiv.org/pdf/2606.16126.pdf",
+      "mode": "env-proxy",
+      "attempts": []
+    },
+    "paper": {
+      "title": "Quasiparticles and ion cooling by an electron beam in a strong magnetic field",
+      "authors": "D.M. Popov, A.I. Milstein",
+      "doi": "10.48550/arXiv.2606.16126",
+      "source_url": "https://arxiv.org/abs/2606.16126",
+      "pdf_url": "https://arxiv.org/pdf/2606.16126.pdf",
+      "publication_date": "2026-06-15",
+      "journal": "arXiv（预印本）",
+      "topic": "electron cooling，magnetized beam，Larmor circles，friction force，quasiparticles",
+      "impact_score": 6,
+      "similarity_score": 6,
+      "reason": "作为束流-等离子体相互作用的理论补充，文章把强磁场电子束冷却问题准粒子化，可用于理解磁化 beam-plasma friction。",
+      "summary": "文章用 Larmor circle 准粒子把强磁场电子束冷却化约成二维问题，并分析正负离子冷却力差异来自哪些撞击参数区间。",
+      "keywords": "electron cooling、magnetized beam、Larmor circles、friction force、quasiparticles"
+    }
+  }
+]

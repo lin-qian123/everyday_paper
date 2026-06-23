@@ -1,10 +1,12 @@
 # 论文总索引
 
-- 当前入库论文：130 篇
-- 索引更新时间：2026-06-22
+- 当前入库论文：132 篇
+- 索引更新时间：2026-06-23
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-06-23 | [Impact of energetic alpha particles on core turbulence in an ARC-class fusion power plant](./arxiv-2606-15965/README.md) | arXiv（预印本） | [10.48550/arXiv.2606.15965](https://doi.org/10.48550/arXiv.2606.15965) |
+| 2026-06-23 | [Quasiparticles and ion cooling by an electron beam in a strong magnetic field](./arxiv-2606-16126/README.md) | arXiv（预印本） | [10.48550/arXiv.2606.16126](https://doi.org/10.48550/arXiv.2606.16126) |
 | 2026-06-22 | [RR-induced breaking of ponderomotive invariants in EM modes](./10-1017-s0022377826101809/README.md) | Journal of Plasma Physics（正式期刊） | [10.1017/S0022377826101809](https://doi.org/10.1017/S0022377826101809) |
 | 2026-06-22 | [Learning collision operators from plasma phase space data using differentiable simulators](./10-1017-s0022377826101755/README.md) | Journal of Plasma Physics（正式期刊） | [10.1017/S0022377826101755](https://doi.org/10.1017/S0022377826101755) |
 | 2026-06-21 | [Plasma wakes driven by Compton scattering: nonlinear regime and particle acceleration](./10-1017-s0022377826101858/README.md) | Journal of Plasma Physics（正式期刊） | [10.1017/S0022377826101858](https://doi.org/10.1017/S0022377826101858) |

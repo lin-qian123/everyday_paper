@@ -1434,5 +1434,27 @@
     "processed_date": "2026-06-22",
     "pdf_path": "daily/2026-06-22/pdfs/Diogo D. Carvalho et al. - 2026 - Learning collision operators from plasma phase space data using differentiable simulators.pdf",
     "note_path": "daily/2026-06-22/notes/Diogo D. Carvalho et al. - 2026 - Learning collision operators from plasma phase space data using differentiable simulators.md"
+  },
+  {
+    "title": "Impact of energetic alpha particles on core turbulence in an ARC-class fusion power plant",
+    "doi": "10.48550/arXiv.2606.15965",
+    "journal": "arXiv（预印本）",
+    "publication_date": "2026-06-18",
+    "source_url": "https://arxiv.org/abs/2606.15965",
+    "pdf_path": "daily/2026-06-23/pdfs/J. Hall et al. - 2026 - Impact of energetic alpha particles on core turbulence in an ARC-class fusion power plant.pdf",
+    "note_path": "daily/2026-06-23/notes/J. Hall et al. - 2026 - Impact of energetic alpha particles on core turbulence in an ARC-class fusion power plant.md",
+    "processed_date": "2026-06-23",
+    "normalized_title": "impact of energetic alpha particles on core turbulence in an arc-class fusion power plant"
+  },
+  {
+    "title": "Quasiparticles and ion cooling by an electron beam in a strong magnetic field",
+    "doi": "10.48550/arXiv.2606.16126",
+    "journal": "arXiv（预印本）",
+    "publication_date": "2026-06-15",
+    "source_url": "https://arxiv.org/abs/2606.16126",
+    "pdf_path": "daily/2026-06-23/pdfs/D.M. Popov et al. - 2026 - Quasiparticles and ion cooling by an electron beam in a strong magnetic field.pdf",
+    "note_path": "daily/2026-06-23/notes/D.M. Popov et al. - 2026 - Quasiparticles and ion cooling by an electron beam in a strong magnetic field.md",
+    "processed_date": "2026-06-23",
+    "normalized_title": "quasiparticles and ion cooling by an electron beam in a strong magnetic field"
   }
 ]
