@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：132 篇
-- 索引更新时间：2026-06-23
+- 当前入库论文：135 篇
+- 索引更新时间：2026-06-24
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-06-24 | [Analytical calculation of the spectrum of nonlinear Compton scattering beyond local approximations](./arxiv-2606-22427/README.md) | arXiv（预印本） | [10.48550/arXiv.2606.22427](https://doi.org/10.48550/arXiv.2606.22427) |
+| 2026-06-24 | [Effect of Noise on Spatio-Temporal Evolution of Current Filamentation Instability in Relativistic Beam-Plasma Systems](./arxiv-2606-21221/README.md) | arXiv（预印本） | [10.48550/arXiv.2606.21221](https://doi.org/10.48550/arXiv.2606.21221) |
+| 2026-06-24 | [An electron injector for the Electron-Ion Collider based on proton-driven plasma wakefield acceleration](./arxiv-2605-07929/README.md) | arXiv（预印本） | [10.48550/arXiv.2605.07929](https://doi.org/10.48550/arXiv.2605.07929) |
 | 2026-06-23 | [Impact of energetic alpha particles on core turbulence in an ARC-class fusion power plant](./arxiv-2606-15965/README.md) | arXiv（预印本） | [10.48550/arXiv.2606.15965](https://doi.org/10.48550/arXiv.2606.15965) |
 | 2026-06-23 | [Quasiparticles and ion cooling by an electron beam in a strong magnetic field](./arxiv-2606-16126/README.md) | arXiv（预印本） | [10.48550/arXiv.2606.16126](https://doi.org/10.48550/arXiv.2606.16126) |
 | 2026-06-22 | [RR-induced breaking of ponderomotive invariants in EM modes](./10-1017-s0022377826101809/README.md) | Journal of Plasma Physics（正式期刊） | [10.1017/S0022377826101809](https://doi.org/10.1017/S0022377826101809) |

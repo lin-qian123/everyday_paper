@@ -11,6 +11,7 @@
 
 ## 开发记录
 
+- 2026-06-24：完成当天目录初始化、去重基线检查和正式来源复查。先查看 Cambridge `Journal of Plasma Physics` / `High Power Laser Science and Engineering` 当前页面与近期条目，确认本轮高相关正式来源候选要么已在 `state/processed_articles.json` 中、要么属于此前旧日阻塞记录，继续补录会重复处理；随后转向近几天 arXiv 新稿与近期修订稿，补入 3 条高相关预印本：`10.48550/arXiv.2606.22427`、`10.48550/arXiv.2606.21221`、`10.48550/arXiv.2605.07929`。3 条 PDF 均通过环境代理路径下载与文件头校验，并同步生成中文结构化笔记；`processed_articles.json` 从 132 增至 135，重试队列保持 12 条不变。
 - 2026-06-23：完成当天目录初始化、去重基线检查和正式来源复查。先查看 Cambridge `Journal of Plasma Physics` / `High Power Laser Science and Engineering` 当前页面，确认本轮没有比 2026-06-21 到 2026-06-22 已入库条目更强且明确非重复的正式来源增量；随后从 arXiv `physics.plasm-ph` / `physics.acc-ph` 近一周列表补入 2 条高相关预印本：`10.48550/arXiv.2606.15965`、`10.48550/arXiv.2606.16126`。2 条 PDF 均通过环境代理路径下载与文件头校验，并同步生成中文结构化笔记；`processed_articles.json` 从 130 增至 132，重试队列保持 12 条不变。
 - 2026-06-22：完成当天目录初始化、去重基线检查和正式来源复查。继续优先检查 Cambridge `Journal of Plasma Physics` 当前 issue，在确认 2026-06-21 已处理过更偏 wakefield / target engineering 的增量后，本轮补入 2 条此前尚未入库、但更能补强强场辐射反作用与“可微模拟器 + PIC + 机器学习”主线的正式来源论文：`10.1017/S0022377826101809` 与 `10.1017/S0022377826101755`。2 条 PDF 均通过环境代理路径下载与文件头校验，并同步生成中文结构化笔记；`processed_articles.json` 从 128 增至 130，重试队列保持 12 条不变。
 - 2026-06-21：完成当天目录初始化、去重基线检查和正式来源复查。优先检查 Cambridge HPL latest volume 与 JPP June 2026 current issue；确认 `physics.plasm-ph` 最近页里的最高相关新稿已在前一天入库后，本轮不再补边缘 arXiv，而是新增 2 条正式来源：`10.1017/S0022377826101858` 与 `10.1017/hpl.2026.10132`。2 条 PDF 均通过环境代理路径下载与文件头校验，并同步生成中文结构化笔记；`processed_articles.json` 从 126 增至 128，重试队列保持 12 条不变。

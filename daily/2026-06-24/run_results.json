@@ -1,0 +1,119 @@
+[
+  {
+    "title": "Analytical calculation of the spectrum of nonlinear Compton scattering beyond local approximations",
+    "doi": "10.48550/arXiv.2606.22427",
+    "source_url": "https://arxiv.org/abs/2606.22427",
+    "pdf_path": "daily/2026-06-24/pdfs/M.P. Malakhov et al. - 2026 - Analytical calculation of the spectrum of nonlinear Compton scattering beyond local approximations.pdf",
+    "pdf_name": "M.P. Malakhov et al. - 2026 - Analytical calculation of the spectrum of nonlinear Compton scattering beyond local approximations.pdf",
+    "cmd": [
+      "python",
+      "scripts/safe_pdf_download.py",
+      "--url",
+      "https://arxiv.org/pdf/2606.22427.pdf",
+      "--doi",
+      "10.48550/arXiv.2606.22427",
+      "--output",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-24/pdfs/M.P. Malakhov et al. - 2026 - Analytical calculation of the spectrum of nonlinear Compton scattering beyond local approximations.pdf",
+      "--report-json",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-24/M.P. Malakhov et al. - 2026 - Analytical calculation of the spectrum of nonlinear Compton scattering beyond local approximations.download_report.json"
+    ],
+    "returncode": 0,
+    "stdout": "Downloaded: /Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-24/pdfs/M.P. Malakhov et al. - 2026 - Analytical calculation of the spectrum of nonlinear Compton scattering beyond local approximations.pdf (4496231 bytes) from https://arxiv.org/pdf/2606.22427.pdf via env-proxy\n",
+    "stderr": "",
+    "report": {
+      "ok": true,
+      "output": "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-24/pdfs/M.P. Malakhov et al. - 2026 - Analytical calculation of the spectrum of nonlinear Compton scattering beyond local approximations.pdf",
+      "source_url": "https://arxiv.org/pdf/2606.22427.pdf",
+      "mode": "env-proxy",
+      "attempts": []
+    },
+    "paper": {
+      "title": "Analytical calculation of the spectrum of nonlinear Compton scattering beyond local approximations",
+      "authors": "M. P. Malakhov, Th. Benahmed, E. G. Gelfer, A. M. Fedotov, O. Klimo, S. Weber, S. G. Rykovanov",
+      "doi": "10.48550/arXiv.2606.22427",
+      "source_url": "https://arxiv.org/abs/2606.22427",
+      "pdf_url": "https://arxiv.org/pdf/2606.22427.pdf",
+      "publication_date": "2026-06-21",
+      "journal": "arXiv（预印本）",
+      "pdf_name": "M.P. Malakhov et al. - 2026 - Analytical calculation of the spectrum of nonlinear Compton scattering beyond local approximations.pdf"
+    }
+  },
+  {
+    "title": "Effect of Noise on Spatio-Temporal Evolution of Current Filamentation Instability in Relativistic Beam-Plasma Systems",
+    "doi": "10.48550/arXiv.2606.21221",
+    "source_url": "https://arxiv.org/abs/2606.21221",
+    "pdf_path": "daily/2026-06-24/pdfs/Thulasidharan K et al. - 2026 - Effect of Noise on Spatio-Temporal Evolution of Current Filamentation Instability in Relativistic Beam-Plasma Systems.pdf",
+    "pdf_name": "Thulasidharan K et al. - 2026 - Effect of Noise on Spatio-Temporal Evolution of Current Filamentation Instability in Relativistic Beam-Plasma Systems.pdf",
+    "cmd": [
+      "python",
+      "scripts/safe_pdf_download.py",
+      "--url",
+      "https://arxiv.org/pdf/2606.21221.pdf",
+      "--doi",
+      "10.48550/arXiv.2606.21221",
+      "--output",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-24/pdfs/Thulasidharan K et al. - 2026 - Effect of Noise on Spatio-Temporal Evolution of Current Filamentation Instability in Relativistic Beam-Plasma Systems.pdf",
+      "--report-json",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-24/Thulasidharan K et al. - 2026 - Effect of Noise on Spatio-Temporal Evolution of Current Filamentation Instability in Relativistic Beam-Plasma Systems.download_report.json"
+    ],
+    "returncode": 0,
+    "stdout": "Downloaded: /Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-24/pdfs/Thulasidharan K et al. - 2026 - Effect of Noise on Spatio-Temporal Evolution of Current Filamentation Instability in Relativistic Beam-Plasma Systems.pdf (2864841 bytes) from https://arxiv.org/pdf/2606.21221.pdf via env-proxy\n",
+    "stderr": "",
+    "report": {
+      "ok": true,
+      "output": "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-24/pdfs/Thulasidharan K et al. - 2026 - Effect of Noise on Spatio-Temporal Evolution of Current Filamentation Instability in Relativistic Beam-Plasma Systems.pdf",
+      "source_url": "https://arxiv.org/pdf/2606.21221.pdf",
+      "mode": "env-proxy",
+      "attempts": []
+    },
+    "paper": {
+      "title": "Effect of Noise on Spatio-Temporal Evolution of Current Filamentation Instability in Relativistic Beam-Plasma Systems",
+      "authors": "Thulasidharan K, Vishwa Bandhu Pathak",
+      "doi": "10.48550/arXiv.2606.21221",
+      "source_url": "https://arxiv.org/abs/2606.21221",
+      "pdf_url": "https://arxiv.org/pdf/2606.21221.pdf",
+      "publication_date": "2026-06-19",
+      "journal": "arXiv（预印本）",
+      "pdf_name": "Thulasidharan K et al. - 2026 - Effect of Noise on Spatio-Temporal Evolution of Current Filamentation Instability in Relativistic Beam-Plasma Systems.pdf"
+    }
+  },
+  {
+    "title": "An electron injector for the Electron-Ion Collider based on proton-driven plasma wakefield acceleration",
+    "doi": "10.48550/arXiv.2605.07929",
+    "source_url": "https://arxiv.org/abs/2605.07929",
+    "pdf_path": "daily/2026-06-24/pdfs/J.P. Farmer et al. - 2026 - An electron injector for the Electron-Ion Collider based on proton-driven plasma wakefield acceleration.pdf",
+    "pdf_name": "J.P. Farmer et al. - 2026 - An electron injector for the Electron-Ion Collider based on proton-driven plasma wakefield acceleration.pdf",
+    "cmd": [
+      "python",
+      "scripts/safe_pdf_download.py",
+      "--url",
+      "https://arxiv.org/pdf/2605.07929.pdf",
+      "--doi",
+      "10.48550/arXiv.2605.07929",
+      "--output",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-24/pdfs/J.P. Farmer et al. - 2026 - An electron injector for the Electron-Ion Collider based on proton-driven plasma wakefield acceleration.pdf",
+      "--report-json",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-24/J.P. Farmer et al. - 2026 - An electron injector for the Electron-Ion Collider based on proton-driven plasma wakefield acceleration.download_report.json"
+    ],
+    "returncode": 0,
+    "stdout": "Downloaded: /Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-24/pdfs/J.P. Farmer et al. - 2026 - An electron injector for the Electron-Ion Collider based on proton-driven plasma wakefield acceleration.pdf (4649945 bytes) from https://arxiv.org/pdf/2605.07929.pdf via env-proxy\n",
+    "stderr": "",
+    "report": {
+      "ok": true,
+      "output": "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-24/pdfs/J.P. Farmer et al. - 2026 - An electron injector for the Electron-Ion Collider based on proton-driven plasma wakefield acceleration.pdf",
+      "source_url": "https://arxiv.org/pdf/2605.07929.pdf",
+      "mode": "env-proxy",
+      "attempts": []
+    },
+    "paper": {
+      "title": "An electron injector for the Electron-Ion Collider based on proton-driven plasma wakefield acceleration",
+      "authors": "J. P. Farmer, H. Jaworska, A. Caldwell, N. Lopes, A. Pukhov, L Reichwein, F. Willeke, M. Wing",
+      "doi": "10.48550/arXiv.2605.07929",
+      "source_url": "https://arxiv.org/abs/2605.07929",
+      "pdf_url": "https://arxiv.org/pdf/2605.07929.pdf",
+      "publication_date": "2026-05-08",
+      "journal": "arXiv（预印本）",
+      "pdf_name": "J.P. Farmer et al. - 2026 - An electron injector for the Electron-Ion Collider based on proton-driven plasma wakefield acceleration.pdf"
+    }
+  }
+]

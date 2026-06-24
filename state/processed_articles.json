@@ -1456,5 +1456,38 @@
     "note_path": "daily/2026-06-23/notes/D.M. Popov et al. - 2026 - Quasiparticles and ion cooling by an electron beam in a strong magnetic field.md",
     "processed_date": "2026-06-23",
     "normalized_title": "quasiparticles and ion cooling by an electron beam in a strong magnetic field"
+  },
+  {
+    "title": "Analytical calculation of the spectrum of nonlinear Compton scattering beyond local approximations",
+    "doi": "10.48550/arXiv.2606.22427",
+    "journal": "arXiv（预印本）",
+    "publication_date": "2026-06-21",
+    "source_url": "https://arxiv.org/abs/2606.22427",
+    "pdf_path": "daily/2026-06-24/pdfs/M.P. Malakhov et al. - 2026 - Analytical calculation of the spectrum of nonlinear Compton scattering beyond local approximations.pdf",
+    "note_path": "daily/2026-06-24/notes/M.P. Malakhov et al. - 2026 - Analytical calculation of the spectrum of nonlinear Compton scattering beyond local approximations.md",
+    "processed_date": "2026-06-24",
+    "normalized_title": "analytical calculation of the spectrum of nonlinear compton scattering beyond local approximations"
+  },
+  {
+    "title": "Effect of Noise on Spatio-Temporal Evolution of Current Filamentation Instability in Relativistic Beam-Plasma Systems",
+    "doi": "10.48550/arXiv.2606.21221",
+    "journal": "arXiv（预印本）",
+    "publication_date": "2026-06-19",
+    "source_url": "https://arxiv.org/abs/2606.21221",
+    "pdf_path": "daily/2026-06-24/pdfs/Thulasidharan K et al. - 2026 - Effect of Noise on Spatio-Temporal Evolution of Current Filamentation Instability in Relativistic Beam-Plasma Systems.pdf",
+    "note_path": "daily/2026-06-24/notes/Thulasidharan K et al. - 2026 - Effect of Noise on Spatio-Temporal Evolution of Current Filamentation Instability in Relativistic Beam-Plasma Systems.md",
+    "processed_date": "2026-06-24",
+    "normalized_title": "effect of noise on spatio temporal evolution of current filamentation instability in relativistic beam plasma systems"
+  },
+  {
+    "title": "An electron injector for the Electron-Ion Collider based on proton-driven plasma wakefield acceleration",
+    "doi": "10.48550/arXiv.2605.07929",
+    "journal": "arXiv（预印本）",
+    "publication_date": "2026-05-08",
+    "source_url": "https://arxiv.org/abs/2605.07929",
+    "pdf_path": "daily/2026-06-24/pdfs/J.P. Farmer et al. - 2026 - An electron injector for the Electron-Ion Collider based on proton-driven plasma wakefield acceleration.pdf",
+    "note_path": "daily/2026-06-24/notes/J.P. Farmer et al. - 2026 - An electron injector for the Electron-Ion Collider based on proton-driven plasma wakefield acceleration.md",
+    "processed_date": "2026-06-24",
+    "normalized_title": "an electron injector for the electron ion collider based on proton driven plasma wakefield acceleration"
   }
 ]
