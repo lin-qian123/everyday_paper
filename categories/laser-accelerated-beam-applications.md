@@ -2,11 +2,12 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：23 篇
-- 索引更新时间：2026-06-24
+- 当前收录：24 篇
+- 索引更新时间：2026-06-25
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-06-25 | [Multi-objective Bayesian optimisation of a double-layer target for quasi-monoenergetic TNSA protons](../papers/arxiv-2606-23224/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-25/notes/Chengqi-Zhang et al. - 2026 - Multi-objective Bayesian optimisation of a double-layer target for quasi-monoenergetic TNSA protons.md) |
 | 2026-06-24 | [Analytical calculation of the spectrum of nonlinear Compton scattering beyond local approximations](../papers/arxiv-2606-22427/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-24/notes/M.P. Malakhov et al. - 2026 - Analytical calculation of the spectrum of nonlinear Compton scattering beyond local approximations.md) |
 | 2026-06-24 | [An electron injector for the Electron-Ion Collider based on proton-driven plasma wakefield acceleration](../papers/arxiv-2605-07929/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-24/notes/J.P. Farmer et al. - 2026 - An electron injector for the Electron-Ion Collider based on proton-driven plasma wakefield acceleration.md) |
 | 2026-06-21 | [Short overview of solid, gas, cryogenic and liquid target fabrication for single-beam high-power laser experiments](../papers/10-1017-hpl-2026-10132/README.md) | High Power Laser Science and Engineering（正式期刊，Review） | [笔记](../daily/2026-06-21/notes/Stefania C. Ionescu et al. - 2026 - Short overview of solid gas cryogenic and liquid target fabrication for single-beam high-power laser experiments.md) |

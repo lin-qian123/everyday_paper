@@ -1489,5 +1489,38 @@
     "note_path": "daily/2026-06-24/notes/J.P. Farmer et al. - 2026 - An electron injector for the Electron-Ion Collider based on proton-driven plasma wakefield acceleration.md",
     "processed_date": "2026-06-24",
     "normalized_title": "an electron injector for the electron ion collider based on proton driven plasma wakefield acceleration"
+  },
+  {
+    "title": "Multi-objective Bayesian optimisation of a double-layer target for quasi-monoenergetic TNSA protons",
+    "doi": "10.48550/arXiv.2606.23224",
+    "journal": "arXiv（预印本）",
+    "publication_date": "2026-06-22",
+    "source_url": "https://arxiv.org/abs/2606.23224",
+    "pdf_path": "daily/2026-06-25/pdfs/Chengqi-Zhang et al. - 2026 - Multi-objective Bayesian optimisation of a double-layer target for quasi-monoenergetic TNSA protons.pdf",
+    "note_path": "daily/2026-06-25/notes/Chengqi-Zhang et al. - 2026 - Multi-objective Bayesian optimisation of a double-layer target for quasi-monoenergetic TNSA protons.md",
+    "processed_date": "2026-06-25",
+    "normalized_title": "multi objective bayesian optimisation of a double layer target for quasi monoenergetic tnsa protons"
+  },
+  {
+    "title": "Evolution of Quadrupole Wakefield Driven by Transversely Asymmetric Electron Beams in Hollow Plasma Channels",
+    "doi": "10.48550/arXiv.2606.24067",
+    "journal": "arXiv（预印本）",
+    "publication_date": "2026-06-23",
+    "source_url": "https://arxiv.org/abs/2606.24067",
+    "pdf_path": "daily/2026-06-25/pdfs/Siqin Ding et al. - 2026 - Evolution of Quadrupole Wakefield Driven by Transversely Asymmetric Electron Beams in Hollow Plasma Channels.pdf",
+    "note_path": "daily/2026-06-25/notes/Siqin Ding et al. - 2026 - Evolution of Quadrupole Wakefield Driven by Transversely Asymmetric Electron Beams in Hollow Plasma Channels.md",
+    "processed_date": "2026-06-25",
+    "normalized_title": "evolution of quadrupole wakefield driven by transversely asymmetric electron beams in hollow plasma channels"
+  },
+  {
+    "title": "Observation of stopping power reduction at strong ion-plasma coupling",
+    "doi": "10.48550/arXiv.2606.23109",
+    "journal": "arXiv（预印本）",
+    "publication_date": "2026-06-22",
+    "source_url": "https://arxiv.org/abs/2606.23109",
+    "pdf_path": "daily/2026-06-25/pdfs/Yun Liu et al. - 2026 - Observation of stopping power reduction at strong ion-plasma coupling.pdf",
+    "note_path": "daily/2026-06-25/notes/Yun Liu et al. - 2026 - Observation of stopping power reduction at strong ion-plasma coupling.md",
+    "processed_date": "2026-06-25",
+    "normalized_title": "observation of stopping power reduction at strong ion plasma coupling"
   }
 ]

@@ -2,11 +2,13 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：51 篇
-- 索引更新时间：2026-06-24
+- 当前收录：53 篇
+- 索引更新时间：2026-06-25
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-06-25 | [Evolution of Quadrupole Wakefield Driven by Transversely Asymmetric Electron Beams in Hollow Plasma Channels](../papers/arxiv-2606-24067/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-25/notes/Siqin Ding et al. - 2026 - Evolution of Quadrupole Wakefield Driven by Transversely Asymmetric Electron Beams in Hollow Plasma Channels.md) |
+| 2026-06-25 | [Multi-objective Bayesian optimisation of a double-layer target for quasi-monoenergetic TNSA protons](../papers/arxiv-2606-23224/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-25/notes/Chengqi-Zhang et al. - 2026 - Multi-objective Bayesian optimisation of a double-layer target for quasi-monoenergetic TNSA protons.md) |
 | 2026-06-24 | [An electron injector for the Electron-Ion Collider based on proton-driven plasma wakefield acceleration](../papers/arxiv-2605-07929/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-24/notes/J.P. Farmer et al. - 2026 - An electron injector for the Electron-Ion Collider based on proton-driven plasma wakefield acceleration.md) |
 | 2026-06-23 | [Quasiparticles and ion cooling by an electron beam in a strong magnetic field](../papers/arxiv-2606-16126/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-23/notes/D.M. Popov et al. - 2026 - Quasiparticles and ion cooling by an electron beam in a strong magnetic field.md) |
 | 2026-06-22 | [RR-induced breaking of ponderomotive invariants in EM modes](../papers/10-1017-s0022377826101809/README.md) | Journal of Plasma Physics（正式期刊） | [笔记](../daily/2026-06-22/notes/Felipe Russman et al. - 2026 - RR-induced breaking of ponderomotive invariants in EM modes.md) |

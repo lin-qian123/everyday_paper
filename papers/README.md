@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：135 篇
-- 索引更新时间：2026-06-24
+- 当前入库论文：138 篇
+- 索引更新时间：2026-06-25
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-06-25 | [Evolution of Quadrupole Wakefield Driven by Transversely Asymmetric Electron Beams in Hollow Plasma Channels](./arxiv-2606-24067/README.md) | arXiv（预印本） | [10.48550/arXiv.2606.24067](https://doi.org/10.48550/arXiv.2606.24067) |
+| 2026-06-25 | [Multi-objective Bayesian optimisation of a double-layer target for quasi-monoenergetic TNSA protons](./arxiv-2606-23224/README.md) | arXiv（预印本） | [10.48550/arXiv.2606.23224](https://doi.org/10.48550/arXiv.2606.23224) |
+| 2026-06-25 | [Observation of stopping power reduction at strong ion-plasma coupling](./arxiv-2606-23109/README.md) | arXiv（预印本） | [10.48550/arXiv.2606.23109](https://doi.org/10.48550/arXiv.2606.23109) |
 | 2026-06-24 | [Analytical calculation of the spectrum of nonlinear Compton scattering beyond local approximations](./arxiv-2606-22427/README.md) | arXiv（预印本） | [10.48550/arXiv.2606.22427](https://doi.org/10.48550/arXiv.2606.22427) |
 | 2026-06-24 | [Effect of Noise on Spatio-Temporal Evolution of Current Filamentation Instability in Relativistic Beam-Plasma Systems](./arxiv-2606-21221/README.md) | arXiv（预印本） | [10.48550/arXiv.2606.21221](https://doi.org/10.48550/arXiv.2606.21221) |
 | 2026-06-24 | [An electron injector for the Electron-Ion Collider based on proton-driven plasma wakefield acceleration](./arxiv-2605-07929/README.md) | arXiv（预印本） | [10.48550/arXiv.2605.07929](https://doi.org/10.48550/arXiv.2605.07929) |

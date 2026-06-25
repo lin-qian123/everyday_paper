@@ -1,0 +1,119 @@
+[
+  {
+    "title": "Multi-objective Bayesian optimisation of a double-layer target for quasi-monoenergetic TNSA protons",
+    "doi": "10.48550/arXiv.2606.23224",
+    "source_url": "https://arxiv.org/abs/2606.23224",
+    "pdf_path": "daily/2026-06-25/pdfs/Chengqi-Zhang et al. - 2026 - Multi-objective Bayesian optimisation of a double-layer target for quasi-monoenergetic TNSA protons.pdf",
+    "pdf_name": "Chengqi-Zhang et al. - 2026 - Multi-objective Bayesian optimisation of a double-layer target for quasi-monoenergetic TNSA protons.pdf",
+    "cmd": [
+      "python",
+      "scripts/safe_pdf_download.py",
+      "--url",
+      "https://arxiv.org/pdf/2606.23224.pdf",
+      "--doi",
+      "10.48550/arXiv.2606.23224",
+      "--output",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-25/pdfs/Chengqi-Zhang et al. - 2026 - Multi-objective Bayesian optimisation of a double-layer target for quasi-monoenergetic TNSA protons.pdf",
+      "--report-json",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-25/Chengqi-Zhang et al. - 2026 - Multi-objective Bayesian optimisation of a double-layer target for quasi-monoenergetic TNSA protons.download_report.json"
+    ],
+    "returncode": 0,
+    "stdout": "Downloaded: /Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-25/pdfs/Chengqi-Zhang et al. - 2026 - Multi-objective Bayesian optimisation of a double-layer target for quasi-monoenergetic TNSA protons.pdf (1045833 bytes) from https://arxiv.org/pdf/2606.23224.pdf via env-proxy\n",
+    "stderr": "",
+    "report": {
+      "ok": true,
+      "output": "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-25/pdfs/Chengqi-Zhang et al. - 2026 - Multi-objective Bayesian optimisation of a double-layer target for quasi-monoenergetic TNSA protons.pdf",
+      "source_url": "https://arxiv.org/pdf/2606.23224.pdf",
+      "mode": "env-proxy",
+      "attempts": []
+    },
+    "paper": {
+      "title": "Multi-objective Bayesian optimisation of a double-layer target for quasi-monoenergetic TNSA protons",
+      "authors": "Chengqi-Zhang, Yang He, Mamat Ali Bake, Bai-Song Xie",
+      "doi": "10.48550/arXiv.2606.23224",
+      "source_url": "https://arxiv.org/abs/2606.23224",
+      "pdf_url": "https://arxiv.org/pdf/2606.23224.pdf",
+      "publication_date": "2026-06-22",
+      "journal": "arXiv（预印本）",
+      "pdf_name": "Chengqi-Zhang et al. - 2026 - Multi-objective Bayesian optimisation of a double-layer target for quasi-monoenergetic TNSA protons.pdf"
+    }
+  },
+  {
+    "title": "Evolution of Quadrupole Wakefield Driven by Transversely Asymmetric Electron Beams in Hollow Plasma Channels",
+    "doi": "10.48550/arXiv.2606.24067",
+    "source_url": "https://arxiv.org/abs/2606.24067",
+    "pdf_path": "daily/2026-06-25/pdfs/Siqin Ding et al. - 2026 - Evolution of Quadrupole Wakefield Driven by Transversely Asymmetric Electron Beams in Hollow Plasma Channels.pdf",
+    "pdf_name": "Siqin Ding et al. - 2026 - Evolution of Quadrupole Wakefield Driven by Transversely Asymmetric Electron Beams in Hollow Plasma Channels.pdf",
+    "cmd": [
+      "python",
+      "scripts/safe_pdf_download.py",
+      "--url",
+      "https://arxiv.org/pdf/2606.24067.pdf",
+      "--doi",
+      "10.48550/arXiv.2606.24067",
+      "--output",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-25/pdfs/Siqin Ding et al. - 2026 - Evolution of Quadrupole Wakefield Driven by Transversely Asymmetric Electron Beams in Hollow Plasma Channels.pdf",
+      "--report-json",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-25/Siqin Ding et al. - 2026 - Evolution of Quadrupole Wakefield Driven by Transversely Asymmetric Electron Beams in Hollow Plasma Channels.download_report.json"
+    ],
+    "returncode": 0,
+    "stdout": "Downloaded: /Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-25/pdfs/Siqin Ding et al. - 2026 - Evolution of Quadrupole Wakefield Driven by Transversely Asymmetric Electron Beams in Hollow Plasma Channels.pdf (3392308 bytes) from https://arxiv.org/pdf/2606.24067.pdf via env-proxy\n",
+    "stderr": "",
+    "report": {
+      "ok": true,
+      "output": "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-25/pdfs/Siqin Ding et al. - 2026 - Evolution of Quadrupole Wakefield Driven by Transversely Asymmetric Electron Beams in Hollow Plasma Channels.pdf",
+      "source_url": "https://arxiv.org/pdf/2606.24067.pdf",
+      "mode": "env-proxy",
+      "attempts": []
+    },
+    "paper": {
+      "title": "Evolution of Quadrupole Wakefield Driven by Transversely Asymmetric Electron Beams in Hollow Plasma Channels",
+      "authors": "Siqin Ding, Jianfei Hua, Fei Li, Shiyu Zhou, Wei Lu",
+      "doi": "10.48550/arXiv.2606.24067",
+      "source_url": "https://arxiv.org/abs/2606.24067",
+      "pdf_url": "https://arxiv.org/pdf/2606.24067.pdf",
+      "publication_date": "2026-06-23",
+      "journal": "arXiv（预印本）",
+      "pdf_name": "Siqin Ding et al. - 2026 - Evolution of Quadrupole Wakefield Driven by Transversely Asymmetric Electron Beams in Hollow Plasma Channels.pdf"
+    }
+  },
+  {
+    "title": "Observation of stopping power reduction at strong ion-plasma coupling",
+    "doi": "10.48550/arXiv.2606.23109",
+    "source_url": "https://arxiv.org/abs/2606.23109",
+    "pdf_path": "daily/2026-06-25/pdfs/Yun Liu et al. - 2026 - Observation of stopping power reduction at strong ion-plasma coupling.pdf",
+    "pdf_name": "Yun Liu et al. - 2026 - Observation of stopping power reduction at strong ion-plasma coupling.pdf",
+    "cmd": [
+      "python",
+      "scripts/safe_pdf_download.py",
+      "--url",
+      "https://arxiv.org/pdf/2606.23109.pdf",
+      "--doi",
+      "10.48550/arXiv.2606.23109",
+      "--output",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-25/pdfs/Yun Liu et al. - 2026 - Observation of stopping power reduction at strong ion-plasma coupling.pdf",
+      "--report-json",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-25/Yun Liu et al. - 2026 - Observation of stopping power reduction at strong ion-plasma coupling.download_report.json"
+    ],
+    "returncode": 0,
+    "stdout": "Downloaded: /Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-25/pdfs/Yun Liu et al. - 2026 - Observation of stopping power reduction at strong ion-plasma coupling.pdf (2079878 bytes) from https://arxiv.org/pdf/2606.23109.pdf via env-proxy\n",
+    "stderr": "",
+    "report": {
+      "ok": true,
+      "output": "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-25/pdfs/Yun Liu et al. - 2026 - Observation of stopping power reduction at strong ion-plasma coupling.pdf",
+      "source_url": "https://arxiv.org/pdf/2606.23109.pdf",
+      "mode": "env-proxy",
+      "attempts": []
+    },
+    "paper": {
+      "title": "Observation of stopping power reduction at strong ion-plasma coupling",
+      "authors": "Yun Liu, Jieru Ren, Zhigang Deng, Wei Qi, Bubo Ma, Wenqing Wei, Shizheng Zhang, Xuyang Luo, Ziqian Zhao, Mingzhe Yang, Yifang Gao, Xueguang Ren, Jianxing Li, Dieter H. H. Hoffmann, Xing Wang, Zhongfeng Xu, Shaoyi Wang, Quanping Fan, Bo Cui, Weiwu Wang, Sixin Wu, Yue Yang, Zhurong Cao, Zongqing Zhao, Yuqiu Gu, Leifeng Cao, Bin He, Shaoping Zhu, Olga Rosmej, Rui Cheng, Guoqing Xiao, Weimin Zhou, Yongtao Zhao",
+      "doi": "10.48550/arXiv.2606.23109",
+      "source_url": "https://arxiv.org/abs/2606.23109",
+      "pdf_url": "https://arxiv.org/pdf/2606.23109.pdf",
+      "publication_date": "2026-06-22",
+      "journal": "arXiv（预印本）",
+      "pdf_name": "Yun Liu et al. - 2026 - Observation of stopping power reduction at strong ion-plasma coupling.pdf"
+    }
+  }
+]

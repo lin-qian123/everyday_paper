@@ -2,11 +2,12 @@
 
 HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。
 
-- 当前收录：40 篇
-- 索引更新时间：2026-06-24
+- 当前收录：41 篇
+- 索引更新时间：2026-06-25
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-06-25 | [Observation of stopping power reduction at strong ion-plasma coupling](../papers/arxiv-2606-23109/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-25/notes/Yun Liu et al. - 2026 - Observation of stopping power reduction at strong ion-plasma coupling.md) |
 | 2026-06-23 | [Impact of energetic alpha particles on core turbulence in an ARC-class fusion power plant](../papers/arxiv-2606-15965/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-23/notes/J. Hall et al. - 2026 - Impact of energetic alpha particles on core turbulence in an ARC-class fusion power plant.md) |
 | 2026-06-20 | [Caustic-Driven Fluidic Microlenses for Enhanced Nonlinear and High-Energy-Density Physics](../papers/arxiv-2606-20125/README.md) | arXiv 预印本（高相关补充） | [笔记](../daily/2026-06-20/notes/Sourabh Singh et al. - 2026 - Caustic-Driven Fluidic Microlenses for Enhanced Nonlinear and High-Energy-Density Physics.md) |
 | 2026-06-19 | [Hierarchical Framework of Runaway Electrons using Deep Learning](../papers/arxiv-2606-12567/README.md) | arXiv 预印本（高相关补充） | [笔记](../daily/2026-06-19/notes/Tyler Mark et al. - 2026 - Hierarchical Framework of Runaway Electrons using Deep Learning.md) |
