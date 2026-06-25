@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：138 篇
-- 索引更新时间：2026-06-25
+- 当前入库论文：141 篇
+- 索引更新时间：2026-06-26
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-06-26 | [Laser-intensity-spike-dominated hot electron generation from two-plasmon decay instability driven by moderate-bandwidth pulses](./arxiv-2606-26054/README.md) | arXiv（预印本） | [10.48550/arXiv.2606.26054](https://doi.org/10.48550/arXiv.2606.26054) |
+| 2026-06-26 | [Numerical thermalization in $n$-D particle-in-cell simulations](./arxiv-2606-25528/README.md) | arXiv（预印本） | [10.48550/arXiv.2606.25528](https://doi.org/10.48550/arXiv.2606.25528) |
+| 2026-06-26 | [Nanosecond-resolved 266 nm Mach-Zehnder interferometry for electron-density measurements of dense plasmas generated in supercritical fluids](./arxiv-2606-25327/README.md) | arXiv（预印本） | [10.48550/arXiv.2606.25327](https://doi.org/10.48550/arXiv.2606.25327) |
 | 2026-06-25 | [Evolution of Quadrupole Wakefield Driven by Transversely Asymmetric Electron Beams in Hollow Plasma Channels](./arxiv-2606-24067/README.md) | arXiv（预印本） | [10.48550/arXiv.2606.24067](https://doi.org/10.48550/arXiv.2606.24067) |
 | 2026-06-25 | [Multi-objective Bayesian optimisation of a double-layer target for quasi-monoenergetic TNSA protons](./arxiv-2606-23224/README.md) | arXiv（预印本） | [10.48550/arXiv.2606.23224](https://doi.org/10.48550/arXiv.2606.23224) |
 | 2026-06-25 | [Observation of stopping power reduction at strong ion-plasma coupling](./arxiv-2606-23109/README.md) | arXiv（预印本） | [10.48550/arXiv.2606.23109](https://doi.org/10.48550/arXiv.2606.23109) |

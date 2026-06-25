@@ -1522,5 +1522,38 @@
     "note_path": "daily/2026-06-25/notes/Yun Liu et al. - 2026 - Observation of stopping power reduction at strong ion-plasma coupling.md",
     "processed_date": "2026-06-25",
     "normalized_title": "observation of stopping power reduction at strong ion plasma coupling"
+  },
+  {
+    "title": "Laser-intensity-spike-dominated hot electron generation from two-plasmon decay instability driven by moderate-bandwidth pulses",
+    "doi": "10.48550/arXiv.2606.26054",
+    "journal": "arXiv（预印本）",
+    "publication_date": "2026-06-24",
+    "source_url": "http://arxiv.org/abs/2606.26054v1",
+    "pdf_path": "daily/2026-06-26/pdfs/C. Yao et al. - 2026 - Laser-intensity-spike-dominated hot electron generation from two-plasmon decay instability driven by moderate-bandwidth pulses.pdf",
+    "note_path": "daily/2026-06-26/notes/C. Yao et al. - 2026 - Laser-intensity-spike-dominated hot electron generation from two-plasmon decay instability driven by moderate-bandwidth pulses.md",
+    "processed_date": "2026-06-26",
+    "normalized_title": "laser intensity spike dominated hot electron generation from two plasmon decay instability driven by moderate bandwidth pulses"
+  },
+  {
+    "title": "Numerical thermalization in $n$-D particle-in-cell simulations",
+    "doi": "10.48550/arXiv.2606.25528",
+    "journal": "arXiv（预印本）",
+    "publication_date": "2026-06-24",
+    "source_url": "http://arxiv.org/abs/2606.25528v1",
+    "pdf_path": "daily/2026-06-26/pdfs/R. M. Park et al. - 2026 - Numerical thermalization in $n$-D particle-in-cell simulations.pdf",
+    "note_path": "daily/2026-06-26/notes/R. M. Park et al. - 2026 - Numerical thermalization in $n$-D particle-in-cell simulations.md",
+    "processed_date": "2026-06-26",
+    "normalized_title": "numerical thermalization in n d particle in cell simulations"
+  },
+  {
+    "title": "Nanosecond-resolved 266 nm Mach-Zehnder interferometry for electron-density measurements of dense plasmas generated in supercritical fluids",
+    "doi": "10.48550/arXiv.2606.25327",
+    "journal": "arXiv（预印本）",
+    "publication_date": "2026-06-24",
+    "source_url": "http://arxiv.org/abs/2606.25327v1",
+    "pdf_path": "daily/2026-06-26/pdfs/Kyusang Cho et al. - 2026 - Nanosecond-resolved 266 nm Mach-Zehnder interferometry for electron-density measurements of dense plasmas generated in supercritical fluids.pdf",
+    "note_path": "daily/2026-06-26/notes/Kyusang Cho et al. - 2026 - Nanosecond-resolved 266 nm Mach-Zehnder interferometry for electron-density measurements of dense plasmas generated in supercritical fluids.md",
+    "processed_date": "2026-06-26",
+    "normalized_title": "nanosecond resolved 266 nm mach zehnder interferometry for electron density measurements of dense plasmas generated in supercritical fluids"
   }
 ]

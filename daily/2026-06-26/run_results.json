@@ -1,0 +1,119 @@
+[
+  {
+    "title": "Laser-intensity-spike-dominated hot electron generation from two-plasmon decay instability driven by moderate-bandwidth pulses",
+    "doi": "10.48550/arXiv.2606.26054",
+    "source_url": "http://arxiv.org/abs/2606.26054v1",
+    "pdf_path": "daily/2026-06-26/pdfs/C. Yao et al. - 2026 - Laser-intensity-spike-dominated hot electron generation from two-plasmon decay instability driven by moderate-bandwidth pulses.pdf",
+    "pdf_name": "C. Yao et al. - 2026 - Laser-intensity-spike-dominated hot electron generation from two-plasmon decay instability driven by moderate-bandwidth pulses.pdf",
+    "cmd": [
+      "python",
+      "scripts/safe_pdf_download.py",
+      "--url",
+      "https://arxiv.org/pdf/2606.26054.pdf",
+      "--doi",
+      "10.48550/arXiv.2606.26054",
+      "--output",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-26/pdfs/C. Yao et al. - 2026 - Laser-intensity-spike-dominated hot electron generation from two-plasmon decay instability driven by moderate-bandwidth pulses.pdf",
+      "--report-json",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-26/C. Yao et al. - 2026 - Laser-intensity-spike-dominated hot electron generation from two-plasmon decay instability driven by moderate-bandwidth pulses.download_report.json"
+    ],
+    "returncode": 0,
+    "stdout": "Downloaded: /Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-26/pdfs/C. Yao et al. - 2026 - Laser-intensity-spike-dominated hot electron generation from two-plasmon decay instability driven by moderate-bandwidth pulses.pdf (2772811 bytes) from https://arxiv.org/pdf/2606.26054.pdf via env-proxy\n",
+    "stderr": "",
+    "report": {
+      "ok": true,
+      "output": "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-26/pdfs/C. Yao et al. - 2026 - Laser-intensity-spike-dominated hot electron generation from two-plasmon decay instability driven by moderate-bandwidth pulses.pdf",
+      "source_url": "https://arxiv.org/pdf/2606.26054.pdf",
+      "mode": "env-proxy",
+      "attempts": []
+    },
+    "paper": {
+      "title": "Laser-intensity-spike-dominated hot electron generation from two-plasmon decay instability driven by moderate-bandwidth pulses",
+      "authors": "C. Yao, Z. H. Cai, X. Wang, X. C. Wang, H. R. Yin, Z. A. Zhu, C. W. Lian, Y. Ji, X. Jiang, S. M. Xu, Y. Y. Yao, L. Y. Yang, J. N. Zhang, D. Meng, T. Peng, H. Wen, C. Z. Xiao, K. Y. Meng, J. Li, R. Yan, P. Yuan, Z. Zhang, L. Hao, Q. Jia, W. Feng, H. H. An, H. Y. Liu, Z. Y. Xie, P. P. Wang, C. Wang, A. Lei, X. H. Zhao, Z. H. Fang, W. Wang, Y. Q. Gu, Y-K. Ding, J. Zheng",
+      "doi": "10.48550/arXiv.2606.26054",
+      "source_url": "http://arxiv.org/abs/2606.26054v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.26054.pdf",
+      "publication_date": "2026-06-24",
+      "journal": "arXiv（预印本）",
+      "pdf_name": "C. Yao et al. - 2026 - Laser-intensity-spike-dominated hot electron generation from two-plasmon decay instability driven by moderate-bandwidth pulses.pdf"
+    }
+  },
+  {
+    "title": "Numerical thermalization in $n$-D particle-in-cell simulations",
+    "doi": "10.48550/arXiv.2606.25528",
+    "source_url": "http://arxiv.org/abs/2606.25528v1",
+    "pdf_path": "daily/2026-06-26/pdfs/R. M. Park et al. - 2026 - Numerical thermalization in $n$-D particle-in-cell simulations.pdf",
+    "pdf_name": "R. M. Park et al. - 2026 - Numerical thermalization in $n$-D particle-in-cell simulations.pdf",
+    "cmd": [
+      "python",
+      "scripts/safe_pdf_download.py",
+      "--url",
+      "https://arxiv.org/pdf/2606.25528.pdf",
+      "--doi",
+      "10.48550/arXiv.2606.25528",
+      "--output",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-26/pdfs/R. M. Park et al. - 2026 - Numerical thermalization in $n$-D particle-in-cell simulations.pdf",
+      "--report-json",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-26/R. M. Park et al. - 2026 - Numerical thermalization in $n$-D particle-in-cell simulations.download_report.json"
+    ],
+    "returncode": 0,
+    "stdout": "Downloaded: /Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-26/pdfs/R. M. Park et al. - 2026 - Numerical thermalization in $n$-D particle-in-cell simulations.pdf (1308412 bytes) from https://arxiv.org/pdf/2606.25528.pdf via env-proxy\n",
+    "stderr": "",
+    "report": {
+      "ok": true,
+      "output": "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-26/pdfs/R. M. Park et al. - 2026 - Numerical thermalization in $n$-D particle-in-cell simulations.pdf",
+      "source_url": "https://arxiv.org/pdf/2606.25528.pdf",
+      "mode": "env-proxy",
+      "attempts": []
+    },
+    "paper": {
+      "title": "Numerical thermalization in $n$-D particle-in-cell simulations",
+      "authors": "R. M. Park, C. H. Moore, S. D. Baalrud",
+      "doi": "10.48550/arXiv.2606.25528",
+      "source_url": "http://arxiv.org/abs/2606.25528v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.25528.pdf",
+      "publication_date": "2026-06-24",
+      "journal": "arXiv（预印本）",
+      "pdf_name": "R. M. Park et al. - 2026 - Numerical thermalization in $n$-D particle-in-cell simulations.pdf"
+    }
+  },
+  {
+    "title": "Nanosecond-resolved 266 nm Mach-Zehnder interferometry for electron-density measurements of dense plasmas generated in supercritical fluids",
+    "doi": "10.48550/arXiv.2606.25327",
+    "source_url": "http://arxiv.org/abs/2606.25327v1",
+    "pdf_path": "daily/2026-06-26/pdfs/Kyusang Cho et al. - 2026 - Nanosecond-resolved 266 nm Mach-Zehnder interferometry for electron-density measurements of dense plasmas generated in supercritical fluids.pdf",
+    "pdf_name": "Kyusang Cho et al. - 2026 - Nanosecond-resolved 266 nm Mach-Zehnder interferometry for electron-density measurements of dense plasmas generated in supercritical fluids.pdf",
+    "cmd": [
+      "python",
+      "scripts/safe_pdf_download.py",
+      "--url",
+      "https://arxiv.org/pdf/2606.25327.pdf",
+      "--doi",
+      "10.48550/arXiv.2606.25327",
+      "--output",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-26/pdfs/Kyusang Cho et al. - 2026 - Nanosecond-resolved 266 nm Mach-Zehnder interferometry for electron-density measurements of dense plasmas generated in supercritical fluids.pdf",
+      "--report-json",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-26/Kyusang Cho et al. - 2026 - Nanosecond-resolved 266 nm Mach-Zehnder interferometry for electron-density measurements of dense plasmas generated in supercritical fluids.download_report.json"
+    ],
+    "returncode": 0,
+    "stdout": "Downloaded: /Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-26/pdfs/Kyusang Cho et al. - 2026 - Nanosecond-resolved 266 nm Mach-Zehnder interferometry for electron-density measurements of dense plasmas generated in supercritical fluids.pdf (4710061 bytes) from https://arxiv.org/pdf/2606.25327.pdf via env-proxy\n",
+    "stderr": "",
+    "report": {
+      "ok": true,
+      "output": "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-26/pdfs/Kyusang Cho et al. - 2026 - Nanosecond-resolved 266 nm Mach-Zehnder interferometry for electron-density measurements of dense plasmas generated in supercritical fluids.pdf",
+      "source_url": "https://arxiv.org/pdf/2606.25327.pdf",
+      "mode": "env-proxy",
+      "attempts": []
+    },
+    "paper": {
+      "title": "Nanosecond-resolved 266 nm Mach-Zehnder interferometry for electron-density measurements of dense plasmas generated in supercritical fluids",
+      "authors": "Kyusang Cho, Juho Lee, Gunsu Yun",
+      "doi": "10.48550/arXiv.2606.25327",
+      "source_url": "http://arxiv.org/abs/2606.25327v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.25327.pdf",
+      "publication_date": "2026-06-24",
+      "journal": "arXiv（预印本）",
+      "pdf_name": "Kyusang Cho et al. - 2026 - Nanosecond-resolved 266 nm Mach-Zehnder interferometry for electron-density measurements of dense plasmas generated in supercritical fluids.pdf"
+    }
+  }
+]
