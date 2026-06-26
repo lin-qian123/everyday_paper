@@ -2,11 +2,13 @@
 
 HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。
 
-- 当前收录：42 篇
-- 索引更新时间：2026-06-26
+- 当前收录：44 篇
+- 索引更新时间：2026-06-27
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-06-27 | [Atmospheric carbon-14 production from neutron leakage in fusion energy systems](../papers/arxiv-2606-23953/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-27/notes/Brian James Albright et al. - 2026 - Atmospheric carbon-14 production from neutron leakage in fusion energy systems.md) |
+| 2026-06-27 | [The science of compressional heating on the LM26 magnetized target fusion experiment](../papers/arxiv-2606-23974/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-27/notes/S. J. Howard et al. - 2026 - The science of compressional heating on the LM26 magnetized target fusion experiment.md) |
 | 2026-06-26 | [Laser-intensity-spike-dominated hot electron generation from two-plasmon decay instability driven by moderate-bandwidth pulses](../papers/arxiv-2606-26054/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-26/notes/C. Yao et al. - 2026 - Laser-intensity-spike-dominated hot electron generation from two-plasmon decay instability driven by moderate-bandwidth pulses.md) |
 | 2026-06-25 | [Observation of stopping power reduction at strong ion-plasma coupling](../papers/arxiv-2606-23109/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-25/notes/Yun Liu et al. - 2026 - Observation of stopping power reduction at strong ion-plasma coupling.md) |
 | 2026-06-23 | [Impact of energetic alpha particles on core turbulence in an ARC-class fusion power plant](../papers/arxiv-2606-15965/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-23/notes/J. Hall et al. - 2026 - Impact of energetic alpha particles on core turbulence in an ARC-class fusion power plant.md) |

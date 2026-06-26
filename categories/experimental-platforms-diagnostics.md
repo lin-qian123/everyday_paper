@@ -2,11 +2,13 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：21 篇
-- 索引更新时间：2026-06-26
+- 当前收录：23 篇
+- 索引更新时间：2026-06-27
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-06-27 | [Atmospheric carbon-14 production from neutron leakage in fusion energy systems](../papers/arxiv-2606-23953/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-27/notes/Brian James Albright et al. - 2026 - Atmospheric carbon-14 production from neutron leakage in fusion energy systems.md) |
+| 2026-06-27 | [The science of compressional heating on the LM26 magnetized target fusion experiment](../papers/arxiv-2606-23974/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-27/notes/S. J. Howard et al. - 2026 - The science of compressional heating on the LM26 magnetized target fusion experiment.md) |
 | 2026-06-26 | [Nanosecond-resolved 266 nm Mach-Zehnder interferometry for electron-density measurements of dense plasmas generated in supercritical fluids](../papers/arxiv-2606-25327/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-26/notes/Kyusang Cho et al. - 2026 - Nanosecond-resolved 266 nm Mach-Zehnder interferometry for electron-density measurements of dense plasmas generated in supercritical fluids.md) |
 | 2026-06-25 | [Multi-objective Bayesian optimisation of a double-layer target for quasi-monoenergetic TNSA protons](../papers/arxiv-2606-23224/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-25/notes/Chengqi-Zhang et al. - 2026 - Multi-objective Bayesian optimisation of a double-layer target for quasi-monoenergetic TNSA protons.md) |
 | 2026-06-21 | [Short overview of solid, gas, cryogenic and liquid target fabrication for single-beam high-power laser experiments](../papers/10-1017-hpl-2026-10132/README.md) | High Power Laser Science and Engineering（正式期刊，Review） | [笔记](../daily/2026-06-21/notes/Stefania C. Ionescu et al. - 2026 - Short overview of solid gas cryogenic and liquid target fabrication for single-beam high-power laser experiments.md) |

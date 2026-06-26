@@ -2,11 +2,12 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：53 篇
-- 索引更新时间：2026-06-26
+- 当前收录：54 篇
+- 索引更新时间：2026-06-27
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-06-27 | [Systematic Derivation of Reliable Wake Functions for Complex Structures from Mesh-Based Wakefield Simulations](../papers/arxiv-2606-26514/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-27/notes/Chih-Kai Liu et al. - 2026 - Systematic Derivation of Reliable Wake Functions for Complex Structures from Mesh-Based Wakefield Simulations.md) |
 | 2026-06-25 | [Evolution of Quadrupole Wakefield Driven by Transversely Asymmetric Electron Beams in Hollow Plasma Channels](../papers/arxiv-2606-24067/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-25/notes/Siqin Ding et al. - 2026 - Evolution of Quadrupole Wakefield Driven by Transversely Asymmetric Electron Beams in Hollow Plasma Channels.md) |
 | 2026-06-25 | [Multi-objective Bayesian optimisation of a double-layer target for quasi-monoenergetic TNSA protons](../papers/arxiv-2606-23224/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-25/notes/Chengqi-Zhang et al. - 2026 - Multi-objective Bayesian optimisation of a double-layer target for quasi-monoenergetic TNSA protons.md) |
 | 2026-06-24 | [An electron injector for the Electron-Ion Collider based on proton-driven plasma wakefield acceleration](../papers/arxiv-2605-07929/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-24/notes/J.P. Farmer et al. - 2026 - An electron injector for the Electron-Ion Collider based on proton-driven plasma wakefield acceleration.md) |

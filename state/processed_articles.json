@@ -1555,5 +1555,38 @@
     "note_path": "daily/2026-06-26/notes/Kyusang Cho et al. - 2026 - Nanosecond-resolved 266 nm Mach-Zehnder interferometry for electron-density measurements of dense plasmas generated in supercritical fluids.md",
     "processed_date": "2026-06-26",
     "normalized_title": "nanosecond resolved 266 nm mach zehnder interferometry for electron density measurements of dense plasmas generated in supercritical fluids"
+  },
+  {
+    "title": "Atmospheric carbon-14 production from neutron leakage in fusion energy systems",
+    "doi": "10.48550/arXiv.2606.23953",
+    "journal": "arXiv（预印本）",
+    "publication_date": "2026-06-22",
+    "source_url": "http://arxiv.org/abs/2606.23953v1",
+    "pdf_path": "daily/2026-06-27/pdfs/Brian James Albright et al. - 2026 - Atmospheric carbon-14 production from neutron leakage in fusion energy systems.pdf",
+    "note_path": "daily/2026-06-27/notes/Brian James Albright et al. - 2026 - Atmospheric carbon-14 production from neutron leakage in fusion energy systems.md",
+    "processed_date": "2026-06-27",
+    "normalized_title": "atmospheric carbon 14 production from neutron leakage in fusion energy systems"
+  },
+  {
+    "title": "The science of compressional heating on the LM26 magnetized target fusion experiment",
+    "doi": "10.48550/arXiv.2606.23974",
+    "journal": "arXiv（预印本）",
+    "publication_date": "2026-06-22",
+    "source_url": "http://arxiv.org/abs/2606.23974v1",
+    "pdf_path": "daily/2026-06-27/pdfs/S. J. Howard et al. - 2026 - The science of compressional heating on the LM26 magnetized target fusion experiment.pdf",
+    "note_path": "daily/2026-06-27/notes/S. J. Howard et al. - 2026 - The science of compressional heating on the LM26 magnetized target fusion experiment.md",
+    "processed_date": "2026-06-27",
+    "normalized_title": "the science of compressional heating on the lm26 magnetized target fusion experiment"
+  },
+  {
+    "title": "Systematic Derivation of Reliable Wake Functions for Complex Structures from Mesh-Based Wakefield Simulations",
+    "doi": "10.48550/arXiv.2606.26514",
+    "journal": "arXiv（预印本）",
+    "publication_date": "2026-06-25",
+    "source_url": "http://arxiv.org/abs/2606.26514v1",
+    "pdf_path": "daily/2026-06-27/pdfs/Chih-Kai Liu et al. - 2026 - Systematic Derivation of Reliable Wake Functions for Complex Structures from Mesh-Based Wakefield Simulations.pdf",
+    "note_path": "daily/2026-06-27/notes/Chih-Kai Liu et al. - 2026 - Systematic Derivation of Reliable Wake Functions for Complex Structures from Mesh-Based Wakefield Simulations.md",
+    "processed_date": "2026-06-27",
+    "normalized_title": "systematic derivation of reliable wake functions for complex structures from mesh based wakefield simulations"
   }
 ]

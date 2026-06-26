@@ -1,0 +1,119 @@
+[
+  {
+    "title": "Atmospheric carbon-14 production from neutron leakage in fusion energy systems",
+    "doi": "10.48550/arXiv.2606.23953",
+    "source_url": "http://arxiv.org/abs/2606.23953v1",
+    "pdf_path": "daily/2026-06-27/pdfs/Brian James Albright et al. - 2026 - Atmospheric carbon-14 production from neutron leakage in fusion energy systems.pdf",
+    "pdf_name": "Brian James Albright et al. - 2026 - Atmospheric carbon-14 production from neutron leakage in fusion energy systems.pdf",
+    "cmd": [
+      "python",
+      "scripts/safe_pdf_download.py",
+      "--url",
+      "https://arxiv.org/pdf/2606.23953.pdf",
+      "--doi",
+      "10.48550/arXiv.2606.23953",
+      "--output",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-27/pdfs/Brian James Albright et al. - 2026 - Atmospheric carbon-14 production from neutron leakage in fusion energy systems.pdf",
+      "--report-json",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-27/Brian James Albright et al. - 2026 - Atmospheric carbon-14 production from neutron leakage in fusion energy systems.download_report.json"
+    ],
+    "returncode": 0,
+    "stdout": "Downloaded: daily/2026-06-27/pdfs/Brian James Albright et al. - 2026 - Atmospheric carbon-14 production from neutron leakage in fusion energy systems.pdf (647538 bytes) from https://arxiv.org/pdf/2606.23953.pdf via env-proxy\n",
+    "stderr": "",
+    "report": {
+      "ok": true,
+      "output": "daily/2026-06-27/pdfs/Brian James Albright et al. - 2026 - Atmospheric carbon-14 production from neutron leakage in fusion energy systems.pdf",
+      "source_url": "https://arxiv.org/pdf/2606.23953.pdf",
+      "mode": "env-proxy",
+      "attempts": []
+    },
+    "paper": {
+      "title": "Atmospheric carbon-14 production from neutron leakage in fusion energy systems",
+      "authors": "Brian James Albright, James Alastair Mercer-Smith",
+      "doi": "10.48550/arXiv.2606.23953",
+      "source_url": "http://arxiv.org/abs/2606.23953v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.23953.pdf",
+      "publication_date": "2026-06-22",
+      "journal": "arXiv（预印本）",
+      "pdf_name": "Brian James Albright et al. - 2026 - Atmospheric carbon-14 production from neutron leakage in fusion energy systems.pdf"
+    }
+  },
+  {
+    "title": "The science of compressional heating on the LM26 magnetized target fusion experiment",
+    "doi": "10.48550/arXiv.2606.23974",
+    "source_url": "http://arxiv.org/abs/2606.23974v1",
+    "pdf_path": "daily/2026-06-27/pdfs/S. J. Howard et al. - 2026 - The science of compressional heating on the LM26 magnetized target fusion experiment.pdf",
+    "pdf_name": "S. J. Howard et al. - 2026 - The science of compressional heating on the LM26 magnetized target fusion experiment.pdf",
+    "cmd": [
+      "python",
+      "scripts/safe_pdf_download.py",
+      "--url",
+      "https://arxiv.org/pdf/2606.23974.pdf",
+      "--doi",
+      "10.48550/arXiv.2606.23974",
+      "--output",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-27/pdfs/S. J. Howard et al. - 2026 - The science of compressional heating on the LM26 magnetized target fusion experiment.pdf",
+      "--report-json",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-27/S. J. Howard et al. - 2026 - The science of compressional heating on the LM26 magnetized target fusion experiment.download_report.json"
+    ],
+    "returncode": 0,
+    "stdout": "Downloaded: daily/2026-06-27/pdfs/S. J. Howard et al. - 2026 - The science of compressional heating on the LM26 magnetized target fusion experiment.pdf (8239913 bytes) from https://arxiv.org/pdf/2606.23974.pdf via env-proxy\n",
+    "stderr": "",
+    "report": {
+      "ok": true,
+      "output": "daily/2026-06-27/pdfs/S. J. Howard et al. - 2026 - The science of compressional heating on the LM26 magnetized target fusion experiment.pdf",
+      "source_url": "https://arxiv.org/pdf/2606.23974.pdf",
+      "mode": "env-proxy",
+      "attempts": []
+    },
+    "paper": {
+      "title": "The science of compressional heating on the LM26 magnetized target fusion experiment",
+      "authors": "S. J. Howard et al.",
+      "doi": "10.48550/arXiv.2606.23974",
+      "source_url": "http://arxiv.org/abs/2606.23974v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.23974.pdf",
+      "publication_date": "2026-06-22",
+      "journal": "arXiv（预印本）",
+      "pdf_name": "S. J. Howard et al. - 2026 - The science of compressional heating on the LM26 magnetized target fusion experiment.pdf"
+    }
+  },
+  {
+    "title": "Systematic Derivation of Reliable Wake Functions for Complex Structures from Mesh-Based Wakefield Simulations",
+    "doi": "10.48550/arXiv.2606.26514",
+    "source_url": "http://arxiv.org/abs/2606.26514v1",
+    "pdf_path": "daily/2026-06-27/pdfs/Chih-Kai Liu et al. - 2026 - Systematic Derivation of Reliable Wake Functions for Complex Structures from Mesh-Based Wakefield Simulations.pdf",
+    "pdf_name": "Chih-Kai Liu et al. - 2026 - Systematic Derivation of Reliable Wake Functions for Complex Structures from Mesh-Based Wakefield Simulations.pdf",
+    "cmd": [
+      "python",
+      "scripts/safe_pdf_download.py",
+      "--url",
+      "https://arxiv.org/pdf/2606.26514.pdf",
+      "--doi",
+      "10.48550/arXiv.2606.26514",
+      "--output",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-27/pdfs/Chih-Kai Liu et al. - 2026 - Systematic Derivation of Reliable Wake Functions for Complex Structures from Mesh-Based Wakefield Simulations.pdf",
+      "--report-json",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-27/Chih-Kai Liu et al. - 2026 - Systematic Derivation of Reliable Wake Functions for Complex Structures from Mesh-Based Wakefield Simulations.download_report.json"
+    ],
+    "returncode": 0,
+    "stdout": "Downloaded: daily/2026-06-27/pdfs/Chih-Kai Liu et al. - 2026 - Systematic Derivation of Reliable Wake Functions for Complex Structures from Mesh-Based Wakefield Simulations.pdf (1209061 bytes) from https://arxiv.org/pdf/2606.26514.pdf via env-proxy\n",
+    "stderr": "",
+    "report": {
+      "ok": true,
+      "output": "daily/2026-06-27/pdfs/Chih-Kai Liu et al. - 2026 - Systematic Derivation of Reliable Wake Functions for Complex Structures from Mesh-Based Wakefield Simulations.pdf",
+      "source_url": "https://arxiv.org/pdf/2606.26514.pdf",
+      "mode": "env-proxy",
+      "attempts": []
+    },
+    "paper": {
+      "title": "Systematic Derivation of Reliable Wake Functions for Complex Structures from Mesh-Based Wakefield Simulations",
+      "authors": "Chih-Kai Liu, Wai-Keung Lau, Shih-Hung Chen, Wei-Yuan Chiang",
+      "doi": "10.48550/arXiv.2606.26514",
+      "source_url": "http://arxiv.org/abs/2606.26514v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.26514.pdf",
+      "publication_date": "2026-06-25",
+      "journal": "arXiv（预印本）",
+      "pdf_name": "Chih-Kai Liu et al. - 2026 - Systematic Derivation of Reliable Wake Functions for Complex Structures from Mesh-Based Wakefield Simulations.pdf"
+    }
+  }
+]
