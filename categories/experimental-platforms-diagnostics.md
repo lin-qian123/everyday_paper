@@ -2,11 +2,12 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：23 篇
-- 索引更新时间：2026-06-27
+- 当前收录：24 篇
+- 索引更新时间：2026-06-28
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-06-28 | [Laser-driven Ion and Neutron Sources from Medium Repetition Ultrashort PW Laser](../papers/arxiv-2605-18969/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-28/notes/X. Jiao et al. - 2026 - Laser-driven Ion and Neutron Sources from Medium Repetition Ultrashort PW Laser.md) |
 | 2026-06-27 | [Atmospheric carbon-14 production from neutron leakage in fusion energy systems](../papers/arxiv-2606-23953/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-27/notes/Brian James Albright et al. - 2026 - Atmospheric carbon-14 production from neutron leakage in fusion energy systems.md) |
 | 2026-06-27 | [The science of compressional heating on the LM26 magnetized target fusion experiment](../papers/arxiv-2606-23974/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-27/notes/S. J. Howard et al. - 2026 - The science of compressional heating on the LM26 magnetized target fusion experiment.md) |
 | 2026-06-26 | [Nanosecond-resolved 266 nm Mach-Zehnder interferometry for electron-density measurements of dense plasmas generated in supercritical fluids](../papers/arxiv-2606-25327/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-26/notes/Kyusang Cho et al. - 2026 - Nanosecond-resolved 266 nm Mach-Zehnder interferometry for electron-density measurements of dense plasmas generated in supercritical fluids.md) |

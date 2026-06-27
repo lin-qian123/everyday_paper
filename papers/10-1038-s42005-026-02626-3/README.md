@@ -2,7 +2,7 @@
 
 ## 基本信息
 
-- 分类：[高能量密度物理、ICF 与实验室天体](../../categories/hedp-icf-laboratory-astrophysics.md), [机器学习与等离子体物理](../../categories/ai-ml-plasma-physics.md), [实验平台、靶设计与诊断](../../categories/experimental-platforms-diagnostics.md)
+- 分类：[高能量密度物理、ICF 与实验室天体](../../categories/hedp-icf-laboratory-astrophysics.md), [实验平台、靶设计与诊断](../../categories/experimental-platforms-diagnostics.md)
 - 期刊/平台：Communications Physics（正式期刊）
 - 发表日期：2026-05-01
 - 入库日期：2026-06-06

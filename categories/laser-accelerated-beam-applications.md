@@ -2,11 +2,13 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：26 篇
-- 索引更新时间：2026-06-27
+- 当前收录：28 篇
+- 索引更新时间：2026-06-28
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-06-28 | [Laser-Wakefield-Driven Photonuclear and Laser-Driven DD Fusion Neutron Sources for Fast Neutron Capture: A Start-to-End Simulation Study](../papers/arxiv-2605-18968/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-28/notes/Ou Z. Labun et al. - 2026 - Laser-Wakefield-Driven Photonuclear and Laser-Driven DD Fusion Neutron Sources for Fast Neutron Capture A Start-to-End Simulation Study.md) |
+| 2026-06-28 | [Laser-driven Ion and Neutron Sources from Medium Repetition Ultrashort PW Laser](../papers/arxiv-2605-18969/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-28/notes/X. Jiao et al. - 2026 - Laser-driven Ion and Neutron Sources from Medium Repetition Ultrashort PW Laser.md) |
 | 2026-06-27 | [Atmospheric carbon-14 production from neutron leakage in fusion energy systems](../papers/arxiv-2606-23953/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-27/notes/Brian James Albright et al. - 2026 - Atmospheric carbon-14 production from neutron leakage in fusion energy systems.md) |
 | 2026-06-27 | [The science of compressional heating on the LM26 magnetized target fusion experiment](../papers/arxiv-2606-23974/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-27/notes/S. J. Howard et al. - 2026 - The science of compressional heating on the LM26 magnetized target fusion experiment.md) |
 | 2026-06-25 | [Multi-objective Bayesian optimisation of a double-layer target for quasi-monoenergetic TNSA protons](../papers/arxiv-2606-23224/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-25/notes/Chengqi-Zhang et al. - 2026 - Multi-objective Bayesian optimisation of a double-layer target for quasi-monoenergetic TNSA protons.md) |

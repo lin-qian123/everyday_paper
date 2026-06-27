@@ -2,7 +2,7 @@
 
 ## 基本信息
 
-- 分类：[激光等离子体与束流加速](../../categories/laser-plasma-acceleration.md), [PIC、动理学与数值模拟](../../categories/pic-and-plasma-simulation.md), [机器学习与等离子体物理](../../categories/ai-ml-plasma-physics.md)
+- 分类：[激光等离子体与束流加速](../../categories/laser-plasma-acceleration.md), [PIC、动理学与数值模拟](../../categories/pic-and-plasma-simulation.md)
 - 期刊/平台：arXiv 预印本（高相关补充）
 - 发表日期：2026-06-15
 - 入库日期：2026-06-19

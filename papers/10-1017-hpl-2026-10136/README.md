@@ -2,7 +2,7 @@
 
 ## 基本信息
 
-- 分类：[激光加速电子/离子束应用](../../categories/laser-accelerated-beam-applications.md), [PIC、动理学与数值模拟](../../categories/pic-and-plasma-simulation.md), [机器学习与等离子体物理](../../categories/ai-ml-plasma-physics.md)
+- 分类：[激光加速电子/离子束应用](../../categories/laser-accelerated-beam-applications.md), [PIC、动理学与数值模拟](../../categories/pic-and-plasma-simulation.md)
 - 期刊/平台：High Power Laser Science and Engineering
 - 发表日期：2026-06-08
 - 入库日期：2026-06-13

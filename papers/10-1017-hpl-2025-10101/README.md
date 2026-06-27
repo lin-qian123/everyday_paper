@@ -2,7 +2,7 @@
 
 ## 基本信息
 
-- 分类：[高能量密度物理、ICF 与实验室天体](../../categories/hedp-icf-laboratory-astrophysics.md), [机器学习与等离子体物理](../../categories/ai-ml-plasma-physics.md)
+- 分类：[高能量密度物理、ICF 与实验室天体](../../categories/hedp-icf-laboratory-astrophysics.md)
 - 期刊/平台：High Power Laser Science and Engineering
 - 发表日期：2026-03-18
 - 入库日期：2026-06-06

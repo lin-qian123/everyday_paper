@@ -1,0 +1,119 @@
+[
+  {
+    "title": "Relativistically strong electromagnetic waves in magnetised plasmas",
+    "doi": "10.1017/S0022377826101342",
+    "source_url": "https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/relativistically-strong-electromagnetic-waves-in-magnetised-plasmas/F0F5A8BFDE9503870BE5FB640878E44B",
+    "pdf_path": "daily/2026-06-28/pdfs/Maxim Lyutikov - 2026 - Relativistically strong electromagnetic waves in magnetised plasmas.pdf",
+    "pdf_name": "Maxim Lyutikov - 2026 - Relativistically strong electromagnetic waves in magnetised plasmas.pdf",
+    "cmd": [
+      "python",
+      "scripts/safe_pdf_download.py",
+      "--url",
+      "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F0F5A8BFDE9503870BE5FB640878E44B/S0022377826101342a.pdf/div-class-title-relativistically-strong-electromagnetic-waves-in-magnetised-plasmas-div.pdf",
+      "--doi",
+      "10.1017/S0022377826101342",
+      "--output",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-28/pdfs/Maxim Lyutikov - 2026 - Relativistically strong electromagnetic waves in magnetised plasmas.pdf",
+      "--report-json",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-28/Maxim Lyutikov - 2026 - Relativistically strong electromagnetic waves in magnetised plasmas.download_report.json"
+    ],
+    "returncode": 0,
+    "stdout": "Downloaded: daily/2026-06-28/pdfs/Maxim Lyutikov - 2026 - Relativistically strong electromagnetic waves in magnetised plasmas.pdf (3132361 bytes) from https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F0F5A8BFDE9503870BE5FB640878E44B/S0022377826101342a.pdf/div-class-title-relativistically-strong-electromagnetic-waves-in-magnetised-plasmas-div.pdf via env-proxy\n",
+    "stderr": "",
+    "report": {
+      "ok": true,
+      "output": "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-28/pdfs/Maxim Lyutikov - 2026 - Relativistically strong electromagnetic waves in magnetised plasmas.pdf",
+      "source_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F0F5A8BFDE9503870BE5FB640878E44B/S0022377826101342a.pdf/div-class-title-relativistically-strong-electromagnetic-waves-in-magnetised-plasmas-div.pdf",
+      "mode": "env-proxy",
+      "attempts": []
+    },
+    "paper": {
+      "title": "Relativistically strong electromagnetic waves in magnetised plasmas",
+      "authors": "Maxim Lyutikov",
+      "doi": "10.1017/S0022377826101342",
+      "source_url": "https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/relativistically-strong-electromagnetic-waves-in-magnetised-plasmas/F0F5A8BFDE9503870BE5FB640878E44B",
+      "pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F0F5A8BFDE9503870BE5FB640878E44B/S0022377826101342a.pdf/div-class-title-relativistically-strong-electromagnetic-waves-in-magnetised-plasmas-div.pdf",
+      "publication_date": "2026-06",
+      "journal": "Journal of Plasma Physics（正式期刊）",
+      "pdf_name": "Maxim Lyutikov - 2026 - Relativistically strong electromagnetic waves in magnetised plasmas.pdf"
+    }
+  },
+  {
+    "title": "Laser-Wakefield-Driven Photonuclear and Laser-Driven DD Fusion Neutron Sources for Fast Neutron Capture: A Start-to-End Simulation Study",
+    "doi": "10.48550/arXiv.2605.18968",
+    "source_url": "http://arxiv.org/abs/2605.18968v1",
+    "pdf_path": "daily/2026-06-28/pdfs/Ou Z. Labun et al. - 2026 - Laser-Wakefield-Driven Photonuclear and Laser-Driven DD Fusion Neutron Sources for Fast Neutron Capture A Start-to-End Simulation Study.pdf",
+    "pdf_name": "Ou Z. Labun et al. - 2026 - Laser-Wakefield-Driven Photonuclear and Laser-Driven DD Fusion Neutron Sources for Fast Neutron Capture A Start-to-End Simulation Study.pdf",
+    "cmd": [
+      "python",
+      "scripts/safe_pdf_download.py",
+      "--url",
+      "https://arxiv.org/pdf/2605.18968.pdf",
+      "--doi",
+      "10.48550/arXiv.2605.18968",
+      "--output",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-28/pdfs/Ou Z. Labun et al. - 2026 - Laser-Wakefield-Driven Photonuclear and Laser-Driven DD Fusion Neutron Sources for Fast Neutron Capture A Start-to-End Simulation Study.pdf",
+      "--report-json",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-28/Ou Z. Labun et al. - 2026 - Laser-Wakefield-Driven Photonuclear and Laser-Driven DD Fusion Neutron Sources for Fast Neutron Capture A Start-to-End Simulation Study.download_report.json"
+    ],
+    "returncode": 0,
+    "stdout": "Downloaded: daily/2026-06-28/pdfs/Ou Z. Labun et al. - 2026 - Laser-Wakefield-Driven Photonuclear and Laser-Driven DD Fusion Neutron Sources for Fast Neutron Capture A Start-to-End Simulation Study.pdf (9833978 bytes) from https://arxiv.org/pdf/2605.18968.pdf via env-proxy\n",
+    "stderr": "",
+    "report": {
+      "ok": true,
+      "output": "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-28/pdfs/Ou Z. Labun et al. - 2026 - Laser-Wakefield-Driven Photonuclear and Laser-Driven DD Fusion Neutron Sources for Fast Neutron Capture A Start-to-End Simulation Study.pdf",
+      "source_url": "https://arxiv.org/pdf/2605.18968.pdf",
+      "mode": "env-proxy",
+      "attempts": []
+    },
+    "paper": {
+      "title": "Laser-Wakefield-Driven Photonuclear and Laser-Driven DD Fusion Neutron Sources for Fast Neutron Capture: A Start-to-End Simulation Study",
+      "authors": "Ou Z. Labun et al.",
+      "doi": "10.48550/arXiv.2605.18968",
+      "source_url": "http://arxiv.org/abs/2605.18968v1",
+      "pdf_url": "https://arxiv.org/pdf/2605.18968.pdf",
+      "publication_date": "2026-05-18",
+      "journal": "arXiv（预印本）",
+      "pdf_name": "Ou Z. Labun et al. - 2026 - Laser-Wakefield-Driven Photonuclear and Laser-Driven DD Fusion Neutron Sources for Fast Neutron Capture A Start-to-End Simulation Study.pdf"
+    }
+  },
+  {
+    "title": "Laser-driven Ion and Neutron Sources from Medium Repetition Ultrashort PW Laser",
+    "doi": "10.48550/arXiv.2605.18969",
+    "source_url": "http://arxiv.org/abs/2605.18969v1",
+    "pdf_path": "daily/2026-06-28/pdfs/X. Jiao et al. - 2026 - Laser-driven Ion and Neutron Sources from Medium Repetition Ultrashort PW Laser.pdf",
+    "pdf_name": "X. Jiao et al. - 2026 - Laser-driven Ion and Neutron Sources from Medium Repetition Ultrashort PW Laser.pdf",
+    "cmd": [
+      "python",
+      "scripts/safe_pdf_download.py",
+      "--url",
+      "https://arxiv.org/pdf/2605.18969.pdf",
+      "--doi",
+      "10.48550/arXiv.2605.18969",
+      "--output",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-28/pdfs/X. Jiao et al. - 2026 - Laser-driven Ion and Neutron Sources from Medium Repetition Ultrashort PW Laser.pdf",
+      "--report-json",
+      "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-28/X. Jiao et al. - 2026 - Laser-driven Ion and Neutron Sources from Medium Repetition Ultrashort PW Laser.download_report.json"
+    ],
+    "returncode": 0,
+    "stdout": "Downloaded: daily/2026-06-28/pdfs/X. Jiao et al. - 2026 - Laser-driven Ion and Neutron Sources from Medium Repetition Ultrashort PW Laser.pdf (1653696 bytes) from https://arxiv.org/pdf/2605.18969.pdf via env-proxy\n",
+    "stderr": "",
+    "report": {
+      "ok": true,
+      "output": "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-06-28/pdfs/X. Jiao et al. - 2026 - Laser-driven Ion and Neutron Sources from Medium Repetition Ultrashort PW Laser.pdf",
+      "source_url": "https://arxiv.org/pdf/2605.18969.pdf",
+      "mode": "env-proxy",
+      "attempts": []
+    },
+    "paper": {
+      "title": "Laser-driven Ion and Neutron Sources from Medium Repetition Ultrashort PW Laser",
+      "authors": "X. Jiao et al.",
+      "doi": "10.48550/arXiv.2605.18969",
+      "source_url": "http://arxiv.org/abs/2605.18969v1",
+      "pdf_url": "https://arxiv.org/pdf/2605.18969.pdf",
+      "publication_date": "2026-05-18",
+      "journal": "arXiv（预印本）",
+      "pdf_name": "X. Jiao et al. - 2026 - Laser-driven Ion and Neutron Sources from Medium Repetition Ultrashort PW Laser.pdf"
+    }
+  }
+]

@@ -125,7 +125,7 @@ CATEGORIES = [
             "deep learning",
             "neural",
             "bayesian",
-            "optimization",
+            "bayesian optimization",
             "surrogate",
             "operator",
             "fno",
@@ -133,7 +133,7 @@ CATEGORIES = [
             "data informed",
             "reduced",
             "dimensionality",
-            "ai",
+            "artificial intelligence",
         ],
     },
     {

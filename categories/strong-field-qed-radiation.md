@@ -2,11 +2,12 @@
 
 强场量子效应、辐射反作用、非线性 Compton、pair production 与极端场实验。
 
-- 当前收录：35 篇
-- 索引更新时间：2026-06-27
+- 当前收录：36 篇
+- 索引更新时间：2026-06-28
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-06-28 | [Relativistically strong electromagnetic waves in magnetised plasmas](../papers/10-1017-s0022377826101342/README.md) | Journal of Plasma Physics（正式期刊） | [笔记](../daily/2026-06-28/notes/Maxim Lyutikov - 2026 - Relativistically strong electromagnetic waves in magnetised plasmas.md) |
 | 2026-06-25 | [Evolution of Quadrupole Wakefield Driven by Transversely Asymmetric Electron Beams in Hollow Plasma Channels](../papers/arxiv-2606-24067/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-25/notes/Siqin Ding et al. - 2026 - Evolution of Quadrupole Wakefield Driven by Transversely Asymmetric Electron Beams in Hollow Plasma Channels.md) |
 | 2026-06-24 | [Analytical calculation of the spectrum of nonlinear Compton scattering beyond local approximations](../papers/arxiv-2606-22427/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-24/notes/M.P. Malakhov et al. - 2026 - Analytical calculation of the spectrum of nonlinear Compton scattering beyond local approximations.md) |
 | 2026-06-22 | [RR-induced breaking of ponderomotive invariants in EM modes](../papers/10-1017-s0022377826101809/README.md) | Journal of Plasma Physics（正式期刊） | [笔记](../daily/2026-06-22/notes/Felipe Russman et al. - 2026 - RR-induced breaking of ponderomotive invariants in EM modes.md) |

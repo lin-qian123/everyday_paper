@@ -1588,5 +1588,38 @@
     "note_path": "daily/2026-06-27/notes/Chih-Kai Liu et al. - 2026 - Systematic Derivation of Reliable Wake Functions for Complex Structures from Mesh-Based Wakefield Simulations.md",
     "processed_date": "2026-06-27",
     "normalized_title": "systematic derivation of reliable wake functions for complex structures from mesh based wakefield simulations"
+  },
+  {
+    "title": "Relativistically strong electromagnetic waves in magnetised plasmas",
+    "doi": "10.1017/S0022377826101342",
+    "journal": "Journal of Plasma Physics（正式期刊）",
+    "publication_date": "2026-06",
+    "source_url": "https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/relativistically-strong-electromagnetic-waves-in-magnetised-plasmas/F0F5A8BFDE9503870BE5FB640878E44B",
+    "pdf_path": "daily/2026-06-28/pdfs/Maxim Lyutikov - 2026 - Relativistically strong electromagnetic waves in magnetised plasmas.pdf",
+    "note_path": "daily/2026-06-28/notes/Maxim Lyutikov - 2026 - Relativistically strong electromagnetic waves in magnetised plasmas.md",
+    "processed_date": "2026-06-28",
+    "normalized_title": "relativistically strong electromagnetic waves in magnetised plasmas"
+  },
+  {
+    "title": "Laser-Wakefield-Driven Photonuclear and Laser-Driven DD Fusion Neutron Sources for Fast Neutron Capture: A Start-to-End Simulation Study",
+    "doi": "10.48550/arXiv.2605.18968",
+    "journal": "arXiv（预印本）",
+    "publication_date": "2026-05-18",
+    "source_url": "http://arxiv.org/abs/2605.18968v1",
+    "pdf_path": "daily/2026-06-28/pdfs/Ou Z. Labun et al. - 2026 - Laser-Wakefield-Driven Photonuclear and Laser-Driven DD Fusion Neutron Sources for Fast Neutron Capture A Start-to-End Simulation Study.pdf",
+    "note_path": "daily/2026-06-28/notes/Ou Z. Labun et al. - 2026 - Laser-Wakefield-Driven Photonuclear and Laser-Driven DD Fusion Neutron Sources for Fast Neutron Capture A Start-to-End Simulation Study.md",
+    "processed_date": "2026-06-28",
+    "normalized_title": "laser wakefield driven photonuclear and laser driven dd fusion neutron sources for fast neutron capture a start to end simulation study"
+  },
+  {
+    "title": "Laser-driven Ion and Neutron Sources from Medium Repetition Ultrashort PW Laser",
+    "doi": "10.48550/arXiv.2605.18969",
+    "journal": "arXiv（预印本）",
+    "publication_date": "2026-05-18",
+    "source_url": "http://arxiv.org/abs/2605.18969v1",
+    "pdf_path": "daily/2026-06-28/pdfs/X. Jiao et al. - 2026 - Laser-driven Ion and Neutron Sources from Medium Repetition Ultrashort PW Laser.pdf",
+    "note_path": "daily/2026-06-28/notes/X. Jiao et al. - 2026 - Laser-driven Ion and Neutron Sources from Medium Repetition Ultrashort PW Laser.md",
+    "processed_date": "2026-06-28",
+    "normalized_title": "laser driven ion and neutron sources from medium repetition ultrashort pw laser"
   }
 ]

@@ -2,7 +2,7 @@
 
 ## 基本信息
 
-- 分类：[强场 QED 与辐射反作用](../../categories/strong-field-qed-radiation.md), [高能量密度物理、ICF 与实验室天体](../../categories/hedp-icf-laboratory-astrophysics.md), [PIC、动理学与数值模拟](../../categories/pic-and-plasma-simulation.md), [机器学习与等离子体物理](../../categories/ai-ml-plasma-physics.md)
+- 分类：[强场 QED 与辐射反作用](../../categories/strong-field-qed-radiation.md), [高能量密度物理、ICF 与实验室天体](../../categories/hedp-icf-laboratory-astrophysics.md), [PIC、动理学与数值模拟](../../categories/pic-and-plasma-simulation.md)
 - 期刊/平台：Nature Communications
 - 发表日期：2016-12-14
 - 入库日期：2026-03-22
