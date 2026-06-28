@@ -1621,5 +1621,38 @@
     "note_path": "daily/2026-06-28/notes/X. Jiao et al. - 2026 - Laser-driven Ion and Neutron Sources from Medium Repetition Ultrashort PW Laser.md",
     "processed_date": "2026-06-28",
     "normalized_title": "laser driven ion and neutron sources from medium repetition ultrashort pw laser"
+  },
+  {
+    "title": "Effects of External Magnetic Field on Hot Electrons Transport in the Shock Ignition Scheme",
+    "doi": "10.1017/hpl.2026.10172",
+    "journal": "High Power Laser Science and Engineering（正式期刊/accepted manuscript）",
+    "publication_date": "2026-06-24",
+    "source_url": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/effects-of-external-magnetic-field-on-hot-electrons-transport-in-the-shock-ignition-scheme/EB8670B6A9174DC5A8E76B80554B939C",
+    "pdf_path": "daily/2026-06-29/pdfs/V. Rosciano et al. - 2026 - Effects of External Magnetic Field on Hot Electrons Transport in the Shock Ignition Scheme.pdf",
+    "note_path": "daily/2026-06-29/notes/V. Rosciano et al. - 2026 - Effects of External Magnetic Field on Hot Electrons Transport in the Shock Ignition Scheme.md",
+    "processed_date": "2026-06-29",
+    "normalized_title": "effects of external magnetic field on hot electrons transport in the shock ignition scheme"
+  },
+  {
+    "title": "Data analysis methods for powder x-ray diffraction intensity under laser-driven dynamic compression at Omega and NIF laser facilities",
+    "doi": "10.48550/arXiv.2606.23602",
+    "journal": "arXiv（预印本）",
+    "publication_date": "2026-06-22",
+    "source_url": "http://arxiv.org/abs/2606.23602v1",
+    "pdf_path": "daily/2026-06-29/pdfs/Marius Millot et al. - 2026 - Data analysis methods for powder x-ray diffraction intensity under laser-driven dynamic compression at Omega and NIF laser facilities.pdf",
+    "note_path": "daily/2026-06-29/notes/Marius Millot et al. - 2026 - Data analysis methods for powder x-ray diffraction intensity under laser-driven dynamic compression at Omega and NIF laser facilities.md",
+    "processed_date": "2026-06-29",
+    "normalized_title": "data analysis methods for powder x ray diffraction intensity under laser driven dynamic compression at omega and nif laser facilities"
+  },
+  {
+    "title": "Plasma Flow Generation and Particle Acceleration from Expanding Magnetic Bubbles",
+    "doi": "10.1103/yw76-d6kh",
+    "journal": "arXiv（预印本；Phys. Rev. Research 8, 023317 (2026)）",
+    "publication_date": "2026-06-20",
+    "source_url": "http://arxiv.org/abs/2606.21853v1",
+    "pdf_path": "daily/2026-06-29/pdfs/Yang Zhang et al. - 2026 - Plasma Flow Generation and Particle Acceleration from Expanding Magnetic Bubbles.pdf",
+    "note_path": "daily/2026-06-29/notes/Yang Zhang et al. - 2026 - Plasma Flow Generation and Particle Acceleration from Expanding Magnetic Bubbles.md",
+    "processed_date": "2026-06-29",
+    "normalized_title": "plasma flow generation and particle acceleration from expanding magnetic bubbles"
   }
 ]

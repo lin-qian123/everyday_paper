@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：147 篇
-- 索引更新时间：2026-06-28
+- 当前入库论文：150 篇
+- 索引更新时间：2026-06-29
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-06-29 | [Effects of External Magnetic Field on Hot Electrons Transport in the Shock Ignition Scheme](./10-1017-hpl-2026-10172/README.md) | High Power Laser Science and Engineering（正式期刊/accepted manuscript） | [10.1017/hpl.2026.10172](https://doi.org/10.1017/hpl.2026.10172) |
+| 2026-06-29 | [Data analysis methods for powder x-ray diffraction intensity under laser-driven dynamic compression at Omega and NIF laser facilities](./arxiv-2606-23602/README.md) | arXiv（预印本） | [10.48550/arXiv.2606.23602](https://doi.org/10.48550/arXiv.2606.23602) |
+| 2026-06-29 | [Plasma Flow Generation and Particle Acceleration from Expanding Magnetic Bubbles](./10-1103-yw76-d6kh/README.md) | arXiv（预印本；Phys. Rev. Research 8, 023317 (2026)） | [10.1103/yw76-d6kh](https://doi.org/10.1103/yw76-d6kh) |
 | 2026-06-28 | [Relativistically strong electromagnetic waves in magnetised plasmas](./10-1017-s0022377826101342/README.md) | Journal of Plasma Physics（正式期刊） | [10.1017/S0022377826101342](https://doi.org/10.1017/S0022377826101342) |
 | 2026-06-28 | [Laser-Wakefield-Driven Photonuclear and Laser-Driven DD Fusion Neutron Sources for Fast Neutron Capture: A Start-to-End Simulation Study](./arxiv-2605-18968/README.md) | arXiv（预印本） | [10.48550/arXiv.2605.18968](https://doi.org/10.48550/arXiv.2605.18968) |
 | 2026-06-28 | [Laser-driven Ion and Neutron Sources from Medium Repetition Ultrashort PW Laser](./arxiv-2605-18969/README.md) | arXiv（预印本） | [10.48550/arXiv.2605.18969](https://doi.org/10.48550/arXiv.2605.18969) |

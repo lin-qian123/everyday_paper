@@ -1,0 +1,9 @@
+{
+  "success": true,
+  "doi": "10.48550/arXiv.2606.23602",
+  "title": "Data analysis methods for powder x-ray diffraction intensity under laser-driven dynamic compression at Omega and NIF laser facilities",
+  "output": "daily/2026-06-29/pdfs/Marius Millot et al. - 2026 - Data analysis methods for powder x-ray diffraction intensity under laser-driven dynamic compression at Omega and NIF laser facilities.pdf",
+  "source_url": "https://arxiv.org/pdf/2606.23602v1",
+  "transport": "env-proxy",
+  "raw_message": "Downloaded: daily/2026-06-29/pdfs/Marius Millot et al. - 2026 - Data analysis methods for powder x-ray diffraction intensity under laser-driven dynamic compression at Omega and NIF laser facilities.pdf (12066955 bytes) from https://arxiv.org/pdf/2606.23602v1 via env-proxy"
+}

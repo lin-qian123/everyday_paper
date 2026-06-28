@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-29",
+  "status": "success",
+  "processed_count_before": 147,
+  "processed_count_after": 150,
+  "retry_candidates_count": 12,
+  "added": [
+    {
+      "doi": "10.1017/hpl.2026.10172",
+      "title": "Effects of External Magnetic Field on Hot Electrons Transport in the Shock Ignition Scheme",
+      "pdf_path": "daily/2026-06-29/pdfs/V. Rosciano et al. - 2026 - Effects of External Magnetic Field on Hot Electrons Transport in the Shock Ignition Scheme.pdf",
+      "note_path": "daily/2026-06-29/notes/V. Rosciano et al. - 2026 - Effects of External Magnetic Field on Hot Electrons Transport in the Shock Ignition Scheme.md"
+    },
+    {
+      "doi": "10.48550/arXiv.2606.23602",
+      "title": "Data analysis methods for powder x-ray diffraction intensity under laser-driven dynamic compression at Omega and NIF laser facilities",
+      "pdf_path": "daily/2026-06-29/pdfs/Marius Millot et al. - 2026 - Data analysis methods for powder x-ray diffraction intensity under laser-driven dynamic compression at Omega and NIF laser facilities.pdf",
+      "note_path": "daily/2026-06-29/notes/Marius Millot et al. - 2026 - Data analysis methods for powder x-ray diffraction intensity under laser-driven dynamic compression at Omega and NIF laser facilities.md"
+    },
+    {
+      "doi": "10.1103/yw76-d6kh",
+      "title": "Plasma Flow Generation and Particle Acceleration from Expanding Magnetic Bubbles",
+      "pdf_path": "daily/2026-06-29/pdfs/Yang Zhang et al. - 2026 - Plasma Flow Generation and Particle Acceleration from Expanding Magnetic Bubbles.pdf",
+      "note_path": "daily/2026-06-29/notes/Yang Zhang et al. - 2026 - Plasma Flow Generation and Particle Acceleration from Expanding Magnetic Bubbles.md"
+    }
+  ],
+  "search_summary": "Rechecked Cambridge JPP/HPL current pages, then targeted recent arXiv entries for HEDP diagnostics, laser-driven magnetic bubbles, PIC and laboratory astrophysics; skipped duplicates in processed/retry state.",
+  "pdf_validation": [
+    {
+      "doi": "10.1017/hpl.2026.10172",
+      "path": "daily/2026-06-29/pdfs/V. Rosciano et al. - 2026 - Effects of External Magnetic Field on Hot Electrons Transport in the Shock Ignition Scheme.pdf",
+      "size": 1957147,
+      "header": "%PDF-"
+    },
+    {
+      "doi": "10.48550/arXiv.2606.23602",
+      "path": "daily/2026-06-29/pdfs/Marius Millot et al. - 2026 - Data analysis methods for powder x-ray diffraction intensity under laser-driven dynamic compression at Omega and NIF laser facilities.pdf",
+      "size": 12066955,
+      "header": "%PDF-"
+    },
+    {
+      "doi": "10.1103/yw76-d6kh",
+      "path": "daily/2026-06-29/pdfs/Yang Zhang et al. - 2026 - Plasma Flow Generation and Particle Acceleration from Expanding Magnetic Bubbles.pdf",
+      "size": 2589421,
+      "header": "%PDF-"
+    }
+  ],
+  "notes_generated": [
+    "daily/2026-06-29/notes/V. Rosciano et al. - 2026 - Effects of External Magnetic Field on Hot Electrons Transport in the Shock Ignition Scheme.md",
+    "daily/2026-06-29/notes/Marius Millot et al. - 2026 - Data analysis methods for powder x-ray diffraction intensity under laser-driven dynamic compression at Omega and NIF laser facilities.md",
+    "daily/2026-06-29/notes/Yang Zhang et al. - 2026 - Plasma Flow Generation and Particle Acceleration from Expanding Magnetic Bubbles.md"
+  ]
+}
