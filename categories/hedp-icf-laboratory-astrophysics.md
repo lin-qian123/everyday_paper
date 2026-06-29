@@ -2,11 +2,12 @@
 
 HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。
 
-- 当前收录：48 篇
-- 索引更新时间：2026-06-29
+- 当前收录：49 篇
+- 索引更新时间：2026-06-30
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-06-30 | [Single-Shot Intensity-Correlation Diffractive X-ray Imaging of ICF Plasmas](../papers/arxiv-2606-26198/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-30/notes/Kenan Qu et al. - 2026 - Single-Shot Intensity-Correlation Diffractive X-ray Imaging of ICF Plasmas.md) |
 | 2026-06-29 | [Effects of External Magnetic Field on Hot Electrons Transport in the Shock Ignition Scheme](../papers/10-1017-hpl-2026-10172/README.md) | High Power Laser Science and Engineering（正式期刊/accepted manuscript） | [笔记](../daily/2026-06-29/notes/V. Rosciano et al. - 2026 - Effects of External Magnetic Field on Hot Electrons Transport in the Shock Ignition Scheme.md) |
 | 2026-06-29 | [Data analysis methods for powder x-ray diffraction intensity under laser-driven dynamic compression at Omega and NIF laser facilities](../papers/arxiv-2606-23602/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-29/notes/Marius Millot et al. - 2026 - Data analysis methods for powder x-ray diffraction intensity under laser-driven dynamic compression at Omega and NIF laser facilities.md) |
 | 2026-06-29 | [Plasma Flow Generation and Particle Acceleration from Expanding Magnetic Bubbles](../papers/10-1103-yw76-d6kh/README.md) | arXiv（预印本；Phys. Rev. Research 8, 023317 (2026)） | [笔记](../daily/2026-06-29/notes/Yang Zhang et al. - 2026 - Plasma Flow Generation and Particle Acceleration from Expanding Magnetic Bubbles.md) |

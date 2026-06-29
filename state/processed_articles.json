@@ -1654,5 +1654,38 @@
     "note_path": "daily/2026-06-29/notes/Yang Zhang et al. - 2026 - Plasma Flow Generation and Particle Acceleration from Expanding Magnetic Bubbles.md",
     "processed_date": "2026-06-29",
     "normalized_title": "plasma flow generation and particle acceleration from expanding magnetic bubbles"
+  },
+  {
+    "title": "Single-Shot Intensity-Correlation Diffractive X-ray Imaging of ICF Plasmas",
+    "doi": "10.48550/arXiv.2606.26198",
+    "journal": "arXiv（预印本）",
+    "publication_date": "2026-06-24",
+    "source_url": "http://arxiv.org/abs/2606.26198v1",
+    "pdf_path": "daily/2026-06-30/pdfs/Kenan Qu et al. - 2026 - Single-Shot Intensity-Correlation Diffractive X-ray Imaging of ICF Plasmas.pdf",
+    "note_path": "daily/2026-06-30/notes/Kenan Qu et al. - 2026 - Single-Shot Intensity-Correlation Diffractive X-ray Imaging of ICF Plasmas.md",
+    "processed_date": "2026-06-30",
+    "normalized_title": "single shot intensity correlation diffractive x ray imaging of icf plasmas"
+  },
+  {
+    "title": "Half-Life Measurements of 110Sn, 113Sn, 117mSn, and 123mSn Produced via Photon Activation of Natural Tin",
+    "doi": "10.48550/arXiv.2606.27064",
+    "journal": "arXiv（预印本；submitted to Nuclear Physics A）",
+    "publication_date": "2026-06-25",
+    "source_url": "http://arxiv.org/abs/2606.27064v1",
+    "pdf_path": "daily/2026-06-30/pdfs/O. Nusair et al. - 2026 - Half-Life Measurements of Sn Isotopes Produced via Photon Activation of Natural Tin.pdf",
+    "note_path": "daily/2026-06-30/notes/O. Nusair et al. - 2026 - Half-Life Measurements of Sn Isotopes Produced via Photon Activation of Natural Tin.md",
+    "processed_date": "2026-06-30",
+    "normalized_title": "half life measurements of 110sn 113sn 117msn and 123msn produced via photon activation of natural tin"
+  },
+  {
+    "title": "Measurements of Bremsstrahlung-Averaged Cross Sections for Reactions on Natural Nickel Targets at Eendpoint = 40MeV",
+    "doi": "10.48550/arXiv.2606.23966",
+    "journal": "arXiv（预印本）",
+    "publication_date": "2026-06-22",
+    "source_url": "http://arxiv.org/abs/2606.23966v1",
+    "pdf_path": "daily/2026-06-30/pdfs/O. Nusair et al. - 2026 - Measurements of Bremsstrahlung-Averaged Cross Sections for Reactions on Natural Nickel Targets.pdf",
+    "note_path": "daily/2026-06-30/notes/O. Nusair et al. - 2026 - Measurements of Bremsstrahlung-Averaged Cross Sections for Reactions on Natural Nickel Targets.md",
+    "processed_date": "2026-06-30",
+    "normalized_title": "measurements of bremsstrahlung averaged cross sections for reactions on natural nickel targets at eendpoint 40mev"
   }
 ]

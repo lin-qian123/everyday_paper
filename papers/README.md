@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：150 篇
-- 索引更新时间：2026-06-29
+- 当前入库论文：153 篇
+- 索引更新时间：2026-06-30
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-06-30 | [Half-Life Measurements of 110Sn, 113Sn, 117mSn, and 123mSn Produced via Photon Activation of Natural Tin](./arxiv-2606-27064/README.md) | arXiv（预印本；submitted to Nuclear Physics A） | [10.48550/arXiv.2606.27064](https://doi.org/10.48550/arXiv.2606.27064) |
+| 2026-06-30 | [Single-Shot Intensity-Correlation Diffractive X-ray Imaging of ICF Plasmas](./arxiv-2606-26198/README.md) | arXiv（预印本） | [10.48550/arXiv.2606.26198](https://doi.org/10.48550/arXiv.2606.26198) |
+| 2026-06-30 | [Measurements of Bremsstrahlung-Averaged Cross Sections for Reactions on Natural Nickel Targets at Eendpoint = 40MeV](./arxiv-2606-23966/README.md) | arXiv（预印本） | [10.48550/arXiv.2606.23966](https://doi.org/10.48550/arXiv.2606.23966) |
 | 2026-06-29 | [Effects of External Magnetic Field on Hot Electrons Transport in the Shock Ignition Scheme](./10-1017-hpl-2026-10172/README.md) | High Power Laser Science and Engineering（正式期刊/accepted manuscript） | [10.1017/hpl.2026.10172](https://doi.org/10.1017/hpl.2026.10172) |
 | 2026-06-29 | [Data analysis methods for powder x-ray diffraction intensity under laser-driven dynamic compression at Omega and NIF laser facilities](./arxiv-2606-23602/README.md) | arXiv（预印本） | [10.48550/arXiv.2606.23602](https://doi.org/10.48550/arXiv.2606.23602) |
 | 2026-06-29 | [Plasma Flow Generation and Particle Acceleration from Expanding Magnetic Bubbles](./10-1103-yw76-d6kh/README.md) | arXiv（预印本；Phys. Rev. Research 8, 023317 (2026)） | [10.1103/yw76-d6kh](https://doi.org/10.1103/yw76-d6kh) |

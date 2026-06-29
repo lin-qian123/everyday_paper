@@ -2,11 +2,13 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：26 篇
-- 索引更新时间：2026-06-29
+- 当前收录：28 篇
+- 索引更新时间：2026-06-30
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-06-30 | [Single-Shot Intensity-Correlation Diffractive X-ray Imaging of ICF Plasmas](../papers/arxiv-2606-26198/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-30/notes/Kenan Qu et al. - 2026 - Single-Shot Intensity-Correlation Diffractive X-ray Imaging of ICF Plasmas.md) |
+| 2026-06-30 | [Measurements of Bremsstrahlung-Averaged Cross Sections for Reactions on Natural Nickel Targets at Eendpoint = 40MeV](../papers/arxiv-2606-23966/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-30/notes/O. Nusair et al. - 2026 - Measurements of Bremsstrahlung-Averaged Cross Sections for Reactions on Natural Nickel Targets.md) |
 | 2026-06-29 | [Effects of External Magnetic Field on Hot Electrons Transport in the Shock Ignition Scheme](../papers/10-1017-hpl-2026-10172/README.md) | High Power Laser Science and Engineering（正式期刊/accepted manuscript） | [笔记](../daily/2026-06-29/notes/V. Rosciano et al. - 2026 - Effects of External Magnetic Field on Hot Electrons Transport in the Shock Ignition Scheme.md) |
 | 2026-06-29 | [Data analysis methods for powder x-ray diffraction intensity under laser-driven dynamic compression at Omega and NIF laser facilities](../papers/arxiv-2606-23602/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-29/notes/Marius Millot et al. - 2026 - Data analysis methods for powder x-ray diffraction intensity under laser-driven dynamic compression at Omega and NIF laser facilities.md) |
 | 2026-06-28 | [Laser-driven Ion and Neutron Sources from Medium Repetition Ultrashort PW Laser](../papers/arxiv-2605-18969/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-28/notes/X. Jiao et al. - 2026 - Laser-driven Ion and Neutron Sources from Medium Repetition Ultrashort PW Laser.md) |

@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-30",
+  "status": "success",
+  "processed_count_before": 150,
+  "processed_count_after": 153,
+  "retry_candidates_count": 12,
+  "added": [
+    {
+      "doi": "10.48550/arXiv.2606.26198",
+      "title": "Single-Shot Intensity-Correlation Diffractive X-ray Imaging of ICF Plasmas",
+      "pdf_path": "daily/2026-06-30/pdfs/Kenan Qu et al. - 2026 - Single-Shot Intensity-Correlation Diffractive X-ray Imaging of ICF Plasmas.pdf",
+      "note_path": "daily/2026-06-30/notes/Kenan Qu et al. - 2026 - Single-Shot Intensity-Correlation Diffractive X-ray Imaging of ICF Plasmas.md"
+    },
+    {
+      "doi": "10.48550/arXiv.2606.27064",
+      "title": "Half-Life Measurements of 110Sn, 113Sn, 117mSn, and 123mSn Produced via Photon Activation of Natural Tin",
+      "pdf_path": "daily/2026-06-30/pdfs/O. Nusair et al. - 2026 - Half-Life Measurements of Sn Isotopes Produced via Photon Activation of Natural Tin.pdf",
+      "note_path": "daily/2026-06-30/notes/O. Nusair et al. - 2026 - Half-Life Measurements of Sn Isotopes Produced via Photon Activation of Natural Tin.md"
+    },
+    {
+      "doi": "10.48550/arXiv.2606.23966",
+      "title": "Measurements of Bremsstrahlung-Averaged Cross Sections for Reactions on Natural Nickel Targets at Eendpoint = 40MeV",
+      "pdf_path": "daily/2026-06-30/pdfs/O. Nusair et al. - 2026 - Measurements of Bremsstrahlung-Averaged Cross Sections for Reactions on Natural Nickel Targets.pdf",
+      "note_path": "daily/2026-06-30/notes/O. Nusair et al. - 2026 - Measurements of Bremsstrahlung-Averaged Cross Sections for Reactions on Natural Nickel Targets.md"
+    }
+  ],
+  "search_summary": "Rechecked Cambridge HPL accepted manuscripts and JPP current pages, then targeted recent arXiv physics.plasm-ph, physics.acc-ph, nucl-ex and physics.ins-det entries for ICF diagnostics, photon activation, bremsstrahlung converters and photonuclear applications; skipped duplicates in processed/retry state.",
+  "pdf_validation": [
+    {
+      "doi": "10.48550/arXiv.2606.26198",
+      "path": "daily/2026-06-30/pdfs/Kenan Qu et al. - 2026 - Single-Shot Intensity-Correlation Diffractive X-ray Imaging of ICF Plasmas.pdf",
+      "size": 4390102,
+      "header": "%PDF-"
+    },
+    {
+      "doi": "10.48550/arXiv.2606.27064",
+      "path": "daily/2026-06-30/pdfs/O. Nusair et al. - 2026 - Half-Life Measurements of Sn Isotopes Produced via Photon Activation of Natural Tin.pdf",
+      "size": 978736,
+      "header": "%PDF-"
+    },
+    {
+      "doi": "10.48550/arXiv.2606.23966",
+      "path": "daily/2026-06-30/pdfs/O. Nusair et al. - 2026 - Measurements of Bremsstrahlung-Averaged Cross Sections for Reactions on Natural Nickel Targets.pdf",
+      "size": 846818,
+      "header": "%PDF-"
+    }
+  ],
+  "notes_generated": [
+    "daily/2026-06-30/notes/Kenan Qu et al. - 2026 - Single-Shot Intensity-Correlation Diffractive X-ray Imaging of ICF Plasmas.md",
+    "daily/2026-06-30/notes/O. Nusair et al. - 2026 - Half-Life Measurements of Sn Isotopes Produced via Photon Activation of Natural Tin.md",
+    "daily/2026-06-30/notes/O. Nusair et al. - 2026 - Measurements of Bremsstrahlung-Averaged Cross Sections for Reactions on Natural Nickel Targets.md"
+  ]
+}
