@@ -1687,5 +1687,38 @@
     "note_path": "daily/2026-06-30/notes/O. Nusair et al. - 2026 - Measurements of Bremsstrahlung-Averaged Cross Sections for Reactions on Natural Nickel Targets.md",
     "processed_date": "2026-06-30",
     "normalized_title": "measurements of bremsstrahlung averaged cross sections for reactions on natural nickel targets at eendpoint 40mev"
+  },
+  {
+    "title": "Detecting Quantum Stochastic Effects in Radiation Reaction via Laser-Produced Surface QED Plasmas",
+    "doi": "10.48550/arXiv.2606.29214",
+    "journal": "arXiv（预印本）",
+    "publication_date": "2026-06-28",
+    "source_url": "http://arxiv.org/abs/2606.29214v1",
+    "pdf_path": "daily/2026-07-01/pdfs/Junhua Zhang et al. - 2026 - Detecting Quantum Stochastic Effects in Radiation Reaction via Laser-Produced Surface QED Plasmas.pdf",
+    "note_path": "daily/2026-07-01/notes/Junhua Zhang et al. - 2026 - Detecting Quantum Stochastic Effects in Radiation Reaction via Laser-Produced Surface QED Plasmas.md",
+    "processed_date": "2026-07-01",
+    "normalized_title": "detecting quantum stochastic effects in radiation reaction via laser produced surface qed plasmas"
+  },
+  {
+    "title": "High-Performance Resilient Multi-GPU Hybrid Particle-in-Cell Monte Carlo Simulations at Scale",
+    "doi": "10.48550/arXiv.2606.28534",
+    "journal": "arXiv（预印本；Euro-Par 2026 workshops / BIGHPC 2026 accepted）",
+    "publication_date": "2026-06-26",
+    "source_url": "http://arxiv.org/abs/2606.28534v1",
+    "pdf_path": "daily/2026-07-01/pdfs/Jeremy J. Williams et al. - 2026 - High-Performance Resilient Multi-GPU Hybrid Particle-in-Cell Monte Carlo Simulations at Scale.pdf",
+    "note_path": "daily/2026-07-01/notes/Jeremy J. Williams et al. - 2026 - High-Performance Resilient Multi-GPU Hybrid Particle-in-Cell Monte Carlo Simulations at Scale.md",
+    "processed_date": "2026-07-01",
+    "normalized_title": "high performance resilient multi gpu hybrid particle in cell monte carlo simulations at scale"
+  },
+  {
+    "title": "Bidirectional Autoregressive Latent Diffusion for Forward and Inverse Magnetohydrodynamics",
+    "doi": "10.48550/arXiv.2606.29620",
+    "journal": "arXiv（预印本）",
+    "publication_date": "2026-06-28",
+    "source_url": "http://arxiv.org/abs/2606.29620v1",
+    "pdf_path": "daily/2026-07-01/pdfs/Alexander Scheinker - 2026 - Bidirectional Autoregressive Latent Diffusion for Forward and Inverse Magnetohydrodynamics.pdf",
+    "note_path": "daily/2026-07-01/notes/Alexander Scheinker - 2026 - Bidirectional Autoregressive Latent Diffusion for Forward and Inverse Magnetohydrodynamics.md",
+    "processed_date": "2026-07-01",
+    "normalized_title": "bidirectional autoregressive latent diffusion for forward and inverse magnetohydrodynamics"
   }
 ]

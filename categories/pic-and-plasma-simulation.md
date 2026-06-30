@@ -2,11 +2,13 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：61 篇
-- 索引更新时间：2026-06-30
+- 当前收录：63 篇
+- 索引更新时间：2026-07-01
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-01 | [Detecting Quantum Stochastic Effects in Radiation Reaction via Laser-Produced Surface QED Plasmas](../papers/arxiv-2606-29214/README.md) | arXiv（预印本） | [笔记](../daily/2026-07-01/notes/Junhua Zhang et al. - 2026 - Detecting Quantum Stochastic Effects in Radiation Reaction via Laser-Produced Surface QED Plasmas.md) |
+| 2026-07-01 | [High-Performance Resilient Multi-GPU Hybrid Particle-in-Cell Monte Carlo Simulations at Scale](../papers/arxiv-2606-28534/README.md) | arXiv（预印本；Euro-Par 2026 workshops / BIGHPC 2026 accepted） | [笔记](../daily/2026-07-01/notes/Jeremy J. Williams et al. - 2026 - High-Performance Resilient Multi-GPU Hybrid Particle-in-Cell Monte Carlo Simulations at Scale.md) |
 | 2026-06-29 | [Plasma Flow Generation and Particle Acceleration from Expanding Magnetic Bubbles](../papers/10-1103-yw76-d6kh/README.md) | arXiv（预印本；Phys. Rev. Research 8, 023317 (2026)） | [笔记](../daily/2026-06-29/notes/Yang Zhang et al. - 2026 - Plasma Flow Generation and Particle Acceleration from Expanding Magnetic Bubbles.md) |
 | 2026-06-28 | [Laser-Wakefield-Driven Photonuclear and Laser-Driven DD Fusion Neutron Sources for Fast Neutron Capture: A Start-to-End Simulation Study](../papers/arxiv-2605-18968/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-28/notes/Ou Z. Labun et al. - 2026 - Laser-Wakefield-Driven Photonuclear and Laser-Driven DD Fusion Neutron Sources for Fast Neutron Capture A Start-to-End Simulation Study.md) |
 | 2026-06-27 | [Systematic Derivation of Reliable Wake Functions for Complex Structures from Mesh-Based Wakefield Simulations](../papers/arxiv-2606-26514/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-27/notes/Chih-Kai Liu et al. - 2026 - Systematic Derivation of Reliable Wake Functions for Complex Structures from Mesh-Based Wakefield Simulations.md) |

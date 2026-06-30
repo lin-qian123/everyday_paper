@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：153 篇
-- 索引更新时间：2026-06-30
+- 当前入库论文：156 篇
+- 索引更新时间：2026-07-01
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-07-01 | [Detecting Quantum Stochastic Effects in Radiation Reaction via Laser-Produced Surface QED Plasmas](./arxiv-2606-29214/README.md) | arXiv（预印本） | [10.48550/arXiv.2606.29214](https://doi.org/10.48550/arXiv.2606.29214) |
+| 2026-07-01 | [Bidirectional Autoregressive Latent Diffusion for Forward and Inverse Magnetohydrodynamics](./arxiv-2606-29620/README.md) | arXiv（预印本） | [10.48550/arXiv.2606.29620](https://doi.org/10.48550/arXiv.2606.29620) |
+| 2026-07-01 | [High-Performance Resilient Multi-GPU Hybrid Particle-in-Cell Monte Carlo Simulations at Scale](./arxiv-2606-28534/README.md) | arXiv（预印本；Euro-Par 2026 workshops / BIGHPC 2026 accepted） | [10.48550/arXiv.2606.28534](https://doi.org/10.48550/arXiv.2606.28534) |
 | 2026-06-30 | [Half-Life Measurements of 110Sn, 113Sn, 117mSn, and 123mSn Produced via Photon Activation of Natural Tin](./arxiv-2606-27064/README.md) | arXiv（预印本；submitted to Nuclear Physics A） | [10.48550/arXiv.2606.27064](https://doi.org/10.48550/arXiv.2606.27064) |
 | 2026-06-30 | [Single-Shot Intensity-Correlation Diffractive X-ray Imaging of ICF Plasmas](./arxiv-2606-26198/README.md) | arXiv（预印本） | [10.48550/arXiv.2606.26198](https://doi.org/10.48550/arXiv.2606.26198) |
 | 2026-06-30 | [Measurements of Bremsstrahlung-Averaged Cross Sections for Reactions on Natural Nickel Targets at Eendpoint = 40MeV](./arxiv-2606-23966/README.md) | arXiv（预印本） | [10.48550/arXiv.2606.23966](https://doi.org/10.48550/arXiv.2606.23966) |

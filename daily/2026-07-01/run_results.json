@@ -1,0 +1,53 @@
+{
+  "date": "2026-07-01",
+  "status": "success",
+  "processed_count_before": 153,
+  "processed_count_after": 156,
+  "retry_candidates_count": 12,
+  "added": [
+    {
+      "doi": "10.48550/arXiv.2606.29214",
+      "title": "Detecting Quantum Stochastic Effects in Radiation Reaction via Laser-Produced Surface QED Plasmas",
+      "pdf_path": "daily/2026-07-01/pdfs/Junhua Zhang et al. - 2026 - Detecting Quantum Stochastic Effects in Radiation Reaction via Laser-Produced Surface QED Plasmas.pdf",
+      "note_path": "daily/2026-07-01/notes/Junhua Zhang et al. - 2026 - Detecting Quantum Stochastic Effects in Radiation Reaction via Laser-Produced Surface QED Plasmas.md"
+    },
+    {
+      "doi": "10.48550/arXiv.2606.28534",
+      "title": "High-Performance Resilient Multi-GPU Hybrid Particle-in-Cell Monte Carlo Simulations at Scale",
+      "pdf_path": "daily/2026-07-01/pdfs/Jeremy J. Williams et al. - 2026 - High-Performance Resilient Multi-GPU Hybrid Particle-in-Cell Monte Carlo Simulations at Scale.pdf",
+      "note_path": "daily/2026-07-01/notes/Jeremy J. Williams et al. - 2026 - High-Performance Resilient Multi-GPU Hybrid Particle-in-Cell Monte Carlo Simulations at Scale.md"
+    },
+    {
+      "doi": "10.48550/arXiv.2606.29620",
+      "title": "Bidirectional Autoregressive Latent Diffusion for Forward and Inverse Magnetohydrodynamics",
+      "pdf_path": "daily/2026-07-01/pdfs/Alexander Scheinker - 2026 - Bidirectional Autoregressive Latent Diffusion for Forward and Inverse Magnetohydrodynamics.pdf",
+      "note_path": "daily/2026-07-01/notes/Alexander Scheinker - 2026 - Bidirectional Autoregressive Latent Diffusion for Forward and Inverse Magnetohydrodynamics.md"
+    }
+  ],
+  "search_summary": "Rechecked Cambridge HPL accepted manuscripts and JPP current pages, then targeted recent arXiv physics.plasm-ph, physics.acc-ph, physics.comp-ph and stat.ML cross-list entries for strong-field QED, PIC-MC scaling and ML-assisted MHD diagnostics; skipped duplicates in processed/retry state.",
+  "pdf_validation": [
+    {
+      "doi": "10.48550/arXiv.2606.29214",
+      "path": "daily/2026-07-01/pdfs/Junhua Zhang et al. - 2026 - Detecting Quantum Stochastic Effects in Radiation Reaction via Laser-Produced Surface QED Plasmas.pdf",
+      "size": 2773310,
+      "header": "%PDF-"
+    },
+    {
+      "doi": "10.48550/arXiv.2606.28534",
+      "path": "daily/2026-07-01/pdfs/Jeremy J. Williams et al. - 2026 - High-Performance Resilient Multi-GPU Hybrid Particle-in-Cell Monte Carlo Simulations at Scale.pdf",
+      "size": 1825712,
+      "header": "%PDF-"
+    },
+    {
+      "doi": "10.48550/arXiv.2606.29620",
+      "path": "daily/2026-07-01/pdfs/Alexander Scheinker - 2026 - Bidirectional Autoregressive Latent Diffusion for Forward and Inverse Magnetohydrodynamics.pdf",
+      "size": 24866273,
+      "header": "%PDF-"
+    }
+  ],
+  "notes_generated": [
+    "daily/2026-07-01/notes/Junhua Zhang et al. - 2026 - Detecting Quantum Stochastic Effects in Radiation Reaction via Laser-Produced Surface QED Plasmas.md",
+    "daily/2026-07-01/notes/Jeremy J. Williams et al. - 2026 - High-Performance Resilient Multi-GPU Hybrid Particle-in-Cell Monte Carlo Simulations at Scale.md",
+    "daily/2026-07-01/notes/Alexander Scheinker - 2026 - Bidirectional Autoregressive Latent Diffusion for Forward and Inverse Magnetohydrodynamics.md"
+  ]
+}
