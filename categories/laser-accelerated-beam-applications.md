@@ -2,11 +2,12 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：30 篇
-- 索引更新时间：2026-07-01
+- 当前收录：32 篇
+- 索引更新时间：2026-07-02
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-02 | [An Enhanced RPA-LDA Model for Ion Stopping Power from Cold Matter to High-Energy Density Plasmas: A Unified, Open-Source Framework](../papers/arxiv-2606-30978/README.md) | arXiv（预印本；submitted to Physics of Plasmas） | [笔记](../daily/2026-07-02/notes/Thomas A. Mehlhorn et al. - 2026 - An Enhanced RPA-LDA Model for Ion Stopping Power.md) |
 | 2026-06-30 | [Half-Life Measurements of 110Sn, 113Sn, 117mSn, and 123mSn Produced via Photon Activation of Natural Tin](../papers/arxiv-2606-27064/README.md) | arXiv（预印本；submitted to Nuclear Physics A） | [笔记](../daily/2026-06-30/notes/O. Nusair et al. - 2026 - Half-Life Measurements of Sn Isotopes Produced via Photon Activation of Natural Tin.md) |
 | 2026-06-30 | [Measurements of Bremsstrahlung-Averaged Cross Sections for Reactions on Natural Nickel Targets at Eendpoint = 40MeV](../papers/arxiv-2606-23966/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-30/notes/O. Nusair et al. - 2026 - Measurements of Bremsstrahlung-Averaged Cross Sections for Reactions on Natural Nickel Targets.md) |
 | 2026-06-28 | [Laser-Wakefield-Driven Photonuclear and Laser-Driven DD Fusion Neutron Sources for Fast Neutron Capture: A Start-to-End Simulation Study](../papers/arxiv-2605-18968/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-28/notes/Ou Z. Labun et al. - 2026 - Laser-Wakefield-Driven Photonuclear and Laser-Driven DD Fusion Neutron Sources for Fast Neutron Capture A Start-to-End Simulation Study.md) |
@@ -14,6 +15,7 @@
 | 2026-06-27 | [Atmospheric carbon-14 production from neutron leakage in fusion energy systems](../papers/arxiv-2606-23953/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-27/notes/Brian James Albright et al. - 2026 - Atmospheric carbon-14 production from neutron leakage in fusion energy systems.md) |
 | 2026-06-27 | [The science of compressional heating on the LM26 magnetized target fusion experiment](../papers/arxiv-2606-23974/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-27/notes/S. J. Howard et al. - 2026 - The science of compressional heating on the LM26 magnetized target fusion experiment.md) |
 | 2026-06-25 | [Multi-objective Bayesian optimisation of a double-layer target for quasi-monoenergetic TNSA protons](../papers/arxiv-2606-23224/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-25/notes/Chengqi-Zhang et al. - 2026 - Multi-objective Bayesian optimisation of a double-layer target for quasi-monoenergetic TNSA protons.md) |
+| 2026-06-25 | [Observation of stopping power reduction at strong ion-plasma coupling](../papers/arxiv-2606-23109/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-25/notes/Yun Liu et al. - 2026 - Observation of stopping power reduction at strong ion-plasma coupling.md) |
 | 2026-06-24 | [Analytical calculation of the spectrum of nonlinear Compton scattering beyond local approximations](../papers/arxiv-2606-22427/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-24/notes/M.P. Malakhov et al. - 2026 - Analytical calculation of the spectrum of nonlinear Compton scattering beyond local approximations.md) |
 | 2026-06-24 | [An electron injector for the Electron-Ion Collider based on proton-driven plasma wakefield acceleration](../papers/arxiv-2605-07929/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-24/notes/J.P. Farmer et al. - 2026 - An electron injector for the Electron-Ion Collider based on proton-driven plasma wakefield acceleration.md) |
 | 2026-06-21 | [Short overview of solid, gas, cryogenic and liquid target fabrication for single-beam high-power laser experiments](../papers/10-1017-hpl-2026-10132/README.md) | High Power Laser Science and Engineering（正式期刊，Review） | [笔记](../daily/2026-06-21/notes/Stefania C. Ionescu et al. - 2026 - Short overview of solid gas cryogenic and liquid target fabrication for single-beam high-power laser experiments.md) |

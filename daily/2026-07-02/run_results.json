@@ -1,0 +1,37 @@
+{
+  "date": "2026-07-02",
+  "status": "success",
+  "source_checks": [
+    "Cambridge Journal of Plasma Physics latest issue",
+    "Cambridge High Power Laser Science and Engineering accepted manuscripts",
+    "arXiv recent physics.plasm-ph / physics.comp-ph / physics.acc-ph / nucl-ex"
+  ],
+  "dedupe_baseline": {
+    "processed_articles_before": 156,
+    "daily_retry_candidates": 12
+  },
+  "added": [
+    {
+      "doi": "10.1017/S0022377826101901",
+      "title": "Extension of MIDAS-1D2V model: fusion reactions and neutral beam capture",
+      "download_report": "daily/2026-07-02/Vadim Prikhodko - 2026 - Extension of MIDAS-1D2V model fusion reactions and neutral beam capture.download_report.json",
+      "pdf_header_validated": true
+    },
+    {
+      "doi": "10.1017/S0022377826101780",
+      "title": "From Weibel seeds to dynamo beyond pair-plasmas",
+      "download_report": "daily/2026-07-02/Lise Hanebring et al. - 2026 - From Weibel seeds to dynamo beyond pair-plasmas.download_report.json",
+      "pdf_header_validated": true
+    },
+    {
+      "doi": "10.48550/arXiv.2606.30978",
+      "title": "An Enhanced RPA-LDA Model for Ion Stopping Power from Cold Matter to High-Energy Density Plasmas: A Unified, Open-Source Framework",
+      "download_report": "daily/2026-07-02/Thomas A. Mehlhorn et al. - 2026 - An Enhanced RPA-LDA Model for Ion Stopping Power.download_report.json",
+      "pdf_header_validated": true
+    }
+  ],
+  "dedupe_baseline_after": {
+    "processed_articles_after": 159,
+    "daily_retry_candidates": 12
+  }
+}

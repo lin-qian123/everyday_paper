@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：156 篇
-- 索引更新时间：2026-07-01
+- 当前入库论文：159 篇
+- 索引更新时间：2026-07-02
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-07-02 | [An Enhanced RPA-LDA Model for Ion Stopping Power from Cold Matter to High-Energy Density Plasmas: A Unified, Open-Source Framework](./arxiv-2606-30978/README.md) | arXiv（预印本；submitted to Physics of Plasmas） | [10.48550/arXiv.2606.30978](https://doi.org/10.48550/arXiv.2606.30978) |
+| 2026-07-02 | [Extension of MIDAS-1D2V model: fusion reactions and neutral beam capture](./10-1017-s0022377826101901/README.md) | Journal of Plasma Physics | [10.1017/S0022377826101901](https://doi.org/10.1017/S0022377826101901) |
+| 2026-07-02 | [From Weibel seeds to dynamo beyond pair-plasmas](./10-1017-s0022377826101780/README.md) | Journal of Plasma Physics | [10.1017/S0022377826101780](https://doi.org/10.1017/S0022377826101780) |
 | 2026-07-01 | [Detecting Quantum Stochastic Effects in Radiation Reaction via Laser-Produced Surface QED Plasmas](./arxiv-2606-29214/README.md) | arXiv（预印本） | [10.48550/arXiv.2606.29214](https://doi.org/10.48550/arXiv.2606.29214) |
 | 2026-07-01 | [Bidirectional Autoregressive Latent Diffusion for Forward and Inverse Magnetohydrodynamics](./arxiv-2606-29620/README.md) | arXiv（预印本） | [10.48550/arXiv.2606.29620](https://doi.org/10.48550/arXiv.2606.29620) |
 | 2026-07-01 | [High-Performance Resilient Multi-GPU Hybrid Particle-in-Cell Monte Carlo Simulations at Scale](./arxiv-2606-28534/README.md) | arXiv（预印本；Euro-Par 2026 workshops / BIGHPC 2026 accepted） | [10.48550/arXiv.2606.28534](https://doi.org/10.48550/arXiv.2606.28534) |

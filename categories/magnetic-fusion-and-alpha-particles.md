@@ -2,11 +2,13 @@
 
 stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。
 
-- 当前收录：8 篇
-- 索引更新时间：2026-07-01
+- 当前收录：10 篇
+- 索引更新时间：2026-07-02
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-02 | [An Enhanced RPA-LDA Model for Ion Stopping Power from Cold Matter to High-Energy Density Plasmas: A Unified, Open-Source Framework](../papers/arxiv-2606-30978/README.md) | arXiv（预印本；submitted to Physics of Plasmas） | [笔记](../daily/2026-07-02/notes/Thomas A. Mehlhorn et al. - 2026 - An Enhanced RPA-LDA Model for Ion Stopping Power.md) |
+| 2026-07-02 | [Extension of MIDAS-1D2V model: fusion reactions and neutral beam capture](../papers/10-1017-s0022377826101901/README.md) | Journal of Plasma Physics | [笔记](../daily/2026-07-02/notes/Vadim Prikhodko - 2026 - Extension of MIDAS-1D2V model fusion reactions and neutral beam capture.md) |
 | 2026-06-27 | [The science of compressional heating on the LM26 magnetized target fusion experiment](../papers/arxiv-2606-23974/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-27/notes/S. J. Howard et al. - 2026 - The science of compressional heating on the LM26 magnetized target fusion experiment.md) |
 | 2026-06-23 | [Impact of energetic alpha particles on core turbulence in an ARC-class fusion power plant](../papers/arxiv-2606-15965/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-23/notes/J. Hall et al. - 2026 - Impact of energetic alpha particles on core turbulence in an ARC-class fusion power plant.md) |
 | 2026-06-20 | [Bayesian optimization of stellarator alpha-particle confinement using data-informed parameter spaces and dimensionality reduction](../papers/arxiv-2606-19523/README.md) | arXiv 预印本（高相关补充） | [笔记](../daily/2026-06-20/notes/Matt Landreman et al. - 2026 - Bayesian optimization of stellarator alpha-particle confinement using data-informed parameter spaces and dimensionality reduction.md) |

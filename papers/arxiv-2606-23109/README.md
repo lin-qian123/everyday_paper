@@ -2,7 +2,7 @@
 
 ## 基本信息
 
-- 分类：[高能量密度物理、ICF 与实验室天体](../../categories/hedp-icf-laboratory-astrophysics.md)
+- 分类：[激光加速电子/离子束应用](../../categories/laser-accelerated-beam-applications.md), [高能量密度物理、ICF 与实验室天体](../../categories/hedp-icf-laboratory-astrophysics.md)
 - 期刊/平台：arXiv（预印本）
 - 发表日期：2026-06-22
 - 入库日期：2026-06-25

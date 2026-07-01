@@ -2,11 +2,13 @@
 
 HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。
 
-- 当前收录：50 篇
-- 索引更新时间：2026-07-01
+- 当前收录：52 篇
+- 索引更新时间：2026-07-02
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-02 | [An Enhanced RPA-LDA Model for Ion Stopping Power from Cold Matter to High-Energy Density Plasmas: A Unified, Open-Source Framework](../papers/arxiv-2606-30978/README.md) | arXiv（预印本；submitted to Physics of Plasmas） | [笔记](../daily/2026-07-02/notes/Thomas A. Mehlhorn et al. - 2026 - An Enhanced RPA-LDA Model for Ion Stopping Power.md) |
+| 2026-07-02 | [Extension of MIDAS-1D2V model: fusion reactions and neutral beam capture](../papers/10-1017-s0022377826101901/README.md) | Journal of Plasma Physics | [笔记](../daily/2026-07-02/notes/Vadim Prikhodko - 2026 - Extension of MIDAS-1D2V model fusion reactions and neutral beam capture.md) |
 | 2026-07-01 | [Bidirectional Autoregressive Latent Diffusion for Forward and Inverse Magnetohydrodynamics](../papers/arxiv-2606-29620/README.md) | arXiv（预印本） | [笔记](../daily/2026-07-01/notes/Alexander Scheinker - 2026 - Bidirectional Autoregressive Latent Diffusion for Forward and Inverse Magnetohydrodynamics.md) |
 | 2026-06-30 | [Single-Shot Intensity-Correlation Diffractive X-ray Imaging of ICF Plasmas](../papers/arxiv-2606-26198/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-30/notes/Kenan Qu et al. - 2026 - Single-Shot Intensity-Correlation Diffractive X-ray Imaging of ICF Plasmas.md) |
 | 2026-06-29 | [Effects of External Magnetic Field on Hot Electrons Transport in the Shock Ignition Scheme](../papers/10-1017-hpl-2026-10172/README.md) | High Power Laser Science and Engineering（正式期刊/accepted manuscript） | [笔记](../daily/2026-06-29/notes/V. Rosciano et al. - 2026 - Effects of External Magnetic Field on Hot Electrons Transport in the Shock Ignition Scheme.md) |
