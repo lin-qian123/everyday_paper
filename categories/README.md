@@ -11,5 +11,5 @@
 | [PIC、动理学与数值模拟](./pic-and-plasma-simulation.md) | 64 | PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。 |
 | [机器学习与等离子体物理](./ai-ml-plasma-physics.md) | 21 | 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。 |
 | [磁约束聚变与 alpha 粒子](./magnetic-fusion-and-alpha-particles.md) | 10 | stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。 |
-| [实验平台、靶设计与诊断](./experimental-platforms-diagnostics.md) | 29 | 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。 |
-| [综合等离子体与交叉方法](./general-plasma-and-methods.md) | 21 | 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。 |
+| [实验平台、靶设计与诊断](./experimental-platforms-diagnostics.md) | 30 | 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。 |
+| [综合等离子体与交叉方法](./general-plasma-and-methods.md) | 23 | 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。 |

@@ -1753,5 +1753,38 @@
     "note_path": "daily/2026-07-02/notes/Thomas A. Mehlhorn et al. - 2026 - An Enhanced RPA-LDA Model for Ion Stopping Power.md",
     "processed_date": "2026-07-02",
     "normalized_title": "an enhanced rpa lda model for ion stopping power from cold matter to high energy density plasmas a unified open source framework"
+  },
+  {
+    "title": "Overview of GOL-NB experiments in 2025",
+    "doi": "10.1017/S0022377826101895",
+    "journal": "Journal of Plasma Physics",
+    "publication_date": "2026-06-29",
+    "source_url": "https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/overview-of-golnb-experiments-in-2025/453D0204938A5C1B86FE8F21B7582569",
+    "pdf_path": "daily/2026-07-03/pdfs/Vladimir V. Postupaev et al. - 2026 - Overview of GOL-NB experiments in 2025.pdf",
+    "note_path": "daily/2026-07-03/notes/Vladimir V. Postupaev et al. - 2026 - Overview of GOL-NB experiments in 2025.md",
+    "processed_date": "2026-07-03",
+    "normalized_title": "overview of gol nb experiments in 2025"
+  },
+  {
+    "title": "Plugging of multi-mirror machines by a travelling rotating magnetic field",
+    "doi": "10.1017/S0022377826101834",
+    "journal": "Journal of Plasma Physics",
+    "publication_date": "2026-06-26",
+    "source_url": "https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/plugging-of-multimirror-machines-by-a-travelling-rotating-magnetic-field/40C5B4742CD8067448891DFD0736CB05",
+    "pdf_path": "daily/2026-07-03/pdfs/Tal Miller et al. - 2026 - Plugging of multi-mirror machines by a travelling rotating magnetic field.pdf",
+    "note_path": "daily/2026-07-03/notes/Tal Miller et al. - 2026 - Plugging of multi-mirror machines by a travelling rotating magnetic field.md",
+    "processed_date": "2026-07-03",
+    "normalized_title": "plugging of multi mirror machines by a travelling rotating magnetic field"
+  },
+  {
+    "title": "Plasma flow and equilibrium in the magnetic nozzle",
+    "doi": "10.1017/S0022377826101718",
+    "journal": "Journal of Plasma Physics",
+    "publication_date": "2026-06-22",
+    "source_url": "https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/plasma-flow-and-equilibrium-in-the-magnetic-nozzle/226AD10EC31323F91112BA15F221D4DA",
+    "pdf_path": "daily/2026-07-03/pdfs/Andrei Smolyakov et al. - 2026 - Plasma flow and equilibrium in the magnetic nozzle.pdf",
+    "note_path": "daily/2026-07-03/notes/Andrei Smolyakov et al. - 2026 - Plasma flow and equilibrium in the magnetic nozzle.md",
+    "processed_date": "2026-07-03",
+    "normalized_title": "plasma flow and equilibrium in the magnetic nozzle"
   }
 ]

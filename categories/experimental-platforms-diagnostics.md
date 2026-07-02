@@ -2,11 +2,12 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：29 篇
-- 索引更新时间：2026-07-02
+- 当前收录：30 篇
+- 索引更新时间：2026-07-03
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-03 | [Overview of GOL-NB experiments in 2025](../papers/10-1017-s0022377826101895/README.md) | Journal of Plasma Physics | [笔记](../daily/2026-07-03/notes/Vladimir V. Postupaev et al. - 2026 - Overview of GOL-NB experiments in 2025.md) |
 | 2026-07-01 | [Bidirectional Autoregressive Latent Diffusion for Forward and Inverse Magnetohydrodynamics](../papers/arxiv-2606-29620/README.md) | arXiv（预印本） | [笔记](../daily/2026-07-01/notes/Alexander Scheinker - 2026 - Bidirectional Autoregressive Latent Diffusion for Forward and Inverse Magnetohydrodynamics.md) |
 | 2026-06-30 | [Single-Shot Intensity-Correlation Diffractive X-ray Imaging of ICF Plasmas](../papers/arxiv-2606-26198/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-30/notes/Kenan Qu et al. - 2026 - Single-Shot Intensity-Correlation Diffractive X-ray Imaging of ICF Plasmas.md) |
 | 2026-06-30 | [Measurements of Bremsstrahlung-Averaged Cross Sections for Reactions on Natural Nickel Targets at Eendpoint = 40MeV](../papers/arxiv-2606-23966/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-30/notes/O. Nusair et al. - 2026 - Measurements of Bremsstrahlung-Averaged Cross Sections for Reactions on Natural Nickel Targets.md) |

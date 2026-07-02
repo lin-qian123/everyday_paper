@@ -9,7 +9,7 @@
 - [索引文件](#索引文件)
 - [仓库结构](#仓库结构)
 - [分类索引](#分类索引)
-- [当前状态](#当前状态2026-07-02)
+- [当前状态](#当前状态2026-07-03)
 - [去重规则](#去重规则)
 - [PDF 下载稳健性](#pdf-下载稳健性)
 - [维护约定](#维护约定)
@@ -79,10 +79,11 @@
 - `state/processed_articles.json`: 已处理论文去重台账
 - `templates/daily-index-template.md`: 每日索引模板
 
-## 当前状态（2026-07-02）
+## 当前状态（2026-07-03）
 
-- 已连续维护到 `daily/2026-07-02/`。
+- 已连续维护到 `daily/2026-07-03/`。
 - 关注主题已扩展到激光加速电子束与离子束应用方向，后续每日检索纳入转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、激光离子加速应用和相关靶/诊断/防护问题。
+- `2026-07-03` 先复查 Cambridge `Journal of Plasma Physics` 最新 listing 与 `High Power Laser Science and Engineering` accepted/latest 页面；HPL 当前增量多偏激光器件，JPP 当前期仍有与开放磁约束、中性束和磁喷管等离子体流相关的未入库条目，因此补入 3 条 JPP 正式开放论文 `10.1017/S0022377826101895`、`10.1017/S0022377826101834`、`10.1017/S0022377826101718`，分别覆盖 GOL-NB 多镜磁阱中性束/快离子实验进展、travelling rotating magnetic field 多镜端塞方案，以及磁喷管中的等离子体流与平衡。
 - `2026-07-02` 先复查 Cambridge `Journal of Plasma Physics` 当前期与 `High Power Laser Science and Engineering` accepted manuscripts，按 DOI 去重跳过此前已入库的 JPP 高相关条目；随后补入 2 条未入库 JPP 正式论文 `10.1017/S0022377826101901`、`10.1017/S0022377826101780` 和 1 条高相关 arXiv 预印本 `10.48550/arXiv.2606.30978`，分别覆盖 MIDAS-1D2V 聚变反应/中性束俘获扩展、Weibel 磁场种子到 dynamo 放大的无碰撞模拟，以及冷物质到 HEDP 等离子体的离子 stopping power 开源框架。
 - `2026-07-01` 先复查 Cambridge `High Power Laser Science and Engineering` accepted manuscripts 与 `Journal of Plasma Physics` 当前页面，确认高相关正式来源增量有限；随后从近期未入库 arXiv `physics.plasm-ph`、`physics.acc-ph`、`physics.comp-ph` 与 `stat.ML` 交叉条目中补入 3 条高相关预印本 `10.48550/arXiv.2606.29214`、`10.48550/arXiv.2606.28534`、`10.48550/arXiv.2606.29620`，分别覆盖激光产生 surface QED plasma 中辐射反作用量子随机效应、multi-GPU PIC-Monte Carlo 大规模弹性模拟，以及面向 MHD 正/反问题的双向自回归 latent diffusion。
 - `2026-06-30` 先复查 Cambridge `High Power Laser Science and Engineering` accepted manuscripts 与 `Journal of Plasma Physics` 当前页面，确认高相关正式来源增量要么已入库、要么偏激光器件；随后从近期未入库 arXiv 中补入 3 条高相关预印本 `10.48550/arXiv.2606.26198`、`10.48550/arXiv.2606.27064`、`10.48550/arXiv.2606.23966`，分别覆盖 ICF 等离子体单发 X 射线强度关联衍射成像、天然锡 photon activation 半衰期测量，以及 40 MeV 电子打钽转换靶产生韧致辐射后的天然镍光核反应截面测量。
@@ -92,7 +93,7 @@
 - `2026-06-26` 先复查了 Cambridge `Journal of Plasma Physics` / `High Power Laser Science and Engineering` 当前页面，没有发现比近几日更强且明确非重复的正式来源增量；随后转向 arXiv `physics.plasm-ph` / `physics.acc-ph` 最新提交列表，补入 3 条未入库高相关预印本：`10.48550/arXiv.2606.26054`、`10.48550/arXiv.2606.25528`、`10.48550/arXiv.2606.25327`，分别覆盖宽带激光下两等离子体衰变驱动热电子增强、PIC 数值热化时间尺度审计，以及超临界介质中致密等离子体电子密度干涉诊断。
 - `2026-06-25` 先复查了 Cambridge `Journal of Plasma Physics` / `High Power Laser Science and Engineering` 当前页面，没有筛到比近几日已入库条目更强且明确非重复的正式来源增量；随后转向 arXiv `physics.plasm-ph` / `physics.acc-ph` 近两日列表，补入 3 条未入库高相关预印本：`10.48550/arXiv.2606.23224`、`10.48550/arXiv.2606.24067`、`10.48550/arXiv.2606.23109`，分别覆盖双层靶 TNSA 质子束多目标贝叶斯优化、hollow-channel 正电子友好 quadrupole wakefield 稳定性，以及激光加速碳离子驱动的强耦合 stopping power 实验 benchmark。
 - `2026-06-24` 先复查了 Cambridge `Journal of Plasma Physics` / `High Power Laser Science and Engineering` 当前页面与近期条目，确认本轮高相关正式来源候选要么已在 `processed_articles.json` 中、要么属于此前旧日阻塞记录，继续补录会重复处理；随后转向近几天 arXiv 新稿与近期修订稿，补入 3 条未入库高相关预印本：`10.48550/arXiv.2606.22427`、`10.48550/arXiv.2606.21221`、`10.48550/arXiv.2605.07929`，分别覆盖强场 QED 非线性康普顿谱解析、相对论束流-等离子体丝化不稳定性时空演化，以及 proton-driven PWFA 注入器应用。
-- 已处理论文总数增至 159 条；`state/daily_retry_candidates.json` 维持 12 条。
+- 已处理论文总数增至 162 条；`state/daily_retry_candidates.json` 维持 12 条。
 - 当前重试队列只剩已明确的来源侧限制：10 条 ScienceDirect / Elsevier `HTTP 403`、1 条 Nature `cookies_not_supported`、1 条 IOP / New Journal of Physics Radware/Perfdrive 验证页。
 - 2026-06-11 配置级诊断显示当前 Codex shell 已是 `danger-full-access` 且 network enabled；`127.0.0.1:1087` 代理路径可下载 arXiv PDF。此前 06-09 到 06-11 的 9 条 runtime-blocked 候选已通过 `retry_download_queue.py` 全部恢复。
 - 当前有 65 条已补到 PDF 但尚未补中文结构化笔记的历史条目。

@@ -1,0 +1,37 @@
+{
+  "date": "2026-07-03",
+  "status": "success",
+  "source_checks": [
+    "Cambridge Journal of Plasma Physics latest listing",
+    "Cambridge High Power Laser Science and Engineering accepted/latest pages",
+    "arXiv recent category API attempted; timeout / HTTP 429, not used for additions"
+  ],
+  "dedupe_baseline": {
+    "processed_articles_before": 159,
+    "daily_retry_candidates": 12
+  },
+  "added": [
+    {
+      "doi": "10.1017/S0022377826101895",
+      "title": "Overview of GOL-NB experiments in 2025",
+      "download_report": "daily/2026-07-03/Vladimir V. Postupaev et al. - 2026 - Overview of GOL-NB experiments in 2025.download_report.json",
+      "pdf_header_validated": true
+    },
+    {
+      "doi": "10.1017/S0022377826101834",
+      "title": "Plugging of multi-mirror machines by a travelling rotating magnetic field",
+      "download_report": "daily/2026-07-03/Tal Miller et al. - 2026 - Plugging of multi-mirror machines by a travelling rotating magnetic field.download_report.json",
+      "pdf_header_validated": true
+    },
+    {
+      "doi": "10.1017/S0022377826101718",
+      "title": "Plasma flow and equilibrium in the magnetic nozzle",
+      "download_report": "daily/2026-07-03/Andrei Smolyakov et al. - 2026 - Plasma flow and equilibrium in the magnetic nozzle.download_report.json",
+      "pdf_header_validated": true
+    }
+  ],
+  "dedupe_baseline_after": {
+    "processed_articles_after": 162,
+    "daily_retry_candidates": 12
+  }
+}
