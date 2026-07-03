@@ -1786,5 +1786,38 @@
     "note_path": "daily/2026-07-03/notes/Andrei Smolyakov et al. - 2026 - Plasma flow and equilibrium in the magnetic nozzle.md",
     "processed_date": "2026-07-03",
     "normalized_title": "plasma flow and equilibrium in the magnetic nozzle"
+  },
+  {
+    "title": "Brilliant multi-GeV Compton gamma-ray source seeded by a photon accelerator",
+    "doi": "10.48550/arXiv.2607.02373",
+    "journal": "arXiv（预印本）",
+    "publication_date": "2026-07-02",
+    "source_url": "https://arxiv.org/abs/2607.02373",
+    "pdf_path": "daily/2026-07-04/pdfs/Michael J. Quin et al. - 2026 - Brilliant multi-GeV Compton gamma-ray source seeded by a photon accelerator.pdf",
+    "note_path": "daily/2026-07-04/notes/Michael J. Quin et al. - 2026 - Brilliant multi-GeV Compton gamma-ray source seeded by a photon accelerator.md",
+    "processed_date": "2026-07-04",
+    "normalized_title": "brilliant multi gev compton gamma ray source seeded by a photon accelerator"
+  },
+  {
+    "title": "Development of a thin-target hard X-ray bremsstrahlung detection system to study confined runaway electrons in Aditya-U Tokamak",
+    "doi": "10.48550/arXiv.2607.01488",
+    "journal": "arXiv（预印本）",
+    "publication_date": "2026-07-01",
+    "source_url": "https://arxiv.org/abs/2607.01488",
+    "pdf_path": "daily/2026-07-04/pdfs/Suman Dolui et al. - 2026 - Development of a thin-target hard X-ray bremsstrahlung detection system.pdf",
+    "note_path": "daily/2026-07-04/notes/Suman Dolui et al. - 2026 - Development of a thin-target hard X-ray bremsstrahlung detection system.md",
+    "processed_date": "2026-07-04",
+    "normalized_title": "development of a thin target hard x ray bremsstrahlung detection system to study confined runaway electrons in aditya u tokamak"
+  },
+  {
+    "title": "Non-linear control variate in δf particle-in-cell methods using symplectic neural networks",
+    "doi": "10.48550/arXiv.2606.30622",
+    "journal": "arXiv（预印本）",
+    "publication_date": "2026-06-29",
+    "source_url": "https://arxiv.org/abs/2606.30622",
+    "pdf_path": "daily/2026-07-04/pdfs/Victor Fournet et al. - 2026 - Non-linear control variate in delta-f PIC methods using symplectic neural networks.pdf",
+    "note_path": "daily/2026-07-04/notes/Victor Fournet et al. - 2026 - Non-linear control variate in delta-f PIC methods using symplectic neural networks.md",
+    "processed_date": "2026-07-04",
+    "normalized_title": "non linear control variate in δf particle in cell methods using symplectic neural networks"
   }
 ]

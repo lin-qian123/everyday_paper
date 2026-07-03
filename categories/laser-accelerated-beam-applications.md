@@ -2,11 +2,13 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：32 篇
-- 索引更新时间：2026-07-03
+- 当前收录：34 篇
+- 索引更新时间：2026-07-04
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-04 | [Brilliant multi-GeV Compton gamma-ray source seeded by a photon accelerator](../papers/arxiv-2607-02373/README.md) | arXiv（预印本） | [笔记](../daily/2026-07-04/notes/Michael J. Quin et al. - 2026 - Brilliant multi-GeV Compton gamma-ray source seeded by a photon accelerator.md) |
+| 2026-07-04 | [Development of a thin-target hard X-ray bremsstrahlung detection system to study confined runaway electrons in Aditya-U Tokamak](../papers/arxiv-2607-01488/README.md) | arXiv（预印本） | [笔记](../daily/2026-07-04/notes/Suman Dolui et al. - 2026 - Development of a thin-target hard X-ray bremsstrahlung detection system.md) |
 | 2026-07-02 | [An Enhanced RPA-LDA Model for Ion Stopping Power from Cold Matter to High-Energy Density Plasmas: A Unified, Open-Source Framework](../papers/arxiv-2606-30978/README.md) | arXiv（预印本；submitted to Physics of Plasmas） | [笔记](../daily/2026-07-02/notes/Thomas A. Mehlhorn et al. - 2026 - An Enhanced RPA-LDA Model for Ion Stopping Power.md) |
 | 2026-06-30 | [Half-Life Measurements of 110Sn, 113Sn, 117mSn, and 123mSn Produced via Photon Activation of Natural Tin](../papers/arxiv-2606-27064/README.md) | arXiv（预印本；submitted to Nuclear Physics A） | [笔记](../daily/2026-06-30/notes/O. Nusair et al. - 2026 - Half-Life Measurements of Sn Isotopes Produced via Photon Activation of Natural Tin.md) |
 | 2026-06-30 | [Measurements of Bremsstrahlung-Averaged Cross Sections for Reactions on Natural Nickel Targets at Eendpoint = 40MeV](../papers/arxiv-2606-23966/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-30/notes/O. Nusair et al. - 2026 - Measurements of Bremsstrahlung-Averaged Cross Sections for Reactions on Natural Nickel Targets.md) |

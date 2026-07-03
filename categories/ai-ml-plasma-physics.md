@@ -2,11 +2,12 @@
 
 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。
 
-- 当前收录：21 篇
-- 索引更新时间：2026-07-03
+- 当前收录：22 篇
+- 索引更新时间：2026-07-04
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-04 | [Non-linear control variate in δf particle-in-cell methods using symplectic neural networks](../papers/arxiv-2606-30622/README.md) | arXiv（预印本） | [笔记](../daily/2026-07-04/notes/Victor Fournet et al. - 2026 - Non-linear control variate in delta-f PIC methods using symplectic neural networks.md) |
 | 2026-07-01 | [Bidirectional Autoregressive Latent Diffusion for Forward and Inverse Magnetohydrodynamics](../papers/arxiv-2606-29620/README.md) | arXiv（预印本） | [笔记](../daily/2026-07-01/notes/Alexander Scheinker - 2026 - Bidirectional Autoregressive Latent Diffusion for Forward and Inverse Magnetohydrodynamics.md) |
 | 2026-06-25 | [Multi-objective Bayesian optimisation of a double-layer target for quasi-monoenergetic TNSA protons](../papers/arxiv-2606-23224/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-25/notes/Chengqi-Zhang et al. - 2026 - Multi-objective Bayesian optimisation of a double-layer target for quasi-monoenergetic TNSA protons.md) |
 | 2026-06-22 | [Learning collision operators from plasma phase space data using differentiable simulators](../papers/10-1017-s0022377826101755/README.md) | Journal of Plasma Physics（正式期刊） | [笔记](../daily/2026-06-22/notes/Diogo D. Carvalho et al. - 2026 - Learning collision operators from plasma phase space data using differentiable simulators.md) |

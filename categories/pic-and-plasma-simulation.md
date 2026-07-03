@@ -2,11 +2,12 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：64 篇
-- 索引更新时间：2026-07-03
+- 当前收录：65 篇
+- 索引更新时间：2026-07-04
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-04 | [Non-linear control variate in δf particle-in-cell methods using symplectic neural networks](../papers/arxiv-2606-30622/README.md) | arXiv（预印本） | [笔记](../daily/2026-07-04/notes/Victor Fournet et al. - 2026 - Non-linear control variate in delta-f PIC methods using symplectic neural networks.md) |
 | 2026-07-02 | [Extension of MIDAS-1D2V model: fusion reactions and neutral beam capture](../papers/10-1017-s0022377826101901/README.md) | Journal of Plasma Physics | [笔记](../daily/2026-07-02/notes/Vadim Prikhodko - 2026 - Extension of MIDAS-1D2V model fusion reactions and neutral beam capture.md) |
 | 2026-07-01 | [Detecting Quantum Stochastic Effects in Radiation Reaction via Laser-Produced Surface QED Plasmas](../papers/arxiv-2606-29214/README.md) | arXiv（预印本） | [笔记](../daily/2026-07-01/notes/Junhua Zhang et al. - 2026 - Detecting Quantum Stochastic Effects in Radiation Reaction via Laser-Produced Surface QED Plasmas.md) |
 | 2026-07-01 | [High-Performance Resilient Multi-GPU Hybrid Particle-in-Cell Monte Carlo Simulations at Scale](../papers/arxiv-2606-28534/README.md) | arXiv（预印本；Euro-Par 2026 workshops / BIGHPC 2026 accepted） | [笔记](../daily/2026-07-01/notes/Jeremy J. Williams et al. - 2026 - High-Performance Resilient Multi-GPU Hybrid Particle-in-Cell Monte Carlo Simulations at Scale.md) |

@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：162 篇
-- 索引更新时间：2026-07-03
+- 当前入库论文：165 篇
+- 索引更新时间：2026-07-04
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-07-04 | [Brilliant multi-GeV Compton gamma-ray source seeded by a photon accelerator](./arxiv-2607-02373/README.md) | arXiv（预印本） | [10.48550/arXiv.2607.02373](https://doi.org/10.48550/arXiv.2607.02373) |
+| 2026-07-04 | [Development of a thin-target hard X-ray bremsstrahlung detection system to study confined runaway electrons in Aditya-U Tokamak](./arxiv-2607-01488/README.md) | arXiv（预印本） | [10.48550/arXiv.2607.01488](https://doi.org/10.48550/arXiv.2607.01488) |
+| 2026-07-04 | [Non-linear control variate in δf particle-in-cell methods using symplectic neural networks](./arxiv-2606-30622/README.md) | arXiv（预印本） | [10.48550/arXiv.2606.30622](https://doi.org/10.48550/arXiv.2606.30622) |
 | 2026-07-03 | [Overview of GOL-NB experiments in 2025](./10-1017-s0022377826101895/README.md) | Journal of Plasma Physics | [10.1017/S0022377826101895](https://doi.org/10.1017/S0022377826101895) |
 | 2026-07-03 | [Plugging of multi-mirror machines by a travelling rotating magnetic field](./10-1017-s0022377826101834/README.md) | Journal of Plasma Physics | [10.1017/S0022377826101834](https://doi.org/10.1017/S0022377826101834) |
 | 2026-07-03 | [Plasma flow and equilibrium in the magnetic nozzle](./10-1017-s0022377826101718/README.md) | Journal of Plasma Physics | [10.1017/S0022377826101718](https://doi.org/10.1017/S0022377826101718) |

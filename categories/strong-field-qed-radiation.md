@@ -2,11 +2,12 @@
 
 强场量子效应、辐射反作用、非线性 Compton、pair production 与极端场实验。
 
-- 当前收录：37 篇
-- 索引更新时间：2026-07-03
+- 当前收录：38 篇
+- 索引更新时间：2026-07-04
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-04 | [Brilliant multi-GeV Compton gamma-ray source seeded by a photon accelerator](../papers/arxiv-2607-02373/README.md) | arXiv（预印本） | [笔记](../daily/2026-07-04/notes/Michael J. Quin et al. - 2026 - Brilliant multi-GeV Compton gamma-ray source seeded by a photon accelerator.md) |
 | 2026-07-01 | [Detecting Quantum Stochastic Effects in Radiation Reaction via Laser-Produced Surface QED Plasmas](../papers/arxiv-2606-29214/README.md) | arXiv（预印本） | [笔记](../daily/2026-07-01/notes/Junhua Zhang et al. - 2026 - Detecting Quantum Stochastic Effects in Radiation Reaction via Laser-Produced Surface QED Plasmas.md) |
 | 2026-06-28 | [Relativistically strong electromagnetic waves in magnetised plasmas](../papers/10-1017-s0022377826101342/README.md) | Journal of Plasma Physics（正式期刊） | [笔记](../daily/2026-06-28/notes/Maxim Lyutikov - 2026 - Relativistically strong electromagnetic waves in magnetised plasmas.md) |
 | 2026-06-25 | [Evolution of Quadrupole Wakefield Driven by Transversely Asymmetric Electron Beams in Hollow Plasma Channels](../papers/arxiv-2606-24067/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-25/notes/Siqin Ding et al. - 2026 - Evolution of Quadrupole Wakefield Driven by Transversely Asymmetric Electron Beams in Hollow Plasma Channels.md) |
