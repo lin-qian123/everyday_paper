@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：165 篇
-- 索引更新时间：2026-07-04
+- 当前入库论文：168 篇
+- 索引更新时间：2026-07-05
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-07-05 | [Saturation of collisionless ion temperature gradient turbulence via symmetric dynamics. I. The zonal flow](./10-1017-s0022377826101883/README.md) | Journal of Plasma Physics | [10.1017/S0022377826101883](https://doi.org/10.1017/S0022377826101883) |
+| 2026-07-05 | [Constructing field-aligned coordinate systems for gyrokinetic simulations of tokamaks in X-point geometries](./10-1017-s0022377826101779/README.md) | Journal of Plasma Physics | [10.1017/S0022377826101779](https://doi.org/10.1017/S0022377826101779) |
+| 2026-07-05 | [Spectrally accurate, reverse-mode differentiable bounce-averaging algorithm and its applications](./10-1017-s0022377826101652/README.md) | Journal of Plasma Physics | [10.1017/S0022377826101652](https://doi.org/10.1017/S0022377826101652) |
 | 2026-07-04 | [Brilliant multi-GeV Compton gamma-ray source seeded by a photon accelerator](./arxiv-2607-02373/README.md) | arXiv（预印本） | [10.48550/arXiv.2607.02373](https://doi.org/10.48550/arXiv.2607.02373) |
 | 2026-07-04 | [Development of a thin-target hard X-ray bremsstrahlung detection system to study confined runaway electrons in Aditya-U Tokamak](./arxiv-2607-01488/README.md) | arXiv（预印本） | [10.48550/arXiv.2607.01488](https://doi.org/10.48550/arXiv.2607.01488) |
 | 2026-07-04 | [Non-linear control variate in δf particle-in-cell methods using symplectic neural networks](./arxiv-2606-30622/README.md) | arXiv（预印本） | [10.48550/arXiv.2606.30622](https://doi.org/10.48550/arXiv.2606.30622) |

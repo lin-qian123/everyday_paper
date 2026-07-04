@@ -1819,5 +1819,38 @@
     "note_path": "daily/2026-07-04/notes/Victor Fournet et al. - 2026 - Non-linear control variate in delta-f PIC methods using symplectic neural networks.md",
     "processed_date": "2026-07-04",
     "normalized_title": "non linear control variate in δf particle in cell methods using symplectic neural networks"
+  },
+  {
+    "title": "Saturation of collisionless ion temperature gradient turbulence via symmetric dynamics. I. The zonal flow",
+    "doi": "10.1017/S0022377826101883",
+    "journal": "Journal of Plasma Physics",
+    "publication_date": "2026-06",
+    "source_url": "https://doi.org/10.1017/S0022377826101883",
+    "pdf_path": "daily/2026-07-05/pdfs/A.A. Azelis and P.W. Terry - 2026 - Saturation of collisionless ion temperature gradient turbulence via symmetric dynamics.pdf",
+    "note_path": "daily/2026-07-05/notes/A.A. Azelis and P.W. Terry - 2026 - Saturation of collisionless ion temperature gradient turbulence.md",
+    "processed_date": "2026-07-05",
+    "normalized_title": "saturation of collisionless ion temperature gradient turbulence via symmetric dynamics i the zonal flow"
+  },
+  {
+    "title": "Constructing field-aligned coordinate systems for gyrokinetic simulations of tokamaks in X-point geometries",
+    "doi": "10.1017/S0022377826101779",
+    "journal": "Journal of Plasma Physics",
+    "publication_date": "2026-06",
+    "source_url": "https://doi.org/10.1017/S0022377826101779",
+    "pdf_path": "daily/2026-07-05/pdfs/Akash Shukla et al. - 2026 - Constructing field-aligned coordinate systems for gyrokinetic simulations.pdf",
+    "note_path": "daily/2026-07-05/notes/Akash Shukla et al. - 2026 - Constructing field-aligned coordinate systems for gyrokinetic simulations.md",
+    "processed_date": "2026-07-05",
+    "normalized_title": "constructing field aligned coordinate systems for gyrokinetic simulations of tokamaks in x point geometries"
+  },
+  {
+    "title": "Spectrally accurate, reverse-mode differentiable bounce-averaging algorithm and its applications",
+    "doi": "10.1017/S0022377826101652",
+    "journal": "Journal of Plasma Physics",
+    "publication_date": "2026-06",
+    "source_url": "https://doi.org/10.1017/S0022377826101652",
+    "pdf_path": "daily/2026-07-05/pdfs/Kaya Unalmis et al. - 2026 - Spectrally accurate reverse-mode differentiable bounce-averaging algorithm.pdf",
+    "note_path": "daily/2026-07-05/notes/Kaya Unalmis et al. - 2026 - Spectrally accurate reverse-mode differentiable bounce-averaging algorithm.md",
+    "processed_date": "2026-07-05",
+    "normalized_title": "spectrally accurate reverse mode differentiable bounce averaging algorithm and its applications"
   }
 ]

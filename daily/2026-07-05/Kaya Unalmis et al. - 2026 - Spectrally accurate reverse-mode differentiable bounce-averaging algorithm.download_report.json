@@ -1,0 +1,14 @@
+{
+  "ok": true,
+  "output": "daily/2026-07-05/pdfs/Kaya Unalmis et al. - 2026 - Spectrally accurate reverse-mode differentiable bounce-averaging algorithm.pdf",
+  "source_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5DF54B5C472B4A88A4A534374977AC0C/S0022377826101652a.pdf/div-class-title-spectrally-accurate-reverse-mode-differentiable-bounce-averaging-algorithm-and-its-applications-div.pdf",
+  "mode": "env-proxy",
+  "attempts": [
+    "[env-proxy] https://doi.org/10.1017/S0022377826101652 -> not pdf (content-type=text/html; charset=utf-8)",
+    "[direct] https://doi.org/10.1017/S0022377826101652 -> not pdf (content-type=text/html; charset=utf-8)",
+    "[env-proxy] https://doi.org/10.1017/s0022377826101652 -> not pdf (content-type=text/html; charset=utf-8)",
+    "[direct] https://doi.org/10.1017/s0022377826101652 -> not pdf (content-type=text/html; charset=utf-8)",
+    "[env-proxy] https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/spectrally-accurate-reversemode-differentiable-bounceaveraging-algorithm-and-its-applications/5DF54B5C472B4A88A4A534374977AC0C -> not pdf (content-type=text/html; charset=utf-8)",
+    "[direct] https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/spectrally-accurate-reversemode-differentiable-bounceaveraging-algorithm-and-its-applications/5DF54B5C472B4A88A4A534374977AC0C -> not pdf (content-type=text/html; charset=utf-8)"
+  ]
+}

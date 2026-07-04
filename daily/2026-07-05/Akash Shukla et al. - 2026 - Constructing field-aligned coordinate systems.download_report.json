@@ -1,0 +1,14 @@
+{
+  "ok": true,
+  "output": "daily/2026-07-05/pdfs/Akash Shukla et al. - 2026 - Constructing field-aligned coordinate systems for gyrokinetic simulations.pdf",
+  "source_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/EE845BD875F18DF3125D38A870FA6324/S0022377826101779a.pdf/div-class-title-constructing-field-aligned-coordinate-systems-for-gyrokinetic-simulations-of-tokamaks-in-x-point-geometries-div.pdf",
+  "mode": "env-proxy",
+  "attempts": [
+    "[env-proxy] https://doi.org/10.1017/S0022377826101779 -> not pdf (content-type=text/html; charset=utf-8)",
+    "[direct] https://doi.org/10.1017/S0022377826101779 -> not pdf (content-type=text/html; charset=utf-8)",
+    "[env-proxy] https://doi.org/10.1017/s0022377826101779 -> not pdf (content-type=text/html; charset=utf-8)",
+    "[direct] https://doi.org/10.1017/s0022377826101779 -> not pdf (content-type=text/html; charset=utf-8)",
+    "[env-proxy] https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/constructing-fieldaligned-coordinate-systems-for-gyrokinetic-simulations-of-tokamaks-in-xpoint-geometries/EE845BD875F18DF3125D38A870FA6324 -> not pdf (content-type=text/html; charset=utf-8)",
+    "[direct] https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/constructing-fieldaligned-coordinate-systems-for-gyrokinetic-simulations-of-tokamaks-in-xpoint-geometries/EE845BD875F18DF3125D38A870FA6324 -> not pdf (content-type=text/html; charset=utf-8)"
+  ]
+}

@@ -2,11 +2,12 @@
 
 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。
 
-- 当前收录：23 篇
-- 索引更新时间：2026-07-04
+- 当前收录：24 篇
+- 索引更新时间：2026-07-05
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-05 | [Saturation of collisionless ion temperature gradient turbulence via symmetric dynamics. I. The zonal flow](../papers/10-1017-s0022377826101883/README.md) | Journal of Plasma Physics | [笔记](../daily/2026-07-05/notes/A.A. Azelis and P.W. Terry - 2026 - Saturation of collisionless ion temperature gradient turbulence.md) |
 | 2026-07-03 | [Plugging of multi-mirror machines by a travelling rotating magnetic field](../papers/10-1017-s0022377826101834/README.md) | Journal of Plasma Physics | [笔记](../daily/2026-07-03/notes/Tal Miller et al. - 2026 - Plugging of multi-mirror machines by a travelling rotating magnetic field.md) |
 | 2026-07-03 | [Plasma flow and equilibrium in the magnetic nozzle](../papers/10-1017-s0022377826101718/README.md) | Journal of Plasma Physics | [笔记](../daily/2026-07-03/notes/Andrei Smolyakov et al. - 2026 - Plasma flow and equilibrium in the magnetic nozzle.md) |
 | 2026-07-02 | [From Weibel seeds to dynamo beyond pair-plasmas](../papers/10-1017-s0022377826101780/README.md) | Journal of Plasma Physics | [笔记](../daily/2026-07-02/notes/Lise Hanebring et al. - 2026 - From Weibel seeds to dynamo beyond pair-plasmas.md) |

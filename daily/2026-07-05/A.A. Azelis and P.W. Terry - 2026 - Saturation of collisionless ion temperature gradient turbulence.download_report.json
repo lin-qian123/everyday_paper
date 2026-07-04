@@ -1,0 +1,14 @@
+{
+  "ok": true,
+  "output": "daily/2026-07-05/pdfs/A.A. Azelis and P.W. Terry - 2026 - Saturation of collisionless ion temperature gradient turbulence via symmetric dynamics.pdf",
+  "source_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0FB104B81D8F3BCFD86FF4F285C62B8E/S0022377826101883a.pdf/div-class-title-saturation-of-collisionless-ion-temperature-gradient-turbulence-via-symmetric-dynamics-i-the-zonal-flow-div.pdf",
+  "mode": "env-proxy",
+  "attempts": [
+    "[env-proxy] https://doi.org/10.1017/S0022377826101883 -> not pdf (content-type=text/html; charset=utf-8)",
+    "[direct] https://doi.org/10.1017/S0022377826101883 -> not pdf (content-type=text/html; charset=utf-8)",
+    "[env-proxy] https://doi.org/10.1017/s0022377826101883 -> not pdf (content-type=text/html; charset=utf-8)",
+    "[direct] https://doi.org/10.1017/s0022377826101883 -> not pdf (content-type=text/html; charset=utf-8)",
+    "[env-proxy] https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/saturation-of-collisionless-ion-temperature-gradient-turbulence-via-symmetric-dynamics-i-the-zonal-flow/0FB104B81D8F3BCFD86FF4F285C62B8E -> not pdf (content-type=text/html; charset=utf-8)",
+    "[direct] https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/saturation-of-collisionless-ion-temperature-gradient-turbulence-via-symmetric-dynamics-i-the-zonal-flow/0FB104B81D8F3BCFD86FF4F285C62B8E -> not pdf (content-type=text/html; charset=utf-8)"
+  ]
+}
