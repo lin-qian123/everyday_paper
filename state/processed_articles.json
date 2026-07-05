@@ -1852,5 +1852,38 @@
     "note_path": "daily/2026-07-05/notes/Kaya Unalmis et al. - 2026 - Spectrally accurate reverse-mode differentiable bounce-averaging algorithm.md",
     "processed_date": "2026-07-05",
     "normalized_title": "spectrally accurate reverse mode differentiable bounce averaging algorithm and its applications"
+  },
+  {
+    "title": "New scheme for inertial confinement fusion laser drivers based on a spatiotemporal partially coherent multi-mode source and its prospects",
+    "doi": "10.1017/hpl.2025.10099",
+    "journal": "High Power Laser Science and Engineering",
+    "publication_date": "2026-03-18",
+    "source_url": "https://doi.org/10.1017/hpl.2025.10099",
+    "pdf_path": "daily/2026-07-06/pdfs/Jianqiang Zhu et al. - 2026 - New scheme for inertial confinement fusion laser drivers.pdf",
+    "note_path": "daily/2026-07-06/notes/Jianqiang Zhu et al. - 2026 - New scheme for inertial confinement fusion laser drivers.md",
+    "processed_date": "2026-07-06",
+    "normalized_title": "new scheme for inertial confinement fusion laser drivers based on a spatiotemporal partially coherent multi mode source and its prospects"
+  },
+  {
+    "title": "A toroidally spectral field solver in the X-point Gyrokinetic Code for accurate simulation of reduced magneto-hydrodynamic modes",
+    "doi": "10.48550/arXiv.2606.25213",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-06-23",
+    "source_url": "https://arxiv.org/abs/2606.25213",
+    "pdf_path": "daily/2026-07-06/pdfs/Robert Hager et al. - 2026 - A toroidally spectral field solver in the X-point Gyrokinetic Code.pdf",
+    "note_path": "daily/2026-07-06/notes/Robert Hager et al. - 2026 - A toroidally spectral field solver in the X-point Gyrokinetic Code.md",
+    "processed_date": "2026-07-06",
+    "normalized_title": "a toroidally spectral field solver in the x point gyrokinetic code for accurate simulation of reduced magneto hydrodynamic modes"
+  },
+  {
+    "title": "Geometric numerical discretization of electromagnetic quasineutral models",
+    "doi": "10.48550/arXiv.2606.21418",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-06-19",
+    "source_url": "https://arxiv.org/abs/2606.21418",
+    "pdf_path": "daily/2026-07-06/pdfs/Nishant Narechania et al. - 2026 - Geometric numerical discretization of electromagnetic quasineutral models.pdf",
+    "note_path": "daily/2026-07-06/notes/Nishant Narechania et al. - 2026 - Geometric numerical discretization.md",
+    "processed_date": "2026-07-06",
+    "normalized_title": "geometric numerical discretization of electromagnetic quasineutral models"
   }
 ]

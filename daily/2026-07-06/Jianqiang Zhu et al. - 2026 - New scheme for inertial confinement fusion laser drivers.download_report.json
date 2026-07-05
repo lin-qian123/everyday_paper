@@ -1,0 +1,14 @@
+{
+  "ok": true,
+  "output": "daily/2026-07-06/pdfs/Jianqiang Zhu et al. - 2026 - New scheme for inertial confinement fusion laser drivers.pdf",
+  "source_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30ED75F76835CAF605C59B7FBFF4890C/S2095471925100996a.pdf/div-class-title-new-scheme-for-inertial-confinement-fusion-laser-drivers-based-on-a-spatiotemporal-partially-coherent-multi-mode-source-and-its-prospects-div.pdf",
+  "mode": "env-proxy",
+  "attempts": [
+    "[env-proxy] https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/new-scheme-for-inertial-confinement-fusion-laser-drivers-based-on-a-spatiotemporal-partially-coherent-multimode-source-and-its-prospects/30ED75F76835CAF605C59B7FBFF4890C -> not pdf (content-type=text/html; charset=utf-8)",
+    "[direct] https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/new-scheme-for-inertial-confinement-fusion-laser-drivers-based-on-a-spatiotemporal-partially-coherent-multimode-source-and-its-prospects/30ED75F76835CAF605C59B7FBFF4890C -> not pdf (content-type=text/html; charset=utf-8)",
+    "[env-proxy] https://doi.org/10.1017/hpl.2026.10146 -> not pdf (content-type=text/html; charset=utf-8)",
+    "[direct] https://doi.org/10.1017/hpl.2026.10146 -> not pdf (content-type=text/html; charset=utf-8)",
+    "[env-proxy] https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/spatiotemporal-characterization-of-a-petawatt-laser-using-deterministic-speckle-patterns/DD341F8269C57FD7346EDA99A82D65E6 -> not pdf (content-type=text/html; charset=utf-8)",
+    "[direct] https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/spatiotemporal-characterization-of-a-petawatt-laser-using-deterministic-speckle-patterns/DD341F8269C57FD7346EDA99A82D65E6 -> not pdf (content-type=text/html; charset=utf-8)"
+  ]
+}

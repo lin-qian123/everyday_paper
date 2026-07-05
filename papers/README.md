@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：168 篇
-- 索引更新时间：2026-07-05
+- 当前入库论文：171 篇
+- 索引更新时间：2026-07-06
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-07-06 | [A toroidally spectral field solver in the X-point Gyrokinetic Code for accurate simulation of reduced magneto-hydrodynamic modes](./arxiv-2606-25213/README.md) | arXiv preprint | [10.48550/arXiv.2606.25213](https://doi.org/10.48550/arXiv.2606.25213) |
+| 2026-07-06 | [Geometric numerical discretization of electromagnetic quasineutral models](./arxiv-2606-21418/README.md) | arXiv preprint | [10.48550/arXiv.2606.21418](https://doi.org/10.48550/arXiv.2606.21418) |
+| 2026-07-06 | [New scheme for inertial confinement fusion laser drivers based on a spatiotemporal partially coherent multi-mode source and its prospects](./10-1017-hpl-2025-10099/README.md) | High Power Laser Science and Engineering | [10.1017/hpl.2025.10099](https://doi.org/10.1017/hpl.2025.10099) |
 | 2026-07-05 | [Saturation of collisionless ion temperature gradient turbulence via symmetric dynamics. I. The zonal flow](./10-1017-s0022377826101883/README.md) | Journal of Plasma Physics | [10.1017/S0022377826101883](https://doi.org/10.1017/S0022377826101883) |
 | 2026-07-05 | [Constructing field-aligned coordinate systems for gyrokinetic simulations of tokamaks in X-point geometries](./10-1017-s0022377826101779/README.md) | Journal of Plasma Physics | [10.1017/S0022377826101779](https://doi.org/10.1017/S0022377826101779) |
 | 2026-07-05 | [Spectrally accurate, reverse-mode differentiable bounce-averaging algorithm and its applications](./10-1017-s0022377826101652/README.md) | Journal of Plasma Physics | [10.1017/S0022377826101652](https://doi.org/10.1017/S0022377826101652) |
