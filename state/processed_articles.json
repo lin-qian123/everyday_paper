@@ -1885,5 +1885,38 @@
     "note_path": "daily/2026-07-06/notes/Nishant Narechania et al. - 2026 - Geometric numerical discretization.md",
     "processed_date": "2026-07-06",
     "normalized_title": "geometric numerical discretization of electromagnetic quasineutral models"
+  },
+  {
+    "title": "Reexamination of collisional ionization cross sections including double photoionization processes",
+    "doi": "10.48550/arXiv.2607.00875",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-01",
+    "source_url": "https://arxiv.org/abs/2607.00875",
+    "pdf_path": "daily/2026-07-07/pdfs/Lucas Ansia et al. - 2026 - Reexamination of collisional ionization cross sections.pdf",
+    "note_path": "daily/2026-07-07/notes/Lucas Ansia et al. - 2026 - Reexamination of collisional ionization cross sections.md",
+    "processed_date": "2026-07-07",
+    "normalized_title": "reexamination of collisional ionization cross sections including double photoionization processes"
+  },
+  {
+    "title": "Two-and-a-half dimensional symplectic space-charge solver",
+    "doi": "10.48550/arXiv.2606.26484",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-06-25",
+    "source_url": "https://arxiv.org/abs/2606.26484",
+    "pdf_path": "daily/2026-07-07/pdfs/Ji Qiang - 2026 - Two-and-a-half dimensional symplectic space-charge solver.pdf",
+    "note_path": "daily/2026-07-07/notes/Ji Qiang - 2026 - Two-and-a-half dimensional symplectic space-charge solver.md",
+    "processed_date": "2026-07-07",
+    "normalized_title": "two and a half dimensional symplectic space charge solver"
+  },
+  {
+    "title": "Transiently Driven Reflectionless Resonant Microwave Plasmas via Virtual Critical Coupling",
+    "doi": "10.48550/arXiv.2607.02323",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-02",
+    "source_url": "https://arxiv.org/abs/2607.02323",
+    "pdf_path": "daily/2026-07-07/pdfs/Muhammad Rizwan Akram and Abbas Semnani - 2026 - Transiently Driven Reflectionless Resonant Microwave Plasmas.pdf",
+    "note_path": "daily/2026-07-07/notes/Muhammad Rizwan Akram and Abbas Semnani - 2026 - Transiently Driven Reflectionless Resonant Microwave Plasmas.md",
+    "processed_date": "2026-07-07",
+    "normalized_title": "transiently driven reflectionless resonant microwave plasmas via virtual critical coupling"
   }
 ]

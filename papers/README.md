@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：171 篇
-- 索引更新时间：2026-07-06
+- 当前入库论文：174 篇
+- 索引更新时间：2026-07-07
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-07-07 | [Transiently Driven Reflectionless Resonant Microwave Plasmas via Virtual Critical Coupling](./arxiv-2607-02323/README.md) | arXiv preprint | [10.48550/arXiv.2607.02323](https://doi.org/10.48550/arXiv.2607.02323) |
+| 2026-07-07 | [Reexamination of collisional ionization cross sections including double photoionization processes](./arxiv-2607-00875/README.md) | arXiv preprint | [10.48550/arXiv.2607.00875](https://doi.org/10.48550/arXiv.2607.00875) |
+| 2026-07-07 | [Two-and-a-half dimensional symplectic space-charge solver](./arxiv-2606-26484/README.md) | arXiv preprint | [10.48550/arXiv.2606.26484](https://doi.org/10.48550/arXiv.2606.26484) |
 | 2026-07-06 | [A toroidally spectral field solver in the X-point Gyrokinetic Code for accurate simulation of reduced magneto-hydrodynamic modes](./arxiv-2606-25213/README.md) | arXiv preprint | [10.48550/arXiv.2606.25213](https://doi.org/10.48550/arXiv.2606.25213) |
 | 2026-07-06 | [Geometric numerical discretization of electromagnetic quasineutral models](./arxiv-2606-21418/README.md) | arXiv preprint | [10.48550/arXiv.2606.21418](https://doi.org/10.48550/arXiv.2606.21418) |
 | 2026-07-06 | [New scheme for inertial confinement fusion laser drivers based on a spatiotemporal partially coherent multi-mode source and its prospects](./10-1017-hpl-2025-10099/README.md) | High Power Laser Science and Engineering | [10.1017/hpl.2025.10099](https://doi.org/10.1017/hpl.2025.10099) |
