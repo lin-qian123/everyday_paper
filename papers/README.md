@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：174 篇
-- 索引更新时间：2026-07-07
+- 当前入库论文：177 篇
+- 索引更新时间：2026-07-08
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-07-08 | [Quasi mono-energetic, relativistic electron acceleration in a femtosecond, high intensity laser excited solid magnet](./arxiv-2607-04994/README.md) | arXiv preprint | [10.48550/arXiv.2607.04994](https://doi.org/10.48550/arXiv.2607.04994) |
+| 2026-07-08 | [Deep Learning Models for ADITYA-U MHD Equilibrium](./arxiv-2607-04865/README.md) | arXiv preprint | [10.48550/arXiv.2607.04865](https://doi.org/10.48550/arXiv.2607.04865) |
+| 2026-07-08 | [Hyper Boris integrators for kinetic plasma simulations and their connection to 3D rotation representations](./arxiv-2607-04465/README.md) | arXiv preprint | [10.48550/arXiv.2607.04465](https://doi.org/10.48550/arXiv.2607.04465) |
 | 2026-07-07 | [Transiently Driven Reflectionless Resonant Microwave Plasmas via Virtual Critical Coupling](./arxiv-2607-02323/README.md) | arXiv preprint | [10.48550/arXiv.2607.02323](https://doi.org/10.48550/arXiv.2607.02323) |
 | 2026-07-07 | [Reexamination of collisional ionization cross sections including double photoionization processes](./arxiv-2607-00875/README.md) | arXiv preprint | [10.48550/arXiv.2607.00875](https://doi.org/10.48550/arXiv.2607.00875) |
 | 2026-07-07 | [Two-and-a-half dimensional symplectic space-charge solver](./arxiv-2606-26484/README.md) | arXiv preprint | [10.48550/arXiv.2606.26484](https://doi.org/10.48550/arXiv.2606.26484) |

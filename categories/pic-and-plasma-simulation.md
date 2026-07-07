@@ -2,11 +2,12 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：70 篇
-- 索引更新时间：2026-07-07
+- 当前收录：71 篇
+- 索引更新时间：2026-07-08
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-08 | [Hyper Boris integrators for kinetic plasma simulations and their connection to 3D rotation representations](../papers/arxiv-2607-04465/README.md) | arXiv preprint | [笔记](../daily/2026-07-08/notes/S. Zenitani and T. N. Kato - 2026 - Hyper Boris integrators for kinetic plasma simulations.md) |
 | 2026-07-07 | [Two-and-a-half dimensional symplectic space-charge solver](../papers/arxiv-2606-26484/README.md) | arXiv preprint | [笔记](../daily/2026-07-07/notes/Ji Qiang - 2026 - Two-and-a-half dimensional symplectic space-charge solver.md) |
 | 2026-07-06 | [A toroidally spectral field solver in the X-point Gyrokinetic Code for accurate simulation of reduced magneto-hydrodynamic modes](../papers/arxiv-2606-25213/README.md) | arXiv preprint | [笔记](../daily/2026-07-06/notes/Robert Hager et al. - 2026 - A toroidally spectral field solver in the X-point Gyrokinetic Code.md) |
 | 2026-07-06 | [Geometric numerical discretization of electromagnetic quasineutral models](../papers/arxiv-2606-21418/README.md) | arXiv preprint | [笔记](../daily/2026-07-06/notes/Nishant Narechania et al. - 2026 - Geometric numerical discretization.md) |

@@ -1918,5 +1918,38 @@
     "note_path": "daily/2026-07-07/notes/Muhammad Rizwan Akram and Abbas Semnani - 2026 - Transiently Driven Reflectionless Resonant Microwave Plasmas.md",
     "processed_date": "2026-07-07",
     "normalized_title": "transiently driven reflectionless resonant microwave plasmas via virtual critical coupling"
+  },
+  {
+    "title": "Quasi mono-energetic, relativistic electron acceleration in a femtosecond, high intensity laser excited solid magnet",
+    "doi": "10.48550/arXiv.2607.04994",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-06",
+    "source_url": "https://arxiv.org/abs/2607.04994",
+    "pdf_path": "daily/2026-07-08/pdfs/Trishul Dhalia et al. - 2026 - Quasi mono-energetic relativistic electron acceleration.pdf",
+    "note_path": "daily/2026-07-08/notes/Trishul Dhalia et al. - 2026 - Quasi mono-energetic relativistic electron acceleration.md",
+    "processed_date": "2026-07-08",
+    "normalized_title": "quasi mono energetic relativistic electron acceleration in a femtosecond high intensity laser excited solid magnet"
+  },
+  {
+    "title": "Deep Learning Models for ADITYA-U MHD Equilibrium",
+    "doi": "10.48550/arXiv.2607.04865",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-06",
+    "source_url": "https://arxiv.org/abs/2607.04865",
+    "pdf_path": "daily/2026-07-08/pdfs/Udaya Maurya et al. - 2026 - Deep Learning Models for ADITYA-U MHD Equilibrium.pdf",
+    "note_path": "daily/2026-07-08/notes/Udaya Maurya et al. - 2026 - Deep Learning Models for ADITYA-U MHD Equilibrium.md",
+    "processed_date": "2026-07-08",
+    "normalized_title": "deep learning models for aditya u mhd equilibrium"
+  },
+  {
+    "title": "Hyper Boris integrators for kinetic plasma simulations and their connection to 3D rotation representations",
+    "doi": "10.48550/arXiv.2607.04465",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-05",
+    "source_url": "https://arxiv.org/abs/2607.04465",
+    "pdf_path": "daily/2026-07-08/pdfs/S. Zenitani and T. N. Kato - 2026 - Hyper Boris integrators for kinetic plasma simulations.pdf",
+    "note_path": "daily/2026-07-08/notes/S. Zenitani and T. N. Kato - 2026 - Hyper Boris integrators for kinetic plasma simulations.md",
+    "processed_date": "2026-07-08",
+    "normalized_title": "hyper boris integrators for kinetic plasma simulations and their connection to 3d rotation representations"
   }
 ]

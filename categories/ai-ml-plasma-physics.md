@@ -2,11 +2,12 @@
 
 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。
 
-- 当前收录：23 篇
-- 索引更新时间：2026-07-07
+- 当前收录：24 篇
+- 索引更新时间：2026-07-08
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-08 | [Deep Learning Models for ADITYA-U MHD Equilibrium](../papers/arxiv-2607-04865/README.md) | arXiv preprint | [笔记](../daily/2026-07-08/notes/Udaya Maurya et al. - 2026 - Deep Learning Models for ADITYA-U MHD Equilibrium.md) |
 | 2026-07-06 | [A toroidally spectral field solver in the X-point Gyrokinetic Code for accurate simulation of reduced magneto-hydrodynamic modes](../papers/arxiv-2606-25213/README.md) | arXiv preprint | [笔记](../daily/2026-07-06/notes/Robert Hager et al. - 2026 - A toroidally spectral field solver in the X-point Gyrokinetic Code.md) |
 | 2026-07-04 | [Non-linear control variate in δf particle-in-cell methods using symplectic neural networks](../papers/arxiv-2606-30622/README.md) | arXiv（预印本） | [笔记](../daily/2026-07-04/notes/Victor Fournet et al. - 2026 - Non-linear control variate in delta-f PIC methods using symplectic neural networks.md) |
 | 2026-07-01 | [Bidirectional Autoregressive Latent Diffusion for Forward and Inverse Magnetohydrodynamics](../papers/arxiv-2606-29620/README.md) | arXiv（预印本） | [笔记](../daily/2026-07-01/notes/Alexander Scheinker - 2026 - Bidirectional Autoregressive Latent Diffusion for Forward and Inverse Magnetohydrodynamics.md) |
