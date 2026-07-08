@@ -2,11 +2,13 @@
 
 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。
 
-- 当前收录：26 篇
-- 索引更新时间：2026-07-08
+- 当前收录：28 篇
+- 索引更新时间：2026-07-09
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-09 | [Mega-Gauss Plasma Jet Creation Using a Ring of Laser Beams](../papers/arxiv-2607-05746/README.md) | arXiv preprint | [笔记](../daily/2026-07-09/notes/L. Gao et al. - 2026 - Mega-Gauss Plasma Jet Creation Using a Ring of Laser Beams.md) |
+| 2026-07-09 | [Hot Spot Evolution Measured by High-Resolution X-Ray Spectroscopy at the National Ignition Facility](../papers/arxiv-2607-05738/README.md) | arXiv preprint | [笔记](../daily/2026-07-09/notes/Lan Gao et al. - 2026 - Hot Spot Evolution Measured by High-Resolution X-Ray Spectroscopy.md) |
 | 2026-07-07 | [Transiently Driven Reflectionless Resonant Microwave Plasmas via Virtual Critical Coupling](../papers/arxiv-2607-02323/README.md) | arXiv preprint | [笔记](../daily/2026-07-07/notes/Muhammad Rizwan Akram and Abbas Semnani - 2026 - Transiently Driven Reflectionless Resonant Microwave Plasmas.md) |
 | 2026-07-07 | [Reexamination of collisional ionization cross sections including double photoionization processes](../papers/arxiv-2607-00875/README.md) | arXiv preprint | [笔记](../daily/2026-07-07/notes/Lucas Ansia et al. - 2026 - Reexamination of collisional ionization cross sections.md) |
 | 2026-07-05 | [Saturation of collisionless ion temperature gradient turbulence via symmetric dynamics. I. The zonal flow](../papers/10-1017-s0022377826101883/README.md) | Journal of Plasma Physics | [笔记](../daily/2026-07-05/notes/A.A. Azelis and P.W. Terry - 2026 - Saturation of collisionless ion temperature gradient turbulence.md) |

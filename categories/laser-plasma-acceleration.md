@@ -2,11 +2,12 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：58 篇
-- 索引更新时间：2026-07-08
+- 当前收录：59 篇
+- 索引更新时间：2026-07-09
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-09 | [Exact 1D Nonlinear Solutions for Proton-Driven Plasma Wakefields: Benchmarking Against AWAKE Data Envelopes](../papers/arxiv-2607-06458/README.md) | arXiv preprint | [笔记](../daily/2026-07-09/notes/D. Tsiklauri - 2026 - Exact 1D Nonlinear Solutions for Proton-Driven Plasma Wakefields.md) |
 | 2026-07-08 | [Quasi mono-energetic, relativistic electron acceleration in a femtosecond, high intensity laser excited solid magnet](../papers/arxiv-2607-04994/README.md) | arXiv preprint | [笔记](../daily/2026-07-08/notes/Trishul Dhalia et al. - 2026 - Quasi mono-energetic relativistic electron acceleration.md) |
 | 2026-07-04 | [Brilliant multi-GeV Compton gamma-ray source seeded by a photon accelerator](../papers/arxiv-2607-02373/README.md) | arXiv（预印本） | [笔记](../daily/2026-07-04/notes/Michael J. Quin et al. - 2026 - Brilliant multi-GeV Compton gamma-ray source seeded by a photon accelerator.md) |
 | 2026-06-29 | [Plasma Flow Generation and Particle Acceleration from Expanding Magnetic Bubbles](../papers/10-1103-yw76-d6kh/README.md) | arXiv（预印本；Phys. Rev. Research 8, 023317 (2026)） | [笔记](../daily/2026-06-29/notes/Yang Zhang et al. - 2026 - Plasma Flow Generation and Particle Acceleration from Expanding Magnetic Bubbles.md) |

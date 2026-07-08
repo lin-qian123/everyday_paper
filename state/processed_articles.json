@@ -1951,5 +1951,38 @@
     "note_path": "daily/2026-07-08/notes/S. Zenitani and T. N. Kato - 2026 - Hyper Boris integrators for kinetic plasma simulations.md",
     "processed_date": "2026-07-08",
     "normalized_title": "hyper boris integrators for kinetic plasma simulations and their connection to 3d rotation representations"
+  },
+  {
+    "title": "Exact 1D Nonlinear Solutions for Proton-Driven Plasma Wakefields: Benchmarking Against AWAKE Data Envelopes",
+    "normalized_title": "exact 1d nonlinear solutions for proton driven plasma wakefields benchmarking against awake data envelopes",
+    "doi": "10.48550/arXiv.2607.06458",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-07",
+    "processed_date": "2026-07-09",
+    "source_url": "https://arxiv.org/abs/2607.06458",
+    "pdf_path": "daily/2026-07-09/pdfs/D. Tsiklauri - 2026 - Exact 1D Nonlinear Solutions for Proton-Driven Plasma Wakefields.pdf",
+    "note_path": "daily/2026-07-09/notes/D. Tsiklauri - 2026 - Exact 1D Nonlinear Solutions for Proton-Driven Plasma Wakefields.md"
+  },
+  {
+    "title": "Mega-Gauss Plasma Jet Creation Using a Ring of Laser Beams",
+    "normalized_title": "mega gauss plasma jet creation using a ring of laser beams",
+    "doi": "10.48550/arXiv.2607.05746",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-07",
+    "processed_date": "2026-07-09",
+    "source_url": "https://arxiv.org/abs/2607.05746",
+    "pdf_path": "daily/2026-07-09/pdfs/L. Gao et al. - 2026 - Mega-Gauss Plasma Jet Creation Using a Ring of Laser Beams.pdf",
+    "note_path": "daily/2026-07-09/notes/L. Gao et al. - 2026 - Mega-Gauss Plasma Jet Creation Using a Ring of Laser Beams.md"
+  },
+  {
+    "title": "Hot Spot Evolution Measured by High-Resolution X-Ray Spectroscopy at the National Ignition Facility",
+    "normalized_title": "hot spot evolution measured by high resolution x ray spectroscopy at the national ignition facility",
+    "doi": "10.48550/arXiv.2607.05738",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-07",
+    "processed_date": "2026-07-09",
+    "source_url": "https://arxiv.org/abs/2607.05738",
+    "pdf_path": "daily/2026-07-09/pdfs/Lan Gao et al. - 2026 - Hot Spot Evolution Measured by High-Resolution X-Ray Spectroscopy.pdf",
+    "note_path": "daily/2026-07-09/notes/Lan Gao et al. - 2026 - Hot Spot Evolution Measured by High-Resolution X-Ray Spectroscopy.md"
   }
 ]

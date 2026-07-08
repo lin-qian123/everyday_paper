@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：177 篇
-- 索引更新时间：2026-07-08
+- 当前入库论文：180 篇
+- 索引更新时间：2026-07-09
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-07-09 | [Exact 1D Nonlinear Solutions for Proton-Driven Plasma Wakefields: Benchmarking Against AWAKE Data Envelopes](./arxiv-2607-06458/README.md) | arXiv preprint | [10.48550/arXiv.2607.06458](https://doi.org/10.48550/arXiv.2607.06458) |
+| 2026-07-09 | [Mega-Gauss Plasma Jet Creation Using a Ring of Laser Beams](./arxiv-2607-05746/README.md) | arXiv preprint | [10.48550/arXiv.2607.05746](https://doi.org/10.48550/arXiv.2607.05746) |
+| 2026-07-09 | [Hot Spot Evolution Measured by High-Resolution X-Ray Spectroscopy at the National Ignition Facility](./arxiv-2607-05738/README.md) | arXiv preprint | [10.48550/arXiv.2607.05738](https://doi.org/10.48550/arXiv.2607.05738) |
 | 2026-07-08 | [Quasi mono-energetic, relativistic electron acceleration in a femtosecond, high intensity laser excited solid magnet](./arxiv-2607-04994/README.md) | arXiv preprint | [10.48550/arXiv.2607.04994](https://doi.org/10.48550/arXiv.2607.04994) |
 | 2026-07-08 | [Deep Learning Models for ADITYA-U MHD Equilibrium](./arxiv-2607-04865/README.md) | arXiv preprint | [10.48550/arXiv.2607.04865](https://doi.org/10.48550/arXiv.2607.04865) |
 | 2026-07-08 | [Hyper Boris integrators for kinetic plasma simulations and their connection to 3D rotation representations](./arxiv-2607-04465/README.md) | arXiv preprint | [10.48550/arXiv.2607.04465](https://doi.org/10.48550/arXiv.2607.04465) |
