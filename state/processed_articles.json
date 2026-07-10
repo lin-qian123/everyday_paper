@@ -2017,5 +2017,38 @@
     "pdf_path": "daily/2026-07-10/pdfs/Srimanta Maity - 2026 - Terahertz Generation through Photon Deceleration.pdf",
     "note_path": "daily/2026-07-10/notes/Srimanta Maity - 2026 - Terahertz Generation through Photon Deceleration.md",
     "normalized_title": "terahertz generation through photon deceleration of long wavelength infrared laser pulses in plasma"
+  },
+  {
+    "title": "Precision mapping of laser-driven magnetic fields and their evolution in high-energy-density plasmas",
+    "doi": "10.48550/arXiv.2607.08680",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-09",
+    "processed_date": "2026-07-11",
+    "source_url": "https://arxiv.org/abs/2607.08680",
+    "pdf_path": "daily/2026-07-11/pdfs/Lan Gao et al. - 2026 - Precision mapping of laser-driven magnetic fields.pdf",
+    "note_path": "daily/2026-07-11/notes/Lan Gao et al. - 2026 - Precision mapping of laser-driven magnetic fields.md",
+    "normalized_title": "precision mapping of laser driven magnetic fields and their evolution in high energy density plasmas"
+  },
+  {
+    "title": "Multi-GeV Electron Combs from a Plasma Wakefield Accelerator",
+    "doi": "10.48550/arXiv.2607.08069",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-09",
+    "processed_date": "2026-07-11",
+    "source_url": "https://arxiv.org/abs/2607.08069",
+    "pdf_path": "daily/2026-07-11/pdfs/Chaojie Zhang et al. - 2026 - Multi-GeV Electron Combs from a Plasma Wakefield Accelerator.pdf",
+    "note_path": "daily/2026-07-11/notes/Chaojie Zhang et al. - 2026 - Multi-GeV Electron Combs from a Plasma Wakefield Accelerator.md",
+    "normalized_title": "multi gev electron combs from a plasma wakefield accelerator"
+  },
+  {
+    "title": "TeV Electron Beams from Plasma Acceleration via Regenerative Cascading",
+    "doi": "10.48550/arXiv.2607.07979",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-08",
+    "processed_date": "2026-07-11",
+    "source_url": "https://arxiv.org/abs/2607.07979",
+    "pdf_path": "daily/2026-07-11/pdfs/Chaojie Zhang and Chan Joshi - 2026 - TeV Electron Beams from Plasma Acceleration.pdf",
+    "note_path": "daily/2026-07-11/notes/Chaojie Zhang and Chan Joshi - 2026 - TeV Electron Beams from Plasma Acceleration.md",
+    "normalized_title": "tev electron beams from plasma acceleration via regenerative cascading"
   }
 ]

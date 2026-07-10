@@ -2,11 +2,13 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：59 篇
-- 索引更新时间：2026-07-10
+- 当前收录：61 篇
+- 索引更新时间：2026-07-11
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-11 | [Multi-GeV Electron Combs from a Plasma Wakefield Accelerator](../papers/arxiv-2607-08069/README.md) | arXiv preprint | [笔记](../daily/2026-07-11/notes/Chaojie Zhang et al. - 2026 - Multi-GeV Electron Combs from a Plasma Wakefield Accelerator.md) |
+| 2026-07-11 | [TeV Electron Beams from Plasma Acceleration via Regenerative Cascading](../papers/arxiv-2607-07979/README.md) | arXiv preprint | [笔记](../daily/2026-07-11/notes/Chaojie Zhang and Chan Joshi - 2026 - TeV Electron Beams from Plasma Acceleration.md) |
 | 2026-07-09 | [Exact 1D Nonlinear Solutions for Proton-Driven Plasma Wakefields: Benchmarking Against AWAKE Data Envelopes](../papers/arxiv-2607-06458/README.md) | arXiv preprint | [笔记](../daily/2026-07-09/notes/D. Tsiklauri - 2026 - Exact 1D Nonlinear Solutions for Proton-Driven Plasma Wakefields.md) |
 | 2026-07-08 | [Quasi mono-energetic, relativistic electron acceleration in a femtosecond, high intensity laser excited solid magnet](../papers/arxiv-2607-04994/README.md) | arXiv preprint | [笔记](../daily/2026-07-08/notes/Trishul Dhalia et al. - 2026 - Quasi mono-energetic relativistic electron acceleration.md) |
 | 2026-07-04 | [Brilliant multi-GeV Compton gamma-ray source seeded by a photon accelerator](../papers/arxiv-2607-02373/README.md) | arXiv（预印本） | [笔记](../daily/2026-07-04/notes/Michael J. Quin et al. - 2026 - Brilliant multi-GeV Compton gamma-ray source seeded by a photon accelerator.md) |

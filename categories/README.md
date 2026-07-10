@@ -4,10 +4,10 @@
 
 | 分类 | 篇数 | 说明 |
 | --- | ---: | --- |
-| [激光等离子体与束流加速](./laser-plasma-acceleration.md) | 59 | LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。 |
+| [激光等离子体与束流加速](./laser-plasma-acceleration.md) | 61 | LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。 |
 | [激光加速电子/离子束应用](./laser-accelerated-beam-applications.md) | 36 | 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。 |
 | [强场 QED 与辐射反作用](./strong-field-qed-radiation.md) | 40 | 强场量子效应、辐射反作用、非线性 Compton、pair production 与极端场实验。 |
-| [高能量密度物理、ICF 与实验室天体](./hedp-icf-laboratory-astrophysics.md) | 54 | HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。 |
+| [高能量密度物理、ICF 与实验室天体](./hedp-icf-laboratory-astrophysics.md) | 55 | HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。 |
 | [PIC、动理学与数值模拟](./pic-and-plasma-simulation.md) | 71 | PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。 |
 | [机器学习与等离子体物理](./ai-ml-plasma-physics.md) | 24 | 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。 |
 | [磁约束聚变与 alpha 粒子](./magnetic-fusion-and-alpha-particles.md) | 14 | stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。 |
