@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "output": "daily/2026-07-12/pdfs/Jiajun Li et al. - 2026 - Filamentation Suppression and Efficiency Enhancement in Backward Raman Amplification.pdf",
+  "source_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/705C5009184868B0334FA98177FF9CA4/S2095471926101832a.pdf/div-class-title-filamentation-suppression-and-efficiency-enhancement-in-backward-raman-amplification-via-structured-plasma-div.pdf",
+  "mode": "env-proxy",
+  "attempts": [
+    "[env-proxy] https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/filamentation-suppression-and-efficiency-enhancement-in-backward-raman-amplification-via-structured-plasma/705C5009184868B0334FA98177FF9CA4 -> not pdf (content-type=text/html; charset=utf-8)",
+    "[direct] https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/filamentation-suppression-and-efficiency-enhancement-in-backward-raman-amplification-via-structured-plasma/705C5009184868B0334FA98177FF9CA4 -> not pdf (content-type=text/html; charset=utf-8)",
+    "[env-proxy] https://doi.org/10.1017/hpl.2026.10183 -> not pdf (content-type=text/html; charset=utf-8)",
+    "[direct] https://doi.org/10.1017/hpl.2026.10183 -> not pdf (content-type=text/html; charset=utf-8)"
+  ]
+}

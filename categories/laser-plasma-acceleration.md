@@ -2,11 +2,12 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：61 篇
-- 索引更新时间：2026-07-11
+- 当前收录：62 篇
+- 索引更新时间：2026-07-12
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-12 | [Photon Acceleration in Magnetized Plasma: A Mechanism for Fast Radio Bursts](../papers/arxiv-2607-08464/README.md) | arXiv preprint | [笔记](../daily/2026-07-12/notes/Sergei V. Bulanov et al. - 2026 - Photon Acceleration in Magnetized Plasma.md) |
 | 2026-07-11 | [Multi-GeV Electron Combs from a Plasma Wakefield Accelerator](../papers/arxiv-2607-08069/README.md) | arXiv preprint | [笔记](../daily/2026-07-11/notes/Chaojie Zhang et al. - 2026 - Multi-GeV Electron Combs from a Plasma Wakefield Accelerator.md) |
 | 2026-07-11 | [TeV Electron Beams from Plasma Acceleration via Regenerative Cascading](../papers/arxiv-2607-07979/README.md) | arXiv preprint | [笔记](../daily/2026-07-11/notes/Chaojie Zhang and Chan Joshi - 2026 - TeV Electron Beams from Plasma Acceleration.md) |
 | 2026-07-09 | [Exact 1D Nonlinear Solutions for Proton-Driven Plasma Wakefields: Benchmarking Against AWAKE Data Envelopes](../papers/arxiv-2607-06458/README.md) | arXiv preprint | [笔记](../daily/2026-07-09/notes/D. Tsiklauri - 2026 - Exact 1D Nonlinear Solutions for Proton-Driven Plasma Wakefields.md) |

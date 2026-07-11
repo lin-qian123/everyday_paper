@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：186 篇
-- 索引更新时间：2026-07-11
+- 当前入库论文：189 篇
+- 索引更新时间：2026-07-12
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-07-12 | [Filamentation Suppression and Efficiency Enhancement in Backward Raman Amplification via Structured Plasma](./10-1017-hpl-2026-10183/README.md) | High Power Laser Science and Engineering（正式期刊 accepted manuscript） | [10.1017/hpl.2026.10183](https://doi.org/10.1017/hpl.2026.10183) |
+| 2026-07-12 | [Photon Acceleration in Magnetized Plasma: A Mechanism for Fast Radio Bursts](./arxiv-2607-08464/README.md) | arXiv preprint | [10.48550/arXiv.2607.08464](https://doi.org/10.48550/arXiv.2607.08464) |
+| 2026-07-12 | [Enhanced fast-electron generation by optimizing the crossing point of two picosecond laser pulses with large angles](./10-1017-hpl-2026-10180/README.md) | High Power Laser Science and Engineering（正式期刊 accepted manuscript） | [10.1017/hpl.2026.10180](https://doi.org/10.1017/hpl.2026.10180) |
 | 2026-07-11 | [Precision mapping of laser-driven magnetic fields and their evolution in high-energy-density plasmas](./arxiv-2607-08680/README.md) | arXiv preprint | [10.48550/arXiv.2607.08680](https://doi.org/10.48550/arXiv.2607.08680) |
 | 2026-07-11 | [Multi-GeV Electron Combs from a Plasma Wakefield Accelerator](./arxiv-2607-08069/README.md) | arXiv preprint | [10.48550/arXiv.2607.08069](https://doi.org/10.48550/arXiv.2607.08069) |
 | 2026-07-11 | [TeV Electron Beams from Plasma Acceleration via Regenerative Cascading](./arxiv-2607-07979/README.md) | arXiv preprint | [10.48550/arXiv.2607.07979](https://doi.org/10.48550/arXiv.2607.07979) |

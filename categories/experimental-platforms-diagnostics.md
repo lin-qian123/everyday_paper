@@ -2,11 +2,14 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：31 篇
-- 索引更新时间：2026-07-11
+- 当前收录：34 篇
+- 索引更新时间：2026-07-12
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-12 | [Filamentation Suppression and Efficiency Enhancement in Backward Raman Amplification via Structured Plasma](../papers/10-1017-hpl-2026-10183/README.md) | High Power Laser Science and Engineering（正式期刊 accepted manuscript） | [笔记](../daily/2026-07-12/notes/Jiajun Li et al. - 2026 - Filamentation Suppression and Efficiency Enhancement.md) |
+| 2026-07-12 | [Photon Acceleration in Magnetized Plasma: A Mechanism for Fast Radio Bursts](../papers/arxiv-2607-08464/README.md) | arXiv preprint | [笔记](../daily/2026-07-12/notes/Sergei V. Bulanov et al. - 2026 - Photon Acceleration in Magnetized Plasma.md) |
+| 2026-07-12 | [Enhanced fast-electron generation by optimizing the crossing point of two picosecond laser pulses with large angles](../papers/10-1017-hpl-2026-10180/README.md) | High Power Laser Science and Engineering（正式期刊 accepted manuscript） | [笔记](../daily/2026-07-12/notes/Zhiwei Wang and Weimin Wang - 2026 - Enhanced fast-electron generation.md) |
 | 2026-07-04 | [Development of a thin-target hard X-ray bremsstrahlung detection system to study confined runaway electrons in Aditya-U Tokamak](../papers/arxiv-2607-01488/README.md) | arXiv（预印本） | [笔记](../daily/2026-07-04/notes/Suman Dolui et al. - 2026 - Development of a thin-target hard X-ray bremsstrahlung detection system.md) |
 | 2026-07-03 | [Overview of GOL-NB experiments in 2025](../papers/10-1017-s0022377826101895/README.md) | Journal of Plasma Physics | [笔记](../daily/2026-07-03/notes/Vladimir V. Postupaev et al. - 2026 - Overview of GOL-NB experiments in 2025.md) |
 | 2026-07-01 | [Bidirectional Autoregressive Latent Diffusion for Forward and Inverse Magnetohydrodynamics](../papers/arxiv-2606-29620/README.md) | arXiv（预印本） | [笔记](../daily/2026-07-01/notes/Alexander Scheinker - 2026 - Bidirectional Autoregressive Latent Diffusion for Forward and Inverse Magnetohydrodynamics.md) |

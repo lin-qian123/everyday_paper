@@ -2050,5 +2050,38 @@
     "pdf_path": "daily/2026-07-11/pdfs/Chaojie Zhang and Chan Joshi - 2026 - TeV Electron Beams from Plasma Acceleration.pdf",
     "note_path": "daily/2026-07-11/notes/Chaojie Zhang and Chan Joshi - 2026 - TeV Electron Beams from Plasma Acceleration.md",
     "normalized_title": "tev electron beams from plasma acceleration via regenerative cascading"
+  },
+  {
+    "title": "Filamentation Suppression and Efficiency Enhancement in Backward Raman Amplification via Structured Plasma",
+    "normalized_title": "filamentation suppression and efficiency enhancement in backward raman amplification via structured plasma",
+    "doi": "10.1017/hpl.2026.10183",
+    "journal": "High Power Laser Science and Engineering（正式期刊 accepted manuscript）",
+    "publication_date": "2026-07-10",
+    "processed_date": "2026-07-12",
+    "source_url": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/filamentation-suppression-and-efficiency-enhancement-in-backward-raman-amplification-via-structured-plasma/705C5009184868B0334FA98177FF9CA4",
+    "pdf_path": "daily/2026-07-12/pdfs/Jiajun Li et al. - 2026 - Filamentation Suppression and Efficiency Enhancement in Backward Raman Amplification.pdf",
+    "note_path": "daily/2026-07-12/notes/Jiajun Li et al. - 2026 - Filamentation Suppression and Efficiency Enhancement.md"
+  },
+  {
+    "title": "Enhanced fast-electron generation by optimizing the crossing point of two picosecond laser pulses with large angles",
+    "normalized_title": "enhanced fast electron generation by optimizing the crossing point of two picosecond laser pulses with large angles",
+    "doi": "10.1017/hpl.2026.10180",
+    "journal": "High Power Laser Science and Engineering（正式期刊 accepted manuscript）",
+    "publication_date": "2026-07-07",
+    "processed_date": "2026-07-12",
+    "source_url": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/enhanced-fastelectron-generation-by-optimizing-the-crossing-point-of-two-picosecond-laser-pulses-with-large-angles/3B34193BBC356E9D1DC637170E75910E",
+    "pdf_path": "daily/2026-07-12/pdfs/Zhiwei Wang and Weimin Wang - 2026 - Enhanced fast-electron generation.pdf",
+    "note_path": "daily/2026-07-12/notes/Zhiwei Wang and Weimin Wang - 2026 - Enhanced fast-electron generation.md"
+  },
+  {
+    "title": "Photon Acceleration in Magnetized Plasma: A Mechanism for Fast Radio Bursts",
+    "normalized_title": "photon acceleration in magnetized plasma a mechanism for fast radio bursts",
+    "doi": "10.48550/arXiv.2607.08464",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-09",
+    "processed_date": "2026-07-12",
+    "source_url": "https://arxiv.org/abs/2607.08464",
+    "pdf_path": "daily/2026-07-12/pdfs/Sergei V. Bulanov et al. - 2026 - Photon Acceleration in Magnetized Plasma.pdf",
+    "note_path": "daily/2026-07-12/notes/Sergei V. Bulanov et al. - 2026 - Photon Acceleration in Magnetized Plasma.md"
   }
 ]

@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "output": "daily/2026-07-12/pdfs/Zhiwei Wang and Weimin Wang - 2026 - Enhanced fast-electron generation.pdf",
+  "source_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3B34193BBC356E9D1DC637170E75910E/S2095471926101807a.pdf/div-class-title-enhanced-fast-electron-generation-by-optimizing-the-crossing-point-of-two-picosecond-laser-pulses-with-large-angles-div.pdf",
+  "mode": "env-proxy",
+  "attempts": [
+    "[env-proxy] https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/enhanced-fastelectron-generation-by-optimizing-the-crossing-point-of-two-picosecond-laser-pulses-with-large-angles/3B34193BBC356E9D1DC637170E75910E -> not pdf (content-type=text/html; charset=utf-8)",
+    "[direct] https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/enhanced-fastelectron-generation-by-optimizing-the-crossing-point-of-two-picosecond-laser-pulses-with-large-angles/3B34193BBC356E9D1DC637170E75910E -> not pdf (content-type=text/html; charset=utf-8)",
+    "[env-proxy] https://doi.org/10.1017/hpl.2026.10180 -> not pdf (content-type=text/html; charset=utf-8)",
+    "[direct] https://doi.org/10.1017/hpl.2026.10180 -> not pdf (content-type=text/html; charset=utf-8)"
+  ]
+}
