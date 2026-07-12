@@ -2,11 +2,13 @@
 
 HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。
 
-- 当前收录：58 篇
-- 索引更新时间：2026-07-12
+- 当前收录：60 篇
+- 索引更新时间：2026-07-13
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-13 | [Dependence of Particle Acceleration Efficiency on Shock Velocity in Weakly Magnetized Electron-Ion Shocks](../papers/arxiv-2607-05778/README.md) | arXiv preprint | [笔记](../daily/2026-07-13/notes/Taiki Jikei et al. - 2026 - Dependence of Particle Acceleration Efficiency.md) |
+| 2026-07-13 | [Absolute Calibration of a Time-Resolved High Resolution X-ray Spectrometer for the National Ignition Facility (invited)](../papers/arxiv-2607-05766/README.md) | arXiv preprint | [笔记](../daily/2026-07-13/notes/Lan Gao et al. - 2026 - Absolute Calibration of a Time-Resolved High Resolution X-ray Spectrometer.md) |
 | 2026-07-12 | [Filamentation Suppression and Efficiency Enhancement in Backward Raman Amplification via Structured Plasma](../papers/10-1017-hpl-2026-10183/README.md) | High Power Laser Science and Engineering（正式期刊 accepted manuscript） | [笔记](../daily/2026-07-12/notes/Jiajun Li et al. - 2026 - Filamentation Suppression and Efficiency Enhancement.md) |
 | 2026-07-12 | [Photon Acceleration in Magnetized Plasma: A Mechanism for Fast Radio Bursts](../papers/arxiv-2607-08464/README.md) | arXiv preprint | [笔记](../daily/2026-07-12/notes/Sergei V. Bulanov et al. - 2026 - Photon Acceleration in Magnetized Plasma.md) |
 | 2026-07-12 | [Enhanced fast-electron generation by optimizing the crossing point of two picosecond laser pulses with large angles](../papers/10-1017-hpl-2026-10180/README.md) | High Power Laser Science and Engineering（正式期刊 accepted manuscript） | [笔记](../daily/2026-07-12/notes/Zhiwei Wang and Weimin Wang - 2026 - Enhanced fast-electron generation.md) |

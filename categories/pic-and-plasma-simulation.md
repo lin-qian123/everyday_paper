@@ -2,11 +2,12 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：72 篇
-- 索引更新时间：2026-07-12
+- 当前收录：73 篇
+- 索引更新时间：2026-07-13
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-13 | [Dependence of Particle Acceleration Efficiency on Shock Velocity in Weakly Magnetized Electron-Ion Shocks](../papers/arxiv-2607-05778/README.md) | arXiv preprint | [笔记](../daily/2026-07-13/notes/Taiki Jikei et al. - 2026 - Dependence of Particle Acceleration Efficiency.md) |
 | 2026-07-12 | [Enhanced fast-electron generation by optimizing the crossing point of two picosecond laser pulses with large angles](../papers/10-1017-hpl-2026-10180/README.md) | High Power Laser Science and Engineering（正式期刊 accepted manuscript） | [笔记](../daily/2026-07-12/notes/Zhiwei Wang and Weimin Wang - 2026 - Enhanced fast-electron generation.md) |
 | 2026-07-08 | [Hyper Boris integrators for kinetic plasma simulations and their connection to 3D rotation representations](../papers/arxiv-2607-04465/README.md) | arXiv preprint | [笔记](../daily/2026-07-08/notes/S. Zenitani and T. N. Kato - 2026 - Hyper Boris integrators for kinetic plasma simulations.md) |
 | 2026-07-07 | [Two-and-a-half dimensional symplectic space-charge solver](../papers/arxiv-2606-26484/README.md) | arXiv preprint | [笔记](../daily/2026-07-07/notes/Ji Qiang - 2026 - Two-and-a-half dimensional symplectic space-charge solver.md) |

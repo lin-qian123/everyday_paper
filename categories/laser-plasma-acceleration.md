@@ -2,11 +2,13 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：62 篇
-- 索引更新时间：2026-07-12
+- 当前收录：64 篇
+- 索引更新时间：2026-07-13
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-13 | [Dependence of Particle Acceleration Efficiency on Shock Velocity in Weakly Magnetized Electron-Ion Shocks](../papers/arxiv-2607-05778/README.md) | arXiv preprint | [笔记](../daily/2026-07-13/notes/Taiki Jikei et al. - 2026 - Dependence of Particle Acceleration Efficiency.md) |
+| 2026-07-13 | [Characterizing an inverse Compton X-ray source and determining its electron beam parameters using a genetic algorithm](../papers/arxiv-2607-06226/README.md) | arXiv preprint | [笔记](../daily/2026-07-13/notes/Johannes Melcher et al. - 2026 - Characterizing an inverse Compton X-ray source.md) |
 | 2026-07-12 | [Photon Acceleration in Magnetized Plasma: A Mechanism for Fast Radio Bursts](../papers/arxiv-2607-08464/README.md) | arXiv preprint | [笔记](../daily/2026-07-12/notes/Sergei V. Bulanov et al. - 2026 - Photon Acceleration in Magnetized Plasma.md) |
 | 2026-07-11 | [Multi-GeV Electron Combs from a Plasma Wakefield Accelerator](../papers/arxiv-2607-08069/README.md) | arXiv preprint | [笔记](../daily/2026-07-11/notes/Chaojie Zhang et al. - 2026 - Multi-GeV Electron Combs from a Plasma Wakefield Accelerator.md) |
 | 2026-07-11 | [TeV Electron Beams from Plasma Acceleration via Regenerative Cascading](../papers/arxiv-2607-07979/README.md) | arXiv preprint | [笔记](../daily/2026-07-11/notes/Chaojie Zhang and Chan Joshi - 2026 - TeV Electron Beams from Plasma Acceleration.md) |

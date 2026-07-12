@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：189 篇
-- 索引更新时间：2026-07-12
+- 当前入库论文：192 篇
+- 索引更新时间：2026-07-13
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-07-13 | [Dependence of Particle Acceleration Efficiency on Shock Velocity in Weakly Magnetized Electron-Ion Shocks](./arxiv-2607-05778/README.md) | arXiv preprint | [10.48550/arXiv.2607.05778](https://doi.org/10.48550/arXiv.2607.05778) |
+| 2026-07-13 | [Characterizing an inverse Compton X-ray source and determining its electron beam parameters using a genetic algorithm](./arxiv-2607-06226/README.md) | arXiv preprint | [10.48550/arXiv.2607.06226](https://doi.org/10.48550/arXiv.2607.06226) |
+| 2026-07-13 | [Absolute Calibration of a Time-Resolved High Resolution X-ray Spectrometer for the National Ignition Facility (invited)](./arxiv-2607-05766/README.md) | arXiv preprint | [10.48550/arXiv.2607.05766](https://doi.org/10.48550/arXiv.2607.05766) |
 | 2026-07-12 | [Filamentation Suppression and Efficiency Enhancement in Backward Raman Amplification via Structured Plasma](./10-1017-hpl-2026-10183/README.md) | High Power Laser Science and Engineering（正式期刊 accepted manuscript） | [10.1017/hpl.2026.10183](https://doi.org/10.1017/hpl.2026.10183) |
 | 2026-07-12 | [Photon Acceleration in Magnetized Plasma: A Mechanism for Fast Radio Bursts](./arxiv-2607-08464/README.md) | arXiv preprint | [10.48550/arXiv.2607.08464](https://doi.org/10.48550/arXiv.2607.08464) |
 | 2026-07-12 | [Enhanced fast-electron generation by optimizing the crossing point of two picosecond laser pulses with large angles](./10-1017-hpl-2026-10180/README.md) | High Power Laser Science and Engineering（正式期刊 accepted manuscript） | [10.1017/hpl.2026.10180](https://doi.org/10.1017/hpl.2026.10180) |
