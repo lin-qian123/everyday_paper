@@ -2,11 +2,13 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：73 篇
-- 索引更新时间：2026-07-13
+- 当前收录：75 篇
+- 索引更新时间：2026-07-14
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-14 | [Tens of MeV, collimated, bright fluxes of protons from ordered nano-structured targets in ultra-relativistic laser-matter interaction](../papers/arxiv-2607-09229/README.md) | arXiv preprint | [笔记](../daily/2026-07-14/notes/Sagar Dam et al. - 2026 - Tens of MeV collimated bright fluxes of protons.md) |
+| 2026-07-14 | [TokaGrad: End-to-end differentiable tokamak simulator for L-to-H full scenario optimization](../papers/arxiv-2607-09088/README.md) | arXiv preprint | [笔记](../daily/2026-07-14/notes/Jaemin Seo - 2026 - TokaGrad differentiable tokamak simulator.md) |
 | 2026-07-13 | [Dependence of Particle Acceleration Efficiency on Shock Velocity in Weakly Magnetized Electron-Ion Shocks](../papers/arxiv-2607-05778/README.md) | arXiv preprint | [笔记](../daily/2026-07-13/notes/Taiki Jikei et al. - 2026 - Dependence of Particle Acceleration Efficiency.md) |
 | 2026-07-12 | [Enhanced fast-electron generation by optimizing the crossing point of two picosecond laser pulses with large angles](../papers/10-1017-hpl-2026-10180/README.md) | High Power Laser Science and Engineering（正式期刊 accepted manuscript） | [笔记](../daily/2026-07-12/notes/Zhiwei Wang and Weimin Wang - 2026 - Enhanced fast-electron generation.md) |
 | 2026-07-08 | [Hyper Boris integrators for kinetic plasma simulations and their connection to 3D rotation representations](../papers/arxiv-2607-04465/README.md) | arXiv preprint | [笔记](../daily/2026-07-08/notes/S. Zenitani and T. N. Kato - 2026 - Hyper Boris integrators for kinetic plasma simulations.md) |

@@ -2,11 +2,12 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：36 篇
-- 索引更新时间：2026-07-13
+- 当前收录：37 篇
+- 索引更新时间：2026-07-14
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-14 | [Tens of MeV, collimated, bright fluxes of protons from ordered nano-structured targets in ultra-relativistic laser-matter interaction](../papers/arxiv-2607-09229/README.md) | arXiv preprint | [笔记](../daily/2026-07-14/notes/Sagar Dam et al. - 2026 - Tens of MeV collimated bright fluxes of protons.md) |
 | 2026-07-13 | [Characterizing an inverse Compton X-ray source and determining its electron beam parameters using a genetic algorithm](../papers/arxiv-2607-06226/README.md) | arXiv preprint | [笔记](../daily/2026-07-13/notes/Johannes Melcher et al. - 2026 - Characterizing an inverse Compton X-ray source.md) |
 | 2026-07-13 | [Absolute Calibration of a Time-Resolved High Resolution X-ray Spectrometer for the National Ignition Facility (invited)](../papers/arxiv-2607-05766/README.md) | arXiv preprint | [笔记](../daily/2026-07-13/notes/Lan Gao et al. - 2026 - Absolute Calibration of a Time-Resolved High Resolution X-ray Spectrometer.md) |
 | 2026-07-12 | [Filamentation Suppression and Efficiency Enhancement in Backward Raman Amplification via Structured Plasma](../papers/10-1017-hpl-2026-10183/README.md) | High Power Laser Science and Engineering（正式期刊 accepted manuscript） | [笔记](../daily/2026-07-12/notes/Jiajun Li et al. - 2026 - Filamentation Suppression and Efficiency Enhancement.md) |

@@ -2,11 +2,12 @@
 
 stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。
 
-- 当前收录：14 篇
-- 索引更新时间：2026-07-13
+- 当前收录：15 篇
+- 索引更新时间：2026-07-14
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-14 | [TokaGrad: End-to-end differentiable tokamak simulator for L-to-H full scenario optimization](../papers/arxiv-2607-09088/README.md) | arXiv preprint | [笔记](../daily/2026-07-14/notes/Jaemin Seo - 2026 - TokaGrad differentiable tokamak simulator.md) |
 | 2026-07-06 | [A toroidally spectral field solver in the X-point Gyrokinetic Code for accurate simulation of reduced magneto-hydrodynamic modes](../papers/arxiv-2606-25213/README.md) | arXiv preprint | [笔记](../daily/2026-07-06/notes/Robert Hager et al. - 2026 - A toroidally spectral field solver in the X-point Gyrokinetic Code.md) |
 | 2026-07-06 | [New scheme for inertial confinement fusion laser drivers based on a spatiotemporal partially coherent multi-mode source and its prospects](../papers/10-1017-hpl-2025-10099/README.md) | High Power Laser Science and Engineering | [笔记](../daily/2026-07-06/notes/Jianqiang Zhu et al. - 2026 - New scheme for inertial confinement fusion laser drivers.md) |
 | 2026-07-05 | [Constructing field-aligned coordinate systems for gyrokinetic simulations of tokamaks in X-point geometries](../papers/10-1017-s0022377826101779/README.md) | Journal of Plasma Physics | [笔记](../daily/2026-07-05/notes/Akash Shukla et al. - 2026 - Constructing field-aligned coordinate systems for gyrokinetic simulations.md) |

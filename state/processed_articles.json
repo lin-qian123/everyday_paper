@@ -2116,5 +2116,38 @@
     "source_url": "https://arxiv.org/abs/2607.05766",
     "pdf_path": "daily/2026-07-13/pdfs/Lan Gao et al. - 2026 - Absolute Calibration of a Time-Resolved High Resolution X-ray Spectrometer.pdf",
     "note_path": "daily/2026-07-13/notes/Lan Gao et al. - 2026 - Absolute Calibration of a Time-Resolved High Resolution X-ray Spectrometer.md"
+  },
+  {
+    "title": "Tens of MeV, collimated, bright fluxes of protons from ordered nano-structured targets in ultra-relativistic laser-matter interaction",
+    "normalized_title": "tens of mev collimated bright fluxes of protons from ordered nano structured targets in ultra relativistic laser matter interaction",
+    "doi": "10.48550/arXiv.2607.09229",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-10",
+    "processed_date": "2026-07-14",
+    "source_url": "https://arxiv.org/abs/2607.09229",
+    "pdf_path": "daily/2026-07-14/pdfs/Sagar Dam et al. - 2026 - Tens of MeV collimated bright fluxes of protons.pdf",
+    "note_path": "daily/2026-07-14/notes/Sagar Dam et al. - 2026 - Tens of MeV collimated bright fluxes of protons.md"
+  },
+  {
+    "title": "On the generation of astrophysically-relevant intermittent magnetic turbulence in the laboratory",
+    "normalized_title": "on the generation of astrophysically relevant intermittent magnetic turbulence in the laboratory",
+    "doi": "10.48550/arXiv.2607.09453",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-10",
+    "processed_date": "2026-07-14",
+    "source_url": "https://arxiv.org/abs/2607.09453",
+    "pdf_path": "daily/2026-07-14/pdfs/Itamar Cohen et al. - 2026 - On the generation of astrophysically-relevant intermittent magnetic turbulence.pdf",
+    "note_path": "daily/2026-07-14/notes/Itamar Cohen et al. - 2026 - On the generation of astrophysically-relevant intermittent magnetic turbulence.md"
+  },
+  {
+    "title": "TokaGrad: End-to-end differentiable tokamak simulator for L-to-H full scenario optimization",
+    "normalized_title": "tokagrad end to end differentiable tokamak simulator for l to h full scenario optimization",
+    "doi": "10.48550/arXiv.2607.09088",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-10",
+    "processed_date": "2026-07-14",
+    "source_url": "https://arxiv.org/abs/2607.09088",
+    "pdf_path": "daily/2026-07-14/pdfs/Jaemin Seo - 2026 - TokaGrad differentiable tokamak simulator.pdf",
+    "note_path": "daily/2026-07-14/notes/Jaemin Seo - 2026 - TokaGrad differentiable tokamak simulator.md"
   }
 ]
