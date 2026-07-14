@@ -1,0 +1,24 @@
+{
+  "run_date": "2026-07-15",
+  "added_count": 3,
+  "processed_articles_before": 195,
+  "processed_articles_after": 198,
+  "retry_queue_count": 12,
+  "sources_checked": [
+    "Cambridge High Power Laser Science and Engineering listing",
+    "Cambridge Journal of Plasma Physics listing",
+    "arXiv API categories: physics.plasm-ph, physics.acc-ph, physics.comp-ph, nucl-ex, physics.ins-det"
+  ],
+  "added_dois": [
+    "10.48550/arXiv.2607.11045",
+    "10.48550/arXiv.2607.10497",
+    "10.48550/arXiv.2607.11309"
+  ],
+  "skipped_duplicates": [],
+  "backup_candidates": [
+    "10.48550/arXiv.2607.11789",
+    "10.48550/arXiv.2607.11208",
+    "10.48550/arXiv.2607.11663"
+  ],
+  "pdf_validation": "all three downloaded from official arXiv sources and start with %PDF-"
+}

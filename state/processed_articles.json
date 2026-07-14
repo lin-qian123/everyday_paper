@@ -2149,5 +2149,38 @@
     "source_url": "https://arxiv.org/abs/2607.09088",
     "pdf_path": "daily/2026-07-14/pdfs/Jaemin Seo - 2026 - TokaGrad differentiable tokamak simulator.pdf",
     "note_path": "daily/2026-07-14/notes/Jaemin Seo - 2026 - TokaGrad differentiable tokamak simulator.md"
+  },
+  {
+    "title": "Efficient hot electron generation via low-coherence lasers",
+    "normalized_title": "efficient hot electron generation via low coherence lasers",
+    "doi": "10.48550/arXiv.2607.11045",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-13",
+    "processed_date": "2026-07-15",
+    "source_url": "https://arxiv.org/abs/2607.11045",
+    "pdf_path": "daily/2026-07-15/pdfs/Huiya Liu et al. - 2026 - Efficient hot electron generation via low-coherence lasers.pdf",
+    "note_path": "daily/2026-07-15/notes/Huiya Liu et al. - 2026 - Efficient hot electron generation via low-coherence lasers.md"
+  },
+  {
+    "title": "Investigation of transverse instability in efficient plasma-based accelerators",
+    "normalized_title": "investigation of transverse instability in efficient plasma based accelerators",
+    "doi": "10.48550/arXiv.2607.10497",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-11",
+    "processed_date": "2026-07-15",
+    "source_url": "https://arxiv.org/abs/2607.10497",
+    "pdf_path": "daily/2026-07-15/pdfs/Arohi Jain and Navid Vafaei-Najafbadi - 2026 - Investigation of transverse instability.pdf",
+    "note_path": "daily/2026-07-15/notes/Arohi Jain and Navid Vafaei-Najafbadi - 2026 - Investigation of transverse instability.md"
+  },
+  {
+    "title": "Toward AI-Agent-Driven Particle Transport Simulations: Implementation of AI-Assisted Workflows for PHITS",
+    "normalized_title": "toward ai agent driven particle transport simulations implementation of ai assisted workflows for phits",
+    "doi": "10.48550/arXiv.2607.11309",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-13",
+    "processed_date": "2026-07-15",
+    "source_url": "https://arxiv.org/abs/2607.11309",
+    "pdf_path": "daily/2026-07-15/pdfs/Tatsuhiko Sato et al. - 2026 - Toward AI-Agent-Driven Particle Transport Simulations.pdf",
+    "note_path": "daily/2026-07-15/notes/Tatsuhiko Sato et al. - 2026 - Toward AI-Agent-Driven Particle Transport Simulations.md"
   }
 ]

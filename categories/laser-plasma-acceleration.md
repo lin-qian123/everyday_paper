@@ -2,11 +2,12 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：66 篇
-- 索引更新时间：2026-07-14
+- 当前收录：67 篇
+- 索引更新时间：2026-07-15
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-15 | [Investigation of transverse instability in efficient plasma-based accelerators](../papers/arxiv-2607-10497/README.md) | arXiv preprint | [笔记](../daily/2026-07-15/notes/Arohi Jain and Navid Vafaei-Najafbadi - 2026 - Investigation of transverse instability.md) |
 | 2026-07-14 | [Tens of MeV, collimated, bright fluxes of protons from ordered nano-structured targets in ultra-relativistic laser-matter interaction](../papers/arxiv-2607-09229/README.md) | arXiv preprint | [笔记](../daily/2026-07-14/notes/Sagar Dam et al. - 2026 - Tens of MeV collimated bright fluxes of protons.md) |
 | 2026-07-14 | [On the generation of astrophysically-relevant intermittent magnetic turbulence in the laboratory](../papers/arxiv-2607-09453/README.md) | arXiv preprint | [笔记](../daily/2026-07-14/notes/Itamar Cohen et al. - 2026 - On the generation of astrophysically-relevant intermittent magnetic turbulence.md) |
 | 2026-07-13 | [Dependence of Particle Acceleration Efficiency on Shock Velocity in Weakly Magnetized Electron-Ion Shocks](../papers/arxiv-2607-05778/README.md) | arXiv preprint | [笔记](../daily/2026-07-13/notes/Taiki Jikei et al. - 2026 - Dependence of Particle Acceleration Efficiency.md) |

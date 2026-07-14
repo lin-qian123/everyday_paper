@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：195 篇
-- 索引更新时间：2026-07-14
+- 当前入库论文：198 篇
+- 索引更新时间：2026-07-15
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-07-15 | [Efficient hot electron generation via low-coherence lasers](./arxiv-2607-11045/README.md) | arXiv preprint | [10.48550/arXiv.2607.11045](https://doi.org/10.48550/arXiv.2607.11045) |
+| 2026-07-15 | [Toward AI-Agent-Driven Particle Transport Simulations: Implementation of AI-Assisted Workflows for PHITS](./arxiv-2607-11309/README.md) | arXiv preprint | [10.48550/arXiv.2607.11309](https://doi.org/10.48550/arXiv.2607.11309) |
+| 2026-07-15 | [Investigation of transverse instability in efficient plasma-based accelerators](./arxiv-2607-10497/README.md) | arXiv preprint | [10.48550/arXiv.2607.10497](https://doi.org/10.48550/arXiv.2607.10497) |
 | 2026-07-14 | [Tens of MeV, collimated, bright fluxes of protons from ordered nano-structured targets in ultra-relativistic laser-matter interaction](./arxiv-2607-09229/README.md) | arXiv preprint | [10.48550/arXiv.2607.09229](https://doi.org/10.48550/arXiv.2607.09229) |
 | 2026-07-14 | [On the generation of astrophysically-relevant intermittent magnetic turbulence in the laboratory](./arxiv-2607-09453/README.md) | arXiv preprint | [10.48550/arXiv.2607.09453](https://doi.org/10.48550/arXiv.2607.09453) |
 | 2026-07-14 | [TokaGrad: End-to-end differentiable tokamak simulator for L-to-H full scenario optimization](./arxiv-2607-09088/README.md) | arXiv preprint | [10.48550/arXiv.2607.09088](https://doi.org/10.48550/arXiv.2607.09088) |
