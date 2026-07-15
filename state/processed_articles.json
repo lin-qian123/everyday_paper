@@ -2182,5 +2182,38 @@
     "source_url": "https://arxiv.org/abs/2607.11309",
     "pdf_path": "daily/2026-07-15/pdfs/Tatsuhiko Sato et al. - 2026 - Toward AI-Agent-Driven Particle Transport Simulations.pdf",
     "note_path": "daily/2026-07-15/notes/Tatsuhiko Sato et al. - 2026 - Toward AI-Agent-Driven Particle Transport Simulations.md"
+  },
+  {
+    "title": "Single-Shot High-Energy Muon and Particle Radiography with a Multi-GeV Laser-Wakefield-Accelerator-Driven Source",
+    "normalized_title": "single shot high energy muon and particle radiography with a multi gev laser wakefield accelerator driven source",
+    "doi": "10.48550/arXiv.2607.12984",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-14",
+    "processed_date": "2026-07-16",
+    "source_url": "https://arxiv.org/abs/2607.12984",
+    "pdf_path": "daily/2026-07-16/pdfs/Kaixin Zhu et al. - 2026 - Single-Shot High-Energy Muon and Particle Radiography.pdf",
+    "note_path": "daily/2026-07-16/notes/Kaixin Zhu et al. - 2026 - Single-Shot High-Energy Muon and Particle Radiography.md"
+  },
+  {
+    "title": "Impact of Residual Angular Chirp in a Petawatt-class Laser System on Laser-driven Proton Acceleration",
+    "normalized_title": "impact of residual angular chirp in a petawatt class laser system on laser driven proton acceleration",
+    "doi": "10.48550/arXiv.2607.12451",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-14",
+    "processed_date": "2026-07-16",
+    "source_url": "https://arxiv.org/abs/2607.12451",
+    "pdf_path": "daily/2026-07-16/pdfs/Qingfan Wu et al. - 2026 - Impact of Residual Angular Chirp.pdf",
+    "note_path": "daily/2026-07-16/notes/Qingfan Wu et al. - 2026 - Impact of Residual Angular Chirp.md"
+  },
+  {
+    "title": "Radiation reaction measurements via single-shot energy-loss determination in high-intensity laser-electron collisions",
+    "normalized_title": "radiation reaction measurements via single shot energy loss determination in high intensity laser electron collisions",
+    "doi": "10.48550/arXiv.2607.12439",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-14",
+    "processed_date": "2026-07-16",
+    "source_url": "https://arxiv.org/abs/2607.12439",
+    "pdf_path": "daily/2026-07-16/pdfs/Philipp Sikorski and Daniel Seipt - 2026 - Radiation reaction measurements.pdf",
+    "note_path": "daily/2026-07-16/notes/Philipp Sikorski and Daniel Seipt - 2026 - Radiation reaction measurements.md"
   }
 ]

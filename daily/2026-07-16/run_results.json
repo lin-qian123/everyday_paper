@@ -1,0 +1,27 @@
+{
+  "run_date": "2026-07-16",
+  "added_count": 3,
+  "processed_articles_before": 198,
+  "processed_articles_after": 201,
+  "retry_queue_count": 12,
+  "sources_checked": [
+    "Cambridge High Power Laser Science and Engineering listing",
+    "Cambridge Journal of Plasma Physics listing",
+    "arXiv API categories: physics.plasm-ph, physics.acc-ph, physics.comp-ph, nucl-ex, physics.ins-det"
+  ],
+  "added_dois": [
+    "10.48550/arXiv.2607.12984",
+    "10.48550/arXiv.2607.12451",
+    "10.48550/arXiv.2607.12439"
+  ],
+  "skipped_duplicates": [
+    "HPL/JPP laser-target interaction and diagnostics items already present by title or DOI"
+  ],
+  "backup_candidates": [
+    "10.48550/arXiv.2607.13022",
+    "10.48550/arXiv.2607.12682",
+    "10.48550/arXiv.2607.12512",
+    "10.48550/arXiv.2607.12272"
+  ],
+  "pdf_validation": "all three downloaded from official arXiv sources and start with %PDF-"
+}

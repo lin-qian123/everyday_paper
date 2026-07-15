@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：198 篇
-- 索引更新时间：2026-07-15
+- 当前入库论文：201 篇
+- 索引更新时间：2026-07-16
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-07-16 | [Single-Shot High-Energy Muon and Particle Radiography with a Multi-GeV Laser-Wakefield-Accelerator-Driven Source](./arxiv-2607-12984/README.md) | arXiv preprint | [10.48550/arXiv.2607.12984](https://doi.org/10.48550/arXiv.2607.12984) |
+| 2026-07-16 | [Impact of Residual Angular Chirp in a Petawatt-class Laser System on Laser-driven Proton Acceleration](./arxiv-2607-12451/README.md) | arXiv preprint | [10.48550/arXiv.2607.12451](https://doi.org/10.48550/arXiv.2607.12451) |
+| 2026-07-16 | [Radiation reaction measurements via single-shot energy-loss determination in high-intensity laser-electron collisions](./arxiv-2607-12439/README.md) | arXiv preprint | [10.48550/arXiv.2607.12439](https://doi.org/10.48550/arXiv.2607.12439) |
 | 2026-07-15 | [Efficient hot electron generation via low-coherence lasers](./arxiv-2607-11045/README.md) | arXiv preprint | [10.48550/arXiv.2607.11045](https://doi.org/10.48550/arXiv.2607.11045) |
 | 2026-07-15 | [Toward AI-Agent-Driven Particle Transport Simulations: Implementation of AI-Assisted Workflows for PHITS](./arxiv-2607-11309/README.md) | arXiv preprint | [10.48550/arXiv.2607.11309](https://doi.org/10.48550/arXiv.2607.11309) |
 | 2026-07-15 | [Investigation of transverse instability in efficient plasma-based accelerators](./arxiv-2607-10497/README.md) | arXiv preprint | [10.48550/arXiv.2607.10497](https://doi.org/10.48550/arXiv.2607.10497) |
