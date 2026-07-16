@@ -2215,5 +2215,49 @@
     "source_url": "https://arxiv.org/abs/2607.12439",
     "pdf_path": "daily/2026-07-16/pdfs/Philipp Sikorski and Daniel Seipt - 2026 - Radiation reaction measurements.pdf",
     "note_path": "daily/2026-07-16/notes/Philipp Sikorski and Daniel Seipt - 2026 - Radiation reaction measurements.md"
+  },
+  {
+    "title": "On the evolution of a large-amplitude, weakly collisional electron plasma wave",
+    "doi": "10.1017/S0022377826101986",
+    "journal": "Journal of Plasma Physics",
+    "publication_date": "2026-07-13",
+    "processed_date": "2026-07-17",
+    "source_url": "https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/on-the-evolution-of-a-largeamplitude-weakly-collisional-electron-plasma-wave/1F4DFC13829B9865B135E39E08FD57AE",
+    "pdf_path": "daily/2026-07-17/pdfs/Archis Joglekar and Alec Thomas - 2026 - Large-amplitude weakly collisional electron plasma wave.pdf",
+    "note_path": "daily/2026-07-17/notes/Archis Joglekar and Alec Thomas - 2026 - Large-amplitude weakly collisional electron plasma wave.md",
+    "normalized_title": "on the evolution of a large amplitude weakly collisional electron plasma wave"
+  },
+  {
+    "title": "Dual-pulse micronozzle acceleration of sub-GeV-class protons",
+    "doi": "10.48550/arXiv.2607.13672",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-15",
+    "processed_date": "2026-07-17",
+    "source_url": "https://arxiv.org/abs/2607.13672",
+    "pdf_path": "daily/2026-07-17/pdfs/D. Pan and M. Murakami - 2026 - Dual-pulse micronozzle acceleration.pdf",
+    "note_path": "daily/2026-07-17/notes/D. Pan and M. Murakami - 2026 - Dual-pulse micronozzle acceleration.md",
+    "normalized_title": "dual pulse micronozzle acceleration of sub gev class protons"
+  },
+  {
+    "title": "Neutron-source fidelity for laser-driven D--D lithium-blanket tritium-breeding tests",
+    "doi": "10.48550/arXiv.2607.13585",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-15",
+    "processed_date": "2026-07-17",
+    "source_url": "https://arxiv.org/abs/2607.13585",
+    "pdf_path": "daily/2026-07-17/pdfs/Chengqi-Zhang et al. - 2026 - Neutron-source fidelity.pdf",
+    "note_path": "daily/2026-07-17/notes/Chengqi-Zhang et al. - 2026 - Neutron-source fidelity.md",
+    "normalized_title": "neutron source fidelity for laser driven d d lithium blanket tritium breeding tests"
+  },
+  {
+    "title": "λPIC: A callback-centric particle-in-cell framework",
+    "doi": "10.48550/arXiv.2607.13507",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-15",
+    "processed_date": "2026-07-17",
+    "source_url": "https://arxiv.org/abs/2607.13507",
+    "pdf_path": "daily/2026-07-17/pdfs/Xuesong Geng et al. - 2026 - lambdaPIC callback-centric PIC framework.pdf",
+    "note_path": "daily/2026-07-17/notes/Xuesong Geng et al. - 2026 - lambdaPIC callback-centric PIC framework.md",
+    "normalized_title": "pic a callback centric particle in cell framework"
   }
 ]

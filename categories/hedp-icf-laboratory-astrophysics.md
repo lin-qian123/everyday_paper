@@ -2,11 +2,12 @@
 
 HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。
 
-- 当前收录：62 篇
-- 索引更新时间：2026-07-16
+- 当前收录：63 篇
+- 索引更新时间：2026-07-17
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-17 | [Neutron-source fidelity for laser-driven D--D lithium-blanket tritium-breeding tests](../papers/arxiv-2607-13585/README.md) | arXiv preprint | [笔记](../daily/2026-07-17/notes/Chengqi-Zhang et al. - 2026 - Neutron-source fidelity.md) |
 | 2026-07-15 | [Efficient hot electron generation via low-coherence lasers](../papers/arxiv-2607-11045/README.md) | arXiv preprint | [笔记](../daily/2026-07-15/notes/Huiya Liu et al. - 2026 - Efficient hot electron generation via low-coherence lasers.md) |
 | 2026-07-14 | [On the generation of astrophysically-relevant intermittent magnetic turbulence in the laboratory](../papers/arxiv-2607-09453/README.md) | arXiv preprint | [笔记](../daily/2026-07-14/notes/Itamar Cohen et al. - 2026 - On the generation of astrophysically-relevant intermittent magnetic turbulence.md) |
 | 2026-07-13 | [Dependence of Particle Acceleration Efficiency on Shock Velocity in Weakly Magnetized Electron-Ion Shocks](../papers/arxiv-2607-05778/README.md) | arXiv preprint | [笔记](../daily/2026-07-13/notes/Taiki Jikei et al. - 2026 - Dependence of Particle Acceleration Efficiency.md) |

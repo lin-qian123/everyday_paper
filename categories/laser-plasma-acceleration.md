@@ -2,11 +2,12 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：69 篇
-- 索引更新时间：2026-07-16
+- 当前收录：70 篇
+- 索引更新时间：2026-07-17
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-17 | [Dual-pulse micronozzle acceleration of sub-GeV-class protons](../papers/arxiv-2607-13672/README.md) | arXiv preprint | [笔记](../daily/2026-07-17/notes/D. Pan and M. Murakami - 2026 - Dual-pulse micronozzle acceleration.md) |
 | 2026-07-16 | [Single-Shot High-Energy Muon and Particle Radiography with a Multi-GeV Laser-Wakefield-Accelerator-Driven Source](../papers/arxiv-2607-12984/README.md) | arXiv preprint | [笔记](../daily/2026-07-16/notes/Kaixin Zhu et al. - 2026 - Single-Shot High-Energy Muon and Particle Radiography.md) |
 | 2026-07-16 | [Impact of Residual Angular Chirp in a Petawatt-class Laser System on Laser-driven Proton Acceleration](../papers/arxiv-2607-12451/README.md) | arXiv preprint | [笔记](../daily/2026-07-16/notes/Qingfan Wu et al. - 2026 - Impact of Residual Angular Chirp.md) |
 | 2026-07-15 | [Investigation of transverse instability in efficient plasma-based accelerators](../papers/arxiv-2607-10497/README.md) | arXiv preprint | [笔记](../daily/2026-07-15/notes/Arohi Jain and Navid Vafaei-Najafbadi - 2026 - Investigation of transverse instability.md) |

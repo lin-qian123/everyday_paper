@@ -1,10 +1,14 @@
 # 论文总索引
 
-- 当前入库论文：201 篇
-- 索引更新时间：2026-07-16
+- 当前入库论文：205 篇
+- 索引更新时间：2026-07-17
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-07-17 | [Dual-pulse micronozzle acceleration of sub-GeV-class protons](./arxiv-2607-13672/README.md) | arXiv preprint | [10.48550/arXiv.2607.13672](https://doi.org/10.48550/arXiv.2607.13672) |
+| 2026-07-17 | [Neutron-source fidelity for laser-driven D--D lithium-blanket tritium-breeding tests](./arxiv-2607-13585/README.md) | arXiv preprint | [10.48550/arXiv.2607.13585](https://doi.org/10.48550/arXiv.2607.13585) |
+| 2026-07-17 | [λPIC: A callback-centric particle-in-cell framework](./arxiv-2607-13507/README.md) | arXiv preprint | [10.48550/arXiv.2607.13507](https://doi.org/10.48550/arXiv.2607.13507) |
+| 2026-07-17 | [On the evolution of a large-amplitude, weakly collisional electron plasma wave](./10-1017-s0022377826101986/README.md) | Journal of Plasma Physics | [10.1017/S0022377826101986](https://doi.org/10.1017/S0022377826101986) |
 | 2026-07-16 | [Single-Shot High-Energy Muon and Particle Radiography with a Multi-GeV Laser-Wakefield-Accelerator-Driven Source](./arxiv-2607-12984/README.md) | arXiv preprint | [10.48550/arXiv.2607.12984](https://doi.org/10.48550/arXiv.2607.12984) |
 | 2026-07-16 | [Impact of Residual Angular Chirp in a Petawatt-class Laser System on Laser-driven Proton Acceleration](./arxiv-2607-12451/README.md) | arXiv preprint | [10.48550/arXiv.2607.12451](https://doi.org/10.48550/arXiv.2607.12451) |
 | 2026-07-16 | [Radiation reaction measurements via single-shot energy-loss determination in high-intensity laser-electron collisions](./arxiv-2607-12439/README.md) | arXiv preprint | [10.48550/arXiv.2607.12439](https://doi.org/10.48550/arXiv.2607.12439) |

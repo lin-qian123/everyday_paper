@@ -2,11 +2,13 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：40 篇
-- 索引更新时间：2026-07-16
+- 当前收录：42 篇
+- 索引更新时间：2026-07-17
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-17 | [Dual-pulse micronozzle acceleration of sub-GeV-class protons](../papers/arxiv-2607-13672/README.md) | arXiv preprint | [笔记](../daily/2026-07-17/notes/D. Pan and M. Murakami - 2026 - Dual-pulse micronozzle acceleration.md) |
+| 2026-07-17 | [Neutron-source fidelity for laser-driven D--D lithium-blanket tritium-breeding tests](../papers/arxiv-2607-13585/README.md) | arXiv preprint | [笔记](../daily/2026-07-17/notes/Chengqi-Zhang et al. - 2026 - Neutron-source fidelity.md) |
 | 2026-07-16 | [Impact of Residual Angular Chirp in a Petawatt-class Laser System on Laser-driven Proton Acceleration](../papers/arxiv-2607-12451/README.md) | arXiv preprint | [笔记](../daily/2026-07-16/notes/Qingfan Wu et al. - 2026 - Impact of Residual Angular Chirp.md) |
 | 2026-07-15 | [Toward AI-Agent-Driven Particle Transport Simulations: Implementation of AI-Assisted Workflows for PHITS](../papers/arxiv-2607-11309/README.md) | arXiv preprint | [笔记](../daily/2026-07-15/notes/Tatsuhiko Sato et al. - 2026 - Toward AI-Agent-Driven Particle Transport Simulations.md) |
 | 2026-07-14 | [Tens of MeV, collimated, bright fluxes of protons from ordered nano-structured targets in ultra-relativistic laser-matter interaction](../papers/arxiv-2607-09229/README.md) | arXiv preprint | [笔记](../daily/2026-07-14/notes/Sagar Dam et al. - 2026 - Tens of MeV collimated bright fluxes of protons.md) |
