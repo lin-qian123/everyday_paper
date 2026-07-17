@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：205 篇
-- 索引更新时间：2026-07-17
+- 当前入库论文：208 篇
+- 索引更新时间：2026-07-18
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-07-18 | [An asymptotic-preserving five-moment two-species plasma model coupled to an external magnetohydrodynamic solver](./arxiv-2607-15019/README.md) | arXiv preprint | [10.48550/arXiv.2607.15019](https://doi.org/10.48550/arXiv.2607.15019) |
+| 2026-07-18 | [Parameter Scan of Multi-Fluid Equilibria in Rotating p-11B Plasmas: Effects on Fusion Power and Bremsstrahlung Losses](./arxiv-2607-14496/README.md) | arXiv preprint | [10.48550/arXiv.2607.14496](https://doi.org/10.48550/arXiv.2607.14496) |
+| 2026-07-18 | [An end-to-end quantum algorithm for weakly nonlinear plasma physics with superquadratic speedup](./arxiv-2607-14308/README.md) | arXiv preprint | [10.48550/arXiv.2607.14308](https://doi.org/10.48550/arXiv.2607.14308) |
 | 2026-07-17 | [Dual-pulse micronozzle acceleration of sub-GeV-class protons](./arxiv-2607-13672/README.md) | arXiv preprint | [10.48550/arXiv.2607.13672](https://doi.org/10.48550/arXiv.2607.13672) |
 | 2026-07-17 | [Neutron-source fidelity for laser-driven D--D lithium-blanket tritium-breeding tests](./arxiv-2607-13585/README.md) | arXiv preprint | [10.48550/arXiv.2607.13585](https://doi.org/10.48550/arXiv.2607.13585) |
 | 2026-07-17 | [λPIC: A callback-centric particle-in-cell framework](./arxiv-2607-13507/README.md) | arXiv preprint | [10.48550/arXiv.2607.13507](https://doi.org/10.48550/arXiv.2607.13507) |

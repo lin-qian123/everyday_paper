@@ -2,11 +2,12 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：42 篇
-- 索引更新时间：2026-07-17
+- 当前收录：43 篇
+- 索引更新时间：2026-07-18
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-18 | [Parameter Scan of Multi-Fluid Equilibria in Rotating p-11B Plasmas: Effects on Fusion Power and Bremsstrahlung Losses](../papers/arxiv-2607-14496/README.md) | arXiv preprint | [笔记](../daily/2026-07-18/notes/Xingyu Li et al. - 2026 - Rotating p-11B bremsstrahlung losses.md) |
 | 2026-07-17 | [Dual-pulse micronozzle acceleration of sub-GeV-class protons](../papers/arxiv-2607-13672/README.md) | arXiv preprint | [笔记](../daily/2026-07-17/notes/D. Pan and M. Murakami - 2026 - Dual-pulse micronozzle acceleration.md) |
 | 2026-07-17 | [Neutron-source fidelity for laser-driven D--D lithium-blanket tritium-breeding tests](../papers/arxiv-2607-13585/README.md) | arXiv preprint | [笔记](../daily/2026-07-17/notes/Chengqi-Zhang et al. - 2026 - Neutron-source fidelity.md) |
 | 2026-07-16 | [Impact of Residual Angular Chirp in a Petawatt-class Laser System on Laser-driven Proton Acceleration](../papers/arxiv-2607-12451/README.md) | arXiv preprint | [笔记](../daily/2026-07-16/notes/Qingfan Wu et al. - 2026 - Impact of Residual Angular Chirp.md) |

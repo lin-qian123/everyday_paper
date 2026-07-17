@@ -2259,5 +2259,38 @@
     "pdf_path": "daily/2026-07-17/pdfs/Xuesong Geng et al. - 2026 - lambdaPIC callback-centric PIC framework.pdf",
     "note_path": "daily/2026-07-17/notes/Xuesong Geng et al. - 2026 - lambdaPIC callback-centric PIC framework.md",
     "normalized_title": "pic a callback centric particle in cell framework"
+  },
+  {
+    "title": "An asymptotic-preserving five-moment two-species plasma model coupled to an external magnetohydrodynamic solver",
+    "doi": "10.48550/arXiv.2607.15019",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-16",
+    "processed_date": "2026-07-18",
+    "source_url": "https://arxiv.org/abs/2607.15019",
+    "pdf_path": "daily/2026-07-18/pdfs/Magnus Deisenhofer et al. - 2026 - AP five-moment plasma MHD coupling.pdf",
+    "note_path": "daily/2026-07-18/notes/Magnus Deisenhofer et al. - 2026 - AP five-moment plasma MHD coupling.md",
+    "normalized_title": "an asymptotic preserving five moment two species plasma model coupled to an external magnetohydrodynamic solver"
+  },
+  {
+    "title": "Parameter Scan of Multi-Fluid Equilibria in Rotating p-11B Plasmas: Effects on Fusion Power and Bremsstrahlung Losses",
+    "doi": "10.48550/arXiv.2607.14496",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-16",
+    "processed_date": "2026-07-18",
+    "source_url": "https://arxiv.org/abs/2607.14496",
+    "pdf_path": "daily/2026-07-18/pdfs/Xingyu Li et al. - 2026 - Rotating p-11B bremsstrahlung losses.pdf",
+    "note_path": "daily/2026-07-18/notes/Xingyu Li et al. - 2026 - Rotating p-11B bremsstrahlung losses.md",
+    "normalized_title": "parameter scan of multi fluid equilibria in rotating p 11b plasmas effects on fusion power and bremsstrahlung losses"
+  },
+  {
+    "title": "An end-to-end quantum algorithm for weakly nonlinear plasma physics with superquadratic speedup",
+    "doi": "10.48550/arXiv.2607.14308",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-15",
+    "processed_date": "2026-07-18",
+    "source_url": "https://arxiv.org/abs/2607.14308",
+    "pdf_path": "daily/2026-07-18/pdfs/Bjorn Berntson et al. - 2026 - Quantum algorithm for weakly nonlinear plasma.pdf",
+    "note_path": "daily/2026-07-18/notes/Bjorn Berntson et al. - 2026 - Quantum algorithm for weakly nonlinear plasma.md",
+    "normalized_title": "an end to end quantum algorithm for weakly nonlinear plasma physics with superquadratic speedup"
   }
 ]
