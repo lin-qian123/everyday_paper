@@ -2,11 +2,12 @@
 
 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。
 
-- 当前收录：25 篇
-- 索引更新时间：2026-07-18
+- 当前收录：26 篇
+- 索引更新时间：2026-07-20
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-20 | [Automated Outlier-Robust Bayesian Profile Fitting for Magnetically Confined Plasmas with Modified Tanh Profiles and Good-and-Bad Gaussian Mixture Likelihoods](../papers/arxiv-2607-14142/README.md) | arXiv preprint | [笔记](../daily/2026-07-20/notes/Jaewook Kim et al. - 2026 - Bayesian profile fitting magnetically confined plasmas.md) |
 | 2026-07-14 | [TokaGrad: End-to-end differentiable tokamak simulator for L-to-H full scenario optimization](../papers/arxiv-2607-09088/README.md) | arXiv preprint | [笔记](../daily/2026-07-14/notes/Jaemin Seo - 2026 - TokaGrad differentiable tokamak simulator.md) |
 | 2026-07-08 | [Deep Learning Models for ADITYA-U MHD Equilibrium](../papers/arxiv-2607-04865/README.md) | arXiv preprint | [笔记](../daily/2026-07-08/notes/Udaya Maurya et al. - 2026 - Deep Learning Models for ADITYA-U MHD Equilibrium.md) |
 | 2026-07-06 | [A toroidally spectral field solver in the X-point Gyrokinetic Code for accurate simulation of reduced magneto-hydrodynamic modes](../papers/arxiv-2606-25213/README.md) | arXiv preprint | [笔记](../daily/2026-07-06/notes/Robert Hager et al. - 2026 - A toroidally spectral field solver in the X-point Gyrokinetic Code.md) |

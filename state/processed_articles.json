@@ -2292,5 +2292,38 @@
     "pdf_path": "daily/2026-07-18/pdfs/Bjorn Berntson et al. - 2026 - Quantum algorithm for weakly nonlinear plasma.pdf",
     "note_path": "daily/2026-07-18/notes/Bjorn Berntson et al. - 2026 - Quantum algorithm for weakly nonlinear plasma.md",
     "normalized_title": "an end to end quantum algorithm for weakly nonlinear plasma physics with superquadratic speedup"
+  },
+  {
+    "title": "Microwave Resonant Discharges for Spatiotemporally Selective Plasma Breakdown Near Surfaces",
+    "doi": "10.48550/arXiv.2607.14495",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-16",
+    "processed_date": "2026-07-20",
+    "source_url": "https://arxiv.org/abs/2607.14495",
+    "pdf_path": "daily/2026-07-20/pdfs/Arnav Mohapatra et al. - 2026 - Microwave resonant discharges.pdf",
+    "note_path": "daily/2026-07-20/notes/Arnav Mohapatra et al. - 2026 - Microwave resonant discharges.md",
+    "normalized_title": "microwave resonant discharges for spatiotemporally selective plasma breakdown near surfaces"
+  },
+  {
+    "title": "Automated Outlier-Robust Bayesian Profile Fitting for Magnetically Confined Plasmas with Modified Tanh Profiles and Good-and-Bad Gaussian Mixture Likelihoods",
+    "doi": "10.48550/arXiv.2607.14142",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-13",
+    "processed_date": "2026-07-20",
+    "source_url": "https://arxiv.org/abs/2607.14142",
+    "pdf_path": "daily/2026-07-20/pdfs/Jaewook Kim et al. - 2026 - Bayesian profile fitting magnetically confined plasmas.pdf",
+    "note_path": "daily/2026-07-20/notes/Jaewook Kim et al. - 2026 - Bayesian profile fitting magnetically confined plasmas.md",
+    "normalized_title": "automated outlier robust bayesian profile fitting for magnetically confined plasmas with modified tanh profiles and good and bad gaussian mixture likelihoods"
+  },
+  {
+    "title": "A structure-preserving Numerical Method for the Compressible Resistive-Hall-MHD System",
+    "doi": "10.48550/arXiv.2607.14286",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-15",
+    "processed_date": "2026-07-20",
+    "source_url": "https://arxiv.org/abs/2607.14286",
+    "pdf_path": "daily/2026-07-20/pdfs/Murtazo Nazarov et al. - 2026 - Structure-preserving Hall-MHD method.pdf",
+    "note_path": "daily/2026-07-20/notes/Murtazo Nazarov et al. - 2026 - Structure-preserving Hall-MHD method.md",
+    "normalized_title": "a structure preserving numerical method for the compressible resistive hall mhd system"
   }
 ]

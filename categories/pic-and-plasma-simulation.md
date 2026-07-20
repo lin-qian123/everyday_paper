@@ -2,11 +2,12 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：83 篇
-- 索引更新时间：2026-07-18
+- 当前收录：84 篇
+- 索引更新时间：2026-07-20
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-20 | [A structure-preserving Numerical Method for the Compressible Resistive-Hall-MHD System](../papers/arxiv-2607-14286/README.md) | arXiv preprint | [笔记](../daily/2026-07-20/notes/Murtazo Nazarov et al. - 2026 - Structure-preserving Hall-MHD method.md) |
 | 2026-07-18 | [An asymptotic-preserving five-moment two-species plasma model coupled to an external magnetohydrodynamic solver](../papers/arxiv-2607-15019/README.md) | arXiv preprint | [笔记](../daily/2026-07-18/notes/Magnus Deisenhofer et al. - 2026 - AP five-moment plasma MHD coupling.md) |
 | 2026-07-18 | [An end-to-end quantum algorithm for weakly nonlinear plasma physics with superquadratic speedup](../papers/arxiv-2607-14308/README.md) | arXiv preprint | [笔记](../daily/2026-07-18/notes/Bjorn Berntson et al. - 2026 - Quantum algorithm for weakly nonlinear plasma.md) |
 | 2026-07-17 | [Dual-pulse micronozzle acceleration of sub-GeV-class protons](../papers/arxiv-2607-13672/README.md) | arXiv preprint | [笔记](../daily/2026-07-17/notes/D. Pan and M. Murakami - 2026 - Dual-pulse micronozzle acceleration.md) |

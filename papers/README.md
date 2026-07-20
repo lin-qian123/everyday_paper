@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：208 篇
-- 索引更新时间：2026-07-18
+- 当前入库论文：211 篇
+- 索引更新时间：2026-07-20
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-07-20 | [Microwave Resonant Discharges for Spatiotemporally Selective Plasma Breakdown Near Surfaces](./arxiv-2607-14495/README.md) | arXiv preprint | [10.48550/arXiv.2607.14495](https://doi.org/10.48550/arXiv.2607.14495) |
+| 2026-07-20 | [A structure-preserving Numerical Method for the Compressible Resistive-Hall-MHD System](./arxiv-2607-14286/README.md) | arXiv preprint | [10.48550/arXiv.2607.14286](https://doi.org/10.48550/arXiv.2607.14286) |
+| 2026-07-20 | [Automated Outlier-Robust Bayesian Profile Fitting for Magnetically Confined Plasmas with Modified Tanh Profiles and Good-and-Bad Gaussian Mixture Likelihoods](./arxiv-2607-14142/README.md) | arXiv preprint | [10.48550/arXiv.2607.14142](https://doi.org/10.48550/arXiv.2607.14142) |
 | 2026-07-18 | [An asymptotic-preserving five-moment two-species plasma model coupled to an external magnetohydrodynamic solver](./arxiv-2607-15019/README.md) | arXiv preprint | [10.48550/arXiv.2607.15019](https://doi.org/10.48550/arXiv.2607.15019) |
 | 2026-07-18 | [Parameter Scan of Multi-Fluid Equilibria in Rotating p-11B Plasmas: Effects on Fusion Power and Bremsstrahlung Losses](./arxiv-2607-14496/README.md) | arXiv preprint | [10.48550/arXiv.2607.14496](https://doi.org/10.48550/arXiv.2607.14496) |
 | 2026-07-18 | [An end-to-end quantum algorithm for weakly nonlinear plasma physics with superquadratic speedup](./arxiv-2607-14308/README.md) | arXiv preprint | [10.48550/arXiv.2607.14308](https://doi.org/10.48550/arXiv.2607.14308) |

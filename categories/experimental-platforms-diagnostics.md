@@ -2,11 +2,13 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：41 篇
-- 索引更新时间：2026-07-18
+- 当前收录：43 篇
+- 索引更新时间：2026-07-20
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-20 | [Microwave Resonant Discharges for Spatiotemporally Selective Plasma Breakdown Near Surfaces](../papers/arxiv-2607-14495/README.md) | arXiv preprint | [笔记](../daily/2026-07-20/notes/Arnav Mohapatra et al. - 2026 - Microwave resonant discharges.md) |
+| 2026-07-20 | [Automated Outlier-Robust Bayesian Profile Fitting for Magnetically Confined Plasmas with Modified Tanh Profiles and Good-and-Bad Gaussian Mixture Likelihoods](../papers/arxiv-2607-14142/README.md) | arXiv preprint | [笔记](../daily/2026-07-20/notes/Jaewook Kim et al. - 2026 - Bayesian profile fitting magnetically confined plasmas.md) |
 | 2026-07-17 | [Dual-pulse micronozzle acceleration of sub-GeV-class protons](../papers/arxiv-2607-13672/README.md) | arXiv preprint | [笔记](../daily/2026-07-17/notes/D. Pan and M. Murakami - 2026 - Dual-pulse micronozzle acceleration.md) |
 | 2026-07-16 | [Single-Shot High-Energy Muon and Particle Radiography with a Multi-GeV Laser-Wakefield-Accelerator-Driven Source](../papers/arxiv-2607-12984/README.md) | arXiv preprint | [笔记](../daily/2026-07-16/notes/Kaixin Zhu et al. - 2026 - Single-Shot High-Energy Muon and Particle Radiography.md) |
 | 2026-07-16 | [Radiation reaction measurements via single-shot energy-loss determination in high-intensity laser-electron collisions](../papers/arxiv-2607-12439/README.md) | arXiv preprint | [笔记](../daily/2026-07-16/notes/Philipp Sikorski and Daniel Seipt - 2026 - Radiation reaction measurements.md) |
