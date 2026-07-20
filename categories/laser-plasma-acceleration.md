@@ -2,11 +2,13 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：70 篇
-- 索引更新时间：2026-07-20
+- 当前收录：72 篇
+- 索引更新时间：2026-07-21
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-21 | [Experimental demonstration of Flying-Focus enhanced Thomson scattering](../papers/arxiv-2607-15805/README.md) | arXiv preprint | [笔记](../daily/2026-07-21/notes/E Gerstmayr et al. - 2026 - Flying-Focus enhanced Thomson scattering.md) |
+| 2026-07-21 | [Nonlinear Enhancement of Laser-Foil Coupling and Secondary Sources under Irradiation by Dual Picosecond Petawatt Pulses](../papers/10-1017-hpl-2026-10182/README.md) | High Power Laser Science and Engineering accepted manuscript | [笔记](../daily/2026-07-21/notes/Zitao Wang et al. - 2026 - Dual picosecond petawatt secondary sources.md) |
 | 2026-07-17 | [Dual-pulse micronozzle acceleration of sub-GeV-class protons](../papers/arxiv-2607-13672/README.md) | arXiv preprint | [笔记](../daily/2026-07-17/notes/D. Pan and M. Murakami - 2026 - Dual-pulse micronozzle acceleration.md) |
 | 2026-07-16 | [Single-Shot High-Energy Muon and Particle Radiography with a Multi-GeV Laser-Wakefield-Accelerator-Driven Source](../papers/arxiv-2607-12984/README.md) | arXiv preprint | [笔记](../daily/2026-07-16/notes/Kaixin Zhu et al. - 2026 - Single-Shot High-Energy Muon and Particle Radiography.md) |
 | 2026-07-16 | [Impact of Residual Angular Chirp in a Petawatt-class Laser System on Laser-driven Proton Acceleration](../papers/arxiv-2607-12451/README.md) | arXiv preprint | [笔记](../daily/2026-07-16/notes/Qingfan Wu et al. - 2026 - Impact of Residual Angular Chirp.md) |

@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "output": "daily/2026-07-21/pdfs/Zitao Wang et al. - 2026 - Dual picosecond petawatt secondary sources.pdf",
+  "source_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/FCCED31921F53973000E0D29A190E407/S2095471926101820a.pdf/div-class-title-nonlinear-enhancement-of-laser-foil-coupling-and-secondary-sources-under-irradiation-by-dual-picosecond-petawatt-pulses-div.pdf",
+  "mode": "env-proxy",
+  "attempts": [
+    "[env-proxy] https://doi.org/10.1017/hpl.2026.10182 -> not pdf (content-type=text/html; charset=utf-8)",
+    "[direct] https://doi.org/10.1017/hpl.2026.10182 -> not pdf (content-type=text/html; charset=utf-8)",
+    "[env-proxy] https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/nonlinear-enhancement-of-laserfoil-coupling-and-secondary-sources-under-irradiation-by-dual-picosecond-petawatt-pulses/FCCED31921F53973000E0D29A190E407 -> not pdf (content-type=text/html; charset=utf-8)",
+    "[direct] https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/nonlinear-enhancement-of-laserfoil-coupling-and-secondary-sources-under-irradiation-by-dual-picosecond-petawatt-pulses/FCCED31921F53973000E0D29A190E407 -> not pdf (content-type=text/html; charset=utf-8)"
+  ]
+}

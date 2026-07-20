@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：211 篇
-- 索引更新时间：2026-07-20
+- 当前入库论文：214 篇
+- 索引更新时间：2026-07-21
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-07-21 | [Experimental demonstration of Flying-Focus enhanced Thomson scattering](./arxiv-2607-15805/README.md) | arXiv preprint | [10.48550/arXiv.2607.15805](https://doi.org/10.48550/arXiv.2607.15805) |
+| 2026-07-21 | [Surrogate modeling of drift-reduced Braginskii turbulence with resistivity-conditioned Koopman neural operators](./arxiv-2607-15857/README.md) | arXiv preprint | [10.48550/arXiv.2607.15857](https://doi.org/10.48550/arXiv.2607.15857) |
+| 2026-07-21 | [Nonlinear Enhancement of Laser-Foil Coupling and Secondary Sources under Irradiation by Dual Picosecond Petawatt Pulses](./10-1017-hpl-2026-10182/README.md) | High Power Laser Science and Engineering accepted manuscript | [10.1017/hpl.2026.10182](https://doi.org/10.1017/hpl.2026.10182) |
 | 2026-07-20 | [Microwave Resonant Discharges for Spatiotemporally Selective Plasma Breakdown Near Surfaces](./arxiv-2607-14495/README.md) | arXiv preprint | [10.48550/arXiv.2607.14495](https://doi.org/10.48550/arXiv.2607.14495) |
 | 2026-07-20 | [A structure-preserving Numerical Method for the Compressible Resistive-Hall-MHD System](./arxiv-2607-14286/README.md) | arXiv preprint | [10.48550/arXiv.2607.14286](https://doi.org/10.48550/arXiv.2607.14286) |
 | 2026-07-20 | [Automated Outlier-Robust Bayesian Profile Fitting for Magnetically Confined Plasmas with Modified Tanh Profiles and Good-and-Bad Gaussian Mixture Likelihoods](./arxiv-2607-14142/README.md) | arXiv preprint | [10.48550/arXiv.2607.14142](https://doi.org/10.48550/arXiv.2607.14142) |

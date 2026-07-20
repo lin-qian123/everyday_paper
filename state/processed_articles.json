@@ -2325,5 +2325,38 @@
     "pdf_path": "daily/2026-07-20/pdfs/Murtazo Nazarov et al. - 2026 - Structure-preserving Hall-MHD method.pdf",
     "note_path": "daily/2026-07-20/notes/Murtazo Nazarov et al. - 2026 - Structure-preserving Hall-MHD method.md",
     "normalized_title": "a structure preserving numerical method for the compressible resistive hall mhd system"
+  },
+  {
+    "title": "Nonlinear Enhancement of Laser-Foil Coupling and Secondary Sources under Irradiation by Dual Picosecond Petawatt Pulses",
+    "doi": "10.1017/hpl.2026.10182",
+    "journal": "High Power Laser Science and Engineering accepted manuscript",
+    "publication_date": "2026-07-14",
+    "processed_date": "2026-07-21",
+    "source_url": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/nonlinear-enhancement-of-laserfoil-coupling-and-secondary-sources-under-irradiation-by-dual-picosecond-petawatt-pulses/FCCED31921F53973000E0D29A190E407",
+    "pdf_path": "daily/2026-07-21/pdfs/Zitao Wang et al. - 2026 - Dual picosecond petawatt secondary sources.pdf",
+    "note_path": "daily/2026-07-21/notes/Zitao Wang et al. - 2026 - Dual picosecond petawatt secondary sources.md",
+    "normalized_title": "nonlinear enhancement of laser foil coupling and secondary sources under irradiation by dual picosecond petawatt pulses"
+  },
+  {
+    "title": "Experimental demonstration of Flying-Focus enhanced Thomson scattering",
+    "doi": "10.48550/arXiv.2607.15805",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-17",
+    "processed_date": "2026-07-21",
+    "source_url": "https://arxiv.org/abs/2607.15805",
+    "pdf_path": "daily/2026-07-21/pdfs/E Gerstmayr et al. - 2026 - Flying-Focus enhanced Thomson scattering.pdf",
+    "note_path": "daily/2026-07-21/notes/E Gerstmayr et al. - 2026 - Flying-Focus enhanced Thomson scattering.md",
+    "normalized_title": "experimental demonstration of flying focus enhanced thomson scattering"
+  },
+  {
+    "title": "Surrogate modeling of drift-reduced Braginskii turbulence with resistivity-conditioned Koopman neural operators",
+    "doi": "10.48550/arXiv.2607.15857",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-17",
+    "processed_date": "2026-07-21",
+    "source_url": "https://arxiv.org/abs/2607.15857",
+    "pdf_path": "daily/2026-07-21/pdfs/Ameir Shaa et al. - 2026 - Braginskii turbulence Koopman neural operators.pdf",
+    "note_path": "daily/2026-07-21/notes/Ameir Shaa et al. - 2026 - Braginskii turbulence Koopman neural operators.md",
+    "normalized_title": "surrogate modeling of drift reduced braginskii turbulence with resistivity conditioned koopman neural operators"
   }
 ]
