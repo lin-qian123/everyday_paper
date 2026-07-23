@@ -2424,5 +2424,38 @@
     "pdf_path": "daily/2026-07-23/pdfs/Pierre-Yves Taunay - 2026 - Plasma quadrature moment collisions.pdf",
     "note_path": "daily/2026-07-23/notes/Pierre-Yves Taunay - 2026 - Plasma quadrature moment collisions.md",
     "normalized_title": "a low temperature plasma collisional framework for quadrature based moment methods"
+  },
+  {
+    "title": "Parametric Decay of Broadband Lower Hybrid Waves",
+    "doi": "10.48550/arXiv.2607.20281",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-22",
+    "processed_date": "2026-07-24",
+    "source_url": "https://arxiv.org/abs/2607.20281",
+    "pdf_path": "daily/2026-07-24/pdfs/S Jin et al. - 2026 - Parametric decay of broadband lower hybrid waves.pdf",
+    "note_path": "daily/2026-07-24/notes/S Jin et al. - 2026 - Parametric decay of broadband lower hybrid waves.md",
+    "normalized_title": "parametric decay of broadband lower hybrid waves"
+  },
+  {
+    "title": "Combined tools for Particle-In-Cell simulations performed with transversely asymmetric chirped lasers",
+    "doi": "10.48550/arXiv.2607.19121",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-21",
+    "processed_date": "2026-07-24",
+    "source_url": "https://arxiv.org/abs/2607.19121",
+    "pdf_path": "daily/2026-07-24/pdfs/I Moulanier et al. - 2026 - PIC asymmetric chirped lasers.pdf",
+    "note_path": "daily/2026-07-24/notes/I Moulanier et al. - 2026 - PIC asymmetric chirped lasers.md",
+    "normalized_title": "combined tools for particle in cell simulations performed with transversely asymmetric chirped lasers"
+  },
+  {
+    "title": "Absolute charge calibration of DRZ phosphor screens for relativistic electron bunches",
+    "doi": "10.48550/arXiv.2607.17059",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-19",
+    "processed_date": "2026-07-24",
+    "source_url": "https://arxiv.org/abs/2607.17059",
+    "pdf_path": "daily/2026-07-24/pdfs/Shuang Liu et al. - 2026 - DRZ phosphor charge calibration.pdf",
+    "note_path": "daily/2026-07-24/notes/Shuang Liu et al. - 2026 - DRZ phosphor charge calibration.md",
+    "normalized_title": "absolute charge calibration of drz phosphor screens for relativistic electron bunches"
   }
 ]

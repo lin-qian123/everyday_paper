@@ -153,6 +153,9 @@ CATEGORIES = [
             "magnetic confinement",
             "confinement",
             "gyrokinetic",
+            "lower hybrid",
+            "current drive",
+            "alcator",
         ],
     },
     {

@@ -2,11 +2,12 @@
 
 HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。
 
-- 当前收录：64 篇
-- 索引更新时间：2026-07-23
+- 当前收录：65 篇
+- 索引更新时间：2026-07-24
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-24 | [Parametric Decay of Broadband Lower Hybrid Waves](../papers/arxiv-2607-20281/README.md) | arXiv preprint | [笔记](../daily/2026-07-24/notes/S Jin et al. - 2026 - Parametric decay of broadband lower hybrid waves.md) |
 | 2026-07-18 | [Parameter Scan of Multi-Fluid Equilibria in Rotating p-11B Plasmas: Effects on Fusion Power and Bremsstrahlung Losses](../papers/arxiv-2607-14496/README.md) | arXiv preprint | [笔记](../daily/2026-07-18/notes/Xingyu Li et al. - 2026 - Rotating p-11B bremsstrahlung losses.md) |
 | 2026-07-17 | [Neutron-source fidelity for laser-driven D--D lithium-blanket tritium-breeding tests](../papers/arxiv-2607-13585/README.md) | arXiv preprint | [笔记](../daily/2026-07-17/notes/Chengqi-Zhang et al. - 2026 - Neutron-source fidelity.md) |
 | 2026-07-15 | [Efficient hot electron generation via low-coherence lasers](../papers/arxiv-2607-11045/README.md) | arXiv preprint | [笔记](../daily/2026-07-15/notes/Huiya Liu et al. - 2026 - Efficient hot electron generation via low-coherence lasers.md) |

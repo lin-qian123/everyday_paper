@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：220 篇
-- 索引更新时间：2026-07-23
+- 当前入库论文：223 篇
+- 索引更新时间：2026-07-24
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-07-24 | [Parametric Decay of Broadband Lower Hybrid Waves](./arxiv-2607-20281/README.md) | arXiv preprint | [10.48550/arXiv.2607.20281](https://doi.org/10.48550/arXiv.2607.20281) |
+| 2026-07-24 | [Combined tools for Particle-In-Cell simulations performed with transversely asymmetric chirped lasers](./arxiv-2607-19121/README.md) | arXiv preprint | [10.48550/arXiv.2607.19121](https://doi.org/10.48550/arXiv.2607.19121) |
+| 2026-07-24 | [Absolute charge calibration of DRZ phosphor screens for relativistic electron bunches](./arxiv-2607-17059/README.md) | arXiv preprint | [10.48550/arXiv.2607.17059](https://doi.org/10.48550/arXiv.2607.17059) |
 | 2026-07-23 | [Reduced-order non-self-consistent Monte Carlo simulation of a planar magnetron discharge: electron heating, recapture and racetrack formation](./arxiv-2607-19930/README.md) | arXiv preprint | [10.48550/arXiv.2607.19930](https://doi.org/10.48550/arXiv.2607.19930) |
 | 2026-07-23 | [Capabilities and Limitations of Non-Redundant Aperture Interferometry for Beam Size Measurements](./arxiv-2607-19976/README.md) | arXiv preprint | [10.48550/arXiv.2607.19976](https://doi.org/10.48550/arXiv.2607.19976) |
 | 2026-07-23 | [A low-temperature plasma collisional framework for quadrature-based moment methods](./arxiv-2607-20278/README.md) | arXiv preprint | [10.48550/arXiv.2607.20278](https://doi.org/10.48550/arXiv.2607.20278) |

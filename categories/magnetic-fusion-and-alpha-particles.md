@@ -2,11 +2,12 @@
 
 stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。
 
-- 当前收录：15 篇
-- 索引更新时间：2026-07-23
+- 当前收录：16 篇
+- 索引更新时间：2026-07-24
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-24 | [Parametric Decay of Broadband Lower Hybrid Waves](../papers/arxiv-2607-20281/README.md) | arXiv preprint | [笔记](../daily/2026-07-24/notes/S Jin et al. - 2026 - Parametric decay of broadband lower hybrid waves.md) |
 | 2026-07-14 | [TokaGrad: End-to-end differentiable tokamak simulator for L-to-H full scenario optimization](../papers/arxiv-2607-09088/README.md) | arXiv preprint | [笔记](../daily/2026-07-14/notes/Jaemin Seo - 2026 - TokaGrad differentiable tokamak simulator.md) |
 | 2026-07-06 | [A toroidally spectral field solver in the X-point Gyrokinetic Code for accurate simulation of reduced magneto-hydrodynamic modes](../papers/arxiv-2606-25213/README.md) | arXiv preprint | [笔记](../daily/2026-07-06/notes/Robert Hager et al. - 2026 - A toroidally spectral field solver in the X-point Gyrokinetic Code.md) |
 | 2026-07-06 | [New scheme for inertial confinement fusion laser drivers based on a spatiotemporal partially coherent multi-mode source and its prospects](../papers/10-1017-hpl-2025-10099/README.md) | High Power Laser Science and Engineering | [笔记](../daily/2026-07-06/notes/Jianqiang Zhu et al. - 2026 - New scheme for inertial confinement fusion laser drivers.md) |

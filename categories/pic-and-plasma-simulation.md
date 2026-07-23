@@ -2,11 +2,12 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：86 篇
-- 索引更新时间：2026-07-23
+- 当前收录：87 篇
+- 索引更新时间：2026-07-24
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-24 | [Combined tools for Particle-In-Cell simulations performed with transversely asymmetric chirped lasers](../papers/arxiv-2607-19121/README.md) | arXiv preprint | [笔记](../daily/2026-07-24/notes/I Moulanier et al. - 2026 - PIC asymmetric chirped lasers.md) |
 | 2026-07-23 | [Reduced-order non-self-consistent Monte Carlo simulation of a planar magnetron discharge: electron heating, recapture and racetrack formation](../papers/arxiv-2607-19930/README.md) | arXiv preprint | [笔记](../daily/2026-07-23/notes/Franz F Locker et al. - 2026 - Magnetron reduced-order Monte Carlo.md) |
 | 2026-07-21 | [Nonlinear Enhancement of Laser-Foil Coupling and Secondary Sources under Irradiation by Dual Picosecond Petawatt Pulses](../papers/10-1017-hpl-2026-10182/README.md) | High Power Laser Science and Engineering accepted manuscript | [笔记](../daily/2026-07-21/notes/Zitao Wang et al. - 2026 - Dual picosecond petawatt secondary sources.md) |
 | 2026-07-20 | [A structure-preserving Numerical Method for the Compressible Resistive-Hall-MHD System](../papers/arxiv-2607-14286/README.md) | arXiv preprint | [笔记](../daily/2026-07-20/notes/Murtazo Nazarov et al. - 2026 - Structure-preserving Hall-MHD method.md) |

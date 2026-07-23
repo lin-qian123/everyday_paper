@@ -2,11 +2,12 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：46 篇
-- 索引更新时间：2026-07-23
+- 当前收录：47 篇
+- 索引更新时间：2026-07-24
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-24 | [Absolute charge calibration of DRZ phosphor screens for relativistic electron bunches](../papers/arxiv-2607-17059/README.md) | arXiv preprint | [笔记](../daily/2026-07-24/notes/Shuang Liu et al. - 2026 - DRZ phosphor charge calibration.md) |
 | 2026-07-23 | [Capabilities and Limitations of Non-Redundant Aperture Interferometry for Beam Size Measurements](../papers/arxiv-2607-19976/README.md) | arXiv preprint | [笔记](../daily/2026-07-23/notes/C Carilli et al. - 2026 - Non-redundant aperture interferometry.md) |
 | 2026-07-22 | [Experimental determination of the Dalitz plot for positronium decay using the J-PET detection system](../papers/arxiv-2607-19495/README.md) | arXiv preprint | [笔记](../daily/2026-07-22/notes/Magdalena Skurzok et al. - 2026 - Positronium Dalitz plot J-PET.md) |
 | 2026-07-21 | [Experimental demonstration of Flying-Focus enhanced Thomson scattering](../papers/arxiv-2607-15805/README.md) | arXiv preprint | [笔记](../daily/2026-07-21/notes/E Gerstmayr et al. - 2026 - Flying-Focus enhanced Thomson scattering.md) |
