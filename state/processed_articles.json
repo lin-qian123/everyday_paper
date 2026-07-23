@@ -2358,5 +2358,71 @@
     "pdf_path": "daily/2026-07-21/pdfs/Ameir Shaa et al. - 2026 - Braginskii turbulence Koopman neural operators.pdf",
     "note_path": "daily/2026-07-21/notes/Ameir Shaa et al. - 2026 - Braginskii turbulence Koopman neural operators.md",
     "normalized_title": "surrogate modeling of drift reduced braginskii turbulence with resistivity conditioned koopman neural operators"
+  },
+  {
+    "title": "Exploring Self-Organization of Charged Dust Dimers in Plasma",
+    "doi": "10.48550/arXiv.2607.19180",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-21",
+    "processed_date": "2026-07-22",
+    "source_url": "https://arxiv.org/abs/2607.19180",
+    "pdf_path": "daily/2026-07-22/pdfs/Aman Singh Katariya et al. - 2026 - Charged dust dimers plasma.pdf",
+    "note_path": "daily/2026-07-22/notes/Aman Singh Katariya et al. - 2026 - Charged dust dimers plasma.md",
+    "normalized_title": "exploring self organization of charged dust dimers in plasma"
+  },
+  {
+    "title": "Experimental determination of the Dalitz plot for positronium decay using the J-PET detection system",
+    "doi": "10.48550/arXiv.2607.19495",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-21",
+    "processed_date": "2026-07-22",
+    "source_url": "https://arxiv.org/abs/2607.19495",
+    "pdf_path": "daily/2026-07-22/pdfs/Magdalena Skurzok et al. - 2026 - Positronium Dalitz plot J-PET.pdf",
+    "note_path": "daily/2026-07-22/notes/Magdalena Skurzok et al. - 2026 - Positronium Dalitz plot J-PET.md",
+    "normalized_title": "experimental determination of the dalitz plot for positronium decay using the j pet detection system"
+  },
+  {
+    "title": "Design Study of an Endless RF Phase Shifter Using Ferroelectric Capacitors",
+    "doi": "10.48550/arXiv.2607.19610",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-21",
+    "processed_date": "2026-07-22",
+    "source_url": "https://arxiv.org/abs/2607.19610",
+    "pdf_path": "daily/2026-07-22/pdfs/Ilan Ben-Zvi - 2026 - Endless RF phase shifter.pdf",
+    "note_path": "daily/2026-07-22/notes/Ilan Ben-Zvi - 2026 - Endless RF phase shifter.md",
+    "normalized_title": "design study of an endless rf phase shifter using ferroelectric capacitors"
+  },
+  {
+    "title": "Reduced-order non-self-consistent Monte Carlo simulation of a planar magnetron discharge: electron heating, recapture and racetrack formation",
+    "doi": "10.48550/arXiv.2607.19930",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-22",
+    "processed_date": "2026-07-23",
+    "source_url": "https://arxiv.org/abs/2607.19930",
+    "pdf_path": "daily/2026-07-23/pdfs/Franz F Locker et al. - 2026 - Magnetron reduced-order Monte Carlo.pdf",
+    "note_path": "daily/2026-07-23/notes/Franz F Locker et al. - 2026 - Magnetron reduced-order Monte Carlo.md",
+    "normalized_title": "reduced order non self consistent monte carlo simulation of a planar magnetron discharge electron heating recapture and racetrack formation"
+  },
+  {
+    "title": "Capabilities and Limitations of Non-Redundant Aperture Interferometry for Beam Size Measurements",
+    "doi": "10.48550/arXiv.2607.19976",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-22",
+    "processed_date": "2026-07-23",
+    "source_url": "https://arxiv.org/abs/2607.19976",
+    "pdf_path": "daily/2026-07-23/pdfs/C Carilli et al. - 2026 - Non-redundant aperture interferometry.pdf",
+    "note_path": "daily/2026-07-23/notes/C Carilli et al. - 2026 - Non-redundant aperture interferometry.md",
+    "normalized_title": "capabilities and limitations of non redundant aperture interferometry for beam size measurements"
+  },
+  {
+    "title": "A low-temperature plasma collisional framework for quadrature-based moment methods",
+    "doi": "10.48550/arXiv.2607.20278",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-22",
+    "processed_date": "2026-07-23",
+    "source_url": "https://arxiv.org/abs/2607.20278",
+    "pdf_path": "daily/2026-07-23/pdfs/Pierre-Yves Taunay - 2026 - Plasma quadrature moment collisions.pdf",
+    "note_path": "daily/2026-07-23/notes/Pierre-Yves Taunay - 2026 - Plasma quadrature moment collisions.md",
+    "normalized_title": "a low temperature plasma collisional framework for quadrature based moment methods"
   }
 ]

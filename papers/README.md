@@ -1,10 +1,16 @@
 # 论文总索引
 
-- 当前入库论文：214 篇
-- 索引更新时间：2026-07-21
+- 当前入库论文：220 篇
+- 索引更新时间：2026-07-23
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-07-23 | [Reduced-order non-self-consistent Monte Carlo simulation of a planar magnetron discharge: electron heating, recapture and racetrack formation](./arxiv-2607-19930/README.md) | arXiv preprint | [10.48550/arXiv.2607.19930](https://doi.org/10.48550/arXiv.2607.19930) |
+| 2026-07-23 | [Capabilities and Limitations of Non-Redundant Aperture Interferometry for Beam Size Measurements](./arxiv-2607-19976/README.md) | arXiv preprint | [10.48550/arXiv.2607.19976](https://doi.org/10.48550/arXiv.2607.19976) |
+| 2026-07-23 | [A low-temperature plasma collisional framework for quadrature-based moment methods](./arxiv-2607-20278/README.md) | arXiv preprint | [10.48550/arXiv.2607.20278](https://doi.org/10.48550/arXiv.2607.20278) |
+| 2026-07-22 | [Exploring Self-Organization of Charged Dust Dimers in Plasma](./arxiv-2607-19180/README.md) | arXiv preprint | [10.48550/arXiv.2607.19180](https://doi.org/10.48550/arXiv.2607.19180) |
+| 2026-07-22 | [Experimental determination of the Dalitz plot for positronium decay using the J-PET detection system](./arxiv-2607-19495/README.md) | arXiv preprint | [10.48550/arXiv.2607.19495](https://doi.org/10.48550/arXiv.2607.19495) |
+| 2026-07-22 | [Design Study of an Endless RF Phase Shifter Using Ferroelectric Capacitors](./arxiv-2607-19610/README.md) | arXiv preprint | [10.48550/arXiv.2607.19610](https://doi.org/10.48550/arXiv.2607.19610) |
 | 2026-07-21 | [Experimental demonstration of Flying-Focus enhanced Thomson scattering](./arxiv-2607-15805/README.md) | arXiv preprint | [10.48550/arXiv.2607.15805](https://doi.org/10.48550/arXiv.2607.15805) |
 | 2026-07-21 | [Surrogate modeling of drift-reduced Braginskii turbulence with resistivity-conditioned Koopman neural operators](./arxiv-2607-15857/README.md) | arXiv preprint | [10.48550/arXiv.2607.15857](https://doi.org/10.48550/arXiv.2607.15857) |
 | 2026-07-21 | [Nonlinear Enhancement of Laser-Foil Coupling and Secondary Sources under Irradiation by Dual Picosecond Petawatt Pulses](./10-1017-hpl-2026-10182/README.md) | High Power Laser Science and Engineering accepted manuscript | [10.1017/hpl.2026.10182](https://doi.org/10.1017/hpl.2026.10182) |

@@ -2,11 +2,13 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：44 篇
-- 索引更新时间：2026-07-21
+- 当前收录：46 篇
+- 索引更新时间：2026-07-23
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-23 | [Capabilities and Limitations of Non-Redundant Aperture Interferometry for Beam Size Measurements](../papers/arxiv-2607-19976/README.md) | arXiv preprint | [笔记](../daily/2026-07-23/notes/C Carilli et al. - 2026 - Non-redundant aperture interferometry.md) |
+| 2026-07-22 | [Experimental determination of the Dalitz plot for positronium decay using the J-PET detection system](../papers/arxiv-2607-19495/README.md) | arXiv preprint | [笔记](../daily/2026-07-22/notes/Magdalena Skurzok et al. - 2026 - Positronium Dalitz plot J-PET.md) |
 | 2026-07-21 | [Experimental demonstration of Flying-Focus enhanced Thomson scattering](../papers/arxiv-2607-15805/README.md) | arXiv preprint | [笔记](../daily/2026-07-21/notes/E Gerstmayr et al. - 2026 - Flying-Focus enhanced Thomson scattering.md) |
 | 2026-07-20 | [Microwave Resonant Discharges for Spatiotemporally Selective Plasma Breakdown Near Surfaces](../papers/arxiv-2607-14495/README.md) | arXiv preprint | [笔记](../daily/2026-07-20/notes/Arnav Mohapatra et al. - 2026 - Microwave resonant discharges.md) |
 | 2026-07-20 | [Automated Outlier-Robust Bayesian Profile Fitting for Magnetically Confined Plasmas with Modified Tanh Profiles and Good-and-Bad Gaussian Mixture Likelihoods](../papers/arxiv-2607-14142/README.md) | arXiv preprint | [笔记](../daily/2026-07-20/notes/Jaewook Kim et al. - 2026 - Bayesian profile fitting magnetically confined plasmas.md) |

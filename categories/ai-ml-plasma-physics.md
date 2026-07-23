@@ -2,11 +2,13 @@
 
 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。
 
-- 当前收录：27 篇
-- 索引更新时间：2026-07-21
+- 当前收录：29 篇
+- 索引更新时间：2026-07-23
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-23 | [Reduced-order non-self-consistent Monte Carlo simulation of a planar magnetron discharge: electron heating, recapture and racetrack formation](../papers/arxiv-2607-19930/README.md) | arXiv preprint | [笔记](../daily/2026-07-23/notes/Franz F Locker et al. - 2026 - Magnetron reduced-order Monte Carlo.md) |
+| 2026-07-23 | [A low-temperature plasma collisional framework for quadrature-based moment methods](../papers/arxiv-2607-20278/README.md) | arXiv preprint | [笔记](../daily/2026-07-23/notes/Pierre-Yves Taunay - 2026 - Plasma quadrature moment collisions.md) |
 | 2026-07-21 | [Surrogate modeling of drift-reduced Braginskii turbulence with resistivity-conditioned Koopman neural operators](../papers/arxiv-2607-15857/README.md) | arXiv preprint | [笔记](../daily/2026-07-21/notes/Ameir Shaa et al. - 2026 - Braginskii turbulence Koopman neural operators.md) |
 | 2026-07-20 | [Automated Outlier-Robust Bayesian Profile Fitting for Magnetically Confined Plasmas with Modified Tanh Profiles and Good-and-Bad Gaussian Mixture Likelihoods](../papers/arxiv-2607-14142/README.md) | arXiv preprint | [笔记](../daily/2026-07-20/notes/Jaewook Kim et al. - 2026 - Bayesian profile fitting magnetically confined plasmas.md) |
 | 2026-07-14 | [TokaGrad: End-to-end differentiable tokamak simulator for L-to-H full scenario optimization](../papers/arxiv-2607-09088/README.md) | arXiv preprint | [笔记](../daily/2026-07-14/notes/Jaemin Seo - 2026 - TokaGrad differentiable tokamak simulator.md) |

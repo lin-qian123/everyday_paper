@@ -2,11 +2,12 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：72 篇
-- 索引更新时间：2026-07-21
+- 当前收录：73 篇
+- 索引更新时间：2026-07-23
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-22 | [Design Study of an Endless RF Phase Shifter Using Ferroelectric Capacitors](../papers/arxiv-2607-19610/README.md) | arXiv preprint | [笔记](../daily/2026-07-22/notes/Ilan Ben-Zvi - 2026 - Endless RF phase shifter.md) |
 | 2026-07-21 | [Experimental demonstration of Flying-Focus enhanced Thomson scattering](../papers/arxiv-2607-15805/README.md) | arXiv preprint | [笔记](../daily/2026-07-21/notes/E Gerstmayr et al. - 2026 - Flying-Focus enhanced Thomson scattering.md) |
 | 2026-07-21 | [Nonlinear Enhancement of Laser-Foil Coupling and Secondary Sources under Irradiation by Dual Picosecond Petawatt Pulses](../papers/10-1017-hpl-2026-10182/README.md) | High Power Laser Science and Engineering accepted manuscript | [笔记](../daily/2026-07-21/notes/Zitao Wang et al. - 2026 - Dual picosecond petawatt secondary sources.md) |
 | 2026-07-17 | [Dual-pulse micronozzle acceleration of sub-GeV-class protons](../papers/arxiv-2607-13672/README.md) | arXiv preprint | [笔记](../daily/2026-07-17/notes/D. Pan and M. Murakami - 2026 - Dual-pulse micronozzle acceleration.md) |
