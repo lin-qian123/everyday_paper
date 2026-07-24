@@ -2457,5 +2457,38 @@
     "pdf_path": "daily/2026-07-24/pdfs/Shuang Liu et al. - 2026 - DRZ phosphor charge calibration.pdf",
     "note_path": "daily/2026-07-24/notes/Shuang Liu et al. - 2026 - DRZ phosphor charge calibration.md",
     "normalized_title": "absolute charge calibration of drz phosphor screens for relativistic electron bunches"
+  },
+  {
+    "title": "Cycle-Consistent and Uncertainty-Aware Neural Surrogates for Tokamak Edge Plasmas",
+    "doi": "10.48550/arXiv.2607.21407",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-23",
+    "processed_date": "2026-07-25",
+    "source_url": "https://arxiv.org/abs/2607.21407",
+    "pdf_path": "daily/2026-07-25/pdfs/Diaw et al. - 2026 - Uncertainty-aware neural surrogates tokamak edge.pdf",
+    "note_path": "daily/2026-07-25/notes/Diaw et al. - 2026 - Uncertainty-aware neural surrogates tokamak edge.md",
+    "normalized_title": "cycle consistent and uncertainty aware neural surrogates for tokamak edge plasmas"
+  },
+  {
+    "title": "Statistical Analysis of Speckle Fields",
+    "doi": "10.48550/arXiv.2607.20966",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-23",
+    "processed_date": "2026-07-25",
+    "source_url": "https://arxiv.org/abs/2607.20966",
+    "pdf_path": "daily/2026-07-25/pdfs/Min-Roberts et al. - 2026 - Statistical analysis of speckle fields.pdf",
+    "note_path": "daily/2026-07-25/notes/Min-Roberts et al. - 2026 - Statistical analysis of speckle fields.md",
+    "normalized_title": "statistical analysis of speckle fields"
+  },
+  {
+    "title": "yancc: A GPU-accelerated, differentiable solver for neoclassical transport in tokamaks and stellarators",
+    "doi": "10.48550/arXiv.2607.20861",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-23",
+    "processed_date": "2026-07-25",
+    "source_url": "https://arxiv.org/abs/2607.20861",
+    "pdf_path": "daily/2026-07-25/pdfs/Conlin et al. - 2026 - GPU neoclassical transport solver.pdf",
+    "note_path": "daily/2026-07-25/notes/Conlin et al. - 2026 - GPU neoclassical transport solver.md",
+    "normalized_title": "yancc a gpu accelerated differentiable solver for neoclassical transport in tokamaks and stellarators"
   }
 ]

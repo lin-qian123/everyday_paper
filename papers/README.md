@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：223 篇
-- 索引更新时间：2026-07-24
+- 当前入库论文：226 篇
+- 索引更新时间：2026-07-25
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-07-25 | [Cycle-Consistent and Uncertainty-Aware Neural Surrogates for Tokamak Edge Plasmas](./arxiv-2607-21407/README.md) | arXiv preprint | [10.48550/arXiv.2607.21407](https://doi.org/10.48550/arXiv.2607.21407) |
+| 2026-07-25 | [Statistical Analysis of Speckle Fields](./arxiv-2607-20966/README.md) | arXiv preprint | [10.48550/arXiv.2607.20966](https://doi.org/10.48550/arXiv.2607.20966) |
+| 2026-07-25 | [yancc: A GPU-accelerated, differentiable solver for neoclassical transport in tokamaks and stellarators](./arxiv-2607-20861/README.md) | arXiv preprint | [10.48550/arXiv.2607.20861](https://doi.org/10.48550/arXiv.2607.20861) |
 | 2026-07-24 | [Parametric Decay of Broadband Lower Hybrid Waves](./arxiv-2607-20281/README.md) | arXiv preprint | [10.48550/arXiv.2607.20281](https://doi.org/10.48550/arXiv.2607.20281) |
 | 2026-07-24 | [Combined tools for Particle-In-Cell simulations performed with transversely asymmetric chirped lasers](./arxiv-2607-19121/README.md) | arXiv preprint | [10.48550/arXiv.2607.19121](https://doi.org/10.48550/arXiv.2607.19121) |
 | 2026-07-24 | [Absolute charge calibration of DRZ phosphor screens for relativistic electron bunches](./arxiv-2607-17059/README.md) | arXiv preprint | [10.48550/arXiv.2607.17059](https://doi.org/10.48550/arXiv.2607.17059) |
