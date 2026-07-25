@@ -2490,5 +2490,27 @@
     "pdf_path": "daily/2026-07-25/pdfs/Conlin et al. - 2026 - GPU neoclassical transport solver.pdf",
     "note_path": "daily/2026-07-25/notes/Conlin et al. - 2026 - GPU neoclassical transport solver.md",
     "normalized_title": "yancc a gpu accelerated differentiable solver for neoclassical transport in tokamaks and stellarators"
+  },
+  {
+    "title": "Langmuir probe and infrared thermography measurements of wide and narrow heat flux profiles in the ST40 tokamak",
+    "doi": "10.48550/arXiv.2607.21362",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-23",
+    "processed_date": "2026-07-26",
+    "source_url": "https://arxiv.org/abs/2607.21362",
+    "pdf_path": "daily/2026-07-26/pdfs/Brewer et al. - 2026 - ST40 heat flux diagnostics.pdf",
+    "note_path": "daily/2026-07-26/notes/Brewer et al. - 2026 - ST40 heat flux diagnostics.md",
+    "normalized_title": "langmuir probe and infrared thermography measurements of wide and narrow heat flux profiles in the st40 tokamak"
+  },
+  {
+    "title": "Plasma screening and configuration interaction effects induced large enhancement on L-shell photoionization cross sections and opacity",
+    "doi": "10.48550/arXiv.2607.21238",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-23",
+    "processed_date": "2026-07-26",
+    "source_url": "https://arxiv.org/abs/2607.21238",
+    "pdf_path": "daily/2026-07-26/pdfs/Zhou et al. - 2026 - Plasma screening opacity.pdf",
+    "note_path": "daily/2026-07-26/notes/Zhou et al. - 2026 - Plasma screening opacity.md",
+    "normalized_title": "plasma screening and configuration interaction effects induced large enhancement on l shell photoionization cross sections and opacity"
   }
 ]

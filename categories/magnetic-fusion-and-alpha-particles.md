@@ -2,11 +2,12 @@
 
 stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。
 
-- 当前收录：18 篇
-- 索引更新时间：2026-07-25
+- 当前收录：19 篇
+- 索引更新时间：2026-07-26
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-26 | [Langmuir probe and infrared thermography measurements of wide and narrow heat flux profiles in the ST40 tokamak](../papers/arxiv-2607-21362/README.md) | arXiv preprint | [笔记](../daily/2026-07-26/notes/Brewer et al. - 2026 - ST40 heat flux diagnostics.md) |
 | 2026-07-25 | [Cycle-Consistent and Uncertainty-Aware Neural Surrogates for Tokamak Edge Plasmas](../papers/arxiv-2607-21407/README.md) | arXiv preprint | [笔记](../daily/2026-07-25/notes/Diaw et al. - 2026 - Uncertainty-aware neural surrogates tokamak edge.md) |
 | 2026-07-25 | [yancc: A GPU-accelerated, differentiable solver for neoclassical transport in tokamaks and stellarators](../papers/arxiv-2607-20861/README.md) | arXiv preprint | [笔记](../daily/2026-07-25/notes/Conlin et al. - 2026 - GPU neoclassical transport solver.md) |
 | 2026-07-24 | [Parametric Decay of Broadband Lower Hybrid Waves](../papers/arxiv-2607-20281/README.md) | arXiv preprint | [笔记](../daily/2026-07-24/notes/S Jin et al. - 2026 - Parametric decay of broadband lower hybrid waves.md) |

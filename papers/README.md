@@ -1,10 +1,12 @@
 # 论文总索引
 
-- 当前入库论文：226 篇
-- 索引更新时间：2026-07-25
+- 当前入库论文：228 篇
+- 索引更新时间：2026-07-26
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-07-26 | [Langmuir probe and infrared thermography measurements of wide and narrow heat flux profiles in the ST40 tokamak](./arxiv-2607-21362/README.md) | arXiv preprint | [10.48550/arXiv.2607.21362](https://doi.org/10.48550/arXiv.2607.21362) |
+| 2026-07-26 | [Plasma screening and configuration interaction effects induced large enhancement on L-shell photoionization cross sections and opacity](./arxiv-2607-21238/README.md) | arXiv preprint | [10.48550/arXiv.2607.21238](https://doi.org/10.48550/arXiv.2607.21238) |
 | 2026-07-25 | [Cycle-Consistent and Uncertainty-Aware Neural Surrogates for Tokamak Edge Plasmas](./arxiv-2607-21407/README.md) | arXiv preprint | [10.48550/arXiv.2607.21407](https://doi.org/10.48550/arXiv.2607.21407) |
 | 2026-07-25 | [Statistical Analysis of Speckle Fields](./arxiv-2607-20966/README.md) | arXiv preprint | [10.48550/arXiv.2607.20966](https://doi.org/10.48550/arXiv.2607.20966) |
 | 2026-07-25 | [yancc: A GPU-accelerated, differentiable solver for neoclassical transport in tokamaks and stellarators](./arxiv-2607-20861/README.md) | arXiv preprint | [10.48550/arXiv.2607.20861](https://doi.org/10.48550/arXiv.2607.20861) |
