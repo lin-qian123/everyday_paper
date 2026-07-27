@@ -2545,5 +2545,27 @@
     "pdf_path": "daily/2026-07-27/pdfs/Mark Dunn et al. - 2026 - Burning fusion plasma kinetic simulation.pdf",
     "note_path": "daily/2026-07-27/notes/Mark Dunn et al. - 2026 - Burning fusion plasma kinetic simulation.md",
     "normalized_title": "a multi species reactive boltzmann formulation for self consistent kinetic simulation of burning fusion plasmas"
+  },
+  {
+    "title": "First Observation of Fishbone-Driven Zonal Flows with Fine Reversed Structure in Tokamak Plasmas",
+    "doi": "10.48550/arXiv.2607.22344",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-24",
+    "processed_date": "2026-07-28",
+    "source_url": "https://arxiv.org/abs/2607.22344",
+    "pdf_path": "daily/2026-07-28/pdfs/Liutian Gao et al. - 2026 - Fishbone-driven zonal flows EAST tokamak.pdf",
+    "note_path": "daily/2026-07-28/notes/Liutian Gao et al. - 2026 - Fishbone-driven zonal flows EAST tokamak.md",
+    "normalized_title": "first observation of fishbone driven zonal flows with fine reversed structure in tokamak plasmas"
+  },
+  {
+    "title": "Gamma spectrometry with CsI(Tl), NaI(Tl) and CdWO4 scintillation crystals using a silicon photomultiplier",
+    "doi": "10.15407/jnpae2026.02.148",
+    "journal": "Nuclear Physics and Atomic Energy 27(2), 148-152 (open access; arXiv copy)",
+    "publication_date": "2026-06-25",
+    "processed_date": "2026-07-28",
+    "source_url": "https://arxiv.org/abs/2607.21996",
+    "pdf_path": "daily/2026-07-28/pdfs/R Yu Chaplynskyi et al. - 2026 - SiPM scintillation gamma spectrometry.pdf",
+    "note_path": "daily/2026-07-28/notes/R Yu Chaplynskyi et al. - 2026 - SiPM scintillation gamma spectrometry.md",
+    "normalized_title": "gamma spectrometry with csi tl nai tl and cdwo4 scintillation crystals using a silicon photomultiplier"
   }
 ]

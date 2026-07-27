@@ -2,11 +2,12 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：48 篇
-- 索引更新时间：2026-07-27
+- 当前收录：49 篇
+- 索引更新时间：2026-07-28
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-28 | [Gamma spectrometry with CsI(Tl), NaI(Tl) and CdWO4 scintillation crystals using a silicon photomultiplier](../papers/10-15407-jnpae2026-02-148/README.md) | Nuclear Physics and Atomic Energy 27(2), 148-152 (open access; arXiv copy) | [笔记](../daily/2026-07-28/notes/R Yu Chaplynskyi et al. - 2026 - SiPM scintillation gamma spectrometry.md) |
 | 2026-07-26 | [Langmuir probe and infrared thermography measurements of wide and narrow heat flux profiles in the ST40 tokamak](../papers/arxiv-2607-21362/README.md) | arXiv preprint | [笔记](../daily/2026-07-26/notes/Brewer et al. - 2026 - ST40 heat flux diagnostics.md) |
 | 2026-07-24 | [Absolute charge calibration of DRZ phosphor screens for relativistic electron bunches](../papers/arxiv-2607-17059/README.md) | arXiv preprint | [笔记](../daily/2026-07-24/notes/Shuang Liu et al. - 2026 - DRZ phosphor charge calibration.md) |
 | 2026-07-23 | [Capabilities and Limitations of Non-Redundant Aperture Interferometry for Beam Size Measurements](../papers/arxiv-2607-19976/README.md) | arXiv preprint | [笔记](../daily/2026-07-23/notes/C Carilli et al. - 2026 - Non-redundant aperture interferometry.md) |
