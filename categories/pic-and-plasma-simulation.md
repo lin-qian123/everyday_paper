@@ -2,11 +2,13 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：88 篇
-- 索引更新时间：2026-07-26
+- 当前收录：90 篇
+- 索引更新时间：2026-07-27
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-27 | [Generalized Theory of Blowout-Regime Plasma Wakefields via a Lagrangian Formulation](../papers/arxiv-2607-22473/README.md) | arXiv preprint | [笔记](../daily/2026-07-27/notes/Y Kang et al. - 2026 - Blowout-regime plasma wakefields.md) |
+| 2026-07-27 | [A Multi-Species Reactive-Boltzmann Formulation for Self-Consistent Kinetic Simulation of Burning Fusion Plasmas](../papers/arxiv-2607-21723/README.md) | arXiv preprint | [笔记](../daily/2026-07-27/notes/Mark Dunn et al. - 2026 - Burning fusion plasma kinetic simulation.md) |
 | 2026-07-25 | [yancc: A GPU-accelerated, differentiable solver for neoclassical transport in tokamaks and stellarators](../papers/arxiv-2607-20861/README.md) | arXiv preprint | [笔记](../daily/2026-07-25/notes/Conlin et al. - 2026 - GPU neoclassical transport solver.md) |
 | 2026-07-24 | [Combined tools for Particle-In-Cell simulations performed with transversely asymmetric chirped lasers](../papers/arxiv-2607-19121/README.md) | arXiv preprint | [笔记](../daily/2026-07-24/notes/I Moulanier et al. - 2026 - PIC asymmetric chirped lasers.md) |
 | 2026-07-23 | [Reduced-order non-self-consistent Monte Carlo simulation of a planar magnetron discharge: electron heating, recapture and racetrack formation](../papers/arxiv-2607-19930/README.md) | arXiv preprint | [笔记](../daily/2026-07-23/notes/Franz F Locker et al. - 2026 - Magnetron reduced-order Monte Carlo.md) |
