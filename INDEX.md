@@ -18,10 +18,10 @@
 | [激光等离子体与束流加速](./categories/laser-plasma-acceleration.md) | 77 | LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。 |
 | [激光加速电子/离子束应用](./categories/laser-accelerated-beam-applications.md) | 45 | 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。 |
 | [强场 QED 与辐射反作用](./categories/strong-field-qed-radiation.md) | 45 | 强场量子效应、辐射反作用、非线性 Compton、pair production 与极端场实验。 |
-| [高能量密度物理、ICF 与实验室天体](./categories/hedp-icf-laboratory-astrophysics.md) | 68 | HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。 |
-| [PIC、动理学与数值模拟](./categories/pic-and-plasma-simulation.md) | 91 | PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。 |
+| [高能量密度物理、ICF 与实验室天体](./categories/hedp-icf-laboratory-astrophysics.md) | 69 | HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。 |
+| [PIC、动理学与数值模拟](./categories/pic-and-plasma-simulation.md) | 93 | PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。 |
 | [机器学习与等离子体物理](./categories/ai-ml-plasma-physics.md) | 30 | 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。 |
-| [磁约束聚变与 alpha 粒子](./categories/magnetic-fusion-and-alpha-particles.md) | 20 | stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。 |
+| [磁约束聚变与 alpha 粒子](./categories/magnetic-fusion-and-alpha-particles.md) | 21 | stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。 |
 | [实验平台、靶设计与诊断](./categories/experimental-platforms-diagnostics.md) | 49 | 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。 |
 | [综合等离子体与交叉方法](./categories/general-plasma-and-methods.md) | 30 | 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。 |
 
@@ -29,6 +29,9 @@
 
 | 入库日期 | 论文 | 分类 |
 | --- | --- | --- |
+| 2026-07-29 | [Implementation and verification of the avalanche source in a 3D full-f particle-in-cell model of relativistic electrons for studies of tokamak disruptions](./papers/arxiv-2607-24602/README.md) | PIC、动理学与数值模拟、磁约束聚变与 alpha 粒子 |
+| 2026-07-29 | [Quasistatic modeling of ultrarelativistic beam-plasma instabilities](./papers/arxiv-2607-24234/README.md) | PIC、动理学与数值模拟 |
+| 2026-07-29 | [Impact of ion-electron collisions on nonlocal ion heat conduction, viscous stress, and diffusion](./papers/arxiv-2607-24505/README.md) | 高能量密度物理、ICF 与实验室天体 |
 | 2026-07-28 | [First Observation of Fishbone-Driven Zonal Flows with Fine Reversed Structure in Tokamak Plasmas](./papers/arxiv-2607-22344/README.md) | PIC、动理学与数值模拟、磁约束聚变与 alpha 粒子 |
 | 2026-07-28 | [Gamma spectrometry with CsI(Tl), NaI(Tl) and CdWO4 scintillation crystals using a silicon photomultiplier](./papers/10-15407-jnpae2026-02-148/README.md) | 激光加速电子/离子束应用、实验平台、靶设计与诊断 |
 | 2026-07-27 | [Generalized Theory of Blowout-Regime Plasma Wakefields via a Lagrangian Formulation](./papers/arxiv-2607-22473/README.md) | 激光等离子体与束流加速、PIC、动理学与数值模拟 |
@@ -38,8 +41,5 @@
 | 2026-07-26 | [Plasma screening and configuration interaction effects induced large enhancement on L-shell photoionization cross sections and opacity](./papers/arxiv-2607-21238/README.md) | 高能量密度物理、ICF 与实验室天体 |
 | 2026-07-25 | [Cycle-Consistent and Uncertainty-Aware Neural Surrogates for Tokamak Edge Plasmas](./papers/arxiv-2607-21407/README.md) | 机器学习与等离子体物理、磁约束聚变与 alpha 粒子 |
 | 2026-07-25 | [Statistical Analysis of Speckle Fields](./papers/arxiv-2607-20966/README.md) | 高能量密度物理、ICF 与实验室天体 |
-| 2026-07-25 | [yancc: A GPU-accelerated, differentiable solver for neoclassical transport in tokamaks and stellarators](./papers/arxiv-2607-20861/README.md) | PIC、动理学与数值模拟、磁约束聚变与 alpha 粒子 |
-| 2026-07-24 | [Parametric Decay of Broadband Lower Hybrid Waves](./papers/arxiv-2607-20281/README.md) | 高能量密度物理、ICF 与实验室天体、磁约束聚变与 alpha 粒子 |
-| 2026-07-24 | [Combined tools for Particle-In-Cell simulations performed with transversely asymmetric chirped lasers](./papers/arxiv-2607-19121/README.md) | 激光等离子体与束流加速、PIC、动理学与数值模拟 |
 
-_自动生成时间：2026-07-28_
+_自动生成时间：2026-07-29_

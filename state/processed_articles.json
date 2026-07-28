@@ -2567,5 +2567,38 @@
     "pdf_path": "daily/2026-07-28/pdfs/R Yu Chaplynskyi et al. - 2026 - SiPM scintillation gamma spectrometry.pdf",
     "note_path": "daily/2026-07-28/notes/R Yu Chaplynskyi et al. - 2026 - SiPM scintillation gamma spectrometry.md",
     "normalized_title": "gamma spectrometry with csi tl nai tl and cdwo4 scintillation crystals using a silicon photomultiplier"
+  },
+  {
+    "title": "Implementation and verification of the avalanche source in a 3D full-f particle-in-cell model of relativistic electrons for studies of tokamak disruptions",
+    "doi": "10.48550/arXiv.2607.24602",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-27",
+    "processed_date": "2026-07-29",
+    "source_url": "https://arxiv.org/abs/2607.24602",
+    "pdf_path": "daily/2026-07-29/pdfs/Fiona Wouters et al. - 2026 - Runaway-electron avalanche 3D PIC.pdf",
+    "note_path": "daily/2026-07-29/notes/Fiona Wouters et al. - 2026 - Runaway-electron avalanche 3D PIC.md",
+    "normalized_title": "implementation and verification of the avalanche source in a 3d full f particle in cell model of relativistic electrons for studies of tokamak disruptions"
+  },
+  {
+    "title": "Quasistatic modeling of ultrarelativistic beam-plasma instabilities",
+    "doi": "10.48550/arXiv.2607.24234",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-27",
+    "processed_date": "2026-07-29",
+    "source_url": "https://arxiv.org/abs/2607.24234",
+    "pdf_path": "daily/2026-07-29/pdfs/P San Miguel Claveria et al. - 2026 - Quasistatic beam-plasma instabilities.pdf",
+    "note_path": "daily/2026-07-29/notes/P San Miguel Claveria et al. - 2026 - Quasistatic beam-plasma instabilities.md",
+    "normalized_title": "quasistatic modeling of ultrarelativistic beam plasma instabilities"
+  },
+  {
+    "title": "Impact of ion-electron collisions on nonlocal ion heat conduction, viscous stress, and diffusion",
+    "doi": "10.48550/arXiv.2607.24505",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-27",
+    "processed_date": "2026-07-29",
+    "source_url": "https://arxiv.org/abs/2607.24505",
+    "pdf_path": "daily/2026-07-29/pdfs/Nicholas Mitchell et al. - 2026 - Nonlocal ion transport collisions.pdf",
+    "note_path": "daily/2026-07-29/notes/Nicholas Mitchell et al. - 2026 - Nonlocal ion transport collisions.md",
+    "normalized_title": "impact of ion electron collisions on nonlocal ion heat conduction viscous stress and diffusion"
   }
 ]

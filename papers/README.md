@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：233 篇
-- 索引更新时间：2026-07-28
+- 当前入库论文：236 篇
+- 索引更新时间：2026-07-29
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-07-29 | [Implementation and verification of the avalanche source in a 3D full-f particle-in-cell model of relativistic electrons for studies of tokamak disruptions](./arxiv-2607-24602/README.md) | arXiv preprint | [10.48550/arXiv.2607.24602](https://doi.org/10.48550/arXiv.2607.24602) |
+| 2026-07-29 | [Quasistatic modeling of ultrarelativistic beam-plasma instabilities](./arxiv-2607-24234/README.md) | arXiv preprint | [10.48550/arXiv.2607.24234](https://doi.org/10.48550/arXiv.2607.24234) |
+| 2026-07-29 | [Impact of ion-electron collisions on nonlocal ion heat conduction, viscous stress, and diffusion](./arxiv-2607-24505/README.md) | arXiv preprint | [10.48550/arXiv.2607.24505](https://doi.org/10.48550/arXiv.2607.24505) |
 | 2026-07-28 | [First Observation of Fishbone-Driven Zonal Flows with Fine Reversed Structure in Tokamak Plasmas](./arxiv-2607-22344/README.md) | arXiv preprint | [10.48550/arXiv.2607.22344](https://doi.org/10.48550/arXiv.2607.22344) |
 | 2026-07-28 | [Gamma spectrometry with CsI(Tl), NaI(Tl) and CdWO4 scintillation crystals using a silicon photomultiplier](./10-15407-jnpae2026-02-148/README.md) | Nuclear Physics and Atomic Energy 27(2), 148-152 (open access; arXiv copy) | [10.15407/jnpae2026.02.148](https://doi.org/10.15407/jnpae2026.02.148) |
 | 2026-07-27 | [Generalized Theory of Blowout-Regime Plasma Wakefields via a Lagrangian Formulation](./arxiv-2607-22473/README.md) | arXiv preprint | [10.48550/arXiv.2607.22473](https://doi.org/10.48550/arXiv.2607.22473) |

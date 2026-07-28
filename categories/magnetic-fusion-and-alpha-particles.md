@@ -2,11 +2,12 @@
 
 stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。
 
-- 当前收录：20 篇
-- 索引更新时间：2026-07-28
+- 当前收录：21 篇
+- 索引更新时间：2026-07-29
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-29 | [Implementation and verification of the avalanche source in a 3D full-f particle-in-cell model of relativistic electrons for studies of tokamak disruptions](../papers/arxiv-2607-24602/README.md) | arXiv preprint | [笔记](../daily/2026-07-29/notes/Fiona Wouters et al. - 2026 - Runaway-electron avalanche 3D PIC.md) |
 | 2026-07-28 | [First Observation of Fishbone-Driven Zonal Flows with Fine Reversed Structure in Tokamak Plasmas](../papers/arxiv-2607-22344/README.md) | arXiv preprint | [笔记](../daily/2026-07-28/notes/Liutian Gao et al. - 2026 - Fishbone-driven zonal flows EAST tokamak.md) |
 | 2026-07-26 | [Langmuir probe and infrared thermography measurements of wide and narrow heat flux profiles in the ST40 tokamak](../papers/arxiv-2607-21362/README.md) | arXiv preprint | [笔记](../daily/2026-07-26/notes/Brewer et al. - 2026 - ST40 heat flux diagnostics.md) |
 | 2026-07-25 | [Cycle-Consistent and Uncertainty-Aware Neural Surrogates for Tokamak Edge Plasmas](../papers/arxiv-2607-21407/README.md) | arXiv preprint | [笔记](../daily/2026-07-25/notes/Diaw et al. - 2026 - Uncertainty-aware neural surrogates tokamak edge.md) |

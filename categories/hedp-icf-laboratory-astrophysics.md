@@ -2,11 +2,12 @@
 
 HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。
 
-- 当前收录：68 篇
-- 索引更新时间：2026-07-28
+- 当前收录：69 篇
+- 索引更新时间：2026-07-29
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-29 | [Impact of ion-electron collisions on nonlocal ion heat conduction, viscous stress, and diffusion](../papers/arxiv-2607-24505/README.md) | arXiv preprint | [笔记](../daily/2026-07-29/notes/Nicholas Mitchell et al. - 2026 - Nonlocal ion transport collisions.md) |
 | 2026-07-27 | [A Multi-Species Reactive-Boltzmann Formulation for Self-Consistent Kinetic Simulation of Burning Fusion Plasmas](../papers/arxiv-2607-21723/README.md) | arXiv preprint | [笔记](../daily/2026-07-27/notes/Mark Dunn et al. - 2026 - Burning fusion plasma kinetic simulation.md) |
 | 2026-07-26 | [Plasma screening and configuration interaction effects induced large enhancement on L-shell photoionization cross sections and opacity](../papers/arxiv-2607-21238/README.md) | arXiv preprint | [笔记](../daily/2026-07-26/notes/Zhou et al. - 2026 - Plasma screening opacity.md) |
 | 2026-07-25 | [Statistical Analysis of Speckle Fields](../papers/arxiv-2607-20966/README.md) | arXiv preprint | [笔记](../daily/2026-07-25/notes/Min-Roberts et al. - 2026 - Statistical analysis of speckle fields.md) |
