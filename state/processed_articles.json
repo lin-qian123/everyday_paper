@@ -2600,5 +2600,38 @@
     "pdf_path": "daily/2026-07-29/pdfs/Nicholas Mitchell et al. - 2026 - Nonlocal ion transport collisions.pdf",
     "note_path": "daily/2026-07-29/notes/Nicholas Mitchell et al. - 2026 - Nonlocal ion transport collisions.md",
     "normalized_title": "impact of ion electron collisions on nonlocal ion heat conduction viscous stress and diffusion"
+  },
+  {
+    "title": "Laser power transmission in space: Plasma-based power cell",
+    "doi": "10.48550/arXiv.2607.25843",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-28",
+    "processed_date": "2026-07-30",
+    "source_url": "https://arxiv.org/abs/2607.25843",
+    "pdf_path": "daily/2026-07-30/pdfs/Li Lin and Michael Keidar - 2026 - Plasma-based power cell.pdf",
+    "note_path": "daily/2026-07-30/notes/Li Lin and Michael Keidar - 2026 - Plasma-based power cell.md",
+    "normalized_title": "laser power transmission in space plasma based power cell"
+  },
+  {
+    "title": "Reconciling chemical models of X-ray Thomson Scattering with the Bethe f-sum rule",
+    "doi": "10.48550/arXiv.2607.25481",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-28",
+    "processed_date": "2026-07-30",
+    "source_url": "https://arxiv.org/abs/2607.25481",
+    "pdf_path": "daily/2026-07-30/pdfs/Maximilian P Boehme et al. - 2026 - XRTS Bethe f sum rule.pdf",
+    "note_path": "daily/2026-07-30/notes/Maximilian P Boehme et al. - 2026 - XRTS Bethe f sum rule.md",
+    "normalized_title": "reconciling chemical models of x ray thomson scattering with the bethe f sum rule"
+  },
+  {
+    "title": "Enhanced alpha channeling with spin-polarized fuel",
+    "doi": "10.48550/arXiv.2607.25313",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-28",
+    "processed_date": "2026-07-30",
+    "source_url": "https://arxiv.org/abs/2607.25313",
+    "pdf_path": "daily/2026-07-30/pdfs/J F Parisi et al. - 2026 - Spin polarized fuel alpha channeling.pdf",
+    "note_path": "daily/2026-07-30/notes/J F Parisi et al. - 2026 - Spin polarized fuel alpha channeling.md",
+    "normalized_title": "enhanced alpha channeling with spin polarized fuel"
   }
 ]

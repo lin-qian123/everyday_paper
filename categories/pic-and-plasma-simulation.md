@@ -2,11 +2,12 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：93 篇
-- 索引更新时间：2026-07-29
+- 当前收录：94 篇
+- 索引更新时间：2026-07-30
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-07-30 | [Laser power transmission in space: Plasma-based power cell](../papers/arxiv-2607-25843/README.md) | arXiv preprint | [笔记](../daily/2026-07-30/notes/Li Lin and Michael Keidar - 2026 - Plasma-based power cell.md) |
 | 2026-07-29 | [Implementation and verification of the avalanche source in a 3D full-f particle-in-cell model of relativistic electrons for studies of tokamak disruptions](../papers/arxiv-2607-24602/README.md) | arXiv preprint | [笔记](../daily/2026-07-29/notes/Fiona Wouters et al. - 2026 - Runaway-electron avalanche 3D PIC.md) |
 | 2026-07-29 | [Quasistatic modeling of ultrarelativistic beam-plasma instabilities](../papers/arxiv-2607-24234/README.md) | arXiv preprint | [笔记](../daily/2026-07-29/notes/P San Miguel Claveria et al. - 2026 - Quasistatic beam-plasma instabilities.md) |
 | 2026-07-28 | [First Observation of Fishbone-Driven Zonal Flows with Fine Reversed Structure in Tokamak Plasmas](../papers/arxiv-2607-22344/README.md) | arXiv preprint | [笔记](../daily/2026-07-28/notes/Liutian Gao et al. - 2026 - Fishbone-driven zonal flows EAST tokamak.md) |

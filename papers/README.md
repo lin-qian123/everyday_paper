@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：236 篇
-- 索引更新时间：2026-07-29
+- 当前入库论文：239 篇
+- 索引更新时间：2026-07-30
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-07-30 | [Laser power transmission in space: Plasma-based power cell](./arxiv-2607-25843/README.md) | arXiv preprint | [10.48550/arXiv.2607.25843](https://doi.org/10.48550/arXiv.2607.25843) |
+| 2026-07-30 | [Reconciling chemical models of X-ray Thomson Scattering with the Bethe f-sum rule](./arxiv-2607-25481/README.md) | arXiv preprint | [10.48550/arXiv.2607.25481](https://doi.org/10.48550/arXiv.2607.25481) |
+| 2026-07-30 | [Enhanced alpha channeling with spin-polarized fuel](./arxiv-2607-25313/README.md) | arXiv preprint | [10.48550/arXiv.2607.25313](https://doi.org/10.48550/arXiv.2607.25313) |
 | 2026-07-29 | [Implementation and verification of the avalanche source in a 3D full-f particle-in-cell model of relativistic electrons for studies of tokamak disruptions](./arxiv-2607-24602/README.md) | arXiv preprint | [10.48550/arXiv.2607.24602](https://doi.org/10.48550/arXiv.2607.24602) |
 | 2026-07-29 | [Quasistatic modeling of ultrarelativistic beam-plasma instabilities](./arxiv-2607-24234/README.md) | arXiv preprint | [10.48550/arXiv.2607.24234](https://doi.org/10.48550/arXiv.2607.24234) |
 | 2026-07-29 | [Impact of ion-electron collisions on nonlocal ion heat conduction, viscous stress, and diffusion](./arxiv-2607-24505/README.md) | arXiv preprint | [10.48550/arXiv.2607.24505](https://doi.org/10.48550/arXiv.2607.24505) |
