@@ -1,10 +1,12 @@
 # 论文总索引
 
-- 当前入库论文：239 篇
-- 索引更新时间：2026-07-30
+- 当前入库论文：241 篇
+- 索引更新时间：2026-07-31
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-07-31 | [Calibration of scintillator-based X-ray detectors for broadband laser-driven X-ray radiation](./arxiv-2607-25856/README.md) | arXiv preprint | [10.48550/arXiv.2607.25856](https://doi.org/10.48550/arXiv.2607.25856) |
+| 2026-07-31 | [Photonuclear Neutron Production in OpenMC: Verification Against MCNPX, FLUKA, and a First-Collision Analytical Solution](./arxiv-2607-26045/README.md) | arXiv preprint (submitted to Nuclear Science and Engineering) | [10.48550/arXiv.2607.26045](https://doi.org/10.48550/arXiv.2607.26045) |
 | 2026-07-30 | [Laser power transmission in space: Plasma-based power cell](./arxiv-2607-25843/README.md) | arXiv preprint | [10.48550/arXiv.2607.25843](https://doi.org/10.48550/arXiv.2607.25843) |
 | 2026-07-30 | [Reconciling chemical models of X-ray Thomson Scattering with the Bethe f-sum rule](./arxiv-2607-25481/README.md) | arXiv preprint | [10.48550/arXiv.2607.25481](https://doi.org/10.48550/arXiv.2607.25481) |
 | 2026-07-30 | [Enhanced alpha channeling with spin-polarized fuel](./arxiv-2607-25313/README.md) | arXiv preprint | [10.48550/arXiv.2607.25313](https://doi.org/10.48550/arXiv.2607.25313) |

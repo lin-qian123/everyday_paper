@@ -2633,5 +2633,27 @@
     "pdf_path": "daily/2026-07-30/pdfs/J F Parisi et al. - 2026 - Spin polarized fuel alpha channeling.pdf",
     "note_path": "daily/2026-07-30/notes/J F Parisi et al. - 2026 - Spin polarized fuel alpha channeling.md",
     "normalized_title": "enhanced alpha channeling with spin polarized fuel"
+  },
+  {
+    "title": "Calibration of scintillator-based X-ray detectors for broadband laser-driven X-ray radiation",
+    "doi": "10.48550/arXiv.2607.25856",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-28",
+    "processed_date": "2026-07-31",
+    "source_url": "https://arxiv.org/abs/2607.25856",
+    "pdf_path": "daily/2026-07-31/pdfs/Luis A. Padilla-Lecuna et al. - 2026 - Calibration of scintillator X-ray detectors.pdf",
+    "note_path": "daily/2026-07-31/notes/Orsolya Morvai et al. - 2026 - Calibration of scintillator X-ray detectors.md",
+    "normalized_title": "calibration of scintillator based x ray detectors for broadband laser driven x ray radiation"
+  },
+  {
+    "title": "Photonuclear Neutron Production in OpenMC: Verification Against MCNPX, FLUKA, and a First-Collision Analytical Solution",
+    "doi": "10.48550/arXiv.2607.26045",
+    "journal": "arXiv preprint (submitted to Nuclear Science and Engineering)",
+    "publication_date": "2026-07-28",
+    "processed_date": "2026-07-31",
+    "source_url": "https://arxiv.org/abs/2607.26045",
+    "pdf_path": "daily/2026-07-31/pdfs/A. Rahman et al. - 2026 - Photonuclear neutron production OpenMC verification.pdf",
+    "note_path": "daily/2026-07-31/notes/Lorenzo Loi et al. - 2026 - Photonuclear neutron production OpenMC verification.md",
+    "normalized_title": "photonuclear neutron production in openmc verification against mcnpx fluka and a first collision analytical solution"
   }
 ]
