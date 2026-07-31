@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：241 篇
-- 索引更新时间：2026-07-31
+- 当前入库论文：244 篇
+- 索引更新时间：2026-08-01
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-08-01 | [Variational Formulation of a Hybrid Kinetic and Gyrokinetic Model for Astrophysical and Laboratory Plasmas](./arxiv-2607-28305/README.md) | arXiv preprint | [10.48550/arXiv.2607.28305](https://doi.org/10.48550/arXiv.2607.28305) |
+| 2026-08-01 | [Electromagnetically Driven Thermal Dissipation Scaling in Plasma Centrifuges for Mass Separation](./arxiv-2607-28208/README.md) | arXiv preprint | [10.48550/arXiv.2607.28208](https://doi.org/10.48550/arXiv.2607.28208) |
+| 2026-08-01 | [LoKI-GM: a global model framework for plasma chemistry studies](./arxiv-2607-27234/README.md) | arXiv preprint (submitted to Plasma Sources Science and Technology) | [10.48550/arXiv.2607.27234](https://doi.org/10.48550/arXiv.2607.27234) |
 | 2026-07-31 | [Calibration of scintillator-based X-ray detectors for broadband laser-driven X-ray radiation](./arxiv-2607-25856/README.md) | arXiv preprint | [10.48550/arXiv.2607.25856](https://doi.org/10.48550/arXiv.2607.25856) |
 | 2026-07-31 | [Photonuclear Neutron Production in OpenMC: Verification Against MCNPX, FLUKA, and a First-Collision Analytical Solution](./arxiv-2607-26045/README.md) | arXiv preprint (submitted to Nuclear Science and Engineering) | [10.48550/arXiv.2607.26045](https://doi.org/10.48550/arXiv.2607.26045) |
 | 2026-07-30 | [Laser power transmission in space: Plasma-based power cell](./arxiv-2607-25843/README.md) | arXiv preprint | [10.48550/arXiv.2607.25843](https://doi.org/10.48550/arXiv.2607.25843) |

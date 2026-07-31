@@ -2,11 +2,12 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：46 篇
-- 索引更新时间：2026-07-31
+- 当前收录：47 篇
+- 索引更新时间：2026-08-01
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-01 | [Electromagnetically Driven Thermal Dissipation Scaling in Plasma Centrifuges for Mass Separation](../papers/arxiv-2607-28208/README.md) | arXiv preprint | [笔记](../daily/2026-08-01/notes/Hood-McFadden et al. - 2026 - Plasma centrifuge mass separation.md) |
 | 2026-07-31 | [Photonuclear Neutron Production in OpenMC: Verification Against MCNPX, FLUKA, and a First-Collision Analytical Solution](../papers/arxiv-2607-26045/README.md) | arXiv preprint (submitted to Nuclear Science and Engineering) | [笔记](../daily/2026-07-31/notes/Lorenzo Loi et al. - 2026 - Photonuclear neutron production OpenMC verification.md) |
 | 2026-07-28 | [Gamma spectrometry with CsI(Tl), NaI(Tl) and CdWO4 scintillation crystals using a silicon photomultiplier](../papers/10-15407-jnpae2026-02-148/README.md) | Nuclear Physics and Atomic Energy 27(2), 148-152 (open access; arXiv copy) | [笔记](../daily/2026-07-28/notes/R Yu Chaplynskyi et al. - 2026 - SiPM scintillation gamma spectrometry.md) |
 | 2026-07-21 | [Nonlinear Enhancement of Laser-Foil Coupling and Secondary Sources under Irradiation by Dual Picosecond Petawatt Pulses](../papers/10-1017-hpl-2026-10182/README.md) | High Power Laser Science and Engineering accepted manuscript | [笔记](../daily/2026-07-21/notes/Zitao Wang et al. - 2026 - Dual picosecond petawatt secondary sources.md) |

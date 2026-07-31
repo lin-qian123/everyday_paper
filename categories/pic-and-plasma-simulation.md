@@ -2,11 +2,13 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：94 篇
-- 索引更新时间：2026-07-31
+- 当前收录：96 篇
+- 索引更新时间：2026-08-01
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-01 | [Variational Formulation of a Hybrid Kinetic and Gyrokinetic Model for Astrophysical and Laboratory Plasmas](../papers/arxiv-2607-28305/README.md) | arXiv preprint | [笔记](../daily/2026-08-01/notes/deOliveira-Lopes et al. - 2026 - Hybrid kinetic gyrokinetic model.md) |
+| 2026-08-01 | [LoKI-GM: a global model framework for plasma chemistry studies](../papers/arxiv-2607-27234/README.md) | arXiv preprint (submitted to Plasma Sources Science and Technology) | [笔记](../daily/2026-08-01/notes/Alves et al. - 2026 - LoKI-GM plasma chemistry.md) |
 | 2026-07-30 | [Laser power transmission in space: Plasma-based power cell](../papers/arxiv-2607-25843/README.md) | arXiv preprint | [笔记](../daily/2026-07-30/notes/Li Lin and Michael Keidar - 2026 - Plasma-based power cell.md) |
 | 2026-07-29 | [Implementation and verification of the avalanche source in a 3D full-f particle-in-cell model of relativistic electrons for studies of tokamak disruptions](../papers/arxiv-2607-24602/README.md) | arXiv preprint | [笔记](../daily/2026-07-29/notes/Fiona Wouters et al. - 2026 - Runaway-electron avalanche 3D PIC.md) |
 | 2026-07-29 | [Quasistatic modeling of ultrarelativistic beam-plasma instabilities](../papers/arxiv-2607-24234/README.md) | arXiv preprint | [笔记](../daily/2026-07-29/notes/P San Miguel Claveria et al. - 2026 - Quasistatic beam-plasma instabilities.md) |

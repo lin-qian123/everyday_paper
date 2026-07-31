@@ -2655,5 +2655,38 @@
     "pdf_path": "daily/2026-07-31/pdfs/A. Rahman et al. - 2026 - Photonuclear neutron production OpenMC verification.pdf",
     "note_path": "daily/2026-07-31/notes/Lorenzo Loi et al. - 2026 - Photonuclear neutron production OpenMC verification.md",
     "normalized_title": "photonuclear neutron production in openmc verification against mcnpx fluka and a first collision analytical solution"
+  },
+  {
+    "title": "Variational Formulation of a Hybrid Kinetic and Gyrokinetic Model for Astrophysical and Laboratory Plasmas",
+    "doi": "10.48550/arXiv.2607.28305",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-30",
+    "processed_date": "2026-08-01",
+    "source_url": "https://arxiv.org/abs/2607.28305",
+    "pdf_path": "daily/2026-08-01/pdfs/deOliveira-Lopes et al. - 2026 - Hybrid kinetic gyrokinetic model.pdf",
+    "note_path": "daily/2026-08-01/notes/deOliveira-Lopes et al. - 2026 - Hybrid kinetic gyrokinetic model.md",
+    "normalized_title": "variational formulation of a hybrid kinetic and gyrokinetic model for astrophysical and laboratory plasmas"
+  },
+  {
+    "title": "Electromagnetically Driven Thermal Dissipation Scaling in Plasma Centrifuges for Mass Separation",
+    "doi": "10.48550/arXiv.2607.28208",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-30",
+    "processed_date": "2026-08-01",
+    "source_url": "https://arxiv.org/abs/2607.28208",
+    "pdf_path": "daily/2026-08-01/pdfs/Hood-McFadden et al. - 2026 - Plasma centrifuge mass separation.pdf",
+    "note_path": "daily/2026-08-01/notes/Hood-McFadden et al. - 2026 - Plasma centrifuge mass separation.md",
+    "normalized_title": "electromagnetically driven thermal dissipation scaling in plasma centrifuges for mass separation"
+  },
+  {
+    "title": "LoKI-GM: a global model framework for plasma chemistry studies",
+    "doi": "10.48550/arXiv.2607.27234",
+    "journal": "arXiv preprint (submitted to Plasma Sources Science and Technology)",
+    "publication_date": "2026-07-23",
+    "processed_date": "2026-08-01",
+    "source_url": "https://arxiv.org/abs/2607.27234",
+    "pdf_path": "daily/2026-08-01/pdfs/Alves et al. - 2026 - LoKI-GM plasma chemistry.pdf",
+    "note_path": "daily/2026-08-01/notes/Alves et al. - 2026 - LoKI-GM plasma chemistry.md",
+    "normalized_title": "loki gm a global model framework for plasma chemistry studies"
   }
 ]
