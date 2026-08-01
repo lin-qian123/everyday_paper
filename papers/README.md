@@ -1,10 +1,12 @@
 # 论文总索引
 
-- 当前入库论文：244 篇
-- 索引更新时间：2026-08-01
+- 当前入库论文：246 篇
+- 索引更新时间：2026-08-02
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-08-02 | [Phase control of multi-photon electron-positron pair creation from vacuum](./arxiv-2607-26408/README.md) | arXiv preprint | [10.48550/arXiv.2607.26408](https://doi.org/10.48550/arXiv.2607.26408) |
+| 2026-08-02 | [Quasi-static transverse electric field driven electron acceleration in relativistic laser matter interaction](./arxiv-2607-26252/README.md) | arXiv preprint | [10.48550/arXiv.2607.26252](https://doi.org/10.48550/arXiv.2607.26252) |
 | 2026-08-01 | [Variational Formulation of a Hybrid Kinetic and Gyrokinetic Model for Astrophysical and Laboratory Plasmas](./arxiv-2607-28305/README.md) | arXiv preprint | [10.48550/arXiv.2607.28305](https://doi.org/10.48550/arXiv.2607.28305) |
 | 2026-08-01 | [Electromagnetically Driven Thermal Dissipation Scaling in Plasma Centrifuges for Mass Separation](./arxiv-2607-28208/README.md) | arXiv preprint | [10.48550/arXiv.2607.28208](https://doi.org/10.48550/arXiv.2607.28208) |
 | 2026-08-01 | [LoKI-GM: a global model framework for plasma chemistry studies](./arxiv-2607-27234/README.md) | arXiv preprint (submitted to Plasma Sources Science and Technology) | [10.48550/arXiv.2607.27234](https://doi.org/10.48550/arXiv.2607.27234) |

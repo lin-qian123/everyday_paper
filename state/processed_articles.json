@@ -2688,5 +2688,27 @@
     "pdf_path": "daily/2026-08-01/pdfs/Alves et al. - 2026 - LoKI-GM plasma chemistry.pdf",
     "note_path": "daily/2026-08-01/notes/Alves et al. - 2026 - LoKI-GM plasma chemistry.md",
     "normalized_title": "loki gm a global model framework for plasma chemistry studies"
+  },
+  {
+    "title": "Quasi-static transverse electric field driven electron acceleration in relativistic laser matter interaction",
+    "doi": "10.48550/arXiv.2607.26252",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-28",
+    "processed_date": "2026-08-02",
+    "source_url": "https://arxiv.org/abs/2607.26252",
+    "pdf_path": "daily/2026-08-02/pdfs/Parab et al. - 2026 - Transverse field electron acceleration.pdf",
+    "note_path": "daily/2026-08-02/notes/Parab et al. - 2026 - Transverse field electron acceleration.md",
+    "normalized_title": "quasi static transverse electric field driven electron acceleration in relativistic laser matter interaction"
+  },
+  {
+    "title": "Phase control of multi-photon electron-positron pair creation from vacuum",
+    "doi": "10.48550/arXiv.2607.26408",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-29",
+    "processed_date": "2026-08-02",
+    "source_url": "https://arxiv.org/abs/2607.26408",
+    "pdf_path": "daily/2026-08-02/pdfs/Li et al. - 2026 - Phase controlled vacuum pair creation.pdf",
+    "note_path": "daily/2026-08-02/notes/Li et al. - 2026 - Phase controlled vacuum pair creation.md",
+    "normalized_title": "phase control of multi photon electron positron pair creation from vacuum"
   }
 ]

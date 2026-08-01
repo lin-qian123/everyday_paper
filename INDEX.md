@@ -15,11 +15,11 @@
 
 | 分类 | 篇数 | 说明 |
 | --- | ---: | --- |
-| [激光等离子体与束流加速](./categories/laser-plasma-acceleration.md) | 78 | LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。 |
+| [激光等离子体与束流加速](./categories/laser-plasma-acceleration.md) | 79 | LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。 |
 | [激光加速电子/离子束应用](./categories/laser-accelerated-beam-applications.md) | 47 | 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。 |
-| [强场 QED 与辐射反作用](./categories/strong-field-qed-radiation.md) | 45 | 强场量子效应、辐射反作用、非线性 Compton、pair production 与极端场实验。 |
+| [强场 QED 与辐射反作用](./categories/strong-field-qed-radiation.md) | 46 | 强场量子效应、辐射反作用、非线性 Compton、pair production 与极端场实验。 |
 | [高能量密度物理、ICF 与实验室天体](./categories/hedp-icf-laboratory-astrophysics.md) | 70 | HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。 |
-| [PIC、动理学与数值模拟](./categories/pic-and-plasma-simulation.md) | 96 | PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。 |
+| [PIC、动理学与数值模拟](./categories/pic-and-plasma-simulation.md) | 97 | PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。 |
 | [机器学习与等离子体物理](./categories/ai-ml-plasma-physics.md) | 30 | 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。 |
 | [磁约束聚变与 alpha 粒子](./categories/magnetic-fusion-and-alpha-particles.md) | 22 | stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。 |
 | [实验平台、靶设计与诊断](./categories/experimental-platforms-diagnostics.md) | 50 | 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。 |
@@ -29,6 +29,8 @@
 
 | 入库日期 | 论文 | 分类 |
 | --- | --- | --- |
+| 2026-08-02 | [Phase control of multi-photon electron-positron pair creation from vacuum](./papers/arxiv-2607-26408/README.md) | 强场 QED 与辐射反作用 |
+| 2026-08-02 | [Quasi-static transverse electric field driven electron acceleration in relativistic laser matter interaction](./papers/arxiv-2607-26252/README.md) | 激光等离子体与束流加速、PIC、动理学与数值模拟 |
 | 2026-08-01 | [Variational Formulation of a Hybrid Kinetic and Gyrokinetic Model for Astrophysical and Laboratory Plasmas](./papers/arxiv-2607-28305/README.md) | PIC、动理学与数值模拟、磁约束聚变与 alpha 粒子 |
 | 2026-08-01 | [Electromagnetically Driven Thermal Dissipation Scaling in Plasma Centrifuges for Mass Separation](./papers/arxiv-2607-28208/README.md) | 激光加速电子/离子束应用 |
 | 2026-08-01 | [LoKI-GM: a global model framework for plasma chemistry studies](./papers/arxiv-2607-27234/README.md) | PIC、动理学与数值模拟 |
@@ -39,7 +41,5 @@
 | 2026-07-30 | [Enhanced alpha channeling with spin-polarized fuel](./papers/arxiv-2607-25313/README.md) | 高能量密度物理、ICF 与实验室天体 |
 | 2026-07-29 | [Implementation and verification of the avalanche source in a 3D full-f particle-in-cell model of relativistic electrons for studies of tokamak disruptions](./papers/arxiv-2607-24602/README.md) | PIC、动理学与数值模拟、磁约束聚变与 alpha 粒子 |
 | 2026-07-29 | [Quasistatic modeling of ultrarelativistic beam-plasma instabilities](./papers/arxiv-2607-24234/README.md) | PIC、动理学与数值模拟 |
-| 2026-07-29 | [Impact of ion-electron collisions on nonlocal ion heat conduction, viscous stress, and diffusion](./papers/arxiv-2607-24505/README.md) | 高能量密度物理、ICF 与实验室天体 |
-| 2026-07-28 | [First Observation of Fishbone-Driven Zonal Flows with Fine Reversed Structure in Tokamak Plasmas](./papers/arxiv-2607-22344/README.md) | PIC、动理学与数值模拟、磁约束聚变与 alpha 粒子 |
 
-_自动生成时间：2026-08-01_
+_自动生成时间：2026-08-02_

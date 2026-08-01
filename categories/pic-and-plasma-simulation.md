@@ -2,11 +2,12 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：96 篇
-- 索引更新时间：2026-08-01
+- 当前收录：97 篇
+- 索引更新时间：2026-08-02
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-02 | [Quasi-static transverse electric field driven electron acceleration in relativistic laser matter interaction](../papers/arxiv-2607-26252/README.md) | arXiv preprint | [笔记](../daily/2026-08-02/notes/Parab et al. - 2026 - Transverse field electron acceleration.md) |
 | 2026-08-01 | [Variational Formulation of a Hybrid Kinetic and Gyrokinetic Model for Astrophysical and Laboratory Plasmas](../papers/arxiv-2607-28305/README.md) | arXiv preprint | [笔记](../daily/2026-08-01/notes/deOliveira-Lopes et al. - 2026 - Hybrid kinetic gyrokinetic model.md) |
 | 2026-08-01 | [LoKI-GM: a global model framework for plasma chemistry studies](../papers/arxiv-2607-27234/README.md) | arXiv preprint (submitted to Plasma Sources Science and Technology) | [笔记](../daily/2026-08-01/notes/Alves et al. - 2026 - LoKI-GM plasma chemistry.md) |
 | 2026-07-30 | [Laser power transmission in space: Plasma-based power cell](../papers/arxiv-2607-25843/README.md) | arXiv preprint | [笔记](../daily/2026-07-30/notes/Li Lin and Michael Keidar - 2026 - Plasma-based power cell.md) |
