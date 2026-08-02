@@ -2710,5 +2710,16 @@
     "pdf_path": "daily/2026-08-02/pdfs/Li et al. - 2026 - Phase controlled vacuum pair creation.pdf",
     "note_path": "daily/2026-08-02/notes/Li et al. - 2026 - Phase controlled vacuum pair creation.md",
     "normalized_title": "phase control of multi photon electron positron pair creation from vacuum"
+  },
+  {
+    "title": "Measurement of multiple mechanical properties from multi-dimensional signals in nanosecond laser ablation via PINN",
+    "doi": "10.48550/arXiv.2607.26965",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-29",
+    "processed_date": "2026-08-03",
+    "source_url": "https://arxiv.org/abs/2607.26965",
+    "pdf_path": "daily/2026-08-03/pdfs/Zhou et al. - 2026 - Laser ablation PINN mechanical inversion.pdf",
+    "note_path": "daily/2026-08-03/notes/Zhou et al. - 2026 - Laser ablation PINN mechanical inversion.md",
+    "normalized_title": "measurement of multiple mechanical properties from multi dimensional signals in nanosecond laser ablation via pinn"
   }
 ]

@@ -1,10 +1,11 @@
 # 论文总索引
 
-- 当前入库论文：246 篇
-- 索引更新时间：2026-08-02
+- 当前入库论文：247 篇
+- 索引更新时间：2026-08-03
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-08-03 | [Measurement of multiple mechanical properties from multi-dimensional signals in nanosecond laser ablation via PINN](./arxiv-2607-26965/README.md) | arXiv preprint | [10.48550/arXiv.2607.26965](https://doi.org/10.48550/arXiv.2607.26965) |
 | 2026-08-02 | [Phase control of multi-photon electron-positron pair creation from vacuum](./arxiv-2607-26408/README.md) | arXiv preprint | [10.48550/arXiv.2607.26408](https://doi.org/10.48550/arXiv.2607.26408) |
 | 2026-08-02 | [Quasi-static transverse electric field driven electron acceleration in relativistic laser matter interaction](./arxiv-2607-26252/README.md) | arXiv preprint | [10.48550/arXiv.2607.26252](https://doi.org/10.48550/arXiv.2607.26252) |
 | 2026-08-01 | [Variational Formulation of a Hybrid Kinetic and Gyrokinetic Model for Astrophysical and Laboratory Plasmas](./arxiv-2607-28305/README.md) | arXiv preprint | [10.48550/arXiv.2607.28305](https://doi.org/10.48550/arXiv.2607.28305) |
