@@ -2,11 +2,12 @@
 
 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。
 
-- 当前收录：31 篇
-- 索引更新时间：2026-08-03
+- 当前收录：32 篇
+- 索引更新时间：2026-08-04
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-04 | [A Neural Operator Closure for Landau Damping in Electrostatic Plasma](../papers/arxiv-2607-29364/README.md) | arXiv preprint (under consideration for Journal of Plasma Physics) | [笔记](../daily/2026-08-04/notes/Burles et al. - 2026 - Neural operator Landau damping closure.md) |
 | 2026-08-03 | [Measurement of multiple mechanical properties from multi-dimensional signals in nanosecond laser ablation via PINN](../papers/arxiv-2607-26965/README.md) | arXiv preprint | [笔记](../daily/2026-08-03/notes/Zhou et al. - 2026 - Laser ablation PINN mechanical inversion.md) |
 | 2026-07-25 | [Cycle-Consistent and Uncertainty-Aware Neural Surrogates for Tokamak Edge Plasmas](../papers/arxiv-2607-21407/README.md) | arXiv preprint | [笔记](../daily/2026-07-25/notes/Diaw et al. - 2026 - Uncertainty-aware neural surrogates tokamak edge.md) |
 | 2026-07-23 | [Reduced-order non-self-consistent Monte Carlo simulation of a planar magnetron discharge: electron heating, recapture and racetrack formation](../papers/arxiv-2607-19930/README.md) | arXiv preprint | [笔记](../daily/2026-07-23/notes/Franz F Locker et al. - 2026 - Magnetron reduced-order Monte Carlo.md) |

@@ -19,8 +19,8 @@
 | [激光加速电子/离子束应用](./categories/laser-accelerated-beam-applications.md) | 47 | 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。 |
 | [强场 QED 与辐射反作用](./categories/strong-field-qed-radiation.md) | 46 | 强场量子效应、辐射反作用、非线性 Compton、pair production 与极端场实验。 |
 | [高能量密度物理、ICF 与实验室天体](./categories/hedp-icf-laboratory-astrophysics.md) | 71 | HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。 |
-| [PIC、动理学与数值模拟](./categories/pic-and-plasma-simulation.md) | 97 | PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。 |
-| [机器学习与等离子体物理](./categories/ai-ml-plasma-physics.md) | 31 | 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。 |
+| [PIC、动理学与数值模拟](./categories/pic-and-plasma-simulation.md) | 98 | PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。 |
+| [机器学习与等离子体物理](./categories/ai-ml-plasma-physics.md) | 32 | 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。 |
 | [磁约束聚变与 alpha 粒子](./categories/magnetic-fusion-and-alpha-particles.md) | 22 | stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。 |
 | [实验平台、靶设计与诊断](./categories/experimental-platforms-diagnostics.md) | 51 | 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。 |
 | [综合等离子体与交叉方法](./categories/general-plasma-and-methods.md) | 30 | 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。 |
@@ -29,6 +29,7 @@
 
 | 入库日期 | 论文 | 分类 |
 | --- | --- | --- |
+| 2026-08-04 | [A Neural Operator Closure for Landau Damping in Electrostatic Plasma](./papers/arxiv-2607-29364/README.md) | PIC、动理学与数值模拟、机器学习与等离子体物理 |
 | 2026-08-03 | [Measurement of multiple mechanical properties from multi-dimensional signals in nanosecond laser ablation via PINN](./papers/arxiv-2607-26965/README.md) | 高能量密度物理、ICF 与实验室天体、机器学习与等离子体物理、实验平台、靶设计与诊断 |
 | 2026-08-02 | [Phase control of multi-photon electron-positron pair creation from vacuum](./papers/arxiv-2607-26408/README.md) | 强场 QED 与辐射反作用 |
 | 2026-08-02 | [Quasi-static transverse electric field driven electron acceleration in relativistic laser matter interaction](./papers/arxiv-2607-26252/README.md) | 激光等离子体与束流加速、PIC、动理学与数值模拟 |
@@ -40,6 +41,5 @@
 | 2026-07-30 | [Laser power transmission in space: Plasma-based power cell](./papers/arxiv-2607-25843/README.md) | PIC、动理学与数值模拟 |
 | 2026-07-30 | [Reconciling chemical models of X-ray Thomson Scattering with the Bethe f-sum rule](./papers/arxiv-2607-25481/README.md) | 实验平台、靶设计与诊断 |
 | 2026-07-30 | [Enhanced alpha channeling with spin-polarized fuel](./papers/arxiv-2607-25313/README.md) | 高能量密度物理、ICF 与实验室天体 |
-| 2026-07-29 | [Implementation and verification of the avalanche source in a 3D full-f particle-in-cell model of relativistic electrons for studies of tokamak disruptions](./papers/arxiv-2607-24602/README.md) | PIC、动理学与数值模拟、磁约束聚变与 alpha 粒子 |
 
-_自动生成时间：2026-08-03_
+_自动生成时间：2026-08-04_
