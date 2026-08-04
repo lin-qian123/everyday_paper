@@ -2,11 +2,12 @@
 
 强场量子效应、辐射反作用、非线性 Compton、pair production 与极端场实验。
 
-- 当前收录：46 篇
-- 索引更新时间：2026-08-04
+- 当前收录：47 篇
+- 索引更新时间：2026-08-05
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-05 | [Photon Orbital Angular Momentum Control by Electron Wavepackets in Nonlinear Compton Scattering](../papers/arxiv-2608-01323/README.md) | arXiv preprint | [笔记](../daily/2026-08-05/notes/Zuo et al. - 2026 - Photon OAM nonlinear Compton scattering.md) |
 | 2026-08-02 | [Phase control of multi-photon electron-positron pair creation from vacuum](../papers/arxiv-2607-26408/README.md) | arXiv preprint | [笔记](../daily/2026-08-02/notes/Li et al. - 2026 - Phase controlled vacuum pair creation.md) |
 | 2026-07-22 | [Experimental determination of the Dalitz plot for positronium decay using the J-PET detection system](../papers/arxiv-2607-19495/README.md) | arXiv preprint | [笔记](../daily/2026-07-22/notes/Magdalena Skurzok et al. - 2026 - Positronium Dalitz plot J-PET.md) |
 | 2026-07-21 | [Nonlinear Enhancement of Laser-Foil Coupling and Secondary Sources under Irradiation by Dual Picosecond Petawatt Pulses](../papers/10-1017-hpl-2026-10182/README.md) | High Power Laser Science and Engineering accepted manuscript | [笔记](../daily/2026-07-21/notes/Zitao Wang et al. - 2026 - Dual picosecond petawatt secondary sources.md) |

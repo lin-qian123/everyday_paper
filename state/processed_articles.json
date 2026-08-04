@@ -2732,5 +2732,16 @@
     "pdf_path": "daily/2026-08-04/pdfs/Neural operator closure for Landau damping.pdf",
     "note_path": "daily/2026-08-04/notes/Burles et al. - 2026 - Neural operator Landau damping closure.md",
     "normalized_title": "a neural operator closure for landau damping in electrostatic plasma"
+  },
+  {
+    "title": "Photon Orbital Angular Momentum Control by Electron Wavepackets in Nonlinear Compton Scattering",
+    "doi": "10.48550/arXiv.2608.01323",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-02",
+    "processed_date": "2026-08-05",
+    "source_url": "https://arxiv.org/abs/2608.01323",
+    "pdf_path": "daily/2026-08-05/pdfs/Zuo et al. - 2026 - Photon OAM nonlinear Compton scattering.pdf",
+    "note_path": "daily/2026-08-05/notes/Zuo et al. - 2026 - Photon OAM nonlinear Compton scattering.md",
+    "normalized_title": "photon orbital angular momentum control by electron wavepackets in nonlinear compton scattering"
   }
 ]

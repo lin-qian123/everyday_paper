@@ -1,10 +1,11 @@
 # 论文总索引
 
-- 当前入库论文：248 篇
-- 索引更新时间：2026-08-04
+- 当前入库论文：249 篇
+- 索引更新时间：2026-08-05
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-08-05 | [Photon Orbital Angular Momentum Control by Electron Wavepackets in Nonlinear Compton Scattering](./arxiv-2608-01323/README.md) | arXiv preprint | [10.48550/arXiv.2608.01323](https://doi.org/10.48550/arXiv.2608.01323) |
 | 2026-08-04 | [A Neural Operator Closure for Landau Damping in Electrostatic Plasma](./arxiv-2607-29364/README.md) | arXiv preprint (under consideration for Journal of Plasma Physics) | [10.48550/arXiv.2607.29364](https://doi.org/10.48550/arXiv.2607.29364) |
 | 2026-08-03 | [Measurement of multiple mechanical properties from multi-dimensional signals in nanosecond laser ablation via PINN](./arxiv-2607-26965/README.md) | arXiv preprint | [10.48550/arXiv.2607.26965](https://doi.org/10.48550/arXiv.2607.26965) |
 | 2026-08-02 | [Phase control of multi-photon electron-positron pair creation from vacuum](./arxiv-2607-26408/README.md) | arXiv preprint | [10.48550/arXiv.2607.26408](https://doi.org/10.48550/arXiv.2607.26408) |
