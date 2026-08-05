@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：249 篇
-- 索引更新时间：2026-08-05
+- 当前入库论文：252 篇
+- 索引更新时间：2026-08-06
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-08-06 | [Development of Thomson parabola spectrometer for diagnostics of ions driven by ultrahigh intensity laser: Simulations and numerical analysis](./arxiv-2608-03969/README.md) | arXiv preprint | [10.48550/arXiv.2608.03969](https://doi.org/10.48550/arXiv.2608.03969) |
+| 2026-08-06 | [Generation-Resolved Signatures in QED Cascades: Diagnostics for Ultraintense Laser Parameters](./arxiv-2608-03331/README.md) | arXiv preprint | [10.48550/arXiv.2608.03331](https://doi.org/10.48550/arXiv.2608.03331) |
+| 2026-08-06 | [Generation of dense relativistic electron beams via vortex laser-driven self-generated magnetic pinching](./arxiv-2608-03240/README.md) | arXiv preprint | [10.48550/arXiv.2608.03240](https://doi.org/10.48550/arXiv.2608.03240) |
 | 2026-08-05 | [Photon Orbital Angular Momentum Control by Electron Wavepackets in Nonlinear Compton Scattering](./arxiv-2608-01323/README.md) | arXiv preprint | [10.48550/arXiv.2608.01323](https://doi.org/10.48550/arXiv.2608.01323) |
 | 2026-08-04 | [A Neural Operator Closure for Landau Damping in Electrostatic Plasma](./arxiv-2607-29364/README.md) | arXiv preprint (under consideration for Journal of Plasma Physics) | [10.48550/arXiv.2607.29364](https://doi.org/10.48550/arXiv.2607.29364) |
 | 2026-08-03 | [Measurement of multiple mechanical properties from multi-dimensional signals in nanosecond laser ablation via PINN](./arxiv-2607-26965/README.md) | arXiv preprint | [10.48550/arXiv.2607.26965](https://doi.org/10.48550/arXiv.2607.26965) |

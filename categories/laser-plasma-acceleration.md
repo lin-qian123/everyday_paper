@@ -2,11 +2,12 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：79 篇
-- 索引更新时间：2026-08-05
+- 当前收录：80 篇
+- 索引更新时间：2026-08-06
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-06 | [Generation of dense relativistic electron beams via vortex laser-driven self-generated magnetic pinching](../papers/arxiv-2608-03240/README.md) | arXiv preprint | [笔记](../daily/2026-08-06/notes/Wei et al. - 2026 - Vortex laser electron beam pinching.md) |
 | 2026-08-02 | [Quasi-static transverse electric field driven electron acceleration in relativistic laser matter interaction](../papers/arxiv-2607-26252/README.md) | arXiv preprint | [笔记](../daily/2026-08-02/notes/Parab et al. - 2026 - Transverse field electron acceleration.md) |
 | 2026-07-31 | [Calibration of scintillator-based X-ray detectors for broadband laser-driven X-ray radiation](../papers/arxiv-2607-25856/README.md) | arXiv preprint | [笔记](../daily/2026-07-31/notes/Orsolya Morvai et al. - 2026 - Calibration of scintillator X-ray detectors.md) |
 | 2026-07-27 | [Generalized Theory of Blowout-Regime Plasma Wakefields via a Lagrangian Formulation](../papers/arxiv-2607-22473/README.md) | arXiv preprint | [笔记](../daily/2026-07-27/notes/Y Kang et al. - 2026 - Blowout-regime plasma wakefields.md) |

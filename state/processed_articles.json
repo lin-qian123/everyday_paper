@@ -2743,5 +2743,38 @@
     "pdf_path": "daily/2026-08-05/pdfs/Zuo et al. - 2026 - Photon OAM nonlinear Compton scattering.pdf",
     "note_path": "daily/2026-08-05/notes/Zuo et al. - 2026 - Photon OAM nonlinear Compton scattering.md",
     "normalized_title": "photon orbital angular momentum control by electron wavepackets in nonlinear compton scattering"
+  },
+  {
+    "title": "Development of Thomson parabola spectrometer for diagnostics of ions driven by ultrahigh intensity laser: Simulations and numerical analysis",
+    "doi": "10.48550/arXiv.2608.03969",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-04",
+    "processed_date": "2026-08-06",
+    "source_url": "https://arxiv.org/abs/2608.03969",
+    "pdf_path": "daily/2026-08-06/pdfs/Manohar et al. - 2026 - Thomson parabola laser ion diagnostics.pdf",
+    "note_path": "daily/2026-08-06/notes/Mehta et al. - 2026 - Thomson parabola laser ion diagnostics.md",
+    "normalized_title": "development of thomson parabola spectrometer for diagnostics of ions driven by ultrahigh intensity laser simulations and numerical analysis"
+  },
+  {
+    "title": "Generation-Resolved Signatures in QED Cascades: Diagnostics for Ultraintense Laser Parameters",
+    "doi": "10.48550/arXiv.2608.03331",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-04",
+    "processed_date": "2026-08-06",
+    "source_url": "https://arxiv.org/abs/2608.03331",
+    "pdf_path": "daily/2026-08-06/pdfs/Yao et al. - 2026 - QED cascade generation diagnostics.pdf",
+    "note_path": "daily/2026-08-06/notes/Wei et al. - 2026 - QED cascade generation diagnostics.md",
+    "normalized_title": "generation resolved signatures in qed cascades diagnostics for ultraintense laser parameters"
+  },
+  {
+    "title": "Generation of dense relativistic electron beams via vortex laser-driven self-generated magnetic pinching",
+    "doi": "10.48550/arXiv.2608.03240",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-04",
+    "processed_date": "2026-08-06",
+    "source_url": "https://arxiv.org/abs/2608.03240",
+    "pdf_path": "daily/2026-08-06/pdfs/Chowdhury et al. - 2026 - Vortex laser electron beam pinching.pdf",
+    "note_path": "daily/2026-08-06/notes/Wei et al. - 2026 - Vortex laser electron beam pinching.md",
+    "normalized_title": "generation of dense relativistic electron beams via vortex laser driven self generated magnetic pinching"
   }
 ]

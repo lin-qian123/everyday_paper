@@ -15,20 +15,23 @@
 
 | 分类 | 篇数 | 说明 |
 | --- | ---: | --- |
-| [激光等离子体与束流加速](./categories/laser-plasma-acceleration.md) | 79 | LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。 |
+| [激光等离子体与束流加速](./categories/laser-plasma-acceleration.md) | 80 | LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。 |
 | [激光加速电子/离子束应用](./categories/laser-accelerated-beam-applications.md) | 48 | 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。 |
-| [强场 QED 与辐射反作用](./categories/strong-field-qed-radiation.md) | 47 | 强场量子效应、辐射反作用、非线性 Compton、pair production 与极端场实验。 |
+| [强场 QED 与辐射反作用](./categories/strong-field-qed-radiation.md) | 48 | 强场量子效应、辐射反作用、非线性 Compton、pair production 与极端场实验。 |
 | [高能量密度物理、ICF 与实验室天体](./categories/hedp-icf-laboratory-astrophysics.md) | 71 | HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。 |
-| [PIC、动理学与数值模拟](./categories/pic-and-plasma-simulation.md) | 98 | PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。 |
+| [PIC、动理学与数值模拟](./categories/pic-and-plasma-simulation.md) | 99 | PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。 |
 | [机器学习与等离子体物理](./categories/ai-ml-plasma-physics.md) | 32 | 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。 |
 | [磁约束聚变与 alpha 粒子](./categories/magnetic-fusion-and-alpha-particles.md) | 22 | stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。 |
-| [实验平台、靶设计与诊断](./categories/experimental-platforms-diagnostics.md) | 51 | 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。 |
+| [实验平台、靶设计与诊断](./categories/experimental-platforms-diagnostics.md) | 53 | 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。 |
 | [综合等离子体与交叉方法](./categories/general-plasma-and-methods.md) | 30 | 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。 |
 
 ## 最新入库
 
 | 入库日期 | 论文 | 分类 |
 | --- | --- | --- |
+| 2026-08-06 | [Development of Thomson parabola spectrometer for diagnostics of ions driven by ultrahigh intensity laser: Simulations and numerical analysis](./papers/arxiv-2608-03969/README.md) | PIC、动理学与数值模拟、实验平台、靶设计与诊断 |
+| 2026-08-06 | [Generation-Resolved Signatures in QED Cascades: Diagnostics for Ultraintense Laser Parameters](./papers/arxiv-2608-03331/README.md) | 强场 QED 与辐射反作用、实验平台、靶设计与诊断 |
+| 2026-08-06 | [Generation of dense relativistic electron beams via vortex laser-driven self-generated magnetic pinching](./papers/arxiv-2608-03240/README.md) | 激光等离子体与束流加速 |
 | 2026-08-05 | [Photon Orbital Angular Momentum Control by Electron Wavepackets in Nonlinear Compton Scattering](./papers/arxiv-2608-01323/README.md) | 激光加速电子/离子束应用、强场 QED 与辐射反作用 |
 | 2026-08-04 | [A Neural Operator Closure for Landau Damping in Electrostatic Plasma](./papers/arxiv-2607-29364/README.md) | PIC、动理学与数值模拟、机器学习与等离子体物理 |
 | 2026-08-03 | [Measurement of multiple mechanical properties from multi-dimensional signals in nanosecond laser ablation via PINN](./papers/arxiv-2607-26965/README.md) | 高能量密度物理、ICF 与实验室天体、机器学习与等离子体物理、实验平台、靶设计与诊断 |
@@ -38,8 +41,5 @@
 | 2026-08-01 | [Electromagnetically Driven Thermal Dissipation Scaling in Plasma Centrifuges for Mass Separation](./papers/arxiv-2607-28208/README.md) | 激光加速电子/离子束应用 |
 | 2026-08-01 | [LoKI-GM: a global model framework for plasma chemistry studies](./papers/arxiv-2607-27234/README.md) | PIC、动理学与数值模拟 |
 | 2026-07-31 | [Calibration of scintillator-based X-ray detectors for broadband laser-driven X-ray radiation](./papers/arxiv-2607-25856/README.md) | 激光等离子体与束流加速 |
-| 2026-07-31 | [Photonuclear Neutron Production in OpenMC: Verification Against MCNPX, FLUKA, and a First-Collision Analytical Solution](./papers/arxiv-2607-26045/README.md) | 激光加速电子/离子束应用 |
-| 2026-07-30 | [Laser power transmission in space: Plasma-based power cell](./papers/arxiv-2607-25843/README.md) | PIC、动理学与数值模拟 |
-| 2026-07-30 | [Reconciling chemical models of X-ray Thomson Scattering with the Bethe f-sum rule](./papers/arxiv-2607-25481/README.md) | 实验平台、靶设计与诊断 |
 
-_自动生成时间：2026-08-05_
+_自动生成时间：2026-08-06_

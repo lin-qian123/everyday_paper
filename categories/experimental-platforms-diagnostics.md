@@ -2,11 +2,13 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：51 篇
-- 索引更新时间：2026-08-05
+- 当前收录：53 篇
+- 索引更新时间：2026-08-06
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-06 | [Development of Thomson parabola spectrometer for diagnostics of ions driven by ultrahigh intensity laser: Simulations and numerical analysis](../papers/arxiv-2608-03969/README.md) | arXiv preprint | [笔记](../daily/2026-08-06/notes/Mehta et al. - 2026 - Thomson parabola laser ion diagnostics.md) |
+| 2026-08-06 | [Generation-Resolved Signatures in QED Cascades: Diagnostics for Ultraintense Laser Parameters](../papers/arxiv-2608-03331/README.md) | arXiv preprint | [笔记](../daily/2026-08-06/notes/Wei et al. - 2026 - QED cascade generation diagnostics.md) |
 | 2026-08-03 | [Measurement of multiple mechanical properties from multi-dimensional signals in nanosecond laser ablation via PINN](../papers/arxiv-2607-26965/README.md) | arXiv preprint | [笔记](../daily/2026-08-03/notes/Zhou et al. - 2026 - Laser ablation PINN mechanical inversion.md) |
 | 2026-07-30 | [Reconciling chemical models of X-ray Thomson Scattering with the Bethe f-sum rule](../papers/arxiv-2607-25481/README.md) | arXiv preprint | [笔记](../daily/2026-07-30/notes/Maximilian P Boehme et al. - 2026 - XRTS Bethe f sum rule.md) |
 | 2026-07-28 | [Gamma spectrometry with CsI(Tl), NaI(Tl) and CdWO4 scintillation crystals using a silicon photomultiplier](../papers/10-15407-jnpae2026-02-148/README.md) | Nuclear Physics and Atomic Energy 27(2), 148-152 (open access; arXiv copy) | [笔记](../daily/2026-07-28/notes/R Yu Chaplynskyi et al. - 2026 - SiPM scintillation gamma spectrometry.md) |
