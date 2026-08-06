@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：252 篇
-- 索引更新时间：2026-08-06
+- 当前入库论文：255 篇
+- 索引更新时间：2026-08-07
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-08-07 | [A plasma photocathode for spin-polarized electron beams using excited hydrogen halides](./arxiv-2608-04932/README.md) | arXiv preprint | [10.48550/arXiv.2608.04932](https://doi.org/10.48550/arXiv.2608.04932) |
+| 2026-08-07 | [Laser-Plasma Accelerator Beams in Light Sources: Femtosecond High-Brightness Radiation through Chirped Pulse Injection](./arxiv-2608-04699/README.md) | arXiv preprint | [10.48550/arXiv.2608.04699](https://doi.org/10.48550/arXiv.2608.04699) |
+| 2026-08-07 | [Polarization-resolved attosecond gamma-ray emission from few-cycle laser interactions with cone targets](./arxiv-2608-04363/README.md) | arXiv preprint | [10.48550/arXiv.2608.04363](https://doi.org/10.48550/arXiv.2608.04363) |
 | 2026-08-06 | [Development of Thomson parabola spectrometer for diagnostics of ions driven by ultrahigh intensity laser: Simulations and numerical analysis](./arxiv-2608-03969/README.md) | arXiv preprint | [10.48550/arXiv.2608.03969](https://doi.org/10.48550/arXiv.2608.03969) |
 | 2026-08-06 | [Generation-Resolved Signatures in QED Cascades: Diagnostics for Ultraintense Laser Parameters](./arxiv-2608-03331/README.md) | arXiv preprint | [10.48550/arXiv.2608.03331](https://doi.org/10.48550/arXiv.2608.03331) |
 | 2026-08-06 | [Generation of dense relativistic electron beams via vortex laser-driven self-generated magnetic pinching](./arxiv-2608-03240/README.md) | arXiv preprint | [10.48550/arXiv.2608.03240](https://doi.org/10.48550/arXiv.2608.03240) |
