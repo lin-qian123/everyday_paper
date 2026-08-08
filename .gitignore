@@ -10,5 +10,5 @@ __pycache__/
 # Keep the GitHub repository browseable and lightweight. The Markdown notes,
 # metadata, download reports, and local PDF paths remain tracked.
 daily/*/pdfs/*.pdf
+daily/*/pdfs/*.txt
 yearly/*/pdfs/*.pdf
-
