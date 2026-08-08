@@ -2809,5 +2809,38 @@
     "pdf_path": "daily/2026-08-07/pdfs/Zhang et al. - 2026 - Attosecond gamma ray cone targets.pdf",
     "note_path": "daily/2026-08-07/notes/Zhang et al. - 2026 - Attosecond gamma ray cone targets.md",
     "normalized_title": "polarization resolved attosecond gamma ray emission from few cycle laser interactions with cone targets"
+  },
+  {
+    "title": "Polarization-Conditioned Fourier-enhanced DeepONet for Electric Field Reconstruction from EFISH Measurements",
+    "doi": "10.48550/arXiv.2608.05937",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-06",
+    "processed_date": "2026-08-09",
+    "source_url": "https://arxiv.org/abs/2608.05937",
+    "pdf_path": "daily/2026-08-09/pdfs/Yang et al. - 2026 - Fourier DeepONet EFISH electric field reconstruction.pdf",
+    "note_path": "daily/2026-08-09/notes/Yang et al. - 2026 - Fourier DeepONet EFISH electric field reconstruction.md",
+    "normalized_title": "polarization conditioned fourier enhanced deeponet for electric field reconstruction from efish measurements"
+  },
+  {
+    "title": "Net electron spin rotation in a plane-wave pulse: Holonomy set by the anomalous magnetic moment",
+    "doi": "10.48550/arXiv.2608.05698",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-06",
+    "processed_date": "2026-08-09",
+    "source_url": "https://arxiv.org/abs/2608.05698",
+    "pdf_path": "daily/2026-08-09/pdfs/Akintsov et al. - 2026 - Net electron spin rotation plane wave pulse.pdf",
+    "note_path": "daily/2026-08-09/notes/Akintsov et al. - 2026 - Net electron spin rotation plane wave pulse.md",
+    "normalized_title": "net electron spin rotation in a plane wave pulse holonomy set by the anomalous magnetic moment"
+  },
+  {
+    "title": "Building a Start-to-End Model of the CESR Injector Linac",
+    "doi": "10.48550/arXiv.2608.05094",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-05",
+    "processed_date": "2026-08-09",
+    "source_url": "https://arxiv.org/abs/2608.05094",
+    "pdf_path": "daily/2026-08-09/pdfs/Goldman et al. - 2026 - CESR injector linac start to end model.pdf",
+    "note_path": "daily/2026-08-09/notes/Goldman et al. - 2026 - CESR injector linac start to end model.md",
+    "normalized_title": "building a start to end model of the cesr injector linac"
   }
 ]

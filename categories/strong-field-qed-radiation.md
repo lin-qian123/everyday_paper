@@ -2,11 +2,13 @@
 
 强场量子效应、辐射反作用、非线性 Compton、pair production 与极端场实验。
 
-- 当前收录：49 篇
-- 索引更新时间：2026-08-07
+- 当前收录：51 篇
+- 索引更新时间：2026-08-09
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-09 | [Net electron spin rotation in a plane-wave pulse: Holonomy set by the anomalous magnetic moment](../papers/arxiv-2608-05698/README.md) | arXiv preprint | [笔记](../daily/2026-08-09/notes/Akintsov et al. - 2026 - Net electron spin rotation plane wave pulse.md) |
+| 2026-08-09 | [Building a Start-to-End Model of the CESR Injector Linac](../papers/arxiv-2608-05094/README.md) | arXiv preprint | [笔记](../daily/2026-08-09/notes/Goldman et al. - 2026 - CESR injector linac start to end model.md) |
 | 2026-08-07 | [Polarization-resolved attosecond gamma-ray emission from few-cycle laser interactions with cone targets](../papers/arxiv-2608-04363/README.md) | arXiv preprint | [笔记](../daily/2026-08-07/notes/Zhang et al. - 2026 - Attosecond gamma ray cone targets.md) |
 | 2026-08-06 | [Generation-Resolved Signatures in QED Cascades: Diagnostics for Ultraintense Laser Parameters](../papers/arxiv-2608-03331/README.md) | arXiv preprint | [笔记](../daily/2026-08-06/notes/Wei et al. - 2026 - QED cascade generation diagnostics.md) |
 | 2026-08-05 | [Photon Orbital Angular Momentum Control by Electron Wavepackets in Nonlinear Compton Scattering](../papers/arxiv-2608-01323/README.md) | arXiv preprint | [笔记](../daily/2026-08-05/notes/Zuo et al. - 2026 - Photon OAM nonlinear Compton scattering.md) |

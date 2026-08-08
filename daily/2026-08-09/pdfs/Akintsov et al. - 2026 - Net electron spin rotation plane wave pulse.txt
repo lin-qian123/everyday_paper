@@ -1,0 +1,3067 @@
+Net electron spin rotation in a plane-wave pulse: Holonomy set by the anomalous
+magnetic moment
+N. S. Akintsov ,1, ∗ A. P. Nevecheria ,2, † S. N. Andreev ,3, ‡ and Qing-Hua Qin
+
+arXiv:2608.05698v1 [hep-ph] 6 Aug 2026
+
+1
+
+4, §
+
+School of Artificial Intelligence and Computer Science, Nantong University, Nantong 226019, China
+2
+Department of Mathematical and Computer Methods,
+Kuban State University, Krasnodar 350040, Russia
+3
+Joint-Stock Company “Center for Research and Development”, Moscow 101000, Russia
+4
+Institute of Advanced Interdisciplinary Technology,
+Shenzhen MSU-BIT University, Shenzhen 518172, China
+(Dated: August 7, 2026)
+We compute the spin rotation that survives after a relativistic electron has crossed a plane-wave
+laser pulse of finite duration. In the interaction picture built on the exact g = 2 evolution, the
+Thomas–Bargmann–Michel–Telegdi equation becomes parallel transport by a connection with constant coefficients on the polarization plane, and the pulse enters only through the closed curve that
+the transverse vector potential traces there. The net rotation is the holonomy of that connection:
+an angle − 21 a2e A about the propagation direction, with ae = (g − 2)/2 the anomaly and A twice the
+signed area enclosed by the curve. That area is the spin angular momentum the pulse carries per
+unit area, so the rotation measures the helicity of the light. Reduction of the residual dynamics to
+a rotation coupled through the anomaly alone is an exact result of the 1960s [Ternov, Bagrov, and
+Klimenko, Sov. Phys. J. 11, 29 (1968); Bagrov and Gitman, The Dirac Equation and its Solutions
+(De Gruyter, Berlin, 2014), Sec. 5.3], which yields two closed-form cases; the area law is the general
+second order that those two cases bound. The same area governs the orientation memory of a neutral
+magnetic dipole [Oblak and Seraj, Phys. Rev. D 109, 044037 (2024)] with a coupling of order unity.
+For a charged electron on a Volkov orbit the coupling g/2 cancels identically, which suppresses the
+rotation by 1.3 × 10−6 and leaves a channel with no g-independent part. We verify the cancellation
+at g = 2 over 180 pulse configurations and the area law over 89 more. Finite focusing restores that
+part at second order in 1/kw0 , and it exceeds the anomalous signal unless w0 ≳ 16λ at γ = 10, or
+270λ at γ = 1.
+
+I.
+
+INTRODUCTION
+
+Spin polarization of electrons in intense laser fields is
+usually treated as a radiative process: the spin flips when
+a photon is emitted, and the flip rate follows the structure of the field [1–6]. That channel closes as the quantum parameter χ becomes small, its probability per pulse
+falling as αa0 χ2 N for N cycles at normalized amplitude
+a0 . The spin keeps moving below it. Inside a pulse with
+a0 ∼ 10 the Thomas–Bargmann–Michel–Telegdi (BMT)
+equation [7] turns the rest-frame polarization through radians, and nearly all of that rotation is undone while the
+pulse passes.
+What survives is a holonomy. For a plane-wave background, Aµ = Aµ (η) with η = k · x the light-front phase,
+and for a pulse of finite duration, the rotation surviving after the field has gone is Θnet = − 21 a2e A, where
+ae = (g − 2)/2 is the anomalous magnetic moment and A
+is twice the signed area that the vector potential encloses
+in the polarization plane. Every property of the pulse
+acts through the curve that a⊥ (η) traces in that plane,
+and at leading order through its area alone. The electron
+
+∗ Corresponding author: akintsov777@ntu.edu.cn
+† artiom.nevecherya@gmail.com
+‡ andreev@cir-innovations.ru
+§ qinghua.qin@smbu.edu.cn
+
+energy, the carrier frequency, the carrier-envelope phase
+and the rate at which the curve is traced drop out. Chirp
+and envelope shape do not: they deform the curve, and
+A follows.
+The area carries a physical name. In the Coulomb
+gauge the spin angular momentum density of the field is
+ε0 E × A, and for a plane wave E ∝ −a′⊥ while A ∝ a⊥ ,
+so that A is the spin angular momentum the pulse carries
+per unit area. The net spin rotation of the electron therefore measures the helicity of the light, weighted by the
+square of the anomaly. Section III makes that statement
+quantitative.
+Two of the three ingredients of this result are in print,
+in two literatures that have never cited one another, and
+Sec. IV sets out the division in full. The exact spin problem for an electron with an anomalous moment in a plane
+wave was solved by the Tomsk school in the 1960s [8–11]
+and rediscovered in a gravitational context three decades
+later [12]: the residual dynamics is a rotation whose coupling is the anomaly alone, the first order in the anomaly
+is algebraic in a⊥ (η), and exactly two profiles integrate
+in closed form. Separately, the net reorientation of a
+precessing magnetic dipole after a burst of radiation has
+passed is known to be of second order in the coupling and
+to equal the helicity of the burst [13], a statement phrased
+as a holonomy in the memory literature [14]. Neither line
+supplies the general second order for a pulse of arbitrary
+shape, and neither treats a charged relativistic particle,
+
+2
+where the reduction of the coupling from g/2 to ae is the
+whole of the physics. Substituting an electron into the
+dipole formula overestimates the answer by six orders of
+magnitude.
+The rotation axis is the propagation direction in the
+electron rest frame, so in a head-on or copropagating geometry the helicity is conserved through O(a6e ) and the
+measurable quantity is the rotation of a transverse polarization relative to the momentum. At oblique incidence
+that axis leaves the momentum and the helicity statement lapses. Linear polarization gives no net rotation
+at any g, exactly and at every order, because the curve
+degenerates to a segment.
+Sections II and III carry the derivation. Section IV
+is the delimitation against earlier work. Section V reports the numerical verification, Sec. VI the departure
+from the law in a focused beam, and Sec. VII the signalto-background budget, which is unfavorable and is given
+in full. Technical material, the validation tables and the
+extended algebra are in the Supplemental Material, reproduced in full in the Appendix of this preprint.
+II.
+
+SPIN TRANSPORT IN A PLANE-WAVE
+PULSE
+A.
+
+Background, orbit and assumptions
+
+The background is an exact plane wave in the metric (+, −, −, −): the dimensionless potential aµ (η) =
+eAµ (η)/m depends on the light-front phase alone, with
+k 2 = 0 and k · a = 0. Its transverse part is a⊥ , with
+components (a1 , a2 ) = (ax , ay ) along a right-handed polarization basis ê1 × ê2 = n̂. The amplitude parameter
+is a0 . It is the peak of |a⊥ | for linear polarization, while
+for the elliptical
+family of ellipticity
+δ scanned below that
+√
+√
+peak is a0 / 1 + δ 2 , or a0 / 2 in the circular case. Finiteness of the pulse enters through one condition,
+a⊥ (+∞) = a⊥ (−∞) = 0,
+
+(1)
+
+which is the statement that the transverse electric field
+has no dc component. The phase average
+of a⊥ itself
+R
+is unconstrained. A pulse carrying a⊥ dη ̸= 0 obeys
+everything below.
+We treat the spin as a classical four-vector S µ with
+S · u = 0 and S 2 = −1, evolving by the BMT equation [7,
+15, 16],
+g
+
+i
+dS µ
+e h g µν
+=
+F Sν +
+− 1 uµ Sλ F λν uν , (2)
+dτ
+m 2
+2
+with no Stern–Gerlach force, no radiation reaction and
+no electric dipole moment. The first omission is the
+mildest: relative to the Lorentz force the Stern–Gerlach
+force carries a factor ℏω/mc2 ≃ 3 × 10−6 for Ti:sapphire
+light in the rest frame of a slow electron, and its role
+in classical electron dynamics has been isolated numerically [17, 18]. The other two are genuine restrictions.
+Section VII weighs them.
+
+Within the plane-wave sector Eq. (2) is not an approximation. Chakrabarti solved the Dirac–Pauli equation
+exactly for fields of the form F = F (k·x) with k 2 = 0 and
+found that the polarization four-vector obeys the BMT
+equation exactly, for an arbitrary anomalous magnetic
+moment and an arbitrary electric dipole moment [9].
+Barducci and Giachetti later built the eigenfunctions and
+the Green function of the same problem [19]. Outside the
+locally constant field approximation the electron–wave
+interaction is nonlocal and an anomalous magnetic moment cannot be introduced in the usual way [20]. We
+hold ae at its vacuum value throughout. That costs a
+relative O(χ). It is harmless at the working points of
+Sec. VII.
+The orbit is the exact Volkov solution [21]. Because
+kµ F µν = 0, the light-front projection κ = k · u is a constant of the motion, d/dτ = κ d/dη, and the four-velocity
+returns to its initial value, u(±∞) = u0 ; no integration
+is needed for the orbit, which removes one source of numerical error from everything below.
+
+B.
+
+A single antisymmetric generator
+
+Write (p ∧ q)µ ν = pµ qν − q µ pν for the wedge of two
+four-vectors, which acts on S as p (q · S) − q (p · S); the
+symbol never denotes a three-dimensional wedge. Every
+sign statement below is read off that convention. With
+f = (e/m)F = k∧a′ and wµ = f µν uν , and using u·S = 0
+to bring the right-hand side of Eq. (2) to antisymmetric
+form, one obtains a single generator,
+dS µ
+1
+= Ωµ ν S ν ,
+dη
+κ
+
+Ω = (1+ae ) k∧a′ +ae (u∧w). (3)
+
+The completion to antisymmetric form is unique, because
+two antisymmetric matrices that act identically on the
+three-space orthogonal to u differ by an antisymmetric
+matrix with a three-dimensional kernel, and the rank of
+an antisymmetric matrix is even.
+Expanded in the basis {k, k̄, e1 , e2 } with k · k̄ = 2, the
+anomalous piece u ∧ w has components along the boost
+k̄ ∧ k and along k̄ ∧ ei and also inside the little algebra
+of k. Hence at g ̸= 2 the generator leaves that little
+algebra. The pieces together generate sl(2, R) already
+for linear polarization, and the η ordering in Eq. (3) is
+not degenerate.
+One simplification comes first. A null rotation N
+from the little group ISO(2)k leaves k fixed and sends
+ei 7→ ei + ci k, so that N f N −1 = k ∧ (a′ + ck) = f : the
+background is invariant, which is stronger than gauge
+equivalence. Since ISO(2)k acts transitively on the mass
+shell at fixed κ, any u0 can be carried to (k+ k̄)/2, the net
+map of the original geometry is the conjugate N −1 Λnet N ,
+and a rotation angle is a conjugation invariant. It is
+therefore enough to work head-on, normalized to κ = 1,
+and Secs. III and V do so.
+
+3
+III.
+
+REDUCTION TO A CONNECTION, AND
+THE HOLONOMY
+A.
+
+The g = 2 propagator
+
+At ae = 0 the generator is Ω = k ∧ a′ = a′1 N1 + a′2 N2
+with Ni = k ∧ ei . Direct multiplication gives (Ni Nj )µ ν =
+δij k µ kν , which is symmetric in (ij), so [N1 , N2 ] = 0 and
+Ni3 = 0; the generator therefore commutes with itself at
+different phases, the ordering collapses, and
+
+
+Λ0 (η) = exp κ−1 (a1 N1 +a2 N2 ) ,
+Λ0 (+∞) = ⊮, (4)
+by Eq. (1). Hence no property of u0 enters: u does not
+appear in Ω at ae = 0 at all. The mechanism is not
+ours. It is the one Kupersztych identified: the operator
+that transports an electron and its spin through a plane
+wave is of Lorentz type and acts on the wave as a gauge
+transformation [22]. In modern language the generator
+sits in the Abelian translation subgroup of the little group
+of a null vector [23], and Eq. (1) closes the loop.
+
+B.
+
+Interaction picture and the exact reduction
+
+Since (1+ae )f +ae u∧w = f +ae (f +u∧w), factoring
+the evolution as U = Λ0 V gives an interaction-picture
+equation in which the anomaly is the only coupling,
+dV
+= ae M (η) V,
+dη
+
+
+M = AdΛ−1 f + u ∧ w .
+0
+
+(5)
+
+Write A = k ∧ a⊥ = a1 N1 + a2 N2 , so that Λ0 = eA and
+M = e−adA X with X = f + u ∧ w. The series terminates
+after three terms: on the whole of so(1, 3) the operator A
+raises the grading k̄ ∧ ei → {k̄ ∧ k, e1 ∧ e2 } → k ∧ ei → 0,
+so ad3A = 0 and M = X − [A, X] + 12 [A, [A, X]].
+Two cancellations follow, and they are of different
+kinds. Everything along the boost k̄ ∧ k and along e1 ∧ e2
+is removed by the first commutator, with no input beyond the algebra, while the residual null rotations along
+k ∧ ei are removed by the two algebraic identities
+Ua1 − Wa2 = |a⊥ |2 a′1 ,
+
+Ua2 + Wa1 = |a⊥ |2 a′2 , (6)
+
+with U = a⊥ · a′⊥ and W = a1 a′2 − a2 a′1 , which follow
+from those definitions by inspection. What survives is a
+pure rotation of the rest frame about an axis lying in the
+polarization plane,
+M (η) dη = n̂ ∧ da⊥ ,
+
+
+dζ
+= ae n̂ × a′⊥ × ζ,
+dη
+
+(7)
+
+with ζ the rest-frame spin and n̂ = 12 (k/κ − κk̄) the unit
+spacelike vector along the wave in the rest frame of u0 .
+In the convention fixed at Eq. (3) the sign in Eq. (7) is
+positive, the curvature is [n̂ ∧ e1 , n̂ ∧ e2 ] = + e1 ∧ e2 ,
+and e1 ∧ e2 generates a right-handed rotation about n̂.
+Table S1 of the Supplemental Material carries the three
+
+terms of e−adA X out at one numerical point and shows
+where each cancellation happens, and we also checked
+Eq. (7) against the components of Eq. (3) on a phase
+grid, where the largest discrepancy is 2.7 × 10−15 .
+Equation (7) is a connection one-form on the polarization plane, and its coefficients are constants. Two consequences are immediate. The phase enters only through
+the path, so the ordered exponential of ae M depends on
+the curve C : η 7→ (ax , ay ) alone and not on the rate at
+which it is traced. And the integral of a one-form with
+constant coefficients along a path depends on the endpoints alone, so
+Z
+ae M dη = ae n̂ ∧ ∆a⊥ = 0
+(8)
+by Eq. (1), exactly, at any a0 and for any curve. Hence
+the first order in the anomaly cancels for every polarization. A weaker fact is sometimes offered in its place and
+does not do the work. That Λnet lies in the stabilizer
+SO(3)u0 follows from u(±∞) = u0 and the conservation of S · u, but it confines the first-order coefficient to
+a three-dimensional space and constrains it no further.
+Section VI makes the distinction concrete.
+For linear polarization the axis n̂ × a′⊥ is fixed, the
+rotations at different phases commute, and V (+∞) =
+exp[ae ∆a1 n̂ ∧ e1 ] = ⊮ exactly at any g and any a0 . The
+conjugation of Sec. II B carries that conclusion to any
+geometry, since N −1 ⊮N = ⊮. This is perturbative in
+nothing, and it agrees with the closed-form spin dynamics
+obtained for intense linearly polarized fields [24].
+
+C.
+
+Non-Abelian Stokes evaluation
+
+The base is the polarization plane R2 , the bundle is
+the trivial principal bundle R2 × SO(3)u0 , and M lies in
+the corresponding Lie algebra because M u0 = 0. The
+connection one-form is ω = ae (G1 da1 + G2 da2 ) with
+Gi = n̂ ∧ ei , and its curvature is constant over the plane,
+F = dω + ω ∧ ω = a2e (e1 ∧ e2 ) da1 ∧ da2 .
+
+(9)
+
+The path C closes for exactly one reason, Eq. (1), and
+that is the only place where finiteness of the pulse is used.
+H
+Thus the net map is the holonomy Λnet = P exp C ω.
+No adiabatic parameter appears and no eigenspace is
+being followed, so this is ordinary non-Abelian parallel
+transport, and the resemblance to the geometric phases
+of Refs. [25, 26] is an analogy.
+The surface-ordered form of the non-Abelian Stokes
+theorem [27, 28] turns the ordered exponential around C
+into a surface-ordered exponential of the curvature carried back to a base point along a mesh of paths. Constancy of F in the coordinates of the base does not make
+that ordering trivial, because what is ordered is not F but
+its adjoint transport along the mesh. Hence the theorem
+delivers the leading term and nothing more: a rotation
+about n̂ through a2e times the oriented area enclosed by
+
+4
+C. The second Magnus term [29, 30] gives the same result in three lines and fixes the sign, and the two together
+give
+Z
+
+
+
+ax a′y − ay a′x dη,
+Θnet = − 21 a2e A 1 + O(a2e a20 ) , A =
+(10)
+in the right-handed triad ê1 × ê2 = n̂, and Sec. S2 of
+the Supplemental Material carries both evaluations out
+in full.
+Two definitions have to be pinned down before Eq. (10)
+can be read literally. First, A is twice the signed area
+enclosed by C, counted with multiplicity, so a curve that
+winds N times about the origin contributes N times over.
+Second, we take Θnet to be the angle lifted continuously
+in ae from Θnet = 0 at ae = 0. The angle read off an
+SO(3) matrix is its reduction modulo 2π, and the two
+coincide while |Θnet | < π.
+The area is gauge invariant. Within the plane-wave
+sector the freedom left is aµ → aµ + cµ with c constant
+and k · c = 0, the gauge function being c · x. The field
+tensor f = k ∧ a′ does not see it. The transverse part of
+c translates C bodily in the polarization plane, and the
+signed area of a closed curve does not change under a
+translation. Equation (1) removes the freedom altogether
+in any case, since it picks out the one representative that
+vanishes at both ends of the pulse.
+The electric pulse area of the unipolar-pulse
+literaR
+ture [31, 32] is a different functional:
+E dt is linear
+in the field and vanishes for every pulse obeying Eq. (1),
+while A is quadratic and stays finite there. For linear
+polarization C degenerates to a segment, a segment encloses no area, and A = 0. The vanishing there is exact
+at every order, by the fixed-axis argument of Sec. III B
+and not by Eq. (10). The same holds for any curve traced
+out and back, such as ay ∝ a2x .
+D.
+
+The area as the spin angular momentum of the
+pulse
+
+In the Coulomb gauge the spin part of the electromagnetic angular momentum has density ε0 E × A. For a
+plane wave written in terms of the dimensionless potential, A = (m/e)a⊥ and E = −∂t A = −ω(m/e)a′⊥ , so
+that
+Z
+ m 2
+
+ε0 E × A dt = ε0
+A n̂.
+(11)
+e
+Thus A is, up to a positive constant, the spin angular
+momentum the pulse carries per unit cross-sectional area,
+and Eq. (10) reads: the net rotation of the electron spin is
+the helicity of the pulse times the square of the anomaly.
+The identification is not ours. It is the reading given
+to the same functional in the orientation memory of a
+magnetic dipole [13], where the area is the difference between the numbers of right- and left-handed photons in
+the burst. Equation (11) also separates the present effect
+
+from the Pauli coupling σ·(E×A), which rotates the spin
+already at g = 2 in two counterpropagating elliptically
+polarized beams [33] and is quantum in origin.
+E.
+
+Order of the remainder, and a resummation
+
+The order of the remainder in Eq. (10) is a theorem,
+and the proof takes two lines. Grade so(3)u0 by calling G1 and G2 odd and e1 ∧ e2 even. The bracket
+respects that Z2 grading, since [odd, odd] = even and
+[even, odd] = odd. Every term of the Magnus series is an
+integral of n-fold nested brackets of M , and M is odd, so
+the nth term has parity n. Three consequences follow:
+the component of the exponent along n̂ carries only even
+powers of ae , which is the O(a4e ) correction to Eq. (10);
+the leading correction to the axis is the third-order inplane term, so that at fixed curve the axis is tilted out
+of n̂ by O(ae ); and the change in the projection of the
+spin on n̂ is quadratic in that tilt, hence O(a6e ). The
+helicity statement of Sec. I rests on the last of the three.
+That one is measured. With the spin started along n̂
+and the anomaly inflated so that ae a0 runs from 0.03
+to 0.5, the change in the longitudinal projection follows
+∆S∥ = −1.80×10−3 (ae a0 )6 , with local log-log exponents
+from 6.00 to 5.98 at the small-anomaly end. The coefficient repeats to 0.5% at a0 = 1, 3 and 10. The dependence is on the product ae a0 alone. Over the same range
+and the tilt ψ of the axis out of
+the angle scales as a2.000
+e
+,
+and
+the
+identity
+∆S∥ = −(1−cos Θnet ) sin2 ψ
+n̂ as a0.996
+e
+holds to 5 × 10−3 , so the sixth power is the product of
+the two factors the grading predicts. Two limits attach
+to it. For a spin that does not start along n̂ the projection changes at O(a3e ) instead, measured exponent 3.00,
+so helicity is conserved to sixth order as a property of
+the helicity state. The coefficient itself was measured at
+N = 1, γ = 1 and circular polarization. It does not carry
+to the working point a0 = 75, N = 32 of Sec. VII.
+One curve does better than the order counting. On a
+plateau where C is a circle of radius a0 traced at unit rate,
+n̂ × a′⊥ has fixed magnitude a0 and rotates about n̂ at
+unit rate, and Eq. (7) becomes the magnetic-resonance
+problem for a rotating field of strength ae a0 on exact
+resonance. In the
+corotating frame the rotation vector
+p
+is constant, of length 1 + a2e a20 and tilted from n̂ by
+arctan(ae a0 ), and returning to the laboratory frame subtracts one turn per unit phase,
+q
+A
+1 + a2e a20 − 1 2 .
+(12)
+Θ≃
+a0
+Three conditions attach to Eq. (12): the idealized circle
+violates Eq. (1) and is therefore not an admissible pulse;
+composing two rotations about different axes returns a
+single angle only for an integer number of turns; and
+for a pulse with fronts the phase interval has to be read
+as A/a20 , which is the form written above, since reading
+it as the plateau length instead costs 19% at a0 = 1,
+ae = 0.05. The residual error is real. At ae a0 = 0.3
+
+5
+Eq. (12) is still off by 0.1%, so it improves the asymptotics
+without becoming exact. The word exact does not belong
+to it. The expansion parameter is ae a0 , not ae . With
+the physical anomaly ae a0 = 1.16 × 10−3 a0 , and Eq. (10)
+stays accurate to 10−2 up to a0 ∼ 100 for a circular curve.
+For a strongly elliptical or chirped curve the remainder
+depends on the shape of C and not on its area alone, and
+we have not bounded it there.
+
+IV.
+
+RELATION TO EARLIER WORK
+
+Three separate lines of work reach parts of Eq. (10),
+and the boundaries between them and the present paper
+are sharp enough to be drawn one by one.
+
+A.
+
+The exact plane-wave spin problem
+
+The Dirac–Pauli equation for a particle with an anomalous moment in a plane wave of arbitrary profile was
+solved exactly in the 1960s. Ternov, Bagrov and Klimenko treated a circularly polarized wave and read off
+the shift of the spin precession frequency caused by the
+anomaly [8]. Chakrabarti obtained the polarization directly in integrated form for a class of fields F = F (k · x),
+with an anomalous magnetic moment and an anomalous
+electric dipole moment both arbitrary [9]. The material
+is collected in the monograph of Bagrov and Gitman,
+Sec. 5.3 of Ref. [11] and Chap. 8 of the earlier edition [10],
+and four of its statements bear directly on this work.
+First, after the Volkov factor is separated the residual spinor equation is driven by the anomalous moment
+alone, with the wave entering through a′⊥ (η), which is
+the content of Eq. (5) above, in quantum form and three
+decades earlier. Second, the first order in the anomaly
+is written there in closed form, and the operator is an
+algebraic function of a⊥ (η) and not an integral of it, so
+that our Eq. (8) is one line away from that expression,
+although the asymptotic step and the statement about
+a pulse are not taken there. That step is short, and it
+was not taken in that line. Third, linear polarization of
+arbitrary profile is solved exactly, the evolution operator being a function of the instantaneous a⊥ (η). For a
+pulse that operator is the identity, which is the exact zero
+quoted in Sec. III B. Fourth, a potential modulus with an
+arbitrary phase function is solved exactly, and the answer
+depends on the total phase swept and not on the phase
+function, which is Eq. (12) together with its independence of chirp. The same reduction was found independently three decades later, for electromagnetic and gravitational pp-wave backgrounds, by Balakin, Kurbanova
+and Zimdahl [12]. They state explicitly that nothing rotates at g = 2.
+One thing that line does not contain is the general second order. Bagrov and Gitman say plainly that two cases
+are known for which the residual equation is solved exactly, and those are the two just listed; neither an asymp-
+
+totic limit for a pulse of finite duration nor an observable
+net rotation is formulated anywhere in that literature.
+The language throughout is one of wave functions, quantum numbers and almost-periodicity. Equation (10) is
+the second order for an elliptical curve of arbitrary profile, and the two exactly solvable cases are its degenerate limits: for linear polarization the curve collapses and
+A = 0, while for a circular plateau the area is known in
+closed form and Eq. (10) is the leading term of Eq. (12).
+One consequence of that reading is worth recording.
+In the Dirac–Pauli problem the anomalous magnetic and
+electric moments enter through a single modulus and a
+constant mixing angle, and a constant rotation in the
+transverse plane leaves the signed area unchanged. Equation (10) therefore holds for a particle carrying both, with
+ae replaced by the modulus of the combined anomalous
+moment.
+
+B.
+
+The vanishing at g = 2
+
+That a plane wave leaves the asymptotic spin of a
+g = 2 electron untouched is old and well recorded. Kupersztych derived the underlying gauge mechanism in
+1976 [22]. Aleksandrov et al. found that the spin change
+in a linearly polarized
+pulse is proportional to the elecR
+tric pulse area E dt [31], which is zero for any pulse
+with a finite envelope. For arbitrary polarization the
+same statement follows in one line from the Volkov solution [21]. Ilderton, King and Tang proved it in the
+quantum theory and wrote the first order in the anomaly
+explicitly: theR amplitude for reversing the spin state
+is |c− | = 12 dη µb (a′x − ia′y ) , with µb their phasedependent anomaly and the light-front integral running
+over the whole pulse [34]. The result is stated verbatim
+in the review literature [5, 6]. Section III A adds nothing
+to it and cites it as the starting point.
+The delimitation against Ref. [34] needs care, because
+their vanishing condition is parity: the amplitude is zero
+when the potential is an even function of the phase.
+Unipolarity enters only in the weak-field limit. For a
+pulse of zero electric area that is odd in the phase, produced by a shifted carrier-envelope phase, a chirp or an
+asymmetric envelope, their first order survives and can
+exceed the holonomy. By how much we have not evaluated. A constant µb returns µb ∆a⊥ = 0 by Eq. (1), so
+what is left of their integral is the variation of µb across
+the pulse, and that variation is itself of order χ. Their
+expression is first order in a dressed anomaly µb (χ). Ours
+is second order in the vacuum anomaly, and it does not
+vanish when theirs does. The two are complementary.
+The frame common to both, that non-radiative effects
+dominate at small χ, is theirs.
+
+6
+C.
+
+Area, helicity and memory
+
+The functional A and its identification with helicity are
+also in print, in a literature with no overlap with strongfield physics. Oblak and Seraj computed the net reorientation of a magnetic dipole after a burst of radiation
+has passed. They found a second-order term equal to the
+signed area swept by the transverse potential, and they
+identify that area as the optical helicity of the burst [13].
+Seraj and Neogi phrase memory observables of this kind
+as holonomies [14]. Up to the coupling constant, their
+nonlinear term and Eq. (10) are the same expression,
+and we take both the area law and the helicity reading
+from them, so that Sec. III D is written accordingly.
+The physics is different, and the difference is the
+point. Their test body is a neutral, static, nonrelativistic dipole obeying Ṁ i = k F ij Mj , and the coupling k
+is the full gyromagnetic ratio, a number of order unity:
+there is no charge, no orbit, no Thomas precession and
+no g factor. Substituting an electron into that formula
+with k = g/2 overestimates the rotation by a factor
+(g/2)2 /a2e = 7.4 × 105 . For a charged relativistic electron
+on an exact Volkov orbit the terms proportional to g/2
+cancel identically against the boost and Thomas parts
+of the generator, as Eq. (5) shows, and what remains
+couples through ae alone. Hence their result cannot be
+applied to an electron before that reduction is proved,
+and ours does not follow from theirs. The reverse implication also fails. Their formula carries a term linear in
+the field, the radial magnetic field at null infinity, which
+is identically zero for an exact plane wave.
+The suppression is not a defect. A g-independent background of the same geometric form is absent by Eq. (4),
+so in an ideal plane wave the entire net rotation is anomalous. The factor 1.3 × 10−6 is the price of a channel with
+nothing to subtract. Section VI shows how a finite waist
+puts the background back.
+
+D.
+
+Schemes that do rotate the spin
+
+Two published mechanisms produce a net rotation of
+the same observable and must not be confused with this
+one. Wei et al. rotate the transverse polarization of a relativistic beam through an arbitrary angle with a copropagating chirped or subcycle pulse [35]. Their pulses are
+temporally asymmetric, which is a⊥ (+∞) ̸= a⊥ (−∞)
+and breaks Eq. (1) at order a0e . The dominant coupling
+in their analytic estimate is the kinematic 1/γ and not
+the anomaly. Their result is chirp dependent while ours
+is not, and there is no contradiction. What depends
+on the chirp there is the accumulated precession phase,
+whereas the invariant here is the net rotation relative to
+the momentum, that is, the difference between the precession phase and the momentum phase. Tikhomirov
+showed that a phase velocity vph ̸= c produces a spin
+precession exceeding radiative effects by orders of magnitude [36, 37]; that effect vanishes at vph = c, so it con-
+
+firms the plane-wave theorem from the other side and
+identifies a medium as a way of breaking it.
+
+E.
+
+What is new here
+
+Four items remain, and they are the claims of this paper. (i) The net rotation for a pulse of finite duration
+and arbitrary elliptical profile is − 21 a2e A, Eq. (10), which
+is the general second order that the two known exact
+cases bound. (ii) The geometric reading: holonomy of a
+connection with constant coefficients on the polarization
+plane, a signed area evaluated by the non-Abelian Stokes
+theorem, and a Z2 grading that fixes the remainder at
+O(a4e ), the axis tilt at O(ae ) and the helicity change at
+O(a6e ). (iii) The transfer of the area mechanism from a
+neutral dipole to a charged relativistic electron, where
+the correct coupling is the anomaly and not g/2. That
+is the 1.3 × 10−6 suppression, and it is also the absence
+of a g-independent background. (iv) Invariance under
+reparameterization of the phase, together with the quantitative bound on finite focusing of Sec. VI. Everything
+else in Secs. II and III we take from the works named
+above.
+
+V.
+
+NUMERICAL VERIFICATION
+
+We integrated Eq. (2) along the analytic Volkov orbit
+with the DOP853 scheme at rtol = 10−13 and atol =
+10−16 , transporting an orthonormal rest-frame triad and
+reading the net rotation off the resulting matrix. Reading the angle from a transported frame is what makes
+the result independent of the initial polarization, and a
+second implementation in covariant bivector form, run at
+a looser tolerance, returns the same zeros on a floor four
+to seven orders coarser. At the end of the pulse |S · u|
+and |S · S + 1| stay below 3 × 10−12 at γ = 1 in the first
+scan and below 6 × 10−11 in the set of Fig. 1. Both floors
+grow with γ, approaching γ 2 above γ ≃ 102 , while the
+measured Θnet at g = 2 does not move with γ at all.
+Figure 1 collects the scan. Over 180 configurations at
+g = 2, covering two envelopes, γ from 1 to 5 × 103 , a0
+from 0.1 to 10, and three carrier-envelope phases, the
+largest net rotation is below 3 × 10−13 rad. At a0 = 10
+that is the roundoff floor. Section S4.3 of the Supplemental Material shows the tolerance scan that establishes it.
+For linear polarization the same floor persists once the
+anomaly is switched on and inflated by up to four orders
+of magnitude above its physical value, and at γ ≤ 102
+the residue stays at or below 4.1 × 10−11 rad.
+Away from linear polarization, Eq. (10) reproduces the
+measured angle to three digits across the scan of Fig. 1
+and to five in the ellipticity scan. The ratio Θnet /a2e is
+constant to 0.8% across a 26-fold range in ae , the scaling
+Θnet ∝ δ/(1 + δ 2 ) in the ellipticity holds to five digits,
+and the rotation grows linearly with pulse length. Envelope shape acts through the area and through nothing
+
+7
+
+10−2
+10−4
+−12 ae2 
+Gaussian
+cos2
+chirped
+gated
+linear
+ay ∝ax2
+
+10−8
+
+10
+
+−10
+
+10
+
+−12
+
+Θnet /Θlaw
+
+|Θnet | (rad)
+
+10−6
+1.0
+0.9
+10−2
+
+10−1
+ae a0
+
+100
+
+10−14
+10
+
+−16
+
+ = 0 families:
+measured floor
+
+ellipticity |δ|
+0.0
+−10
+
+0.5
+3
+
+1.0
+−101
+
+0
+
+101
+
+signed area  = ∫(ax ay′ − ay ax′ ) dη
+
+103
+
+FIG. 1. Net spin rotation in a plane-wave pulse against the
+signed area of the vector potential. Each symbol is one solution of Eq. (2) along the exact Volkov orbit, and the solid
+line is Eq. (10) with no fitted parameter. The scan covers
+Gaussian and cos2 envelopes, N = 0.5–16 cycles, chirped
+and polarization-gated pulses, ellipticities δ = 0.05–1, carrierenvelope phases over [0, 2π) and Lorentz factors γ = 1–104 ,
+with the anomaly set to ae = 10−2 so that the rotation stands
+above the roundoff floor. The g = 2 null family of the text is
+a separate set of runs covering γ ≤ 5 × 103 . Color is the ellipticity |δ| of the pulse, and for the polarization-gated family
+that of the residual circular component, |(1 − q)/(1 + q)| with
+q the amplitude ratio of the two counter-rotating pulses; it
+adds nothing beyond the scan parameters. Open symbols are
+the two families for which A = 0: linearly polarized pulses,
+and the zero-area curve ay ∝ a2x traced out and back. All 42
+points lie between 4.1×10−17 and 9.95×10−12 rad for anomalies up to ae = 0.6, the two maxima being 1.29 × 10−12 (linear) and 9.95 × 10−12 (zero area). Inset: the ratio Θnet /Θlaw ,
+Θlaw = − 12 a2e A, against ae a0 at a0 = 1 for a circularly polarized flat-top pulse whose plateau is a circle of radius a0 ,
+together with the resummation of Eq. (12).
+
+else, and the effect is measurable: at a0 = 10 and N = 1
+the Gaussian gives A = 334.412 against 323.603 for cos2 ,
+a difference of 3.2% that propagates straight into Θnet .
+Reparameterizing the phase at fixed curve leaves the net
+rotation unchanged to eight or nine digits, even at the
+inflated value ae = 0.25. That invariance holds by construction, so it tests the code and not the theorem.
+The absence of any γ dependence is kinematic. A null
+rotation removes the transverse initial momentum while
+leaving k, κ and the field tensor untouched, and κ itself
+survives only as the normalization of k, that is, as a repa-
+
+rameterization of the phase. Neither operation changes
+a⊥ (η). Hence the only inputs left are the curve C and
+the number ae . Values at γ = 1 and γ = 104 agree to six
+digits. The storage-ring enhancement ae γ [38, 39] compares precession rates about a static field at one instant
+of laboratory time. Here the quantity it would multiply
+is exactly zero.
+At the physical anomaly the angles are small. A circularly polarized Gaussian pulse gives Θnet = 2.25 ×
+10−6 a20 N rad, against 2.18×10−6 a20 N rad for the cos2 envelope. Section VII turns those numbers into a working
+point.
+VI.
+
+FINITE FOCUSING
+
+Equation (10) rests on A = A(η). Every real beam has
+a waist, and in a focused pulse the spin moves already
+at g = 2. The failure of the Lawson–Woodward theorem in a focused beam [40, 41] leaves a residual momentum transfer. The hierarchy of spin contributions in the
+diffraction parameter ε = 1/(kw0 ) was set out qualitatively in Ref. [34], and a helicity change of up to 10% during ponderomotive scattering was reported in Ref. [42].
+Neither work gives the exponent.
+We modeled a focused Gaussian pulse with the Lax–
+Louisell–McKnight expansion carried to third order in ε,
+closing the Coulomb gauge at the retained order [43, 44],
+and integrated the Lorentz and BMT equations in laboratory time. The Maxwell residuals of that model and the
+systematic spread over its one free constant are tabulated
+in Sec. S5 of the Supplemental Material. The observable
+is the spin rotation relative to the momentum: the exit
+reference triad is carried from the entrance triad by the
+pure boost u0 → uf , so the kinematic transport that accompanies ponderomotive deflection is subtracted. Five
+triads with anomalies ae ∈ {0, ±h, ±2h}, h = 0.05, then
+share one orbit, and five-point differences give the rotation vector as r = r0 + ae r1 + a2e r2 .
+Every violation enters at order ε2 for ε ≲ 0.15, as Fig. 2
+shows. The second-order coefficient keeps its plane-wave
+value with a relative error 1.05ε2 at γ = 10, rising to
+3.4ε2 at γ = 1, and the local log-log slope of that error
+approaches 2.00 as ε → 0. Two terms that are identically
+zero in a plane wave grow alongside it, |r0 | and |r1 |, so
+both the g-independent rotation and the first order in
+the anomaly are restored; their exponents fitted over the
+whole plotted range are 2.87 and 2.89, with local slopes
+that fall to 2.02 at the small-ε end, so that the quadratic
+law holds only as an asymptote and not over the whole
+scan. A direct run at the physical anomaly gives
+Θanom (ε)
+10.7 2
+−1≃
+ε
+1 2
+a0
+2 ae A
+
+(γ = 10),
+
+(13)
+
+the coefficient being measured as 10.7, 10.8 and 13.5
+at a0 = 1 and ε = 0.025, 0.050 and 0.150. Therefore
+Eq. (10) holds to 1% for w0 > 5.2λ at a0 ≃ 1 and γ = 10.
+That number carries the systematic uncertainty of the
+
+8
+
+departure from the plane-wave holonomy
+
+6.4
+
+waist w0 /λ
+
+3.2
+
+1.6
+
+|r2 /r2pw − 1|
+|r0 |
+
+10−1
+
+0.4
+
+|r1 |
+linear pol.
+
+pe
+
+10−3
+
+20 with impact parameter inside a single waist.
+0.8
+
+slo
+
+VII.
+
+2
+
+10−5
+10−7
+10−9
+round-off floor
+
+10−11
+0.02
+
+0.05
+
+SIGNAL, BACKGROUND AND THE
+CLASSICAL WINDOW
+
+0.1
+
+0.2
+
+diffraction parameter ε = 1/(kw0 )
+
+0.4
+
+FIG. 2. Departure from the holonomy for a focused Gaussian pulse against the diffraction parameter ε = 1/(kw0 ), for
+a0 = 1, N = 1, circular polarization, head-on collision at
+γ = 10. Plotted are the relative deviation of the second-order
+coefficient r2 from − 21 An̂, and the magnitudes of the zerothand first-order coefficients r0 and r1 , which vanish identically
+in a plane wave. All three follow ε2 for ε ≲ 0.15. The dashed
+guide has slope 2, and the local log-log slopes measured over
+ε = 0.025–0.15 run from 1.92 to 2.00 for the deviation of r2
+and from 2.71 to 2.02 for r0 . The upper axis gives the waist
+in wavelengths, w0 /λ = 1/(2πε). Open circles repeat the deviation of r2 for linear polarization, where it stays at or below
+the roundoff floor 7.5 × 10−11 for every ε.
+
+field model: a factor of three on the coefficient, holding
+steady as ε falls, so at the far end of the spread the requirement becomes w0 > 9λ. The exponent survives that
+spread. At γ = 1 the same accuracy needs w0 > 99λ, and
+10% accuracy still needs w0 > 31λ; the waist requirement
+relaxes as the intensity rises, as 1/a0 up to a0 ≃ 2, and
+we have not tested it above a0 = 24.
+However, the dominant focusing term carries no information about g. For γ ≥ 100 we measure |r0 | =
+|∆u⊥ | to four digits with the axis orthogonal to the
+momentum, which identifies r0 as the Thomas–Wigner
+rotation [15, 23] that accompanies the ponderomotive
+kick [45] and is fixed by the orbit alone. With it go
+two properties of the plane-wave result: the net rotation
+is nonzero already at g = 2, and helicity is no longer
+conserved, because the rotation axis has turned perpendicular to the momentum. At ε = 0.15 and a0 = 24 the
+anomalous part amounts to a 5 × 10−5 fraction of the
+total signal. At a0 = 1 the same ratio is 1.25 × 10−3 ,
+twenty-five times larger. One property does survive: for
+linear polarization r2 stays at the roundoff floor for every
+ε up to 0.30, although nothing in Eq. (10) guarantees it
+there. We have no argument for why. All of this is one
+electron on one orbit. We did not average over a beam,
+and the deposited scans give |r0 | varying by a factor of
+
+The estimates below use published scalings, and no radiative process was integrated here, classically or quantum mechanically. The quantum nonlinearity parameter is χ ≃ 6.07 × 10−6 γa0 at ℏω = 1.55 eV. The three
+limits on a classical treatment are the radiated fraction
+RC ≃ 32 αa0 χN , the photon number Nγ ∼ αa0 N , and the
+radiative spin-flip probability Psf ∼ αa0 χ2 N [2, 3, 46].
+All three tighten with γ while Θnet does not move with
+it, so the optimum runs against intuition: keep the electron slow and pay in intensity and duration.
+Take the best classical point of the plane-wave grid,
+γ = 1, a0 = 75 and N = 32, an intensity of 1.2 ×
+1022 W cm−2 at 800 nm, where Θnet ≃ 0.4 rad and the
+transverse depolarization is sin2 (Θnet /2) ≃ 4×10−2 , with
+χ ≃ 2×10−4 , RC ≃ 3×10−3 and Psf ∼ 10−6 . That probability sits four to five orders below the depolarization it
+would have to compete with, and it acts differently: a radiative flip removes one spin from the polarized fraction
+and leaves the angle of the remainder untouched. Radiation reaction is the more dangerous of the two, because
+it shifts the angle itself. Its weight can be estimated as
+a relative distortion 2RC of the curve traced in the rest
+frame against a holonomy of relative size ae a0 , giving
+ΘRR /Θnet ∼ 2RC /(ae a0 ). At the point just quoted that
+estimator is 6 × 10−2 , and at γ = 10, a0 = 75, N = 8 it
+is 0.30. A correction of six to thirty percent sits badly
+with a law quoted to a percent, and only an integration
+of the Landau–Lifshitz equation would settle the matter. We did not perform one. At γ = 103 the same
+estimator reaches 4, and Psf exceeds the geometric signal
+outright: at a0 = 10 and N = 8 the two are 2 × 10−3 and
+1.8×10−3 rad. The correction has overtaken the quantity
+it corrects.
+The focusing background is the harder problem, and
+the numbers of Sec. VI settle it against us. The criterion
+is |r0 | < a2e |r2 |. Relative accuracy of r2 is a different
+question. At the softest point of the ε scan, ε = 0.025 or
+w0 = 6.4λ, at a0 = 1, N = 1 and γ = 10, the measured
+|r0 | = 1.44 × 10−5 stands against an anomalous signal
+a2e |r2 | = 2.25 × 10−6 , so the g-independent background
+exceeds the whole signal by a factor of 6.4. Hence pushing
+the background below the signal requires ε2 < a2e |r2 |/c0
+with the measured c0 , that is w0 > 16λ at γ = 10 and
+w0 > 13.6λ at γ = 103 .
+However, two axes save that comparison at high energy
+and destroy it at low. For γ ≥ 100 the background axis is
+orthogonal to the momentum, |r0∥ |/|r0⊥ | ≤ 6 × 10−5 at
+γ = 103 , while the holonomy lies along the momentum,
+so a measurement of the longitudinal component separates the two. The separation is two orders of magnitude
+weaker at γ = 102 , where the ratio is 5.7 × 10−3 , and it
+fails below γ ≃ 3: at γ = 1, ε = 0.15 and a0 = 1 the
+
+9
+background is mostly parallel to the momentum, 0.148
+against 0.014 transverse, which is exactly the axis the
+signal occupies. Requiring 0.148 (ε/0.15)2 < 2.25 × 10−6
+then gives w0 > 270λ.
+Therefore the two ends close on each other: at γ ≃ 1
+radiation is harmless, but the focusing background shares
+the signal axis and exceeds it by four to five orders of
+magnitude at any attainable waist, while at γ ≳ 102 the
+axes separate and the radiative flip and the radiated fraction have overtaken the effect instead. No window is left
+between them. The flagship point compounds the problem from the other side. Setting a0 = 75 at w0 = 31λ,
+which is the 10% row of the waist table at γ = 1, means
+a pulse power Iπw02 /2 ≃ 1.2 × 1017 W and about 10 kJ
+in 32 cycles, one to two orders above the largest systems
+in operation or under construction. Focused calculations
+were run only at N = 1 and a0 ≤ 24, so that point
+also lies outside the validated region. We do not claim
+an experimental window, and we state the budget in full
+because the alternative is to show the favorable half of
+each comparison.
+Three further qualifications belong here. The obvious
+escape, a particle with a larger anomaly, is closed by the
+mass: the relevant parameter is ae a0 ∝ ae me /m, which
+is 1.16 × 10−3 a0 for the electron against 9.8 × 10−4 a0
+for the proton and 5.6 × 10−6 a0 for the muon, so the
+proton anomaly of 1.793 buys nothing. Extracting a2e
+from a measured angle is no better than the absolute
+calibration of a20 N inside the interaction volume, which
+at 1022 W cm−2 is a few tens of percent, and the focal
+average was never taken. And the configuration needs
+a transversely polarized beam of γ ≃ 1–10 synchronized
+to the focus, for which laser-plasma sources of polarized
+electrons are the natural starting point [47–49]; whether
+the required control of the impact parameter is realistic
+is an experimental question we have not addressed.
+
+VIII.
+
+SCOPE AND OUTLOOK
+
+Every hypothesis behind Eq. (10) can be broken on
+purpose. Photon emission and radiation reaction spoil
+u(+∞) = u0 , and radiation reaction brings in a dimensionful time, so γ and ω reenter. The closest published mechanism turns the spin toward the propagation
+axis of a circularly polarized field at first order in ae ,
+and it is emission that keeps the transverse spin phased
+there [50]. Spin-dependent radiative deflection acts in
+the same regime [51]. A standing wave adds a second
+null direction, so that the two little algebras together
+generate the whole Lorentz algebra and the ordering survives at g = 2 [52, 53], while a plasma gives k a mass,
+k 2 = ωp2 , and a first-order rotation returns with weight
+(ne /nc )/(ae a0 ), already of order 0.5 at ne /nc = 6 × 10−3
+and a0 = 10. That rotation depends on the electron energy and on the carrier frequency, where the holonomy
+does not, and it disappears as vph → c [36, 37]. In addition, self-interaction in a strong plane wave carries a
+
+spin dynamics of its own at the same order in α [54]. We
+integrated none of these cases. The estimates come from
+the standard scalings collected in Refs. [5, 46].
+However, a dressed anomaly leaves the structure intact
+but not the derivation: the cancellation of Eq. (8) takes
+ae outside the
+R integral, so a phase-dependent ae (χ(η))
+would leave ae (η) n̂ ∧ da⊥ ̸= 0 and restore a first-order
+term [34, 55]. At χ ≃ 2×10−4 the dressing is far too weak
+to matter, but the statement is exact only for constant
+ae , and outside the locally constant field approximation
+a local anomaly is not defined at all [20].
+Two uses survive the negative budget of Sec. VII. The
+identical zero at g = 2, and the identical zero at any
+g for linear polarization, give structure-preserving spin
+integrators [56, 57] a reference that needs no converged
+solution to compare against, and the tolerance scan of
+Sec. S4.3 shows what such a test looks like in practice.
+The classical result is also a well-posed question at the
+quantum level, where the exact Dirac–Pauli solutions in
+a plane wave [9, 11, 19] make it tractable. We expect
+an O(a2e ) geometric term in the spin-flip amplitude of
+Ref. [34] at the order beyond the one written there, with
+a coefficient predicted by Eq. (10) and no free parameter.
+
+ACKNOWLEDGMENTS
+
+Earlier stages of this work were presented at the 26th
+International Symposium on Spin Physics (SPIN 2025),
+Qingdao, China, 21–26 September 2025, and at the 1st
+Conference on Strong-Interaction Spin Physics, Qingdao,
+China, 26–31 July 2026.
+This work was partially supported by the State Assignment of the Ministry of Education and Science of the
+Russian Federation (Project No. FZEN 2023-0006), the
+Nantong Science and Technology Plan Project (Grant
+Nos. JC2020137 and JC2020138), the Key Research and
+Development Program of Jiangsu Province of China
+(Grant No. BE2021013-1), the National Natural Science Foundation of Jiangsu Province of China (Grant
+No. BK20201438), and in part by the Natural Science Research Project of Jiangsu Provincial Institutions
+of Higher Education (Grant Nos. 1120KJA510002 and
+20KJB510010).
+N. S. A. and A. P. N. developed the analytic reduction
+and wrote the manuscript. A. P. N. performed the planewave computations. S. N. A. performed the focusedbeam computations and the Maxwell residual tests. Q.H. Q. supervised the project. All authors discussed the
+results and approved the final manuscript.
+The authors declare no competing financial interest.
+
+DATA AVAILABILITY
+
+The code that generates the data and the figures of this
+paper, together with the computed results themselves, is
+openly available in the Zenodo repository at Ref. [58].
+
+10
+
+Appendix: Supplemental Material
+In the journal version this material is a separate file. It is reproduced here unchanged so that the preprint
+stands on its own. Sections, equations, figures and tables below carry the prefix “S”; “the main text” means
+Secs. I–VIII above, whose equation numbers carry no prefix.
+
+Sections S1 and S2 carry the derivation of the holonomy law in the detail the main text leaves out, from
+the assumptions behind the Thomas–Bargmann–Michel–
+Telegdi (BMT) equation to the non-Abelian Stokes evaluation of the ordered exponential. Section S3 collects
+the invariance properties that make the result geometric,
+including the reason the storage-ring factor ae γ does not
+apply. Section S4 documents the numerical protocol, the
+invariant control, the convergence of the null result in the
+integrator tolerance and the validation runs, Sec. S5 the
+focused-beam model and its limitations, Sec. S6 the window in which the classical treatment is meaningful, and
+Sec. S7 the mechanisms that break the theorem. Equations, figures, and tables carry the prefix “S”. Equation
+numbers without it refer to the main text. The anomaly
+is written ae = (g − 2)/2 here and in the main text alike.
+Every number quoted below is labeled either measured,
+meaning it was produced by one of the runs described in
+Secs. S4 and S5, or estimated, meaning it follows from a
+published scaling with no integration of our own. Nothing in between is reported, and where a quantity was
+neither measured nor estimated we say so: Sec. S3.4 is
+the one place where that happens.
+
+S1.
+
+THE THOMAS–BMT EQUATION IN
+LIGHT-FRONT VARIABLES
+S1.1.
+
+Field and orbit
+
+A null wave vector k µ with k 2 = 0 fixes the lightfront phase η = k · x in the metric (+, −, −, −), and the
+dimensionless potential
+aµ (η) =
+
+eAµ (η)
+,
+m
+
+k · a = 0,
+
+(S1)
+
+depends on η alone. The anomaly is written ae =
+(g −2)/2, which leaves the symbol a for the potential and
+its components alone. The amplitude parameter √
+is a0 : in
+the convention fixed below the peak of |a⊥ | is a0 / 1 + δ 2
+at ellipticity
+δ, which is a0 for linear polarization and
+√
+a0 / 2 for circular polarization, the normalization holding the mean square rather than the peak fixed. The
+vector a⊥ carries components (a1 , a2 ) = (ax , ay ) along a
+right-handed polarization basis ê1 × ê2 = n̂.
+Every sign below is referred to a single fixed convention, and all of them have been rechecked against it. The
+wedge product of two four-vectors is the mixed tensor
+(p ∧ q)µ ν = pµ qν − q µ pν , which acts on a four-vector S
+as p (q · S) − q (p · S). The symbol ∧ never denotes a
+
+three-dimensional wedge below. The propagation direction is written n̂ both as a unit spatial vector and as the
+four-vector n̂µ = 21 (k − k̄)µ that represents it in the rest
+frame of u0 , and the same holds for a⊥ , whose four-vector
+form is aµ . A bold two-vector and its four-vector are interchangeable inside a wedge, where only the transverse
+components contribute. One consequence is used repeatedly: for spatial p and q and a rest-frame spin ζ the
+lowered index flips a sign, (p ∧ q)ζ = (p × q) × ζ, so that
+e1 ∧ e2 generates a right-handed rotation about n̂ and
+n̂ ∧ a′⊥ a right-handed rotation about n̂ × a′⊥ .
+Finiteness of the pulse enters once, through a⊥ (+∞) =
+a⊥ (−∞) = 0, which is Eq. (1) of the main text. The
+phase average of a⊥ is not constrained, and Sec. S3.5
+returns to that point.
+The scans of Secs. S4 and S5 use
+a0 δf (η)
+ay = √
+sin(η + φ0 ),
+1 + δ2
+(S2)
+with ellipticity δ (δ = 0 linear, δ = 1 circular) and carrierenvelope phase (CEP) φ0 . Two envelopes are √used: a
+Gaussian f = exp(−η 2 /2σ 2 ) with σ = πN/ ln 2 =
+3.7734 N , truncated at |η| ≤ 8σ, and f = cos2 (πη/2L)
+with L = 8.6294 N on compact support. In both, N is
+the number of optical cycles in the full width at half maximum of the intensity envelope f 2 . The two are compared
+at equal N . The signed area then evaluates to
+Z
+Z
+
+δ
+2
+A=
+ax a′y − ay a′x dη =
+a
+f 2 dη,
+(S3)
+1 + δ2 0
+R
+√
+with f 2 dη = σ π for the Gaussian and 0.75L for cos2 .
+Because kµ F µν = 0 for a null plane wave, the lightfront projection κ = k · u is conserved, d/dτ = κ d/dη,
+and the orbit is the Volkov solution [21]
+a0 f (η)
+cos(η + φ0 ),
+ax = √
+1 + δ2
+
+uµ (η) = uµ0 − aµ +
+
+
+kµ 
+a · u0 − 21 a · a ,
+κ
+
+u(±∞) = u0 .
+
+(S4)
+In components, u⊥ (η) = u0⊥ − a⊥ (η) and u0,3 = 21 [κ ±
+(1 + u2⊥ )/κ], where κ = u0 − u3 is the same conserved
+quantity, written for k normalized to unit frequency. For
+a head-on collision κ = γ(1 + β) ≃ 2γ. No integration
+is needed for the orbit, which removes one source of numerical error from everything that follows.
+
+S1.2.
+
+Assumptions
+
+The spin is a classical four-vector S µ with S ·u = 0 and
+S = −1, transported by the covariant BMT equation [7,
+2
+
+11
+15, 16], Eq. (2) of the main text,
+g
+
+i
+e h g µν
+dS µ
+=
+F Sν +
+− 1 uµ Sλ F λν uν .
+dτ
+m 2
+2
+
+(S5)
+
+Its laboratory form is dS/dt = Ω × S with
+
+
+i
+
+ae γ
+e h
+1
+ae + γ1 B −
+β×E ,
+Ω=−
+(β·B)β− ae + γ+1
+m
+γ+1
+(S6)
+and the coefficients of Eq. (S6) were used to check those
+of Eq. (S5) term by term. At γ = 1 the first coefficient
+is ae + 1 = g/2, as it must be for an electron at rest.
+The Stern–Gerlach force is dropped: relative to
+the Lorentz force it carries a factor ℏk/mc, which is
+ℏω/mc2 ≃ 3×10−6 for Ti:sapphire light in the rest frame
+of a slow electron, so that at the accuracy of interest here
+the orbit is insensitive to the spin. Radiation reaction
+goes with it, bounded from published scalings in Sec. S6
+and never integrated, and so does photon emission, which
+is the same statement at the quantum level. An electric
+dipole moment is set to zero. The Stern–Gerlach term is
+the mildest of the four, by the factor just quoted. The
+other three are genuine restrictions.
+Within the plane-wave sector the classical transport
+law is not itself an approximation, which limits the damage. Chakrabarti solved the Dirac–Pauli equation exactly for fields of the form F = F (k · x) with k 2 = 0 and
+showed that the polarization four-vector obeys the BMT
+equation exactly, with an arbitrary anomalous magnetic
+moment and an arbitrary electric dipole moment [9].
+Barducci and Giachetti later constructed the eigenfunctions and the Green function of the same problem [19].
+The classical spin transport used below is therefore the
+exact one-particle content of the Dirac–Pauli theory in
+this background, and our treatment omits radiation while
+keeping the spin kinematics exact.
+
+S1.3.
+
+u ∧ w = U2 (k̄ ∧ k) − 12 k̄ ∧ a′
+
+
+|2
+− 21 + |a⊥
+k ∧ a′ + U k ∧ a + W (e1 ∧ e2 ),
+2
+
+Since u · S = 0, the right-hand side of Eq. (S5) can
+be brought to antisymmetric form. The completion is
+unique: two antisymmetric matrices that act identically
+on the three-dimensional space orthogonal to u differ by
+an antisymmetric matrix with a three-dimensional kernel. The rank of an antisymmetric matrix is even. That
+difference therefore vanishes. Writing f = (e/m)F =
+k ∧ a′ and wµ = f µν uν ,
+Ω = (1 + ae ) k ∧ a′ + ae (u ∧ w),
+(S7)
+which is Eq. (3) of the main text.
+The rest of Secs. S1 and S2 is written for a head-on
+geometry normalized to κ = 1, and the restriction is
+lifted here, one paragraph before it is imposed. A null
+rotation N in the little group ISO(2)k of k leaves k fixed
+and sends ei 7→ ei +ci k, so that N f N −1 = k ∧(a′ +ck) =
+
+(S8)
+
+with
+U = a⊥ ·a′⊥ ,
+
+W = a1 a′2 − a2 a′1 .
+
+(S9)
+
+The symbol χ is reserved throughout for the quantum
+nonlinearity parameter of Sec. S6.
+However, two of the five terms in Eq. (S8) lie outside
+the little algebra iso(2) of k: the boost k̄ ∧ k and the
+conjugate null rotation k̄ ∧ a′ . Together with k ∧ ei they
+generate a nonabelian sl(2, R) already for linear polarization. Hence the η ordering in Eq. (S7) is not degenerate
+at g ̸= 2, and the one-line argument of Sec. S2.1 does not
+extend to it.
+
+S2.
+
+DERIVATION OF THE HOLONOMY LAW
+S2.1.
+
+A single antisymmetric generator
+
+dS µ
+1
+= Ωµ ν S ν ,
+dη
+κ
+
+f : the background is invariant under ISO(2)k , which is
+stronger than gauge equivalence, and since ISO(2)k acts
+transitively on the mass shell at fixed κ, any u0 can be
+carried to (k+k̄)/2. The net map of the original geometry
+is then the conjugate N −1 Λnet N , and a rotation angle is
+a conjugation invariant. This matters because Eq. (S8)
+below, and with it the reduction of Sec. S2.2 and Eq. (7)
+of the main text, is false as written when u0⊥ ̸= 0: the
+general form of the reduced generator carries κ, M =
+1
+′
+2 (k/κ − κk̄) ∧ a , in which κ acts as a rescaling of η and
+nothing else. Section S3.2 gives the measured values.
+Expanding u∧w in the basis {k, k̄, e1 , e2 } with k · k̄ = 2
+and ei · ej = −δij , and with u0 = (k + k̄)/2,
+
+The g = 2 propagator
+
+At ae = 0 the generator is Ω = k ∧ a′ = a′1 N1 + a′2 N2
+with Ni = k ∧ ei . Direct multiplication gives
+(Ni Nj )µ ν = δij k µ kν ,
+
+(S10)
+
+which is symmetric in (ij), so [N1 , N2 ] = 0 and Ni3 = 0.
+The generator commutes with itself at different phases,
+the ordering collapses, and
+
+
+Λ0 (η) = exp a1 (η)N1 + a2 (η)N2 ,
+
+Λ0 (+∞) = ⊮,
+(S11)
+by Eq. (1) of the main text. No property of u0 enters,
+since u does not appear in Ω at ae = 0 at all. This is
+the statement that the asymptotic spin index of a Volkov
+state is conserved [21], and for linear polarization it is the
+vanishing of the electric pulse area found by Aleksandrov
+et al. [31].
+
+12
+S2.2.
+
+Interaction picture and the exact reduction
+
+Since (1+ae )f +ae u∧w = f +ae (f +u∧w), factoring
+the evolution as U = Λ0 V gives
+dV
+= ae M (η) V,
+dη
+
+
+M = AdΛ−1 f + u ∧ w . (S12)
+0
+
+Write A = k ∧ a⊥ = a1 N1 + a2 N2 , so that Λ0 = eA and
+M = e−adA X with X = f + u ∧ w. The series terminates
+after three terms. Nilpotency of adA is what stops it, and
+on the whole of so(1, 3) the operator A raises the grading
+k̄ ∧ ei → {k̄ ∧ k, e1 ∧ e2 } → k ∧ ei → 0, so ad3A = 0 and
+M = X − [A, X] + 12 [A, [A, X]]. Nilpotency of the Ni
+alone would give only ad5A = 0.
+Table S1 carries the three terms out at one numerical point and shows where each cancellation happens.
+Everything along the boost k̄ ∧ k and along e1 ∧ e2 is
+removed by the first commutator, with no input beyond
+the algebra. The two algebraic identities
+Ua1 −Wa2 = |a⊥ |2 a′1 ,
+
+Ua2 +Wa1 = |a⊥ |2 a′2 , (S13)
+
+which follow from Eq. (S9) by inspection, do something
+else: they collapse the residual null rotations, a combination of k ∧ a′ , k ∧ a⊥ and k ∧ ã with ã = a2 e1 − a1 e2 ,
+into the single term 21 k ∧ a′ . What survives is
+M (η) = 12 (k − k̄) ∧ a′ (η) = n̂ ∧ a′ (η),
+
+(S14)
+
+equivalently, for the rest-frame spin ζ and in the convention of Sec. S1,
+
+dζ
+= ae n̂ × a′⊥ × ζ,
+dη
+
+(S15)
+
+which is Eq. (7) of the main text. We evaluated the
+components of Eq. (S7) on a grid in η and compared them
+with Eq. (S14). The largest discrepancy is 2.7 × 10−15
+(measured).
+M is a pure rotation of the rest frame about an axis
+n̂ × a′⊥ lying in the polarization plane. For linear polarization that axis is fixed, the rotations at different
+phases commute, and V (+∞) = exp[ae ∆a1 n̂ ∧ e1 ] = ⊮
+exactly at any g and any a0 . For u0⊥ ̸= 0 the conjugation of Sec. S1 carries the conclusion over unchanged,
+since N −1 ⊮N = ⊮. This is the mechanism behind the
+vanishing quoted in the main text. It is perturbative in
+nothing.
+Cancellation of the first order in the anomaly holds
+for every polarization, and its cause is the one that also
+makes the whole construction geometric. M dη = n̂∧da⊥
+is a one-form on the polarization plane whose coefficients
+are constants, so its integral along a path depends on the
+endpoints alone, and Eq. (1) of the main
+R text says that
+the two endpoints coincide. Hence ae M dη = ae n̂ ∧
+∆a⊥ = 0, exactly, at any a0 and for any curve. A weaker
+fact is sometimes offered in place of this one and does not
+do the work. Λnet lies in the stabilizer SO(3)u0 of u0 ,
+
+which follows from u(±∞) = u0 and the conservation of
+S · u, but membership in SO(3)u0 confines the first-order
+coefficient to a three-dimensional space and constrains it
+no further. Section S5.4 makes that concrete, since in
+a focused beam the net map still lies in SO(3) once the
+boost is subtracted, while its first-order coefficient r1 is
+nonzero and grows as ε2 .
+The geometric statement can now be given in full. The
+base is the polarization plane R2 with coordinates a⊥ =
+(a1 , a2 ), the bundle is the trivial principal bundle R2 ×
+SO(3)u0 whose structure group is the stabilizer of u0 in
+SO(1, 3), and M lies in the corresponding Lie algebra
+because M u0 = 0. The connection one-form is
+
+ω = ae G1 da1 + G2 da2 ,
+Gi = n̂ ∧ ei ,
+(S16)
+with coefficients independent of η and of a⊥ alike. The
+path is C : η 7→ a⊥ (η), and it closes for exactly one
+reason, Eq. (1) of the main text. That is the only place
+where finiteness of the pulse is used. The net map is the
+holonomy of ω around that loop,
+I
+Λnet = Holω (C) = P exp ω,
+(S17)
+C
+
+and it depends on C alone, with no reference to the parameterization. No adiabatic parameter appears here
+and no eigenspace is being followed, so this is ordinary
+non-Abelian parallel transport, and the resemblance to
+the geometric phases of Refs. [25, 26] is an analogy. The
+one-form is also exact, but exactness is not what does
+the work, since in the non-Abelian case an exact form
+can still have nontrivial holonomy and reparameterization invariance holds for any one-form whatsoever. Constant coefficients are what matter.
+
+S2.3.
+
+Non-Abelian Stokes evaluation and the order
+in the anomaly
+
+The curvature of ω is constant over the plane,
+F = dω+ω∧ω = a2e (e1 ∧e2 ) da1 ∧da2 ,
+(S18)
+and e1 ∧ e2 generates a right-handed rotation about n̂.
+The version of the non-Abelian Stokes theorem that applies is the surface-ordered one [27, 28], in which the
+path-ordered exponential around C becomes a surfaceordered exponential of the curvature carried back to a
+base point along a mesh of paths. Constancy of F in
+the coordinates of the base does not make that ordering
+trivial, because what is ordered is not F but its adjoint
+transport along the mesh, and that is not constant. The
+theorem therefore delivers the leading term and nothing
+more: a rotation about n̂ through a2e times the oriented
+area enclosed by C, with the overall sign, which turns
+on the orientation convention relating the boundary to
+the surface ordering, taken below from the Magnus expansion. One further caution belongs here. The area is
+
+[G1 , G2 ] = e1 ∧e2 ,
+
+13
+TABLE S1. The three surviving terms of M = e−adA X with X = f + u ∧ w, decomposed in the bivector basis of so(1, 3) and
+evaluated at a⊥ = (0.7, −1.3), a′⊥ = (0.4, 0.9) for the head-on geometry at κ = 1. The entries are exact algebra evaluated at
+one point. The two columns outside the polarization plane, k̄ ∧ k and e1 ∧ e2 , are emptied by the first commutator alone; the
+identities of Eq. (S13) act only on the two k ∧ ei columns. The sum reproduces 12 (k − k̄) ∧ a′ = n̂ ∧ a′ with a′ = (0.4, 0.9).
+X
+−[A, X]
+1
+[A, [A, X]]
+2
+M
+
+k ∧ e1
+−0.859
+2.118
+−1.059
+0.2
+
+k̄ ∧ e1
+−0.2
+0
+0
+−0.2
+
+k ∧ e2
+0.626
+−0.352
+0.176
+0.45
+
+algebraic and counted with multiplicity, so that for an N cycle envelope, where C winds around the origin roughly
+N times, A counts 2N times the area of one turn.
+The second Magnus term [29, 30] gives the same leading result in three lines, and it fixes the sign. The rotation
+vector of Eq. (S15) is m(η) = ae n̂×a′⊥ (η), which is ae a′⊥
+turned through a right angle about n̂. Turning both arguments of a cross product of planar vectors through the
+same right angle leaves its n̂ component alone, so the
+double integral may be written with a′⊥ directly,
+ZZ
+ ′
+
+a2
+Θnet = e
+a⊥ (η2 ) × a′⊥ (η1 ) · n̂ dη1 dη2 . (S19)
+2
+η1 <η2
+Integrating the inner variable andRusing a⊥ (−∞) = 0
+converts the double integral into − (ax a′y − ay a′x ) dη, so
+Θnet = − 21 a2e A + O(a4e ),
+
+(S20)
+
+in the triad ê1 × ê2 = n̂. This is Eq. (10) of the main
+text, and A is twice the algebraic area enclosed by C.
+The order of the remainder is a theorem, and the proof
+takes two lines. Grade so(3)u0 by calling G1 and G2 odd
+and e1 ∧e2 even. The bracket respects that grading, since
+[odd, odd] = even and [even, odd] = odd. Every term of
+the Magnus series is an integral of n-fold nested brackets
+of M , and M is odd, so the nth term has parity n: terms
+with n even lie along e1 ∧ e2 , and terms with n odd lie in
+the plane spanned by G1 and G2 . The consequences follow immediately. The component of the exponent along
+n̂ carries only even powers of ae , which establishes the
+O(a4e ) in Eq. (S20); the leading correction to the axis is
+the third-order in-plane term, so at fixed curve the axis is
+tilted out of n̂ by O(ae ); and the change in the projection
+of the spin on n̂ is quadratic in that tilt and therefore
+O(a6e ). Section S3.4 uses the last of the three. Without
+it that statement would rest on nothing.
+Equation (S21) below sharpens the remainder further,
+since the relative correction there is governed by ae a0 , so
+the informative form is Θnet = − 21 a2e A[1 + O((ae a0 )2 )].
+The Magnus series itself, on the other hand,Rhas a guaranteed radius of convergence only while ae ∥M ∥ dη =
+ae length(C) < π, and the working point of Sec. S6 violates that bound outright: at a0√ = 75 and N = 32
+the curve has length ≃ 2πN a0 / 2 ≃ 1.1 × 104 , so
+ae length(C) ≃ 12 ≫ π. Hence nothing quoted at that
+point rests on the series. What supports Eq. (S20) there
+
+k̄ ∧ e2
+−0.45
+0
+0
+−0.45
+
+k̄ ∧ k
+−0.445
+0.445
+0
+0
+
+e1 ∧ e 2
+1.15
+−1.15
+0
+0
+
+is the resummation of Sec. S2.4, which sums all orders in
+ae a0 for a circular plateau, together with the measured
+ratios of Sec. S4.5.
+One definition has to be pinned down before Eq. (S20)
+can be read literally. Its right-hand side is an unbounded
+real number growing as a2e a20 N , whereas the angle extracted from an SO(3) matrix lies in [0, π], is defined
+modulo 2π, and carries a sign ambiguity that goes with
+a reversal of the axis. We define Θnet as the continuous lift in ae from ae = 0, equivalently as the angle
+accumulated along the path, and the measured quantity is its reduction modulo 2π. The wrapping is not
+hypothetical. For a four-cycle circular plateau with onecycle fronts at a0 = 3 and ae = 0.2, where A = 268.61
+and ae a0 = 0.6 is not small, Eq. (S21) predicts 4.96 rad
+and the leading order Eq. (S20) gives 5.37 rad; the angle read from the matrix is 1.307 rad, which is 2π minus
+4.976 rad, and the extracted axis changes sign (measured;
+code/holonomy scan.json, stage wrap). Section S4.5
+drops the affected points from the scaling table for the
+same reason.
+For linear polarization C is a segment and A = 0, and
+the vanishing there is exact at every order in ae and a0 by
+the fixed-axis argument of Sec. S2.2, well beyond the order of Eq. (S20). For a curve traced out and back, such as
+ay ∝ a2x , the enclosed area is zero and the ordered exponential is the identity for the same reason. We measured
+≤ 9.95 × 10−12 rad over the 18 cases of the FIG. 1 grid,
+with anomalies up to ae = 0.6. The covariant cross-check
+of Sec. S4 returns ≤ 7.7 × 10−11 rad on four cases of its
+own, at its own coarser floor.
+
+S2.4.
+
+Resummation of the axis tilt for a circular
+plateau
+
+Let a⊥ trace a circle of radius a0 at unit rate in η over
+a phase interval ∆η, so that A = a20 ∆η. Then n̂ × a′⊥
+has fixed magnitude a0 and rotates about n̂ at unit rate,
+and Eq. (S15) becomes the magnetic-resonance problem
+for a rotating field of strength ae a0 on exact resonance.
+In the frame corotating about
+n̂ the rotation vector is
+p
+constant with magnitude 1 + a2e a20 . Transforming back
+subtracts one turn per unit phase, and the net rotation
+
+14
+about n̂ has magnitude
+q
+
+Θcirc =
+1 + a2e a20 − 1 ∆η,
+
+(S21)
+
+Eq. (12) of the main text, with the sense of rotation of
+Eq. (S20). Expanding for ae a0 ≪ 1 returns 12 a2e a20 ∆η =
+1 2
+2 ae A. At a0 = 1 and ae = 0.05 the integrator gives
+2.3193 × 10−2 , the resummation 2.3193 × 10−2 , and the
+area law 2.3208 × 10−2 (measured).
+The word exact does not belong to Eq. (S21), and
+three conditions say why. An unbroken circle violates
+a⊥ (±∞) = 0 and is therefore not an admissible pulse, so
+Eq. (S21) describes a plateau and not a pulse. Composing the corotating rotation with the compensating turn
+returns a single angle only for an integer number of turns;
+away from that the two axes differ and the result is a rotation whose angle is not the difference of the two. And
+for a pulse with fronts the phase interval has to be read as
+A/a20 , which is the form printed in the main text; reading it as the plateau length instead costs 19% at a0 = 1
+and ae = 0.05. What survives all three is an asymptotic
+improvement, not an identity: at ae a0 = 0.3 Eq. (S21) is
+still off by 0.1%. The corresponding statement about the
+axis is cleaner, and it is the one the section is named for.
+In the corotating frame the rotation vector is tilted from
+n̂ by arctan(ae a0 ), which is the O(ae ) tilt that the grading argument of Sec. S2.3 predicts, resummed in ae a0 .
+Note the convention. The radius of the circle in
+Eq. (S21) is a0 , whereas in the ellipticity-normalized parameterization √of Eq. (S2) a circularly polarized pulse
+has radius a0 / 2. The two differ by a factor of two in
+A, and the numbers quoted elsewhere in this document
+use Eq. (S2).
+The expansion parameter is ae a0 , not ae . With the
+physical anomaly ae a0 = 1.16 × 10−3 a0 , so Eq. (S20) is
+accurate to 10−2 up to a0 ∼ 100. Above ae a0 ∼ 1 the net
+rotation becomes linear in ae , which no laboratory field
+reaches.
+
+S3.
+
+INVARIANCE PROPERTIES
+
+S3.1.
+
+Reparameterization of the phase
+
+Equation (S17) contains η only through a⊥ (η). Under
+a monotone reparameterization η → s(η) that leaves the
+curve C unchanged, the one-form n̂ ∧ da⊥ is unchanged
+and so is Λnet . The statement holds by construction, so
+the numerical test is a control on the code and not evidence for the theorem: net rotations for one curve traced
+at different rates agree to eight or nine digits over eight
+runs, including at the inflated value ae = 0.25, where
+the leading order of Eq. (S20) is far from sufficient (measured).
+What drops out is the rate, and only the rate, so the
+carrier frequency, a chirp and the envelope shape have
+to be handled with care, because in general they change
+
+C itself. The correct statement is that everything about
+the field enters through the curve C exactly, and at leading order through A alone. Lengthening the pulse at
+fixed a0 enlarges the curve, adds turns and raises A, so
+Θnet ∝ N . Changing the envelope at fixed N and fixed
+a0 likewise changes A, and Sec. S4.5 measures by how
+much: A = 334.412 for the Gaussian against 323.603
+for cos2 at a0 = 10 and N = 1, a difference of 3.2%
+that propagates straight into Θnet . A quadratic chirp on
+a symmetric envelope leaves A alone
+R by parity, since the
+chirp-dependent part of φ′ in A ∝ f 2 φ′ dη is odd about
+the center of an even f 2 . That is a control on the code
+and not a law.
+
+S3.2.
+
+Independence of the electron energy
+
+The null rotation generated by N1 = k ∧ e1 leaves k
+and κ fixed, shifts u0⊥ by −cκ e1 for a parameter c, and
+changes the polarization vectors only by terms ∝ k µ ,
+so that the field tensor itself comes back unchanged,
+N f N −1 = f , which is stronger than gauge equivalence.
+Choosing c = u01 /κ brings any geometry to head-on,
+the net map is conjugated, Λnet → N Λnet N −1 , and a
+rotation angle is a conjugation invariant. That disposes
+of the transverse momentum. The light-front projection
+κ needs a different argument, because κ = k · u is a
+Lorentz invariant and no boost removes it. It appears
+solely through the scale chosen for k, hence as a rescaling η → η/κ of the phase, to which the holonomy is
+insensitive by Sec. S3.1. Thus the inputs that remain are
+the curve C and the number ae , and γ is not among them.
+Measured values agree. For circular polarization at
+a0 = 5 and N = 1 the net rotation is 5.621424 × 10−5 rad
+at γ = 1, 10, 102 , 103 and 5.621423 × 10−5 at γ = 104 , six
+matching digits over four decades in energy. With the
+anomaly switched on, an initial transverse momentum
+up to u0⊥ = 17 leaves the angle at 1.14759016 × 10−5 ,
+and a copropagating geometry with κ = 0.025 gives the
+same. The g = 2 null test of the main text was run to
+u0⊥ = 15. Only the rotation axis moves, and it tracks
+the propagation direction of the wave in the electron rest
+frame to four digits (measured).
+
+S3.3.
+
+Why the storage-ring factor ae γ does not
+apply
+
+In a storage ring the field is static in the laboratory,
+and the ratio of the anomalous precession frequency to
+the cyclotron frequency is ae γ [16, 38, 39]. That ratio
+compares rates at one instant of laboratory time, and
+the enhancement comes from the rest-frame field being γ
+times the laboratory field at fixed B. Neither ingredient
+survives here. The strength of a plane wave in the rest
+frame is measured by the invariant a0 , which no boost
+changes, and the g = 2 part of the precession, which is
+what ae γ multiplies, gives a net rotation of exactly zero.
+
+15
+The product is ae γ · 0 = 0.
+This is a question we have been asked more than once,
+so we state the practical form: the enhancement is real,
+but it applies to a quantity that vanishes identically in
+this geometry, and the surviving quantity is O(a2e ) with
+no compensating factor, so that the one configuration in
+this paper where ae γ does return is the static field superposed on the wave in Sec. S7, where the added field tensor
+no longer lies in k ∧ (·) and the argument of Sec. S2.1 has
+nothing to act on.
+
+S3.4.
+
+Helicity
+
+The grading argument of Sec. S2.3 settles the structure
+here. At fixed curve the rotation axis of Λnet departs
+from n̂ by O(ae ), the projection of the spin on the propagation direction changes at O(a6e ), and the observable is
+therefore the rotation of a transverse polarization. That
+fixes the experimental configuration, since a longitudinally polarized beam feels nothing at any order within
+reach. Section S2.4 adds one qualification: the natural
+expansion parameter is ae a0 , so at large a0 the tilt should
+be read as O(ae a0 ).
+The exponent is measured, and not left as an inference
+from the grading. With the spin started along n̂, at γ =
+1, N = 1 and circular polarization, and with the anomaly
+inflated so that ae a0 covers 0.03 to 0.5, the transported
+triad gives ∆S∥ = R33 −1 = −1.80×10−3 (ae a0 )6 , with local log-log exponents of 5.98 to 6.00 at the small-anomaly
+end and a coefficient that repeats to 0.5% over a tenfold range in a0 . The mechanism was checked factor
+, and
+, the axis tilt ψ ∝ a0.996
+by factor: Θnet ∝ a2.000
+e
+e
+∆S∥ = −(1 − cos Θnet ) sin2 ψ to 5 × 10−3 in relative
+terms. The orthogonality error of the transported triad
+is 1.5 × 10−14 , two decades below the smallest measured
+∆S∥ . Two limits are worth naming. The exponent belongs to the helicity state, since for a spin that does not
+start along n̂ the projection on n̂ changes at O(a3e ), measured exponent 3.00. The coefficient was measured at one
+pulse length, one Lorentz factor and one ellipticity, so it
+does not transfer to the working point of Sec. S6, where
+Θnet is already 0.4 rad and the fit window used here has
+been left behind (code/spin magnitude.json, key t7).
+The net operator itself does not depend on the initial spin direction, since we transport a full orthonormal
+triad, and only the projection onto a chosen initial direction does.
+
+S3.5.
+
+The pulse condition, stated precisely
+
+Maxwell’s equations and finiteness of the pulse require
+a⊥ (+∞) = a⊥ (−∞), which is the absence of a dc component
+in the transverse electric field. They do not require
+R
+a⊥ dη = 0, which is a condition on a net displacement.
+Forcing the second condition by subtracting a pedestal
+2
+cf f (η) with cf = e−σ /2 cos φ0 changes the net rotation
+
+by 2.3 × 10−5 in relative terms at a0 = 10, N = 1, δ = 1
+(2.248550 × 10−4 against 2.248498
+× 10−4 , measured). A
+R
+pulse deliberately built with a⊥ dη ̸= 0 obeys Eq. (S20)
+to 10−5 in relative terms at A = −0.14159.
+A pulse that violates the first condition is a different
+matter. It breaks the theorem at g = 2, and Sec. S7 takes
+that case up.
+
+S3.6.
+
+Carrier-envelope phase
+
+For strictly circular polarization a CEP shift is a
+rigid rotation of C about the origin. The connection of
+Eq. (S14) is equivariant under rotations about n̂, and the
+holonomy angle is a class function, so the CEP drops out
+at every order in ae , and the ten matching digits measured at ae = 0.25 are again a control on the code. For
+elliptical polarization a CEP-odd part appears only in
+higher orders of the holonomy: 8 × 10−5 in relative terms
+at ae = 0.25, which extrapolates to ∼ 2 × 10−9 relative
+and ∼ 10−14 rad absolute at the physical anomaly. The
+largest CEP-dependent part seen anywhere in the planewave scans is 2.4 × 10−10 rad, at δ = 0 and γ = 5000,
+consistent with the energy-dependent floor of Sec. S4.2
+at that γ.
+
+S4.
+
+NUMERICAL VERIFICATION
+S4.1.
+
+Method
+
+Two independent implementations were used. The
+first (code/spin magnitude.py) works in the laboratory
+frame, writes the BMT equation componentwise in the
+form
+
+
+dS µ
+= (1 + ae ) nµ (a′ ·S) − a′µ (n · S)
+dη
+
+
++ ae uµ (n · S)(a′ ·u) − (a′ ·S) ,
+
+(S22)
+
+with nµ = k µ /(k · u0 ), and evaluates the orbit from
+Eq. (S4) analytically at every step.
+The second
+(code/indep check*.py) assembles the generator from
+covariant bivectors in a different coordinate system, with
+the wave along −z and the electron initially at rest. The
+two were written from the same equations but not from
+the same code, and they agree on every conclusion drawn
+below. They do not agree on how small a zero is: the second implementation reads the angle from the trace of the
+rotation matrix, an operation that is badly conditioned
+near the identity, and its floor is four to seven orders of
+magnitude coarser, with ∥R − ⊮∥ reaching 2.1 × 10−9 and
+the extracted angle reaching 6.6×10−6 rad on runs whose
+exact answer is zero. Every bound quoted below, and in
+particular the g = 2 bound of Table S4, comes from the
+first implementation. The covariant floor appears twice,
+in Sec. S2.3 and in the last column of Table S4, and is
+named as such in both places.
+
+16
+γ ≃ 5.8 × 103
+
+TABLE S2. Measured bounds on the exact invariants at the
+end of the pulse, taken over all configurations. The first two
+columns come from code/spin magnitude.json; the last is
+the same quantity over the wider grid behind FIG. 1 of the
+main text (code/holonomy scan.json), which reaches larger
+A and is correspondingly coarser. All entries measured.
+γ=1
+γ = 5000
+FIG. 1 grid
+2.24 × 10−12 4.5 × 10−7 2.87 × 10−11
+3.11 × 10−12 9.0 × 10−7 5.61 × 10−11
+1.65 × 10−12 9.0 × 10−7
+—
+1.24 × 10−13 1.24 × 10−13
+—
+
+|Θnet | (rad)
+
+Quantity
+|S · u|
+|S · S + 1|
+∥R⊤ R − ⊮∥
+|uµ (+∞) − uµ (−∞)|
+
+10−4
+γ
+
+10−7
+
+S4.2.
+
+Invariants and the resolution floor
+
+The exact invariants are u · u = 1, S · u = 0, S ·
+S = −1, and orthogonality of the transported triad, and
+Table S2 collects the measured bounds. One qualification
+belongs with them. They are evaluated at the end of the
+pulse, and nothing is recorded along the trajectory, so
+an excursion in the interior that came back would not
+appear.
+Medians lie far below those maxima, 5.6 × 10−15 for
+|S · u| and 4.4 × 10−15 for |S · S + 1| at γ = 1. Table S2 reports worst cases over the whole scan. Truncation of the Gaussian envelope enters at the same level,
+|a⊥ (±ηmax )| ≤ 1.24 × 10−13 , and vanishes identically for
+cos2 .
+The invariant error grows with energy, because the laboratory components of S and u scale as γ while the invariants are built from cancellations among them. A cancellation estimate would give γ 2 ϵmach , and the measured
+growth is slower than that: from 1.65 × 10−12 at γ = 1
+to 3.6 × 10−7 at γ = 5 × 103 , an effective exponent of
+1.44 over the range, approaching 2 only above γ ≃ 102 .
+The net rotation at g = 2 behaves differently, and the
+difference matters for how the null results are read, since
+that quantity does not grow with γ at all but stays flat at
+2.3–2.6 × 10−13 rad across the whole range, being set by
+the extraction of a rotation vector from a matrix close to
+the identity. It scales with intensity instead, the median
+
+ate
+tim
+
+2 es
+
+10−10
+
+γ
+
+10−13
+
+Both integrate with the DOP853 explicit Runge–Kutta
+scheme, the first at rtol = 10−13 and atol = 10−16 ,
+the second at rtol = 10−12 and atol = 10−14 . Three
+orthonormal rest-frame four-vectors are transported together with the orbit. At the end the reference triad is
+rebuilt from the initial one, and the net rotation is read
+off the resulting 3 × 3 matrix as a rotation vector. Reading the angle from a transported frame is what makes
+the result independent of the initial polarization.
+An earlier version of the plane-wave code integrated
+the four-velocity along with the spin. That version
+wasted about half its steps enforcing an identity that
+Eq. (S4) already satisfies exactly, and it lost two digits
+at γ = 103 . The runs reported here use the closed-form
+orbit.
+
+d
+sure
+
+ea
+1.44 m
+
+circular signal, a0 = 5
+linear pol., ae ≤ 10
+g = 2 scan
+‖R ⊤R − ‖
+
+10−16
+100
+
+101
+
+102
+
+Lorentz factor γ
+
+103
+
+104
+
+FIG. S1. Measured net spin rotation against the Lorentz factor. Filled circles are the g = 2 scan and filled squares the
+linear-polarization scan at inflated anomaly, both of which are
+zero by Eq. (S11) and by the fixed-axis argument of Sec. S2.2,
+so what is plotted for them is round-off. The g = 2 maximum
+is flat at 2.3–2.6 × 10−13 rad, set by the extraction of the
+rotation vector from an SO(3) matrix, and the growth with
+γ is carried by the anomaly-inflated scan and by the measured invariant error ∥R⊤R − ⊮∥ of the same runs (grey triangles), which rises from 1.65 × 10−12 at γ = 1 to 3.6 × 10−7 at
+γ = 5 × 103 . The dashed line is the γ 2 cancellation estimate
+anchored on the measured value at γ = 1, and the dotted line
+is the power law that error actually follows; the data fall below the estimate by up to two decades, the effective exponent
+being 1.44. Open symbols are the circularly polarized case at
+a0 = 5, N = 1, flat to six digits over four decades in γ. That
+estimate meets the signal at the cross near γ ≃ 5.8 × 103 ,
+which marks where the laboratory formulation stops resolving it.
+
+rising roughly as a0 , from 7.4×10−16 at a0 = 0.1 through
+5.0 × 10−15 at a0 = 1 to 5.0 × 10−14 at a0 = 10, which is
+the signature of accumulated round-off. Figure S1 separates the two behaviors. The precision scans were run at
+γ = 1, which Sec. S3.2 shows to be equivalent.
+
+S4.3.
+
+Convergence in the integrator tolerance
+
+A null result is worth only as much as the evidence that
+the step size has stopped mattering, so the plane-wave
+zero was rerun over the integrator tolerance at ae = 0,
+with rtol from 10−9 to 10−14 and atol = 10−3 rtol. Table S3 gives three configurations, and they read in opposite directions.
+At a0 = 10 the zero has reached the arithmetic. Tightening the tolerance by two decades from 10−12 to 10−14
+does not lower Θnet , which instead fluctuates over (1.0–
+2.6) × 10−13 while the number of right-hand-side evalu-
+
+17
+TABLE S3. Measured |Θnet | in radians at g = 2 against the relative tolerance of the DOP853 integrator, at atol = 10−3 rtol.
+The working tolerance of the runs reported elsewhere is rtol = 10−13 . Each row is at one carrier-envelope phase, φ0 = π/2 for
+the first and φ0 = 0.7 for the other two. SciPy raises any relative tolerance below 100 machine epsilons, so the last column is
+executed at 2.22 × 10−14 . Sixteen of the eighteen entries reproduce an earlier run to the digits printed. The two that do not
+are both in the loosest column, 10−9 : the third row differs by rounding, and the second returns 9.8 × 10−14 against 3.0 × 10−13
+before, a factor of three whose original configuration could not be recovered. Both cells carry the recomputed value, and neither
+enters any bound quoted here. Source: code/spin magnitude.json, key t6.
+Case
+a0 = 10, N = 1, Gauss, γ = 10
+a0 = 10, N = 4, Gauss, γ = 1
+a0 = 1, N = 1, cos2 , γ = 1
+
+10−9
+3.4 × 10−11
+9.8 × 10−14
+4.4 × 10−14
+
+10−10
+6.0 × 10−12
+3.6 × 10−13
+6.6 × 10−15
+
+ations triples, and that is the evidence that the vanishing is a property of the equations. The same fact costs
+us two digits of the headline number. At rtol = 10−12
+the identical computation returns 2.0 × 10−13 and at
+10−14 it returns 2.4 × 10−13 , a spread of 22.5% below
+the value 2.57 × 10−13 obtained at the working tolerance,
+so three significant figures are not secured and the defensible statement is the bound ≤ 3 × 10−13 rad used in
+Table S4. At a0 ≲ 1 the picture inverts: the measured
+value still falls monotonically with the tolerance, from
+4.4 × 10−14 to 2.3 × 10−16 , so over that part of the grid
+the reported zero is an upper bound set by truncation
+and not a round-off floor. Little room is left in either
+direction, since SciPy clamps rtol below 2.22 × 10−14 and
+the working value already sits one decade above that.
+
+S4.4.
+
+Validation runs
+
+Table S4 collects the tests. The entry that carries the
+most weight is the second: the vanishing at g = 2 survives
+when the anomaly is switched on and inflated by four
+orders of magnitude above its physical value, which rules
+out the reading “the effect is there but small.”
+
+S4.5.
+
+Scaling laws
+
+How well Eq. (S20) reproduces the measured angle
+away from linear polarization depends on which scan is
+meant, and the two answers differ by two digits. Over the
+wide grid behind FIG. 1 of the main text, which mixes envelopes, ellipticities, chirps and polarization gating, the
+relative residual has median 8.0 × 10−5 and maximum
+9.1×10−4 , that is four digits typically and three at worst.
+Along a single parameter axis the agreement is the five
+digits quoted in the main text, and Table S5 gives the
+ratio of measurement to prediction axis by axis. The ratio Θnet /a2e stays constant to 0.8% across a 26-fold range
+in the anomaly, which is the direct statement that the
+effect is quadratic. Points with ae ≥ 0.1 are excluded
+there. Beyond that value Θnet exceeds π and the extracted rotation vector wraps, in the sense of Sec. S2.3.
+For a circularly polarized Gaussian pulse the law eval-
+
+10−11
+5.5 × 10−13
+7.9 × 10−14
+3.3 × 10−15
+
+10−12
+2.0 × 10−13
+1.0 × 10−13
+1.7 × 10−15
+
+10−13
+2.6 × 10−13
+2.6 × 10−13
+5.0 × 10−16
+
+10−14
+2.4 × 10−13
+1.2 × 10−13
+2.3 × 10−16
+
+uates to Θnet = 2.2486 × 10−6 a20 N rad, and for cos2
+−6 2
+to 2.1759
+R × 10 a0 N rad. The 3.2% difference is entirely f 2 dη: at a0 = 10 and N = 1 the two areas are
+A = 334.412 and 323.603 (measured).
+
+S5.
+
+FINITE FOCUSING
+S5.1.
+
+Field model
+
+Equation (S20) rests on A = A(η), which no focused
+beam satisfies. The field used below is a Gaussian pulse
+built from the Lax–Louisell–McKnight (LLM) expansion
+in the diffraction parameter ε = 1/(kw0 ) = λ/2πw0 , in
+the form standard in the strong-field literature [43, 44,
+59]. With s = ε2 (X 2 + Y 2 ), ζ = 2ε2 Z and F = 1/(1 +
+iζ), the transverse complex amplitude is carried to third
+order,
+ψ = ψ0 + ε2 ψ2 ,
+
+ψ0 = F e−F s ,
+
+
+
+ψ2 = e−F s cψ F 2 + (2 − cψ )F 3 s − F 4 s2 .
+
+(S23)
+
+(S24)
+
+We rederived ψ2 rather than copying it: substitution into
+the wave equation gives sψ2,ss + ψ2,s + iψ2,ζ = −∂ζ2 ψ0 ,
+whose general solution is Eq. (S24) with one free constant cψ multiplying ∂ζ ψ0 , a homogeneous paraxial solution. That constant is the O(ε2 ) waist-shift ambiguity
+built into the expansion. We work at cψ = 0, where the
+correction vanishes on axis and a0 keeps its meaning as
+the peak potential at focus. The spread over cψ is carried
+as a systematic error.
+The longitudinal component is obtained by closing
+the Coulomb gauge ∇ · a = 0 exactly, by the fixedpoint iteration W = i(Dg + ∂Z W ) with W0 = iDg
+and D = αx ψ,X + αy ψ,Y . Two iterations give a longitudinal field complete through ε3 and through ε/σ 2 .
+Then E = −∂t a and B = ∇ × a. At retained order
+1 the measured ratio Ez /E⊥ grows as ε1.07 from 0.0174
+at ε = 0.025, and with ψ2 retained it reaches 0.276 at
+ε = 0.30, so the model carries a longitudinal field of the
+right order.
+
+18
+TABLE S4. Validation of the plane-wave results. All bounds are measured. Cases counted are independent parameter
+combinations; the scan covers two envelopes, a0 from 0.1 to 10, N from 0.5 to 16, Lorentz factors from 1 to 5 × 103 , three
+carrier-envelope phases and ellipticities from 0 to 1. The zero-area row is measured on the 18 such configurations of the
+grid behind FIG. 1 (code/holonomy scan.json); the value in parentheses there is the covariant cross-check of Sec. S4 on
+four cases of its own, at the coarser floor described in that section. Source data: code/spin magnitude.json (keys t1, t3),
+code/holonomy scan.json and code/indep check*.py.
+Test
+Net rotation at g = 2
+Net rotation, linear polarization, anomaly up to ae = 10
+Closed-form solution against the integrator, three interior phases
+Interaction-picture generator against Eq. (S14) on a phase grid
+Independence of γ, circular polarization, γ = 1–104
+Reparameterization of the phase at fixed curve, ae up to 0.25
+Zero-area curve ay ∝ a2x , ae up to 0.6
+Return of the four-velocity
+
+TABLE S5. Measured net rotation divided by − 12 a2e A, along
+one parameter axis at a time. Circular polarization, Gaussian
+envelope, γ = 103 ; the fixed values are a0 = 10 and N = 4,
+except in the first row, where N = 1. The last row instead
+lists Θnet /a2e , which Eq. (S20) requires to equal A/2 = 668.8.
+Source: code/spin magnitude.json, key t3.
+Axis
+a0
+N
+δ
+δ=0
+ae , as Θ/a2e
+
+Range
+0.1–50
+0.5–16
+0.05–1
+—
+1.2 × 10−3 –3 × 10−2
+
+Ratio
+1.00000–0.99971
+0.99999
+5 digits
+8.7 × 10−12 rad
+668.8–663.6
+
+TABLE S6. Maxwell residuals of the field model, normalized
+to a0 , for a quasimonochromatic pulse (σ = 100) at retained
+order 1 and order 3 in ε. ∇ · B = 0 and Faraday’s law are
+satisfied identically and are not listed. All entries measured.
+Source: code/focused beam.json, stage field.
+ε
+0.30
+0.20
+0.15
+0.10
+0.05
+
+∇·E
+order 1
+order 3
+1.07 × 10−2
+1.05 × 10−2
+6.30 × 10−4
+6.23 × 10−4
+8.50 × 10−5
+8.44 × 10−5
+5.29 × 10−6
+5.27 × 10−6
+8.82 × 10−8
+8.80 × 10−8
+
+S5.2.
+
+∇ × B − ∂t E
+order 1
+order 3
+3.87 × 10−2
+1.69 × 10−2
+8.35 × 10−3
+7.35 × 10−4
+2.79 × 10−3
+2.98 × 10−4
+5.63 × 10−4
+1.21 × 10−4
+4.75 × 10−5
+3.01 × 10−5
+
+Maxwell residuals
+
+Two of Maxwell’s equations hold identically, because
+the fields are built from a potential: ∇·B and ∇×E+∂t B
+are machine zero at all sampled points. The other two are
+measured on 48 points fixed in the self-similar variables
+(ρ/w0 , z/zR , η/σ), so that different ε are compared at
+the same place in the beam, with residuals normalized
+to a0 . Table S6 gives them for a quasimonochromatic
+run, σ = 100, which isolates the LLM hierarchy from the
+envelope.
+The Gauss residual falls as ε5.5 , a consequence of the
+exact Coulomb closure, and the Ampère residual as ε3.5
+at order 1. Keeping ψ2 lowers the Ampère residual by a
+
+Cases
+180
+60
+18
+—
+9
+8
+18
+all
+
+Measured bound
+max |Θnet | ≤ 3 × 10−13 rad (2.57 × 10−13 at rtol = 10−13 )
+4.90 × 10−8 rad at γ = 5000, ≤ 4.1 × 10−11 rad at γ ≤ 102
+max relative error 7.88 × 10−13
+max |M − n̂ ∧ a′ | = 2.7 × 10−15
+6 matching significant digits
+8–9 matching significant digits
+≤ 9.95 × 10−12 rad (≤ 7.7 × 10−11 on the covariant check)
+|u(+∞) − u(−∞)| ≤ 1.24 × 10−13
+
+factor 4.6 to 11 over ε = 0.1–0.2, which is the hierarchy
+working as intended.
+For a physical pulse the picture is worse and we state
+it plainly. At σ = 3.77 (N = 1) the residuals fall only
+as ε1.4 for Gauss and ε2 for Ampère, and at ε = 0.15
+they reach 1.4 × 10−3 and 7.2 × 10−3 of a0 . The finite
+spectral width produces terms ∝ εp /σ q from the product
+of the z-dependent mode with the envelope in η, and no
+finite order in ε removes them, so this is a property of the
+pulse and not a defect of the LLM hierarchy. An isodiffracting envelope would remove them, and we did not
+try one. The practical consequence appears in Sec. S5.6:
+any measured quantity below 10−3 a0 is a property of the
+model.
+In the opposite limit the model reduces correctly. At
+ε ≤ 10−2 the field agrees with the exact plane wave of
+Eq. (S2) to 1.1 × 10−16 at five phases (measured).
+S5.3.
+
+Dynamics and observable
+
+The Lorentz and BMT equations are integrated together in laboratory time,
+ẋ = β,
+u̇ = E + β × B,
+h
+i
+1
+Ṡ µ =
+(1 + ae )(f S)µ + ae uµ (S ·f u) ,
+(S25)
+γ
+√
+with u0 = 1 + u2 imposed algebraically, so u · u =
+1 holds exactly. Working tolerances are rtol = 10−11
+and atol = 10−13 , with rtol = 10−13 as the convergence
+reference. Along a trajectory sampled at 401 points we
+measured |u · u − 1| ≤ 2.8 × 10−14 , |S · u| ≤ 2.8 × 10−12
+and |S · S + 1| ≤ 2.3 × 10−12 , six to seven orders below
+every quantity reported here.
+The observable is therefore the spin rotation relative to
+the momentum. Three rest-frame four-vectors are transported, a reference triad is constructed at the exit by
+boosting the entrance triad along u0 → uf , and the rotation vector r is read from Rij = −⟨ẽi , ej (tf )⟩. Removing that boost removes with it the kinematic transport
+that accompanies ponderomotive deflection, which would
+
+19
+TABLE S7. Focused Gaussian pulse: circular polarization,
+a0 = 1, N = 1, φ0 = 0, head-on collision at γ = 10. The
+plane-wave reference is − 12 A = −1.6720609. All entries measured. Source: code/focused beam.json, stage eps.
+ε
+w0 /λ
+0.300 0.53
+0.200 0.80
+0.150 1.06
+0.100 1.59
+0.070 2.27
+0.050 3.18
+0.035 4.55
+0.025 6.37
+
+|r0 |
+3.24 × 10−2
+2.55 × 10−3
+8.04 × 10−4
+2.67 × 10−4
+1.20 × 10−4
+5.91 × 10−5
+2.85 × 10−5
+1.44 × 10−5
+
+|r1 |
+3.22 × 10−2
+2.53 × 10−3
+8.05 × 10−4
+2.68 × 10−4
+1.20 × 10−4
+5.83 × 10−5
+2.75 × 10−5
+1.34 × 10−5
+
+r2,z
+−1.79960
+−1.73559
+−1.70950
+−1.68928
+−1.68062
+−1.67646
+−1.67422
+−1.67316
+
+dev. of r2
+7.82 × 10−2
+3.80 × 10−2
+2.24 × 10−2
+1.03 × 10−2
+5.12 × 10−3
+2.63 × 10−3
+1.29 × 10−3
+6.60 × 10−4
+
+otherwise dominate everything. In the plane-wave limit
+uf = u0 , the boost is the identity, and r reduces to the
+net rotation of Sec. S4.
+Five triads sharing a single orbit, at anomalies ae ∈
+{0, ±h, ±2h} with h = 0.05, are separated by five-point
+differences into
+r(ae ) = r0 + ae r1 + a2e r2 + O(a3e ).
+
+(S26)
+
+Both r0 and r1 vanish identically in a plane wave, the
+first by Eq. (S11) and the second by the argument of
+Sec. S2.2.
+
+S5.4.
+
+The limit ε → 0
+
+Table S7 gives the scan. All three violations enter at
+order ε2 , and the range over which that is true has to be
+stated with the exponents. Over ε = 0.025–0.15 the local
+log-log slopes run 2.71 → 2.02 for |r0 |, 2.71 → 2.14 for
+|r1 |, 1.92 → 2.00 for the deviation of r2 from its planewave value, and 3.11 → 2.06 for the transverse momentum kick ∆u⊥ . Over the whole scanned range the fitted
+exponents at γ = 10 are 2.87 for |r0 | and 2.89 for |r1 |,
+and the local slopes on the last two intervals reach 4.0
+and 6.3, so the ε2 law is a statement about ε ≲ 0.15 and
+the two widest points of Table S7 are order-of-magnitude
+entries. The deviation of the holonomic coefficient is
+|r2 + 21 An̂|
+≃ 1.05 ε2
+1
+A
+2
+
+(γ = 10),
+
+(S27)
+
+measured as 1.06, 1.05, 1.05, 1.04, 1.03, 0.995 at ε =
+0.025–0.15. At γ = 1 the same law holds with coefficient 3.4. The coefficient, unlike the exponent, carries a
+systematic error of a factor of about three from the field
+model itself, and Sec. S5.7 propagates it.
+For linear polarization r2 stays at ≤ 7.5 × 10−11 for every ε up to 0.30 (measured). Nothing in Eq. (S20) guarantees that outside the plane-wave limit, and we have no
+argument for why it holds. It is an observation.
+A direct run at the physical anomaly ae = 1.15965 ×
+10−3 , without finite differences, gives the full anomalous
+
+TABLE S8. Waist above which Eq. (S20) holds to the stated
+accuracy,
+at a0 ≃ 1, N = 1, circular polarization, from ε <
+p
+acc./c and w0 /λ = 1/(2πε). The γ = 10 column uses the
+directly measured c = 10.7 of Eq. (S28); the other two are
+estimated from the measured c1 , giving c = 3.86 × 103 and
+c = 6.8. Every entry is a lower bound for the field model at
+cψ = 0, and Sec. S5.7 shows that c carries a systematic
+factor
+√
+of about three, which multiplies each waist by 3: the 1%
+row then reads 171λ, 9.0λ and 7.2λ.
+Accuracy
+10%
+1%
+
+γ=1
+w0 > 31λ
+w0 > 99λ
+
+γ = 10
+w0 > 1.6λ
+w0 > 5.2λ
+
+γ = 103
+w0 > 1.3λ
+w0 > 4.1λ
+
+observable. The ratio to the plane-wave value is 1.0067,
+1.0271 and 1.3033 at ε = 0.025, 0.050 and 0.150, that is
+Θanom (ε)
+10.7 2
+−1≃
+ε
+1 2
+a0
+a
+A
+2 e
+
+(γ = 10),
+
+(S28)
+
+with the coefficient measured as 10.7, 10.8 and 13.5.
+Equation (13) of the main text quotes the same numbers. The deviation is accounted for by the recovered
+term ae r1 alone, since c1 ε2 /(ae A/2) = 11.0 ε2 from the
+measured c1 .
+The amplitudes depend strongly on energy while the
+exponents do not. Measured |r0 | = c0 ε2 and |r1 | = c1 ε2
+give c0 = 7.22, c1 = 7.48 at γ = 1; c0 = 0.0230, c1 =
+0.0214 at γ = 10; and c0 = 0.0165, c1 = 0.0131 at γ =
+103 , a 436-fold range in c0 . Translating Eq. (S28) into a
+waist requirement gives Table S8.
+The dependence on intensity runs the other way. The
+measured ratio |ae r1 |/|a2e r2 | at ε = 0.15 and γ = 10
+is 1.56, 0.79, 0.41, 0.25, 0.28 at a0 = 0.25, 0.5, 1, 2, 4,
+falling as 1/a0 up to a0 ≃ 2 and flattening beyond it.
+Therefore the holonomy formula gains accuracy as the intensity rises, by 1/a0 over the range where the law holds,
+and we have not scanned ε at a0 ≳ 10.
+
+S5.5.
+
+What the dominant term is
+
+The largest of the three coefficients is r0 , and it carries no information about g, since it is computed from
+the orbit alone. At γ = 103 we measured |r0 | = |∆u⊥ |
+to four digits with an axis orthogonal to the momentum, |r0∥ |/|r0⊥ | ≤ 6 × 10−5 , and that identifies r0 as
+the Thomas–Wigner rotation [15, 23] accompanying the
+ponderomotive kick, whose existence in a focused beam
+follows from the failure of the Lawson–Woodward theorem [40, 41]. The separation of the axes is already much
+weaker one decade down, 5.7 × 10−3 at γ = 102 , and it
+fails outright below γ ≃ 3, where r0 becomes mostly parallel to the momentum (0.148 against 0.014 transverse at
+γ = 1, ε = 0.15, a0 = 1) and exceeds ∆u⊥ by a factor
+10 to 50 because the electric term of Eq. (S6) dominates.
+That is the same corner of the parameter space in which
+
+S5.6.
+
+Recovered carrier-envelope-phase dependence
+
+For circular polarization and an electron on axis the
+CEP dependence is absent in the focused beam as well:
+the relative modulation over 16 values of φ0 is 4.3×10−12
+for r0 , 3.2 × 10−10 for r1 and 2.3 × 10−12 for r2 (measured). The reason
+is exact and identical to Sec. S3.6:
+√
+for α = (1, i)/ 2 and a cylindrically symmetric ψ, rotating the whole configuration about the beam axis is the
+same as shifting φ0 . Off axis the symmetry breaks, and
+the relative modulation of |r0 | reaches 22% for circular
+polarization and 35% for linear polarization at an impact
+parameter b = 1.5w0 .
+For linear polarization the CEP controls the sign and
+magnitude of the whole rotation. The vector r lies along
+the normal to the polarization plane, the mean over φ0 is
+zero, and the dependence is a pure first harmonic, with
+A2 /A1 ≤ 2 × 10−12 for r0 . The bound is 3.7 × 10−12 for
+r1 and only 1.1 × 10−2 for r2 , whose first harmonic is
+small enough that the second is not negligible beside it.
+The measured amplitude is A1 (r0 ) ≃ 0.0209 ε2 rad and
+A1 (r1 ) ≃ 0.0235 ε2 rad at a0 = 1, γ = 10, N = 1, with
+local slopes 2.46 → 2.05. Figure S2 shows the growth
+with intensity: A1 (r0 ) is linear in a0 up to a0 ≃ 2, passes
+through a minimum near a0 ≃ 4 that we cannot explain,
+3.2
+and then grows as a2.6
+0 –a0 , reaching 0.781 rad at a0 = 24
+and ε = 0.15. The first-order amplitude A1 (r1 ) is linear
+in a0 only up to a0 ≃ 12: the measured local slopes fall
+from 0.99 to 0.85 over a0 = 1–12 and then rise to 1.06
+and 2.04 over the last two intervals.
+The anomalous part of the signal at the record point
+a0 = 24 is 3.9 × 10−5 rad, that is 5 × 10−5 of the total.
+At a0 = 1, where the rest of this section works, the same
+fraction is 1.3×10−3 , twenty-five times larger. Either way
+that part shares the CEP harmonic, the polarization signature and the γ dependence of the g-independent one,
+so it cannot be separated from it. The amplitude also collapses with pulse length: measured A1 (r0 ) at ε = 0.15,
+a0 = 1, γ = 10 is 6.29 × 10−2 , 9.84 × 10−4 , 2.63 × 10−7
+
+A1 (r0 )
+A1 (r1 )
+|Δu ⟂ | (right)
+
+100
+
+100
+
+10−1
+
+10−1
+
+|Δu ⟂ |
+
+Sec. S6 places the best classical working point, and the
+two requirements pull against each other.
+The net rotation here is nonzero already at g = 2, and
+the axis lies perpendicular to the momentum, so the projection of the spin on the momentum loses the protection
+it had in a plane wave. A longitudinally polarized beam
+does depolarize in a focused pulse, by 8.0 × 10−4 rad at
+a0 = 1, ε = 0.15, γ = 10 and by up to 0.27 rad at
+a0 = 16 (measured). We have not searched the literature
+on g = 2 spin rotation in focused beams, and this identification should be read as a measurement of ours rather
+than as a claim of novelty.
+We measured |r1 |/|r0 | between 0.79 and 1.07 over the
+ε ≤ 0.15 part of the grid, the ratio reaching 1.21 at γ =
+1 and ε = 0.30. The two coefficients are produced by
+the same mechanism. The focused geometry offers no
+selectivity for the anomaly.
+
+first-harmonic CEP amplitude (rad)
+
+20
+
+10−2
+
+10
+
+−2
+
+10−3
+
+10−3
+
+unexplained
+minimum
+1
+
+2
+
+10−4
+4
+
+8
+
+intensity parameter a0
+
+16
+
+24
+
+FIG. S2. Carrier-envelope-phase amplitude of the spin rotation relative to the momentum, for linear polarization at
+ε = 0.15 (w0 = 1.06λ), γ = 10, N = 1, electron on axis. Filled
+symbols: first-harmonic amplitude of the g-independent coefficient r0 . Open symbols: the same for the first-order coefficient r1 , which is linear in a0 up to a0 ≃ 12 (measured
+local slopes 0.99 down to 0.85) and steepens to 2.0 over the
+last interval. Open downward triangles on the right-hand axis
+are the transverse momentum kick |∆u⊥ | of the same runs,
+showing how the ponderomotive ejection grows alongside the
+signal. The dependence is a pure first harmonic, with the
+second harmonic below 2 × 10−12 of the first for r0 . The annotated point near a0 = 4 is a minimum of A1 (r0 ) that we
+cannot explain. At a0 = 24 the rotation swings by 1.56 rad
+between φ0 and φ0 + π, while the anomalous part of the same
+signal is 3.9 × 10−5 rad.
+
+and 1.36 × 10−11 rad at N = 0.5, 1, 2, 4, an exponential collapse whose local rate is not constant, steepening
+to about e−2.2σ in the middle and flattening to e−1.3σ
+over the last interval. The last two values lie below the
+Maxwell residuals of Sec. S5.2 and should be read as zero
+within the model.
+
+S5.7.
+
+Systematic error of the field model
+
+Three variants of the field were run through identical
+dynamics: order 3 with cψ = 0, order 3 with cψ = 1,
+and order 1. The spread in |r0 | is 18% at ε = 0.20, 3.2%
+at ε = 0.10 and 0.8% at ε = 0.05 (measured at γ = 10,
+a0 = 1, N = 1, φ0 = 0.3). That spread itself scales as
+ε2 , so it enters the ε4 correction and leaves the exponent
+alone, while the amplitudes c0 and c1 carry it in full.
+Numbers at ε ≥ 0.2 are order-of-magnitude statements.
+The quantitative range is ε ≤ 0.15.
+On the deviation of r2 , the quantity that Eq. (S27) and
+Eq. (S28) are built from, the systematic behaves quite
+differently and worse. All three variants give an exponent
+
+21
+of exactly 2, so that part is firm, but the coefficient does
+not converge as ε → 0. Measured values of the deviation
+divided by ε2 are 0.950, 1.030 and 1.051 at ε = 0.20,
+0.10 and 0.05 for cψ = 0; 3.130, 3.072 and 3.062 for
+cψ = 1; and 1.158, 1.074 and 1.062 at order 1. The
+ratio between the extremes is 3.3, 3.0 and 2.9, a factor of
+about three that stays put as ε shrinks. The coefficient
+1.05 of Eq. (S27) and the coefficient 10.7/a0 of Eq. (S28)
+are therefore quoted for one convention of the field model
+and are uncertain
+by that factor, which is why Table S8
+√
+carries the 3 correction to every waist. We work at
+cψ = 0 because the correction then vanishes on axis and
+a0 keeps its meaning as the peak potential at focus, and
+we know of no argument that makes that choice physical.
+
+S5.8.
+
+What was not computed
+
+Exact nonparaxial fields, such as the complex-source
+or Sewell–Barnett solutions, were not used and the LLM
+model was never checked against them [60], only the
+Gaussian envelope was run in the focused geometry, and
+neither cos2 nor an isodiffracting envelope, which is the
+one construction that would remove the εp /σ q terms of
+Sec. S5.2, was tried at all. Radiation reaction was not
+integrated in the focused geometry any more than in the
+plane wave. Averaging over the focal volume and over
+the beam spectrum was not done: every number above
+is for a single electron at a fixed impact parameter with
+exact synchronization, and the measured spread over b
+within one waist is a factor of 20 in |r0 |. Ellipticity at
+φ0 ̸= 0, a transverse offset along y, oblique geometries,
+chirp, polarization gating, and higher transverse modes
+were not scanned.
+
+S6.
+
+REGIME OF VALIDITY
+
+Everything below is estimated from published scalings.
+We integrated no radiative process, classical or quantum.
+The quantum nonlinearity parameter is
+χ=
+
+ℏω
+κ a0 ,
+mc2
+
+κ = k · u,
+
+inates while χ ≪ 1, RC ≪ 1, and Psf stays below the
+geometric signal sin2 (Θnet /2).
+Table S9 evaluates these on the plane-wave grid. Since
+Θnet ∝ a20 N and does not depend on γ at all, while all
+three limits tighten with γ, the optimum runs against
+intuition, and the practical form is this: keep the electron
+slow, pay in intensity and duration, and accept the best
+classical point on the grid, which is circular polarization
+at γ ≃ 1–10, a0 ≃ 50–75 and N ≃ 16–32, where Θnet
+reaches 0.1–0.4 rad with χ ≃ 2 × 10−4 –5 × 10−3 and
+RC ≲ 1.3 × 10−2 .
+The working point is not free of qualifications, and
+none of them is numerical. At a0 = 75 and N = 32 the
+estimated photon number is Nγ ≃ 17, so the spin state is
+not strictly pure. Each photon carries ≲ 10−3 of the energy and the decoherence is small, but the purity assumption has to be stated. An intensity of 1.2 × 1022 W cm−2
+at 800 nm with 32 cycles is also a demanding pulse, and
+whether the required synchronization is realistic is an experimental question we have not addressed.
+The third caveat is the one whose data we already have.
+Every number in Secs. S4 and S5 is for a single electron at
+a fixed impact parameter, and no average over the transverse profile of the beam, over the focal volume or over
+the spectrum was performed. That is not a small omission in a focused geometry, because the measured spread
+of |r0 | over impact parameters within one waist is a factor of 20, and the CEP modulation of |r0 | off axis reaches
+35% at b = 1.5w0 for linear polarization (Sec. S5.6). A
+realized measurement therefore samples a distribution of
+rotations, and converting the numbers below into an expected polarization requires that average, which we did
+not compute.
+The focused geometry is more forgiving on radiation
+and less forgiving on everything else. At a0 = 24,
+γ = 10, N = 1 and ε = 0.15 the same scalings give
+χ = 1.5 × 10−3 , RC = 1.7 × 10−4 , Nγ = 0.18 and
+Psf = 3.7 × 10−7 (estimated; that combination is not
+among the deposited runs), so radiation reaction changes
+the result by ≲ 0.02%. The binding constraint there
+is ponderomotive ejection instead: ∆u⊥ = 0.52 at that
+point, a deflection of 0.05 rad, which is tolerable, while
+∆u⊥ = 4.0 at a0 = 8 and γ = 1, which is not.
+
+(S29)
+
+with k normalized to unit frequency, so that κ ≃ 2γ headon and χ ≃ 6.07 × 10−6 γa0 at ℏω = 1.55 eV. The symbol
+λ is the wavelength here and in the tables, never k · u.
+Since κ is conserved in a plane wave, χ is fixed by the
+initial energy and does not drift during the pulse. In the
+focused geometry κ is not conserved, and the estimate is
+low by roughly ∆u⊥ /γ.
+The three limits on the classical treatment are the classical radiated fraction RC ≃ 32 αa0 χN , the number of
+emitted photons Nγ ∼ αa0 N , and the radiative spin-flip
+probability Psf ∼ αa0 χ2 N at χ ≪ 1. The first two are
+from Ref. [46] and the third from Refs. [2, 3], with the
+reviews [5, 6] for context. The classical description dom-
+
+S7.
+
+WHAT BREAKS THE THEOREM
+
+Table S10 separates the mechanisms that leave
+Eq. (S20) intact from those that destroy it. The first
+group was tested directly. The second was tested only
+for focusing and for a pulse with nonzero electric area.
+Radiation reaction, photon emission, a standing wave,
+a medium and a static field were not integrated, and
+their entries are estimates built from the scalings of
+Refs. [5, 46].
+The pattern behind the table is simple. Anything that
+preserves both A = A(η) and u(+∞) = u0 leaves the
+holonomy alone, because those two facts are the entire
+
+22
+TABLE S9. Applicability of the classical treatment on the plane-wave grid, circular polarization, Gaussian envelope, 800 nm.
+Θnet is measured; χ, RC , Nγ and Psf are estimated from the scalings cited in the text and were not integrated.
+γ
+1
+103
+5 × 103
+1
+10
+102
+103
+
+a0
+10
+10
+10
+75
+75
+75
+210
+
+N
+8
+8
+8
+32
+8
+8
+10
+
+Θnet (rad)
+1.8 × 10−3
+1.8 × 10−3
+1.8 × 10−3
+4.0 × 10−1
+1.0 × 10−1
+1.0 × 10−1
+0.99
+
+χ
+3.0 × 10−5
+6.1 × 10−2
+0.30
+2.3 × 10−4
+4.5 × 10−3
+4.5 × 10−2
+1.27
+
+RC
+1.2 × 10−5
+2.4 × 10−2
+0.12
+2.7 × 10−3
+1.3 × 10−2
+0.13
+13
+
+Psf
+5 × 10−10
+2 × 10−3
+5 × 10−2
+9 × 10−7
+9 × 10−5
+9 × 10−3
+25
+
+Verdict
+classical; signal negligible
+radiative flip exceeds the geometric one
+quantum; BMT inapplicable
+best classical point of the grid
+classical; more realistic beam
+radiated fraction 13%; boundary
+Θ ∼ 1 only deep in the quantum regime
+
+input to Secs. S2.1 and S2.2. Anything that supplies
+a second null direction, gives k a mass, or makes the
+electron lose energy breaks one of them.
+Of the entries in the table, radiation reaction deserves
+the longest remark, because it does more than shift a
+number. The Landau–Lifshitz force carries the classical electron time τ0 = 2e2 /3mc3 , and once a dimensionful constant sits in the equation of motion the argument of Sec. S3.2 collapses, since τ0 ω and γ can then
+be formed and the answer is free to depend on both. Its
+weight can be estimated from the radiated fraction, a
+relative distortion 2RC of the curve traced in the rest
+frame against a holonomy of relative size ae a0 , so that
+ΘRR /Θnet ∼ 2RC /(ae a0 ). Evaluated on the rows of Table S9 that estimator is 2 × 10−3 at γ = 1, a0 = 10,
+N = 8 and about 4 at γ = 103 , where the correction has
+overtaken the quantity it corrects. It is also 6 × 10−2 at
+the best classical point of that table and 0.30 one row
+below it, at γ = 10, a0 = 75, N = 8. A correction of
+six to thirty percent sits badly with a law quoted to a
+percent, and only an integration of the Landau–Lifshitz
+equation would settle the matter. We did not perform
+one.
+The published mechanism closest to this one is the rotation of the spin toward the propagation axis by the
+anomalous moment in a circularly polarized field [50].
+That effect is linear in the anomaly, and the reason is instructive here: repeated emission re-prepares the transverse spin with a phase locked to the field, so the cancellation of Sec. S2.2 never gets the closed loop it needs.
+
+Switch the emission off and the linear term disappears
+again.
+The first order also returns with no radiation involved
+at all. A counterpropagating wave introduces a second
+null direction k2 , and the two little algebras iso(2)k1 and
+iso(2)k2 together generate the whole of so(1, 3), so the
+ordering in Eq. (S7) survives even at g = 2 [52, 53]. A
+medium does it more cheaply. The dispersion relation
+gives k a mass, k 2 = ωp2 , the little group stops being
+ISO(2), and the nilpotency on which Eq. (S11) rests is
+gone. This is the effect Tikhomirov identified [37], and
+its weight relative to the holonomy is (ne /nc )/(ae a0 ),
+already of order 0.5 at ne /nc = 6 × 10−3 and a0 = 10.
+Residual gas at that density competes with the effect on
+equal terms.
+A dressed anomaly ae (χ) leaves the structure intact,
+and it turns the result into a measurement. Since Θnet
+is quadratic in ae and no other plane-wave mechanism
+produces a net rotation, the transverse polarization angle measures the square of the field-dressed anomalous
+moment [34, 55] with no g-independent background to
+subtract. One qualification is internal to the derivation. The cancellation of Sec. S2.2 takes ae outside
+the
+R integral, so a phase-dependent ae (χ(η)) would leave
+ae (η) n̂ ∧ da⊥ ̸= 0 and restore a first-order term. At
+the working point χ ≃ 2 × 10−4 the dressing is far too
+weak for that to matter, but the statement is exact only
+for constant ae . How the area law is modified when χ
+approaches unity, where ae (χ) is not defined outside the
+locally constant field approximation, we did not analyze.
+
+[1] D. Del Sorbo, D. Seipt, T. G. Blackburn, A. G. R.
+Thomas, C. D. Murphy, J. G. Kirk, and C. P. Ridgers,
+Phys. Rev. A 96, 043407 (2017).
+[2] D. Seipt, D. Del Sorbo, C. P. Ridgers, and A. G. R.
+Thomas, Phys. Rev. A 98, 023417 (2018).
+[3] Y.-F. Li, R. Shaisultanov, K. Z. Hatsagortsyan, F. Wan,
+C. H. Keitel, and J.-X. Li, Phys. Rev. Lett. 122, 154801
+(2019).
+[4] D. Y. Ivanov, G. L. Kotkin, and V. G. Serbo, Eur. Phys.
+J. C 36, 127 (2004).
+[5] A. Gonoskov, T. G. Blackburn, M. Marklund, and S. S.
+Bulanov, Rev. Mod. Phys. 94, 045001 (2022).
+
+[6] A. Fedotov, A. Ilderton, F. Karbstein, B. King, D. Seipt,
+H. Taya, and G. Torgrimsson, Phys. Rep. 1010, 1 (2023).
+[7] V. Bargmann, L. Michel, and V. L. Telegdi, Phys. Rev.
+Lett. 2, 435 (1959).
+[8] I. M. Ternov, V. G. Bagrov, and Y. Klimenko, Sov. Phys.
+J. 11, 29 (1968).
+[9] A. Chakrabarti, Nuovo Cimento A 56, 604 (1968).
+[10] V. G. Bagrov and D. M. Gitman, Exact Solutions of Relativistic Wave Equations, Mathematics and Its Applications (Soviet Series), Vol. 39 (Kluwer Academic, Dordrecht, 1990) Chap. 8, pp. 249–259.
+[11] V. G. Bagrov and D. M. Gitman, The Dirac Equation
+
+23
+TABLE S10. Mechanisms that do and do not break Eq. (S20). Rows marked measured were computed here; rows marked
+estimated rest on published scalings and were not integrated. Θpw denotes the plane-wave holonomy − 12 a2e A.
+Mechanism
+Transverse initial momentum, up to u0⊥ = 17
+Copropagating geometry, κ = 0.025
+R
+a⊥ dη ̸= 0
+Reparameterization of the phase at fixed curve
+Chirp and envelope shape
+Rotating polarization plane
+Carrier-envelope phase
+Initial spin orientation
+a⊥ (+∞) ̸= a⊥ (−∞)
+Finite focusing, ε = 1/kw0
+Radiation reaction
+Photon emission
+Standing wave
+Plasma, vph ̸= c
+Static axial field on top of the wave
+
+Breaks it?
+no
+no
+no
+no
+no
+no
+no
+no
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+
+Order in ae
+a2e
+a2e
+a2e
+a2e
+a2e
+a2e
+a2e
+a2e
+a0e
+a0e
+a1e
+a1e
+a0e
+a1e
+a1e
+
+and its Solutions, De Gruyter Studies in Mathematical
+Physics, Vol. 4 (De Gruyter, Berlin, 2014) Sec. 5.3.
+[12] A. B. Balakin, V. R. Kurbanova, and W. Zimdahl,
+Precession of a particle with anomalous magnetic moment in electromagnetic and gravitational pp-wave fields
+(2002), Grav. Cosmol. Suppl. 8, No. 2, 6 (2002), arXiv:grqc/0209099.
+[13] B. Oblak and A. Seraj, Phys. Rev. D 109, 044037 (2024).
+[14] A. Seraj and T. Neogi, Phys. Rev. D 107, 104034 (2023).
+[15] L. H. Thomas, Nature (London) 117, 514 (1926).
+[16] J. D. Jackson, Classical Electrodynamics, 3rd ed. (Wiley,
+New York, 1999).
+[17] M. Wen, H. Bauke, and C. H. Keitel, Sci. Rep. 6, 31624
+(2016).
+[18] M. Wen, C. H. Keitel, and H. Bauke, Phys. Rev. A 95,
+042102 (2017).
+[19] A. Barducci and R. Giachetti, J. Phys. A 41, 215301
+(2008).
+[20] A. Di Piazza and T. Pătuleanu, Phys. Rev. D 104,
+076003 (2021).
+[21] D. M. Wolkow, Z. Phys. 94, 250 (1935).
+[22] J. Kupersztych, Nuovo Cimento B 31, 1 (1976).
+[23] E. Wigner, Ann. Math. 40, 149 (1939).
+[24] M. W. Walser, D. J. Urbach, K. Z. Hatsagortsyan, S. X.
+Hu, and C. H. Keitel, Phys. Rev. A 65, 043410 (2002).
+[25] M. V. Berry, Proc. R. Soc. London, Ser. A 392, 45 (1984).
+[26] F. Wilczek and A. Zee, Phys. Rev. Lett. 52, 2111 (1984).
+[27] M. B. Halpern, Phys. Rev. D 19, 517 (1979).
+[28] B. Broda, Non-Abelian Stokes theorem in action (2001),
+published in Modern Nonlinear Optics, Part 2, 2nd ed.,
+edited by M. W. Evans (Wiley, 2001), pp. 429–468,
+arXiv:math-ph/0012035.
+[29] W. Magnus, Commun. Pure Appl. Math. 7, 649 (1954).
+[30] S. Blanes, F. Casas, J. A. Oteo, and J. Ros, Phys. Rep.
+470, 151 (2009).
+[31] I. A. Aleksandrov, D. A. Tumakov, A. Kudlis, V. M.
+Shabaev, and N. N. Rosanov, Phys. Rev. A 102, 023102
+(2020).
+[32] N. N. Rosanov, M. V. Arkhipov, and R. M. Arkhipov,
+Phys. Usp. 67, 1129 (2024).
+[33] H. Bauke, S. Ahrens, and R. Grobe, Phys. Rev. A 90,
+052101 (2014).
+[34] A. Ilderton, B. King, and S. Tang, Phys. Rev. D 102,
+
+Size
+angle identical to 9 digits, only the axis moves (measured)
+same angle (measured)
+law holds to 10−5 relative at A = −0.14159 (measured)
+8–9 matching digits (measured)
+enter through A alone; see Sec. S3.1 (measured)
+law holds through A = 1.5459 to 6 digits (measured)
+exact for circular, ≤ 2.4 × 10−10 rad elliptical (measured)
+net operator unchanged, projection changes (measured)
+∥R − ⊮∥ = 3.46 already at g = 2 (measured)
+all coefficients ∝ ε2 , exceeds Θpw at w0 ≲ 5λ (measured)
+2RC /(ae a0 ): 2 × 10−3 at γ = 1, ∼ 4 at γ = 103 (estimated)
+scales with Nγ ∼ αa0 N (estimated)
+gain of order 1/a2e ∼ 106 , orbit chaotic (estimated)
+(ne /nc )/(ae a0 ) ∼ 0.5 at ne /nc = 6 × 10−3 (estimated)
+the one case where ae γ returns, Θ ∼ ae γ ωc t (estimated)
+
+076013 (2020).
+[35] W.-Q. Wei, F. Wan, Y. I. Salamin, J.-R. Ren, K. Z. Hatsagortsyan, C. H. Keitel, J.-X. Li, and Y.-T. Zhao, Phys.
+Rev. Research 5, 023030 (2023).
+[36] V. V. Tikhomirov, Phys. Rev. Lett. 87, 181801 (2001).
+[37] V. V. Tikhomirov, Opt. Spectrosc. 94, 900 (2003).
+[38] V. N. Baier, Sov. Phys. Usp. 14, 695 (1972).
+[39] S. R. Mane, Y. M. Shatunov, and K. Yokoya, Rep. Prog.
+Phys. 68, 1997 (2005).
+[40] J. D. Lawson, IEEE Trans. Nucl. Sci. 26, 4217 (1979).
+[41] E. Esarey, P. Sprangle, and J. Krall, Phys. Rev. E 52,
+5443 (1995).
+[42] M. Wen, L. Ding, W. Wu, Q. Li, C. Yu, and L. Jin, Eur.
+Phys. J. D 76, 168 (2022).
+[43] M. Lax, W. H. Louisell, and W. B. McKnight, Phys. Rev.
+A 11, 1365 (1975).
+[44] Y. I. Salamin and C. H. Keitel, Phys. Rev. Lett. 88,
+095005 (2002).
+[45] F. Mackenroth, A. R. Holkundkar, and H.-P. Schlenvoigt,
+New J. Phys. 21, 123028 (2019).
+[46] A. Di Piazza, C. Müller, K. Z. Hatsagortsyan, and C. H.
+Keitel, Rev. Mod. Phys. 84, 1177 (2012).
+[47] M. Büscher, A. Hützen, L. Ji, and A. Lehrach, High
+Power Laser Sci. Eng. 8, e36 (2020).
+[48] J. Thomas, A. Hützen, A. Lehrach, A. Pukhov, L. Ji,
+Y. Wu, X. Geng, and M. Büscher, Phys. Rev. Accel.
+Beams 23, 064401 (2020).
+[49] L. Reichwein, Z. Gong, C. Zheng, L. L. Ji, A. Pukhov,
+and M. Büscher, Rep. Prog. Phys. 88, 117001 (2025).
+[50] Y.-F. Li, Y.-Y. Chen, K. Z. Hatsagortsyan, and C. H.
+Keitel, Phys. Rev. Lett. 128, 174801 (2022).
+[51] X. S. Geng, L. L. Ji, B. F. Shen, B. Feng, Z. Guo, Q. Q.
+Han, C. Y. Qin, N. W. Wang, W. Q. Wang, Y. T. Wu,
+X. Yan, Q. Yu, L. G. Zhang, and Z. Z. Xu, New J. Phys.
+22, 013007 (2020).
+[52] H. Bauke, S. Ahrens, C. H. Keitel, and R. Grobe, New
+J. Phys. 16, 103028 (2014).
+[53] N. N. Rosanov, JETP Lett. 113, 145 (2021).
+[54] S. Meuren and A. Di Piazza, Phys. Rev. Lett. 107,
+260401 (2011).
+[55] G. Torgrimsson, New J. Phys. 23, 065001 (2021).
+[56] E. Hairer, C. Lubich, and G. Wanner, Geometric Numerical Integration: Structure-Preserving Algorithms for Or-
+
+24
+dinary Differential Equations, 2nd ed., Springer Series in
+Computational Mathematics, Vol. 31 (Springer, Berlin,
+2006).
+[57] J. M. Sanz-Serna, Acta Numer. 1, 243 (1992).
+[58] N. S. Akintsov, A. P. Nevecheria, S. N. Andreev, and
+Q.-H. Qin, Code and data for the paper “Net electron
+spin rotation in a plane-wave pulse: Holonomy set by the
+
+anomalous magnetic moment” (2026), Zenodo, v1.0.1,
+DOI: 10.5281/zenodo.21758787; repository https://
+github.com/NewArtY/spin-holonomy-plane-wave. The
+concept DOI 10.5281/zenodo.21758393 always resolves to
+the latest version.
+[59] Y. I. Salamin, Appl. Phys. B 86, 319 (2007).
+[60] A. Di Piazza, Phys. Rev. D 103, 076011 (2021).
+
+

@@ -2,11 +2,12 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：54 篇
-- 索引更新时间：2026-08-07
+- 当前收录：55 篇
+- 索引更新时间：2026-08-09
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-09 | [Polarization-Conditioned Fourier-enhanced DeepONet for Electric Field Reconstruction from EFISH Measurements](../papers/arxiv-2608-05937/README.md) | arXiv preprint | [笔记](../daily/2026-08-09/notes/Yang et al. - 2026 - Fourier DeepONet EFISH electric field reconstruction.md) |
 | 2026-08-07 | [Polarization-resolved attosecond gamma-ray emission from few-cycle laser interactions with cone targets](../papers/arxiv-2608-04363/README.md) | arXiv preprint | [笔记](../daily/2026-08-07/notes/Zhang et al. - 2026 - Attosecond gamma ray cone targets.md) |
 | 2026-08-06 | [Development of Thomson parabola spectrometer for diagnostics of ions driven by ultrahigh intensity laser: Simulations and numerical analysis](../papers/arxiv-2608-03969/README.md) | arXiv preprint | [笔记](../daily/2026-08-06/notes/Mehta et al. - 2026 - Thomson parabola laser ion diagnostics.md) |
 | 2026-08-06 | [Generation-Resolved Signatures in QED Cascades: Diagnostics for Ultraintense Laser Parameters](../papers/arxiv-2608-03331/README.md) | arXiv preprint | [笔记](../daily/2026-08-06/notes/Wei et al. - 2026 - QED cascade generation diagnostics.md) |

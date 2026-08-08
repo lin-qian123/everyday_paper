@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：255 篇
-- 索引更新时间：2026-08-07
+- 当前入库论文：258 篇
+- 索引更新时间：2026-08-09
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-08-09 | [Polarization-Conditioned Fourier-enhanced DeepONet for Electric Field Reconstruction from EFISH Measurements](./arxiv-2608-05937/README.md) | arXiv preprint | [10.48550/arXiv.2608.05937](https://doi.org/10.48550/arXiv.2608.05937) |
+| 2026-08-09 | [Net electron spin rotation in a plane-wave pulse: Holonomy set by the anomalous magnetic moment](./arxiv-2608-05698/README.md) | arXiv preprint | [10.48550/arXiv.2608.05698](https://doi.org/10.48550/arXiv.2608.05698) |
+| 2026-08-09 | [Building a Start-to-End Model of the CESR Injector Linac](./arxiv-2608-05094/README.md) | arXiv preprint | [10.48550/arXiv.2608.05094](https://doi.org/10.48550/arXiv.2608.05094) |
 | 2026-08-07 | [A plasma photocathode for spin-polarized electron beams using excited hydrogen halides](./arxiv-2608-04932/README.md) | arXiv preprint | [10.48550/arXiv.2608.04932](https://doi.org/10.48550/arXiv.2608.04932) |
 | 2026-08-07 | [Laser-Plasma Accelerator Beams in Light Sources: Femtosecond High-Brightness Radiation through Chirped Pulse Injection](./arxiv-2608-04699/README.md) | arXiv preprint | [10.48550/arXiv.2608.04699](https://doi.org/10.48550/arXiv.2608.04699) |
 | 2026-08-07 | [Polarization-resolved attosecond gamma-ray emission from few-cycle laser interactions with cone targets](./arxiv-2608-04363/README.md) | arXiv preprint | [10.48550/arXiv.2608.04363](https://doi.org/10.48550/arXiv.2608.04363) |

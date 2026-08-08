@@ -2,11 +2,12 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：49 篇
-- 索引更新时间：2026-08-07
+- 当前收录：50 篇
+- 索引更新时间：2026-08-09
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-09 | [Building a Start-to-End Model of the CESR Injector Linac](../papers/arxiv-2608-05094/README.md) | arXiv preprint | [笔记](../daily/2026-08-09/notes/Goldman et al. - 2026 - CESR injector linac start to end model.md) |
 | 2026-08-07 | [Polarization-resolved attosecond gamma-ray emission from few-cycle laser interactions with cone targets](../papers/arxiv-2608-04363/README.md) | arXiv preprint | [笔记](../daily/2026-08-07/notes/Zhang et al. - 2026 - Attosecond gamma ray cone targets.md) |
 | 2026-08-05 | [Photon Orbital Angular Momentum Control by Electron Wavepackets in Nonlinear Compton Scattering](../papers/arxiv-2608-01323/README.md) | arXiv preprint | [笔记](../daily/2026-08-05/notes/Zuo et al. - 2026 - Photon OAM nonlinear Compton scattering.md) |
 | 2026-08-01 | [Electromagnetically Driven Thermal Dissipation Scaling in Plasma Centrifuges for Mass Separation](../papers/arxiv-2607-28208/README.md) | arXiv preprint | [笔记](../daily/2026-08-01/notes/Hood-McFadden et al. - 2026 - Plasma centrifuge mass separation.md) |

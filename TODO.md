@@ -11,6 +11,8 @@
 
 ## 开发记录
 
+- 2026-08-09：按 DOI、规范化标题和历史 daily 对候选做硬去重；以 arXiv 官方近期 `physics.plasm-ph`、`physics.acc-ph`、`physics.comp-ph`、`nucl-ex` 与 `physics.ins-det` 列表和单篇页筛选为主。新增 `10.48550/arXiv.2608.05937`、`10.48550/arXiv.2608.05698` 与 `10.48550/arXiv.2608.05094`，分别覆盖 EFISH 偏振条件 Fourier DeepONet 反演、平面波强场电子自旋 holonomy、以及 WarpX--Geant4--Impact-T 的钨转换靶正电子注入器模型。3 份官方 arXiv PDF 已下载并通过 `%PDF-`、PDF 元数据、SHA-256 和文本提取校验，已写入中文结构化笔记；台账从 255 增至 258，重试队列保持 12 条。
+
 - 2026-08-07：按 DOI、规范化标题和历史 daily 对候选做硬去重；以 arXiv 官方 Atom API 的近期 `physics.plasm-ph`、`physics.acc-ph`、`physics.comp-ph`、`nucl-ex` 与 `physics.ins-det` 条目筛选为主。新增 `10.48550/arXiv.2608.04932`、`10.48550/arXiv.2608.04699` 与 `10.48550/arXiv.2608.04363`，分别覆盖预偏振卤化氢等离子体光阴极、LPA 束啁啾注入 PETRA IV 型储存环光源、以及少周期激光锥靶的偏振阿秒 γ 源。3 份官方 arXiv PDF 已下载并通过 `%PDF-`、PDF 元数据、SHA-256 和文本提取校验，已写入中文结构化笔记；台账从 252 增至 255，重试队列保持 12 条。
 
 - 2026-08-05：按 DOI、规范化标题和历史 daily 对候选做硬去重；以 arXiv 官方 Atom API 的近期 `physics.plasm-ph`、`physics.acc-ph`、`physics.comp-ph`、`nucl-ex` 与 `physics.ins-det` 条目筛选为主。新增 `10.48550/arXiv.2608.01323`，给出任意电子横向波包 Fourier 分量到非线性 Compton 涡旋 γ 光子 OAM 谱的选择定则，并以 `xi=1`、`511 MeV` 单电子示例展示主 OAM 模态切换和纯度调节。官方 arXiv PDF 已下载并通过 `%PDF-`、PDF 元数据、SHA-256 和文本提取校验，已写入中文结构化笔记；台账从 248 增至 249，重试队列保持 12 条。
