@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：258 篇
-- 索引更新时间：2026-08-09
+- 当前入库论文：261 篇
+- 索引更新时间：2026-08-10
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-08-10 | [SafeDivertor: Faithful Divertor Heat Flux Reconstruction from Macroscopic Plasma State Signals via Time-Frequency Prior Exploitation](./arxiv-2608-05669/README.md) | arXiv preprint | [10.48550/arXiv.2608.05669](https://doi.org/10.48550/arXiv.2608.05669) |
+| 2026-08-10 | [BORAY-3D: A ray tracing code for three-dimensional magnetized plasma configurations](./arxiv-2608-05667/README.md) | arXiv preprint | [10.48550/arXiv.2608.05667](https://doi.org/10.48550/arXiv.2608.05667) |
+| 2026-08-10 | [Millisecond-Scale Neural Operator Surrogates for Double-Null Free-Boundary Grad-Shafranov Equilibria](./arxiv-2608-05555/README.md) | arXiv preprint | [10.48550/arXiv.2608.05555](https://doi.org/10.48550/arXiv.2608.05555) |
 | 2026-08-09 | [Polarization-Conditioned Fourier-enhanced DeepONet for Electric Field Reconstruction from EFISH Measurements](./arxiv-2608-05937/README.md) | arXiv preprint | [10.48550/arXiv.2608.05937](https://doi.org/10.48550/arXiv.2608.05937) |
 | 2026-08-09 | [Net electron spin rotation in a plane-wave pulse: Holonomy set by the anomalous magnetic moment](./arxiv-2608-05698/README.md) | arXiv preprint | [10.48550/arXiv.2608.05698](https://doi.org/10.48550/arXiv.2608.05698) |
 | 2026-08-09 | [Building a Start-to-End Model of the CESR Injector Linac](./arxiv-2608-05094/README.md) | arXiv preprint | [10.48550/arXiv.2608.05094](https://doi.org/10.48550/arXiv.2608.05094) |

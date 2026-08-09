@@ -2,11 +2,13 @@
 
 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。
 
-- 当前收录：34 篇
-- 索引更新时间：2026-08-09
+- 当前收录：36 篇
+- 索引更新时间：2026-08-10
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-10 | [SafeDivertor: Faithful Divertor Heat Flux Reconstruction from Macroscopic Plasma State Signals via Time-Frequency Prior Exploitation](../papers/arxiv-2608-05669/README.md) | arXiv preprint | [笔记](../daily/2026-08-10/notes/Si et al. - 2026 - SafeDivertor heat flux reconstruction.md) |
+| 2026-08-10 | [Millisecond-Scale Neural Operator Surrogates for Double-Null Free-Boundary Grad-Shafranov Equilibria](../papers/arxiv-2608-05555/README.md) | arXiv preprint | [笔记](../daily/2026-08-10/notes/Krastev - 2026 - Neural operator Grad Shafranov equilibria.md) |
 | 2026-08-09 | [Polarization-Conditioned Fourier-enhanced DeepONet for Electric Field Reconstruction from EFISH Measurements](../papers/arxiv-2608-05937/README.md) | arXiv preprint | [笔记](../daily/2026-08-09/notes/Yang et al. - 2026 - Fourier DeepONet EFISH electric field reconstruction.md) |
 | 2026-08-09 | [Building a Start-to-End Model of the CESR Injector Linac](../papers/arxiv-2608-05094/README.md) | arXiv preprint | [笔记](../daily/2026-08-09/notes/Goldman et al. - 2026 - CESR injector linac start to end model.md) |
 | 2026-08-04 | [A Neural Operator Closure for Landau Damping in Electrostatic Plasma](../papers/arxiv-2607-29364/README.md) | arXiv preprint (under consideration for Journal of Plasma Physics) | [笔记](../daily/2026-08-04/notes/Burles et al. - 2026 - Neural operator Landau damping closure.md) |

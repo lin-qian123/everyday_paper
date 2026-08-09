@@ -2,11 +2,13 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：99 篇
-- 索引更新时间：2026-08-09
+- 当前收录：101 篇
+- 索引更新时间：2026-08-10
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-10 | [SafeDivertor: Faithful Divertor Heat Flux Reconstruction from Macroscopic Plasma State Signals via Time-Frequency Prior Exploitation](../papers/arxiv-2608-05669/README.md) | arXiv preprint | [笔记](../daily/2026-08-10/notes/Si et al. - 2026 - SafeDivertor heat flux reconstruction.md) |
+| 2026-08-10 | [Millisecond-Scale Neural Operator Surrogates for Double-Null Free-Boundary Grad-Shafranov Equilibria](../papers/arxiv-2608-05555/README.md) | arXiv preprint | [笔记](../daily/2026-08-10/notes/Krastev - 2026 - Neural operator Grad Shafranov equilibria.md) |
 | 2026-08-06 | [Development of Thomson parabola spectrometer for diagnostics of ions driven by ultrahigh intensity laser: Simulations and numerical analysis](../papers/arxiv-2608-03969/README.md) | arXiv preprint | [笔记](../daily/2026-08-06/notes/Mehta et al. - 2026 - Thomson parabola laser ion diagnostics.md) |
 | 2026-08-04 | [A Neural Operator Closure for Landau Damping in Electrostatic Plasma](../papers/arxiv-2607-29364/README.md) | arXiv preprint (under consideration for Journal of Plasma Physics) | [笔记](../daily/2026-08-04/notes/Burles et al. - 2026 - Neural operator Landau damping closure.md) |
 | 2026-08-02 | [Quasi-static transverse electric field driven electron acceleration in relativistic laser matter interaction](../papers/arxiv-2607-26252/README.md) | arXiv preprint | [笔记](../daily/2026-08-02/notes/Parab et al. - 2026 - Transverse field electron acceleration.md) |

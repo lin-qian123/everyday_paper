@@ -2,11 +2,14 @@
 
 stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。
 
-- 当前收录：22 篇
-- 索引更新时间：2026-08-09
+- 当前收录：25 篇
+- 索引更新时间：2026-08-10
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-10 | [SafeDivertor: Faithful Divertor Heat Flux Reconstruction from Macroscopic Plasma State Signals via Time-Frequency Prior Exploitation](../papers/arxiv-2608-05669/README.md) | arXiv preprint | [笔记](../daily/2026-08-10/notes/Si et al. - 2026 - SafeDivertor heat flux reconstruction.md) |
+| 2026-08-10 | [BORAY-3D: A ray tracing code for three-dimensional magnetized plasma configurations](../papers/arxiv-2608-05667/README.md) | arXiv preprint | [笔记](../daily/2026-08-10/notes/Wang et al. - 2026 - BORAY 3D ray tracing code.md) |
+| 2026-08-10 | [Millisecond-Scale Neural Operator Surrogates for Double-Null Free-Boundary Grad-Shafranov Equilibria](../papers/arxiv-2608-05555/README.md) | arXiv preprint | [笔记](../daily/2026-08-10/notes/Krastev - 2026 - Neural operator Grad Shafranov equilibria.md) |
 | 2026-08-01 | [Variational Formulation of a Hybrid Kinetic and Gyrokinetic Model for Astrophysical and Laboratory Plasmas](../papers/arxiv-2607-28305/README.md) | arXiv preprint | [笔记](../daily/2026-08-01/notes/deOliveira-Lopes et al. - 2026 - Hybrid kinetic gyrokinetic model.md) |
 | 2026-07-29 | [Implementation and verification of the avalanche source in a 3D full-f particle-in-cell model of relativistic electrons for studies of tokamak disruptions](../papers/arxiv-2607-24602/README.md) | arXiv preprint | [笔记](../daily/2026-07-29/notes/Fiona Wouters et al. - 2026 - Runaway-electron avalanche 3D PIC.md) |
 | 2026-07-28 | [First Observation of Fishbone-Driven Zonal Flows with Fine Reversed Structure in Tokamak Plasmas](../papers/arxiv-2607-22344/README.md) | arXiv preprint | [笔记](../daily/2026-07-28/notes/Liutian Gao et al. - 2026 - Fishbone-driven zonal flows EAST tokamak.md) |

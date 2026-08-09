@@ -2842,5 +2842,38 @@
     "pdf_path": "daily/2026-08-09/pdfs/Goldman et al. - 2026 - CESR injector linac start to end model.pdf",
     "note_path": "daily/2026-08-09/notes/Goldman et al. - 2026 - CESR injector linac start to end model.md",
     "normalized_title": "building a start to end model of the cesr injector linac"
+  },
+  {
+    "title": "SafeDivertor: Faithful Divertor Heat Flux Reconstruction from Macroscopic Plasma State Signals via Time-Frequency Prior Exploitation",
+    "doi": "10.48550/arXiv.2608.05669",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-06",
+    "processed_date": "2026-08-10",
+    "source_url": "https://arxiv.org/abs/2608.05669",
+    "pdf_path": "daily/2026-08-10/pdfs/Si et al. - 2026 - SafeDivertor heat flux reconstruction.pdf",
+    "note_path": "daily/2026-08-10/notes/Si et al. - 2026 - SafeDivertor heat flux reconstruction.md",
+    "normalized_title": "safedivertor faithful divertor heat flux reconstruction from macroscopic plasma state signals via time frequency prior exploitation"
+  },
+  {
+    "title": "BORAY-3D: A ray tracing code for three-dimensional magnetized plasma configurations",
+    "doi": "10.48550/arXiv.2608.05667",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-06",
+    "processed_date": "2026-08-10",
+    "source_url": "https://arxiv.org/abs/2608.05667",
+    "pdf_path": "daily/2026-08-10/pdfs/Wang et al. - 2026 - BORAY 3D ray tracing code.pdf",
+    "note_path": "daily/2026-08-10/notes/Wang et al. - 2026 - BORAY 3D ray tracing code.md",
+    "normalized_title": "boray 3d a ray tracing code for three dimensional magnetized plasma configurations"
+  },
+  {
+    "title": "Millisecond-Scale Neural Operator Surrogates for Double-Null Free-Boundary Grad-Shafranov Equilibria",
+    "doi": "10.48550/arXiv.2608.05555",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-06",
+    "processed_date": "2026-08-10",
+    "source_url": "https://arxiv.org/abs/2608.05555",
+    "pdf_path": "daily/2026-08-10/pdfs/Krastev - 2026 - Neural operator Grad Shafranov equilibria.pdf",
+    "note_path": "daily/2026-08-10/notes/Krastev - 2026 - Neural operator Grad Shafranov equilibria.md",
+    "normalized_title": "millisecond scale neural operator surrogates for double null free boundary grad shafranov equilibria"
   }
 ]
