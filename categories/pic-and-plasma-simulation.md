@@ -2,11 +2,13 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：101 篇
-- 索引更新时间：2026-08-10
+- 当前收录：103 篇
+- 索引更新时间：2026-08-11
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-11 | [Validation of hybrid-PIC Simulations for Advanced Beam-Driven FRC Modeling](../papers/10-1088-1741-4326-ae96c0/README.md) | Nuclear Fusion | [笔记](../daily/2026-08-11/notes/Groenewald et al. - 2026 - Hybrid PIC WarpX FRC validation.md) |
+| 2026-08-11 | [Effect of nonuniform density structure on burn-up ratio of multi-shock-compressed DT fuel in fast ignition](../papers/10-1088-1741-4326-ae96c1/README.md) | Nuclear Fusion | [笔记](../daily/2026-08-11/notes/Johzaki et al. - 2026 - Multi shock DT fast ignition density structure.md) |
 | 2026-08-10 | [SafeDivertor: Faithful Divertor Heat Flux Reconstruction from Macroscopic Plasma State Signals via Time-Frequency Prior Exploitation](../papers/arxiv-2608-05669/README.md) | arXiv preprint | [笔记](../daily/2026-08-10/notes/Si et al. - 2026 - SafeDivertor heat flux reconstruction.md) |
 | 2026-08-10 | [Millisecond-Scale Neural Operator Surrogates for Double-Null Free-Boundary Grad-Shafranov Equilibria](../papers/arxiv-2608-05555/README.md) | arXiv preprint | [笔记](../daily/2026-08-10/notes/Krastev - 2026 - Neural operator Grad Shafranov equilibria.md) |
 | 2026-08-06 | [Development of Thomson parabola spectrometer for diagnostics of ions driven by ultrahigh intensity laser: Simulations and numerical analysis](../papers/arxiv-2608-03969/README.md) | arXiv preprint | [笔记](../daily/2026-08-06/notes/Mehta et al. - 2026 - Thomson parabola laser ion diagnostics.md) |

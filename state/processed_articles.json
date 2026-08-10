@@ -2875,5 +2875,27 @@
     "pdf_path": "daily/2026-08-10/pdfs/Krastev - 2026 - Neural operator Grad Shafranov equilibria.pdf",
     "note_path": "daily/2026-08-10/notes/Krastev - 2026 - Neural operator Grad Shafranov equilibria.md",
     "normalized_title": "millisecond scale neural operator surrogates for double null free boundary grad shafranov equilibria"
+  },
+  {
+    "title": "Validation of hybrid-PIC Simulations for Advanced Beam-Driven FRC Modeling",
+    "doi": "10.1088/1741-4326/ae96c0",
+    "journal": "Nuclear Fusion",
+    "publication_date": "2026-08-07",
+    "processed_date": "2026-08-11",
+    "source_url": "https://iopscience.iop.org/article/10.1088/1741-4326/ae96c0",
+    "pdf_path": "daily/2026-08-11/pdfs/Hybrid PIC FRC modeling.pdf",
+    "note_path": "daily/2026-08-11/notes/Groenewald et al. - 2026 - Hybrid PIC WarpX FRC validation.md",
+    "normalized_title": "validation of hybrid pic simulations for advanced beam driven frc modeling"
+  },
+  {
+    "title": "Effect of nonuniform density structure on burn-up ratio of multi-shock-compressed DT fuel in fast ignition",
+    "doi": "10.1088/1741-4326/ae96c1",
+    "journal": "Nuclear Fusion",
+    "publication_date": "2026-08-07",
+    "processed_date": "2026-08-11",
+    "source_url": "https://iopscience.iop.org/article/10.1088/1741-4326/ae96c1",
+    "pdf_path": "daily/2026-08-11/pdfs/Multi shock DT fast ignition.pdf",
+    "note_path": "daily/2026-08-11/notes/Johzaki et al. - 2026 - Multi shock DT fast ignition density structure.md",
+    "normalized_title": "effect of nonuniform density structure on burn up ratio of multi shock compressed dt fuel in fast ignition"
   }
 ]

@@ -2,11 +2,12 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：84 篇
-- 索引更新时间：2026-08-10
+- 当前收录：85 篇
+- 索引更新时间：2026-08-11
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-11 | [Validation of hybrid-PIC Simulations for Advanced Beam-Driven FRC Modeling](../papers/10-1088-1741-4326-ae96c0/README.md) | Nuclear Fusion | [笔记](../daily/2026-08-11/notes/Groenewald et al. - 2026 - Hybrid PIC WarpX FRC validation.md) |
 | 2026-08-09 | [Net electron spin rotation in a plane-wave pulse: Holonomy set by the anomalous magnetic moment](../papers/arxiv-2608-05698/README.md) | arXiv preprint | [笔记](../daily/2026-08-09/notes/Akintsov et al. - 2026 - Net electron spin rotation plane wave pulse.md) |
 | 2026-08-09 | [Building a Start-to-End Model of the CESR Injector Linac](../papers/arxiv-2608-05094/README.md) | arXiv preprint | [笔记](../daily/2026-08-09/notes/Goldman et al. - 2026 - CESR injector linac start to end model.md) |
 | 2026-08-07 | [A plasma photocathode for spin-polarized electron beams using excited hydrogen halides](../papers/arxiv-2608-04932/README.md) | arXiv preprint | [笔记](../daily/2026-08-07/notes/Reichwein et al. - 2026 - Plasma photocathode spin polarized electron beams.md) |

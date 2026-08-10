@@ -2,11 +2,13 @@
 
 HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。
 
-- 当前收录：74 篇
-- 索引更新时间：2026-08-10
+- 当前收录：76 篇
+- 索引更新时间：2026-08-11
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-11 | [Validation of hybrid-PIC Simulations for Advanced Beam-Driven FRC Modeling](../papers/10-1088-1741-4326-ae96c0/README.md) | Nuclear Fusion | [笔记](../daily/2026-08-11/notes/Groenewald et al. - 2026 - Hybrid PIC WarpX FRC validation.md) |
+| 2026-08-11 | [Effect of nonuniform density structure on burn-up ratio of multi-shock-compressed DT fuel in fast ignition](../papers/10-1088-1741-4326-ae96c1/README.md) | Nuclear Fusion | [笔记](../daily/2026-08-11/notes/Johzaki et al. - 2026 - Multi shock DT fast ignition density structure.md) |
 | 2026-08-10 | [SafeDivertor: Faithful Divertor Heat Flux Reconstruction from Macroscopic Plasma State Signals via Time-Frequency Prior Exploitation](../papers/arxiv-2608-05669/README.md) | arXiv preprint | [笔记](../daily/2026-08-10/notes/Si et al. - 2026 - SafeDivertor heat flux reconstruction.md) |
 | 2026-08-10 | [BORAY-3D: A ray tracing code for three-dimensional magnetized plasma configurations](../papers/arxiv-2608-05667/README.md) | arXiv preprint | [笔记](../daily/2026-08-10/notes/Wang et al. - 2026 - BORAY 3D ray tracing code.md) |
 | 2026-08-10 | [Millisecond-Scale Neural Operator Surrogates for Double-Null Free-Boundary Grad-Shafranov Equilibria](../papers/arxiv-2608-05555/README.md) | arXiv preprint | [笔记](../daily/2026-08-10/notes/Krastev - 2026 - Neural operator Grad Shafranov equilibria.md) |
