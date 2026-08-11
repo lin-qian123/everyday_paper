@@ -1,10 +1,12 @@
 # 论文总索引
 
-- 当前入库论文：263 篇
-- 索引更新时间：2026-08-11
+- 当前入库论文：265 篇
+- 索引更新时间：2026-08-12
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-08-12 | [Energy-optimized scaling laws for self-guided laser wakefield accelerators](./arxiv-2608-08903/README.md) | arXiv preprint | [10.48550/arXiv.2608.08903](https://doi.org/10.48550/arXiv.2608.08903) |
+| 2026-08-12 | [Terahertz-based longitudinal phase space diagnostics of laser wakefield accelerated electron beams](./arxiv-2608-08586/README.md) | arXiv preprint | [10.48550/arXiv.2608.08586](https://doi.org/10.48550/arXiv.2608.08586) |
 | 2026-08-11 | [Validation of hybrid-PIC Simulations for Advanced Beam-Driven FRC Modeling](./10-1088-1741-4326-ae96c0/README.md) | Nuclear Fusion | [10.1088/1741-4326/ae96c0](https://doi.org/10.1088/1741-4326/ae96c0) |
 | 2026-08-11 | [Effect of nonuniform density structure on burn-up ratio of multi-shock-compressed DT fuel in fast ignition](./10-1088-1741-4326-ae96c1/README.md) | Nuclear Fusion | [10.1088/1741-4326/ae96c1](https://doi.org/10.1088/1741-4326/ae96c1) |
 | 2026-08-10 | [SafeDivertor: Faithful Divertor Heat Flux Reconstruction from Macroscopic Plasma State Signals via Time-Frequency Prior Exploitation](./arxiv-2608-05669/README.md) | arXiv preprint | [10.48550/arXiv.2608.05669](https://doi.org/10.48550/arXiv.2608.05669) |

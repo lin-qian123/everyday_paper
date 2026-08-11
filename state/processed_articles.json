@@ -2897,5 +2897,27 @@
     "pdf_path": "daily/2026-08-11/pdfs/Multi shock DT fast ignition.pdf",
     "note_path": "daily/2026-08-11/notes/Johzaki et al. - 2026 - Multi shock DT fast ignition density structure.md",
     "normalized_title": "effect of nonuniform density structure on burn up ratio of multi shock compressed dt fuel in fast ignition"
+  },
+  {
+    "title": "Energy-optimized scaling laws for self-guided laser wakefield accelerators",
+    "doi": "10.48550/arXiv.2608.08903",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-09",
+    "processed_date": "2026-08-12",
+    "source_url": "https://arxiv.org/abs/2608.08903",
+    "pdf_path": "daily/2026-08-12/pdfs/Self guided LWFA energy scaling.pdf",
+    "note_path": "daily/2026-08-12/notes/Valenta et al. - 2026 - Self guided LWFA energy scaling.md",
+    "normalized_title": "energy optimized scaling laws for self guided laser wakefield accelerators"
+  },
+  {
+    "title": "Terahertz-based longitudinal phase space diagnostics of laser wakefield accelerated electron beams",
+    "doi": "10.48550/arXiv.2608.08586",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-09",
+    "processed_date": "2026-08-12",
+    "source_url": "https://arxiv.org/abs/2608.08586",
+    "pdf_path": "daily/2026-08-12/pdfs/THz LWFA longitudinal diagnostics.pdf",
+    "note_path": "daily/2026-08-12/notes/Chen et al. - 2026 - THz LWFA longitudinal diagnostics.md",
+    "normalized_title": "terahertz based longitudinal phase space diagnostics of laser wakefield accelerated electron beams"
   }
 ]
