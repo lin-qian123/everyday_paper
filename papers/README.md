@@ -1,10 +1,12 @@
 # 论文总索引
 
-- 当前入库论文：265 篇
-- 索引更新时间：2026-08-12
+- 当前入库论文：267 篇
+- 索引更新时间：2026-08-13
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-08-13 | [High-energy electron-positron beam collisions with large-angle disruptions](./arxiv-2608-10988/README.md) | arXiv preprint | [10.48550/arXiv.2608.10988](https://doi.org/10.48550/arXiv.2608.10988) |
+| 2026-08-13 | [Machine-learning surrogate models for nonlinear energetic-particle transport predictions in ITER](./arxiv-2608-11058/README.md) | arXiv preprint | [10.48550/arXiv.2608.11058](https://doi.org/10.48550/arXiv.2608.11058) |
 | 2026-08-12 | [Energy-optimized scaling laws for self-guided laser wakefield accelerators](./arxiv-2608-08903/README.md) | arXiv preprint | [10.48550/arXiv.2608.08903](https://doi.org/10.48550/arXiv.2608.08903) |
 | 2026-08-12 | [Terahertz-based longitudinal phase space diagnostics of laser wakefield accelerated electron beams](./arxiv-2608-08586/README.md) | arXiv preprint | [10.48550/arXiv.2608.08586](https://doi.org/10.48550/arXiv.2608.08586) |
 | 2026-08-11 | [Validation of hybrid-PIC Simulations for Advanced Beam-Driven FRC Modeling](./10-1088-1741-4326-ae96c0/README.md) | Nuclear Fusion | [10.1088/1741-4326/ae96c0](https://doi.org/10.1088/1741-4326/ae96c0) |

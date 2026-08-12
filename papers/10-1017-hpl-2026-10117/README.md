@@ -2,7 +2,7 @@
 
 ## 基本信息
 
-- 分类：[强场 QED 与辐射反作用](../../categories/strong-field-qed-radiation.md)
+- 分类：[综合等离子体与交叉方法](../../categories/general-plasma-and-methods.md)
 - 期刊/平台：High Power Laser Science and Engineering（Accepted manuscript，官方已接收）
 - 发表日期：2026-02-16
 - 入库日期：2026-06-08

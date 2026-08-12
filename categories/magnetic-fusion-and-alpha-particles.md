@@ -2,11 +2,12 @@
 
 stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。
 
-- 当前收录：25 篇
-- 索引更新时间：2026-08-12
+- 当前收录：26 篇
+- 索引更新时间：2026-08-13
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-13 | [Machine-learning surrogate models for nonlinear energetic-particle transport predictions in ITER](../papers/arxiv-2608-11058/README.md) | arXiv preprint | [笔记](../daily/2026-08-13/notes/Ghai et al. - 2026 - ML ITER energetic particle transport.md) |
 | 2026-08-10 | [SafeDivertor: Faithful Divertor Heat Flux Reconstruction from Macroscopic Plasma State Signals via Time-Frequency Prior Exploitation](../papers/arxiv-2608-05669/README.md) | arXiv preprint | [笔记](../daily/2026-08-10/notes/Si et al. - 2026 - SafeDivertor heat flux reconstruction.md) |
 | 2026-08-10 | [BORAY-3D: A ray tracing code for three-dimensional magnetized plasma configurations](../papers/arxiv-2608-05667/README.md) | arXiv preprint | [笔记](../daily/2026-08-10/notes/Wang et al. - 2026 - BORAY 3D ray tracing code.md) |
 | 2026-08-10 | [Millisecond-Scale Neural Operator Surrogates for Double-Null Free-Boundary Grad-Shafranov Equilibria](../papers/arxiv-2608-05555/README.md) | arXiv preprint | [笔记](../daily/2026-08-10/notes/Krastev - 2026 - Neural operator Grad Shafranov equilibria.md) |

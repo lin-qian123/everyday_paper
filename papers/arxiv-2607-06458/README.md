@@ -2,7 +2,7 @@
 
 ## 基本信息
 
-- 分类：[激光等离子体与束流加速](../../categories/laser-plasma-acceleration.md), [激光加速电子/离子束应用](../../categories/laser-accelerated-beam-applications.md), [强场 QED 与辐射反作用](../../categories/strong-field-qed-radiation.md)
+- 分类：[激光等离子体与束流加速](../../categories/laser-plasma-acceleration.md), [激光加速电子/离子束应用](../../categories/laser-accelerated-beam-applications.md)
 - 期刊/平台：arXiv preprint
 - 发表日期：2026-07-07
 - 入库日期：2026-07-09

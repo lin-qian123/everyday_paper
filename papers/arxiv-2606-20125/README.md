@@ -2,7 +2,7 @@
 
 ## 基本信息
 
-- 分类：[强场 QED 与辐射反作用](../../categories/strong-field-qed-radiation.md), [高能量密度物理、ICF 与实验室天体](../../categories/hedp-icf-laboratory-astrophysics.md), [实验平台、靶设计与诊断](../../categories/experimental-platforms-diagnostics.md)
+- 分类：[高能量密度物理、ICF 与实验室天体](../../categories/hedp-icf-laboratory-astrophysics.md), [实验平台、靶设计与诊断](../../categories/experimental-platforms-diagnostics.md)
 - 期刊/平台：arXiv 预印本（高相关补充）
 - 发表日期：2026-06-18
 - 入库日期：2026-06-20

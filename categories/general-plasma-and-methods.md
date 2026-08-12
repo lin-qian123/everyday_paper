@@ -2,8 +2,8 @@
 
 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。
 
-- 当前收录：30 篇
-- 索引更新时间：2026-08-12
+- 当前收录：31 篇
+- 索引更新时间：2026-08-13
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
@@ -18,6 +18,7 @@
 | 2026-07-03 | [Plasma flow and equilibrium in the magnetic nozzle](../papers/10-1017-s0022377826101718/README.md) | Journal of Plasma Physics | [笔记](../daily/2026-07-03/notes/Andrei Smolyakov et al. - 2026 - Plasma flow and equilibrium in the magnetic nozzle.md) |
 | 2026-07-02 | [From Weibel seeds to dynamo beyond pair-plasmas](../papers/10-1017-s0022377826101780/README.md) | Journal of Plasma Physics | [笔记](../daily/2026-07-02/notes/Lise Hanebring et al. - 2026 - From Weibel seeds to dynamo beyond pair-plasmas.md) |
 | 2026-06-08 | [Plasma rotation driven by lasers with zero angular momentum](../papers/10-1017-s0022377825101062/README.md) | Journal of Plasma Physics（正式期刊，Open Access） | 未生成 |
+| 2026-06-08 | [Generation of X-ray Spatiotemporal Vortices via Nonlinear Thomson Scattering](../papers/10-1017-hpl-2026-10117/README.md) | High Power Laser Science and Engineering（Accepted manuscript，官方已接收） | 未生成 |
 | 2026-06-06 | [Multi-pulse and multi-angle ultrafast X-ray imaging driven by petawatt-class ultrafast laser pulses](../papers/10-1017-hpl-2026-10149/README.md) | High Power Laser Science and Engineering | 未生成 |
 | 2026-06-06 | [Ultrafast many-body dynamics of dense Rydberg gases and ultracold plasma](../papers/10-1038-s42005-026-02674-9/README.md) | Communications Physics（正式期刊） | 未生成 |
 | 2026-06-06 | [Efficiency-optimized relativistic plasma harmonics for extreme fields](../papers/10-1038-s41586-026-10400-2/README.md) | Nature（正式期刊） | 未生成 |

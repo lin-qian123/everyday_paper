@@ -72,7 +72,6 @@ CATEGORIES = [
             "strong-field",
             "pair production",
             "compton",
-            "nonlinear",
             "quantum",
             "gamma ray",
             "positron",
