@@ -2941,5 +2941,16 @@
     "pdf_path": "daily/2026-08-13/pdfs/ML ITER energetic particle transport.pdf",
     "note_path": "daily/2026-08-13/notes/Ghai et al. - 2026 - ML ITER energetic particle transport.md",
     "normalized_title": "machine learning surrogate models for nonlinear energetic particle transport predictions in iter"
+  },
+  {
+    "title": "Measurements of Laser-Driven Plasma Expansion into Hohlraum-Relevant Background Gas",
+    "doi": "10.48550/arXiv.2608.11664",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-12",
+    "processed_date": "2026-08-14",
+    "source_url": "https://arxiv.org/abs/2608.11664",
+    "pdf_path": "daily/2026-08-14/pdfs/Laser driven plasma expansion hohlraum gas.pdf",
+    "note_path": "daily/2026-08-14/notes/Hilsabeck et al. - 2026 - Laser driven plasma expansion hohlraum gas.md",
+    "normalized_title": "measurements of laser driven plasma expansion into hohlraum relevant background gas"
   }
 ]
