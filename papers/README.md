@@ -1,10 +1,11 @@
 # 论文总索引
 
-- 当前入库论文：268 篇
-- 索引更新时间：2026-08-14
+- 当前入库论文：269 篇
+- 索引更新时间：2026-08-15
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-08-15 | [Monoenergetic acceleration of charge-neutralized ion bunches to GeV-scale energies by the combination of a high-current electron beam and an ionization front](./arxiv-2608-12551/README.md) | arXiv preprint | [10.48550/arXiv.2608.12551](https://doi.org/10.48550/arXiv.2608.12551) |
 | 2026-08-14 | [Measurements of Laser-Driven Plasma Expansion into Hohlraum-Relevant Background Gas](./arxiv-2608-11664/README.md) | arXiv preprint | [10.48550/arXiv.2608.11664](https://doi.org/10.48550/arXiv.2608.11664) |
 | 2026-08-13 | [High-energy electron-positron beam collisions with large-angle disruptions](./arxiv-2608-10988/README.md) | arXiv preprint | [10.48550/arXiv.2608.10988](https://doi.org/10.48550/arXiv.2608.10988) |
 | 2026-08-13 | [Machine-learning surrogate models for nonlinear energetic-particle transport predictions in ITER](./arxiv-2608-11058/README.md) | arXiv preprint | [10.48550/arXiv.2608.11058](https://doi.org/10.48550/arXiv.2608.11058) |

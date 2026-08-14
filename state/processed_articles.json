@@ -2952,5 +2952,16 @@
     "pdf_path": "daily/2026-08-14/pdfs/Laser driven plasma expansion hohlraum gas.pdf",
     "note_path": "daily/2026-08-14/notes/Hilsabeck et al. - 2026 - Laser driven plasma expansion hohlraum gas.md",
     "normalized_title": "measurements of laser driven plasma expansion into hohlraum relevant background gas"
+  },
+  {
+    "title": "Monoenergetic acceleration of charge-neutralized ion bunches to GeV-scale energies by the combination of a high-current electron beam and an ionization front",
+    "doi": "10.48550/arXiv.2608.12551",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-12",
+    "processed_date": "2026-08-15",
+    "source_url": "https://arxiv.org/abs/2608.12551",
+    "pdf_path": "daily/2026-08-15/pdfs/Chen et al. - 2026 - Counter-propagating ionization front acceleration.pdf",
+    "note_path": "daily/2026-08-15/notes/Chen et al. - 2026 - Counter-propagating ionization front acceleration.md",
+    "normalized_title": "monoenergetic acceleration of charge neutralized ion bunches to gev scale energies by the combination of a high current electron beam and an ionization front"
   }
 ]

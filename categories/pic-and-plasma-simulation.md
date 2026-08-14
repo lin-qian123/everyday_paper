@@ -2,11 +2,12 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：105 篇
-- 索引更新时间：2026-08-14
+- 当前收录：106 篇
+- 索引更新时间：2026-08-15
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-15 | [Monoenergetic acceleration of charge-neutralized ion bunches to GeV-scale energies by the combination of a high-current electron beam and an ionization front](../papers/arxiv-2608-12551/README.md) | arXiv preprint | [笔记](../daily/2026-08-15/notes/Chen et al. - 2026 - Counter-propagating ionization front acceleration.md) |
 | 2026-08-13 | [High-energy electron-positron beam collisions with large-angle disruptions](../papers/arxiv-2608-10988/README.md) | arXiv preprint | [笔记](../daily/2026-08-13/notes/Zhang et al. - 2026 - Large angle electron positron disruptions.md) |
 | 2026-08-12 | [Energy-optimized scaling laws for self-guided laser wakefield accelerators](../papers/arxiv-2608-08903/README.md) | arXiv preprint | [笔记](../daily/2026-08-12/notes/Valenta et al. - 2026 - Self guided LWFA energy scaling.md) |
 | 2026-08-11 | [Validation of hybrid-PIC Simulations for Advanced Beam-Driven FRC Modeling](../papers/10-1088-1741-4326-ae96c0/README.md) | Nuclear Fusion | [笔记](../daily/2026-08-11/notes/Groenewald et al. - 2026 - Hybrid PIC WarpX FRC validation.md) |
