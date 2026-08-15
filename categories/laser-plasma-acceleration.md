@@ -2,11 +2,12 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：88 篇
-- 索引更新时间：2026-08-15
+- 当前收录：89 篇
+- 索引更新时间：2026-08-16
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-16 | [Reconstructive AI Spectroscopy of Charged Particle Beams](../papers/arxiv-2608-11628/README.md) | arXiv preprint | [笔记](../daily/2026-08-16/notes/Kozhevnikov et al. - 2026 - Reconstructive AI spectroscopy charged particle beams.md) |
 | 2026-08-15 | [Monoenergetic acceleration of charge-neutralized ion bunches to GeV-scale energies by the combination of a high-current electron beam and an ionization front](../papers/arxiv-2608-12551/README.md) | arXiv preprint | [笔记](../daily/2026-08-15/notes/Chen et al. - 2026 - Counter-propagating ionization front acceleration.md) |
 | 2026-08-12 | [Energy-optimized scaling laws for self-guided laser wakefield accelerators](../papers/arxiv-2608-08903/README.md) | arXiv preprint | [笔记](../daily/2026-08-12/notes/Valenta et al. - 2026 - Self guided LWFA energy scaling.md) |
 | 2026-08-12 | [Terahertz-based longitudinal phase space diagnostics of laser wakefield accelerated electron beams](../papers/arxiv-2608-08586/README.md) | arXiv preprint | [笔记](../daily/2026-08-12/notes/Chen et al. - 2026 - THz LWFA longitudinal diagnostics.md) |

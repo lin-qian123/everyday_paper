@@ -2963,5 +2963,16 @@
     "pdf_path": "daily/2026-08-15/pdfs/Chen et al. - 2026 - Counter-propagating ionization front acceleration.pdf",
     "note_path": "daily/2026-08-15/notes/Chen et al. - 2026 - Counter-propagating ionization front acceleration.md",
     "normalized_title": "monoenergetic acceleration of charge neutralized ion bunches to gev scale energies by the combination of a high current electron beam and an ionization front"
+  },
+  {
+    "title": "Reconstructive AI Spectroscopy of Charged Particle Beams",
+    "doi": "10.48550/arXiv.2608.11628",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-12",
+    "processed_date": "2026-08-16",
+    "source_url": "https://arxiv.org/abs/2608.11628",
+    "pdf_path": "daily/2026-08-16/pdfs/Kozhevnikov et al. - 2026 - Reconstructive AI spectroscopy charged particle beams.pdf",
+    "note_path": "daily/2026-08-16/notes/Kozhevnikov et al. - 2026 - Reconstructive AI spectroscopy charged particle beams.md",
+    "normalized_title": "reconstructive ai spectroscopy of charged particle beams"
   }
 ]

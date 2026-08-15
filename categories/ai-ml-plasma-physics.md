@@ -2,11 +2,12 @@
 
 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。
 
-- 当前收录：38 篇
-- 索引更新时间：2026-08-15
+- 当前收录：39 篇
+- 索引更新时间：2026-08-16
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-16 | [Reconstructive AI Spectroscopy of Charged Particle Beams](../papers/arxiv-2608-11628/README.md) | arXiv preprint | [笔记](../daily/2026-08-16/notes/Kozhevnikov et al. - 2026 - Reconstructive AI spectroscopy charged particle beams.md) |
 | 2026-08-13 | [Machine-learning surrogate models for nonlinear energetic-particle transport predictions in ITER](../papers/arxiv-2608-11058/README.md) | arXiv preprint | [笔记](../daily/2026-08-13/notes/Ghai et al. - 2026 - ML ITER energetic particle transport.md) |
 | 2026-08-12 | [Energy-optimized scaling laws for self-guided laser wakefield accelerators](../papers/arxiv-2608-08903/README.md) | arXiv preprint | [笔记](../daily/2026-08-12/notes/Valenta et al. - 2026 - Self guided LWFA energy scaling.md) |
 | 2026-08-10 | [SafeDivertor: Faithful Divertor Heat Flux Reconstruction from Macroscopic Plasma State Signals via Time-Frequency Prior Exploitation](../papers/arxiv-2608-05669/README.md) | arXiv preprint | [笔记](../daily/2026-08-10/notes/Si et al. - 2026 - SafeDivertor heat flux reconstruction.md) |
