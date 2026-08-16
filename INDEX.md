@@ -22,13 +22,14 @@
 | [PIC、动理学与数值模拟](./categories/pic-and-plasma-simulation.md) | 106 | PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。 |
 | [机器学习与等离子体物理](./categories/ai-ml-plasma-physics.md) | 39 | 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。 |
 | [磁约束聚变与 alpha 粒子](./categories/magnetic-fusion-and-alpha-particles.md) | 26 | stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。 |
-| [实验平台、靶设计与诊断](./categories/experimental-platforms-diagnostics.md) | 59 | 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。 |
+| [实验平台、靶设计与诊断](./categories/experimental-platforms-diagnostics.md) | 60 | 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。 |
 | [综合等离子体与交叉方法](./categories/general-plasma-and-methods.md) | 31 | 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。 |
 
 ## 最新入库
 
 | 入库日期 | 论文 | 分类 |
 | --- | --- | --- |
+| 2026-08-17 | [Ultrafast Tracking of the Spallation Layer in Bulk Gold, Aluminum, and Steel](./papers/arxiv-2608-13198/README.md) | 实验平台、靶设计与诊断 |
 | 2026-08-16 | [Reconstructive AI Spectroscopy of Charged Particle Beams](./papers/arxiv-2608-11628/README.md) | 激光等离子体与束流加速、机器学习与等离子体物理、实验平台、靶设计与诊断 |
 | 2026-08-15 | [Monoenergetic acceleration of charge-neutralized ion bunches to GeV-scale energies by the combination of a high-current electron beam and an ionization front](./papers/arxiv-2608-12551/README.md) | 激光等离子体与束流加速、PIC、动理学与数值模拟 |
 | 2026-08-14 | [Measurements of Laser-Driven Plasma Expansion into Hohlraum-Relevant Background Gas](./papers/arxiv-2608-11664/README.md) | 激光加速电子/离子束应用、高能量密度物理、ICF 与实验室天体 |
@@ -40,6 +41,5 @@
 | 2026-08-11 | [Effect of nonuniform density structure on burn-up ratio of multi-shock-compressed DT fuel in fast ignition](./papers/10-1088-1741-4326-ae96c1/README.md) | 高能量密度物理、ICF 与实验室天体、PIC、动理学与数值模拟 |
 | 2026-08-10 | [SafeDivertor: Faithful Divertor Heat Flux Reconstruction from Macroscopic Plasma State Signals via Time-Frequency Prior Exploitation](./papers/arxiv-2608-05669/README.md) | 高能量密度物理、ICF 与实验室天体、PIC、动理学与数值模拟、机器学习与等离子体物理、磁约束聚变与 alpha 粒子、实验平台、靶设计与诊断 |
 | 2026-08-10 | [BORAY-3D: A ray tracing code for three-dimensional magnetized plasma configurations](./papers/arxiv-2608-05667/README.md) | 高能量密度物理、ICF 与实验室天体、磁约束聚变与 alpha 粒子 |
-| 2026-08-10 | [Millisecond-Scale Neural Operator Surrogates for Double-Null Free-Boundary Grad-Shafranov Equilibria](./papers/arxiv-2608-05555/README.md) | 高能量密度物理、ICF 与实验室天体、PIC、动理学与数值模拟、机器学习与等离子体物理、磁约束聚变与 alpha 粒子 |
 
-_自动生成时间：2026-08-16_
+_自动生成时间：2026-08-17_

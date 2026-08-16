@@ -2974,5 +2974,16 @@
     "pdf_path": "daily/2026-08-16/pdfs/Kozhevnikov et al. - 2026 - Reconstructive AI spectroscopy charged particle beams.pdf",
     "note_path": "daily/2026-08-16/notes/Kozhevnikov et al. - 2026 - Reconstructive AI spectroscopy charged particle beams.md",
     "normalized_title": "reconstructive ai spectroscopy of charged particle beams"
+  },
+  {
+    "title": "Ultrafast Tracking of the Spallation Layer in Bulk Gold, Aluminum, and Steel",
+    "doi": "10.48550/arXiv.2608.13198",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-13",
+    "processed_date": "2026-08-17",
+    "source_url": "https://arxiv.org/abs/2608.13198",
+    "pdf_path": "daily/2026-08-17/pdfs/Thomae et al. - 2026 - Ultrafast tracking spallation layer metals.pdf",
+    "note_path": "daily/2026-08-17/notes/Thomae et al. - 2026 - Ultrafast tracking spallation layer metals.md",
+    "normalized_title": "ultrafast tracking of the spallation layer in bulk gold aluminum and steel"
   }
 ]
