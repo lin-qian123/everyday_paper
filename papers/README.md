@@ -1,10 +1,11 @@
 # 论文总索引
 
-- 当前入库论文：272 篇
-- 索引更新时间：2026-08-18
+- 当前入库论文：273 篇
+- 索引更新时间：2026-08-19
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-08-19 | [Microcoulomb-level electron beam and multi-Joule hard X-rays driven by a high-efficiency laser-plasma accelerator](./arxiv-2608-16459/README.md) | arXiv preprint | [10.48550/arXiv.2608.16459](https://doi.org/10.48550/arXiv.2608.16459) |
 | 2026-08-18 | [Limitations of post accelerating ion beams using the snowplow field in a near-critical density target](./arxiv-2608-14521/README.md) | arXiv preprint | [10.48550/arXiv.2608.14521](https://doi.org/10.48550/arXiv.2608.14521) |
 | 2026-08-17 | [Ultrafast Tracking of the Spallation Layer in Bulk Gold, Aluminum, and Steel](./arxiv-2608-13198/README.md) | arXiv preprint | [10.48550/arXiv.2608.13198](https://doi.org/10.48550/arXiv.2608.13198) |
 | 2026-08-16 | [Reconstructive AI Spectroscopy of Charged Particle Beams](./arxiv-2608-11628/README.md) | arXiv preprint | [10.48550/arXiv.2608.11628](https://doi.org/10.48550/arXiv.2608.11628) |

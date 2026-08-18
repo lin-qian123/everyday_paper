@@ -2,11 +2,12 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：61 篇
-- 索引更新时间：2026-08-18
+- 当前收录：62 篇
+- 索引更新时间：2026-08-19
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-19 | [Microcoulomb-level electron beam and multi-Joule hard X-rays driven by a high-efficiency laser-plasma accelerator](../papers/arxiv-2608-16459/README.md) | arXiv preprint | [笔记](../daily/2026-08-19/notes/Mahieu et al. - 2026 - Microcoulomb electron beam hard X-rays.md) |
 | 2026-08-18 | [Limitations of post accelerating ion beams using the snowplow field in a near-critical density target](../papers/arxiv-2608-14521/README.md) | arXiv preprint | [笔记](../daily/2026-08-18/notes/Terzani et al. - 2026 - Limitations post accelerating ion beams snowplow.md) |
 | 2026-08-17 | [Ultrafast Tracking of the Spallation Layer in Bulk Gold, Aluminum, and Steel](../papers/arxiv-2608-13198/README.md) | arXiv preprint | [笔记](../daily/2026-08-17/notes/Thomae et al. - 2026 - Ultrafast tracking spallation layer metals.md) |
 | 2026-08-16 | [Reconstructive AI Spectroscopy of Charged Particle Beams](../papers/arxiv-2608-11628/README.md) | arXiv preprint | [笔记](../daily/2026-08-16/notes/Kozhevnikov et al. - 2026 - Reconstructive AI spectroscopy charged particle beams.md) |

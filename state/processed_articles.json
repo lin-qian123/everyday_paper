@@ -2996,5 +2996,16 @@
     "pdf_path": "daily/2026-08-18/pdfs/Terzani et al. - 2026 - Limitations post accelerating ion beams snowplow.pdf",
     "note_path": "daily/2026-08-18/notes/Terzani et al. - 2026 - Limitations post accelerating ion beams snowplow.md",
     "normalized_title": "limitations of post accelerating ion beams using the snowplow field in a near critical density target"
+  },
+  {
+    "title": "Microcoulomb-level electron beam and multi-Joule hard X-rays driven by a high-efficiency laser-plasma accelerator",
+    "doi": "10.48550/arXiv.2608.16459",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-17",
+    "processed_date": "2026-08-19",
+    "source_url": "https://arxiv.org/abs/2608.16459",
+    "pdf_path": "daily/2026-08-19/pdfs/LMJ PETAL microcoulomb electron beam hard X-rays.pdf",
+    "note_path": "daily/2026-08-19/notes/Mahieu et al. - 2026 - Microcoulomb electron beam hard X-rays.md",
+    "normalized_title": "microcoulomb level electron beam and multi joule hard x rays driven by a high efficiency laser plasma accelerator"
   }
 ]

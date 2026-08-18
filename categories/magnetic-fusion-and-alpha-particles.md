@@ -3,7 +3,7 @@
 stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。
 
 - 当前收录：26 篇
-- 索引更新时间：2026-08-18
+- 索引更新时间：2026-08-19
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
