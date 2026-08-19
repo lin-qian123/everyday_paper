@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：273 篇
-- 索引更新时间：2026-08-19
+- 当前入库论文：276 篇
+- 索引更新时间：2026-08-20
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-08-20 | [Field deployment of a laser wakefield accelerator for on-site application](./arxiv-2608-17554/README.md) | arXiv preprint | [10.48550/arXiv.2608.17554](https://doi.org/10.48550/arXiv.2608.17554) |
+| 2026-08-20 | [Tunable high-charge relativistic electron beams via direct laser acceleration in hohlraum-preheated foam targets](./arxiv-2608-17772/README.md) | arXiv preprint | [10.48550/arXiv.2608.17772](https://doi.org/10.48550/arXiv.2608.17772) |
+| 2026-08-20 | [Bayesian Optimization of Molybdenum-99 Production by Laser Wakefield Acceleration Using Coupled PIC and Monte Carlo Simulations](./arxiv-2608-17119/README.md) | arXiv preprint | [10.48550/arXiv.2608.17119](https://doi.org/10.48550/arXiv.2608.17119) |
 | 2026-08-19 | [Microcoulomb-level electron beam and multi-Joule hard X-rays driven by a high-efficiency laser-plasma accelerator](./arxiv-2608-16459/README.md) | arXiv preprint | [10.48550/arXiv.2608.16459](https://doi.org/10.48550/arXiv.2608.16459) |
 | 2026-08-18 | [Limitations of post accelerating ion beams using the snowplow field in a near-critical density target](./arxiv-2608-14521/README.md) | arXiv preprint | [10.48550/arXiv.2608.14521](https://doi.org/10.48550/arXiv.2608.14521) |
 | 2026-08-17 | [Ultrafast Tracking of the Spallation Layer in Bulk Gold, Aluminum, and Steel](./arxiv-2608-13198/README.md) | arXiv preprint | [10.48550/arXiv.2608.13198](https://doi.org/10.48550/arXiv.2608.13198) |

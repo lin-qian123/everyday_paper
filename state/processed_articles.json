@@ -3007,5 +3007,38 @@
     "pdf_path": "daily/2026-08-19/pdfs/LMJ PETAL microcoulomb electron beam hard X-rays.pdf",
     "note_path": "daily/2026-08-19/notes/Mahieu et al. - 2026 - Microcoulomb electron beam hard X-rays.md",
     "normalized_title": "microcoulomb level electron beam and multi joule hard x rays driven by a high efficiency laser plasma accelerator"
+  },
+  {
+    "title": "Field deployment of a laser wakefield accelerator for on-site application",
+    "doi": "10.48550/arXiv.2608.17554",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-18",
+    "processed_date": "2026-08-20",
+    "source_url": "https://arxiv.org/abs/2608.17554",
+    "pdf_path": "daily/2026-08-20/pdfs/Guo et al. - 2026 - Field deployment laser wakefield accelerator.pdf",
+    "note_path": "daily/2026-08-20/notes/Guo et al. - 2026 - Field deployment laser wakefield accelerator.md",
+    "normalized_title": "field deployment of a laser wakefield accelerator for on site application"
+  },
+  {
+    "title": "Bayesian Optimization of Molybdenum-99 Production by Laser Wakefield Acceleration Using Coupled PIC and Monte Carlo Simulations",
+    "doi": "10.48550/arXiv.2608.17119",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-17",
+    "processed_date": "2026-08-20",
+    "source_url": "https://arxiv.org/abs/2608.17119",
+    "pdf_path": "daily/2026-08-20/pdfs/Nunes et al. - 2026 - Mo-99 production laser wakefield.pdf",
+    "note_path": "daily/2026-08-20/notes/Nunes et al. - 2026 - Mo-99 production laser wakefield.md",
+    "normalized_title": "bayesian optimization of molybdenum 99 production by laser wakefield acceleration using coupled pic and monte carlo simulations"
+  },
+  {
+    "title": "Tunable high-charge relativistic electron beams via direct laser acceleration in hohlraum-preheated foam targets",
+    "doi": "10.48550/arXiv.2608.17772",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-18",
+    "processed_date": "2026-08-20",
+    "source_url": "https://arxiv.org/abs/2608.17772",
+    "pdf_path": "daily/2026-08-20/pdfs/Wang et al. - 2026 - Tunable high-charge DLA electron beams.pdf",
+    "note_path": "daily/2026-08-20/notes/Wang et al. - 2026 - Tunable high-charge DLA electron beams.md",
+    "normalized_title": "tunable high charge relativistic electron beams via direct laser acceleration in hohlraum preheated foam targets"
   }
 ]

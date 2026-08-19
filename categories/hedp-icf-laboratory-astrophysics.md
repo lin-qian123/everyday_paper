@@ -2,11 +2,12 @@
 
 HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。
 
-- 当前收录：78 篇
-- 索引更新时间：2026-08-19
+- 当前收录：79 篇
+- 索引更新时间：2026-08-20
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-20 | [Tunable high-charge relativistic electron beams via direct laser acceleration in hohlraum-preheated foam targets](../papers/arxiv-2608-17772/README.md) | arXiv preprint | [笔记](../daily/2026-08-20/notes/Wang et al. - 2026 - Tunable high-charge DLA electron beams.md) |
 | 2026-08-19 | [Microcoulomb-level electron beam and multi-Joule hard X-rays driven by a high-efficiency laser-plasma accelerator](../papers/arxiv-2608-16459/README.md) | arXiv preprint | [笔记](../daily/2026-08-19/notes/Mahieu et al. - 2026 - Microcoulomb electron beam hard X-rays.md) |
 | 2026-08-14 | [Measurements of Laser-Driven Plasma Expansion into Hohlraum-Relevant Background Gas](../papers/arxiv-2608-11664/README.md) | arXiv preprint | [笔记](../daily/2026-08-14/notes/Hilsabeck et al. - 2026 - Laser driven plasma expansion hohlraum gas.md) |
 | 2026-08-11 | [Validation of hybrid-PIC Simulations for Advanced Beam-Driven FRC Modeling](../papers/10-1088-1741-4326-ae96c0/README.md) | Nuclear Fusion | [笔记](../daily/2026-08-11/notes/Groenewald et al. - 2026 - Hybrid PIC WarpX FRC validation.md) |

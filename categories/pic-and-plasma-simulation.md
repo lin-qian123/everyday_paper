@@ -2,11 +2,13 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：108 篇
-- 索引更新时间：2026-08-19
+- 当前收录：110 篇
+- 索引更新时间：2026-08-20
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-20 | [Tunable high-charge relativistic electron beams via direct laser acceleration in hohlraum-preheated foam targets](../papers/arxiv-2608-17772/README.md) | arXiv preprint | [笔记](../daily/2026-08-20/notes/Wang et al. - 2026 - Tunable high-charge DLA electron beams.md) |
+| 2026-08-20 | [Bayesian Optimization of Molybdenum-99 Production by Laser Wakefield Acceleration Using Coupled PIC and Monte Carlo Simulations](../papers/arxiv-2608-17119/README.md) | arXiv preprint | [笔记](../daily/2026-08-20/notes/Nunes et al. - 2026 - Mo-99 production laser wakefield.md) |
 | 2026-08-19 | [Microcoulomb-level electron beam and multi-Joule hard X-rays driven by a high-efficiency laser-plasma accelerator](../papers/arxiv-2608-16459/README.md) | arXiv preprint | [笔记](../daily/2026-08-19/notes/Mahieu et al. - 2026 - Microcoulomb electron beam hard X-rays.md) |
 | 2026-08-18 | [Limitations of post accelerating ion beams using the snowplow field in a near-critical density target](../papers/arxiv-2608-14521/README.md) | arXiv preprint | [笔记](../daily/2026-08-18/notes/Terzani et al. - 2026 - Limitations post accelerating ion beams snowplow.md) |
 | 2026-08-15 | [Monoenergetic acceleration of charge-neutralized ion bunches to GeV-scale energies by the combination of a high-current electron beam and an ionization front](../papers/arxiv-2608-12551/README.md) | arXiv preprint | [笔记](../daily/2026-08-15/notes/Chen et al. - 2026 - Counter-propagating ionization front acceleration.md) |
