@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：276 篇
-- 索引更新时间：2026-08-20
+- 当前入库论文：279 篇
+- 索引更新时间：2026-08-21
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-08-21 | [Comparative study of nonperturbative electron-positron pair production by intense laser fields colliding with either bremsstrahlung gamma-rays or relativistic ions](./arxiv-2608-18718/README.md) | arXiv preprint | [10.48550/arXiv.2608.18718](https://doi.org/10.48550/arXiv.2608.18718) |
+| 2026-08-21 | [Bright dual-pulse betatron X-ray generation from a laser wakefield accelerator](./arxiv-2608-17555/README.md) | arXiv preprint | [10.48550/arXiv.2608.17555](https://doi.org/10.48550/arXiv.2608.17555) |
+| 2026-08-21 | [Relative and absolute dosimetric commissioning of the ELIMAIA--ELIMED laser-driven proton beamline at 23.45 MeV](./arxiv-2608-15272/README.md) | arXiv preprint | [10.48550/arXiv.2608.15272](https://doi.org/10.48550/arXiv.2608.15272) |
 | 2026-08-20 | [Field deployment of a laser wakefield accelerator for on-site application](./arxiv-2608-17554/README.md) | arXiv preprint | [10.48550/arXiv.2608.17554](https://doi.org/10.48550/arXiv.2608.17554) |
 | 2026-08-20 | [Tunable high-charge relativistic electron beams via direct laser acceleration in hohlraum-preheated foam targets](./arxiv-2608-17772/README.md) | arXiv preprint | [10.48550/arXiv.2608.17772](https://doi.org/10.48550/arXiv.2608.17772) |
 | 2026-08-20 | [Bayesian Optimization of Molybdenum-99 Production by Laser Wakefield Acceleration Using Coupled PIC and Monte Carlo Simulations](./arxiv-2608-17119/README.md) | arXiv preprint | [10.48550/arXiv.2608.17119](https://doi.org/10.48550/arXiv.2608.17119) |

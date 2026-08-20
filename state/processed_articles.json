@@ -3040,5 +3040,38 @@
     "pdf_path": "daily/2026-08-20/pdfs/Wang et al. - 2026 - Tunable high-charge DLA electron beams.pdf",
     "note_path": "daily/2026-08-20/notes/Wang et al. - 2026 - Tunable high-charge DLA electron beams.md",
     "normalized_title": "tunable high charge relativistic electron beams via direct laser acceleration in hohlraum preheated foam targets"
+  },
+  {
+    "title": "Bright dual-pulse betatron X-ray generation from a laser wakefield accelerator",
+    "doi": "10.48550/arXiv.2608.17555",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-18",
+    "processed_date": "2026-08-21",
+    "source_url": "https://arxiv.org/abs/2608.17555",
+    "pdf_path": "daily/2026-08-21/pdfs/Guo et al. - 2026 - Bright dual-pulse betatron X-rays.pdf",
+    "note_path": "daily/2026-08-21/notes/Guo et al. - 2026 - Bright dual-pulse betatron X-rays.md",
+    "normalized_title": "bright dual pulse betatron x ray generation from a laser wakefield accelerator"
+  },
+  {
+    "title": "Relative and absolute dosimetric commissioning of the ELIMAIA--ELIMED laser-driven proton beamline at 23.45 MeV",
+    "doi": "10.48550/arXiv.2608.15272",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-15",
+    "processed_date": "2026-08-21",
+    "source_url": "https://arxiv.org/abs/2608.15272",
+    "pdf_path": "daily/2026-08-21/pdfs/Cirrone et al. - 2026 - ELIMAIA ELIMED dosimetry.pdf",
+    "note_path": "daily/2026-08-21/notes/Cirrone et al. - 2026 - ELIMAIA ELIMED dosimetry.md",
+    "normalized_title": "relative and absolute dosimetric commissioning of the elimaia elimed laser driven proton beamline at 23 45 mev"
+  },
+  {
+    "title": "Comparative study of nonperturbative electron-positron pair production by intense laser fields colliding with either bremsstrahlung gamma-rays or relativistic ions",
+    "doi": "10.48550/arXiv.2608.18718",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-19",
+    "processed_date": "2026-08-21",
+    "source_url": "https://arxiv.org/abs/2608.18718",
+    "pdf_path": "daily/2026-08-21/pdfs/Remme et al. - 2026 - Nonperturbative pair production comparison.pdf",
+    "note_path": "daily/2026-08-21/notes/Remme et al. - 2026 - Nonperturbative pair production comparison.md",
+    "normalized_title": "comparative study of nonperturbative electron positron pair production by intense laser fields colliding with either bremsstrahlung gamma rays or relativistic ions"
   }
 ]

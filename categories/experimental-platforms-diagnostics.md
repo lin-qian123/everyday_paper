@@ -2,11 +2,13 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：64 篇
-- 索引更新时间：2026-08-20
+- 当前收录：66 篇
+- 索引更新时间：2026-08-21
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-21 | [Comparative study of nonperturbative electron-positron pair production by intense laser fields colliding with either bremsstrahlung gamma-rays or relativistic ions](../papers/arxiv-2608-18718/README.md) | arXiv preprint | [笔记](../daily/2026-08-21/notes/Remme et al. - 2026 - Nonperturbative pair production comparison.md) |
+| 2026-08-21 | [Relative and absolute dosimetric commissioning of the ELIMAIA--ELIMED laser-driven proton beamline at 23.45 MeV](../papers/arxiv-2608-15272/README.md) | arXiv preprint | [笔记](../daily/2026-08-21/notes/Cirrone et al. - 2026 - ELIMAIA ELIMED dosimetry.md) |
 | 2026-08-20 | [Field deployment of a laser wakefield accelerator for on-site application](../papers/arxiv-2608-17554/README.md) | arXiv preprint | [笔记](../daily/2026-08-20/notes/Guo et al. - 2026 - Field deployment laser wakefield accelerator.md) |
 | 2026-08-20 | [Tunable high-charge relativistic electron beams via direct laser acceleration in hohlraum-preheated foam targets](../papers/arxiv-2608-17772/README.md) | arXiv preprint | [笔记](../daily/2026-08-20/notes/Wang et al. - 2026 - Tunable high-charge DLA electron beams.md) |
 | 2026-08-19 | [Microcoulomb-level electron beam and multi-Joule hard X-rays driven by a high-efficiency laser-plasma accelerator](../papers/arxiv-2608-16459/README.md) | arXiv preprint | [笔记](../daily/2026-08-19/notes/Mahieu et al. - 2026 - Microcoulomb electron beam hard X-rays.md) |

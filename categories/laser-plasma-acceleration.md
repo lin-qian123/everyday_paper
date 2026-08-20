@@ -2,11 +2,12 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：94 篇
-- 索引更新时间：2026-08-20
+- 当前收录：95 篇
+- 索引更新时间：2026-08-21
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-21 | [Bright dual-pulse betatron X-ray generation from a laser wakefield accelerator](../papers/arxiv-2608-17555/README.md) | arXiv preprint | [笔记](../daily/2026-08-21/notes/Guo et al. - 2026 - Bright dual-pulse betatron X-rays.md) |
 | 2026-08-20 | [Field deployment of a laser wakefield accelerator for on-site application](../papers/arxiv-2608-17554/README.md) | arXiv preprint | [笔记](../daily/2026-08-20/notes/Guo et al. - 2026 - Field deployment laser wakefield accelerator.md) |
 | 2026-08-20 | [Tunable high-charge relativistic electron beams via direct laser acceleration in hohlraum-preheated foam targets](../papers/arxiv-2608-17772/README.md) | arXiv preprint | [笔记](../daily/2026-08-20/notes/Wang et al. - 2026 - Tunable high-charge DLA electron beams.md) |
 | 2026-08-20 | [Bayesian Optimization of Molybdenum-99 Production by Laser Wakefield Acceleration Using Coupled PIC and Monte Carlo Simulations](../papers/arxiv-2608-17119/README.md) | arXiv preprint | [笔记](../daily/2026-08-20/notes/Nunes et al. - 2026 - Mo-99 production laser wakefield.md) |
