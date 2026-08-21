@@ -2,11 +2,13 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：111 篇
-- 索引更新时间：2026-08-21
+- 当前收录：113 篇
+- 索引更新时间：2026-08-22
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-22 | [Excitation of the lower-hybrid drift instability in the outflow of electron-only magnetic reconnection](../papers/arxiv-2608-20299/README.md) | arXiv preprint | [笔记](../daily/2026-08-22/notes/Russell et al. - 2026 - Electron-only reconnection LHDI.md) |
+| 2026-08-22 | [Informing spectral models for dense plasmas with K-edge absorption measurements of warm dense copper](../papers/arxiv-2608-19382/README.md) | arXiv preprint | [笔记](../daily/2026-08-22/notes/Cordova et al. - 2026 - Warm dense copper K-edge.md) |
 | 2026-08-21 | [Bright dual-pulse betatron X-ray generation from a laser wakefield accelerator](../papers/arxiv-2608-17555/README.md) | arXiv preprint | [笔记](../daily/2026-08-21/notes/Guo et al. - 2026 - Bright dual-pulse betatron X-rays.md) |
 | 2026-08-20 | [Tunable high-charge relativistic electron beams via direct laser acceleration in hohlraum-preheated foam targets](../papers/arxiv-2608-17772/README.md) | arXiv preprint | [笔记](../daily/2026-08-20/notes/Wang et al. - 2026 - Tunable high-charge DLA electron beams.md) |
 | 2026-08-20 | [Bayesian Optimization of Molybdenum-99 Production by Laser Wakefield Acceleration Using Coupled PIC and Monte Carlo Simulations](../papers/arxiv-2608-17119/README.md) | arXiv preprint | [笔记](../daily/2026-08-20/notes/Nunes et al. - 2026 - Mo-99 production laser wakefield.md) |

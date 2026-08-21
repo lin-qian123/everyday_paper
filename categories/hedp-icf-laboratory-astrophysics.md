@@ -2,11 +2,12 @@
 
 HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。
 
-- 当前收录：80 篇
-- 索引更新时间：2026-08-21
+- 当前收录：81 篇
+- 索引更新时间：2026-08-22
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-22 | [Characterizing the temporal evolution of Biermann-battery-driven magnetic reconnection in laser-ablated plasmas](../papers/arxiv-2608-19591/README.md) | arXiv preprint | [笔记](../daily/2026-08-22/notes/Morita et al. - 2026 - Laser-ablated reconnection evolution.md) |
 | 2026-08-21 | [Bright dual-pulse betatron X-ray generation from a laser wakefield accelerator](../papers/arxiv-2608-17555/README.md) | arXiv preprint | [笔记](../daily/2026-08-21/notes/Guo et al. - 2026 - Bright dual-pulse betatron X-rays.md) |
 | 2026-08-20 | [Tunable high-charge relativistic electron beams via direct laser acceleration in hohlraum-preheated foam targets](../papers/arxiv-2608-17772/README.md) | arXiv preprint | [笔记](../daily/2026-08-20/notes/Wang et al. - 2026 - Tunable high-charge DLA electron beams.md) |
 | 2026-08-19 | [Microcoulomb-level electron beam and multi-Joule hard X-rays driven by a high-efficiency laser-plasma accelerator](../papers/arxiv-2608-16459/README.md) | arXiv preprint | [笔记](../daily/2026-08-19/notes/Mahieu et al. - 2026 - Microcoulomb electron beam hard X-rays.md) |

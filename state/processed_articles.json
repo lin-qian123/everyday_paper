@@ -3073,5 +3073,38 @@
     "pdf_path": "daily/2026-08-21/pdfs/Remme et al. - 2026 - Nonperturbative pair production comparison.pdf",
     "note_path": "daily/2026-08-21/notes/Remme et al. - 2026 - Nonperturbative pair production comparison.md",
     "normalized_title": "comparative study of nonperturbative electron positron pair production by intense laser fields colliding with either bremsstrahlung gamma rays or relativistic ions"
+  },
+  {
+    "title": "Excitation of the lower-hybrid drift instability in the outflow of electron-only magnetic reconnection",
+    "doi": "10.48550/arXiv.2608.20299",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-20",
+    "processed_date": "2026-08-22",
+    "source_url": "https://arxiv.org/abs/2608.20299",
+    "pdf_path": "daily/2026-08-22/pdfs/Russell et al. - 2026 - Electron-only reconnection LHDI.pdf",
+    "note_path": "daily/2026-08-22/notes/Russell et al. - 2026 - Electron-only reconnection LHDI.md",
+    "normalized_title": "excitation of the lower hybrid drift instability in the outflow of electron only magnetic reconnection"
+  },
+  {
+    "title": "Characterizing the temporal evolution of Biermann-battery-driven magnetic reconnection in laser-ablated plasmas",
+    "doi": "10.48550/arXiv.2608.19591",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-20",
+    "processed_date": "2026-08-22",
+    "source_url": "https://arxiv.org/abs/2608.19591",
+    "pdf_path": "daily/2026-08-22/pdfs/Morita et al. - 2026 - Laser-ablated reconnection evolution.pdf",
+    "note_path": "daily/2026-08-22/notes/Morita et al. - 2026 - Laser-ablated reconnection evolution.md",
+    "normalized_title": "characterizing the temporal evolution of biermann battery driven magnetic reconnection in laser ablated plasmas"
+  },
+  {
+    "title": "Informing spectral models for dense plasmas with K-edge absorption measurements of warm dense copper",
+    "doi": "10.48550/arXiv.2608.19382",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-19",
+    "processed_date": "2026-08-22",
+    "source_url": "https://arxiv.org/abs/2608.19382",
+    "pdf_path": "daily/2026-08-22/pdfs/Cordova et al. - 2026 - Warm dense copper K-edge.pdf",
+    "note_path": "daily/2026-08-22/notes/Cordova et al. - 2026 - Warm dense copper K-edge.md",
+    "normalized_title": "informing spectral models for dense plasmas with k edge absorption measurements of warm dense copper"
   }
 ]

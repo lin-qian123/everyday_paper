@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：279 篇
-- 索引更新时间：2026-08-21
+- 当前入库论文：282 篇
+- 索引更新时间：2026-08-22
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-08-22 | [Excitation of the lower-hybrid drift instability in the outflow of electron-only magnetic reconnection](./arxiv-2608-20299/README.md) | arXiv preprint | [10.48550/arXiv.2608.20299](https://doi.org/10.48550/arXiv.2608.20299) |
+| 2026-08-22 | [Characterizing the temporal evolution of Biermann-battery-driven magnetic reconnection in laser-ablated plasmas](./arxiv-2608-19591/README.md) | arXiv preprint | [10.48550/arXiv.2608.19591](https://doi.org/10.48550/arXiv.2608.19591) |
+| 2026-08-22 | [Informing spectral models for dense plasmas with K-edge absorption measurements of warm dense copper](./arxiv-2608-19382/README.md) | arXiv preprint | [10.48550/arXiv.2608.19382](https://doi.org/10.48550/arXiv.2608.19382) |
 | 2026-08-21 | [Comparative study of nonperturbative electron-positron pair production by intense laser fields colliding with either bremsstrahlung gamma-rays or relativistic ions](./arxiv-2608-18718/README.md) | arXiv preprint | [10.48550/arXiv.2608.18718](https://doi.org/10.48550/arXiv.2608.18718) |
 | 2026-08-21 | [Bright dual-pulse betatron X-ray generation from a laser wakefield accelerator](./arxiv-2608-17555/README.md) | arXiv preprint | [10.48550/arXiv.2608.17555](https://doi.org/10.48550/arXiv.2608.17555) |
 | 2026-08-21 | [Relative and absolute dosimetric commissioning of the ELIMAIA--ELIMED laser-driven proton beamline at 23.45 MeV](./arxiv-2608-15272/README.md) | arXiv preprint | [10.48550/arXiv.2608.15272](https://doi.org/10.48550/arXiv.2608.15272) |
