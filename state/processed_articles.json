@@ -3106,5 +3106,38 @@
     "pdf_path": "daily/2026-08-22/pdfs/Cordova et al. - 2026 - Warm dense copper K-edge.pdf",
     "note_path": "daily/2026-08-22/notes/Cordova et al. - 2026 - Warm dense copper K-edge.md",
     "normalized_title": "informing spectral models for dense plasmas with k edge absorption measurements of warm dense copper"
+  },
+  {
+    "title": "Wavefront shaping of terahertz radiation using two-color flying-focus pulses with time-dependent focal velocities",
+    "doi": "10.48550/arXiv.2608.20142",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-20",
+    "processed_date": "2026-08-23",
+    "source_url": "https://arxiv.org/abs/2608.20142",
+    "pdf_path": "daily/2026-08-23/pdfs/Elliott et al. - 2026 - Flying-focus terahertz wavefront shaping.pdf",
+    "note_path": "daily/2026-08-23/notes/Elliott et al. - 2026 - Flying-focus terahertz wavefront shaping.md",
+    "normalized_title": "wavefront shaping of terahertz radiation using two color flying focus pulses with time dependent focal velocities"
+  },
+  {
+    "title": "Exact hierarchical algorithms for accelerating particle--mesh coupling in sparse-grid particle-in-cell methods",
+    "doi": "10.48550/arXiv.2608.19702",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-20",
+    "processed_date": "2026-08-23",
+    "source_url": "https://arxiv.org/abs/2608.19702",
+    "pdf_path": "daily/2026-08-23/pdfs/Particle mesh coupling sparse-grid PIC.pdf",
+    "note_path": "daily/2026-08-23/notes/Guillet - 2026 - Exact hierarchical sparse-grid PIC coupling.md",
+    "normalized_title": "exact hierarchical algorithms for accelerating particle mesh coupling in sparse grid particle in cell methods"
+  },
+  {
+    "title": "Revisiting the Growth Rate of the Relativistic Tearing Instability: The Role of the Non-ideal MHD Structure",
+    "doi": "10.48550/arXiv.2608.19645",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-20",
+    "processed_date": "2026-08-23",
+    "source_url": "https://arxiv.org/abs/2608.19645",
+    "pdf_path": "daily/2026-08-23/pdfs/Sugimoto et al. - 2026 - Relativistic tearing growth rate.pdf",
+    "note_path": "daily/2026-08-23/notes/Sugimoto et al. - 2026 - Relativistic tearing growth rate.md",
+    "normalized_title": "revisiting the growth rate of the relativistic tearing instability the role of the non ideal mhd structure"
   }
 ]

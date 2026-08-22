@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：282 篇
-- 索引更新时间：2026-08-22
+- 当前入库论文：285 篇
+- 索引更新时间：2026-08-23
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-08-23 | [Wavefront shaping of terahertz radiation using two-color flying-focus pulses with time-dependent focal velocities](./arxiv-2608-20142/README.md) | arXiv preprint | [10.48550/arXiv.2608.20142](https://doi.org/10.48550/arXiv.2608.20142) |
+| 2026-08-23 | [Exact hierarchical algorithms for accelerating particle--mesh coupling in sparse-grid particle-in-cell methods](./arxiv-2608-19702/README.md) | arXiv preprint | [10.48550/arXiv.2608.19702](https://doi.org/10.48550/arXiv.2608.19702) |
+| 2026-08-23 | [Revisiting the Growth Rate of the Relativistic Tearing Instability: The Role of the Non-ideal MHD Structure](./arxiv-2608-19645/README.md) | arXiv preprint | [10.48550/arXiv.2608.19645](https://doi.org/10.48550/arXiv.2608.19645) |
 | 2026-08-22 | [Excitation of the lower-hybrid drift instability in the outflow of electron-only magnetic reconnection](./arxiv-2608-20299/README.md) | arXiv preprint | [10.48550/arXiv.2608.20299](https://doi.org/10.48550/arXiv.2608.20299) |
 | 2026-08-22 | [Characterizing the temporal evolution of Biermann-battery-driven magnetic reconnection in laser-ablated plasmas](./arxiv-2608-19591/README.md) | arXiv preprint | [10.48550/arXiv.2608.19591](https://doi.org/10.48550/arXiv.2608.19591) |
 | 2026-08-22 | [Informing spectral models for dense plasmas with K-edge absorption measurements of warm dense copper](./arxiv-2608-19382/README.md) | arXiv preprint | [10.48550/arXiv.2608.19382](https://doi.org/10.48550/arXiv.2608.19382) |

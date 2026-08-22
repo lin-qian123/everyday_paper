@@ -19,16 +19,19 @@
 | [激光加速电子/离子束应用](./categories/laser-accelerated-beam-applications.md) | 58 | 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。 |
 | [强场 QED 与辐射反作用](./categories/strong-field-qed-radiation.md) | 48 | 强场量子效应、辐射反作用、非线性 Compton、pair production 与极端场实验。 |
 | [高能量密度物理、ICF 与实验室天体](./categories/hedp-icf-laboratory-astrophysics.md) | 81 | HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。 |
-| [PIC、动理学与数值模拟](./categories/pic-and-plasma-simulation.md) | 113 | PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。 |
+| [PIC、动理学与数值模拟](./categories/pic-and-plasma-simulation.md) | 115 | PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。 |
 | [机器学习与等离子体物理](./categories/ai-ml-plasma-physics.md) | 40 | 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。 |
 | [磁约束聚变与 alpha 粒子](./categories/magnetic-fusion-and-alpha-particles.md) | 27 | stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。 |
 | [实验平台、靶设计与诊断](./categories/experimental-platforms-diagnostics.md) | 66 | 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。 |
-| [综合等离子体与交叉方法](./categories/general-plasma-and-methods.md) | 31 | 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。 |
+| [综合等离子体与交叉方法](./categories/general-plasma-and-methods.md) | 32 | 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。 |
 
 ## 最新入库
 
 | 入库日期 | 论文 | 分类 |
 | --- | --- | --- |
+| 2026-08-23 | [Wavefront shaping of terahertz radiation using two-color flying-focus pulses with time-dependent focal velocities](./papers/arxiv-2608-20142/README.md) | 综合等离子体与交叉方法 |
+| 2026-08-23 | [Exact hierarchical algorithms for accelerating particle--mesh coupling in sparse-grid particle-in-cell methods](./papers/arxiv-2608-19702/README.md) | PIC、动理学与数值模拟 |
+| 2026-08-23 | [Revisiting the Growth Rate of the Relativistic Tearing Instability: The Role of the Non-ideal MHD Structure](./papers/arxiv-2608-19645/README.md) | PIC、动理学与数值模拟 |
 | 2026-08-22 | [Excitation of the lower-hybrid drift instability in the outflow of electron-only magnetic reconnection](./papers/arxiv-2608-20299/README.md) | PIC、动理学与数值模拟、磁约束聚变与 alpha 粒子 |
 | 2026-08-22 | [Characterizing the temporal evolution of Biermann-battery-driven magnetic reconnection in laser-ablated plasmas](./papers/arxiv-2608-19591/README.md) | 高能量密度物理、ICF 与实验室天体 |
 | 2026-08-22 | [Informing spectral models for dense plasmas with K-edge absorption measurements of warm dense copper](./papers/arxiv-2608-19382/README.md) | PIC、动理学与数值模拟 |
@@ -38,8 +41,5 @@
 | 2026-08-20 | [Field deployment of a laser wakefield accelerator for on-site application](./papers/arxiv-2608-17554/README.md) | 激光等离子体与束流加速、激光加速电子/离子束应用、实验平台、靶设计与诊断 |
 | 2026-08-20 | [Tunable high-charge relativistic electron beams via direct laser acceleration in hohlraum-preheated foam targets](./papers/arxiv-2608-17772/README.md) | 激光等离子体与束流加速、激光加速电子/离子束应用、高能量密度物理、ICF 与实验室天体、PIC、动理学与数值模拟、实验平台、靶设计与诊断 |
 | 2026-08-20 | [Bayesian Optimization of Molybdenum-99 Production by Laser Wakefield Acceleration Using Coupled PIC and Monte Carlo Simulations](./papers/arxiv-2608-17119/README.md) | 激光等离子体与束流加速、激光加速电子/离子束应用、PIC、动理学与数值模拟、机器学习与等离子体物理 |
-| 2026-08-19 | [Microcoulomb-level electron beam and multi-Joule hard X-rays driven by a high-efficiency laser-plasma accelerator](./papers/arxiv-2608-16459/README.md) | 激光等离子体与束流加速、激光加速电子/离子束应用、高能量密度物理、ICF 与实验室天体、PIC、动理学与数值模拟、实验平台、靶设计与诊断 |
-| 2026-08-18 | [Limitations of post accelerating ion beams using the snowplow field in a near-critical density target](./papers/arxiv-2608-14521/README.md) | 激光等离子体与束流加速、激光加速电子/离子束应用、PIC、动理学与数值模拟、实验平台、靶设计与诊断 |
-| 2026-08-17 | [Ultrafast Tracking of the Spallation Layer in Bulk Gold, Aluminum, and Steel](./papers/arxiv-2608-13198/README.md) | 实验平台、靶设计与诊断 |
 
-_自动生成时间：2026-08-22_
+_自动生成时间：2026-08-23_
