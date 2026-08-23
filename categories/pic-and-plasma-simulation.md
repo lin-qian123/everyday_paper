@@ -2,11 +2,13 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：115 篇
-- 索引更新时间：2026-08-23
+- 当前收录：117 篇
+- 索引更新时间：2026-08-24
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-24 | [Electron energy gain in a dielectric laser accelerator as a function of the base angle of a triangular grating structure](../papers/arxiv-2608-20027/README.md) | arXiv preprint | [笔记](../daily/2026-08-24/notes/Svystunov et al. - 2026 - Dielectric laser accelerator triangular grating.md) |
+| 2026-08-24 | [Plasma dynamics near the magnetic X-point of the two-wire model: Theory and Simulation](../papers/arxiv-2608-18373/README.md) | arXiv preprint | [笔记](../daily/2026-08-24/notes/Ahn - 2026 - Two-wire X-point plasma dynamics.md) |
 | 2026-08-23 | [Exact hierarchical algorithms for accelerating particle--mesh coupling in sparse-grid particle-in-cell methods](../papers/arxiv-2608-19702/README.md) | arXiv preprint | [笔记](../daily/2026-08-23/notes/Guillet - 2026 - Exact hierarchical sparse-grid PIC coupling.md) |
 | 2026-08-23 | [Revisiting the Growth Rate of the Relativistic Tearing Instability: The Role of the Non-ideal MHD Structure](../papers/arxiv-2608-19645/README.md) | arXiv preprint | [笔记](../daily/2026-08-23/notes/Sugimoto et al. - 2026 - Relativistic tearing growth rate.md) |
 | 2026-08-22 | [Excitation of the lower-hybrid drift instability in the outflow of electron-only magnetic reconnection](../papers/arxiv-2608-20299/README.md) | arXiv preprint | [笔记](../daily/2026-08-22/notes/Russell et al. - 2026 - Electron-only reconnection LHDI.md) |

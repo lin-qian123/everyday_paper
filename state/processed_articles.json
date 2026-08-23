@@ -3139,5 +3139,38 @@
     "pdf_path": "daily/2026-08-23/pdfs/Sugimoto et al. - 2026 - Relativistic tearing growth rate.pdf",
     "note_path": "daily/2026-08-23/notes/Sugimoto et al. - 2026 - Relativistic tearing growth rate.md",
     "normalized_title": "revisiting the growth rate of the relativistic tearing instability the role of the non ideal mhd structure"
+  },
+  {
+    "title": "Electron energy gain in a dielectric laser accelerator as a function of the base angle of a triangular grating structure",
+    "doi": "10.48550/arXiv.2608.20027",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-20",
+    "processed_date": "2026-08-24",
+    "source_url": "https://arxiv.org/abs/2608.20027",
+    "pdf_path": "daily/2026-08-24/pdfs/Dielectric laser accelerator triangular grating.pdf",
+    "note_path": "daily/2026-08-24/notes/Svystunov et al. - 2026 - Dielectric laser accelerator triangular grating.md",
+    "normalized_title": "electron energy gain in a dielectric laser accelerator as a function of the base angle of a triangular grating structure"
+  },
+  {
+    "title": "Neural network predictions of plasma confinement loss in Wendelstein 7-X pellet-fueled discharges",
+    "doi": "10.48550/arXiv.2608.18325",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-18",
+    "processed_date": "2026-08-24",
+    "source_url": "https://arxiv.org/abs/2608.18325",
+    "pdf_path": "daily/2026-08-24/pdfs/W7-X neural confinement prediction.pdf",
+    "note_path": "daily/2026-08-24/notes/Hammond et al. - 2026 - W7-X neural confinement prediction.md",
+    "normalized_title": "neural network predictions of plasma confinement loss in wendelstein 7 x pellet fueled discharges"
+  },
+  {
+    "title": "Plasma dynamics near the magnetic X-point of the two-wire model: Theory and Simulation",
+    "doi": "10.48550/arXiv.2608.18373",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-18",
+    "processed_date": "2026-08-24",
+    "source_url": "https://arxiv.org/abs/2608.18373",
+    "pdf_path": "daily/2026-08-24/pdfs/Two-wire X-point plasma dynamics.pdf",
+    "note_path": "daily/2026-08-24/notes/Ahn - 2026 - Two-wire X-point plasma dynamics.md",
+    "normalized_title": "plasma dynamics near the magnetic x point of the two wire model theory and simulation"
   }
 ]

@@ -2,11 +2,12 @@
 
 stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。
 
-- 当前收录：27 篇
-- 索引更新时间：2026-08-23
+- 当前收录：28 篇
+- 索引更新时间：2026-08-24
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-24 | [Neural network predictions of plasma confinement loss in Wendelstein 7-X pellet-fueled discharges](../papers/arxiv-2608-18325/README.md) | arXiv preprint | [笔记](../daily/2026-08-24/notes/Hammond et al. - 2026 - W7-X neural confinement prediction.md) |
 | 2026-08-22 | [Excitation of the lower-hybrid drift instability in the outflow of electron-only magnetic reconnection](../papers/arxiv-2608-20299/README.md) | arXiv preprint | [笔记](../daily/2026-08-22/notes/Russell et al. - 2026 - Electron-only reconnection LHDI.md) |
 | 2026-08-13 | [Machine-learning surrogate models for nonlinear energetic-particle transport predictions in ITER](../papers/arxiv-2608-11058/README.md) | arXiv preprint | [笔记](../daily/2026-08-13/notes/Ghai et al. - 2026 - ML ITER energetic particle transport.md) |
 | 2026-08-10 | [SafeDivertor: Faithful Divertor Heat Flux Reconstruction from Macroscopic Plasma State Signals via Time-Frequency Prior Exploitation](../papers/arxiv-2608-05669/README.md) | arXiv preprint | [笔记](../daily/2026-08-10/notes/Si et al. - 2026 - SafeDivertor heat flux reconstruction.md) |

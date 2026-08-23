@@ -2,11 +2,12 @@
 
 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。
 
-- 当前收录：40 篇
-- 索引更新时间：2026-08-23
+- 当前收录：41 篇
+- 索引更新时间：2026-08-24
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-24 | [Neural network predictions of plasma confinement loss in Wendelstein 7-X pellet-fueled discharges](../papers/arxiv-2608-18325/README.md) | arXiv preprint | [笔记](../daily/2026-08-24/notes/Hammond et al. - 2026 - W7-X neural confinement prediction.md) |
 | 2026-08-20 | [Bayesian Optimization of Molybdenum-99 Production by Laser Wakefield Acceleration Using Coupled PIC and Monte Carlo Simulations](../papers/arxiv-2608-17119/README.md) | arXiv preprint | [笔记](../daily/2026-08-20/notes/Nunes et al. - 2026 - Mo-99 production laser wakefield.md) |
 | 2026-08-16 | [Reconstructive AI Spectroscopy of Charged Particle Beams](../papers/arxiv-2608-11628/README.md) | arXiv preprint | [笔记](../daily/2026-08-16/notes/Kozhevnikov et al. - 2026 - Reconstructive AI spectroscopy charged particle beams.md) |
 | 2026-08-13 | [Machine-learning surrogate models for nonlinear energetic-particle transport predictions in ITER](../papers/arxiv-2608-11058/README.md) | arXiv preprint | [笔记](../daily/2026-08-13/notes/Ghai et al. - 2026 - ML ITER energetic particle transport.md) |

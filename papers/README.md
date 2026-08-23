@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：285 篇
-- 索引更新时间：2026-08-23
+- 当前入库论文：288 篇
+- 索引更新时间：2026-08-24
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-08-24 | [Electron energy gain in a dielectric laser accelerator as a function of the base angle of a triangular grating structure](./arxiv-2608-20027/README.md) | arXiv preprint | [10.48550/arXiv.2608.20027](https://doi.org/10.48550/arXiv.2608.20027) |
+| 2026-08-24 | [Neural network predictions of plasma confinement loss in Wendelstein 7-X pellet-fueled discharges](./arxiv-2608-18325/README.md) | arXiv preprint | [10.48550/arXiv.2608.18325](https://doi.org/10.48550/arXiv.2608.18325) |
+| 2026-08-24 | [Plasma dynamics near the magnetic X-point of the two-wire model: Theory and Simulation](./arxiv-2608-18373/README.md) | arXiv preprint | [10.48550/arXiv.2608.18373](https://doi.org/10.48550/arXiv.2608.18373) |
 | 2026-08-23 | [Wavefront shaping of terahertz radiation using two-color flying-focus pulses with time-dependent focal velocities](./arxiv-2608-20142/README.md) | arXiv preprint | [10.48550/arXiv.2608.20142](https://doi.org/10.48550/arXiv.2608.20142) |
 | 2026-08-23 | [Exact hierarchical algorithms for accelerating particle--mesh coupling in sparse-grid particle-in-cell methods](./arxiv-2608-19702/README.md) | arXiv preprint | [10.48550/arXiv.2608.19702](https://doi.org/10.48550/arXiv.2608.19702) |
 | 2026-08-23 | [Revisiting the Growth Rate of the Relativistic Tearing Instability: The Role of the Non-ideal MHD Structure](./arxiv-2608-19645/README.md) | arXiv preprint | [10.48550/arXiv.2608.19645](https://doi.org/10.48550/arXiv.2608.19645) |
