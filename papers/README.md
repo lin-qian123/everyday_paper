@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：288 篇
-- 索引更新时间：2026-08-24
+- 当前入库论文：291 篇
+- 索引更新时间：2026-08-25
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-08-25 | [Gas Beam Dump and Power Meter for High Energy Lasers](./arxiv-2608-20645/README.md) | arXiv preprint | [10.48550/arXiv.2608.20645](https://doi.org/10.48550/arXiv.2608.20645) |
+| 2026-08-25 | [Flow-based surrogate models for particle tracking](./arxiv-2608-21080/README.md) | arXiv preprint | [10.48550/arXiv.2608.21080](https://doi.org/10.48550/arXiv.2608.21080) |
+| 2026-08-25 | [Control of Magnetic Reconnection in High Energy Density Plasmas](./arxiv-2608-17839/README.md) | arXiv preprint | [10.48550/arXiv.2608.17839](https://doi.org/10.48550/arXiv.2608.17839) |
 | 2026-08-24 | [Electron energy gain in a dielectric laser accelerator as a function of the base angle of a triangular grating structure](./arxiv-2608-20027/README.md) | arXiv preprint | [10.48550/arXiv.2608.20027](https://doi.org/10.48550/arXiv.2608.20027) |
 | 2026-08-24 | [Neural network predictions of plasma confinement loss in Wendelstein 7-X pellet-fueled discharges](./arxiv-2608-18325/README.md) | arXiv preprint | [10.48550/arXiv.2608.18325](https://doi.org/10.48550/arXiv.2608.18325) |
 | 2026-08-24 | [Plasma dynamics near the magnetic X-point of the two-wire model: Theory and Simulation](./arxiv-2608-18373/README.md) | arXiv preprint | [10.48550/arXiv.2608.18373](https://doi.org/10.48550/arXiv.2608.18373) |

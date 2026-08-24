@@ -3172,5 +3172,38 @@
     "pdf_path": "daily/2026-08-24/pdfs/Two-wire X-point plasma dynamics.pdf",
     "note_path": "daily/2026-08-24/notes/Ahn - 2026 - Two-wire X-point plasma dynamics.md",
     "normalized_title": "plasma dynamics near the magnetic x point of the two wire model theory and simulation"
+  },
+  {
+    "title": "Control of Magnetic Reconnection in High Energy Density Plasmas",
+    "doi": "10.48550/arXiv.2608.17839",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-18",
+    "processed_date": "2026-08-25",
+    "source_url": "https://arxiv.org/abs/2608.17839",
+    "pdf_path": "daily/2026-08-25/pdfs/HEDP magnetic reconnection control.pdf",
+    "note_path": "daily/2026-08-25/notes/Latham et al. - 2026 - HEDP magnetic reconnection control.md",
+    "normalized_title": "control of magnetic reconnection in high energy density plasmas"
+  },
+  {
+    "title": "Gas Beam Dump and Power Meter for High Energy Lasers",
+    "doi": "10.48550/arXiv.2608.20645",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-21",
+    "processed_date": "2026-08-25",
+    "source_url": "https://arxiv.org/abs/2608.20645",
+    "pdf_path": "daily/2026-08-25/pdfs/Gas beam dump high energy lasers.pdf",
+    "note_path": "daily/2026-08-25/notes/Rajesh et al. - 2026 - Gas beam dump power meter.md",
+    "normalized_title": "gas beam dump and power meter for high energy lasers"
+  },
+  {
+    "title": "Flow-based surrogate models for particle tracking",
+    "doi": "10.48550/arXiv.2608.21080",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-21",
+    "processed_date": "2026-08-25",
+    "source_url": "https://arxiv.org/abs/2608.21080",
+    "pdf_path": "daily/2026-08-25/pdfs/Flow surrogate particle tracking.pdf",
+    "note_path": "daily/2026-08-25/notes/Remta et al. - 2026 - Flow surrogate particle tracking.md",
+    "normalized_title": "flow based surrogate models for particle tracking"
   }
 ]
