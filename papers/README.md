@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：291 篇
-- 索引更新时间：2026-08-25
+- 当前入库论文：294 篇
+- 索引更新时间：2026-08-26
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-08-26 | [Helical jets driven by a ring of laser irradiation](./arxiv-2608-23466/README.md) | arXiv preprint | [10.48550/arXiv.2608.23466](https://doi.org/10.48550/arXiv.2608.23466) |
+| 2026-08-26 | [AI Surrogate Modeling for Real-Time Tokamak Equilibrium Prediction: Benchmarking Neural Architectures and Validation on EXL-50U](./arxiv-2608-23217/README.md) | arXiv preprint | [10.48550/arXiv.2608.23217](https://doi.org/10.48550/arXiv.2608.23217) |
+| 2026-08-26 | [Wavefront-Guided Electron Injection for Direct Laser Acceleration in Relativistic Laser-Driven Plasma Channel](./arxiv-2608-22211/README.md) | arXiv preprint | [10.48550/arXiv.2608.22211](https://doi.org/10.48550/arXiv.2608.22211) |
 | 2026-08-25 | [Gas Beam Dump and Power Meter for High Energy Lasers](./arxiv-2608-20645/README.md) | arXiv preprint | [10.48550/arXiv.2608.20645](https://doi.org/10.48550/arXiv.2608.20645) |
 | 2026-08-25 | [Flow-based surrogate models for particle tracking](./arxiv-2608-21080/README.md) | arXiv preprint | [10.48550/arXiv.2608.21080](https://doi.org/10.48550/arXiv.2608.21080) |
 | 2026-08-25 | [Control of Magnetic Reconnection in High Energy Density Plasmas](./arxiv-2608-17839/README.md) | arXiv preprint | [10.48550/arXiv.2608.17839](https://doi.org/10.48550/arXiv.2608.17839) |

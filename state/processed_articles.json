@@ -3205,5 +3205,38 @@
     "pdf_path": "daily/2026-08-25/pdfs/Flow surrogate particle tracking.pdf",
     "note_path": "daily/2026-08-25/notes/Remta et al. - 2026 - Flow surrogate particle tracking.md",
     "normalized_title": "flow based surrogate models for particle tracking"
+  },
+  {
+    "title": "Wavefront-Guided Electron Injection for Direct Laser Acceleration in Relativistic Laser-Driven Plasma Channel",
+    "doi": "10.48550/arXiv.2608.22211",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-23",
+    "processed_date": "2026-08-26",
+    "source_url": "https://arxiv.org/abs/2608.22211",
+    "pdf_path": "daily/2026-08-26/pdfs/Wavefront-guided DLA injection.pdf",
+    "note_path": "daily/2026-08-26/notes/Wang et al. - 2026 - Wavefront guided DLA injection.md",
+    "normalized_title": "wavefront guided electron injection for direct laser acceleration in relativistic laser driven plasma channel"
+  },
+  {
+    "title": "Helical jets driven by a ring of laser irradiation",
+    "doi": "10.48550/arXiv.2608.23466",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-24",
+    "processed_date": "2026-08-26",
+    "source_url": "https://arxiv.org/abs/2608.23466",
+    "pdf_path": "daily/2026-08-26/pdfs/Helical laser driven jets.pdf",
+    "note_path": "daily/2026-08-26/notes/Orr et al. - 2026 - Helical laser driven jets.md",
+    "normalized_title": "helical jets driven by a ring of laser irradiation"
+  },
+  {
+    "title": "AI Surrogate Modeling for Real-Time Tokamak Equilibrium Prediction: Benchmarking Neural Architectures and Validation on EXL-50U",
+    "doi": "10.48550/arXiv.2608.23217",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-24",
+    "processed_date": "2026-08-26",
+    "source_url": "https://arxiv.org/abs/2608.23217",
+    "pdf_path": "daily/2026-08-26/pdfs/AI tokamak equilibrium surrogate.pdf",
+    "note_path": "daily/2026-08-26/notes/Shi et al. - 2026 - AI tokamak equilibrium surrogate.md",
+    "normalized_title": "ai surrogate modeling for real time tokamak equilibrium prediction benchmarking neural architectures and validation on exl 50u"
   }
 ]

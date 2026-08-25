@@ -2,11 +2,12 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：96 篇
-- 索引更新时间：2026-08-25
+- 当前收录：97 篇
+- 索引更新时间：2026-08-26
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-26 | [Wavefront-Guided Electron Injection for Direct Laser Acceleration in Relativistic Laser-Driven Plasma Channel](../papers/arxiv-2608-22211/README.md) | arXiv preprint | [笔记](../daily/2026-08-26/notes/Wang et al. - 2026 - Wavefront guided DLA injection.md) |
 | 2026-08-24 | [Electron energy gain in a dielectric laser accelerator as a function of the base angle of a triangular grating structure](../papers/arxiv-2608-20027/README.md) | arXiv preprint | [笔记](../daily/2026-08-24/notes/Svystunov et al. - 2026 - Dielectric laser accelerator triangular grating.md) |
 | 2026-08-21 | [Bright dual-pulse betatron X-ray generation from a laser wakefield accelerator](../papers/arxiv-2608-17555/README.md) | arXiv preprint | [笔记](../daily/2026-08-21/notes/Guo et al. - 2026 - Bright dual-pulse betatron X-rays.md) |
 | 2026-08-20 | [Field deployment of a laser wakefield accelerator for on-site application](../papers/arxiv-2608-17554/README.md) | arXiv preprint | [笔记](../daily/2026-08-20/notes/Guo et al. - 2026 - Field deployment laser wakefield accelerator.md) |

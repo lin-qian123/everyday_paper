@@ -2,11 +2,12 @@
 
 stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。
 
-- 当前收录：28 篇
-- 索引更新时间：2026-08-25
+- 当前收录：29 篇
+- 索引更新时间：2026-08-26
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-26 | [AI Surrogate Modeling for Real-Time Tokamak Equilibrium Prediction: Benchmarking Neural Architectures and Validation on EXL-50U](../papers/arxiv-2608-23217/README.md) | arXiv preprint | [笔记](../daily/2026-08-26/notes/Shi et al. - 2026 - AI tokamak equilibrium surrogate.md) |
 | 2026-08-24 | [Neural network predictions of plasma confinement loss in Wendelstein 7-X pellet-fueled discharges](../papers/arxiv-2608-18325/README.md) | arXiv preprint | [笔记](../daily/2026-08-24/notes/Hammond et al. - 2026 - W7-X neural confinement prediction.md) |
 | 2026-08-22 | [Excitation of the lower-hybrid drift instability in the outflow of electron-only magnetic reconnection](../papers/arxiv-2608-20299/README.md) | arXiv preprint | [笔记](../daily/2026-08-22/notes/Russell et al. - 2026 - Electron-only reconnection LHDI.md) |
 | 2026-08-13 | [Machine-learning surrogate models for nonlinear energetic-particle transport predictions in ITER](../papers/arxiv-2608-11058/README.md) | arXiv preprint | [笔记](../daily/2026-08-13/notes/Ghai et al. - 2026 - ML ITER energetic particle transport.md) |

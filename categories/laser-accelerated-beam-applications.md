@@ -2,11 +2,12 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：58 篇
-- 索引更新时间：2026-08-25
+- 当前收录：59 篇
+- 索引更新时间：2026-08-26
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-26 | [Helical jets driven by a ring of laser irradiation](../papers/arxiv-2608-23466/README.md) | arXiv preprint | [笔记](../daily/2026-08-26/notes/Orr et al. - 2026 - Helical laser driven jets.md) |
 | 2026-08-21 | [Comparative study of nonperturbative electron-positron pair production by intense laser fields colliding with either bremsstrahlung gamma-rays or relativistic ions](../papers/arxiv-2608-18718/README.md) | arXiv preprint | [笔记](../daily/2026-08-21/notes/Remme et al. - 2026 - Nonperturbative pair production comparison.md) |
 | 2026-08-21 | [Relative and absolute dosimetric commissioning of the ELIMAIA--ELIMED laser-driven proton beamline at 23.45 MeV](../papers/arxiv-2608-15272/README.md) | arXiv preprint | [笔记](../daily/2026-08-21/notes/Cirrone et al. - 2026 - ELIMAIA ELIMED dosimetry.md) |
 | 2026-08-20 | [Field deployment of a laser wakefield accelerator for on-site application](../papers/arxiv-2608-17554/README.md) | arXiv preprint | [笔记](../daily/2026-08-20/notes/Guo et al. - 2026 - Field deployment laser wakefield accelerator.md) |
