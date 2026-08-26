@@ -1,10 +1,14 @@
 # 论文总索引
 
-- 当前入库论文：294 篇
-- 索引更新时间：2026-08-26
+- 当前入库论文：298 篇
+- 索引更新时间：2026-08-27
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-08-27 | [An Inverse Grad-Shafranov Neural Network Approach to Tokamak Magnetic Control](./arxiv-2608-23976/README.md) | arXiv preprint | [10.48550/arXiv.2608.23976](https://doi.org/10.48550/arXiv.2608.23976) |
+| 2026-08-27 | [Macroparticles with different weights relax to different temperatures in Particle-In-Cell simulations](./arxiv-2608-23894/README.md) | arXiv preprint | [10.48550/arXiv.2608.23894](https://doi.org/10.48550/arXiv.2608.23894) |
+| 2026-08-27 | [Stationary electron vortex states in a plasma bubble field](./arxiv-2608-22486/README.md) | arXiv preprint | [10.48550/arXiv.2608.22486](https://doi.org/10.48550/arXiv.2608.22486) |
+| 2026-08-27 | [Achieving High Efficiency And Enhanced Beam Quality In Laser Wakefield Acceleration](./10-1017-hpl-2026-10185/README.md) | High Power Laser Science and Engineering（Accepted manuscript，官方已接收） | [10.1017/hpl.2026.10185](https://doi.org/10.1017/hpl.2026.10185) |
 | 2026-08-26 | [Helical jets driven by a ring of laser irradiation](./arxiv-2608-23466/README.md) | arXiv preprint | [10.48550/arXiv.2608.23466](https://doi.org/10.48550/arXiv.2608.23466) |
 | 2026-08-26 | [AI Surrogate Modeling for Real-Time Tokamak Equilibrium Prediction: Benchmarking Neural Architectures and Validation on EXL-50U](./arxiv-2608-23217/README.md) | arXiv preprint | [10.48550/arXiv.2608.23217](https://doi.org/10.48550/arXiv.2608.23217) |
 | 2026-08-26 | [Wavefront-Guided Electron Injection for Direct Laser Acceleration in Relativistic Laser-Driven Plasma Channel](./arxiv-2608-22211/README.md) | arXiv preprint | [10.48550/arXiv.2608.22211](https://doi.org/10.48550/arXiv.2608.22211) |

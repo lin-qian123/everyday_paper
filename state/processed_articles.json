@@ -3238,5 +3238,49 @@
     "pdf_path": "daily/2026-08-26/pdfs/AI tokamak equilibrium surrogate.pdf",
     "note_path": "daily/2026-08-26/notes/Shi et al. - 2026 - AI tokamak equilibrium surrogate.md",
     "normalized_title": "ai surrogate modeling for real time tokamak equilibrium prediction benchmarking neural architectures and validation on exl 50u"
+  },
+  {
+    "title": "Achieving High Efficiency And Enhanced Beam Quality In Laser Wakefield Acceleration",
+    "doi": "10.1017/hpl.2026.10185",
+    "journal": "High Power Laser Science and Engineering（Accepted manuscript，官方已接收）",
+    "publication_date": "2026-08-06",
+    "processed_date": "2026-08-27",
+    "source_url": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/achieving-high-efficiency-and-enhanced-beam-quality-in-laser-wakefield-acceleration/C32439AFB51286D2F141A9CBE1BB202E",
+    "pdf_path": "daily/2026-08-27/pdfs/Achieving high efficiency and enhanced beam quality in LWFA.pdf",
+    "note_path": "daily/2026-08-27/notes/Wang et al. - 2026 - Achieving high efficiency and enhanced beam quality in LWFA.md",
+    "normalized_title": "achieving high efficiency and enhanced beam quality in laser wakefield acceleration"
+  },
+  {
+    "title": "Macroparticles with different weights relax to different temperatures in Particle-In-Cell simulations",
+    "doi": "10.48550/arXiv.2608.23894",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-24",
+    "processed_date": "2026-08-27",
+    "source_url": "https://arxiv.org/abs/2608.23894",
+    "pdf_path": "daily/2026-08-27/pdfs/Macroparticle weights in PIC.pdf",
+    "note_path": "daily/2026-08-27/notes/Lehe et al. - 2026 - Macroparticles with different weights relax to different temperatures.md",
+    "normalized_title": "macroparticles with different weights relax to different temperatures in particle in cell simulations"
+  },
+  {
+    "title": "Stationary electron vortex states in a plasma bubble field",
+    "doi": "10.48550/arXiv.2608.22486",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-23",
+    "processed_date": "2026-08-27",
+    "source_url": "https://arxiv.org/abs/2608.22486",
+    "pdf_path": "daily/2026-08-27/pdfs/Stationary electron vortex states.pdf",
+    "note_path": "daily/2026-08-27/notes/Huang et al. - 2026 - Stationary electron vortex states in a plasma bubble field.md",
+    "normalized_title": "stationary electron vortex states in a plasma bubble field"
+  },
+  {
+    "title": "An Inverse Grad-Shafranov Neural Network Approach to Tokamak Magnetic Control",
+    "doi": "10.48550/arXiv.2608.23976",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-25",
+    "processed_date": "2026-08-27",
+    "source_url": "https://arxiv.org/abs/2608.23976",
+    "pdf_path": "daily/2026-08-27/pdfs/Inverse Grad-Shafranov neural network.pdf",
+    "note_path": "daily/2026-08-27/notes/Wang et al. - 2026 - An Inverse Grad-Shafranov Neural Network Approach to Tokamak Magnetic Control.md",
+    "normalized_title": "an inverse grad shafranov neural network approach to tokamak magnetic control"
   }
 ]

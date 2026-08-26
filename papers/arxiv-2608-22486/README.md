@@ -1,0 +1,16 @@
+# Stationary electron vortex states in a plasma bubble field
+
+## 基本信息
+
+- 分类：[激光等离子体与束流加速](../../categories/laser-plasma-acceleration.md)
+- 期刊/平台：arXiv preprint
+- 发表日期：2026-08-23
+- 入库日期：2026-08-27
+- DOI：[10.48550/arXiv.2608.22486](https://doi.org/10.48550/arXiv.2608.22486)
+- 来源：[https://arxiv.org/abs/2608.22486](https://arxiv.org/abs/2608.22486)
+- 中文笔记：[打开笔记](../../daily/2026-08-27/notes/Huang et al. - 2026 - Stationary electron vortex states in a plasma bubble field.md)
+- 本地 PDF：[本地路径](../../daily/2026-08-27/pdfs/Stationary electron vortex states.pdf)
+
+## 索引说明
+
+本页由 `scripts/build_indexes.py` 根据 `state/processed_articles.json` 自动生成；正文解读以中文笔记为准。

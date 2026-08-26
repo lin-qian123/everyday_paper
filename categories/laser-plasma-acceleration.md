@@ -2,11 +2,13 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：97 篇
-- 索引更新时间：2026-08-26
+- 当前收录：99 篇
+- 索引更新时间：2026-08-27
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-27 | [Stationary electron vortex states in a plasma bubble field](../papers/arxiv-2608-22486/README.md) | arXiv preprint | [笔记](../daily/2026-08-27/notes/Huang et al. - 2026 - Stationary electron vortex states in a plasma bubble field.md) |
+| 2026-08-27 | [Achieving High Efficiency And Enhanced Beam Quality In Laser Wakefield Acceleration](../papers/10-1017-hpl-2026-10185/README.md) | High Power Laser Science and Engineering（Accepted manuscript，官方已接收） | [笔记](../daily/2026-08-27/notes/Wang et al. - 2026 - Achieving high efficiency and enhanced beam quality in LWFA.md) |
 | 2026-08-26 | [Wavefront-Guided Electron Injection for Direct Laser Acceleration in Relativistic Laser-Driven Plasma Channel](../papers/arxiv-2608-22211/README.md) | arXiv preprint | [笔记](../daily/2026-08-26/notes/Wang et al. - 2026 - Wavefront guided DLA injection.md) |
 | 2026-08-24 | [Electron energy gain in a dielectric laser accelerator as a function of the base angle of a triangular grating structure](../papers/arxiv-2608-20027/README.md) | arXiv preprint | [笔记](../daily/2026-08-24/notes/Svystunov et al. - 2026 - Dielectric laser accelerator triangular grating.md) |
 | 2026-08-21 | [Bright dual-pulse betatron X-ray generation from a laser wakefield accelerator](../papers/arxiv-2608-17555/README.md) | arXiv preprint | [笔记](../daily/2026-08-21/notes/Guo et al. - 2026 - Bright dual-pulse betatron X-rays.md) |

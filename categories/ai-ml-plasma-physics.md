@@ -2,11 +2,13 @@
 
 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。
 
-- 当前收录：43 篇
-- 索引更新时间：2026-08-26
+- 当前收录：45 篇
+- 索引更新时间：2026-08-27
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-27 | [An Inverse Grad-Shafranov Neural Network Approach to Tokamak Magnetic Control](../papers/arxiv-2608-23976/README.md) | arXiv preprint | [笔记](../daily/2026-08-27/notes/Wang et al. - 2026 - An Inverse Grad-Shafranov Neural Network Approach to Tokamak Magnetic Control.md) |
+| 2026-08-27 | [Achieving High Efficiency And Enhanced Beam Quality In Laser Wakefield Acceleration](../papers/10-1017-hpl-2026-10185/README.md) | High Power Laser Science and Engineering（Accepted manuscript，官方已接收） | [笔记](../daily/2026-08-27/notes/Wang et al. - 2026 - Achieving high efficiency and enhanced beam quality in LWFA.md) |
 | 2026-08-26 | [AI Surrogate Modeling for Real-Time Tokamak Equilibrium Prediction: Benchmarking Neural Architectures and Validation on EXL-50U](../papers/arxiv-2608-23217/README.md) | arXiv preprint | [笔记](../daily/2026-08-26/notes/Shi et al. - 2026 - AI tokamak equilibrium surrogate.md) |
 | 2026-08-25 | [Flow-based surrogate models for particle tracking](../papers/arxiv-2608-21080/README.md) | arXiv preprint | [笔记](../daily/2026-08-25/notes/Remta et al. - 2026 - Flow surrogate particle tracking.md) |
 | 2026-08-24 | [Neural network predictions of plasma confinement loss in Wendelstein 7-X pellet-fueled discharges](../papers/arxiv-2608-18325/README.md) | arXiv preprint | [笔记](../daily/2026-08-24/notes/Hammond et al. - 2026 - W7-X neural confinement prediction.md) |
