@@ -2,11 +2,13 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：99 篇
-- 索引更新时间：2026-08-27
+- 当前收录：101 篇
+- 索引更新时间：2026-08-28
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-28 | [High-charge collimated and energy-selected laser-driven MeV electron beams produced by magnetic selection](../papers/arxiv-2608-25020/README.md) | arXiv preprint | [笔记](../daily/2026-08-28/notes/Cohen et al. - 2026 - High-charge collimated laser-driven MeV electron beams.md) |
+| 2026-08-28 | [Enhancing 10 TeV γγ-collider luminosity through scattering-laser wavelength selection in the presence of prolific electron-positron pair production](../papers/arxiv-2608-25137/README.md) | arXiv preprint | [笔记](../daily/2026-08-28/notes/Bulanov et al. - 2026 - Enhancing 10 TeV gamma-gamma collider luminosity.md) |
 | 2026-08-27 | [Stationary electron vortex states in a plasma bubble field](../papers/arxiv-2608-22486/README.md) | arXiv preprint | [笔记](../daily/2026-08-27/notes/Huang et al. - 2026 - Stationary electron vortex states in a plasma bubble field.md) |
 | 2026-08-27 | [Achieving High Efficiency And Enhanced Beam Quality In Laser Wakefield Acceleration](../papers/10-1017-hpl-2026-10185/README.md) | High Power Laser Science and Engineering（Accepted manuscript，官方已接收） | [笔记](../daily/2026-08-27/notes/Wang et al. - 2026 - Achieving high efficiency and enhanced beam quality in LWFA.md) |
 | 2026-08-26 | [Wavefront-Guided Electron Injection for Direct Laser Acceleration in Relativistic Laser-Driven Plasma Channel](../papers/arxiv-2608-22211/README.md) | arXiv preprint | [笔记](../daily/2026-08-26/notes/Wang et al. - 2026 - Wavefront guided DLA injection.md) |

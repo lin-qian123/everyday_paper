@@ -15,3 +15,8 @@
 - 新项目启动时，先使用 Superpowers 的 brainstorming 流程梳理目标/约束/方案/风险，再开始实现。
 - 每次新增论文并更新 `state/processed_articles.json` 后，运行 `python scripts/build_indexes.py` 重建 `papers/`、`categories/`、`daily/README.md` 和根 `INDEX.md`。
 - 自动化成功完成后，默认提交并推送到远程 GitHub 仓库的 `origin/master`。
+
+## 当前维护状态
+
+- 截至 2026-08-28，日更已维护到 `daily/2026-08-28/`，论文台账为 301 条；当日新增内容和证据边界以 `README.md`、`TODO.md` 与当日索引为准。
+- 日更记录必须区分实验束流结果、光学/诊断验证、解析模型、PIC/Monte Carlo/CAIN 模拟和应用设想，不得把后四者升级为实验或总体性能结论。

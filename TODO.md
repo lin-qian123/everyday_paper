@@ -11,6 +11,8 @@
 
 ## 开发记录
 
+- 2026-08-28：完成 DOI、规范化标题、历史 daily 与重试队列去重；复查 Cambridge HPL 最新/accepted manuscripts，并用官方 arXiv Atom API 检索 `physics.plasm-ph`、`physics.acc-ph`、`physics.comp-ph`、`nucl-ex` 与 `physics.ins-det` 增量。新增 `10.48550/arXiv.2608.25020`、`10.48550/arXiv.2608.24387`、`10.48550/arXiv.2608.25137`，分别覆盖高电荷激光固体靶电子束磁选/准直、反向飞秒脉冲同步和含成对产生的 10 TeV γγ 对撞机设计。3 份官方 PDF 通过 `%PDF-`、7/8/32 页元数据、SHA-256 和文本提取校验，已写中文结构化笔记；台账从 298 增至 301，12 条来源限制重试项保持不变。只有第一篇给出电子束选择/准直实验；第二篇是衰减光束光学同步 proof-of-concept，第三篇是解析 + CAIN 模拟，均不得写成强场 QED 过程观测、转换靶核产额或已运行对撞机性能。
+
 - 2026-08-27：完成 DOI、规范化标题、历史 daily 与重试队列去重；复查 Cambridge HPL 最新/accepted manuscripts，并用 arXiv 官方 Atom API 检索 `physics.plasm-ph`、`physics.acc-ph`、`physics.comp-ph`、`nucl-ex` 与 `physics.ins-det` 增量。新增 Cambridge HPL accepted manuscript `10.1017/hpl.2026.10185` 和 arXiv `10.48550/arXiv.2608.23894`、`10.48550/arXiv.2608.22486`、`10.48550/arXiv.2608.23976`。4 份官方 PDF 通过 `%PDF-`、9/23/11/42 页元数据、SHA-256 和文本提取校验；台账从 294 增至 298，并生成中文结构化笔记。扩展应用方向本轮未发现更直接且可获取的激光束—转换靶—光核/中子增量；12 条来源限制重试项保持不变。需严格区分 accepted manuscript、arXiv、PIC/解析模型、TCV 实验和仿真适应能力。
 
 - 2026-08-25：完成 DOI、规范化标题、历史 daily 与主题内容去重；官方 arXiv 目标分类增量更新到 `2026-08-21`，未检出更强的可获取正式发表增量，故筛选并新增 `10.48550/arXiv.2608.17839`、`10.48550/arXiv.2608.20645`、`10.48550/arXiv.2608.21080`。三份官方 PDF 通过 `%PDF-`、23/5/19 页元数据、SHA-256 和文本提取校验，台账从 288 增至 291，12 条来源限制重试项保持不变。内容分别是短脉冲调控 HEDP 磁重联的实验与流体—PIC 解释、臭氧吸收型高能激光束流终端/能量计实验、以及 PS 粒子追踪的条件流代理；不得分别外推为聚变堆级闭环控制、PW 通用激光防护或 PIC/LWFA 端到端加速预测。

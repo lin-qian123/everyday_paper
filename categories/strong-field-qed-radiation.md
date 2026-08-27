@@ -2,11 +2,13 @@
 
 强场量子效应、辐射反作用、非线性 Compton、pair production 与极端场实验。
 
-- 当前收录：48 篇
-- 索引更新时间：2026-08-27
+- 当前收录：50 篇
+- 索引更新时间：2026-08-28
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-28 | [Spatio-Temporal Synchronization of Counter-Propagating Femtosecond Pulses](../papers/arxiv-2608-24387/README.md) | arXiv preprint | [笔记](../daily/2026-08-28/notes/Cohen et al. - 2026 - Spatio-temporal synchronization of counter-propagating femtosecond pulses.md) |
+| 2026-08-28 | [Enhancing 10 TeV γγ-collider luminosity through scattering-laser wavelength selection in the presence of prolific electron-positron pair production](../papers/arxiv-2608-25137/README.md) | arXiv preprint | [笔记](../daily/2026-08-28/notes/Bulanov et al. - 2026 - Enhancing 10 TeV gamma-gamma collider luminosity.md) |
 | 2026-08-21 | [Comparative study of nonperturbative electron-positron pair production by intense laser fields colliding with either bremsstrahlung gamma-rays or relativistic ions](../papers/arxiv-2608-18718/README.md) | arXiv preprint | [笔记](../daily/2026-08-21/notes/Remme et al. - 2026 - Nonperturbative pair production comparison.md) |
 | 2026-08-13 | [High-energy electron-positron beam collisions with large-angle disruptions](../papers/arxiv-2608-10988/README.md) | arXiv preprint | [笔记](../daily/2026-08-13/notes/Zhang et al. - 2026 - Large angle electron positron disruptions.md) |
 | 2026-08-09 | [Net electron spin rotation in a plane-wave pulse: Holonomy set by the anomalous magnetic moment](../papers/arxiv-2608-05698/README.md) | arXiv preprint | [笔记](../daily/2026-08-09/notes/Akintsov et al. - 2026 - Net electron spin rotation plane wave pulse.md) |

@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：298 篇
-- 索引更新时间：2026-08-27
+- 当前入库论文：301 篇
+- 索引更新时间：2026-08-28
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-08-28 | [High-charge collimated and energy-selected laser-driven MeV electron beams produced by magnetic selection](./arxiv-2608-25020/README.md) | arXiv preprint | [10.48550/arXiv.2608.25020](https://doi.org/10.48550/arXiv.2608.25020) |
+| 2026-08-28 | [Spatio-Temporal Synchronization of Counter-Propagating Femtosecond Pulses](./arxiv-2608-24387/README.md) | arXiv preprint | [10.48550/arXiv.2608.24387](https://doi.org/10.48550/arXiv.2608.24387) |
+| 2026-08-28 | [Enhancing 10 TeV γγ-collider luminosity through scattering-laser wavelength selection in the presence of prolific electron-positron pair production](./arxiv-2608-25137/README.md) | arXiv preprint | [10.48550/arXiv.2608.25137](https://doi.org/10.48550/arXiv.2608.25137) |
 | 2026-08-27 | [An Inverse Grad-Shafranov Neural Network Approach to Tokamak Magnetic Control](./arxiv-2608-23976/README.md) | arXiv preprint | [10.48550/arXiv.2608.23976](https://doi.org/10.48550/arXiv.2608.23976) |
 | 2026-08-27 | [Macroparticles with different weights relax to different temperatures in Particle-In-Cell simulations](./arxiv-2608-23894/README.md) | arXiv preprint | [10.48550/arXiv.2608.23894](https://doi.org/10.48550/arXiv.2608.23894) |
 | 2026-08-27 | [Stationary electron vortex states in a plasma bubble field](./arxiv-2608-22486/README.md) | arXiv preprint | [10.48550/arXiv.2608.22486](https://doi.org/10.48550/arXiv.2608.22486) |

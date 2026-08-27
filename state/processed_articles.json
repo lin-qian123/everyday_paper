@@ -3282,5 +3282,38 @@
     "pdf_path": "daily/2026-08-27/pdfs/Inverse Grad-Shafranov neural network.pdf",
     "note_path": "daily/2026-08-27/notes/Wang et al. - 2026 - An Inverse Grad-Shafranov Neural Network Approach to Tokamak Magnetic Control.md",
     "normalized_title": "an inverse grad shafranov neural network approach to tokamak magnetic control"
+  },
+  {
+    "title": "High-charge collimated and energy-selected laser-driven MeV electron beams produced by magnetic selection",
+    "doi": "10.48550/arXiv.2608.25020",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-25",
+    "processed_date": "2026-08-28",
+    "source_url": "https://arxiv.org/abs/2608.25020",
+    "pdf_path": "daily/2026-08-28/pdfs/High-charge collimated laser-driven MeV electron beams.pdf",
+    "note_path": "daily/2026-08-28/notes/Cohen et al. - 2026 - High-charge collimated laser-driven MeV electron beams.md",
+    "normalized_title": "high charge collimated and energy selected laser driven mev electron beams produced by magnetic selection"
+  },
+  {
+    "title": "Spatio-Temporal Synchronization of Counter-Propagating Femtosecond Pulses",
+    "doi": "10.48550/arXiv.2608.24387",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-25",
+    "processed_date": "2026-08-28",
+    "source_url": "https://arxiv.org/abs/2608.24387",
+    "pdf_path": "daily/2026-08-28/pdfs/Spatio-temporal synchronization of counter-propagating pulses.pdf",
+    "note_path": "daily/2026-08-28/notes/Cohen et al. - 2026 - Spatio-temporal synchronization of counter-propagating femtosecond pulses.md",
+    "normalized_title": "spatio temporal synchronization of counter propagating femtosecond pulses"
+  },
+  {
+    "title": "Enhancing 10 TeV γγ-collider luminosity through scattering-laser wavelength selection in the presence of prolific electron-positron pair production",
+    "doi": "10.48550/arXiv.2608.25137",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-25",
+    "processed_date": "2026-08-28",
+    "source_url": "https://arxiv.org/abs/2608.25137",
+    "pdf_path": "daily/2026-08-28/pdfs/Enhancing 10 TeV gamma-gamma collider luminosity.pdf",
+    "note_path": "daily/2026-08-28/notes/Bulanov et al. - 2026 - Enhancing 10 TeV gamma-gamma collider luminosity.md",
+    "normalized_title": "enhancing 10 tev gamma gamma collider luminosity through scattering laser wavelength selection in the presence of prolific electron positron pair production"
   }
 ]
