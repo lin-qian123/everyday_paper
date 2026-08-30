@@ -1,0 +1,58 @@
+{
+  "run_date": "2026-08-31",
+  "text_extraction": {
+    "method": "pdftotext -layout fallback",
+    "mineru_available": false,
+    "reason": "MINERU_TOKEN is not configured in the local environment"
+  },
+  "files": [
+    {
+      "arxiv_id": "2602.12765",
+      "pdf_path": "daily/2026-08-31/pdfs/Monzac et al. - 2026 - Ultra-low emittance kHz laser wakefield beams and electron diffraction.pdf",
+      "text_path": "daily/2026-08-31/pdfs/Monzac et al. - 2026 - Ultra-low emittance kHz laser wakefield beams and electron diffraction.txt",
+      "pages": 10,
+      "pdf_bytes": 1403857,
+      "text_bytes": 60625,
+      "sha256": "b4a9016fb47742a4ee1c9fd1c72871eb42ebc6be08004386bcaa9596791d5c88",
+      "pdf_magic": "%PDF-",
+      "file_type": "PDF document, version 1.7",
+      "text_nonempty": true
+    },
+    {
+      "arxiv_id": "2608.26216",
+      "pdf_path": "daily/2026-08-31/pdfs/Marshall et al. - 2026 - Real-time neural virtual circuits for MAST-U plasma shape control.pdf",
+      "text_path": "daily/2026-08-31/pdfs/Marshall et al. - 2026 - Real-time neural virtual circuits for MAST-U plasma shape control.txt",
+      "pages": 9,
+      "pdf_bytes": 1543304,
+      "text_bytes": 36717,
+      "sha256": "5f31c49dbf98c591734ba5f959edd4548f1a5d19c2f8df0eddcc4c78eb68bf9a",
+      "pdf_magic": "%PDF-",
+      "file_type": "PDF document, version 1.7",
+      "text_nonempty": true
+    },
+    {
+      "arxiv_id": "2608.26369",
+      "pdf_path": "daily/2026-08-31/pdfs/Cortes Garcia et al. - 2026 - CERN heavy-ion facility concept for electronics irradiation.pdf",
+      "text_path": "daily/2026-08-31/pdfs/Cortes Garcia et al. - 2026 - CERN heavy-ion facility concept for electronics irradiation.txt",
+      "pages": 97,
+      "pdf_bytes": 2607762,
+      "text_bytes": 182230,
+      "sha256": "0c27774cac78c9e2c4098221e27f4f5f64ffcda1280ee3fc1b53fc6f1a17d3ed",
+      "pdf_magic": "%PDF-",
+      "file_type": "PDF document, version 1.7",
+      "text_nonempty": true
+    },
+    {
+      "arxiv_id": "2608.26826",
+      "pdf_path": "daily/2026-08-31/pdfs/Chandratreya et al. - 2026 - Machine learning ROI segmentation for beam imaging diagnostics.pdf",
+      "text_path": "daily/2026-08-31/pdfs/Chandratreya et al. - 2026 - Machine learning ROI segmentation for beam imaging diagnostics.txt",
+      "pages": 12,
+      "pdf_bytes": 2051430,
+      "text_bytes": 32885,
+      "sha256": "dbd6b39945591b8b4f1ac8ea3d99746994e84dfcbfc88feaeeab630140155182",
+      "pdf_magic": "%PDF-",
+      "file_type": "PDF document, version 1.7",
+      "text_nonempty": true
+    }
+  ]
+}
