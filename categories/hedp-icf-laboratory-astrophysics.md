@@ -2,11 +2,12 @@
 
 HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。
 
-- 当前收录：82 篇
-- 索引更新时间：2026-08-28
+- 当前收录：83 篇
+- 索引更新时间：2026-08-31
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-31 | [Real-time virtual circuits for plasma shape control via neural network emulators: integration and testing in the MAST-U PCS](../papers/arxiv-2608-26216/README.md) | arXiv preprint | [笔记](../daily/2026-08-31/notes/Marshall et al. - 2026 - Real-time neural virtual circuits for MAST-U plasma shape control.md) |
 | 2026-08-25 | [Control of Magnetic Reconnection in High Energy Density Plasmas](../papers/arxiv-2608-17839/README.md) | arXiv preprint | [笔记](../daily/2026-08-25/notes/Latham et al. - 2026 - HEDP magnetic reconnection control.md) |
 | 2026-08-22 | [Characterizing the temporal evolution of Biermann-battery-driven magnetic reconnection in laser-ablated plasmas](../papers/arxiv-2608-19591/README.md) | arXiv preprint | [笔记](../daily/2026-08-22/notes/Morita et al. - 2026 - Laser-ablated reconnection evolution.md) |
 | 2026-08-21 | [Bright dual-pulse betatron X-ray generation from a laser wakefield accelerator](../papers/arxiv-2608-17555/README.md) | arXiv preprint | [笔记](../daily/2026-08-21/notes/Guo et al. - 2026 - Bright dual-pulse betatron X-rays.md) |

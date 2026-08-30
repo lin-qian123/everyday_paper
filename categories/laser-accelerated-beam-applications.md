@@ -2,11 +2,12 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：61 篇
-- 索引更新时间：2026-08-28
+- 当前收录：62 篇
+- 索引更新时间：2026-08-31
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-31 | [A European high-energy heavy-ion facility for electronics irradiation based at CERN: Concept Design Report](../papers/arxiv-2608-26369/README.md) | arXiv preprint / CERN Yellow Report concept design preprint | [笔记](../daily/2026-08-31/notes/Cortes Garcia et al. - 2026 - CERN heavy-ion facility concept for electronics irradiation.md) |
 | 2026-08-28 | [High-charge collimated and energy-selected laser-driven MeV electron beams produced by magnetic selection](../papers/arxiv-2608-25020/README.md) | arXiv preprint | [笔记](../daily/2026-08-28/notes/Cohen et al. - 2026 - High-charge collimated laser-driven MeV electron beams.md) |
 | 2026-08-28 | [Enhancing 10 TeV γγ-collider luminosity through scattering-laser wavelength selection in the presence of prolific electron-positron pair production](../papers/arxiv-2608-25137/README.md) | arXiv preprint | [笔记](../daily/2026-08-28/notes/Bulanov et al. - 2026 - Enhancing 10 TeV gamma-gamma collider luminosity.md) |
 | 2026-08-26 | [Helical jets driven by a ring of laser irradiation](../papers/arxiv-2608-23466/README.md) | arXiv preprint | [笔记](../daily/2026-08-26/notes/Orr et al. - 2026 - Helical laser driven jets.md) |

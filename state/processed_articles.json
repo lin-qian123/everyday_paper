@@ -3315,5 +3315,49 @@
     "pdf_path": "daily/2026-08-28/pdfs/Enhancing 10 TeV gamma-gamma collider luminosity.pdf",
     "note_path": "daily/2026-08-28/notes/Bulanov et al. - 2026 - Enhancing 10 TeV gamma-gamma collider luminosity.md",
     "normalized_title": "enhancing 10 tev gamma gamma collider luminosity through scattering laser wavelength selection in the presence of prolific electron positron pair production"
+  },
+  {
+    "title": "Demonstration of ultra-low emittance beams in a kHz laser wakefield accelerator and their application to electron diffraction",
+    "doi": "10.48550/arXiv.2602.12765",
+    "journal": "arXiv preprint v2",
+    "publication_date": "2026-08-27",
+    "processed_date": "2026-08-31",
+    "source_url": "https://arxiv.org/abs/2602.12765",
+    "pdf_path": "daily/2026-08-31/pdfs/Monzac et al. - 2026 - Ultra-low emittance kHz laser wakefield beams and electron diffraction.pdf",
+    "note_path": "daily/2026-08-31/notes/Monzac et al. - 2026 - Ultra-low emittance kHz laser wakefield beams and electron diffraction.md",
+    "normalized_title": "demonstration of ultra low emittance beams in a khz laser wakefield accelerator and their application to electron diffraction"
+  },
+  {
+    "title": "Real-time virtual circuits for plasma shape control via neural network emulators: integration and testing in the MAST-U PCS",
+    "doi": "10.48550/arXiv.2608.26216",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-26",
+    "processed_date": "2026-08-31",
+    "source_url": "https://arxiv.org/abs/2608.26216",
+    "pdf_path": "daily/2026-08-31/pdfs/Marshall et al. - 2026 - Real-time neural virtual circuits for MAST-U plasma shape control.pdf",
+    "note_path": "daily/2026-08-31/notes/Marshall et al. - 2026 - Real-time neural virtual circuits for MAST-U plasma shape control.md",
+    "normalized_title": "real time virtual circuits for plasma shape control via neural network emulators integration and testing in the mast u pcs"
+  },
+  {
+    "title": "A European high-energy heavy-ion facility for electronics irradiation based at CERN: Concept Design Report",
+    "doi": "10.48550/arXiv.2608.26369",
+    "journal": "arXiv preprint / CERN Yellow Report concept design preprint",
+    "publication_date": "2026-08-26",
+    "processed_date": "2026-08-31",
+    "source_url": "https://arxiv.org/abs/2608.26369",
+    "pdf_path": "daily/2026-08-31/pdfs/Cortes Garcia et al. - 2026 - CERN heavy-ion facility concept for electronics irradiation.pdf",
+    "note_path": "daily/2026-08-31/notes/Cortes Garcia et al. - 2026 - CERN heavy-ion facility concept for electronics irradiation.md",
+    "normalized_title": "a european high energy heavy ion facility for electronics irradiation based at cern concept design report"
+  },
+  {
+    "title": "Machine Learning Based ROI Segmentation for Beam Imaging Diagnostics at Accelerators",
+    "doi": "10.48550/arXiv.2608.26826",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-27",
+    "processed_date": "2026-08-31",
+    "source_url": "https://arxiv.org/abs/2608.26826",
+    "pdf_path": "daily/2026-08-31/pdfs/Chandratreya et al. - 2026 - Machine learning ROI segmentation for beam imaging diagnostics.pdf",
+    "note_path": "daily/2026-08-31/notes/Chandratreya et al. - 2026 - Machine learning ROI segmentation for beam imaging diagnostics.md",
+    "normalized_title": "machine learning based roi segmentation for beam imaging diagnostics at accelerators"
   }
 ]

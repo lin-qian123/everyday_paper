@@ -2,11 +2,13 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：68 篇
-- 索引更新时间：2026-08-28
+- 当前收录：70 篇
+- 索引更新时间：2026-08-31
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-31 | [Machine Learning Based ROI Segmentation for Beam Imaging Diagnostics at Accelerators](../papers/arxiv-2608-26826/README.md) | arXiv preprint | [笔记](../daily/2026-08-31/notes/Chandratreya et al. - 2026 - Machine learning ROI segmentation for beam imaging diagnostics.md) |
+| 2026-08-31 | [A European high-energy heavy-ion facility for electronics irradiation based at CERN: Concept Design Report](../papers/arxiv-2608-26369/README.md) | arXiv preprint / CERN Yellow Report concept design preprint | [笔记](../daily/2026-08-31/notes/Cortes Garcia et al. - 2026 - CERN heavy-ion facility concept for electronics irradiation.md) |
 | 2026-08-28 | [High-charge collimated and energy-selected laser-driven MeV electron beams produced by magnetic selection](../papers/arxiv-2608-25020/README.md) | arXiv preprint | [笔记](../daily/2026-08-28/notes/Cohen et al. - 2026 - High-charge collimated laser-driven MeV electron beams.md) |
 | 2026-08-28 | [Spatio-Temporal Synchronization of Counter-Propagating Femtosecond Pulses](../papers/arxiv-2608-24387/README.md) | arXiv preprint | [笔记](../daily/2026-08-28/notes/Cohen et al. - 2026 - Spatio-temporal synchronization of counter-propagating femtosecond pulses.md) |
 | 2026-08-21 | [Comparative study of nonperturbative electron-positron pair production by intense laser fields colliding with either bremsstrahlung gamma-rays or relativistic ions](../papers/arxiv-2608-18718/README.md) | arXiv preprint | [笔记](../daily/2026-08-21/notes/Remme et al. - 2026 - Nonperturbative pair production comparison.md) |

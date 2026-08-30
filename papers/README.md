@@ -1,10 +1,14 @@
 # 论文总索引
 
-- 当前入库论文：301 篇
-- 索引更新时间：2026-08-28
+- 当前入库论文：305 篇
+- 索引更新时间：2026-08-31
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-08-31 | [Demonstration of ultra-low emittance beams in a kHz laser wakefield accelerator and their application to electron diffraction](./arxiv-2602-12765/README.md) | arXiv preprint v2 | [10.48550/arXiv.2602.12765](https://doi.org/10.48550/arXiv.2602.12765) |
+| 2026-08-31 | [Machine Learning Based ROI Segmentation for Beam Imaging Diagnostics at Accelerators](./arxiv-2608-26826/README.md) | arXiv preprint | [10.48550/arXiv.2608.26826](https://doi.org/10.48550/arXiv.2608.26826) |
+| 2026-08-31 | [Real-time virtual circuits for plasma shape control via neural network emulators: integration and testing in the MAST-U PCS](./arxiv-2608-26216/README.md) | arXiv preprint | [10.48550/arXiv.2608.26216](https://doi.org/10.48550/arXiv.2608.26216) |
+| 2026-08-31 | [A European high-energy heavy-ion facility for electronics irradiation based at CERN: Concept Design Report](./arxiv-2608-26369/README.md) | arXiv preprint / CERN Yellow Report concept design preprint | [10.48550/arXiv.2608.26369](https://doi.org/10.48550/arXiv.2608.26369) |
 | 2026-08-28 | [High-charge collimated and energy-selected laser-driven MeV electron beams produced by magnetic selection](./arxiv-2608-25020/README.md) | arXiv preprint | [10.48550/arXiv.2608.25020](https://doi.org/10.48550/arXiv.2608.25020) |
 | 2026-08-28 | [Spatio-Temporal Synchronization of Counter-Propagating Femtosecond Pulses](./arxiv-2608-24387/README.md) | arXiv preprint | [10.48550/arXiv.2608.24387](https://doi.org/10.48550/arXiv.2608.24387) |
 | 2026-08-28 | [Enhancing 10 TeV γγ-collider luminosity through scattering-laser wavelength selection in the presence of prolific electron-positron pair production](./arxiv-2608-25137/README.md) | arXiv preprint | [10.48550/arXiv.2608.25137](https://doi.org/10.48550/arXiv.2608.25137) |

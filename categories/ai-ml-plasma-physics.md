@@ -2,11 +2,13 @@
 
 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。
 
-- 当前收录：45 篇
-- 索引更新时间：2026-08-28
+- 当前收录：47 篇
+- 索引更新时间：2026-08-31
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-08-31 | [Machine Learning Based ROI Segmentation for Beam Imaging Diagnostics at Accelerators](../papers/arxiv-2608-26826/README.md) | arXiv preprint | [笔记](../daily/2026-08-31/notes/Chandratreya et al. - 2026 - Machine learning ROI segmentation for beam imaging diagnostics.md) |
+| 2026-08-31 | [Real-time virtual circuits for plasma shape control via neural network emulators: integration and testing in the MAST-U PCS](../papers/arxiv-2608-26216/README.md) | arXiv preprint | [笔记](../daily/2026-08-31/notes/Marshall et al. - 2026 - Real-time neural virtual circuits for MAST-U plasma shape control.md) |
 | 2026-08-27 | [An Inverse Grad-Shafranov Neural Network Approach to Tokamak Magnetic Control](../papers/arxiv-2608-23976/README.md) | arXiv preprint | [笔记](../daily/2026-08-27/notes/Wang et al. - 2026 - An Inverse Grad-Shafranov Neural Network Approach to Tokamak Magnetic Control.md) |
 | 2026-08-27 | [Achieving High Efficiency And Enhanced Beam Quality In Laser Wakefield Acceleration](../papers/10-1017-hpl-2026-10185/README.md) | High Power Laser Science and Engineering（Accepted manuscript，官方已接收） | [笔记](../daily/2026-08-27/notes/Wang et al. - 2026 - Achieving high efficiency and enhanced beam quality in LWFA.md) |
 | 2026-08-26 | [AI Surrogate Modeling for Real-Time Tokamak Equilibrium Prediction: Benchmarking Neural Architectures and Validation on EXL-50U](../papers/arxiv-2608-23217/README.md) | arXiv preprint | [笔记](../daily/2026-08-26/notes/Shi et al. - 2026 - AI tokamak equilibrium surrogate.md) |
