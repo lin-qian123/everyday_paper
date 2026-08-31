@@ -11,6 +11,8 @@
 
 ## 开发记录
 
+- 2026-09-01：完成 DOI、规范化标题、历史 daily、重试队列和摘要语境去重；复查 Cambridge HPL 最新/accepted manuscripts，并检索官方 arXiv `physics.plasm-ph`、`physics.acc-ph`、`physics.comp-ph`、`nucl-ex`、`physics.ins-det` 及 `hep-ph` 强场 QED 定向增量。新增 `10.48550/arXiv.2608.26313`、`10.48550/arXiv.2608.28468`、`10.48550/arXiv.2608.27845`，分别覆盖 FF 增强 NBWPP 数值方案、MAST-U RTVC 首次主动实验部署和 MHW 湍流双向 RL 控制。3 份官方 PDF 通过 `%PDF-`、7/9/28 页元数据、SHA-256、非空 `pdftotext` 与 MinerU 转换；台账从 305 增至 308，12 条来源限制重试项不变。`2608.28301` 因与已入库 plasma-bubble vortex-electron 理论内容接近而跳过。严格区分 Monte Carlo、真实主动控制实验与二维简化模型，不得分别外推为已观测对产生、RTVC 全面优于传统 VC 或真实装置直接湍流控制。
+
 - 2026-08-31：完成 DOI、规范化标题、历史 daily 与重试队列去重；复查 Cambridge HPL 最新/accepted manuscripts，并检查官方 arXiv `physics.plasm-ph`、`physics.acc-ph`、`physics.comp-ph` 与 `nucl-ex` 最新列表。新增 `10.48550/arXiv.2602.12765` v2、`10.48550/arXiv.2608.26216`、`10.48550/arXiv.2608.26369`、`10.48550/arXiv.2608.26826`，分别覆盖 kHz LWFA 低发射度/UED 实验、MAST-U 实时神经虚拟电路、CERN 高能重离子电子辐照概念设计和 XFEL 束流图像 ROI 机器学习诊断。4 份官方 PDF 通过 `%PDF-`、`file`、`pdfinfo`、SHA-256 下载记录和文本提取校验；环境未配置 MinerU token，笔记使用本地 `pdftotext -layout` fallback。台账从 301 增至 305，12 条来源限制重试项保持不变。严格区分：Monzac 的实验发射度/UED、Marshall 的软件与 piggyback 验证、CERN 的未审查概念设计、Chandratreya 的合成数据指标；不得写成转换靶 γ/核产额、已建成辐照能力、屏蔽认证或激光束线端到端实证。
 
 - 2026-08-28：完成 DOI、规范化标题、历史 daily 与重试队列去重；复查 Cambridge HPL 最新/accepted manuscripts，并用官方 arXiv Atom API 检索 `physics.plasm-ph`、`physics.acc-ph`、`physics.comp-ph`、`nucl-ex` 与 `physics.ins-det` 增量。新增 `10.48550/arXiv.2608.25020`、`10.48550/arXiv.2608.24387`、`10.48550/arXiv.2608.25137`，分别覆盖高电荷激光固体靶电子束磁选/准直、反向飞秒脉冲同步和含成对产生的 10 TeV γγ 对撞机设计。3 份官方 PDF 通过 `%PDF-`、7/8/32 页元数据、SHA-256 和文本提取校验，已写中文结构化笔记；台账从 298 增至 301，12 条来源限制重试项保持不变。只有第一篇给出电子束选择/准直实验；第二篇是衰减光束光学同步 proof-of-concept，第三篇是解析 + CAIN 模拟，均不得写成强场 QED 过程观测、转换靶核产额或已运行对撞机性能。

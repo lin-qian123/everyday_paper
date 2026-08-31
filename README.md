@@ -9,7 +9,7 @@
 - [索引文件](#索引文件)
 - [仓库结构](#仓库结构)
 - [分类索引](#分类索引)
-- [当前状态](#当前状态2026-08-31)
+- [当前状态](#当前状态2026-09-01)
 - [去重规则](#去重规则)
 - [PDF 下载稳健性](#pdf-下载稳健性)
 - [维护约定](#维护约定)
@@ -98,6 +98,12 @@
 - 已连续维护到 `daily/2026-08-31/`。本轮新增 4 条官方 arXiv 记录：`10.48550/arXiv.2602.12765` v2 实测 kHz LWFA 低发射度电子束并完成硅纳米膜电子衍射，`10.48550/arXiv.2608.26216` 完成 MAST-U 实时神经网络虚拟电路的 PCS 集成与 piggyback commissioning，`10.48550/arXiv.2608.26369` 给出 CERN HEARTS@LEIR 高能重离子电子辐照设施概念设计，`10.48550/arXiv.2608.26826` 用 U-Net/autoencoder 完成 XFEL 束流图像 ROI 分割与原型在线部署。
 - 4 份官方 PDF 均通过 `%PDF-`、`file` 类型、`pdfinfo` 页数/元数据、SHA-256 下载记录和文本提取校验；台账增至 305 条，12 条来源限制重试项保持不变。本轮环境未配置 MinerU token，中文笔记使用 `pdftotext -layout` fallback 并已明确记录。
 - 证据边界：Monzac 是低能 LWFA/UED 实验，但发射度仅测一个横向方向且衍射炮次约 500 keV、25 fC；Marshall 以软件集成、仿真和真实炮次 piggyback 为主；CERN 文档尚未经最终审查且仍是规划/成本估算；Chandratreya 的高 IoU 主要来自合成数据。它们均不能被写成转换靶 γ、光核/中子产额、屏蔽认证或已完成的激光束线端到端性能。
+
+## 当前状态（2026-09-01）
+
+- 已连续维护到 `daily/2026-09-01/`。本轮新增 3 条官方 arXiv 记录：`10.48550/arXiv.2608.26313` 用 flying-focus 延长高能光子在高场区的相互作用，并以 Ptarmigan/LCFA 比较 nonlinear Breit–Wheeler 对产额；`10.48550/arXiv.2608.28468` 把实时 neural virtual circuits 从 PCS/piggyback 验证推进到 MAST-U 主动控制炮次；`10.48550/arXiv.2608.27845` 在改写的二维 MHW 系统中用 SAC/TD3 优化湍流—zonal-flow 双向转换。
+- 3 份官方 PDF 均通过 `%PDF-`、`file`、`pdfinfo`、SHA-256 和非空文本提取，并成功完成 MinerU Markdown 转换；台账从 305 增至 308 条，12 条来源限制重试项保持不变。笔记中的关键图来自本次 MinerU 输出并保存在当日资源目录。
+- 证据边界：Rahman 是理想单能光子束上的解析标度和 Monte Carlo 模拟，不是对产生观测；Amorisco 是真实 MAST-U 主动控制实验，但未做传统 VC 优越性对照且部分炮次暴露 nose interaction/伪逆病态；Sun 只在二维周期 MHW 和规定 actuator 中验证，策略接近开环，不能写成实机湍流控制。
 
 ## 当前状态（2026-08-25）
 

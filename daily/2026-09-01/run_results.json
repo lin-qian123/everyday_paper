@@ -1,0 +1,23 @@
+{
+  "run_date": "2026-09-01",
+  "added_count": 3,
+  "processed_articles_before": 305,
+  "processed_articles_after": 308,
+  "retry_queue_count": 12,
+  "sources_checked": [
+    "Cambridge High Power Laser Science and Engineering latest and accepted manuscripts",
+    "arXiv API categories: physics.plasm-ph, physics.acc-ph, physics.comp-ph, nucl-ex, physics.ins-det",
+    "targeted arXiv hep-ph strong-field QED and laser-beam application queries"
+  ],
+  "added_dois": [
+    "10.48550/arXiv.2608.26313",
+    "10.48550/arXiv.2608.28468",
+    "10.48550/arXiv.2608.27845"
+  ],
+  "skipped_duplicates": [
+    "2608.28301 was skipped as content-near to the already processed plasma-bubble vortex-electron theory 2608.22486",
+    "HPL candidates already represented by DOI, normalized title, or historical daily entries"
+  ],
+  "pdf_validation": "all three official PDFs passed magic, file type, page metadata, SHA-256, nonempty pdftotext, and MinerU Markdown conversion",
+  "validation_report": "daily/2026-09-01/pdf_validation.json"
+}

@@ -1,0 +1,49 @@
+{
+  "run_date": "2026-09-01",
+  "source_policy": "official arXiv PDF",
+  "text_workflow": "MinerU Markdown conversion plus independent pdftotext -layout smoke check",
+  "items": [
+    {
+      "arxiv_id": "2608.26313",
+      "pdf_path": "daily/2026-09-01/pdfs/Rahman et al. - 2026 - Enhancement of nonlinear pair production in a flying-focus pulse.pdf",
+      "source_url": "https://arxiv.org/pdf/2608.26313",
+      "bytes": 947772,
+      "pages": 9,
+      "pdf_version": "1.7",
+      "sha256": "88d2091e2d2b6858718ad32606f62987fcf6bc77fd55ae333bde28a16d0248c3",
+      "pdf_magic": true,
+      "pdftotext_bytes": 65102,
+      "mineru_markdown_bytes": 45564,
+      "mineru_ok": true
+    },
+    {
+      "arxiv_id": "2608.28468",
+      "pdf_path": "daily/2026-09-01/pdfs/Amorisco et al. - 2026 - Real-time virtual circuits experimental demonstration on MAST-U.pdf",
+      "source_url": "https://arxiv.org/pdf/2608.28468",
+      "bytes": 2785728,
+      "pages": 7,
+      "pdf_version": "1.7",
+      "sha256": "da772213cce1b15ac52e2bc9decb64b29b46ac4653a6bcb7b666d2fca4a98451",
+      "pdf_magic": true,
+      "pdftotext_bytes": 49467,
+      "mineru_markdown_bytes": 39167,
+      "mineru_ok": true
+    },
+    {
+      "arxiv_id": "2608.27845",
+      "pdf_path": "daily/2026-09-01/pdfs/Sun et al. - 2026 - Reinforcement-learning control of turbulence transition in modified Hasegawa-Wakatani system.pdf",
+      "source_url": "https://arxiv.org/pdf/2608.27845",
+      "bytes": 2306561,
+      "pages": 28,
+      "pdf_version": "1.7",
+      "sha256": "1c2039b17a37d6efa9646c9bd947555294e6655810ff205948d4c088208cd2b3",
+      "pdf_magic": true,
+      "pdftotext_bytes": 84010,
+      "mineru_markdown_bytes": 66895,
+      "mineru_ok": true
+    }
+  ],
+  "warnings": [
+    "pdftotext reported an embedded-font type mismatch warning for each PDF, but all extracted text files were nonempty and MinerU conversion succeeded."
+  ]
+}

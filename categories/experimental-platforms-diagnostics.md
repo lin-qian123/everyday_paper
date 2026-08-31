@@ -2,11 +2,12 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：70 篇
-- 索引更新时间：2026-08-31
+- 当前收录：71 篇
+- 索引更新时间：2026-09-01
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-01 | [Real-time virtual circuits for plasma shape control via neural network emulators: experimental demonstration on MAST Upgrade](../papers/arxiv-2608-28468/README.md) | arXiv preprint | [笔记](../daily/2026-09-01/notes/Amorisco et al. - 2026 - Real-time virtual circuits experimental demonstration on MAST-U.md) |
 | 2026-08-31 | [Machine Learning Based ROI Segmentation for Beam Imaging Diagnostics at Accelerators](../papers/arxiv-2608-26826/README.md) | arXiv preprint | [笔记](../daily/2026-08-31/notes/Chandratreya et al. - 2026 - Machine learning ROI segmentation for beam imaging diagnostics.md) |
 | 2026-08-31 | [A European high-energy heavy-ion facility for electronics irradiation based at CERN: Concept Design Report](../papers/arxiv-2608-26369/README.md) | arXiv preprint / CERN Yellow Report concept design preprint | [笔记](../daily/2026-08-31/notes/Cortes Garcia et al. - 2026 - CERN heavy-ion facility concept for electronics irradiation.md) |
 | 2026-08-28 | [High-charge collimated and energy-selected laser-driven MeV electron beams produced by magnetic selection](../papers/arxiv-2608-25020/README.md) | arXiv preprint | [笔记](../daily/2026-08-28/notes/Cohen et al. - 2026 - High-charge collimated laser-driven MeV electron beams.md) |

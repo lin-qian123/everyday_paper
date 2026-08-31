@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：305 篇
-- 索引更新时间：2026-08-31
+- 当前入库论文：308 篇
+- 索引更新时间：2026-09-01
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-09-01 | [Enhancement of nonlinear pair production in a flying-focus pulse](./arxiv-2608-26313/README.md) | arXiv preprint v2 | [10.48550/arXiv.2608.26313](https://doi.org/10.48550/arXiv.2608.26313) |
+| 2026-09-01 | [Real-time virtual circuits for plasma shape control via neural network emulators: experimental demonstration on MAST Upgrade](./arxiv-2608-28468/README.md) | arXiv preprint | [10.48550/arXiv.2608.28468](https://doi.org/10.48550/arXiv.2608.28468) |
+| 2026-09-01 | [Reinforcement-learning control of turbulence transition in the modified Hasegawa-Wakatani system](./arxiv-2608-27845/README.md) | arXiv preprint | [10.48550/arXiv.2608.27845](https://doi.org/10.48550/arXiv.2608.27845) |
 | 2026-08-31 | [Demonstration of ultra-low emittance beams in a kHz laser wakefield accelerator and their application to electron diffraction](./arxiv-2602-12765/README.md) | arXiv preprint v2 | [10.48550/arXiv.2602.12765](https://doi.org/10.48550/arXiv.2602.12765) |
 | 2026-08-31 | [Machine Learning Based ROI Segmentation for Beam Imaging Diagnostics at Accelerators](./arxiv-2608-26826/README.md) | arXiv preprint | [10.48550/arXiv.2608.26826](https://doi.org/10.48550/arXiv.2608.26826) |
 | 2026-08-31 | [Real-time virtual circuits for plasma shape control via neural network emulators: integration and testing in the MAST-U PCS](./arxiv-2608-26216/README.md) | arXiv preprint | [10.48550/arXiv.2608.26216](https://doi.org/10.48550/arXiv.2608.26216) |

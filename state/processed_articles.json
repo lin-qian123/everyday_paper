@@ -3359,5 +3359,38 @@
     "pdf_path": "daily/2026-08-31/pdfs/Chandratreya et al. - 2026 - Machine learning ROI segmentation for beam imaging diagnostics.pdf",
     "note_path": "daily/2026-08-31/notes/Chandratreya et al. - 2026 - Machine learning ROI segmentation for beam imaging diagnostics.md",
     "normalized_title": "machine learning based roi segmentation for beam imaging diagnostics at accelerators"
+  },
+  {
+    "title": "Enhancement of nonlinear pair production in a flying-focus pulse",
+    "doi": "10.48550/arXiv.2608.26313",
+    "journal": "arXiv preprint v2",
+    "publication_date": "2026-08-28",
+    "processed_date": "2026-09-01",
+    "source_url": "https://arxiv.org/abs/2608.26313",
+    "pdf_path": "daily/2026-09-01/pdfs/Rahman et al. - 2026 - Enhancement of nonlinear pair production in a flying-focus pulse.pdf",
+    "note_path": "daily/2026-09-01/notes/Rahman et al. - 2026 - Enhancement of nonlinear pair production in a flying-focus pulse.md",
+    "normalized_title": "enhancement of nonlinear pair production in a flying focus pulse"
+  },
+  {
+    "title": "Real-time virtual circuits for plasma shape control via neural network emulators: experimental demonstration on MAST Upgrade",
+    "doi": "10.48550/arXiv.2608.28468",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-28",
+    "processed_date": "2026-09-01",
+    "source_url": "https://arxiv.org/abs/2608.28468",
+    "pdf_path": "daily/2026-09-01/pdfs/Amorisco et al. - 2026 - Real-time virtual circuits experimental demonstration on MAST-U.pdf",
+    "note_path": "daily/2026-09-01/notes/Amorisco et al. - 2026 - Real-time virtual circuits experimental demonstration on MAST-U.md",
+    "normalized_title": "real time virtual circuits for plasma shape control via neural network emulators experimental demonstration on mast upgrade"
+  },
+  {
+    "title": "Reinforcement-learning control of turbulence transition in the modified Hasegawa-Wakatani system",
+    "doi": "10.48550/arXiv.2608.27845",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-28",
+    "processed_date": "2026-09-01",
+    "source_url": "https://arxiv.org/abs/2608.27845",
+    "pdf_path": "daily/2026-09-01/pdfs/Sun et al. - 2026 - Reinforcement-learning control of turbulence transition in modified Hasegawa-Wakatani system.pdf",
+    "note_path": "daily/2026-09-01/notes/Sun et al. - 2026 - Reinforcement-learning control of turbulence transition in modified Hasegawa-Wakatani system.md",
+    "normalized_title": "reinforcement learning control of turbulence transition in the modified hasegawa wakatani system"
   }
 ]
