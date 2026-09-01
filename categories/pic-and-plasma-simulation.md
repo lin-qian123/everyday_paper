@@ -2,11 +2,14 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：122 篇
-- 索引更新时间：2026-09-01
+- 当前收录：125 篇
+- 索引更新时间：2026-09-02
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-02 | [Magnetizing nonlinear plasma wakefields for positron acceleration](../papers/arxiv-2608-30455/README.md) | arXiv preprint | [笔记](../daily/2026-09-02/notes/Liu et al. - 2026 - Magnetizing nonlinear plasma wakefields for positron acceleration.md) |
+| 2026-09-02 | [Generation of Isolated Collimated Polarized γ-ray Beams via Spatiotemporal Optical Vortex Modulation](../papers/arxiv-2608-29653/README.md) | arXiv preprint | [笔记](../daily/2026-09-02/notes/Xie et al. - 2026 - Generation of Isolated Collimated Polarized Gamma-ray Beams via STOV.md) |
+| 2026-09-02 | [Enhanced Extreme Ultraviolet Emission from Laser-heated Blow-Off Tin Plasmas](../papers/arxiv-2608-28769/README.md) | arXiv preprint | [笔记](../daily/2026-09-02/notes/Polek et al. - 2026 - Enhanced Extreme Ultraviolet Emission from Laser-heated Blow-Off Tin Plasmas.md) |
 | 2026-08-28 | [Enhancing 10 TeV γγ-collider luminosity through scattering-laser wavelength selection in the presence of prolific electron-positron pair production](../papers/arxiv-2608-25137/README.md) | arXiv preprint | [笔记](../daily/2026-08-28/notes/Bulanov et al. - 2026 - Enhancing 10 TeV gamma-gamma collider luminosity.md) |
 | 2026-08-27 | [Macroparticles with different weights relax to different temperatures in Particle-In-Cell simulations](../papers/arxiv-2608-23894/README.md) | arXiv preprint | [笔记](../daily/2026-08-27/notes/Lehe et al. - 2026 - Macroparticles with different weights relax to different temperatures.md) |
 | 2026-08-27 | [Achieving High Efficiency And Enhanced Beam Quality In Laser Wakefield Acceleration](../papers/10-1017-hpl-2026-10185/README.md) | High Power Laser Science and Engineering（Accepted manuscript，官方已接收） | [笔记](../daily/2026-08-27/notes/Wang et al. - 2026 - Achieving high efficiency and enhanced beam quality in LWFA.md) |

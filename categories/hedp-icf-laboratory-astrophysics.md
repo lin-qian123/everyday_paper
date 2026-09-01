@@ -2,11 +2,12 @@
 
 HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。
 
-- 当前收录：83 篇
-- 索引更新时间：2026-09-01
+- 当前收录：84 篇
+- 索引更新时间：2026-09-02
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-02 | [Magnetizing nonlinear plasma wakefields for positron acceleration](../papers/arxiv-2608-30455/README.md) | arXiv preprint | [笔记](../daily/2026-09-02/notes/Liu et al. - 2026 - Magnetizing nonlinear plasma wakefields for positron acceleration.md) |
 | 2026-08-31 | [Real-time virtual circuits for plasma shape control via neural network emulators: integration and testing in the MAST-U PCS](../papers/arxiv-2608-26216/README.md) | arXiv preprint | [笔记](../daily/2026-08-31/notes/Marshall et al. - 2026 - Real-time neural virtual circuits for MAST-U plasma shape control.md) |
 | 2026-08-25 | [Control of Magnetic Reconnection in High Energy Density Plasmas](../papers/arxiv-2608-17839/README.md) | arXiv preprint | [笔记](../daily/2026-08-25/notes/Latham et al. - 2026 - HEDP magnetic reconnection control.md) |
 | 2026-08-22 | [Characterizing the temporal evolution of Biermann-battery-driven magnetic reconnection in laser-ablated plasmas](../papers/arxiv-2608-19591/README.md) | arXiv preprint | [笔记](../daily/2026-08-22/notes/Morita et al. - 2026 - Laser-ablated reconnection evolution.md) |

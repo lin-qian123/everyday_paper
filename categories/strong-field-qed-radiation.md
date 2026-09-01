@@ -2,11 +2,13 @@
 
 强场量子效应、辐射反作用、非线性 Compton、pair production 与极端场实验。
 
-- 当前收录：51 篇
-- 索引更新时间：2026-09-01
+- 当前收录：53 篇
+- 索引更新时间：2026-09-02
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-02 | [Magnetizing nonlinear plasma wakefields for positron acceleration](../papers/arxiv-2608-30455/README.md) | arXiv preprint | [笔记](../daily/2026-09-02/notes/Liu et al. - 2026 - Magnetizing nonlinear plasma wakefields for positron acceleration.md) |
+| 2026-09-02 | [Generation of Isolated Collimated Polarized γ-ray Beams via Spatiotemporal Optical Vortex Modulation](../papers/arxiv-2608-29653/README.md) | arXiv preprint | [笔记](../daily/2026-09-02/notes/Xie et al. - 2026 - Generation of Isolated Collimated Polarized Gamma-ray Beams via STOV.md) |
 | 2026-09-01 | [Enhancement of nonlinear pair production in a flying-focus pulse](../papers/arxiv-2608-26313/README.md) | arXiv preprint v2 | [笔记](../daily/2026-09-01/notes/Rahman et al. - 2026 - Enhancement of nonlinear pair production in a flying-focus pulse.md) |
 | 2026-08-28 | [Spatio-Temporal Synchronization of Counter-Propagating Femtosecond Pulses](../papers/arxiv-2608-24387/README.md) | arXiv preprint | [笔记](../daily/2026-08-28/notes/Cohen et al. - 2026 - Spatio-temporal synchronization of counter-propagating femtosecond pulses.md) |
 | 2026-08-28 | [Enhancing 10 TeV γγ-collider luminosity through scattering-laser wavelength selection in the presence of prolific electron-positron pair production](../papers/arxiv-2608-25137/README.md) | arXiv preprint | [笔记](../daily/2026-08-28/notes/Bulanov et al. - 2026 - Enhancing 10 TeV gamma-gamma collider luminosity.md) |

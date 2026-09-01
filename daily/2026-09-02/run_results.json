@@ -1,0 +1,25 @@
+{
+  "run_date": "2026-09-02",
+  "added_count": 3,
+  "processed_articles_before": 308,
+  "processed_articles_after": 311,
+  "retry_queue_count": 12,
+  "sources_checked": [
+    "Cambridge High Power Laser Science and Engineering latest and accepted manuscripts",
+    "Cambridge Journal of Plasma Physics current and listing pages",
+    "arXiv API categories: physics.plasm-ph, physics.acc-ph, physics.comp-ph, nucl-ex, physics.ins-det",
+    "targeted strong-field QED, gamma, photonuclear, neutron, and laser-accelerated beam application searches"
+  ],
+  "added_dois": [
+    "10.48550/arXiv.2608.29653",
+    "10.48550/arXiv.2608.30455",
+    "10.48550/arXiv.2608.28769"
+  ],
+  "skipped_candidates": [
+    "2608.29580 was retained as a lower-priority general Vlasov-Poisson-Fokker-Planck method candidate after three more direct papers were selected",
+    "2608.29365 was retained as a lower-priority astrophysical pair-plasma candidate",
+    "known 12 source-restricted retry records were not broadly rerun because their source-side conditions were unchanged"
+  ],
+  "pdf_validation": "all three official PDFs passed magic, file type, page metadata, SHA-256, and nonempty pdftotext extraction; MinerU was not configured",
+  "validation_report": "daily/2026-09-02/pdf_validation.json"
+}

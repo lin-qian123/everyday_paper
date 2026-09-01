@@ -9,7 +9,7 @@
 - [索引文件](#索引文件)
 - [仓库结构](#仓库结构)
 - [分类索引](#分类索引)
-- [当前状态](#当前状态2026-09-01)
+- [当前状态](#当前状态2026-09-02)
 - [去重规则](#去重规则)
 - [PDF 下载稳健性](#pdf-下载稳健性)
 - [维护约定](#维护约定)
@@ -104,6 +104,12 @@
 - 已连续维护到 `daily/2026-09-01/`。本轮新增 3 条官方 arXiv 记录：`10.48550/arXiv.2608.26313` 用 flying-focus 延长高能光子在高场区的相互作用，并以 Ptarmigan/LCFA 比较 nonlinear Breit–Wheeler 对产额；`10.48550/arXiv.2608.28468` 把实时 neural virtual circuits 从 PCS/piggyback 验证推进到 MAST-U 主动控制炮次；`10.48550/arXiv.2608.27845` 在改写的二维 MHW 系统中用 SAC/TD3 优化湍流—zonal-flow 双向转换。
 - 3 份官方 PDF 均通过 `%PDF-`、`file`、`pdfinfo`、SHA-256 和非空文本提取，并成功完成 MinerU Markdown 转换；台账从 305 增至 308 条，12 条来源限制重试项保持不变。笔记中的关键图来自本次 MinerU 输出并保存在当日资源目录。
 - 证据边界：Rahman 是理想单能光子束上的解析标度和 Monte Carlo 模拟，不是对产生观测；Amorisco 是真实 MAST-U 主动控制实验，但未做传统 VC 优越性对照且部分炮次暴露 nose interaction/伪逆病态；Sun 只在二维周期 MHW 和规定 actuator 中验证，策略接近开环，不能写成实机湍流控制。
+
+## 当前状态（2026-09-02）
+
+- 已连续维护到 `daily/2026-09-02/`。本轮新增 3 条官方 arXiv 记录：`10.48550/arXiv.2608.29653` 用 STOV 双箔构型和 3D spin-resolved QED-PIC 设计偏振孤立阿秒 γ 束；`10.48550/arXiv.2608.30455` 用轴向强磁场重排 electron-driven blowout 回流电子以扩展正电子聚焦/加速区；`10.48550/arXiv.2608.28769` 实验研究 Sn LBO 预等离子体对 `13.5 nm` EUV 发射和自吸收的影响。
+- 3 份官方 PDF 均通过 `%PDF-`、`file`、`pdfinfo`、SHA-256 和非空 `pdftotext -layout`；台账从 308 增至 311 条，12 条来源限制重试项保持不变。本轮未配置 MinerU CLI/token，中文笔记使用本地文本提取 fallback。
+- 证据边界：Xie 的 `500 as`、`64.4%` 偏振和 `1.1×10^9` 光子均来自 QED-PIC，不是 γ/光核实测；Liu 的 `92%` 捕获和 `100–150 MeV/6 cm` 来自理想 driver/witness 模拟，且能增益对分辨率敏感、发射度仍远离对撞机指标；Polek 是实验，但 `35%` 是未绝对标定、每点两次测量的相对 in-band 信号增强，不是绝对 CE 或工业光源认证。
 
 ## 当前状态（2026-08-25）
 

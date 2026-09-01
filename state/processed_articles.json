@@ -3392,5 +3392,38 @@
     "pdf_path": "daily/2026-09-01/pdfs/Sun et al. - 2026 - Reinforcement-learning control of turbulence transition in modified Hasegawa-Wakatani system.pdf",
     "note_path": "daily/2026-09-01/notes/Sun et al. - 2026 - Reinforcement-learning control of turbulence transition in modified Hasegawa-Wakatani system.md",
     "normalized_title": "reinforcement learning control of turbulence transition in the modified hasegawa wakatani system"
+  },
+  {
+    "title": "Generation of Isolated Collimated Polarized γ-ray Beams via Spatiotemporal Optical Vortex Modulation",
+    "doi": "10.48550/arXiv.2608.29653",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-30",
+    "processed_date": "2026-09-02",
+    "source_url": "https://arxiv.org/abs/2608.29653",
+    "pdf_path": "daily/2026-09-02/pdfs/Xie et al. - 2026 - Generation of Isolated Collimated Polarized Gamma-ray Beams via STOV.pdf",
+    "note_path": "daily/2026-09-02/notes/Xie et al. - 2026 - Generation of Isolated Collimated Polarized Gamma-ray Beams via STOV.md",
+    "normalized_title": "generation of isolated collimated polarized γ ray beams via spatiotemporal optical vortex modulation"
+  },
+  {
+    "title": "Magnetizing nonlinear plasma wakefields for positron acceleration",
+    "doi": "10.48550/arXiv.2608.30455",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-31",
+    "processed_date": "2026-09-02",
+    "source_url": "https://arxiv.org/abs/2608.30455",
+    "pdf_path": "daily/2026-09-02/pdfs/Liu et al. - 2026 - Magnetizing nonlinear plasma wakefields for positron acceleration.pdf",
+    "note_path": "daily/2026-09-02/notes/Liu et al. - 2026 - Magnetizing nonlinear plasma wakefields for positron acceleration.md",
+    "normalized_title": "magnetizing nonlinear plasma wakefields for positron acceleration"
+  },
+  {
+    "title": "Enhanced Extreme Ultraviolet Emission from Laser-heated Blow-Off Tin Plasmas",
+    "doi": "10.48550/arXiv.2608.28769",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-08-28",
+    "processed_date": "2026-09-02",
+    "source_url": "https://arxiv.org/abs/2608.28769",
+    "pdf_path": "daily/2026-09-02/pdfs/Polek et al. - 2026 - Enhanced Extreme Ultraviolet Emission from Laser-heated Blow-Off Tin Plasmas.pdf",
+    "note_path": "daily/2026-09-02/notes/Polek et al. - 2026 - Enhanced Extreme Ultraviolet Emission from Laser-heated Blow-Off Tin Plasmas.md",
+    "normalized_title": "enhanced extreme ultraviolet emission from laser heated blow off tin plasmas"
   }
 ]

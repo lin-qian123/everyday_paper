@@ -1,0 +1,50 @@
+{
+  "run_date": "2026-09-02",
+  "source_policy": "official arXiv PDF",
+  "text_workflow": "pdftotext -layout fallback; MinerU CLI and token unavailable in this run",
+  "items": [
+    {
+      "arxiv_id": "2608.29653",
+      "pdf_path": "daily/2026-09-02/pdfs/Xie et al. - 2026 - Generation of Isolated Collimated Polarized Gamma-ray Beams via STOV.pdf",
+      "source_url": "https://arxiv.org/pdf/2608.29653",
+      "bytes": 6665556,
+      "pages": 8,
+      "pdf_version": "1.7",
+      "sha256": "30c492951dc2df62d77e5052c2876b51b52f1b391feccf6d024205db9fb839af",
+      "pdf_magic": true,
+      "pdftotext_bytes": 55986,
+      "mineru_ok": false,
+      "mineru_status": "not configured"
+    },
+    {
+      "arxiv_id": "2608.30455",
+      "pdf_path": "daily/2026-09-02/pdfs/Liu et al. - 2026 - Magnetizing nonlinear plasma wakefields for positron acceleration.pdf",
+      "source_url": "https://arxiv.org/pdf/2608.30455",
+      "bytes": 490782,
+      "pages": 6,
+      "pdf_version": "1.7",
+      "sha256": "67762e3cf2d7891692cd6d084a58bf49f8d90e4f516c85832471545968b1aa28",
+      "pdf_magic": true,
+      "pdftotext_bytes": 46608,
+      "mineru_ok": false,
+      "mineru_status": "not configured"
+    },
+    {
+      "arxiv_id": "2608.28769",
+      "pdf_path": "daily/2026-09-02/pdfs/Polek et al. - 2026 - Enhanced Extreme Ultraviolet Emission from Laser-heated Blow-Off Tin Plasmas.pdf",
+      "source_url": "https://arxiv.org/pdf/2608.28769",
+      "bytes": 5628560,
+      "pages": 11,
+      "pdf_version": "1.7",
+      "sha256": "0eeb8b8bc4157e9562d260e09f0f312fe46a8c41c5e580d665fc7fdb8aed047c",
+      "pdf_magic": true,
+      "pdftotext_bytes": 74476,
+      "mineru_ok": false,
+      "mineru_status": "not configured"
+    }
+  ],
+  "warnings": [
+    "pdftotext reported an embedded-font type mismatch warning for each PDF, but every extracted text file was nonempty.",
+    "No MinerU conversion was attempted because neither the CLI nor MINERU_TOKEN was available."
+  ]
+}

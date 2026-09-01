@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：308 篇
-- 索引更新时间：2026-09-01
+- 当前入库论文：311 篇
+- 索引更新时间：2026-09-02
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-09-02 | [Magnetizing nonlinear plasma wakefields for positron acceleration](./arxiv-2608-30455/README.md) | arXiv preprint | [10.48550/arXiv.2608.30455](https://doi.org/10.48550/arXiv.2608.30455) |
+| 2026-09-02 | [Generation of Isolated Collimated Polarized γ-ray Beams via Spatiotemporal Optical Vortex Modulation](./arxiv-2608-29653/README.md) | arXiv preprint | [10.48550/arXiv.2608.29653](https://doi.org/10.48550/arXiv.2608.29653) |
+| 2026-09-02 | [Enhanced Extreme Ultraviolet Emission from Laser-heated Blow-Off Tin Plasmas](./arxiv-2608-28769/README.md) | arXiv preprint | [10.48550/arXiv.2608.28769](https://doi.org/10.48550/arXiv.2608.28769) |
 | 2026-09-01 | [Enhancement of nonlinear pair production in a flying-focus pulse](./arxiv-2608-26313/README.md) | arXiv preprint v2 | [10.48550/arXiv.2608.26313](https://doi.org/10.48550/arXiv.2608.26313) |
 | 2026-09-01 | [Real-time virtual circuits for plasma shape control via neural network emulators: experimental demonstration on MAST Upgrade](./arxiv-2608-28468/README.md) | arXiv preprint | [10.48550/arXiv.2608.28468](https://doi.org/10.48550/arXiv.2608.28468) |
 | 2026-09-01 | [Reinforcement-learning control of turbulence transition in the modified Hasegawa-Wakatani system](./arxiv-2608-27845/README.md) | arXiv preprint | [10.48550/arXiv.2608.27845](https://doi.org/10.48550/arXiv.2608.27845) |

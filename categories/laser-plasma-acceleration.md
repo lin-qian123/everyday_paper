@@ -2,11 +2,12 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：103 篇
-- 索引更新时间：2026-09-01
+- 当前收录：104 篇
+- 索引更新时间：2026-09-02
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-02 | [Magnetizing nonlinear plasma wakefields for positron acceleration](../papers/arxiv-2608-30455/README.md) | arXiv preprint | [笔记](../daily/2026-09-02/notes/Liu et al. - 2026 - Magnetizing nonlinear plasma wakefields for positron acceleration.md) |
 | 2026-08-31 | [Demonstration of ultra-low emittance beams in a kHz laser wakefield accelerator and their application to electron diffraction](../papers/arxiv-2602-12765/README.md) | arXiv preprint v2 | [笔记](../daily/2026-08-31/notes/Monzac et al. - 2026 - Ultra-low emittance kHz laser wakefield beams and electron diffraction.md) |
 | 2026-08-31 | [Machine Learning Based ROI Segmentation for Beam Imaging Diagnostics at Accelerators](../papers/arxiv-2608-26826/README.md) | arXiv preprint | [笔记](../daily/2026-08-31/notes/Chandratreya et al. - 2026 - Machine learning ROI segmentation for beam imaging diagnostics.md) |
 | 2026-08-28 | [High-charge collimated and energy-selected laser-driven MeV electron beams produced by magnetic selection](../papers/arxiv-2608-25020/README.md) | arXiv preprint | [笔记](../daily/2026-08-28/notes/Cohen et al. - 2026 - High-charge collimated laser-driven MeV electron beams.md) |
