@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "output": "daily/2026-09-03/pdfs/Tsai et al. - 2026 - Stable and tunable MeV gamma-ray generation via dual-laser ITS.pdf",
+  "source_url": "https://www.nature.com/articles/s41598-026-56639-7.pdf",
+  "mode": "direct",
+  "attempts": [
+    "[env-proxy] https://www.nature.com/articles/s41598-026-56639-7.pdf -> not pdf (content-type=text/html; charset=utf-8)"
+  ]
+}

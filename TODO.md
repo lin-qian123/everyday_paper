@@ -11,6 +11,8 @@
 
 ## 开发记录
 
+- 2026-09-03：完成 DOI、规范化标题、历史 daily、重试队列和摘要/物理场景去重；复查 Cambridge HPL/JPP、官方 arXiv 五个目标分类，并定向检索 laser-plasma γ、strong-field QED 与束流应用。新增正式期刊记录 `10.1038/s41566-026-01958-4`、`10.1038/s41598-026-56639-7` 和 arXiv `10.48550/arXiv.2609.01494`，分别覆盖涂层 PM 增强 ICS 实验、双激光可调谐 MeV ITS 实验和自旋/偏振分辨 Monte Carlo。3 份全文通过 `%PDF-`、19/15/15 页元数据、SHA-256、非空 `pdftotext` 与 MinerU 转换；台账从 311 增至 314，12 条来源限制重试项不变。Nature Photonics 本地全文是 DOI 关系明确的 Research Square v1 作者预印本，非出版社排版版；其稳定端点还复现了 Python 读取卡住、`curl` 正常的下载器问题。严格区分实验、PIC/Geant4 机制或响应反演和 ELI-NP 模拟预测，不得外推为光核/中子/剂量实测。
+
 - 2026-09-02：完成 DOI、规范化标题、历史 daily、重试队列和摘要/物理场景去重；复查 Cambridge HPL/JPP，并检查官方 arXiv `physics.plasm-ph`、`physics.acc-ph`、`physics.comp-ph`、`nucl-ex`、`physics.ins-det` 及 γ/光核/中子定向增量。新增 `10.48550/arXiv.2608.29653`、`10.48550/arXiv.2608.30455`、`10.48550/arXiv.2608.28769`，分别覆盖 STOV/QED-PIC 偏振阿秒 γ 源、磁化 PWFA 正电子加速和 Sn LBO EUV 实验。3 份官方 PDF 通过 `%PDF-`、8/6/11 页元数据、SHA-256 和非空 `pdftotext`；MinerU 未配置，使用本地 fallback。台账从 308 增至 311，12 条来源限制重试项不变。严格区分 QED-PIC、理想化 beam-driven PIC 和未绝对标定的 EUV 实验，不得分别外推为 γ/光核实测、对撞机级束流或绝对/工业 CE。下轮继续优先寻找能同时闭合激光加速束流、转换靶后 γ 谱、光核/中子/活化产额、剂量与防护的实验论文。
 
 - 2026-09-01：完成 DOI、规范化标题、历史 daily、重试队列和摘要语境去重；复查 Cambridge HPL 最新/accepted manuscripts，并检索官方 arXiv `physics.plasm-ph`、`physics.acc-ph`、`physics.comp-ph`、`nucl-ex`、`physics.ins-det` 及 `hep-ph` 强场 QED 定向增量。新增 `10.48550/arXiv.2608.26313`、`10.48550/arXiv.2608.28468`、`10.48550/arXiv.2608.27845`，分别覆盖 FF 增强 NBWPP 数值方案、MAST-U RTVC 首次主动实验部署和 MHW 湍流双向 RL 控制。3 份官方 PDF 通过 `%PDF-`、7/9/28 页元数据、SHA-256、非空 `pdftotext` 与 MinerU 转换；台账从 305 增至 308，12 条来源限制重试项不变。`2608.28301` 因与已入库 plasma-bubble vortex-electron 理论内容接近而跳过。严格区分 Monte Carlo、真实主动控制实验与二维简化模型，不得分别外推为已观测对产生、RTVC 全面优于传统 VC 或真实装置直接湍流控制。

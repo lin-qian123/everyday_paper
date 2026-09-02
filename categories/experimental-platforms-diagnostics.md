@@ -2,11 +2,13 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：73 篇
-- 索引更新时间：2026-09-02
+- 当前收录：75 篇
+- 索引更新时间：2026-09-03
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-03 | [Enhanced inverse Compton scattering via spontaneous focusing induced by a coated plasma mirror](../papers/10-1038-s41566-026-01958-4/README.md) | Nature Photonics (Research Square author preprint PDF) | [笔记](../daily/2026-09-03/notes/Hu et al. - 2026 - Enhanced inverse Compton scattering via coated plasma mirror.md) |
+| 2026-09-03 | [Stable and tunable MeV γ-ray generation via dual-laser inverse Thomson scattering from a laser-plasma accelerator](../papers/10-1038-s41598-026-56639-7/README.md) | Scientific Reports | [笔记](../daily/2026-09-03/notes/Tsai et al. - 2026 - Stable and tunable MeV gamma-ray generation via dual-laser ITS.md) |
 | 2026-09-02 | [Generation of Isolated Collimated Polarized γ-ray Beams via Spatiotemporal Optical Vortex Modulation](../papers/arxiv-2608-29653/README.md) | arXiv preprint | [笔记](../daily/2026-09-02/notes/Xie et al. - 2026 - Generation of Isolated Collimated Polarized Gamma-ray Beams via STOV.md) |
 | 2026-09-02 | [Enhanced Extreme Ultraviolet Emission from Laser-heated Blow-Off Tin Plasmas](../papers/arxiv-2608-28769/README.md) | arXiv preprint | [笔记](../daily/2026-09-02/notes/Polek et al. - 2026 - Enhanced Extreme Ultraviolet Emission from Laser-heated Blow-Off Tin Plasmas.md) |
 | 2026-09-01 | [Real-time virtual circuits for plasma shape control via neural network emulators: experimental demonstration on MAST Upgrade](../papers/arxiv-2608-28468/README.md) | arXiv preprint | [笔记](../daily/2026-09-01/notes/Amorisco et al. - 2026 - Real-time virtual circuits experimental demonstration on MAST-U.md) |

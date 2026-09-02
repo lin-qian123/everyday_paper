@@ -3425,5 +3425,38 @@
     "pdf_path": "daily/2026-09-02/pdfs/Polek et al. - 2026 - Enhanced Extreme Ultraviolet Emission from Laser-heated Blow-Off Tin Plasmas.pdf",
     "note_path": "daily/2026-09-02/notes/Polek et al. - 2026 - Enhanced Extreme Ultraviolet Emission from Laser-heated Blow-Off Tin Plasmas.md",
     "normalized_title": "enhanced extreme ultraviolet emission from laser heated blow off tin plasmas"
+  },
+  {
+    "title": "Enhanced inverse Compton scattering via spontaneous focusing induced by a coated plasma mirror",
+    "doi": "10.1038/s41566-026-01958-4",
+    "journal": "Nature Photonics (Research Square author preprint PDF)",
+    "publication_date": "2026-07-23",
+    "processed_date": "2026-09-03",
+    "source_url": "https://www.nature.com/articles/s41566-026-01958-4",
+    "pdf_path": "daily/2026-09-03/pdfs/Hu et al. - 2026 - Enhanced inverse Compton scattering via coated plasma mirror.pdf",
+    "note_path": "daily/2026-09-03/notes/Hu et al. - 2026 - Enhanced inverse Compton scattering via coated plasma mirror.md",
+    "normalized_title": "enhanced inverse compton scattering via spontaneous focusing induced by a coated plasma mirror"
+  },
+  {
+    "title": "Stable and tunable MeV γ-ray generation via dual-laser inverse Thomson scattering from a laser-plasma accelerator",
+    "doi": "10.1038/s41598-026-56639-7",
+    "journal": "Scientific Reports",
+    "publication_date": "2026-06-16",
+    "processed_date": "2026-09-03",
+    "source_url": "https://www.nature.com/articles/s41598-026-56639-7",
+    "pdf_path": "daily/2026-09-03/pdfs/Tsai et al. - 2026 - Stable and tunable MeV gamma-ray generation via dual-laser ITS.pdf",
+    "note_path": "daily/2026-09-03/notes/Tsai et al. - 2026 - Stable and tunable MeV gamma-ray generation via dual-laser ITS.md",
+    "normalized_title": "stable and tunable mev γ ray generation via dual laser inverse thomson scattering from a laser plasma accelerator"
+  },
+  {
+    "title": "Polarized quantum effects in countable signals from intense laser - electron beam interactions",
+    "doi": "10.48550/arXiv.2609.01494",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-01",
+    "processed_date": "2026-09-03",
+    "source_url": "https://arxiv.org/abs/2609.01494",
+    "pdf_path": "daily/2026-09-03/pdfs/Moritaka et al. - 2026 - Polarized quantum effects in countable laser-electron signals.pdf",
+    "note_path": "daily/2026-09-03/notes/Moritaka et al. - 2026 - Polarized quantum effects in countable laser-electron signals.md",
+    "normalized_title": "polarized quantum effects in countable signals from intense laser electron beam interactions"
   }
 ]

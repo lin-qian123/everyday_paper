@@ -2,11 +2,14 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：104 篇
-- 索引更新时间：2026-09-02
+- 当前收录：107 篇
+- 索引更新时间：2026-09-03
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-03 | [Polarized quantum effects in countable signals from intense laser - electron beam interactions](../papers/arxiv-2609-01494/README.md) | arXiv preprint | [笔记](../daily/2026-09-03/notes/Moritaka et al. - 2026 - Polarized quantum effects in countable laser-electron signals.md) |
+| 2026-09-03 | [Enhanced inverse Compton scattering via spontaneous focusing induced by a coated plasma mirror](../papers/10-1038-s41566-026-01958-4/README.md) | Nature Photonics (Research Square author preprint PDF) | [笔记](../daily/2026-09-03/notes/Hu et al. - 2026 - Enhanced inverse Compton scattering via coated plasma mirror.md) |
+| 2026-09-03 | [Stable and tunable MeV γ-ray generation via dual-laser inverse Thomson scattering from a laser-plasma accelerator](../papers/10-1038-s41598-026-56639-7/README.md) | Scientific Reports | [笔记](../daily/2026-09-03/notes/Tsai et al. - 2026 - Stable and tunable MeV gamma-ray generation via dual-laser ITS.md) |
 | 2026-09-02 | [Magnetizing nonlinear plasma wakefields for positron acceleration](../papers/arxiv-2608-30455/README.md) | arXiv preprint | [笔记](../daily/2026-09-02/notes/Liu et al. - 2026 - Magnetizing nonlinear plasma wakefields for positron acceleration.md) |
 | 2026-08-31 | [Demonstration of ultra-low emittance beams in a kHz laser wakefield accelerator and their application to electron diffraction](../papers/arxiv-2602-12765/README.md) | arXiv preprint v2 | [笔记](../daily/2026-08-31/notes/Monzac et al. - 2026 - Ultra-low emittance kHz laser wakefield beams and electron diffraction.md) |
 | 2026-08-31 | [Machine Learning Based ROI Segmentation for Beam Imaging Diagnostics at Accelerators](../papers/arxiv-2608-26826/README.md) | arXiv preprint | [笔记](../daily/2026-08-31/notes/Chandratreya et al. - 2026 - Machine learning ROI segmentation for beam imaging diagnostics.md) |

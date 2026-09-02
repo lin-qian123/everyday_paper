@@ -2,11 +2,14 @@
 
 强场量子效应、辐射反作用、非线性 Compton、pair production 与极端场实验。
 
-- 当前收录：53 篇
-- 索引更新时间：2026-09-02
+- 当前收录：56 篇
+- 索引更新时间：2026-09-03
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-03 | [Polarized quantum effects in countable signals from intense laser - electron beam interactions](../papers/arxiv-2609-01494/README.md) | arXiv preprint | [笔记](../daily/2026-09-03/notes/Moritaka et al. - 2026 - Polarized quantum effects in countable laser-electron signals.md) |
+| 2026-09-03 | [Enhanced inverse Compton scattering via spontaneous focusing induced by a coated plasma mirror](../papers/10-1038-s41566-026-01958-4/README.md) | Nature Photonics (Research Square author preprint PDF) | [笔记](../daily/2026-09-03/notes/Hu et al. - 2026 - Enhanced inverse Compton scattering via coated plasma mirror.md) |
+| 2026-09-03 | [Stable and tunable MeV γ-ray generation via dual-laser inverse Thomson scattering from a laser-plasma accelerator](../papers/10-1038-s41598-026-56639-7/README.md) | Scientific Reports | [笔记](../daily/2026-09-03/notes/Tsai et al. - 2026 - Stable and tunable MeV gamma-ray generation via dual-laser ITS.md) |
 | 2026-09-02 | [Magnetizing nonlinear plasma wakefields for positron acceleration](../papers/arxiv-2608-30455/README.md) | arXiv preprint | [笔记](../daily/2026-09-02/notes/Liu et al. - 2026 - Magnetizing nonlinear plasma wakefields for positron acceleration.md) |
 | 2026-09-02 | [Generation of Isolated Collimated Polarized γ-ray Beams via Spatiotemporal Optical Vortex Modulation](../papers/arxiv-2608-29653/README.md) | arXiv preprint | [笔记](../daily/2026-09-02/notes/Xie et al. - 2026 - Generation of Isolated Collimated Polarized Gamma-ray Beams via STOV.md) |
 | 2026-09-01 | [Enhancement of nonlinear pair production in a flying-focus pulse](../papers/arxiv-2608-26313/README.md) | arXiv preprint v2 | [笔记](../daily/2026-09-01/notes/Rahman et al. - 2026 - Enhancement of nonlinear pair production in a flying-focus pulse.md) |

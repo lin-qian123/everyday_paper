@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "output": "daily/2026-09-03/pdfs/Hu et al. - 2026 - Enhanced inverse Compton scattering via coated plasma mirror.pdf",
+  "source_url": "https://www.researchsquare.com/article/rs-8076863/v1.pdf",
+  "mode": "curl-direct",
+  "attempts": [
+    "[publisher] https://www.nature.com/articles/s41566-026-01958-4.pdf -> cookies_not_supported / subscription PDF route",
+    "[safe-downloader] stable Research Square endpoint resolved, but the Python response read stalled and was interrupted",
+    "[old-asset] https://assets-eu.researchsquare.com/files/rs-8076863/v1_covered_61941a6f-1e8d-436c-b6fc-b67a0a4b435c.pdf?c=1765462025 -> HTTP 403"
+  ],
+  "provenance": "Research Square v1 author preprint corresponding to Nature Photonics DOI 10.1038/s41566-026-01958-4; not the publisher-typeset PDF"
+}

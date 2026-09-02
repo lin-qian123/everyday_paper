@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：311 篇
-- 索引更新时间：2026-09-02
+- 当前入库论文：314 篇
+- 索引更新时间：2026-09-03
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-09-03 | [Polarized quantum effects in countable signals from intense laser - electron beam interactions](./arxiv-2609-01494/README.md) | arXiv preprint | [10.48550/arXiv.2609.01494](https://doi.org/10.48550/arXiv.2609.01494) |
+| 2026-09-03 | [Enhanced inverse Compton scattering via spontaneous focusing induced by a coated plasma mirror](./10-1038-s41566-026-01958-4/README.md) | Nature Photonics (Research Square author preprint PDF) | [10.1038/s41566-026-01958-4](https://doi.org/10.1038/s41566-026-01958-4) |
+| 2026-09-03 | [Stable and tunable MeV γ-ray generation via dual-laser inverse Thomson scattering from a laser-plasma accelerator](./10-1038-s41598-026-56639-7/README.md) | Scientific Reports | [10.1038/s41598-026-56639-7](https://doi.org/10.1038/s41598-026-56639-7) |
 | 2026-09-02 | [Magnetizing nonlinear plasma wakefields for positron acceleration](./arxiv-2608-30455/README.md) | arXiv preprint | [10.48550/arXiv.2608.30455](https://doi.org/10.48550/arXiv.2608.30455) |
 | 2026-09-02 | [Generation of Isolated Collimated Polarized γ-ray Beams via Spatiotemporal Optical Vortex Modulation](./arxiv-2608-29653/README.md) | arXiv preprint | [10.48550/arXiv.2608.29653](https://doi.org/10.48550/arXiv.2608.29653) |
 | 2026-09-02 | [Enhanced Extreme Ultraviolet Emission from Laser-heated Blow-Off Tin Plasmas](./arxiv-2608-28769/README.md) | arXiv preprint | [10.48550/arXiv.2608.28769](https://doi.org/10.48550/arXiv.2608.28769) |

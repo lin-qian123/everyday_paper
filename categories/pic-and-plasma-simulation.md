@@ -2,11 +2,13 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：125 篇
-- 索引更新时间：2026-09-02
+- 当前收录：127 篇
+- 索引更新时间：2026-09-03
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-03 | [Polarized quantum effects in countable signals from intense laser - electron beam interactions](../papers/arxiv-2609-01494/README.md) | arXiv preprint | [笔记](../daily/2026-09-03/notes/Moritaka et al. - 2026 - Polarized quantum effects in countable laser-electron signals.md) |
+| 2026-09-03 | [Enhanced inverse Compton scattering via spontaneous focusing induced by a coated plasma mirror](../papers/10-1038-s41566-026-01958-4/README.md) | Nature Photonics (Research Square author preprint PDF) | [笔记](../daily/2026-09-03/notes/Hu et al. - 2026 - Enhanced inverse Compton scattering via coated plasma mirror.md) |
 | 2026-09-02 | [Magnetizing nonlinear plasma wakefields for positron acceleration](../papers/arxiv-2608-30455/README.md) | arXiv preprint | [笔记](../daily/2026-09-02/notes/Liu et al. - 2026 - Magnetizing nonlinear plasma wakefields for positron acceleration.md) |
 | 2026-09-02 | [Generation of Isolated Collimated Polarized γ-ray Beams via Spatiotemporal Optical Vortex Modulation](../papers/arxiv-2608-29653/README.md) | arXiv preprint | [笔记](../daily/2026-09-02/notes/Xie et al. - 2026 - Generation of Isolated Collimated Polarized Gamma-ray Beams via STOV.md) |
 | 2026-09-02 | [Enhanced Extreme Ultraviolet Emission from Laser-heated Blow-Off Tin Plasmas](../papers/arxiv-2608-28769/README.md) | arXiv preprint | [笔记](../daily/2026-09-02/notes/Polek et al. - 2026 - Enhanced Extreme Ultraviolet Emission from Laser-heated Blow-Off Tin Plasmas.md) |
