@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：314 篇
-- 索引更新时间：2026-09-03
+- 当前入库论文：317 篇
+- 索引更新时间：2026-09-04
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-09-04 | [Chirped-Pulse Forward Raman Amplification in Nonuniform Plasmas](./arxiv-2609-02326/README.md) | arXiv preprint | [10.48550/arXiv.2609.02326](https://doi.org/10.48550/arXiv.2609.02326) |
+| 2026-09-04 | [Generative Diffusion Surrogates with Analytical Variance Schedule](./arxiv-2609-01705/README.md) | arXiv preprint (accepted for Nature Communications) | [10.48550/arXiv.2609.01705](https://doi.org/10.48550/arXiv.2609.01705) |
+| 2026-09-04 | [Laser–plasma amplification of an ultrabroadband laser pulse to 0.3 TW](./10-1038-s41566-026-01977-1/README.md) | Nature Photonics | [10.1038/s41566-026-01977-1](https://doi.org/10.1038/s41566-026-01977-1) |
 | 2026-09-03 | [Polarized quantum effects in countable signals from intense laser - electron beam interactions](./arxiv-2609-01494/README.md) | arXiv preprint | [10.48550/arXiv.2609.01494](https://doi.org/10.48550/arXiv.2609.01494) |
 | 2026-09-03 | [Enhanced inverse Compton scattering via spontaneous focusing induced by a coated plasma mirror](./10-1038-s41566-026-01958-4/README.md) | Nature Photonics (Research Square author preprint PDF) | [10.1038/s41566-026-01958-4](https://doi.org/10.1038/s41566-026-01958-4) |
 | 2026-09-03 | [Stable and tunable MeV γ-ray generation via dual-laser inverse Thomson scattering from a laser-plasma accelerator](./10-1038-s41598-026-56639-7/README.md) | Scientific Reports | [10.1038/s41598-026-56639-7](https://doi.org/10.1038/s41598-026-56639-7) |

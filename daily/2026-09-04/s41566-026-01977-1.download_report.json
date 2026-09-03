@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "output": "daily/2026-09-04/pdfs/Shaw et al. - 2026 - Laser-plasma amplification of an ultrabroadband pulse to 0.3 TW.pdf",
+  "source_url": "https://www.nature.com/articles/s41566-026-01977-1.pdf",
+  "mode": "direct",
+  "attempts": [
+    "[env-proxy] https://www.nature.com/articles/s41566-026-01977-1.pdf -> not pdf (content-type=text/html; charset=utf-8)"
+  ]
+}

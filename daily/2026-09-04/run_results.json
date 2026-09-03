@@ -1,0 +1,48 @@
+{
+  "run_date": "2026-09-04",
+  "ledger_before": 314,
+  "ledger_after": 317,
+  "added_count": 3,
+  "retry_queue_before": 12,
+  "retry_queue_after": 12,
+  "sources_checked": [
+    "Cambridge High Power Laser Science and Engineering latest and accepted manuscripts",
+    "Nature Photonics September 2026 issue",
+    "official arXiv recent lists for physics.plasm-ph, physics.acc-ph, physics.comp-ph, nucl-ex and physics.ins-det",
+    "targeted strong-field QED, laser-driven gamma, photonuclear, neutron and beam-application searches"
+  ],
+  "added_identifiers": [
+    "10.1038/s41566-026-01977-1",
+    "10.48550/arXiv.2609.02326",
+    "10.48550/arXiv.2609.01705"
+  ],
+  "dedupe": {
+    "keys": [
+      "DOI or arXiv identifier",
+      "normalized title",
+      "historical daily records",
+      "retry queue",
+      "abstract and physical scenario"
+    ],
+    "result": "All three additions are new to the ledger."
+  },
+  "skipped_candidates": [
+    {
+      "identifier": "10.48550/arXiv.2609.01845",
+      "title": "Learning a general class of admissible multi-species collision operators from molecular dynamics",
+      "reason": "Lower priority for this run and close in topic, though not identical, to the processed differentiable-simulator collision-operator paper 10.1017/S0022377826101755."
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.02803",
+      "title": "Global gyrokinetic simulations of STEP plasmas",
+      "reason": "Relevant fusion simulation work, but less aligned than the selected laser-plasma and plasma-transport-method papers."
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.02877",
+      "title": "A Digital Twin Framework for CEBAF Accelerator Controls",
+      "reason": "Accelerator-controls relevance is indirect to the repository's plasma, radiation and laser-beam priorities."
+    }
+  ],
+  "pdf_validation": "daily/2026-09-04/pdf_validation.json",
+  "status": "success"
+}

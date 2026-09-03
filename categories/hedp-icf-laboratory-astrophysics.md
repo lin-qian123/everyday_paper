@@ -2,11 +2,12 @@
 
 HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。
 
-- 当前收录：84 篇
-- 索引更新时间：2026-09-03
+- 当前收录：85 篇
+- 索引更新时间：2026-09-04
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-04 | [Generative Diffusion Surrogates with Analytical Variance Schedule](../papers/arxiv-2609-01705/README.md) | arXiv preprint (accepted for Nature Communications) | [笔记](../daily/2026-09-04/notes/Reichherzer et al. - 2026 - Generative Diffusion Surrogates with Analytical Variance Schedule.md) |
 | 2026-09-02 | [Magnetizing nonlinear plasma wakefields for positron acceleration](../papers/arxiv-2608-30455/README.md) | arXiv preprint | [笔记](../daily/2026-09-02/notes/Liu et al. - 2026 - Magnetizing nonlinear plasma wakefields for positron acceleration.md) |
 | 2026-08-31 | [Real-time virtual circuits for plasma shape control via neural network emulators: integration and testing in the MAST-U PCS](../papers/arxiv-2608-26216/README.md) | arXiv preprint | [笔记](../daily/2026-08-31/notes/Marshall et al. - 2026 - Real-time neural virtual circuits for MAST-U plasma shape control.md) |
 | 2026-08-25 | [Control of Magnetic Reconnection in High Energy Density Plasmas](../papers/arxiv-2608-17839/README.md) | arXiv preprint | [笔记](../daily/2026-08-25/notes/Latham et al. - 2026 - HEDP magnetic reconnection control.md) |

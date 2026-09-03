@@ -2,11 +2,12 @@
 
 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。
 
-- 当前收录：49 篇
-- 索引更新时间：2026-09-03
+- 当前收录：50 篇
+- 索引更新时间：2026-09-04
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-04 | [Generative Diffusion Surrogates with Analytical Variance Schedule](../papers/arxiv-2609-01705/README.md) | arXiv preprint (accepted for Nature Communications) | [笔记](../daily/2026-09-04/notes/Reichherzer et al. - 2026 - Generative Diffusion Surrogates with Analytical Variance Schedule.md) |
 | 2026-09-01 | [Real-time virtual circuits for plasma shape control via neural network emulators: experimental demonstration on MAST Upgrade](../papers/arxiv-2608-28468/README.md) | arXiv preprint | [笔记](../daily/2026-09-01/notes/Amorisco et al. - 2026 - Real-time virtual circuits experimental demonstration on MAST-U.md) |
 | 2026-09-01 | [Reinforcement-learning control of turbulence transition in the modified Hasegawa-Wakatani system](../papers/arxiv-2608-27845/README.md) | arXiv preprint | [笔记](../daily/2026-09-01/notes/Sun et al. - 2026 - Reinforcement-learning control of turbulence transition in modified Hasegawa-Wakatani system.md) |
 | 2026-08-31 | [Machine Learning Based ROI Segmentation for Beam Imaging Diagnostics at Accelerators](../papers/arxiv-2608-26826/README.md) | arXiv preprint | [笔记](../daily/2026-08-31/notes/Chandratreya et al. - 2026 - Machine learning ROI segmentation for beam imaging diagnostics.md) |

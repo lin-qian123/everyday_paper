@@ -1,0 +1,55 @@
+{
+  "run_date": "2026-09-04",
+  "source_policy": "Prefer publisher or official repository PDFs.",
+  "workflow": [
+    "PDF header and file type",
+    "pdfinfo metadata and page count",
+    "SHA-256 checksum",
+    "non-empty pdftotext -layout",
+    "MinerU Markdown and image extraction"
+  ],
+  "items": [
+    {
+      "identifier": "10.1038/s41566-026-01977-1",
+      "path": "daily/2026-09-04/pdfs/Shaw et al. - 2026 - Laser-plasma amplification of an ultrabroadband pulse to 0.3 TW.pdf",
+      "source_url": "https://www.nature.com/articles/s41566-026-01977-1.pdf",
+      "version": "publisher PDF",
+      "bytes": 2828469,
+      "pages": 10,
+      "pdf_version": "1.4",
+      "sha256": "f9240f0907bdf31454e9e3c312617da0ae776a9420ae2e3a619e3ab2708b4af7",
+      "pdftotext_bytes": 64272,
+      "mineru_markdown_bytes": 45763,
+      "mineru_images": 18,
+      "ok": true
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.02326",
+      "path": "daily/2026-09-04/pdfs/Lei et al. - 2026 - Chirped-Pulse Forward Raman Amplification in Nonuniform Plasmas.pdf",
+      "source_url": "https://arxiv.org/pdf/2609.02326",
+      "version": "official arXiv PDF",
+      "bytes": 2138045,
+      "pages": 7,
+      "pdf_version": "1.7",
+      "sha256": "880159b1293331e8792da0dfab866b7198cb822754e9f4d9665ea2f640f554fc",
+      "pdftotext_bytes": 53342,
+      "mineru_markdown_bytes": 40664,
+      "mineru_images": 15,
+      "ok": true
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.01705",
+      "path": "daily/2026-09-04/pdfs/Reichherzer et al. - 2026 - Generative Diffusion Surrogates with Analytical Variance Schedule.pdf",
+      "source_url": "https://arxiv.org/pdf/2609.01705",
+      "version": "official arXiv PDF",
+      "bytes": 5238659,
+      "pages": 16,
+      "pdf_version": "1.7",
+      "sha256": "61489b579b45ac3ef51c53265484d0c46601699ed48d2e1eda2fcc4f59245bc7",
+      "pdftotext_bytes": 106161,
+      "mineru_markdown_bytes": 85830,
+      "mineru_images": 44,
+      "ok": true
+    }
+  ]
+}

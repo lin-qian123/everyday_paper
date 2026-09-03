@@ -3458,5 +3458,38 @@
     "pdf_path": "daily/2026-09-03/pdfs/Moritaka et al. - 2026 - Polarized quantum effects in countable laser-electron signals.pdf",
     "note_path": "daily/2026-09-03/notes/Moritaka et al. - 2026 - Polarized quantum effects in countable laser-electron signals.md",
     "normalized_title": "polarized quantum effects in countable signals from intense laser electron beam interactions"
+  },
+  {
+    "title": "Laser–plasma amplification of an ultrabroadband laser pulse to 0.3 TW",
+    "doi": "10.1038/s41566-026-01977-1",
+    "journal": "Nature Photonics",
+    "publication_date": "2026-08-03",
+    "processed_date": "2026-09-04",
+    "source_url": "https://www.nature.com/articles/s41566-026-01977-1",
+    "pdf_path": "daily/2026-09-04/pdfs/Shaw et al. - 2026 - Laser-plasma amplification of an ultrabroadband pulse to 0.3 TW.pdf",
+    "note_path": "daily/2026-09-04/notes/Shaw et al. - 2026 - Laser-plasma amplification of an ultrabroadband pulse to 0.3 TW.md",
+    "normalized_title": "laser plasma amplification of an ultrabroadband laser pulse to 0 3 tw"
+  },
+  {
+    "title": "Chirped-Pulse Forward Raman Amplification in Nonuniform Plasmas",
+    "doi": "10.48550/arXiv.2609.02326",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-02",
+    "processed_date": "2026-09-04",
+    "source_url": "https://arxiv.org/abs/2609.02326",
+    "pdf_path": "daily/2026-09-04/pdfs/Lei et al. - 2026 - Chirped-Pulse Forward Raman Amplification in Nonuniform Plasmas.pdf",
+    "note_path": "daily/2026-09-04/notes/Lei et al. - 2026 - Chirped-Pulse Forward Raman Amplification in Nonuniform Plasmas.md",
+    "normalized_title": "chirped pulse forward raman amplification in nonuniform plasmas"
+  },
+  {
+    "title": "Generative Diffusion Surrogates with Analytical Variance Schedule",
+    "doi": "10.48550/arXiv.2609.01705",
+    "journal": "arXiv preprint (accepted for Nature Communications)",
+    "publication_date": "2026-09-01",
+    "processed_date": "2026-09-04",
+    "source_url": "https://arxiv.org/abs/2609.01705",
+    "pdf_path": "daily/2026-09-04/pdfs/Reichherzer et al. - 2026 - Generative Diffusion Surrogates with Analytical Variance Schedule.pdf",
+    "note_path": "daily/2026-09-04/notes/Reichherzer et al. - 2026 - Generative Diffusion Surrogates with Analytical Variance Schedule.md",
+    "normalized_title": "generative diffusion surrogates with analytical variance schedule"
   }
 ]

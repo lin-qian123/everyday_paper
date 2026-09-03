@@ -2,11 +2,13 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：75 篇
-- 索引更新时间：2026-09-03
+- 当前收录：77 篇
+- 索引更新时间：2026-09-04
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-04 | [Chirped-Pulse Forward Raman Amplification in Nonuniform Plasmas](../papers/arxiv-2609-02326/README.md) | arXiv preprint | [笔记](../daily/2026-09-04/notes/Lei et al. - 2026 - Chirped-Pulse Forward Raman Amplification in Nonuniform Plasmas.md) |
+| 2026-09-04 | [Laser–plasma amplification of an ultrabroadband laser pulse to 0.3 TW](../papers/10-1038-s41566-026-01977-1/README.md) | Nature Photonics | [笔记](../daily/2026-09-04/notes/Shaw et al. - 2026 - Laser-plasma amplification of an ultrabroadband pulse to 0.3 TW.md) |
 | 2026-09-03 | [Enhanced inverse Compton scattering via spontaneous focusing induced by a coated plasma mirror](../papers/10-1038-s41566-026-01958-4/README.md) | Nature Photonics (Research Square author preprint PDF) | [笔记](../daily/2026-09-03/notes/Hu et al. - 2026 - Enhanced inverse Compton scattering via coated plasma mirror.md) |
 | 2026-09-03 | [Stable and tunable MeV γ-ray generation via dual-laser inverse Thomson scattering from a laser-plasma accelerator](../papers/10-1038-s41598-026-56639-7/README.md) | Scientific Reports | [笔记](../daily/2026-09-03/notes/Tsai et al. - 2026 - Stable and tunable MeV gamma-ray generation via dual-laser ITS.md) |
 | 2026-09-02 | [Generation of Isolated Collimated Polarized γ-ray Beams via Spatiotemporal Optical Vortex Modulation](../papers/arxiv-2608-29653/README.md) | arXiv preprint | [笔记](../daily/2026-09-02/notes/Xie et al. - 2026 - Generation of Isolated Collimated Polarized Gamma-ray Beams via STOV.md) |
