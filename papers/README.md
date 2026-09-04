@@ -1,10 +1,14 @@
 # 论文总索引
 
-- 当前入库论文：317 篇
-- 索引更新时间：2026-09-04
+- 当前入库论文：321 篇
+- 索引更新时间：2026-09-05
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-09-05 | [Generalized multi-dimensional conservation laws for stimulated Raman and Brillouin scattering in a density gradient](./10-1103-hdkp-2mpm/README.md) | Physical Review E (accepted paper; corresponding arXiv v2 author preprint PDF) | [10.1103/hdkp-2mpm](https://doi.org/10.1103/hdkp-2mpm) |
+| 2026-09-05 | [X-dispersionless solver for electromagnetic and axion fields in a cylindrical particle-in-cell code](./arxiv-2609-03550/README.md) | arXiv preprint | [10.48550/arXiv.2609.03550](https://doi.org/10.48550/arXiv.2609.03550) |
+| 2026-09-05 | [Minute-Scale High-Fidelity Gyrokinetic Simulations with Portability from Laptop to Supercomputer](./arxiv-2609-03354/README.md) | arXiv preprint | [10.48550/arXiv.2609.03354](https://doi.org/10.48550/arXiv.2609.03354) |
+| 2026-09-05 | [Quantum Vacuum Nonlinearities in Laser Interferometers](./arxiv-2609-03314/README.md) | arXiv preprint | [10.48550/arXiv.2609.03314](https://doi.org/10.48550/arXiv.2609.03314) |
 | 2026-09-04 | [Chirped-Pulse Forward Raman Amplification in Nonuniform Plasmas](./arxiv-2609-02326/README.md) | arXiv preprint | [10.48550/arXiv.2609.02326](https://doi.org/10.48550/arXiv.2609.02326) |
 | 2026-09-04 | [Generative Diffusion Surrogates with Analytical Variance Schedule](./arxiv-2609-01705/README.md) | arXiv preprint (accepted for Nature Communications) | [10.48550/arXiv.2609.01705](https://doi.org/10.48550/arXiv.2609.01705) |
 | 2026-09-04 | [Laser–plasma amplification of an ultrabroadband laser pulse to 0.3 TW](./10-1038-s41566-026-01977-1/README.md) | Nature Photonics | [10.1038/s41566-026-01977-1](https://doi.org/10.1038/s41566-026-01977-1) |

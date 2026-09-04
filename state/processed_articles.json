@@ -3491,5 +3491,49 @@
     "pdf_path": "daily/2026-09-04/pdfs/Reichherzer et al. - 2026 - Generative Diffusion Surrogates with Analytical Variance Schedule.pdf",
     "note_path": "daily/2026-09-04/notes/Reichherzer et al. - 2026 - Generative Diffusion Surrogates with Analytical Variance Schedule.md",
     "normalized_title": "generative diffusion surrogates with analytical variance schedule"
+  },
+  {
+    "title": "X-dispersionless solver for electromagnetic and axion fields in a cylindrical particle-in-cell code",
+    "doi": "10.48550/arXiv.2609.03550",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-03",
+    "processed_date": "2026-09-05",
+    "source_url": "https://arxiv.org/abs/2609.03550",
+    "pdf_path": "daily/2026-09-05/pdfs/An et al. - 2026 - X-dispersionless cylindrical PIC solver for electromagnetic and axion fields.pdf",
+    "note_path": "daily/2026-09-05/notes/An et al. - 2026 - X-dispersionless cylindrical PIC solver for electromagnetic and axion fields.md",
+    "normalized_title": "x dispersionless solver for electromagnetic and axion fields in a cylindrical particle in cell code"
+  },
+  {
+    "title": "Minute-Scale High-Fidelity Gyrokinetic Simulations with Portability from Laptop to Supercomputer",
+    "doi": "10.48550/arXiv.2609.03354",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-03",
+    "processed_date": "2026-09-05",
+    "source_url": "https://arxiv.org/abs/2609.03354",
+    "pdf_path": "daily/2026-09-05/pdfs/Bao et al. - 2026 - Minute-scale high-fidelity gyrokinetic simulations.pdf",
+    "note_path": "daily/2026-09-05/notes/Bao et al. - 2026 - Minute-scale high-fidelity gyrokinetic simulations.md",
+    "normalized_title": "minute scale high fidelity gyrokinetic simulations with portability from laptop to supercomputer"
+  },
+  {
+    "title": "Quantum Vacuum Nonlinearities in Laser Interferometers",
+    "doi": "10.48550/arXiv.2609.03314",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-03",
+    "processed_date": "2026-09-05",
+    "source_url": "https://arxiv.org/abs/2609.03314",
+    "pdf_path": "daily/2026-09-05/pdfs/Mehdi et al. - 2026 - Quantum vacuum nonlinearities in laser interferometers.pdf",
+    "note_path": "daily/2026-09-05/notes/Mehdi et al. - 2026 - Quantum vacuum nonlinearities in laser interferometers.md",
+    "normalized_title": "quantum vacuum nonlinearities in laser interferometers"
+  },
+  {
+    "title": "Generalized multi-dimensional conservation laws for stimulated Raman and Brillouin scattering in a density gradient",
+    "doi": "10.1103/hdkp-2mpm",
+    "journal": "Physical Review E (accepted paper; corresponding arXiv v2 author preprint PDF)",
+    "publication_date": "2026-09-04",
+    "processed_date": "2026-09-05",
+    "source_url": "https://journals.aps.org/pre/accepted/10.1103/hdkp-2mpm",
+    "pdf_path": "daily/2026-09-05/pdfs/Patel et al. - 2026 - Generalized multidimensional conservation laws for SRS and SBS.pdf",
+    "note_path": "daily/2026-09-05/notes/Patel et al. - 2026 - Generalized multidimensional conservation laws for SRS and SBS.md",
+    "normalized_title": "generalized multi dimensional conservation laws for stimulated raman and brillouin scattering in a density gradient"
   }
 ]

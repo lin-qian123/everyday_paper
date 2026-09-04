@@ -11,6 +11,8 @@
 
 ## 开发记录
 
+- 2026-09-05：完成 DOI / arXiv identifier、规范化标题、历史 daily、重试队列和摘要/物理场景去重；检查 APS PRE accepted papers、Crossref 2026-09-04 更新与官方 arXiv 当日增量。新增 `10.48550/arXiv.2609.03550`、`10.48550/arXiv.2609.03354`、`10.48550/arXiv.2609.03314`、`10.1103/hdkp-2mpm`，分别覆盖 quasi-cylindrical QDS PIC、GTC hybrid spectral PIF、standing-wave cavity QED proposal 与 density-gradient SRS/SBS Noether conservation laws。4 份全文通过 `%PDF-`、18/19/11/21 页元数据、SHA-256、非空 `pdftotext` 与 MinerU 转换；新增 8 张关键图，台账从 317 增至 321，12 条来源限制重试项不变。严格区分作者数值 benchmark、理论灵敏度和守恒律推导，均不得外推为本地复现、轴子/QED 观测或实验束流结果。`10.1103/d45l-hsgg` 因 APS/DOI PDF 均返回 403 且未检得开放预印本，仅保留为后续候选，不从摘要生成全文笔记。
+
 - 2026-09-04：完成 DOI、规范化标题、历史 daily、重试队列和摘要/物理场景去重；复查 Cambridge HPL、Nature Photonics 2026 年 9 月卷期、官方 arXiv 五个目标分类，并定向检索 strong-field QED、laser-driven γ/光核/中子与束流应用。新增 `10.1038/s41566-026-01977-1`、`10.48550/arXiv.2609.02326`、`10.48550/arXiv.2609.01705`，分别覆盖 laser–plasma Raman 放大实验、非均匀等离子体 cFRA 理论/PIC 和物理方差锚定的生成式输运代理。3 份全文通过 `%PDF-`、10/7/16 页元数据、SHA-256、非空 `pdftotext` 与 MinerU 转换；新增 9 张关键图，台账从 314 增至 317，12 条来源限制重试项不变。严格区分 Shaw 实验的直接测量与条件功率估算、Lei 的理论/PIC multi-PW 预测、Reichherzer 的模拟/历史数据验证，均不得外推为强场 QED、光核/中子产额或剂量实测。
 
 - 2026-09-03：完成 DOI、规范化标题、历史 daily、重试队列和摘要/物理场景去重；复查 Cambridge HPL/JPP、官方 arXiv 五个目标分类，并定向检索 laser-plasma γ、strong-field QED 与束流应用。新增正式期刊记录 `10.1038/s41566-026-01958-4`、`10.1038/s41598-026-56639-7` 和 arXiv `10.48550/arXiv.2609.01494`，分别覆盖涂层 PM 增强 ICS 实验、双激光可调谐 MeV ITS 实验和自旋/偏振分辨 Monte Carlo。3 份全文通过 `%PDF-`、19/15/15 页元数据、SHA-256、非空 `pdftotext` 与 MinerU 转换；台账从 311 增至 314，12 条来源限制重试项不变。Nature Photonics 本地全文是 DOI 关系明确的 Research Square v1 作者预印本，非出版社排版版；其稳定端点还复现了 Python 读取卡住、`curl` 正常的下载器问题。严格区分实验、PIC/Geant4 机制或响应反演和 ELI-NP 模拟预测，不得外推为光核/中子/剂量实测。
@@ -154,9 +156,12 @@
 ## 阻塞点
 
 - 队列里的 12 条旧阻塞已明确是来源侧访问限制：Elsevier `HTTP 403`、Nature cookie wall、IOP bot wall。
+- 2026-09-04 接收的 PRE 论文 `10.1103/d45l-hsgg` 正文在 APS / DOI 路径返回 `HTTP 403`，当前未找到开放预印本；只保留元数据候选，待 version of record 或作者稿开放后再入库。
 - `2026-06-09` Cambridge/JPP 3 条、`2026-06-10` arXiv 3 条和 `2026-06-11` arXiv 3 条已在配置恢复后全部补回 PDF，不再是 runtime-blocked 积压。
 
 ## 下一步
+
+- 2026-09-05：台账已至 321 条。下轮优先重查 `10.1103/d45l-hsgg` 是否出现可合法获取的 APS version of record 或作者预印本，并继续寻找能同时闭合 laser-accelerated beam、转换靶后 γ 谱、光核/中子/活化产额、剂量与 shielding 的实验全文；不要把 QDS axion 数值源、cavity QED 理论 SNR、gyrokinetic 性能 benchmark 或 Noether 守恒推导写成实验观测。
 
 - 2026-08-26：完成 DOI、规范化标题、历史 daily 与主题内容去重；官方 arXiv `physics.plasm-ph` 近期提交中筛选并新增 `10.48550/arXiv.2608.22211`、`10.48550/arXiv.2608.23466`、`10.48550/arXiv.2608.23217`。三份官方 PDF 通过 `%PDF-`、18/9/40 页元数据、SHA-256 和文本提取校验，台账从 291 增至 294，12 条来源限制重试项保持不变。内容分别是二维 PIC 的 DLA 注入机制、OMEGA 参数下 FLASH 的螺旋 HED 射流设计、以及 EXL-50U 参考解关联的 GS 平衡代理比较；不得分别外推为实测束流/次级辐射性能、已完成 HED 射流实验或真机闭环控制。
 

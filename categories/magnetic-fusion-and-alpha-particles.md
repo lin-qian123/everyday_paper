@@ -2,11 +2,12 @@
 
 stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。
 
-- 当前收录：31 篇
-- 索引更新时间：2026-09-04
+- 当前收录：32 篇
+- 索引更新时间：2026-09-05
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-05 | [Minute-Scale High-Fidelity Gyrokinetic Simulations with Portability from Laptop to Supercomputer](../papers/arxiv-2609-03354/README.md) | arXiv preprint | [笔记](../daily/2026-09-05/notes/Bao et al. - 2026 - Minute-scale high-fidelity gyrokinetic simulations.md) |
 | 2026-09-01 | [Real-time virtual circuits for plasma shape control via neural network emulators: experimental demonstration on MAST Upgrade](../papers/arxiv-2608-28468/README.md) | arXiv preprint | [笔记](../daily/2026-09-01/notes/Amorisco et al. - 2026 - Real-time virtual circuits experimental demonstration on MAST-U.md) |
 | 2026-08-27 | [An Inverse Grad-Shafranov Neural Network Approach to Tokamak Magnetic Control](../papers/arxiv-2608-23976/README.md) | arXiv preprint | [笔记](../daily/2026-08-27/notes/Wang et al. - 2026 - An Inverse Grad-Shafranov Neural Network Approach to Tokamak Magnetic Control.md) |
 | 2026-08-26 | [AI Surrogate Modeling for Real-Time Tokamak Equilibrium Prediction: Benchmarking Neural Architectures and Validation on EXL-50U](../papers/arxiv-2608-23217/README.md) | arXiv preprint | [笔记](../daily/2026-08-26/notes/Shi et al. - 2026 - AI tokamak equilibrium surrogate.md) |

@@ -9,7 +9,7 @@
 - [索引文件](#索引文件)
 - [仓库结构](#仓库结构)
 - [分类索引](#分类索引)
-- [当前状态](#当前状态2026-09-04)
+- [当前状态](#当前状态2026-09-05)
 - [去重规则](#去重规则)
 - [PDF 下载稳健性](#pdf-下载稳健性)
 - [维护约定](#维护约定)
@@ -122,6 +122,12 @@
 - 已连续维护到 `daily/2026-09-04/`。本轮新增 Nature Photonics 正式开放论文 `10.1038/s41566-026-01977-1` 和官方 arXiv `10.48550/arXiv.2609.02326`、`10.48550/arXiv.2609.01705`，分别覆盖超宽带 laser–plasma Raman 放大实验、非均匀等离子体 cFRA 理论/PIC 与物理方差锚定的 diffusion transport surrogate。
 - 3 份全文均通过 `%PDF-`、`file`、`pdfinfo`、SHA-256 和非空 `pdftotext -layout`，并完成 MinerU Markdown 转换；台账从 314 增至 317 条，12 条来源限制重试项保持不变。当日笔记存入 9 张关键图，便于复核实验布局、增长窗和生成模型验证。
 - 证据边界：Shaw 直接测得 `64 fs`、约 `0.31 TW` 和最高 `8.7%` 时间重叠修正效率，但超过 `1.8 TW` 是无 SPIDER 炮次的条件估算；Lei 的近单周期、约 `10⁷` 增益和约 `4 PW` 来自理论/PIC；Reichherzer 用 MHD/test-particle 模拟与历史 proton-radiography 数据验证 surrogate，未运行新的等离子体实验。三篇都不能写成强场 QED、光核/中子产额或剂量实测。
+
+## 当前状态（2026-09-05）
+
+- 已连续维护到 `daily/2026-09-05/`。本轮新增官方 arXiv `10.48550/arXiv.2609.03550`、`10.48550/arXiv.2609.03354`、`10.48550/arXiv.2609.03314`，以及 2026-09-04 被 Physical Review E 接收的 `10.1103/hdkp-2mpm`；分别覆盖 EPOCH quasi-cylindrical QDS、GTC hybrid spectral PIF、standing-wave cavity QED proposal 和 density-gradient SRS/SBS 守恒律。
+- 4 份全文均通过 `%PDF-`、`file`、`pdfinfo`、SHA-256、非空 `pdftotext -layout` 和 MinerU Markdown 转换；台账从 317 增至 321 条，12 条来源限制重试项保持不变。PRE 论文的本地全文明确保存为对应 arXiv v2 author preprint，不是 APS 排版版。
+- 证据边界：An 和 Bao 的精度/性能均为作者 benchmark，本轮未做源码审计、编译或复现；Mehdi 的一天量级 QED sensitivity 是依赖最小 mode volume 与 shot-noise-limited readout 的理论估算；Patel 是 Noether 推导和代码校验框架，不是新实验。另一篇 cone-guided proton PRE accepted paper 因 PDF 403 且无开放预印本未入库。
 
 ## 当前状态（2026-08-25）
 

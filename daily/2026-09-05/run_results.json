@@ -1,0 +1,48 @@
+{
+  "run_date": "2026-09-05",
+  "ledger_before": 317,
+  "ledger_after": 321,
+  "added_count": 4,
+  "retry_queue_before": 12,
+  "retry_queue_after": 12,
+  "sources_checked": [
+    "APS Physical Review E accepted papers and Crossref records updated on 2026-09-04",
+    "official arXiv recent lists for physics.plasm-ph, physics.acc-ph, physics.comp-ph, hep-ph and quant-ph",
+    "targeted laser-plasma, PIC, gyrokinetic, strong-field QED, gamma, photonuclear, neutron and diagnostic searches"
+  ],
+  "added_identifiers": [
+    "10.48550/arXiv.2609.03550",
+    "10.48550/arXiv.2609.03354",
+    "10.48550/arXiv.2609.03314",
+    "10.1103/hdkp-2mpm"
+  ],
+  "dedupe": {
+    "keys": [
+      "DOI or arXiv identifier",
+      "normalized title",
+      "historical daily records",
+      "retry queue",
+      "abstract and physical scenario"
+    ],
+    "result": "All four additions are new to the ledger."
+  },
+  "skipped_candidates": [
+    {
+      "identifier": "10.1103/d45l-hsgg",
+      "title": "Cone-guided phase-space control of laser-driven proton beams",
+      "reason": "Highly relevant accepted PRE paper, but APS and DOI PDF requests returned HTTP 403 and no corresponding open preprint was found; not ingested from abstract alone."
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.03479",
+      "title": "Dependence of self-injected bunch parameters on the plasma density gradient and laser pulse amplitude at LWFA in a conical plasma channel",
+      "reason": "Relevant LWFA work but lower incremental algorithmic value than the selected QDS solver paper."
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.03768",
+      "title": "Computing high-order mixed derivatives in physics-informed neural networks using multi-index Bell polynomials",
+      "reason": "Methodological relevance is indirect to this run's PIC, gyrokinetic, QED and laser-plasma priorities."
+    }
+  ],
+  "pdf_validation": "daily/2026-09-05/pdf_validation.json",
+  "status": "success"
+}

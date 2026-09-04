@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "output": "daily/2026-09-05/pdfs/Patel et al. - 2026 - Generalized multidimensional conservation laws for SRS and SBS.pdf",
+  "source_url": "https://arxiv.org/pdf/2604.00295v2",
+  "mode": "env-proxy",
+  "attempts": [
+    "[env-proxy] https://journals.aps.org/pre/accepted/10.1103/hdkp-2mpm -> HTTP 403",
+    "[direct] https://journals.aps.org/pre/accepted/10.1103/hdkp-2mpm -> HTTP 403"
+  ]
+}

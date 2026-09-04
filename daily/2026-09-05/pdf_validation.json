@@ -1,0 +1,69 @@
+{
+  "run_date": "2026-09-05",
+  "source_policy": "Prefer publisher or official repository PDFs; the accepted PRE paper uses the corresponding arXiv v2 author preprint because the APS PDF returned HTTP 403.",
+  "workflow": [
+    "PDF header and file type",
+    "pdfinfo metadata and page count",
+    "SHA-256 checksum",
+    "non-empty pdftotext -layout",
+    "MinerU Markdown and image extraction"
+  ],
+  "items": [
+    {
+      "identifier": "10.48550/arXiv.2609.03550",
+      "path": "daily/2026-09-05/pdfs/An et al. - 2026 - X-dispersionless cylindrical PIC solver for electromagnetic and axion fields.pdf",
+      "source_url": "https://arxiv.org/pdf/2609.03550",
+      "version": "official arXiv PDF",
+      "bytes": 9978062,
+      "pages": 18,
+      "pdf_version": "1.7",
+      "sha256": "d02cfe9ed866e52ad8a8f34a10ecc01d2c574c70e9e4fded13f1fd55f40196ff",
+      "pdftotext_bytes": 77178,
+      "mineru_markdown_bytes": 75192,
+      "mineru_images": 97,
+      "ok": true
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.03354",
+      "path": "daily/2026-09-05/pdfs/Bao et al. - 2026 - Minute-scale high-fidelity gyrokinetic simulations.pdf",
+      "source_url": "https://arxiv.org/pdf/2609.03354",
+      "version": "official arXiv PDF",
+      "bytes": 6406265,
+      "pages": 19,
+      "pdf_version": "1.7",
+      "sha256": "96dc6e04687b6d9a8a5015f531c574554fc450e5f3c36a5cae423bb9b61bb382",
+      "pdftotext_bytes": 54229,
+      "mineru_markdown_bytes": 55295,
+      "mineru_images": 63,
+      "ok": true
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.03314",
+      "path": "daily/2026-09-05/pdfs/Mehdi et al. - 2026 - Quantum vacuum nonlinearities in laser interferometers.pdf",
+      "source_url": "https://arxiv.org/pdf/2609.03314",
+      "version": "official arXiv PDF",
+      "bytes": 696517,
+      "pages": 11,
+      "pdf_version": "1.7",
+      "sha256": "84d61356f361cbc65413a80d7a5f271f2e5ae46a4fdf7a760922addf82419761",
+      "pdftotext_bytes": 81867,
+      "mineru_markdown_bytes": 74289,
+      "mineru_images": 55,
+      "ok": true
+    },
+    {
+      "identifier": "10.1103/hdkp-2mpm",
+      "path": "daily/2026-09-05/pdfs/Patel et al. - 2026 - Generalized multidimensional conservation laws for SRS and SBS.pdf",
+      "source_url": "https://arxiv.org/pdf/2604.00295v2",
+      "version": "corresponding arXiv v2 author preprint for the accepted PRE paper",
+      "bytes": 357186,
+      "pages": 21,
+      "pdf_version": "1.7",
+      "sha256": "2ff546a13b8141cf6b72f5fd840cfea462f44046890b3571a7a14fbb7a8ff125",
+      "pdftotext_bytes": 79916,
+      "mineru_markdown_bytes": 85198,
+      "mineru_images": 99,
+      "ok": true
+    }
+  ]
+}
