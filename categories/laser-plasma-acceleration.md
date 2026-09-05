@@ -2,11 +2,13 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：107 篇
-- 索引更新时间：2026-09-05
+- 当前收录：109 篇
+- 索引更新时间：2026-09-06
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-06 | [High-Flux X-Ray Emission due to Injection into a Laser-Wakefield Accelerator beyond Its Depletion Length](../papers/10-1103-krsl-322s/README.md) | Physical Review Letters | [笔记](../daily/2026-09-06/notes/Wood et al. - 2026 - High-flux X-ray emission beyond LWFA depletion length.md) |
+| 2026-09-06 | [Dependence of self-injected bunch parameters on the plasma density gradient and laser pulse amplitude at LWFA in a conical plasma channel](../papers/arxiv-2609-03479/README.md) | arXiv preprint | [笔记](../daily/2026-09-06/notes/Bondar et al. - 2026 - Self-injected LWFA bunches in a conical plasma channel.md) |
 | 2026-09-03 | [Polarized quantum effects in countable signals from intense laser - electron beam interactions](../papers/arxiv-2609-01494/README.md) | arXiv preprint | [笔记](../daily/2026-09-03/notes/Moritaka et al. - 2026 - Polarized quantum effects in countable laser-electron signals.md) |
 | 2026-09-03 | [Enhanced inverse Compton scattering via spontaneous focusing induced by a coated plasma mirror](../papers/10-1038-s41566-026-01958-4/README.md) | Nature Photonics (Research Square author preprint PDF) | [笔记](../daily/2026-09-03/notes/Hu et al. - 2026 - Enhanced inverse Compton scattering via coated plasma mirror.md) |
 | 2026-09-03 | [Stable and tunable MeV γ-ray generation via dual-laser inverse Thomson scattering from a laser-plasma accelerator](../papers/10-1038-s41598-026-56639-7/README.md) | Scientific Reports | [笔记](../daily/2026-09-03/notes/Tsai et al. - 2026 - Stable and tunable MeV gamma-ray generation via dual-laser ITS.md) |

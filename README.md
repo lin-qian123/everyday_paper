@@ -9,7 +9,7 @@
 - [索引文件](#索引文件)
 - [仓库结构](#仓库结构)
 - [分类索引](#分类索引)
-- [当前状态](#当前状态2026-09-05)
+- [当前状态](#当前状态2026-09-06)
 - [去重规则](#去重规则)
 - [PDF 下载稳健性](#pdf-下载稳健性)
 - [维护约定](#维护约定)
@@ -128,6 +128,12 @@
 - 已连续维护到 `daily/2026-09-05/`。本轮新增官方 arXiv `10.48550/arXiv.2609.03550`、`10.48550/arXiv.2609.03354`、`10.48550/arXiv.2609.03314`，以及 2026-09-04 被 Physical Review E 接收的 `10.1103/hdkp-2mpm`；分别覆盖 EPOCH quasi-cylindrical QDS、GTC hybrid spectral PIF、standing-wave cavity QED proposal 和 density-gradient SRS/SBS 守恒律。
 - 4 份全文均通过 `%PDF-`、`file`、`pdfinfo`、SHA-256、非空 `pdftotext -layout` 和 MinerU Markdown 转换；台账从 317 增至 321 条，12 条来源限制重试项保持不变。PRE 论文的本地全文明确保存为对应 arXiv v2 author preprint，不是 APS 排版版。
 - 证据边界：An 和 Bao 的精度/性能均为作者 benchmark，本轮未做源码审计、编译或复现；Mehdi 的一天量级 QED sensitivity 是依赖最小 mode volume 与 shot-noise-limited readout 的理论估算；Patel 是 Noether 推导和代码校验框架，不是新实验。另一篇 cone-guided proton PRE accepted paper 因 PDF 403 且无开放预印本未入库。
+
+## 当前状态（2026-09-06）
+
+- 已连续维护到 `daily/2026-09-06/`。本轮新增正式发表 PRL `10.1103/krsl-322s`、2026-09-05 被 Physical Review Research 接收的 `10.1103/qd3v-7j5p`，以及 arXiv `10.48550/arXiv.2609.03479`；分别覆盖耗尽长度后第二注入增强 betatron X 射线、低电荷 neutron–γ 深度学习判别和锥形通道 LWFA 的 2D3V WarpX 扫描。
+- 3 份全文均通过 `%PDF-`、`file`、`pdfinfo`、SHA-256、非空 `pdftotext -layout` 和 MinerU Markdown 转换；台账从 321 增至 324 条，12 条来源限制重试项保持不变。当日笔记保存 12 张关键图。PRL 本地文件是 APS 官方开放排版版；PRResearch 本地文件明确是对应 arXiv v2 author preprint，不是 APS 排版版。
+- 证据边界：Wood 的通量增长和电子 / X 射线扫描是实验结果，但 $r_\beta$、第二注入机制与峰值亮度分别含谱反演、FBPIC 和模拟脉宽假设；Carreau 的独立 prompt-γ 检验为 92.3% accuracy，低电荷 precision / recall 主要相对 PSD 标签且未证明跨仪器泛化；Bondar 只有作者的 2D3V WarpX 扫描，32.1 μC/m 是二维线电荷。本轮没有本地模拟复现，也没有转换靶光核 / 中子产额、剂量或屏蔽实测。
 
 ## 当前状态（2026-08-25）
 

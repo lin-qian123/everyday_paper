@@ -1,0 +1,32 @@
+[
+  {
+    "pdf": "daily/2026-09-06/pdfs/Bondar et al. - 2026 - Self-injected LWFA bunches in a conical plasma channel.pdf",
+    "bytes": 952603,
+    "head": "%PDF-",
+    "pages": 7,
+    "sha256": "debddab57654215967b051798fce532aa18e318bd51d0af7dcfb7e82881d826a",
+    "pdftotext_rc": 0,
+    "text_chars": 39194,
+    "nonempty_text": true
+  },
+  {
+    "pdf": "daily/2026-09-06/pdfs/Carreau et al. - 2026 - SINAPSE neutron-gamma discrimination.pdf",
+    "bytes": 5980810,
+    "head": "%PDF-",
+    "pages": 13,
+    "sha256": "24ed1cfd4b37dc41a0590ca1d1aab0036c80bf6894dbf47f824546a1d6ef0a99",
+    "pdftotext_rc": 0,
+    "text_chars": 94177,
+    "nonempty_text": true
+  },
+  {
+    "pdf": "daily/2026-09-06/pdfs/Wood et al. - 2026 - High-flux X-ray emission beyond LWFA depletion length.pdf",
+    "bytes": 1088907,
+    "head": "%PDF-",
+    "pages": 7,
+    "sha256": "6c8f920b9306d5301dfbadd288943ce42edc99d01e5c14fa3a921587469643ac",
+    "pdftotext_rc": 0,
+    "text_chars": 46407,
+    "nonempty_text": true
+  }
+]

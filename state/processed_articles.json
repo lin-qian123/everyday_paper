@@ -3535,5 +3535,38 @@
     "pdf_path": "daily/2026-09-05/pdfs/Patel et al. - 2026 - Generalized multidimensional conservation laws for SRS and SBS.pdf",
     "note_path": "daily/2026-09-05/notes/Patel et al. - 2026 - Generalized multidimensional conservation laws for SRS and SBS.md",
     "normalized_title": "generalized multi dimensional conservation laws for stimulated raman and brillouin scattering in a density gradient"
+  },
+  {
+    "title": "High-Flux X-Ray Emission due to Injection into a Laser-Wakefield Accelerator beyond Its Depletion Length",
+    "doi": "10.1103/krsl-322s",
+    "journal": "Physical Review Letters",
+    "publication_date": "2026-09-03",
+    "processed_date": "2026-09-06",
+    "source_url": "https://journals.aps.org/prl/abstract/10.1103/krsl-322s",
+    "pdf_path": "daily/2026-09-06/pdfs/Wood et al. - 2026 - High-flux X-ray emission beyond LWFA depletion length.pdf",
+    "note_path": "daily/2026-09-06/notes/Wood et al. - 2026 - High-flux X-ray emission beyond LWFA depletion length.md",
+    "normalized_title": "high flux x ray emission due to injection into a laser wakefield accelerator beyond its depletion length"
+  },
+  {
+    "title": "SINAPSE: A lightweight deep learning framework for accurate and explainable neutron-γ discrimination",
+    "doi": "10.1103/qd3v-7j5p",
+    "journal": "Physical Review Research (accepted paper; corresponding arXiv v2 author preprint PDF)",
+    "publication_date": "2026-09-05",
+    "processed_date": "2026-09-06",
+    "source_url": "https://journals.aps.org/prresearch/accepted/10.1103/qd3v-7j5p",
+    "pdf_path": "daily/2026-09-06/pdfs/Carreau et al. - 2026 - SINAPSE neutron-gamma discrimination.pdf",
+    "note_path": "daily/2026-09-06/notes/Carreau et al. - 2026 - SINAPSE neutron-gamma discrimination.md",
+    "normalized_title": "sinapse a lightweight deep learning framework for accurate and explainable neutron γ discrimination"
+  },
+  {
+    "title": "Dependence of self-injected bunch parameters on the plasma density gradient and laser pulse amplitude at LWFA in a conical plasma channel",
+    "doi": "10.48550/arXiv.2609.03479",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-03",
+    "processed_date": "2026-09-06",
+    "source_url": "https://arxiv.org/abs/2609.03479",
+    "pdf_path": "daily/2026-09-06/pdfs/Bondar et al. - 2026 - Self-injected LWFA bunches in a conical plasma channel.pdf",
+    "note_path": "daily/2026-09-06/notes/Bondar et al. - 2026 - Self-injected LWFA bunches in a conical plasma channel.md",
+    "normalized_title": "dependence of self injected bunch parameters on the plasma density gradient and laser pulse amplitude at lwfa in a conical plasma channel"
   }
 ]

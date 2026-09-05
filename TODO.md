@@ -11,6 +11,8 @@
 
 ## 开发记录
 
+- 2026-09-06：完成 DOI / arXiv identifier、规范化标题、历史 daily、重试队列和摘要 / 物理场景去重；检查 APS PRL / PRResearch recent / accepted 增量、官方 arXiv 目标分类与 laser–plasma、PIC、ML neutron–γ、光核 / 中子 / 防护定向结果。新增正式 PRL `10.1103/krsl-322s`、PRResearch accepted paper `10.1103/qd3v-7j5p` 和 arXiv `10.48550/arXiv.2609.03479`。3 份全文通过 `%PDF-`、7/13/7 页元数据、SHA-256、非空 `pdftotext` 与 MinerU 转换；新增 12 张关键图，台账从 321 增至 324，12 条来源限制重试项不变。严格区分 Wood 的实验通量与模型辅助 $r_\beta$ / 亮度、Carreau 的 PSD-label 一致性与独立 prompt-γ 验证、Bondar 的二维 WarpX 线电荷；均不能外推为跨仪器通用误差率、本地 PIC 复现或光核 / 中子 / 剂量实测。APS `10.1103/sgyf-lrw1`、`10.1103/2rqf-hq77` 因未找到可合法获取全文，不从摘要生成笔记。
+
 - 2026-09-05：完成 DOI / arXiv identifier、规范化标题、历史 daily、重试队列和摘要/物理场景去重；检查 APS PRE accepted papers、Crossref 2026-09-04 更新与官方 arXiv 当日增量。新增 `10.48550/arXiv.2609.03550`、`10.48550/arXiv.2609.03354`、`10.48550/arXiv.2609.03314`、`10.1103/hdkp-2mpm`，分别覆盖 quasi-cylindrical QDS PIC、GTC hybrid spectral PIF、standing-wave cavity QED proposal 与 density-gradient SRS/SBS Noether conservation laws。4 份全文通过 `%PDF-`、18/19/11/21 页元数据、SHA-256、非空 `pdftotext` 与 MinerU 转换；新增 8 张关键图，台账从 317 增至 321，12 条来源限制重试项不变。严格区分作者数值 benchmark、理论灵敏度和守恒律推导，均不得外推为本地复现、轴子/QED 观测或实验束流结果。`10.1103/d45l-hsgg` 因 APS/DOI PDF 均返回 403 且未检得开放预印本，仅保留为后续候选，不从摘要生成全文笔记。
 
 - 2026-09-04：完成 DOI、规范化标题、历史 daily、重试队列和摘要/物理场景去重；复查 Cambridge HPL、Nature Photonics 2026 年 9 月卷期、官方 arXiv 五个目标分类，并定向检索 strong-field QED、laser-driven γ/光核/中子与束流应用。新增 `10.1038/s41566-026-01977-1`、`10.48550/arXiv.2609.02326`、`10.48550/arXiv.2609.01705`，分别覆盖 laser–plasma Raman 放大实验、非均匀等离子体 cFRA 理论/PIC 和物理方差锚定的生成式输运代理。3 份全文通过 `%PDF-`、10/7/16 页元数据、SHA-256、非空 `pdftotext` 与 MinerU 转换；新增 9 张关键图，台账从 314 增至 317，12 条来源限制重试项不变。严格区分 Shaw 实验的直接测量与条件功率估算、Lei 的理论/PIC multi-PW 预测、Reichherzer 的模拟/历史数据验证，均不得外推为强场 QED、光核/中子产额或剂量实测。
@@ -160,6 +162,8 @@
 - `2026-06-09` Cambridge/JPP 3 条、`2026-06-10` arXiv 3 条和 `2026-06-11` arXiv 3 条已在配置恢复后全部补回 PDF，不再是 runtime-blocked 积压。
 
 ## 下一步
+
+- 2026-09-06：台账已至 324 条。下轮继续优先正式发表来源，并重查 `10.1103/sgyf-lrw1`、`10.1103/2rqf-hq77`、`10.1103/d45l-hsgg` 是否出现合法开放全文；持续追踪可同时闭合 laser-accelerated beam、转换靶 γ 谱、光核 / 中子 / 活化产额、剂量与 shielding 的实验论文。迁移 SINAPSE 到激光中子场前必须验证探测器 / 电子学 domain shift；不要把 Wood 的模型辅助亮度或 Bondar 的二维线电荷写成直接测量或三维束团电荷。
 
 - 2026-09-05：台账已至 321 条。下轮优先重查 `10.1103/d45l-hsgg` 是否出现可合法获取的 APS version of record 或作者预印本，并继续寻找能同时闭合 laser-accelerated beam、转换靶后 γ 谱、光核/中子/活化产额、剂量与 shielding 的实验全文；不要把 QDS axion 数值源、cavity QED 理论 SNR、gyrokinetic 性能 benchmark 或 Noether 守恒推导写成实验观测。
 

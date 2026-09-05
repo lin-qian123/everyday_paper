@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：321 篇
-- 索引更新时间：2026-09-05
+- 当前入库论文：324 篇
+- 索引更新时间：2026-09-06
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-09-06 | [SINAPSE: A lightweight deep learning framework for accurate and explainable neutron-γ discrimination](./10-1103-qd3v-7j5p/README.md) | Physical Review Research (accepted paper; corresponding arXiv v2 author preprint PDF) | [10.1103/qd3v-7j5p](https://doi.org/10.1103/qd3v-7j5p) |
+| 2026-09-06 | [High-Flux X-Ray Emission due to Injection into a Laser-Wakefield Accelerator beyond Its Depletion Length](./10-1103-krsl-322s/README.md) | Physical Review Letters | [10.1103/krsl-322s](https://doi.org/10.1103/krsl-322s) |
+| 2026-09-06 | [Dependence of self-injected bunch parameters on the plasma density gradient and laser pulse amplitude at LWFA in a conical plasma channel](./arxiv-2609-03479/README.md) | arXiv preprint | [10.48550/arXiv.2609.03479](https://doi.org/10.48550/arXiv.2609.03479) |
 | 2026-09-05 | [Generalized multi-dimensional conservation laws for stimulated Raman and Brillouin scattering in a density gradient](./10-1103-hdkp-2mpm/README.md) | Physical Review E (accepted paper; corresponding arXiv v2 author preprint PDF) | [10.1103/hdkp-2mpm](https://doi.org/10.1103/hdkp-2mpm) |
 | 2026-09-05 | [X-dispersionless solver for electromagnetic and axion fields in a cylindrical particle-in-cell code](./arxiv-2609-03550/README.md) | arXiv preprint | [10.48550/arXiv.2609.03550](https://doi.org/10.48550/arXiv.2609.03550) |
 | 2026-09-05 | [Minute-Scale High-Fidelity Gyrokinetic Simulations with Portability from Laptop to Supercomputer](./arxiv-2609-03354/README.md) | arXiv preprint | [10.48550/arXiv.2609.03354](https://doi.org/10.48550/arXiv.2609.03354) |

@@ -1,0 +1,61 @@
+{
+  "run_date": "2026-09-06",
+  "ledger_before": 321,
+  "ledger_after": 324,
+  "added_count": 3,
+  "retry_queue_before": 12,
+  "retry_queue_after": 12,
+  "sources_checked": [
+    "APS Physical Review Letters and Physical Review Research recent and accepted records visible through 2026-09-05",
+    "official arXiv Atom API and abstract records for physics.plasm-ph, physics.acc-ph, physics.comp-ph and physics.ins-det",
+    "targeted laser-plasma, PIC, strong-field QED, gamma, photonuclear, neutron, radiation-protection and diagnostic searches"
+  ],
+  "added_identifiers": [
+    "10.1103/krsl-322s",
+    "10.1103/qd3v-7j5p",
+    "10.48550/arXiv.2609.03479"
+  ],
+  "dedupe": {
+    "keys": [
+      "DOI or arXiv identifier",
+      "normalized title",
+      "historical daily records",
+      "retry queue",
+      "abstract and physical scenario"
+    ],
+    "result": "All three additions are new to the ledger."
+  },
+  "skipped_candidates": [
+    {
+      "identifier": "10.1103/sgyf-lrw1",
+      "title": "Spatiotemporal ionization dynamics in nonthermal copper plasma pumped by femtosecond relativistic laser pulse",
+      "reason": "Highly relevant Physical Review Research accepted paper, but no legally accessible open full text was found; not ingested from abstract alone."
+    },
+    {
+      "identifier": "10.1103/2rqf-hq77",
+      "title": "Direct observation of saturated heat-flux inhibition by magnetic fields in laser-produced plasmas",
+      "reason": "Relevant Physical Review Research accepted paper, but no legally accessible open full text was found; not ingested from abstract alone."
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.03822",
+      "title": "Rare-event importance sampling for radiation shielding with Geant4",
+      "reason": "Relevant to radiation protection but less direct to this run's laser-driven source, neutron diagnostic and PIC evidence chain."
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.03768",
+      "title": "Computing high-order mixed derivatives in physics-informed neural networks using multi-index Bell polynomials",
+      "reason": "Methodological relevance is indirect compared with the selected detector and PIC papers."
+    }
+  ],
+  "pdf_validation": "daily/2026-09-06/pdf_validation.json",
+  "mineru": {
+    "status": "success",
+    "batch_ids": [
+      "383634de-a9e3-4ff6-b03c-1d7017b5303f",
+      "4fe45942-0f02-414c-be30-419c80b4f2b3",
+      "0f383629-8cf2-4083-ab95-b50bef5f9928"
+    ],
+    "selected_images": 12
+  },
+  "status": "success"
+}

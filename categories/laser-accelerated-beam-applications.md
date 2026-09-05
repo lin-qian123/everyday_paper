@@ -2,11 +2,12 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：67 篇
-- 索引更新时间：2026-09-05
+- 当前收录：68 篇
+- 索引更新时间：2026-09-06
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-06 | [SINAPSE: A lightweight deep learning framework for accurate and explainable neutron-γ discrimination](../papers/10-1103-qd3v-7j5p/README.md) | Physical Review Research (accepted paper; corresponding arXiv v2 author preprint PDF) | [笔记](../daily/2026-09-06/notes/Carreau et al. - 2026 - SINAPSE neutron-gamma discrimination.md) |
 | 2026-09-04 | [Generative Diffusion Surrogates with Analytical Variance Schedule](../papers/arxiv-2609-01705/README.md) | arXiv preprint (accepted for Nature Communications) | [笔记](../daily/2026-09-04/notes/Reichherzer et al. - 2026 - Generative Diffusion Surrogates with Analytical Variance Schedule.md) |
 | 2026-09-03 | [Polarized quantum effects in countable signals from intense laser - electron beam interactions](../papers/arxiv-2609-01494/README.md) | arXiv preprint | [笔记](../daily/2026-09-03/notes/Moritaka et al. - 2026 - Polarized quantum effects in countable laser-electron signals.md) |
 | 2026-09-03 | [Enhanced inverse Compton scattering via spontaneous focusing induced by a coated plasma mirror](../papers/10-1038-s41566-026-01958-4/README.md) | Nature Photonics (Research Square author preprint PDF) | [笔记](../daily/2026-09-03/notes/Hu et al. - 2026 - Enhanced inverse Compton scattering via coated plasma mirror.md) |
