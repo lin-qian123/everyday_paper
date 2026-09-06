@@ -2,11 +2,12 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：77 篇
-- 索引更新时间：2026-09-06
+- 当前收录：78 篇
+- 索引更新时间：2026-09-07
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-07 | [Experimental Investigation of laser driven proton bunching with plastic foil targets](../papers/10-1017-hpl-2026-10184/README.md) | High Power Laser Science and Engineering (accepted manuscript, open access) | [笔记](../daily/2026-09-07/notes/Batani et al. - 2026 - Laser-driven proton bunching with plastic foils.md) |
 | 2026-09-04 | [Chirped-Pulse Forward Raman Amplification in Nonuniform Plasmas](../papers/arxiv-2609-02326/README.md) | arXiv preprint | [笔记](../daily/2026-09-04/notes/Lei et al. - 2026 - Chirped-Pulse Forward Raman Amplification in Nonuniform Plasmas.md) |
 | 2026-09-04 | [Laser–plasma amplification of an ultrabroadband laser pulse to 0.3 TW](../papers/10-1038-s41566-026-01977-1/README.md) | Nature Photonics | [笔记](../daily/2026-09-04/notes/Shaw et al. - 2026 - Laser-plasma amplification of an ultrabroadband pulse to 0.3 TW.md) |
 | 2026-09-03 | [Enhanced inverse Compton scattering via spontaneous focusing induced by a coated plasma mirror](../papers/10-1038-s41566-026-01958-4/README.md) | Nature Photonics (Research Square author preprint PDF) | [笔记](../daily/2026-09-03/notes/Hu et al. - 2026 - Enhanced inverse Compton scattering via coated plasma mirror.md) |

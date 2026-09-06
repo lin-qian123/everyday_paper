@@ -3568,5 +3568,38 @@
     "pdf_path": "daily/2026-09-06/pdfs/Bondar et al. - 2026 - Self-injected LWFA bunches in a conical plasma channel.pdf",
     "note_path": "daily/2026-09-06/notes/Bondar et al. - 2026 - Self-injected LWFA bunches in a conical plasma channel.md",
     "normalized_title": "dependence of self injected bunch parameters on the plasma density gradient and laser pulse amplitude at lwfa in a conical plasma channel"
+  },
+  {
+    "title": "Detailed study of non-equilibrium characteristics of quasi-neutral TNSA plasmas",
+    "doi": "10.1017/hpl.2026.10188",
+    "journal": "High Power Laser Science and Engineering (accepted manuscript, open access)",
+    "publication_date": "2026-08-03",
+    "processed_date": "2026-09-07",
+    "source_url": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/detailed-study-of-nonequilibrium-characteristics-of-quasineutral-tnsa-plasmas/EB854A90AE81D74E778949520030BE9E",
+    "pdf_path": "daily/2026-09-07/pdfs/Zhu et al. - 2026 - Non-equilibrium quasi-neutral TNSA plasmas.pdf",
+    "note_path": "daily/2026-09-07/notes/Zhu et al. - 2026 - Non-equilibrium quasi-neutral TNSA plasmas.md",
+    "normalized_title": "detailed study of non equilibrium characteristics of quasi neutral tnsa plasmas"
+  },
+  {
+    "title": "Experimental Investigation of laser driven proton bunching with plastic foil targets",
+    "doi": "10.1017/hpl.2026.10184",
+    "journal": "High Power Laser Science and Engineering (accepted manuscript, open access)",
+    "publication_date": "2026-07-22",
+    "processed_date": "2026-09-07",
+    "source_url": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/experimental-investigation-of-laser-driven-proton-bunching-with-plastic-foil-targets/314E4B697ED3C4331A35C84B7E479AE8",
+    "pdf_path": "daily/2026-09-07/pdfs/Batani et al. - 2026 - Laser-driven proton bunching with plastic foils.pdf",
+    "note_path": "daily/2026-09-07/notes/Batani et al. - 2026 - Laser-driven proton bunching with plastic foils.md",
+    "normalized_title": "experimental investigation of laser driven proton bunching with plastic foil targets"
+  },
+  {
+    "title": "Observation and Mitigation of Kelvin-Helmholtz Instability-Driven Gold Contamination in Double-Cone Ignition",
+    "doi": "10.1017/hpl.2026.10181",
+    "journal": "High Power Laser Science and Engineering (accepted manuscript, open access)",
+    "publication_date": "2026-07-23",
+    "processed_date": "2026-09-07",
+    "source_url": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/observation-and-mitigation-of-kelvinhelmholtz-instabilitydriven-gold-contamination-in-doublecone-ignition/4E355E2AFD8D14131309D4485CF3E91C",
+    "pdf_path": "daily/2026-09-07/pdfs/Zhang et al. - 2026 - Kelvin-Helmholtz gold contamination in DCI.pdf",
+    "note_path": "daily/2026-09-07/notes/Zhang et al. - 2026 - Kelvin-Helmholtz gold contamination in DCI.md",
+    "normalized_title": "observation and mitigation of kelvin helmholtz instability driven gold contamination in double cone ignition"
   }
 ]

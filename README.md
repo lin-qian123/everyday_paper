@@ -9,7 +9,7 @@
 - [索引文件](#索引文件)
 - [仓库结构](#仓库结构)
 - [分类索引](#分类索引)
-- [当前状态](#当前状态2026-09-06)
+- [当前状态](#当前状态2026-09-07)
 - [去重规则](#去重规则)
 - [PDF 下载稳健性](#pdf-下载稳健性)
 - [维护约定](#维护约定)
@@ -123,17 +123,23 @@
 - 3 份全文均通过 `%PDF-`、`file`、`pdfinfo`、SHA-256 和非空 `pdftotext -layout`，并完成 MinerU Markdown 转换；台账从 314 增至 317 条，12 条来源限制重试项保持不变。当日笔记存入 9 张关键图，便于复核实验布局、增长窗和生成模型验证。
 - 证据边界：Shaw 直接测得 `64 fs`、约 `0.31 TW` 和最高 `8.7%` 时间重叠修正效率，但超过 `1.8 TW` 是无 SPIDER 炮次的条件估算；Lei 的近单周期、约 `10⁷` 增益和约 `4 PW` 来自理论/PIC；Reichherzer 用 MHD/test-particle 模拟与历史 proton-radiography 数据验证 surrogate，未运行新的等离子体实验。三篇都不能写成强场 QED、光核/中子产额或剂量实测。
 
-## 当前状态（2026-09-05）
+## 当前状态（2026-09-07）
 
-- 已连续维护到 `daily/2026-09-05/`。本轮新增官方 arXiv `10.48550/arXiv.2609.03550`、`10.48550/arXiv.2609.03354`、`10.48550/arXiv.2609.03314`，以及 2026-09-04 被 Physical Review E 接收的 `10.1103/hdkp-2mpm`；分别覆盖 EPOCH quasi-cylindrical QDS、GTC hybrid spectral PIF、standing-wave cavity QED proposal 和 density-gradient SRS/SBS 守恒律。
-- 4 份全文均通过 `%PDF-`、`file`、`pdfinfo`、SHA-256、非空 `pdftotext -layout` 和 MinerU Markdown 转换；台账从 317 增至 321 条，12 条来源限制重试项保持不变。PRE 论文的本地全文明确保存为对应 arXiv v2 author preprint，不是 APS 排版版。
-- 证据边界：An 和 Bao 的精度/性能均为作者 benchmark，本轮未做源码审计、编译或复现；Mehdi 的一天量级 QED sensitivity 是依赖最小 mode volume 与 shot-noise-limited readout 的理论估算；Patel 是 Noether 推导和代码校验框架，不是新实验。另一篇 cone-guided proton PRE accepted paper 因 PDF 403 且无开放预印本未入库。
+- 已连续维护到 `daily/2026-09-07/`。本轮从 HPLSE 开放 accepted manuscripts 中补入 `10.1017/hpl.2026.10188`、`10.1017/hpl.2026.10184` 与 `10.1017/hpl.2026.10181`，分别覆盖 TNSA 质子谱—同位素产额联合诊断、LFEX 薄箔质子能谱束团化和 DCI 金污染的 Cu Kα 背光 / CH 涂层缓解。
+- 3 份全文通过 `%PDF-`、`file`、`pdfinfo`、SHA-256 和非空 `pdftotext -layout`；台账从 324 增至 327 条，12 条来源限制重试项不变。当前环境缺少 `MINERU_TOKEN`，因此没有声称完成 MinerU 转换；当日保存并人工查看 9 张 PDF 页面图。
+- 证据边界：Zhu 的同位素衰变有实验基础，但逐发产额与最高 $(1.6\pm0.5)\times10^9$ 个 $\alpha$ 含截面 / SRIM 反演；Batani 直接测到质子能谱峰，但“energy bunch”不是已测时间短束团或核应用增益；Zhang 直接验证涂层提高透射率，Au 分数、KHI 延迟与点火辐射惩罚来自 FLASH / opacity 模型。三篇均不能写成已实现临床产率、聚变点火或中子增益。
 
 ## 当前状态（2026-09-06）
 
 - 已连续维护到 `daily/2026-09-06/`。本轮新增正式发表 PRL `10.1103/krsl-322s`、2026-09-05 被 Physical Review Research 接收的 `10.1103/qd3v-7j5p`，以及 arXiv `10.48550/arXiv.2609.03479`；分别覆盖耗尽长度后第二注入增强 betatron X 射线、低电荷 neutron–γ 深度学习判别和锥形通道 LWFA 的 2D3V WarpX 扫描。
 - 3 份全文均通过 `%PDF-`、`file`、`pdfinfo`、SHA-256、非空 `pdftotext -layout` 和 MinerU Markdown 转换；台账从 321 增至 324 条，12 条来源限制重试项保持不变。当日笔记保存 12 张关键图。PRL 本地文件是 APS 官方开放排版版；PRResearch 本地文件明确是对应 arXiv v2 author preprint，不是 APS 排版版。
 - 证据边界：Wood 的通量增长和电子 / X 射线扫描是实验结果，但 $r_\beta$、第二注入机制与峰值亮度分别含谱反演、FBPIC 和模拟脉宽假设；Carreau 的独立 prompt-γ 检验为 92.3% accuracy，低电荷 precision / recall 主要相对 PSD 标签且未证明跨仪器泛化；Bondar 只有作者的 2D3V WarpX 扫描，32.1 μC/m 是二维线电荷。本轮没有本地模拟复现，也没有转换靶光核 / 中子产额、剂量或屏蔽实测。
+
+## 当前状态（2026-09-05）
+
+- 已连续维护到 `daily/2026-09-05/`。本轮新增官方 arXiv `10.48550/arXiv.2609.03550`、`10.48550/arXiv.2609.03354`、`10.48550/arXiv.2609.03314`，以及 2026-09-04 被 Physical Review E 接收的 `10.1103/hdkp-2mpm`；分别覆盖 EPOCH quasi-cylindrical QDS、GTC hybrid spectral PIF、standing-wave cavity QED proposal 和 density-gradient SRS/SBS 守恒律。
+- 4 份全文均通过 `%PDF-`、`file`、`pdfinfo`、SHA-256、非空 `pdftotext -layout` 和 MinerU Markdown 转换；台账从 317 增至 321 条，12 条来源限制重试项保持不变。PRE 论文的本地全文明确保存为对应 arXiv v2 author preprint，不是 APS 排版版。
+- 证据边界：An 和 Bao 的精度/性能均为作者 benchmark，本轮未做源码审计、编译或复现；Mehdi 的一天量级 QED sensitivity 是依赖最小 mode volume 与 shot-noise-limited readout 的理论估算；Patel 是 Noether 推导和代码校验框架，不是新实验。另一篇 cone-guided proton PRE accepted paper 因 PDF 403 且无开放预印本未入库。
 
 ## 当前状态（2026-08-25）
 

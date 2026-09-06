@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：324 篇
-- 索引更新时间：2026-09-06
+- 当前入库论文：327 篇
+- 索引更新时间：2026-09-07
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-09-07 | [Detailed study of non-equilibrium characteristics of quasi-neutral TNSA plasmas](./10-1017-hpl-2026-10188/README.md) | High Power Laser Science and Engineering (accepted manuscript, open access) | [10.1017/hpl.2026.10188](https://doi.org/10.1017/hpl.2026.10188) |
+| 2026-09-07 | [Observation and Mitigation of Kelvin-Helmholtz Instability-Driven Gold Contamination in Double-Cone Ignition](./10-1017-hpl-2026-10181/README.md) | High Power Laser Science and Engineering (accepted manuscript, open access) | [10.1017/hpl.2026.10181](https://doi.org/10.1017/hpl.2026.10181) |
+| 2026-09-07 | [Experimental Investigation of laser driven proton bunching with plastic foil targets](./10-1017-hpl-2026-10184/README.md) | High Power Laser Science and Engineering (accepted manuscript, open access) | [10.1017/hpl.2026.10184](https://doi.org/10.1017/hpl.2026.10184) |
 | 2026-09-06 | [SINAPSE: A lightweight deep learning framework for accurate and explainable neutron-γ discrimination](./10-1103-qd3v-7j5p/README.md) | Physical Review Research (accepted paper; corresponding arXiv v2 author preprint PDF) | [10.1103/qd3v-7j5p](https://doi.org/10.1103/qd3v-7j5p) |
 | 2026-09-06 | [High-Flux X-Ray Emission due to Injection into a Laser-Wakefield Accelerator beyond Its Depletion Length](./10-1103-krsl-322s/README.md) | Physical Review Letters | [10.1103/krsl-322s](https://doi.org/10.1103/krsl-322s) |
 | 2026-09-06 | [Dependence of self-injected bunch parameters on the plasma density gradient and laser pulse amplitude at LWFA in a conical plasma channel](./arxiv-2609-03479/README.md) | arXiv preprint | [10.48550/arXiv.2609.03479](https://doi.org/10.48550/arXiv.2609.03479) |

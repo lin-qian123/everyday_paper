@@ -1,0 +1,32 @@
+[
+  {
+    "pdf": "daily/2026-09-07/pdfs/Batani et al. - 2026 - Laser-driven proton bunching with plastic foils.pdf",
+    "bytes": 1100012,
+    "head": "%PDF-",
+    "pages": 16,
+    "sha256": "d4e4d167c635fa9ebe1465fcc2bccf7d36d778c44ea384befc51324c7c309de1",
+    "pdftotext_rc": 0,
+    "text_chars": 57841,
+    "nonempty_text": true
+  },
+  {
+    "pdf": "daily/2026-09-07/pdfs/Zhang et al. - 2026 - Kelvin-Helmholtz gold contamination in DCI.pdf",
+    "bytes": 739713,
+    "head": "%PDF-",
+    "pages": 14,
+    "sha256": "e666ed2dbc4365bb2f7d181514a59f079a053b9d2979ef4aa5dd22324c60f2be",
+    "pdftotext_rc": 0,
+    "text_chars": 59921,
+    "nonempty_text": true
+  },
+  {
+    "pdf": "daily/2026-09-07/pdfs/Zhu et al. - 2026 - Non-equilibrium quasi-neutral TNSA plasmas.pdf",
+    "bytes": 1357439,
+    "head": "%PDF-",
+    "pages": 23,
+    "sha256": "b54786e59c5d5625c5f5553f78b2e6fc6237f94f46075e950b8b03bdaa32bb08",
+    "pdftotext_rc": 0,
+    "text_chars": 82213,
+    "nonempty_text": true
+  }
+]

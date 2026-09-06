@@ -2,11 +2,12 @@
 
 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。
 
-- 当前收录：34 篇
-- 索引更新时间：2026-09-06
+- 当前收录：35 篇
+- 索引更新时间：2026-09-07
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-07 | [Observation and Mitigation of Kelvin-Helmholtz Instability-Driven Gold Contamination in Double-Cone Ignition](../papers/10-1017-hpl-2026-10181/README.md) | High Power Laser Science and Engineering (accepted manuscript, open access) | [笔记](../daily/2026-09-07/notes/Zhang et al. - 2026 - Kelvin-Helmholtz gold contamination in DCI.md) |
 | 2026-09-05 | [Generalized multi-dimensional conservation laws for stimulated Raman and Brillouin scattering in a density gradient](../papers/10-1103-hdkp-2mpm/README.md) | Physical Review E (accepted paper; corresponding arXiv v2 author preprint PDF) | [笔记](../daily/2026-09-05/notes/Patel et al. - 2026 - Generalized multidimensional conservation laws for SRS and SBS.md) |
 | 2026-08-25 | [Gas Beam Dump and Power Meter for High Energy Lasers](../papers/arxiv-2608-20645/README.md) | arXiv preprint | [笔记](../daily/2026-08-25/notes/Rajesh et al. - 2026 - Gas beam dump power meter.md) |
 | 2026-08-23 | [Wavefront shaping of terahertz radiation using two-color flying-focus pulses with time-dependent focal velocities](../papers/arxiv-2608-20142/README.md) | arXiv preprint | [笔记](../daily/2026-08-23/notes/Elliott et al. - 2026 - Flying-focus terahertz wavefront shaping.md) |

@@ -1,0 +1,69 @@
+{
+  "run_date": "2026-09-07",
+  "ledger_before": 324,
+  "ledger_after": 327,
+  "added_count": 3,
+  "retry_queue_before": 12,
+  "retry_queue_after": 12,
+  "sources_checked": [
+    "Cambridge High Power Laser Science and Engineering accepted manuscripts and latest volume",
+    "APS Physical Review Research and Physical Review E accepted records visible through 2026-09-06",
+    "official arXiv Atom API recent records for physics.plasm-ph, physics.acc-ph, physics.comp-ph, physics.ins-det, physics.med-ph and nucl-ex",
+    "targeted laser-plasma, PIC, strong-field QED, gamma, photonuclear, neutron, isotope, radiation-protection and diagnostic searches"
+  ],
+  "added_identifiers": [
+    "10.1017/hpl.2026.10188",
+    "10.1017/hpl.2026.10184",
+    "10.1017/hpl.2026.10181"
+  ],
+  "dedupe": {
+    "keys": [
+      "DOI",
+      "normalized title",
+      "historical daily records",
+      "retry queue",
+      "abstract and physical scenario"
+    ],
+    "result": "All three additions are new to the ledger and are not content-near duplicates of recent TNSA, DCI or ion-application records."
+  },
+  "skipped_candidates": [
+    {
+      "identifier": "10.1103/sgyf-lrw1",
+      "title": "Spatiotemporal ionization dynamics in nonthermal copper plasma pumped by femtosecond relativistic laser pulse",
+      "reason": "Highly relevant accepted Physical Review Research experiment, but APS PDF and DOI routes still returned HTTP 403 and no legal open author manuscript was found."
+    },
+    {
+      "identifier": "10.1103/2rqf-hq77",
+      "title": "Direct observation of saturated heat-flux inhibition by magnetic fields in laser-produced plasmas",
+      "reason": "Highly relevant accepted Physical Review Research experiment, but APS PDF and DOI routes still returned HTTP 403 and no legal open author manuscript was found."
+    },
+    {
+      "identifier": "10.1103/d45l-hsgg",
+      "title": "Cone-guided phase-space control of laser-driven proton beams",
+      "reason": "Relevant Physical Review E accepted PIC study; APS PDF and DOI routes still returned HTTP 403 and no legal open author manuscript was found."
+    },
+    {
+      "identifier": "10.1017/hpl.2026.10192",
+      "title": "Energetic helical electron-bunch generation driven by a light spring wakefield",
+      "reason": "Validated 3D EPOCH PIC manuscript, but the selected experimental TNSA, nuclear-reaction and DCI records provide stronger direct evidence for the current application priorities."
+    },
+    {
+      "identifier": "10.1017/hpl.2026.10191",
+      "title": "Start-to-end optimization framework for free-electron lasers driven by laser wakefield accelerators",
+      "reason": "Validated FBPIC-ELEGANT-GENESIS design study, but it remains an author-run numerical optimization without an experimental FEL result."
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.03822",
+      "title": "Optimisation of importance sampling implementation in rare-event shielding simulations using Geant4",
+      "reason": "Relevant to radiation shielding, but it is a generic simulation-method paper and was lower priority than the three formal experimental records."
+    }
+  ],
+  "pdf_validation": "daily/2026-09-07/pdf_validation.json",
+  "mineru": {
+    "status": "unavailable",
+    "reason": "MINERU_TOKEN is not configured in the current automation environment.",
+    "fallback": "pdftotext -layout plus page rendering and visual figure checks",
+    "selected_images": 9
+  },
+  "status": "success"
+}
