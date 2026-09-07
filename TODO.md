@@ -11,6 +11,8 @@
 
 ## 开发记录
 
+- 2026-09-08：完成 DOI / arXiv identifier、规范化标题、历史 daily、重试队列和物理场景去重；检查 HPLSE accepted / latest、APS PRL / PRResearch / PRE / PRApplied accepted、官方 arXiv 六个目标分类与 beam–catcher / QED / PIC 定向结果。新增 `10.1017/hpl.2026.10191`、`10.1017/hpl.2026.10192`、`10.48550/arXiv.2609.04987`，分别覆盖 LWFA–FEL 双阶段端到端数值优化、light-spring helical bubble / OAM 电子束 3D PIC，以及 stopping-feedback 下的 pitcher–catcher $p{}^{11}\mathrm B$ 模型/PIC–MC。3 份 PDF 通过 `%PDF-`、13/18/8 页元数据、SHA-256 与非空 `pdftotext`；环境缺少 `MINERU_TOKEN`，使用页面渲染 fallback 并人工查看 9 个关键页面。台账从 327 增至 330，12 条来源限制重试项不变。严格区分 Ge 的模拟 FEL 与未运行装置、Liu 的单组 PIC OAM 与未计算辐射、Hua 的条件性 `900 keV` 最优与未直接测量 $\alpha$；Hua 正文的 `a0=10.5/9.5` 对应 `672 keV` 口径不一致，复现前需消歧。APS `10.1103/sgyf-lrw1`、`10.1103/2rqf-hq77`、`10.1103/d45l-hsgg` 的 PDF 本轮仍为 HTTP 403 HTML。
+
 - 2026-09-07：完成 DOI、规范化标题、历史 daily、重试队列和物理场景去重；检查 HPLSE accepted / latest、APS PRResearch / PRE accepted 与官方 arXiv 六个目标分类。arXiv 最新批次仍止于 2026-09-03，故优先补入三篇可获取的正式 HPLSE accepted manuscripts：`10.1017/hpl.2026.10188`、`10.1017/hpl.2026.10184`、`10.1017/hpl.2026.10181`。3 份 PDF 通过 `%PDF-`、23/16/14 页元数据、SHA-256 与非空 `pdftotext`；当前环境缺少 `MINERU_TOKEN`，使用页面渲染 fallback 并人工查看 9 张图。台账从 324 增至 327，12 条来源限制重试项不变。严格区分 Zhu 的 HPGe 同位素实测与逐发 / $\alpha$ 反演、Batani 的能谱峰与未测时间束团、Zhang 的背光透射实验与 FLASH 推断 Au 分数 / KHI 延迟；不得外推为直接 $\alpha$ 计数、应用增益或 DCI 点火。APS `10.1103/sgyf-lrw1`、`10.1103/2rqf-hq77`、`10.1103/d45l-hsgg` 的 PDF / DOI 路径本轮仍为 HTTP 403。
 
 - 2026-09-06：完成 DOI / arXiv identifier、规范化标题、历史 daily、重试队列和摘要 / 物理场景去重；检查 APS PRL / PRResearch recent / accepted 增量、官方 arXiv 目标分类与 laser–plasma、PIC、ML neutron–γ、光核 / 中子 / 防护定向结果。新增正式 PRL `10.1103/krsl-322s`、PRResearch accepted paper `10.1103/qd3v-7j5p` 和 arXiv `10.48550/arXiv.2609.03479`。3 份全文通过 `%PDF-`、7/13/7 页元数据、SHA-256、非空 `pdftotext` 与 MinerU 转换；新增 12 张关键图，台账从 321 增至 324，12 条来源限制重试项不变。严格区分 Wood 的实验通量与模型辅助 $r_\beta$ / 亮度、Carreau 的 PSD-label 一致性与独立 prompt-γ 验证、Bondar 的二维 WarpX 线电荷；均不能外推为跨仪器通用误差率、本地 PIC 复现或光核 / 中子 / 剂量实测。APS `10.1103/sgyf-lrw1`、`10.1103/2rqf-hq77` 因未找到可合法获取全文，不从摘要生成笔记。
@@ -164,6 +166,8 @@
 - `2026-06-09` Cambridge/JPP 3 条、`2026-06-10` arXiv 3 条和 `2026-06-11` arXiv 3 条已在配置恢复后全部补回 PDF，不再是 runtime-blocked 积压。
 
 ## 下一步
+
+- 2026-09-08：台账已至 330 条。下轮继续优先正式发表来源，并重查 `10.1103/sgyf-lrw1`、`10.1103/2rqf-hq77`、`10.1103/d45l-hsgg` 的合法开放全文；继续寻找可同时闭合 laser-accelerated beam、catcher / converter、$\alpha$ / γ / 中子 / 活化产额、剂量与 shielding 的实验论文。Ge 的 `9 μJ` 与 500-seed `5.8 μJ`、Hua 的 `a_0=10.5/9.5` 口径均需保留为待解释问题；不要把 Liu 的 OAM 辐射展望写成已计算光子结果。
 
 - 2026-09-07：台账已至 327 条。下轮继续优先正式发表来源，并重查 `10.1103/sgyf-lrw1`、`10.1103/2rqf-hq77`、`10.1103/d45l-hsgg` 的 version of record / 开放作者稿；继续跟踪 beam → catcher / converter → 同位素、$\alpha$、γ / 中子 → 剂量 / shielding 的实证闭环。Zhu 的 $\alpha$ 数必须标为反演，Batani 的 proton bunching 必须标为能谱峰，Zhang 的 Au 分数与 KHI onset 必须标为 FLASH / opacity 模型量。
 

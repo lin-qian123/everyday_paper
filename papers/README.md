@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：327 篇
-- 索引更新时间：2026-09-07
+- 当前入库论文：330 篇
+- 索引更新时间：2026-09-08
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-09-08 | [Impact of ion-beam stopping power on proton-boron fusion yield in the pitcher-catcher scheme driven by ultra-intense laser](./arxiv-2609-04987/README.md) | arXiv preprint | [10.48550/arXiv.2609.04987](https://doi.org/10.48550/arXiv.2609.04987) |
+| 2026-09-08 | [Start-to-end optimization framework for free-electron lasers driven by laser wakefield accelerators](./10-1017-hpl-2026-10191/README.md) | High Power Laser Science and Engineering (accepted manuscript, open access) | [10.1017/hpl.2026.10191](https://doi.org/10.1017/hpl.2026.10191) |
+| 2026-09-08 | [Energetic helical electron-bunch generation driven by a light spring wakefield](./10-1017-hpl-2026-10192/README.md) | High Power Laser Science and Engineering (accepted manuscript, open access) | [10.1017/hpl.2026.10192](https://doi.org/10.1017/hpl.2026.10192) |
 | 2026-09-07 | [Detailed study of non-equilibrium characteristics of quasi-neutral TNSA plasmas](./10-1017-hpl-2026-10188/README.md) | High Power Laser Science and Engineering (accepted manuscript, open access) | [10.1017/hpl.2026.10188](https://doi.org/10.1017/hpl.2026.10188) |
 | 2026-09-07 | [Observation and Mitigation of Kelvin-Helmholtz Instability-Driven Gold Contamination in Double-Cone Ignition](./10-1017-hpl-2026-10181/README.md) | High Power Laser Science and Engineering (accepted manuscript, open access) | [10.1017/hpl.2026.10181](https://doi.org/10.1017/hpl.2026.10181) |
 | 2026-09-07 | [Experimental Investigation of laser driven proton bunching with plastic foil targets](./10-1017-hpl-2026-10184/README.md) | High Power Laser Science and Engineering (accepted manuscript, open access) | [10.1017/hpl.2026.10184](https://doi.org/10.1017/hpl.2026.10184) |

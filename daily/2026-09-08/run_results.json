@@ -1,0 +1,64 @@
+{
+  "run_date": "2026-09-08",
+  "ledger_before": 327,
+  "ledger_after": 330,
+  "added_count": 3,
+  "retry_queue_before": 12,
+  "retry_queue_after": 12,
+  "sources_checked": [
+    "Cambridge High Power Laser Science and Engineering accepted manuscripts and latest volume",
+    "APS Physical Review Letters, Physical Review Research, Physical Review E and Physical Review Applied accepted records visible through 2026-09-08",
+    "official arXiv Atom API recent records for physics.plasm-ph, physics.acc-ph, physics.comp-ph, physics.optics, nucl-ex and hep-ph",
+    "targeted laser-plasma, PIC, strong-field QED, gamma, photonuclear, neutron, isotope, irradiation, radiation-protection and diagnostic searches"
+  ],
+  "added_identifiers": [
+    "10.1017/hpl.2026.10191",
+    "10.1017/hpl.2026.10192",
+    "10.48550/arXiv.2609.04987"
+  ],
+  "dedupe": {
+    "keys": [
+      "DOI or arXiv identifier",
+      "normalized title",
+      "historical daily records",
+      "retry queue",
+      "abstract and physical scenario"
+    ],
+    "result": "All three additions are new to the ledger. The two HPLSE records were explicitly deferred, not ingested, on 2026-09-07; the arXiv record is a new stopping-feedback study distinct from the prior TNSA isotope-yield reanalysis."
+  },
+  "skipped_candidates": [
+    {
+      "identifier": "10.1103/sgyf-lrw1",
+      "title": "Spatiotemporal ionization dynamics in nonthermal copper plasma pumped by femtosecond relativistic laser pulse",
+      "reason": "Relevant accepted Physical Review Research experiment, but the APS PDF route still returned HTTP 403 HTML and no legal open author manuscript was found."
+    },
+    {
+      "identifier": "10.1103/2rqf-hq77",
+      "title": "Direct observation of saturated heat-flux inhibition by magnetic fields in laser-produced plasmas",
+      "reason": "Relevant accepted Physical Review Research experiment, but the APS PDF route still returned HTTP 403 HTML and no legal open author manuscript was found."
+    },
+    {
+      "identifier": "10.1103/d45l-hsgg",
+      "title": "Cone-guided phase-space control of laser-driven proton beams",
+      "reason": "Relevant Physical Review E accepted PIC study; the APS PDF route still returned HTTP 403 HTML and no legal open author manuscript was found."
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.04989",
+      "title": "Sub-2-Cycle, Terawatt Pulses via Double-Stage Multi-Pass Cell Compression of an Yb Laser",
+      "reason": "High-quality current laser-technology preprint, but it does not yet report a plasma-acceleration result and was lower priority than the direct beam, PIC and nuclear-application additions."
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.04421",
+      "title": "HELIX: a hybrid envelope-multiparticle linac code with differentiable space-charge optimization",
+      "reason": "Useful differentiable PIC/linac method, but it is not directly tied to laser-plasma acceleration and was lower priority for this repository."
+    }
+  ],
+  "pdf_validation": "daily/2026-09-08/pdf_validation.json",
+  "mineru": {
+    "status": "unavailable",
+    "reason": "MINERU_TOKEN is not configured in the current automation environment.",
+    "fallback": "pdftotext -layout plus page rendering and visual figure checks",
+    "selected_images": 9
+  },
+  "status": "success"
+}

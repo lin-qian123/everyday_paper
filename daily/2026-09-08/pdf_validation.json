@@ -1,0 +1,32 @@
+[
+  {
+    "pdf": "daily/2026-09-08/pdfs/Ge et al. - 2026 - LWFA-driven FEL start-to-end optimization.pdf",
+    "bytes": 7632499,
+    "head": "%PDF-",
+    "pages": 13,
+    "sha256": "ca69504185f4968fdae27b14f1a8a5a039efd201f0df381db2048acfc66566bb",
+    "pdftotext_rc": 0,
+    "text_chars": 155318,
+    "nonempty_text": true
+  },
+  {
+    "pdf": "daily/2026-09-08/pdfs/Hua et al. - 2026 - Stopping power in proton-boron pitcher-catcher fusion.pdf",
+    "bytes": 6834453,
+    "head": "%PDF-",
+    "pages": 8,
+    "sha256": "1fc190140da69a9e5ea44e2499fa9cf4521ab89768ff05c76d9e5312a14f51e1",
+    "pdftotext_rc": 0,
+    "text_chars": 53874,
+    "nonempty_text": true
+  },
+  {
+    "pdf": "daily/2026-09-08/pdfs/Liu et al. - 2026 - Light-spring helical electron bunch.pdf",
+    "bytes": 1017414,
+    "head": "%PDF-",
+    "pages": 18,
+    "sha256": "47eeaced064845e854bf3fb5f9a5866c020949d14b70ab0d051379aabc5e4113",
+    "pdftotext_rc": 0,
+    "text_chars": 54826,
+    "nonempty_text": true
+  }
+]

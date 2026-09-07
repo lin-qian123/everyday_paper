@@ -2,11 +2,13 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：109 篇
-- 索引更新时间：2026-09-07
+- 当前收录：111 篇
+- 索引更新时间：2026-09-08
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-08 | [Start-to-end optimization framework for free-electron lasers driven by laser wakefield accelerators](../papers/10-1017-hpl-2026-10191/README.md) | High Power Laser Science and Engineering (accepted manuscript, open access) | [笔记](../daily/2026-09-08/notes/Ge et al. - 2026 - LWFA-driven FEL start-to-end optimization.md) |
+| 2026-09-08 | [Energetic helical electron-bunch generation driven by a light spring wakefield](../papers/10-1017-hpl-2026-10192/README.md) | High Power Laser Science and Engineering (accepted manuscript, open access) | [笔记](../daily/2026-09-08/notes/Liu et al. - 2026 - Light-spring helical electron bunch.md) |
 | 2026-09-06 | [High-Flux X-Ray Emission due to Injection into a Laser-Wakefield Accelerator beyond Its Depletion Length](../papers/10-1103-krsl-322s/README.md) | Physical Review Letters | [笔记](../daily/2026-09-06/notes/Wood et al. - 2026 - High-flux X-ray emission beyond LWFA depletion length.md) |
 | 2026-09-06 | [Dependence of self-injected bunch parameters on the plasma density gradient and laser pulse amplitude at LWFA in a conical plasma channel](../papers/arxiv-2609-03479/README.md) | arXiv preprint | [笔记](../daily/2026-09-06/notes/Bondar et al. - 2026 - Self-injected LWFA bunches in a conical plasma channel.md) |
 | 2026-09-03 | [Polarized quantum effects in countable signals from intense laser - electron beam interactions](../papers/arxiv-2609-01494/README.md) | arXiv preprint | [笔记](../daily/2026-09-03/notes/Moritaka et al. - 2026 - Polarized quantum effects in countable laser-electron signals.md) |

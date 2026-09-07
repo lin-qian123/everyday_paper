@@ -2,11 +2,14 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：131 篇
-- 索引更新时间：2026-09-07
+- 当前收录：134 篇
+- 索引更新时间：2026-09-08
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-08 | [Impact of ion-beam stopping power on proton-boron fusion yield in the pitcher-catcher scheme driven by ultra-intense laser](../papers/arxiv-2609-04987/README.md) | arXiv preprint | [笔记](../daily/2026-09-08/notes/Hua et al. - 2026 - Stopping power in proton-boron pitcher-catcher fusion.md) |
+| 2026-09-08 | [Start-to-end optimization framework for free-electron lasers driven by laser wakefield accelerators](../papers/10-1017-hpl-2026-10191/README.md) | High Power Laser Science and Engineering (accepted manuscript, open access) | [笔记](../daily/2026-09-08/notes/Ge et al. - 2026 - LWFA-driven FEL start-to-end optimization.md) |
+| 2026-09-08 | [Energetic helical electron-bunch generation driven by a light spring wakefield](../papers/10-1017-hpl-2026-10192/README.md) | High Power Laser Science and Engineering (accepted manuscript, open access) | [笔记](../daily/2026-09-08/notes/Liu et al. - 2026 - Light-spring helical electron bunch.md) |
 | 2026-09-05 | [X-dispersionless solver for electromagnetic and axion fields in a cylindrical particle-in-cell code](../papers/arxiv-2609-03550/README.md) | arXiv preprint | [笔记](../daily/2026-09-05/notes/An et al. - 2026 - X-dispersionless cylindrical PIC solver for electromagnetic and axion fields.md) |
 | 2026-09-05 | [Minute-Scale High-Fidelity Gyrokinetic Simulations with Portability from Laptop to Supercomputer](../papers/arxiv-2609-03354/README.md) | arXiv preprint | [笔记](../daily/2026-09-05/notes/Bao et al. - 2026 - Minute-scale high-fidelity gyrokinetic simulations.md) |
 | 2026-09-04 | [Chirped-Pulse Forward Raman Amplification in Nonuniform Plasmas](../papers/arxiv-2609-02326/README.md) | arXiv preprint | [笔记](../daily/2026-09-04/notes/Lei et al. - 2026 - Chirped-Pulse Forward Raman Amplification in Nonuniform Plasmas.md) |

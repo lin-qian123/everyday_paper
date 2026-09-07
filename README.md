@@ -9,7 +9,7 @@
 - [索引文件](#索引文件)
 - [仓库结构](#仓库结构)
 - [分类索引](#分类索引)
-- [当前状态](#当前状态2026-09-07)
+- [当前状态](#当前状态2026-09-08)
 - [去重规则](#去重规则)
 - [PDF 下载稳健性](#pdf-下载稳健性)
 - [维护约定](#维护约定)
@@ -122,6 +122,12 @@
 - 已连续维护到 `daily/2026-09-04/`。本轮新增 Nature Photonics 正式开放论文 `10.1038/s41566-026-01977-1` 和官方 arXiv `10.48550/arXiv.2609.02326`、`10.48550/arXiv.2609.01705`，分别覆盖超宽带 laser–plasma Raman 放大实验、非均匀等离子体 cFRA 理论/PIC 与物理方差锚定的 diffusion transport surrogate。
 - 3 份全文均通过 `%PDF-`、`file`、`pdfinfo`、SHA-256 和非空 `pdftotext -layout`，并完成 MinerU Markdown 转换；台账从 314 增至 317 条，12 条来源限制重试项保持不变。当日笔记存入 9 张关键图，便于复核实验布局、增长窗和生成模型验证。
 - 证据边界：Shaw 直接测得 `64 fs`、约 `0.31 TW` 和最高 `8.7%` 时间重叠修正效率，但超过 `1.8 TW` 是无 SPIDER 炮次的条件估算；Lei 的近单周期、约 `10⁷` 增益和约 `4 PW` 来自理论/PIC；Reichherzer 用 MHD/test-particle 模拟与历史 proton-radiography 数据验证 surrogate，未运行新的等离子体实验。三篇都不能写成强场 QED、光核/中子产额或剂量实测。
+
+## 当前状态（2026-09-08）
+
+- 已连续维护到 `daily/2026-09-08/`。本轮新增 HPLSE 开放 accepted manuscripts `10.1017/hpl.2026.10191`、`10.1017/hpl.2026.10192` 与官方 arXiv `10.48550/arXiv.2609.04987`，分别覆盖 FBPIC–ELEGANT/OCELOT–GENESIS 的 LWFA–FEL 双阶段端到端优化、light-spring 驱动的 3D helical bubble / OAM 电子束，以及阻止本领—电子温度反馈下的 laser pitcher–catcher 质子–硼聚变。
+- 3 份全文通过 `%PDF-`、`file`、`pdfinfo`、SHA-256 和非空 `pdftotext -layout`；台账从 327 增至 330 条，12 条来源限制重试项不变。当前环境缺少 `MINERU_TOKEN`，因此没有声称完成 MinerU 转换；当日渲染、解码并人工查看 9 个关键 PDF 页面。
+- 证据边界：Ge 的 `500 MeV / 34 pC / 9 μJ / 3.3 GW` 是 start-to-end 数值输出，且附录 500-seed 均值约 `5.8 μJ`；Liu 的 `103 MeV / 9.53 nC / 12.78%` 是单组 3D EPOCH 结果，未计算 OAM 光子端；Hua 的 `900 keV` 最优值来自给定 1D 靶/能谱条件，产额为 PIC–MC 后处理而非直接 $\alpha$ 计数。三篇均不能写成已运行 FEL、已产生实验 OAM 电子束或达到 $p{}^{11}\mathrm B$ 净能量增益。
 
 ## 当前状态（2026-09-07）
 

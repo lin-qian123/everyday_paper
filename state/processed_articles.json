@@ -3601,5 +3601,38 @@
     "pdf_path": "daily/2026-09-07/pdfs/Zhang et al. - 2026 - Kelvin-Helmholtz gold contamination in DCI.pdf",
     "note_path": "daily/2026-09-07/notes/Zhang et al. - 2026 - Kelvin-Helmholtz gold contamination in DCI.md",
     "normalized_title": "observation and mitigation of kelvin helmholtz instability driven gold contamination in double cone ignition"
+  },
+  {
+    "title": "Start-to-end optimization framework for free-electron lasers driven by laser wakefield accelerators",
+    "doi": "10.1017/hpl.2026.10191",
+    "journal": "High Power Laser Science and Engineering (accepted manuscript, open access)",
+    "publication_date": "2026-07-30",
+    "processed_date": "2026-09-08",
+    "source_url": "https://www.cambridge.org/core/product/6C0FD5325CF26134016413B750D7C3CC",
+    "pdf_path": "daily/2026-09-08/pdfs/Ge et al. - 2026 - LWFA-driven FEL start-to-end optimization.pdf",
+    "note_path": "daily/2026-09-08/notes/Ge et al. - 2026 - LWFA-driven FEL start-to-end optimization.md",
+    "normalized_title": "start to end optimization framework for free electron lasers driven by laser wakefield accelerators"
+  },
+  {
+    "title": "Energetic helical electron-bunch generation driven by a light spring wakefield",
+    "doi": "10.1017/hpl.2026.10192",
+    "journal": "High Power Laser Science and Engineering (accepted manuscript, open access)",
+    "publication_date": "2026-07-30",
+    "processed_date": "2026-09-08",
+    "source_url": "https://www.cambridge.org/core/product/6A6B7447A1D44D743B4D93CD64E0A57E",
+    "pdf_path": "daily/2026-09-08/pdfs/Liu et al. - 2026 - Light-spring helical electron bunch.pdf",
+    "note_path": "daily/2026-09-08/notes/Liu et al. - 2026 - Light-spring helical electron bunch.md",
+    "normalized_title": "energetic helical electron bunch generation driven by a light spring wakefield"
+  },
+  {
+    "title": "Impact of ion-beam stopping power on proton-boron fusion yield in the pitcher-catcher scheme driven by ultra-intense laser",
+    "doi": "10.48550/arXiv.2609.04987",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-04",
+    "processed_date": "2026-09-08",
+    "source_url": "https://arxiv.org/abs/2609.04987",
+    "pdf_path": "daily/2026-09-08/pdfs/Hua et al. - 2026 - Stopping power in proton-boron pitcher-catcher fusion.pdf",
+    "note_path": "daily/2026-09-08/notes/Hua et al. - 2026 - Stopping power in proton-boron pitcher-catcher fusion.md",
+    "normalized_title": "impact of ion beam stopping power on proton boron fusion yield in the pitcher catcher scheme driven by ultra intense laser"
   }
 ]
