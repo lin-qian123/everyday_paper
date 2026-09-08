@@ -2,11 +2,12 @@
 
 强场量子效应、辐射反作用、非线性 Compton、pair production 与极端场实验。
 
-- 当前收录：57 篇
-- 索引更新时间：2026-09-08
+- 当前收录：58 篇
+- 索引更新时间：2026-09-09
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-09 | [Exploring millicharged particles in laboratory and astrophysical strong-field regimes](../papers/arxiv-2609-03399/README.md) | arXiv preprint | [笔记](../daily/2026-09-09/notes/Jiang et al. - 2026 - Millicharged particles in strong-field regimes.md) |
 | 2026-09-05 | [Quantum Vacuum Nonlinearities in Laser Interferometers](../papers/arxiv-2609-03314/README.md) | arXiv preprint | [笔记](../daily/2026-09-05/notes/Mehdi et al. - 2026 - Quantum vacuum nonlinearities in laser interferometers.md) |
 | 2026-09-03 | [Polarized quantum effects in countable signals from intense laser - electron beam interactions](../papers/arxiv-2609-01494/README.md) | arXiv preprint | [笔记](../daily/2026-09-03/notes/Moritaka et al. - 2026 - Polarized quantum effects in countable laser-electron signals.md) |
 | 2026-09-03 | [Enhanced inverse Compton scattering via spontaneous focusing induced by a coated plasma mirror](../papers/10-1038-s41566-026-01958-4/README.md) | Nature Photonics (Research Square author preprint PDF) | [笔记](../daily/2026-09-03/notes/Hu et al. - 2026 - Enhanced inverse Compton scattering via coated plasma mirror.md) |

@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：330 篇
-- 索引更新时间：2026-09-08
+- 当前入库论文：333 篇
+- 索引更新时间：2026-09-09
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-09-09 | [Exploring millicharged particles in laboratory and astrophysical strong-field regimes](./arxiv-2609-03399/README.md) | arXiv preprint | [10.48550/arXiv.2609.03399](https://doi.org/10.48550/arXiv.2609.03399) |
+| 2026-09-09 | [Revisiting the MRX Electron Current Sheet Width with Semi-Collisional Kinetic Simulations at Hydrogen Mass Ratio](./arxiv-2609-01793/README.md) | arXiv preprint | [10.48550/arXiv.2609.01793](https://doi.org/10.48550/arXiv.2609.01793) |
+| 2026-09-09 | [The Fusion Equilibrium Challenge: Inferring Magnetic Geometry Without Magnetic Diagnostics](./arxiv-2609-01750/README.md) | arXiv preprint | [10.48550/arXiv.2609.01750](https://doi.org/10.48550/arXiv.2609.01750) |
 | 2026-09-08 | [Impact of ion-beam stopping power on proton-boron fusion yield in the pitcher-catcher scheme driven by ultra-intense laser](./arxiv-2609-04987/README.md) | arXiv preprint | [10.48550/arXiv.2609.04987](https://doi.org/10.48550/arXiv.2609.04987) |
 | 2026-09-08 | [Start-to-end optimization framework for free-electron lasers driven by laser wakefield accelerators](./10-1017-hpl-2026-10191/README.md) | High Power Laser Science and Engineering (accepted manuscript, open access) | [10.1017/hpl.2026.10191](https://doi.org/10.1017/hpl.2026.10191) |
 | 2026-09-08 | [Energetic helical electron-bunch generation driven by a light spring wakefield](./10-1017-hpl-2026-10192/README.md) | High Power Laser Science and Engineering (accepted manuscript, open access) | [10.1017/hpl.2026.10192](https://doi.org/10.1017/hpl.2026.10192) |

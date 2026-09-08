@@ -2,11 +2,12 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：134 篇
-- 索引更新时间：2026-09-08
+- 当前收录：135 篇
+- 索引更新时间：2026-09-09
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-09 | [Revisiting the MRX Electron Current Sheet Width with Semi-Collisional Kinetic Simulations at Hydrogen Mass Ratio](../papers/arxiv-2609-01793/README.md) | arXiv preprint | [笔记](../daily/2026-09-09/notes/Son et al. - 2026 - MRX electron current sheet width.md) |
 | 2026-09-08 | [Impact of ion-beam stopping power on proton-boron fusion yield in the pitcher-catcher scheme driven by ultra-intense laser](../papers/arxiv-2609-04987/README.md) | arXiv preprint | [笔记](../daily/2026-09-08/notes/Hua et al. - 2026 - Stopping power in proton-boron pitcher-catcher fusion.md) |
 | 2026-09-08 | [Start-to-end optimization framework for free-electron lasers driven by laser wakefield accelerators](../papers/10-1017-hpl-2026-10191/README.md) | High Power Laser Science and Engineering (accepted manuscript, open access) | [笔记](../daily/2026-09-08/notes/Ge et al. - 2026 - LWFA-driven FEL start-to-end optimization.md) |
 | 2026-09-08 | [Energetic helical electron-bunch generation driven by a light spring wakefield](../papers/10-1017-hpl-2026-10192/README.md) | High Power Laser Science and Engineering (accepted manuscript, open access) | [笔记](../daily/2026-09-08/notes/Liu et al. - 2026 - Light-spring helical electron bunch.md) |

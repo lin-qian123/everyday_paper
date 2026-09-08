@@ -1,0 +1,69 @@
+{
+  "run_date": "2026-09-09",
+  "ledger_before": 330,
+  "ledger_after": 333,
+  "added_count": 3,
+  "retry_queue_before": 12,
+  "retry_queue_after": 12,
+  "sources_checked": [
+    "Cambridge High Power Laser Science and Engineering accepted manuscripts and latest volume",
+    "APS Physical Review Letters, Physical Review Research, Physical Review E and Physical Review Applied accepted pages and three known high-relevance blocked PDFs",
+    "official arXiv Atom API recent records for physics.plasm-ph, physics.acc-ph, physics.comp-ph, physics.optics, nucl-ex and hep-ph",
+    "targeted laser-plasma, PIC, strong-field QED, gamma, photonuclear, neutron, isotope, irradiation, radiation-protection and plasma-ML searches"
+  ],
+  "added_identifiers": [
+    "10.48550/arXiv.2609.03399",
+    "10.48550/arXiv.2609.01793",
+    "10.48550/arXiv.2609.01750"
+  ],
+  "dedupe": {
+    "keys": [
+      "DOI or arXiv identifier",
+      "normalized title",
+      "historical daily records",
+      "retry queue",
+      "abstract and physical scenario"
+    ],
+    "result": "All three additions are new to the ledger. The strong-field MCP theory is distinct from previously indexed nonlinear-Compton and QED-PIC observability studies; the MRX study is a new semi-collisional realistic-mass-ratio simulation-to-experiment reconciliation; and the Fusion Equilibrium Challenge is a new multi-machine benchmark rather than another deployed neural virtual-circuit controller."
+  },
+  "skipped_candidates": [
+    {
+      "identifier": "10.1103/sgyf-lrw1",
+      "title": "Spatiotemporal ionization dynamics in nonthermal copper plasma pumped by femtosecond relativistic laser pulse",
+      "reason": "Relevant accepted Physical Review Research experiment, but the APS PDF route again returned HTTP 403 HTML and no lawful open author manuscript was identified."
+    },
+    {
+      "identifier": "10.1103/2rqf-hq77",
+      "title": "Direct observation of saturated heat-flux inhibition by magnetic fields in laser-produced plasmas",
+      "reason": "Relevant accepted Physical Review Research experiment, but the APS PDF route again returned HTTP 403 HTML and no lawful open author manuscript was identified."
+    },
+    {
+      "identifier": "10.1103/d45l-hsgg",
+      "title": "Cone-guided phase-space control of laser-driven proton beams",
+      "reason": "Relevant accepted Physical Review E PIC study, but the APS PDF route again returned HTTP 403 HTML and no lawful open author manuscript was identified."
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.04989",
+      "title": "Sub-2-Cycle, Terawatt Pulses via Double-Stage Multi-Pass Cell Compression of an Yb Laser",
+      "reason": "Current experimental laser-technology preprint with a0 approximately 3, but it reports the driver rather than a plasma-acceleration or secondary-source result."
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.04421",
+      "title": "HELIX: a hybrid envelope-multiparticle linac code with differentiable space-charge optimization",
+      "reason": "Useful differentiable hadron-linac PIC method, but less direct to the laser-plasma scope than today's selected kinetic-reconnection and plasma-ML records."
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.03132",
+      "title": "MGKDB: An IMAS-aligned multicode gyrokinetic simulation database for reproducible fusion turbulence modeling and data-driven analysis",
+      "reason": "A valuable fusion-data infrastructure preprint retained for later consideration; today's ML slot prioritizes the public cross-machine equilibrium benchmark and its explicit leakage/generalization tests."
+    }
+  ],
+  "pdf_validation": "daily/2026-09-09/pdf_validation.json",
+  "mineru": {
+    "status": "unavailable",
+    "reason": "MINERU_TOKEN is not configured in the current automation environment.",
+    "fallback": "pdftotext -layout plus page rendering and visual figure checks",
+    "selected_images": 9
+  },
+  "status": "success"
+}
