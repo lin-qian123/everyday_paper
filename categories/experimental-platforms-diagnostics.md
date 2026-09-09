@@ -2,11 +2,13 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：79 篇
-- 索引更新时间：2026-09-09
+- 当前收录：81 篇
+- 索引更新时间：2026-09-10
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-10 | [Demonstration of a 10-metre-long discharge plasma source for plasma wakefield acceleration](../papers/arxiv-2609-08551/README.md) | arXiv preprint | [笔记](../daily/2026-09-10/notes/Amoedo et al. - 2026 - 10-metre discharge plasma source for AWAKE.md) |
+| 2026-09-10 | [Self-organized positron reorienting and pinching mechanism for the experimental detection of the linear Breit-Wheeler process](../papers/arxiv-2609-07584/README.md) | arXiv preprint | [笔记](../daily/2026-09-10/notes/He et al. - 2026 - Self-organized positron reorienting for linear Breit-Wheeler.md) |
 | 2026-09-09 | [The Fusion Equilibrium Challenge: Inferring Magnetic Geometry Without Magnetic Diagnostics](../papers/arxiv-2609-01750/README.md) | arXiv preprint | [笔记](../daily/2026-09-09/notes/Nakkina et al. - 2026 - Fusion Equilibrium Challenge.md) |
 | 2026-09-07 | [Experimental Investigation of laser driven proton bunching with plastic foil targets](../papers/10-1017-hpl-2026-10184/README.md) | High Power Laser Science and Engineering (accepted manuscript, open access) | [笔记](../daily/2026-09-07/notes/Batani et al. - 2026 - Laser-driven proton bunching with plastic foils.md) |
 | 2026-09-04 | [Chirped-Pulse Forward Raman Amplification in Nonuniform Plasmas](../papers/arxiv-2609-02326/README.md) | arXiv preprint | [笔记](../daily/2026-09-04/notes/Lei et al. - 2026 - Chirped-Pulse Forward Raman Amplification in Nonuniform Plasmas.md) |

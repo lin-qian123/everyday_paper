@@ -1,10 +1,15 @@
 # 论文总索引
 
-- 当前入库论文：333 篇
-- 索引更新时间：2026-09-09
+- 当前入库论文：338 篇
+- 索引更新时间：2026-09-10
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-09-10 | [Complete reflection of nonlinear electromagnetic waves in underdense pair plasmas enabled by dynamically formed Bragg-like structures](./10-1103-g27z-2kd3/README.md) | Physical Review Letters (accepted paper; local author preprint) | [10.1103/g27z-2kd3](https://doi.org/10.1103/g27z-2kd3) |
+| 2026-09-10 | [Demonstration of a 10-metre-long discharge plasma source for plasma wakefield acceleration](./arxiv-2609-08551/README.md) | arXiv preprint | [10.48550/arXiv.2609.08551](https://doi.org/10.48550/arXiv.2609.08551) |
+| 2026-09-10 | [Self-organized positron reorienting and pinching mechanism for the experimental detection of the linear Breit-Wheeler process](./arxiv-2609-07584/README.md) | arXiv preprint | [10.48550/arXiv.2609.07584](https://doi.org/10.48550/arXiv.2609.07584) |
+| 2026-09-10 | [Magnetic island structures in relativistic laser-driven plasma channels](./arxiv-2609-06562/README.md) | arXiv preprint | [10.48550/arXiv.2609.06562](https://doi.org/10.48550/arXiv.2609.06562) |
+| 2026-09-10 | [Resolution-Robust Machine Learning Heat Flux Closure for Inertial Confinement Fusion Plasmas](./10-1103-9l4n-mnz6/README.md) | PRX Intelligence 1, 013017 (2026; local author preprint) | [10.1103/9l4n-mnz6](https://doi.org/10.1103/9l4n-mnz6) |
 | 2026-09-09 | [Exploring millicharged particles in laboratory and astrophysical strong-field regimes](./arxiv-2609-03399/README.md) | arXiv preprint | [10.48550/arXiv.2609.03399](https://doi.org/10.48550/arXiv.2609.03399) |
 | 2026-09-09 | [Revisiting the MRX Electron Current Sheet Width with Semi-Collisional Kinetic Simulations at Hydrogen Mass Ratio](./arxiv-2609-01793/README.md) | arXiv preprint | [10.48550/arXiv.2609.01793](https://doi.org/10.48550/arXiv.2609.01793) |
 | 2026-09-09 | [The Fusion Equilibrium Challenge: Inferring Magnetic Geometry Without Magnetic Diagnostics](./arxiv-2609-01750/README.md) | arXiv preprint | [10.48550/arXiv.2609.01750](https://doi.org/10.48550/arXiv.2609.01750) |

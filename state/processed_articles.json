@@ -3667,5 +3667,82 @@
     "pdf_path": "daily/2026-09-09/pdfs/Nakkina et al. - 2026 - Fusion Equilibrium Challenge.pdf",
     "note_path": "daily/2026-09-09/notes/Nakkina et al. - 2026 - Fusion Equilibrium Challenge.md",
     "normalized_title": "the fusion equilibrium challenge inferring magnetic geometry without magnetic diagnostics"
+  },
+  {
+    "title": "Complete reflection of nonlinear electromagnetic waves in underdense pair plasmas enabled by dynamically formed Bragg-like structures",
+    "doi": "10.1103/g27z-2kd3",
+    "journal": "Physical Review Letters (accepted paper; local author preprint)",
+    "publication_date": "2026-09-08",
+    "processed_date": "2026-09-10",
+    "source_url": "https://journals.aps.org/prl/accepted/10.1103/g27z-2kd3",
+    "pdf_path": "daily/2026-09-10/pdfs/Tangtartharakul et al. - 2026 - Complete reflection in underdense pair plasma.pdf",
+    "note_path": "daily/2026-09-10/notes/Tangtartharakul et al. - 2026 - Complete reflection in underdense pair plasma.md",
+    "categories": [
+      "hedp-icf-laboratory-astrophysics",
+      "pic-and-plasma-simulation"
+    ],
+    "normalized_title": "complete reflection of nonlinear electromagnetic waves in underdense pair plasmas enabled by dynamically formed bragg like structures"
+  },
+  {
+    "title": "Resolution-Robust Machine Learning Heat Flux Closure for Inertial Confinement Fusion Plasmas",
+    "doi": "10.1103/9l4n-mnz6",
+    "journal": "PRX Intelligence 1, 013017 (2026; local author preprint)",
+    "publication_date": "2026-09-03",
+    "processed_date": "2026-09-10",
+    "source_url": "https://journals.aps.org/prxintelligence/abstract/10.1103/9l4n-mnz6",
+    "pdf_path": "daily/2026-09-10/pdfs/Luo et al. - 2026 - Resolution-robust ML heat flux closure.pdf",
+    "note_path": "daily/2026-09-10/notes/Luo et al. - 2026 - Resolution-robust ML heat flux closure.md",
+    "categories": [
+      "hedp-icf-laboratory-astrophysics",
+      "pic-and-plasma-simulation",
+      "ai-ml-plasma-physics"
+    ],
+    "normalized_title": "resolution robust machine learning heat flux closure for inertial confinement fusion plasmas"
+  },
+  {
+    "title": "Demonstration of a 10-metre-long discharge plasma source for plasma wakefield acceleration",
+    "doi": "10.48550/arXiv.2609.08551",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-08",
+    "processed_date": "2026-09-10",
+    "source_url": "https://arxiv.org/abs/2609.08551",
+    "pdf_path": "daily/2026-09-10/pdfs/Amoedo et al. - 2026 - 10-metre discharge plasma source for AWAKE.pdf",
+    "note_path": "daily/2026-09-10/notes/Amoedo et al. - 2026 - 10-metre discharge plasma source for AWAKE.md",
+    "categories": [
+      "laser-plasma-acceleration",
+      "experimental-platforms-diagnostics"
+    ],
+    "normalized_title": "demonstration of a 10 metre long discharge plasma source for plasma wakefield acceleration"
+  },
+  {
+    "title": "Self-organized positron reorienting and pinching mechanism for the experimental detection of the linear Breit-Wheeler process",
+    "doi": "10.48550/arXiv.2609.07584",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-07",
+    "processed_date": "2026-09-10",
+    "source_url": "https://arxiv.org/abs/2609.07584",
+    "pdf_path": "daily/2026-09-10/pdfs/He et al. - 2026 - Self-organized positron reorienting for linear Breit-Wheeler.pdf",
+    "note_path": "daily/2026-09-10/notes/He et al. - 2026 - Self-organized positron reorienting for linear Breit-Wheeler.md",
+    "categories": [
+      "strong-field-qed-radiation",
+      "pic-and-plasma-simulation",
+      "experimental-platforms-diagnostics"
+    ],
+    "normalized_title": "self organized positron reorienting and pinching mechanism for the experimental detection of the linear breit wheeler process"
+  },
+  {
+    "title": "Magnetic island structures in relativistic laser-driven plasma channels",
+    "doi": "10.48550/arXiv.2609.06562",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-06",
+    "processed_date": "2026-09-10",
+    "source_url": "https://arxiv.org/abs/2609.06562",
+    "pdf_path": "daily/2026-09-10/pdfs/Cai et al. - 2026 - Magnetic islands in relativistic laser-driven plasma channels.pdf",
+    "note_path": "daily/2026-09-10/notes/Cai et al. - 2026 - Magnetic islands in relativistic laser-driven plasma channels.md",
+    "categories": [
+      "laser-plasma-acceleration",
+      "pic-and-plasma-simulation"
+    ],
+    "normalized_title": "magnetic island structures in relativistic laser driven plasma channels"
   }
 ]

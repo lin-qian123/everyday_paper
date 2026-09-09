@@ -1,0 +1,52 @@
+[
+  {
+    "pdf": "daily/2026-09-10/pdfs/Tangtartharakul et al. - 2026 - Complete reflection in underdense pair plasma.pdf",
+    "bytes": 1938317,
+    "head": "%PDF-",
+    "pages": 9,
+    "sha256": "a254e27c4dd2f4e197d9ce90ca574fb5919cf1266b3cb73c38ca02911c1a897c",
+    "pdftotext_rc": 0,
+    "text_chars": 54805,
+    "nonempty_text": true
+  },
+  {
+    "pdf": "daily/2026-09-10/pdfs/Luo et al. - 2026 - Resolution-robust ML heat flux closure.pdf",
+    "bytes": 1209569,
+    "head": "%PDF-",
+    "pages": 7,
+    "sha256": "badbbff96e9c62f5bc0c83cfb6a5dc5a8cf6eb40e707d7319254d401111144d8",
+    "pdftotext_rc": 0,
+    "text_chars": 67557,
+    "nonempty_text": true
+  },
+  {
+    "pdf": "daily/2026-09-10/pdfs/Amoedo et al. - 2026 - 10-metre discharge plasma source for AWAKE.pdf",
+    "bytes": 16251160,
+    "head": "%PDF-",
+    "pages": 10,
+    "sha256": "12644449bbca1c7b56874dfc0ae595587865d0bdcd6736b4ebe63a83c6861f9a",
+    "pdftotext_rc": 0,
+    "text_chars": 61985,
+    "nonempty_text": true
+  },
+  {
+    "pdf": "daily/2026-09-10/pdfs/He et al. - 2026 - Self-organized positron reorienting for linear Breit-Wheeler.pdf",
+    "bytes": 2607901,
+    "head": "%PDF-",
+    "pages": 8,
+    "sha256": "c48c7c312405b7fe46a28e05761f2d99dda262ffc14686231147af28a28f9ab1",
+    "pdftotext_rc": 0,
+    "text_chars": 60766,
+    "nonempty_text": true
+  },
+  {
+    "pdf": "daily/2026-09-10/pdfs/Cai et al. - 2026 - Magnetic islands in relativistic laser-driven plasma channels.pdf",
+    "bytes": 3379335,
+    "head": "%PDF-",
+    "pages": 12,
+    "sha256": "fa8bfd1d709f94647e4a83850bd9bceae41e2248feaa63ab9094a623ceba4fd9",
+    "pdftotext_rc": 0,
+    "text_chars": 74332,
+    "nonempty_text": true
+  }
+]

@@ -2,11 +2,13 @@
 
 HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。
 
-- 当前收录：88 篇
-- 索引更新时间：2026-09-09
+- 当前收录：90 篇
+- 索引更新时间：2026-09-10
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-10 | [Complete reflection of nonlinear electromagnetic waves in underdense pair plasmas enabled by dynamically formed Bragg-like structures](../papers/10-1103-g27z-2kd3/README.md) | Physical Review Letters (accepted paper; local author preprint) | [笔记](../daily/2026-09-10/notes/Tangtartharakul et al. - 2026 - Complete reflection in underdense pair plasma.md) |
+| 2026-09-10 | [Resolution-Robust Machine Learning Heat Flux Closure for Inertial Confinement Fusion Plasmas](../papers/10-1103-9l4n-mnz6/README.md) | PRX Intelligence 1, 013017 (2026; local author preprint) | [笔记](../daily/2026-09-10/notes/Luo et al. - 2026 - Resolution-robust ML heat flux closure.md) |
 | 2026-09-09 | [Revisiting the MRX Electron Current Sheet Width with Semi-Collisional Kinetic Simulations at Hydrogen Mass Ratio](../papers/arxiv-2609-01793/README.md) | arXiv preprint | [笔记](../daily/2026-09-09/notes/Son et al. - 2026 - MRX electron current sheet width.md) |
 | 2026-09-09 | [The Fusion Equilibrium Challenge: Inferring Magnetic Geometry Without Magnetic Diagnostics](../papers/arxiv-2609-01750/README.md) | arXiv preprint | [笔记](../daily/2026-09-09/notes/Nakkina et al. - 2026 - Fusion Equilibrium Challenge.md) |
 | 2026-09-08 | [Impact of ion-beam stopping power on proton-boron fusion yield in the pitcher-catcher scheme driven by ultra-intense laser](../papers/arxiv-2609-04987/README.md) | arXiv preprint | [笔记](../daily/2026-09-08/notes/Hua et al. - 2026 - Stopping power in proton-boron pitcher-catcher fusion.md) |

@@ -2,11 +2,15 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：135 篇
-- 索引更新时间：2026-09-09
+- 当前收录：139 篇
+- 索引更新时间：2026-09-10
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-10 | [Complete reflection of nonlinear electromagnetic waves in underdense pair plasmas enabled by dynamically formed Bragg-like structures](../papers/10-1103-g27z-2kd3/README.md) | Physical Review Letters (accepted paper; local author preprint) | [笔记](../daily/2026-09-10/notes/Tangtartharakul et al. - 2026 - Complete reflection in underdense pair plasma.md) |
+| 2026-09-10 | [Self-organized positron reorienting and pinching mechanism for the experimental detection of the linear Breit-Wheeler process](../papers/arxiv-2609-07584/README.md) | arXiv preprint | [笔记](../daily/2026-09-10/notes/He et al. - 2026 - Self-organized positron reorienting for linear Breit-Wheeler.md) |
+| 2026-09-10 | [Magnetic island structures in relativistic laser-driven plasma channels](../papers/arxiv-2609-06562/README.md) | arXiv preprint | [笔记](../daily/2026-09-10/notes/Cai et al. - 2026 - Magnetic islands in relativistic laser-driven plasma channels.md) |
+| 2026-09-10 | [Resolution-Robust Machine Learning Heat Flux Closure for Inertial Confinement Fusion Plasmas](../papers/10-1103-9l4n-mnz6/README.md) | PRX Intelligence 1, 013017 (2026; local author preprint) | [笔记](../daily/2026-09-10/notes/Luo et al. - 2026 - Resolution-robust ML heat flux closure.md) |
 | 2026-09-09 | [Revisiting the MRX Electron Current Sheet Width with Semi-Collisional Kinetic Simulations at Hydrogen Mass Ratio](../papers/arxiv-2609-01793/README.md) | arXiv preprint | [笔记](../daily/2026-09-09/notes/Son et al. - 2026 - MRX electron current sheet width.md) |
 | 2026-09-08 | [Impact of ion-beam stopping power on proton-boron fusion yield in the pitcher-catcher scheme driven by ultra-intense laser](../papers/arxiv-2609-04987/README.md) | arXiv preprint | [笔记](../daily/2026-09-08/notes/Hua et al. - 2026 - Stopping power in proton-boron pitcher-catcher fusion.md) |
 | 2026-09-08 | [Start-to-end optimization framework for free-electron lasers driven by laser wakefield accelerators](../papers/10-1017-hpl-2026-10191/README.md) | High Power Laser Science and Engineering (accepted manuscript, open access) | [笔记](../daily/2026-09-08/notes/Ge et al. - 2026 - LWFA-driven FEL start-to-end optimization.md) |

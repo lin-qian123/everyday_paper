@@ -11,6 +11,8 @@
 
 ## 开发记录
 
+- 2026-09-10：完成正式 DOI / arXiv identifier、规范化标题、历史 daily、重试队列和物理场景去重；复查 APS PRL / PRResearch / PRE / PRX Intelligence、HPLSE、Nature / IOP 定向结果及官方 arXiv 六个目标分类。新增 `10.1103/g27z-2kd3`、`10.1103/9l4n-mnz6`、`10.48550/arXiv.2609.08551`、`10.48550/arXiv.2609.07584`、`10.48550/arXiv.2609.06562`，分别覆盖 pair-plasma 动态 Bragg 完全反射、ICF 非局域热流 FNO closure、AWAKE 十米 DPS 实验、LBW 正电子后向压缩和激光通道磁岛。5 份官方 arXiv 作者稿通过 `%PDF-`、9/7/10/8/12 页元数据、SHA-256 与非空 `pdftotext`，并全部完成 MinerU；18 张关键图已解码查看。台账从 333 增至 338，12 条来源限制重试项不变。严格区分唯一新增装置实验 AWAKE 与其未完成的 witness acceleration，以及其余作者 PIC/理论/ML benchmark；本轮没有本地运行 EPOCH、OSIRIS 或 FNO。另为索引器新增经过 2 个单元测试覆盖的显式分类覆盖，修正 `inertial confinement` 被误判为磁约束、AWAKE proton driver 被误判为激光加速束应用的问题。
+
 - 2026-09-09：完成 DOI / arXiv identifier、规范化标题、历史 daily、重试队列和物理场景去重；检查 HPLSE accepted / latest、APS PRL / PRResearch / PRE / PRApplied accepted、官方 arXiv 六个目标分类与 laser–plasma / QED / PIC / plasma-ML 定向结果。新增 `10.48550/arXiv.2609.03399`、`10.48550/arXiv.2609.01793`、`10.48550/arXiv.2609.01750`，分别覆盖 electron–laser MCP 理论投影、真实质量比半碰撞 MRX 电子片 2D VPIC，以及 DIII-D/MAST 无磁诊断 equilibrium ML challenge。3 份 PDF 通过 `%PDF-`、23/16/16 页元数据、SHA-256 与非空 `pdftotext`；环境缺少 `MINERU_TOKEN`，使用页面渲染 fallback 并人工查看 9 个关键页面。台账从 330 增至 333，12 条来源限制重试项不变。严格区分 Jiang 的理论 sensitivity、Son 的模拟—历史实验采样重现、Nakkina 的数据集 / baseline / 竞赛协议；不得分别写成 MCP 观测、三维异常耗散已被普遍排除或已部署 reactor control。APS `10.1103/sgyf-lrw1`、`10.1103/2rqf-hq77`、`10.1103/d45l-hsgg` 的页面 / PDF 本轮仍为 block / HTTP 403 HTML。
 
 - 2026-09-08：完成 DOI / arXiv identifier、规范化标题、历史 daily、重试队列和物理场景去重；检查 HPLSE accepted / latest、APS PRL / PRResearch / PRE / PRApplied accepted、官方 arXiv 六个目标分类与 beam–catcher / QED / PIC 定向结果。新增 `10.1017/hpl.2026.10191`、`10.1017/hpl.2026.10192`、`10.48550/arXiv.2609.04987`，分别覆盖 LWFA–FEL 双阶段端到端数值优化、light-spring helical bubble / OAM 电子束 3D PIC，以及 stopping-feedback 下的 pitcher–catcher $p{}^{11}\mathrm B$ 模型/PIC–MC。3 份 PDF 通过 `%PDF-`、13/18/8 页元数据、SHA-256 与非空 `pdftotext`；环境缺少 `MINERU_TOKEN`，使用页面渲染 fallback 并人工查看 9 个关键页面。台账从 327 增至 330，12 条来源限制重试项不变。严格区分 Ge 的模拟 FEL 与未运行装置、Liu 的单组 PIC OAM 与未计算辐射、Hua 的条件性 `900 keV` 最优与未直接测量 $\alpha$；Hua 正文的 `a0=10.5/9.5` 对应 `672 keV` 口径不一致，复现前需消歧。APS `10.1103/sgyf-lrw1`、`10.1103/2rqf-hq77`、`10.1103/d45l-hsgg` 的 PDF 本轮仍为 HTTP 403 HTML。
@@ -164,10 +166,12 @@
 ## 阻塞点
 
 - 队列里的 12 条旧阻塞已明确是来源侧访问限制：Elsevier `HTTP 403`、Nature cookie wall、IOP bot wall。
-- APS accepted 论文 `10.1103/sgyf-lrw1`、`10.1103/2rqf-hq77` 与 `10.1103/d45l-hsgg` 的正文路径在 2026-09-09 仍返回 block / `HTTP 403` HTML，当前未找到开放作者稿；只保留元数据候选，待 version of record 或合法作者稿开放后再入库。
+- APS accepted 论文 `10.1103/sgyf-lrw1`、`10.1103/2rqf-hq77` 与 `10.1103/d45l-hsgg` 的 accepted / DOI 路径在 2026-09-10 经项目安全下载器复查仍全部返回 `HTTP 403` HTML，当前未找到开放作者稿；只保留元数据候选，待 version of record 或合法作者稿开放后再入库。
 - `2026-06-09` Cambridge/JPP 3 条、`2026-06-10` arXiv 3 条和 `2026-06-11` arXiv 3 条已在配置恢复后全部补回 PDF，不再是 runtime-blocked 积压。
 
 ## 下一步
+
+- 2026-09-10：台账已至 338 条。下轮优先获取/处理 PRL accepted `10.1103/mbn4-fd4v` 的合法全文，并继续重查三个 APS blocked 候选；继续寻找能闭合 laser-accelerated beam → catcher / converter → γ / 中子 / 活化产额 → 剂量 / shielding 的实验链。AWAKE 后续只在全长纵向均匀性和 witness-electron energy gain 出现后升级结论；pair-plasma reflection、LBW pinching 与 magnetic-island 目前均保留理论/PIC 标签；Luo closure 的 `40×` 只限作者一维在线 solver benchmark。
 
 - 2026-09-09：台账已至 333 条。下轮继续优先正式发表来源，并重查三个 APS accepted 候选的合法开放全文；持续寻找能同时闭合 laser-accelerated beam、catcher / converter、$\alpha$ / γ / 中子 / 活化产额、剂量与 shielding 的实验论文。MRX 后续应关注更细轴向诊断、$\rho_e$ 归一化和三维热输运；Fusion Equilibrium Challenge 后续只在真实 hidden-test / cross-machine 成绩出现后评价方法优劣；MCP 理论投影需保留平面波、亮度、背景与 polar-gap 模型边界。
 

@@ -2,11 +2,12 @@
 
 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。
 
-- 当前收录：52 篇
-- 索引更新时间：2026-09-09
+- 当前收录：53 篇
+- 索引更新时间：2026-09-10
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-10 | [Resolution-Robust Machine Learning Heat Flux Closure for Inertial Confinement Fusion Plasmas](../papers/10-1103-9l4n-mnz6/README.md) | PRX Intelligence 1, 013017 (2026; local author preprint) | [笔记](../daily/2026-09-10/notes/Luo et al. - 2026 - Resolution-robust ML heat flux closure.md) |
 | 2026-09-09 | [The Fusion Equilibrium Challenge: Inferring Magnetic Geometry Without Magnetic Diagnostics](../papers/arxiv-2609-01750/README.md) | arXiv preprint | [笔记](../daily/2026-09-09/notes/Nakkina et al. - 2026 - Fusion Equilibrium Challenge.md) |
 | 2026-09-06 | [SINAPSE: A lightweight deep learning framework for accurate and explainable neutron-γ discrimination](../papers/10-1103-qd3v-7j5p/README.md) | Physical Review Research (accepted paper; corresponding arXiv v2 author preprint PDF) | [笔记](../daily/2026-09-06/notes/Carreau et al. - 2026 - SINAPSE neutron-gamma discrimination.md) |
 | 2026-09-04 | [Generative Diffusion Surrogates with Analytical Variance Schedule](../papers/arxiv-2609-01705/README.md) | arXiv preprint (accepted for Nature Communications) | [笔记](../daily/2026-09-04/notes/Reichherzer et al. - 2026 - Generative Diffusion Surrogates with Analytical Variance Schedule.md) |

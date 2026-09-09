@@ -1,0 +1,65 @@
+{
+  "run_date": "2026-09-10",
+  "ledger_before": 333,
+  "ledger_after": 338,
+  "added_count": 5,
+  "retry_queue_before": 12,
+  "retry_queue_after": 12,
+  "sources_checked": [
+    "APS Physical Review Letters, Physical Review Research, Physical Review E and PRX Intelligence accepted and recent pages",
+    "Cambridge High Power Laser Science and Engineering accepted manuscripts and latest volume",
+    "Nature and IOP targeted formal-source search results",
+    "official arXiv Atom API recent records for physics.plasm-ph, physics.acc-ph, physics.comp-ph, physics.optics, nucl-ex and hep-ph",
+    "targeted laser-plasma, PIC, strong-field QED, gamma, photonuclear, neutron, isotope, irradiation, radiation-protection and plasma-ML searches"
+  ],
+  "added_identifiers": [
+    "10.1103/g27z-2kd3",
+    "10.1103/9l4n-mnz6",
+    "10.48550/arXiv.2609.08551",
+    "10.48550/arXiv.2609.07584",
+    "10.48550/arXiv.2609.06562"
+  ],
+  "dedupe": {
+    "keys": [
+      "formal DOI or arXiv identifier",
+      "normalized title",
+      "historical daily records",
+      "retry queue",
+      "abstract and physical scenario"
+    ],
+    "result": "All five additions are new to the completed ledger. The PRL pair-plasma article is a newly accepted version of a 2025 author preprint and is distinct from strong-field electron-ion transparency records. The PRX Intelligence closure appeared only as an unsuccessful April blocked-day candidate, never entered the ledger, and is now ingested for the first time using the lawful corresponding author preprint. The AWAKE source experiment, linear-Breit-Wheeler reorientation study and laser-channel magnetic-island study are distinct in apparatus, reaction channel and observable from prior wakefield, nonlinear-Breit-Wheeler and DLA records."
+  },
+  "skipped_candidates": [
+    {
+      "identifier": "10.1103/mbn4-fd4v",
+      "title": "First experimental evidence of helicon current drive",
+      "reason": "High-value DIII-D experiment accepted by PRL on 2026-09-08, retained for a later run because today's five slots prioritize the laser, strong-field and PIC core and no full accepted manuscript was obtained."
+    },
+    {
+      "identifier": "10.1103/sgyf-lrw1",
+      "title": "Spatiotemporal ionization dynamics in nonthermal copper plasma pumped by femtosecond relativistic laser pulse",
+      "reason": "Relevant accepted Physical Review Research experiment; project safe downloader recheck on 2026-09-10 again returned HTTP 403 HTML for accepted and DOI routes, with no lawful open author manuscript found."
+    },
+    {
+      "identifier": "10.1103/2rqf-hq77",
+      "title": "Direct observation of saturated heat-flux inhibition by magnetic fields in laser-produced plasmas",
+      "reason": "Relevant accepted Physical Review Research experiment; project safe downloader recheck on 2026-09-10 again returned HTTP 403 HTML for accepted and DOI routes, with no lawful open author manuscript found."
+    },
+    {
+      "identifier": "10.1103/d45l-hsgg",
+      "title": "Cone-guided phase-space control of laser-driven proton beams",
+      "reason": "Relevant accepted Physical Review E PIC study; project safe downloader recheck on 2026-09-10 again returned HTTP 403 HTML for accepted and DOI routes, with no lawful open author manuscript found."
+    }
+  ],
+  "pdf_validation": "daily/2026-09-10/pdf_validation.json",
+  "mineru": {
+    "status": "success",
+    "credential": "MINERU_API_KEY",
+    "converted_count": 5,
+    "last_confirmed_batch_id": "30940e58-516c-493b-8f33-20f233fb24f3",
+    "selected_images": 18,
+    "visual_checks": "All selected JPEGs decoded and were visually inspected before inclusion."
+  },
+  "evidence_boundary": "Only the AWAKE discharge-source paper contains a new apparatus and proton self-modulation experiment; it does not demonstrate witness-electron acceleration. The other four core results are author-run PIC, theory or ML-closure benchmarks and are not reported as new experiments or local reproductions.",
+  "status": "success"
+}

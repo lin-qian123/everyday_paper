@@ -224,6 +224,17 @@ def item_corpus(item: dict) -> str:
 
 
 def classify(item: dict) -> list[str]:
+    explicit = item.get("categories")
+    if explicit is not None:
+        if not isinstance(explicit, list) or not explicit:
+            raise ValueError("Explicit categories must be a non-empty list")
+        valid_slugs = {category["slug"] for category in CATEGORIES}
+        valid_slugs.add(FALLBACK_CATEGORY["slug"])
+        unknown = [slug for slug in explicit if slug not in valid_slugs]
+        if unknown:
+            raise ValueError(f"Unknown category slug: {unknown[0]}")
+        return list(dict.fromkeys(explicit))
+
     corpus = item_corpus(item)
     matched = []
     for category in CATEGORIES:
