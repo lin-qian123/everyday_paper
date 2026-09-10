@@ -9,7 +9,7 @@
 - [索引文件](#索引文件)
 - [仓库结构](#仓库结构)
 - [分类索引](#分类索引)
-- [当前状态](#当前状态2026-09-10)
+- [当前状态](#当前状态2026-09-11)
 - [去重规则](#去重规则)
 - [PDF 下载稳健性](#pdf-下载稳健性)
 - [维护约定](#维护约定)
@@ -79,11 +79,11 @@
 - `state/processed_articles.json`: 已处理论文去重台账
 - `templates/daily-index-template.md`: 每日索引模板
 
-## 当前状态（2026-09-10）
+## 当前状态（2026-09-11）
 
-- 已连续维护到 `daily/2026-09-10/`。本轮新增 PRL accepted paper `10.1103/g27z-2kd3`、PRX Intelligence 正式论文 `10.1103/9l4n-mnz6` 与官方 arXiv `10.48550/arXiv.2609.08551`、`10.48550/arXiv.2609.07584`、`10.48550/arXiv.2609.06562`，分别覆盖欠密 pair plasma 的动态 Bragg 完全反射、ICF 非局域热流 FNO closure、AWAKE 十米放电源、linear Breit–Wheeler 正电子后向压缩和激光通道磁岛标度。
-- 5 份全文均为官方 arXiv 作者稿，通过 `%PDF-`、`file`、`pdfinfo`、SHA-256、非空 `pdftotext -layout` 与 MinerU Markdown 转换；台账从 333 增至 338 条，12 条来源限制重试项不变。当日保留并逐张查看 18 张关键图。两篇 APS 记录的本地全文明确是对应作者预印本，不是 APS 排版版。
-- 证据边界：Amoedo 是真实 10 m plasma-source / proton self-modulation 实验，但没有 witness-electron acceleration，也未直接闭合全长 `0.25%` 均匀度；Tang、He、Cai 的核心结果是作者 PIC/理论，Luo 是一维 PIC 训练的 ML closure benchmark。本轮没有本地运行 EPOCH、OSIRIS 或 FNO，不得把反射、pair signal、磁岛、`40×` 闭合加速写成新实验或通用生产性能。
+- 已连续维护到 `daily/2026-09-11/`。本轮新增 PRE accepted paper `10.1103/mwjc-s21x` 和官方 arXiv `10.48550/arXiv.2609.09908`、`10.48550/arXiv.2609.08413`，分别覆盖磁化 ICF 非局域热输运、纳米线靶角分辨偏振正电子和 Boltzmann–Maxwell 广义相似律。
+- 3 份官方 arXiv 全文通过 `%PDF-`、`file`、`pdfinfo`、SHA-256、非空 `pdftotext -layout` 与 MinerU Markdown 转换；台账从 338 增至 341 条。PRE 记录的本地全文明确是对应作者预印本 arXiv:2508.17309，不是 APS 排版版。新增 2 条 APS `HTTP 403` 候选进入重试队列，队列从 12 增至 14 条；当日保留并逐张查看 14 张关键图。
+- 证据边界：Chen 是作者 mSNB/FLASH 与历史 VFP benchmark，Zhang 是极端参数二维 spin-resolved QED-PIC，Fu 是解析缩放加作者 PIC/fluid 模拟；本轮没有运行 FLASH、SLIPs 或缩比算例。模型趋势、`0.46 / 308 nC` 和 scale invariance 均不得写成实验结果或本地复现。
 
 ## 当前状态（2026-08-26）
 

@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：338 篇
-- 索引更新时间：2026-09-10
+- 当前入库论文：341 篇
+- 索引更新时间：2026-09-11
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-09-11 | [An improved nonlocal electron heat transport model for magnetized plasmas](./10-1103-mwjc-s21x/README.md) | Physical Review E (accepted 2026-09-10; local author preprint arXiv:2508.17309) | [10.1103/mwjc-s21x](https://doi.org/10.1103/mwjc-s21x) |
+| 2026-09-11 | [High-charge, highly polarized positron beams generated from a laser-driven nanowire-array target](./arxiv-2609-09908/README.md) | arXiv preprint | [10.48550/arXiv.2609.09908](https://doi.org/10.48550/arXiv.2609.09908) |
+| 2026-09-11 | [Generalized Similarity Theory for Plasmas](./arxiv-2609-08413/README.md) | arXiv preprint | [10.48550/arXiv.2609.08413](https://doi.org/10.48550/arXiv.2609.08413) |
 | 2026-09-10 | [Complete reflection of nonlinear electromagnetic waves in underdense pair plasmas enabled by dynamically formed Bragg-like structures](./10-1103-g27z-2kd3/README.md) | Physical Review Letters (accepted paper; local author preprint) | [10.1103/g27z-2kd3](https://doi.org/10.1103/g27z-2kd3) |
 | 2026-09-10 | [Demonstration of a 10-metre-long discharge plasma source for plasma wakefield acceleration](./arxiv-2609-08551/README.md) | arXiv preprint | [10.48550/arXiv.2609.08551](https://doi.org/10.48550/arXiv.2609.08551) |
 | 2026-09-10 | [Self-organized positron reorienting and pinching mechanism for the experimental detection of the linear Breit-Wheeler process](./arxiv-2609-07584/README.md) | arXiv preprint | [10.48550/arXiv.2609.07584](https://doi.org/10.48550/arXiv.2609.07584) |

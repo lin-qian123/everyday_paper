@@ -2,11 +2,12 @@
 
 HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。
 
-- 当前收录：90 篇
-- 索引更新时间：2026-09-10
+- 当前收录：91 篇
+- 索引更新时间：2026-09-11
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-11 | [An improved nonlocal electron heat transport model for magnetized plasmas](../papers/10-1103-mwjc-s21x/README.md) | Physical Review E (accepted 2026-09-10; local author preprint arXiv:2508.17309) | [笔记](../daily/2026-09-11/notes/Chen et al. - 2026 - Improved nonlocal electron heat transport in magnetized plasmas.md) |
 | 2026-09-10 | [Complete reflection of nonlinear electromagnetic waves in underdense pair plasmas enabled by dynamically formed Bragg-like structures](../papers/10-1103-g27z-2kd3/README.md) | Physical Review Letters (accepted paper; local author preprint) | [笔记](../daily/2026-09-10/notes/Tangtartharakul et al. - 2026 - Complete reflection in underdense pair plasma.md) |
 | 2026-09-10 | [Resolution-Robust Machine Learning Heat Flux Closure for Inertial Confinement Fusion Plasmas](../papers/10-1103-9l4n-mnz6/README.md) | PRX Intelligence 1, 013017 (2026; local author preprint) | [笔记](../daily/2026-09-10/notes/Luo et al. - 2026 - Resolution-robust ML heat flux closure.md) |
 | 2026-09-09 | [Revisiting the MRX Electron Current Sheet Width with Semi-Collisional Kinetic Simulations at Hydrogen Mass Ratio](../papers/arxiv-2609-01793/README.md) | arXiv preprint | [笔记](../daily/2026-09-09/notes/Son et al. - 2026 - MRX electron current sheet width.md) |

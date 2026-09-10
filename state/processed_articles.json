@@ -3744,5 +3744,51 @@
       "pic-and-plasma-simulation"
     ],
     "normalized_title": "magnetic island structures in relativistic laser driven plasma channels"
+  },
+  {
+    "title": "An improved nonlocal electron heat transport model for magnetized plasmas",
+    "doi": "10.1103/mwjc-s21x",
+    "journal": "Physical Review E (accepted 2026-09-10; local author preprint arXiv:2508.17309)",
+    "publication_date": "2026-09-10",
+    "processed_date": "2026-09-11",
+    "source_url": "https://journals.aps.org/pre/accepted/10.1103/mwjc-s21x",
+    "pdf_path": "daily/2026-09-11/pdfs/Chen et al. - 2026 - Improved nonlocal electron heat transport in magnetized plasmas.pdf",
+    "note_path": "daily/2026-09-11/notes/Chen et al. - 2026 - Improved nonlocal electron heat transport in magnetized plasmas.md",
+    "categories": [
+      "hedp-icf-laboratory-astrophysics",
+      "pic-and-plasma-simulation"
+    ],
+    "normalized_title": "an improved nonlocal electron heat transport model for magnetized plasmas"
+  },
+  {
+    "title": "High-charge, highly polarized positron beams generated from a laser-driven nanowire-array target",
+    "doi": "10.48550/arXiv.2609.09908",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-09",
+    "processed_date": "2026-09-11",
+    "source_url": "https://arxiv.org/abs/2609.09908",
+    "pdf_path": "daily/2026-09-11/pdfs/Zhang et al. - 2026 - High-charge polarized positrons from nanowire target.pdf",
+    "note_path": "daily/2026-09-11/notes/Zhang et al. - 2026 - High-charge polarized positrons from nanowire target.md",
+    "categories": [
+      "strong-field-qed-radiation",
+      "laser-accelerated-beam-applications",
+      "pic-and-plasma-simulation"
+    ],
+    "normalized_title": "high charge highly polarized positron beams generated from a laser driven nanowire array target"
+  },
+  {
+    "title": "Generalized Similarity Theory for Plasmas",
+    "doi": "10.48550/arXiv.2609.08413",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-08",
+    "processed_date": "2026-09-11",
+    "source_url": "https://arxiv.org/abs/2609.08413",
+    "pdf_path": "daily/2026-09-11/pdfs/Fu - 2026 - Generalized similarity theory for plasmas.pdf",
+    "note_path": "daily/2026-09-11/notes/Fu - 2026 - Generalized similarity theory for plasmas.md",
+    "categories": [
+      "pic-and-plasma-simulation",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "generalized similarity theory for plasmas"
   }
 ]

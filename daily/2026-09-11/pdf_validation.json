@@ -1,0 +1,32 @@
+[
+  {
+    "pdf": "daily/2026-09-11/pdfs/Chen et al. - 2026 - Improved nonlocal electron heat transport in magnetized plasmas.pdf",
+    "bytes": 1341642,
+    "head": "%PDF-",
+    "pages": 26,
+    "sha256": "9ee1e8dcc4e31ca5d05d52071348fe4d14a246fc6c8ad048a50961beaba02dc4",
+    "pdftotext_rc": 0,
+    "text_chars": 98032,
+    "nonempty_text": true
+  },
+  {
+    "pdf": "daily/2026-09-11/pdfs/Zhang et al. - 2026 - High-charge polarized positrons from nanowire target.pdf",
+    "bytes": 1055335,
+    "head": "%PDF-",
+    "pages": 9,
+    "sha256": "62a959569e93bd24dded29a11aff1b09c72bf2eb01ccad3a417bd86d922d90b6",
+    "pdftotext_rc": 0,
+    "text_chars": 77950,
+    "nonempty_text": true
+  },
+  {
+    "pdf": "daily/2026-09-11/pdfs/Fu - 2026 - Generalized similarity theory for plasmas.pdf",
+    "bytes": 8527664,
+    "head": "%PDF-",
+    "pages": 6,
+    "sha256": "3e34c737185c6077cebb11f133e918524845361d8f94531021a4d8c90c4c3104",
+    "pdftotext_rc": 0,
+    "text_chars": 48981,
+    "nonempty_text": true
+  }
+]

@@ -2,11 +2,14 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：139 篇
-- 索引更新时间：2026-09-10
+- 当前收录：142 篇
+- 索引更新时间：2026-09-11
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-11 | [An improved nonlocal electron heat transport model for magnetized plasmas](../papers/10-1103-mwjc-s21x/README.md) | Physical Review E (accepted 2026-09-10; local author preprint arXiv:2508.17309) | [笔记](../daily/2026-09-11/notes/Chen et al. - 2026 - Improved nonlocal electron heat transport in magnetized plasmas.md) |
+| 2026-09-11 | [High-charge, highly polarized positron beams generated from a laser-driven nanowire-array target](../papers/arxiv-2609-09908/README.md) | arXiv preprint | [笔记](../daily/2026-09-11/notes/Zhang et al. - 2026 - High-charge polarized positrons from nanowire target.md) |
+| 2026-09-11 | [Generalized Similarity Theory for Plasmas](../papers/arxiv-2609-08413/README.md) | arXiv preprint | [笔记](../daily/2026-09-11/notes/Fu - 2026 - Generalized similarity theory for plasmas.md) |
 | 2026-09-10 | [Complete reflection of nonlinear electromagnetic waves in underdense pair plasmas enabled by dynamically formed Bragg-like structures](../papers/10-1103-g27z-2kd3/README.md) | Physical Review Letters (accepted paper; local author preprint) | [笔记](../daily/2026-09-10/notes/Tangtartharakul et al. - 2026 - Complete reflection in underdense pair plasma.md) |
 | 2026-09-10 | [Self-organized positron reorienting and pinching mechanism for the experimental detection of the linear Breit-Wheeler process](../papers/arxiv-2609-07584/README.md) | arXiv preprint | [笔记](../daily/2026-09-10/notes/He et al. - 2026 - Self-organized positron reorienting for linear Breit-Wheeler.md) |
 | 2026-09-10 | [Magnetic island structures in relativistic laser-driven plasma channels](../papers/arxiv-2609-06562/README.md) | arXiv preprint | [笔记](../daily/2026-09-10/notes/Cai et al. - 2026 - Magnetic islands in relativistic laser-driven plasma channels.md) |

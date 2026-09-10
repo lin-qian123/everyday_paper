@@ -1,0 +1,80 @@
+{
+  "run_date": "2026-09-11",
+  "ledger_before": 338,
+  "ledger_after": 341,
+  "added_count": 3,
+  "retry_queue_before": 12,
+  "retry_queue_after": 14,
+  "sources_checked": [
+    "APS Physical Review Letters and Physical Review E accepted pages",
+    "official arXiv Atom API recent records for physics.plasm-ph, physics.acc-ph, physics.ins-det, physics.med-ph, nucl-ex and adjacent categories",
+    "targeted laser-plasma, PIC, strong-field QED, wakefield, HEDP and beam-application searches",
+    "exact-title arXiv checks for relevant APS accepted manuscripts"
+  ],
+  "search_fallback": "The local multi-source search aggregator returned no usable records in this run, so discovery and metadata verification used official APS and arXiv sources. This does not establish exhaustive database coverage.",
+  "added_identifiers": [
+    "10.1103/mwjc-s21x",
+    "10.48550/arXiv.2609.09908",
+    "10.48550/arXiv.2609.08413"
+  ],
+  "dedupe": {
+    "keys": [
+      "formal DOI or arXiv identifier",
+      "normalized title",
+      "historical daily records",
+      "completed ledger and retry queue",
+      "abstract and physical scenario"
+    ],
+    "result": "All three additions are new to the completed ledger. The PRE transport article is ingested using accepted metadata and its lawful corresponding author preprint. The nanowire article concerns nonlinear Breit-Wheeler angle-spin selection and is distinct from the linear Breit-Wheeler reorientation article added on 2026-09-10. The generalized-similarity article is a Boltzmann-Maxwell framework spanning several plasma regimes rather than a duplicate of a device-specific scaling study."
+  },
+  "skipped_candidates": [
+    {
+      "identifier": "10.1103/p7k8-mjn7",
+      "title": "Nuclear polarization by intense laser pulses",
+      "reason": "High-value PRL accepted theory/numerical proposal. The project safe downloader returned HTTP 403 HTML for accepted and DOI routes and no lawful open author manuscript was found. Added to the structured retry queue; the abstract-only prediction was not expanded into a full note."
+    },
+    {
+      "identifier": "10.1103/nc7w-yr34",
+      "title": "Nonthermal electron acceleration and transition probability density in turbulent wakefields driven by an intense laser pulse",
+      "reason": "Relevant PRE accepted 1D PIC and stochastic-transport study. The project safe downloader returned HTTP 403 HTML for accepted and DOI routes and no lawful open author manuscript was found. Added to the structured retry queue."
+    },
+    {
+      "identifier": "10.1103/mbn4-fd4v",
+      "title": "First experimental evidence of helicon current drive",
+      "reason": "Relevant PRL accepted DIII-D experiment retained for later processing because an exact-title arXiv check found no corresponding open author manuscript and no full text was available in this run."
+    },
+    {
+      "identifiers": [
+        "10.1103/sgyf-lrw1",
+        "10.1103/2rqf-hq77",
+        "10.1103/d45l-hsgg"
+      ],
+      "reason": "Previously documented APS blocked candidates. They were not retried in this run, so the 2026-09-10 HTTP 403 evidence is retained as historical state and is not reported as a new check."
+    }
+  ],
+  "pdf_validation": "daily/2026-09-11/pdf_validation.json",
+  "mineru": {
+    "status": "success",
+    "credential": "MINERU_API_KEY",
+    "converted_count": 3,
+    "batch_ids": [
+      "1295b770-421b-4bb4-a587-f53835a35345",
+      "468e6d65-ba2f-4959-a28a-a8bbb1988542",
+      "f92a126f-7df6-4bef-bd40-6217bf81af6f"
+    ],
+    "selected_images": 14,
+    "visual_checks": "All selected JPEGs decoded and were visually inspected before inclusion."
+  },
+  "validation": {
+    "index_builder": "Indexed 341 papers across 9 categories.",
+    "unit_tests": "7 tests passed",
+    "git_diff_check": "passed",
+    "ledger_duplicate_doi_check": "passed",
+    "ledger_duplicate_normalized_title_check": "passed",
+    "new_ledger_path_check": "passed",
+    "note_image_reference_check": "passed",
+    "pdf_header_metadata_text_check": "passed"
+  },
+  "evidence_boundary": "All three core additions are theory, author-run multigroup/PIC/fluid simulations or numerical benchmarks. None is a new experiment or a local reproduction. The accepted PRE article is represented locally by its corresponding author preprint, the positron charge and polarization are two-dimensional QED-PIC predictions under extreme idealized conditions, and the similarity laws require matched initial, boundary, collision and drive scalings.",
+  "status": "success"
+}
