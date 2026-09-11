@@ -9,7 +9,7 @@
 - [索引文件](#索引文件)
 - [仓库结构](#仓库结构)
 - [分类索引](#分类索引)
-- [当前状态](#当前状态2026-09-11)
+- [当前状态](#当前状态2026-09-12)
 - [去重规则](#去重规则)
 - [PDF 下载稳健性](#pdf-下载稳健性)
 - [维护约定](#维护约定)
@@ -79,11 +79,11 @@
 - `state/processed_articles.json`: 已处理论文去重台账
 - `templates/daily-index-template.md`: 每日索引模板
 
-## 当前状态（2026-09-11）
+## 当前状态（2026-09-12）
 
-- 已连续维护到 `daily/2026-09-11/`。本轮新增 PRE accepted paper `10.1103/mwjc-s21x` 和官方 arXiv `10.48550/arXiv.2609.09908`、`10.48550/arXiv.2609.08413`，分别覆盖磁化 ICF 非局域热输运、纳米线靶角分辨偏振正电子和 Boltzmann–Maxwell 广义相似律。
-- 3 份官方 arXiv 全文通过 `%PDF-`、`file`、`pdfinfo`、SHA-256、非空 `pdftotext -layout` 与 MinerU Markdown 转换；台账从 338 增至 341 条。PRE 记录的本地全文明确是对应作者预印本 arXiv:2508.17309，不是 APS 排版版。新增 2 条 APS `HTTP 403` 候选进入重试队列，队列从 12 增至 14 条；当日保留并逐张查看 14 张关键图。
-- 证据边界：Chen 是作者 mSNB/FLASH 与历史 VFP benchmark，Zhang 是极端参数二维 spin-resolved QED-PIC，Fu 是解析缩放加作者 PIC/fluid 模拟；本轮没有运行 FLASH、SLIPs 或缩比算例。模型趋势、`0.46 / 308 nC` 和 scale invariance 均不得写成实验结果或本地复现。
+- 已连续维护到 `daily/2026-09-12/`。本轮新增官方 arXiv `10.48550/arXiv.2609.11874`、`10.48550/arXiv.2609.11743`、`10.48550/arXiv.2609.11563`，分别覆盖激光等离子体加速器的 physics-informed 漂移诊断、Big Red Ball 磁声波密度剖面实验和面向 plasma-wall 的 AMR Vlasov 求解器。
+- 3 份官方全文通过 `%PDF-`、`file`、`pdfinfo`、SHA-256、非空 `pdftotext -layout` 与 MinerU Markdown 转换；台账从 341 增至 344 条。新增 3 条 APS `HTTP 403` / 延迟开放候选进入重试队列，队列从 14 增至 17 条；两条 2026-09-11 APS 阻塞项仍不可得。当日保留并逐张查看 14 张关键图。
+- 证据边界：Labun 的诊断对象全部是同族模型生成的合成会话，不是已归因的装置运行；Kuchta 是真实装置的初始一维低 beta 密度剖面及 Langmuir probe 对照，不覆盖重联过程；Konewko 是作者低维数值 benchmark，未在本地运行源码，也不等于生产级 plasma-wall 验证。
 
 ## 当前状态（2026-08-26）
 

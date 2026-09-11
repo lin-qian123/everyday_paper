@@ -1,0 +1,32 @@
+[
+  {
+    "pdf": "daily/2026-09-12/pdfs/Labun et al. - 2026 - Physics-informed drift diagnosis for laser-plasma accelerator operations.pdf",
+    "bytes": 1528641,
+    "head": "%PDF-",
+    "pages": 28,
+    "sha256": "06d7944419f65f9509b44feb3c62114b0b9aa332c8aef22fe798a30a21e45007",
+    "pdftotext_rc": 0,
+    "text_chars": 105890,
+    "nonempty_text": true
+  },
+  {
+    "pdf": "daily/2026-09-12/pdfs/Kuchta et al. - 2026 - Magnetosonic-wave plasma density profiles.pdf",
+    "bytes": 4670761,
+    "head": "%PDF-",
+    "pages": 6,
+    "sha256": "e2f9580dc4cdc0503d16907712a16e055c6af7c03d7cbdbeb6de4b24eae613cc",
+    "pdftotext_rc": 0,
+    "text_chars": 34548,
+    "nonempty_text": true
+  },
+  {
+    "pdf": "daily/2026-09-12/pdfs/Konewko et al. - 2026 - kobra Vlasov code for plasma-wall modeling.pdf",
+    "bytes": 1352555,
+    "head": "%PDF-",
+    "pages": 6,
+    "sha256": "bc7671a0a6c376c546a105c0e6e9f5bb56aebd789bd2296d6209e09bb0fa1c46",
+    "pdftotext_rc": 0,
+    "text_chars": 29520,
+    "nonempty_text": true
+  }
+]

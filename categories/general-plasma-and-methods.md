@@ -2,11 +2,13 @@
 
 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。
 
-- 当前收录：36 篇
-- 索引更新时间：2026-09-11
+- 当前收录：38 篇
+- 索引更新时间：2026-09-12
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-12 | [Experimental Plasma Density Profiles Determined Through Measurements of the Magnetosonic Wave Speed](../papers/arxiv-2609-11743/README.md) | arXiv preprint (submitted to Physics of Plasmas) | [笔记](../daily/2026-09-12/notes/Kuchta et al. - 2026 - Magnetosonic-wave plasma density profiles.md) |
+| 2026-09-12 | [kobra: a new Vlasov code intended for plasma-wall modeling](../papers/arxiv-2609-11563/README.md) | Contributions to Plasma Physics (accepted; local arXiv preprint) | [笔记](../daily/2026-09-12/notes/Konewko et al. - 2026 - kobra Vlasov code for plasma-wall modeling.md) |
 | 2026-09-11 | [Generalized Similarity Theory for Plasmas](../papers/arxiv-2609-08413/README.md) | arXiv preprint | [笔记](../daily/2026-09-11/notes/Fu - 2026 - Generalized similarity theory for plasmas.md) |
 | 2026-09-07 | [Observation and Mitigation of Kelvin-Helmholtz Instability-Driven Gold Contamination in Double-Cone Ignition](../papers/10-1017-hpl-2026-10181/README.md) | High Power Laser Science and Engineering (accepted manuscript, open access) | [笔记](../daily/2026-09-07/notes/Zhang et al. - 2026 - Kelvin-Helmholtz gold contamination in DCI.md) |
 | 2026-09-05 | [Generalized multi-dimensional conservation laws for stimulated Raman and Brillouin scattering in a density gradient](../papers/10-1103-hdkp-2mpm/README.md) | Physical Review E (accepted paper; corresponding arXiv v2 author preprint PDF) | [笔记](../daily/2026-09-05/notes/Patel et al. - 2026 - Generalized multidimensional conservation laws for SRS and SBS.md) |

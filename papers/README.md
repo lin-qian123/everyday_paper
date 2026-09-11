@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：341 篇
-- 索引更新时间：2026-09-11
+- 当前入库论文：344 篇
+- 索引更新时间：2026-09-12
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-09-12 | [Physics-Informed Drift Diagnosis for Laser-Plasma Accelerator Operations](./arxiv-2609-11874/README.md) | arXiv preprint | [10.48550/arXiv.2609.11874](https://doi.org/10.48550/arXiv.2609.11874) |
+| 2026-09-12 | [Experimental Plasma Density Profiles Determined Through Measurements of the Magnetosonic Wave Speed](./arxiv-2609-11743/README.md) | arXiv preprint (submitted to Physics of Plasmas) | [10.48550/arXiv.2609.11743](https://doi.org/10.48550/arXiv.2609.11743) |
+| 2026-09-12 | [kobra: a new Vlasov code intended for plasma-wall modeling](./arxiv-2609-11563/README.md) | Contributions to Plasma Physics (accepted; local arXiv preprint) | [10.48550/arXiv.2609.11563](https://doi.org/10.48550/arXiv.2609.11563) |
 | 2026-09-11 | [An improved nonlocal electron heat transport model for magnetized plasmas](./10-1103-mwjc-s21x/README.md) | Physical Review E (accepted 2026-09-10; local author preprint arXiv:2508.17309) | [10.1103/mwjc-s21x](https://doi.org/10.1103/mwjc-s21x) |
 | 2026-09-11 | [High-charge, highly polarized positron beams generated from a laser-driven nanowire-array target](./arxiv-2609-09908/README.md) | arXiv preprint | [10.48550/arXiv.2609.09908](https://doi.org/10.48550/arXiv.2609.09908) |
 | 2026-09-11 | [Generalized Similarity Theory for Plasmas](./arxiv-2609-08413/README.md) | arXiv preprint | [10.48550/arXiv.2609.08413](https://doi.org/10.48550/arXiv.2609.08413) |

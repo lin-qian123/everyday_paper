@@ -3,13 +3,15 @@
 ## 当前待办
 
 - [ ] 将每日自动化主流程固定为：新增论文与笔记 -> 更新 `state/processed_articles.json` -> 运行 `python scripts/build_indexes.py` -> 提交并推送 `origin/master`。
-- [ ] 处理剩余 14 条未补回 PDF 的候选；其中 10 条为 Elsevier/ScienceDirect `HTTP 403`，1 条为 Nature `cookies_not_supported`，1 条为 IOP/Radware 验证页，另有 2 条本轮新增 APS accepted `HTTP 403` 候选。
+- [ ] 处理剩余 17 条未补回 PDF 的候选；其中 10 条为 Elsevier/ScienceDirect `HTTP 403`，1 条为 Nature `cookies_not_supported`，1 条为 IOP/Radware 验证页，另有 5 条 APS accepted / formal `HTTP 403` 或延迟开放候选。
 - [ ] 为当前 65 条已补回 PDF 但尚无笔记的条目补中文结构化笔记。
 - [ ] 把每日自动化主流程接到 `scripts/retry_download_queue.py`，启动时先消化可恢复积压，避免配置恢复后仍只读旧 blocked-day 记录。
 - [ ] 为来源可达性预检补一层轻量检查，避免在明显 `403` / bot-wall 来源上重复空跑，并对 arXiv / DOI 这类开放来源单独标记“仅运行时阻塞”。
 - [ ] 修补 `scripts/safe_pdf_download.py` 在个别 Cambridge 官方 PDF 直链上的卡住问题；当前同 URL 用 `curl` 可正常完成下载，说明更像 Python 传输路径或读取策略问题。
 
 ## 开发记录
+
+- 2026-09-12：完成正式 DOI / arXiv identifier、规范化标题、历史 daily、重试队列和物理场景去重；检查 APS PRL / PRE 与官方 arXiv 五个目标分类。新增 `10.48550/arXiv.2609.11874`、`10.48550/arXiv.2609.11743`、`10.48550/arXiv.2609.11563`，分别覆盖合成 LPA 漂移诊断、Big Red Ball 磁声波密度诊断实验和 AMR Vlasov plasma-wall benchmark。3 份官方 PDF 通过 `%PDF-`、28/6/6 页元数据、SHA-256 与非空 `pdftotext`，并全部完成 MinerU；14 张关键图已解码查看。台账从 341 增至 344；APS `10.1103/mbn4-fd4v`、`10.1103/k23j-c9y7`、`10.1103/mmc9-nzfx` 因 `HTTP 403`、无合法作者稿或延迟开放进入重试队列，使其从 14 增至 17 条。严格区分合成诊断、真实初始剖面实验和作者数值 benchmark；本轮没有运行 LPA、重联装置或 kobra 源码。
 
 - 2026-09-11：完成正式 DOI / arXiv identifier、规范化标题、历史 daily、重试队列和物理场景去重；检查 APS PRL / PRE accepted 页面及官方 arXiv 近期目标分类。新增 `10.1103/mwjc-s21x`、`10.48550/arXiv.2609.09908`、`10.48550/arXiv.2609.08413`，分别覆盖 mSNB 非局域热流/Biermann/Nernst、纳米线二维 QED-PIC 偏振正电子和 Boltzmann–Maxwell 广义相似律。3 份官方 arXiv 作者稿通过 `%PDF-`、26/9/6 页元数据、SHA-256 与非空 `pdftotext`，并全部完成 MinerU；14 张关键图已解码查看。台账从 338 增至 341；APS `10.1103/p7k8-mjn7` 与 `10.1103/nc7w-yr34` 的 accepted / DOI 路径均返回 `HTTP 403`，已加入重试队列，使其从 12 增至 14 条。严格区分正式接收元数据、作者预印本、作者模型/PIC/fluid 模拟和本地未复现边界。
 
@@ -168,11 +170,14 @@
 ## 阻塞点
 
 - 队列里的 12 条旧阻塞已明确是来源侧访问限制：Elsevier `HTTP 403`、Nature cookie wall、IOP bot wall。
-- 本轮新增的 APS accepted `10.1103/p7k8-mjn7` 与 `10.1103/nc7w-yr34` 在 accepted / DOI 路径均返回 `HTTP 403` HTML，且未检得合法开放作者稿；两条已进入结构化重试队列。
+- APS `10.1103/p7k8-mjn7` 与 `10.1103/nc7w-yr34` 在 2026-09-12 复查时仍由 accepted / DOI 路径返回 `HTTP 403` HTML，且未检得合法开放作者稿；两条继续留在结构化重试队列。
+- 本轮新增的 APS `10.1103/mbn4-fd4v`、`10.1103/k23j-c9y7` 与 `10.1103/mmc9-nzfx` 因 `HTTP 403`、无合法作者稿或 accepted manuscript 延迟到 2027-09-10 开放，已进入结构化重试队列。
 - APS accepted 论文 `10.1103/sgyf-lrw1`、`10.1103/2rqf-hq77` 与 `10.1103/d45l-hsgg` 的 accepted / DOI 路径在 2026-09-10 经项目安全下载器复查仍全部返回 `HTTP 403` HTML，当前未找到开放作者稿；只保留元数据候选，待 version of record 或合法作者稿开放后再入库。
 - `2026-06-09` Cambridge/JPP 3 条、`2026-06-10` arXiv 3 条和 `2026-06-11` arXiv 3 条已在配置恢复后全部补回 PDF，不再是 runtime-blocked 积压。
 
 ## 下一步
+
+- 2026-09-12：台账已至 344 条，重试队列为 17 条。下轮优先重查本轮 5 条 APS 阻塞候选的合法全文，并继续寻找能闭合 laser-accelerated beam → catcher / converter → γ / 中子 / 活化产额 → 剂量 / shielding 的实验链。Labun 后续需要真实 LPA 多会话验证和不同生成族 stress test，Kuchta 需要扩展到重联过程和多维剖面，kobra 需公开源码、独立 benchmark 与更高维 wall geometry 后再升级结论。
 
 - 2026-09-11：台账已至 341 条，重试队列为 14 条。下轮优先重查本轮两条 APS accepted 候选及 PRL helicon current-drive `10.1103/mbn4-fd4v` 的合法全文，并继续寻找能闭合 laser-accelerated beam → catcher / converter → γ / 中子 / 活化产额 → 剂量 / shielding 的实验链。Chen 的模型只能在独立 FLASH/VFP benchmark 后升级，Zhang 的 308 nC 必须保留二维 QED-PIC 和极端激光边界，Fu 的 scaling 必须显式匹配初始、边界、碰撞和驱动。
 

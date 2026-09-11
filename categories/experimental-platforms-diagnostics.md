@@ -2,11 +2,13 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：81 篇
-- 索引更新时间：2026-09-11
+- 当前收录：83 篇
+- 索引更新时间：2026-09-12
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-12 | [Physics-Informed Drift Diagnosis for Laser-Plasma Accelerator Operations](../papers/arxiv-2609-11874/README.md) | arXiv preprint | [笔记](../daily/2026-09-12/notes/Labun et al. - 2026 - Physics-informed drift diagnosis for laser-plasma accelerator operations.md) |
+| 2026-09-12 | [Experimental Plasma Density Profiles Determined Through Measurements of the Magnetosonic Wave Speed](../papers/arxiv-2609-11743/README.md) | arXiv preprint (submitted to Physics of Plasmas) | [笔记](../daily/2026-09-12/notes/Kuchta et al. - 2026 - Magnetosonic-wave plasma density profiles.md) |
 | 2026-09-10 | [Demonstration of a 10-metre-long discharge plasma source for plasma wakefield acceleration](../papers/arxiv-2609-08551/README.md) | arXiv preprint | [笔记](../daily/2026-09-10/notes/Amoedo et al. - 2026 - 10-metre discharge plasma source for AWAKE.md) |
 | 2026-09-10 | [Self-organized positron reorienting and pinching mechanism for the experimental detection of the linear Breit-Wheeler process](../papers/arxiv-2609-07584/README.md) | arXiv preprint | [笔记](../daily/2026-09-10/notes/He et al. - 2026 - Self-organized positron reorienting for linear Breit-Wheeler.md) |
 | 2026-09-09 | [The Fusion Equilibrium Challenge: Inferring Magnetic Geometry Without Magnetic Diagnostics](../papers/arxiv-2609-01750/README.md) | arXiv preprint | [笔记](../daily/2026-09-09/notes/Nakkina et al. - 2026 - Fusion Equilibrium Challenge.md) |

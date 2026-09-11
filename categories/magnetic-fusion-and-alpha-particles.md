@@ -2,11 +2,12 @@
 
 stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。
 
-- 当前收录：33 篇
-- 索引更新时间：2026-09-11
+- 当前收录：34 篇
+- 索引更新时间：2026-09-12
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-12 | [kobra: a new Vlasov code intended for plasma-wall modeling](../papers/arxiv-2609-11563/README.md) | Contributions to Plasma Physics (accepted; local arXiv preprint) | [笔记](../daily/2026-09-12/notes/Konewko et al. - 2026 - kobra Vlasov code for plasma-wall modeling.md) |
 | 2026-09-09 | [The Fusion Equilibrium Challenge: Inferring Magnetic Geometry Without Magnetic Diagnostics](../papers/arxiv-2609-01750/README.md) | arXiv preprint | [笔记](../daily/2026-09-09/notes/Nakkina et al. - 2026 - Fusion Equilibrium Challenge.md) |
 | 2026-09-05 | [Minute-Scale High-Fidelity Gyrokinetic Simulations with Portability from Laptop to Supercomputer](../papers/arxiv-2609-03354/README.md) | arXiv preprint | [笔记](../daily/2026-09-05/notes/Bao et al. - 2026 - Minute-scale high-fidelity gyrokinetic simulations.md) |
 | 2026-09-01 | [Real-time virtual circuits for plasma shape control via neural network emulators: experimental demonstration on MAST Upgrade](../papers/arxiv-2608-28468/README.md) | arXiv preprint | [笔记](../daily/2026-09-01/notes/Amorisco et al. - 2026 - Real-time virtual circuits experimental demonstration on MAST-U.md) |

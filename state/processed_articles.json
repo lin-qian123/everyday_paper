@@ -3790,5 +3790,52 @@
       "general-plasma-and-methods"
     ],
     "normalized_title": "generalized similarity theory for plasmas"
+  },
+  {
+    "title": "Physics-Informed Drift Diagnosis for Laser-Plasma Accelerator Operations",
+    "doi": "10.48550/arXiv.2609.11874",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-10",
+    "processed_date": "2026-09-12",
+    "source_url": "https://arxiv.org/abs/2609.11874",
+    "pdf_path": "daily/2026-09-12/pdfs/Labun et al. - 2026 - Physics-informed drift diagnosis for laser-plasma accelerator operations.pdf",
+    "note_path": "daily/2026-09-12/notes/Labun et al. - 2026 - Physics-informed drift diagnosis for laser-plasma accelerator operations.md",
+    "categories": [
+      "laser-plasma-acceleration",
+      "ai-ml-plasma-physics",
+      "experimental-platforms-diagnostics"
+    ],
+    "normalized_title": "physics informed drift diagnosis for laser plasma accelerator operations"
+  },
+  {
+    "title": "Experimental Plasma Density Profiles Determined Through Measurements of the Magnetosonic Wave Speed",
+    "doi": "10.48550/arXiv.2609.11743",
+    "journal": "arXiv preprint (submitted to Physics of Plasmas)",
+    "publication_date": "2026-09-10",
+    "processed_date": "2026-09-12",
+    "source_url": "https://arxiv.org/abs/2609.11743",
+    "pdf_path": "daily/2026-09-12/pdfs/Kuchta et al. - 2026 - Magnetosonic-wave plasma density profiles.pdf",
+    "note_path": "daily/2026-09-12/notes/Kuchta et al. - 2026 - Magnetosonic-wave plasma density profiles.md",
+    "categories": [
+      "experimental-platforms-diagnostics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "experimental plasma density profiles determined through measurements of the magnetosonic wave speed"
+  },
+  {
+    "title": "kobra: a new Vlasov code intended for plasma-wall modeling",
+    "doi": "10.48550/arXiv.2609.11563",
+    "journal": "Contributions to Plasma Physics (accepted; local arXiv preprint)",
+    "publication_date": "2026-09-10",
+    "processed_date": "2026-09-12",
+    "source_url": "https://arxiv.org/abs/2609.11563",
+    "pdf_path": "daily/2026-09-12/pdfs/Konewko et al. - 2026 - kobra Vlasov code for plasma-wall modeling.pdf",
+    "note_path": "daily/2026-09-12/notes/Konewko et al. - 2026 - kobra Vlasov code for plasma-wall modeling.md",
+    "categories": [
+      "pic-and-plasma-simulation",
+      "magnetic-fusion-and-alpha-particles",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "kobra a new vlasov code intended for plasma wall modeling"
   }
 ]

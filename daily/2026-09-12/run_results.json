@@ -1,0 +1,88 @@
+{
+  "run_date": "2026-09-12",
+  "ledger_before": 341,
+  "ledger_after": 344,
+  "added_count": 3,
+  "retry_queue_before": 14,
+  "retry_queue_after": 17,
+  "sources_checked": [
+    "APS Physical Review Letters and Physical Review E accepted and recent pages",
+    "official arXiv Atom API recent records for physics.plasm-ph, physics.acc-ph, physics.ins-det, physics.med-ph and nucl-ex",
+    "targeted laser-plasma, PIC, HEDP, fusion, diagnostic and beam-application searches",
+    "exact-title and open-repository checks for relevant APS manuscripts"
+  ],
+  "search_fallback": "The local multi-source search aggregator returned no usable records, so discovery and metadata verification used official APS and arXiv sources. This does not establish exhaustive database coverage.",
+  "added_identifiers": [
+    "10.48550/arXiv.2609.11874",
+    "10.48550/arXiv.2609.11743",
+    "10.48550/arXiv.2609.11563"
+  ],
+  "dedupe": {
+    "keys": [
+      "formal DOI or arXiv identifier",
+      "normalized title",
+      "historical daily records",
+      "completed ledger and retry queue",
+      "abstract and physical scenario"
+    ],
+    "result": "All three additions are new to the completed ledger. They cover distinct evidence classes: a synthetic Bayesian drift-diagnosis workflow for laser-plasma accelerators, an experimental magnetosonic density diagnostic on the Big Red Ball, and an adaptive-mesh Vlasov solver benchmark for plasma-wall modeling."
+  },
+  "skipped_candidates": [
+    {
+      "identifier": "10.1103/mbn4-fd4v",
+      "title": "First experimental evidence of helicon current drive",
+      "reason": "High-value DIII-D experiment, but APS and DOI paths returned HTTP 403 and exact-title search found conference material rather than a legal full manuscript. Added to the structured retry queue."
+    },
+    {
+      "identifier": "10.1103/k23j-c9y7",
+      "title": "High-Energy-Density Plasma Nanorod Driven by a Relativistic Bessel Beam",
+      "reason": "Relevant formal PRL experiment/PIC article, but APS and DOI paths returned HTTP 403 and OpenAlex exposed no open repository full text. Added to the structured retry queue."
+    },
+    {
+      "identifier": "10.1103/mmc9-nzfx",
+      "title": "Generalized Lawson-Cordey-Mills Diagram for Magnetic Fusion Ignition and Reactor Accessibility",
+      "reason": "Relevant formal PRL theory article, but APS and DOI paths returned HTTP 403; APS lists the accepted manuscript as opening on 2027-09-10 and no current legal full text was found. Added to the structured retry queue."
+    },
+    {
+      "identifiers": [
+        "10.1103/p7k8-mjn7",
+        "10.1103/nc7w-yr34"
+      ],
+      "reason": "Both 2026-09-11 APS blocked candidates were rechecked with the safe downloader; accepted and DOI routes still returned HTTP 403 HTML, so they remain in the retry queue without abstract-only notes."
+    },
+    {
+      "identifiers": [
+        "10.1103/sgyf-lrw1",
+        "10.1103/2rqf-hq77",
+        "10.1103/d45l-hsgg"
+      ],
+      "reason": "Previously documented APS blocked candidates were not retried in this run; their last verified access state remains historical rather than a new 2026-09-12 check."
+    }
+  ],
+  "pdf_validation": "daily/2026-09-12/pdf_validation.json",
+  "mineru": {
+    "status": "success",
+    "credential": "MINERU_API_KEY",
+    "converted_count": 3,
+    "batch_ids": [
+      "2a8af486-b2e3-4cc1-b661-f569d0419991",
+      "2a53314b-5319-4d3a-800f-c54e71b7fd82",
+      "4645f927-0803-41b8-a0bf-26e01d8a4189"
+    ],
+    "selected_images": 14,
+    "visual_checks": "All selected JPEGs decoded and were visually inspected before inclusion."
+  },
+  "validation": {
+    "index_builder": "Indexed 344 papers across 9 categories.",
+    "unit_tests": "7 tests passed",
+    "pytest": "7 tests passed",
+    "git_diff_check": "passed",
+    "ledger_duplicate_doi_check": "passed",
+    "ledger_duplicate_normalized_title_check": "passed",
+    "new_ledger_path_check": "passed",
+    "note_image_reference_check": "14 references resolved and decoded",
+    "pdf_header_metadata_text_check": "passed"
+  },
+  "evidence_boundary": "The drift-diagnosis results use synthetic sessions generated within the same model family used for inference; the method was not demonstrated on attributed experimental LPA operations. The magnetosonic profile is a real Big Red Ball experiment with a Langmuir-probe cross-check, but it covers an initial one-dimensional low-beta state rather than reconnection-time structure. The kobra results are author-run low-dimensional benchmarks, not local source execution or a production plasma-wall validation.",
+  "status": "success"
+}
