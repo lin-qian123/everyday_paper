@@ -1,0 +1,32 @@
+[
+  {
+    "pdf": "daily/2026-09-13/pdfs/Gallego et al. - 2026 - PINN inference of SOL perpendicular conductivity.pdf",
+    "bytes": 6436947,
+    "head": "%PDF-",
+    "pages": 18,
+    "sha256": "6fdf85a877e5ae63820b0c31f762b7e8fda18f9cbbfe5fd0eafb5d5c019a7272",
+    "pdftotext_rc": 0,
+    "text_chars": 103024,
+    "nonempty_text": true
+  },
+  {
+    "pdf": "daily/2026-09-13/pdfs/Bazyl and Zagorodnov - 2026 - Structured photocathode multiscale coupling.pdf",
+    "bytes": 1891745,
+    "head": "%PDF-",
+    "pages": 37,
+    "sha256": "69816cf46b803a40cbc3aabdf9b2bebc639509ad32e9f61a0c2e4b143869af74",
+    "pdftotext_rc": 0,
+    "text_chars": 104540,
+    "nonempty_text": true
+  },
+  {
+    "pdf": "daily/2026-09-13/pdfs/Wierzchucka et al. - 2026 - Two-phase synchrotron-cooling-unstable relativistic plasma.pdf",
+    "bytes": 2588783,
+    "head": "%PDF-",
+    "pages": 47,
+    "sha256": "64bff16df47c22363d70dce1688c05f5b42d88c1c85230e277fed8549f6d84a0",
+    "pdftotext_rc": 0,
+    "text_chars": 178060,
+    "nonempty_text": true
+  }
+]

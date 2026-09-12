@@ -11,6 +11,8 @@
 
 ## 开发记录
 
+- 2026-09-13：加载 344 条完成台账、17 条重试队列和历史 `daily/`，按 DOI/arXiv identifier、规范化标题和物理场景去重；官方 arXiv 六个目标分类在周日仍止于 2026-09-10 批次，多源聚合器未返回可用记录。新增 `10.48550/arXiv.2609.11628`、`10.48550/arXiv.2609.11844`、`10.48550/arXiv.2609.07793`，分别覆盖 TJ-II 实验约束 PINN 输运反演、结构化光阴极 WarpX/IMPACT-T 多尺度束流模拟和同步辐射冷却 pair-plasma 的解析—PIC—流体机制。3 份官方 PDF 通过 `%PDF-`、18/37/47 页元数据、SHA-256 与非空 `pdftotext`，全部完成 MinerU；12 张关键图已解码查看。台账从 344 增至 347，重试队列保持 17 条。严格区分实验输入与有效反演、同模型小阵列验证与注入器尺度外推，以及早期可信 PIC 与 `t≳2.2τ0` 后的数值碰撞污染；本轮没有本地运行 PINN、WarpX/IMPACT-T 或 OSIRIS。
+
 - 2026-09-12：完成正式 DOI / arXiv identifier、规范化标题、历史 daily、重试队列和物理场景去重；检查 APS PRL / PRE 与官方 arXiv 五个目标分类。新增 `10.48550/arXiv.2609.11874`、`10.48550/arXiv.2609.11743`、`10.48550/arXiv.2609.11563`，分别覆盖合成 LPA 漂移诊断、Big Red Ball 磁声波密度诊断实验和 AMR Vlasov plasma-wall benchmark。3 份官方 PDF 通过 `%PDF-`、28/6/6 页元数据、SHA-256 与非空 `pdftotext`，并全部完成 MinerU；14 张关键图已解码查看。台账从 341 增至 344；APS `10.1103/mbn4-fd4v`、`10.1103/k23j-c9y7`、`10.1103/mmc9-nzfx` 因 `HTTP 403`、无合法作者稿或延迟开放进入重试队列，使其从 14 增至 17 条。严格区分合成诊断、真实初始剖面实验和作者数值 benchmark；本轮没有运行 LPA、重联装置或 kobra 源码。
 
 - 2026-09-11：完成正式 DOI / arXiv identifier、规范化标题、历史 daily、重试队列和物理场景去重；检查 APS PRL / PRE accepted 页面及官方 arXiv 近期目标分类。新增 `10.1103/mwjc-s21x`、`10.48550/arXiv.2609.09908`、`10.48550/arXiv.2609.08413`，分别覆盖 mSNB 非局域热流/Biermann/Nernst、纳米线二维 QED-PIC 偏振正电子和 Boltzmann–Maxwell 广义相似律。3 份官方 arXiv 作者稿通过 `%PDF-`、26/9/6 页元数据、SHA-256 与非空 `pdftotext`，并全部完成 MinerU；14 张关键图已解码查看。台账从 338 增至 341；APS `10.1103/p7k8-mjn7` 与 `10.1103/nc7w-yr34` 的 accepted / DOI 路径均返回 `HTTP 403`，已加入重试队列，使其从 12 增至 14 条。严格区分正式接收元数据、作者预印本、作者模型/PIC/fluid 模拟和本地未复现边界。
@@ -176,6 +178,8 @@
 - `2026-06-09` Cambridge/JPP 3 条、`2026-06-10` arXiv 3 条和 `2026-06-11` arXiv 3 条已在配置恢复后全部补回 PDF，不再是 runtime-blocked 积压。
 
 ## 下一步
+
+- 2026-09-13：台账已至 347 条，重试队列为 17 条。下轮先检查 2026-09-14/15 arXiv 新批次与 5 条 APS 阻塞候选，再优先寻找可闭合 laser-accelerated beam → converter/catcher → γ/中子/活化 → 剂量/屏蔽的实验论文。Gallego 后续应做独立放电留出与 LCFS/遗漏物理敏感性，Bazyl–Zagorodnov 需要更大可负担阵列或实验相空间对照，Wierzchucka 则需要三维和晚期数值碰撞受控的高粒子数 PIC；在这些验证前不升级结论。
 
 - 2026-09-12：台账已至 344 条，重试队列为 17 条。下轮优先重查本轮 5 条 APS 阻塞候选的合法全文，并继续寻找能闭合 laser-accelerated beam → catcher / converter → γ / 中子 / 活化产额 → 剂量 / shielding 的实验链。Labun 后续需要真实 LPA 多会话验证和不同生成族 stress test，Kuchta 需要扩展到重联过程和多维剖面，kobra 需公开源码、独立 benchmark 与更高维 wall geometry 后再升级结论。
 

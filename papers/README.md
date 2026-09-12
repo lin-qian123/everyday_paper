@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：344 篇
-- 索引更新时间：2026-09-12
+- 当前入库论文：347 篇
+- 索引更新时间：2026-09-13
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-09-13 | [Physics-Informed Neural Networks to Infer the Perpendicular Energy Conductivity in the Scrape-Off Layer of Stellarator Devices](./arxiv-2609-11628/README.md) | arXiv preprint | [10.48550/arXiv.2609.11628](https://doi.org/10.48550/arXiv.2609.11628) |
+| 2026-09-13 | [Coupling periodic-cell and finite-bunch dynamics for structured photocathodes](./arxiv-2609-11844/README.md) | arXiv preprint | [10.48550/arXiv.2609.11844](https://doi.org/10.48550/arXiv.2609.11844) |
+| 2026-09-13 | [Two-Phase Structure of Synchrotron-Cooling-Unstable Relativistic Plasma](./arxiv-2609-07793/README.md) | arXiv preprint | [10.48550/arXiv.2609.07793](https://doi.org/10.48550/arXiv.2609.07793) |
 | 2026-09-12 | [Physics-Informed Drift Diagnosis for Laser-Plasma Accelerator Operations](./arxiv-2609-11874/README.md) | arXiv preprint | [10.48550/arXiv.2609.11874](https://doi.org/10.48550/arXiv.2609.11874) |
 | 2026-09-12 | [Experimental Plasma Density Profiles Determined Through Measurements of the Magnetosonic Wave Speed](./arxiv-2609-11743/README.md) | arXiv preprint (submitted to Physics of Plasmas) | [10.48550/arXiv.2609.11743](https://doi.org/10.48550/arXiv.2609.11743) |
 | 2026-09-12 | [kobra: a new Vlasov code intended for plasma-wall modeling](./arxiv-2609-11563/README.md) | Contributions to Plasma Physics (accepted; local arXiv preprint) | [10.48550/arXiv.2609.11563](https://doi.org/10.48550/arXiv.2609.11563) |

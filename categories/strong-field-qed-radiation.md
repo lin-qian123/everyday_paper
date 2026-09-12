@@ -2,11 +2,12 @@
 
 强场量子效应、辐射反作用、非线性 Compton、pair production 与极端场实验。
 
-- 当前收录：60 篇
-- 索引更新时间：2026-09-12
+- 当前收录：61 篇
+- 索引更新时间：2026-09-13
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-13 | [Two-Phase Structure of Synchrotron-Cooling-Unstable Relativistic Plasma](../papers/arxiv-2609-07793/README.md) | arXiv preprint | [笔记](../daily/2026-09-13/notes/Wierzchucka et al. - 2026 - Two-phase synchrotron-cooling-unstable relativistic plasma.md) |
 | 2026-09-11 | [High-charge, highly polarized positron beams generated from a laser-driven nanowire-array target](../papers/arxiv-2609-09908/README.md) | arXiv preprint | [笔记](../daily/2026-09-11/notes/Zhang et al. - 2026 - High-charge polarized positrons from nanowire target.md) |
 | 2026-09-10 | [Self-organized positron reorienting and pinching mechanism for the experimental detection of the linear Breit-Wheeler process](../papers/arxiv-2609-07584/README.md) | arXiv preprint | [笔记](../daily/2026-09-10/notes/He et al. - 2026 - Self-organized positron reorienting for linear Breit-Wheeler.md) |
 | 2026-09-09 | [Exploring millicharged particles in laboratory and astrophysical strong-field regimes](../papers/arxiv-2609-03399/README.md) | arXiv preprint | [笔记](../daily/2026-09-09/notes/Jiang et al. - 2026 - Millicharged particles in strong-field regimes.md) |

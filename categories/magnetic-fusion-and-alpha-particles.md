@@ -2,11 +2,12 @@
 
 stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。
 
-- 当前收录：34 篇
-- 索引更新时间：2026-09-12
+- 当前收录：35 篇
+- 索引更新时间：2026-09-13
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-13 | [Physics-Informed Neural Networks to Infer the Perpendicular Energy Conductivity in the Scrape-Off Layer of Stellarator Devices](../papers/arxiv-2609-11628/README.md) | arXiv preprint | [笔记](../daily/2026-09-13/notes/Gallego et al. - 2026 - PINN inference of SOL perpendicular conductivity.md) |
 | 2026-09-12 | [kobra: a new Vlasov code intended for plasma-wall modeling](../papers/arxiv-2609-11563/README.md) | Contributions to Plasma Physics (accepted; local arXiv preprint) | [笔记](../daily/2026-09-12/notes/Konewko et al. - 2026 - kobra Vlasov code for plasma-wall modeling.md) |
 | 2026-09-09 | [The Fusion Equilibrium Challenge: Inferring Magnetic Geometry Without Magnetic Diagnostics](../papers/arxiv-2609-01750/README.md) | arXiv preprint | [笔记](../daily/2026-09-09/notes/Nakkina et al. - 2026 - Fusion Equilibrium Challenge.md) |
 | 2026-09-05 | [Minute-Scale High-Fidelity Gyrokinetic Simulations with Portability from Laptop to Supercomputer](../papers/arxiv-2609-03354/README.md) | arXiv preprint | [笔记](../daily/2026-09-05/notes/Bao et al. - 2026 - Minute-scale high-fidelity gyrokinetic simulations.md) |

@@ -2,11 +2,14 @@
 
 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。
 
-- 当前收录：38 篇
-- 索引更新时间：2026-09-12
+- 当前收录：41 篇
+- 索引更新时间：2026-09-13
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-13 | [Physics-Informed Neural Networks to Infer the Perpendicular Energy Conductivity in the Scrape-Off Layer of Stellarator Devices](../papers/arxiv-2609-11628/README.md) | arXiv preprint | [笔记](../daily/2026-09-13/notes/Gallego et al. - 2026 - PINN inference of SOL perpendicular conductivity.md) |
+| 2026-09-13 | [Coupling periodic-cell and finite-bunch dynamics for structured photocathodes](../papers/arxiv-2609-11844/README.md) | arXiv preprint | [笔记](../daily/2026-09-13/notes/Bazyl and Zagorodnov - 2026 - Structured photocathode multiscale coupling.md) |
+| 2026-09-13 | [Two-Phase Structure of Synchrotron-Cooling-Unstable Relativistic Plasma](../papers/arxiv-2609-07793/README.md) | arXiv preprint | [笔记](../daily/2026-09-13/notes/Wierzchucka et al. - 2026 - Two-phase synchrotron-cooling-unstable relativistic plasma.md) |
 | 2026-09-12 | [Experimental Plasma Density Profiles Determined Through Measurements of the Magnetosonic Wave Speed](../papers/arxiv-2609-11743/README.md) | arXiv preprint (submitted to Physics of Plasmas) | [笔记](../daily/2026-09-12/notes/Kuchta et al. - 2026 - Magnetosonic-wave plasma density profiles.md) |
 | 2026-09-12 | [kobra: a new Vlasov code intended for plasma-wall modeling](../papers/arxiv-2609-11563/README.md) | Contributions to Plasma Physics (accepted; local arXiv preprint) | [笔记](../daily/2026-09-12/notes/Konewko et al. - 2026 - kobra Vlasov code for plasma-wall modeling.md) |
 | 2026-09-11 | [Generalized Similarity Theory for Plasmas](../papers/arxiv-2609-08413/README.md) | arXiv preprint | [笔记](../daily/2026-09-11/notes/Fu - 2026 - Generalized similarity theory for plasmas.md) |

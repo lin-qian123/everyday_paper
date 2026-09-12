@@ -1,0 +1,67 @@
+{
+  "run_date": "2026-09-13",
+  "ledger_before": 344,
+  "ledger_after": 347,
+  "added_count": 3,
+  "retry_queue_before": 17,
+  "retry_queue_after": 17,
+  "sources_checked": [
+    "official arXiv recent listings for physics.plasm-ph, physics.acc-ph, physics.comp-ph, physics.ins-det, physics.med-ph and nucl-ex",
+    "targeted laser-plasma, PIC, radiation-reaction, HEDP, plasma-ML and beam-application searches",
+    "completed ledger, retry queue and historical daily records"
+  ],
+  "freshness": "The official arXiv target-category listings had no submission batch later than 2026-09-10 during this Sunday run. Selection therefore used the newest available batch and one complementary 2026-09-07 paper rather than padding the day with weaker records.",
+  "search_fallback": "The local multi-source search aggregator returned no usable records. Discovery and metadata verification therefore used official arXiv listings and article pages. This does not establish exhaustive database coverage.",
+  "added_identifiers": [
+    "10.48550/arXiv.2609.11628",
+    "10.48550/arXiv.2609.11844",
+    "10.48550/arXiv.2609.07793"
+  ],
+  "dedupe": {
+    "keys": [
+      "formal DOI or arXiv identifier",
+      "normalized title",
+      "historical daily records",
+      "completed ledger and retry queue",
+      "abstract and physical scenario"
+    ],
+    "result": "All three additions are new to the completed ledger. They cover distinct evidence classes: experimental-profile-constrained inverse modeling on TJ-II, a numerically validated local-response composition for structured photocathodes, and analytic/PIC/fluid cross-validation of a radiatively cooling relativistic pair plasma."
+  },
+  "skipped_candidates": [
+    {
+      "reason": "A recent Vlasov/plasma-wall candidate substantially overlapped the kobra code-and-benchmark topic added on 2026-09-12, so it was not used to pad the Sunday selection."
+    },
+    {
+      "reason": "The 17 structured retry records were unchanged. Long-standing Elsevier, Nature and IOP access-wall entries were not blindly rerun, and APS HTTP 403 abstracts were not expanded into full-paper notes."
+    },
+    {
+      "reason": "No newly accessible non-duplicate paper closed the full laser-accelerated beam to converter/catcher to gamma/neutron/activation to dose/shielding chain more directly than the selected records."
+    }
+  ],
+  "pdf_validation": "daily/2026-09-13/pdf_validation.json",
+  "mineru": {
+    "status": "success",
+    "credential": "MINERU_API_KEY",
+    "converted_count": 3,
+    "batch_ids": [
+      "c52036f7-58f9-4b2b-b173-50dfa81916d1",
+      "c558f538-1e6e-4f45-be52-610f6d7981aa",
+      "1a84dfd2-7596-4983-848a-66edd0845b8d"
+    ],
+    "selected_images": 12,
+    "visual_checks": "All selected JPEGs decoded and were visually inspected before inclusion."
+  },
+  "validation": {
+    "index_builder": "Indexed 347 papers across 9 categories.",
+    "unit_tests": "7 tests passed",
+    "pytest": "7 tests passed",
+    "git_diff_check": "passed",
+    "ledger_duplicate_doi_check": "passed for all non-null DOI/arXiv identifiers",
+    "ledger_duplicate_normalized_title_check": "passed",
+    "new_ledger_path_check": "passed",
+    "note_image_reference_check": "12 references resolved and decoded",
+    "pdf_header_metadata_text_check": "passed"
+  },
+  "evidence_boundary": "Gallego et al. use real TJ-II temperature and density profiles, but the inferred conductivity is an effective parameter conditional on a reduced one-dimensional SOL equation and a heuristic LCFS location. Bazyl and Zagorodnov validate composition against a fully resolved 41 by 41 WarpX array, while the 521197-hole injector-scale result has no fully resolved truth and also inherits WarpX-to-IMPACT-T carrier offsets. Wierzchucka et al. obtain early-time agreement between analytic theory, radiative OSIRIS PIC and a two-phase fluid model; after about 2.2 cooling times the fiducial PIC is affected by numerical collisional isotropization, the long-time saturation is a fluid extrapolation, and the quantum parameter is far below the strong-field-QED regime. No author code or simulation was rerun locally.",
+  "status": "success"
+}

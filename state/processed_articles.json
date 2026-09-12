@@ -3837,5 +3837,55 @@
       "general-plasma-and-methods"
     ],
     "normalized_title": "kobra a new vlasov code intended for plasma wall modeling"
+  },
+  {
+    "title": "Physics-Informed Neural Networks to Infer the Perpendicular Energy Conductivity in the Scrape-Off Layer of Stellarator Devices",
+    "doi": "10.48550/arXiv.2609.11628",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-10",
+    "processed_date": "2026-09-13",
+    "source_url": "https://arxiv.org/abs/2609.11628",
+    "pdf_path": "daily/2026-09-13/pdfs/Gallego et al. - 2026 - PINN inference of SOL perpendicular conductivity.pdf",
+    "note_path": "daily/2026-09-13/notes/Gallego et al. - 2026 - PINN inference of SOL perpendicular conductivity.md",
+    "categories": [
+      "ai-ml-plasma-physics",
+      "magnetic-fusion-and-alpha-particles",
+      "experimental-platforms-diagnostics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "physics informed neural networks to infer the perpendicular energy conductivity in the scrape off layer of stellarator devices"
+  },
+  {
+    "title": "Coupling periodic-cell and finite-bunch dynamics for structured photocathodes",
+    "doi": "10.48550/arXiv.2609.11844",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-10",
+    "processed_date": "2026-09-13",
+    "source_url": "https://arxiv.org/abs/2609.11844",
+    "pdf_path": "daily/2026-09-13/pdfs/Bazyl and Zagorodnov - 2026 - Structured photocathode multiscale coupling.pdf",
+    "note_path": "daily/2026-09-13/notes/Bazyl and Zagorodnov - 2026 - Structured photocathode multiscale coupling.md",
+    "categories": [
+      "pic-and-plasma-simulation",
+      "experimental-platforms-diagnostics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "coupling periodic cell and finite bunch dynamics for structured photocathodes"
+  },
+  {
+    "title": "Two-Phase Structure of Synchrotron-Cooling-Unstable Relativistic Plasma",
+    "doi": "10.48550/arXiv.2609.07793",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-07",
+    "processed_date": "2026-09-13",
+    "source_url": "https://arxiv.org/abs/2609.07793",
+    "pdf_path": "daily/2026-09-13/pdfs/Wierzchucka et al. - 2026 - Two-phase synchrotron-cooling-unstable relativistic plasma.pdf",
+    "note_path": "daily/2026-09-13/notes/Wierzchucka et al. - 2026 - Two-phase synchrotron-cooling-unstable relativistic plasma.md",
+    "categories": [
+      "strong-field-qed-radiation",
+      "pic-and-plasma-simulation",
+      "hedp-icf-laboratory-astrophysics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "two phase structure of synchrotron cooling unstable relativistic plasma"
   }
 ]
