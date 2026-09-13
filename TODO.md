@@ -11,6 +11,8 @@
 
 ## 开发记录
 
+- 2026-09-14：加载 347 条完成台账、17 条重试队列和历史 `daily/`，按正式 DOI/arXiv identifier、规范化标题和物理场景去重；周一早间官方 arXiv 目标分类已更新到 2026-09-11 批次，多源聚合器仍无可用返回。新增 `10.48550/arXiv.2609.10958` 与 PRL `10.1103/82y9-svrd`，分别覆盖空心阴极羽流的 RPA/双探针—二维静电 WarpX—被动粒子轨迹功链，以及 $^{50}$Ti 的 $(\gamma,\gamma')$、$(e,e')$、$(p,p')$、$(d,p)$ 多探针 M1 结构实验。2 份官方 arXiv PDF 通过 `%PDF-`、19/7 页元数据、SHA-256 与非空 `pdftotext`，均完成 MinerU；13 张关键图已解码查看。台账从 347 增至 349；5 条 APS 候选重试仍为 `HTTP 403`，队列保持 17 条并更新计数。严格区分实验可观测量、代表性 PIC/被动粒子机制对照、反应模型依赖谱因子和淬灭后的结构模型；本轮没有运行 WarpX、信号处理、FRESCO/ADWA 或核结构计算。
+
 - 2026-09-13：加载 344 条完成台账、17 条重试队列和历史 `daily/`，按 DOI/arXiv identifier、规范化标题和物理场景去重；官方 arXiv 六个目标分类在周日仍止于 2026-09-10 批次，多源聚合器未返回可用记录。新增 `10.48550/arXiv.2609.11628`、`10.48550/arXiv.2609.11844`、`10.48550/arXiv.2609.07793`，分别覆盖 TJ-II 实验约束 PINN 输运反演、结构化光阴极 WarpX/IMPACT-T 多尺度束流模拟和同步辐射冷却 pair-plasma 的解析—PIC—流体机制。3 份官方 PDF 通过 `%PDF-`、18/37/47 页元数据、SHA-256 与非空 `pdftotext`，全部完成 MinerU；12 张关键图已解码查看。台账从 344 增至 347，重试队列保持 17 条。严格区分实验输入与有效反演、同模型小阵列验证与注入器尺度外推，以及早期可信 PIC 与 `t≳2.2τ0` 后的数值碰撞污染；本轮没有本地运行 PINN、WarpX/IMPACT-T 或 OSIRIS。
 
 - 2026-09-12：完成正式 DOI / arXiv identifier、规范化标题、历史 daily、重试队列和物理场景去重；检查 APS PRL / PRE 与官方 arXiv 五个目标分类。新增 `10.48550/arXiv.2609.11874`、`10.48550/arXiv.2609.11743`、`10.48550/arXiv.2609.11563`，分别覆盖合成 LPA 漂移诊断、Big Red Ball 磁声波密度诊断实验和 AMR Vlasov plasma-wall benchmark。3 份官方 PDF 通过 `%PDF-`、28/6/6 页元数据、SHA-256 与非空 `pdftotext`，并全部完成 MinerU；14 张关键图已解码查看。台账从 341 增至 344；APS `10.1103/mbn4-fd4v`、`10.1103/k23j-c9y7`、`10.1103/mmc9-nzfx` 因 `HTTP 403`、无合法作者稿或延迟开放进入重试队列，使其从 14 增至 17 条。严格区分合成诊断、真实初始剖面实验和作者数值 benchmark；本轮没有运行 LPA、重联装置或 kobra 源码。
@@ -172,12 +174,13 @@
 ## 阻塞点
 
 - 队列里的 12 条旧阻塞已明确是来源侧访问限制：Elsevier `HTTP 403`、Nature cookie wall、IOP bot wall。
-- APS `10.1103/p7k8-mjn7` 与 `10.1103/nc7w-yr34` 在 2026-09-12 复查时仍由 accepted / DOI 路径返回 `HTTP 403` HTML，且未检得合法开放作者稿；两条继续留在结构化重试队列。
-- 本轮新增的 APS `10.1103/mbn4-fd4v`、`10.1103/k23j-c9y7` 与 `10.1103/mmc9-nzfx` 因 `HTTP 403`、无合法作者稿或 accepted manuscript 延迟到 2027-09-10 开放，已进入结构化重试队列。
+- APS `10.1103/p7k8-mjn7`、`10.1103/nc7w-yr34`、`10.1103/mbn4-fd4v`、`10.1103/k23j-c9y7` 与 `10.1103/mmc9-nzfx` 在 2026-09-14 复查时，accepted/article 与 DOI 的代理/直连路径仍全部返回 `HTTP 403`；其中 `mmc9-nzfx` 的 accepted manuscript 标注延迟到 2027-09-10 开放，五条继续留在结构化重试队列。
 - APS accepted 论文 `10.1103/sgyf-lrw1`、`10.1103/2rqf-hq77` 与 `10.1103/d45l-hsgg` 的 accepted / DOI 路径在 2026-09-10 经项目安全下载器复查仍全部返回 `HTTP 403` HTML，当前未找到开放作者稿；只保留元数据候选，待 version of record 或合法作者稿开放后再入库。
 - `2026-06-09` Cambridge/JPP 3 条、`2026-06-10` arXiv 3 条和 `2026-06-11` arXiv 3 条已在配置恢复后全部补回 PDF，不再是 runtime-blocked 积压。
 
 ## 下一步
+
+- 2026-09-14：台账已至 349 条，重试队列为 17 条。下轮先检查 2026-09-14/15 官方 arXiv 新批次，再继续寻找可闭合 laser-accelerated beam → converter/catcher → γ/中子/活化 → 剂量/屏蔽的实验全文；5 条 APS 在出现 version of record 或合法作者稿前避免日常空跑。Wang 后续需要多间距/阵列探针、含荷交换和动态中性的三维 PIC 及具体工况定量闭环；Kelly 后续需要公开逐态协方差并在扩展跨壳空间、基态关联和二体流下同时拟合多探针观测量。
 
 - 2026-09-13：台账已至 347 条，重试队列为 17 条。下轮先检查 2026-09-14/15 arXiv 新批次与 5 条 APS 阻塞候选，再优先寻找可闭合 laser-accelerated beam → converter/catcher → γ/中子/活化 → 剂量/屏蔽的实验论文。Gallego 后续应做独立放电留出与 LCFS/遗漏物理敏感性，Bazyl–Zagorodnov 需要更大可负担阵列或实验相空间对照，Wierzchucka 则需要三维和晚期数值碰撞受控的高粒子数 PIC；在这些验证前不升级结论。
 

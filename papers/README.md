@@ -1,10 +1,12 @@
 # 论文总索引
 
-- 当前入库论文：347 篇
-- 索引更新时间：2026-09-13
+- 当前入库论文：349 篇
+- 索引更新时间：2026-09-14
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-09-14 | [A detailed view at magnetic dipole strengths: The case of semi-magic 50Ti](./10-1103-82y9-svrd/README.md) | Physical Review Letters | [10.1103/82y9-svrd](https://doi.org/10.1103/82y9-svrd) |
+| 2026-09-14 | [Particle-resolved pathways to energetic-ion formation in a fluctuating low-current hollow-cathode plume](./arxiv-2609-10958/README.md) | arXiv preprint | [10.48550/arXiv.2609.10958](https://doi.org/10.48550/arXiv.2609.10958) |
 | 2026-09-13 | [Physics-Informed Neural Networks to Infer the Perpendicular Energy Conductivity in the Scrape-Off Layer of Stellarator Devices](./arxiv-2609-11628/README.md) | arXiv preprint | [10.48550/arXiv.2609.11628](https://doi.org/10.48550/arXiv.2609.11628) |
 | 2026-09-13 | [Coupling periodic-cell and finite-bunch dynamics for structured photocathodes](./arxiv-2609-11844/README.md) | arXiv preprint | [10.48550/arXiv.2609.11844](https://doi.org/10.48550/arXiv.2609.11844) |
 | 2026-09-13 | [Two-Phase Structure of Synchrotron-Cooling-Unstable Relativistic Plasma](./arxiv-2609-07793/README.md) | arXiv preprint | [10.48550/arXiv.2609.07793](https://doi.org/10.48550/arXiv.2609.07793) |

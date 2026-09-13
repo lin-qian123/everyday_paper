@@ -2,11 +2,13 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：85 篇
-- 索引更新时间：2026-09-13
+- 当前收录：87 篇
+- 索引更新时间：2026-09-14
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-14 | [A detailed view at magnetic dipole strengths: The case of semi-magic 50Ti](../papers/10-1103-82y9-svrd/README.md) | Physical Review Letters | [笔记](../daily/2026-09-14/notes/Kelly et al. - 2026 - Magnetic dipole strengths in 50Ti.md) |
+| 2026-09-14 | [Particle-resolved pathways to energetic-ion formation in a fluctuating low-current hollow-cathode plume](../papers/arxiv-2609-10958/README.md) | arXiv preprint | [笔记](../daily/2026-09-14/notes/Wang et al. - 2026 - Energetic ions in fluctuating hollow-cathode plume.md) |
 | 2026-09-13 | [Physics-Informed Neural Networks to Infer the Perpendicular Energy Conductivity in the Scrape-Off Layer of Stellarator Devices](../papers/arxiv-2609-11628/README.md) | arXiv preprint | [笔记](../daily/2026-09-13/notes/Gallego et al. - 2026 - PINN inference of SOL perpendicular conductivity.md) |
 | 2026-09-13 | [Coupling periodic-cell and finite-bunch dynamics for structured photocathodes](../papers/arxiv-2609-11844/README.md) | arXiv preprint | [笔记](../daily/2026-09-13/notes/Bazyl and Zagorodnov - 2026 - Structured photocathode multiscale coupling.md) |
 | 2026-09-12 | [Physics-Informed Drift Diagnosis for Laser-Plasma Accelerator Operations](../papers/arxiv-2609-11874/README.md) | arXiv preprint | [笔记](../daily/2026-09-12/notes/Labun et al. - 2026 - Physics-informed drift diagnosis for laser-plasma accelerator operations.md) |

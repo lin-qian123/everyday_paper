@@ -2,11 +2,13 @@
 
 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。
 
-- 当前收录：41 篇
-- 索引更新时间：2026-09-13
+- 当前收录：43 篇
+- 索引更新时间：2026-09-14
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-14 | [A detailed view at magnetic dipole strengths: The case of semi-magic 50Ti](../papers/10-1103-82y9-svrd/README.md) | Physical Review Letters | [笔记](../daily/2026-09-14/notes/Kelly et al. - 2026 - Magnetic dipole strengths in 50Ti.md) |
+| 2026-09-14 | [Particle-resolved pathways to energetic-ion formation in a fluctuating low-current hollow-cathode plume](../papers/arxiv-2609-10958/README.md) | arXiv preprint | [笔记](../daily/2026-09-14/notes/Wang et al. - 2026 - Energetic ions in fluctuating hollow-cathode plume.md) |
 | 2026-09-13 | [Physics-Informed Neural Networks to Infer the Perpendicular Energy Conductivity in the Scrape-Off Layer of Stellarator Devices](../papers/arxiv-2609-11628/README.md) | arXiv preprint | [笔记](../daily/2026-09-13/notes/Gallego et al. - 2026 - PINN inference of SOL perpendicular conductivity.md) |
 | 2026-09-13 | [Coupling periodic-cell and finite-bunch dynamics for structured photocathodes](../papers/arxiv-2609-11844/README.md) | arXiv preprint | [笔记](../daily/2026-09-13/notes/Bazyl and Zagorodnov - 2026 - Structured photocathode multiscale coupling.md) |
 | 2026-09-13 | [Two-Phase Structure of Synchrotron-Cooling-Unstable Relativistic Plasma](../papers/arxiv-2609-07793/README.md) | arXiv preprint | [笔记](../daily/2026-09-13/notes/Wierzchucka et al. - 2026 - Two-phase synchrotron-cooling-unstable relativistic plasma.md) |

@@ -2,11 +2,12 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：145 篇
-- 索引更新时间：2026-09-13
+- 当前收录：146 篇
+- 索引更新时间：2026-09-14
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-14 | [Particle-resolved pathways to energetic-ion formation in a fluctuating low-current hollow-cathode plume](../papers/arxiv-2609-10958/README.md) | arXiv preprint | [笔记](../daily/2026-09-14/notes/Wang et al. - 2026 - Energetic ions in fluctuating hollow-cathode plume.md) |
 | 2026-09-13 | [Coupling periodic-cell and finite-bunch dynamics for structured photocathodes](../papers/arxiv-2609-11844/README.md) | arXiv preprint | [笔记](../daily/2026-09-13/notes/Bazyl and Zagorodnov - 2026 - Structured photocathode multiscale coupling.md) |
 | 2026-09-13 | [Two-Phase Structure of Synchrotron-Cooling-Unstable Relativistic Plasma](../papers/arxiv-2609-07793/README.md) | arXiv preprint | [笔记](../daily/2026-09-13/notes/Wierzchucka et al. - 2026 - Two-phase synchrotron-cooling-unstable relativistic plasma.md) |
 | 2026-09-12 | [kobra: a new Vlasov code intended for plasma-wall modeling](../papers/arxiv-2609-11563/README.md) | Contributions to Plasma Physics (accepted; local arXiv preprint) | [笔记](../daily/2026-09-12/notes/Konewko et al. - 2026 - kobra Vlasov code for plasma-wall modeling.md) |

@@ -253,11 +253,11 @@
     "stdout": "",
     "output_pdf": "daily/2026-09-11/pdfs/Nuclear polarization by intense laser pulses.pdf",
     "attempted_at": "2026-09-11T07:19:43+08:00",
-    "last_retry_at": "2026-09-12T07:18:05+08:00",
-    "retry_count": 1,
+    "last_retry_at": "2026-09-14T07:15:21+08:00",
+    "retry_count": 2,
     "last_failure_class": "publisher_http_403",
     "source_family": "other",
-    "failure_count": 2
+    "failure_count": 3
   },
   {
     "doi": "10.1103/nc7w-yr34",
@@ -273,11 +273,11 @@
     "stdout": "",
     "output_pdf": "daily/2026-09-11/pdfs/Nonthermal electron acceleration in turbulent wakefields.pdf",
     "attempted_at": "2026-09-11T07:19:43+08:00",
-    "last_retry_at": "2026-09-12T07:18:05+08:00",
-    "retry_count": 1,
+    "last_retry_at": "2026-09-14T07:15:21+08:00",
+    "retry_count": 2,
     "last_failure_class": "publisher_http_403",
     "source_family": "other",
-    "failure_count": 2
+    "failure_count": 3
   },
   {
     "doi": "10.1103/mbn4-fd4v",
@@ -293,10 +293,11 @@
     "stdout": "",
     "output_pdf": "daily/2026-09-12/pdfs/First experimental evidence of helicon current drive.pdf",
     "attempted_at": "2026-09-12T07:18:05+08:00",
-    "retry_count": 0,
+    "last_retry_at": "2026-09-14T07:15:21+08:00",
+    "retry_count": 1,
     "last_failure_class": "publisher_http_403",
     "source_family": "other",
-    "failure_count": 1
+    "failure_count": 2
   },
   {
     "doi": "10.1103/k23j-c9y7",
@@ -312,10 +313,11 @@
     "stdout": "",
     "output_pdf": "daily/2026-09-12/pdfs/High-energy-density plasma nanorod driven by a relativistic Bessel beam.pdf",
     "attempted_at": "2026-09-12T07:18:05+08:00",
-    "retry_count": 0,
+    "last_retry_at": "2026-09-14T07:15:21+08:00",
+    "retry_count": 1,
     "last_failure_class": "publisher_http_403",
     "source_family": "other",
-    "failure_count": 1
+    "failure_count": 2
   },
   {
     "doi": "10.1103/mmc9-nzfx",
@@ -331,9 +333,10 @@
     "stdout": "",
     "output_pdf": "daily/2026-09-12/pdfs/Generalized Lawson-Cordey-Mills diagram.pdf",
     "attempted_at": "2026-09-12T07:18:05+08:00",
-    "retry_count": 0,
+    "last_retry_at": "2026-09-14T07:15:21+08:00",
+    "retry_count": 1,
     "last_failure_class": "publisher_http_403",
     "source_family": "other",
-    "failure_count": 1
+    "failure_count": 2
   }
 ]

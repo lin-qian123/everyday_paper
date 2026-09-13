@@ -3887,5 +3887,37 @@
       "general-plasma-and-methods"
     ],
     "normalized_title": "two phase structure of synchrotron cooling unstable relativistic plasma"
+  },
+  {
+    "title": "Particle-resolved pathways to energetic-ion formation in a fluctuating low-current hollow-cathode plume",
+    "doi": "10.48550/arXiv.2609.10958",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-10",
+    "processed_date": "2026-09-14",
+    "source_url": "https://arxiv.org/abs/2609.10958",
+    "pdf_path": "daily/2026-09-14/pdfs/Wang et al. - 2026 - Energetic ions in fluctuating hollow-cathode plume.pdf",
+    "note_path": "daily/2026-09-14/notes/Wang et al. - 2026 - Energetic ions in fluctuating hollow-cathode plume.md",
+    "categories": [
+      "pic-and-plasma-simulation",
+      "experimental-platforms-diagnostics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "particle resolved pathways to energetic ion formation in a fluctuating low current hollow cathode plume"
+  },
+  {
+    "title": "A detailed view at magnetic dipole strengths: The case of semi-magic 50Ti",
+    "doi": "10.1103/82y9-svrd",
+    "journal": "Physical Review Letters",
+    "publication_date": "2026-09-11",
+    "processed_date": "2026-09-14",
+    "source_url": "https://arxiv.org/abs/2609.10843",
+    "pdf_path": "daily/2026-09-14/pdfs/Kelly et al. - 2026 - Magnetic dipole strengths in 50Ti.pdf",
+    "note_path": "daily/2026-09-14/notes/Kelly et al. - 2026 - Magnetic dipole strengths in 50Ti.md",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "experimental-platforms-diagnostics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "a detailed view at magnetic dipole strengths the case of semi magic 50ti"
   }
 ]

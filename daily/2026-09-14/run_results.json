@@ -1,0 +1,78 @@
+{
+  "run_date": "2026-09-14",
+  "ledger_before": 347,
+  "ledger_after": 349,
+  "added_count": 2,
+  "retry_queue_before": 17,
+  "retry_queue_after": 17,
+  "sources_checked": [
+    "official arXiv recent listings for physics.plasm-ph, physics.acc-ph, physics.comp-ph, physics.ins-det, physics.med-ph, nucl-ex, physics.app-ph, physics.optics and astro-ph.HE",
+    "APS Physical Review recent and accepted pages plus High Power Laser Science and Engineering listings",
+    "targeted laser-plasma, PIC, strong-field-QED, HEDP, plasma-ML, nuclear-diagnostic and laser-accelerated-beam-application searches",
+    "completed ledger, retry queue and historical daily records"
+  ],
+  "freshness": "The official arXiv target-category listings had advanced to the 2026-09-11 submission batch during this early Monday run, but no 2026-09-14 batch was available yet. Selection therefore used two non-duplicate records from the newest available window rather than padding the day.",
+  "search_fallback": "The local multi-source search aggregator returned no usable records. Discovery and metadata verification therefore used official arXiv, APS and HPLSE listings and article pages. This does not establish exhaustive database coverage.",
+  "added_identifiers": [
+    "10.48550/arXiv.2609.10958",
+    "10.1103/82y9-svrd"
+  ],
+  "dedupe": {
+    "keys": [
+      "formal DOI or arXiv identifier",
+      "normalized title",
+      "historical daily records",
+      "completed ledger and retry queue",
+      "abstract and physical scenario"
+    ],
+    "result": "Both additions are new to the completed ledger. They cover distinct evidence classes: an experiment plus representative electrostatic WarpX and passive-particle mechanism chain, and a formal multi-probe nuclear-structure experiment with model comparison."
+  },
+  "retry_recheck": {
+    "targeted_count": 5,
+    "identifiers": [
+      "10.1103/p7k8-mjn7",
+      "10.1103/nc7w-yr34",
+      "10.1103/mbn4-fd4v",
+      "10.1103/k23j-c9y7",
+      "10.1103/mmc9-nzfx"
+    ],
+    "result": "All accepted or article and DOI routes returned HTTP 403 through both configured proxy and direct attempts. Retry and failure counters were incremented; no abstract-only record was promoted to the completed ledger."
+  },
+  "skipped_candidates": [
+    {
+      "reason": "The 2026-09-11 KOBRA ELM adaptive Vlasov-Poisson manuscript substantially overlaps the kobra code and benchmark topic added on 2026-09-12, so the previous near-duplicate exclusion was preserved."
+    },
+    {
+      "reason": "A physics-guided Gaussian-process manuscript in nuclear problems was methodologically relevant but lower priority than the selected direct experiment and PIC-mechanism records, so it was not used to pad the selection."
+    },
+    {
+      "reason": "No newly accessible non-duplicate paper closed the full laser-accelerated beam to converter or catcher to gamma, neutron or activation to dose or shielding chain. Kelly et al. use a laser-Compton gamma beam for nuclear spectroscopy, not a laser-wakefield beam-to-converter application chain."
+    }
+  ],
+  "pdf_validation": "daily/2026-09-14/pdf_validation.json",
+  "mineru": {
+    "status": "success",
+    "credential": "MINERU_API_KEY",
+    "converted_count": 2,
+    "batch_ids": [
+      "679b74fe-f231-4d66-8bdd-190b2a5ff468",
+      "6c8699ca-d50b-485d-aa60-f489626de5a3"
+    ],
+    "selected_images": 13,
+    "visual_checks": "All selected JPEGs decoded and were visually inspected before inclusion."
+  },
+  "validation": {
+    "index_builder": "Indexed 349 papers across 9 categories.",
+    "unit_tests": "7 tests passed",
+    "pytest": "7 tests passed",
+    "git_diff_check": "passed",
+    "ledger_duplicate_doi_check": "passed for all non-null DOI and arXiv identifiers",
+    "ledger_duplicate_normalized_title_check": "passed",
+    "new_ledger_path_check": "passed",
+    "note_image_reference_check": "13 references resolved and decoded",
+    "pdf_header_size_hash_metadata_text_check": "passed",
+    "retry_queue_check": "17 records retained and 5 targeted last_retry_at values updated"
+  },
+  "evidence_boundary": "Wang et al. directly measure acceptance-limited RPA energy-per-charge distributions and probe fluctuations, while the two-point phase map cannot uniquely identify a true wave number or exclude unresolved ion-acoustic activity. Their two-dimensional axisymmetric electrostatic WarpX case is a representative kinetic reference rather than a point-by-point experimental reconstruction; passive cohorts are one-way coupled and collisionless, and the full, mean, frozen and fluctuation-only fields are sensitivity controls rather than additive acceleration channels. Kelly et al. report new gamma-scattering and neutron-transfer experiments combined with historical electron and proton scattering; spectroscopic factors remain ADWA and optical-model dependent, one historical local proton cross section is digitized from a published figure, and model agreement in summed M1 strength follows conventional quenching or fitted couplings rather than successful state-by-state structure prediction. No WarpX, signal-processing, FRESCO, ADWA or nuclear-structure calculation was rerun locally.",
+  "status": "success"
+}

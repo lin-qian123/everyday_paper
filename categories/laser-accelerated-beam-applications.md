@@ -2,11 +2,12 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：72 篇
-- 索引更新时间：2026-09-13
+- 当前收录：73 篇
+- 索引更新时间：2026-09-14
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-14 | [A detailed view at magnetic dipole strengths: The case of semi-magic 50Ti](../papers/10-1103-82y9-svrd/README.md) | Physical Review Letters | [笔记](../daily/2026-09-14/notes/Kelly et al. - 2026 - Magnetic dipole strengths in 50Ti.md) |
 | 2026-09-11 | [High-charge, highly polarized positron beams generated from a laser-driven nanowire-array target](../papers/arxiv-2609-09908/README.md) | arXiv preprint | [笔记](../daily/2026-09-11/notes/Zhang et al. - 2026 - High-charge polarized positrons from nanowire target.md) |
 | 2026-09-08 | [Impact of ion-beam stopping power on proton-boron fusion yield in the pitcher-catcher scheme driven by ultra-intense laser](../papers/arxiv-2609-04987/README.md) | arXiv preprint | [笔记](../daily/2026-09-08/notes/Hua et al. - 2026 - Stopping power in proton-boron pitcher-catcher fusion.md) |
 | 2026-09-07 | [Detailed study of non-equilibrium characteristics of quasi-neutral TNSA plasmas](../papers/10-1017-hpl-2026-10188/README.md) | High Power Laser Science and Engineering (accepted manuscript, open access) | [笔记](../daily/2026-09-07/notes/Zhu et al. - 2026 - Non-equilibrium quasi-neutral TNSA plasmas.md) |

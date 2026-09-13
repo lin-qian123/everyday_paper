@@ -1,0 +1,22 @@
+[
+  {
+    "pdf": "daily/2026-09-14/pdfs/Wang et al. - 2026 - Energetic ions in fluctuating hollow-cathode plume.pdf",
+    "bytes": 14192608,
+    "head": "%PDF-",
+    "pages": 19,
+    "sha256": "ac47323cc1753dda46ea4bd5fdcc388375aeb5719a48ee73233f71219def40ec",
+    "pdftotext_rc": 0,
+    "text_chars": 100742,
+    "nonempty_text": true
+  },
+  {
+    "pdf": "daily/2026-09-14/pdfs/Kelly et al. - 2026 - Magnetic dipole strengths in 50Ti.pdf",
+    "bytes": 601393,
+    "head": "%PDF-",
+    "pages": 7,
+    "sha256": "fe91fdd214b7f6c04176f23c025c7b0a14de3d29e70095f1e8b1b7769f8d90e1",
+    "pdftotext_rc": 0,
+    "text_chars": 50179,
+    "nonempty_text": true
+  }
+]
