@@ -3,13 +3,15 @@
 ## 当前待办
 
 - [ ] 将每日自动化主流程固定为：新增论文与笔记 -> 更新 `state/processed_articles.json` -> 运行 `python scripts/build_indexes.py` -> 提交并推送 `origin/master`。
-- [ ] 处理剩余 17 条未补回 PDF 的候选；其中 10 条为 Elsevier/ScienceDirect `HTTP 403`，1 条为 Nature `cookies_not_supported`，1 条为 IOP/Radware 验证页，另有 5 条 APS accepted / formal `HTTP 403` 或延迟开放候选。
+- [ ] 处理剩余 16 条未补回 PDF 的候选；其中 10 条为 Elsevier/ScienceDirect `HTTP 403`，1 条为 Nature `cookies_not_supported`，1 条为 IOP/Radware 验证页，另有 4 条 APS accepted / formal `HTTP 403` 或延迟开放候选。
 - [ ] 为当前 65 条已补回 PDF 但尚无笔记的条目补中文结构化笔记。
 - [ ] 把每日自动化主流程接到 `scripts/retry_download_queue.py`，启动时先消化可恢复积压，避免配置恢复后仍只读旧 blocked-day 记录。
 - [ ] 为来源可达性预检补一层轻量检查，避免在明显 `403` / bot-wall 来源上重复空跑，并对 arXiv / DOI 这类开放来源单独标记“仅运行时阻塞”。
 - [ ] 修补 `scripts/safe_pdf_download.py` 在个别 Cambridge 官方 PDF 直链上的卡住问题；当前同 URL 用 `curl` 可正常完成下载，说明更像 Python 传输路径或读取策略问题。
 
 ## 开发记录
+
+- 2026-09-15：加载 349 条完成台账、17 条重试队列和历史 `daily/`，按正式 DOI/arXiv identifier、规范化标题和物理场景去重；周二早间官方 arXiv 目标分类最新可见增量为 2026-09-14 批次，本地多源聚合器无可用返回，Atom API 为 `HTTP 429`，故用官方分类页、文章页和 Cambridge HPLSE 列表核验。新增正式接收 PRL `10.1103/mbn4-fd4v` 与 HPLSE `10.1017/hpl.2026.10174`，分别覆盖 DIII-D helicon 电流驱动实验，以及低密度泡沫靶冲击的时间分辨 X 射线照相—MULTI/FLASH 链。2 份开放 PDF 通过 `%PDF-`、11/13 页元数据、SHA-256 与非空 `pdftotext`，均完成 MinerU；17 张关键图已解码查看。台账从 349 增至 351；helicon 合法作者稿补回旧 APS 阻塞项，重试队列从 17 降至 16。严格区分直接 ECE/MSE/照相观测与 EFIT/TRANSP/GENRAY/MULTI/FLASH 模型推断；本轮没有本地重跑上述物理代码或原始诊断分析。
 
 - 2026-09-14：加载 347 条完成台账、17 条重试队列和历史 `daily/`，按正式 DOI/arXiv identifier、规范化标题和物理场景去重；周一早间官方 arXiv 目标分类已更新到 2026-09-11 批次，多源聚合器仍无可用返回。新增 `10.48550/arXiv.2609.10958` 与 PRL `10.1103/82y9-svrd`，分别覆盖空心阴极羽流的 RPA/双探针—二维静电 WarpX—被动粒子轨迹功链，以及 $^{50}$Ti 的 $(\gamma,\gamma')$、$(e,e')$、$(p,p')$、$(d,p)$ 多探针 M1 结构实验。2 份官方 arXiv PDF 通过 `%PDF-`、19/7 页元数据、SHA-256 与非空 `pdftotext`，均完成 MinerU；13 张关键图已解码查看。台账从 347 增至 349；5 条 APS 候选重试仍为 `HTTP 403`，队列保持 17 条并更新计数。严格区分实验可观测量、代表性 PIC/被动粒子机制对照、反应模型依赖谱因子和淬灭后的结构模型；本轮没有运行 WarpX、信号处理、FRESCO/ADWA 或核结构计算。
 

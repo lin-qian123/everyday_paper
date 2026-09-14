@@ -3919,5 +3919,37 @@
       "general-plasma-and-methods"
     ],
     "normalized_title": "a detailed view at magnetic dipole strengths the case of semi magic 50ti"
+  },
+  {
+    "title": "First Experimental Evidence of Helicon Current Drive",
+    "doi": "10.1103/mbn4-fd4v",
+    "journal": "Physical Review Letters (accepted; local arXiv author manuscript)",
+    "publication_date": "2026-09-08",
+    "processed_date": "2026-09-15",
+    "source_url": "https://arxiv.org/abs/2609.12474",
+    "pdf_path": "daily/2026-09-15/pdfs/Lestz et al. - 2026 - First experimental evidence of helicon current drive.pdf",
+    "note_path": "daily/2026-09-15/notes/Lestz et al. - 2026 - First experimental evidence of helicon current drive.md",
+    "categories": [
+      "magnetic-fusion-and-alpha-particles",
+      "experimental-platforms-diagnostics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "first experimental evidence of helicon current drive"
+  },
+  {
+    "title": "Laser-driven shock wave propagation in low-density foam targets investigated by time-resolved X-ray radiography and hydrodynamic simulations",
+    "doi": "10.1017/hpl.2026.10174",
+    "journal": "High Power Laser Science and Engineering",
+    "publication_date": "2026-09-11",
+    "processed_date": "2026-09-15",
+    "source_url": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/laserdriven-shock-wave-propagation-in-lowdensity-foam-targets-investigated-by-timeresolved-xray-radiography-and-hydrodynamic-simulations/A816C3577E537869C352798728AEF660",
+    "pdf_path": "daily/2026-09-15/pdfs/Turianska et al. - 2026 - Laser-driven shock propagation in low-density foam.pdf",
+    "note_path": "daily/2026-09-15/notes/Turianska et al. - 2026 - Laser-driven shock propagation in low-density foam.md",
+    "categories": [
+      "hedp-icf-laboratory-astrophysics",
+      "experimental-platforms-diagnostics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "laser driven shock wave propagation in low density foam targets investigated by time resolved x ray radiography and hydrodynamic simulations"
   }
 ]

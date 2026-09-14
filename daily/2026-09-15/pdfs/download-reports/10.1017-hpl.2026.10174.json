@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "output": "daily/2026-09-15/pdfs/Turianska et al. - 2026 - Laser-driven shock propagation in low-density foam.pdf",
+  "source_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A816C3577E537869C352798728AEF660/S2095471926101741a.pdf/div-class-title-laser-driven-shock-wave-propagation-in-low-density-foam-targets-investigated-by-time-resolved-x-ray-radiography-and-hydrodynamic-simulations-div.pdf",
+  "mode": "env-proxy",
+  "attempts": [
+    "[env-proxy] https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/laserdriven-shock-wave-propagation-in-lowdensity-foam-targets-investigated-by-timeresolved-xray-radiography-and-hydrodynamic-simulations/A816C3577E537869C352798728AEF660 -> not pdf (content-type=text/html; charset=utf-8)",
+    "[direct] https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/laserdriven-shock-wave-propagation-in-lowdensity-foam-targets-investigated-by-timeresolved-xray-radiography-and-hydrodynamic-simulations/A816C3577E537869C352798728AEF660 -> not pdf (content-type=text/html; charset=utf-8)",
+    "[env-proxy] https://doi.org/10.1017/hpl.2026.10174 -> not pdf (content-type=text/html; charset=utf-8)",
+    "[direct] https://doi.org/10.1017/hpl.2026.10174 -> not pdf (content-type=text/html; charset=utf-8)"
+  ]
+}

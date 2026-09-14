@@ -1,0 +1,72 @@
+{
+  "run_date": "2026-09-15",
+  "ledger_before": 349,
+  "ledger_after": 351,
+  "added_count": 2,
+  "retry_queue_before": 17,
+  "retry_queue_after": 16,
+  "sources_checked": [
+    "official arXiv recent listings for physics.plasm-ph, physics.acc-ph, physics.comp-ph, physics.ins-det, physics.med-ph, nucl-ex, physics.app-ph, physics.optics and astro-ph.HE",
+    "APS Physical Review and Cambridge High Power Laser Science and Engineering article listings",
+    "targeted laser-plasma, PIC, strong-field-QED, HEDP, plasma-ML, nuclear-diagnostic and laser-accelerated-beam-application searches",
+    "completed ledger, retry queue and historical daily records"
+  ],
+  "freshness": "The newest visible official arXiv target-category increment during this early Tuesday run was the 2026-09-14 submission batch. One selected PRL author manuscript came from that batch; the second record was formally published by HPLSE on 2026-09-11.",
+  "search_fallback": "The local multi-source search aggregator returned no usable records and the official arXiv Atom endpoint returned HTTP 429. Discovery and metadata verification therefore used official arXiv category pages, article pages and the HPLSE listing. This does not establish exhaustive database coverage.",
+  "added_identifiers": [
+    "10.1103/mbn4-fd4v",
+    "10.1017/hpl.2026.10174"
+  ],
+  "dedupe": {
+    "keys": [
+      "formal DOI or arXiv identifier",
+      "normalized title",
+      "historical daily records",
+      "completed ledger and retry queue",
+      "abstract and physical scenario"
+    ],
+    "result": "Neither paper was in the completed ledger. The helicon DOI was present only as a blocked retry candidate; it was promoted after an open author manuscript became available and passed full-text validation. The foam-shock paper is a distinct formal HPLSE record."
+  },
+  "retry_recovery": {
+    "recovered_count": 1,
+    "identifier": "10.1103/mbn4-fd4v",
+    "previous_failure": "APS accepted and DOI routes returned HTTP 403",
+    "recovery_source": "https://arxiv.org/abs/2609.12474",
+    "result": "The legal author manuscript passed PDF and text validation, was analyzed and entered in the completed ledger; its retry record was removed."
+  },
+  "skipped_candidates": [
+    {
+      "identifier": "10.48550/arXiv.2609.12479",
+      "reason": "A theory paper on nonuniform hydrodynamic plasma-wave instability in a gated InGaAs/GaAs electron channel was materially less aligned with the repository's laser-plasma, HEDP, PIC and beam-application priorities."
+    },
+    {
+      "reason": "No newly accessible non-duplicate record closed the full laser-accelerated beam to converter or catcher to gamma, neutron or activation to dose or shielding chain, so no adjacent-topic paper was used as a substitute."
+    }
+  ],
+  "pdf_validation": "daily/2026-09-15/pdf_validation.json",
+  "mineru": {
+    "status": "success",
+    "credential": "MINERU_API_KEY",
+    "converted_count": 2,
+    "batch_ids": [
+      "b6de6f55-55cd-4943-9c27-6d6d36963c6e",
+      "bb342e90-1f58-415e-a6b8-dcaf000d9447"
+    ],
+    "selected_images": 17,
+    "visual_checks": "All selected JPEGs decoded and were visually inspected before inclusion."
+  },
+  "validation": {
+    "index_builder": "Indexed 351 papers across 9 categories.",
+    "unit_tests": "7 tests passed",
+    "pytest": "7 tests passed",
+    "git_diff_check": "passed",
+    "ledger_duplicate_doi_check": "passed for all non-null DOI and arXiv identifiers",
+    "ledger_duplicate_normalized_title_check": "passed",
+    "new_ledger_path_check": "passed",
+    "note_image_reference_check": "17 references resolved and decoded",
+    "pdf_header_size_hash_metadata_text_check": "passed",
+    "retry_queue_check": "16 records retained after one validated recovery"
+  },
+  "evidence_boundary": "Lestz et al. directly measure modulated electron-temperature response, MSE-constrained equilibrium changes and sawtooth timing, while the quoted 20 ± 10 kA helicon component is a residual after subtracting modeled Ohmic, bootstrap, neutral-beam and EC-driven currents; one-sided antenna operation prevents a propagation-direction reversal test, and the low-beta L-mode proof-of-principle does not establish reactor efficiency. Turianska et al. directly image pusher and shock evolution and robustly infer a pusher velocity, while effective laser intensity and megabar pressure are hydrodynamic-model inferences; homogeneous-foam MULTI and FLASH results do not validate directly irradiated undercritical-foam microphysics. No GENRAY, TRANSP, EFIT, MULTI, FLASH or raw diagnostic analysis was rerun locally.",
+  "status": "success"
+}

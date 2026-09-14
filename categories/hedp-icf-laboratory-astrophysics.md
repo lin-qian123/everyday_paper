@@ -2,11 +2,12 @@
 
 HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。
 
-- 当前收录：92 篇
-- 索引更新时间：2026-09-14
+- 当前收录：93 篇
+- 索引更新时间：2026-09-15
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-15 | [Laser-driven shock wave propagation in low-density foam targets investigated by time-resolved X-ray radiography and hydrodynamic simulations](../papers/10-1017-hpl-2026-10174/README.md) | High Power Laser Science and Engineering | [笔记](../daily/2026-09-15/notes/Turianska et al. - 2026 - Laser-driven shock propagation in low-density foam.md) |
 | 2026-09-13 | [Two-Phase Structure of Synchrotron-Cooling-Unstable Relativistic Plasma](../papers/arxiv-2609-07793/README.md) | arXiv preprint | [笔记](../daily/2026-09-13/notes/Wierzchucka et al. - 2026 - Two-phase synchrotron-cooling-unstable relativistic plasma.md) |
 | 2026-09-11 | [An improved nonlocal electron heat transport model for magnetized plasmas](../papers/10-1103-mwjc-s21x/README.md) | Physical Review E (accepted 2026-09-10; local author preprint arXiv:2508.17309) | [笔记](../daily/2026-09-11/notes/Chen et al. - 2026 - Improved nonlocal electron heat transport in magnetized plasmas.md) |
 | 2026-09-10 | [Complete reflection of nonlinear electromagnetic waves in underdense pair plasmas enabled by dynamically formed Bragg-like structures](../papers/10-1103-g27z-2kd3/README.md) | Physical Review Letters (accepted paper; local author preprint) | [笔记](../daily/2026-09-10/notes/Tangtartharakul et al. - 2026 - Complete reflection in underdense pair plasma.md) |

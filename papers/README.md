@@ -1,10 +1,12 @@
 # 论文总索引
 
-- 当前入库论文：349 篇
-- 索引更新时间：2026-09-14
+- 当前入库论文：351 篇
+- 索引更新时间：2026-09-15
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-09-15 | [Laser-driven shock wave propagation in low-density foam targets investigated by time-resolved X-ray radiography and hydrodynamic simulations](./10-1017-hpl-2026-10174/README.md) | High Power Laser Science and Engineering | [10.1017/hpl.2026.10174](https://doi.org/10.1017/hpl.2026.10174) |
+| 2026-09-15 | [First Experimental Evidence of Helicon Current Drive](./10-1103-mbn4-fd4v/README.md) | Physical Review Letters (accepted; local arXiv author manuscript) | [10.1103/mbn4-fd4v](https://doi.org/10.1103/mbn4-fd4v) |
 | 2026-09-14 | [A detailed view at magnetic dipole strengths: The case of semi-magic 50Ti](./10-1103-82y9-svrd/README.md) | Physical Review Letters | [10.1103/82y9-svrd](https://doi.org/10.1103/82y9-svrd) |
 | 2026-09-14 | [Particle-resolved pathways to energetic-ion formation in a fluctuating low-current hollow-cathode plume](./arxiv-2609-10958/README.md) | arXiv preprint | [10.48550/arXiv.2609.10958](https://doi.org/10.48550/arXiv.2609.10958) |
 | 2026-09-13 | [Physics-Informed Neural Networks to Infer the Perpendicular Energy Conductivity in the Scrape-Off Layer of Stellarator Devices](./arxiv-2609-11628/README.md) | arXiv preprint | [10.48550/arXiv.2609.11628](https://doi.org/10.48550/arXiv.2609.11628) |
