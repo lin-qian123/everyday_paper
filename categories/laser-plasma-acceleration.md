@@ -2,11 +2,12 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：114 篇
-- 索引更新时间：2026-09-15
+- 当前收录：115 篇
+- 索引更新时间：2026-09-16
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-16 | [Direct observation of electron shedding from a laser-plasma accelerator](../papers/arxiv-2609-15968/README.md) | arXiv preprint | [笔记](../daily/2026-09-16/notes/Tata et al. - 2026 - Electron shedding from a laser-plasma accelerator.md) |
 | 2026-09-12 | [Physics-Informed Drift Diagnosis for Laser-Plasma Accelerator Operations](../papers/arxiv-2609-11874/README.md) | arXiv preprint | [笔记](../daily/2026-09-12/notes/Labun et al. - 2026 - Physics-informed drift diagnosis for laser-plasma accelerator operations.md) |
 | 2026-09-10 | [Demonstration of a 10-metre-long discharge plasma source for plasma wakefield acceleration](../papers/arxiv-2609-08551/README.md) | arXiv preprint | [笔记](../daily/2026-09-10/notes/Amoedo et al. - 2026 - 10-metre discharge plasma source for AWAKE.md) |
 | 2026-09-10 | [Magnetic island structures in relativistic laser-driven plasma channels](../papers/arxiv-2609-06562/README.md) | arXiv preprint | [笔记](../daily/2026-09-10/notes/Cai et al. - 2026 - Magnetic islands in relativistic laser-driven plasma channels.md) |

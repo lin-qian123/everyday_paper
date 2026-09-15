@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：351 篇
-- 索引更新时间：2026-09-15
+- 当前入库论文：354 篇
+- 索引更新时间：2026-09-16
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-09-16 | [Direct observation of electron shedding from a laser-plasma accelerator](./arxiv-2609-15968/README.md) | arXiv preprint | [10.48550/arXiv.2609.15968](https://doi.org/10.48550/arXiv.2609.15968) |
+| 2026-09-16 | [A self-consistent phasor-PIC algorithm for bidirectional inductive-capacitive coupling in ICPs](./arxiv-2609-15043/README.md) | arXiv preprint | [10.48550/arXiv.2609.15043](https://doi.org/10.48550/arXiv.2609.15043) |
+| 2026-09-16 | [Opacity predictions in plasmas under stellar conditions using deep learning](./10-1103-f237-bqz2/README.md) | Physical Review E (local arXiv author manuscript) | [10.1103/f237-bqz2](https://doi.org/10.1103/f237-bqz2) |
 | 2026-09-15 | [Laser-driven shock wave propagation in low-density foam targets investigated by time-resolved X-ray radiography and hydrodynamic simulations](./10-1017-hpl-2026-10174/README.md) | High Power Laser Science and Engineering | [10.1017/hpl.2026.10174](https://doi.org/10.1017/hpl.2026.10174) |
 | 2026-09-15 | [First Experimental Evidence of Helicon Current Drive](./10-1103-mbn4-fd4v/README.md) | Physical Review Letters (accepted; local arXiv author manuscript) | [10.1103/mbn4-fd4v](https://doi.org/10.1103/mbn4-fd4v) |
 | 2026-09-14 | [A detailed view at magnetic dipole strengths: The case of semi-magic 50Ti](./10-1103-82y9-svrd/README.md) | Physical Review Letters | [10.1103/82y9-svrd](https://doi.org/10.1103/82y9-svrd) |

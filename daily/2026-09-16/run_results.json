@@ -1,0 +1,66 @@
+{
+  "run_date": "2026-09-16",
+  "latest_official_arxiv_batch": "2026-09-15",
+  "search_summary": {
+    "local_multi_source_results": 0,
+    "fallback": "official arXiv category and article pages plus DOI metadata",
+    "coverage_claim": "targeted, not exhaustive"
+  },
+  "deduplication": {
+    "processed_before": 351,
+    "processed_after": 354,
+    "retry_before": 16,
+    "retry_after": 16,
+    "keys": [
+      "formal DOI or arXiv identifier",
+      "normalized title",
+      "historical daily folders",
+      "retry queue",
+      "abstract and physical scenario"
+    ]
+  },
+  "added": [
+    "10.48550/arXiv.2609.15968",
+    "10.48550/arXiv.2609.15043",
+    "10.1103/f237-bqz2"
+  ],
+  "skipped": [
+    {
+      "identifier": "arXiv:2609.13554",
+      "reason": "long topical review; lower original-result density than selected papers"
+    },
+    {
+      "identifier": "arXiv:2609.15101",
+      "reason": "crystalline-undulator gamma simulation with weaker direct fit to the current laser-plasma and beam-application focus"
+    },
+    {
+      "topic": "laser-accelerated beam to converter/catcher to gamma/neutron/activation to dose/shielding",
+      "reason": "no new paper in the checked batch closed the full experimental chain"
+    }
+  ],
+  "pdf_validation": {
+    "valid_documents": 3,
+    "mineru_successes": 3,
+    "selected_and_visually_checked_figures": 12,
+    "details": "daily/2026-09-16/pdf_validation.json"
+  },
+  "evidence_boundaries": [
+    "Electron-shedding field images are experimental, while head-tail energy transfer and low-energy thresholds are mainly PIC and forward-diagnostic inferences.",
+    "The phasor-PIC manufactured verification is chiefly particle-free and linear; the GEC case is an author simulation compared with historical probes under non-identical power definitions.",
+    "The opacity networks interpolate ILIade-generated data and are not cross-code, experimental, OOD, or end-to-end speed validations.",
+    "No local FBPIC, PIC/MCC, atomic-physics, or neural-network calculation was rerun."
+  ],
+  "validation": {
+    "index_builder": "Indexed 354 papers across 9 categories.",
+    "pytest": "7 tests passed",
+    "git_diff_check": "passed",
+    "ledger_duplicate_identifier_check": "passed",
+    "ledger_duplicate_normalized_title_check": "passed",
+    "new_ledger_path_check": "passed",
+    "note_image_reference_check": "12 references resolved and decoded",
+    "pdf_header_size_hash_metadata_text_check": "passed",
+    "retry_queue_check": "16 records retained"
+  },
+  "git": "commit and push completed by the automation after validation",
+  "status": "success"
+}

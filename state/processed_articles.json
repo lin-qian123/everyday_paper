@@ -3951,5 +3951,53 @@
       "general-plasma-and-methods"
     ],
     "normalized_title": "laser driven shock wave propagation in low density foam targets investigated by time resolved x ray radiography and hydrodynamic simulations"
+  },
+  {
+    "title": "Direct observation of electron shedding from a laser-plasma accelerator",
+    "doi": "10.48550/arXiv.2609.15968",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-14",
+    "processed_date": "2026-09-16",
+    "source_url": "https://arxiv.org/abs/2609.15968",
+    "pdf_path": "daily/2026-09-16/pdfs/Tata et al. - 2026 - Electron shedding from a laser-plasma accelerator.pdf",
+    "note_path": "daily/2026-09-16/notes/Tata et al. - 2026 - Electron shedding from a laser-plasma accelerator.md",
+    "categories": [
+      "laser-plasma-acceleration",
+      "pic-and-plasma-simulation",
+      "experimental-platforms-diagnostics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "direct observation of electron shedding from a laser plasma accelerator"
+  },
+  {
+    "title": "A self-consistent phasor-PIC algorithm for bidirectional inductive-capacitive coupling in ICPs",
+    "doi": "10.48550/arXiv.2609.15043",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-14",
+    "processed_date": "2026-09-16",
+    "source_url": "https://arxiv.org/abs/2609.15043",
+    "pdf_path": "daily/2026-09-16/pdfs/Chen et al. - 2026 - Self-consistent phasor-PIC algorithm for ICPs.pdf",
+    "note_path": "daily/2026-09-16/notes/Chen et al. - 2026 - Self-consistent phasor-PIC algorithm for ICPs.md",
+    "categories": [
+      "pic-and-plasma-simulation",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "a self consistent phasor pic algorithm for bidirectional inductive capacitive coupling in icps"
+  },
+  {
+    "title": "Opacity predictions in plasmas under stellar conditions using deep learning",
+    "doi": "10.1103/f237-bqz2",
+    "journal": "Physical Review E (local arXiv author manuscript)",
+    "publication_date": "2026-07-06",
+    "processed_date": "2026-09-16",
+    "source_url": "https://arxiv.org/abs/2609.13252",
+    "pdf_path": "daily/2026-09-16/pdfs/Benredjem and Pain - 2026 - Deep-learning opacity predictions in stellar plasmas.pdf",
+    "note_path": "daily/2026-09-16/notes/Benredjem and Pain - 2026 - Deep-learning opacity predictions in stellar plasmas.md",
+    "categories": [
+      "ai-ml-plasma-physics",
+      "hedp-icf-laboratory-astrophysics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "opacity predictions in plasmas under stellar conditions using deep learning"
   }
 ]

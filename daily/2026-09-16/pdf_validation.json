@@ -1,0 +1,63 @@
+{
+  "run_date": "2026-09-16",
+  "all_valid": true,
+  "checks": [
+    "%PDF- header",
+    "file MIME/type",
+    "pdfinfo page count and metadata",
+    "SHA-256",
+    "non-empty pdftotext -layout output",
+    "MinerU Markdown and image conversion",
+    "manual inspection of selected figures"
+  ],
+  "documents": [
+    {
+      "identifier": "10.48550/arXiv.2609.15968",
+      "pdf_path": "daily/2026-09-16/pdfs/Tata et al. - 2026 - Electron shedding from a laser-plasma accelerator.pdf",
+      "source_url": "https://arxiv.org/pdf/2609.15968",
+      "download_report": "daily/2026-09-16/pdfs/download-reports/10.48550-arXiv.2609.15968.json",
+      "bytes": 12249979,
+      "sha256": "7210dd619e1903234c093e47355455d5ea7aa546564ea4972070cf250060e11c",
+      "pages": 16,
+      "pdf_version": "1.7",
+      "text_path": "daily/2026-09-16/pdfs/Tata et al. - 2026 - Electron shedding from a laser-plasma accelerator.txt",
+      "text_bytes": 40287,
+      "mineru_batch_id": "1c5d1f0e-5c4d-4186-a592-e88d4706ab74",
+      "mineru_status": "success",
+      "selected_figures": 4,
+      "valid": true
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.15043",
+      "pdf_path": "daily/2026-09-16/pdfs/Chen et al. - 2026 - Self-consistent phasor-PIC algorithm for ICPs.pdf",
+      "source_url": "https://arxiv.org/pdf/2609.15043",
+      "download_report": "daily/2026-09-16/pdfs/download-reports/10.48550-arXiv.2609.15043.json",
+      "bytes": 2276940,
+      "sha256": "5318874980d5c739970d222ff0becced7b472f522210871797d31342e5ee05aa",
+      "pages": 39,
+      "pdf_version": "1.7",
+      "text_path": "daily/2026-09-16/pdfs/Chen et al. - 2026 - Self-consistent phasor-PIC algorithm for ICPs.txt",
+      "text_bytes": 188690,
+      "mineru_batch_id": "4c786ac7-c994-4a7d-8fb2-626e044c33a8",
+      "mineru_status": "success",
+      "selected_figures": 4,
+      "valid": true
+    },
+    {
+      "identifier": "10.1103/f237-bqz2",
+      "pdf_path": "daily/2026-09-16/pdfs/Benredjem and Pain - 2026 - Deep-learning opacity predictions in stellar plasmas.pdf",
+      "source_url": "https://arxiv.org/pdf/2609.13252",
+      "download_report": "daily/2026-09-16/pdfs/download-reports/10.1103-f237-bqz2.json",
+      "bytes": 1179101,
+      "sha256": "fb3351f77bde9097e30704ef2e3ee8647b2943d8f043ecaee1adf35ebf134a68",
+      "pages": 24,
+      "pdf_version": "1.4",
+      "text_path": "daily/2026-09-16/pdfs/Benredjem and Pain - 2026 - Deep-learning opacity predictions in stellar plasmas.txt",
+      "text_bytes": 94180,
+      "mineru_batch_id": "469cfc3a-5d8f-442c-b592-05d146983916",
+      "mineru_status": "success",
+      "selected_figures": 4,
+      "valid": true
+    }
+  ]
+}
