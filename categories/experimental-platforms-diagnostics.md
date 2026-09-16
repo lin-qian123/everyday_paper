@@ -2,11 +2,12 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：90 篇
-- 索引更新时间：2026-09-16
+- 当前收录：91 篇
+- 索引更新时间：2026-09-17
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-17 | [Strong Nonlinear Alfvén Wave Interactions in a Laboratory Plasma](../papers/arxiv-2609-17162/README.md) | arXiv preprint | [笔记](../daily/2026-09-17/notes/Chen et al. - 2026 - Strong nonlinear Alfven wave interactions.md) |
 | 2026-09-16 | [Direct observation of electron shedding from a laser-plasma accelerator](../papers/arxiv-2609-15968/README.md) | arXiv preprint | [笔记](../daily/2026-09-16/notes/Tata et al. - 2026 - Electron shedding from a laser-plasma accelerator.md) |
 | 2026-09-15 | [Laser-driven shock wave propagation in low-density foam targets investigated by time-resolved X-ray radiography and hydrodynamic simulations](../papers/10-1017-hpl-2026-10174/README.md) | High Power Laser Science and Engineering | [笔记](../daily/2026-09-15/notes/Turianska et al. - 2026 - Laser-driven shock propagation in low-density foam.md) |
 | 2026-09-15 | [First Experimental Evidence of Helicon Current Drive](../papers/10-1103-mbn4-fd4v/README.md) | Physical Review Letters (accepted; local arXiv author manuscript) | [笔记](../daily/2026-09-15/notes/Lestz et al. - 2026 - First experimental evidence of helicon current drive.md) |

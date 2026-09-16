@@ -15,20 +15,23 @@
 
 | 分类 | 篇数 | 说明 |
 | --- | ---: | --- |
-| [激光等离子体与束流加速](./categories/laser-plasma-acceleration.md) | 115 | LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。 |
+| [激光等离子体与束流加速](./categories/laser-plasma-acceleration.md) | 116 | LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。 |
 | [激光加速电子/离子束应用](./categories/laser-accelerated-beam-applications.md) | 73 | 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。 |
 | [强场 QED 与辐射反作用](./categories/strong-field-qed-radiation.md) | 61 | 强场量子效应、辐射反作用、非线性 Compton、pair production 与极端场实验。 |
 | [高能量密度物理、ICF 与实验室天体](./categories/hedp-icf-laboratory-astrophysics.md) | 94 | HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。 |
-| [PIC、动理学与数值模拟](./categories/pic-and-plasma-simulation.md) | 148 | PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。 |
-| [机器学习与等离子体物理](./categories/ai-ml-plasma-physics.md) | 56 | 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。 |
-| [磁约束聚变与 alpha 粒子](./categories/magnetic-fusion-and-alpha-particles.md) | 36 | stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。 |
-| [实验平台、靶设计与诊断](./categories/experimental-platforms-diagnostics.md) | 90 | 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。 |
-| [综合等离子体与交叉方法](./categories/general-plasma-and-methods.md) | 48 | 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。 |
+| [PIC、动理学与数值模拟](./categories/pic-and-plasma-simulation.md) | 151 | PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。 |
+| [机器学习与等离子体物理](./categories/ai-ml-plasma-physics.md) | 57 | 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。 |
+| [磁约束聚变与 alpha 粒子](./categories/magnetic-fusion-and-alpha-particles.md) | 37 | stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。 |
+| [实验平台、靶设计与诊断](./categories/experimental-platforms-diagnostics.md) | 91 | 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。 |
+| [综合等离子体与交叉方法](./categories/general-plasma-and-methods.md) | 51 | 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。 |
 
 ## 最新入库
 
 | 入库日期 | 论文 | 分类 |
 | --- | --- | --- |
+| 2026-09-17 | [KEMPIC-3D: A transparent and extensible electromagnetic Particle-in-Cell framework for kinetic plasma simulations](./papers/arxiv-2609-16575/README.md) | PIC、动理学与数值模拟、激光等离子体与束流加速、综合等离子体与交叉方法 |
+| 2026-09-17 | [Strong Nonlinear Alfvén Wave Interactions in a Laboratory Plasma](./papers/arxiv-2609-17162/README.md) | 实验平台、靶设计与诊断、PIC、动理学与数值模拟、综合等离子体与交叉方法 |
+| 2026-09-17 | [Nonlinear kinetic closures for linear instabilities](./papers/arxiv-2609-17209/README.md) | 机器学习与等离子体物理、PIC、动理学与数值模拟、磁约束聚变与 alpha 粒子、综合等离子体与交叉方法 |
 | 2026-09-16 | [Direct observation of electron shedding from a laser-plasma accelerator](./papers/arxiv-2609-15968/README.md) | 激光等离子体与束流加速、PIC、动理学与数值模拟、实验平台、靶设计与诊断、综合等离子体与交叉方法 |
 | 2026-09-16 | [A self-consistent phasor-PIC algorithm for bidirectional inductive-capacitive coupling in ICPs](./papers/arxiv-2609-15043/README.md) | PIC、动理学与数值模拟、综合等离子体与交叉方法 |
 | 2026-09-16 | [Opacity predictions in plasmas under stellar conditions using deep learning](./papers/10-1103-f237-bqz2/README.md) | 机器学习与等离子体物理、高能量密度物理、ICF 与实验室天体、综合等离子体与交叉方法 |
@@ -38,8 +41,5 @@
 | 2026-09-14 | [Particle-resolved pathways to energetic-ion formation in a fluctuating low-current hollow-cathode plume](./papers/arxiv-2609-10958/README.md) | PIC、动理学与数值模拟、实验平台、靶设计与诊断、综合等离子体与交叉方法 |
 | 2026-09-13 | [Physics-Informed Neural Networks to Infer the Perpendicular Energy Conductivity in the Scrape-Off Layer of Stellarator Devices](./papers/arxiv-2609-11628/README.md) | 机器学习与等离子体物理、磁约束聚变与 alpha 粒子、实验平台、靶设计与诊断、综合等离子体与交叉方法 |
 | 2026-09-13 | [Coupling periodic-cell and finite-bunch dynamics for structured photocathodes](./papers/arxiv-2609-11844/README.md) | PIC、动理学与数值模拟、实验平台、靶设计与诊断、综合等离子体与交叉方法 |
-| 2026-09-13 | [Two-Phase Structure of Synchrotron-Cooling-Unstable Relativistic Plasma](./papers/arxiv-2609-07793/README.md) | 强场 QED 与辐射反作用、PIC、动理学与数值模拟、高能量密度物理、ICF 与实验室天体、综合等离子体与交叉方法 |
-| 2026-09-12 | [Physics-Informed Drift Diagnosis for Laser-Plasma Accelerator Operations](./papers/arxiv-2609-11874/README.md) | 激光等离子体与束流加速、机器学习与等离子体物理、实验平台、靶设计与诊断 |
-| 2026-09-12 | [Experimental Plasma Density Profiles Determined Through Measurements of the Magnetosonic Wave Speed](./papers/arxiv-2609-11743/README.md) | 实验平台、靶设计与诊断、综合等离子体与交叉方法 |
 
-_自动生成时间：2026-09-16_
+_自动生成时间：2026-09-17_

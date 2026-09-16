@@ -1,0 +1,87 @@
+{
+  "run_date": "2026-09-17",
+  "latest_official_arxiv_batch": "2026-09-16",
+  "search_summary": {
+    "local_multi_source_results": 0,
+    "fallback": "official arXiv category and article pages plus Crossref and publisher pages for formal publications",
+    "coverage_claim": "targeted, not exhaustive"
+  },
+  "deduplication": {
+    "processed_before": 354,
+    "processed_after": 357,
+    "retry_before": 16,
+    "retry_after": 16,
+    "keys": [
+      "arXiv identifier",
+      "normalized title",
+      "historical daily folders",
+      "retry queue",
+      "abstract and physical scenario"
+    ]
+  },
+  "added": [
+    "10.48550/arXiv.2609.16575",
+    "10.48550/arXiv.2609.17162",
+    "10.48550/arXiv.2609.17209"
+  ],
+  "skipped": [
+    {
+      "identifier": "arXiv:2609.17151",
+      "reason": "JC-PIC test library is useful but overlaps the selected general PIC-code verification theme and has lower original-physics density"
+    },
+    {
+      "identifier": "arXiv:2609.16328",
+      "reason": "solid Vlasov-Poisson-BGK characteristic-mapping method with weaker direct fit to the current physics priorities"
+    },
+    {
+      "identifier": "arXiv:2609.17425",
+      "reason": "valuable drift-reduced Braginskii energy-conservation study, deferred because it overlaps existing numerical-conservation coverage"
+    },
+    {
+      "identifier": "10.1063/5.0347124",
+      "reason": "the formal Physics of Plasmas version is the same normalized title as the already processed arXiv:2606.04887 and was excluded by hard deduplication"
+    },
+    {
+      "identifier": "10.1364/OE.612056",
+      "reason": "the official Optica page still marks the article accepted but not yet published and exposes no official PDF, so no abstract-only note was created"
+    },
+    {
+      "identifier": "10.1007/s10444-026-10364-x",
+      "reason": "autoencoder and Hamiltonian-neural-network reduced PIC overlaps both the selected kinetic-closure and reduced-PIC themes"
+    },
+    {
+      "identifier": "10.1088/1361-6595/aea24a",
+      "reason": "formal Sn-plasma EUV and debris paper overlaps recently covered Sn/EUV radiation-hydrodynamics material and was deferred"
+    },
+    {
+      "topic": "laser-accelerated beam to converter/catcher to gamma/neutron/activation to dose/shielding",
+      "reason": "no new paper in the checked batch closed the full experimental chain"
+    }
+  ],
+  "pdf_validation": {
+    "valid_documents": 3,
+    "mineru_successes": 3,
+    "selected_and_visually_checked_figures": 12,
+    "details": "daily/2026-09-17/pdf_validation.json"
+  },
+  "evidence_boundaries": [
+    "KEMPIC-3D uses standard electromagnetic PIC algorithms; its representative LWFA run is quasi-two-dimensional, short, injection-free, and the promised source repository is not yet identified in the manuscript.",
+    "The LAPD paper directly measures nonlinear magnetic modes and smaller-scale structure, while the finite-k_perp-d_i mechanism also relies on Hall-MHD scaling and author hybrid-PIC controls; fully developed turbulence is not demonstrated.",
+    "The EKR, equivariant neural, and learned Pade closures are validated on analytic linearized moment-hierarchy data for bump-on-tail and slab-ITG models, not on nonlinear kinetic turbulence or experiment.",
+    "No KEMPIC-3D, CAMELIA, Vlasov, neural-network, or fluid-closure calculation was rerun locally."
+  ],
+  "validation": {
+    "index_builder": "Indexed 357 papers across 9 categories.",
+    "pytest": "7 tests passed",
+    "unittest": "7 tests passed",
+    "git_diff_check": "passed",
+    "ledger_duplicate_identifier_check": "passed",
+    "ledger_duplicate_normalized_title_check": "passed",
+    "new_ledger_path_check": "passed",
+    "note_image_reference_check": "12 references resolved and decoded",
+    "pdf_header_size_hash_metadata_text_check": "passed",
+    "retry_queue_check": "16 records retained"
+  },
+  "git": "commit and push completed by the automation after validation",
+  "status": "success"
+}

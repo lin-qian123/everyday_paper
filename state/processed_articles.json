@@ -3999,5 +3999,54 @@
       "general-plasma-and-methods"
     ],
     "normalized_title": "opacity predictions in plasmas under stellar conditions using deep learning"
+  },
+  {
+    "title": "KEMPIC-3D: A transparent and extensible electromagnetic Particle-in-Cell framework for kinetic plasma simulations",
+    "doi": "10.48550/arXiv.2609.16575",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-15",
+    "processed_date": "2026-09-17",
+    "source_url": "https://arxiv.org/abs/2609.16575",
+    "pdf_path": "daily/2026-09-17/pdfs/Lopez et al. - 2026 - KEMPIC-3D PIC framework.pdf",
+    "note_path": "daily/2026-09-17/notes/Lopez et al. - 2026 - KEMPIC-3D PIC framework.md",
+    "categories": [
+      "pic-and-plasma-simulation",
+      "laser-plasma-acceleration",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "kempic 3d a transparent and extensible electromagnetic particle in cell framework for kinetic plasma simulations"
+  },
+  {
+    "title": "Strong Nonlinear Alfvén Wave Interactions in a Laboratory Plasma",
+    "doi": "10.48550/arXiv.2609.17162",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-15",
+    "processed_date": "2026-09-17",
+    "source_url": "https://arxiv.org/abs/2609.17162",
+    "pdf_path": "daily/2026-09-17/pdfs/Chen et al. - 2026 - Strong nonlinear Alfven wave interactions.pdf",
+    "note_path": "daily/2026-09-17/notes/Chen et al. - 2026 - Strong nonlinear Alfven wave interactions.md",
+    "categories": [
+      "experimental-platforms-diagnostics",
+      "pic-and-plasma-simulation",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "strong nonlinear alfven wave interactions in a laboratory plasma"
+  },
+  {
+    "title": "Nonlinear kinetic closures for linear instabilities",
+    "doi": "10.48550/arXiv.2609.17209",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-15",
+    "processed_date": "2026-09-17",
+    "source_url": "https://arxiv.org/abs/2609.17209",
+    "pdf_path": "daily/2026-09-17/pdfs/Paul et al. - 2026 - Nonlinear kinetic closures.pdf",
+    "note_path": "daily/2026-09-17/notes/Paul et al. - 2026 - Nonlinear kinetic closures.md",
+    "categories": [
+      "ai-ml-plasma-physics",
+      "pic-and-plasma-simulation",
+      "magnetic-fusion-and-alpha-particles",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "nonlinear kinetic closures for linear instabilities"
   }
 ]

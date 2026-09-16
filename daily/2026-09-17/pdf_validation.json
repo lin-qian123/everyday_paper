@@ -1,0 +1,63 @@
+{
+  "run_date": "2026-09-17",
+  "all_valid": true,
+  "checks": [
+    "%PDF- header",
+    "file MIME/type",
+    "pdfinfo page count and metadata",
+    "SHA-256",
+    "non-empty pdftotext -layout output",
+    "MinerU Markdown and image conversion",
+    "manual inspection of selected figures"
+  ],
+  "documents": [
+    {
+      "identifier": "10.48550/arXiv.2609.16575",
+      "pdf_path": "daily/2026-09-17/pdfs/Lopez et al. - 2026 - KEMPIC-3D PIC framework.pdf",
+      "source_url": "https://arxiv.org/pdf/2609.16575",
+      "download_report": "daily/2026-09-17/pdfs/download-reports/10.48550-arXiv.2609.16575.json",
+      "bytes": 1571801,
+      "sha256": "fd9fbae211fb496dbf1d22e066eabe8c374b769235c050c59cf00ed5de8ab74a",
+      "pages": 32,
+      "pdf_version": "1.7",
+      "text_path": "daily/2026-09-17/pdfs/Lopez et al. - 2026 - KEMPIC-3D PIC framework.txt",
+      "text_bytes": 83138,
+      "mineru_batch_id": "97ba43a4-32f9-407f-94e9-2837c916c8bc",
+      "mineru_status": "success",
+      "selected_figures": 4,
+      "valid": true
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.17162",
+      "pdf_path": "daily/2026-09-17/pdfs/Chen et al. - 2026 - Strong nonlinear Alfven wave interactions.pdf",
+      "source_url": "https://arxiv.org/pdf/2609.17162",
+      "download_report": "daily/2026-09-17/pdfs/download-reports/10.48550-arXiv.2609.17162.json",
+      "bytes": 3923871,
+      "sha256": "80747200458a227619fa7434c5c95c522db5d410886258b13dfcf7e0c9e363a3",
+      "pages": 10,
+      "pdf_version": "1.7",
+      "text_path": "daily/2026-09-17/pdfs/Chen et al. - 2026 - Strong nonlinear Alfven wave interactions.txt",
+      "text_bytes": 72580,
+      "mineru_batch_id": "0be925f6-999f-4ec4-91ff-cbe7a160a56e",
+      "mineru_status": "success",
+      "selected_figures": 4,
+      "valid": true
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.17209",
+      "pdf_path": "daily/2026-09-17/pdfs/Paul et al. - 2026 - Nonlinear kinetic closures.pdf",
+      "source_url": "https://arxiv.org/pdf/2609.17209",
+      "download_report": "daily/2026-09-17/pdfs/download-reports/10.48550-arXiv.2609.17209.json",
+      "bytes": 1060704,
+      "sha256": "c18e5be28444ccf2c00c3c7dcf0ff3f6d934a5cf1ee271fafe57a6b020791e67",
+      "pages": 7,
+      "pdf_version": "1.7",
+      "text_path": "daily/2026-09-17/pdfs/Paul et al. - 2026 - Nonlinear kinetic closures.txt",
+      "text_bytes": 45540,
+      "mineru_batch_id": "cf4c2de5-06c9-4170-805b-1f61c9a80fa5",
+      "mineru_status": "success",
+      "selected_figures": 4,
+      "valid": true
+    }
+  ]
+}

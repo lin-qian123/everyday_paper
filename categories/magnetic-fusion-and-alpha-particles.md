@@ -2,11 +2,12 @@
 
 stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。
 
-- 当前收录：36 篇
-- 索引更新时间：2026-09-16
+- 当前收录：37 篇
+- 索引更新时间：2026-09-17
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-17 | [Nonlinear kinetic closures for linear instabilities](../papers/arxiv-2609-17209/README.md) | arXiv preprint | [笔记](../daily/2026-09-17/notes/Paul et al. - 2026 - Nonlinear kinetic closures.md) |
 | 2026-09-15 | [First Experimental Evidence of Helicon Current Drive](../papers/10-1103-mbn4-fd4v/README.md) | Physical Review Letters (accepted; local arXiv author manuscript) | [笔记](../daily/2026-09-15/notes/Lestz et al. - 2026 - First experimental evidence of helicon current drive.md) |
 | 2026-09-13 | [Physics-Informed Neural Networks to Infer the Perpendicular Energy Conductivity in the Scrape-Off Layer of Stellarator Devices](../papers/arxiv-2609-11628/README.md) | arXiv preprint | [笔记](../daily/2026-09-13/notes/Gallego et al. - 2026 - PINN inference of SOL perpendicular conductivity.md) |
 | 2026-09-12 | [kobra: a new Vlasov code intended for plasma-wall modeling](../papers/arxiv-2609-11563/README.md) | Contributions to Plasma Physics (accepted; local arXiv preprint) | [笔记](../daily/2026-09-12/notes/Konewko et al. - 2026 - kobra Vlasov code for plasma-wall modeling.md) |

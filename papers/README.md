@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：354 篇
-- 索引更新时间：2026-09-16
+- 当前入库论文：357 篇
+- 索引更新时间：2026-09-17
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-09-17 | [KEMPIC-3D: A transparent and extensible electromagnetic Particle-in-Cell framework for kinetic plasma simulations](./arxiv-2609-16575/README.md) | arXiv preprint | [10.48550/arXiv.2609.16575](https://doi.org/10.48550/arXiv.2609.16575) |
+| 2026-09-17 | [Strong Nonlinear Alfvén Wave Interactions in a Laboratory Plasma](./arxiv-2609-17162/README.md) | arXiv preprint | [10.48550/arXiv.2609.17162](https://doi.org/10.48550/arXiv.2609.17162) |
+| 2026-09-17 | [Nonlinear kinetic closures for linear instabilities](./arxiv-2609-17209/README.md) | arXiv preprint | [10.48550/arXiv.2609.17209](https://doi.org/10.48550/arXiv.2609.17209) |
 | 2026-09-16 | [Direct observation of electron shedding from a laser-plasma accelerator](./arxiv-2609-15968/README.md) | arXiv preprint | [10.48550/arXiv.2609.15968](https://doi.org/10.48550/arXiv.2609.15968) |
 | 2026-09-16 | [A self-consistent phasor-PIC algorithm for bidirectional inductive-capacitive coupling in ICPs](./arxiv-2609-15043/README.md) | arXiv preprint | [10.48550/arXiv.2609.15043](https://doi.org/10.48550/arXiv.2609.15043) |
 | 2026-09-16 | [Opacity predictions in plasmas under stellar conditions using deep learning](./10-1103-f237-bqz2/README.md) | Physical Review E (local arXiv author manuscript) | [10.1103/f237-bqz2](https://doi.org/10.1103/f237-bqz2) |
