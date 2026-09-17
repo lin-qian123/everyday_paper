@@ -1,0 +1,75 @@
+{
+  "run_date": "2026-09-18",
+  "latest_official_arxiv_batch": "2026-09-17",
+  "search_summary": {
+    "local_multi_source_results": 0,
+    "fallback": "official arXiv category and article pages plus Crossref and publisher pages for formal publications",
+    "coverage_claim": "targeted, not exhaustive"
+  },
+  "deduplication": {
+    "processed_before": 357,
+    "processed_after": 360,
+    "retry_before": 16,
+    "retry_after": 17,
+    "keys": [
+      "DOI or arXiv identifier",
+      "normalized title",
+      "historical daily folders",
+      "retry queue",
+      "abstract and physical scenario"
+    ]
+  },
+  "added": [
+    "10.1103/5mpy-2jw5",
+    "10.48550/arXiv.2609.18775",
+    "10.48550/arXiv.2609.18423"
+  ],
+  "retry_added": [
+    "10.1088/1741-4326/ae9edc"
+  ],
+  "skipped": [
+    {
+      "identifier": "arXiv:2609.17661",
+      "reason": "one-dimensional magnetar pair-cascade PIC is relevant to strong fields but lower priority than the selected end-to-end secondary-source application chain"
+    },
+    {
+      "identifier": "arXiv:2609.18517",
+      "reason": "heavy-ion-beam plasma-wakefield acceleration is adjacent but less aligned with the current laser-accelerated beam application priority"
+    },
+    {
+      "identifier": "arXiv:2609.17751",
+      "reason": "W7-X pellet study is outside the current laser/HEDP/application focus"
+    },
+    {
+      "identifier": "arXiv:2609.17938",
+      "reason": "Landau-damping theory is sound but lower priority than the selected experimental and diagnostic chains"
+    }
+  ],
+  "pdf_validation": {
+    "valid_documents": 3,
+    "mineru_successes": 3,
+    "selected_and_visually_checked_figures": 16,
+    "details": "daily/2026-09-18/pdf_validation.json"
+  },
+  "evidence_boundaries": [
+    "The Tavana paper directly measures electron spectra and angles, activation products, photon angular signatures, and bubble-detector neutron doses; spectral reconstruction, peak flux, positron production, and converter optimization include inverse-model or GEANT4 assumptions.",
+    "The Babjak pair and muon source is a quasi-3D PIC to Geant4 to two-dimensional PIC feasibility chain; no pair or muon experiment is reported, and total positron count does not by itself meet narrow-band injector requirements.",
+    "The Luo paper is an NLTE double-Maxwellian reanalysis of historical Nova spectra; the inferred local suprathermal number fraction is not the same observable as globally collected SRS power loss.",
+    "The formal Shenguang pure-deuterium implosion paper was not added because no validated lawful full text was obtained; it remains a retry candidate.",
+    "No OSIRIS, Geant4, FAC, spectral inversion, or raw experimental analysis was rerun locally."
+  ],
+  "validation": {
+    "index_builder": "Indexed 360 papers across 9 categories.",
+    "pytest": "7 tests passed",
+    "unittest": "7 tests passed",
+    "git_diff_check": "passed",
+    "ledger_duplicate_identifier_check": "passed for 356 non-null identifiers",
+    "ledger_duplicate_normalized_title_check": "passed for 360 titles",
+    "new_ledger_path_check": "passed",
+    "note_image_reference_check": "16 references resolved and decoded",
+    "pdf_header_size_hash_metadata_text_check": "passed",
+    "retry_queue_check": "17 unique records retained"
+  },
+  "git": "commit and push completed by the automation after validation",
+  "status": "success"
+}

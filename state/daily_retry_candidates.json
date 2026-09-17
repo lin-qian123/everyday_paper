@@ -318,5 +318,25 @@
     "last_failure_class": "publisher_http_403",
     "source_family": "other",
     "failure_count": 2
+  },
+  {
+    "doi": "10.1088/1741-4326/ae9edc",
+    "title": "Implosion performance of indirect-drive cryogenic pure deuterium layered targets on the Shenguang laser facility",
+    "source_url": "https://iopscience.iop.org/article/10.1088/1741-4326/ae9edc",
+    "publication_date": "2026-09-17",
+    "journal": "Nuclear Fusion（正式期刊，CC BY 4.0）",
+    "topic": "间接驱动 ICF + 纯氘低温层靶 + Shenguang 实验/辐射流体",
+    "run_date": "2026-09-18",
+    "status": "download_failed",
+    "attempt_cmd": "python scripts/safe_pdf_download.py --url https://iopscience.iop.org/article/10.1088/1741-4326/ae9edc/pdf --doi 10.1088/1741-4326/ae9edc --output \"daily/2026-09-18/pdfs/Pu et al. - 2026 - Shenguang pure-deuterium implosion.pdf\" --report-json daily/2026-09-18/pdfs/download-reports/10.1088-1741-4326-ae9edc.json",
+    "stderr": "Official IOP PDF, DOI, and article routes returned HTML/Radware access pages instead of a PDF; no lawful open author manuscript was found during the 2026-09-18 search.",
+    "stdout": "",
+    "output_pdf": "daily/2026-09-18/pdfs/Pu et al. - 2026 - Shenguang pure-deuterium implosion.pdf",
+    "attempted_at": "2026-09-18T07:05:57+08:00",
+    "last_retry_at": null,
+    "retry_count": 0,
+    "last_failure_class": "html_instead_of_pdf",
+    "source_family": "iop",
+    "failure_count": 1
   }
 ]

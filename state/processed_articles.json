@@ -4048,5 +4048,55 @@
       "general-plasma-and-methods"
     ],
     "normalized_title": "nonlinear kinetic closures for linear instabilities"
+  },
+  {
+    "title": "Ultrahigh flux of direct laser-accelerated electrons, MeV photons, and neutrons from overdense polymer foams",
+    "doi": "10.1103/5mpy-2jw5",
+    "journal": "Physical Review Applied",
+    "publication_date": "2026-03-02",
+    "processed_date": "2026-09-18",
+    "source_url": "https://journals.aps.org/prapplied/abstract/10.1103/5mpy-2jw5",
+    "pdf_path": "daily/2026-09-18/pdfs/Tavana et al. - 2026 - Ultrahigh-flux DLA electrons photons and neutrons.pdf",
+    "note_path": "daily/2026-09-18/notes/Tavana et al. - 2026 - Ultrahigh-flux DLA electrons photons and neutrons.md",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "laser-plasma-acceleration",
+      "experimental-platforms-diagnostics",
+      "hedp-icf-laboratory-astrophysics"
+    ],
+    "normalized_title": "ultrahigh flux of direct laser accelerated electrons mev photons and neutrons from overdense polymer foams"
+  },
+  {
+    "title": "Kilojoule-scale laser acceleration enabling efficient generation of electron-positron and muon beams",
+    "doi": "10.48550/arXiv.2609.18775",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-16",
+    "processed_date": "2026-09-18",
+    "source_url": "https://arxiv.org/abs/2609.18775",
+    "pdf_path": "daily/2026-09-18/pdfs/Babjak et al. - 2026 - Kilojoule DLA positron and muon beams.pdf",
+    "note_path": "daily/2026-09-18/notes/Babjak et al. - 2026 - Kilojoule DLA positron and muon beams.md",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "laser-plasma-acceleration",
+      "pic-and-plasma-simulation",
+      "hedp-icf-laboratory-astrophysics"
+    ],
+    "normalized_title": "kilojoule scale laser acceleration enabling efficient generation of electron positron and muon beams"
+  },
+  {
+    "title": "K-shell x-ray spectroscopy: A reliable probe for stimulated Raman scattering in inertial confinement fusion",
+    "doi": "10.48550/arXiv.2609.18423",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-16",
+    "processed_date": "2026-09-18",
+    "source_url": "https://arxiv.org/abs/2609.18423",
+    "pdf_path": "daily/2026-09-18/pdfs/Luo et al. - 2026 - K-shell SRS spectroscopy.pdf",
+    "note_path": "daily/2026-09-18/notes/Luo et al. - 2026 - K-shell SRS spectroscopy.md",
+    "categories": [
+      "hedp-icf-laboratory-astrophysics",
+      "experimental-platforms-diagnostics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "k shell x ray spectroscopy a reliable probe for stimulated raman scattering in inertial confinement fusion"
   }
 ]

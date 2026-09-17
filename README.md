@@ -9,7 +9,7 @@
 - [索引文件](#索引文件)
 - [仓库结构](#仓库结构)
 - [分类索引](#分类索引)
-- [当前状态](#当前状态2026-09-17)
+- [当前状态](#当前状态2026-09-18)
 - [去重规则](#去重规则)
 - [PDF 下载稳健性](#pdf-下载稳健性)
 - [维护约定](#维护约定)
@@ -78,6 +78,12 @@
 - `INDEX.md`: 总索引
 - `state/processed_articles.json`: 已处理论文去重台账
 - `templates/daily-index-template.md`: 每日索引模板
+
+## 当前状态（2026-09-18）
+
+- 已连续维护到 `daily/2026-09-18/`。本轮新增正式 *Physical Review Applied* `10.1103/5mpy-2jw5`、arXiv `10.48550/arXiv.2609.18775` 与 `10.48550/arXiv.2609.18423`，分别覆盖 PHELIX 过临界泡沫 DLA 电子—Ta/Au 转换靶—MeV 光子/光中子的实验链、千焦 PW DLA 驱动 pair/muon 的 PIC—Geant4 可行性，以及 Ti K 壳层 NLTE 光谱对 Nova SRS 热电子的再分析。正式 PRApplied 论文发表于 2026-03-02，本轮作为此前遗漏的高相关应用论文补入，没有把它标成当日新发表。
+- 3 份官方 PDF 通过 `%PDF-`、`file`、`pdfinfo`、SHA-256、非空 `pdftotext -layout` 与 MinerU Markdown 转换；台账从 357 增至 360 条，本轮保留并逐张查看 16 张关键图。*Nuclear Fusion* `10.1088/1741-4326/ae9edc` 的 IOP/DOI 路径只返回 HTML/Radware 页面，未从摘要生成笔记，结构化重试队列从 16 增至 17 条。
+- 证据边界：Tavana 的电子谱/角分布、光核活化和中子剂量来自实验，但光子谱/峰值通量含反演假设、最优靶厚与正电子来自 GEANT4；Babjak 的 pair/muon 结果全部来自准三维 PIC、GEANT4、解析标度和二维传播 PIC，不能写成 ELI-L4 已实现；Luo 是对历史 Nova 数据的双 Maxwell NLTE 再分析，局域超热电子数分数不等于全局 SRS 能量损失。本轮没有本地重跑 OSIRIS、GEANT4、FAC、谱反演或原始实验数据处理。
 
 ## 当前状态（2026-09-17）
 

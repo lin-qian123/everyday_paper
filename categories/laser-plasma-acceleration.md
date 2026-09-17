@@ -2,11 +2,13 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：116 篇
-- 索引更新时间：2026-09-17
+- 当前收录：118 篇
+- 索引更新时间：2026-09-18
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-18 | [Kilojoule-scale laser acceleration enabling efficient generation of electron-positron and muon beams](../papers/arxiv-2609-18775/README.md) | arXiv preprint | [笔记](../daily/2026-09-18/notes/Babjak et al. - 2026 - Kilojoule DLA positron and muon beams.md) |
+| 2026-09-18 | [Ultrahigh flux of direct laser-accelerated electrons, MeV photons, and neutrons from overdense polymer foams](../papers/10-1103-5mpy-2jw5/README.md) | Physical Review Applied | [笔记](../daily/2026-09-18/notes/Tavana et al. - 2026 - Ultrahigh-flux DLA electrons photons and neutrons.md) |
 | 2026-09-17 | [KEMPIC-3D: A transparent and extensible electromagnetic Particle-in-Cell framework for kinetic plasma simulations](../papers/arxiv-2609-16575/README.md) | arXiv preprint | [笔记](../daily/2026-09-17/notes/Lopez et al. - 2026 - KEMPIC-3D PIC framework.md) |
 | 2026-09-16 | [Direct observation of electron shedding from a laser-plasma accelerator](../papers/arxiv-2609-15968/README.md) | arXiv preprint | [笔记](../daily/2026-09-16/notes/Tata et al. - 2026 - Electron shedding from a laser-plasma accelerator.md) |
 | 2026-09-12 | [Physics-Informed Drift Diagnosis for Laser-Plasma Accelerator Operations](../papers/arxiv-2609-11874/README.md) | arXiv preprint | [笔记](../daily/2026-09-12/notes/Labun et al. - 2026 - Physics-informed drift diagnosis for laser-plasma accelerator operations.md) |

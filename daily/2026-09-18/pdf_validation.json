@@ -1,0 +1,70 @@
+{
+  "run_date": "2026-09-18",
+  "all_added_documents_valid": true,
+  "checks": [
+    "%PDF- header",
+    "file MIME/type",
+    "pdfinfo page count and metadata",
+    "SHA-256",
+    "non-empty pdftotext -layout output",
+    "MinerU Markdown and image conversion",
+    "manual inspection of selected figures"
+  ],
+  "documents": [
+    {
+      "identifier": "10.1103/5mpy-2jw5",
+      "pdf_path": "daily/2026-09-18/pdfs/Tavana et al. - 2026 - Ultrahigh-flux DLA electrons photons and neutrons.pdf",
+      "source_url": "https://journals.aps.org/prapplied/pdf/10.1103/5mpy-2jw5",
+      "download_report": "daily/2026-09-18/pdfs/download-reports/10.1103-5mpy-2jw5.json",
+      "bytes": 7827151,
+      "sha256": "27c4a404a4a1e57b9b4148f156211e69733fc4336289f1318bb0f6f92f2a9278",
+      "pages": 21,
+      "pdf_version": "1.5",
+      "text_path": "daily/2026-09-18/pdfs/Tavana et al. - 2026 - Ultrahigh-flux DLA electrons photons and neutrons.txt",
+      "text_bytes": 121040,
+      "mineru_batch_id": "c6fde8f7-d47f-4e8e-b047-9b2ff6e468f2",
+      "mineru_status": "success",
+      "selected_figures": 6,
+      "valid": true
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.18775",
+      "pdf_path": "daily/2026-09-18/pdfs/Babjak et al. - 2026 - Kilojoule DLA positron and muon beams.pdf",
+      "source_url": "https://arxiv.org/pdf/2609.18775",
+      "download_report": "daily/2026-09-18/pdfs/download-reports/10.48550-arXiv.2609.18775.json",
+      "bytes": 7213151,
+      "sha256": "de78c1eb6d90e7d8858eb3c1e639a4f45b02d9bcf4cb8f3789139a90b6c736fc",
+      "pages": 22,
+      "pdf_version": "1.7",
+      "text_path": "daily/2026-09-18/pdfs/Babjak et al. - 2026 - Kilojoule DLA positron and muon beams.txt",
+      "text_bytes": 171414,
+      "mineru_batch_id": "3d88b3ed-c0ac-4f0d-8b0d-4674538d83ee",
+      "mineru_status": "success",
+      "selected_figures": 6,
+      "valid": true
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.18423",
+      "pdf_path": "daily/2026-09-18/pdfs/Luo et al. - 2026 - K-shell SRS spectroscopy.pdf",
+      "source_url": "https://arxiv.org/pdf/2609.18423",
+      "download_report": "daily/2026-09-18/pdfs/download-reports/10.48550-arXiv.2609.18423.json",
+      "bytes": 4256759,
+      "sha256": "b8abd20b6a5d8f903c49996d65fc4460a3811f177a4f29563f7dd9c73094ffde",
+      "pages": 5,
+      "pdf_version": "1.7",
+      "text_path": "daily/2026-09-18/pdfs/Luo et al. - 2026 - K-shell SRS spectroscopy.txt",
+      "text_bytes": 31985,
+      "mineru_batch_id": "ad56c069-0b90-4257-a512-fbe82a6c996a",
+      "mineru_status": "success",
+      "selected_figures": 4,
+      "valid": true
+    }
+  ],
+  "blocked_candidate": {
+    "identifier": "10.1088/1741-4326/ae9edc",
+    "expected_pdf_path": "daily/2026-09-18/pdfs/Pu et al. - 2026 - Shenguang pure-deuterium implosion.pdf",
+    "download_report": "daily/2026-09-18/pdfs/download-reports/10.1088-1741-4326-ae9edc.json",
+    "failure_class": "html_instead_of_pdf",
+    "action": "added to structured retry queue; no abstract-only note and no processed-ledger entry"
+  }
+}

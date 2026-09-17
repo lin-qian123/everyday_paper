@@ -2,11 +2,14 @@
 
 HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。
 
-- 当前收录：94 篇
-- 索引更新时间：2026-09-17
+- 当前收录：97 篇
+- 索引更新时间：2026-09-18
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-18 | [Kilojoule-scale laser acceleration enabling efficient generation of electron-positron and muon beams](../papers/arxiv-2609-18775/README.md) | arXiv preprint | [笔记](../daily/2026-09-18/notes/Babjak et al. - 2026 - Kilojoule DLA positron and muon beams.md) |
+| 2026-09-18 | [K-shell x-ray spectroscopy: A reliable probe for stimulated Raman scattering in inertial confinement fusion](../papers/arxiv-2609-18423/README.md) | arXiv preprint | [笔记](../daily/2026-09-18/notes/Luo et al. - 2026 - K-shell SRS spectroscopy.md) |
+| 2026-09-18 | [Ultrahigh flux of direct laser-accelerated electrons, MeV photons, and neutrons from overdense polymer foams](../papers/10-1103-5mpy-2jw5/README.md) | Physical Review Applied | [笔记](../daily/2026-09-18/notes/Tavana et al. - 2026 - Ultrahigh-flux DLA electrons photons and neutrons.md) |
 | 2026-09-16 | [Opacity predictions in plasmas under stellar conditions using deep learning](../papers/10-1103-f237-bqz2/README.md) | Physical Review E (local arXiv author manuscript) | [笔记](../daily/2026-09-16/notes/Benredjem and Pain - 2026 - Deep-learning opacity predictions in stellar plasmas.md) |
 | 2026-09-15 | [Laser-driven shock wave propagation in low-density foam targets investigated by time-resolved X-ray radiography and hydrodynamic simulations](../papers/10-1017-hpl-2026-10174/README.md) | High Power Laser Science and Engineering | [笔记](../daily/2026-09-15/notes/Turianska et al. - 2026 - Laser-driven shock propagation in low-density foam.md) |
 | 2026-09-13 | [Two-Phase Structure of Synchrotron-Cooling-Unstable Relativistic Plasma](../papers/arxiv-2609-07793/README.md) | arXiv preprint | [笔记](../daily/2026-09-13/notes/Wierzchucka et al. - 2026 - Two-phase synchrotron-cooling-unstable relativistic plasma.md) |
