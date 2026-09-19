@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：360 篇
-- 索引更新时间：2026-09-18
+- 当前入库论文：363 篇
+- 索引更新时间：2026-09-20
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-09-20 | [A roadmap for strategic pilot experiments at the first plasma-driven x-ray FEL](./10-1007-s44418-026-00013-z/README.md) | Discover Physics | [10.1007/s44418-026-00013-z](https://doi.org/10.1007/s44418-026-00013-z) |
+| 2026-09-20 | [Efficient laser ion acceleration in near-critical density plasmas in the picosecond pulse regime](./arxiv-2609-19571/README.md) | arXiv preprint | [10.48550/arXiv.2609.19571](https://doi.org/10.48550/arXiv.2609.19571) |
+| 2026-09-20 | [Indirect-Drive Fusion Target Design for Commercial Fusion Energy](./arxiv-2609-19752/README.md) | arXiv preprint | [10.48550/arXiv.2609.19752](https://doi.org/10.48550/arXiv.2609.19752) |
 | 2026-09-18 | [Kilojoule-scale laser acceleration enabling efficient generation of electron-positron and muon beams](./arxiv-2609-18775/README.md) | arXiv preprint | [10.48550/arXiv.2609.18775](https://doi.org/10.48550/arXiv.2609.18775) |
 | 2026-09-18 | [K-shell x-ray spectroscopy: A reliable probe for stimulated Raman scattering in inertial confinement fusion](./arxiv-2609-18423/README.md) | arXiv preprint | [10.48550/arXiv.2609.18423](https://doi.org/10.48550/arXiv.2609.18423) |
 | 2026-09-18 | [Ultrahigh flux of direct laser-accelerated electrons, MeV photons, and neutrons from overdense polymer foams](./10-1103-5mpy-2jw5/README.md) | Physical Review Applied | [10.1103/5mpy-2jw5](https://doi.org/10.1103/5mpy-2jw5) |

@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "output": "daily/2026-09-20/pdfs/Principi - 2026 - Roadmap for plasma-driven x-ray FEL.pdf",
+  "source_url": "https://link.springer.com/content/pdf/10.1007/s44418-026-00013-z.pdf",
+  "mode": "direct",
+  "attempts": [
+    "[env-proxy] https://link.springer.com/content/pdf/10.1007/s44418-026-00013-z.pdf -> not pdf (content-type=text/html; charset=utf-8)"
+  ]
+}

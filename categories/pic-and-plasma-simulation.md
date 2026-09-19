@@ -2,11 +2,12 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：152 篇
-- 索引更新时间：2026-09-18
+- 当前收录：153 篇
+- 索引更新时间：2026-09-20
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-20 | [Efficient laser ion acceleration in near-critical density plasmas in the picosecond pulse regime](../papers/arxiv-2609-19571/README.md) | arXiv preprint | [笔记](../daily/2026-09-20/notes/Luoma et al. - 2026 - Efficient laser ion acceleration ESH.md) |
 | 2026-09-18 | [Kilojoule-scale laser acceleration enabling efficient generation of electron-positron and muon beams](../papers/arxiv-2609-18775/README.md) | arXiv preprint | [笔记](../daily/2026-09-18/notes/Babjak et al. - 2026 - Kilojoule DLA positron and muon beams.md) |
 | 2026-09-17 | [KEMPIC-3D: A transparent and extensible electromagnetic Particle-in-Cell framework for kinetic plasma simulations](../papers/arxiv-2609-16575/README.md) | arXiv preprint | [笔记](../daily/2026-09-17/notes/Lopez et al. - 2026 - KEMPIC-3D PIC framework.md) |
 | 2026-09-17 | [Strong Nonlinear Alfvén Wave Interactions in a Laboratory Plasma](../papers/arxiv-2609-17162/README.md) | arXiv preprint | [笔记](../daily/2026-09-17/notes/Chen et al. - 2026 - Strong nonlinear Alfven wave interactions.md) |

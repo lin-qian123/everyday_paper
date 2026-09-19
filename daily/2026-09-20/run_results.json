@@ -1,0 +1,74 @@
+{
+  "run_date": "2026-09-20",
+  "latest_official_arxiv_batch": "2026-09-18",
+  "search_summary": {
+    "sources": "official arXiv category and article pages, Crossref 2026-09-18 through 2026-09-20 publication metadata, publisher and DOI pages, plus multi-source web search",
+    "selection_basis": "official metadata and validated full text",
+    "coverage_claim": "targeted, not exhaustive"
+  },
+  "deduplication": {
+    "processed_before": 360,
+    "processed_after": 363,
+    "retry_before": 17,
+    "retry_after": 17,
+    "keys": [
+      "DOI or arXiv identifier",
+      "normalized title",
+      "historical daily folders",
+      "retry queue",
+      "abstract and physical scenario"
+    ]
+  },
+  "added": [
+    "10.1007/s44418-026-00013-z",
+    "10.48550/arXiv.2609.19571",
+    "10.48550/arXiv.2609.19752"
+  ],
+  "retry_added": [],
+  "skipped": [
+    {
+      "identifier": "arXiv:2609.19166",
+      "reason": "fusion-neutron isotope-generator concept is highly relevant but was originally submitted on 2026-09-07 and remains a nuclear-data/source-strength scenario rather than a laser-driven experimental chain"
+    },
+    {
+      "identifier": "arXiv:2609.19756",
+      "reason": "PINN spin solver has exact plane-wave validation but no plasma, finite-focus beam distribution, or experimental evidence"
+    },
+    {
+      "identifier": "arXiv:2609.20328",
+      "reason": "nanocalorimeter setup is a low-pressure process-plasma diagnostic with lower priority for the current laser and HEDP scope"
+    },
+    {
+      "identifier": "10.1088/1361-6587/aea9c7",
+      "reason": "formal ORB5 energetic-particle and ITG study is sound but lower priority than the selected laser, HEDP, and application chain"
+    },
+    {
+      "identifier": "10.1088/1361-6587/aea9c6",
+      "reason": "formal Heliotron J SOL transport modeling is sound but lower priority than the selected topics"
+    }
+  ],
+  "pdf_validation": {
+    "valid_documents": 3,
+    "mineru_successes": 3,
+    "selected_and_visually_checked_figures": 12,
+    "details": "daily/2026-09-20/pdf_validation.json"
+  },
+  "evidence_boundaries": [
+    "The Discover Physics paper is a formally published Perspective built on projected EuPRAXIA@SPARC_LAB source parameters and prior conventional-FEL demonstrations; it reports no completed PWFA-FEL user experiment.",
+    "The Luoma paper contributes an analytic ESH model and author SMILEI simulations, while its experimental support is a re-analysis of previously published data; the 37 percent value is an idealized total-ion upper limit, not a new measured proton efficiency.",
+    "The Weber paper anchors to NIF experimental ignition but all 10 MJ yields, robustness scans, LPI calculations, and plant power figures are author simulations or conditional systems scenarios, not an operating fusion power plant.",
+    "No FEL, SMILEI, HYDRA, LASNEX, pF3D, ghost-spectroscopy inversion, or raw experimental analysis was rerun locally."
+  ],
+  "validation": {
+    "index_builder": "Indexed 363 papers across 9 categories.",
+    "pytest": "7 passed",
+    "unittest": "7 tests passed",
+    "git_diff_check": "passed",
+    "ledger_checks": "363 records parsed; each new identifier occurs once; all 363 normalized titles are unique; 17 retry records retained",
+    "note_image_reference_check": "3 notes checked; all local links resolved; 12 unique image references decoded",
+    "pdf_header_size_hash_metadata_text_check": "passed",
+    "retry_queue_check": "17 records retained without modification"
+  },
+  "git": "commit and push completed by the automation after validation",
+  "status": "success"
+}

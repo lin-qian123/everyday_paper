@@ -11,6 +11,8 @@
 
 ## 开发记录
 
+- 2026-09-20：加载 360 条完成台账、17 条重试队列和历史 `daily/`，按 DOI/arXiv identifier、规范化标题、摘要与物理场景去重；官方 arXiv 目标分类最新可见增量为 2026-09-18 批次，并用 Crossref 2026-09-18 至 2026-09-20 元数据及出版商页面复查正式来源。新增正式 *Discover Physics* `10.1007/s44418-026-00013-z`、arXiv `10.48550/arXiv.2609.19571` 与 `10.48550/arXiv.2609.19752`，分别覆盖 plasma-driven X-ray FEL 先导实验路线、近临界 ESH 激光离子加速和 10 MJ 间接驱动 IFE 靶设计。3 份官方 PDF 通过 `%PDF-`、9/11/19 页元数据、SHA-256 和非空 `pdftotext`，均完成 MinerU；12 张关键图已解码查看，台账从 360 增至 363，重试队列保持 17。严格区分 Perspective/设施预测、作者解析/PIC 与既有实验再对照、NIF 实验锚点与 10 MJ 设计模拟/电站情景；本轮没有本地运行 FEL、SMILEI、HYDRA、LASNEX、pF3D 或原始诊断分析。
+
 - 2026-09-18：加载 357 条完成台账、16 条重试队列和历史 `daily/`，按 DOI/arXiv identifier、规范化标题、摘要与物理场景去重；官方 arXiv 目标分类最新可见增量为 2026-09-17 批次，本地多源聚合器返回 0 条，故以官方分类页、Crossref、APS、IOP 和文章页核验。新增正式 PRApplied `10.1103/5mpy-2jw5`、arXiv `10.48550/arXiv.2609.18775` 与 `10.48550/arXiv.2609.18423`，分别覆盖 PHELIX 泡沫 DLA—转换靶—MeV 光子/中子实验链、千焦 PW DLA 驱动 pair/muon 的准三维 PIC—Geant4—二维 PIC 方案，以及 Ti K 壳层 NLTE 光谱对历史 Nova SRS 热电子的再分析。3 份官方 PDF 通过 `%PDF-`、21/22/5 页元数据、SHA-256 和非空 `pdftotext`，均完成 MinerU；16 张关键图已解码查看，台账从 357 增至 360。正式 *Nuclear Fusion* `10.1088/1741-4326/ae9edc` 的 IOP/DOI 路径均返回 HTML/Radware 页面，未生成摘要笔记，重试队列从 16 增至 17。严格区分 Tavana 的直接实验、诊断反演和 GEANT4，Babjak 的数值可行性与实际 pair/muon shot，以及 Luo 的局域模型热电子分数与全局 SRS 损失；本轮没有本地运行 OSIRIS、GEANT4、FAC 或原始诊断分析。
 
 - 2026-09-17：加载 354 条完成台账、16 条重试队列和历史 `daily/`，按 DOI/arXiv identifier、规范化标题、摘要与物理场景去重；官方 arXiv 目标分类最新可见增量为 2026-09-16 批次，本地多源聚合器返回 0 条，故以官方分类页、Crossref 和出版商页面核验。新增 `10.48550/arXiv.2609.16575`、`10.48550/arXiv.2609.17162` 与 `10.48550/arXiv.2609.17209`，分别覆盖 KEMPIC-3D 电磁 PIC 分层验证、LAPD 非线性 Alfvén 波实验—Hall-MHD—混合 PIC，以及 EKR/等变 NN/学习型 Padé 闭合。3 份官方 PDF 通过 `%PDF-`、32/10/7 页元数据、SHA-256 和非空 `pdftotext`，均完成 MinerU；12 张关键图已解码查看。台账从 354 增至 357，重试队列保持 16。正式 *Physics of Plasmas* `10.1063/5.0347124` 与已入库 `arXiv:2606.04887` 标题完全相同，按硬去重排除；Optica `10.1364/OE.612056` 的官方页仍标注已接收但正式文章未上线，未从元数据生成笔记。严格区分标准数值部件验证、准二维 LWFA 示范、直接波谱/空间扫描、作者混合 PIC 和线性解析训练真值；本轮没有本地运行 KEMPIC、CAMELIA、Vlasov 或闭合代码。
@@ -187,6 +189,8 @@
 - `2026-06-09` Cambridge/JPP 3 条、`2026-06-10` arXiv 3 条和 `2026-06-11` arXiv 3 条已在配置恢复后全部补回 PDF，不再是 runtime-blocked 积压。
 
 ## 下一步
+
+- 2026-09-20：台账已至 363 条，重试队列为 17 条。下轮先检查 2026-09-21 官方 arXiv 批次与新正式来源，并继续寻找能闭合 laser-accelerated beam → converter/catcher → γ/中子/活化 → 剂量/屏蔽的实验全文；`arXiv:2609.19166` 可在核素专题中复查。ESH 后续需要在同一 shot 中联合测透射光、时变密度与质子/碳全角谱并跨越 `Λ*`；plasma-FEL 路线需等待实际 photon/pointing/timing 数据；10 MJ IFE 设计需公开输入、跨代码/UQ、缩比 LPI/CBET 以及驱动器—靶注入—腔室—氚端到端验证。
 
 - 2026-09-17：台账已至 357 条，重试队列为 16 条。下轮先检查 2026-09-17 官方 arXiv 批次与新正式出版来源，再继续寻找可闭合 laser-accelerated beam → converter/catcher → γ/中子/活化 → 剂量/屏蔽的实验全文。KEMPIC 后续应在源码实际公开后固定 commit、与成熟 PIC 做同输入二维/三维交叉验证和完整进程性能基准；Alfvén 工作需测双谱/能通量并做单参数 $k_\perp d_i$ 扫描；非线性闭合需在非线性 Vlasov/PIC 留出数据和长期 fluid-solver 部署中验证因果性与稳定性。
 

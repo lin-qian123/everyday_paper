@@ -2,11 +2,14 @@
 
 HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。
 
-- 当前收录：97 篇
-- 索引更新时间：2026-09-18
+- 当前收录：100 篇
+- 索引更新时间：2026-09-20
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-20 | [A roadmap for strategic pilot experiments at the first plasma-driven x-ray FEL](../papers/10-1007-s44418-026-00013-z/README.md) | Discover Physics | [笔记](../daily/2026-09-20/notes/Principi - 2026 - Plasma-driven x-ray FEL pilot roadmap.md) |
+| 2026-09-20 | [Efficient laser ion acceleration in near-critical density plasmas in the picosecond pulse regime](../papers/arxiv-2609-19571/README.md) | arXiv preprint | [笔记](../daily/2026-09-20/notes/Luoma et al. - 2026 - Efficient laser ion acceleration ESH.md) |
+| 2026-09-20 | [Indirect-Drive Fusion Target Design for Commercial Fusion Energy](../papers/arxiv-2609-19752/README.md) | arXiv preprint | [笔记](../daily/2026-09-20/notes/Weber et al. - 2026 - Commercial indirect-drive fusion target.md) |
 | 2026-09-18 | [Kilojoule-scale laser acceleration enabling efficient generation of electron-positron and muon beams](../papers/arxiv-2609-18775/README.md) | arXiv preprint | [笔记](../daily/2026-09-18/notes/Babjak et al. - 2026 - Kilojoule DLA positron and muon beams.md) |
 | 2026-09-18 | [K-shell x-ray spectroscopy: A reliable probe for stimulated Raman scattering in inertial confinement fusion](../papers/arxiv-2609-18423/README.md) | arXiv preprint | [笔记](../daily/2026-09-18/notes/Luo et al. - 2026 - K-shell SRS spectroscopy.md) |
 | 2026-09-18 | [Ultrahigh flux of direct laser-accelerated electrons, MeV photons, and neutrons from overdense polymer foams](../papers/10-1103-5mpy-2jw5/README.md) | Physical Review Applied | [笔记](../daily/2026-09-18/notes/Tavana et al. - 2026 - Ultrahigh-flux DLA electrons photons and neutrons.md) |

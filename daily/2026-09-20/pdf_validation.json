@@ -1,0 +1,63 @@
+{
+  "run_date": "2026-09-20",
+  "all_added_documents_valid": true,
+  "checks": [
+    "%PDF- header",
+    "file MIME/type",
+    "pdfinfo page count and metadata",
+    "SHA-256",
+    "non-empty pdftotext -layout output",
+    "MinerU Markdown and image conversion",
+    "manual inspection of selected figures"
+  ],
+  "documents": [
+    {
+      "identifier": "10.1007/s44418-026-00013-z",
+      "pdf_path": "daily/2026-09-20/pdfs/Principi - 2026 - Roadmap for plasma-driven x-ray FEL.pdf",
+      "source_url": "https://link.springer.com/content/pdf/10.1007/s44418-026-00013-z.pdf",
+      "download_report": "daily/2026-09-20/pdfs/download-reports/10.1007-s44418-026-00013-z.json",
+      "bytes": 1215607,
+      "sha256": "22e0ecd9920dc76feeda979b62c6f789df877fba7221251f98707a875f82a3db",
+      "pages": 9,
+      "pdf_version": "1.7",
+      "text_path": "daily/2026-09-20/pdfs/Principi - 2026 - Roadmap for plasma-driven x-ray FEL.txt",
+      "text_bytes": 41838,
+      "mineru_batch_id": "ef0200c6-7cec-4b16-ae87-f2a58f5fdf18",
+      "mineru_status": "success",
+      "selected_figures": 2,
+      "valid": true
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.19571",
+      "pdf_path": "daily/2026-09-20/pdfs/Luoma et al. - 2026 - Efficient laser ion acceleration in near-critical plasmas.pdf",
+      "source_url": "https://arxiv.org/pdf/2609.19571",
+      "download_report": "daily/2026-09-20/pdfs/download-reports/10.48550-arXiv.2609.19571.json",
+      "bytes": 2860773,
+      "sha256": "54c3fa708763b6a5b17a1a26382c022f6fabd7e9e3d9f0ed4ec93497302ae5d0",
+      "pages": 11,
+      "pdf_version": "1.7",
+      "text_path": "daily/2026-09-20/pdfs/Luoma et al. - 2026 - Efficient laser ion acceleration in near-critical plasmas.txt",
+      "text_bytes": 66028,
+      "mineru_batch_id": "09a73be2-fc15-41d7-9454-8fd3d06f16d3",
+      "mineru_status": "success",
+      "selected_figures": 6,
+      "valid": true
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.19752",
+      "pdf_path": "daily/2026-09-20/pdfs/Weber et al. - 2026 - Indirect-drive target design for fusion energy.pdf",
+      "source_url": "https://arxiv.org/pdf/2609.19752",
+      "download_report": "daily/2026-09-20/pdfs/download-reports/10.48550-arXiv.2609.19752.json",
+      "bytes": 6979210,
+      "sha256": "51bb5a3abe3811a9e211458a45fe1aa671ecf45e4db7bb79d724fc24fdd24040",
+      "pages": 19,
+      "pdf_version": "1.7",
+      "text_path": "daily/2026-09-20/pdfs/Weber et al. - 2026 - Indirect-drive target design for fusion energy.txt",
+      "text_bytes": 124451,
+      "mineru_batch_id": "66aa9647-e5f3-4197-8f2d-6bca421d118b",
+      "mineru_status": "success",
+      "selected_figures": 4,
+      "valid": true
+    }
+  ]
+}

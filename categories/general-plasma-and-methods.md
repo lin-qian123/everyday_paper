@@ -2,11 +2,12 @@
 
 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。
 
-- 当前收录：52 篇
-- 索引更新时间：2026-09-18
+- 当前收录：53 篇
+- 索引更新时间：2026-09-20
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-20 | [Indirect-Drive Fusion Target Design for Commercial Fusion Energy](../papers/arxiv-2609-19752/README.md) | arXiv preprint | [笔记](../daily/2026-09-20/notes/Weber et al. - 2026 - Commercial indirect-drive fusion target.md) |
 | 2026-09-18 | [K-shell x-ray spectroscopy: A reliable probe for stimulated Raman scattering in inertial confinement fusion](../papers/arxiv-2609-18423/README.md) | arXiv preprint | [笔记](../daily/2026-09-18/notes/Luo et al. - 2026 - K-shell SRS spectroscopy.md) |
 | 2026-09-17 | [KEMPIC-3D: A transparent and extensible electromagnetic Particle-in-Cell framework for kinetic plasma simulations](../papers/arxiv-2609-16575/README.md) | arXiv preprint | [笔记](../daily/2026-09-17/notes/Lopez et al. - 2026 - KEMPIC-3D PIC framework.md) |
 | 2026-09-17 | [Strong Nonlinear Alfvén Wave Interactions in a Laboratory Plasma](../papers/arxiv-2609-17162/README.md) | arXiv preprint | [笔记](../daily/2026-09-17/notes/Chen et al. - 2026 - Strong nonlinear Alfven wave interactions.md) |

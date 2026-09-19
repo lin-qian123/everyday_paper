@@ -9,7 +9,7 @@
 - [索引文件](#索引文件)
 - [仓库结构](#仓库结构)
 - [分类索引](#分类索引)
-- [当前状态](#当前状态2026-09-18)
+- [当前状态](#当前状态2026-09-20)
 - [去重规则](#去重规则)
 - [PDF 下载稳健性](#pdf-下载稳健性)
 - [维护约定](#维护约定)
@@ -78,6 +78,12 @@
 - `INDEX.md`: 总索引
 - `state/processed_articles.json`: 已处理论文去重台账
 - `templates/daily-index-template.md`: 每日索引模板
+
+## 当前状态（2026-09-20）
+
+- 已维护到 `daily/2026-09-20/`。本轮新增正式开放 *Discover Physics* `10.1007/s44418-026-00013-z`、arXiv `10.48550/arXiv.2609.19571` 与 `10.48550/arXiv.2609.19752`，分别覆盖 plasma-driven 软 X 射线 FEL 的 UED/ghost-XAS 初期实验路线、近临界密度靶中 ESH 高效率离子加速的解析—PIC—既有实验对照，以及从 NIF 点火锚点外推的 10 MJ 间接驱动 IFE 靶设计。
+- 3 份官方 PDF 通过 `%PDF-`、`file`、`pdfinfo`、SHA-256、非空 `pdftotext -layout` 与 MinerU Markdown 转换；台账从 360 增至 363 条，17 条结构化重试项不变。本轮保留并逐张查看 12 张关键图。
+- 证据边界：Principi 是正式发表 Perspective，设施规格和两类实验仍是路线图；Luoma 的 `37%` 是质量受限一维 ESH 总离子上限，新工作主体是 SMILEI 模拟，实验支持来自既有文献；Weber 的 `265–427 MJ`、`G=26–43`、扰动裕量和净电情景全部来自 HYDRA/LASNEX/pF3D 与条件化系统计算。本轮没有本地运行 FEL、SMILEI、HYDRA、LASNEX、pF3D 或原始实验分析。
 
 ## 当前状态（2026-09-18）
 

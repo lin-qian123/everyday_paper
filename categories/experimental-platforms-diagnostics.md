@@ -2,11 +2,13 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：93 篇
-- 索引更新时间：2026-09-18
+- 当前收录：95 篇
+- 索引更新时间：2026-09-20
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-20 | [A roadmap for strategic pilot experiments at the first plasma-driven x-ray FEL](../papers/10-1007-s44418-026-00013-z/README.md) | Discover Physics | [笔记](../daily/2026-09-20/notes/Principi - 2026 - Plasma-driven x-ray FEL pilot roadmap.md) |
+| 2026-09-20 | [Indirect-Drive Fusion Target Design for Commercial Fusion Energy](../papers/arxiv-2609-19752/README.md) | arXiv preprint | [笔记](../daily/2026-09-20/notes/Weber et al. - 2026 - Commercial indirect-drive fusion target.md) |
 | 2026-09-18 | [K-shell x-ray spectroscopy: A reliable probe for stimulated Raman scattering in inertial confinement fusion](../papers/arxiv-2609-18423/README.md) | arXiv preprint | [笔记](../daily/2026-09-18/notes/Luo et al. - 2026 - K-shell SRS spectroscopy.md) |
 | 2026-09-18 | [Ultrahigh flux of direct laser-accelerated electrons, MeV photons, and neutrons from overdense polymer foams](../papers/10-1103-5mpy-2jw5/README.md) | Physical Review Applied | [笔记](../daily/2026-09-18/notes/Tavana et al. - 2026 - Ultrahigh-flux DLA electrons photons and neutrons.md) |
 | 2026-09-17 | [Strong Nonlinear Alfvén Wave Interactions in a Laboratory Plasma](../papers/arxiv-2609-17162/README.md) | arXiv preprint | [笔记](../daily/2026-09-17/notes/Chen et al. - 2026 - Strong nonlinear Alfven wave interactions.md) |
