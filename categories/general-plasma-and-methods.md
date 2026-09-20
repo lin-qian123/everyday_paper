@@ -2,11 +2,14 @@
 
 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。
 
-- 当前收录：53 篇
-- 索引更新时间：2026-09-20
+- 当前收录：56 篇
+- 索引更新时间：2026-09-21
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-21 | [Spectral characteristics and plasma state diagnosis of highly charged iron ions in laser-produced plasma](../papers/10-1088-2058-6272-ae82da/README.md) | Plasma Science and Technology | [笔记](../daily/2026-09-21/notes/Zhu et al. - 2026 - Highly charged iron plasma spectral diagnosis.md) |
+| 2026-09-21 | [Overview of achievements and outlook of the IFMIF/EVEDA project](../papers/10-1088-1741-4326-aea171/README.md) | Nuclear Fusion | [笔记](../daily/2026-09-21/notes/Hasegawa et al. - 2026 - IFMIF EVEDA achievements and outlook.md) |
+| 2026-09-21 | [Scalable Production of Lead-212 and Actinium-225 Generators with Fusion Neutrons](../papers/arxiv-2609-19166/README.md) | arXiv preprint | [笔记](../daily/2026-09-21/notes/Parisi and Rutkowski - 2026 - Fusion neutrons for isotope generators.md) |
 | 2026-09-20 | [Indirect-Drive Fusion Target Design for Commercial Fusion Energy](../papers/arxiv-2609-19752/README.md) | arXiv preprint | [笔记](../daily/2026-09-20/notes/Weber et al. - 2026 - Commercial indirect-drive fusion target.md) |
 | 2026-09-18 | [K-shell x-ray spectroscopy: A reliable probe for stimulated Raman scattering in inertial confinement fusion](../papers/arxiv-2609-18423/README.md) | arXiv preprint | [笔记](../daily/2026-09-18/notes/Luo et al. - 2026 - K-shell SRS spectroscopy.md) |
 | 2026-09-17 | [KEMPIC-3D: A transparent and extensible electromagnetic Particle-in-Cell framework for kinetic plasma simulations](../papers/arxiv-2609-16575/README.md) | arXiv preprint | [笔记](../daily/2026-09-17/notes/Lopez et al. - 2026 - KEMPIC-3D PIC framework.md) |

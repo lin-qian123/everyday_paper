@@ -1,0 +1,65 @@
+{
+  "run_date": "2026-09-21",
+  "all_added_documents_valid": true,
+  "checks": [
+    "%PDF- header",
+    "file MIME/type",
+    "pdfinfo page count and metadata",
+    "SHA-256",
+    "non-empty pdftotext -layout output",
+    "MinerU Markdown and image conversion where available",
+    "local text and rendered-page fallback for IFMIF/EVEDA",
+    "manual inspection of selected figures"
+  ],
+  "documents": [
+    {
+      "identifier": "10.1088/2058-6272/ae82da",
+      "pdf_path": "daily/2026-09-21/pdfs/Zhu et al. - 2026 - Spectral diagnosis of highly charged iron laser plasma.pdf",
+      "source_url": "http://pst.hfcas.ac.cn/en/article/pdf/preview/10.1088/2058-6272/ae82da.pdf",
+      "download_report": "daily/2026-09-21/pdfs/download-reports/10.1088-2058-6272-ae82da.json",
+      "bytes": 9561069,
+      "sha256": "ed6aaebd88b21df784dbb6da04924b304915cda48497bcf5b3f62884860fd627",
+      "pages": 10,
+      "pdf_version": "1.6",
+      "text_path": "daily/2026-09-21/pdfs/Zhu et al. - 2026 - Spectral diagnosis of highly charged iron laser plasma.txt",
+      "text_bytes": 54899,
+      "mineru_task_id": "5cb2c548-6649-4533-9908-a85265f23386",
+      "mineru_status": "success",
+      "selected_figures": 5,
+      "valid": true
+    },
+    {
+      "identifier": "10.1088/1741-4326/aea171",
+      "pdf_path": "daily/2026-09-21/pdfs/Hasegawa et al. - 2026 - IFMIF EVEDA achievements and outlook.pdf",
+      "source_url": "https://repo.qst.go.jp/record/2001698/files/3cf4e3a87007c385f640c3794a5a474f.pdf",
+      "version_note": "QST institutional author/conference manuscript corresponding to the formal Nuclear Fusion article; not the IOP version of record",
+      "download_report": "daily/2026-09-21/pdfs/download-reports/10.1088-1741-4326-aea171.json",
+      "bytes": 3567766,
+      "sha256": "dde07641a19432abd123097ada53fe7df0ea437915f2edd0b45a6c751ce60a90",
+      "pages": 12,
+      "pdf_version": "1.6",
+      "text_path": "daily/2026-09-21/pdfs/Hasegawa et al. - 2026 - IFMIF EVEDA achievements and outlook.txt",
+      "text_bytes": 45475,
+      "mineru_status": "failed_twice_then_local_fallback",
+      "fallback": "pdftotext -layout, pdfimages, pdftoppm page rendering, and manual crop inspection",
+      "selected_figures": 4,
+      "valid": true
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.19166",
+      "pdf_path": "daily/2026-09-21/pdfs/Parisi and Rutkowski - 2026 - Fusion neutrons for Pb-212 and Ac-225 generators.pdf",
+      "source_url": "https://arxiv.org/pdf/2609.19166",
+      "download_report": "daily/2026-09-21/pdfs/download-reports/10.48550-arXiv.2609.19166.json",
+      "bytes": 1055313,
+      "sha256": "94b02a2c660be0450eb738434baceb603a00470ab80bf3ec4409176c8b90e3be",
+      "pages": 18,
+      "pdf_version": "1.7",
+      "text_path": "daily/2026-09-21/pdfs/Parisi and Rutkowski - 2026 - Fusion neutrons for Pb-212 and Ac-225 generators.txt",
+      "text_bytes": 164588,
+      "mineru_task_id": "45f48b3d-67af-404e-81a8-49328d6fd987",
+      "mineru_status": "success",
+      "selected_figures": 5,
+      "valid": true
+    }
+  ]
+}

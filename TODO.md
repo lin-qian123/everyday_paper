@@ -3,13 +3,15 @@
 ## 当前待办
 
 - [ ] 将每日自动化主流程固定为：新增论文与笔记 -> 更新 `state/processed_articles.json` -> 运行 `python scripts/build_indexes.py` -> 提交并推送 `origin/master`。
-- [ ] 处理剩余 17 条未补回 PDF 的候选；其中 10 条为 Elsevier/ScienceDirect `HTTP 403`，1 条为 Nature `cookies_not_supported`，2 条为 IOP/Radware 验证页，另有 4 条 APS accepted / formal `HTTP 403` 或延迟开放候选。
+- [ ] 处理剩余 18 条未补回 PDF 的候选；其中 10 条为 Elsevier/ScienceDirect `HTTP 403`，1 条为 Nature `cookies_not_supported`，3 条为 IOP/Radware 验证页，另有 4 条 APS accepted / formal `HTTP 403` 或延迟开放候选。
 - [ ] 为当前 65 条已补回 PDF 但尚无笔记的条目补中文结构化笔记。
 - [ ] 把每日自动化主流程接到 `scripts/retry_download_queue.py`，启动时先消化可恢复积压，避免配置恢复后仍只读旧 blocked-day 记录。
 - [ ] 为来源可达性预检补一层轻量检查，避免在明显 `403` / bot-wall 来源上重复空跑，并对 arXiv / DOI 这类开放来源单独标记“仅运行时阻塞”。
 - [ ] 修补 `scripts/safe_pdf_download.py` 在个别 Cambridge 官方 PDF 直链上的卡住问题；当前同 URL 用 `curl` 可正常完成下载，说明更像 Python 传输路径或读取策略问题。
 
 ## 开发记录
+
+- 2026-09-21：加载 363 条完成台账、17 条重试队列和历史 `daily/`，按 DOI/arXiv identifier、规范化标题、摘要与物理场景去重；官方 arXiv 目标分类最新可见批次仍为 2026-09-18，故以 Crossref 2026-09-18 至 2026-09-21 正式元数据和出版商/机构库为主，并补入上轮明确保留的中子—医用同位素专题候选。新增正式 *Plasma Science and Technology* `10.1088/2058-6272/ae82da`、正式 *Nuclear Fusion* `10.1088/1741-4326/aea171` 与 arXiv `10.48550/arXiv.2609.19166`。3 份全文通过 `%PDF-`、10/12/18 页元数据、SHA-256 和非空 `pdftotext`；Zhu/Parisi 完成 MinerU，IFMIF 的 QST 作者/会议稿在 MinerU 两次失败后用本地文本、嵌图与页面渲染 fallback，14 张关键图已解码查看。台账从 363 增至 366；MAST-U ML tomography `10.1088/1361-6587/aea4f2` 因 IOP/Radware 只返回 HTML 新增至重试队列，使其从 17 增至 18。严格区分真实光谱/束流/回路试验、LTE/辐射输运反演、部件级工程验证和 OpenMC/耗减供应情景；本轮没有本地运行 Cowan、SpeIma3D、束流动力学、MCNP6、OpenMC、热工或放化分离。
 
 - 2026-09-20：加载 360 条完成台账、17 条重试队列和历史 `daily/`，按 DOI/arXiv identifier、规范化标题、摘要与物理场景去重；官方 arXiv 目标分类最新可见增量为 2026-09-18 批次，并用 Crossref 2026-09-18 至 2026-09-20 元数据及出版商页面复查正式来源。新增正式 *Discover Physics* `10.1007/s44418-026-00013-z`、arXiv `10.48550/arXiv.2609.19571` 与 `10.48550/arXiv.2609.19752`，分别覆盖 plasma-driven X-ray FEL 先导实验路线、近临界 ESH 激光离子加速和 10 MJ 间接驱动 IFE 靶设计。3 份官方 PDF 通过 `%PDF-`、9/11/19 页元数据、SHA-256 和非空 `pdftotext`，均完成 MinerU；12 张关键图已解码查看，台账从 360 增至 363，重试队列保持 17。严格区分 Perspective/设施预测、作者解析/PIC 与既有实验再对照、NIF 实验锚点与 10 MJ 设计模拟/电站情景；本轮没有本地运行 FEL、SMILEI、HYDRA、LASNEX、pF3D 或原始诊断分析。
 

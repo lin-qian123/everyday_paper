@@ -9,7 +9,7 @@
 - [索引文件](#索引文件)
 - [仓库结构](#仓库结构)
 - [分类索引](#分类索引)
-- [当前状态](#当前状态2026-09-20)
+- [当前状态](#当前状态2026-09-21)
 - [去重规则](#去重规则)
 - [PDF 下载稳健性](#pdf-下载稳健性)
 - [维护约定](#维护约定)
@@ -78,6 +78,12 @@
 - `INDEX.md`: 总索引
 - `state/processed_articles.json`: 已处理论文去重台账
 - `templates/daily-index-template.md`: 每日索引模板
+
+## 当前状态（2026-09-21）
+
+- 已维护到 `daily/2026-09-21/`。本轮新增正式 *Plasma Science and Technology* `10.1088/2058-6272/ae82da`、正式 *Nuclear Fusion* `10.1088/1741-4326/aea171` 与高相关 arXiv `10.48550/arXiv.2609.19166`，分别覆盖高电荷铁激光等离子体的 EUV 光谱反演、IFMIF/EVEDA 高流氘束—液态锂—中子源工程验证，以及聚变中子制备 `²¹²Pb/²²⁵Ac` 发生器母体的 OpenMC 供应情景。
+- 3 份全文通过 `%PDF-`、`file`、`pdfinfo`、SHA-256 和非空 `pdftotext -layout`；其中 2 份完成 MinerU，IFMIF 的 QST 作者/会议稿在 MinerU 两次失败后使用本地文本与页面渲染 fallback。台账从 363 增至 366 条，本轮保留并逐张查看 14 张关键图。MAST-U ML tomography 正式论文的 IOP 路径只返回 HTML/Radware，未从摘要生成笔记，结构化重试队列从 17 增至 18 条。
+- 证据边界：Zhu 的光谱和羽流为实验，但 `38.4 eV`、`5.6×10¹⁹ cm⁻³` 与 `⟨Z⟩=8.86` 是 LTE/高斯几何/辐射输运反演；IFMIF 的 `5 MeV` 高流脉冲束与分项锂回路验证不能升级为 `9 MeV, 125 mA, CW` 端到端运行，本地全文也不是 IOP VOR；Parisi 的同位素产能全部是核数据、OpenMC/耗减与条件化供应情景，“dose-equivalent” 不等于实际患者数。本轮没有本地运行 Cowan、SpeIma3D、束流动力学、MCNP6、OpenMC 或放化分离模型。
 
 ## 当前状态（2026-09-20）
 

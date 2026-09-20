@@ -16,19 +16,22 @@
 | 分类 | 篇数 | 说明 |
 | --- | ---: | --- |
 | [激光等离子体与束流加速](./categories/laser-plasma-acceleration.md) | 120 | LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。 |
-| [激光加速电子/离子束应用](./categories/laser-accelerated-beam-applications.md) | 77 | 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。 |
+| [激光加速电子/离子束应用](./categories/laser-accelerated-beam-applications.md) | 78 | 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。 |
 | [强场 QED 与辐射反作用](./categories/strong-field-qed-radiation.md) | 61 | 强场量子效应、辐射反作用、非线性 Compton、pair production 与极端场实验。 |
-| [高能量密度物理、ICF 与实验室天体](./categories/hedp-icf-laboratory-astrophysics.md) | 100 | HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。 |
+| [高能量密度物理、ICF 与实验室天体](./categories/hedp-icf-laboratory-astrophysics.md) | 101 | HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。 |
 | [PIC、动理学与数值模拟](./categories/pic-and-plasma-simulation.md) | 153 | PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。 |
 | [机器学习与等离子体物理](./categories/ai-ml-plasma-physics.md) | 57 | 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。 |
-| [磁约束聚变与 alpha 粒子](./categories/magnetic-fusion-and-alpha-particles.md) | 37 | stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。 |
-| [实验平台、靶设计与诊断](./categories/experimental-platforms-diagnostics.md) | 95 | 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。 |
-| [综合等离子体与交叉方法](./categories/general-plasma-and-methods.md) | 53 | 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。 |
+| [磁约束聚变与 alpha 粒子](./categories/magnetic-fusion-and-alpha-particles.md) | 39 | stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。 |
+| [实验平台、靶设计与诊断](./categories/experimental-platforms-diagnostics.md) | 97 | 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。 |
+| [综合等离子体与交叉方法](./categories/general-plasma-and-methods.md) | 56 | 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。 |
 
 ## 最新入库
 
 | 入库日期 | 论文 | 分类 |
 | --- | --- | --- |
+| 2026-09-21 | [Spectral characteristics and plasma state diagnosis of highly charged iron ions in laser-produced plasma](./papers/10-1088-2058-6272-ae82da/README.md) | 实验平台、靶设计与诊断、高能量密度物理、ICF 与实验室天体、综合等离子体与交叉方法 |
+| 2026-09-21 | [Overview of achievements and outlook of the IFMIF/EVEDA project](./papers/10-1088-1741-4326-aea171/README.md) | 磁约束聚变与 alpha 粒子、实验平台、靶设计与诊断、综合等离子体与交叉方法 |
+| 2026-09-21 | [Scalable Production of Lead-212 and Actinium-225 Generators with Fusion Neutrons](./papers/arxiv-2609-19166/README.md) | 激光加速电子/离子束应用、磁约束聚变与 alpha 粒子、综合等离子体与交叉方法 |
 | 2026-09-20 | [A roadmap for strategic pilot experiments at the first plasma-driven x-ray FEL](./papers/10-1007-s44418-026-00013-z/README.md) | 激光等离子体与束流加速、激光加速电子/离子束应用、实验平台、靶设计与诊断、高能量密度物理、ICF 与实验室天体 |
 | 2026-09-20 | [Efficient laser ion acceleration in near-critical density plasmas in the picosecond pulse regime](./papers/arxiv-2609-19571/README.md) | 激光等离子体与束流加速、激光加速电子/离子束应用、PIC、动理学与数值模拟、高能量密度物理、ICF 与实验室天体 |
 | 2026-09-20 | [Indirect-Drive Fusion Target Design for Commercial Fusion Energy](./papers/arxiv-2609-19752/README.md) | 高能量密度物理、ICF 与实验室天体、实验平台、靶设计与诊断、综合等离子体与交叉方法 |
@@ -38,8 +41,5 @@
 | 2026-09-17 | [KEMPIC-3D: A transparent and extensible electromagnetic Particle-in-Cell framework for kinetic plasma simulations](./papers/arxiv-2609-16575/README.md) | PIC、动理学与数值模拟、激光等离子体与束流加速、综合等离子体与交叉方法 |
 | 2026-09-17 | [Strong Nonlinear Alfvén Wave Interactions in a Laboratory Plasma](./papers/arxiv-2609-17162/README.md) | 实验平台、靶设计与诊断、PIC、动理学与数值模拟、综合等离子体与交叉方法 |
 | 2026-09-17 | [Nonlinear kinetic closures for linear instabilities](./papers/arxiv-2609-17209/README.md) | 机器学习与等离子体物理、PIC、动理学与数值模拟、磁约束聚变与 alpha 粒子、综合等离子体与交叉方法 |
-| 2026-09-16 | [Direct observation of electron shedding from a laser-plasma accelerator](./papers/arxiv-2609-15968/README.md) | 激光等离子体与束流加速、PIC、动理学与数值模拟、实验平台、靶设计与诊断、综合等离子体与交叉方法 |
-| 2026-09-16 | [A self-consistent phasor-PIC algorithm for bidirectional inductive-capacitive coupling in ICPs](./papers/arxiv-2609-15043/README.md) | PIC、动理学与数值模拟、综合等离子体与交叉方法 |
-| 2026-09-16 | [Opacity predictions in plasmas under stellar conditions using deep learning](./papers/10-1103-f237-bqz2/README.md) | 机器学习与等离子体物理、高能量密度物理、ICF 与实验室天体、综合等离子体与交叉方法 |
 
-_自动生成时间：2026-09-20_
+_自动生成时间：2026-09-21_

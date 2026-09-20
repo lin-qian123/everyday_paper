@@ -2,11 +2,12 @@
 
 HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。
 
-- 当前收录：100 篇
-- 索引更新时间：2026-09-20
+- 当前收录：101 篇
+- 索引更新时间：2026-09-21
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-21 | [Spectral characteristics and plasma state diagnosis of highly charged iron ions in laser-produced plasma](../papers/10-1088-2058-6272-ae82da/README.md) | Plasma Science and Technology | [笔记](../daily/2026-09-21/notes/Zhu et al. - 2026 - Highly charged iron plasma spectral diagnosis.md) |
 | 2026-09-20 | [A roadmap for strategic pilot experiments at the first plasma-driven x-ray FEL](../papers/10-1007-s44418-026-00013-z/README.md) | Discover Physics | [笔记](../daily/2026-09-20/notes/Principi - 2026 - Plasma-driven x-ray FEL pilot roadmap.md) |
 | 2026-09-20 | [Efficient laser ion acceleration in near-critical density plasmas in the picosecond pulse regime](../papers/arxiv-2609-19571/README.md) | arXiv preprint | [笔记](../daily/2026-09-20/notes/Luoma et al. - 2026 - Efficient laser ion acceleration ESH.md) |
 | 2026-09-20 | [Indirect-Drive Fusion Target Design for Commercial Fusion Energy](../papers/arxiv-2609-19752/README.md) | arXiv preprint | [笔记](../daily/2026-09-20/notes/Weber et al. - 2026 - Commercial indirect-drive fusion target.md) |

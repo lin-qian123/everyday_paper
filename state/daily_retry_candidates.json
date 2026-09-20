@@ -338,5 +338,25 @@
     "last_failure_class": "html_instead_of_pdf",
     "source_family": "iop",
     "failure_count": 1
+  },
+  {
+    "doi": "10.1088/1361-6587/aea4f2",
+    "title": "Machine learning tomography for sparse-view soft x-ray diagnostics in MAST-U",
+    "source_url": "https://iopscience.iop.org/article/10.1088/1361-6587/aea4f2",
+    "publication_date": "2026-09-18",
+    "journal": "Plasma Physics and Controlled Fusion（正式期刊，CC BY 4.0）",
+    "topic": "MAST-U + 稀疏视角软 X 射线层析 + 机器学习诊断",
+    "run_date": "2026-09-21",
+    "status": "download_failed",
+    "attempt_cmd": "python scripts/safe_pdf_download.py --url https://iopscience.iop.org/article/10.1088/1361-6587/aea4f2/pdf --doi 10.1088/1361-6587/aea4f2 --output \"daily/2026-09-21/pdfs/Broomhead et al. - 2026 - ML tomography for MAST-U soft x-ray diagnostics.pdf\" --report-json daily/2026-09-21/pdfs/download-reports/10.1088-1361-6587-aea4f2.json",
+    "stderr": "Official IOP PDF, DOI, article, and Radware verification routes returned HTML instead of a PDF; no lawful open author manuscript was found during the 2026-09-21 search.",
+    "stdout": "",
+    "output_pdf": "daily/2026-09-21/pdfs/Broomhead et al. - 2026 - ML tomography for MAST-U soft x-ray diagnostics.pdf",
+    "attempted_at": "2026-09-21T07:08:26+08:00",
+    "last_retry_at": null,
+    "retry_count": 0,
+    "last_failure_class": "publisher_bot_wall",
+    "source_family": "iop",
+    "failure_count": 1
   }
 ]

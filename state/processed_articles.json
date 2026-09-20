@@ -4148,5 +4148,53 @@
       "general-plasma-and-methods"
     ],
     "normalized_title": "indirect drive fusion target design for commercial fusion energy"
+  },
+  {
+    "title": "Spectral characteristics and plasma state diagnosis of highly charged iron ions in laser-produced plasma",
+    "doi": "10.1088/2058-6272/ae82da",
+    "journal": "Plasma Science and Technology",
+    "publication_date": "2026-09-18",
+    "processed_date": "2026-09-21",
+    "source_url": "https://doi.org/10.1088/2058-6272/ae82da",
+    "pdf_path": "daily/2026-09-21/pdfs/Zhu et al. - 2026 - Spectral diagnosis of highly charged iron laser plasma.pdf",
+    "note_path": "daily/2026-09-21/notes/Zhu et al. - 2026 - Highly charged iron plasma spectral diagnosis.md",
+    "categories": [
+      "experimental-platforms-diagnostics",
+      "hedp-icf-laboratory-astrophysics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "spectral characteristics and plasma state diagnosis of highly charged iron ions in laser produced plasma"
+  },
+  {
+    "title": "Overview of achievements and outlook of the IFMIF/EVEDA project",
+    "doi": "10.1088/1741-4326/aea171",
+    "journal": "Nuclear Fusion",
+    "publication_date": "2026-09-18",
+    "processed_date": "2026-09-21",
+    "source_url": "https://doi.org/10.1088/1741-4326/aea171",
+    "pdf_path": "daily/2026-09-21/pdfs/Hasegawa et al. - 2026 - IFMIF EVEDA achievements and outlook.pdf",
+    "note_path": "daily/2026-09-21/notes/Hasegawa et al. - 2026 - IFMIF EVEDA achievements and outlook.md",
+    "categories": [
+      "magnetic-fusion-and-alpha-particles",
+      "experimental-platforms-diagnostics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "overview of achievements and outlook of the ifmif eveda project"
+  },
+  {
+    "title": "Scalable Production of Lead-212 and Actinium-225 Generators with Fusion Neutrons",
+    "doi": "10.48550/arXiv.2609.19166",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-07",
+    "processed_date": "2026-09-21",
+    "source_url": "https://arxiv.org/abs/2609.19166",
+    "pdf_path": "daily/2026-09-21/pdfs/Parisi and Rutkowski - 2026 - Fusion neutrons for Pb-212 and Ac-225 generators.pdf",
+    "note_path": "daily/2026-09-21/notes/Parisi and Rutkowski - 2026 - Fusion neutrons for isotope generators.md",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "magnetic-fusion-and-alpha-particles",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "scalable production of lead 212 and actinium 225 generators with fusion neutrons"
   }
 ]

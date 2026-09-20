@@ -1,0 +1,76 @@
+{
+  "run_date": "2026-09-21",
+  "latest_official_arxiv_batch": "2026-09-18",
+  "search_summary": {
+    "sources": "official arXiv category and article pages, Crossref 2026-09-18 through 2026-09-21 publication metadata, publisher and DOI pages, QST repository, plus local multi-source search",
+    "selection_basis": "formal-source priority, official metadata, validated full text, and one explicitly retained high-priority isotope backlog item",
+    "coverage_claim": "targeted, not exhaustive",
+    "local_search_layer_result": "0 usable records"
+  },
+  "deduplication": {
+    "processed_before": 363,
+    "processed_after": 366,
+    "retry_before": 17,
+    "retry_after": 18,
+    "keys": [
+      "DOI or arXiv identifier",
+      "normalized title",
+      "historical daily folders",
+      "retry queue",
+      "abstract and physical scenario"
+    ]
+  },
+  "added": [
+    "10.1088/2058-6272/ae82da",
+    "10.1088/1741-4326/aea171",
+    "10.48550/arXiv.2609.19166"
+  ],
+  "retry_added": [
+    "10.1088/1361-6587/aea4f2"
+  ],
+  "skipped": [
+    {
+      "identifier": "10.1088/1361-6587/aea4f2",
+      "reason": "formal MAST-U sparse-view soft-x-ray ML tomography paper is highly relevant, but official IOP, DOI, and Radware routes returned HTML and no lawful open author manuscript was found; queued without an abstract-only note"
+    },
+    {
+      "identifier": "10.1088/1361-6587/aea366",
+      "reason": "formal double-cone ignition gold-cone compression study is relevant but lower priority than the selected experimental spectroscopy and neutron-application chain"
+    },
+    {
+      "identifier": "10.1088/1361-6587/aea24b",
+      "reason": "formal time-resolved nanosecond laser-plasma dynamics paper overlaps the selected Zhu diagnostic theme; the fully accessible and validated evidence chain was prioritized"
+    },
+    {
+      "identifier": "10.1063/5.0352958",
+      "reason": "formal DeepPropNet thermal-plasma surrogate is methodologically relevant but less directly aligned with the selected HEDP diagnostics, neutron-source engineering, and isotope application chain"
+    }
+  ],
+  "pdf_validation": {
+    "valid_documents": 3,
+    "mineru_successes": 2,
+    "mineru_failures_with_local_fallback": 1,
+    "selected_and_visually_checked_figures": 14,
+    "details": "daily/2026-09-21/pdf_validation.json"
+  },
+  "evidence_boundaries": [
+    "The Zhu paper contains measured EUV spectra and plume imaging, while the quoted temperature, density, and mean charge are LTE, Gaussian-geometry, and radiative-transfer inversion results rather than independent direct probes.",
+    "The IFMIF formal metadata corresponds to a Nuclear Fusion article, but the locally validated full text is the QST institutional author/conference manuscript rather than the IOP version of record.",
+    "The IFMIF beam and lithium-loop results are component and pulsed-beam achievements; the 9 MeV, 125 mA continuous-wave, 1.125 MW end-to-end target remains unvalidated.",
+    "The IFMIF manuscript text renders a neutron yield as 3.2e5 per deuteron, but its following 125 mA to 3e13 n/s projection is consistent only with approximately 3.8e-5 per deuteron; this is recorded as an unresolved likely missing-minus-sign issue.",
+    "The Parisi paper is an OpenMC, nuclear-data, depletion, and supply-scenario preprint; its dose-equivalent values are not treated-patient counts, measured production yields, or an operating isotope supply chain.",
+    "No Cowan, SpeIma3D, beam-dynamics, MCNP6, OpenMC, thermal-hydraulic, shielding, or radiochemical-separation model was rerun locally."
+  ],
+  "validation": {
+    "index_builder": "Indexed 366 papers across 9 categories.",
+    "pytest": "7 passed",
+    "unittest": "7 tests passed",
+    "ledger_checks": "366 records parsed; 362 non-null DOI identifiers are unique; all 366 normalized titles are unique; 18 retry records retained",
+    "note_image_reference_check": "3 notes checked; all local links resolved; 14 unique image references decoded",
+    "pdf_header_size_hash_metadata_text_check": "passed for all 3 added documents",
+    "download_report_check": "4 JSON reports parsed, including one structured IOP bot-wall failure",
+    "retry_queue_check": "18 records parsed; the new DOI occurs once"
+  },
+  "git": "commit and push performed by the automation after final validation",
+  "status": "success"
+}

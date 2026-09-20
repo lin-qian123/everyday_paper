@@ -2,11 +2,13 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：95 篇
-- 索引更新时间：2026-09-20
+- 当前收录：97 篇
+- 索引更新时间：2026-09-21
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-21 | [Spectral characteristics and plasma state diagnosis of highly charged iron ions in laser-produced plasma](../papers/10-1088-2058-6272-ae82da/README.md) | Plasma Science and Technology | [笔记](../daily/2026-09-21/notes/Zhu et al. - 2026 - Highly charged iron plasma spectral diagnosis.md) |
+| 2026-09-21 | [Overview of achievements and outlook of the IFMIF/EVEDA project](../papers/10-1088-1741-4326-aea171/README.md) | Nuclear Fusion | [笔记](../daily/2026-09-21/notes/Hasegawa et al. - 2026 - IFMIF EVEDA achievements and outlook.md) |
 | 2026-09-20 | [A roadmap for strategic pilot experiments at the first plasma-driven x-ray FEL](../papers/10-1007-s44418-026-00013-z/README.md) | Discover Physics | [笔记](../daily/2026-09-20/notes/Principi - 2026 - Plasma-driven x-ray FEL pilot roadmap.md) |
 | 2026-09-20 | [Indirect-Drive Fusion Target Design for Commercial Fusion Energy](../papers/arxiv-2609-19752/README.md) | arXiv preprint | [笔记](../daily/2026-09-20/notes/Weber et al. - 2026 - Commercial indirect-drive fusion target.md) |
 | 2026-09-18 | [K-shell x-ray spectroscopy: A reliable probe for stimulated Raman scattering in inertial confinement fusion](../papers/arxiv-2609-18423/README.md) | arXiv preprint | [笔记](../daily/2026-09-18/notes/Luo et al. - 2026 - K-shell SRS spectroscopy.md) |

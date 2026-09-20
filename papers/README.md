@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：363 篇
-- 索引更新时间：2026-09-20
+- 当前入库论文：366 篇
+- 索引更新时间：2026-09-21
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-09-21 | [Spectral characteristics and plasma state diagnosis of highly charged iron ions in laser-produced plasma](./10-1088-2058-6272-ae82da/README.md) | Plasma Science and Technology | [10.1088/2058-6272/ae82da](https://doi.org/10.1088/2058-6272/ae82da) |
+| 2026-09-21 | [Overview of achievements and outlook of the IFMIF/EVEDA project](./10-1088-1741-4326-aea171/README.md) | Nuclear Fusion | [10.1088/1741-4326/aea171](https://doi.org/10.1088/1741-4326/aea171) |
+| 2026-09-21 | [Scalable Production of Lead-212 and Actinium-225 Generators with Fusion Neutrons](./arxiv-2609-19166/README.md) | arXiv preprint | [10.48550/arXiv.2609.19166](https://doi.org/10.48550/arXiv.2609.19166) |
 | 2026-09-20 | [A roadmap for strategic pilot experiments at the first plasma-driven x-ray FEL](./10-1007-s44418-026-00013-z/README.md) | Discover Physics | [10.1007/s44418-026-00013-z](https://doi.org/10.1007/s44418-026-00013-z) |
 | 2026-09-20 | [Efficient laser ion acceleration in near-critical density plasmas in the picosecond pulse regime](./arxiv-2609-19571/README.md) | arXiv preprint | [10.48550/arXiv.2609.19571](https://doi.org/10.48550/arXiv.2609.19571) |
 | 2026-09-20 | [Indirect-Drive Fusion Target Design for Commercial Fusion Energy](./arxiv-2609-19752/README.md) | arXiv preprint | [10.48550/arXiv.2609.19752](https://doi.org/10.48550/arXiv.2609.19752) |

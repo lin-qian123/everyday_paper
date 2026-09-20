@@ -1,0 +1,13 @@
+{
+  "ok": false,
+  "output": "daily/2026-09-21/pdfs/Broomhead et al. - 2026 - ML tomography for MAST-U soft x-ray diagnostics.pdf",
+  "attempts": [
+    "[env-proxy] https://iopscience.iop.org/article/10.1088/1361-6587/aea4f2/pdf -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[direct] https://iopscience.iop.org/article/10.1088/1361-6587/aea4f2/pdf -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[env-proxy] https://doi.org/10.1088/1361-6587/aea4f2 -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[direct] https://doi.org/10.1088/1361-6587/aea4f2 -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[env-proxy] https://validate.perfdrive.com/fb803c746e9148689b3984a31fccd902/?ssa=8c26923a-f921-4463-bb87-c03d3a729298&ssb=72547249955&ssc=https%3A%2F%2Fiopscience.iop.org%2Farticle%2F10.1088%2F1361-6587%2Faea4f2&ssi=7ea89812-cnvj-4f25-aa3b-ad4b84c24999&ssk=botmanager_support@radware.com&ssm=92534172924794232106284813825654&ssn=53af6fff8447b77867b5d168492954489cfed0073a7b-f6f1-4244-b74eb5&sso=4bd92db8-f5e70b40252cac22fa9e3a94755e4af56f87952ae956e9b1&ssp=28090037051789968185178998042299910&ssq=66154334569170031068745691499057333169369&ssr=NjYuMTM1LjIxLjIwNg==&sst=everyday-paper-bot/1.0%20(+local%20automation)&ssu=&ssv=&ssw=&ssx=eyJ1em14IjoiN2ZjMDAwYjQ1NjEwZDYtYjY4Ny00NWYwLTgyZTUtYzI1YzcyODhjNTI0MS0xNzg5OTQ1NjkxODI5MC0wMDVlZmFlZWYwYWY0ZDVmYTZkMTAiLCJyZCI6ImlvcC5vcmciLCJfX3V6bWYiOiI3ZjkwMDBkMDA3M2E3Yi1mNmYxLTQyNDQtYmRiOC1mNWU3MGI0MDI1MmMxLTE3ODk5NDU2OTE4MjkwLTAwNWQzZDMxNGVmMmQ1NTNmYjIxMCJ9 -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[direct] https://validate.perfdrive.com/fb803c746e9148689b3984a31fccd902/?ssa=8c26923a-f921-4463-bb87-c03d3a729298&ssb=72547249955&ssc=https%3A%2F%2Fiopscience.iop.org%2Farticle%2F10.1088%2F1361-6587%2Faea4f2&ssi=7ea89812-cnvj-4f25-aa3b-ad4b84c24999&ssk=botmanager_support@radware.com&ssm=92534172924794232106284813825654&ssn=53af6fff8447b77867b5d168492954489cfed0073a7b-f6f1-4244-b74eb5&sso=4bd92db8-f5e70b40252cac22fa9e3a94755e4af56f87952ae956e9b1&ssp=28090037051789968185178998042299910&ssq=66154334569170031068745691499057333169369&ssr=NjYuMTM1LjIxLjIwNg==&sst=everyday-paper-bot/1.0%20(+local%20automation)&ssu=&ssv=&ssw=&ssx=eyJ1em14IjoiN2ZjMDAwYjQ1NjEwZDYtYjY4Ny00NWYwLTgyZTUtYzI1YzcyODhjNTI0MS0xNzg5OTQ1NjkxODI5MC0wMDVlZmFlZWYwYWY0ZDVmYTZkMTAiLCJyZCI6ImlvcC5vcmciLCJfX3V6bWYiOiI3ZjkwMDBkMDA3M2E3Yi1mNmYxLTQyNDQtYmRiOC1mNWU3MGI0MDI1MmMxLTE3ODk5NDU2OTE4MjkwLTAwNWQzZDMxNGVmMmQ1NTNmYjIxMCJ9 -> not pdf (content-type=text/html; charset=UTF-8)"
+  ],
+  "failure_class": "publisher_bot_wall"
+}
