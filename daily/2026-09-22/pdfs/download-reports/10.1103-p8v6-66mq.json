@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "output": "daily/2026-09-22/pdfs/Liu et al. - 2026 - Near-wall electron transport in Hall thrusters.pdf",
+  "source_url": "https://journals.aps.org/pre/pdf/10.1103/p8v6-66mq",
+  "mode": "direct",
+  "attempts": [
+    "[env-proxy] https://journals.aps.org/pre/pdf/10.1103/p8v6-66mq -> HTTP 401"
+  ]
+}

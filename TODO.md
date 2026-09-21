@@ -11,6 +11,8 @@
 
 ## 开发记录
 
+- 2026-09-22：加载 366 条完成台账、18 条重试队列和历史 `daily/`，按 DOI/arXiv identifier、规范化标题、正式版—预印本关系和物理场景去重；官方 arXiv 目标分类已更新到 2026-09-21 批次，并用 Crossref 2026-09-20 至 2026-09-22 元数据及 APS/IOP/PST/DOI 页面复查正式来源。新增正式 PRE `10.1103/p8v6-66mq`、arXiv `10.48550/arXiv.2609.21429` 与 `10.48550/arXiv.2609.22036`，分别覆盖 Hall 推进器近壁 EDI 3D PIC、KSTAR 约束的 EC 微波击穿以及 linac 电子—W 靶后的慢正电子慢化器。3 份官方 PDF 通过 `%PDF-`、32/10/7 页元数据、SHA-256 与非空 `pdftotext`，均完成 MinerU；11 张关键图已解码查看，台账从 366 增至 369，重试队列保持 18。严格区分正式模拟论文、KSTAR 初始击穿实验与 ITER 外推、linac Geant4/扩散模型与激光正电子源；本轮没有运行 AlgoPlasma/PMSL、BREAK、FIST99、MolFlow+、G4beamline/Geant4、热工或束流光学。
+
 - 2026-09-21：加载 363 条完成台账、17 条重试队列和历史 `daily/`，按 DOI/arXiv identifier、规范化标题、摘要与物理场景去重；官方 arXiv 目标分类最新可见批次仍为 2026-09-18，故以 Crossref 2026-09-18 至 2026-09-21 正式元数据和出版商/机构库为主，并补入上轮明确保留的中子—医用同位素专题候选。新增正式 *Plasma Science and Technology* `10.1088/2058-6272/ae82da`、正式 *Nuclear Fusion* `10.1088/1741-4326/aea171` 与 arXiv `10.48550/arXiv.2609.19166`。3 份全文通过 `%PDF-`、10/12/18 页元数据、SHA-256 和非空 `pdftotext`；Zhu/Parisi 完成 MinerU，IFMIF 的 QST 作者/会议稿在 MinerU 两次失败后用本地文本、嵌图与页面渲染 fallback，14 张关键图已解码查看。台账从 363 增至 366；MAST-U ML tomography `10.1088/1361-6587/aea4f2` 因 IOP/Radware 只返回 HTML 新增至重试队列，使其从 17 增至 18。严格区分真实光谱/束流/回路试验、LTE/辐射输运反演、部件级工程验证和 OpenMC/耗减供应情景；本轮没有本地运行 Cowan、SpeIma3D、束流动力学、MCNP6、OpenMC、热工或放化分离。
 
 - 2026-09-20：加载 360 条完成台账、17 条重试队列和历史 `daily/`，按 DOI/arXiv identifier、规范化标题、摘要与物理场景去重；官方 arXiv 目标分类最新可见增量为 2026-09-18 批次，并用 Crossref 2026-09-18 至 2026-09-20 元数据及出版商页面复查正式来源。新增正式 *Discover Physics* `10.1007/s44418-026-00013-z`、arXiv `10.48550/arXiv.2609.19571` 与 `10.48550/arXiv.2609.19752`，分别覆盖 plasma-driven X-ray FEL 先导实验路线、近临界 ESH 激光离子加速和 10 MJ 间接驱动 IFE 靶设计。3 份官方 PDF 通过 `%PDF-`、9/11/19 页元数据、SHA-256 和非空 `pdftotext`，均完成 MinerU；12 张关键图已解码查看，台账从 360 增至 363，重试队列保持 17。严格区分 Perspective/设施预测、作者解析/PIC 与既有实验再对照、NIF 实验锚点与 10 MJ 设计模拟/电站情景；本轮没有本地运行 FEL、SMILEI、HYDRA、LASNEX、pF3D 或原始诊断分析。
@@ -191,6 +193,8 @@
 - `2026-06-09` Cambridge/JPP 3 条、`2026-06-10` arXiv 3 条和 `2026-06-11` arXiv 3 条已在配置恢复后全部补回 PDF，不再是 runtime-blocked 积压。
 
 ## 下一步
+
+- 2026-09-22：台账已至 369 条，重试队列为 18 条。下轮先检查 2026-09-22 官方 arXiv 批次与新正式来源，继续优先寻找能闭合 laser-accelerated beam → converter/catcher → γ/正电子/中子/活化 → 剂量/屏蔽或材料应用的实验全文。Hall 推进器工作需长时间匹配每格粒子数的全域细网格和共设计实验；微波击穿需多程 EC、自洽后击穿模型和独立装置二维扫描；慢正电子方案需用实际激光束流相空间联合靶热、减速腔、磁输运和最终亮度建模后再外推。
 
 - 2026-09-20：台账已至 363 条，重试队列为 17 条。下轮先检查 2026-09-21 官方 arXiv 批次与新正式来源，并继续寻找能闭合 laser-accelerated beam → converter/catcher → γ/中子/活化 → 剂量/屏蔽的实验全文；`arXiv:2609.19166` 可在核素专题中复查。ESH 后续需要在同一 shot 中联合测透射光、时变密度与质子/碳全角谱并跨越 `Λ*`；plasma-FEL 路线需等待实际 photon/pointing/timing 数据；10 MJ IFE 设计需公开输入、跨代码/UQ、缩比 LPI/CBET 以及驱动器—靶注入—腔室—氚端到端验证。
 

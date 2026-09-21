@@ -1,0 +1,69 @@
+{
+  "run_date": "2026-09-22",
+  "latest_official_arxiv_batch": "2026-09-21",
+  "search_summary": {
+    "sources": "official arXiv category and article pages, Crossref 2026-09-20 through 2026-09-22 metadata, APS, IOP, PST, DOI and general web search, plus local multi-source search",
+    "selection_basis": "formal-source priority, newest official arXiv increment, validated full text, topic fit, and non-duplication",
+    "coverage_claim": "targeted, not exhaustive",
+    "local_search_layer_result": "0 usable records"
+  },
+  "deduplication": {
+    "processed_before": 366,
+    "processed_after": 369,
+    "retry_before": 18,
+    "retry_after": 18,
+    "keys": [
+      "DOI or arXiv identifier",
+      "normalized title",
+      "historical daily folders",
+      "retry queue",
+      "formal-version versus preprint title match",
+      "abstract and physical scenario"
+    ]
+  },
+  "added": [
+    "10.1103/p8v6-66mq",
+    "10.48550/arXiv.2609.21429",
+    "10.48550/arXiv.2609.22036"
+  ],
+  "retry_added": [],
+  "skipped": [
+    {
+      "identifier": "10.48550/arXiv.2609.21951",
+      "reason": "azimuthal-mode-decomposition PIC is useful but centered on low-temperature Penning-discharge verification; the formally published 3D PIC study and KSTAR-constrained breakdown work had higher priority"
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.21634",
+      "reason": "semi-analytic thin-foil scattering model is peripheral to the present high-energy converter and plasma priorities"
+    },
+    {
+      "identifier": "10.1088/1741-4326/aea431",
+      "reason": "EAST recovery-index paper overlaps the selected tokamak-startup theme and other official sources date its availability earlier than the latest Crossref update"
+    }
+  ],
+  "pdf_validation": {
+    "valid_documents": 3,
+    "mineru_successes": 3,
+    "selected_and_visually_checked_figures": 11,
+    "details": "daily/2026-09-22/pdf_validation.json"
+  },
+  "evidence_boundaries": [
+    "The Hall-thruster PRE is a formally published, large-scale author 3D PIC/MCC study; its transport maps are not experiments, and the absolute amplitude and late-time structure are not fully grid converged.",
+    "The KSTAR study directly classifies microwave gas breakdown with D-alpha signals, while the Brownian-transport mechanism and ITER 1 MW projection are model results.",
+    "The KSTAR validation is a boundary comparison within roughly a factor of two in pressure and does not validate post-breakdown burn-through, closed-flux formation, or current ramp-up.",
+    "The slow-positron paper is a workshop preprint based on Geant4-Penelope plus an empirical diffusion model; it reports no new measured slow-positron flux.",
+    "The slow-positron driver is a conventional 65 MeV electron linac, so transfer to laser-accelerated electron beams requires new phase-space, heat-load, and transport calculations.",
+    "No AlgoPlasma/PMSL, BREAK, FIST99, MolFlow+, G4beamline, Geant4, neutral-gas, thermal, or beam-optics calculation was rerun locally."
+  ],
+  "validation": {
+    "index_builder": "Indexed 369 papers across 9 categories.",
+    "pytest": "7 passed",
+    "unittest": "7 tests passed",
+    "ledger_checks": "369 records parsed; 365 non-null identifiers are unique; all 369 normalized titles are unique; 18 retry records retained",
+    "note_image_reference_check": "3 notes checked; all 11 unique local image references resolved and decoded",
+    "pdf_header_size_hash_metadata_text_check": "passed for all 3 added documents",
+    "download_report_check": "3 JSON reports parsed"
+  },
+  "git": "commit and push to origin/master after final validation",
+  "status": "success"
+}

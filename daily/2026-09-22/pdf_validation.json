@@ -1,0 +1,63 @@
+{
+  "run_date": "2026-09-22",
+  "all_added_documents_valid": true,
+  "checks": [
+    "%PDF- header",
+    "file MIME/type",
+    "pdfinfo page count and metadata",
+    "SHA-256",
+    "non-empty pdftotext -layout output",
+    "MinerU Markdown and image conversion",
+    "manual inspection of selected figures"
+  ],
+  "documents": [
+    {
+      "identifier": "10.1103/p8v6-66mq",
+      "pdf_path": "daily/2026-09-22/pdfs/Liu et al. - 2026 - Near-wall electron transport in Hall thrusters.pdf",
+      "source_url": "https://journals.aps.org/pre/pdf/10.1103/p8v6-66mq",
+      "download_report": "daily/2026-09-22/pdfs/download-reports/10.1103-p8v6-66mq.json",
+      "bytes": 10221362,
+      "sha256": "f248722f1d8f0103d722b40e6ec1f88d36bb3c3c361389a6ee3e0b4bc336b440",
+      "pages": 32,
+      "pdf_version": "1.3",
+      "text_path": "daily/2026-09-22/pdfs/Liu et al. - 2026 - Near-wall electron transport in Hall thrusters.txt",
+      "text_bytes": 203220,
+      "mineru_batch_id": "7b553087-ea55-4ed8-b51b-bb89d13455b2",
+      "mineru_status": "success",
+      "selected_figures": 3,
+      "valid": true
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.21429",
+      "pdf_path": "daily/2026-09-22/pdfs/Gwak et al. - 2026 - Tokamak microwave gas breakdown.pdf",
+      "source_url": "https://arxiv.org/pdf/2609.21429",
+      "download_report": "daily/2026-09-22/pdfs/download-reports/10.48550-arXiv.2609.21429.json",
+      "bytes": 2502477,
+      "sha256": "3e27a1782b7d3502031b9f3c17531aad83790a62c98a2afffaa261758a844cbe",
+      "pages": 10,
+      "pdf_version": "1.7",
+      "text_path": "daily/2026-09-22/pdfs/Gwak et al. - 2026 - Tokamak microwave gas breakdown.txt",
+      "text_bytes": 90065,
+      "mineru_batch_id": "a0abfa7a-08c8-4b0f-acaa-866309827442",
+      "mineru_status": "success",
+      "selected_figures": 4,
+      "valid": true
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.22036",
+      "pdf_path": "daily/2026-09-22/pdfs/Crisp et al. - 2026 - Moderator modeling for slow positron sources.pdf",
+      "source_url": "https://arxiv.org/pdf/2609.22036",
+      "download_report": "daily/2026-09-22/pdfs/download-reports/10.48550-arXiv.2609.22036.json",
+      "bytes": 622599,
+      "sha256": "324e88a8cf5bfb7e4555cf9e2e9a09fb483775e0acbb9c312e2081ceef58f085",
+      "pages": 7,
+      "pdf_version": "1.7",
+      "text_path": "daily/2026-09-22/pdfs/Crisp et al. - 2026 - Moderator modeling for slow positron sources.txt",
+      "text_bytes": 23746,
+      "mineru_batch_id": "8f765808-1513-4e85-bf8c-49fef95cf208",
+      "mineru_status": "success",
+      "selected_figures": 4,
+      "valid": true
+    }
+  ]
+}

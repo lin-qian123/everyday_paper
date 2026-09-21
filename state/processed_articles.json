@@ -4196,5 +4196,53 @@
       "general-plasma-and-methods"
     ],
     "normalized_title": "scalable production of lead 212 and actinium 225 generators with fusion neutrons"
+  },
+  {
+    "title": "Near-wall pathways of anomalous electron transport in Hall thrusters revealed by three-dimensional particle-in-cell simulations",
+    "doi": "10.1103/p8v6-66mq",
+    "journal": "Physical Review E",
+    "publication_date": "2026-09-21",
+    "processed_date": "2026-09-22",
+    "source_url": "https://doi.org/10.1103/p8v6-66mq",
+    "pdf_path": "daily/2026-09-22/pdfs/Liu et al. - 2026 - Near-wall electron transport in Hall thrusters.pdf",
+    "note_path": "daily/2026-09-22/notes/Liu et al. - 2026 - Near-wall electron transport in Hall thrusters.md",
+    "categories": [
+      "pic-and-plasma-simulation",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "near wall pathways of anomalous electron transport in hall thrusters revealed by three dimensional particle in cell simulations"
+  },
+  {
+    "title": "Mechanism of Ionization Avalanche in Tokamak Microwave Gas Breakdown",
+    "doi": "10.48550/arXiv.2609.21429",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-18",
+    "processed_date": "2026-09-22",
+    "source_url": "https://arxiv.org/abs/2609.21429",
+    "pdf_path": "daily/2026-09-22/pdfs/Gwak et al. - 2026 - Tokamak microwave gas breakdown.pdf",
+    "note_path": "daily/2026-09-22/notes/Gwak et al. - 2026 - Tokamak microwave gas breakdown.md",
+    "categories": [
+      "magnetic-fusion-and-alpha-particles",
+      "pic-and-plasma-simulation",
+      "experimental-platforms-diagnostics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "mechanism of ionization avalanche in tokamak microwave gas breakdown"
+  },
+  {
+    "title": "Moderator Modeling for High Intensity Slow Positron Sources",
+    "doi": "10.48550/arXiv.2609.22036",
+    "journal": "arXiv preprint / LEEPP2026 workshop",
+    "publication_date": "2026-09-18",
+    "processed_date": "2026-09-22",
+    "source_url": "https://arxiv.org/abs/2609.22036",
+    "pdf_path": "daily/2026-09-22/pdfs/Crisp et al. - 2026 - Moderator modeling for slow positron sources.pdf",
+    "note_path": "daily/2026-09-22/notes/Crisp et al. - 2026 - Slow positron moderator modeling.md",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "experimental-platforms-diagnostics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "moderator modeling for high intensity slow positron sources"
   }
 ]

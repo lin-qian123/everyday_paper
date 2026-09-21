@@ -9,7 +9,7 @@
 - [索引文件](#索引文件)
 - [仓库结构](#仓库结构)
 - [分类索引](#分类索引)
-- [当前状态](#当前状态2026-09-21)
+- [当前状态](#当前状态2026-09-22)
 - [去重规则](#去重规则)
 - [PDF 下载稳健性](#pdf-下载稳健性)
 - [维护约定](#维护约定)
@@ -78,6 +78,12 @@
 - `INDEX.md`: 总索引
 - `state/processed_articles.json`: 已处理论文去重台账
 - `templates/daily-index-template.md`: 每日索引模板
+
+## 当前状态（2026-09-22）
+
+- 已维护到 `daily/2026-09-22/`。本轮新增正式 *Physical Review E* `10.1103/p8v6-66mq`、arXiv `10.48550/arXiv.2609.21429` 与 `10.48550/arXiv.2609.22036`，分别覆盖 Hall 推进器近壁 EDI 异常输运的 3D PIC、KSTAR 实验约束的 EC 微波气体击穿 Monte Carlo，以及高能电子—高 Z 靶后慢正电子慢化器的 Geant4/扩散设计。
+- 3 份全文通过 `%PDF-`、`file`、`pdfinfo`、SHA-256 和非空 `pdftotext -layout`，均完成 MinerU；台账从 366 增至 369 条，18 条结构化重试项不变，本轮保留并逐张查看 11 张关键图。正式 PRE 与同题 `arXiv:2603.14849` 作者稿按同一作品去重，只建立正式 DOI 记录。
+- 证据边界：Liu 全部是作者 3D PIC/MCC，近壁拓扑的质性存在有多边界/早期细网格支持，但绝对迁移率、高波数谱和晚期结构尚未完全收敛；Gwak 的 KSTAR `Dα` 阈值是实验，Brownian 机制和 `1 MW, 2 mPa` ITER 气体击穿是模型外推且不包含 burn-through/电流爬升；Crisp 是 linac 条件的 Geant4-Penelope workshop 预印本，不是激光正电子源实验或完整 start-to-end 效率。本轮没有本地运行 AlgoPlasma/PMSL、BREAK、FIST99、MolFlow+、G4beamline、Geant4、热工或束流光学。
 
 ## 当前状态（2026-09-21）
 

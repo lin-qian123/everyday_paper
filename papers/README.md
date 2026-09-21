@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：366 篇
-- 索引更新时间：2026-09-21
+- 当前入库论文：369 篇
+- 索引更新时间：2026-09-22
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-09-22 | [Near-wall pathways of anomalous electron transport in Hall thrusters revealed by three-dimensional particle-in-cell simulations](./10-1103-p8v6-66mq/README.md) | Physical Review E | [10.1103/p8v6-66mq](https://doi.org/10.1103/p8v6-66mq) |
+| 2026-09-22 | [Mechanism of Ionization Avalanche in Tokamak Microwave Gas Breakdown](./arxiv-2609-21429/README.md) | arXiv preprint | [10.48550/arXiv.2609.21429](https://doi.org/10.48550/arXiv.2609.21429) |
+| 2026-09-22 | [Moderator Modeling for High Intensity Slow Positron Sources](./arxiv-2609-22036/README.md) | arXiv preprint / LEEPP2026 workshop | [10.48550/arXiv.2609.22036](https://doi.org/10.48550/arXiv.2609.22036) |
 | 2026-09-21 | [Spectral characteristics and plasma state diagnosis of highly charged iron ions in laser-produced plasma](./10-1088-2058-6272-ae82da/README.md) | Plasma Science and Technology | [10.1088/2058-6272/ae82da](https://doi.org/10.1088/2058-6272/ae82da) |
 | 2026-09-21 | [Overview of achievements and outlook of the IFMIF/EVEDA project](./10-1088-1741-4326-aea171/README.md) | Nuclear Fusion | [10.1088/1741-4326/aea171](https://doi.org/10.1088/1741-4326/aea171) |
 | 2026-09-21 | [Scalable Production of Lead-212 and Actinium-225 Generators with Fusion Neutrons](./arxiv-2609-19166/README.md) | arXiv preprint | [10.48550/arXiv.2609.19166](https://doi.org/10.48550/arXiv.2609.19166) |

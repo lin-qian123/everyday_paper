@@ -2,11 +2,14 @@
 
 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。
 
-- 当前收录：56 篇
-- 索引更新时间：2026-09-21
+- 当前收录：59 篇
+- 索引更新时间：2026-09-22
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-22 | [Near-wall pathways of anomalous electron transport in Hall thrusters revealed by three-dimensional particle-in-cell simulations](../papers/10-1103-p8v6-66mq/README.md) | Physical Review E | [笔记](../daily/2026-09-22/notes/Liu et al. - 2026 - Near-wall electron transport in Hall thrusters.md) |
+| 2026-09-22 | [Mechanism of Ionization Avalanche in Tokamak Microwave Gas Breakdown](../papers/arxiv-2609-21429/README.md) | arXiv preprint | [笔记](../daily/2026-09-22/notes/Gwak et al. - 2026 - Tokamak microwave gas breakdown.md) |
+| 2026-09-22 | [Moderator Modeling for High Intensity Slow Positron Sources](../papers/arxiv-2609-22036/README.md) | arXiv preprint / LEEPP2026 workshop | [笔记](../daily/2026-09-22/notes/Crisp et al. - 2026 - Slow positron moderator modeling.md) |
 | 2026-09-21 | [Spectral characteristics and plasma state diagnosis of highly charged iron ions in laser-produced plasma](../papers/10-1088-2058-6272-ae82da/README.md) | Plasma Science and Technology | [笔记](../daily/2026-09-21/notes/Zhu et al. - 2026 - Highly charged iron plasma spectral diagnosis.md) |
 | 2026-09-21 | [Overview of achievements and outlook of the IFMIF/EVEDA project](../papers/10-1088-1741-4326-aea171/README.md) | Nuclear Fusion | [笔记](../daily/2026-09-21/notes/Hasegawa et al. - 2026 - IFMIF EVEDA achievements and outlook.md) |
 | 2026-09-21 | [Scalable Production of Lead-212 and Actinium-225 Generators with Fusion Neutrons](../papers/arxiv-2609-19166/README.md) | arXiv preprint | [笔记](../daily/2026-09-21/notes/Parisi and Rutkowski - 2026 - Fusion neutrons for isotope generators.md) |
