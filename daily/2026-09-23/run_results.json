@@ -1,0 +1,69 @@
+{
+  "run_date": "2026-09-23",
+  "latest_official_arxiv_batch": "2026-09-22",
+  "search_summary": {
+    "sources": "official arXiv category and article pages, Crossref 2026-09-21 through 2026-09-23 metadata, APS DOI and harvest full-text endpoints, general web search, plus local multi-source search",
+    "selection_basis": "formal-source priority, recovered verified full text, newest official arXiv increment, topic fit, and non-duplication",
+    "coverage_claim": "targeted, not exhaustive",
+    "local_search_layer_result": "0 usable records"
+  },
+  "deduplication": {
+    "processed_before": 369,
+    "processed_after": 372,
+    "retry_before": 18,
+    "retry_after": 18,
+    "keys": [
+      "DOI or arXiv identifier",
+      "normalized title",
+      "historical daily folders",
+      "retry queue",
+      "formal-version versus preprint title match",
+      "abstract and physical scenario"
+    ]
+  },
+  "added": [
+    "10.1103/d45l-hsgg",
+    "10.1103/f9xt-jpd1",
+    "10.48550/arXiv.2609.23358"
+  ],
+  "recovered_blocked_candidate": "10.1103/d45l-hsgg had been recorded in earlier daily notes as APS full-text blocked; the official APS harvest endpoint returned a verified PDF on this run",
+  "retry_added": [],
+  "skipped": [
+    {
+      "identifier": "10.48550/arXiv.2609.23141",
+      "reason": "real-time FPGA reservoir prediction is relevant, but the selected PhySKIP paper measures an in-solver time-jump and reanchoring workflow while two newly published APS papers had formal-source priority"
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.22627",
+      "reason": "the interacting-filament experiment is useful plasma physics but less directly tied to the current laser-beam, PIC, radiation, and ML priorities"
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.23437",
+      "reason": "the PIC debris-localization study is an idealized cold-ion proof of principle and more peripheral than the selected beam-quality and radiative-turbulence papers"
+    }
+  ],
+  "pdf_validation": {
+    "valid_documents": 3,
+    "mineru_successes": 3,
+    "selected_and_visually_checked_figures": 14,
+    "details": "daily/2026-09-23/pdf_validation.json"
+  },
+  "evidence_boundaries": [
+    "The cone-guided proton result is an author EPOCH 2D/3D PIC and ballistic-propagation study, not a proton-beam experiment; the reported 63% energy-spread and 46% focal-radius improvements are relative to the selected simulated planar baseline.",
+    "The radiative-turbulence PRD is a 2D decaying weakly excited electron-positron EPOCH study; its pitch-angle exponents are model-dependent and have no direct observation or laboratory validation in the paper.",
+    "PhySKIP accelerates a 1D drift-diffusion-Poisson nitrogen-discharge solver, not PIC; the 4.70x maximum uses one logical CPU and excludes loading and diagnostic output.",
+    "The PhySKIP development cases contributed to checkpoint selection, and its 500 ns completion tests are not a general long-time stability proof.",
+    "No EPOCH, PASCHEN-1D, CNN training, particle phase-space reconstruction, detector response, or experimental analysis was rerun locally."
+  ],
+  "validation": {
+    "index_builder": "Indexed 372 papers across 9 categories.",
+    "pytest": "7 passed",
+    "unittest": "7 tests passed",
+    "ledger_checks": "372 records parsed; 368 non-null identifiers are unique; all 372 normalized titles are unique; 18 retry records retained",
+    "note_image_reference_check": "3 notes checked; all 14 unique local image references resolved and decoded",
+    "pdf_header_size_hash_metadata_text_check": "passed for all 3 added documents",
+    "download_report_check": "3 JSON reports parsed"
+  },
+  "git": "commit and push to origin/master after final validation",
+  "status": "success"
+}

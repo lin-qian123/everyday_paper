@@ -2,11 +2,12 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：120 篇
-- 索引更新时间：2026-09-22
+- 当前收录：121 篇
+- 索引更新时间：2026-09-23
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-23 | [Cone-guided phase-space control of laser-driven proton beams](../papers/10-1103-d45l-hsgg/README.md) | Physical Review E | [笔记](../daily/2026-09-23/notes/Chintalwad and Stark - 2026 - Cone-guided proton beam control.md) |
 | 2026-09-20 | [A roadmap for strategic pilot experiments at the first plasma-driven x-ray FEL](../papers/10-1007-s44418-026-00013-z/README.md) | Discover Physics | [笔记](../daily/2026-09-20/notes/Principi - 2026 - Plasma-driven x-ray FEL pilot roadmap.md) |
 | 2026-09-20 | [Efficient laser ion acceleration in near-critical density plasmas in the picosecond pulse regime](../papers/arxiv-2609-19571/README.md) | arXiv preprint | [笔记](../daily/2026-09-20/notes/Luoma et al. - 2026 - Efficient laser ion acceleration ESH.md) |
 | 2026-09-18 | [Kilojoule-scale laser acceleration enabling efficient generation of electron-positron and muon beams](../papers/arxiv-2609-18775/README.md) | arXiv preprint | [笔记](../daily/2026-09-18/notes/Babjak et al. - 2026 - Kilojoule DLA positron and muon beams.md) |

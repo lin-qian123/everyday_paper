@@ -2,11 +2,12 @@
 
 强场量子效应、辐射反作用、非线性 Compton、pair production 与极端场实验。
 
-- 当前收录：61 篇
-- 索引更新时间：2026-09-22
+- 当前收录：62 篇
+- 索引更新时间：2026-09-23
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-23 | [Anisotropy and energy distribution of leptons and photons in radiative relativistic Alfvénic turbulence](../papers/10-1103-f9xt-jpd1/README.md) | Physical Review D | [笔记](../daily/2026-09-23/notes/Liu et al. - 2026 - Radiative relativistic Alfvenic turbulence.md) |
 | 2026-09-13 | [Two-Phase Structure of Synchrotron-Cooling-Unstable Relativistic Plasma](../papers/arxiv-2609-07793/README.md) | arXiv preprint | [笔记](../daily/2026-09-13/notes/Wierzchucka et al. - 2026 - Two-phase synchrotron-cooling-unstable relativistic plasma.md) |
 | 2026-09-11 | [High-charge, highly polarized positron beams generated from a laser-driven nanowire-array target](../papers/arxiv-2609-09908/README.md) | arXiv preprint | [笔记](../daily/2026-09-11/notes/Zhang et al. - 2026 - High-charge polarized positrons from nanowire target.md) |
 | 2026-09-10 | [Self-organized positron reorienting and pinching mechanism for the experimental detection of the linear Breit-Wheeler process](../papers/arxiv-2609-07584/README.md) | arXiv preprint | [笔记](../daily/2026-09-10/notes/He et al. - 2026 - Self-organized positron reorienting for linear Breit-Wheeler.md) |

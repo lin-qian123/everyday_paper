@@ -11,6 +11,8 @@
 
 ## 开发记录
 
+- 2026-09-23：加载 369 条完成台账、18 条重试队列和历史 `daily/`，按 DOI/arXiv identifier、规范化标题、正式版—预印本关系和物理场景去重；官方 arXiv 目标分类已更新到 2026-09-22 批次，并用 Crossref 2026-09-21 至 2026-09-23 元数据及 APS/DOI 页面复查正式来源。新增正式 PRE `10.1103/d45l-hsgg`、正式 PRD `10.1103/f9xt-jpd1` 与 arXiv `10.48550/arXiv.2609.23358`；前者是此前 APS 常规全文受阻候选，本轮由 APS harvest 正式端点恢复。3 份 PDF 均通过文件、页数、哈希和文本校验并完成 MinerU，保留 14 张人工查看图；台账增至 372 条，18 条重试项不变。边界是两篇 APS 均为作者 EPOCH PIC，PhySKIP 仅是一维漂移—扩散流体求解器的作者 CPU 基准；本地未重跑 EPOCH、PASCHEN-1D、训练、相空间或观测响应。
+
 - 2026-09-22：加载 366 条完成台账、18 条重试队列和历史 `daily/`，按 DOI/arXiv identifier、规范化标题、正式版—预印本关系和物理场景去重；官方 arXiv 目标分类已更新到 2026-09-21 批次，并用 Crossref 2026-09-20 至 2026-09-22 元数据及 APS/IOP/PST/DOI 页面复查正式来源。新增正式 PRE `10.1103/p8v6-66mq`、arXiv `10.48550/arXiv.2609.21429` 与 `10.48550/arXiv.2609.22036`，分别覆盖 Hall 推进器近壁 EDI 3D PIC、KSTAR 约束的 EC 微波击穿以及 linac 电子—W 靶后的慢正电子慢化器。3 份官方 PDF 通过 `%PDF-`、32/10/7 页元数据、SHA-256 与非空 `pdftotext`，均完成 MinerU；11 张关键图已解码查看，台账从 366 增至 369，重试队列保持 18。严格区分正式模拟论文、KSTAR 初始击穿实验与 ITER 外推、linac Geant4/扩散模型与激光正电子源；本轮没有运行 AlgoPlasma/PMSL、BREAK、FIST99、MolFlow+、G4beamline/Geant4、热工或束流光学。
 
 - 2026-09-21：加载 363 条完成台账、17 条重试队列和历史 `daily/`，按 DOI/arXiv identifier、规范化标题、摘要与物理场景去重；官方 arXiv 目标分类最新可见批次仍为 2026-09-18，故以 Crossref 2026-09-18 至 2026-09-21 正式元数据和出版商/机构库为主，并补入上轮明确保留的中子—医用同位素专题候选。新增正式 *Plasma Science and Technology* `10.1088/2058-6272/ae82da`、正式 *Nuclear Fusion* `10.1088/1741-4326/aea171` 与 arXiv `10.48550/arXiv.2609.19166`。3 份全文通过 `%PDF-`、10/12/18 页元数据、SHA-256 和非空 `pdftotext`；Zhu/Parisi 完成 MinerU，IFMIF 的 QST 作者/会议稿在 MinerU 两次失败后用本地文本、嵌图与页面渲染 fallback，14 张关键图已解码查看。台账从 363 增至 366；MAST-U ML tomography `10.1088/1361-6587/aea4f2` 因 IOP/Radware 只返回 HTML 新增至重试队列，使其从 17 增至 18。严格区分真实光谱/束流/回路试验、LTE/辐射输运反演、部件级工程验证和 OpenMC/耗减供应情景；本轮没有本地运行 Cowan、SpeIma3D、束流动力学、MCNP6、OpenMC、热工或放化分离。
@@ -187,12 +189,14 @@
 
 ## 阻塞点
 
-- 队列里的 12 条旧阻塞已明确是来源侧访问限制：Elsevier `HTTP 403`、Nature cookie wall、IOP bot wall。
-- APS `10.1103/p7k8-mjn7`、`10.1103/nc7w-yr34`、`10.1103/mbn4-fd4v`、`10.1103/k23j-c9y7` 与 `10.1103/mmc9-nzfx` 在 2026-09-14 复查时，accepted/article 与 DOI 的代理/直连路径仍全部返回 `HTTP 403`；其中 `mmc9-nzfx` 的 accepted manuscript 标注延迟到 2027-09-10 开放，五条继续留在结构化重试队列。
-- APS accepted 论文 `10.1103/sgyf-lrw1`、`10.1103/2rqf-hq77` 与 `10.1103/d45l-hsgg` 的 accepted / DOI 路径在 2026-09-10 经项目安全下载器复查仍全部返回 `HTTP 403` HTML，当前未找到开放作者稿；只保留元数据候选，待 version of record 或合法作者稿开放后再入库。
+- 队列里的 14 条非 APS 阻塞已明确是来源侧访问限制：10 条 Elsevier `HTTP 403`、1 条 Nature cookie wall、3 条 IOP/Radware 验证页。
+- APS `10.1103/p7k8-mjn7`、`10.1103/nc7w-yr34`、`10.1103/k23j-c9y7` 与 `10.1103/mmc9-nzfx` 仍在结构化重试队列；其中 `mmc9-nzfx` 的 accepted manuscript 标注延迟到 2027-09-10 开放。
+- APS 候选 `10.1103/d45l-hsgg` 已在 2026-09-23 通过 APS harvest 正式全文端点恢复并入库，不再属于阻塞候选；`10.1103/sgyf-lrw1` 与 `10.1103/2rqf-hq77` 仍待 version of record 或合法作者稿开放。
 - `2026-06-09` Cambridge/JPP 3 条、`2026-06-10` arXiv 3 条和 `2026-06-11` arXiv 3 条已在配置恢复后全部补回 PDF，不再是 runtime-blocked 积压。
 
 ## 下一步
+
+- 2026-09-23：台账已至 372 条，重试队列为 18 条。下轮先检查 2026-09-23 官方 arXiv 批次与新正式来源，并继续优先寻找能闭合 laser-accelerated beam → converter/catcher → γ/正电子/中子/活化 → 剂量/屏蔽或材料应用的实验全文。锥靶结果需要实验、制造误差和真实下游输运验证；辐射湍流标度需要三维、电子—离子与观测响应检验；PhySKIP 需要公开权重/代码、盲测和 PIC/多维端到端实现后再外推。
 
 - 2026-09-22：台账已至 369 条，重试队列为 18 条。下轮先检查 2026-09-22 官方 arXiv 批次与新正式来源，继续优先寻找能闭合 laser-accelerated beam → converter/catcher → γ/正电子/中子/活化 → 剂量/屏蔽或材料应用的实验全文。Hall 推进器工作需长时间匹配每格粒子数的全域细网格和共设计实验；微波击穿需多程 EC、自洽后击穿模型和独立装置二维扫描；慢正电子方案需用实际激光束流相空间联合靶热、减速腔、磁输运和最终亮度建模后再外推。
 

@@ -2,11 +2,14 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：155 篇
-- 索引更新时间：2026-09-22
+- 当前收录：158 篇
+- 索引更新时间：2026-09-23
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-23 | [Cone-guided phase-space control of laser-driven proton beams](../papers/10-1103-d45l-hsgg/README.md) | Physical Review E | [笔记](../daily/2026-09-23/notes/Chintalwad and Stark - 2026 - Cone-guided proton beam control.md) |
+| 2026-09-23 | [Anisotropy and energy distribution of leptons and photons in radiative relativistic Alfvénic turbulence](../papers/10-1103-f9xt-jpd1/README.md) | Physical Review D | [笔记](../daily/2026-09-23/notes/Liu et al. - 2026 - Radiative relativistic Alfvenic turbulence.md) |
+| 2026-09-23 | [Machine Learning Accelerated Plasma Simulation through Physics Guided Time Jumps](../papers/arxiv-2609-23358/README.md) | arXiv preprint | [笔记](../daily/2026-09-23/notes/Iqbal and Zhang - 2026 - ML accelerated plasma simulation.md) |
 | 2026-09-22 | [Near-wall pathways of anomalous electron transport in Hall thrusters revealed by three-dimensional particle-in-cell simulations](../papers/10-1103-p8v6-66mq/README.md) | Physical Review E | [笔记](../daily/2026-09-22/notes/Liu et al. - 2026 - Near-wall electron transport in Hall thrusters.md) |
 | 2026-09-22 | [Mechanism of Ionization Avalanche in Tokamak Microwave Gas Breakdown](../papers/arxiv-2609-21429/README.md) | arXiv preprint | [笔记](../daily/2026-09-22/notes/Gwak et al. - 2026 - Tokamak microwave gas breakdown.md) |
 | 2026-09-20 | [Efficient laser ion acceleration in near-critical density plasmas in the picosecond pulse regime](../papers/arxiv-2609-19571/README.md) | arXiv preprint | [笔记](../daily/2026-09-20/notes/Luoma et al. - 2026 - Efficient laser ion acceleration ESH.md) |

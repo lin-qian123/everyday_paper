@@ -2,11 +2,12 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：79 篇
-- 索引更新时间：2026-09-22
+- 当前收录：80 篇
+- 索引更新时间：2026-09-23
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-23 | [Cone-guided phase-space control of laser-driven proton beams](../papers/10-1103-d45l-hsgg/README.md) | Physical Review E | [笔记](../daily/2026-09-23/notes/Chintalwad and Stark - 2026 - Cone-guided proton beam control.md) |
 | 2026-09-22 | [Moderator Modeling for High Intensity Slow Positron Sources](../papers/arxiv-2609-22036/README.md) | arXiv preprint / LEEPP2026 workshop | [笔记](../daily/2026-09-22/notes/Crisp et al. - 2026 - Slow positron moderator modeling.md) |
 | 2026-09-21 | [Scalable Production of Lead-212 and Actinium-225 Generators with Fusion Neutrons](../papers/arxiv-2609-19166/README.md) | arXiv preprint | [笔记](../daily/2026-09-21/notes/Parisi and Rutkowski - 2026 - Fusion neutrons for isotope generators.md) |
 | 2026-09-20 | [A roadmap for strategic pilot experiments at the first plasma-driven x-ray FEL](../papers/10-1007-s44418-026-00013-z/README.md) | Discover Physics | [笔记](../daily/2026-09-20/notes/Principi - 2026 - Plasma-driven x-ray FEL pilot roadmap.md) |

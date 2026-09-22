@@ -4244,5 +4244,55 @@
       "general-plasma-and-methods"
     ],
     "normalized_title": "moderator modeling for high intensity slow positron sources"
+  },
+  {
+    "title": "Cone-guided phase-space control of laser-driven proton beams",
+    "doi": "10.1103/d45l-hsgg",
+    "journal": "Physical Review E",
+    "publication_date": "2026-09-22",
+    "processed_date": "2026-09-23",
+    "source_url": "https://doi.org/10.1103/d45l-hsgg",
+    "pdf_path": "daily/2026-09-23/pdfs/Chintalwad and Stark - 2026 - Cone-guided proton beam control.pdf",
+    "note_path": "daily/2026-09-23/notes/Chintalwad and Stark - 2026 - Cone-guided proton beam control.md",
+    "categories": [
+      "laser-plasma-acceleration",
+      "laser-accelerated-beam-applications",
+      "hedp-icf-laboratory-astrophysics",
+      "pic-and-plasma-simulation",
+      "experimental-platforms-diagnostics"
+    ],
+    "normalized_title": "cone guided phase space control of laser driven proton beams"
+  },
+  {
+    "title": "Anisotropy and energy distribution of leptons and photons in radiative relativistic Alfvénic turbulence",
+    "doi": "10.1103/f9xt-jpd1",
+    "journal": "Physical Review D",
+    "publication_date": "2026-09-22",
+    "processed_date": "2026-09-23",
+    "source_url": "https://doi.org/10.1103/f9xt-jpd1",
+    "pdf_path": "daily/2026-09-23/pdfs/Liu et al. - 2026 - Radiative relativistic Alfvenic turbulence.pdf",
+    "note_path": "daily/2026-09-23/notes/Liu et al. - 2026 - Radiative relativistic Alfvenic turbulence.md",
+    "categories": [
+      "strong-field-qed-radiation",
+      "pic-and-plasma-simulation",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "anisotropy and energy distribution of leptons and photons in radiative relativistic alfvenic turbulence"
+  },
+  {
+    "title": "Machine Learning Accelerated Plasma Simulation through Physics Guided Time Jumps",
+    "doi": "10.48550/arXiv.2609.23358",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-20",
+    "processed_date": "2026-09-23",
+    "source_url": "https://arxiv.org/abs/2609.23358",
+    "pdf_path": "daily/2026-09-23/pdfs/Iqbal and Zhang - 2026 - ML accelerated plasma simulation.pdf",
+    "note_path": "daily/2026-09-23/notes/Iqbal and Zhang - 2026 - ML accelerated plasma simulation.md",
+    "categories": [
+      "ai-ml-plasma-physics",
+      "pic-and-plasma-simulation",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "machine learning accelerated plasma simulation through physics guided time jumps"
   }
 ]
