@@ -2,11 +2,13 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：158 篇
-- 索引更新时间：2026-09-23
+- 当前收录：160 篇
+- 索引更新时间：2026-09-24
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-24 | [Nonthermal electron acceleration and transition probability density in turbulent wakefields driven by an intense laser pulse](../papers/10-1103-nc7w-yr34/README.md) | Physical Review E | [笔记](../daily/2026-09-24/notes/Liu and Kuramitsu - 2026 - Nonthermal wakefield acceleration.md) |
+| 2026-09-24 | [Stable 50 MeV Beams from a 100 Hz Laser-Wakefield Accelerator Driven by an OPCPA Laser](../papers/arxiv-2609-26390/README.md) | arXiv preprint | [笔记](../daily/2026-09-24/notes/Smartsev et al. - 2026 - Stable 100 Hz LWFA beams.md) |
 | 2026-09-23 | [Cone-guided phase-space control of laser-driven proton beams](../papers/10-1103-d45l-hsgg/README.md) | Physical Review E | [笔记](../daily/2026-09-23/notes/Chintalwad and Stark - 2026 - Cone-guided proton beam control.md) |
 | 2026-09-23 | [Anisotropy and energy distribution of leptons and photons in radiative relativistic Alfvénic turbulence](../papers/10-1103-f9xt-jpd1/README.md) | Physical Review D | [笔记](../daily/2026-09-23/notes/Liu et al. - 2026 - Radiative relativistic Alfvenic turbulence.md) |
 | 2026-09-23 | [Machine Learning Accelerated Plasma Simulation through Physics Guided Time Jumps](../papers/arxiv-2609-23358/README.md) | arXiv preprint | [笔记](../daily/2026-09-23/notes/Iqbal and Zhang - 2026 - ML accelerated plasma simulation.md) |

@@ -1,0 +1,68 @@
+{
+  "run_date": "2026-09-24",
+  "all_added_documents_valid": true,
+  "checks": [
+    "%PDF- header",
+    "file MIME/type",
+    "pdfinfo page count and metadata",
+    "SHA-256",
+    "non-empty pdftotext -layout output",
+    "local page rendering after MinerU service failure",
+    "manual inspection of selected figures"
+  ],
+  "mineru_summary": {
+    "usable_successes": 0,
+    "failures": 3,
+    "details": "Primary and alternate official URLs did not yield parsed paper content. The APS alternate URL returned only a bot-verification page and was rejected as a false success. Local text and rendered-page fallback was used for all three documents."
+  },
+  "documents": [
+    {
+      "identifier": "10.1103/nc7w-yr34",
+      "pdf_path": "daily/2026-09-24/pdfs/Liu et al. - 2026 - Nonthermal electron acceleration in turbulent wakefields.pdf",
+      "source_url": "https://harvest.aps.org/v2/journals/articles/10.1103/nc7w-yr34/fulltext",
+      "download_report": "daily/2026-09-24/pdfs/download-reports/10.1103-nc7w-yr34.json",
+      "bytes": 2528525,
+      "sha256": "acb1bbbe1569a5c22299e6216750bd2c30277d158c2d62f3bdfd17a4bf4284ba",
+      "pages": 11,
+      "pdf_version": "1.3",
+      "text_path": "daily/2026-09-24/pdfs/Liu et al. - 2026 - Nonthermal electron acceleration in turbulent wakefields.txt",
+      "text_bytes": 72095,
+      "mineru_status": "failed; alternate URL returned non-paper security verification page",
+      "fallback": "pdftotext plus rendered-page inspection",
+      "selected_figures": 6,
+      "valid": true
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.26390",
+      "pdf_path": "daily/2026-09-24/pdfs/Smartsev et al. - 2026 - Stable 100 Hz LWFA beams.pdf",
+      "source_url": "https://arxiv.org/pdf/2609.26390",
+      "download_report": "daily/2026-09-24/pdfs/download-reports/10.48550-arXiv.2609.26390.json",
+      "bytes": 6688309,
+      "sha256": "b374b312bf3bfd11f5791bf2cc85648c1673518fad1bfc6f058ad1b311991c8a",
+      "pages": 18,
+      "pdf_version": "1.7",
+      "text_path": "daily/2026-09-24/pdfs/Smartsev et al. - 2026 - Stable 100 Hz LWFA beams.txt",
+      "text_bytes": 98216,
+      "mineru_status": "failed on primary and export.arxiv.org URLs",
+      "fallback": "pdftotext plus rendered-page inspection",
+      "selected_figures": 5,
+      "valid": true
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.25984",
+      "pdf_path": "daily/2026-09-24/pdfs/Gheorghe et al. - 2026 - Ho and Tm photoneutron reactions.pdf",
+      "source_url": "https://arxiv.org/pdf/2609.25984",
+      "download_report": "daily/2026-09-24/pdfs/download-reports/10.48550-arXiv.2609.25984.json",
+      "bytes": 3025100,
+      "sha256": "7eabce2bbb4bf7d0fdf9bd6cdec89d96ddbcd136cf56168dbc03e3c5c31b276a",
+      "pages": 17,
+      "pdf_version": "1.7",
+      "text_path": "daily/2026-09-24/pdfs/Gheorghe et al. - 2026 - Ho and Tm photoneutron reactions.txt",
+      "text_bytes": 135473,
+      "mineru_status": "failed on primary and export.arxiv.org URLs",
+      "fallback": "pdftotext plus rendered-page inspection",
+      "selected_figures": 6,
+      "valid": true
+    }
+  ]
+}

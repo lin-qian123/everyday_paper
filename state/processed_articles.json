@@ -4294,5 +4294,55 @@
       "general-plasma-and-methods"
     ],
     "normalized_title": "machine learning accelerated plasma simulation through physics guided time jumps"
+  },
+  {
+    "title": "Nonthermal electron acceleration and transition probability density in turbulent wakefields driven by an intense laser pulse",
+    "doi": "10.1103/nc7w-yr34",
+    "journal": "Physical Review E",
+    "publication_date": "2026-09-23",
+    "processed_date": "2026-09-24",
+    "source_url": "https://doi.org/10.1103/nc7w-yr34",
+    "pdf_path": "daily/2026-09-24/pdfs/Liu et al. - 2026 - Nonthermal electron acceleration in turbulent wakefields.pdf",
+    "note_path": "daily/2026-09-24/notes/Liu and Kuramitsu - 2026 - Nonthermal wakefield acceleration.md",
+    "categories": [
+      "laser-plasma-acceleration",
+      "hedp-icf-laboratory-astrophysics",
+      "pic-and-plasma-simulation",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "nonthermal electron acceleration and transition probability density in turbulent wakefields driven by an intense laser pulse"
+  },
+  {
+    "title": "Stable 50 MeV Beams from a 100 Hz Laser-Wakefield Accelerator Driven by an OPCPA Laser",
+    "doi": "10.48550/arXiv.2609.26390",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-22",
+    "processed_date": "2026-09-24",
+    "source_url": "https://arxiv.org/abs/2609.26390",
+    "pdf_path": "daily/2026-09-24/pdfs/Smartsev et al. - 2026 - Stable 100 Hz LWFA beams.pdf",
+    "note_path": "daily/2026-09-24/notes/Smartsev et al. - 2026 - Stable 100 Hz LWFA beams.md",
+    "categories": [
+      "laser-plasma-acceleration",
+      "laser-accelerated-beam-applications",
+      "pic-and-plasma-simulation",
+      "experimental-platforms-diagnostics"
+    ],
+    "normalized_title": "stable 50 mev beams from a 100 hz laser wakefield accelerator driven by an opcpa laser"
+  },
+  {
+    "title": "Photoneutron reactions on 165Ho and 169Tm in the giant dipole resonance region",
+    "doi": "10.48550/arXiv.2609.25984",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-22",
+    "processed_date": "2026-09-24",
+    "source_url": "https://arxiv.org/abs/2609.25984",
+    "pdf_path": "daily/2026-09-24/pdfs/Gheorghe et al. - 2026 - Ho and Tm photoneutron reactions.pdf",
+    "note_path": "daily/2026-09-24/notes/Gheorghe et al. - 2026 - Ho and Tm photoneutron reactions.md",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "experimental-platforms-diagnostics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "photoneutron reactions on 165ho and 169tm in the giant dipole resonance region"
   }
 ]

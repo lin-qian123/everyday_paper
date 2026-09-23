@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "run_id": "2026-09-24-daily-paper",
+  "library": "/Volumes/PHILIPS/programs/everyday_paper",
+  "papers": [
+    {
+      "manifest_id": "liu-kuramitsu-2026-nonthermal-wakefields",
+      "doi": "10.1103/nc7w-yr34",
+      "target_collection": "daily/2026-09-24",
+      "reason": "formal PIC and fractional-transport explanation of the nonthermal wakefield electron spectrum",
+      "status": "imported_reviewed",
+      "url": "https://doi.org/10.1103/nc7w-yr34",
+      "title": "Nonthermal electron acceleration and transition probability density in turbulent wakefields driven by an intense laser pulse",
+      "authors": ["Yao-Li Liu", "Yasuhiro Kuramitsu"],
+      "year": 2026,
+      "venue": "Physical Review E",
+      "volume": "114",
+      "pages": "035213",
+      "local_pdf": "daily/2026-09-24/pdfs/Liu et al. - 2026 - Nonthermal electron acceleration in turbulent wakefields.pdf",
+      "sha256": "acb1bbbe1569a5c22299e6216750bd2c30277d158c2d62f3bdfd17a4bf4284ba",
+      "page_count": 11,
+      "pdf_bytes": 2528525,
+      "summary_path": "daily/2026-09-24/notes/Liu and Kuramitsu - 2026 - Nonthermal wakefield acceleration.md",
+      "fulltext_review": true
+    },
+    {
+      "manifest_id": "smartsev-2026-stable-100hz-lwfa",
+      "doi": "10.48550/arXiv.2609.26390",
+      "target_collection": "daily/2026-09-24",
+      "reason": "10,000-shot experimental evidence for high-repetition-rate LWFA beam quality and stability",
+      "status": "imported_reviewed",
+      "url": "https://arxiv.org/abs/2609.26390",
+      "title": "Stable 50 MeV Beams from a 100 Hz Laser-Wakefield Accelerator Driven by an OPCPA Laser",
+      "authors": ["S. Smartsev", "J. Wheeler", "O. Lundh", "I. A. Andriyash", "J. Faure", "et al."],
+      "year": 2026,
+      "venue": "arXiv",
+      "local_pdf": "daily/2026-09-24/pdfs/Smartsev et al. - 2026 - Stable 100 Hz LWFA beams.pdf",
+      "sha256": "b374b312bf3bfd11f5791bf2cc85648c1673518fad1bfc6f058ad1b311991c8a",
+      "page_count": 18,
+      "pdf_bytes": 6688309,
+      "summary_path": "daily/2026-09-24/notes/Smartsev et al. - 2026 - Stable 100 Hz LWFA beams.md",
+      "fulltext_review": true
+    },
+    {
+      "manifest_id": "gheorghe-2026-ho-tm-photoneutron",
+      "doi": "10.48550/arXiv.2609.25984",
+      "target_collection": "daily/2026-09-24",
+      "reason": "direct multiplicity-resolved photonuclear cross sections for validating gamma-to-neutron application chains",
+      "status": "imported_reviewed",
+      "url": "https://arxiv.org/abs/2609.25984",
+      "title": "Photoneutron reactions on 165Ho and 169Tm in the giant dipole resonance region",
+      "authors": ["I. Gheorghe", "S. Goriely", "K. Stopani", "H. Utsunomiya", "et al."],
+      "year": 2026,
+      "venue": "arXiv",
+      "local_pdf": "daily/2026-09-24/pdfs/Gheorghe et al. - 2026 - Ho and Tm photoneutron reactions.pdf",
+      "sha256": "7eabce2bbb4bf7d0fdf9bd6cdec89d96ddbcd136cf56168dbc03e3c5c31b276a",
+      "page_count": 17,
+      "pdf_bytes": 3025100,
+      "summary_path": "daily/2026-09-24/notes/Gheorghe et al. - 2026 - Ho and Tm photoneutron reactions.md",
+      "fulltext_review": true
+    }
+  ]
+}

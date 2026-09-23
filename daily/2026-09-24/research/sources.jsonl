@@ -1,0 +1,12 @@
+{"kind":"category-list","source":"arXiv","url":"https://arxiv.org/list/physics.plasm-ph/recent?show=100","latest_batch":"2026-09-23","role":"candidate discovery"}
+{"kind":"category-list","source":"arXiv","url":"https://arxiv.org/list/physics.acc-ph/recent?show=100","latest_batch":"2026-09-23","role":"candidate discovery"}
+{"kind":"category-list","source":"arXiv","url":"https://arxiv.org/list/physics.comp-ph/recent?show=100","latest_batch":"2026-09-23","role":"candidate discovery"}
+{"kind":"category-list","source":"arXiv","url":"https://arxiv.org/list/nucl-ex/recent?show=100","latest_batch":"2026-09-23","role":"candidate discovery"}
+{"kind":"category-list","source":"arXiv","url":"https://arxiv.org/list/physics.ins-det/recent?show=100","latest_batch":"2026-09-23","role":"candidate discovery"}
+{"kind":"category-list","source":"arXiv","url":"https://arxiv.org/list/physics.optics/recent?show=100","latest_batch":"2026-09-23","role":"candidate discovery"}
+{"kind":"metadata-search","source":"Crossref REST API","url":"https://api.crossref.org/works","date_window":"2026-09-21/2026-09-24","role":"formal-source discovery"}
+{"kind":"paper","identifier":"10.1103/nc7w-yr34","url":"https://doi.org/10.1103/nc7w-yr34","fulltext_url":"https://harvest.aps.org/v2/journals/articles/10.1103/nc7w-yr34/fulltext","selected":true,"evidence":"formal Physical Review E article and verified PDF"}
+{"kind":"paper","identifier":"10.48550/arXiv.2609.26390","url":"https://arxiv.org/abs/2609.26390","fulltext_url":"https://arxiv.org/pdf/2609.26390","selected":true,"evidence":"official arXiv metadata and verified PDF"}
+{"kind":"paper","identifier":"10.48550/arXiv.2609.25984","url":"https://arxiv.org/abs/2609.25984","fulltext_url":"https://arxiv.org/pdf/2609.25984","selected":true,"evidence":"official arXiv metadata and verified PDF"}
+{"kind":"paper","identifier":"10.48550/arXiv.2609.25554","url":"https://arxiv.org/abs/2609.25554","selected":false,"reason":"key 150Gd(p,2n)149Tb cross section awaits measurement; scenario-heavy relative to selected direct photonuclear data"}
+{"kind":"paper","identifier":"10.48550/arXiv.2609.25073","url":"https://arxiv.org/abs/2609.25073","selected":false,"reason":"validated PICLas/DSMC method but peripheral to current laser-beam and photonuclear priorities"}

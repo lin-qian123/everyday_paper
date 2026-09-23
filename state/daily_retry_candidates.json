@@ -260,26 +260,6 @@
     "failure_count": 3
   },
   {
-    "doi": "10.1103/nc7w-yr34",
-    "title": "Nonthermal electron acceleration and transition probability density in turbulent wakefields driven by an intense laser pulse",
-    "source_url": "https://journals.aps.org/pre/accepted/10.1103/nc7w-yr34",
-    "publication_date": "2026-09-10",
-    "journal": "Physical Review E (accepted manuscript)",
-    "topic": "激光尾场 + 一维 PIC 粒子追踪 + 非热电子加速 + 分数 Fokker-Planck",
-    "run_date": "2026-09-11",
-    "status": "download_failed",
-    "attempt_cmd": "python scripts/safe_pdf_download.py --url https://journals.aps.org/pre/accepted/10.1103/nc7w-yr34 --doi 10.1103/nc7w-yr34 --output daily/2026-09-11/pdfs/Nonthermal electron acceleration in turbulent wakefields.pdf",
-    "stderr": "Failed to download PDF. Attempts:\n- [env-proxy] https://journals.aps.org/pre/accepted/10.1103/nc7w-yr34 -> HTTP 403\n- [direct] https://journals.aps.org/pre/accepted/10.1103/nc7w-yr34 -> HTTP 403\n- [env-proxy] https://doi.org/10.1103/nc7w-yr34 -> HTTP 403\n- [direct] https://doi.org/10.1103/nc7w-yr34 -> HTTP 403\n",
-    "stdout": "",
-    "output_pdf": "daily/2026-09-11/pdfs/Nonthermal electron acceleration in turbulent wakefields.pdf",
-    "attempted_at": "2026-09-11T07:19:43+08:00",
-    "last_retry_at": "2026-09-14T07:15:21+08:00",
-    "retry_count": 2,
-    "last_failure_class": "publisher_http_403",
-    "source_family": "other",
-    "failure_count": 3
-  },
-  {
     "doi": "10.1103/k23j-c9y7",
     "title": "High-Energy-Density Plasma Nanorod Driven by a Relativistic Bessel Beam",
     "source_url": "https://journals.aps.org/prl/abstract/10.1103/k23j-c9y7",

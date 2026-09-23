@@ -1,0 +1,74 @@
+{
+  "run_date": "2026-09-24",
+  "latest_official_arxiv_batch": "2026-09-23",
+  "search_summary": {
+    "sources": "official arXiv category and article pages, Crossref 2026-09-21 through 2026-09-24 metadata, APS DOI and harvest full-text endpoints",
+    "selection_basis": "formal-source priority, recovered verified full text, newest official arXiv increment, direct experimental evidence, topic fit and non-duplication",
+    "coverage_claim": "targeted, not exhaustive",
+    "research_record": "daily/2026-09-24/research/"
+  },
+  "deduplication": {
+    "processed_before": 372,
+    "processed_after": 375,
+    "retry_before": 18,
+    "retry_after": 17,
+    "keys": [
+      "DOI or arXiv identifier",
+      "normalized title",
+      "historical daily folders",
+      "retry queue",
+      "formal-version versus preprint title match",
+      "abstract and physical scenario"
+    ]
+  },
+  "added": [
+    "10.1103/nc7w-yr34",
+    "10.48550/arXiv.2609.26390",
+    "10.48550/arXiv.2609.25984"
+  ],
+  "recovered_blocked_candidate": "10.1103/nc7w-yr34 was a prior APS accepted-manuscript HTTP 403 retry; its formal Physical Review E full text was recovered through the APS harvest endpoint",
+  "retry_removed": [
+    "10.1103/nc7w-yr34"
+  ],
+  "retry_added": [],
+  "skipped": [
+    {
+      "identifier": "10.48550/arXiv.2609.25554",
+      "reason": "the 149Tb production pathway is highly relevant but its key 150Gd(p,2n)149Tb cross section awaits measurement, so the selected direct photoneutron experiment has stronger evidence"
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.25073",
+      "reason": "the PICLas trace-species DSMC method is validated but peripheral to current laser-beam and photonuclear priorities"
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.26070",
+      "reason": "the expanding ECR hydrogen-plasma experiment is sound general plasma physics but less aligned than the selected beam-quality and nuclear-data work"
+    }
+  ],
+  "pdf_validation": {
+    "valid_documents": 3,
+    "mineru_usable_successes": 0,
+    "mineru_failures": 3,
+    "selected_and_visually_checked_figures": 17,
+    "fallback": "local pdftotext plus PDF page rendering",
+    "details": "daily/2026-09-24/pdf_validation.json"
+  },
+  "evidence_boundaries": [
+    "The formal PRE result is an author 1D-3V EPOCH particle-tracking study and fractional-transport interpretation; it has no new experiment, suppresses transverse physics and does not publish its data.",
+    "The 100 Hz LWFA beam metrics come from 10,000 experimental shots, but 1 kHz and FLASH dose rates are projections; the best FBPIC fit uses 0.1% argon compared with 1% in the experiment.",
+    "The Ho/Tm measurements use a storage-ring laser-Compton gamma source, not a laser-plasma electron beam and high-Z converter; their value to that application chain is as nuclear-data and detector-model validation.",
+    "Photoneutron cross sections include neutron-plus-charged-particle final states, beam-spectrum unfolding and multiplicity sorting, while GDR/GQR assignments and quadrupole moments retain model dependence.",
+    "No EPOCH, FBPIC/LASY, PCA, spectral deconvolution, EMPIRE, TALYS, photon-spectrum unfolding, detector response, dose or shielding calculation was rerun locally."
+  ],
+  "validation": {
+    "index_builder": "Indexed 375 papers across 9 categories.",
+    "pytest": "7 passed",
+    "unittest": "7 tests passed",
+    "ledger_checks": "375 records parsed; 371 non-null identifiers are unique; all 375 normalized titles are unique; 17 retry records retained",
+    "note_image_reference_check": "3 notes checked; all 17 unique local image references resolved and decoded",
+    "pdf_header_size_hash_metadata_text_check": "passed for all 3 added documents",
+    "download_report_check": "3 JSON reports parsed"
+  },
+  "git": "commit and push to origin/master after final validation",
+  "status": "success"
+}

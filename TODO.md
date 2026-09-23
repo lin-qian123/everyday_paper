@@ -3,13 +3,15 @@
 ## 当前待办
 
 - [ ] 将每日自动化主流程固定为：新增论文与笔记 -> 更新 `state/processed_articles.json` -> 运行 `python scripts/build_indexes.py` -> 提交并推送 `origin/master`。
-- [ ] 处理剩余 18 条未补回 PDF 的候选；其中 10 条为 Elsevier/ScienceDirect `HTTP 403`，1 条为 Nature `cookies_not_supported`，3 条为 IOP/Radware 验证页，另有 4 条 APS accepted / formal `HTTP 403` 或延迟开放候选。
+- [ ] 处理剩余 17 条未补回 PDF 的候选；其中 10 条为 Elsevier/ScienceDirect `HTTP 403`，1 条为 Nature `cookies_not_supported`，3 条为 IOP/Radware 验证页，另有 3 条 APS accepted / formal `HTTP 403` 或延迟开放候选。
 - [ ] 为当前 65 条已补回 PDF 但尚无笔记的条目补中文结构化笔记。
 - [ ] 把每日自动化主流程接到 `scripts/retry_download_queue.py`，启动时先消化可恢复积压，避免配置恢复后仍只读旧 blocked-day 记录。
 - [ ] 为来源可达性预检补一层轻量检查，避免在明显 `403` / bot-wall 来源上重复空跑，并对 arXiv / DOI 这类开放来源单独标记“仅运行时阻塞”。
 - [ ] 修补 `scripts/safe_pdf_download.py` 在个别 Cambridge 官方 PDF 直链上的卡住问题；当前同 URL 用 `curl` 可正常完成下载，说明更像 Python 传输路径或读取策略问题。
 
 ## 开发记录
+
+- 2026-09-24：加载 372 条完成台账、18 条重试队列和历史 `daily/`，按 DOI/arXiv identifier、规范化标题、正式版—预印本关系和物理场景去重；官方 arXiv 目标分类已更新到 2026-09-23 批次，并用 Crossref 2026-09-21 至 2026-09-24 元数据及 APS/DOI 页面复查正式来源。新增正式 PRE `10.1103/nc7w-yr34`、arXiv `10.48550/arXiv.2609.26390` 与 `10.48550/arXiv.2609.25984`；PRE 从旧 APS accepted 阻塞项恢复，台账增至 375 条、重试队列降至 17 条。3 份 PDF 通过文件、页数、哈希和文本校验；MinerU 对正式/替代 URL 均未给出可用论文正文，故使用本地文本与页面渲染 fallback，保留并检查 17 张图。严格区分一维作者 PIC/分数输运、100 Hz 直接 LWFA 实验与 1 kHz/FLASH 外推、储存环 LCS 光核数据与 LPA 转换靶应用；本轮没有重跑 EPOCH、FBPIC/LASY、PCA、反卷积、EMPIRE、TALYS、剂量或屏蔽。
 
 - 2026-09-23：加载 369 条完成台账、18 条重试队列和历史 `daily/`，按 DOI/arXiv identifier、规范化标题、正式版—预印本关系和物理场景去重；官方 arXiv 目标分类已更新到 2026-09-22 批次，并用 Crossref 2026-09-21 至 2026-09-23 元数据及 APS/DOI 页面复查正式来源。新增正式 PRE `10.1103/d45l-hsgg`、正式 PRD `10.1103/f9xt-jpd1` 与 arXiv `10.48550/arXiv.2609.23358`；前者是此前 APS 常规全文受阻候选，本轮由 APS harvest 正式端点恢复。3 份 PDF 均通过文件、页数、哈希和文本校验并完成 MinerU，保留 14 张人工查看图；台账增至 372 条，18 条重试项不变。边界是两篇 APS 均为作者 EPOCH PIC，PhySKIP 仅是一维漂移—扩散流体求解器的作者 CPU 基准；本地未重跑 EPOCH、PASCHEN-1D、训练、相空间或观测响应。
 

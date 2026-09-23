@@ -9,7 +9,7 @@
 - [索引文件](#索引文件)
 - [仓库结构](#仓库结构)
 - [分类索引](#分类索引)
-- [当前状态](#当前状态2026-09-23)
+- [当前状态](#当前状态2026-09-24)
 - [去重规则](#去重规则)
 - [PDF 下载稳健性](#pdf-下载稳健性)
 - [维护约定](#维护约定)
@@ -78,6 +78,12 @@
 - `INDEX.md`: 总索引
 - `state/processed_articles.json`: 已处理论文去重台账
 - `templates/daily-index-template.md`: 每日索引模板
+
+## 当前状态（2026-09-24）
+
+- 已维护到 `daily/2026-09-24/`。本轮新增正式 *Physical Review E* `10.1103/nc7w-yr34`、arXiv `10.48550/arXiv.2609.26390` 与 `10.48550/arXiv.2609.25984`，分别覆盖一维 PIC 中非热尾场电子的 Lévy 型能量跳跃、100 Hz OPCPA-LWFA 的 10,000 发束流稳定性，以及 NewSUBARU LCS 伽马束下 Ho/Tm 的多重性分辨光中子截面。PRE 条目从旧 APS accepted 阻塞项恢复并升级为正式记录。
+- 3 份全文通过 `%PDF-`、`file`、`pdfinfo`、SHA-256 和非空 `pdftotext -layout`；MinerU 的正式/替代 URL 没有产生可用论文正文，因此改用本地文本、页面渲染和人工图像检查，保留 17 张关键图。台账从 372 增至 375 条，重试队列从 18 降至 17 条。
+- 证据边界：PRE 是作者 `1D-3V` EPOCH 与理想化分数输运解释；LWFA 的 `47 MeV、15 pC、1.4% rms` 来自 10,000 发直接实验，但 `1 kHz`/FLASH 是展望且最佳 FBPIC 的 Ar 掺杂与实验相差 10 倍；Ho/Tm 使用储存环 LCS 光源，是核数据 benchmark 而不是激光等离子体转换靶中子源。本轮没有重跑 EPOCH、FBPIC/LASY、EMPIRE、TALYS、PCA、反卷积、剂量或屏蔽计算。
 
 ## 当前状态（2026-09-23）
 

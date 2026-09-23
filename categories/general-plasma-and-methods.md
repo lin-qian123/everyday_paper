@@ -2,11 +2,13 @@
 
 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。
 
-- 当前收录：61 篇
-- 索引更新时间：2026-09-23
+- 当前收录：63 篇
+- 索引更新时间：2026-09-24
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-24 | [Nonthermal electron acceleration and transition probability density in turbulent wakefields driven by an intense laser pulse](../papers/10-1103-nc7w-yr34/README.md) | Physical Review E | [笔记](../daily/2026-09-24/notes/Liu and Kuramitsu - 2026 - Nonthermal wakefield acceleration.md) |
+| 2026-09-24 | [Photoneutron reactions on 165Ho and 169Tm in the giant dipole resonance region](../papers/arxiv-2609-25984/README.md) | arXiv preprint | [笔记](../daily/2026-09-24/notes/Gheorghe et al. - 2026 - Ho and Tm photoneutron reactions.md) |
 | 2026-09-23 | [Anisotropy and energy distribution of leptons and photons in radiative relativistic Alfvénic turbulence](../papers/10-1103-f9xt-jpd1/README.md) | Physical Review D | [笔记](../daily/2026-09-23/notes/Liu et al. - 2026 - Radiative relativistic Alfvenic turbulence.md) |
 | 2026-09-23 | [Machine Learning Accelerated Plasma Simulation through Physics Guided Time Jumps](../papers/arxiv-2609-23358/README.md) | arXiv preprint | [笔记](../daily/2026-09-23/notes/Iqbal and Zhang - 2026 - ML accelerated plasma simulation.md) |
 | 2026-09-22 | [Near-wall pathways of anomalous electron transport in Hall thrusters revealed by three-dimensional particle-in-cell simulations](../papers/10-1103-p8v6-66mq/README.md) | Physical Review E | [笔记](../daily/2026-09-22/notes/Liu et al. - 2026 - Near-wall electron transport in Hall thrusters.md) |

@@ -2,11 +2,13 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：100 篇
-- 索引更新时间：2026-09-23
+- 当前收录：102 篇
+- 索引更新时间：2026-09-24
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-24 | [Stable 50 MeV Beams from a 100 Hz Laser-Wakefield Accelerator Driven by an OPCPA Laser](../papers/arxiv-2609-26390/README.md) | arXiv preprint | [笔记](../daily/2026-09-24/notes/Smartsev et al. - 2026 - Stable 100 Hz LWFA beams.md) |
+| 2026-09-24 | [Photoneutron reactions on 165Ho and 169Tm in the giant dipole resonance region](../papers/arxiv-2609-25984/README.md) | arXiv preprint | [笔记](../daily/2026-09-24/notes/Gheorghe et al. - 2026 - Ho and Tm photoneutron reactions.md) |
 | 2026-09-23 | [Cone-guided phase-space control of laser-driven proton beams](../papers/10-1103-d45l-hsgg/README.md) | Physical Review E | [笔记](../daily/2026-09-23/notes/Chintalwad and Stark - 2026 - Cone-guided proton beam control.md) |
 | 2026-09-22 | [Mechanism of Ionization Avalanche in Tokamak Microwave Gas Breakdown](../papers/arxiv-2609-21429/README.md) | arXiv preprint | [笔记](../daily/2026-09-22/notes/Gwak et al. - 2026 - Tokamak microwave gas breakdown.md) |
 | 2026-09-22 | [Moderator Modeling for High Intensity Slow Positron Sources](../papers/arxiv-2609-22036/README.md) | arXiv preprint / LEEPP2026 workshop | [笔记](../daily/2026-09-22/notes/Crisp et al. - 2026 - Slow positron moderator modeling.md) |
