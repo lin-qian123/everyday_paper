@@ -9,7 +9,7 @@
 - [索引文件](#索引文件)
 - [仓库结构](#仓库结构)
 - [分类索引](#分类索引)
-- [当前状态](#当前状态2026-09-24)
+- [当前状态](#当前状态2026-09-25)
 - [去重规则](#去重规则)
 - [PDF 下载稳健性](#pdf-下载稳健性)
 - [维护约定](#维护约定)
@@ -78,6 +78,12 @@
 - `INDEX.md`: 总索引
 - `state/processed_articles.json`: 已处理论文去重台账
 - `templates/daily-index-template.md`: 每日索引模板
+
+## 当前状态（2026-09-25）
+
+- 已维护到 `daily/2026-09-25/`。本轮新增正式 *Plasma Science and Technology* `10.1088/2058-6272/aeabfd`、正式开放 *Optics Express* `10.1364/OE.612056` 与 arXiv `10.48550/arXiv.2609.28468`，分别覆盖焦点位置调谐的 GeV LWFA 实验、短波激光—纳米箔阿秒电子束二维 EPOCH 方案，以及二维钙钛矿快中子—伽马脉冲形状甄别实验。
+- 3 份全文通过 `%PDF-`、页数、SHA-256 和非空 `pdftotext -layout`；PST 完成 MinerU，Optica 的公开 URL 受 JavaScript gate 限制、arXiv 任务长时间未完成，后两篇使用本地文本、页面渲染和逐图检查 fallback。本轮保留并检查 12 张关键图，台账从 375 增至 378 条，17 条结构化重试项不变。
+- 证据边界：PST 的 `1.4 GeV` 是实验、`2.2 GeV` 是准三维 FBPIC；Optics Express 的 `305 MeV/0.5%/1–10 as` 全部来自理想化二维 EPOCH，未做三维或实验验证；钙钛矿的 D–D 混合场 PSD 是直接测量，但 `10.1%` 交互概率和 `3.6%` 平均能量沉积是作者模型量。本轮没有重跑 FBPIC、EPOCH、Monte Carlo、PSD 拟合、剂量或屏蔽计算。
 
 ## 当前状态（2026-09-24）
 

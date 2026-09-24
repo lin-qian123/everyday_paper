@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：375 篇
-- 索引更新时间：2026-09-24
+- 当前入库论文：378 篇
+- 索引更新时间：2026-09-25
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-09-25 | [Experimental tuning of electron energy gain via laser focus shift in a laser-driven plasma wakefield accelerator](./10-1088-2058-6272-aeabfd/README.md) | Plasma Science and Technology | [10.1088/2058-6272/aeabfd](https://doi.org/10.1088/2058-6272/aeabfd) |
+| 2026-09-25 | [High-energy high-density attosecond electron bunch from short-wavelength laser–nanofoil interaction](./10-1364-oe-612056/README.md) | Optics Express | [10.1364/OE.612056](https://doi.org/10.1364/OE.612056) |
+| 2026-09-25 | [Fast-Neutron Scintillation with Multi-Quantum-Well 2D Perovskites](./arxiv-2609-28468/README.md) | arXiv preprint | [10.48550/arXiv.2609.28468](https://doi.org/10.48550/arXiv.2609.28468) |
 | 2026-09-24 | [Nonthermal electron acceleration and transition probability density in turbulent wakefields driven by an intense laser pulse](./10-1103-nc7w-yr34/README.md) | Physical Review E | [10.1103/nc7w-yr34](https://doi.org/10.1103/nc7w-yr34) |
 | 2026-09-24 | [Stable 50 MeV Beams from a 100 Hz Laser-Wakefield Accelerator Driven by an OPCPA Laser](./arxiv-2609-26390/README.md) | arXiv preprint | [10.48550/arXiv.2609.26390](https://doi.org/10.48550/arXiv.2609.26390) |
 | 2026-09-24 | [Photoneutron reactions on 165Ho and 169Tm in the giant dipole resonance region](./arxiv-2609-25984/README.md) | arXiv preprint | [10.48550/arXiv.2609.25984](https://doi.org/10.48550/arXiv.2609.25984) |

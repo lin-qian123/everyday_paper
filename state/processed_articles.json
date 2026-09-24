@@ -4344,5 +4344,54 @@
       "general-plasma-and-methods"
     ],
     "normalized_title": "photoneutron reactions on 165ho and 169tm in the giant dipole resonance region"
+  },
+  {
+    "title": "Experimental tuning of electron energy gain via laser focus shift in a laser-driven plasma wakefield accelerator",
+    "doi": "10.1088/2058-6272/aeabfd",
+    "journal": "Plasma Science and Technology",
+    "publication_date": "2026-09-24",
+    "processed_date": "2026-09-25",
+    "source_url": "https://doi.org/10.1088/2058-6272/aeabfd",
+    "pdf_path": "daily/2026-09-25/pdfs/Chang et al. - 2026 - Plasma telescope LWFA focus tuning.pdf",
+    "note_path": "daily/2026-09-25/notes/Chang et al. - 2026 - Plasma telescope LWFA focus tuning.md",
+    "categories": [
+      "laser-plasma-acceleration",
+      "laser-accelerated-beam-applications",
+      "pic-and-plasma-simulation",
+      "experimental-platforms-diagnostics"
+    ],
+    "normalized_title": "experimental tuning of electron energy gain via laser focus shift in a laser driven plasma wakefield accelerator"
+  },
+  {
+    "title": "High-energy high-density attosecond electron bunch from short-wavelength laser–nanofoil interaction",
+    "doi": "10.1364/OE.612056",
+    "journal": "Optics Express",
+    "publication_date": "2026-09-23",
+    "processed_date": "2026-09-25",
+    "source_url": "https://doi.org/10.1364/OE.612056",
+    "pdf_path": "daily/2026-09-25/pdfs/Li et al. - 2026 - Attosecond electron bunch from laser nanofoil.pdf",
+    "note_path": "daily/2026-09-25/notes/Li et al. - 2026 - Attosecond electron bunch from laser nanofoil.md",
+    "categories": [
+      "laser-plasma-acceleration",
+      "laser-accelerated-beam-applications",
+      "pic-and-plasma-simulation"
+    ],
+    "normalized_title": "high energy high density attosecond electron bunch from short wavelength laser nanofoil interaction"
+  },
+  {
+    "title": "Fast-Neutron Scintillation with Multi-Quantum-Well 2D Perovskites",
+    "doi": "10.48550/arXiv.2609.28468",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-23",
+    "processed_date": "2026-09-25",
+    "source_url": "https://arxiv.org/abs/2609.28468",
+    "pdf_path": "daily/2026-09-25/pdfs/Tan et al. - 2026 - Fast neutron scintillation in 2D perovskites.pdf",
+    "note_path": "daily/2026-09-25/notes/Tan et al. - 2026 - Fast neutron scintillation in 2D perovskites.md",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "magnetic-fusion-and-alpha-particles",
+      "experimental-platforms-diagnostics"
+    ],
+    "normalized_title": "fast neutron scintillation with multi quantum well 2d perovskites"
   }
 ]

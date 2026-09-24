@@ -2,11 +2,14 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：82 篇
-- 索引更新时间：2026-09-24
+- 当前收录：85 篇
+- 索引更新时间：2026-09-25
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-25 | [Experimental tuning of electron energy gain via laser focus shift in a laser-driven plasma wakefield accelerator](../papers/10-1088-2058-6272-aeabfd/README.md) | Plasma Science and Technology | [笔记](../daily/2026-09-25/notes/Chang et al. - 2026 - Plasma telescope LWFA focus tuning.md) |
+| 2026-09-25 | [High-energy high-density attosecond electron bunch from short-wavelength laser–nanofoil interaction](../papers/10-1364-oe-612056/README.md) | Optics Express | [笔记](../daily/2026-09-25/notes/Li et al. - 2026 - Attosecond electron bunch from laser nanofoil.md) |
+| 2026-09-25 | [Fast-Neutron Scintillation with Multi-Quantum-Well 2D Perovskites](../papers/arxiv-2609-28468/README.md) | arXiv preprint | [笔记](../daily/2026-09-25/notes/Tan et al. - 2026 - Fast neutron scintillation in 2D perovskites.md) |
 | 2026-09-24 | [Stable 50 MeV Beams from a 100 Hz Laser-Wakefield Accelerator Driven by an OPCPA Laser](../papers/arxiv-2609-26390/README.md) | arXiv preprint | [笔记](../daily/2026-09-24/notes/Smartsev et al. - 2026 - Stable 100 Hz LWFA beams.md) |
 | 2026-09-24 | [Photoneutron reactions on 165Ho and 169Tm in the giant dipole resonance region](../papers/arxiv-2609-25984/README.md) | arXiv preprint | [笔记](../daily/2026-09-24/notes/Gheorghe et al. - 2026 - Ho and Tm photoneutron reactions.md) |
 | 2026-09-23 | [Cone-guided phase-space control of laser-driven proton beams](../papers/10-1103-d45l-hsgg/README.md) | Physical Review E | [笔记](../daily/2026-09-23/notes/Chintalwad and Stark - 2026 - Cone-guided proton beam control.md) |

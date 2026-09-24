@@ -1,0 +1,74 @@
+{
+  "run_date": "2026-09-25",
+  "latest_official_arxiv_batch": "2026-09-24",
+  "search_summary": {
+    "sources": "official arXiv category/API and article pages, Crossref 2026-09-22 through 2026-09-25 metadata, PST and Optica official pages",
+    "selection_basis": "formal-source priority, verified full text, newest official arXiv increment, direct experimental evidence, topic fit and non-duplication",
+    "coverage_claim": "targeted, not exhaustive",
+    "research_record": "daily/2026-09-25/research/"
+  },
+  "deduplication": {
+    "processed_before": 375,
+    "processed_after": 378,
+    "retry_before": 17,
+    "retry_after": 17,
+    "keys": [
+      "DOI or arXiv identifier",
+      "normalized title",
+      "historical daily folders",
+      "retry queue",
+      "formal-version versus preprint title match",
+      "abstract and physical scenario"
+    ]
+  },
+  "added": [
+    "10.1088/2058-6272/aeabfd",
+    "10.1364/OE.612056",
+    "10.48550/arXiv.2609.28468"
+  ],
+  "retry_removed": [],
+  "retry_added": [],
+  "skipped": [
+    {
+      "identifier": "10.1103/qqcv-f29q",
+      "reason": "formal PRL duplicates an already indexed author manuscript by exact normalized title"
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.27995",
+      "reason": "same title as the already indexed formal Physical Review D article 10.1103/f9xt-jpd1"
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.28422",
+      "reason": "valuable exascale hybrid-PIC software, but the selected papers provide more direct beam and detector evidence"
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.27501",
+      "reason": "valuable implicit conservative PIC method, deferred behind the selected direct LWFA and neutron-detection evidence"
+    }
+  ],
+  "pdf_validation": {
+    "valid_documents": 3,
+    "mineru_usable_successes": 1,
+    "mineru_failures_or_timeouts": 2,
+    "selected_and_visually_checked_figures": 12,
+    "fallback": "local pdftotext plus PDF page rendering",
+    "details": "daily/2026-09-25/pdf_validation.json"
+  },
+  "evidence_boundaries": [
+    "The PST article contains a direct LWFA focus scan, but its 2.2 GeV optimum is quasi-3D FBPIC whereas the experimental maximum is about 1.4 GeV; the ideal simulation also overpredicts the injection window.",
+    "The Optics Express results are author 2D EPOCH simulations and analytic scaling; there is no 3D run or experiment, and the estimated 80-500 TW short-wavelength driver remains a future facility requirement.",
+    "The perovskite paper directly measures Cs-137 energy response and D-D mixed-field pulse-shape discrimination; its 10.1% interaction probability and 3.6% mean deposited fraction are model results rather than absolute efficiency measurements.",
+    "No FBPIC, EPOCH, Monte Carlo neutron transport, PSD fitting, source conversion, dose or shielding calculation was rerun locally."
+  ],
+  "validation": {
+    "index_builder": "Indexed 378 papers across 9 categories.",
+    "pytest": "7 passed",
+    "unittest": "7 tests passed",
+    "ledger_checks": "378 records parsed; 374 non-null identifiers are unique; all 378 normalized titles are unique; 17 retry records retained",
+    "note_image_reference_check": "3 notes checked; all 12 unique local image references resolved and decoded",
+    "pdf_header_size_hash_metadata_text_check": "passed for all 3 added documents",
+    "download_report_check": "3 JSON reports parsed"
+  },
+  "git": "commit and push to origin/master after final validation",
+  "status": "success"
+}

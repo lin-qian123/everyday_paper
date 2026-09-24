@@ -2,11 +2,12 @@
 
 stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。
 
-- 当前收录：40 篇
-- 索引更新时间：2026-09-24
+- 当前收录：41 篇
+- 索引更新时间：2026-09-25
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-25 | [Fast-Neutron Scintillation with Multi-Quantum-Well 2D Perovskites](../papers/arxiv-2609-28468/README.md) | arXiv preprint | [笔记](../daily/2026-09-25/notes/Tan et al. - 2026 - Fast neutron scintillation in 2D perovskites.md) |
 | 2026-09-22 | [Mechanism of Ionization Avalanche in Tokamak Microwave Gas Breakdown](../papers/arxiv-2609-21429/README.md) | arXiv preprint | [笔记](../daily/2026-09-22/notes/Gwak et al. - 2026 - Tokamak microwave gas breakdown.md) |
 | 2026-09-21 | [Overview of achievements and outlook of the IFMIF/EVEDA project](../papers/10-1088-1741-4326-aea171/README.md) | Nuclear Fusion | [笔记](../daily/2026-09-21/notes/Hasegawa et al. - 2026 - IFMIF EVEDA achievements and outlook.md) |
 | 2026-09-21 | [Scalable Production of Lead-212 and Actinium-225 Generators with Fusion Neutrons](../papers/arxiv-2609-19166/README.md) | arXiv preprint | [笔记](../daily/2026-09-21/notes/Parisi and Rutkowski - 2026 - Fusion neutrons for isotope generators.md) |

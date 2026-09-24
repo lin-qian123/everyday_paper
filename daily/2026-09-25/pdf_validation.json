@@ -1,0 +1,66 @@
+{
+  "run_date": "2026-09-25",
+  "all_added_documents_valid": true,
+  "checks": [
+    "%PDF- header",
+    "page count and metadata",
+    "SHA-256",
+    "non-empty pdftotext -layout output",
+    "local page rendering",
+    "manual inspection of selected figures"
+  ],
+  "mineru_summary": {
+    "usable_successes": 1,
+    "failures_or_timeouts": 2,
+    "details": "The PST accepted manuscript parsed successfully. The Optica public URL was blocked by its JavaScript gate; the arXiv remote job remained incomplete during the bounded wait and was interrupted locally. Local layout text and rendered-page fallback was used for those two documents."
+  },
+  "documents": [
+    {
+      "identifier": "10.1088/2058-6272/aeabfd",
+      "pdf_path": "daily/2026-09-25/pdfs/Chang et al. - 2026 - Plasma telescope LWFA focus tuning.pdf",
+      "source_url": "http://pst.hfcas.ac.cn/en/article/pdf/preview/c7418752-5cee-4003-a945-cc1dc90595a2.pdf",
+      "download_report": "daily/2026-09-25/pdfs/download-reports/10.1088-2058-6272-aeabfd.json",
+      "bytes": 954787,
+      "sha256": "761bfa89a393e02491f29376e0151ba2b2c63d9b0e7a7ce87d4af11511fb4f1b",
+      "pages": 15,
+      "pdf_version": "1.5",
+      "text_path": "daily/2026-09-25/pdfs/Chang et al. - 2026 - Plasma telescope LWFA focus tuning.txt",
+      "text_bytes": 44089,
+      "mineru_status": "success",
+      "selected_figures": 4,
+      "valid": true
+    },
+    {
+      "identifier": "10.1364/OE.612056",
+      "pdf_path": "daily/2026-09-25/pdfs/Li et al. - 2026 - Attosecond electron bunch from laser nanofoil.pdf",
+      "source_url": "https://www.wip.osapublishing.org/viewmedia.cfm?r=1&rwjcode=oe&uri=oe-34-20-37393&seq=0",
+      "download_report": "daily/2026-09-25/pdfs/download-reports/10.1364-OE.612056.json",
+      "bytes": 8046845,
+      "sha256": "1b5f3a78a76662bc90451769afa1e165c0bcb6daf58c2068325c07715139e630",
+      "pages": 15,
+      "pdf_version": "1.5",
+      "text_path": "daily/2026-09-25/pdfs/Li et al. - 2026 - Attosecond electron bunch from laser nanofoil.txt",
+      "text_bytes": 58096,
+      "mineru_status": "failed on public URL because of publisher JavaScript gate",
+      "fallback": "pdftotext plus rendered-page inspection",
+      "selected_figures": 4,
+      "valid": true
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.28468",
+      "pdf_path": "daily/2026-09-25/pdfs/Tan et al. - 2026 - Fast neutron scintillation in 2D perovskites.pdf",
+      "source_url": "https://arxiv.org/pdf/2609.28468",
+      "download_report": "daily/2026-09-25/pdfs/download-reports/10.48550-arXiv.2609.28468.json",
+      "bytes": 989894,
+      "sha256": "221dbb1e3d6aa65b5965774735124260f7a08d1faa2e5336efcb3803ad01e4a4",
+      "pages": 14,
+      "pdf_version": "1.7",
+      "text_path": "daily/2026-09-25/pdfs/Tan et al. - 2026 - Fast neutron scintillation in 2D perovskites.txt",
+      "text_bytes": 31518,
+      "mineru_status": "remote task remained incomplete during bounded wait; local wait interrupted",
+      "fallback": "pdftotext plus rendered-page inspection",
+      "selected_figures": 4,
+      "valid": true
+    }
+  ]
+}

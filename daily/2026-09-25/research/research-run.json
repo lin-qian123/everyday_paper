@@ -1,0 +1,32 @@
+{
+  "run_date": "2026-09-25",
+  "scope": [
+    "laser plasma acceleration and beam quality",
+    "strong-field QED and high-energy-density plasma",
+    "PIC and machine-learning plasma methods",
+    "converter targets, gamma rays, photonuclear reactions, neutrons, isotopes, diagnostics, dose and shielding"
+  ],
+  "date_window": {
+    "official_arxiv_latest_batch": "2026-09-24",
+    "formal_metadata_from": "2026-09-22",
+    "formal_metadata_until": "2026-09-25"
+  },
+  "selection_rules": [
+    "prefer formal publication over preprint when the verified full text is available",
+    "deduplicate by identifier, normalized title, historical daily folders and retry state",
+    "require a valid local PDF and non-empty extracted text before writing a note",
+    "separate experiment, simulation, inference and application projection"
+  ],
+  "selected": [
+    "10.1088/2058-6272/aeabfd",
+    "10.1364/OE.612056",
+    "10.48550/arXiv.2609.28468"
+  ],
+  "coverage_claim": "targeted, not exhaustive",
+  "outputs": {
+    "report": "daily/2026-09-25/research/research-report.md",
+    "sources": "daily/2026-09-25/research/sources.jsonl",
+    "log": "daily/2026-09-25/research/run-log.md",
+    "import_manifest": "daily/2026-09-25/research/import-manifest.json"
+  }
+}

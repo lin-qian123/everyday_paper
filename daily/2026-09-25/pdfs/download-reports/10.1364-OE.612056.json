@@ -1,0 +1,20 @@
+{
+  "ok": true,
+  "output": "daily/2026-09-25/pdfs/Li et al. - 2026 - Attosecond electron bunch from laser nanofoil.pdf",
+  "source_url": "https://www.wip.osapublishing.org/viewmedia.cfm?r=1&rwjcode=oe&uri=oe-34-20-37393&seq=0",
+  "mode": "official-javascript-gate",
+  "attempts": [
+    "[env-proxy] https://opg.optica.org/viewmedia.cfm?URI=oe-34-20-37393&seq=0 -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[direct] https://opg.optica.org/viewmedia.cfm?URI=oe-34-20-37393&seq=0 -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[env-proxy] https://opg.optica.org/oe/viewmedia.cfm?uri=oe-34-20-37393&seq=0 -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[direct] https://opg.optica.org/oe/viewmedia.cfm?uri=oe-34-20-37393&seq=0 -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[env-proxy] https://doi.org/10.1364/oe.612056 -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[direct] https://doi.org/10.1364/oe.612056 -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[env-proxy] https://validate.perfdrive.com/?ssa=a5478567-4f5b-a818-4df8-b066b3c4600e&ssb=36053257589&ssc=https%3A%2F%2Fopg.optica.org%2Fabstract.cfm%3FURI%3Doe-34-20-37393&ssi=487c989a-d3hy-5654-bab4-253a5bc6eeec&ssk=botmanager_support@radware.com&ssm=60305098487381633102329891346115&ssn=45b996ae7ed3ddb5aceb90e0004f207b192fe8e29443-26de-1357-6ef570&sso=2053957-692f-5b5bf09309edd0ead3f811160c7eff0c2651ff59c8e6706e&ssp=99982330191790269848179029033106127&ssq=13037229131773016637591317066675801127246&ssr=NjYuMTM1LjIxLjIwNg==&sst=everyday-paper-bot%2F1.0%20%28%2Blocal%20automation%29&ssv=&ssw= -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[direct] https://validate.perfdrive.com/?ssa=a5478567-4f5b-a818-4df8-b066b3c4600e&ssb=36053257589&ssc=https%3A%2F%2Fopg.optica.org%2Fabstract.cfm%3FURI%3Doe-34-20-37393&ssi=487c989a-d3hy-5654-bab4-253a5bc6eeec&ssk=botmanager_support@radware.com&ssm=60305098487381633102329891346115&ssn=45b996ae7ed3ddb5aceb90e0004f207b192fe8e29443-26de-1357-6ef570&sso=2053957-692f-5b5bf09309edd0ead3f811160c7eff0c2651ff59c8e6706e&ssp=99982330191790269848179029033106127&ssq=13037229131773016637591317066675801127246&ssr=NjYuMTM1LjIxLjIwNg==&sst=everyday-paper-bot%2F1.0%20%28%2Blocal%20automation%29&ssv=&ssw= -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[env-proxy] https://doi.org/10.1364/OE.612056 -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[direct] https://doi.org/10.1364/OE.612056 -> not pdf (content-type=text/html; charset=UTF-8)"
+  ],
+  "recovery": "The ordinary DOI and viewmedia routes returned the Optica Please wait page. The official issues-in-progress PDF link was followed through its checkjs request with the same session cookie, after which the official site redirected to the open-access version-of-record PDF.",
+  "initial_failure_class": "publisher_bot_wall"
+}
