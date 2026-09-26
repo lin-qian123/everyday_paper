@@ -2,11 +2,13 @@
 
 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。
 
-- 当前收录：59 篇
-- 索引更新时间：2026-09-26
+- 当前收录：61 篇
+- 索引更新时间：2026-09-27
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-27 | [Physics-Informed Neural Operator Surrogate for 2D Magnetohydrodynamic Reconnection](../papers/arxiv-2609-29514/README.md) | arXiv preprint | [笔记](../daily/2026-09-27/notes/Pothula and Kumar - 2026 - PINO MHD reconnection.md) |
+| 2026-09-27 | [Physics-Informed Self-Supervised Learning for Joint Wire Calibration and Interaction Position Reconstruction in Multi-Wire Parallel Plate Avalanche Counters](../papers/arxiv-2609-28604/README.md) | arXiv preprint | [笔记](../daily/2026-09-27/notes/Lemasson and Rejmund - 2026 - Self-supervised MWPPAC calibration.md) |
 | 2026-09-26 | [AI-Accelerated Gyrokinetic Predictions of Turbulent Transport for Stellarator Design Optimization and Experimental Planning](../papers/arxiv-2609-28730/README.md) | arXiv preprint | [笔记](../daily/2026-09-26/notes/Churchill et al. - 2026 - AI gyrokinetic stellarator transport.md) |
 | 2026-09-23 | [Machine Learning Accelerated Plasma Simulation through Physics Guided Time Jumps](../papers/arxiv-2609-23358/README.md) | arXiv preprint | [笔记](../daily/2026-09-23/notes/Iqbal and Zhang - 2026 - ML accelerated plasma simulation.md) |
 | 2026-09-17 | [Nonlinear kinetic closures for linear instabilities](../papers/arxiv-2609-17209/README.md) | arXiv preprint | [笔记](../daily/2026-09-17/notes/Paul et al. - 2026 - Nonlinear kinetic closures.md) |

@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：382 篇
-- 索引更新时间：2026-09-26
+- 当前入库论文：385 篇
+- 索引更新时间：2026-09-27
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-09-27 | [LUXE: a high-precision experiment to study non-perturbative QED in electron–laser and photon–laser collisions](./10-1140-epjp-s13360-026-08312-1/README.md) | The European Physical Journal Plus | [10.1140/epjp/s13360-026-08312-1](https://doi.org/10.1140/epjp/s13360-026-08312-1) |
+| 2026-09-27 | [Physics-Informed Neural Operator Surrogate for 2D Magnetohydrodynamic Reconnection](./arxiv-2609-29514/README.md) | arXiv preprint | [10.48550/arXiv.2609.29514](https://doi.org/10.48550/arXiv.2609.29514) |
+| 2026-09-27 | [Physics-Informed Self-Supervised Learning for Joint Wire Calibration and Interaction Position Reconstruction in Multi-Wire Parallel Plate Avalanche Counters](./arxiv-2609-28604/README.md) | arXiv preprint | [10.48550/arXiv.2609.28604](https://doi.org/10.48550/arXiv.2609.28604) |
 | 2026-09-26 | [Monte Carlo sampling of first-order QED processes in laser and pulsar plasmas](./arxiv-2609-29325/README.md) | arXiv preprint | [10.48550/arXiv.2609.29325](https://doi.org/10.48550/arXiv.2609.29325) |
 | 2026-09-26 | [Equation of state and transport coefficients of warm dense aluminum from mixed deterministic-stochastic density functional theory](./arxiv-2609-29435/README.md) | arXiv preprint | [10.48550/arXiv.2609.29435](https://doi.org/10.48550/arXiv.2609.29435) |
 | 2026-09-26 | [Imaging with GeV muons produced via laser-wakefield-accelerated electrons](./arxiv-2609-28788/README.md) | arXiv preprint | [10.48550/arXiv.2609.28788](https://doi.org/10.48550/arXiv.2609.28788) |

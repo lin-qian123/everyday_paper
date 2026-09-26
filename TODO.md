@@ -3,13 +3,15 @@
 ## 当前待办
 
 - [ ] 将每日自动化主流程固定为：新增论文与笔记 -> 更新 `state/processed_articles.json` -> 运行 `python scripts/build_indexes.py` -> 提交并推送 `origin/master`。
-- [ ] 处理剩余 17 条未补回 PDF 的候选；其中 10 条为 Elsevier/ScienceDirect `HTTP 403`，1 条为 Nature `cookies_not_supported`，3 条为 IOP/Radware 验证页，另有 3 条 APS accepted / formal `HTTP 403` 或延迟开放候选。
+- [ ] 处理剩余 18 条未补回 PDF 的候选；其中 10 条为 Elsevier/ScienceDirect `HTTP 403`，1 条为 Nature `cookies_not_supported`，4 条为 IOP/Radware 验证页，另有 3 条 APS accepted / formal `HTTP 403` 或延迟开放候选。
 - [ ] 为当前 65 条已补回 PDF 但尚无笔记的条目补中文结构化笔记。
 - [ ] 把每日自动化主流程接到 `scripts/retry_download_queue.py`，启动时先消化可恢复积压，避免配置恢复后仍只读旧 blocked-day 记录。
 - [ ] 为来源可达性预检补一层轻量检查，避免在明显 `403` / bot-wall 来源上重复空跑，并对 arXiv / DOI 这类开放来源单独标记“仅运行时阻塞”。
 - [ ] 修补 `scripts/safe_pdf_download.py` 在个别 Cambridge 官方 PDF 直链上的卡住问题；当前同 URL 用 `curl` 可正常完成下载，说明更像 Python 传输路径或读取策略问题。
 
 ## 开发记录
+
+- 2026-09-27：加载 382 条完成台账、17 条重试队列和历史 `daily/`，按 DOI/arXiv identifier、规范化标题、正式版—预印本关系和物理场景去重；周末官方 arXiv 目标分类最新仍为 2026-09-25 批次，并用 Crossref 2026-09-25 至 27 正式元数据与单篇来源复查。新增正式 EPJ Plus `10.1140/epjp/s13360-026-08312-1`、arXiv `10.48550/arXiv.2609.29514` 与 `10.48550/arXiv.2609.28604`；3 份 PDF 通过文件、页数、哈希和文本校验。LUXE 完成 MinerU，两篇 arXiv 失败后用本地布局文本、页面渲染和人工逐图检查 fallback，保留 12 张关键图。台账增至 385 条；正式 *Nuclear Fusion* `10.1088/1741-4326/aeac6a` 因 IOP/Radware 访问页进入重试队列，使其增至 18 条。严格区分 LUXE 实施预测与已观测对撞数据、MHD 代理的低/中 `S` 成功区与高 `S` burst 失效区、MWPPAC 的真实事件/参考丝验证与尚未跨装置验证；本轮没有重跑对撞模拟、MHD DNS/PINO 训练或原始探测器事件重放。
 
 - 2026-09-26：加载 378 条完成台账、17 条重试队列和历史 `daily/`，按 DOI/arXiv identifier、规范化标题、正式版—预印本关系和物理场景去重；核对官方 arXiv `physics.plasm-ph`、`physics.acc-ph`、`physics.comp-ph`、`nucl-ex`、`physics.ins-det` 2026-09-25 批次，并用 Crossref 2026-09-25 至 26 正式元数据复查。新增 `10.48550/arXiv.2609.28788`、`10.48550/arXiv.2609.29325`、`10.48550/arXiv.2609.28730`、`10.48550/arXiv.2609.29435`；4 份 PDF 通过文件、页数、哈希和文本校验。MinerU 四项均失败，故用本地布局文本、页面渲染和人工逐图检查 fallback，保留 16 张关键图。台账增至 382 条、重试队列保持 17 条。严格区分缪子成像直接信号与 GEANT4 粒种归因、单过程采样误差与生产 PIC 性能、GX 代理加速与 OOD 非物理解、mDFT 高压分歧与尚缺实验锚点；本轮没有重跑 GEANT4、QED-PIC、GX/T3D、训练或 mDFT。
 
@@ -195,12 +197,14 @@
 
 ## 阻塞点
 
-- 队列里的 14 条非 APS 阻塞已明确是来源侧访问限制：10 条 Elsevier `HTTP 403`、1 条 Nature cookie wall、3 条 IOP/Radware 验证页。
-- APS `10.1103/p7k8-mjn7`、`10.1103/nc7w-yr34`、`10.1103/k23j-c9y7` 与 `10.1103/mmc9-nzfx` 仍在结构化重试队列；其中 `mmc9-nzfx` 的 accepted manuscript 标注延迟到 2027-09-10 开放。
+- 队列里的 15 条非 APS 阻塞已明确是来源侧访问限制：10 条 Elsevier `HTTP 403`、1 条 Nature cookie wall、4 条 IOP/Radware 验证页。
+- APS `10.1103/p7k8-mjn7`、`10.1103/k23j-c9y7` 与 `10.1103/mmc9-nzfx` 仍在结构化重试队列；其中 `mmc9-nzfx` 的 accepted manuscript 标注延迟到 2027-09-10 开放。
 - APS 候选 `10.1103/d45l-hsgg` 已在 2026-09-23 通过 APS harvest 正式全文端点恢复并入库，不再属于阻塞候选；`10.1103/sgyf-lrw1` 与 `10.1103/2rqf-hq77` 仍待 version of record 或合法作者稿开放。
 - `2026-06-09` Cambridge/JPP 3 条、`2026-06-10` arXiv 3 条和 `2026-06-11` arXiv 3 条已在配置恢复后全部补回 PDF，不再是 runtime-blocked 积压。
 
 ## 下一步
+
+- 2026-09-27：台账已至 385 条，重试队列为 18 条。下轮先检查官方 arXiv 周一新批次与 LUXE/DIII-D 相关正式来源；对 `10.1088/1741-4326/aeac6a` 只在 IOP 正文或合法作者稿开放后入库。PINO 需更长时间窗、多初值/边界与 Hall/动理学验证；MWPPAC 需跨运行期、老化和异构探测器冻结测试；LUXE 结论在真实对撞谱/产额发布前仍按装置与模拟预测处理。
 
 - 2026-09-23：台账已至 372 条，重试队列为 18 条。下轮先检查 2026-09-23 官方 arXiv 批次与新正式来源，并继续优先寻找能闭合 laser-accelerated beam → converter/catcher → γ/正电子/中子/活化 → 剂量/屏蔽或材料应用的实验全文。锥靶结果需要实验、制造误差和真实下游输运验证；辐射湍流标度需要三维、电子—离子与观测响应检验；PhySKIP 需要公开权重/代码、盲测和 PIC/多维端到端实现后再外推。
 

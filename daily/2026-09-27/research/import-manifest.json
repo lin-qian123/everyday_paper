@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "run_id": "2026-09-27-daily-paper",
+  "library": "/Volumes/PHILIPS/programs/everyday_paper",
+  "papers": [
+    {
+      "manifest_id": "zarnecki-2026-luxe-qed",
+      "doi": "10.1140/epjp/s13360-026-08312-1",
+      "target_collection": "daily/2026-09-27",
+      "reason": "formal open-access implementation update for electron-laser and photon-laser strong-field QED",
+      "status": "imported_reviewed",
+      "url": "https://doi.org/10.1140/epjp/s13360-026-08312-1",
+      "title": "LUXE: a high-precision experiment to study non-perturbative QED in electron–laser and photon–laser collisions",
+      "authors": ["Aleksander Filip Żarnecki", "for the LUXE Collaboration"],
+      "year": 2026,
+      "venue": "The European Physical Journal Plus",
+      "local_pdf": "daily/2026-09-27/pdfs/Zarnecki - 2026 - LUXE high-precision nonperturbative QED.pdf",
+      "sha256": "1897dec0d0ccd5d90ee3c4d7b81421306b4d698322890befd4fe681f01242ad4",
+      "page_count": 6,
+      "pdf_bytes": 1189592,
+      "summary_path": "daily/2026-09-27/notes/Zarnecki - 2026 - LUXE high-precision nonperturbative QED.md",
+      "fulltext_review": true
+    },
+    {
+      "manifest_id": "pothula-kumar-2026-pino-mhd-reconnection",
+      "doi": "10.48550/arXiv.2609.29514",
+      "target_collection": "daily/2026-09-27",
+      "reason": "physics-informed neural operator with held-out parameters, derivative diagnostics, grid transfer and explicit high-S failure region",
+      "status": "imported_reviewed",
+      "url": "https://arxiv.org/abs/2609.29514",
+      "title": "Physics-Informed Neural Operator Surrogate for 2D Magnetohydrodynamic Reconnection",
+      "authors": ["Kushaal Kumar Pothula", "Arunav Kumar"],
+      "year": 2026,
+      "venue": "arXiv",
+      "local_pdf": "daily/2026-09-27/pdfs/Pothula and Kumar - 2026 - PINO MHD reconnection.pdf",
+      "sha256": "49fb99a0dadc7445f5a6f381df426c334f64d4b5a1334fb8e86b8b4bd870902e",
+      "page_count": 16,
+      "pdf_bytes": 39628305,
+      "summary_path": "daily/2026-09-27/notes/Pothula and Kumar - 2026 - PINO MHD reconnection.md",
+      "fulltext_review": true
+    },
+    {
+      "manifest_id": "lemasson-rejmund-2026-mwppac-calibration",
+      "doi": "10.48550/arXiv.2609.28604",
+      "target_collection": "daily/2026-09-27",
+      "reason": "physics-informed self-supervised detector calibration on real VAMOS++ data with independent reference-wire validation",
+      "status": "imported_reviewed",
+      "url": "https://arxiv.org/abs/2609.28604",
+      "title": "Physics-Informed Self-Supervised Learning for Joint Wire Calibration and Interaction Position Reconstruction in Multi-Wire Parallel Plate Avalanche Counters",
+      "authors": ["Antoine Lemasson", "Maurycy Rejmund"],
+      "year": 2026,
+      "venue": "arXiv",
+      "local_pdf": "daily/2026-09-27/pdfs/Lemasson and Rejmund - 2026 - Self-supervised MWPPAC calibration.pdf",
+      "sha256": "c4f6aa9a7db2bcd22732d95a91a587293dcabb64681e830ff1886f82a58e00e6",
+      "page_count": 24,
+      "pdf_bytes": 2412983,
+      "summary_path": "daily/2026-09-27/notes/Lemasson and Rejmund - 2026 - Self-supervised MWPPAC calibration.md",
+      "fulltext_review": true
+    }
+  ]
+}

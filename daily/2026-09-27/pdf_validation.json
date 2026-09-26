@@ -1,0 +1,67 @@
+{
+  "run_date": "2026-09-27",
+  "all_added_documents_valid": true,
+  "checks": [
+    "%PDF- header and file type",
+    "page count and metadata",
+    "SHA-256",
+    "non-empty pdftotext -layout output",
+    "local image or page rendering",
+    "manual inspection of selected figures"
+  ],
+  "mineru_summary": {
+    "usable_successes": 1,
+    "failures": 2,
+    "details": "The LUXE public URL produced usable MinerU Markdown (task 96a1bb0f-e01b-4dc0-91c4-8a6a874841a5). Both official arXiv public URLs returned 'parsing failed, please try again later'; local layout text and rendered-image fallback was used for those papers."
+  },
+  "documents": [
+    {
+      "identifier": "10.1140/epjp/s13360-026-08312-1",
+      "pdf_path": "daily/2026-09-27/pdfs/Zarnecki - 2026 - LUXE high-precision nonperturbative QED.pdf",
+      "source_url": "https://link.springer.com/content/pdf/10.1140/epjp/s13360-026-08312-1.pdf",
+      "download_report": "daily/2026-09-27/pdfs/download-reports/10.1140-epjp-s13360-026-08312-1.json",
+      "bytes": 1189592,
+      "sha256": "1897dec0d0ccd5d90ee3c4d7b81421306b4d698322890befd4fe681f01242ad4",
+      "pages": 6,
+      "pdf_version": "1.4",
+      "text_path": "daily/2026-09-27/pdfs/Zarnecki - 2026 - LUXE high-precision nonperturbative QED.txt",
+      "text_bytes": 24437,
+      "mineru_status": "success",
+      "mineru_task_id": "96a1bb0f-e01b-4dc0-91c4-8a6a874841a5",
+      "selected_figures": 4,
+      "valid": true
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.29514",
+      "pdf_path": "daily/2026-09-27/pdfs/Pothula and Kumar - 2026 - PINO MHD reconnection.pdf",
+      "source_url": "https://arxiv.org/pdf/2609.29514",
+      "download_report": "daily/2026-09-27/pdfs/download-reports/10.48550-arXiv.2609.29514.json",
+      "bytes": 39628305,
+      "sha256": "49fb99a0dadc7445f5a6f381df426c334f64d4b5a1334fb8e86b8b4bd870902e",
+      "pages": 16,
+      "pdf_version": "1.7",
+      "text_path": "daily/2026-09-27/pdfs/Pothula and Kumar - 2026 - PINO MHD reconnection.txt",
+      "text_bytes": 96016,
+      "mineru_status": "failed",
+      "fallback": "pdftotext plus embedded-image and rendered-page inspection",
+      "selected_figures": 4,
+      "valid": true
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.28604",
+      "pdf_path": "daily/2026-09-27/pdfs/Lemasson and Rejmund - 2026 - Self-supervised MWPPAC calibration.pdf",
+      "source_url": "https://arxiv.org/pdf/2609.28604",
+      "download_report": "daily/2026-09-27/pdfs/download-reports/10.48550-arXiv.2609.28604.json",
+      "bytes": 2412983,
+      "sha256": "c4f6aa9a7db2bcd22732d95a91a587293dcabb64681e830ff1886f82a58e00e6",
+      "pages": 24,
+      "pdf_version": "1.7",
+      "text_path": "daily/2026-09-27/pdfs/Lemasson and Rejmund - 2026 - Self-supervised MWPPAC calibration.txt",
+      "text_bytes": 69849,
+      "mineru_status": "failed",
+      "fallback": "pdftotext plus rendered-page inspection",
+      "selected_figures": 4,
+      "valid": true
+    }
+  ]
+}

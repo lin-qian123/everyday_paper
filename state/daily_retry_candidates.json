@@ -338,5 +338,25 @@
     "last_failure_class": "publisher_bot_wall",
     "source_family": "iop",
     "failure_count": 1
+  },
+  {
+    "doi": "10.1088/1741-4326/aeac6a",
+    "title": "Direct measurement of fast-ion energy transfer in DIII-D using energetic-particle-induced density fluctuations",
+    "source_url": "https://iopscience.iop.org/article/10.1088/1741-4326/aeac6a",
+    "publication_date": "2026-09-25",
+    "journal": "Nuclear Fusion（正式期刊，CC BY 4.0）",
+    "topic": "DIII-D + TAE + 快离子相空间涨落 + 波粒能量交换直接测量",
+    "run_date": "2026-09-27",
+    "status": "download_failed",
+    "attempt_cmd": "python scripts/safe_pdf_download.py --url https://iopscience.iop.org/article/10.1088/1741-4326/aeac6a/pdf --doi 10.1088/1741-4326/aeac6a --output \"daily/2026-09-27/pdfs/Rueda-Rueda et al. - 2026 - Fast-ion energy transfer in DIII-D.pdf\" --report-json daily/2026-09-27/pdfs/download-reports/10.1088-1741-4326-aeac6a.json",
+    "stderr": "Official IOP PDF, DOI, and article routes returned HTML/Radware access pages instead of a PDF; no lawful open author manuscript was found during the 2026-09-27 search.",
+    "stdout": "",
+    "output_pdf": "daily/2026-09-27/pdfs/Rueda-Rueda et al. - 2026 - Fast-ion energy transfer in DIII-D.pdf",
+    "attempted_at": "2026-09-27T07:15:56+08:00",
+    "last_retry_at": null,
+    "retry_count": 0,
+    "last_failure_class": "html_instead_of_pdf",
+    "source_family": "iop",
+    "failure_count": 1
   }
 ]

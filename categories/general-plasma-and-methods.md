@@ -2,11 +2,13 @@
 
 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。
 
-- 当前收录：66 篇
-- 索引更新时间：2026-09-26
+- 当前收录：68 篇
+- 索引更新时间：2026-09-27
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-27 | [Physics-Informed Neural Operator Surrogate for 2D Magnetohydrodynamic Reconnection](../papers/arxiv-2609-29514/README.md) | arXiv preprint | [笔记](../daily/2026-09-27/notes/Pothula and Kumar - 2026 - PINO MHD reconnection.md) |
+| 2026-09-27 | [Physics-Informed Self-Supervised Learning for Joint Wire Calibration and Interaction Position Reconstruction in Multi-Wire Parallel Plate Avalanche Counters](../papers/arxiv-2609-28604/README.md) | arXiv preprint | [笔记](../daily/2026-09-27/notes/Lemasson and Rejmund - 2026 - Self-supervised MWPPAC calibration.md) |
 | 2026-09-26 | [Monte Carlo sampling of first-order QED processes in laser and pulsar plasmas](../papers/arxiv-2609-29325/README.md) | arXiv preprint | [笔记](../daily/2026-09-26/notes/Sarjomaa and Nattila - 2026 - QED Monte Carlo sampling.md) |
 | 2026-09-26 | [Equation of state and transport coefficients of warm dense aluminum from mixed deterministic-stochastic density functional theory](../papers/arxiv-2609-29435/README.md) | arXiv preprint | [笔记](../daily/2026-09-26/notes/Li et al. - 2026 - Warm dense aluminum DFT.md) |
 | 2026-09-26 | [AI-Accelerated Gyrokinetic Predictions of Turbulent Transport for Stellarator Design Optimization and Experimental Planning](../papers/arxiv-2609-28730/README.md) | arXiv preprint | [笔记](../daily/2026-09-26/notes/Churchill et al. - 2026 - AI gyrokinetic stellarator transport.md) |

@@ -2,11 +2,13 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：105 篇
-- 索引更新时间：2026-09-26
+- 当前收录：107 篇
+- 索引更新时间：2026-09-27
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-27 | [LUXE: a high-precision experiment to study non-perturbative QED in electron–laser and photon–laser collisions](../papers/10-1140-epjp-s13360-026-08312-1/README.md) | The European Physical Journal Plus | [笔记](../daily/2026-09-27/notes/Zarnecki - 2026 - LUXE high-precision nonperturbative QED.md) |
+| 2026-09-27 | [Physics-Informed Self-Supervised Learning for Joint Wire Calibration and Interaction Position Reconstruction in Multi-Wire Parallel Plate Avalanche Counters](../papers/arxiv-2609-28604/README.md) | arXiv preprint | [笔记](../daily/2026-09-27/notes/Lemasson and Rejmund - 2026 - Self-supervised MWPPAC calibration.md) |
 | 2026-09-26 | [Imaging with GeV muons produced via laser-wakefield-accelerated electrons](../papers/arxiv-2609-28788/README.md) | arXiv preprint | [笔记](../daily/2026-09-26/notes/Dobre et al. - 2026 - Laser-driven GeV muon imaging.md) |
 | 2026-09-25 | [Experimental tuning of electron energy gain via laser focus shift in a laser-driven plasma wakefield accelerator](../papers/10-1088-2058-6272-aeabfd/README.md) | Plasma Science and Technology | [笔记](../daily/2026-09-25/notes/Chang et al. - 2026 - Plasma telescope LWFA focus tuning.md) |
 | 2026-09-25 | [Fast-Neutron Scintillation with Multi-Quantum-Well 2D Perovskites](../papers/arxiv-2609-28468/README.md) | arXiv preprint | [笔记](../daily/2026-09-25/notes/Tan et al. - 2026 - Fast neutron scintillation in 2D perovskites.md) |

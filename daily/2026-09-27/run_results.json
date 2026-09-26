@@ -1,0 +1,74 @@
+{
+  "run_date": "2026-09-27",
+  "latest_official_arxiv_batch": "2026-09-25",
+  "search_summary": {
+    "sources": "official arXiv category and article pages, Crossref 2026-09-25 through 2026-09-27 metadata, DOI and publisher pages",
+    "selection_basis": "formal-source priority, verified full text, newest official arXiv increment, direct evidence, topic fit and non-duplication",
+    "coverage_claim": "targeted, not exhaustive",
+    "research_record": "daily/2026-09-27/research/"
+  },
+  "deduplication": {
+    "processed_before": 382,
+    "processed_after": 385,
+    "retry_before": 17,
+    "retry_after": 18,
+    "keys": [
+      "DOI or arXiv identifier",
+      "normalized title",
+      "historical daily folders",
+      "retry queue",
+      "formal-version versus preprint title match",
+      "abstract and physical scenario"
+    ]
+  },
+  "added": [
+    "10.1140/epjp/s13360-026-08312-1",
+    "10.48550/arXiv.2609.29514",
+    "10.48550/arXiv.2609.28604"
+  ],
+  "retry_removed": [],
+  "retry_added": [
+    "10.1088/1741-4326/aeac6a"
+  ],
+  "skipped": [
+    {
+      "identifier": "10.1088/2058-6272/aeacb3",
+      "reason": "the formal negative-ion-source Mach-probe paper was full-text blocked by IOP and lower priority than the selected studies"
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.29336",
+      "reason": "the PQLS Bayesian saturation closure was deferred to a gyrokinetic-specialist run"
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.29277",
+      "reason": "the dielectric-barrier-discharge reignition study had lower topic fit than the selected plasma and detector papers"
+    }
+  ],
+  "pdf_validation": {
+    "valid_documents": 3,
+    "mineru_usable_successes": 1,
+    "mineru_failures": 2,
+    "selected_and_visually_checked_figures": 12,
+    "fallback": "local pdftotext plus embedded-image or PDF-page rendering for the two failed arXiv tasks",
+    "details": "daily/2026-09-27/pdf_validation.json"
+  },
+  "evidence_boundaries": [
+    "The LUXE paper reports implementation status, detector prototypes and simulated spectra or yields, not recorded electron-laser or photon-laser collision data.",
+    "The PINO paper validates a surrogate against the authors' two-dimensional resistive-MHD DNS; it is neither a kinetic PIC model nor a reconnection experiment, and high-S late plasmoid bursts produce 32-42% rate errors.",
+    "The MWPPAC paper uses real VAMOS++ events and an independent reference wire, but cross-run, cross-detector, nonlinear-response and long-term-drift generalization remain untested.",
+    "No LUXE end-to-end simulation, MHD DNS/PINO training or VAMOS++ raw-event replay was rerun locally."
+  ],
+  "validation": {
+    "index_builder": "Indexed 385 papers across 9 categories.",
+    "pytest": "7 passed via PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q",
+    "unittest": "7 tests passed",
+    "ledger_checks": "385 records parsed; 381 non-null identifiers are unique; all 385 normalized titles are unique; 18 unique retry records retained",
+    "note_image_reference_check": "3 notes checked; all 12 unique local image references resolved and decoded",
+    "pdf_header_size_hash_metadata_text_check": "passed for all 3 added documents",
+    "download_report_check": "4 JSON reports parsed, including the structured IOP failure",
+    "markdown_link_check": "all local links in the daily index resolved",
+    "diff_check": "git diff --check passed"
+  },
+  "git": "commit and push to origin/master after final validation",
+  "status": "success"
+}

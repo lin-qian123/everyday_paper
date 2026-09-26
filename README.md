@@ -9,7 +9,7 @@
 - [索引文件](#索引文件)
 - [仓库结构](#仓库结构)
 - [分类索引](#分类索引)
-- [当前状态](#当前状态2026-09-26)
+- [当前状态](#当前状态2026-09-27)
 - [去重规则](#去重规则)
 - [PDF 下载稳健性](#pdf-下载稳健性)
 - [维护约定](#维护约定)
@@ -78,6 +78,12 @@
 - `INDEX.md`: 总索引
 - `state/processed_articles.json`: 已处理论文去重台账
 - `templates/daily-index-template.md`: 每日索引模板
+
+## 当前状态（2026-09-27）
+
+- 已维护到 `daily/2026-09-27/`。周末官方 arXiv 目标分类的最新批次仍为 2026-09-25；本轮在同日批次和 Crossref 2026-09-25 至 27 正式元数据中，新增正式 *The European Physical Journal Plus* `10.1140/epjp/s13360-026-08312-1`、arXiv `10.48550/arXiv.2609.29514` 与 `10.48550/arXiv.2609.28604`，分别覆盖 LUXE 电子/伽马—激光强场 QED 实施更新、二维电阻 MHD 重联 PINO 代理与 VAMOS++ MWPPAC 物理约束自监督校准。
+- 3 份官方 PDF 均通过 `%PDF-`、`file`、`pdfinfo`、SHA-256 与非空 `pdftotext -layout`；LUXE 完成 MinerU，2 篇 arXiv 的 MinerU 任务失败后使用本地布局文本、页面渲染和逐图检查 fallback。本轮保留并查看 12 张关键图，台账从 382 增至 385 条；正式 *Nuclear Fusion* `10.1088/1741-4326/aeac6a` 因 IOP/Radware 只返回 HTML 加入结构化重试队列，使其从 17 增至 18 条。
+- 证据边界：LUXE 给出实验实施和模拟产额，不是已完成的对撞数据；PINO 是作者二维电阻 MHD DNS 代理，高 `S` plasmoid burst 区误差已升至 `32–42%`；MWPPAC 使用真实 VAMOS++ 事件和独立参考丝，但尚未跨装置或长期运行验证。本轮没有重跑 LUXE 端到端模拟、MHD DNS/PINO 训练或 MWPPAC 原始事件重放。
 
 ## 当前状态（2026-09-26）
 

@@ -2,11 +2,12 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：86 篇
-- 索引更新时间：2026-09-26
+- 当前收录：87 篇
+- 索引更新时间：2026-09-27
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-27 | [LUXE: a high-precision experiment to study non-perturbative QED in electron–laser and photon–laser collisions](../papers/10-1140-epjp-s13360-026-08312-1/README.md) | The European Physical Journal Plus | [笔记](../daily/2026-09-27/notes/Zarnecki - 2026 - LUXE high-precision nonperturbative QED.md) |
 | 2026-09-26 | [Imaging with GeV muons produced via laser-wakefield-accelerated electrons](../papers/arxiv-2609-28788/README.md) | arXiv preprint | [笔记](../daily/2026-09-26/notes/Dobre et al. - 2026 - Laser-driven GeV muon imaging.md) |
 | 2026-09-25 | [Experimental tuning of electron energy gain via laser focus shift in a laser-driven plasma wakefield accelerator](../papers/10-1088-2058-6272-aeabfd/README.md) | Plasma Science and Technology | [笔记](../daily/2026-09-25/notes/Chang et al. - 2026 - Plasma telescope LWFA focus tuning.md) |
 | 2026-09-25 | [High-energy high-density attosecond electron bunch from short-wavelength laser–nanofoil interaction](../papers/10-1364-oe-612056/README.md) | Optics Express | [笔记](../daily/2026-09-25/notes/Li et al. - 2026 - Attosecond electron bunch from laser nanofoil.md) |

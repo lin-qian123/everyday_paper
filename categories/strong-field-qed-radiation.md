@@ -2,11 +2,12 @@
 
 强场量子效应、辐射反作用、非线性 Compton、pair production 与极端场实验。
 
-- 当前收录：63 篇
-- 索引更新时间：2026-09-26
+- 当前收录：64 篇
+- 索引更新时间：2026-09-27
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-27 | [LUXE: a high-precision experiment to study non-perturbative QED in electron–laser and photon–laser collisions](../papers/10-1140-epjp-s13360-026-08312-1/README.md) | The European Physical Journal Plus | [笔记](../daily/2026-09-27/notes/Zarnecki - 2026 - LUXE high-precision nonperturbative QED.md) |
 | 2026-09-26 | [Monte Carlo sampling of first-order QED processes in laser and pulsar plasmas](../papers/arxiv-2609-29325/README.md) | arXiv preprint | [笔记](../daily/2026-09-26/notes/Sarjomaa and Nattila - 2026 - QED Monte Carlo sampling.md) |
 | 2026-09-23 | [Anisotropy and energy distribution of leptons and photons in radiative relativistic Alfvénic turbulence](../papers/10-1103-f9xt-jpd1/README.md) | Physical Review D | [笔记](../daily/2026-09-23/notes/Liu et al. - 2026 - Radiative relativistic Alfvenic turbulence.md) |
 | 2026-09-13 | [Two-Phase Structure of Synchrotron-Cooling-Unstable Relativistic Plasma](../papers/arxiv-2609-07793/README.md) | arXiv preprint | [笔记](../daily/2026-09-13/notes/Wierzchucka et al. - 2026 - Two-phase synchrotron-cooling-unstable relativistic plasma.md) |

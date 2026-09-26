@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "output": "daily/2026-09-27/pdfs/Zarnecki - 2026 - LUXE high-precision nonperturbative QED.pdf",
+  "source_url": "https://link.springer.com/content/pdf/10.1140/epjp/s13360-026-08312-1.pdf",
+  "mode": "direct",
+  "attempts": [
+    "[env-proxy] https://link.springer.com/content/pdf/10.1140/epjp/s13360-026-08312-1.pdf -> not pdf (content-type=text/html; charset=utf-8)"
+  ]
+}
