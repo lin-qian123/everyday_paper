@@ -4393,5 +4393,68 @@
       "experimental-platforms-diagnostics"
     ],
     "normalized_title": "fast neutron scintillation with multi quantum well 2d perovskites"
+  },
+  {
+    "title": "Imaging with GeV muons produced via laser-wakefield-accelerated electrons",
+    "doi": "10.48550/arXiv.2609.28788",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-23",
+    "processed_date": "2026-09-26",
+    "source_url": "https://arxiv.org/abs/2609.28788",
+    "pdf_path": "daily/2026-09-26/pdfs/Dobre et al. - 2026 - Laser-driven GeV muon imaging.pdf",
+    "note_path": "daily/2026-09-26/notes/Dobre et al. - 2026 - Laser-driven GeV muon imaging.md",
+    "categories": [
+      "laser-plasma-acceleration",
+      "laser-accelerated-beam-applications",
+      "experimental-platforms-diagnostics"
+    ],
+    "normalized_title": "imaging with gev muons produced via laser wakefield accelerated electrons"
+  },
+  {
+    "title": "Monte Carlo sampling of first-order QED processes in laser and pulsar plasmas",
+    "doi": "10.48550/arXiv.2609.29325",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-24",
+    "processed_date": "2026-09-26",
+    "source_url": "https://arxiv.org/abs/2609.29325",
+    "pdf_path": "daily/2026-09-26/pdfs/Sarjomaa and Nattila - 2026 - QED Monte Carlo sampling.pdf",
+    "note_path": "daily/2026-09-26/notes/Sarjomaa and Nattila - 2026 - QED Monte Carlo sampling.md",
+    "categories": [
+      "strong-field-qed-radiation",
+      "pic-and-plasma-simulation",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "monte carlo sampling of first order qed processes in laser and pulsar plasmas"
+  },
+  {
+    "title": "AI-Accelerated Gyrokinetic Predictions of Turbulent Transport for Stellarator Design Optimization and Experimental Planning",
+    "doi": "10.48550/arXiv.2609.28730",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-23",
+    "processed_date": "2026-09-26",
+    "source_url": "https://arxiv.org/abs/2609.28730",
+    "pdf_path": "daily/2026-09-26/pdfs/Churchill et al. - 2026 - AI gyrokinetic stellarator transport.pdf",
+    "note_path": "daily/2026-09-26/notes/Churchill et al. - 2026 - AI gyrokinetic stellarator transport.md",
+    "categories": [
+      "ai-ml-plasma-physics",
+      "magnetic-fusion-and-alpha-particles",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "ai accelerated gyrokinetic predictions of turbulent transport for stellarator design optimization and experimental planning"
+  },
+  {
+    "title": "Equation of state and transport coefficients of warm dense aluminum from mixed deterministic-stochastic density functional theory",
+    "doi": "10.48550/arXiv.2609.29435",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-24",
+    "processed_date": "2026-09-26",
+    "source_url": "https://arxiv.org/abs/2609.29435",
+    "pdf_path": "daily/2026-09-26/pdfs/Li et al. - 2026 - Warm dense aluminum DFT.pdf",
+    "note_path": "daily/2026-09-26/notes/Li et al. - 2026 - Warm dense aluminum DFT.md",
+    "categories": [
+      "hedp-icf-laboratory-astrophysics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "equation of state and transport coefficients of warm dense aluminum from mixed deterministic stochastic density functional theory"
   }
 ]

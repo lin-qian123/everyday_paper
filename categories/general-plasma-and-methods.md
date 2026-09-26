@@ -2,11 +2,14 @@
 
 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。
 
-- 当前收录：63 篇
-- 索引更新时间：2026-09-25
+- 当前收录：66 篇
+- 索引更新时间：2026-09-26
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-26 | [Monte Carlo sampling of first-order QED processes in laser and pulsar plasmas](../papers/arxiv-2609-29325/README.md) | arXiv preprint | [笔记](../daily/2026-09-26/notes/Sarjomaa and Nattila - 2026 - QED Monte Carlo sampling.md) |
+| 2026-09-26 | [Equation of state and transport coefficients of warm dense aluminum from mixed deterministic-stochastic density functional theory](../papers/arxiv-2609-29435/README.md) | arXiv preprint | [笔记](../daily/2026-09-26/notes/Li et al. - 2026 - Warm dense aluminum DFT.md) |
+| 2026-09-26 | [AI-Accelerated Gyrokinetic Predictions of Turbulent Transport for Stellarator Design Optimization and Experimental Planning](../papers/arxiv-2609-28730/README.md) | arXiv preprint | [笔记](../daily/2026-09-26/notes/Churchill et al. - 2026 - AI gyrokinetic stellarator transport.md) |
 | 2026-09-24 | [Nonthermal electron acceleration and transition probability density in turbulent wakefields driven by an intense laser pulse](../papers/10-1103-nc7w-yr34/README.md) | Physical Review E | [笔记](../daily/2026-09-24/notes/Liu and Kuramitsu - 2026 - Nonthermal wakefield acceleration.md) |
 | 2026-09-24 | [Photoneutron reactions on 165Ho and 169Tm in the giant dipole resonance region](../papers/arxiv-2609-25984/README.md) | arXiv preprint | [笔记](../daily/2026-09-24/notes/Gheorghe et al. - 2026 - Ho and Tm photoneutron reactions.md) |
 | 2026-09-23 | [Anisotropy and energy distribution of leptons and photons in radiative relativistic Alfvénic turbulence](../papers/10-1103-f9xt-jpd1/README.md) | Physical Review D | [笔记](../daily/2026-09-23/notes/Liu et al. - 2026 - Radiative relativistic Alfvenic turbulence.md) |

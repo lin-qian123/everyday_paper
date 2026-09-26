@@ -1,10 +1,14 @@
 # 论文总索引
 
-- 当前入库论文：378 篇
-- 索引更新时间：2026-09-25
+- 当前入库论文：382 篇
+- 索引更新时间：2026-09-26
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-09-26 | [Monte Carlo sampling of first-order QED processes in laser and pulsar plasmas](./arxiv-2609-29325/README.md) | arXiv preprint | [10.48550/arXiv.2609.29325](https://doi.org/10.48550/arXiv.2609.29325) |
+| 2026-09-26 | [Equation of state and transport coefficients of warm dense aluminum from mixed deterministic-stochastic density functional theory](./arxiv-2609-29435/README.md) | arXiv preprint | [10.48550/arXiv.2609.29435](https://doi.org/10.48550/arXiv.2609.29435) |
+| 2026-09-26 | [Imaging with GeV muons produced via laser-wakefield-accelerated electrons](./arxiv-2609-28788/README.md) | arXiv preprint | [10.48550/arXiv.2609.28788](https://doi.org/10.48550/arXiv.2609.28788) |
+| 2026-09-26 | [AI-Accelerated Gyrokinetic Predictions of Turbulent Transport for Stellarator Design Optimization and Experimental Planning](./arxiv-2609-28730/README.md) | arXiv preprint | [10.48550/arXiv.2609.28730](https://doi.org/10.48550/arXiv.2609.28730) |
 | 2026-09-25 | [Experimental tuning of electron energy gain via laser focus shift in a laser-driven plasma wakefield accelerator](./10-1088-2058-6272-aeabfd/README.md) | Plasma Science and Technology | [10.1088/2058-6272/aeabfd](https://doi.org/10.1088/2058-6272/aeabfd) |
 | 2026-09-25 | [High-energy high-density attosecond electron bunch from short-wavelength laser–nanofoil interaction](./10-1364-oe-612056/README.md) | Optics Express | [10.1364/OE.612056](https://doi.org/10.1364/OE.612056) |
 | 2026-09-25 | [Fast-Neutron Scintillation with Multi-Quantum-Well 2D Perovskites](./arxiv-2609-28468/README.md) | arXiv preprint | [10.48550/arXiv.2609.28468](https://doi.org/10.48550/arXiv.2609.28468) |

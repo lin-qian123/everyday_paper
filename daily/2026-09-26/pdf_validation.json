@@ -1,0 +1,83 @@
+{
+  "run_date": "2026-09-26",
+  "all_added_documents_valid": true,
+  "checks": [
+    "%PDF- header and file type",
+    "page count and metadata",
+    "SHA-256",
+    "non-empty pdftotext -layout output",
+    "local page rendering",
+    "manual inspection of selected figures"
+  ],
+  "mineru_summary": {
+    "usable_successes": 0,
+    "failures": 4,
+    "details": "The batch wrapper does not support local files; all four official arXiv public URLs were then submitted and returned 'parsing failed, please try again later'. Local layout text and rendered-page fallback was used for every document."
+  },
+  "documents": [
+    {
+      "identifier": "10.48550/arXiv.2609.28788",
+      "pdf_path": "daily/2026-09-26/pdfs/Dobre et al. - 2026 - Laser-driven GeV muon imaging.pdf",
+      "source_url": "https://arxiv.org/pdf/2609.28788",
+      "download_report": "daily/2026-09-26/pdfs/download-reports/10.48550-arXiv.2609.28788.json",
+      "bytes": 20800239,
+      "sha256": "94f0baa98a96cb0e305e6726df0b410b40fc7cae97b88773ad880706f8a1478d",
+      "pages": 12,
+      "pdf_version": "1.7",
+      "text_path": "daily/2026-09-26/pdfs/Dobre et al. - 2026 - Laser-driven GeV muon imaging.txt",
+      "text_bytes": 86487,
+      "mineru_status": "failed",
+      "fallback": "pdftotext plus rendered-page inspection",
+      "selected_figures": 4,
+      "valid": true
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.29325",
+      "pdf_path": "daily/2026-09-26/pdfs/Sarjomaa and Nattila - 2026 - QED Monte Carlo sampling.pdf",
+      "source_url": "https://arxiv.org/pdf/2609.29325",
+      "download_report": "daily/2026-09-26/pdfs/download-reports/10.48550-arXiv.2609.29325.json",
+      "bytes": 2251127,
+      "sha256": "ac0104b2fc48c9cff1516f79f8371bfe51a20ae0825cff08d8e9d91ea9a519d9",
+      "pages": 19,
+      "pdf_version": "1.7",
+      "text_path": "daily/2026-09-26/pdfs/Sarjomaa and Nattila - 2026 - QED Monte Carlo sampling.txt",
+      "text_bytes": 140761,
+      "mineru_status": "failed",
+      "fallback": "pdftotext plus rendered-page inspection",
+      "selected_figures": 4,
+      "valid": true
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.28730",
+      "pdf_path": "daily/2026-09-26/pdfs/Churchill et al. - 2026 - AI gyrokinetic stellarator transport.pdf",
+      "source_url": "https://arxiv.org/pdf/2609.28730",
+      "download_report": "daily/2026-09-26/pdfs/download-reports/10.48550-arXiv.2609.28730.json",
+      "bytes": 1399847,
+      "sha256": "9f622bc83bf8771b5ef37dcc93e2f146c7be39a06c09b09abee7b40f0e2584c3",
+      "pages": 23,
+      "pdf_version": "1.5",
+      "text_path": "daily/2026-09-26/pdfs/Churchill et al. - 2026 - AI gyrokinetic stellarator transport.txt",
+      "text_bytes": 89188,
+      "mineru_status": "failed",
+      "fallback": "pdftotext plus rendered-page inspection",
+      "selected_figures": 4,
+      "valid": true
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.29435",
+      "pdf_path": "daily/2026-09-26/pdfs/Li et al. - 2026 - Warm dense aluminum DFT.pdf",
+      "source_url": "https://arxiv.org/pdf/2609.29435",
+      "download_report": "daily/2026-09-26/pdfs/download-reports/10.48550-arXiv.2609.29435.json",
+      "bytes": 754439,
+      "sha256": "9956601bf25160873c0520deddf2aba2dfb74b5cdaa40e65a960883e6a47450a",
+      "pages": 8,
+      "pdf_version": "1.7",
+      "text_path": "daily/2026-09-26/pdfs/Li et al. - 2026 - Warm dense aluminum DFT.txt",
+      "text_bytes": 47932,
+      "mineru_status": "failed",
+      "fallback": "pdftotext plus rendered-page inspection",
+      "selected_figures": 4,
+      "valid": true
+    }
+  ]
+}

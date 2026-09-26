@@ -2,11 +2,12 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：85 篇
-- 索引更新时间：2026-09-25
+- 当前收录：86 篇
+- 索引更新时间：2026-09-26
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-26 | [Imaging with GeV muons produced via laser-wakefield-accelerated electrons](../papers/arxiv-2609-28788/README.md) | arXiv preprint | [笔记](../daily/2026-09-26/notes/Dobre et al. - 2026 - Laser-driven GeV muon imaging.md) |
 | 2026-09-25 | [Experimental tuning of electron energy gain via laser focus shift in a laser-driven plasma wakefield accelerator](../papers/10-1088-2058-6272-aeabfd/README.md) | Plasma Science and Technology | [笔记](../daily/2026-09-25/notes/Chang et al. - 2026 - Plasma telescope LWFA focus tuning.md) |
 | 2026-09-25 | [High-energy high-density attosecond electron bunch from short-wavelength laser–nanofoil interaction](../papers/10-1364-oe-612056/README.md) | Optics Express | [笔记](../daily/2026-09-25/notes/Li et al. - 2026 - Attosecond electron bunch from laser nanofoil.md) |
 | 2026-09-25 | [Fast-Neutron Scintillation with Multi-Quantum-Well 2D Perovskites](../papers/arxiv-2609-28468/README.md) | arXiv preprint | [笔记](../daily/2026-09-25/notes/Tan et al. - 2026 - Fast neutron scintillation in 2D perovskites.md) |

@@ -2,11 +2,12 @@
 
 stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。
 
-- 当前收录：41 篇
-- 索引更新时间：2026-09-25
+- 当前收录：42 篇
+- 索引更新时间：2026-09-26
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-26 | [AI-Accelerated Gyrokinetic Predictions of Turbulent Transport for Stellarator Design Optimization and Experimental Planning](../papers/arxiv-2609-28730/README.md) | arXiv preprint | [笔记](../daily/2026-09-26/notes/Churchill et al. - 2026 - AI gyrokinetic stellarator transport.md) |
 | 2026-09-25 | [Fast-Neutron Scintillation with Multi-Quantum-Well 2D Perovskites](../papers/arxiv-2609-28468/README.md) | arXiv preprint | [笔记](../daily/2026-09-25/notes/Tan et al. - 2026 - Fast neutron scintillation in 2D perovskites.md) |
 | 2026-09-22 | [Mechanism of Ionization Avalanche in Tokamak Microwave Gas Breakdown](../papers/arxiv-2609-21429/README.md) | arXiv preprint | [笔记](../daily/2026-09-22/notes/Gwak et al. - 2026 - Tokamak microwave gas breakdown.md) |
 | 2026-09-21 | [Overview of achievements and outlook of the IFMIF/EVEDA project](../papers/10-1088-1741-4326-aea171/README.md) | Nuclear Fusion | [笔记](../daily/2026-09-21/notes/Hasegawa et al. - 2026 - IFMIF EVEDA achievements and outlook.md) |

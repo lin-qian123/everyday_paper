@@ -1,0 +1,74 @@
+{
+  "run_date": "2026-09-26",
+  "latest_official_arxiv_batch": "2026-09-25",
+  "search_summary": {
+    "sources": "official arXiv category and article pages, Crossref 2026-09-25 through 2026-09-26 metadata",
+    "selection_basis": "formal-source priority, verified full text, newest official arXiv increment, direct evidence, topic fit and non-duplication",
+    "coverage_claim": "targeted, not exhaustive",
+    "research_record": "daily/2026-09-26/research/"
+  },
+  "deduplication": {
+    "processed_before": 378,
+    "processed_after": 382,
+    "retry_before": 17,
+    "retry_after": 17,
+    "keys": [
+      "DOI or arXiv identifier",
+      "normalized title",
+      "historical daily folders",
+      "retry queue",
+      "formal-version versus preprint title match",
+      "abstract and physical scenario"
+    ]
+  },
+  "added": [
+    "10.48550/arXiv.2609.28788",
+    "10.48550/arXiv.2609.29325",
+    "10.48550/arXiv.2609.28730",
+    "10.48550/arXiv.2609.29435"
+  ],
+  "retry_removed": [],
+  "retry_added": [],
+  "skipped": [
+    {
+      "identifier": "10.48550/arXiv.2609.29514",
+      "reason": "valuable plasma-reconnection PINO work, deferred behind the selected larger-scale surrogate study with closed-loop validation and a documented OOD failure"
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.28604",
+      "reason": "valuable self-supervised MWPPAC calibration experiment, but less directly aligned with this run's laser-converter and plasma-physics priorities"
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.29277",
+      "reason": "useful dielectric-barrier-discharge prediction study, but lower topic fit than the four selected papers"
+    }
+  ],
+  "pdf_validation": {
+    "valid_documents": 4,
+    "mineru_usable_successes": 0,
+    "mineru_failures": 4,
+    "selected_and_visually_checked_figures": 16,
+    "fallback": "local pdftotext plus PDF page rendering",
+    "details": "daily/2026-09-26/pdf_validation.json"
+  },
+  "evidence_boundaries": [
+    "The muon-imaging paper directly measures spatial and timing signals, while particle-species fractions and the few-GeV muon range rely mainly on GEANT4 and propagation thresholds rather than a direct muon spectrometer.",
+    "The QED sampler validates single-process distributions and fitted errors but has not been integrated into production PIC; no end-to-end speedup or cascade error is demonstrated.",
+    "The AI-GX temperature gains are numerical workflow results, and the highest surrogate score was an OOD configuration with non-nested magnetic surfaces rather than a valid design.",
+    "The largest warm-dense-aluminum model differences lie beyond the strongest experimental anchors; the 10 kT transport estimates are Drude/EH post-processing rather than magnetized mDFT.",
+    "No GEANT4, QED-PIC, GX/T3D, neural-network training or mDFT calculation was rerun locally."
+  ],
+  "validation": {
+    "index_builder": "Indexed 382 papers across 9 categories.",
+    "pytest": "7 passed via python -m pytest",
+    "unittest": "7 tests passed",
+    "ledger_checks": "382 records parsed; 378 non-null identifiers are unique; all 382 normalized titles are unique; 17 retry records retained",
+    "note_image_reference_check": "4 notes checked; all 16 unique local image references resolved and decoded",
+    "pdf_header_size_hash_metadata_text_check": "passed for all 4 added documents",
+    "download_report_check": "4 JSON reports parsed",
+    "markdown_link_check": "all local links in the daily index resolved",
+    "diff_check": "git diff --check passed"
+  },
+  "git": "commit and push to origin/master after final validation",
+  "status": "success"
+}

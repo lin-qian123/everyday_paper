@@ -11,6 +11,8 @@
 
 ## 开发记录
 
+- 2026-09-26：加载 378 条完成台账、17 条重试队列和历史 `daily/`，按 DOI/arXiv identifier、规范化标题、正式版—预印本关系和物理场景去重；核对官方 arXiv `physics.plasm-ph`、`physics.acc-ph`、`physics.comp-ph`、`nucl-ex`、`physics.ins-det` 2026-09-25 批次，并用 Crossref 2026-09-25 至 26 正式元数据复查。新增 `10.48550/arXiv.2609.28788`、`10.48550/arXiv.2609.29325`、`10.48550/arXiv.2609.28730`、`10.48550/arXiv.2609.29435`；4 份 PDF 通过文件、页数、哈希和文本校验。MinerU 四项均失败，故用本地布局文本、页面渲染和人工逐图检查 fallback，保留 16 张关键图。台账增至 382 条、重试队列保持 17 条。严格区分缪子成像直接信号与 GEANT4 粒种归因、单过程采样误差与生产 PIC 性能、GX 代理加速与 OOD 非物理解、mDFT 高压分歧与尚缺实验锚点；本轮没有重跑 GEANT4、QED-PIC、GX/T3D、训练或 mDFT。
+
 - 2026-09-25：加载 375 条完成台账、17 条重试队列和历史 `daily/`，按 DOI/arXiv identifier、规范化标题、正式版—预印本关系和物理场景去重；核对官方 arXiv 2026-09-24 批次，并用 Crossref 2026-09-22 至 2026-09-25 元数据与出版商/单篇页复查正式来源。新增正式 PST `10.1088/2058-6272/aeabfd`、正式开放 Optics Express `10.1364/OE.612056` 与 arXiv `10.48550/arXiv.2609.28468`；后两者分别补齐 2026-09-17 尚未上线的正式全文和新的快中子材料实验。3 份 PDF 通过文件、页数、哈希和文本校验；PST 完成 MinerU，Optica URL 受 JavaScript gate 限制、arXiv 远程任务长时间未完成，故结合本地文本与页面渲染 fallback，保留并检查 12 张图。台账增至 378 条、重试队列保持 17 条。严格区分 LWFA 实验与准三维 FBPIC、二维 EPOCH 最优点与未完成实验、D–D 混合场 PSD 与模型交互概率；本轮没有重跑 FBPIC、EPOCH、Monte Carlo、PSD 拟合、剂量或屏蔽。
 
 - 2026-09-24：加载 372 条完成台账、18 条重试队列和历史 `daily/`，按 DOI/arXiv identifier、规范化标题、正式版—预印本关系和物理场景去重；官方 arXiv 目标分类已更新到 2026-09-23 批次，并用 Crossref 2026-09-21 至 2026-09-24 元数据及 APS/DOI 页面复查正式来源。新增正式 PRE `10.1103/nc7w-yr34`、arXiv `10.48550/arXiv.2609.26390` 与 `10.48550/arXiv.2609.25984`；PRE 从旧 APS accepted 阻塞项恢复，台账增至 375 条、重试队列降至 17 条。3 份 PDF 通过文件、页数、哈希和文本校验；MinerU 对正式/替代 URL 均未给出可用论文正文，故使用本地文本与页面渲染 fallback，保留并检查 17 张图。严格区分一维作者 PIC/分数输运、100 Hz 直接 LWFA 实验与 1 kHz/FLASH 外推、储存环 LCS 光核数据与 LPA 转换靶应用；本轮没有重跑 EPOCH、FBPIC/LASY、PCA、反卷积、EMPIRE、TALYS、剂量或屏蔽。

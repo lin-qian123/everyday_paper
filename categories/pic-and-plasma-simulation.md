@@ -2,11 +2,12 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：162 篇
-- 索引更新时间：2026-09-25
+- 当前收录：163 篇
+- 索引更新时间：2026-09-26
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-26 | [Monte Carlo sampling of first-order QED processes in laser and pulsar plasmas](../papers/arxiv-2609-29325/README.md) | arXiv preprint | [笔记](../daily/2026-09-26/notes/Sarjomaa and Nattila - 2026 - QED Monte Carlo sampling.md) |
 | 2026-09-25 | [Experimental tuning of electron energy gain via laser focus shift in a laser-driven plasma wakefield accelerator](../papers/10-1088-2058-6272-aeabfd/README.md) | Plasma Science and Technology | [笔记](../daily/2026-09-25/notes/Chang et al. - 2026 - Plasma telescope LWFA focus tuning.md) |
 | 2026-09-25 | [High-energy high-density attosecond electron bunch from short-wavelength laser–nanofoil interaction](../papers/10-1364-oe-612056/README.md) | Optics Express | [笔记](../daily/2026-09-25/notes/Li et al. - 2026 - Attosecond electron bunch from laser nanofoil.md) |
 | 2026-09-24 | [Nonthermal electron acceleration and transition probability density in turbulent wakefields driven by an intense laser pulse](../papers/10-1103-nc7w-yr34/README.md) | Physical Review E | [笔记](../daily/2026-09-24/notes/Liu and Kuramitsu - 2026 - Nonthermal wakefield acceleration.md) |

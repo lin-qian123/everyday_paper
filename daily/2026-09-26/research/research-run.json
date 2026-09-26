@@ -1,0 +1,35 @@
+{
+  "run_date": "2026-09-26",
+  "scope": [
+    "laser plasma acceleration and beam quality",
+    "strong-field QED and radiative PIC",
+    "high-energy-density matter and radiation-hydrodynamics inputs",
+    "machine-learning methods for plasma simulation and design",
+    "converter targets, gamma rays, photonuclear reactions, neutrons, isotopes, diagnostics, dose and shielding"
+  ],
+  "date_window": {
+    "official_arxiv_latest_batch": "2026-09-25",
+    "formal_metadata_from": "2026-09-25",
+    "formal_metadata_until": "2026-09-26"
+  },
+  "selection_rules": [
+    "prefer formal publication over preprint when a verified full text is available",
+    "deduplicate by identifier, normalized title, historical daily folders and retry state",
+    "require a valid local PDF and non-empty extracted text before writing a note",
+    "separate direct measurement, detector response, Monte Carlo, gyrokinetic/DFT calculation and application projection"
+  ],
+  "selected": [
+    "10.48550/arXiv.2609.28788",
+    "10.48550/arXiv.2609.29325",
+    "10.48550/arXiv.2609.28730",
+    "10.48550/arXiv.2609.29435"
+  ],
+  "coverage_claim": "targeted official-source search, not exhaustive",
+  "search_layer": "The installed multi-source search layer returned zero usable results; official arXiv category pages, Crossref and article pages were used as fallbacks.",
+  "outputs": {
+    "report": "daily/2026-09-26/research/research-report.md",
+    "sources": "daily/2026-09-26/research/sources.jsonl",
+    "log": "daily/2026-09-26/research/run-log.md",
+    "import_manifest": "daily/2026-09-26/research/import-manifest.json"
+  }
+}
