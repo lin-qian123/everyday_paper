@@ -1,0 +1,13 @@
+{
+  "ok": false,
+  "output": "daily/2026-09-29/pdfs/Noh et al. - 2026 - Binomial laser-cluster fusion neutron yield.pdf",
+  "attempts": [
+    "[env-proxy] https://iopscience.iop.org/article/10.1088/1741-4326/aea4c4/pdf -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[direct] https://iopscience.iop.org/article/10.1088/1741-4326/aea4c4/pdf -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[env-proxy] https://doi.org/10.1088/1741-4326/aea4c4 -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[direct] https://doi.org/10.1088/1741-4326/aea4c4 -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[env-proxy] https://validate.perfdrive.com/fb803c746e9148689b3984a31fccd902/?ssa=70f997fb-27d3-496a-9104-9e006ff65171&ssb=12689218791&ssc=https%3A%2F%2Fiopscience.iop.org%2Farticle%2F10.1088%2F1741-4326%2Faea4c4&ssi=46377940-cnvj-4307-9cc8-d04ad6ec9432&ssk=botmanager_support@radware.com&ssm=37694615059840503102954552864029&ssn=3e9c37666a2a526980c1bab38207c448d5322ecc4667-8928-42cd-98fb99&sso=b31bf985-7679b4cdcd4926e8e2ce87fa15ac8d1506a9f55d0c5fbbf9&ssp=31155049911790646806179067353282833&ssq=43650963672794900610536727242387417735358&ssr=NjYuMTM1LjIxLjIwNg==&sst=everyday-paper-bot/1.0%20(+local%20automation)&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDAyZWNjNDY2Ny04OTI4LTQyY2QtOTk4NS03Njc5YjRjZGNkNDkxLTE3OTA2MzY3MjczNTAwLTAwNTE4ZjUxZTliYWRlMTg4MjkxMCIsInV6bXgiOiI3ZmMwMDA2OThmZjMxYy05NGQ2LTQxMmYtYmE5ZS0wZjg4ZGE1M2JmMTMxLTE3OTA2MzY3MjczNTAwLTAwNzJmZGI0YzhhNmIwMWU5NzQxMCIsInJkIjoiaW9wLm9yZyJ9 -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[direct] https://validate.perfdrive.com/fb803c746e9148689b3984a31fccd902/?ssa=70f997fb-27d3-496a-9104-9e006ff65171&ssb=12689218791&ssc=https%3A%2F%2Fiopscience.iop.org%2Farticle%2F10.1088%2F1741-4326%2Faea4c4&ssi=46377940-cnvj-4307-9cc8-d04ad6ec9432&ssk=botmanager_support@radware.com&ssm=37694615059840503102954552864029&ssn=3e9c37666a2a526980c1bab38207c448d5322ecc4667-8928-42cd-98fb99&sso=b31bf985-7679b4cdcd4926e8e2ce87fa15ac8d1506a9f55d0c5fbbf9&ssp=31155049911790646806179067353282833&ssq=43650963672794900610536727242387417735358&ssr=NjYuMTM1LjIxLjIwNg==&sst=everyday-paper-bot/1.0%20(+local%20automation)&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDAyZWNjNDY2Ny04OTI4LTQyY2QtOTk4NS03Njc5YjRjZGNkNDkxLTE3OTA2MzY3MjczNTAwLTAwNTE4ZjUxZTliYWRlMTg4MjkxMCIsInV6bXgiOiI3ZmMwMDA2OThmZjMxYy05NGQ2LTQxMmYtYmE5ZS0wZjg4ZGE1M2JmMTMxLTE3OTA2MzY3MjczNTAwLTAwNzJmZGI0YzhhNmIwMWU5NzQxMCIsInJkIjoiaW9wLm9yZyJ9 -> not pdf (content-type=text/html; charset=UTF-8)"
+  ],
+  "failure_class": "publisher_bot_wall"
+}

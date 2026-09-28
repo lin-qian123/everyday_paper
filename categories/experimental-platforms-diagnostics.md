@@ -2,11 +2,14 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：107 篇
-- 索引更新时间：2026-09-27
+- 当前收录：110 篇
+- 索引更新时间：2026-09-29
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-29 | [Anomalous shock scaling in ICF implosions dominated by high-energy X-ray preheat](../papers/10-1063-5-0332964/README.md) | Matter and Radiation at Extremes | [笔记](../daily/2026-09-29/notes/Yang et al. - 2026 - ICF anomalous shock scaling.md) |
+| 2026-09-29 | [Photoneutron cross section of 209Bi in the giant dipole resonance region measured with quasimonoenergetic gamma rays at the Shanghai Laser Electron Gamma Source](../papers/10-1103-rm6z-cgrb/README.md) | Physical Review C | [笔记](../daily/2026-09-29/notes/Wang et al. - 2026 - Bi-209 photoneutron cross sections at SLEGS.md) |
+| 2026-09-29 | [Bayesian inference of non-Maxwellian distribution functions from collective Thomson scattering spectra](../papers/arxiv-2609-31020/README.md) | arXiv preprint | [笔记](../daily/2026-09-29/notes/Sakai et al. - 2026 - Bayesian non-Maxwellian CTS inference.md) |
 | 2026-09-27 | [LUXE: a high-precision experiment to study non-perturbative QED in electron–laser and photon–laser collisions](../papers/10-1140-epjp-s13360-026-08312-1/README.md) | The European Physical Journal Plus | [笔记](../daily/2026-09-27/notes/Zarnecki - 2026 - LUXE high-precision nonperturbative QED.md) |
 | 2026-09-27 | [Physics-Informed Self-Supervised Learning for Joint Wire Calibration and Interaction Position Reconstruction in Multi-Wire Parallel Plate Avalanche Counters](../papers/arxiv-2609-28604/README.md) | arXiv preprint | [笔记](../daily/2026-09-27/notes/Lemasson and Rejmund - 2026 - Self-supervised MWPPAC calibration.md) |
 | 2026-09-26 | [Imaging with GeV muons produced via laser-wakefield-accelerated electrons](../papers/arxiv-2609-28788/README.md) | arXiv preprint | [笔记](../daily/2026-09-26/notes/Dobre et al. - 2026 - Laser-driven GeV muon imaging.md) |

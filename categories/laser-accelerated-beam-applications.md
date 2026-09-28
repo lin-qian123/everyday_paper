@@ -2,11 +2,12 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：87 篇
-- 索引更新时间：2026-09-27
+- 当前收录：88 篇
+- 索引更新时间：2026-09-29
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-29 | [Photoneutron cross section of 209Bi in the giant dipole resonance region measured with quasimonoenergetic gamma rays at the Shanghai Laser Electron Gamma Source](../papers/10-1103-rm6z-cgrb/README.md) | Physical Review C | [笔记](../daily/2026-09-29/notes/Wang et al. - 2026 - Bi-209 photoneutron cross sections at SLEGS.md) |
 | 2026-09-27 | [LUXE: a high-precision experiment to study non-perturbative QED in electron–laser and photon–laser collisions](../papers/10-1140-epjp-s13360-026-08312-1/README.md) | The European Physical Journal Plus | [笔记](../daily/2026-09-27/notes/Zarnecki - 2026 - LUXE high-precision nonperturbative QED.md) |
 | 2026-09-26 | [Imaging with GeV muons produced via laser-wakefield-accelerated electrons](../papers/arxiv-2609-28788/README.md) | arXiv preprint | [笔记](../daily/2026-09-26/notes/Dobre et al. - 2026 - Laser-driven GeV muon imaging.md) |
 | 2026-09-25 | [Experimental tuning of electron energy gain via laser focus shift in a laser-driven plasma wakefield accelerator](../papers/10-1088-2058-6272-aeabfd/README.md) | Plasma Science and Technology | [笔记](../daily/2026-09-25/notes/Chang et al. - 2026 - Plasma telescope LWFA focus tuning.md) |

@@ -1,0 +1,74 @@
+{
+  "run_date": "2026-09-29",
+  "latest_official_arxiv_batch": "2026-09-28",
+  "latest_arxiv_submission_date": "2026-09-25",
+  "search_summary": {
+    "sources": "installed multi-source search layer, official arXiv API and article pages, Crossref 2026-09-25 through 2026-09-29 metadata, DOI and publisher/preprint pages",
+    "selection_basis": "formal-source priority, verified full text, latest official arXiv increment, direct evidence, topic fit and non-duplication",
+    "coverage_claim": "targeted, not exhaustive",
+    "research_record": "daily/2026-09-29/research/"
+  },
+  "deduplication": {
+    "processed_before": 385,
+    "processed_after": 389,
+    "retry_before": 18,
+    "retry_after": 20,
+    "keys": [
+      "DOI or arXiv identifier",
+      "normalized title",
+      "historical daily folders",
+      "retry queue",
+      "formal-version versus preprint title match",
+      "abstract and physical scenario"
+    ]
+  },
+  "added": [
+    "10.1063/5.0332964",
+    "10.1103/rm6z-cgrb",
+    "10.48550/arXiv.2609.31366",
+    "10.48550/arXiv.2609.31020"
+  ],
+  "retry_removed": [],
+  "retry_added": [
+    "10.1088/1741-4326/aea4c4",
+    "10.1088/1361-6587/aeacba"
+  ],
+  "skipped": [
+    {
+      "identifier": "10.48550/arXiv.2609.31424",
+      "reason": "the TCV edge-radial-electric-field experiment was relevant but lower priority than the selected HEDP, photonuclear and diagnostic studies"
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.31436",
+      "reason": "the RADEX Geant4 neutron-source assessment was deferred to an accelerator-neutron-source run"
+    }
+  ],
+  "pdf_validation": {
+    "valid_documents": 4,
+    "official_or_formal_pdf_documents": 1,
+    "official_arxiv_documents": 2,
+    "same_work_machine_rendered_fulltexts": 1,
+    "selected_and_visually_checked_pages": 12,
+    "source_limit": "The SLEGS entry uses a same-work ChinaXiv machine-rendered full text with readable text and tables but no original figures; APS formal metadata was verified, but the APS version of record was not reviewed.",
+    "details": "daily/2026-09-29/pdf_validation.json"
+  },
+  "evidence_boundaries": [
+    "The ICF experiment directly measures four VISAR shock trajectories; the approximately 13% M-band fraction and interface-pressure mechanism are one-dimensional model calibrations, not independent spectroscopy.",
+    "The SLEGS photoneutron cross section is experimental, while the gamma-strength models and inverse 208Bi(n,gamma) result are TALYS-dependent inferences; original figures were unavailable in the reviewed substitute full text.",
+    "The strong-field QED paper is a formal renormalization analysis, not a new observable-rate calculation or experiment.",
+    "The CTS work is validated on synthetic spectra only and remains candidate-model, stability-constraint and forward-model dependent.",
+    "No Multi1D, TALYS, loop-integral or Bayesian-sampling calculation was rerun locally."
+  ],
+  "validation": {
+    "index_builder": "Indexed 389 papers across 9 categories.",
+    "pytest": "7 passed via PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q",
+    "unittest": "7 tests passed via python -m unittest discover -s tests -v",
+    "ledger_checks": "389 records parsed; 385 non-null identifiers are unique; all 389 normalized titles are unique; 20 unique retry records retained",
+    "pdf_header_size_hash_metadata_text_check": "passed for all 4 added documents",
+    "download_report_check": "6 JSON reports parsed, including two structured IOP failures",
+    "markdown_link_check": "all local links in the daily index resolved",
+    "diff_check": "git diff --check passed"
+  },
+  "git": "commit and push to origin/master after final staging validation",
+  "status": "success"
+}

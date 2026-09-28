@@ -9,7 +9,7 @@
 - [索引文件](#索引文件)
 - [仓库结构](#仓库结构)
 - [分类索引](#分类索引)
-- [当前状态](#当前状态2026-09-27)
+- [当前状态](#当前状态2026-09-29)
 - [去重规则](#去重规则)
 - [PDF 下载稳健性](#pdf-下载稳健性)
 - [维护约定](#维护约定)
@@ -78,6 +78,12 @@
 - `INDEX.md`: 总索引
 - `state/processed_articles.json`: 已处理论文去重台账
 - `templates/daily-index-template.md`: 每日索引模板
+
+## 当前状态（2026-09-29）
+
+- 已维护到 `daily/2026-09-29/`。本轮从 2026-09-28 正式来源和官方 arXiv 公告批次新增正式 *Matter and Radiation at Extremes* `10.1063/5.0332964`、正式 *Physical Review C* `10.1103/rm6z-cgrb`、arXiv `10.48550/arXiv.2609.31366` 与 `10.48550/arXiv.2609.31020`，分别覆盖 ICF 首激波的高能 X 射线预热、SLEGS `²⁰⁹Bi(γ,n)` 核数据、强场 QED 高阶重整化和非 Maxwell CTS 的贝叶斯反演。
+- 4 份全文均通过 `%PDF-`、`file`、`pdfinfo`、SHA-256 和非空 `pdftotext -layout`；MRE 与两份 arXiv 为正式/官方 PDF，SLEGS 使用同作品 ChinaXiv 机器排版全文，已明确标注“非 APS VOR、缺原图”。台账从 385 增至 389 条；正式 *Nuclear Fusion* `10.1088/1741-4326/aea4c4` 与正式 *PPCF* `10.1088/1361-6587/aeacba` 因 IOP/Radware 只返回 HTML 加入结构化重试队列，使其从 18 增至 20 条。
+- 证据边界：ICF 的 VISAR 趋势是直接实验，约 `13%` M-band 是一维校准；SLEGS 截面是实验，但逆反应/γ 强度函数依赖 TALYS且本轮未核验原图；SFQED 是形式理论，不给新率；CTS 只在合成谱上验证。本轮没有重跑 Multi1D、TALYS、圈图积分或贝叶斯采样。
 
 ## 当前状态（2026-09-27）
 

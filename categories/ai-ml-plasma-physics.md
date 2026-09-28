@@ -2,11 +2,12 @@
 
 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。
 
-- 当前收录：61 篇
-- 索引更新时间：2026-09-27
+- 当前收录：62 篇
+- 索引更新时间：2026-09-29
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-29 | [Bayesian inference of non-Maxwellian distribution functions from collective Thomson scattering spectra](../papers/arxiv-2609-31020/README.md) | arXiv preprint | [笔记](../daily/2026-09-29/notes/Sakai et al. - 2026 - Bayesian non-Maxwellian CTS inference.md) |
 | 2026-09-27 | [Physics-Informed Neural Operator Surrogate for 2D Magnetohydrodynamic Reconnection](../papers/arxiv-2609-29514/README.md) | arXiv preprint | [笔记](../daily/2026-09-27/notes/Pothula and Kumar - 2026 - PINO MHD reconnection.md) |
 | 2026-09-27 | [Physics-Informed Self-Supervised Learning for Joint Wire Calibration and Interaction Position Reconstruction in Multi-Wire Parallel Plate Avalanche Counters](../papers/arxiv-2609-28604/README.md) | arXiv preprint | [笔记](../daily/2026-09-27/notes/Lemasson and Rejmund - 2026 - Self-supervised MWPPAC calibration.md) |
 | 2026-09-26 | [AI-Accelerated Gyrokinetic Predictions of Turbulent Transport for Stellarator Design Optimization and Experimental Planning](../papers/arxiv-2609-28730/README.md) | arXiv preprint | [笔记](../daily/2026-09-26/notes/Churchill et al. - 2026 - AI gyrokinetic stellarator transport.md) |

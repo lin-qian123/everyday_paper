@@ -1,0 +1,75 @@
+{
+  "run_date": "2026-09-29",
+  "all_added_documents_valid": true,
+  "checks": [
+    "%PDF- header and file type",
+    "page count and metadata",
+    "SHA-256",
+    "non-empty pdftotext -layout output",
+    "PDF-page rendering",
+    "manual inspection of selected pages"
+  ],
+  "visual_review": {
+    "selected_pages_checked": 12,
+    "details": "Four selected pages each were rendered and inspected for the MRE, arXiv SFQED and arXiv CTS PDFs. The ChinaXiv machine-rendered SLEGS copy was checked for readable text and pagination, but it does not contain the original figures."
+  },
+  "documents": [
+    {
+      "identifier": "10.1063/5.0332964",
+      "pdf_path": "daily/2026-09-29/pdfs/Yang et al. - 2026 - ICF anomalous shock scaling.pdf",
+      "source_url": "https://pubs.aip.org/aip/mre/article-pdf/doi/10.1063/5.0332964/21152370/067402_1_5.0332964.pdf",
+      "download_report": "daily/2026-09-29/pdfs/download-reports/10.1063-5.0332964.json",
+      "bytes": 7633478,
+      "sha256": "d7a9ed8fe71e69447de7168216b0f47125f4f4e0c0dcc9956a2b0c6757dc2b21",
+      "pages": 10,
+      "pdf_version": "1.5",
+      "text_path": "daily/2026-09-29/pdfs/Yang et al. - 2026 - ICF anomalous shock scaling.txt",
+      "text_bytes": 61340,
+      "selected_pages": 4,
+      "valid": true
+    },
+    {
+      "identifier": "10.1103/rm6z-cgrb",
+      "pdf_path": "daily/2026-09-29/pdfs/Wang et al. - 2026 - Bi-209 photoneutron cross sections at SLEGS.pdf",
+      "source_url": "https://f004.backblazeb2.com/file/chinaxiv/english_pdfs/chinaxiv-202603.00047.pdf",
+      "download_report": "daily/2026-09-29/pdfs/download-reports/10.1103-rm6z-cgrb.json",
+      "bytes": 88226,
+      "sha256": "bda8dd2049d78fa94792049aca706baa9748b20f7c4bb818f6146478c8f72239",
+      "pages": 11,
+      "pdf_version": "1.5",
+      "text_path": "daily/2026-09-29/pdfs/Wang et al. - 2026 - Bi-209 photoneutron cross sections at SLEGS.txt",
+      "text_bytes": 34814,
+      "source_variant": "ChinaXiv machine-rendered full text for the same work; APS formal metadata verified; original figures absent",
+      "selected_pages": 0,
+      "valid": true
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.31366",
+      "pdf_path": "daily/2026-09-29/pdfs/Lopez-Lopez et al. - 2026 - Renormalized strong-field QED.pdf",
+      "source_url": "https://arxiv.org/pdf/2609.31366",
+      "download_report": "daily/2026-09-29/pdfs/download-reports/10.48550-arXiv.2609.31366.json",
+      "bytes": 528069,
+      "sha256": "a9ded998ec92bc966363b911c6837f9913433b0d5ab08aacc0e2e0660622182d",
+      "pages": 52,
+      "pdf_version": "1.7",
+      "text_path": "daily/2026-09-29/pdfs/Lopez-Lopez et al. - 2026 - Renormalized strong-field QED.txt",
+      "text_bytes": 175613,
+      "selected_pages": 4,
+      "valid": true
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.31020",
+      "pdf_path": "daily/2026-09-29/pdfs/Sakai et al. - 2026 - Bayesian non-Maxwellian CTS inference.pdf",
+      "source_url": "https://arxiv.org/pdf/2609.31020",
+      "download_report": "daily/2026-09-29/pdfs/download-reports/10.48550-arXiv.2609.31020.json",
+      "bytes": 1026403,
+      "sha256": "ebe55f3b4495001cdbb3cf34686c3c3f549072d3984c3e92db7b677d862716d7",
+      "pages": 11,
+      "pdf_version": "1.7",
+      "text_path": "daily/2026-09-29/pdfs/Sakai et al. - 2026 - Bayesian non-Maxwellian CTS inference.txt",
+      "text_bytes": 91894,
+      "selected_pages": 4,
+      "valid": true
+    }
+  ]
+}

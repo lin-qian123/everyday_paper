@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "output": "daily/2026-09-29/pdfs/Wang et al. - 2026 - Bi-209 photoneutron cross sections at SLEGS.pdf",
+  "source_url": "https://f004.backblazeb2.com/file/chinaxiv/english_pdfs/chinaxiv-202603.00047.pdf",
+  "mode": "env-proxy",
+  "attempts": [
+    "[env-proxy] https://chinaxiv.org/user/download.htm?uuid=fecd5d4ad5a24d5aa739d25371e97c3f&filetype=pdf -> HTTP 403",
+    "[direct] https://chinaxiv.org/user/download.htm?uuid=fecd5d4ad5a24d5aa739d25371e97c3f&filetype=pdf -> HTTP 403"
+  ]
+}

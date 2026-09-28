@@ -4503,5 +4503,68 @@
       "general-plasma-and-methods"
     ],
     "normalized_title": "physics informed self supervised learning for joint wire calibration and interaction position reconstruction in multi wire parallel plate avalanche counters"
+  },
+  {
+    "title": "Anomalous shock scaling in ICF implosions dominated by high-energy X-ray preheat",
+    "doi": "10.1063/5.0332964",
+    "journal": "Matter and Radiation at Extremes",
+    "publication_date": "2026-09-28",
+    "processed_date": "2026-09-29",
+    "source_url": "https://doi.org/10.1063/5.0332964",
+    "pdf_path": "daily/2026-09-29/pdfs/Yang et al. - 2026 - ICF anomalous shock scaling.pdf",
+    "note_path": "daily/2026-09-29/notes/Yang et al. - 2026 - ICF anomalous shock scaling.md",
+    "categories": [
+      "hedp-icf-laboratory-astrophysics",
+      "experimental-platforms-diagnostics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "anomalous shock scaling in icf implosions dominated by high energy x ray preheat"
+  },
+  {
+    "title": "Photoneutron cross section of 209Bi in the giant dipole resonance region measured with quasimonoenergetic gamma rays at the Shanghai Laser Electron Gamma Source",
+    "doi": "10.1103/rm6z-cgrb",
+    "journal": "Physical Review C",
+    "publication_date": "2026-09-28",
+    "processed_date": "2026-09-29",
+    "source_url": "https://doi.org/10.1103/rm6z-cgrb",
+    "pdf_path": "daily/2026-09-29/pdfs/Wang et al. - 2026 - Bi-209 photoneutron cross sections at SLEGS.pdf",
+    "note_path": "daily/2026-09-29/notes/Wang et al. - 2026 - Bi-209 photoneutron cross sections at SLEGS.md",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "experimental-platforms-diagnostics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "photoneutron cross section of 209bi in the giant dipole resonance region measured with quasimonoenergetic gamma rays at the shanghai laser electron gamma source"
+  },
+  {
+    "title": "Renormalized perturbation theory in an intense background electromagnetic field",
+    "doi": "10.48550/arXiv.2609.31366",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-25",
+    "processed_date": "2026-09-29",
+    "source_url": "https://arxiv.org/abs/2609.31366",
+    "pdf_path": "daily/2026-09-29/pdfs/Lopez-Lopez et al. - 2026 - Renormalized strong-field QED.pdf",
+    "note_path": "daily/2026-09-29/notes/Lopez-Lopez et al. - 2026 - Renormalized strong-field QED.md",
+    "categories": [
+      "strong-field-qed-radiation",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "renormalized perturbation theory in an intense background electromagnetic field"
+  },
+  {
+    "title": "Bayesian inference of non-Maxwellian distribution functions from collective Thomson scattering spectra",
+    "doi": "10.48550/arXiv.2609.31020",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-25",
+    "processed_date": "2026-09-29",
+    "source_url": "https://arxiv.org/abs/2609.31020",
+    "pdf_path": "daily/2026-09-29/pdfs/Sakai et al. - 2026 - Bayesian non-Maxwellian CTS inference.pdf",
+    "note_path": "daily/2026-09-29/notes/Sakai et al. - 2026 - Bayesian non-Maxwellian CTS inference.md",
+    "categories": [
+      "ai-ml-plasma-physics",
+      "experimental-platforms-diagnostics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "bayesian inference of non maxwellian distribution functions from collective thomson scattering spectra"
   }
 ]

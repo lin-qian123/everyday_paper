@@ -1,10 +1,14 @@
 # 论文总索引
 
-- 当前入库论文：385 篇
-- 索引更新时间：2026-09-27
+- 当前入库论文：389 篇
+- 索引更新时间：2026-09-29
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-09-29 | [Anomalous shock scaling in ICF implosions dominated by high-energy X-ray preheat](./10-1063-5-0332964/README.md) | Matter and Radiation at Extremes | [10.1063/5.0332964](https://doi.org/10.1063/5.0332964) |
+| 2026-09-29 | [Photoneutron cross section of 209Bi in the giant dipole resonance region measured with quasimonoenergetic gamma rays at the Shanghai Laser Electron Gamma Source](./10-1103-rm6z-cgrb/README.md) | Physical Review C | [10.1103/rm6z-cgrb](https://doi.org/10.1103/rm6z-cgrb) |
+| 2026-09-29 | [Renormalized perturbation theory in an intense background electromagnetic field](./arxiv-2609-31366/README.md) | arXiv preprint | [10.48550/arXiv.2609.31366](https://doi.org/10.48550/arXiv.2609.31366) |
+| 2026-09-29 | [Bayesian inference of non-Maxwellian distribution functions from collective Thomson scattering spectra](./arxiv-2609-31020/README.md) | arXiv preprint | [10.48550/arXiv.2609.31020](https://doi.org/10.48550/arXiv.2609.31020) |
 | 2026-09-27 | [LUXE: a high-precision experiment to study non-perturbative QED in electron–laser and photon–laser collisions](./10-1140-epjp-s13360-026-08312-1/README.md) | The European Physical Journal Plus | [10.1140/epjp/s13360-026-08312-1](https://doi.org/10.1140/epjp/s13360-026-08312-1) |
 | 2026-09-27 | [Physics-Informed Neural Operator Surrogate for 2D Magnetohydrodynamic Reconnection](./arxiv-2609-29514/README.md) | arXiv preprint | [10.48550/arXiv.2609.29514](https://doi.org/10.48550/arXiv.2609.29514) |
 | 2026-09-27 | [Physics-Informed Self-Supervised Learning for Joint Wire Calibration and Interaction Position Reconstruction in Multi-Wire Parallel Plate Avalanche Counters](./arxiv-2609-28604/README.md) | arXiv preprint | [10.48550/arXiv.2609.28604](https://doi.org/10.48550/arXiv.2609.28604) |
