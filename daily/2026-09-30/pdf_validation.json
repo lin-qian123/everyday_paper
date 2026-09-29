@@ -1,0 +1,74 @@
+{
+  "run_date": "2026-09-30",
+  "all_added_documents_valid": true,
+  "checks": [
+    "%PDF- header and file type",
+    "page count and metadata",
+    "SHA-256",
+    "non-empty pdftotext -layout output",
+    "PDF-page rendering",
+    "manual inspection of selected pages"
+  ],
+  "visual_review": {
+    "selected_pages_checked": 16,
+    "details": "Four selected pages per official arXiv PDF were rendered and manually inspected for title/abstract, representative data or model figures, numerical labels and conclusions."
+  },
+  "documents": [
+    {
+      "identifier": "10.48550/arXiv.2609.35519",
+      "pdf_path": "daily/2026-09-30/pdfs/Athanassiadis et al. - 2026 - LUXE high-flux electron detector.pdf",
+      "source_url": "https://arxiv.org/pdf/2609.35519",
+      "download_report": "daily/2026-09-30/pdfs/download-reports/10.48550-arXiv.2609.35519.json",
+      "bytes": 4765298,
+      "sha256": "ba1a955e6e9c5c6d750c65de2b062324361fdc54e98c268ea39a486d8f45bee1",
+      "pages": 27,
+      "pdf_version": "1.7",
+      "text_path": "daily/2026-09-30/pdfs/Athanassiadis et al. - 2026 - LUXE high-flux electron detector.txt",
+      "text_bytes": 77764,
+      "selected_pages": 4,
+      "valid": true
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.35208",
+      "pdf_path": "daily/2026-09-30/pdfs/Ren et al. - 2026 - Vector-vortex gamma photons.pdf",
+      "source_url": "https://arxiv.org/pdf/2609.35208",
+      "download_report": "daily/2026-09-30/pdfs/download-reports/10.48550-arXiv.2609.35208.json",
+      "bytes": 2557285,
+      "sha256": "7b32a09803c9142e4f1fde1ac70b047fac8168a377de13ca6a8f36bf17660b0c",
+      "pages": 8,
+      "pdf_version": "1.7",
+      "text_path": "daily/2026-09-30/pdfs/Ren et al. - 2026 - Vector-vortex gamma photons.txt",
+      "text_bytes": 213017,
+      "selected_pages": 4,
+      "valid": true
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.34350",
+      "pdf_path": "daily/2026-09-30/pdfs/Kozhevnikov et al. - 2026 - Anomalous-energy electrons in vacuum diodes.pdf",
+      "source_url": "https://arxiv.org/pdf/2609.34350",
+      "download_report": "daily/2026-09-30/pdfs/download-reports/10.48550-arXiv.2609.34350.json",
+      "bytes": 4154987,
+      "sha256": "39c97c7b38cb440b1cf1523c2f3067b20a12472dc9935df5e8961eb028fe60f2",
+      "pages": 10,
+      "pdf_version": "1.7",
+      "text_path": "daily/2026-09-30/pdfs/Kozhevnikov et al. - 2026 - Anomalous-energy electrons in vacuum diodes.txt",
+      "text_bytes": 26864,
+      "selected_pages": 4,
+      "valid": true
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.34076",
+      "pdf_path": "daily/2026-09-30/pdfs/Lu et al. - 2026 - EXL-50U observer-based MPC.pdf",
+      "source_url": "https://arxiv.org/pdf/2609.34076",
+      "download_report": "daily/2026-09-30/pdfs/download-reports/10.48550-arXiv.2609.34076.json",
+      "bytes": 7487261,
+      "sha256": "1c4712109c047b7a175e4785aed6791e3d050eac73b462691b7b42bc6bd99883",
+      "pages": 25,
+      "pdf_version": "1.7",
+      "text_path": "daily/2026-09-30/pdfs/Lu et al. - 2026 - EXL-50U observer-based MPC.txt",
+      "text_bytes": 119152,
+      "selected_pages": 4,
+      "valid": true
+    }
+  ]
+}

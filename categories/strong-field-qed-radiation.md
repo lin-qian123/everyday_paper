@@ -2,11 +2,13 @@
 
 强场量子效应、辐射反作用、非线性 Compton、pair production 与极端场实验。
 
-- 当前收录：65 篇
-- 索引更新时间：2026-09-29
+- 当前收录：67 篇
+- 索引更新时间：2026-09-30
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-30 | [A high-flux electron detection system to measure non-linear Compton scattering at LUXE](../papers/arxiv-2609-35519/README.md) | arXiv preprint | [笔记](../daily/2026-09-30/notes/Athanassiadis et al. - 2026 - LUXE high-flux electron detector.md) |
+| 2026-09-30 | [Generating Vector-Vortex gamma Photons by Nonlinear Compton Scattering](../papers/arxiv-2609-35208/README.md) | arXiv preprint | [笔记](../daily/2026-09-30/notes/Ren et al. - 2026 - Vector-vortex gamma photons.md) |
 | 2026-09-29 | [Renormalized perturbation theory in an intense background electromagnetic field](../papers/arxiv-2609-31366/README.md) | arXiv preprint | [笔记](../daily/2026-09-29/notes/Lopez-Lopez et al. - 2026 - Renormalized strong-field QED.md) |
 | 2026-09-27 | [LUXE: a high-precision experiment to study non-perturbative QED in electron–laser and photon–laser collisions](../papers/10-1140-epjp-s13360-026-08312-1/README.md) | The European Physical Journal Plus | [笔记](../daily/2026-09-27/notes/Zarnecki - 2026 - LUXE high-precision nonperturbative QED.md) |
 | 2026-09-26 | [Monte Carlo sampling of first-order QED processes in laser and pulsar plasmas](../papers/arxiv-2609-29325/README.md) | arXiv preprint | [笔记](../daily/2026-09-26/notes/Sarjomaa and Nattila - 2026 - QED Monte Carlo sampling.md) |

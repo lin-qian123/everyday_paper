@@ -2,11 +2,14 @@
 
 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。
 
-- 当前收录：72 篇
-- 索引更新时间：2026-09-29
+- 当前收录：75 篇
+- 索引更新时间：2026-09-30
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-30 | [A high-flux electron detection system to measure non-linear Compton scattering at LUXE](../papers/arxiv-2609-35519/README.md) | arXiv preprint | [笔记](../daily/2026-09-30/notes/Athanassiadis et al. - 2026 - LUXE high-flux electron detector.md) |
+| 2026-09-30 | [Generating Vector-Vortex gamma Photons by Nonlinear Compton Scattering](../papers/arxiv-2609-35208/README.md) | arXiv preprint | [笔记](../daily/2026-09-30/notes/Ren et al. - 2026 - Vector-vortex gamma photons.md) |
+| 2026-09-30 | [Observer-Based Model Predictive Control for Isoflux Regulation in the EXL-50U Spherical Tokamak](../papers/arxiv-2609-34076/README.md) | arXiv preprint | [笔记](../daily/2026-09-30/notes/Lu et al. - 2026 - EXL-50U observer-based MPC.md) |
 | 2026-09-29 | [Anomalous shock scaling in ICF implosions dominated by high-energy X-ray preheat](../papers/10-1063-5-0332964/README.md) | Matter and Radiation at Extremes | [笔记](../daily/2026-09-29/notes/Yang et al. - 2026 - ICF anomalous shock scaling.md) |
 | 2026-09-29 | [Photoneutron cross section of 209Bi in the giant dipole resonance region measured with quasimonoenergetic gamma rays at the Shanghai Laser Electron Gamma Source](../papers/10-1103-rm6z-cgrb/README.md) | Physical Review C | [笔记](../daily/2026-09-29/notes/Wang et al. - 2026 - Bi-209 photoneutron cross sections at SLEGS.md) |
 | 2026-09-29 | [Renormalized perturbation theory in an intense background electromagnetic field](../papers/arxiv-2609-31366/README.md) | arXiv preprint | [笔记](../daily/2026-09-29/notes/Lopez-Lopez et al. - 2026 - Renormalized strong-field QED.md) |

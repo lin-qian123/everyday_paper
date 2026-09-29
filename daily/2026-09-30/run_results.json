@@ -1,0 +1,63 @@
+{
+  "run_date": "2026-09-30",
+  "latest_official_arxiv_batch": "2026-09-29",
+  "latest_arxiv_submission_date": "2026-09-28",
+  "search_summary": {
+    "sources": "installed multi-source search layer, official arXiv Atom/API and article pages, Crossref 2026-09-29 through 30 metadata",
+    "selection_basis": "formal-source priority, verified full text, latest official arXiv increment, direct evidence, topic fit and non-duplication",
+    "coverage_claim": "targeted, not exhaustive",
+    "research_record": "daily/2026-09-30/research/"
+  },
+  "deduplication": {
+    "processed_before": 389,
+    "processed_after": 393,
+    "retry_before": 20,
+    "retry_after": 20,
+    "keys": [
+      "DOI or arXiv identifier",
+      "normalized title",
+      "historical daily folders",
+      "retry queue",
+      "formal-version versus preprint title match",
+      "abstract and physical scenario"
+    ]
+  },
+  "added": [
+    "10.48550/arXiv.2609.35519",
+    "10.48550/arXiv.2609.35208",
+    "10.48550/arXiv.2609.34350",
+    "10.48550/arXiv.2609.34076"
+  ],
+  "retry_removed": [],
+  "retry_added": [],
+  "skipped": [
+    {"identifier": "10.48550/arXiv.2609.34919", "reason": "accelerator PIC and beam-quality optimization was relevant but outside the higher-priority laser/QED/plasma set"},
+    {"identifier": "10.48550/arXiv.2609.35098", "reason": "space-plasma study outside the current laser/HEDP/nuclear-application focus"},
+    {"identifier": "10.48550/arXiv.2609.34304", "reason": "nuclear-detector data release was lower priority than direct beam and diagnostic physics"}
+  ],
+  "pdf_validation": {
+    "valid_documents": 4,
+    "official_arxiv_documents": 4,
+    "selected_and_visually_checked_pages": 16,
+    "details": "daily/2026-09-30/pdf_validation.json"
+  },
+  "evidence_boundaries": [
+    "The LUXE detector paper reports ARES and FACET-II prototype beam tests, not completed LUXE collision spectra.",
+    "The vacuum-diode attenuation data are experimental, while the 24-25 percent anomalous-energy fraction is an AI-assisted Fredholm inversion.",
+    "The vector-vortex gamma paper is a conditional strong-field-QED mode calculation without a gamma-beam experiment or yield budget.",
+    "The EXL-50U MPC results are nonlinear FGE closed-loop simulations and controller-process timings, not device shots or full-loop latency.",
+    "No Ptarmigan/Geant4, Fredholm inversion, strong-field-QED amplitude, MEQ/FGE or OSQP calculation was rerun locally."
+  ],
+  "validation": {
+    "index_builder": "Indexed 393 papers across 9 categories.",
+    "pytest": "7 passed via PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q",
+    "unittest": "7 tests passed via python -m unittest discover -s tests -v",
+    "ledger_checks": "393 records parsed; 389 non-null identifiers are unique; all 393 normalized titles are unique; 20 unique retry records retained",
+    "pdf_header_size_hash_metadata_text_check": "passed for all 4 added documents",
+    "download_report_check": "4 JSON reports parsed",
+    "markdown_link_check": "all local links in the daily index resolved",
+    "diff_check": "git diff --check passed"
+  },
+  "git": "commit and push to origin/master after final staging validation",
+  "status": "success"
+}

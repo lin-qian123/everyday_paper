@@ -1,10 +1,14 @@
 # 论文总索引
 
-- 当前入库论文：389 篇
-- 索引更新时间：2026-09-29
+- 当前入库论文：393 篇
+- 索引更新时间：2026-09-30
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-09-30 | [A high-flux electron detection system to measure non-linear Compton scattering at LUXE](./arxiv-2609-35519/README.md) | arXiv preprint | [10.48550/arXiv.2609.35519](https://doi.org/10.48550/arXiv.2609.35519) |
+| 2026-09-30 | [Generating Vector-Vortex gamma Photons by Nonlinear Compton Scattering](./arxiv-2609-35208/README.md) | arXiv preprint | [10.48550/arXiv.2609.35208](https://doi.org/10.48550/arXiv.2609.35208) |
+| 2026-09-30 | [Electrons with Anomalous Energy Generated in Vacuum Diodes with Different Pulse Duration](./arxiv-2609-34350/README.md) | arXiv preprint | [10.48550/arXiv.2609.34350](https://doi.org/10.48550/arXiv.2609.34350) |
+| 2026-09-30 | [Observer-Based Model Predictive Control for Isoflux Regulation in the EXL-50U Spherical Tokamak](./arxiv-2609-34076/README.md) | arXiv preprint | [10.48550/arXiv.2609.34076](https://doi.org/10.48550/arXiv.2609.34076) |
 | 2026-09-29 | [Anomalous shock scaling in ICF implosions dominated by high-energy X-ray preheat](./10-1063-5-0332964/README.md) | Matter and Radiation at Extremes | [10.1063/5.0332964](https://doi.org/10.1063/5.0332964) |
 | 2026-09-29 | [Photoneutron cross section of 209Bi in the giant dipole resonance region measured with quasimonoenergetic gamma rays at the Shanghai Laser Electron Gamma Source](./10-1103-rm6z-cgrb/README.md) | Physical Review C | [10.1103/rm6z-cgrb](https://doi.org/10.1103/rm6z-cgrb) |
 | 2026-09-29 | [Renormalized perturbation theory in an intense background electromagnetic field](./arxiv-2609-31366/README.md) | arXiv preprint | [10.48550/arXiv.2609.31366](https://doi.org/10.48550/arXiv.2609.31366) |

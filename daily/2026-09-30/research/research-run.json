@@ -1,0 +1,37 @@
+{
+  "run_date": "2026-09-30",
+  "scope": [
+    "laser plasma acceleration and beam quality",
+    "strong-field QED and radiative diagnostics",
+    "high-energy-density physics",
+    "machine-learning and advanced control for plasma and beam diagnostics",
+    "gamma rays, photonuclear reactions, neutrons, isotopes, dose and shielding"
+  ],
+  "date_window": {
+    "official_arxiv_latest_batch": "2026-09-29",
+    "latest_arxiv_submission_date": "2026-09-28",
+    "formal_metadata_from": "2026-09-29",
+    "formal_metadata_until": "2026-09-30"
+  },
+  "selection_rules": [
+    "prefer formal publication when a verified full text is available",
+    "deduplicate by identifier, normalized title, historical daily folders and retry state",
+    "require a valid local PDF and non-empty extracted text before writing a note",
+    "separate direct beam test, spectrum inversion, formal theory and nonlinear control simulation"
+  ],
+  "selected": [
+    "10.48550/arXiv.2609.35519",
+    "10.48550/arXiv.2609.35208",
+    "10.48550/arXiv.2609.34350",
+    "10.48550/arXiv.2609.34076"
+  ],
+  "retry_added": [],
+  "coverage_claim": "targeted official-source search, not exhaustive",
+  "search_layer": "The installed multi-source search layer returned zero usable results; official arXiv, Crossref and official preprint pages were used as fallbacks.",
+  "outputs": {
+    "report": "daily/2026-09-30/research/research-report.md",
+    "sources": "daily/2026-09-30/research/sources.jsonl",
+    "log": "daily/2026-09-30/research/run-log.md",
+    "import_manifest": "daily/2026-09-30/research/import-manifest.json"
+  }
+}

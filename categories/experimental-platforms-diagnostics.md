@@ -2,11 +2,13 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：110 篇
-- 索引更新时间：2026-09-29
+- 当前收录：112 篇
+- 索引更新时间：2026-09-30
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-30 | [A high-flux electron detection system to measure non-linear Compton scattering at LUXE](../papers/arxiv-2609-35519/README.md) | arXiv preprint | [笔记](../daily/2026-09-30/notes/Athanassiadis et al. - 2026 - LUXE high-flux electron detector.md) |
+| 2026-09-30 | [Electrons with Anomalous Energy Generated in Vacuum Diodes with Different Pulse Duration](../papers/arxiv-2609-34350/README.md) | arXiv preprint | [笔记](../daily/2026-09-30/notes/Kozhevnikov et al. - 2026 - Anomalous-energy electrons in vacuum diodes.md) |
 | 2026-09-29 | [Anomalous shock scaling in ICF implosions dominated by high-energy X-ray preheat](../papers/10-1063-5-0332964/README.md) | Matter and Radiation at Extremes | [笔记](../daily/2026-09-29/notes/Yang et al. - 2026 - ICF anomalous shock scaling.md) |
 | 2026-09-29 | [Photoneutron cross section of 209Bi in the giant dipole resonance region measured with quasimonoenergetic gamma rays at the Shanghai Laser Electron Gamma Source](../papers/10-1103-rm6z-cgrb/README.md) | Physical Review C | [笔记](../daily/2026-09-29/notes/Wang et al. - 2026 - Bi-209 photoneutron cross sections at SLEGS.md) |
 | 2026-09-29 | [Bayesian inference of non-Maxwellian distribution functions from collective Thomson scattering spectra](../papers/arxiv-2609-31020/README.md) | arXiv preprint | [笔记](../daily/2026-09-29/notes/Sakai et al. - 2026 - Bayesian non-Maxwellian CTS inference.md) |

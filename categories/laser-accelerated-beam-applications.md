@@ -2,11 +2,13 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：88 篇
-- 索引更新时间：2026-09-29
+- 当前收录：90 篇
+- 索引更新时间：2026-09-30
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-09-30 | [Generating Vector-Vortex gamma Photons by Nonlinear Compton Scattering](../papers/arxiv-2609-35208/README.md) | arXiv preprint | [笔记](../daily/2026-09-30/notes/Ren et al. - 2026 - Vector-vortex gamma photons.md) |
+| 2026-09-30 | [Electrons with Anomalous Energy Generated in Vacuum Diodes with Different Pulse Duration](../papers/arxiv-2609-34350/README.md) | arXiv preprint | [笔记](../daily/2026-09-30/notes/Kozhevnikov et al. - 2026 - Anomalous-energy electrons in vacuum diodes.md) |
 | 2026-09-29 | [Photoneutron cross section of 209Bi in the giant dipole resonance region measured with quasimonoenergetic gamma rays at the Shanghai Laser Electron Gamma Source](../papers/10-1103-rm6z-cgrb/README.md) | Physical Review C | [笔记](../daily/2026-09-29/notes/Wang et al. - 2026 - Bi-209 photoneutron cross sections at SLEGS.md) |
 | 2026-09-27 | [LUXE: a high-precision experiment to study non-perturbative QED in electron–laser and photon–laser collisions](../papers/10-1140-epjp-s13360-026-08312-1/README.md) | The European Physical Journal Plus | [笔记](../daily/2026-09-27/notes/Zarnecki - 2026 - LUXE high-precision nonperturbative QED.md) |
 | 2026-09-26 | [Imaging with GeV muons produced via laser-wakefield-accelerated electrons](../papers/arxiv-2609-28788/README.md) | arXiv preprint | [笔记](../daily/2026-09-26/notes/Dobre et al. - 2026 - Laser-driven GeV muon imaging.md) |
