@@ -2,6 +2,9 @@
 
 ## 当前待办
 
+- [x] 建立 `reviews/2026-frontiers/` 分类综述：共同基础、九个主题与跨方向展望；全库参考目录、覆盖矩阵、阅读缺口与重点来源核查随版保存，明确目录覆盖与原文复核边界。
+- [ ] 后续新增关键论文或原文版本更新时，修订对应综述章与比较结论；先核查当前快照和 R 编号，避免直接重排台账后留下错误引用。已发现的旧笔记公式/日期/参数问题见 `reviews/2026-frontiers/appendices/source-discrepancies.md`，需按原文逐项修订。
+
 - [ ] 将每日自动化主流程固定为：新增论文与笔记 -> 更新 `state/processed_articles.json` -> 运行 `python scripts/build_indexes.py` -> 提交并推送 `origin/master`。
 - [ ] 处理剩余 20 条未补回 PDF 的候选；其中 10 条为 Elsevier/ScienceDirect `HTTP 403`，1 条为 Nature `cookies_not_supported`，6 条为 IOP/Radware 验证页，另有 3 条 APS accepted / formal `HTTP 403` 或延迟开放候选。
 - [ ] 为当前 65 条已补回 PDF 但尚无笔记的条目补中文结构化笔记。

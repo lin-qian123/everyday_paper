@@ -1,0 +1,190 @@
+[
+  {
+    "ref": "R185",
+    "url": "https://arxiv.org/abs/2607.05766",
+    "date": "2026-09-30",
+    "method": "local PDF pdftotext -layout; selected passages reread against repository note",
+    "status": "key_passages_verified",
+    "note": "复核 setup/绝对标定和晶体—streak/时间积分通道关系；未复算反射率或温密反演。",
+    "pdf_path": "daily/2026-07-13/pdfs/Lan Gao et al. - 2026 - Absolute Calibration of a Time-Resolved High Resolution X-ray Spectrometer.pdf",
+    "pdf_sha256": "f78db79a7ee679f5aad5f9988bf8645245cfdccb754e5bae1210b2645961985a",
+    "text_chars": 62521,
+    "scope": "full text extracted; not complete page-by-page full-text or figure review; no independent simulation/calibration"
+  },
+  {
+    "ref": "R219",
+    "url": "https://arxiv.org/abs/2607.17059",
+    "date": "2026-09-30",
+    "method": "local PDF pdftotext -layout; selected passages reread against repository note",
+    "status": "key_passages_verified",
+    "note": "setup/results 核验约 30 MeV、2–100 pC、BPM/FC 与光学响应链、543 nm 主绿光及滤片处理；未独立标定。",
+    "pdf_path": "daily/2026-07-24/pdfs/Shuang Liu et al. - 2026 - DRZ phosphor charge calibration.pdf",
+    "pdf_sha256": "4361fd08f6d91ca1c06acaf3edc774603415ac3d2c56219a9e0ae9c67039b8d2",
+    "text_chars": 36160,
+    "scope": "full text extracted; not complete page-by-page full-text or figure review; no independent simulation/calibration"
+  },
+  {
+    "ref": "R307",
+    "url": "https://arxiv.org/abs/2608.23894",
+    "date": "2026-09-30",
+    "method": "local PDF pdftotext -layout; selected passages reread against repository note",
+    "status": "key_passages_verified",
+    "note": "温度定义、权重关系与无显式碰撞的 3D ES/EM 对照段落复核；长期 equilibrium 为 w_s*T_s = w_sprime*T_sprime；未模拟。",
+    "pdf_path": "daily/2026-08-27/pdfs/Macroparticle weights in PIC.pdf",
+    "pdf_sha256": "a6f1a99de2ba9b350066fd59cf4614c76460514a0fe3042a3df600afd01630df",
+    "text_chars": 177311,
+    "scope": "full text extracted; not complete page-by-page full-text or figure review; no independent simulation/calibration"
+  },
+  {
+    "ref": "R333",
+    "url": "https://arxiv.org/abs/2609.03550",
+    "date": "2026-09-30",
+    "method": "local PDF pdftotext -layout; selected passages reread against repository note",
+    "status": "key_passages_verified",
+    "note": "QDS 的 c*dt=dx、群速度与同 80 核 10 min/20 min/63.5 h 段落核验；主加速含几何降阶，未源码构建。",
+    "pdf_path": "daily/2026-09-05/pdfs/An et al. - 2026 - X-dispersionless cylindrical PIC solver for electromagnetic and axion fields.pdf",
+    "pdf_sha256": "d02cfe9ed866e52ad8a8f34a10ecc01d2c574c70e9e4fded13f1fd55f40196ff",
+    "text_chars": 75718,
+    "scope": "full text extracted; not complete page-by-page full-text or figure review; no independent simulation/calibration"
+  },
+  {
+    "ref": "R369",
+    "url": "https://arxiv.org/abs/2609.23358",
+    "date": "2026-09-30",
+    "method": "local PDF pdftotext -layout; selected passages reread against repository note",
+    "status": "key_passages_verified",
+    "note": "算法 K 是跳跃 horizon，M 是随后 ordinary reanchoring 步数；修正旧笔记含义。核验 4.70 倍、排除加载/诊断、提议均接受、选模非盲测；未训练。",
+    "pdf_path": "daily/2026-09-23/pdfs/Iqbal and Zhang - 2026 - ML accelerated plasma simulation.pdf",
+    "pdf_sha256": "64a69eb16afcb49302157f4bcd0d4ec7c5df91e7a5687ca6165ede5e783dd7ce",
+    "text_chars": 79518,
+    "scope": "full text extracted; not complete page-by-page full-text or figure review; no independent simulation/calibration"
+  },
+  {
+    "ref": "R374",
+    "url": "https://arxiv.org/abs/2609.26390",
+    "date": "2026-09-30",
+    "method": "local PDF pdftotext -layout; selected passages reread against repository note",
+    "status": "key_passages_verified",
+    "note": "核验 100 Hz/10000 发、47 MeV/15 pC、1.4% 能量与12%电荷 rms、能散卷积/95%上限与 Ar 掺比差异；未重做 PCA/FBPIC。",
+    "pdf_path": "daily/2026-09-24/pdfs/Smartsev et al. - 2026 - Stable 100 Hz LWFA beams.pdf",
+    "pdf_sha256": "b374b312bf3bfd11f5791bf2cc85648c1673518fad1bfc6f058ad1b311991c8a",
+    "text_chars": 97928,
+    "scope": "full text extracted; not complete page-by-page full-text or figure review; no independent simulation/calibration"
+  },
+  {
+    "ref": "R379",
+    "url": "https://arxiv.org/abs/2609.28730",
+    "date": "2026-09-30",
+    "method": "local PDF pdftotext -layout; selected passages reread against repository note",
+    "status": "key_passages_verified",
+    "note": "核验 >200k GX、R2=0.989、非法非嵌套/OOD 候选、3 h*16GPU →4 min*1GPU（45墙钟/720GPU-hour）；未重跑。",
+    "pdf_path": "daily/2026-09-26/pdfs/Churchill et al. - 2026 - AI gyrokinetic stellarator transport.pdf",
+    "pdf_sha256": "9f622bc83bf8771b5ef37dcc93e2f146c7be39a06c09b09abee7b40f0e2584c3",
+    "text_chars": 88531,
+    "scope": "full text extracted; not complete page-by-page full-text or figure review; no independent simulation/calibration"
+  },
+  {
+    "ref": "R384",
+    "url": "https://arxiv.org/abs/2609.29514",
+    "date": "2026-09-30",
+    "method": "local PDF pdftotext -layout; selected passages reread against repository note",
+    "status": "key_passages_verified",
+    "note": "核验 1% 磁通/7.5% 谱电流、32–42% 高 S 爆发误差与分辨率查询；PDF首页 September 25,2026，网络提交元数据冲突；未训练。",
+    "pdf_path": "daily/2026-09-27/pdfs/Pothula and Kumar - 2026 - PINO MHD reconnection.pdf",
+    "pdf_sha256": "49fb99a0dadc7445f5a6f381df426c334f64d4b5a1334fb8e86b8b4bd870902e",
+    "text_chars": 94684,
+    "scope": "full text extracted; not complete page-by-page full-text or figure review; no independent simulation/calibration"
+  },
+  {
+    "ref": "R393",
+    "url": "https://arxiv.org/abs/2609.35519",
+    "date": "2026-09-30",
+    "method": "local PDF pdftotext -layout; selected passages reread against repository note",
+    "status": "key_passages_verified",
+    "note": "核验原型 ARES/FACET-II、屏偏离线性<3%、最低(0.5±0.2)pC、九天LED降逾50%、束宽差异；无 LUXE 运行物理谱。",
+    "pdf_path": "daily/2026-09-30/pdfs/Athanassiadis et al. - 2026 - LUXE high-flux electron detector.pdf",
+    "pdf_sha256": "ba1a955e6e9c5c6d750c65de2b062324361fdc54e98c268ea39a486d8f45bee1",
+    "text_chars": 76982,
+    "scope": "full text extracted; not complete page-by-page full-text or figure review; no independent simulation/calibration"
+  },
+  {
+    "ref": "R307",
+    "url": "https://arxiv.org/abs/2608.23894",
+    "date": "2026-09-30",
+    "method": "web official arXiv abstract and submission history",
+    "status": "verified",
+    "note": "官方标题、作者、提交日期与权重导致非物理热平衡摘要匹配。",
+    "publication_date_reported": "2026-08-24",
+    "repository_publication_date": "2026-08-24"
+  },
+  {
+    "ref": "R333",
+    "url": "https://arxiv.org/abs/2609.03550",
+    "date": "2026-09-30",
+    "method": "web official arXiv abstract and submission history",
+    "status": "verified",
+    "note": "官方标题、作者、提交日期与 QDS 轴向 c*dt=dx 推进、axion 数值测试匹配。",
+    "publication_date_reported": "2026-09-03",
+    "repository_publication_date": "2026-09-03"
+  },
+  {
+    "ref": "R369",
+    "url": "https://arxiv.org/abs/2609.23358",
+    "date": "2026-09-30",
+    "method": "web official arXiv abstract and submission history",
+    "status": "verified",
+    "note": "官方摘要明确 PASCHEN-1D drift-diffusion-Poisson、最高4.70倍与有限500ns/网格迁移；不是PIC。",
+    "publication_date_reported": "2026-09-20",
+    "repository_publication_date": "2026-09-20"
+  },
+  {
+    "ref": "R379",
+    "url": "https://arxiv.org/abs/2609.28730",
+    "date": "2026-09-30",
+    "method": "web official arXiv abstract and submission history",
+    "status": "verified",
+    "note": "官方摘要确认>200k绝热电子非线性GX与恒星器代理/输运优化；没有实验温度提升。",
+    "publication_date_reported": "2026-09-23",
+    "repository_publication_date": "2026-09-23"
+  },
+  {
+    "ref": "R384",
+    "url": "https://arxiv.org/abs/2609.29514",
+    "date": "2026-09-30",
+    "method": "web official arXiv abstract and submission history",
+    "status": "metadata_conflict",
+    "note": "web open 官方页面 Submission history 与顶栏均写25 Aug 2026，但ID为2609且本地PDF稿件日期Sep25、台账Sep24；保留冲突，不按月份用于趋势/优先权。",
+    "publication_date_reported": "2026-08-25",
+    "repository_publication_date": "2026-09-24"
+  },
+  {
+    "ref": "R219",
+    "url": "https://arxiv.org/abs/2607.17059",
+    "date": "2026-09-30",
+    "method": "web official arXiv abstract and submission history",
+    "status": "verified",
+    "note": "官方提交日期 2026-07-19 与已有笔记及台账一致；官方摘要确认约30MeV RF束标定。",
+    "publication_date_reported": "2026-07-19",
+    "repository_publication_date": "2026-07-19"
+  },
+  {
+    "ref": "R374",
+    "url": "https://arxiv.org/abs/2609.26390",
+    "date": "2026-09-30",
+    "method": "web official arXiv abstract and submission history",
+    "status": "verified",
+    "note": "官方摘要确认真实100Hz、70mJ/8.1fs、47MeV/15pC、10000发与1.4%/12%rms；本征宽度仍以PDF细则为准。",
+    "publication_date_reported": "2026-09-22",
+    "repository_publication_date": "2026-09-22"
+  },
+  {
+    "ref": "R393",
+    "url": "https://arxiv.org/abs/2609.35519",
+    "date": "2026-09-30",
+    "method": "web official arXiv abstract and submission history",
+    "status": "verified",
+    "note": "官方摘要确认LUXE拟建用途、双探测器与两设施原型测试；不是LUXE已运行。",
+    "publication_date_reported": "2026-09-28",
+    "repository_publication_date": "2026-09-28"
+  }
+]

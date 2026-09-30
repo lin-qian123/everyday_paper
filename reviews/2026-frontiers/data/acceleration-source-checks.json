@@ -1,0 +1,243 @@
+[
+  {
+    "ref": "R121",
+    "url": "https://arxiv.org/abs/2606.07147",
+    "date": "2026-09-30",
+    "method": "web open official publisher/arXiv page and submission history",
+    "status": "abstract_and_metadata_verified",
+    "note": "first submission 2026-06-05; 0.625–6.25 kHz is burst operation; abstract beam charge/divergence and self-modulation verified."
+  },
+  {
+    "ref": "R374",
+    "url": "https://arxiv.org/abs/2609.26390",
+    "date": "2026-09-30",
+    "method": "web open official publisher/arXiv page and submission history",
+    "status": "abstract_and_metadata_verified",
+    "note": "first submission 2026-09-22; abstract verifies 47 MeV, 15 pC, 10000 consecutive shots, 1.4% energy rms and 12% charge rms."
+  },
+  {
+    "ref": "R314",
+    "url": "https://arxiv.org/abs/2602.12765",
+    "date": "2026-09-30",
+    "method": "web open official publisher/arXiv page and submission history",
+    "status": "abstract_and_metadata_verified",
+    "note": "v1 submitted 2026-02-13, v2 revised 2026-08-27; corpus publication_date is v2 date. Abstract verifies 124 nm rad at 2.7 MeV and diffraction."
+  },
+  {
+    "ref": "R285",
+    "url": "https://arxiv.org/abs/2608.16459",
+    "date": "2026-09-30",
+    "method": "web open official publisher/arXiv page and submission history",
+    "status": "abstract_and_metadata_verified",
+    "note": "v1 2026-08-17, v2 2026-08-18; abstract explicitly identifies mixed SMLWFA/DLA, Maxwell-like beam and start-to-end experiment/simulation distinction."
+  },
+  {
+    "ref": "R286",
+    "url": "https://arxiv.org/abs/2608.17119",
+    "date": "2026-09-30",
+    "method": "web open official publisher/arXiv page and submission history",
+    "status": "abstract_and_metadata_verified",
+    "note": "v1 2026-08-17, consistent with corpus; coupled PIC/MC prediction, not clinical production experiment."
+  },
+  {
+    "ref": "R380",
+    "url": "https://arxiv.org/abs/2609.28788",
+    "date": "2026-09-30",
+    "method": "web open official publisher/arXiv page and submission history",
+    "status": "abstract_and_metadata_verified",
+    "note": "v1 2026-09-23; abstract states imaging is consistent with artificially generated few-GeV muons through Monte Carlo comparison."
+  },
+  {
+    "ref": "R035",
+    "url": "https://www.nature.com/articles/s41467-025-67918-8",
+    "date": "2026-09-30",
+    "method": "web open official publisher/arXiv page and submission history",
+    "status": "abstract_and_metadata_verified",
+    "note": "published 2026-01-13; publisher full HTML available despite cookie-error query redirect. Quantum-continuous and stochastic models comparably outperform classical; stochasticity not uniquely identified."
+  },
+  {
+    "ref": "R393",
+    "url": "https://arxiv.org/abs/2609.35519",
+    "date": "2026-09-30",
+    "method": "web open official publisher/arXiv page and submission history",
+    "status": "abstract_and_metadata_verified",
+    "note": "official arXiv abstract/submission record accessed; first submission 2026-09-28. Detector prototype evidence kept distinct from LUXE collision data."
+  },
+  {
+    "ref": "R121",
+    "url": "https://arxiv.org/abs/2606.07147",
+    "date": "2026-09-30",
+    "method": "local PDF pdftotext -layout and targeted passages reread",
+    "status": "key_passages_verified",
+    "note": "Burst mode, 50 fs, 10–12 pC and 50–70 mrad checked in abstract/method passages.",
+    "pdf_path": "daily/2026-06-13/pdfs/Bonaventura Farace et al. - 2026 - Multi-kilohertz laser plasma acceleration driven by an industrial-grade YbYAG laser.pdf",
+    "pdf_sha256": "fea5a69b3f44b5baa65ece2e5bce01cd73484b328c1774591fcdc3282716e4f9",
+    "text_chars": 111307,
+    "local_extracted_text": ".build/acceleration-extracts/R121.txt",
+    "scope": "Selected passage recheck, not complete page-by-page/figure review, independent simulation, or experimental reproduction. Full extracted text retained only in ignored local .build."
+  },
+  {
+    "ref": "R374",
+    "url": "https://arxiv.org/abs/2609.26390",
+    "date": "2026-09-30",
+    "method": "local PDF pdftotext -layout and targeted passages reread",
+    "status": "key_passages_verified_with_noted_extraction_limits",
+    "note": "10000 consecutive shots and 1.4%/12% rms checked; intrinsic <10% FWHM is 95% confidence upper limit after instrument response. pdftotext reports PDF dictionary/string syntax warnings; target paragraphs remain readable.",
+    "pdf_path": "daily/2026-09-24/pdfs/Smartsev et al. - 2026 - Stable 100 Hz LWFA beams.pdf",
+    "pdf_sha256": "b374b312bf3bfd11f5791bf2cc85648c1673518fad1bfc6f058ad1b311991c8a",
+    "text_chars": 97928,
+    "local_extracted_text": ".build/acceleration-extracts/R374.txt",
+    "scope": "Selected passage recheck, not complete page-by-page/figure review, independent simulation, or experimental reproduction. Full extracted text retained only in ignored local .build."
+  },
+  {
+    "ref": "R285",
+    "url": "https://arxiv.org/abs/2608.16459",
+    "date": "2026-09-30",
+    "method": "local PDF pdftotext -layout and targeted passages reread",
+    "status": "key_passages_verified",
+    "note": "1.1±0.13 μC charge threshold, 17 J beam, full-energy 2.3% versus core-energy 8.5%, and measured-spectrum plus simulated-profile 3.3 J X-ray inference checked.",
+    "pdf_path": "daily/2026-08-19/pdfs/LMJ PETAL microcoulomb electron beam hard X-rays.pdf",
+    "pdf_sha256": "58d7dd2e52ac92fe4c9bd89d81910022cd800632c4bfa2eebbd38b1892c19372",
+    "text_chars": 73411,
+    "local_extracted_text": ".build/acceleration-extracts/R285.txt",
+    "scope": "Selected passage recheck, not complete page-by-page/figure review, independent simulation, or experimental reproduction. Full extracted text retained only in ignored local .build."
+  },
+  {
+    "ref": "R267",
+    "url": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/achieving-high-efficiency-and-enhanced-beam-quality-in-laser-wakefield-acceleration/C32439AFB51286D2F141A9CBE1BB202E",
+    "date": "2026-09-30",
+    "method": "local PDF pdftotext -layout and targeted passages reread",
+    "status": "key_passages_verified",
+    "note": "Separate PIC points (8 fs 372 MeV/1.27 nC and optimized 420 MeV/5.5 nC) checked; neglected ion motion and transverse reflecting boundary checked.",
+    "pdf_path": "daily/2026-08-27/pdfs/Achieving high efficiency and enhanced beam quality in LWFA.pdf",
+    "pdf_sha256": "8fa8274c66bc988c3e21e72f49a761c58c08b2cbc1ae669ac202ca454bd90656",
+    "text_chars": 77636,
+    "local_extracted_text": ".build/acceleration-extracts/R267.txt",
+    "scope": "Selected passage recheck, not complete page-by-page/figure review, independent simulation, or experimental reproduction. Full extracted text retained only in ignored local .build."
+  },
+  {
+    "ref": "R314",
+    "url": "https://arxiv.org/abs/2602.12765",
+    "date": "2026-09-30",
+    "method": "local PDF pdftotext -layout and targeted passages reread",
+    "status": "key_passages_verified_with_noted_extraction_limits",
+    "note": "124 nm rad/2.7 MeV abstract and diffraction passages checked; pdftotext font mismatch warning retained.",
+    "pdf_path": "daily/2026-08-31/pdfs/Monzac et al. - 2026 - Ultra-low emittance kHz laser wakefield beams and electron diffraction.pdf",
+    "pdf_sha256": "b4a9016fb47742a4ee1c9fd1c72871eb42ebc6be08004386bcaa9596791d5c88",
+    "text_chars": 60301,
+    "local_extracted_text": ".build/acceleration-extracts/R314.txt",
+    "scope": "Selected passage recheck, not complete page-by-page/figure review, independent simulation, or experimental reproduction. Full extracted text retained only in ignored local .build."
+  },
+  {
+    "ref": "R100",
+    "url": "http://arxiv.org/abs/2605.18968v1",
+    "date": "2026-09-30",
+    "method": "local PDF pdftotext -layout and targeted passages reread",
+    "status": "key_passages_verified",
+    "note": "DD ~2.45 MeV and <=20 ps versus photonuclear >=50 ps source summary checked; very high peak flux distinguished from sample/detector flux. No blanket 36x advantage quoted.",
+    "pdf_path": "daily/2026-06-28/pdfs/Ou Z. Labun et al. - 2026 - Laser-Wakefield-Driven Photonuclear and Laser-Driven DD Fusion Neutron Sources for Fast Neutron Capture A Start-to-End Simulation Study.pdf",
+    "pdf_sha256": "1776670d0999c1ebc5b07469e2ab849b1a9e1dfe1607d98e429a10302e83515b",
+    "text_chars": 118681,
+    "local_extracted_text": ".build/acceleration-extracts/R100.txt",
+    "scope": "Selected passage recheck, not complete page-by-page/figure review, independent simulation, or experimental reproduction. Full extracted text retained only in ignored local .build."
+  },
+  {
+    "ref": "R286",
+    "url": "https://arxiv.org/abs/2608.17119",
+    "date": "2026-09-30",
+    "method": "local PDF pdftotext -layout and targeted passages reread",
+    "status": "key_passages_verified_with_noted_extraction_limits",
+    "note": "9.42e6 atoms/shot, 39.1% conversion, 2.48 nC, 58.6 MeV, and optimistic 1 kHz activity model checked. Font warning; no run of PIC/MC.",
+    "pdf_path": "daily/2026-08-20/pdfs/Nunes et al. - 2026 - Mo-99 production laser wakefield.pdf",
+    "pdf_sha256": "dc6733b1b64534d9438438341b019337f47e65f02c97b0c2a97254c46a7e24af",
+    "text_chars": 96664,
+    "local_extracted_text": ".build/acceleration-extracts/R286.txt",
+    "scope": "Selected passage recheck, not complete page-by-page/figure review, independent simulation, or experimental reproduction. Full extracted text retained only in ignored local .build."
+  },
+  {
+    "ref": "R138",
+    "url": "https://www.nature.com/articles/s41598-026-56639-7",
+    "date": "2026-09-30",
+    "method": "local PDF pdftotext -layout and targeted passages reread",
+    "status": "key_passages_verified",
+    "note": "276 keV–1.2 MeV, up to 2e7 photons/shot, 200 fs scatter pulse and walk-off limited overlap checked.",
+    "pdf_path": "daily/2026-09-03/pdfs/Tsai et al. - 2026 - Stable and tunable MeV gamma-ray generation via dual-laser ITS.pdf",
+    "pdf_sha256": "6510fbd343a0059167b1585ff9d4cf5f31f47e1ad69a073c37c2d79ff56a2dbc",
+    "text_chars": 95706,
+    "local_extracted_text": ".build/acceleration-extracts/R138.txt",
+    "scope": "Selected passage recheck, not complete page-by-page/figure review, independent simulation, or experimental reproduction. Full extracted text retained only in ignored local .build."
+  },
+  {
+    "ref": "R380",
+    "url": "https://arxiv.org/abs/2609.28788",
+    "date": "2026-09-30",
+    "method": "local PDF pdftotext -layout and targeted passages reread",
+    "status": "key_passages_verified_with_noted_extraction_limits",
+    "note": "Imaging section explicitly specifies 20x25x100 cm^3 object; 10x10x5 cm^3 are lead bricks in converter. 86.91% energy deposit is GEANT4 inference; 30 shots and measured widths checked. Font warning.",
+    "pdf_path": "daily/2026-09-26/pdfs/Dobre et al. - 2026 - Laser-driven GeV muon imaging.pdf",
+    "pdf_sha256": "94f0baa98a96cb0e305e6726df0b410b40fc7cae97b88773ad880706f8a1478d",
+    "text_chars": 86123,
+    "local_extracted_text": ".build/acceleration-extracts/R380.txt",
+    "scope": "Selected passage recheck, not complete page-by-page/figure review, independent simulation, or experimental reproduction. Full extracted text retained only in ignored local .build."
+  },
+  {
+    "ref": "R035",
+    "url": "https://www.nature.com/articles/s41467-025-67918-8",
+    "date": "2026-09-30",
+    "method": "local PDF pdftotext -layout and targeted passages reread",
+    "status": "key_passages_verified",
+    "note": "609 MeV source, >5sigma RR, Bayesian comparison and comparable quantum models checked.",
+    "pdf_path": "daily/2026-03-21/pdfs/Los et al. - 2026 - Observation of quantum effects on radiation reaction in strong fields.pdf",
+    "pdf_sha256": "532ea83713cf6396bb8b83db2f0f48bcbe2041efb068e0b4b53ac1e1ed1537c6",
+    "text_chars": 88482,
+    "local_extracted_text": ".build/acceleration-extracts/R035.txt",
+    "scope": "Selected passage recheck, not complete page-by-page/figure review, independent simulation, or experimental reproduction. Full extracted text retained only in ignored local .build."
+  },
+  {
+    "ref": "R393",
+    "url": "https://arxiv.org/abs/2609.35519",
+    "date": "2026-09-30",
+    "method": "local PDF pdftotext -layout and targeted passages reread",
+    "status": "key_passages_verified_with_noted_extraction_limits",
+    "note": "0.5±0.2 pC sensitivity, 1.3% calibration slopes and >50% LED signal decrease in nine days checked; these do not close full LUXE requirements. Font warning.",
+    "pdf_path": "daily/2026-09-30/pdfs/Athanassiadis et al. - 2026 - LUXE high-flux electron detector.pdf",
+    "pdf_sha256": "ba1a955e6e9c5c6d750c65de2b062324361fdc54e98c268ea39a486d8f45bee1",
+    "text_chars": 76982,
+    "local_extracted_text": ".build/acceleration-extracts/R393.txt",
+    "scope": "Selected passage recheck, not complete page-by-page/figure review, independent simulation, or experimental reproduction. Full extracted text retained only in ignored local .build."
+  },
+  {
+    "ref": "R385",
+    "url": "https://doi.org/10.1140/epjp/s13360-026-08312-1",
+    "date": "2026-09-30",
+    "method": "local PDF pdftotext -layout and targeted passages reread",
+    "status": "key_passages_verified",
+    "note": "16.5 GeV, 40 to 350 TW and expected 2029 installation verified in local PDF. Standard wavelength/a0 convention independently corrected; no LUXE physical collision data.",
+    "pdf_path": "daily/2026-09-27/pdfs/Zarnecki - 2026 - LUXE high-precision nonperturbative QED.pdf",
+    "pdf_sha256": "1897dec0d0ccd5d90ee3c4d7b81421306b4d698322890befd4fe681f01242ad4",
+    "text_chars": 24236,
+    "local_extracted_text": ".build/acceleration-extracts/R385.txt",
+    "scope": "Selected passage recheck, not complete page-by-page/figure review, independent simulation, or experimental reproduction. Full extracted text retained only in ignored local .build."
+  },
+  {
+    "ref": "R392",
+    "url": "https://arxiv.org/abs/2609.35208",
+    "date": "2026-09-30",
+    "method": "local PDF pdftotext -layout and targeted passages reread",
+    "status": "key_passages_verified_with_noted_extraction_limits",
+    "note": "Mode-pair concurrence at a0~1 is conditioned on selected mode/energy/recoil; amplitude calculation, not generated photons. Text has overlapping layers/reading order issues, so exact pulse cycles/waist not expanded; font warning.",
+    "pdf_path": "daily/2026-09-30/pdfs/Ren et al. - 2026 - Vector-vortex gamma photons.pdf",
+    "pdf_sha256": "7b32a09803c9142e4f1fde1ac70b047fac8168a377de13ca6a8f36bf17660b0c",
+    "text_chars": 211074,
+    "local_extracted_text": ".build/acceleration-extracts/R392.txt",
+    "scope": "Selected passage recheck, not complete page-by-page/figure review, independent simulation, or experimental reproduction. Full extracted text retained only in ignored local .build."
+  },
+  {
+    "ref": null,
+    "url": null,
+    "date": "2026-09-30",
+    "method": "independent teaching-formula review and author corrections",
+    "status": "reviewed",
+    "note": "Ch01 oscillator explicitly assumes finite planar interface/longitudinal disturbance; px=beta gamma m c xprime; TNSA ln-squared cutoff restricted to late-time omega_pi t>>1. Ch02 thick-target integral restricted to rare reactions, with survival factor/full 1-exp(-tau) explained. Ch03 standard physical-wavelength a0 includes 2pi; lab-field chi and rest-field chi distinguished. Unit/approximation checks performed; no claim of full nonlinear-model derivation."
+  }
+]

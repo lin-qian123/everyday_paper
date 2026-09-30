@@ -9,6 +9,7 @@
 - [索引文件](#索引文件)
 - [仓库结构](#仓库结构)
 - [分类索引](#分类索引)
+- [专题综述](#专题综述)
 - [当前状态](#当前状态2026-09-30)
 - [去重规则](#去重规则)
 - [PDF 下载稳健性](#pdf-下载稳健性)
@@ -39,6 +40,7 @@
 - 单篇论文索引：[`papers/<paper>/README.md`](./papers/)
 - 每日索引：[`daily/README.md`](./daily/README.md)
 - 中文笔记：`daily/YYYY-MM-DD/notes/`
+- 教学式主题综述：[`reviews/2026-frontiers/README.md`](./reviews/2026-frontiers/README.md)
 
 ## 仓库结构
 
@@ -50,6 +52,7 @@
 - `scripts/`：下载、重试和索引构建脚本。
 - `templates/`：每日索引模板。
 - `yearly/`：历史年度回填索引。
+- `reviews/`：按主题的跨论文综述、背景推导、前沿比较、覆盖矩阵与来源核查；不替代原始笔记和自动索引。
 - `AGENTS.md`：自动化执行规则。
 - `TODO.md`：待办、阶段记录、阻塞点和接续线索。
 
@@ -66,6 +69,10 @@
 - [磁约束聚变与 alpha 粒子](./categories/magnetic-fusion-and-alpha-particles.md)
 - [实验平台、靶设计与诊断](./categories/experimental-platforms-diagnostics.md)
 - [综合等离子体与交叉方法](./categories/general-plasma-and-methods.md)
+
+## 专题综述
+
+[2026 等离子体与强激光研究分类综述](./reviews/2026-frontiers/README.md)按现有九个方向组织，另含共同基础与跨方向学习路线，截止 2026-09-30。全库 393 条均有可追溯目录，其中 365 条仓库发表日期为 2026 年；重点原文复核、已有笔记复用、仅目录覆盖与缺笔记条目分别说明。提供分章 Markdown、合订 PDF/HTML、材料缺口与来源差异记录。目录覆盖不代表全部全文精读，也不代表全球文献穷尽检索。
 
 ## 目录约定
 

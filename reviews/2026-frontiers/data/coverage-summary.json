@@ -1,0 +1,41 @@
+{
+  "total_articles": 393,
+  "unique_articles_cited_in_chapters": 290,
+  "catalogue_only": 103,
+  "missing_notes": 65,
+  "chapters": {
+    "00-foundations.md": {
+      "unique_refs": 3
+    },
+    "01-laser-plasma-acceleration.md": {
+      "unique_refs": 52
+    },
+    "02-beam-applications.md": {
+      "unique_refs": 41
+    },
+    "03-strong-field-qed.md": {
+      "unique_refs": 35
+    },
+    "04-hedp-icf-astrophysics.md": {
+      "unique_refs": 47
+    },
+    "05-pic-kinetic-simulation.md": {
+      "unique_refs": 41
+    },
+    "06-ai-ml-plasma.md": {
+      "unique_refs": 42
+    },
+    "07-magnetic-fusion.md": {
+      "unique_refs": 42
+    },
+    "08-platforms-diagnostics.md": {
+      "unique_refs": 43
+    },
+    "09-general-plasma.md": {
+      "unique_refs": 45
+    },
+    "10-outlook-learning.md": {
+      "unique_refs": 23
+    }
+  }
+}

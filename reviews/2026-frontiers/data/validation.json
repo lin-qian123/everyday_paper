@@ -1,0 +1,52 @@
+{
+  "status": "passed",
+  "articles": 393,
+  "chapter_statistics": {
+    "08-platforms-diagnostics.md": {
+      "chinese_characters": 6041,
+      "unique_references": 43
+    },
+    "01-laser-plasma-acceleration.md": {
+      "chinese_characters": 6356,
+      "unique_references": 52
+    },
+    "06-ai-ml-plasma.md": {
+      "chinese_characters": 6161,
+      "unique_references": 42
+    },
+    "09-general-plasma.md": {
+      "chinese_characters": 6398,
+      "unique_references": 45
+    },
+    "05-pic-kinetic-simulation.md": {
+      "chinese_characters": 6050,
+      "unique_references": 41
+    },
+    "02-beam-applications.md": {
+      "chinese_characters": 6151,
+      "unique_references": 41
+    },
+    "00-foundations.md": {
+      "chinese_characters": 3323,
+      "unique_references": 3
+    },
+    "03-strong-field-qed.md": {
+      "chinese_characters": 6155,
+      "unique_references": 35
+    },
+    "10-outlook-learning.md": {
+      "chinese_characters": 3269,
+      "unique_references": 23
+    },
+    "07-magnetic-fusion.md": {
+      "chinese_characters": 6134,
+      "unique_references": 42
+    },
+    "04-hedp-icf-astrophysics.md": {
+      "chinese_characters": 6431,
+      "unique_references": 47
+    }
+  },
+  "errors": [],
+  "scope": "reference IDs, local paths, corpus hash, material coverage and derived edition presence; not scientific validation"
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "ref": null,
+    "url": "https://doi.org/10.1103/PhysRevLett.43.267",
+    "date": "2026-09-30",
+    "method": "web title search, official APS result",
+    "status": "metadata_verified",
+    "note": "Tajima and Dawson; 1979-07-23; foundational citation. No claim of full-text reread."
+  },
+  {
+    "ref": null,
+    "url": "https://doi.org/10.1103/RevModPhys.81.1229",
+    "date": "2026-09-30",
+    "method": "web title search, official APS result",
+    "status": "metadata_verified",
+    "note": "Esarey, Schroeder, Leemans; 2009-08-27; background pointer; basic derivations independently organized."
+  },
+  {
+    "ref": null,
+    "url": "https://doi.org/10.1103/RevModPhys.84.1177",
+    "date": "2026-09-30",
+    "method": "web title search, official APS result",
+    "status": "metadata_verified",
+    "note": "Di Piazza et al.; 2012-08-16; background pointer."
+  },
+  {
+    "ref": "R374",
+    "url": "https://arxiv.org/abs/2609.26390",
+    "date": "2026-09-30",
+    "method": "web open official abstract and submission history",
+    "status": "abstract_and_metadata_verified",
+    "note": "47 MeV, 15 pC, 100 Hz, 10000 consecutive shots; first submitted 2026-09-22; no claim this abstract check is full-text reread."
+  },
+  {
+    "ref": "R035",
+    "url": "https://www.nature.com/articles/s41467-025-67918-8",
+    "date": "2026-09-30",
+    "method": "web open publisher article",
+    "status": "metadata_verified",
+    "note": "Formal article published 2026-01-13; URL redirected with cookie parameters but article text was returned. DOI string 025 does not imply 2025 publication."
+  },
+  {
+    "ref": "R393",
+    "url": "https://arxiv.org/abs/2609.35519",
+    "date": "2026-09-30",
+    "method": "web open official article page",
+    "status": "page_readable",
+    "note": "Official title matched; detector paper, not proof of LUXE collision physics data."
+  }
+]

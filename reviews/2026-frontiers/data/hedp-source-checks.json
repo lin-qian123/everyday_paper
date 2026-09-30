@@ -1,0 +1,202 @@
+[
+  {
+    "ref": "R363",
+    "url": "https://arxiv.org/abs/2609.19752",
+    "date": "2026-09-30",
+    "method": "web.open official arXiv abstract and submission history",
+    "status": "success",
+    "note": "official arXiv v1 2026-09-17; local note body date 09-18 is distinct; abstract explicitly gives simulation-scaled target designs, not new 10 MJ experiments."
+  },
+  {
+    "ref": "R383",
+    "url": "https://arxiv.org/abs/2609.29435",
+    "date": "2026-09-30",
+    "method": "web.open official arXiv abstract and submission history",
+    "status": "success",
+    "note": "official arXiv v1 2026-09-24; abstract identifies finite-temperature DFT EOS/conductivity and magnetic post-processing."
+  },
+  {
+    "ref": "R318",
+    "url": "https://arxiv.org/abs/2608.28468",
+    "date": "2026-09-30",
+    "method": "web.open official arXiv abstract and submission history",
+    "status": "success",
+    "note": "official arXiv v1 2026-08-28; abstract confirms active MAST-U real-time VC experimental deployment; feasibility claim, not broad superiority."
+  },
+  {
+    "ref": "R342",
+    "url": "https://arxiv.org/abs/2609.12474",
+    "date": "2026-09-30",
+    "method": "web.open official arXiv abstract and submission history",
+    "status": "success",
+    "note": "official arXiv first submission 2026-09-11; ledger publication_date is 2026-09-08, discrepancy retained for review without changing state. Abstract confirms experimental ECE/equilibrium evidence."
+  },
+  {
+    "ref": "R350",
+    "url": "https://arxiv.org/abs/2609.11743",
+    "date": "2026-09-30",
+    "method": "web.open official arXiv abstract and submission history",
+    "status": "success",
+    "note": "official arXiv v1 2026-09-10; comment says journal submission 09-08, distinct from public arXiv date; wavefront-based initial density inference."
+  },
+  {
+    "ref": "R343",
+    "url": "https://arxiv.org/abs/2609.08413",
+    "date": "2026-09-30",
+    "method": "web.open official arXiv abstract and submission history",
+    "status": "success",
+    "note": "official arXiv v1 2026-09-08; controlled Boltzmann-Maxwell similarity demonstrations in PIC/fluid, not arbitrary apparatus scaling."
+  },
+  {
+    "ref": "R358",
+    "url": "https://arxiv.org/abs/2609.17162",
+    "date": "2026-09-30",
+    "method": "web.open official arXiv abstract and submission history",
+    "status": "success",
+    "note": "official arXiv v1 2026-09-15; abstract explicitly says energy transfer consistent with cascade, not fully developed turbulence."
+  },
+  {
+    "ref": "R039",
+    "url": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/equation-of-state-measurements-of-boron-nitride-under-laserdriven-compression-at-the-prague-asterix-laser-system-facility/9B71874D6F9DB182D74372D40E442618",
+    "date": "2026-09-30",
+    "method": "local pdftotext -layout",
+    "status": "success",
+    "note": "Nonempty full-text extraction; selected model/quantitative passages located and read; no simulation rerun or complete figure QA. PDF=daily/2026-06-16/pdfs/Hanna Marchenko et al. - 2026 - Equation of state measurements of boron nitride under laser-driven compression at the Prague Asterix Laser System facility.pdf; text_chars=56861; sha256=a660589c051ce8c972e5e58c13e20852591e37e1f40171cc2b781a3a2b53b627."
+  },
+  {
+    "ref": "R150",
+    "url": "https://arxiv.org/abs/2606.23109",
+    "date": "2026-09-30",
+    "method": "local pdftotext -layout",
+    "status": "success",
+    "note": "Nonempty full-text extraction; selected model/quantitative passages located and read; no simulation rerun or complete figure QA. PDF=daily/2026-06-25/pdfs/Yun Liu et al. - 2026 - Observation of stopping power reduction at strong ion-plasma coupling.pdf; text_chars=62868; sha256=5139ec1633c7f5578b791ce2e106e3d73ebab62264a82f686f947f10d61213f6."
+  },
+  {
+    "ref": "R268",
+    "url": "https://arxiv.org/abs/2608.05555",
+    "date": "2026-09-30",
+    "method": "local pdftotext -layout",
+    "status": "success",
+    "note": "Nonempty full-text extraction; selected model/quantitative passages located and read; no simulation rerun or complete figure QA. PDF=daily/2026-08-10/pdfs/Krastev - 2026 - Neural operator Grad Shafranov equilibria.pdf; text_chars=86963; sha256=22cf3c00dac7d43f79165cf2413c56df0eac597baab1679f29c9433afe2fa00a."
+  },
+  {
+    "ref": "R274",
+    "url": "https://iopscience.iop.org/article/10.1088/1741-4326/ae96c1",
+    "date": "2026-09-30",
+    "method": "local pdftotext -layout",
+    "status": "success",
+    "note": "Nonempty full-text extraction; selected model/quantitative passages located and read; no simulation rerun or complete figure QA. PDF=daily/2026-08-11/pdfs/Multi shock DT fast ignition.pdf; text_chars=80381; sha256=3a2dec50b5e8e953549934cd08bcc79a90ef56500db8fb2cbefc84e8f9f2b9ad."
+  },
+  {
+    "ref": "R280",
+    "url": "https://arxiv.org/abs/2608.11664",
+    "date": "2026-09-30",
+    "method": "local pdftotext -layout",
+    "status": "success",
+    "note": "Nonempty full-text extraction; selected model/quantitative passages located and read; no simulation rerun or complete figure QA. PDF=daily/2026-08-14/pdfs/Laser driven plasma expansion hohlraum gas.pdf; text_chars=61091; sha256=35cbfc74b2555f5cc9b64487333f894f15275d8ba1f8037917f39a127d4d55f5."
+  },
+  {
+    "ref": "R318",
+    "url": "https://arxiv.org/abs/2608.28468",
+    "date": "2026-09-30",
+    "method": "local pdftotext -layout",
+    "status": "success",
+    "note": "Nonempty full-text extraction; selected model/quantitative passages located and read; no simulation rerun or complete figure QA. PDF=daily/2026-09-01/pdfs/Amorisco et al. - 2026 - Real-time virtual circuits experimental demonstration on MAST-U.pdf; text_chars=49391; sha256=da772213cce1b15ac52e2bc9decb64b29b46ac4653a6bcb7b666d2fca4a98451."
+  },
+  {
+    "ref": "R342",
+    "url": "https://arxiv.org/abs/2609.12474",
+    "date": "2026-09-30",
+    "method": "local pdftotext -layout",
+    "status": "success",
+    "note": "Nonempty full-text extraction; selected model/quantitative passages located and read; no simulation rerun or complete figure QA. PDF=daily/2026-09-15/pdfs/Lestz et al. - 2026 - First experimental evidence of helicon current drive.pdf; text_chars=94563; sha256=6ced04092a8f9abcc1cc5c168c06b6b2e5adc2f9f80daf826888379284aafc9e."
+  },
+  {
+    "ref": "R363",
+    "url": "https://arxiv.org/abs/2609.19752",
+    "date": "2026-09-30",
+    "method": "local pdftotext -layout",
+    "status": "success",
+    "note": "Nonempty full-text extraction; selected model/quantitative passages located and read; no simulation rerun or complete figure QA. PDF=daily/2026-09-20/pdfs/Weber et al. - 2026 - Indirect-drive target design for fusion energy.pdf; text_chars=123641; sha256=51bb5a3abe3811a9e211458a45fe1aa671ecf45e4db7bb79d724fc24fdd24040."
+  },
+  {
+    "ref": "R383",
+    "url": "https://arxiv.org/abs/2609.29435",
+    "date": "2026-09-30",
+    "method": "local pdftotext -layout",
+    "status": "success",
+    "note": "Nonempty full-text extraction; selected model/quantitative passages located and read; no simulation rerun or complete figure QA. PDF=daily/2026-09-26/pdfs/Li et al. - 2026 - Warm dense aluminum DFT.pdf; text_chars=47482; sha256=9956601bf25160873c0520deddf2aba2dfb74b5cdaa40e65a960883e6a47450a."
+  },
+  {
+    "ref": "R388",
+    "url": "https://doi.org/10.1063/5.0332964",
+    "date": "2026-09-30",
+    "method": "local pdftotext -layout",
+    "status": "success",
+    "note": "Nonempty full-text extraction; selected model/quantitative passages located and read; no simulation rerun or complete figure QA. PDF=daily/2026-09-29/pdfs/Yang et al. - 2026 - ICF anomalous shock scaling.pdf; text_chars=60979; sha256=d7a9ed8fe71e69447de7168216b0f47125f4f4e0c0dcc9956a2b0c6757dc2b21."
+  },
+  {
+    "ref": "R379",
+    "url": "https://arxiv.org/abs/2609.28730",
+    "date": "2026-09-30",
+    "method": "local pdftotext -layout",
+    "status": "success",
+    "note": "Nonempty full-text extraction; selected model/quantitative passages located and read; no simulation rerun or complete figure QA. PDF=daily/2026-09-26/pdfs/Churchill et al. - 2026 - AI gyrokinetic stellarator transport.pdf; text_chars=88531; sha256=9f622bc83bf8771b5ef37dcc93e2f146c7be39a06c09b09abee7b40f0e2584c3."
+  },
+  {
+    "ref": "R350",
+    "url": "https://arxiv.org/abs/2609.11743",
+    "date": "2026-09-30",
+    "method": "local pdftotext -layout",
+    "status": "success",
+    "note": "Nonempty full-text extraction; selected model/quantitative passages located and read; no simulation rerun or complete figure QA. PDF=daily/2026-09-12/pdfs/Kuchta et al. - 2026 - Magnetosonic-wave plasma density profiles.pdf; text_chars=34284; sha256=e2f9580dc4cdc0503d16907712a16e055c6af7c03d7cbdbeb6de4b24eae613cc."
+  },
+  {
+    "ref": "R358",
+    "url": "https://arxiv.org/abs/2609.17162",
+    "date": "2026-09-30",
+    "method": "local pdftotext -layout",
+    "status": "success",
+    "note": "Nonempty full-text extraction; selected model/quantitative passages located and read; no simulation rerun or complete figure QA. PDF=daily/2026-09-17/pdfs/Chen et al. - 2026 - Strong nonlinear Alfven wave interactions.pdf; text_chars=71688; sha256=80747200458a227619fa7434c5c95c522db5d410886258b13dfcf7e0c9e363a3."
+  },
+  {
+    "ref": "R384",
+    "url": "https://arxiv.org/abs/2609.29514",
+    "date": "2026-09-30",
+    "method": "local pdftotext -layout",
+    "status": "success",
+    "note": "Nonempty full-text extraction; selected model/quantitative passages located and read; no simulation rerun or complete figure QA. PDF=daily/2026-09-27/pdfs/Pothula and Kumar - 2026 - PINO MHD reconnection.pdf; text_chars=94684; sha256=49fb99a0dadc7445f5a6f381df426c334f64d4b5a1334fb8e86b8b4bd870902e."
+  },
+  {
+    "ref": "R386",
+    "url": "https://arxiv.org/abs/2609.31020",
+    "date": "2026-09-30",
+    "method": "local pdftotext -layout",
+    "status": "success",
+    "note": "Nonempty full-text extraction; selected model/quantitative passages located and read; no simulation rerun or complete figure QA. PDF=daily/2026-09-29/pdfs/Sakai et al. - 2026 - Bayesian non-Maxwellian CTS inference.pdf; text_chars=89282; sha256=ebe55f3b4495001cdbb3cf34686c3c3f549072d3984c3e92db7b677d862716d7."
+  },
+  {
+    "ref": "R343",
+    "url": "https://arxiv.org/abs/2609.08413",
+    "date": "2026-09-30",
+    "method": "local pdftotext -layout",
+    "status": "success",
+    "note": "Nonempty full-text extraction; selected model/quantitative passages located and read; no simulation rerun or complete figure QA. PDF=daily/2026-09-11/pdfs/Fu - 2026 - Generalized similarity theory for plasmas.pdf; text_chars=48981; sha256=3e34c737185c6077cebb11f133e918524845361d8f94531021a4d8c90c4c3104."
+  },
+  {
+    "ref": "R096",
+    "url": "https://www.nature.com/articles/s42005-026-02674-9",
+    "date": "2026-09-30",
+    "method": "local pdftotext -layout",
+    "status": "success",
+    "note": "Local abstract and opening introduction read; not full-page review. PDF=daily/2026-06-03/pdfs/Mario Grossmann et al. - 2026 - Ultrafast many-body dynamics of dense Rydberg gases and ultracold plasma.pdf; text_chars=89805; sha256=c98f93b5d9ce7777f1e34b86ea558ca3c73daca36eb22c698d63307d0148e528."
+  },
+  {
+    "ref": "R050",
+    "url": "https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/plasma-rotation-driven-by-lasers-with-zero-angular-momentum/2520AF3C7BB408A786E25666F28AE043",
+    "date": "2026-09-30",
+    "method": "local pdftotext -layout",
+    "status": "success",
+    "note": "Local abstract and opening introduction read; not full-page review. PDF=daily/2026-06-07/pdfs/Camilla Willim et al. - 2026 - Plasma rotation driven by lasers with zero angular momentum.pdf; text_chars=53860; sha256=f985e8f4d6f6ec05945c50033a35e8e540d3595d6b4c00cdb22b70259097bb1d."
+  }
+]
