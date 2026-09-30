@@ -1,10 +1,15 @@
 # 论文总索引
 
-- 当前入库论文：393 篇
-- 索引更新时间：2026-09-30
+- 当前入库论文：398 篇
+- 索引更新时间：2026-10-01
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-10-01 | [Experimental demonstration of broadband-laser suppression of cross-beam energy transfer](./arxiv-2609-36528/README.md) | arXiv preprint | [10.48550/arXiv.2609.36528](https://doi.org/10.48550/arXiv.2609.36528) |
+| 2026-10-01 | [Electron Rephasing in a Truncated Tunable Plasma Channel](./arxiv-2609-36964/README.md) | arXiv preprint | [10.48550/arXiv.2609.36964](https://doi.org/10.48550/arXiv.2609.36964) |
+| 2026-10-01 | [Laser-Polarization Dependence of Betatron X-Ray Production and Angular Collection in Laser-Wakefield Acceleration](./arxiv-2609-37228/README.md) | arXiv preprint | [10.48550/arXiv.2609.37228](https://doi.org/10.48550/arXiv.2609.37228) |
+| 2026-10-01 | [Diffusion prior for KSTAR equilibrium reconstruction under sensor dropout](./arxiv-2609-36536/README.md) | arXiv preprint | [10.48550/arXiv.2609.36536](https://doi.org/10.48550/arXiv.2609.36536) |
+| 2026-10-01 | [A portable neutron scatter camera with isotropic sensitivity](./arxiv-2609-36342/README.md) | arXiv preprint | [10.48550/arXiv.2609.36342](https://doi.org/10.48550/arXiv.2609.36342) |
 | 2026-09-30 | [A high-flux electron detection system to measure non-linear Compton scattering at LUXE](./arxiv-2609-35519/README.md) | arXiv preprint | [10.48550/arXiv.2609.35519](https://doi.org/10.48550/arXiv.2609.35519) |
 | 2026-09-30 | [Generating Vector-Vortex gamma Photons by Nonlinear Compton Scattering](./arxiv-2609-35208/README.md) | arXiv preprint | [10.48550/arXiv.2609.35208](https://doi.org/10.48550/arXiv.2609.35208) |
 | 2026-09-30 | [Electrons with Anomalous Energy Generated in Vacuum Diodes with Different Pulse Duration](./arxiv-2609-34350/README.md) | arXiv preprint | [10.48550/arXiv.2609.34350](https://doi.org/10.48550/arXiv.2609.34350) |

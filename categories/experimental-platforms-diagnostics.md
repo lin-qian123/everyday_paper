@@ -2,11 +2,15 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：112 篇
-- 索引更新时间：2026-09-30
+- 当前收录：116 篇
+- 索引更新时间：2026-10-01
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-01 | [Experimental demonstration of broadband-laser suppression of cross-beam energy transfer](../papers/arxiv-2609-36528/README.md) | arXiv preprint | [笔记](../daily/2026-10-01/notes/Xu et al. - 2026 - Broadband laser CBET suppression.md) |
+| 2026-10-01 | [Electron Rephasing in a Truncated Tunable Plasma Channel](../papers/arxiv-2609-36964/README.md) | arXiv preprint | [笔记](../daily/2026-10-01/notes/Mohanty et al. - 2026 - Electron rephasing in plasma channel.md) |
+| 2026-10-01 | [Diffusion prior for KSTAR equilibrium reconstruction under sensor dropout](../papers/arxiv-2609-36536/README.md) | arXiv preprint | [笔记](../daily/2026-10-01/notes/Nam and Seo - 2026 - KSTAR diffusion prior reconstruction.md) |
+| 2026-10-01 | [A portable neutron scatter camera with isotropic sensitivity](../papers/arxiv-2609-36342/README.md) | arXiv preprint | [笔记](../daily/2026-10-01/notes/Yoon et al. - 2026 - Portable neutron scatter camera.md) |
 | 2026-09-30 | [A high-flux electron detection system to measure non-linear Compton scattering at LUXE](../papers/arxiv-2609-35519/README.md) | arXiv preprint | [笔记](../daily/2026-09-30/notes/Athanassiadis et al. - 2026 - LUXE high-flux electron detector.md) |
 | 2026-09-30 | [Electrons with Anomalous Energy Generated in Vacuum Diodes with Different Pulse Duration](../papers/arxiv-2609-34350/README.md) | arXiv preprint | [笔记](../daily/2026-09-30/notes/Kozhevnikov et al. - 2026 - Anomalous-energy electrons in vacuum diodes.md) |
 | 2026-09-29 | [Anomalous shock scaling in ICF implosions dominated by high-energy X-ray preheat](../papers/10-1063-5-0332964/README.md) | Matter and Radiation at Extremes | [笔记](../daily/2026-09-29/notes/Yang et al. - 2026 - ICF anomalous shock scaling.md) |

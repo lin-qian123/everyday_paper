@@ -1,0 +1,38 @@
+{
+  "run_date": "2026-10-01",
+  "scope": [
+    "laser plasma acceleration and beam quality",
+    "strong-field QED and radiative diagnostics",
+    "high-energy-density physics and inertial confinement fusion",
+    "machine-learning and advanced control for plasma diagnostics",
+    "gamma rays, photonuclear reactions, neutrons, isotopes, dose and shielding"
+  ],
+  "date_window": {
+    "official_arxiv_latest_batch": "2026-09-30",
+    "latest_arxiv_submission_date": "2026-09-29",
+    "formal_metadata_from": "2026-09-29",
+    "formal_metadata_until": "2026-10-01"
+  },
+  "selection_rules": [
+    "prefer formal publication when a verified full text is available",
+    "deduplicate by identifier, normalized title, historical daily folders, retry state, abstract and physical scenario",
+    "require a valid local PDF and non-empty extracted text before writing a note",
+    "separate direct measurement, model-assisted mechanism, numerical design and label-based machine-learning validation"
+  ],
+  "selected": [
+    "10.48550/arXiv.2609.36528",
+    "10.48550/arXiv.2609.36964",
+    "10.48550/arXiv.2609.37228",
+    "10.48550/arXiv.2609.36536",
+    "10.48550/arXiv.2609.36342"
+  ],
+  "retry_added": [],
+  "coverage_claim": "targeted official-source search, not exhaustive",
+  "search_layer": "The installed multi-source search layer returned zero usable results; official arXiv, Crossref and official preprint pages were used as fallbacks.",
+  "outputs": {
+    "report": "daily/2026-10-01/research/research-report.md",
+    "sources": "daily/2026-10-01/research/sources.jsonl",
+    "log": "daily/2026-10-01/research/run-log.md",
+    "import_manifest": "daily/2026-10-01/research/import-manifest.json"
+  }
+}

@@ -4630,5 +4630,84 @@
       "general-plasma-and-methods"
     ],
     "normalized_title": "observer based model predictive control for isoflux regulation in the exl 50u spherical tokamak"
+  },
+  {
+    "title": "Experimental demonstration of broadband-laser suppression of cross-beam energy transfer",
+    "doi": "10.48550/arXiv.2609.36528",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-29",
+    "processed_date": "2026-10-01",
+    "source_url": "https://arxiv.org/abs/2609.36528",
+    "pdf_path": "daily/2026-10-01/pdfs/Xu et al. - 2026 - Broadband laser CBET suppression.pdf",
+    "note_path": "daily/2026-10-01/notes/Xu et al. - 2026 - Broadband laser CBET suppression.md",
+    "categories": [
+      "hedp-icf-laboratory-astrophysics",
+      "laser-plasma-acceleration",
+      "experimental-platforms-diagnostics"
+    ],
+    "normalized_title": "experimental demonstration of broadband laser suppression of cross beam energy transfer"
+  },
+  {
+    "title": "Electron Rephasing in a Truncated Tunable Plasma Channel",
+    "doi": "10.48550/arXiv.2609.36964",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-29",
+    "processed_date": "2026-10-01",
+    "source_url": "https://arxiv.org/abs/2609.36964",
+    "pdf_path": "daily/2026-10-01/pdfs/Mohanty et al. - 2026 - Electron rephasing in plasma channel.pdf",
+    "note_path": "daily/2026-10-01/notes/Mohanty et al. - 2026 - Electron rephasing in plasma channel.md",
+    "categories": [
+      "laser-plasma-acceleration",
+      "pic-and-plasma-simulation",
+      "experimental-platforms-diagnostics"
+    ],
+    "normalized_title": "electron rephasing in a truncated tunable plasma channel"
+  },
+  {
+    "title": "Laser-Polarization Dependence of Betatron X-Ray Production and Angular Collection in Laser-Wakefield Acceleration",
+    "doi": "10.48550/arXiv.2609.37228",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-29",
+    "processed_date": "2026-10-01",
+    "source_url": "https://arxiv.org/abs/2609.37228",
+    "pdf_path": "daily/2026-10-01/pdfs/Berceanu et al. - 2026 - Polarization dependent betatron x rays.pdf",
+    "note_path": "daily/2026-10-01/notes/Berceanu et al. - 2026 - Polarization dependent betatron x rays.md",
+    "categories": [
+      "laser-plasma-acceleration",
+      "laser-accelerated-beam-applications",
+      "pic-and-plasma-simulation"
+    ],
+    "normalized_title": "laser polarization dependence of betatron x ray production and angular collection in laser wakefield acceleration"
+  },
+  {
+    "title": "Diffusion prior for KSTAR equilibrium reconstruction under sensor dropout",
+    "doi": "10.48550/arXiv.2609.36536",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-29",
+    "processed_date": "2026-10-01",
+    "source_url": "https://arxiv.org/abs/2609.36536",
+    "pdf_path": "daily/2026-10-01/pdfs/Nam and Seo - 2026 - KSTAR diffusion prior reconstruction.pdf",
+    "note_path": "daily/2026-10-01/notes/Nam and Seo - 2026 - KSTAR diffusion prior reconstruction.md",
+    "categories": [
+      "magnetic-fusion-and-alpha-particles",
+      "ai-ml-plasma-physics",
+      "experimental-platforms-diagnostics"
+    ],
+    "normalized_title": "diffusion prior for kstar equilibrium reconstruction under sensor dropout"
+  },
+  {
+    "title": "A portable neutron scatter camera with isotropic sensitivity",
+    "doi": "10.48550/arXiv.2609.36342",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-28",
+    "processed_date": "2026-10-01",
+    "source_url": "https://arxiv.org/abs/2609.36342",
+    "pdf_path": "daily/2026-10-01/pdfs/Yoon et al. - 2026 - Portable neutron scatter camera.pdf",
+    "note_path": "daily/2026-10-01/notes/Yoon et al. - 2026 - Portable neutron scatter camera.md",
+    "categories": [
+      "experimental-platforms-diagnostics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "a portable neutron scatter camera with isotropic sensitivity"
   }
 ]

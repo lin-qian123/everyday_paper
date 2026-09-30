@@ -2,11 +2,12 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：90 篇
-- 索引更新时间：2026-09-30
+- 当前收录：91 篇
+- 索引更新时间：2026-10-01
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-01 | [Laser-Polarization Dependence of Betatron X-Ray Production and Angular Collection in Laser-Wakefield Acceleration](../papers/arxiv-2609-37228/README.md) | arXiv preprint | [笔记](../daily/2026-10-01/notes/Berceanu et al. - 2026 - Polarization dependent betatron x rays.md) |
 | 2026-09-30 | [Generating Vector-Vortex gamma Photons by Nonlinear Compton Scattering](../papers/arxiv-2609-35208/README.md) | arXiv preprint | [笔记](../daily/2026-09-30/notes/Ren et al. - 2026 - Vector-vortex gamma photons.md) |
 | 2026-09-30 | [Electrons with Anomalous Energy Generated in Vacuum Diodes with Different Pulse Duration](../papers/arxiv-2609-34350/README.md) | arXiv preprint | [笔记](../daily/2026-09-30/notes/Kozhevnikov et al. - 2026 - Anomalous-energy electrons in vacuum diodes.md) |
 | 2026-09-29 | [Photoneutron cross section of 209Bi in the giant dipole resonance region measured with quasimonoenergetic gamma rays at the Shanghai Laser Electron Gamma Source](../papers/10-1103-rm6z-cgrb/README.md) | Physical Review C | [笔记](../daily/2026-09-29/notes/Wang et al. - 2026 - Bi-209 photoneutron cross sections at SLEGS.md) |

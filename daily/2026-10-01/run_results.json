@@ -1,0 +1,82 @@
+{
+  "run_date": "2026-10-01",
+  "latest_official_arxiv_batch": "2026-09-30",
+  "latest_arxiv_submission_date": "2026-09-29",
+  "search_summary": {
+    "sources": "installed multi-source search layer, official arXiv Atom/API and article pages, Crossref 2026-09-29 through 2026-10-01 metadata",
+    "selection_basis": "formal-source priority, verified full text, latest official arXiv increment, direct evidence, topic fit and non-duplication",
+    "coverage_claim": "targeted, not exhaustive",
+    "research_record": "daily/2026-10-01/research/"
+  },
+  "deduplication": {
+    "processed_before": 393,
+    "processed_after": 398,
+    "retry_before": 20,
+    "retry_after": 20,
+    "keys": [
+      "DOI or arXiv identifier",
+      "normalized title",
+      "historical daily folders",
+      "retry queue",
+      "formal-version versus preprint title match",
+      "abstract and physical scenario"
+    ]
+  },
+  "added": [
+    "10.48550/arXiv.2609.36528",
+    "10.48550/arXiv.2609.36964",
+    "10.48550/arXiv.2609.37228",
+    "10.48550/arXiv.2609.36536",
+    "10.48550/arXiv.2609.36342"
+  ],
+  "retry_removed": [],
+  "retry_added": [],
+  "skipped": [
+    {
+      "identifier": "10.48550/arXiv.2609.37609",
+      "reason": "relevant MHD neural operator but lower direct-evidence priority than the selected measured-signal benchmark"
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.37856",
+      "reason": "space-plasma turbulence outside the current laboratory-plasma and nuclear-application focus"
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.37409",
+      "reason": "magnetospheric chorus simulation outside the main laboratory-plasma scope"
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.37257",
+      "reason": "plasma-powered active matter is farther from the laser HEDP and beam-application scope"
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.36533",
+      "reason": "positron-beam calculation without a laser-plasma source or measured output beam"
+    }
+  ],
+  "pdf_validation": {
+    "valid_documents": 5,
+    "official_arxiv_documents": 5,
+    "selected_and_visually_checked_pages": 20,
+    "details": "daily/2026-10-01/pdf_validation.json"
+  },
+  "evidence_boundaries": [
+    "The CBET experiment measures return within finite diagnostic apertures; the CBET-specific partition relies on fixed-background two-dimensional ray tracing.",
+    "The plasma-channel paper directly measures electron spectra and shot stability, while bubble shrinkage and rephasing are supported by EPOCH, FLASH and FBPIC.",
+    "The betatron x-ray and downstream electron-transport results are entirely FBPIC, radiation post-processing and ImpactX calculations.",
+    "The KSTAR study uses measured magnetic signals but evaluates against full-sensor LIUQE labels; its diffusion sample spread is not calibrated uncertainty and runtime is not real time.",
+    "The neutron camera is characterized with Cf-252; ESS event rates, high-energy response and field deployment are simulated or projected.",
+    "No radiation-hydrodynamics, PIC, ray tracing, transport, diffusion-model training, equilibrium reconstruction or neutron Monte Carlo calculation was rerun locally."
+  ],
+  "validation": {
+    "index_builder": "Indexed 398 papers across 9 categories.",
+    "pytest": "7 passed via PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q",
+    "unittest": "7 tests passed via python -m unittest discover -s tests -v",
+    "ledger_checks": "398 records parsed; 394 non-null identifiers are unique; all 398 normalized titles are unique; 20 unique retry records retained",
+    "pdf_header_size_hash_metadata_text_check": "passed for all 5 added documents",
+    "download_report_check": "5 JSON reports parsed",
+    "markdown_link_check": "all local links in the daily index resolved",
+    "diff_check": "git diff --check passed"
+  },
+  "git": "commit and push to origin/master after final staging validation",
+  "status": "success"
+}

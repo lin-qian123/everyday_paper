@@ -1,0 +1,67 @@
+{
+  "run_date": "2026-10-01",
+  "checks": [
+    "%PDF- header",
+    "file type",
+    "nonzero byte count",
+    "SHA-256",
+    "pdfinfo page count",
+    "nonempty pdftotext -layout",
+    "selected-page rendering and visual inspection"
+  ],
+  "documents": [
+    {
+      "identifier": "10.48550/arXiv.2609.36528",
+      "path": "daily/2026-10-01/pdfs/Xu et al. - 2026 - Broadband laser CBET suppression.pdf",
+      "bytes": 7037884,
+      "sha256": "1d9f2c87fca5bd2b2f6ea78bbe66b6e878147e816664dbd076ecc436cd32afb4",
+      "pages": 12,
+      "text_bytes": 38041,
+      "rendered_pages": [1, 3, 5, 7],
+      "status": "passed"
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.36964",
+      "path": "daily/2026-10-01/pdfs/Mohanty et al. - 2026 - Electron rephasing in plasma channel.pdf",
+      "bytes": 1405558,
+      "sha256": "b226eb03b59714a05e4c51a54074de3830d0743ca51641ed52e2191a013f3bed",
+      "pages": 6,
+      "text_bytes": 51964,
+      "rendered_pages": [1, 2, 4, 6],
+      "status": "passed"
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.37228",
+      "path": "daily/2026-10-01/pdfs/Berceanu et al. - 2026 - Polarization dependent betatron x rays.pdf",
+      "bytes": 12177404,
+      "sha256": "3e330ec8e143a0657e0e2be2eeb15ff4232f583bb8419be4cd681cf4bbe73900",
+      "pages": 16,
+      "text_bytes": 106594,
+      "rendered_pages": [1, 6, 8, 9],
+      "status": "passed"
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.36536",
+      "path": "daily/2026-10-01/pdfs/Nam and Seo - 2026 - KSTAR diffusion prior reconstruction.pdf",
+      "bytes": 1393075,
+      "sha256": "eebdca6be0af5208549035de7a6b6009a7bc7a31c15b367ff6185091eb395bec",
+      "pages": 28,
+      "text_bytes": 91285,
+      "rendered_pages": [1, 10, 12, 15],
+      "status": "passed"
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.36342",
+      "path": "daily/2026-10-01/pdfs/Yoon et al. - 2026 - Portable neutron scatter camera.pdf",
+      "bytes": 9225948,
+      "sha256": "bf4081e483621b2e86bed3371d7b6f0dd4cf5b213ff45eeb07e17b6723f407df",
+      "pages": 10,
+      "text_bytes": 77062,
+      "rendered_pages": [1, 5, 7, 8],
+      "status": "passed"
+    }
+  ],
+  "selected_and_visually_checked_pages": 20,
+  "valid_documents": 5,
+  "status": "passed"
+}

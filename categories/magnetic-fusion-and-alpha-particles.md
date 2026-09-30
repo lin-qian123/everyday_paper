@@ -2,11 +2,12 @@
 
 stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。
 
-- 当前收录：43 篇
-- 索引更新时间：2026-09-30
+- 当前收录：44 篇
+- 索引更新时间：2026-10-01
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-01 | [Diffusion prior for KSTAR equilibrium reconstruction under sensor dropout](../papers/arxiv-2609-36536/README.md) | arXiv preprint | [笔记](../daily/2026-10-01/notes/Nam and Seo - 2026 - KSTAR diffusion prior reconstruction.md) |
 | 2026-09-30 | [Observer-Based Model Predictive Control for Isoflux Regulation in the EXL-50U Spherical Tokamak](../papers/arxiv-2609-34076/README.md) | arXiv preprint | [笔记](../daily/2026-09-30/notes/Lu et al. - 2026 - EXL-50U observer-based MPC.md) |
 | 2026-09-26 | [AI-Accelerated Gyrokinetic Predictions of Turbulent Transport for Stellarator Design Optimization and Experimental Planning](../papers/arxiv-2609-28730/README.md) | arXiv preprint | [笔记](../daily/2026-09-26/notes/Churchill et al. - 2026 - AI gyrokinetic stellarator transport.md) |
 | 2026-09-25 | [Fast-Neutron Scintillation with Multi-Quantum-Well 2D Perovskites](../papers/arxiv-2609-28468/README.md) | arXiv preprint | [笔记](../daily/2026-09-25/notes/Tan et al. - 2026 - Fast neutron scintillation in 2D perovskites.md) |

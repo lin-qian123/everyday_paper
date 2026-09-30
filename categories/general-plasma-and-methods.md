@@ -2,11 +2,12 @@
 
 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。
 
-- 当前收录：75 篇
-- 索引更新时间：2026-09-30
+- 当前收录：76 篇
+- 索引更新时间：2026-10-01
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-01 | [A portable neutron scatter camera with isotropic sensitivity](../papers/arxiv-2609-36342/README.md) | arXiv preprint | [笔记](../daily/2026-10-01/notes/Yoon et al. - 2026 - Portable neutron scatter camera.md) |
 | 2026-09-30 | [A high-flux electron detection system to measure non-linear Compton scattering at LUXE](../papers/arxiv-2609-35519/README.md) | arXiv preprint | [笔记](../daily/2026-09-30/notes/Athanassiadis et al. - 2026 - LUXE high-flux electron detector.md) |
 | 2026-09-30 | [Generating Vector-Vortex gamma Photons by Nonlinear Compton Scattering](../papers/arxiv-2609-35208/README.md) | arXiv preprint | [笔记](../daily/2026-09-30/notes/Ren et al. - 2026 - Vector-vortex gamma photons.md) |
 | 2026-09-30 | [Observer-Based Model Predictive Control for Isoflux Regulation in the EXL-50U Spherical Tokamak](../papers/arxiv-2609-34076/README.md) | arXiv preprint | [笔记](../daily/2026-09-30/notes/Lu et al. - 2026 - EXL-50U observer-based MPC.md) |
