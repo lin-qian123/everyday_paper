@@ -4,7 +4,7 @@
 
 本版截止 **2026-09-30**，以本仓库393篇文献为范围，其中365篇的仓库发表日期属于2026年，28篇为2016—2025年的背景文献。现有中文笔记328篇，本地PDF路径存在356篇，65篇缺少中文笔记。重点论文结合本地全文片段与官方来源复核；全库条目都进入可追溯目录，但**目录覆盖不等于393篇全文精读，也不是全世界2026文献的穷尽检索**。
 
-正文共11章，约6.2万汉字，引用290篇不同文献；其余103篇保留在全库目录和覆盖矩阵中。各专题包含基础推导、2026重点工作比较、研究经验和学习任务。当前合订PDF为103页，含正文与393条精简书目。
+2026-10-01图文增补版：正文共11章，约8.3万汉字，引用290篇不同文献；其余103篇保留在全库目录和覆盖矩阵中。新增54幅关键论文原图摘录，来自45篇论文，九个主题各6幅；结合10幅教学图（其中8幅本次新增）讲清机制、性能、误差与证据链。各图放在相应内容首次详细讨论处，逐子图解释坐标、单位、归一化、趋势、论证作用与局限。当前合订PDF为144页，含正文与393条精简书目；内容范围仍截止2026-09-30。
 
 ## 按主题阅读
 
@@ -32,24 +32,27 @@
 - [方法、日期和证据边界](appendices/methodology.md)：如何使用旧笔记、全文与联网核查。
 - [旧笔记与原文的差异](appendices/source-discrepancies.md)：本次复核发现的参数、公式或日期问题。
 - [术语表](appendices/glossary.md)：缩写、中文含义与阅读位置。
+- [图像导航与原图出处](appendices/figure-guide.md)：64幅图的阅读位置、原图号、PDF页码及原尺寸图像；`data/figure-assets/`保留逐图裁框、来源和哈希。
 - `data/corpus.json`：可重建的文献快照；`data/*-source-checks.json`：来源核查记录。
 
 ## 连续阅读与重建
 
-[综述合订本PDF](综述合订本.pdf)方便离线阅读，末尾附精简全库书目；[浏览器阅读版](综述合订本.html)的数学渲染需要联网加载MathJax。分章Markdown和附录是可维护的源文件，完整笔记和全文链接优先从上述附录进入。PDF编译与抽样排版检查见`data/render-validation.json`，核心教学推导的协作复核范围见`data/editorial-audit.md`。
+[综述合订本PDF](综述合订本.pdf)方便离线阅读，末尾附精简全库书目；[浏览器阅读版](综述合订本.html)可点击图片打开原尺寸图像，数学渲染需要联网加载MathJax。分章Markdown和附录是可维护的源文件，完整笔记和全文链接优先从上述附录进入。PDF编译与排版检查见`data/render-validation.json`，图像核查见`data/figure-validation.json`，核心教学推导的协作复核范围见`data/editorial-audit.md`。
 
 在仓库根目录执行：
 
 ```bash
-python reviews/2026-frontiers/scripts/build_corpus.py
 python reviews/2026-frontiers/scripts/build_coverage.py
+python reviews/2026-frontiers/scripts/build_figure_index.py
 python reviews/2026-frontiers/scripts/build_book.py
 python reviews/2026-frontiers/scripts/validate_review.py
 ```
 
-`build_corpus.py`复用原索引分类方法；若台账改变，R编号可能随排序改变，因此引用修订要配合检查，不能直接将此版本当作滚动自动更新。当前快照的台账SHA-256记录在`data/corpus.json`。重建不改`state/`、`daily/`、`yearly/`或原始论文页。
+`build_corpus.py`复用原索引分类方法；若台账改变，R编号可能随排序改变，因此本版重建使用已保存的`data/corpus.json`，不能把它当作滚动自动更新。当前快照的台账SHA-256和Git提交记录在该文件中；验证程序核对固定快照与全部条目元数据，允许日更仓库继续增加文献。2026-10-01日更已另增5篇，本图文版仍覆盖截至2026-09-30的393篇。建立新版本并修订引用编号时才运行`build_corpus.py --refresh-snapshot --cutoff YYYY-MM-DD`。重建不改`state/`、`daily/`、`yearly/`或原始论文页。
 
 合订本构建需要`python`、Pandoc、XeLaTeX与xeCJK；当前字体配置使用macOS系统中文字体和TeX的Latin Modern文件。概念图已随本版提供，重新绘图可运行`scripts/build_figures.py`，需要Matplotlib。临时合订源与原文提取放在本版`.build/`，不随Git发布。
+
+论文原图按章放在`figures/papers/chXX/`，使用本地PDF指定区域的250 dpi渲染，保留原数据、图例和所选子图。新增教学图在`figures/teaching/`，以`scripts/build_teaching_figures.py`重建，提供PNG/PDF/SVG；教学曲线均标明解析或自拟示例。重新绘图或改变裁框后应重新检查图像与侧录，不把脚本执行成功当作视觉复核。逐主题选图理由见`data/figure-selection-*.md`。
 
 ## 如何使用这份综述
 

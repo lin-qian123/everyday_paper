@@ -1,0 +1,31 @@
+{
+  "asset_id": "ch01-r314-fig-3",
+  "kind": "paper_figure_excerpt",
+  "chapter": "01",
+  "ref": "R314",
+  "source_title": "Demonstration of ultra-low emittance beams in a kHz laser wakefield accelerator and their application to electron diffraction",
+  "source_url": "https://arxiv.org/abs/2602.12765",
+  "source_pdf": "daily/2026-08-31/pdfs/Monzac et al. - 2026 - Ultra-low emittance kHz laser wakefield beams and electron diffraction.pdf",
+  "source_pdf_sha256": "b4a9016fb47742a4ee1c9fd1c72871eb42ebc6be08004386bcaa9596791d5c88",
+  "original_figure": "Fig. 3",
+  "source_page_1_based": 4,
+  "crop_box_pdf_points": [
+    60.0,
+    44.0,
+    553.0,
+    366.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch01/r314-fig-3.png",
+  "pixel_width": 1713,
+  "pixel_height": 1119,
+  "asset_sha256": "4bf0010f038a293d8effcaf67487af6a5ce08c085b75a1bc92202c9ed15387da",
+  "title": "发射度需要能量分辨测量",
+  "source_caption_summary": "(a)无偶极的聚焦图；(b.i–ii)经色散后2.7MeV切片与拟合；(c)GPT参数扫描；(d)最佳模拟与实验束宽。",
+  "evidence_type": "experimental_measurement_with_transport_inference",
+  "purpose_in_review": "解释能散/色差和发射度拟合",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "visual_check_notes": "已查看原始整页与最终250 dpi裁图，并直接读取图注及邻近正文；坐标单位、色标数值、图例和全部子图标签完整。仅裁取原图区域，保留原始图像、曲线、配色与标尺。实验/模拟/反演条件在章节逐图解读中明确；贴边标签的裁框已扩大后重新查看。"
+}

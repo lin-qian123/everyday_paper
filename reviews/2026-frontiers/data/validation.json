@@ -1,49 +1,50 @@
 {
   "status": "passed",
   "articles": 393,
+  "ledger_validation": "archived ledger verified at 58267f591b15ff50246bc337f5cfd529fcbd348a; live repository has advanced",
   "chapter_statistics": {
     "08-platforms-diagnostics.md": {
-      "chinese_characters": 6041,
+      "chinese_characters": 7949,
       "unique_references": 43
     },
     "01-laser-plasma-acceleration.md": {
-      "chinese_characters": 6356,
+      "chinese_characters": 8081,
       "unique_references": 52
     },
     "06-ai-ml-plasma.md": {
-      "chinese_characters": 6161,
+      "chinese_characters": 8227,
       "unique_references": 42
     },
     "09-general-plasma.md": {
-      "chinese_characters": 6398,
+      "chinese_characters": 8770,
       "unique_references": 45
     },
     "05-pic-kinetic-simulation.md": {
-      "chinese_characters": 6050,
-      "unique_references": 41
+      "chinese_characters": 8110,
+      "unique_references": 42
     },
     "02-beam-applications.md": {
-      "chinese_characters": 6151,
+      "chinese_characters": 7931,
       "unique_references": 41
     },
     "00-foundations.md": {
-      "chinese_characters": 3323,
+      "chinese_characters": 4289,
       "unique_references": 3
     },
     "03-strong-field-qed.md": {
-      "chinese_characters": 6155,
+      "chinese_characters": 7989,
       "unique_references": 35
     },
     "10-outlook-learning.md": {
-      "chinese_characters": 3269,
+      "chinese_characters": 3864,
       "unique_references": 23
     },
     "07-magnetic-fusion.md": {
-      "chinese_characters": 6134,
+      "chinese_characters": 8533,
       "unique_references": 42
     },
     "04-hedp-icf-astrophysics.md": {
-      "chinese_characters": 6431,
+      "chinese_characters": 8823,
       "unique_references": 47
     }
   },

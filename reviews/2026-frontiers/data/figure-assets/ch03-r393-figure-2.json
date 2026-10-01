@@ -1,0 +1,31 @@
+{
+  "asset_id": "ch03-r393-figure-2",
+  "kind": "paper_figure_excerpt",
+  "chapter": "03",
+  "ref": "R393",
+  "source_title": "A high-flux electron detection system to measure non-linear Compton scattering at LUXE",
+  "source_url": "https://arxiv.org/abs/2609.35519",
+  "source_pdf": "daily/2026-09-30/pdfs/Athanassiadis et al. - 2026 - LUXE high-flux electron detector.pdf",
+  "source_pdf_sha256": "ba1a955e6e9c5c6d750c65de2b062324361fdc54e98c268ea39a486d8f45bee1",
+  "original_figure": "Figure 2",
+  "source_page_1_based": 4,
+  "crop_box_pdf_points": [
+    105.0,
+    82.0,
+    493.0,
+    335.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch03/r393-figure-2.png",
+  "pixel_width": 1348,
+  "pixel_height": 880,
+  "asset_sha256": "7579f22a8b5e278e36911ee000e99e858fe13fea2986196d509f487a4c9f2730",
+  "title": "电子谱决定动态范围",
+  "source_caption_summary": "不同a0的Ptarmigan碰撞模拟；GeV能量横轴，200MeV箱电子数对数纵轴，排除未相互作用主电子。",
+  "evidence_type": "design_simulation",
+  "purpose_in_review": "解释宽动态范围与Compton边需求",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "visual_check_notes": "已查看原始整页与最终250 dpi裁图，并直接读取图注及邻近正文；坐标单位、色标数值、图例和全部子图标签完整。仅裁取原图区域，保留原始图像、曲线、配色与标尺。实验/模拟/反演条件在章节逐图解读中明确；贴边标签的裁框已扩大后重新查看。"
+}

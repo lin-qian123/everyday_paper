@@ -1,0 +1,31 @@
+{
+  "asset_id": "ch04-r363-fig1",
+  "kind": "paper_figure_excerpt",
+  "chapter": "04",
+  "ref": "R363",
+  "source_title": "Indirect-Drive Fusion Target Design for Commercial Fusion Energy",
+  "source_url": "https://arxiv.org/abs/2609.19752",
+  "source_pdf": "daily/2026-09-20/pdfs/Weber et al. - 2026 - Indirect-drive target design for fusion energy.pdf",
+  "source_pdf_sha256": "51bb5a3abe3811a9e211458a45fe1aa671ecf45e4db7bb79d724fc24fdd24040",
+  "original_figure": "Fig1",
+  "source_page_1_based": 2,
+  "crop_box_pdf_points": [
+    300.0,
+    49.0,
+    540.0,
+    201.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch04/r363-fig1.png",
+  "pixel_width": 834,
+  "pixel_height": 528,
+  "asset_sha256": "d7714b67ad77b4820f7301081b6bac25ac53e16f33c4d61fdc6f5159ee9d9f7b",
+  "title": "从NIF实验到10 MJ靶设计的证据跳跃",
+  "source_caption_summary": "NIF数据、Meyer–ter–Vehn标度与10 MJ设计产额放在同一图。",
+  "evidence_type": "历史实验数据与作者标度/辐射流体设计并列",
+  "purpose_in_review": "区分实验锚点、标度外推和新靶模拟",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "visual_check_notes": "已阅读原PDF图注和邻近正文、查看原页与最终裁图；完整保留所有所选子图、轴刻度、单位、标签及图例。"
+}

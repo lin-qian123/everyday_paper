@@ -1,0 +1,31 @@
+{
+  "asset_id": "ch02-r287-fig-4",
+  "kind": "paper_figure_excerpt",
+  "chapter": "02",
+  "ref": "R287",
+  "source_title": "Field deployment of a laser wakefield accelerator for on-site application",
+  "source_url": "https://arxiv.org/abs/2608.17554",
+  "source_pdf": "daily/2026-08-20/pdfs/Guo et al. - 2026 - Field deployment laser wakefield accelerator.pdf",
+  "source_pdf_sha256": "d090967056e495dd77f1f5e068ec31c2500205240f8802ac38bd61e96409ddd1",
+  "original_figure": "Fig. 4",
+  "source_page_1_based": 17,
+  "crop_box_pdf_points": [
+    104.0,
+    58.0,
+    513.0,
+    392.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch02/r287-fig-4.png",
+  "pixel_width": 1421,
+  "pixel_height": 1161,
+  "asset_sha256": "503750fe29229f12f19d5b9bc2466d4b4752fcd6c30a4a64b1bc89a319785d57",
+  "title": "现场LWFA源的涡轮叶片CT",
+  "source_caption_summary": "A/B外轮廓与内部重建；C四个切面和10mm标尺；D由边缘线剖面得到MTF，10%阈值对应43μm。",
+  "evidence_type": "experimental_CT_reconstruction",
+  "purpose_in_review": "给出终端图像而非源端性能",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "visual_check_notes": "已查看原始整页与最终250 dpi裁图，并直接读取图注及邻近正文；坐标单位、色标数值、图例和全部子图标签完整。仅裁取原图区域，保留原始图像、曲线、配色与标尺。实验/模拟/反演条件在章节逐图解读中明确；贴边标签的裁框已扩大后重新查看。"
+}

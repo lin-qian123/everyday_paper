@@ -1,0 +1,41 @@
+{
+  "checked_date": "2026-10-01",
+  "reviewer": "root",
+  "pdf_sha256": "2ce3c5d3b7a6bf3bea9e0fe563d8cc8c7370c9162bef24d41ec93439505a2ec6",
+  "figure_pages": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    102,
+    103,
+    104
+  ],
+  "contact_sheet_pages": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    102,
+    103,
+    104
+  ],
+  "individual_pages": [
+    1,
+    2,
+    3,
+    60,
+    102,
+    103,
+    104,
+    144
+  ],
+  "findings": "共同基础与展望教学图的坐标、图例及说明完整；修订后的第60页短图题包含R139、原Fig.8及原PDF第16页，来源与图同页。目录、版次说明及末页书目未见排版缺陷。",
+  "scope": "All teaching figure pages reviewed via contact sheets, selected individual pages, and the corrected paper-figure page; no claim of full 144-page visual audit."
+}

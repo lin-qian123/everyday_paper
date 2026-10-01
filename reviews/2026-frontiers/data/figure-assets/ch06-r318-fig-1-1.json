@@ -1,0 +1,33 @@
+{
+  "asset_id": "ch06-r318-fig-1-1",
+  "kind": "paper_figure_excerpt",
+  "chapter": "06",
+  "ref": "R318",
+  "source_title": "Real-time virtual circuits for plasma shape control via neural network emulators: experimental demonstration on MAST Upgrade",
+  "source_url": "https://arxiv.org/abs/2608.28468",
+  "source_pdf": "daily/2026-09-01/pdfs/Amorisco et al. - 2026 - Real-time virtual circuits experimental demonstration on MAST-U.pdf",
+  "source_pdf_sha256": "da772213cce1b15ac52e2bc9decb64b29b46ac4653a6bcb7b666d2fca4a98451",
+  "original_figure": "Fig.1.1",
+  "source_page_1_based": 2,
+  "crop_box_pdf_points": [
+    49.0,
+    87.0,
+    546.0,
+    337.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch06/r318-fig-1-1.png",
+  "pixel_width": 1726,
+  "pixel_height": 869,
+  "asset_sha256": "56a0281d61656eb23cb7708acf08fd313db407208f53bad758db6446b0b44f28",
+  "title": "神经Jacobian接入已有控制链",
+  "source_caption_summary": "示意常规离线VC与实时神经Jacobian/伪逆VC的接口；形状重建、形状控制、VC控制和机器保护仍各自承担明确任务。",
+  "evidence_type": "论文控制架构示意",
+  "purpose_in_review": "解释AI替换的具体接口以及执行器保护",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "review_explanation": "**逐图解读。** 左侧装置示意标出 $R_{in},R_{out}$、X点和间隙等形状量，没有数值轴，颜色是磁通轮廓示意，不能读取约束性能。中间紫框先由线圈电流、等离子体电流和剖面参数预测形状，再求Jacobian $S=\\partial P/\\partial I_{act}$，经伪逆产生虚拟电路；橙框则是传统按放电阶段查预计算VC的替代路径。右侧磁诊断和形状重建提供当前状态，既有PID/前馈控制决定形状变化请求，VC将它变为线圈电流请求，机器保护再限制电流并转为电压，最后返回装置。图的重点是AI位于局部响应计算接口，形状估计、目标控制与执行器保护都仍有各自职责；两种VC路径也不是同时叠加的两个控制增益。它属于论文架构示意，没有跟踪误差或延迟数据；主动控制的实验证据需结合实际炮次。相比“神经网络控制聚变”这一笼统说法，这张图更准确地说明了真实闭环中被替换的环节及误差会进入何处。[R318](../appendices/reference-catalog.md#r318)",
+  "review_explanation_han_chars": 293,
+  "visual_check_notes": "已用view_image分别查看源PDF整页预览与最终250dpi原图区；阅读对应图注及邻近正文。核对所有子图/箭头标签、坐标单位、色标、图例和图中归一化口径，未改曲线或标注。"
+}

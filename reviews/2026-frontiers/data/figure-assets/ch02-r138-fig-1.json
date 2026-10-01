@@ -1,0 +1,31 @@
+{
+  "asset_id": "ch02-r138-fig-1",
+  "kind": "paper_figure_excerpt",
+  "chapter": "02",
+  "ref": "R138",
+  "source_title": "Stable and tunable MeV γ-ray generation via dual-laser inverse Thomson scattering from a laser-plasma accelerator",
+  "source_url": "https://www.nature.com/articles/s41598-026-56639-7",
+  "source_pdf": "daily/2026-09-03/pdfs/Tsai et al. - 2026 - Stable and tunable MeV gamma-ray generation via dual-laser ITS.pdf",
+  "source_pdf_sha256": "6510fbd343a0059167b1585ff9d4cf5f31f47e1ad69a073c37c2d79ff56a2dbc",
+  "original_figure": "Fig. 1",
+  "source_page_1_based": 2,
+  "crop_box_pdf_points": [
+    65.0,
+    472.0,
+    554.0,
+    692.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch02/r138-fig-1.png",
+  "pixel_width": 1699,
+  "pixel_height": 765,
+  "asset_sha256": "f1b99809afa4d575df4d29d78f27a9a94d0a1d868d0043dee3ef7b4030f79edd",
+  "title": "双激光逆Thomson实验链",
+  "source_caption_summary": "双激光与气体靶、磁谱仪及滤片/CsI光子诊断；左插图分别标示等离子体、激光和Thomson作用长度，右插图保留电子谱与光子束。",
+  "evidence_type": "experimental_setup_schematic",
+  "purpose_in_review": "建立可调散射源的完整测量链",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "visual_check_notes": "已查看原始整页与最终250 dpi裁图，并直接读取图注及邻近正文；坐标单位、色标数值、图例和全部子图标签完整。仅裁取原图区域，保留原始图像、曲线、配色与标尺。实验/模拟/反演条件在章节逐图解读中明确；贴边标签的裁框已扩大后重新查看。"
+}

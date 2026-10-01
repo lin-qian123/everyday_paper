@@ -1,0 +1,31 @@
+{
+  "asset_id": "ch02-r380-fig-9",
+  "kind": "paper_figure_excerpt",
+  "chapter": "02",
+  "ref": "R380",
+  "source_title": "Imaging with GeV muons produced via laser-wakefield-accelerated electrons",
+  "source_url": "https://arxiv.org/abs/2609.28788",
+  "source_pdf": "daily/2026-09-26/pdfs/Dobre et al. - 2026 - Laser-driven GeV muon imaging.pdf",
+  "source_pdf_sha256": "94f0baa98a96cb0e305e6726df0b410b40fc7cae97b88773ad880706f8a1478d",
+  "original_figure": "Fig. 9",
+  "source_page_1_based": 9,
+  "crop_box_pdf_points": [
+    121.0,
+    46.0,
+    494.0,
+    340.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch02/r380-fig-9.png",
+  "pixel_width": 1296,
+  "pixel_height": 1022,
+  "asset_sha256": "f76ea0a3fe071ed37f4f660d04bfe43c57a43ec01b626b940d9a5da9a9b39f03",
+  "title": "激光驱动缪子透射成像",
+  "source_caption_summary": "顶部几何与物体照片；下部前后两个探测模块的归一化平均ToT信号图、逐层条号剖面与相对差。",
+  "evidence_type": "experimental_transmission_image_with_particle_identity_inference",
+  "purpose_in_review": "区分实测阴影与缪子占比的MC推断",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "visual_check_notes": "已查看原始整页与最终250 dpi裁图，并直接读取图注及邻近正文；坐标单位、色标数值、图例和全部子图标签完整。仅裁取原图区域，保留原始图像、曲线、配色与标尺。实验/模拟/反演条件在章节逐图解读中明确；贴边标签的裁框已扩大后重新查看。"
+}

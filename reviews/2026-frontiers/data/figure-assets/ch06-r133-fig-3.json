@@ -1,0 +1,33 @@
+{
+  "asset_id": "ch06-r133-fig-3",
+  "kind": "paper_figure_excerpt",
+  "chapter": "06",
+  "ref": "R133",
+  "source_title": "Bayesian optimization of double-pulse temporal shaping for enhanced target-normal-sheath proton acceleration under fixed laser energy",
+  "source_url": "https://arxiv.org/abs/2606.15687",
+  "source_pdf": "daily/2026-06-17/pdfs/Chengqi Zhang et al. - 2026 - Bayesian optimization of double-pulse temporal shaping for enhanced target-normal-sheath proton acceleration under fixed laser energy.pdf",
+  "source_pdf_sha256": "33eb49bc4ed27eb759bed64ea1c5086f6840dde4380d96ba6c7b7481c96eb52c",
+  "original_figure": "Fig.3",
+  "source_page_1_based": 3,
+  "crop_box_pdf_points": [
+    310.0,
+    268.0,
+    580.0,
+    462.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch06/r133-fig-3.png",
+  "pixel_width": 938,
+  "pixel_height": 675,
+  "asset_sha256": "b5411855fb14e6f346cff692dd5e1079785e4b6f458cde3c14be0ecf45ee69b2",
+  "title": "固定能量双脉冲的贝叶斯优化地图",
+  "source_caption_summary": "GP后验均值图以延迟fs和预脉冲能量分数为轴，颜色为截止能量MeV；32采样点和r=0.07、延迟234fs的最优点叠加。",
+  "evidence_type": "作者2D PIC驱动的优化与代理插值",
+  "purpose_in_review": "解释后验均值、采样点和物理最优区的区别",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "review_explanation": "**逐图解读。** 横轴为两脉冲延迟 $\\Delta t$，单位fs；纵轴为前导脉冲能量分数 $r$，无量纲；主脉冲获得剩余的 $1-r$，因此每个点保持相同总驱动能量。色标是GP后验均值预测的质子截止能量 $E_{max}$，单位MeV。白圈是32次PIC调用的采样位置，红星标出 $r=0.07$、234 fs候选；连续彩色面是代理插值，不能当成每个像素都实际计算过的扫描。黄绿高值区集中在小前导份额和中等延迟，给前等离子体形成留时间，同时避免过度抽走主脉冲能量；紫色区显示“大预脉冲”并非总有利。邻近正文说明目标在主峰后统一时间窗读出，使各候选按相同口径比较。图中没有后验方差，所以色面平滑不表示统计置信度已被证明。它支持固定能量二维PIC模型中的BO选点和有效区域，不是实验优化；定时抖动、三维膨胀与分辨率改变后的稳健性仍需复核。[R133](../appendices/reference-catalog.md#r133)",
+  "review_explanation_han_chars": 273,
+  "visual_check_notes": "已用view_image分别查看源PDF整页预览与最终250dpi原图区；阅读对应图注及邻近正文。核对所有子图/箭头标签、坐标单位、色标、图例和图中归一化口径，未改曲线或标注。首次右侧色标单位边缘过窄；扩大右边界到580 PDF points后重新查看，Emax(MeV)、色阶、星标和采样点完整。"
+}

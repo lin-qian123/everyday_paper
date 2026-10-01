@@ -29,7 +29,8 @@
       "general-plasma-and-methods": 75,
       "magnetic-fusion-and-alpha-particles": 43
     },
-    "note": "PDF existence is a path check, not full-text review or PDF health validation. Categories reuse repository routing, not a manual scientific taxonomy."
+    "note": "PDF existence is a path check, not full-text review or PDF health validation. Categories reuse repository routing, not a manual scientific taxonomy.",
+    "ledger_git_commit": "58267f591b15ff50246bc337f5cfd529fcbd348a"
   },
   "articles": [
     {

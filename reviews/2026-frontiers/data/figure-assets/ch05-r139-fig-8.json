@@ -1,0 +1,33 @@
+{
+  "asset_id": "ch05-r139-fig-8",
+  "kind": "paper_figure_excerpt",
+  "chapter": "05",
+  "ref": "R139",
+  "source_title": "Latent Residual-Closure Fourier Neural Operator for Robust Multi-Field Solving in Particle-in-Cell Simulations",
+  "source_url": "https://arxiv.org/abs/2606.17733",
+  "source_pdf": "daily/2026-06-18/pdfs/Jianhua Lyu and Linlin Zhong - 2026 - Latent Residual-Closure Fourier Neural Operator for Robust Multi-Field Solving in Particle-in-Cell Simulations.pdf",
+  "source_pdf_sha256": "d366d93fc61fb740f0634f1cfa24ea7fb2a2655d72badacb9d78c745a18e6cae",
+  "original_figure": "Fig.8",
+  "source_page_1_based": 16,
+  "crop_box_pdf_points": [
+    112.0,
+    509.0,
+    509.0,
+    680.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch05/r139-fig-8.png",
+  "pixel_width": 1380,
+  "pixel_height": 595,
+  "asset_sha256": "20332ec5fc255bae9f530f25f310bb397268fa42375f813d04d48913570bed6b",
+  "title": "神经场求解的误差沿时间反馈",
+  "source_caption_summary": "二维静电双流闭环中，a为场能，b为粒子动能；虚线前为训练时间范围，后为外推区，FFT和三种潜表示的神经求解器对比。",
+  "evidence_type": "作者神经求解器闭环数值验证",
+  "purpose_in_review": "说明单步误差不能替代滚动能量诊断",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "review_explanation": "**逐图解读。** 两幅横轴均为论文的归一化时间 $t$，纵轴采用任意单位a.u.，不能直接换成实验焦耳。（a）是电场能量，（b）是粒子动能；灰黑线为FFT场求解参考，浅绿、浅蓝、红线分别对应AE的4通道、12通道及AE+LCR潜表示，其他场求解结构保持相同。约 $t=30$ 的竖虚线划分训练演化范围与其后的时间外推。早期不稳定增长峰相近，但外推段场能振荡逐渐错相、晚期振幅也分离；右图更显示三种代理的动能均偏离参考的长期上升轨迹。作者指出AE+LCR保留了较相似的振荡频率与形态，这不能被改写成它完全复现FFT能量。这幅图的作用是把单步范数误差升级为“场误差→粒子轨道→下一步源项”的滚动检验。它属于二维静电双流闭环模拟中的消融比较，训练和标签均来自指定数值模型，尚不能验证真实装置或全电磁PIC的长期可靠性。[R139](../appendices/reference-catalog.md#r139)",
+  "review_explanation_han_chars": 277,
+  "visual_check_notes": "已用view_image分别查看源PDF整页预览与最终250dpi原图区；阅读对应图注及邻近正文。核对所有子图/箭头标签、坐标单位、色标、图例和图中归一化口径，未改曲线或标注。"
+}

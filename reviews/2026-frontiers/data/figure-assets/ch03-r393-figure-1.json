@@ -1,0 +1,31 @@
+{
+  "asset_id": "ch03-r393-figure-1",
+  "kind": "paper_figure_excerpt",
+  "chapter": "03",
+  "ref": "R393",
+  "source_title": "A high-flux electron detection system to measure non-linear Compton scattering at LUXE",
+  "source_url": "https://arxiv.org/abs/2609.35519",
+  "source_pdf": "daily/2026-09-30/pdfs/Athanassiadis et al. - 2026 - LUXE high-flux electron detector.pdf",
+  "source_pdf_sha256": "ba1a955e6e9c5c6d750c65de2b062324361fdc54e98c268ea39a486d8f45bee1",
+  "original_figure": "Figure 1",
+  "source_page_1_based": 3,
+  "crop_box_pdf_points": [
+    99.0,
+    77.0,
+    496.0,
+    235.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch03/r393-figure-1.png",
+  "pixel_width": 1380,
+  "pixel_height": 549,
+  "asset_sha256": "f542f4b04d025e8c90817678f46fe751ad7a8151157e8dfd1345bf8c22f55619",
+  "title": "LUXE粒种分离布局",
+  "source_caption_summary": "激光与电子碰撞后，偶极磁铁将电子/正电子反向分离，γ不偏转进入独立探测；无空间定量坐标。",
+  "evidence_type": "design_schematic",
+  "purpose_in_review": "连接物理过程与互补探测通道",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "visual_check_notes": "已查看原始整页与最终250 dpi裁图，并直接读取图注及邻近正文；坐标单位、色标数值、图例和全部子图标签完整。仅裁取原图区域，保留原始图像、曲线、配色与标尺。实验/模拟/反演条件在章节逐图解读中明确；贴边标签的裁框已扩大后重新查看。"
+}

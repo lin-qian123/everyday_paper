@@ -1,0 +1,31 @@
+{
+  "asset_id": "ch02-r230-fig-2",
+  "kind": "paper_figure_excerpt",
+  "chapter": "02",
+  "ref": "R230",
+  "source_title": "Enhanced inverse Compton scattering via spontaneous focusing induced by a coated plasma mirror",
+  "source_url": "https://www.nature.com/articles/s41566-026-01958-4",
+  "source_pdf": "daily/2026-09-03/pdfs/Hu et al. - 2026 - Enhanced inverse Compton scattering via coated plasma mirror.pdf",
+  "source_pdf_sha256": "2132a244b93df1a1858e4725bcc998ca3155c7f7344252c69808eb418f362662",
+  "original_figure": "Fig. 2",
+  "source_page_1_based": 6,
+  "crop_box_pdf_points": [
+    86.0,
+    325.0,
+    508.0,
+    563.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch02/r230-fig-2.png",
+  "pixel_width": 1466,
+  "pixel_height": 827,
+  "asset_sha256": "f50e0012fce011cedf2bfced7231778b1bfdb8920c680b71a983eb7b54b4d835",
+  "title": "涂层等离子体镜增强ICS",
+  "source_caption_summary": "a镜位置、信号及发散；b实验/模拟ICS谱；c–j涂层、无涂层、制动辐射及betatron的IP和LYSO配对诊断。",
+  "evidence_type": "experiment_with_spectral_inference_and_simulation",
+  "purpose_in_review": "把增强与背景对照连接",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "visual_check_notes": "已查看原始整页与最终250 dpi裁图，并直接读取图注及邻近正文；坐标单位、色标数值、图例和全部子图标签完整。仅裁取原图区域，保留原始图像、曲线、配色与标尺。实验/模拟/反演条件在章节逐图解读中明确；贴边标签的裁框已扩大后重新查看。"
+}

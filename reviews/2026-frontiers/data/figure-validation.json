@@ -1,0 +1,37 @@
+{
+  "status": "passed",
+  "checked_date": "2026-10-01",
+  "summary": {
+    "total_figures_in_chapters": 64,
+    "paper_figure_excerpts": 54,
+    "unique_paper_sources": 45,
+    "original_teaching_illustrations": 10,
+    "images_by_chapter": {
+      "00-foundations.md": 7,
+      "01-laser-plasma-acceleration.md": 6,
+      "02-beam-applications.md": 6,
+      "03-strong-field-qed.md": 6,
+      "04-hedp-icf-astrophysics.md": 6,
+      "05-pic-kinetic-simulation.md": 6,
+      "06-ai-ml-plasma.md": 6,
+      "07-magnetic-fusion.md": 6,
+      "08-platforms-diagnostics.md": 6,
+      "09-general-plasma.md": 6,
+      "10-outlook-learning.md": 3
+    },
+    "paper_sources_by_chapter": {
+      "01-laser-plasma-acceleration.md": 5,
+      "02-beam-applications.md": 5,
+      "03-strong-field-qed.md": 4,
+      "04-hedp-icf-astrophysics.md": 6,
+      "05-pic-kinetic-simulation.md": 5,
+      "06-ai-ml-plasma.md": 5,
+      "07-magnetic-fusion.md": 6,
+      "08-platforms-diagnostics.md": 6,
+      "09-general-plasma.md": 6
+    },
+    "scope": "Selected key figures with local source/caption/crop/visual checks; not exhaustive figure review of all corpus papers."
+  },
+  "errors": [],
+  "scope": "Image usage, provenance hashes, pixel decoding, dimensions and recorded visual checks; not independent experimental or numerical reproduction."
+}

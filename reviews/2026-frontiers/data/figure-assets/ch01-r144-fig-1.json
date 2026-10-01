@@ -1,0 +1,31 @@
+{
+  "asset_id": "ch01-r144-fig-1",
+  "kind": "paper_figure_excerpt",
+  "chapter": "01",
+  "ref": "R144",
+  "source_title": "Dephasingless laser wakefield acceleration in a plasma waveguide",
+  "source_url": "https://arxiv.org/abs/2606.20298",
+  "source_pdf": "daily/2026-06-20/pdfs/J.P. Palastro et al. - 2026 - Dephasingless laser wakefield acceleration in a plasma waveguide.pdf",
+  "source_pdf_sha256": "10ffe9dc4b102252b8eef625c127b54be57707c3fb61a214e5474ed39f61842e",
+  "original_figure": "Fig. 1",
+  "source_page_1_based": 3,
+  "crop_box_pdf_points": [
+    69.0,
+    43.0,
+    550.0,
+    252.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch01/r144-fig-1.png",
+  "pixel_width": 1671,
+  "pixel_height": 726,
+  "asset_sha256": "7d6494ff6e693adeb1758da7c7c1bc7d00d105cd826e96e344fb096711cff6a6",
+  "title": "标准与无去相位LWFA",
+  "source_caption_summary": "(a)标准单模驱动中电子滑向减速相；(b)波导多模频率叠加驱动近光速尾场。颜色表|a|与Ez仅作示意，右侧能增益曲线无定量刻度。",
+  "evidence_type": "theoretical_schematic",
+  "purpose_in_review": "解释去相位与多模包络峰/群速度的不同",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "visual_check_notes": "已查看原始整页与最终250 dpi裁图，并直接读取图注及邻近正文；坐标单位、色标数值、图例和全部子图标签完整。仅裁取原图区域，保留原始图像、曲线、配色与标尺。实验/模拟/反演条件在章节逐图解读中明确；贴边标签的裁框已扩大后重新查看。"
+}

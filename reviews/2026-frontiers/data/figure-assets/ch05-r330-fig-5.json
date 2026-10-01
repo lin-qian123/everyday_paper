@@ -1,0 +1,33 @@
+{
+  "asset_id": "ch05-r330-fig-5",
+  "kind": "paper_figure_excerpt",
+  "chapter": "05",
+  "ref": "R330",
+  "source_title": "Minute-Scale High-Fidelity Gyrokinetic Simulations with Portability from Laptop to Supercomputer",
+  "source_url": "https://arxiv.org/abs/2609.03354",
+  "source_pdf": "daily/2026-09-05/pdfs/Bao et al. - 2026 - Minute-scale high-fidelity gyrokinetic simulations.pdf",
+  "source_pdf_sha256": "96dc6e04687b6d9a8a5015f531c574554fc450e5f3c36a5cae423bb9b61bb382",
+  "original_figure": "Fig.5",
+  "source_page_1_based": 9,
+  "crop_box_pdf_points": [
+    110.0,
+    72.0,
+    484.0,
+    370.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch05/r330-fig-5.png",
+  "pixel_width": 1300,
+  "pixel_height": 1035,
+  "asset_sha256": "c87ccdefbf8dc2d019b10e28bcd2701ccd287464d3ac4c79859f0b9e74c07cd1",
+  "title": "谱粒子压缩保留了哪些ITG物理",
+  "source_caption_summary": "a,b比较n=10的归一化极向模式，c,d比较n=10–20的增长率和实频；谱PIF与常规PIC结果接近。",
+  "evidence_type": "作者线性陀螺动理学数值基准",
+  "purpose_in_review": "将几何降维与保真验证分开",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "review_explanation": "**逐图解读。** （a）、（b）分别给谱PIF与常规PIC的 $n=10$ 离子温度梯度模。横纵轴是 $R/R_0$、$Z/R_0$，色标从−1到1，表示归一化电势扰动而非伏特；相近的外侧气球状条纹说明保留模式后没有明显改变这一线性本征结构。（c）横轴为环向模数 $n$，纵轴为以 $C_s/R_0$ 归一化的增长率；两套红圆、蓝菱结果接近，增长率先升后降，邻近正文将后段降低联系到有限Larmor半径稳定。（d）同样扫描 $n$，纵轴为同一频率单位的实频，随模数增加而升高，两方法亦接近。四幅合起来检验空间形态、增长和传播相位，避免只凭一张彩图宣布保真。它仍是作者单模线性GK基准，不能单独证明非线性热流、所有环向模式和快粒子物理。邻近正文还说明PIF有效问题规模更小，因此该一致性支持有目的的压缩，不构成同规模全三维运行成本的直接比较。[R330](../appendices/reference-catalog.md#r330)",
+  "review_explanation_han_chars": 265,
+  "visual_check_notes": "已用view_image分别查看源PDF整页预览与最终250dpi原图区；阅读对应图注及邻近正文。核对所有子图/箭头标签、坐标单位、色标、图例和图中归一化口径，未改曲线或标注。"
+}

@@ -1,0 +1,31 @@
+{
+  "asset_id": "ch09-r347-fig11",
+  "kind": "paper_figure_excerpt",
+  "chapter": "09",
+  "ref": "R347",
+  "source_title": "Particle-resolved pathways to energetic-ion formation in a fluctuating low-current hollow-cathode plume",
+  "source_url": "https://arxiv.org/abs/2609.10958",
+  "source_pdf": "daily/2026-09-14/pdfs/Wang et al. - 2026 - Energetic ions in fluctuating hollow-cathode plume.pdf",
+  "source_pdf_sha256": "ac47323cc1753dda46ea4bd5fdcc388375aeb5719a48ee73233f71219def40ec",
+  "original_figure": "Fig11",
+  "source_page_1_based": 13,
+  "crop_box_pdf_points": [
+    73.0,
+    54.0,
+    506.0,
+    185.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch09/r347-fig11.png",
+  "pixel_width": 1504,
+  "pixel_height": 456,
+  "asset_sha256": "1e84913d32048cfb91bf7a06758c22566f9337aa243479f1c69d00f80185e280",
+  "title": "同出生粒子在四电场控制下的高能尾",
+  "source_caption_summary": "存活函数、阈值比例与逃逸边界比较",
+  "evidence_type": "自洽PIC场驱动的被动轨道敏感性模拟",
+  "purpose_in_review": "解释时变电场机制与条件群体边界",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "visual_check_notes": "已阅读原PDF图注和邻近正文、查看原页与最终裁图；完整保留所有所选子图、轴刻度、单位、标签及图例。原图没有a/b/c字母，图注按左/中/右对应；未添加新图标签。"
+}

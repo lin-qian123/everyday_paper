@@ -1,0 +1,33 @@
+{
+  "asset_id": "ch05-r357-fig-1",
+  "kind": "paper_figure_excerpt",
+  "chapter": "05",
+  "ref": "R357",
+  "source_title": "KEMPIC-3D: A transparent and extensible electromagnetic Particle-in-Cell framework for kinetic plasma simulations",
+  "source_url": "https://arxiv.org/abs/2609.16575",
+  "source_pdf": "daily/2026-09-17/pdfs/Lopez et al. - 2026 - KEMPIC-3D PIC framework.pdf",
+  "source_pdf_sha256": "fd9fbae211fb496dbf1d22e066eabe8c374b769235c050c59cf00ed5de8ab74a",
+  "original_figure": "Fig.1",
+  "source_page_1_based": 6,
+  "crop_box_pdf_points": [
+    107.0,
+    119.0,
+    503.0,
+    301.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch05/r357-fig-1.png",
+  "pixel_width": 1376,
+  "pixel_height": 633,
+  "asset_sha256": "83158cd130eec3d0e43d9990f5a648b84e88a29b13ad5fb30e6ca022cbd94802",
+  "title": "连续分布如何成为宏粒子",
+  "source_caption_summary": "a为连续相空间分布，b为超粒子采样，c示意一个超粒子代表大量物理粒子；这是表示方法示意，没有数值实验坐标刻度。",
+  "evidence_type": "论文方法示意",
+  "purpose_in_review": "解释宏粒子权重与相空间采样",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "review_explanation": "**逐图解读。** （a）横轴是位置 $x$，纵轴是动量 $p_x$，蓝色深浅示意连续分布 $f(x,p_x,t)$；原图没有数值刻度或颜色标尺，不能从这团蓝色读出真实温度。（b）改用离散黑点采样同一相空间包络，黑点代表计算宏粒子，不是实验拍摄到的电子；采样稀疏会引入涨落，平滑分布和离散点图即使外观接近，也可能有不同短波噪声。（c）放大一个宏粒子所代表的物理粒子集合。图中 $10^6$—$10^{12}$ 是说明计算压缩程度的示意量级，不能当本章所有算例的固定权重。邻近正文明确按同一权重放大电荷和质量，所以洛伦兹加速度中的比值保持不变。这张图支撑的是“PIC怎样表示分布”，没有测量真实微观关联，也不证明碰撞率、热平衡或稀有尾部自动正确；这些必须由后面的噪声、权重和收敛审计补齐。[R357](../appendices/reference-catalog.md#r357)",
+  "review_explanation_han_chars": 260,
+  "visual_check_notes": "已用view_image分别查看源PDF整页预览与最终250dpi原图区；阅读对应图注及邻近正文。核对所有子图/箭头标签、坐标单位、色标、图例和图中归一化口径，未改曲线或标注。"
+}

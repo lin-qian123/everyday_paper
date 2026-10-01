@@ -198,5 +198,185 @@
     "method": "local pdftotext -layout",
     "status": "success",
     "note": "Local abstract and opening introduction read; not full-page review. PDF=daily/2026-06-07/pdfs/Camilla Willim et al. - 2026 - Plasma rotation driven by lasers with zero angular momentum.pdf; text_chars=53860; sha256=f985e8f4d6f6ec05945c50033a35e8e540d3595d6b4c00cdb22b70259097bb1d."
+  },
+  {
+    "ref": "R039",
+    "url": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/equation-of-state-measurements-of-boron-nitride-under-laserdriven-compression-at-the-prague-asterix-laser-system-facility/9B71874D6F9DB182D74372D40E442618",
+    "date": "2026-10-01",
+    "method": "local_PDF_selected_caption_neighbor_text_original_page_and_crop_visual_review",
+    "status": "verified_selected_figure",
+    "note": "Fig7, PDF p6; 实验测速与阻抗匹配反演; 仅所选原图与邻近正文复核，不等于整篇全文精读/独立复现。",
+    "asset_id": "ch04-r039-fig7",
+    "sidecar": "data/figure-assets/ch04-r039-fig7.json"
+  },
+  {
+    "ref": "R112",
+    "url": "https://arxiv.org/abs/2606.01860",
+    "date": "2026-10-01",
+    "method": "local_PDF_selected_caption_neighbor_text_original_page_and_crop_visual_review",
+    "status": "verified_selected_figure",
+    "note": "Fig5, PDF p7; 作者理论/动理学模拟; 仅所选原图与邻近正文复核，不等于整篇全文精读/独立复现。",
+    "asset_id": "ch04-r112-fig5",
+    "sidecar": "data/figure-assets/ch04-r112-fig5.json"
+  },
+  {
+    "ref": "R274",
+    "url": "https://iopscience.iop.org/article/10.1088/1741-4326/ae96c1",
+    "date": "2026-10-01",
+    "method": "local_PDF_selected_caption_neighbor_text_original_page_and_crop_visual_review",
+    "status": "verified_selected_figure",
+    "note": "Fig6, PDF p8; 作者燃烧模拟与历史模拟比较; 仅所选原图与邻近正文复核，不等于整篇全文精读/独立复现。",
+    "asset_id": "ch04-r274-fig6",
+    "sidecar": "data/figure-assets/ch04-r274-fig6.json"
+  },
+  {
+    "ref": "R363",
+    "url": "https://arxiv.org/abs/2609.19752",
+    "date": "2026-10-01",
+    "method": "local_PDF_selected_caption_neighbor_text_original_page_and_crop_visual_review",
+    "status": "verified_selected_figure",
+    "note": "Fig1, PDF p2; 历史实验数据与作者标度/辐射流体设计并列; 仅所选原图与邻近正文复核，不等于整篇全文精读/独立复现。",
+    "asset_id": "ch04-r363-fig1",
+    "sidecar": "data/figure-assets/ch04-r363-fig1.json"
+  },
+  {
+    "ref": "R383",
+    "url": "https://arxiv.org/abs/2609.29435",
+    "date": "2026-10-01",
+    "method": "local_PDF_selected_caption_neighbor_text_original_page_and_crop_visual_review",
+    "status": "verified_selected_figure",
+    "note": "Fig3, PDF p6; 作者有限温DFT/EOS计算与历史实验数据; 仅所选原图与邻近正文复核，不等于整篇全文精读/独立复现。",
+    "asset_id": "ch04-r383-fig3",
+    "sidecar": "data/figure-assets/ch04-r383-fig3.json"
+  },
+  {
+    "ref": "R388",
+    "url": "https://doi.org/10.1063/5.0332964",
+    "date": "2026-10-01",
+    "method": "local_PDF_selected_caption_neighbor_text_original_page_and_crop_visual_review",
+    "status": "verified_selected_figure",
+    "note": "Fig3, PDF p5; 直接实验测速与作者校准模拟; 仅所选原图与邻近正文复核，不等于整篇全文精读/独立复现。",
+    "asset_id": "ch04-r388-fig3",
+    "sidecar": "data/figure-assets/ch04-r388-fig3.json"
+  },
+  {
+    "ref": "R142",
+    "url": "https://arxiv.org/abs/2606.15965",
+    "date": "2026-10-01",
+    "method": "local_PDF_selected_caption_neighbor_text_original_page_and_crop_visual_review",
+    "status": "verified_selected_figure",
+    "note": "Fig10, PDF p16; 作者局域非线性gyrokinetic模拟; 仅所选原图与邻近正文复核，不等于整篇全文精读/独立复现。",
+    "asset_id": "ch07-r142-fig10",
+    "sidecar": "data/figure-assets/ch07-r142-fig10.json"
+  },
+  {
+    "ref": "R239",
+    "url": "https://arxiv.org/abs/2607.22344",
+    "date": "2026-10-01",
+    "method": "local_PDF_selected_caption_neighbor_text_original_page_and_crop_visual_review",
+    "status": "verified_selected_figure",
+    "note": "Fig2, PDF p3; EAST放电诊断与相位统计; 仅所选原图与邻近正文复核，不等于整篇全文精读/独立复现。",
+    "asset_id": "ch07-r239-fig2",
+    "sidecar": "data/figure-assets/ch07-r239-fig2.json"
+  },
+  {
+    "ref": "R278",
+    "url": "https://arxiv.org/abs/2608.11058",
+    "date": "2026-10-01",
+    "method": "local_PDF_selected_caption_neighbor_text_original_page_and_crop_visual_review",
+    "status": "verified_selected_figure",
+    "note": "Fig9, PDF p19; 作者FAR3d模拟标签和代理预测; 仅所选原图与邻近正文复核，不等于整篇全文精读/独立复现。",
+    "asset_id": "ch07-r278-fig9",
+    "sidecar": "data/figure-assets/ch07-r278-fig9.json"
+  },
+  {
+    "ref": "R318",
+    "url": "https://arxiv.org/abs/2608.28468",
+    "date": "2026-10-01",
+    "method": "local_PDF_selected_caption_neighbor_text_original_page_and_crop_visual_review",
+    "status": "verified_selected_figure",
+    "note": "Fig3.1, PDF p4; 实际主动闭环放电与平衡重建; 仅所选原图与邻近正文复核，不等于整篇全文精读/独立复现。",
+    "asset_id": "ch07-r318-fig3-1",
+    "sidecar": "data/figure-assets/ch07-r318-fig3-1.json"
+  },
+  {
+    "ref": "R342",
+    "url": "https://arxiv.org/abs/2609.12474",
+    "date": "2026-10-01",
+    "method": "local_PDF_selected_caption_neighbor_text_original_page_and_crop_visual_review",
+    "status": "verified_selected_figure",
+    "note": "Fig3, PDF p4; 真实放电诊断约束的残差反演与模型; 仅所选原图与邻近正文复核，不等于整篇全文精读/独立复现。",
+    "asset_id": "ch07-r342-fig3",
+    "sidecar": "data/figure-assets/ch07-r342-fig3.json"
+  },
+  {
+    "ref": "R390",
+    "url": "https://arxiv.org/abs/2609.34076",
+    "date": "2026-10-01",
+    "method": "local_PDF_selected_caption_neighbor_text_original_page_and_crop_visual_review",
+    "status": "verified_selected_figure",
+    "note": "Fig8, PDF p17; 非线性FGE数值plant控制比较; 仅所选原图与邻近正文复核，不等于整篇全文精读/独立复现。",
+    "asset_id": "ch07-r390-fig8",
+    "sidecar": "data/figure-assets/ch07-r390-fig8.json"
+  },
+  {
+    "ref": "R347",
+    "url": "https://arxiv.org/abs/2609.10958",
+    "date": "2026-10-01",
+    "method": "local_PDF_selected_caption_neighbor_text_original_page_and_crop_visual_review",
+    "status": "verified_selected_figure",
+    "note": "Fig11, PDF p13; 自洽PIC场驱动的被动轨道敏感性模拟; 仅所选原图与邻近正文复核，不等于整篇全文精读/独立复现。",
+    "asset_id": "ch09-r347-fig11",
+    "sidecar": "data/figure-assets/ch09-r347-fig11.json"
+  },
+  {
+    "ref": "R350",
+    "url": "https://arxiv.org/abs/2609.11743",
+    "date": "2026-10-01",
+    "method": "local_PDF_selected_caption_neighbor_text_original_page_and_crop_visual_review",
+    "status": "verified_selected_figure",
+    "note": "Fig5, PDF p5; 实际放电诊断与MHD波速反演; 仅所选原图与邻近正文复核，不等于整篇全文精读/独立复现。",
+    "asset_id": "ch09-r350-fig5",
+    "sidecar": "data/figure-assets/ch09-r350-fig5.json"
+  },
+  {
+    "ref": "R355",
+    "url": "https://arxiv.org/abs/2609.15043",
+    "date": "2026-10-01",
+    "method": "local_PDF_selected_caption_neighbor_text_original_page_and_crop_visual_review",
+    "status": "verified_selected_figure",
+    "note": "Fig14, PDF p30; 作者GEC几何phasor-PIC/MCC电路耦合模拟; 仅所选原图与邻近正文复核，不等于整篇全文精读/独立复现。",
+    "asset_id": "ch09-r355-fig14",
+    "sidecar": "data/figure-assets/ch09-r355-fig14.json"
+  },
+  {
+    "ref": "R358",
+    "url": "https://arxiv.org/abs/2609.17162",
+    "date": "2026-10-01",
+    "method": "local_PDF_selected_caption_neighbor_text_original_page_and_crop_visual_review",
+    "status": "verified_selected_figure",
+    "note": "Fig2, PDF p4; 实验磁探针幅度扫描与幂律拟合; 仅所选原图与邻近正文复核，不等于整篇全文精读/独立复现。",
+    "asset_id": "ch09-r358-fig2",
+    "sidecar": "data/figure-assets/ch09-r358-fig2.json"
+  },
+  {
+    "ref": "R370",
+    "url": "https://doi.org/10.1103/p8v6-66mq",
+    "date": "2026-10-01",
+    "method": "local_PDF_selected_caption_neighbor_text_original_page_and_crop_visual_review",
+    "status": "verified_selected_figure",
+    "note": "Fig8, PDF p13; 作者三维PIC的时间与方位平均诊断; 仅所选原图与邻近正文复核，不等于整篇全文精读/独立复现。",
+    "asset_id": "ch09-r370-fig8",
+    "sidecar": "data/figure-assets/ch09-r370-fig8.json"
+  },
+  {
+    "ref": "R384",
+    "url": "https://arxiv.org/abs/2609.29514",
+    "date": "2026-10-01",
+    "method": "local_PDF_selected_caption_neighbor_text_original_page_and_crop_visual_review",
+    "status": "verified_selected_figure",
+    "note": "Fig8, PDF p11; 二维电阻MHD作者DNS与神经算子; 仅所选原图与邻近正文复核，不等于整篇全文精读/独立复现。",
+    "asset_id": "ch09-r384-fig8",
+    "sidecar": "data/figure-assets/ch09-r384-fig8.json"
   }
 ]

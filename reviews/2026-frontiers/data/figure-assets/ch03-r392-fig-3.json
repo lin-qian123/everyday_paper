@@ -1,0 +1,31 @@
+{
+  "asset_id": "ch03-r392-fig-3",
+  "kind": "paper_figure_excerpt",
+  "chapter": "03",
+  "ref": "R392",
+  "source_title": "Generating Vector-Vortex gamma Photons by Nonlinear Compton Scattering",
+  "source_url": "https://arxiv.org/abs/2609.35208",
+  "source_pdf": "daily/2026-09-30/pdfs/Ren et al. - 2026 - Vector-vortex gamma photons.pdf",
+  "source_pdf_sha256": "7b32a09803c9142e4f1fde1ac70b047fac8168a377de13ca6a8f36bf17660b0c",
+  "original_figure": "Fig. 3",
+  "source_page_1_based": 4,
+  "crop_box_pdf_points": [
+    55.0,
+    48.0,
+    559.0,
+    174.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch03/r392-fig-3.png",
+  "pixel_width": 1751,
+  "pixel_height": 439,
+  "asset_sha256": "aaa83766d0a8e7d2d4890010a10263899cf4d3e3388e754bd2acc905735476db",
+  "title": "椭圆率与spin–OAM相干",
+  "source_caption_summary": "a–e椭圆率0到1，径向/方位分析概率及干涉幅；能角积分0–36MeV、0–2.5mrad，柱顶数字为条件模式对concurrence。",
+  "evidence_type": "strong_field_QED_amplitude_calculation",
+  "purpose_in_review": "区分相干非可分性、模式权重与整束指标",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "visual_check_notes": "已查看原始整页与最终250 dpi裁图，并直接读取图注及邻近正文；坐标单位、色标数值、图例和全部子图标签完整。仅裁取原图区域，保留原始图像、曲线、配色与标尺。实验/模拟/反演条件在章节逐图解读中明确；贴边标签的裁框已扩大后重新查看。"
+}

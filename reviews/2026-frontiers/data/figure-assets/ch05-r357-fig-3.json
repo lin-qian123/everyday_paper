@@ -1,0 +1,33 @@
+{
+  "asset_id": "ch05-r357-fig-3",
+  "kind": "paper_figure_excerpt",
+  "chapter": "05",
+  "ref": "R357",
+  "source_title": "KEMPIC-3D: A transparent and extensible electromagnetic Particle-in-Cell framework for kinetic plasma simulations",
+  "source_url": "https://arxiv.org/abs/2609.16575",
+  "source_pdf": "daily/2026-09-17/pdfs/Lopez et al. - 2026 - KEMPIC-3D PIC framework.pdf",
+  "source_pdf_sha256": "fd9fbae211fb496dbf1d22e066eabe8c374b769235c050c59cf00ed5de8ab74a",
+  "original_figure": "Fig.3",
+  "source_page_1_based": 18,
+  "crop_box_pdf_points": [
+    108.0,
+    126.0,
+    503.0,
+    294.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch05/r357-fig-3.png",
+  "pixel_width": 1372,
+  "pixel_height": 584,
+  "asset_sha256": "e91ffb2b67cfef88d5480172641d4c5805d834a16375f0f1b882176cc962edf5",
+  "title": "Boris磁旋转的轨道与二阶收敛",
+  "source_caption_summary": "a为匀强磁场中电子数值与解析轨道对比；b为相对Larmor半径误差对时间步长的双对数拟合，斜率1.998。",
+  "evidence_type": "作者单粒子数值验证",
+  "purpose_in_review": "将Boris旋转推导连接到可检查的误差阶",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "review_explanation": "**逐图解读。** （a）是均匀磁场、零电场下的单电子回旋轨道：横纵坐标按图中的 $c/\\omega_c$ 长度尺度归一化，黑线为解析解，绿点为数值解；邻近正文说明展示的是模拟1000圈后的最后一圈，曲线重合检验长期半径和轨道形状。（b）横轴为归一化步长的自然对数，纵轴为相对回旋半径误差的自然对数；红点是不同步长的计算，黑虚线为拟合，斜率约1.998说明误差近似随 $\\Delta t^2$ 缩小。这里比较的是作者相对论Boris实现的受控磁旋转基准，和前面的旋转推导共享“纯磁不做功”结构。作者还报告速度、动能和洛伦兹因子保持到双精度舍入水平，但这不等于回旋相位在任意步长下完全正确。单粒子外场中没有自洽沉积、场求解、碰撞或辐射，因而这幅图只能验证推进器的一部分，不能替代完整PIC守恒与物理模块测试。[R357](../appendices/reference-catalog.md#r357)",
+  "review_explanation_han_chars": 272,
+  "visual_check_notes": "已用view_image分别查看源PDF整页预览与最终250dpi原图区；阅读对应图注及邻近正文。核对所有子图/箭头标签、坐标单位、色标、图例和图中归一化口径，未改曲线或标注。删除图上方无关空白，复查二次裁图的a/b标签、归一化坐标、拟合文本和全部点。"
+}

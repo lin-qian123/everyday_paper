@@ -1,0 +1,31 @@
+{
+  "asset_id": "ch03-r385-fig-5",
+  "kind": "paper_figure_excerpt",
+  "chapter": "03",
+  "ref": "R385",
+  "source_title": "LUXE: a high-precision experiment to study non-perturbative QED in electron–laser and photon–laser collisions",
+  "source_url": "https://doi.org/10.1140/epjp/s13360-026-08312-1",
+  "source_pdf": "daily/2026-09-27/pdfs/Zarnecki - 2026 - LUXE high-precision nonperturbative QED.pdf",
+  "source_pdf_sha256": "1897dec0d0ccd5d90ee3c4d7b81421306b4d698322890befd4fe681f01242ad4",
+  "original_figure": "Fig. 5",
+  "source_page_1_based": 5,
+  "crop_box_pdf_points": [
+    43.0,
+    48.0,
+    545.0,
+    229.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch03/r385-fig-5.png",
+  "pixel_width": 1744,
+  "pixel_height": 630,
+  "asset_sha256": "3c1db2238e3e4e89484897d9124c577f751aa73c48e81c3cce8b8c37d0ec5266",
+  "title": "LUXE可测Compton边",
+  "source_caption_summary": "左为不同ξ的预期光子谱；右为电子Compton边相对ξ的重建预期及线性/经典/量子理论。",
+  "evidence_type": "design_simulation_and_theory",
+  "purpose_in_review": "解释拟测观测量与实施阶段的区别",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "visual_check_notes": "已查看原始整页与最终250 dpi裁图，并直接读取图注及邻近正文；坐标单位、色标数值、图例和全部子图标签完整。仅裁取原图区域，保留原始图像、曲线、配色与标尺。实验/模拟/反演条件在章节逐图解读中明确；贴边标签的裁框已扩大后重新查看。"
+}

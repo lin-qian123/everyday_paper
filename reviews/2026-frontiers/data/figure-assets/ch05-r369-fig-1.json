@@ -1,0 +1,33 @@
+{
+  "asset_id": "ch05-r369-fig-1",
+  "kind": "paper_figure_excerpt",
+  "chapter": "05",
+  "ref": "R369",
+  "source_title": "Machine Learning Accelerated Plasma Simulation through Physics Guided Time Jumps",
+  "source_url": "https://arxiv.org/abs/2609.23358",
+  "source_pdf": "daily/2026-09-23/pdfs/Iqbal and Zhang - 2026 - ML accelerated plasma simulation.pdf",
+  "source_pdf_sha256": "64a69eb16afcb49302157f4bcd0d4ec7c5df91e7a5687ca6165ede5e783dd7ce",
+  "original_figure": "Fig.1",
+  "source_page_1_based": 4,
+  "crop_box_pdf_points": [
+    78.0,
+    215.0,
+    555.0,
+    536.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch05/r369-fig-1.png",
+  "pixel_width": 1658,
+  "pixel_height": 1116,
+  "asset_sha256": "524f4f242dec9d100be4153a1d1df3e2229a9dec2fe688247a8ef4faed726359",
+  "title": "时间跳跃仍受物理重建与回滚约束",
+  "source_caption_summary": "PhySKIP从物理预测和CNN修正出发，经Poisson终点重建、数值可接受性检查、M步重锚，成功才提交，失败则回滚和普通推进。",
+  "evidence_type": "论文算法示意",
+  "purpose_in_review": "区分受约束跳跃与无检查替代求解",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "review_explanation": "**逐图解读。** 这是流程图，没有横纵坐标或性能色标。左上状态包含电子/离子密度、电势、电场和电路量；这些原始量有不同单位，进入CNN前先归一化。箭头（1）用便宜物理预测构造跨 $K$ 个普通步的候选，（2）由网络修正，（3）重新解Poisson并恢复终点电路状态，所以电场并非任由网络独立输出。右侧检查有限值、非负密度和电路一致性；通过后，（4）仍须走 $M$ 个真实普通重锚步，无数值失败才执行（5）提交。任何检查或重锚失败都经（6）回滚到原状态，再由普通求解器推进。其物理意义是学习器提议捷径，约束重建和传统求解器决定是否接受。图示包含回退机制，却不是拒绝率、误差上界或加速比数据；作者所展示测试的提议均获接受。尤其要记住底层是氮气漂移—扩散—Poisson/电路模型，这幅图解释多尺度时间加速的接口，不能作为PIC内核已经提速的证据。[R369](../appendices/reference-catalog.md#r369)",
+  "review_explanation_han_chars": 287,
+  "visual_check_notes": "已用view_image分别查看源PDF整页预览与最终250dpi原图区；阅读对应图注及邻近正文。核对所有子图/箭头标签、坐标单位、色标、图例和图中归一化口径，未改曲线或标注。"
+}

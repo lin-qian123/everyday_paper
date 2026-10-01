@@ -1,0 +1,33 @@
+{
+  "asset_id": "ch08-r287-fig-2",
+  "kind": "paper_figure_excerpt",
+  "chapter": "08",
+  "ref": "R287",
+  "source_title": "Field deployment of a laser wakefield accelerator for on-site application",
+  "source_url": "https://arxiv.org/abs/2608.17554",
+  "source_pdf": "daily/2026-08-20/pdfs/Guo et al. - 2026 - Field deployment laser wakefield accelerator.pdf",
+  "source_pdf_sha256": "d090967056e495dd77f1f5e068ec31c2500205240f8802ac38bd61e96409ddd1",
+  "original_figure": "Fig.2",
+  "source_page_1_based": 15,
+  "crop_box_pdf_points": [
+    113.0,
+    62.0,
+    502.0,
+    255.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch08/r287-fig-2.png",
+  "pixel_width": 1352,
+  "pixel_height": 671,
+  "asset_sha256": "98fa1275687b1a3af660506d4823c2dcecad682e71f3e27fcb42689d7f0c5099",
+  "title": "72小时运行的单发与平均稳定性",
+  "source_caption_summary": "A为72小时电子谱的0.1Hz采样，B给>70MeV部分的能量与束荷，单发波动1.3%和9.8%，10分钟60发平均降至0.4%和1.9%。",
+  "evidence_type": "现场LWFA长期运行测量",
+  "purpose_in_review": "区分采样率、单发稳定性和应用积累时间",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "review_explanation": "**逐图解读。** （A）横轴为0—72小时，纵轴为电子能量MeV，色标是探测谱图标定的pC/mm²；长期主谱带保持在相近区域，但瞬时细条纹仍体现发间波动。图注明确数据按0.1 Hz采样以控制数据量，因此不能据此称每个激光脉冲都被完整记录。（B）左轴为平均能量MeV，右轴为相对束荷a.u.，统计只取大于70 MeV的电子；浅蓝、浅绿散点是单发，细线是10分钟、60个采样发的平均。图注给单发平均能量86.2±1.1 MeV、束荷164±16 pC，对应1.3%、9.8% RMS；平均后降为0.4%、1.9%。平均曲线更平滑说明应用积分时间能降低随机波动，却不会自动消除慢漂移或罕见失效。该图来自工业现场LWFA运行，论证长期输出可用性；它仍不是单发实时CT、全天全部脉冲稳定性或完整可用率统计。比较另一高重复率平台时，必须对齐采样、能窗和平均时间。[R287](../appendices/reference-catalog.md#r287)",
+  "review_explanation_han_chars": 252,
+  "visual_check_notes": "已用view_image分别查看源PDF整页预览与最终250dpi原图区；阅读对应图注及邻近正文。核对所有子图/箭头标签、坐标单位、色标、图例和图中归一化口径，未改曲线或标注。"
+}

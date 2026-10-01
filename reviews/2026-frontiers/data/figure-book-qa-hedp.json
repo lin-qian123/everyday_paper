@@ -1,0 +1,575 @@
+{
+  "checked_date": "2026-10-01",
+  "reviewer": "hedp_fusion",
+  "pdf_path": "综述合订本.pdf",
+  "pdf_sha256": "85f8d7bdef5ff363c664909488eb016793c67798b46dcf40b9ec44250634d49b",
+  "pdf_page_count": 144,
+  "inspection_scope": {
+    "chapters": [
+      "04",
+      "07",
+      "09"
+    ],
+    "pages": [
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99
+    ],
+    "figure_count": 18,
+    "contact_sheets": [
+      ".build/figure-book-qa/chapter-04-sheet-1.png",
+      ".build/figure-book-qa/chapter-04-sheet-2.png",
+      ".build/figure-book-qa/chapter-07-sheet-1.png",
+      ".build/figure-book-qa/chapter-07-sheet-2.png",
+      ".build/figure-book-qa/chapter-09-sheet-1.png",
+      ".build/figure-book-qa/chapter-09-sheet-2.png"
+    ],
+    "all_18_individual_page_renders_viewed": true
+  },
+  "conclusion": "所负责18个图像页未见轴/图例裁断、子图遗漏、图片与短图注分离或正文错位；通过，有原稿水印、小字号及两处长解读跨页等非阻断阅读提示。",
+  "blocking_issues": [],
+  "records": [
+    {
+      "chapter": "04",
+      "pdf_page_1_based": 45,
+      "review_figure": "04-1",
+      "ref": "R039",
+      "render_path": ".build/figure-book-qa/page-045.png",
+      "render_sha256": "bec44f3a576aabbaca69ae88475ddb4045c6f59079de2cd76f44a4a035135a19",
+      "inspection": [
+        "chapter_contact_sheet",
+        "individual_page_render_original_resolution"
+      ],
+      "axes_units_legends_and_selected_panels_preserved": true,
+      "crop_or_page_edge_cut_observed": false,
+      "short_caption_and_figure_same_page": true,
+      "body_figure_title_same_page": true,
+      "full_long_interpretation_same_page": true,
+      "placement": "紧邻首次详细结果/机制讨论；如发生分页，位于其相邻下一页，没有移到章末图集。",
+      "readability": "轴、图例、单位与子图标签在单页渲染中可识别，无明显遮断。",
+      "image_bbox_pdf_points": [
+        88.427,
+        293.171,
+        523.574,
+        503.401
+      ],
+      "notes": [],
+      "status": "pass"
+    },
+    {
+      "chapter": "04",
+      "pdf_page_1_based": 46,
+      "review_figure": "04-2",
+      "ref": "R383",
+      "render_path": ".build/figure-book-qa/page-046.png",
+      "render_sha256": "2a3a59cc38ff699abc02cd01f9b078c06f9276a671cbe3bd3a18c4aea13a1ff2",
+      "inspection": [
+        "chapter_contact_sheet",
+        "individual_page_render_original_resolution"
+      ],
+      "axes_units_legends_and_selected_panels_preserved": true,
+      "crop_or_page_edge_cut_observed": false,
+      "short_caption_and_figure_same_page": true,
+      "body_figure_title_same_page": true,
+      "full_long_interpretation_same_page": true,
+      "placement": "紧邻首次详细结果/机制讨论；如发生分页，位于其相邻下一页，没有移到章末图集。",
+      "readability": "轴、图例、单位与子图标签在单页渲染中可识别，无明显遮断。",
+      "image_bbox_pdf_points": [
+        182.886,
+        65.35,
+        429.114,
+        252.541
+      ],
+      "notes": [],
+      "status": "pass"
+    },
+    {
+      "chapter": "04",
+      "pdf_page_1_based": 47,
+      "review_figure": "04-3",
+      "ref": "R274",
+      "render_path": ".build/figure-book-qa/page-047.png",
+      "render_sha256": "d09c55519fb9a51abd94255e7a5687125ad560914f3c1db1f3347ffb1ca4b135",
+      "inspection": [
+        "chapter_contact_sheet",
+        "individual_page_render_original_resolution"
+      ],
+      "axes_units_legends_and_selected_panels_preserved": true,
+      "crop_or_page_edge_cut_observed": false,
+      "short_caption_and_figure_same_page": true,
+      "body_figure_title_same_page": true,
+      "full_long_interpretation_same_page": true,
+      "placement": "紧邻首次详细结果/机制讨论；如发生分页，位于其相邻下一页，没有移到章末图集。",
+      "readability": "整页能识别主要轴/图例与趋势；细小多面板读数见备注。",
+      "image_bbox_pdf_points": [
+        187.926,
+        221.828,
+        424.074,
+        408.155
+      ],
+      "notes": [
+        {
+          "severity": "nonblocking_source_readability",
+          "note": "源接受稿水印保留，覆盖部分图面；所有轴/图例仍完整，但小图例在整页显示时较细，精读建议PDF放大。不是本次新裁切或覆盖。"
+        }
+      ],
+      "status": "pass_with_nonblocking_notes"
+    },
+    {
+      "chapter": "04",
+      "pdf_page_1_based": 48,
+      "review_figure": "04-4",
+      "ref": "R112",
+      "render_path": ".build/figure-book-qa/page-048.png",
+      "render_sha256": "937a26e6af49f59ded1f7383838bad54fa33f38686dc0a1bc59e0049ba8f1f70",
+      "inspection": [
+        "chapter_contact_sheet",
+        "individual_page_render_original_resolution"
+      ],
+      "axes_units_legends_and_selected_panels_preserved": true,
+      "crop_or_page_edge_cut_observed": false,
+      "short_caption_and_figure_same_page": true,
+      "body_figure_title_same_page": true,
+      "full_long_interpretation_same_page": true,
+      "placement": "紧邻首次详细结果/机制讨论；如发生分页，位于其相邻下一页，没有移到章末图集。",
+      "readability": "轴、图例、单位与子图标签在单页渲染中可识别，无明显遮断。",
+      "image_bbox_pdf_points": [
+        179.287,
+        65.35,
+        432.715,
+        399.702
+      ],
+      "notes": [],
+      "status": "pass"
+    },
+    {
+      "chapter": "04",
+      "pdf_page_1_based": 49,
+      "review_figure": "04-5",
+      "ref": "R363",
+      "render_path": ".build/figure-book-qa/page-049.png",
+      "render_sha256": "871e2fd6b87571817574a06e06988640e16a4281f0887230156f2b30e610531e",
+      "inspection": [
+        "chapter_contact_sheet",
+        "individual_page_render_original_resolution"
+      ],
+      "axes_units_legends_and_selected_panels_preserved": true,
+      "crop_or_page_edge_cut_observed": false,
+      "short_caption_and_figure_same_page": true,
+      "body_figure_title_same_page": true,
+      "full_long_interpretation_same_page": true,
+      "placement": "紧邻首次详细结果/机制讨论；如发生分页，位于其相邻下一页，没有移到章末图集。",
+      "readability": "轴、图例、单位与子图标签在单页渲染中可识别，无明显遮断。",
+      "image_bbox_pdf_points": [
+        185.91,
+        65.35,
+        426.09,
+        217.407
+      ],
+      "notes": [],
+      "status": "pass"
+    },
+    {
+      "chapter": "04",
+      "pdf_page_1_based": 50,
+      "review_figure": "04-6",
+      "ref": "R388",
+      "render_path": ".build/figure-book-qa/page-050.png",
+      "render_sha256": "66a9f1ae558cc920b90e9d886e00027221f9ee2a322b71061d95a3940d154bee",
+      "inspection": [
+        "chapter_contact_sheet",
+        "individual_page_render_original_resolution"
+      ],
+      "axes_units_legends_and_selected_panels_preserved": true,
+      "crop_or_page_edge_cut_observed": false,
+      "short_caption_and_figure_same_page": true,
+      "body_figure_title_same_page": true,
+      "full_long_interpretation_same_page": true,
+      "placement": "紧邻首次详细结果/机制讨论；如发生分页，位于其相邻下一页，没有移到章末图集。",
+      "readability": "轴、图例、单位与子图标签在单页渲染中可识别，无明显遮断。",
+      "image_bbox_pdf_points": [
+        62.362,
+        65.351,
+        549.648,
+        443.509
+      ],
+      "notes": [],
+      "status": "pass"
+    },
+    {
+      "chapter": "07",
+      "pdf_page_1_based": 76,
+      "review_figure": "07-1",
+      "ref": "R142",
+      "render_path": ".build/figure-book-qa/page-076.png",
+      "render_sha256": "ae45295ad907c7e032f2f1fd91c2e2c33ced7640dd9dff1294238b1e75381cac",
+      "inspection": [
+        "chapter_contact_sheet",
+        "individual_page_render_original_resolution"
+      ],
+      "axes_units_legends_and_selected_panels_preserved": true,
+      "crop_or_page_edge_cut_observed": false,
+      "short_caption_and_figure_same_page": true,
+      "body_figure_title_same_page": true,
+      "full_long_interpretation_same_page": false,
+      "placement": "紧邻首次详细结果/机制讨论；如发生分页，位于其相邻下一页，没有移到章末图集。",
+      "readability": "整页能识别主要轴/图例与趋势；细小多面板读数见备注。",
+      "image_bbox_pdf_points": [
+        135.801,
+        393.208,
+        476.2,
+        672.554
+      ],
+      "notes": [
+        {
+          "severity": "nonblocking_page_flow",
+          "note": "图、自动短图注和正文图题均在p76；较长逐图解读从p77页首开始，邻接但不能在单页内完整对照。"
+        }
+      ],
+      "status": "pass_with_nonblocking_notes"
+    },
+    {
+      "chapter": "07",
+      "pdf_page_1_based": 77,
+      "review_figure": "07-2",
+      "ref": "R239",
+      "render_path": ".build/figure-book-qa/page-077.png",
+      "render_sha256": "510947f2eeec555471163a2cc6bd7dee8c473333a326eab7ffa352fee842ad1b",
+      "inspection": [
+        "chapter_contact_sheet",
+        "individual_page_render_original_resolution"
+      ],
+      "axes_units_legends_and_selected_panels_preserved": true,
+      "crop_or_page_edge_cut_observed": false,
+      "short_caption_and_figure_same_page": true,
+      "body_figure_title_same_page": true,
+      "full_long_interpretation_same_page": true,
+      "placement": "紧邻首次详细结果/机制讨论；如发生分页，位于其相邻下一页，没有移到章末图集。",
+      "readability": "轴、图例、单位与子图标签在单页渲染中可识别，无明显遮断。",
+      "image_bbox_pdf_points": [
+        181.446,
+        317.021,
+        430.554,
+        533.298
+      ],
+      "notes": [],
+      "status": "pass"
+    },
+    {
+      "chapter": "07",
+      "pdf_page_1_based": 78,
+      "review_figure": "07-3",
+      "ref": "R278",
+      "render_path": ".build/figure-book-qa/page-078.png",
+      "render_sha256": "ddc170b54dd4cf9451a550818a9a9e20c3200ceffbfed1d2e8ff57b49b194a4a",
+      "inspection": [
+        "chapter_contact_sheet",
+        "individual_page_render_original_resolution"
+      ],
+      "axes_units_legends_and_selected_panels_preserved": true,
+      "crop_or_page_edge_cut_observed": false,
+      "short_caption_and_figure_same_page": true,
+      "body_figure_title_same_page": true,
+      "full_long_interpretation_same_page": true,
+      "placement": "紧邻首次详细结果/机制讨论；如发生分页，位于其相邻下一页，没有移到章末图集。",
+      "readability": "整页能识别主要轴/图例与趋势；细小多面板读数见备注。",
+      "image_bbox_pdf_points": [
+        66.396,
+        102.152,
+        545.605,
+        354.428
+      ],
+      "notes": [
+        {
+          "severity": "nonblocking_readability",
+          "note": "八面板全部保留，包括右侧(d)/(h)及各图例；全宽排版仍有细小刻度/图例，整页适合比较趋势，具体数值精读建议放大。"
+        }
+      ],
+      "status": "pass_with_nonblocking_notes"
+    },
+    {
+      "chapter": "07",
+      "pdf_page_1_based": 79,
+      "review_figure": "07-4",
+      "ref": "R342",
+      "render_path": ".build/figure-book-qa/page-079.png",
+      "render_sha256": "105eede8b6e10ca0fba45a2c743301a8cb3a9a25fe4d67139916e069b035d453",
+      "inspection": [
+        "chapter_contact_sheet",
+        "individual_page_render_original_resolution"
+      ],
+      "axes_units_legends_and_selected_panels_preserved": true,
+      "crop_or_page_edge_cut_observed": false,
+      "short_caption_and_figure_same_page": true,
+      "body_figure_title_same_page": true,
+      "full_long_interpretation_same_page": true,
+      "placement": "紧邻首次详细结果/机制讨论；如发生分页，位于其相邻下一页，没有移到章末图集。",
+      "readability": "轴、图例、单位与子图标签在单页渲染中可识别，无明显遮断。",
+      "image_bbox_pdf_points": [
+        180.438,
+        197.999,
+        431.562,
+        430.404
+      ],
+      "notes": [],
+      "status": "pass"
+    },
+    {
+      "chapter": "07",
+      "pdf_page_1_based": 80,
+      "review_figure": "07-5",
+      "ref": "R318",
+      "render_path": ".build/figure-book-qa/page-080.png",
+      "render_sha256": "aff5e778ea8e49c15cee8397eba69b6047c981ef8ffa9b43987b76ba4c86f835",
+      "inspection": [
+        "chapter_contact_sheet",
+        "individual_page_render_original_resolution"
+      ],
+      "axes_units_legends_and_selected_panels_preserved": true,
+      "crop_or_page_edge_cut_observed": false,
+      "short_caption_and_figure_same_page": true,
+      "body_figure_title_same_page": true,
+      "full_long_interpretation_same_page": true,
+      "placement": "紧邻首次详细结果/机制讨论；如发生分页，位于其相邻下一页，没有移到章末图集。",
+      "readability": "整页能识别主要轴/图例与趋势；细小多面板读数见备注。",
+      "image_bbox_pdf_points": [
+        62.362,
+        257.352,
+        549.65,
+        534.718
+      ],
+      "notes": [
+        {
+          "severity": "nonblocking_readability",
+          "note": "四列七行全部保留，七参数单位和底部时间轴、顶端图例完整；28面板导致细刻度和共用图例较小，精读建议放大。"
+        }
+      ],
+      "status": "pass_with_nonblocking_notes"
+    },
+    {
+      "chapter": "07",
+      "pdf_page_1_based": 81,
+      "review_figure": "07-6",
+      "ref": "R390",
+      "render_path": ".build/figure-book-qa/page-081.png",
+      "render_sha256": "b500525e6591f00f18cd6ed978344cb82d4bfad0dcb8eeb70956978ab5c31c2e",
+      "inspection": [
+        "chapter_contact_sheet",
+        "individual_page_render_original_resolution"
+      ],
+      "axes_units_legends_and_selected_panels_preserved": true,
+      "crop_or_page_edge_cut_observed": false,
+      "short_caption_and_figure_same_page": true,
+      "body_figure_title_same_page": true,
+      "full_long_interpretation_same_page": true,
+      "placement": "紧邻首次详细结果/机制讨论；如发生分页，位于其相邻下一页，没有移到章末图集。",
+      "readability": "整页能识别主要轴/图例与趋势；细小多面板读数见备注。",
+      "image_bbox_pdf_points": [
+        78.78,
+        155.751,
+        533.222,
+        355.037
+      ],
+      "notes": [
+        {
+          "severity": "nonblocking_readability",
+          "note": "九通道图例全部保留，右侧三个控制器图完整；图例字体较小，可在放大PDF后对应通道。"
+        }
+      ],
+      "status": "pass_with_nonblocking_notes"
+    },
+    {
+      "chapter": "09",
+      "pdf_page_1_based": 94,
+      "review_figure": "09-1",
+      "ref": "R350",
+      "render_path": ".build/figure-book-qa/page-094.png",
+      "render_sha256": "44d6f2fe1420ca199faa11cad12b0af7b539d89140191b13136c6a006b05feaf",
+      "inspection": [
+        "chapter_contact_sheet",
+        "individual_page_render_original_resolution"
+      ],
+      "axes_units_legends_and_selected_panels_preserved": true,
+      "crop_or_page_edge_cut_observed": false,
+      "short_caption_and_figure_same_page": true,
+      "body_figure_title_same_page": true,
+      "full_long_interpretation_same_page": false,
+      "placement": "紧邻首次详细结果/机制讨论；如发生分页，位于其相邻下一页，没有移到章末图集。",
+      "readability": "整页能识别主要轴/图例与趋势；细小多面板读数见备注。",
+      "image_bbox_pdf_points": [
+        183.894,
+        372.815,
+        428.106,
+        586.213
+      ],
+      "notes": [
+        {
+          "severity": "nonblocking_page_flow",
+          "note": "图、短图注和解读起始均在p94；逐图解读末尾少量文字续至p95页首，未与后续图混淆。"
+        }
+      ],
+      "status": "pass_with_nonblocking_notes"
+    },
+    {
+      "chapter": "09",
+      "pdf_page_1_based": 95,
+      "review_figure": "09-2",
+      "ref": "R358",
+      "render_path": ".build/figure-book-qa/page-095.png",
+      "render_sha256": "03a9993de47716c19a831bc94b836cd9c515dd1d6723be89d15f785ef4918176",
+      "inspection": [
+        "chapter_contact_sheet",
+        "individual_page_render_original_resolution"
+      ],
+      "axes_units_legends_and_selected_panels_preserved": true,
+      "crop_or_page_edge_cut_observed": false,
+      "short_caption_and_figure_same_page": true,
+      "body_figure_title_same_page": true,
+      "full_long_interpretation_same_page": true,
+      "placement": "紧邻首次详细结果/机制讨论；如发生分页，位于其相邻下一页，没有移到章末图集。",
+      "readability": "轴、图例、单位与子图标签在单页渲染中可识别，无明显遮断。",
+      "image_bbox_pdf_points": [
+        62.362,
+        255.502,
+        549.645,
+        565.889
+      ],
+      "notes": [],
+      "status": "pass"
+    },
+    {
+      "chapter": "09",
+      "pdf_page_1_based": 96,
+      "review_figure": "09-3",
+      "ref": "R384",
+      "render_path": ".build/figure-book-qa/page-096.png",
+      "render_sha256": "509d7739d9d772d564b10604ce44d72331889f1cf06975c4cfcd8719074f4744",
+      "inspection": [
+        "chapter_contact_sheet",
+        "individual_page_render_original_resolution"
+      ],
+      "axes_units_legends_and_selected_panels_preserved": true,
+      "crop_or_page_edge_cut_observed": false,
+      "short_caption_and_figure_same_page": true,
+      "body_figure_title_same_page": true,
+      "full_long_interpretation_same_page": true,
+      "placement": "紧邻首次详细结果/机制讨论；如发生分页，位于其相邻下一页，没有移到章末图集。",
+      "readability": "轴、图例、单位与子图标签在单页渲染中可识别，无明显遮断。",
+      "image_bbox_pdf_points": [
+        62.362,
+        342.445,
+        549.665,
+        475.047
+      ],
+      "notes": [],
+      "status": "pass"
+    },
+    {
+      "chapter": "09",
+      "pdf_page_1_based": 97,
+      "review_figure": "09-4",
+      "ref": "R347",
+      "render_path": ".build/figure-book-qa/page-097.png",
+      "render_sha256": "0241deb2aae16eca8d0ad01bf17a03846ac978e1b1f0de9217836c11ac0df547",
+      "inspection": [
+        "chapter_contact_sheet",
+        "individual_page_render_original_resolution"
+      ],
+      "axes_units_legends_and_selected_panels_preserved": true,
+      "crop_or_page_edge_cut_observed": false,
+      "short_caption_and_figure_same_page": true,
+      "body_figure_title_same_page": true,
+      "full_long_interpretation_same_page": true,
+      "placement": "紧邻首次详细结果/机制讨论；如发生分页，位于其相邻下一页，没有移到章末图集。",
+      "readability": "整页能识别主要轴/图例与趋势；细小多面板读数见备注。",
+      "image_bbox_pdf_points": [
+        89.435,
+        437.505,
+        522.566,
+        568.827
+      ],
+      "notes": [
+        {
+          "severity": "nonblocking_readability",
+          "note": "三面板轴和图例完整；宽横图的个别百分比/图例较细，73.0%等主要数字可识别，详细逐项读数建议放大。"
+        }
+      ],
+      "status": "pass_with_nonblocking_notes"
+    },
+    {
+      "chapter": "09",
+      "pdf_page_1_based": 98,
+      "review_figure": "09-5",
+      "ref": "R370",
+      "render_path": ".build/figure-book-qa/page-098.png",
+      "render_sha256": "1a4349b3aede7687776d2ff45b64595d56f6fff4c367b4d106ff66d0826bc2ac",
+      "inspection": [
+        "chapter_contact_sheet",
+        "individual_page_render_original_resolution"
+      ],
+      "axes_units_legends_and_selected_panels_preserved": true,
+      "crop_or_page_edge_cut_observed": false,
+      "short_caption_and_figure_same_page": true,
+      "body_figure_title_same_page": true,
+      "full_long_interpretation_same_page": true,
+      "placement": "紧邻首次详细结果/机制讨论；如发生分页，位于其相邻下一页，没有移到章末图集。",
+      "readability": "轴、图例、单位与子图标签在单页渲染中可识别，无明显遮断。",
+      "image_bbox_pdf_points": [
+        71.868,
+        124.514,
+        540.133,
+        445.042
+      ],
+      "notes": [],
+      "status": "pass"
+    },
+    {
+      "chapter": "09",
+      "pdf_page_1_based": 99,
+      "review_figure": "09-6",
+      "ref": "R355",
+      "render_path": ".build/figure-book-qa/page-099.png",
+      "render_sha256": "73fc83d4a02bee4bf4cac5f7ae10e40979f1c479adb3e81db376dde0232d7fc3",
+      "inspection": [
+        "chapter_contact_sheet",
+        "individual_page_render_original_resolution"
+      ],
+      "axes_units_legends_and_selected_panels_preserved": true,
+      "crop_or_page_edge_cut_observed": false,
+      "short_caption_and_figure_same_page": true,
+      "body_figure_title_same_page": true,
+      "full_long_interpretation_same_page": true,
+      "placement": "紧邻首次详细结果/机制讨论；如发生分页，位于其相邻下一页，没有移到章末图集。",
+      "readability": "轴、图例、单位与子图标签在单页渲染中可识别，无明显遮断。",
+      "image_bbox_pdf_points": [
+        73.884,
+        179.584,
+        538.117,
+        490.897
+      ],
+      "notes": [],
+      "status": "pass"
+    }
+  ],
+  "limitations": [
+    "仅检查所列18个图像页和相关联系表，不是144页全文逐页验收。",
+    "本轮检查排版与可读性，不重复评定论文科学结论，也不构成实验/模拟独立复现。",
+    "依据提供的渲染与PDF对象几何核查，没有实际纸质打印，不能保证所有显示器缩放或打印条件下的小字号体验。",
+    "未修改文稿、图片、构建脚本或重新编译；仅写此JSON核查记录。"
+  ]
+}

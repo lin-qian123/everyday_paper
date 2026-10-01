@@ -1,0 +1,31 @@
+{
+  "asset_id": "ch09-r370-fig8",
+  "kind": "paper_figure_excerpt",
+  "chapter": "09",
+  "ref": "R370",
+  "source_title": "Near-wall pathways of anomalous electron transport in Hall thrusters revealed by three-dimensional particle-in-cell simulations",
+  "source_url": "https://doi.org/10.1103/p8v6-66mq",
+  "source_pdf": "daily/2026-09-22/pdfs/Liu et al. - 2026 - Near-wall electron transport in Hall thrusters.pdf",
+  "source_pdf_sha256": "f248722f1d8f0103d722b40e6ec1f88d36bb3c3c361389a6ee3e0b4bc336b440",
+  "original_figure": "Fig8",
+  "source_page_1_based": 13,
+  "crop_box_pdf_points": [
+    68.0,
+    74.0,
+    536.0,
+    394.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch09/r370-fig8.png",
+  "pixel_width": 1626,
+  "pixel_height": 1113,
+  "asset_sha256": "32e0a3ad5991b542d527ba15f10d732f50a4a88e32c95edd9e0b9373453ed2d5",
+  "title": "Hall推进器近壁净异常电子输运",
+  "source_caption_summary": "三个边界模型的密度电场相关与有效迁移率",
+  "evidence_type": "作者三维PIC的时间与方位平均诊断",
+  "purpose_in_review": "解释瞬态波纹如何留下净输运通道",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "visual_check_notes": "已阅读原PDF图注和邻近正文、查看原页与最终裁图；完整保留所有所选子图、轴刻度、单位、标签及图例。"
+}

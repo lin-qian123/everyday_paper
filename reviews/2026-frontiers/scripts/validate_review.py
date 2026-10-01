@@ -39,8 +39,29 @@ for p in files:
         counts[p.name]={'chinese_characters':len(re.findall(r'[\u4e00-\u9fff]',t)),
                         'unique_references':len(set(re.findall(r'R\d{3}',t)))}
         if t.count('$$')%2:errors.append(f'{p.name}: odd display math delimiters')
-expected=hashlib.sha256((ROOT/'state/processed_articles.json').read_bytes()).hexdigest()
-if expected!=corpus['summary']['ledger_sha256']:errors.append('ledger changed after corpus snapshot')
+live_ledger=(ROOT/'state/processed_articles.json').read_bytes()
+snapshot_ledger=live_ledger
+ledger_validation='live ledger matches snapshot'
+if hashlib.sha256(live_ledger).hexdigest()!=corpus['summary']['ledger_sha256']:
+    commit=corpus['summary'].get('ledger_git_commit')
+    if commit and re.fullmatch(r'[0-9a-f]{40}',commit):
+        try:
+            snapshot_ledger=subprocess.check_output(
+                ['git','show',f'{commit}:state/processed_articles.json'],cwd=ROOT)
+            ledger_validation=f'archived ledger verified at {commit}; live repository has advanced'
+        except subprocess.CalledProcessError:
+            errors.append('archived ledger commit is unavailable')
+    else:
+        errors.append('ledger changed after corpus snapshot without an archived commit')
+if hashlib.sha256(snapshot_ledger).hexdigest()!=corpus['summary']['ledger_sha256']:
+    errors.append('snapshot ledger hash mismatch')
+snapshot_items=json.loads(snapshot_ledger)
+source_items={(r.get('doi'),r['title']):r for r in snapshot_items}
+if len(snapshot_items)!=len(refs):errors.append('snapshot ledger count mismatch')
+for row in corpus['articles']:
+    source=source_items.get((row.get('doi'),row['title']))
+    if source is None or any(row.get(k)!=v for k,v in source.items()):
+        errors.append(f'{row["ref"]}: corpus metadata differs from snapshot ledger')
 for row in corpus['articles']:
     if row.get('note_sha256'):
         path=ROOT/row['note_path']
@@ -53,6 +74,7 @@ if coverage['total_articles']!=len(refs):errors.append('coverage count mismatch'
 for p in ('综述合订本.pdf','综述合订本.html'):
     if not (BASE/p).exists():errors.append(f'missing edition {p}')
 summary={'status':'passed' if not errors else 'failed','articles':len(refs),
+         'ledger_validation':ledger_validation,
          'chapter_statistics':counts,'errors':errors,
          'scope':'reference IDs, local paths, corpus hash, material coverage and derived edition presence; not scientific validation'}
 (BASE/'data/validation.json').write_text(json.dumps(summary,ensure_ascii=False,indent=2)+'\n')

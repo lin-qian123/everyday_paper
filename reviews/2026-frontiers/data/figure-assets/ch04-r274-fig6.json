@@ -1,0 +1,31 @@
+{
+  "asset_id": "ch04-r274-fig6",
+  "kind": "paper_figure_excerpt",
+  "chapter": "04",
+  "ref": "R274",
+  "source_title": "Effect of nonuniform density structure on burn-up ratio of multi-shock-compressed DT fuel in fast ignition",
+  "source_url": "https://iopscience.iop.org/article/10.1088/1741-4326/ae96c1",
+  "source_pdf": "daily/2026-08-11/pdfs/Multi shock DT fast ignition.pdf",
+  "source_pdf_sha256": "3a2dec50b5e8e953549934cd08bcc79a90ef56500db8fb2cbefc84e8f9f2b9ad",
+  "original_figure": "Fig6",
+  "source_page_1_based": 8,
+  "crop_box_pdf_points": [
+    58.0,
+    388.0,
+    294.0,
+    574.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch04/r274-fig6.png",
+  "pixel_width": 820,
+  "pixel_height": 647,
+  "asset_sha256": "a63f8ae8149bce9b40ca34150cc3b1367dc8d4528c02dbe92674ed57e287227d",
+  "title": "相同面密度也可能有不同燃耗",
+  "source_caption_summary": "非均匀实心球、人工外层增密与均匀燃料的燃耗率对照。",
+  "evidence_type": "作者燃烧模拟与历史模拟比较",
+  "purpose_in_review": "解释密度剖面为何限制传播燃烧",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "visual_check_notes": "已阅读原PDF图注和邻近正文、查看原页与最终裁图；完整保留所有所选子图、轴刻度、单位、标签及图例。初裁纵轴被截，扩大左缘后复查；原接受稿水印保留。"
+}

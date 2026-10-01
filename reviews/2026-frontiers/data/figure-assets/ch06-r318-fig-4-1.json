@@ -1,0 +1,33 @@
+{
+  "asset_id": "ch06-r318-fig-4-1",
+  "kind": "paper_figure_excerpt",
+  "chapter": "06",
+  "ref": "R318",
+  "source_title": "Real-time virtual circuits for plasma shape control via neural network emulators: experimental demonstration on MAST Upgrade",
+  "source_url": "https://arxiv.org/abs/2608.28468",
+  "source_pdf": "daily/2026-09-01/pdfs/Amorisco et al. - 2026 - Real-time virtual circuits experimental demonstration on MAST-U.pdf",
+  "source_pdf_sha256": "da772213cce1b15ac52e2bc9decb64b29b46ac4653a6bcb7b666d2fca4a98451",
+  "original_figure": "Fig.4.1",
+  "source_page_1_based": 6,
+  "crop_box_pdf_points": [
+    54.0,
+    89.0,
+    285.0,
+    278.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch06/r318-fig-4-1.png",
+  "pixel_width": 803,
+  "pixel_height": 657,
+  "asset_sha256": "d6c81cb59638f7ad26487553ee18dd918a96603f01c9160d1dfd01da2588446a",
+  "title": "实时伪逆的病态会放大线圈请求",
+  "source_caption_summary": "比较两炮实际VC矩阵范数与删去Rnose、Rs列的离线诊断；约0.5s的近退化事件造成局部放大，删列曲线未用于实际控制。",
+  "evidence_type": "真实放电状态与离线诊断反事实",
+  "purpose_in_review": "说明平均跟踪精度之外的条件数和保护边界",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "review_explanation": "**逐图解读。** 横轴为放电时间s，纵轴是实际受控VC矩阵的二范数，单位A/m且采用对数刻度；它衡量单位形状变化会要求多大线圈电流，不是神经预测误差。黑线来自53996炮，红线来自54168炮所用映射，后者在大部分时段较高，约0.5 s处还有局部尖峰。蓝、绿虚线是分别删去 $R_{nose}$、$R_s$ 列后的离线重求逆，紫色点线仅取这对方向；这些反事实曲线没有用于实际控制。邻近正文指出约0.5 s两列近共线，伪逆放大形状请求，图中下降的删列曲线帮助定位退化来源。大增益会放大测量和模型误差，解释为什么网络本身准确仍可能产生不稳健执行请求。作者明确未由两炮比较建立跟踪变差的唯一因果关系，不能把尖峰直接称为诊断到的损伤。该图结合真实放电状态与离线矩阵诊断，支持对条件数和正则化的关注，不证明删除约束已经在现场解决问题。[R318](../appendices/reference-catalog.md#r318)",
+  "review_explanation_han_chars": 290,
+  "visual_check_notes": "已用view_image分别查看源PDF整页预览与最终250dpi原图区；阅读对应图注及邻近正文。核对所有子图/箭头标签、坐标单位、色标、图例和图中归一化口径，未改曲线或标注。删去上方无关页眉后重新查看，实际曲线和离线诊断图例、对数轴单位A/m及0.5s事件完整。"
+}

@@ -1,0 +1,33 @@
+{
+  "asset_id": "ch08-r219-fig-4",
+  "kind": "paper_figure_excerpt",
+  "chapter": "08",
+  "ref": "R219",
+  "source_title": "Absolute charge calibration of DRZ phosphor screens for relativistic electron bunches",
+  "source_url": "https://arxiv.org/abs/2607.17059",
+  "source_pdf": "daily/2026-07-24/pdfs/Shuang Liu et al. - 2026 - DRZ phosphor charge calibration.pdf",
+  "source_pdf_sha256": "4361fd08f6d91ca1c06acaf3edc774603415ac3d2c56219a9e0ae9c67039b8d2",
+  "original_figure": "Fig.4",
+  "source_page_1_based": 3,
+  "crop_box_pdf_points": [
+    322.0,
+    43.0,
+    564.0,
+    256.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch08/r219-fig-4.png",
+  "pixel_width": 841,
+  "pixel_height": 740,
+  "asset_sha256": "9adb8643d94b0d841da87e0cc296d041f44dd119a78a9157da9ead7701d99aa2",
+  "title": "DRZ屏光输出斜率如何变成电荷",
+  "source_caption_summary": "六种DRZ屏在5–50pC束荷范围近线性；纵轴为经光学校正后的photons/sr，灵敏度来自斜率，并非未校正相机灰度。",
+  "evidence_type": "RF电子束绝对电荷标定",
+  "purpose_in_review": "连接屏型号、光学链和电荷换算",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "review_explanation": "**逐图解读。** 横轴是参考束流监测器给出的总电荷pC，纵轴是校正光学链后的每立体角闪烁光子数photons/sr，注意 $10^{11}$ 倍率；这里不是原始CCD灰度，也不是photons/s。不同颜色对应PI200、HIGH、PLUS、STANDARD、FINE、HR，误差棒综合束荷波动、光学效率和图像重复测量。六条拟合线在该5—50 pC扫描区间近似线性，PI200最陡，HR最缓，表明选屏会改变电荷换算因子；邻近表格将斜率换成每pC、每sr的绝对灵敏度，PI200与HR约为 $12.7\\times10^9$ 和 $1.5\\times10^9$。有线性关系仍需确定单位、角分布和光谱校正，不能把某条斜率直接复制到另一相机/镜头。该图属于约30 MeV射频电子束的真实标定，验证的是已用配置与束荷范围，没有验证所有能量、局部面电荷密度或饱和条件；迁移到激光宽谱电子时，应先把屏、角度、QE和完整收光链接回响应模型。[R219](../appendices/reference-catalog.md#r219)",
+  "review_explanation_han_chars": 246,
+  "visual_check_notes": "已用view_image分别查看源PDF整页预览与最终250dpi原图区；阅读对应图注及邻近正文。核对所有子图/箭头标签、坐标单位、色标、图例和图中归一化口径，未改曲线或标注。"
+}

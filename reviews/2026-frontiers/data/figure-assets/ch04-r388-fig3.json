@@ -1,0 +1,31 @@
+{
+  "asset_id": "ch04-r388-fig3",
+  "kind": "paper_figure_excerpt",
+  "chapter": "04",
+  "ref": "R388",
+  "source_title": "Anomalous shock scaling in ICF implosions dominated by high-energy X-ray preheat",
+  "source_url": "https://doi.org/10.1063/5.0332964",
+  "source_pdf": "daily/2026-09-29/pdfs/Yang et al. - 2026 - ICF anomalous shock scaling.pdf",
+  "source_pdf_sha256": "d7a9ed8fe71e69447de7168216b0f47125f4f4e0c0dcc9956a2b0c6757dc2b21",
+  "original_figure": "Fig3",
+  "source_page_1_based": 5,
+  "crop_box_pdf_points": [
+    48.0,
+    84.0,
+    548.0,
+    472.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch04/r388-fig3.png",
+  "pixel_width": 1737,
+  "pixel_height": 1348,
+  "asset_sha256": "b9e223c165e153f33d6d5e466063406efc6125834d054339b7bb305ce3a6d448",
+  "title": "四发冲击速度与M-band模型对照",
+  "source_caption_summary": "四shot的VISAR速度、13%及0% M-band辐射流体曲线，含主脉冲时刻。",
+  "evidence_type": "直接实验测速与作者校准模拟",
+  "purpose_in_review": "区分观测到的冲击异常与模型化预热机制",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "visual_check_notes": "已阅读原PDF图注和邻近正文、查看原页与最终裁图；完整保留所有所选子图、轴刻度、单位、标签及图例。核对前三炮M13%、N111为M3%，不得统一成13%。"
+}

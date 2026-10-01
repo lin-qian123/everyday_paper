@@ -1,0 +1,31 @@
+{
+  "asset_id": "ch01-r374-fig-2",
+  "kind": "paper_figure_excerpt",
+  "chapter": "01",
+  "ref": "R374",
+  "source_title": "Stable 50 MeV Beams from a 100 Hz Laser-Wakefield Accelerator Driven by an OPCPA Laser",
+  "source_url": "https://arxiv.org/abs/2609.26390",
+  "source_pdf": "daily/2026-09-24/pdfs/Smartsev et al. - 2026 - Stable 100 Hz LWFA beams.pdf",
+  "source_pdf_sha256": "b374b312bf3bfd11f5791bf2cc85648c1673518fad1bfc6f058ad1b311991c8a",
+  "original_figure": "Fig. 2",
+  "source_page_1_based": 4,
+  "crop_box_pdf_points": [
+    76.0,
+    54.0,
+    548.0,
+    391.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch01/r374-fig-2.png",
+  "pixel_width": 1640,
+  "pixel_height": 1171,
+  "asset_sha256": "110df573703765b65c57482be2380e95d13b5a369eaac3a3c50e27e65df08865",
+  "title": "一万发电荷与指向",
+  "source_caption_summary": "(a)电子角分布和电荷积分ROI；(b)逐发电荷及20发平均；(c)横纵角分布随发次的归一化瀑布图。",
+  "evidence_type": "experimental_measurement",
+  "purpose_in_review": "把束流稳定性拆成电荷与指向",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "visual_check_notes": "已查看原始整页与最终250 dpi裁图，并直接读取图注及邻近正文；坐标单位、色标数值、图例和全部子图标签完整。仅裁取原图区域，保留原始图像、曲线、配色与标尺。实验/模拟/反演条件在章节逐图解读中明确；贴边标签的裁框已扩大后重新查看。"
+}

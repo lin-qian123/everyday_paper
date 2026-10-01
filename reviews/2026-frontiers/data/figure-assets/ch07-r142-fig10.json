@@ -1,0 +1,31 @@
+{
+  "asset_id": "ch07-r142-fig10",
+  "kind": "paper_figure_excerpt",
+  "chapter": "07",
+  "ref": "R142",
+  "source_title": "Impact of energetic alpha particles on core turbulence in an ARC-class fusion power plant",
+  "source_url": "https://arxiv.org/abs/2606.15965",
+  "source_pdf": "daily/2026-06-23/pdfs/J. Hall et al. - 2026 - Impact of energetic alpha particles on core turbulence in an ARC-class fusion power plant.pdf",
+  "source_pdf_sha256": "df89f9aa31c1dd17af598299d89dac83cc9ef27bf66434b694bd019e01d1b31e",
+  "original_figure": "Fig10",
+  "source_page_1_based": 16,
+  "crop_box_pdf_points": [
+    50.0,
+    52.0,
+    390.0,
+    331.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch07/r142-fig10.png",
+  "pixel_width": 1182,
+  "pixel_height": 970,
+  "asset_sha256": "d8d66e4a7697b3a4fa042d367392bf804d34f358e879bc852aab3aabc07c8a32",
+  "title": "快alpha改变非线性热流与低波数谱",
+  "source_caption_summary": "四子图比较热化alpha与快alpha的热流时间序列和ky谱",
+  "evidence_type": "作者局域非线性gyrokinetic模拟",
+  "purpose_in_review": "解释alpha与湍流反馈",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "visual_check_notes": "已阅读原PDF图注和邻近正文、查看原页与最终裁图；完整保留所有所选子图、轴刻度、单位、标签及图例。"
+}

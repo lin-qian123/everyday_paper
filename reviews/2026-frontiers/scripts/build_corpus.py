@@ -1,13 +1,36 @@
 #!/usr/bin/env python
 """Snapshot repository literature and make an auditable review bibliography."""
+import argparse
 import hashlib
 import importlib.util
 import json
+import subprocess
 from collections import Counter
 from pathlib import Path
 
 BASE = Path(__file__).resolve().parents[1]
 ROOT = BASE.parents[1]
+parser=argparse.ArgumentParser(description=__doc__)
+parser.add_argument('--refresh-snapshot',action='store_true',help='Explicitly replace the fixed corpus and reference IDs for a new edition.')
+parser.add_argument('--cutoff',help='Content cutoff for an explicitly refreshed edition, YYYY-MM-DD.')
+args=parser.parse_args()
+snapshot_path=BASE/'data/corpus.json'
+old=json.loads(snapshot_path.read_text()) if snapshot_path.exists() else None
+ledger_path=ROOT/'state/processed_articles.json'
+ledger_hash=hashlib.sha256(ledger_path.read_bytes()).hexdigest()
+if old and old['summary']['ledger_sha256']!=ledger_hash and not args.refresh_snapshot:
+    raise SystemExit('Repository ledger has advanced. This review is a fixed snapshot; use --refresh-snapshot --cutoff YYYY-MM-DD only when creating a new edition and revising its reference IDs.')
+if args.refresh_snapshot and not args.cutoff:
+    parser.error('--refresh-snapshot requires --cutoff')
+cutoff=args.cutoff or (old['summary']['cutoff'] if old else '2026-09-30')
+ledger_commit=None
+try:
+    commit=subprocess.check_output(['git','log','-1','--format=%H','--','state/processed_articles.json'],cwd=ROOT,text=True).strip()
+    committed=subprocess.check_output(['git','show',f'{commit}:state/processed_articles.json'],cwd=ROOT)
+    if hashlib.sha256(committed).hexdigest()==ledger_hash:
+        ledger_commit=commit
+except subprocess.CalledProcessError:
+    pass
 spec = importlib.util.spec_from_file_location('indexes', ROOT / 'scripts/build_indexes.py')
 idx = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(idx)
@@ -26,8 +49,9 @@ for i, item in enumerate(items, 1):
             row['note_sha256'] = hashlib.sha256(path.read_bytes()).hexdigest()
     rows.append(row)
 summary = {
-    'cutoff': '2026-09-30',
+    'cutoff': cutoff,
     'ledger_sha256': hashlib.sha256(idx.STATE_PATH.read_bytes()).hexdigest(),
+    'ledger_git_commit': ledger_commit,
     'total': len(rows),
     'publication_years': dict(sorted(Counter(r['publication_date'][:4] for r in rows).items())),
     'notes_present': sum(r['note_exists'] for r in rows),
@@ -37,7 +61,7 @@ summary = {
 }
 (BASE / 'data/corpus.json').write_text(json.dumps({'summary': summary, 'articles': rows}, ensure_ascii=False, indent=2) + '\n')
 lines = ['# 全库参考文献与阅读覆盖', '',
-         '统计截止：2026-09-30。R 编号在此版快照内唯一。发表日期取仓库台账，不取入库日期；预印本与正式版状态按原记录保留。', '',
+         f'统计截止：{cutoff}。R 编号在此版快照内唯一。发表日期取仓库台账，不取入库日期；预印本与正式版状态按原记录保留。', '',
          '“有笔记”表示复用既有解读素材，不表示本次逐篇重新精读；“PDF 路径存在”不表示本文已逐页审阅。重点讲解请见各主题章。无笔记条目不承担未经原文核实的结果性论断。', '']
 titles = {c['slug']: c['title'] for c in idx.all_categories()}
 for row in rows:

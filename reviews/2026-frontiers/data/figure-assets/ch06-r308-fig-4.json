@@ -1,0 +1,33 @@
+{
+  "asset_id": "ch06-r308-fig-4",
+  "kind": "paper_figure_excerpt",
+  "chapter": "06",
+  "ref": "R308",
+  "source_title": "An Inverse Grad-Shafranov Neural Network Approach to Tokamak Magnetic Control",
+  "source_url": "https://arxiv.org/abs/2608.23976",
+  "source_pdf": "daily/2026-08-27/pdfs/Inverse Grad-Shafranov neural network.pdf",
+  "source_pdf_sha256": "0da920db2eecb20901503c64ea54c662f59157d15ee570edab47fa963fcba93c",
+  "original_figure": "Fig.4",
+  "source_page_1_based": 20,
+  "crop_box_pdf_points": [
+    71.0,
+    68.0,
+    540.0,
+    499.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch06/r308-fig-4.png",
+  "pixel_width": 1629,
+  "pixel_height": 1497,
+  "asset_sha256": "eda818f2f6e0a790f5a6688270e513c749d6c3784d753ab1bf6e700cab098af7",
+  "title": "TCV的实机成形与已有径向反馈",
+  "source_caption_summary": "上排是TCV#86708五个时刻的重建平衡及下一目标点；下排比较#86708/#86713径向误差mm和极向beta对时间s；径向位置另有反馈。",
+  "evidence_type": "真实TCV放电及平衡重建",
+  "purpose_in_review": "区分逆映射实机演示与完整实时形状反馈",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "review_explanation": "**逐图解读。** 上排是TCV #86708在0.252、0.336、0.416、0.8、1.05 s的重建平衡，背景为实验数据重建，红点表示下一目标形状；这些图没有通用温度色标，不能把核心颜色解释成温度。五幅依次显示受限形状、向下单零位过渡及后续保持；坐标刻度对应装置的 $R,Z$ 米尺度。下图横轴为秒，左轴是两炮径向位置误差mm，黑/灰曲线总体在毫米量级波动；右轴是无量纲极向beta，蓝/青曲线在中性束加热后升高，用来检查压力扰动下的成形。红虚线将轨迹时刻与上排快照联系起来。邻近正文特别说明径向位置另有反馈环路，而当时未对全部形状误差施加完整实时闭环；因此小径向误差不能全归功于神经网络。这是真实TCV成形和诊断重建证据，较纯FGE仿真前进了一步，但仍不能替代所有控制点、拓扑切换和在线适应任务的独立实机验收。[R308](../appendices/reference-catalog.md#r308)",
+  "review_explanation_han_chars": 274,
+  "visual_check_notes": "已用view_image分别查看源PDF整页预览与最终250dpi原图区；阅读对应图注及邻近正文。核对所有子图/箭头标签、坐标单位、色标、图例和图中归一化口径，未改曲线或标注。"
+}

@@ -1,0 +1,464 @@
+{
+  "reviewer": "acceleration_radiation",
+  "date": "2026-10-01",
+  "pdf_path": "综述合订本.pdf",
+  "pdf_sha256": "85f8d7bdef5ff363c664909488eb016793c67798b46dcf40b9ec44250634d49b",
+  "pdf_page_count": 144,
+  "scope": "最终合订PDF的第01/02/03章全部18幅原图所在16页逐页视觉检查；额外查看19页长解读续页；25/36页读取PDF文字辅助顺序核对。",
+  "method": "直接打开所列单页PNG查看；核对图域、全部轴/色标/图例/子图、短图注、章内解读和首次讨论顺序。读取PDF文字和嵌入图分辨率作辅助，未修改文稿、图像或编译。",
+  "status": "pass_with_nonblocking_readability_and_pagination_notes",
+  "critical_findings": [],
+  "nonblocking_observations": [
+    {
+      "pages": [
+        17,
+        18,
+        20,
+        26,
+        28,
+        31,
+        37,
+        41
+      ],
+      "kind": "dense_source_figure_labels",
+      "note": "复合原图中部分图例/坐标小字在整页阅读尺度较密，尤其R267十二子图、R380多通道和R392五模式面板；完整未裁切，保留原图分辨率，可在PDF放大阅读。未保证纸张100%尺寸下所有小字都舒适可读。"
+    },
+    {
+      "pages": [
+        18,
+        19
+      ],
+      "kind": "long_interpretation_page_break",
+      "note": "R267正式短图注随图在18页，章内图01-5标题和长解读在19页顶部。内容连续，未孤立短图注，双页阅读体验更好。"
+    },
+    {
+      "pages": [
+        39,
+        40
+      ],
+      "kind": "long_interpretation_page_break",
+      "note": "R393布局正式短图注、章内标题和解读开头与图在39页，解读末两行续40页，随后原图2。属于正常段落续页，无图漂到非对应主题。"
+    }
+  ],
+  "chapters": {
+    "01": {
+      "image_pages": [
+        15,
+        16,
+        17,
+        18,
+        20
+      ],
+      "original_figures": 6,
+      "source_paper_count": 5
+    },
+    "02": {
+      "image_pages": [
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "original_figures": 6,
+      "source_paper_count": 5
+    },
+    "03": {
+      "image_pages": [
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "original_figures": 6,
+      "source_paper_count": 4
+    }
+  },
+  "pages": [
+    {
+      "chapter": "01",
+      "pdf_page_1_based": 15,
+      "render_path": ".build/figure-book-qa/page-015.png",
+      "viewed_original_render": true,
+      "asset_ids": [
+        "ch01-r374-fig-2"
+      ],
+      "formal_short_caption_same_page": true,
+      "axis_legend_subpanel_clipping_detected": false,
+      "overlap_or_page_overflow_detected": false,
+      "first_discussion_sequence": "continuous; original figure follows the corresponding first detailed paragraph, sometimes after a normal page break",
+      "notes": "R374 各角轴、单位立体角色标、万发 Q 曲线和两个指向瀑布图完整；正文—图—短图注—解读同页。",
+      "embedded_image_resolution": [
+        {
+          "embedded_pixel_width": 1640,
+          "embedded_pixel_height": 1171,
+          "display_width_pdf_points": 472.3,
+          "display_height_pdf_points": 337.23
+        }
+      ]
+    },
+    {
+      "chapter": "01",
+      "pdf_page_1_based": 16,
+      "render_path": ".build/figure-book-qa/page-016.png",
+      "viewed_original_render": true,
+      "asset_ids": [
+        "ch01-r374-fig-3"
+      ],
+      "formal_short_caption_same_page": true,
+      "axis_legend_subpanel_clipping_detected": false,
+      "overlap_or_page_overflow_detected": false,
+      "first_discussion_sequence": "continuous; original figure follows the corresponding first detailed paragraph, sometimes after a normal page break",
+      "notes": "R374 能谱右色标数字完整，仪器红色误差条可见；图和解读同页，下一论文的首段在页底，后接17页原图。",
+      "embedded_image_resolution": [
+        {
+          "embedded_pixel_width": 842,
+          "embedded_pixel_height": 862,
+          "display_width_pdf_points": 242.48,
+          "display_height_pdf_points": 248.24
+        }
+      ]
+    },
+    {
+      "chapter": "01",
+      "pdf_page_1_based": 17,
+      "render_path": ".build/figure-book-qa/page-017.png",
+      "viewed_original_render": true,
+      "asset_ids": [
+        "ch01-r314-fig-3"
+      ],
+      "formal_short_caption_same_page": true,
+      "axis_legend_subpanel_clipping_detected": false,
+      "overlap_or_page_overflow_detected": false,
+      "first_discussion_sequence": "continuous; original figure follows the corresponding first detailed paragraph, sometimes after a normal page break",
+      "notes": "R314 图全宽排版，色散能量轴、扫描位置、RMS束宽、GPT图例及误差条均完整；右上多参数图例较密，可放大阅读。R144首次详细讨论在页底，原图顺序接18页。",
+      "embedded_image_resolution": [
+        {
+          "embedded_pixel_width": 1713,
+          "embedded_pixel_height": 1119,
+          "display_width_pdf_points": 487.28,
+          "display_height_pdf_points": 318.31
+        }
+      ]
+    },
+    {
+      "chapter": "01",
+      "pdf_page_1_based": 18,
+      "render_path": ".build/figure-book-qa/page-018.png",
+      "viewed_original_render": true,
+      "asset_ids": [
+        "ch01-r144-fig-1",
+        "ch01-r267-fig-4"
+      ],
+      "formal_short_caption_same_page": true,
+      "axis_legend_subpanel_clipping_detected": false,
+      "overlap_or_page_overflow_detected": false,
+      "first_discussion_sequence": "continuous; original figure follows the corresponding first detailed paragraph, sometimes after a normal page break",
+      "notes": "R144 两种方案、频率模式、场色条与趋势曲线完整；R267十二子图、场右轴/谱上轴/色标完整，原短图注同页。R267章内标题与长解读续19页；未丢内容。",
+      "embedded_image_resolution": [
+        {
+          "embedded_pixel_width": 1671,
+          "embedded_pixel_height": 726,
+          "display_width_pdf_points": 481.22,
+          "display_height_pdf_points": 209.08
+        },
+        {
+          "embedded_pixel_width": 1696,
+          "embedded_pixel_height": 814,
+          "display_width_pdf_points": 487.28,
+          "display_height_pdf_points": 233.87
+        }
+      ]
+    },
+    {
+      "chapter": "01",
+      "pdf_page_1_based": 20,
+      "render_path": ".build/figure-book-qa/page-020.png",
+      "viewed_original_render": true,
+      "asset_ids": [
+        "ch01-r285-fig-6"
+      ],
+      "formal_short_caption_same_page": true,
+      "axis_legend_subpanel_clipping_detected": false,
+      "overlap_or_page_overflow_detected": false,
+      "first_discussion_sequence": "continuous; original figure follows the corresponding first detailed paragraph, sometimes after a normal page break",
+      "notes": "R285 五子图的两组纵轴、各自色标、做功图例和不同归一化范围完整；图/短图注/解读同页；首段在19页末，图立即续20页。",
+      "embedded_image_resolution": [
+        {
+          "embedded_pixel_width": 1748,
+          "embedded_pixel_height": 1185,
+          "display_width_pdf_points": 487.28,
+          "display_height_pdf_points": 330.33
+        }
+      ]
+    },
+    {
+      "chapter": "02",
+      "pdf_page_1_based": 26,
+      "render_path": ".build/figure-book-qa/page-026.png",
+      "viewed_original_render": true,
+      "asset_ids": [
+        "ch02-r138-fig-1"
+      ],
+      "formal_short_caption_same_page": true,
+      "axis_legend_subpanel_clipping_detected": false,
+      "overlap_or_page_overflow_detected": false,
+      "first_discussion_sequence": "continuous; original figure follows the corresponding first detailed paragraph, sometimes after a normal page break",
+      "notes": "R138双激光布局全部标尺、图例和诊断缩略图完整，布局内小字需要放大；首段在25页末，图与解读顺接26页。",
+      "embedded_image_resolution": [
+        {
+          "embedded_pixel_width": 1699,
+          "embedded_pixel_height": 765,
+          "display_width_pdf_points": 487.3,
+          "display_height_pdf_points": 219.41
+        }
+      ]
+    },
+    {
+      "chapter": "02",
+      "pdf_page_1_based": 27,
+      "render_path": ".build/figure-book-qa/page-027.png",
+      "viewed_original_render": true,
+      "asset_ids": [
+        "ch02-r138-fig-5"
+      ],
+      "formal_short_caption_same_page": true,
+      "axis_legend_subpanel_clipping_detected": false,
+      "overlap_or_page_overflow_detected": false,
+      "first_discussion_sequence": "continuous; original figure follows the corresponding first detailed paragraph, sometimes after a normal page break",
+      "notes": "R138六组扫描全部轴、单位、拟合数值及持续时间图例完整；短图注与完整解读同页，R230首段随后。",
+      "embedded_image_resolution": [
+        {
+          "embedded_pixel_width": 1723,
+          "embedded_pixel_height": 1289,
+          "display_width_pdf_points": 487.3,
+          "display_height_pdf_points": 364.56
+        }
+      ]
+    },
+    {
+      "chapter": "02",
+      "pdf_page_1_based": 28,
+      "render_path": ".build/figure-book-qa/page-028.png",
+      "viewed_original_render": true,
+      "asset_ids": [
+        "ch02-r230-fig-2"
+      ],
+      "formal_short_caption_same_page": true,
+      "axis_legend_subpanel_clipping_detected": false,
+      "overlap_or_page_overflow_detected": false,
+      "first_discussion_sequence": "continuous; original figure follows the corresponding first detailed paragraph, sometimes after a normal page break",
+      "notes": "R230十子图/箱图/双纵轴谱及检测下限全部完整；图例与灰度色标数字较小但未裁切，PDF可放大。R287首段在页底，原图续29页。",
+      "embedded_image_resolution": [
+        {
+          "embedded_pixel_width": 1466,
+          "embedded_pixel_height": 827,
+          "display_width_pdf_points": 422.19,
+          "display_height_pdf_points": 238.16
+        }
+      ]
+    },
+    {
+      "chapter": "02",
+      "pdf_page_1_based": 29,
+      "render_path": ".build/figure-book-qa/page-029.png",
+      "viewed_original_render": true,
+      "asset_ids": [
+        "ch02-r287-fig-4"
+      ],
+      "formal_short_caption_same_page": true,
+      "axis_legend_subpanel_clipping_detected": false,
+      "overlap_or_page_overflow_detected": false,
+      "first_discussion_sequence": "continuous; original figure follows the corresponding first detailed paragraph, sometimes after a normal page break",
+      "notes": "R287重建、四截面、10mm标尺及MTF两轴完整；原图、短图注和解读同页；R286首段跨到30页，图随后。",
+      "embedded_image_resolution": [
+        {
+          "embedded_pixel_width": 1421,
+          "embedded_pixel_height": 1161,
+          "display_width_pdf_points": 409.23,
+          "display_height_pdf_points": 334.35
+        }
+      ]
+    },
+    {
+      "chapter": "02",
+      "pdf_page_1_based": 30,
+      "render_path": ".build/figure-book-qa/page-030.png",
+      "viewed_original_render": true,
+      "asset_ids": [
+        "ch02-r286-fig-5"
+      ],
+      "formal_short_caption_same_page": true,
+      "axis_legend_subpanel_clipping_detected": false,
+      "overlap_or_page_overflow_detected": false,
+      "first_discussion_sequence": "continuous; original figure follows the corresponding first detailed paragraph, sometimes after a normal page break",
+      "notes": "R2861kHz横轴、MBq纵轴、天然/富集和母子核标签完整；短图注和解读同页，前页首段延续不打断论证。",
+      "embedded_image_resolution": [
+        {
+          "embedded_pixel_width": 796,
+          "embedded_pixel_height": 452,
+          "display_width_pdf_points": 229.24,
+          "display_height_pdf_points": 130.17
+        }
+      ]
+    },
+    {
+      "chapter": "02",
+      "pdf_page_1_based": 31,
+      "render_path": ".build/figure-book-qa/page-031.png",
+      "viewed_original_render": true,
+      "asset_ids": [
+        "ch02-r380-fig-9"
+      ],
+      "formal_short_caption_same_page": true,
+      "axis_legend_subpanel_clipping_detected": false,
+      "overlap_or_page_overflow_detected": false,
+      "first_discussion_sequence": "continuous; original figure follows the corresponding first detailed paragraph, sometimes after a normal page break",
+      "notes": "R380照片、两模块二维信号图、四层对照/相对差异全部完整；小字/通道编号密集，应放大阅读，非裁切。首次详细介绍、图、图注和解读均在同页。",
+      "embedded_image_resolution": [
+        {
+          "embedded_pixel_width": 1296,
+          "embedded_pixel_height": 1022,
+          "display_width_pdf_points": 373.23,
+          "display_height_pdf_points": 294.32
+        }
+      ]
+    },
+    {
+      "chapter": "03",
+      "pdf_page_1_based": 37,
+      "render_path": ".build/figure-book-qa/page-037.png",
+      "viewed_original_render": true,
+      "asset_ids": [
+        "ch03-r035-fig-1"
+      ],
+      "formal_short_caption_same_page": true,
+      "axis_legend_subpanel_clipping_detected": false,
+      "overlap_or_page_overflow_detected": false,
+      "first_discussion_sequence": "continuous; original figure follows the corresponding first detailed paragraph, sometimes after a normal page break",
+      "notes": "R035实验示意、理论/实验区分、能谱轴、gamma任意单位计数色标完整；模型小字需放大。首次详细介绍、图、短图注、解读同页。",
+      "embedded_image_resolution": [
+        {
+          "embedded_pixel_width": 1723,
+          "embedded_pixel_height": 886,
+          "display_width_pdf_points": 487.3,
+          "display_height_pdf_points": 250.58
+        }
+      ]
+    },
+    {
+      "chapter": "03",
+      "pdf_page_1_based": 38,
+      "render_path": ".build/figure-book-qa/page-038.png",
+      "viewed_original_render": true,
+      "asset_ids": [
+        "ch03-r035-fig-5"
+      ],
+      "formal_short_caption_same_page": true,
+      "axis_legend_subpanel_clipping_detected": false,
+      "overlap_or_page_overflow_detected": false,
+      "first_discussion_sequence": "continuous; original figure follows the corresponding first detailed paragraph, sometimes after a normal page break",
+      "notes": "R035Bayesfactor对数刻度、左右模型、灰B=1线及十发三角完整；短图注、解读同页；R385首次段落在页底，图顺接39页。",
+      "embedded_image_resolution": [
+        {
+          "embedded_pixel_width": 872,
+          "embedded_pixel_height": 543,
+          "display_width_pdf_points": 251.12,
+          "display_height_pdf_points": 156.38
+        }
+      ]
+    },
+    {
+      "chapter": "03",
+      "pdf_page_1_based": 39,
+      "render_path": ".build/figure-book-qa/page-039.png",
+      "viewed_original_render": true,
+      "asset_ids": [
+        "ch03-r385-fig-5",
+        "ch03-r393-figure-1"
+      ],
+      "formal_short_caption_same_page": true,
+      "axis_legend_subpanel_clipping_detected": false,
+      "overlap_or_page_overflow_detected": false,
+      "first_discussion_sequence": "continuous; original figure follows the corresponding first detailed paragraph, sometimes after a normal page break",
+      "notes": "R385两图的强度图例、单位、理论曲线/预测重建和误差条完整。R393三通道布局完整。两图各自短图注同页；R393长解读续40页首，随后电子谱，顺序连续。",
+      "embedded_image_resolution": [
+        {
+          "embedded_pixel_width": 1744,
+          "embedded_pixel_height": 630,
+          "display_width_pdf_points": 487.28,
+          "display_height_pdf_points": 176.02
+        },
+        {
+          "embedded_pixel_width": 1380,
+          "embedded_pixel_height": 549,
+          "display_width_pdf_points": 397.42,
+          "display_height_pdf_points": 158.1
+        }
+      ]
+    },
+    {
+      "chapter": "03",
+      "pdf_page_1_based": 40,
+      "render_path": ".build/figure-book-qa/page-040.png",
+      "viewed_original_render": true,
+      "asset_ids": [
+        "ch03-r393-figure-2"
+      ],
+      "formal_short_caption_same_page": true,
+      "axis_legend_subpanel_clipping_detected": false,
+      "overlap_or_page_overflow_detected": false,
+      "first_discussion_sequence": "continuous; original figure follows the corresponding first detailed paragraph, sometimes after a normal page break",
+      "notes": "R393设计谱的GeV横轴、每200MeV电子数纵轴、全部a0标签和误差条完整；短图注和完整解读同页；前页布局长解读在页首自然续接。",
+      "embedded_image_resolution": [
+        {
+          "embedded_pixel_width": 1348,
+          "embedded_pixel_height": 880,
+          "display_width_pdf_points": 388.21,
+          "display_height_pdf_points": 253.43
+        }
+      ]
+    },
+    {
+      "chapter": "03",
+      "pdf_page_1_based": 41,
+      "render_path": ".build/figure-book-qa/page-041.png",
+      "viewed_original_render": true,
+      "asset_ids": [
+        "ch03-r392-fig-3"
+      ],
+      "formal_short_caption_same_page": true,
+      "axis_legend_subpanel_clipping_detected": false,
+      "overlap_or_page_overflow_detected": false,
+      "first_discussion_sequence": "continuous; original figure follows the corresponding first detailed paragraph, sometimes after a normal page break",
+      "notes": "R392五个椭圆率面板、各自10^-3标度、概率/干涉图例、百分比与未分辨短横线完整；多列小字密集，可放大。首次详细介绍、图、短图注和解读同页。",
+      "embedded_image_resolution": [
+        {
+          "embedded_pixel_width": 1751,
+          "embedded_pixel_height": 439,
+          "display_width_pdf_points": 487.29,
+          "display_height_pdf_points": 122.17
+        }
+      ]
+    }
+  ],
+  "additional_visual_pages": [
+    {
+      "pdf_page_1_based": 19,
+      "render_path": ".build/figure-book-qa/page-019-acceleration-continuation.png",
+      "notes": "图01-5完整长解读在页顶；R285首次详细段落在页底，接20页原图。"
+    }
+  ],
+  "additional_text_only_pages": [
+    25,
+    36
+  ],
+  "limitations": [
+    "仅覆盖01/02/03全部原图页和指定续接内容，未复核全144页。",
+    "本次是PDF排版/可读性检查，不重新验证论文模型、实验结果或逐篇全文内容。",
+    "整页PNG约120dpi用于检查；高密度原图在打印/小屏幕默认缩放下的小字需要放大，保留嵌入图的较高像素分辨率。"
+  ],
+  "conclusion": "18幅原图的正式短图注均与图同页，未发现轴/图例裁断、重叠、溢页或插入主题失序；存在已记录的非阻断小字密度和长解读续页。"
+}

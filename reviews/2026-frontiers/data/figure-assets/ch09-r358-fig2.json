@@ -1,0 +1,31 @@
+{
+  "asset_id": "ch09-r358-fig2",
+  "kind": "paper_figure_excerpt",
+  "chapter": "09",
+  "ref": "R358",
+  "source_title": "Strong Nonlinear Alfvén Wave Interactions in a Laboratory Plasma",
+  "source_url": "https://arxiv.org/abs/2609.17162",
+  "source_pdf": "daily/2026-09-17/pdfs/Chen et al. - 2026 - Strong nonlinear Alfven wave interactions.pdf",
+  "source_pdf_sha256": "80747200458a227619fa7434c5c95c522db5d410886258b13dfcf7e0c9e363a3",
+  "original_figure": "Fig2",
+  "source_page_1_based": 4,
+  "crop_box_pdf_points": [
+    51.0,
+    50.0,
+    565.0,
+    377.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch09/r358-fig2.png",
+  "pixel_width": 1785,
+  "pixel_height": 1137,
+  "asset_sha256": "90f91d7dbb99d6f0cbcb8103cdf45f894536087c181346d9dced8811cd71b850",
+  "title": "同向与反向Alfvén波的二次非线性",
+  "source_caption_summary": "六子图比较谐波、和频模随双波幅度积变化",
+  "evidence_type": "实验磁探针幅度扫描与幂律拟合",
+  "purpose_in_review": "说明和频耦合与天线谐波的区别",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "visual_check_notes": "已阅读原PDF图注和邻近正文、查看原页与最终裁图；完整保留所有所选子图、轴刻度、单位、标签及图例。"
+}

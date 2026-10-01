@@ -1,0 +1,31 @@
+{
+  "asset_id": "ch01-r267-fig-4",
+  "kind": "paper_figure_excerpt",
+  "chapter": "01",
+  "ref": "R267",
+  "source_title": "Achieving High Efficiency And Enhanced Beam Quality In Laser Wakefield Acceleration",
+  "source_url": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/achieving-high-efficiency-and-enhanced-beam-quality-in-laser-wakefield-acceleration/C32439AFB51286D2F141A9CBE1BB202E",
+  "source_pdf": "daily/2026-08-27/pdfs/Achieving high efficiency and enhanced beam quality in LWFA.pdf",
+  "source_pdf_sha256": "8fa8274c66bc988c3e21e72f49a761c58c08b2cbc1ae669ac202ca454bd90656",
+  "original_figure": "Fig. 4",
+  "source_page_1_based": 4,
+  "crop_box_pdf_points": [
+    44.0,
+    55.0,
+    532.0,
+    289.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch01/r267-fig-4.png",
+  "pixel_width": 1696,
+  "pixel_height": 814,
+  "asset_sha256": "b714d8b5ffa224c2c218291bd307aa05bc7d63f042b4a31e363a36f43003137a",
+  "title": "脉宽与纵向相空间旋转",
+  "source_caption_summary": "三行依次5/8/15fs，a–l显示四个时刻的纵向相空间、黑色dQ/dE和绿色Ez；z和E轴为μm和MeV，场为TV/m。",
+  "evidence_type": "PIC_simulation",
+  "purpose_in_review": "解释耗尽和去相位影响反啁啾",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "visual_check_notes": "已查看原始整页与最终250 dpi裁图，并直接读取图注及邻近正文；坐标单位、色标数值、图例和全部子图标签完整。仅裁取原图区域，保留原始图像、曲线、配色与标尺。实验/模拟/反演条件在章节逐图解读中明确；贴边标签的裁框已扩大后重新查看。"
+}

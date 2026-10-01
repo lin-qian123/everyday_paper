@@ -1,0 +1,33 @@
+{
+  "asset_id": "ch06-r268-fig-5",
+  "kind": "paper_figure_excerpt",
+  "chapter": "06",
+  "ref": "R268",
+  "source_title": "Millisecond-Scale Neural Operator Surrogates for Double-Null Free-Boundary Grad-Shafranov Equilibria",
+  "source_url": "https://arxiv.org/abs/2608.05555",
+  "source_pdf": "daily/2026-08-10/pdfs/Krastev - 2026 - Neural operator Grad Shafranov equilibria.pdf",
+  "source_pdf_sha256": "22cf3c00dac7d43f79165cf2413c56df0eac597baab1679f29c9433afe2fa00a",
+  "original_figure": "Fig.5",
+  "source_page_1_based": 8,
+  "crop_box_pdf_points": [
+    170.0,
+    50.0,
+    445.0,
+    561.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch06/r268-fig-5.png",
+  "pixel_width": 956,
+  "pixel_height": 1775,
+  "asset_sha256": "84e3abc8919769f746f0a29fc9b23c192acc317787fc2678b12d6a1ff0ac4d96",
+  "title": "磁通误差与X点几何误差",
+  "source_caption_summary": "三行分别为低误差、近中位和近p95样本；每行依次是FreeGS磁通、FNO磁通和逐点绝对误差，颜色采用Wb及独立误差色标。",
+  "evidence_type": "作者单装置固定拓扑代理测试",
+  "purpose_in_review": "说明小全场范数不保证关键几何误差同样小",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "review_explanation": "**逐图解读。** 九幅图共用 $R,Z$ 米坐标；每行左、中、右依次为FreeGS参考磁通、FNO磁通和绝对误差 $|\\Delta\\psi|$。前两列采用同一Wb色标，误差列采用单独的 $10^{-4}$ Wb尺度，不能凭颜色相似度跨色标比较。上、中、下行分别选低误差、近中位和近p95样本，其全场相对 $L_2$ 为0.024%、0.047%、0.097%。每一行前两幅核心轮廓相近，右幅揭示误差向分离面和X点相关区域集中；青色为真实分离面，洋红为预测。上行的几何偏差较小，中行略增，下行虽仍保持小全场范数，框内Hausdorff距离已达4.816 cm。Hausdorff度量最坏局部偏差，不能和平均最近点误差混用。图中壁和线圈位置固定，X点目标本来就是输入，三行也只是500个留出样本中的代表，不是三个实机放电。它支持在所选双零位族内检查代理几何，而不证明新拓扑、另一装置或真实诊断反演同样准确。[R268](../appendices/reference-catalog.md#r268)",
+  "review_explanation_han_chars": 259,
+  "visual_check_notes": "已用view_image分别查看源PDF整页预览与最终250dpi原图区；阅读对应图注及邻近正文。核对所有子图/箭头标签、坐标单位、色标、图例和图中归一化口径，未改曲线或标注。"
+}

@@ -1,0 +1,33 @@
+{
+  "asset_id": "ch08-r185-fig-11",
+  "kind": "paper_figure_excerpt",
+  "chapter": "08",
+  "ref": "R185",
+  "source_title": "Absolute Calibration of a Time-Resolved High Resolution X-ray Spectrometer for the National Ignition Facility (invited)",
+  "source_url": "https://arxiv.org/abs/2607.05766",
+  "source_pdf": "daily/2026-07-13/pdfs/Lan Gao et al. - 2026 - Absolute Calibration of a Time-Resolved High Resolution X-ray Spectrometer.pdf",
+  "source_pdf_sha256": "f78db79a7ee679f5aad5f9988bf8645245cfdccb754e5bae1210b2645961985a",
+  "original_figure": "Fig.11",
+  "source_page_1_based": 6,
+  "crop_box_pdf_points": [
+    319.0,
+    52.0,
+    564.0,
+    243.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch08/r185-fig-11.png",
+  "pixel_width": 852,
+  "pixel_height": 664,
+  "asset_sha256": "4e424075f1a8afce4b0127f800fad99973f1e0073e0d582f9d389d43a102dfcc",
+  "title": "晶体谱仪的绝对通量换算",
+  "source_caption_summary": "石英与Ge晶体的吞吐转换因子以keV和sr keV/mm为轴；Pilatus曲线与Amptek离散测点进行独立探测器交叉检查。",
+  "evidence_type": "实验室X射线绝对标定",
+  "purpose_in_review": "说明能区相关响应和标定传递链",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "review_explanation": "**逐图解读。** 横轴是X射线能量keV，纵轴是晶体吞吐转换因子，单位 $\\mathrm{sr\\,keV/mm}$，并带 $10^{-7}$ 倍率；它来自焦面每毫米的衍射光子强度除以源的每keV、每sr光子强度，所以是带单位的几何/谱响应，不是0到1的量子效率。红、蓝曲线分别为Pilatus测得并修正效率的Ge与石英响应，黑点是另一Amptek探测器在若干位置的独立测量。石英覆盖约13 keV，Ge覆盖约15 keV；带内平台约 $5\\times10^{-8}$ 和 $1.2\\times10^{-7}$，边缘急降说明同样光子谱不能用全能区单常数换算。黑点与连续曲线接近，使源谱、空间色散和探测效率之间有交叉约束；局部起伏仍可含晶体表面缺陷。它是实验室晶体支路的绝对标定结果，最终NIF记录还要接上streak相机、滤片及几何传递，并非图中已直接测得热斑温密或完整单发谱的不确定度。[R185](../appendices/reference-catalog.md#r185)",
+  "review_explanation_han_chars": 245,
+  "visual_check_notes": "已用view_image分别查看源PDF整页预览与最终250dpi原图区；阅读对应图注及邻近正文。核对所有子图/箭头标签、坐标单位、色标、图例和图中归一化口径，未改曲线或标注。"
+}

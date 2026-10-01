@@ -1,0 +1,31 @@
+{
+  "asset_id": "ch09-r355-fig14",
+  "kind": "paper_figure_excerpt",
+  "chapter": "09",
+  "ref": "R355",
+  "source_title": "A self-consistent phasor-PIC algorithm for bidirectional inductive-capacitive coupling in ICPs",
+  "source_url": "https://arxiv.org/abs/2609.15043",
+  "source_pdf": "daily/2026-09-16/pdfs/Chen et al. - 2026 - Self-consistent phasor-PIC algorithm for ICPs.pdf",
+  "source_pdf_sha256": "5318874980d5c739970d222ff0becced7b472f522210871797d31342e5ee05aa",
+  "original_figure": "Fig14",
+  "source_page_1_based": 30,
+  "crop_box_pdf_points": [
+    73.0,
+    78.0,
+    537.0,
+    389.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch09/r355-fig14.png",
+  "pixel_width": 1612,
+  "pixel_height": 1081,
+  "asset_sha256": "76b9d5f94dfae879434d97b8c71a3a735603c16bbae882ba355c8aea0ed57294",
+  "title": "射频源双向耦合的周期功率预算",
+  "source_caption_summary": "60W与100W启动及稳态功率分项与涨落",
+  "evidence_type": "作者GEC几何phasor-PIC/MCC电路耦合模拟",
+  "purpose_in_review": "解释端口功率、电子加热和铜损差别",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "visual_check_notes": "已阅读原PDF图注和邻近正文、查看原页与最终裁图；完整保留所有所选子图、轴刻度、单位、标签及图例。"
+}

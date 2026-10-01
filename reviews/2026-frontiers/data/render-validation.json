@@ -2,53 +2,625 @@
   "status": "passed",
   "checked_date": "2026-10-01",
   "content_cutoff": "2026-09-30",
-  "pdf_pages": 103,
-  "pdf_bytes": 1257881,
-  "pdf_sha256": "64ce46dfbd3b2ed9f7c35cc9f483b160da3ce456c0c61bbaf2443fc1326b3107",
+  "pdf_pages": 144,
+  "pdf_bytes": 21173845,
+  "pdf_sha256": "2ce3c5d3b7a6bf3bea9e0fe563d8cc8c7370c9162bef24d41ec93439505a2ec6",
   "compiler_diagnostics_bytes": 0,
   "empty_text_pages": [],
-  "internal_pdf_links": 707,
+  "internal_pdf_links": 763,
   "invalid_internal_pdf_destinations": [],
-  "final_visual_sampled_pages": [
-    1,
-    4,
-    31,
-    49,
-    66,
-    85,
-    90,
-    93,
-    103
+  "text_bounds_outliers": [],
+  "image_bounds_outliers": [],
+  "figure_caption_count": 64,
+  "pdf_header_verified": true,
+  "pdftotext_layout_bytes": 471612,
+  "html_image_count": 64,
+  "html_images_with_existing_local_asset_and_full_size_link": 64,
+  "all_figure_caption_numbers_once": true,
+  "figure_locations": [
+    {
+      "figure": 1,
+      "asset_id": "research-map",
+      "chapter": "00",
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "figure": 2,
+      "asset_id": "teaching-plasma-oscillator",
+      "chapter": "00",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "figure": 3,
+      "asset_id": "teaching-debye-screening",
+      "chapter": "00",
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "figure": 4,
+      "asset_id": "teaching-cold-dispersion",
+      "chapter": "00",
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "figure": 5,
+      "asset_id": "teaching-a0-chi-map",
+      "chapter": "00",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "figure": 6,
+      "asset_id": "teaching-density-scales",
+      "chapter": "00",
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "figure": 7,
+      "asset_id": "evidence-chain",
+      "chapter": "00",
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "figure": 8,
+      "asset_id": "ch01-r374-fig-2",
+      "chapter": "01",
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "figure": 9,
+      "asset_id": "ch01-r374-fig-3",
+      "chapter": "01",
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "figure": 10,
+      "asset_id": "ch01-r314-fig-3",
+      "chapter": "01",
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "figure": 11,
+      "asset_id": "ch01-r144-fig-1",
+      "chapter": "01",
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "figure": 12,
+      "asset_id": "ch01-r267-fig-4",
+      "chapter": "01",
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "figure": 13,
+      "asset_id": "ch01-r285-fig-6",
+      "chapter": "01",
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "figure": 14,
+      "asset_id": "ch02-r138-fig-1",
+      "chapter": "02",
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "figure": 15,
+      "asset_id": "ch02-r138-fig-5",
+      "chapter": "02",
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "figure": 16,
+      "asset_id": "ch02-r230-fig-2",
+      "chapter": "02",
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "figure": 17,
+      "asset_id": "ch02-r287-fig-4",
+      "chapter": "02",
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "figure": 18,
+      "asset_id": "ch02-r286-fig-5",
+      "chapter": "02",
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "figure": 19,
+      "asset_id": "ch02-r380-fig-9",
+      "chapter": "02",
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "figure": 20,
+      "asset_id": "ch03-r035-fig-1",
+      "chapter": "03",
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "figure": 21,
+      "asset_id": "ch03-r035-fig-5",
+      "chapter": "03",
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "figure": 22,
+      "asset_id": "ch03-r385-fig-5",
+      "chapter": "03",
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "figure": 23,
+      "asset_id": "ch03-r393-figure-1",
+      "chapter": "03",
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "figure": 24,
+      "asset_id": "ch03-r393-figure-2",
+      "chapter": "03",
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "figure": 25,
+      "asset_id": "ch03-r392-fig-3",
+      "chapter": "03",
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "figure": 26,
+      "asset_id": "ch04-r039-fig7",
+      "chapter": "04",
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "figure": 27,
+      "asset_id": "ch04-r383-fig3",
+      "chapter": "04",
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "figure": 28,
+      "asset_id": "ch04-r274-fig6",
+      "chapter": "04",
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "figure": 29,
+      "asset_id": "ch04-r112-fig5",
+      "chapter": "04",
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "figure": 30,
+      "asset_id": "ch04-r363-fig1",
+      "chapter": "04",
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "figure": 31,
+      "asset_id": "ch04-r388-fig3",
+      "chapter": "04",
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "figure": 32,
+      "asset_id": "ch05-r357-fig-1",
+      "chapter": "05",
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "figure": 33,
+      "asset_id": "ch05-r357-fig-3",
+      "chapter": "05",
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "figure": 34,
+      "asset_id": "ch05-r131-fig-2",
+      "chapter": "05",
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "figure": 35,
+      "asset_id": "ch05-r330-fig-5",
+      "chapter": "05",
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "figure": 36,
+      "asset_id": "ch05-r139-fig-8",
+      "chapter": "05",
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "figure": 37,
+      "asset_id": "ch05-r369-fig-1",
+      "chapter": "05",
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "figure": 38,
+      "asset_id": "ch06-r133-fig-3",
+      "chapter": "06",
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "figure": 39,
+      "asset_id": "ch06-r256-fig-5",
+      "chapter": "06",
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "figure": 40,
+      "asset_id": "ch06-r268-fig-5",
+      "chapter": "06",
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "figure": 41,
+      "asset_id": "ch06-r318-fig-1-1",
+      "chapter": "06",
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "figure": 42,
+      "asset_id": "ch06-r318-fig-4-1",
+      "chapter": "06",
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "figure": 43,
+      "asset_id": "ch06-r308-fig-4",
+      "chapter": "06",
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "figure": 44,
+      "asset_id": "ch07-r142-fig10",
+      "chapter": "07",
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "figure": 45,
+      "asset_id": "ch07-r239-fig2",
+      "chapter": "07",
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "figure": 46,
+      "asset_id": "ch07-r278-fig9",
+      "chapter": "07",
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "figure": 47,
+      "asset_id": "ch07-r342-fig3",
+      "chapter": "07",
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "figure": 48,
+      "asset_id": "ch07-r318-fig3-1",
+      "chapter": "07",
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "figure": 49,
+      "asset_id": "ch07-r390-fig8",
+      "chapter": "07",
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "figure": 50,
+      "asset_id": "ch08-r067-fig-3",
+      "chapter": "08",
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "figure": 51,
+      "asset_id": "ch08-r185-fig-11",
+      "chapter": "08",
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "figure": 52,
+      "asset_id": "ch08-r219-fig-4",
+      "chapter": "08",
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "figure": 53,
+      "asset_id": "ch08-r275-fig-5",
+      "chapter": "08",
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "figure": 54,
+      "asset_id": "ch08-r287-fig-2",
+      "chapter": "08",
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "figure": 55,
+      "asset_id": "ch08-r393-fig-8",
+      "chapter": "08",
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "figure": 56,
+      "asset_id": "ch09-r350-fig5",
+      "chapter": "09",
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "figure": 57,
+      "asset_id": "ch09-r358-fig2",
+      "chapter": "09",
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "figure": 58,
+      "asset_id": "ch09-r384-fig8",
+      "chapter": "09",
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "figure": 59,
+      "asset_id": "ch09-r347-fig11",
+      "chapter": "09",
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "figure": 60,
+      "asset_id": "ch09-r370-fig8",
+      "chapter": "09",
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "figure": 61,
+      "asset_id": "ch09-r355-fig14",
+      "chapter": "09",
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "figure": 62,
+      "asset_id": "teaching-phase-space-acceptance",
+      "chapter": "10",
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "figure": 63,
+      "asset_id": "teaching-inverse-ambiguity",
+      "chapter": "10",
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "figure": 64,
+      "asset_id": "teaching-rollout-error",
+      "chapter": "10",
+      "pdf_pages": [
+        104
+      ]
+    }
   ],
-  "prior_layout_visual_sampled_pages": [
-    1,
-    3,
+  "final_visual_inspected_figure_pages": [
     4,
+    5,
     6,
+    7,
+    8,
     9,
-    11,
+    10,
     15,
+    16,
     17,
-    21,
-    23,
+    18,
+    20,
+    26,
     27,
+    28,
     29,
-    33,
-    35,
+    30,
+    31,
+    37,
+    38,
     39,
+    40,
     41,
     45,
+    46,
     47,
+    48,
+    49,
     50,
-    52,
+    55,
     56,
     58,
-    62,
-    64,
+    59,
+    60,
+    61,
     66,
-    68
+    67,
+    68,
+    69,
+    70,
+    72,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    102,
+    103,
+    104
   ],
-  "final_text_bounds_check": "All 103 pages checked for text outside 42 pt page edges; no outliers.",
-  "visual_findings": "Fixed CJK font collection index, missing Unicode glyphs, slash-separated reference wrapping and overlong bibliography lines. Final sampled figures, tables, formulas, contents and references are readable.",
-  "scope": "Compilation, text presence, internal link destinations, text bounds and sampled rendered pages; not a page-by-page visual review, scientific validation or paper reproduction."
+  "final_visual_inspected_figure_page_count": 62,
+  "additional_visual_pages": [
+    1,
+    2,
+    3,
+    19,
+    144
+  ],
+  "visual_review_records": [
+    "figure-book-qa-root.json",
+    "figure-book-qa-acceleration.json",
+    "figure-book-qa-hedp.json",
+    "figure-book-qa-methods.json"
+  ],
+  "caption_fix_and_visual_transfer": {
+    "previous_pdf_sha256": "85f8d7bdef5ff363c664909488eb016793c67798b46dcf40b9ec44250634d49b",
+    "final_pdf_sha256": "2ce3c5d3b7a6bf3bea9e0fe563d8cc8c7370c9162bef24d41ec93439505a2ec6",
+    "pages": 144,
+    "pixel_changed_pages": [
+      60
+    ],
+    "unchanged_page_count": 143,
+    "comparison": "Each page rendered with PyMuPDF at 72 dpi; raw RGB pixel SHA-256 comparison before/after R139 source-caption addition.",
+    "changed_page_final_reviewed": 60,
+    "resolution": "R139 source information added to the same-page short caption. All other 143 rendered pages have identical RGB pixels at 72 dpi; preceding team visual checks therefore transfer to those pages. Final changed page inspected separately."
+  },
+  "visual_findings": "Selected figure crops and all 62 figure pages checked across reviewers. No cropped axes/legends or figure/short-caption separation found. Dense original multi-panel labels require zoom; source watermarks are retained. Long interpretation paragraphs may continue to the next page.",
+  "scope": "Final compilation, PDF/text presence, 64 captions, image/link paths, all-page bounds and all selected figure pages plus contents/reference samples. HTML paths checked, not browser-render QA. Not a full 144-page visual audit, scientific validation or author-code reproduction."
 }

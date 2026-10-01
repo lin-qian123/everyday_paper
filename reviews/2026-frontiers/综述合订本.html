@@ -363,6 +363,7 @@ id="toc-一个适合基础较少读者的八周顺序">9.
 <p>正文包括共同基础、九个主题和跨方向学习路线。每章引用使用统一R编号，末尾附全库精简书目。完整路径、逐条覆盖矩阵、阅读缺口与来源核查在
 reviews/2026-frontiers/ 的Markdown及data目录。</p>
 <p>基础推导为教学整理；实验、反演、作者模拟与条件化理论保留各自边界。本版没有重跑相关物理代码、模型训练或绝对标定。部分早期笔记存在模板公式/参数/日期差异，新综述以重点原文核查为准。</p>
+<p>2026-10-01图像补充版：正文包含54幅关键论文原图摘录（来自45篇论文）和10幅教学图。原图保留论文图号和来源，新增教学图明确区分解析示例与论文结果。图像导航、原PDF页及裁框见appendices/figure-guide.md与data/figure-manifest.json。</p>
 <h1 id="阅读地图与共同基础从等离子体到今年的论文">00 ·
 阅读地图与共同基础：从等离子体到今年的论文</h1>
 <p>本章是九个主题的公共入口。先建立一套判断参数、模型和证据的方法，再进入专题章，就不必在每篇论文中从缩写重新开始。以下推导是教学整理；除明确引用的论文发现外，不代表本仓库做了新的实验或计算。</p>
@@ -371,8 +372,8 @@ reviews/2026-frontiers/ 的Markdown及data目录。</p>
 QED 研究高能粒子与强场作用时的量子辐射；HEDP/ICF
 研究压缩、加热和燃烧；磁约束研究长时间保持高温等离子体。PIC、机器学习和诊断穿过这些方向，承担求解、控制与证据建立的工作。</p>
 <figure>
-<img src="figures/research-map.svg"
-alt="图1：研究链与专题关系。箭头表示能量或研究方法的连接，不表示所有路线都已实现。" />
+<a href="figures/research-map.svg" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/research-map.svg"
+alt="图1：研究链与专题关系。箭头表示能量或研究方法的连接，不表示所有路线都已实现。" /></a>
 <figcaption
 aria-hidden="true">图1：研究链与专题关系。箭头表示能量或研究方法的连接，不表示所有路线都已实现。</figcaption>
 </figure>
@@ -421,6 +422,14 @@ class="math inline">\(\omega_{pe}\simeq5.64\times10^{13}\,\mathrm{s^{-1}}\)</spa
 <span class="math inline">\(111\,\mathrm{fs}\)</span>，<span
 class="math inline">\(\lambda_p\simeq33.4\,\mu\mathrm
 m\)</span>。因此几十飞秒激光可以有效激发这一尺度的电子尾波。升高密度会缩短周期并增大特征场，却也常缩短加速长度，不能只看场更大。</p>
+<figure>
+<a href="figures/teaching/plasma-oscillator.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/teaching/plasma-oscillator.png"
+alt="教学图：电子位移如何产生恢复力。" /></a>
+<figcaption
+aria-hidden="true">教学图：电子位移如何产生恢复力。</figcaption>
+</figure>
+<p><strong>逐图理解。</strong>
+(a)蓝色离子层固定，紫色电子层沿水平方向右移；图中的上下错开仅为分开标签，并非电子离开了离子平面。真正产生恢复场的是两端的未抵消电荷，因此电子受到向左的力。(b)横轴为经过的电子振荡周期数，纵轴为位移和速度分别除以各自幅值后的无量纲量。位移最大时速度为零，经过平衡位置时速度最大，二者相差四分之一周期。它把“集体电场像弹簧”变成可算的相位关系。曲线是冷、无耗散、小位移方程的解析解，既不是尾波的全部三维结构，也不是一篇论文的实验轨迹。</p>
 <h3 id="屏蔽长度与温度">2.2 屏蔽长度与温度</h3>
 <p>对热平衡电子，弱静电势满足玻尔兹曼关系</p>
 <p><span class="math display">\[
@@ -449,6 +458,18 @@ class="math inline">\(k_B\)</span>。</p>
 class="math inline">\(N_D=(4\pi/3)n_e\lambda_D^3\)</span>
 很大时，平均场和弱耦合图像通常较好。暖稠密物质可能同时出现强离子关联、电子简并和部分电离，这时必须进入
 HEDP 章讨论的 EOS、原子物理和输运模型。</p>
+<figure>
+<a href="figures/teaching/debye-screening.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/teaching/debye-screening.png"
+alt="教学图：几何衰减与集体屏蔽是两个因素。" /></a>
+<figcaption
+aria-hidden="true">教学图：几何衰减与集体屏蔽是两个因素。</figcaption>
+</figure>
+<p><strong>坐标与物理意义。</strong>
+横轴是距离除以Debye长度；纵轴为电势除以 <span
+class="math inline">\(q/(4\pi\epsilon_0\lambda_D)\)</span>，采用对数刻度。灰虚线只包含裸库仑势的
+<span class="math inline">\(1/r\)</span>
+几何衰减，蓝线还包含电子重排造成的指数屏蔽。橙虚线处二者相差因子 <span
+class="math inline">\(e^{-1}\)</span>，距离增加后相差越来越大。对数轴上相差一个大刻度意味着十倍，不能当作线性差值。此图说明为什么大尺度体区常近似准中性，但不能据此断言激光前沿、非平衡鞘层或暖稠密体系也服从这一静态、弱势、经典热平衡模型。</p>
 <h3 id="为什么会有临界密度">2.3 为什么会有临界密度</h3>
 <p>冷、无碰撞、无磁场等离子体中，令电场随时间为 <span
 class="math inline">\(e^{-i\omega t}\)</span>。电子动量方程给出 <span
@@ -469,6 +490,17 @@ n_c=\frac{\epsilon_0m_e\omega_0^2}{e^2}
 \]</span></p>
 <p>对于 <span class="math inline">\(0.8\,\mu\mathrm m\)</span>，<span
 class="math inline">\(n_c\simeq1.74\times10^{21}\,\mathrm{cm^{-3}}\)</span>。低于它称欠密，高于它称过密，接近它称近临界。相对论运动会改变有效惯性和传播条件；密度也会随预脉冲、电离和膨胀变化。论文中的“近临界泡沫”必须问清是初始电子密度、预电离之后密度，还是主脉冲作用时的瞬时密度。</p>
+<figure>
+<a href="figures/teaching/cold-dispersion.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/teaching/cold-dispersion.png"
+alt="教学图：冷等离子体的横电磁波色散与群速度。" /></a>
+<figcaption
+aria-hidden="true">教学图：冷等离子体的横电磁波色散与群速度。</figcaption>
+</figure>
+<p><strong>逐子图解读。</strong> (a)横轴为 <span
+class="math inline">\(ck/\omega_{pe}\)</span>、纵轴为 <span
+class="math inline">\(\omega/\omega_{pe}\)</span>，两者无量纲。真空直线从零开始，等离子体曲线从截止频率1开始；它只画实数波数的传播分支，低于截止频率的倏逝场没有画成传播波。(b)固定激光频率，横轴是
+<span class="math inline">\(n_e/n_c\)</span>，纵轴是 <span
+class="math inline">\(v_g/c=\sqrt{1-n_e/n_c}\)</span>，显示接近临界密度时脉冲包络传播变慢。这为尾场去相位和近临界相互作用提供背景，但相速度、群速度、粒子速度是不同量。相对论透明、自聚焦、磁场和碰撞均未包含，不能用此曲线直接判断强脉冲穿透厚靶的结果。</p>
 <h2 id="激光有多强能量功率强度与-a₀">3. 激光有多强：能量、功率、强度与
 a₀</h2>
 <p>焦点强度大致是功率除有效面积，功率大致是脉冲能量除持续时间。准确数值取决于时间与空间分布；FWHM、<span
@@ -496,6 +528,23 @@ class="math inline">\(a_0\)</span> 判断强激光的经典非线性；电子量
 Schwinger 场。高能电子迎头碰撞可以在并不极端的实验室强度下增大 <span
 class="math inline">\(\chi_e\)</span>。强场 QED 章从 Lorentz
 变换解释这个区别。</p>
+<figure>
+<a href="figures/teaching/a0-chi-map.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/teaching/a0-chi-map.png"
+alt="教学图：a₀与χₑ在迎头碰撞中的不同控制作用。" /></a>
+<figcaption
+aria-hidden="true">教学图：a₀与χₑ在迎头碰撞中的不同控制作用。</figcaption>
+</figure>
+<p><strong>先读两条轴。</strong> 横轴为激光峰值强度，单位 <span
+class="math inline">\(\mathrm{W/cm^2}\)</span>；纵轴为入射电子动能，单位GeV，两轴均为对数。黑虚线是固定0.8微米、线偏振约定下的
+<span
+class="math inline">\(a_0=1\)</span>，与入射电子能量无关；彩色线是相同
+<span class="math inline">\(\chi_e\)</span>
+的组合。超相对论电子迎头遇到平面波时，有量级关系</p>
+<p><span class="math display">\[
+\chi_e\simeq2\gamma a_0\frac{\hbar\omega_0}{m_ec^2},
+\qquad \gamma=1+\frac{K}{m_ec^2}.
+\]</span></p>
+<p>在同一强度下，电子能量越高，静止系有效场越强；沿同一彩线提高电子能量则可降低所需强度。图用上述近似计算，没有拟合论文数据。彩线不是某个实验已经达到的边界，更不是“超过便一定可测”的阈值；焦点重叠、辐射导致的能量变化、事件数和本底必须到03/08章一起考虑。</p>
 <h2 id="从单粒子到分布函数">4. 从单粒子到分布函数</h2>
 <p>最底层经典动力学是 Lorentz 力：</p>
 <p><span class="math display">\[
@@ -598,10 +647,22 @@ class="math inline">\(\Gamma=q^2/(4\pi\epsilon_0 a k_BT)\)</span> 中
 <span class="math inline">\(a\)</span> 为粒子间距，<span
 class="math inline">\(T_F\)</span> 是电子 Fermi
 温度。表中没有一个固定阈值能替代完整模型判断，尤其不能仅凭“密度高”断言碰撞、简并和强耦合全都重要。</p>
+<figure>
+<a href="figures/teaching/density-scales.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/teaching/density-scales.png"
+alt="教学图：密度同时改变波长和特征场，不能只比较梯度。" /></a>
+<figcaption
+aria-hidden="true">教学图：密度同时改变波长和特征场，不能只比较梯度。</figcaption>
+</figure>
+<p><strong>如何做量级判断。</strong> 两个子图的横轴都是电子密度，单位
+<span
+class="math inline">\(\mathrm{cm^{-3}}\)</span>、对数刻度。(a)纵轴是等离子体波长，单位微米，随密度的平方根倒数下降；(b)纵轴是冷电子特征场，单位GV/m，随密度的平方根上升。标出的
+<span class="math inline">\(10^{18}\,\mathrm{cm^{-3}}\)</span>
+对应约33.4微米与96
+GV/m。橙线是0.8微米激光的冷临界密度，提示传播条件也在变化。该图只比较公式量级，不宣称所有密度都能提供图中梯度；真实能增益还要乘上可持续的长度，并考虑去相位、耗尽、透明条件、碰撞和物性。</p>
 <h2 id="读论文结果时先辨认五种量">6. 读论文结果时先辨认五种量</h2>
 <figure>
-<img src="figures/evidence-chain.svg"
-alt="图2：观测、响应模型、反演与数值预测的关系。" />
+<a href="figures/evidence-chain.svg" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/evidence-chain.svg"
+alt="图2：观测、响应模型、反演与数值预测的关系。" /></a>
 <figcaption
 aria-hidden="true">图2：观测、响应模型、反演与数值预测的关系。</figcaption>
 </figure>
@@ -913,11 +974,72 @@ href="#r374">R374</a> 的 70 mJ、8.1 fs OPCPA 驱动器产生约 47 MeV、15 pC
 的漂移占主导，提示反馈系统不能只盯单发噪声。PIC
 支持自聚焦使电离注入局域化，但没有证明每个漂移模式的唯一物理原因。<a
 href="https://arxiv.org/abs/2609.26390">官方页</a>，2026-09-22。</p>
+<figure>
+<a href="figures/papers/ch01/r374-fig-2.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch01/r374-fig-2.png"
+alt="R374 原图 2：连续万发束流统计" /></a>
+<figcaption aria-hidden="true">R374 原图
+2：连续万发束流统计</figcaption>
+</figure>
+<p>图 01-1｜100 Hz 加速器的连续万发电荷与指向。<a
+href="#r374">R374，原图 2，PDF 第 4 页</a></p>
+<p>图 (a) 是一发电子的二维角分布，横纵轴为 <span
+class="math inline">\(\theta_x,\theta_y\)</span>，单位
+mrad；色标为单位立体角电荷 <span
+class="math inline">\(dQ/d\Omega\)</span>，单位 pC/sr，并带 <span
+class="math inline">\(10^4\)</span>
+标度。黑虚线圈界定计算束电荷的接受区，因而下面的稳定性针对这个区内的束，而非任意远离核心的晕。图
+(b) 横轴是 10,000 连续发编号，纵轴电荷 pC；蓝点保留逐发涨落，红线平均每
+20 发，显示约 15 pC 周围存在缓慢漂移。图 (c)
+两幅瀑布图分别给水平、竖直投影：角度仍用 mrad，颜色归一化到
+0–1，狭窄亮带的移动反映指向变化。这类归一化剥离了绝对电荷信息，不能用
+(c) 的亮度直接代替 (b)。原文统计电荷 RMS 12%、指向 RMS 约 1.2/1.3
+mrad；它们是不同误差轴。该图把“能连续打出束”升级为有时间窗口、接受区和波动结构的实验数据，尚不足以识别每种慢漂移的唯一成因。</p>
+<figure>
+<a href="figures/papers/ch01/r374-fig-3.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch01/r374-fig-3.png"
+alt="R374 原图 3：逐发能谱与仪器分辨率" /></a>
+<figcaption aria-hidden="true">R374 原图
+3：逐发能谱与仪器分辨率</figcaption>
+</figure>
+<p>图 01-2｜窄谱稳定性与能散反卷积的边界。<a href="#r374">R374，原图
+3，PDF 第 5 页</a></p>
+<p>图 (a) 横轴为炮次，纵轴电子能量 MeV；每发能谱分别归一化，色标 0–1。约
+47 MeV
+的峰形成连续亮带，说明峰位置稳定，但这种处理不能证明电荷同样稳定，也不能排除狭缝接受度之外的粒子变化。图
+(b) 蓝线是平均 <span
+class="math inline">\(dN/dE\)</span>，纵轴任意单位；灰带给逐发 RMS
+波动，红色水平误差条给峰值能量处磁谱仪约 4.8 MeV 的分辨率。实测 FWHM 约
+6.5
+MeV，与仪器宽度相近，所以不能直接把这一宽度认作本征能散。作者用仪器响应卷积
+Lorentzian 谱形，最佳本征 FWHM 约 3.8 MeV，profile-<span
+class="math inline">\(\chi^2\)</span> 给 95% 上限 4.6 MeV，即相对宽度约
+10%。图的作用是把“峰能 RMS
+1.4%”与“单束能散上限”拆开：前者描述峰的位置重复性，后者描述束内分布，并含谱形与响应模型条件。</p>
 <p><strong>③ 低发射度与衍射应用。</strong> <a href="#r314">R314</a>
 以永磁螺线管扫描测得 2.7 MeV 束的归一化发射度约 124
 nm·rad，并获得硅纳米膜多级衍射峰。它说明适合衍射的关键是横向相干性和相空间，而非最高能量。空间电荷、输运中的色差、束长与样品端稳定性仍需分别量化。时间上是
 2026-02-13 初次提交、08-27 的 v2 修订，不能称“八月首次发现”。<a
 href="https://arxiv.org/abs/2602.12765">版本记录</a></p>
+<figure>
+<a href="figures/papers/ch01/r314-fig-3.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch01/r314-fig-3.png"
+alt="R314 原图 3：色散选择与螺线管扫描" /></a>
+<figcaption aria-hidden="true">R314 原图
+3：色散选择与螺线管扫描</figcaption>
+</figure>
+<p>图 01-3｜低发射度来自输运扫描反演。<a href="#r314">R314，原图 3，PDF
+第 4 页</a></p>
+<p>图 (a) 没有色散磁铁时给屏上焦斑，横纵位置单位
+mm、颜色是任意单位强度；宽能谱的不同能量聚焦在不同纵向位置，混在一起会扩大焦斑。图
+(b.i) 加入偶极后，横轴改为能量 MeV、纵轴仍为
+mm，出现“蝴蝶结”；橙虚线选择 2.7 MeV。(b.ii)
+在该能量截取竖直线型，橙线为实测，蓝虚线为 Gaussian
+拟合，强度任意单位。图 (c) 扫描螺线管位置 <span
+class="math inline">\(\delta\)</span>（mm），纵轴是屏上 RMS 宽度 <span
+class="math inline">\(\sigma_y\)</span>（μm）；蓝十字与不同初始源尺寸、几何发射度的
+GPT 曲线共同确定输运解。图 (d) 最优参数为 <span
+class="math inline">\(\sigma_r=3.5\)</span> μm、<span
+class="math inline">\(\epsilon_g=20\)</span> nm·rad，误差条同时包含逐发
+RMS 与成像分辨率，换算得到约 124 nm·rad
+的归一化发射度。图支持选定能量切片的低发射度，并说明单张小焦斑本身不足以测发射度；模型、色差与能量选择必须留在证据链中。</p>
 <p><strong>④ 10 m 放电等离子体源。</strong> <a href="#r344">R344</a>
 展示长 noble-gas 放电源在 AWAKE 质子束下产生可解析自调制，并经历
 &gt;20,000 次放电。调制频率随密度按 <span
@@ -932,6 +1054,29 @@ href="#r144">R144</a>
 class="math inline">\(c\)</span>，同时保持短脉冲和近固定光斑。它改动的是驱动结构，不是简单延长普通高斯束的靶。解析标度与准三维
 PIC
 支持能增益随参与模式数增长；光学模式生成、模式耦合误差、耗尽和注入容差尚待实验。取消去相位仍需支付驱动能量，不构成无限加速。</p>
+<figure>
+<a href="figures/papers/ch01/r144-fig-1.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch01/r144-fig-1.png"
+alt="R144 原图 1：普通与无去相位尾场的比较" /></a>
+<figcaption aria-hidden="true">R144 原图
+1：普通与无去相位尾场的比较</figcaption>
+</figure>
+<p>图 01-4｜让强度峰与能量包络具有不同速度。<a href="#r144">R144，原图
+1，PDF 第 3 页</a></p>
+<p>图 (a)、(b) 都按 <span class="math inline">\(t,t+\Delta t,t+2\Delta
+t\)</span> 排列传播快照；灰色管是等离子体波导，绿色是相对论电子。图中
+<span class="math inline">\(|a|\)</span> 和 <span
+class="math inline">\(E_z\)</span>
+色条只示意横向光场与纵向加速/减速区域，未给定量单位；右侧 <span
+class="math inline">\(\Delta\gamma\)</span> 对 <span
+class="math inline">\(z\)</span>
+曲线也用于解释趋势。普通单频驱动的强度峰随亚光速群速度前进，电子从蓝色加速相位滑入红色减速相位，故能增益先升后降。下排将
+<span class="math inline">\(\omega_0,\omega_1,\omega_2,\omega_3\)</span>
+等波导模式频率按色散关系配置，干涉峰以 <span
+class="math inline">\(c\)</span>
+前进，电子保持在加速相位；黄色大包络仍以小于 <span
+class="math inline">\(c\)</span>
+的群速度移动。关键是强度峰可以由干涉结构形成，并不意味着每一份能量以该峰速度输运。它把去相位限制与耗尽限制分开，是解析/PIC
+方案的机制示意；右图的持续增长没有证明无限能量，也没有给出实验已实现的模态纯度、耦合效率或可用加速长度。</p>
 <p><strong>⑥ 用适度耗尽反啁啾。</strong> <a href="#r267">R267</a>
 把“效率与能散冲突”重写为纵向相空间旋转问题：离焦注入形成束团，短驱动器耗尽后尾场梯度演化再做一次反啁啾。代表
 PIC 的 8 fs 情形约 372 MeV、1.27 nC、3.28% 能散、20%
@@ -939,6 +1084,27 @@ PIC 的 8 fs 情形约 372 MeV、1.27 nC、3.28% 能散、20%
 能散。两组是不同参数点，不应拼成同一束。模拟忽略离子运动、使用横向反射边界；高
 <span class="math inline">\(a_0\)</span>
 和电荷下三维/离子效应可能改变最优窗口。</p>
+<figure>
+<a href="figures/papers/ch01/r267-fig-4.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch01/r267-fig-4.png"
+alt="R267 原图 4：三种耗尽长度的纵向相空间" /></a>
+<figcaption aria-hidden="true">R267 原图
+4：三种耗尽长度的纵向相空间</figcaption>
+</figure>
+<p>图 01-5｜适度耗尽为什么能够第二次反啁啾。<a href="#r267">R267，原图
+4，PDF 第 4 页</a></p>
+<p>十二幅图依次是 5 fs 的 (a–d)、8 fs 的 (e–h)、15 fs 的
+(i–l)，每行从左到右跟随传播演化；各列的 <span
+class="math inline">\(z\)</span>
+范围不同，不能把它们当同一时刻比较。横轴为纵向位置 μm，左纵轴为电子能量
+MeV，彩色分布是归一化 <span
+class="math inline">\(d^2N/(dE\,dz)\)</span>、任意单位。黑线给投影能谱
+<span class="math inline">\(dQ/dE\)</span>，读取上方 0–1
+归一化轴；绿线给 <span class="math inline">\(E_z\)</span>，读取右侧 TV/m
+轴。最短脉冲过早耗尽，尾场来不及完成所需相空间旋转；8 fs 在 (f)、(h)
+先后出现较小纵向倾斜，原文解释为泡收缩和增强束流加载使场梯度反号，第二次抵消正啁啾。15
+fs 在 (j) 第一次变窄后继续积累啁啾，去相位时仍没有对应梯度反转。(h) 的约
+372 MeV、3.28% FWHM
+是这一参数点的模拟结果。该图直接展示“效率—能散”如何由演化过程耦合，但色标不是绝对粒子数，二维投影也不检验离子运动及完整三维稳定性。</p>
 <p><strong>⑦ 自引导 LWFA 的能量优化标度。</strong> <a
 href="#r276">R276</a> 用 boosted-frame PIC
 与贝叶斯搜索寻找“最大电子能量、达到该能量的最短长度”。给定扫描域内激光能量翻倍，最优能量约增
@@ -968,6 +1134,29 @@ J；以全激光能量作分母效率约 2.3%，以主焦斑 194 J 作分母才�
 负责俘获和预加速、DLA
 补高能增益；该高通量路线适合宽谱转换源，不能写成微库仑低能散 GeV 束。<a
 href="https://arxiv.org/abs/2608.16459">官方版本页</a></p>
+<figure>
+<a href="figures/papers/ch01/r285-fig-6.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch01/r285-fig-6.png"
+alt="R285 原图 6：激光演化与粒子做功分解" /></a>
+<figcaption aria-hidden="true">R285 原图
+6：激光演化与粒子做功分解</figcaption>
+</figure>
+<p>图 01-6｜区分尾场预加速和 DLA 高能增益。<a href="#r285">R285，原图
+6，PDF 第 8 页</a></p>
+<p>图 (a) 横轴是传播坐标 <span
+class="math inline">\(z\)</span>（mm），黑线 <span
+class="math inline">\(a_0\)</span> 读左轴、蓝线激光能量 J
+读右轴；能量持续下降而局部场幅先增大，体现自聚焦与耗尽可以并存。图 (b)
+横轴是所追踪电子的末态能量 <span
+class="math inline">\(E\)</span>，纵轴是累积做功 <span
+class="math inline">\(W\)</span>，均用 MeV；蓝星为纵向尾场贡献，橙星为
+DLA 贡献，虚线 <span class="math inline">\(W=E\)</span>
+是比较基准。高能粒子的橙星更接近该线，支持 DLA
+给这些粒子的大部分增益；这不是所有电子的平均贡献，更不能把采样点数当实际电荷。图
+(c–e) 是三个传播阶段的激光振幅切片，横轴 mm、横向轴 μm，色标为无量纲
+<span class="math inline">\(a_0\)</span>；(c) 与 (d,e)
+色标范围不同，必须读数字再比较，不能只按颜色判断峰值。后期空间碎裂说明驱动已显著演化。图
+(a,c–e) 来自三维 CALDER，(b) 来自准三维
+OSIRIS，属于对实验机制的数值解释；实验电子总能量或转换效率仍应按各自接受角和激光能量分母定义。</p>
 <p><strong>⑪ 黑腔预热泡沫的可调 DLA。</strong> <a href="#r289">R289</a>
 以纳秒激光驱动黑腔软 X 光，再由 120 J、0.8 ps 脉冲照射预热泡沫。6–9 ns
 延迟给约 13 MeV 有效温度和 80 MeV
@@ -1077,10 +1266,15 @@ href="chapters/02-beam-applications.md">第 02 章</a>。</p>
 R121、R374、R267、R285、R314 的本地 PDF 重新运行
 <code>pdftotext -layout</code>，抽查摘要、方法、量化结果与限制。R374
 提取器报告 PDF
-字典语法警告，仍产生非空文本且目标段落可读；本次未进行新一轮逐页渲染
-QA。联网复核 R121、R374、R314、R285 的官方 arXiv
-标题、版本日期和摘要，记录见 <a
+字典语法警告，仍产生非空文本且目标段落可读；本次未进行全篇逐页渲染
+QA；为新增原图，重新读取 R144、R374、R314、R267、R285
+的图注与邻近正文，并逐幅查看 6
+幅原图所在整页及最终裁图，核对全部坐标、色标和子图标签。联网复核
+R121、R374、R314、R285 的官方 arXiv 标题、版本日期和摘要，记录见 <a
 href="../data/acceleration-source-checks.json">来源核查</a>。</p>
+<p>原图页码、PDF 与图像 SHA-256、裁框及视觉核查状态保存在 <a
+href="../data/figure-assets/">逐图侧录目录</a>，选择理由见 <a
+href="../data/figure-selection-acceleration.md">图选说明</a>。原始坐标、图例和子图完整保留，裁出正文图域并未改动曲线或配色。</p>
 <p>其他重点条目与串联引用主要复用已有中文笔记，不代表本次逐篇全文精读。早期模板条目的通用
 QED 示例未用于本章推导；R040
 等笔记未完成者仅保留在总目录，不据模板扩写精确结论。基础公式是本章在明确冷等离子体/近轴/量级条件下的教学推导，不能当作者的完整非线性模型。本章没有系统追踪库外全部
@@ -1328,6 +1522,45 @@ class="math inline">\(2\times10^7\)</span>
 匹配，延长散射脉冲至约 200 fs
 能增加产额。这里真正的工程问题是束团与光斑在斜交几何中迅速走离；只提高峰值强度可能压缩有效重合时间。源端
 γ 测量是实验，光核或治疗性能仍需另外验收。</p>
+<figure>
+<a href="figures/papers/ch02/r138-fig-1.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch02/r138-fig-1.png"
+alt="R138 原图 1：双激光散射源与诊断链" /></a>
+<figcaption aria-hidden="true">R138 原图
+1：双激光散射源与诊断链</figcaption>
+</figure>
+<p>图 02-1｜同时控制两束激光和电子的时空重合。<a href="#r138">R138，原图
+1，PDF 第 2 页</a></p>
+<p>主图连接驱动激光、气体喷流、约 160° 反向散射激光，以及电子和 γ
+两条诊断链。左圆图把 (a) 等离子体重合长度、(b) 两激光重合长度、(c)
+真正电子—散射光相遇的 Thomson
+长度区分开；它是几何示意，没有数值坐标，不能把最长的重合区域直接当辐射区。磁铁把电子导向
+LANEX，γ 继续穿过铝滤片到 CsI(Tl)。右上 γ 斑用 5 mrad 标尺；电子谱图横轴
+MeV、纵轴发散 mrad，色标
+fC/(MeV·mrad)，所以同时保留谱电荷与角分布。下方阴影图和顶视等离子体图均用
+1 mm
+标尺，分别帮助定位重合和电离注入；它们的亮度未共用同一绝对归一化。该图说明高
+γ
+产额是重合积分的结果，需要独立定位、延迟与束诊断。装置布局和代表图像属于实验依据，示意图中的光路距离、脉冲轮廓不构成尺度精确的输运或强度测量。</p>
+<figure>
+<a href="figures/papers/ch02/r138-fig-5.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch02/r138-fig-5.png"
+alt="R138 原图 5：能量、重合与长期稳定性扫描" /></a>
+<figcaption aria-hidden="true">R138 原图
+5：能量、重合与长期稳定性扫描</figcaption>
+</figure>
+<p>图 02-2｜用多种扫描把源端性能连成证据链。<a href="#r138">R138，原图
+5，PDF 第 7 页</a></p>
+<p>图 (a) 横轴铝厚度 cm，纵轴无量纲透过率；指数拟合的 <span
+class="math inline">\(\mu=0.293,0.208,0.151\)</span> cm<span
+class="math inline">\(^{-1}\)</span> 经 NIST
+衰减系数得到有效光子能量，而非直接逐光子能谱。(b) 两轴均用
+MeV，把这些反演值与电子能量及 Thomson 预测比较。(c) 横轴延迟
+fs、纵轴任意单位信号，45/200/400 fs 散射脉冲中 200 fs
+的峰值较高，体现斜碰走离与峰强度的折中；拟合 503–656 fs
+的宽度是互相关宽度。(d) 横轴横向位置 μm，26.3/35.4 μm 是重合扫描
+FWHM，需假设 Gaussian 并扣除激光宽度才得电子尺寸。(e) 横轴 <span
+class="math inline">\(z\)</span> 位置 mm，含离焦的蓝模型更符合约 3.7 mm
+最优点，粉区是密度轮廓。(f) 横轴小时，三个实验运行的信号 RMS 为
+3.1–5.5%。除透过率外，信号轴均为任意单位。这组实验扫描支持可调、可稳定运转的源，并清楚保留有效能量、束尺寸与离焦机制的反演条件。</p>
 <p><strong>② 涂层等离子体镜增强 ICS。</strong> <a href="#r230">R230</a>
 在代表 100 TW 实验位置，光子数由未涂层约 <span
 class="math inline">\(1.3\times10^7\)</span> 提到约 <span
@@ -1336,6 +1569,25 @@ class="math inline">\(7.9\times10^7\)</span>，约六倍。反演的临界能量
 与侧视发光支持预等离子体使反射临界面弯成凹面、反射光自聚焦。光子数、临界能量与激光
 <span class="math inline">\(a_i\)</span>
 都含探测响应/角分布反演，不能写成所有参数独立直接测量。与双激光相比，它降低同步复杂度，却把靶演化变成关键系统误差。</p>
+<figure>
+<a href="figures/papers/ch02/r230-fig-2.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch02/r230-fig-2.png"
+alt="R230 原图 2：涂层与未涂层等离子体镜对照" /></a>
+<figcaption aria-hidden="true">R230 原图
+2：涂层与未涂层等离子体镜对照</figcaption>
+</figure>
+<p>图 02-3｜先辨别 γ 的来源，再评价涂层增益。<a href="#r230">R230，原图
+2，PDF 第 6 页</a></p>
+<p>图 (a) 横轴镜位置 mm，箱形图用左轴任意单位辐射信号，折线用右轴 mrad
+发散；黄区是镜侵入气流，不能把这里的变化全归因反射率。虚线给无镜
+betatron 的 16.8 mrad 发散。(b) 横轴光子能量 MeV，纵轴对数 <span
+class="math inline">\(dN/dE\)</span>；实验和模拟分别用左右任意单位/MeV
+标度，实线是反演实验谱，虚线是模拟，蓝区标识检测下限，不能按高度比较绝对通量。右侧
+(c,d) 是 −500 μm 涂层镜，(e,f) 是同位置裸镜，(g,h) 是 −3000 μm
+裸镜的制动辐射对照，(i,j) 是无镜 betatron。中列横纵角度 mrad 给 IP
+斑；右列横轴 mm 给 LYSO 中沿深度的响应，色条 Gray 表示图像灰度而非 Gy
+剂量。涂层条件有更强高能响应，远镜和无镜对照帮助排除背景。此图支持 ICS
+增强，具体光子数及高能截止仍依赖响应、谱形和角分布重建；原图没有独立直接测量反射场的
+<span class="math inline">\(a_0\)</span>。</p>
 <p><strong>③ 微库仑源与焦耳级硬 X。</strong> <a href="#r285">R285</a> 将
 PETAL 的宽谱高电荷电子打入金属转换板，报告硬 X 总能量约 3.3
 J、高能谱分量温度 <span class="math inline">\(9.3\pm1.1\)</span>
@@ -1351,6 +1603,24 @@ RMS；这组统计不应与另一 3.3 Hz 剂量条件混写。钨转换源的半
 μm，多于 60,000 次曝光的涡轮叶片 CT 在 MTF 10% 处约 43 μm
 分辨。小源是贡献因素，最终 CT 分辨还含重建与采样；也不能把多发 CT
 称实时单发成像。</p>
+<figure>
+<a href="figures/papers/ch02/r287-fig-4.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch02/r287-fig-4.png"
+alt="R287 原图 4：涡轮叶片微CT" /></a>
+<figcaption aria-hidden="true">R287 原图 4：涡轮叶片微CT</figcaption>
+</figure>
+<p>图 02-4｜源尺寸优势最终要通过 CT 的空间响应检验。<a
+href="#r287">R287，原图 4，PDF 第 17 页</a></p>
+<p>图 (A) 是叶片外轮廓三维重建，彩色平面标出 i–iv 四个截面；(B)
+剖开重建体，箭头指出内冷却通道和表面膜冷却孔。二者是重建展示，没有独立定量色标，三维渲染的光照亮暗不能当材料密度。(C)
+给四处横截面，10 mm
+标尺让内部通道大小可估，红短线标出用于边缘分析的位置。(D) 横轴空间频率
+mm<span class="math inline">\(^{-1}\)</span>，纵轴调制传递函数 MTF
+的百分比，低频归一化到 100%；红曲线下降到青色 10% 阈值时约 11.6
+lp/mm，按 <span class="math inline">\(1/(2f)\)</span> 换算为约 43 μm
+特征半周期。它是重建系统在所取边缘、所用阈值下的分辨判据，不能与源斑 38
+μm FWHM 混为同一测量。该 CT 累计超过 60,000
+次曝光，支持现场持续运行和工业复杂结构成像；不能据静态三维图声称单发实时
+CT、任意材料相同分辨，或临床成像已经验收。</p>
 <p><strong>⑤ 超低发射度电子的衍射。</strong> <a href="#r314">R314</a> 在
 2.7 MeV 得约 124 nm·rad
 归一化发射度，观察硅纳米膜衍射。对应的横向相干尺度可粗略理解为 <span
@@ -1381,6 +1651,26 @@ class="math inline">\(^{99m}\)</span>Tc
 的估计，作者明确这类驱动条件当前不可直接获得。未纳入全部副反应、靶热与回收，不能称完成药物生产。<a
 href="https://arxiv.org/abs/2608.17119">官方来源</a> 初次提交
 2026-08-17，与仓库发表日期一致。</p>
+<figure>
+<a href="figures/papers/ch02/r286-fig-5.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch02/r286-fig-5.png"
+alt="R286 原图 5：模拟同位素活度随照射时间演化" /></a>
+<figcaption aria-hidden="true">R286 原图
+5：模拟同位素活度随照射时间演化</figcaption>
+</figure>
+<p>图 02-5｜从每发产额到活度，重复率是假设的一部分。<a
+href="#r286">R286，原图 5，PDF 第 10 页</a></p>
+<p>横轴是明确假设 1 kHz 时的照射时间小时，纵轴活度 MBq，即每秒 <span
+class="math inline">\(10^6\)</span> 次衰变；蓝线为母核 <span
+class="math inline">\(^{99}\)</span>Mo，绿线为子核 <span
+class="math inline">\(^{99m}\)</span>Tc。实线用天然 Mo，虚线用全富集
+<span class="math inline">\(^{100}\)</span>Mo，后者增加可参与 <span
+class="math inline">\((\gamma,n)\)</span>
+反应的靶核比例，因而达到同一活度所需时间更短。母核近似先线性积累，子核需要母核形成后再衰变供给，所以绿色曲线起初明显滞后，这正是前述耦合活化方程的物理内容。两条红水平线在图中只是
+370/740 MBq 参照，不能当实测或普适医疗验收线。整图是 PIC—Monte Carlo
+每发产额与衰变动力学外推，没有照射误差条，更没有化学分离与纯度实测。原文紧接着指出数百
+mJ 的 kHz 驱动和 5 μm
+密度下坡仍有实现难度，且优化未包含所有副反应。它帮助评价端到端优化，却不能把
+10 h 外推直接写成已具备日常药物供应能力。</p>
 <p><strong>⑧ 光核与 D–D 快中子俘获比较。</strong> <a
 href="#r100">R100</a> 把激光源模型、Geant4
 输运/屏蔽、基于核模型的俘获事件生成串联。D–D 源可提供约 2.45 MeV、<span
@@ -1432,12 +1722,29 @@ FLASH 生物效应；后者需细胞/组织终点与剂量控制。</p>
 Pb，厚转换与复合屏蔽筛掉大量电磁背景。20 m 与 29 m 处实验束宽 FWHM 为
 4.51 m、6.35 m，GEANT4 给 4.43 m、6.27 m。成像部分在约 23 m 处用 30
 发有物体/无物体测量；本次 PDF 核对的物体尺寸是 <strong>20×25×100
-cm³</strong>，10×10×5 cm³
-是组成转换靶的铅砖尺寸，旧笔记曾把二者混淆。模拟给 20 m 探测器沉积能
-86.91%
+cm³</strong>，10×10×5 cm³ 是单块铅砖尺寸，不能当整件成像物体尺寸；原图 9
+的照片图注也明确成像物体由此尺寸铅砖组成。旧笔记曾把单块与整体混淆。模拟给
+20 m 探测器沉积能 86.91%
 来自缪子；该比率不是逐事例粒种鉴别。论文支持缪子主导成像，绝对通量、逐粒子
 GeV 动量和背景份额仍含模型推断。<a
 href="https://arxiv.org/abs/2609.28788">官方原始页</a>，2026-09-23。</p>
+<figure>
+<a href="figures/papers/ch02/r380-fig-9.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch02/r380-fig-9.png"
+alt="R380 原图 9：激光驱动缪子透射成像" /></a>
+<figcaption aria-hidden="true">R380 原图
+9：激光驱动缪子透射成像</figcaption>
+</figure>
+<p>图 02-6｜透射阴影是探测信号图，粒种仍需背景分析。<a
+href="#r380">R380，原图 9，PDF 第 9 页</a></p>
+<p>左上示意两组正交条形探测板及红色束方向，右上照片显示铅物体与车内探测器位置；图注的
+10×10×5 cm³ 是构成物体的铅砖尺寸，整体尺寸须看正文。下左两行分别是前模块
+L1–L2、后模块 L3–L4，有物体/无物体图并排；轴为通道编号，每条宽 2.5
+cm，颜色 0–1 是归一化的每条、每发平均信号长度，由 30
+发求得，不能当绝对缪子数。下右四组曲线逐层比较红色有物体与蓝色无物体信号，下方给相对差异百分比。主要阴影沿
+L1/L3 所示方向形成明显凹口，L2/L4
+的变化较弱，与几何投影一致。图确实支持透射成像，却未逐事例鉴别粒种或动量；缪子主导判断还依赖测得电子谱驱动的
+Geant4 背景对照。原文同时承认高光子流 SiPM 非线性、温度等效应未完整纳入
+ToT 校正，这限制了从归一化阴影进一步推出绝对通量与材料厚度的精度。</p>
 <p>缪子链的核心是电子先产生 γ，随后 <span
 class="math inline">\(\gamma+A\to\mu^++\mu^-+A\)</span>。缪子质量约为电子的
 207
@@ -1541,10 +1848,14 @@ href="chapters/03-strong-field-qed.md">第 03 章</a>
 <p>本次对 R100、R138、R285、R286、R314、R380 的本地 PDF 重跑
 <code>pdftotext -layout</code>，核对源参数、应用终点、数据/模拟分界；明确纠正
 R380 旧笔记的成像物体尺寸。PDF
-提取中的字体警告没有阻止目标段落读取，但本次没有重做全篇渲染
-QA。联网核查 R286、R380、R285、R314
-的官方摘要与版本/初始提交日期。核查清单见 <a
+提取中的字体警告没有阻止目标段落读取，但本次没有重做全篇渲染 QA；新增
+R138、R230、R287、R286、R380 的 6
+幅原图均另读图注和邻近正文，核对原始整页与最终裁图。联网核查
+R286、R380、R285、R314 的官方摘要与版本/初始提交日期。核查清单见 <a
 href="../data/acceleration-source-checks.json">来源记录</a>。</p>
+<p>原图页码、PDF/图像 SHA-256、裁框与核查状态保存在 <a
+href="../data/figure-assets/">逐图侧录目录</a>，取舍见 <a
+href="../data/figure-selection-acceleration.md">图选说明</a>。原图保持坐标、图例、子图与配色。</p>
 <p>其他重点与串联论文复用既有中文笔记；R072
 等尚缺成熟笔记的记录仅用作诊断主题入口，不新增未经核对的性能。没有重跑
 PIC、openTOPAS、Geant4、FLUKA、OpenMC
@@ -1832,6 +2143,38 @@ LWFA 电子与反向强激光碰撞。结果报告电子谱上的 RR
 &gt;5σ，并用贝叶斯框架比较未知重合参数下的模型。量子连续与量子随机都优于经典，二者表现相当；改善主要来自量子模型较低的平均损能。正确结论是量子修正获得强支持，<strong>没有</strong>仅凭该数据唯一识别随机发射模型。<a
 href="https://www.nature.com/articles/s41467-025-67918-8">Nature
 原文</a>；DOI 中的 025 不把发表年份改成 2025。</p>
+<figure>
+<a href="figures/papers/ch03/r035-fig-1.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch03/r035-fig-1.png"
+alt="R035 原图 1：双诊断辐射反作用实验" /></a>
+<figcaption aria-hidden="true">R035 原图
+1：双诊断辐射反作用实验</figcaption>
+</figure>
+<p>图 03-1｜同时观测电子损能和发射光子。<a href="#r035">R035，原图
+1，PDF 第 3 页</a></p>
+<p>图 (a) 连接 LWFA、反向碰撞激光、电子磁谱仪、γ
+斑与γ谱诊断，是无比例尺的布局示意。图 (b) 明确标为模拟：上/下排分别取
+<span class="math inline">\(a_0=20/10\)</span>，横轴电子或光子能量
+GeV，电子谱按积分归一化，光子谱用归一化对数纵轴；黑线是碰撞前，绿/蓝/紫为经典、量子连续、量子随机。强碰撞时经典损能更大，随机模型可能展宽，说明两个不同的判别目标。图
+(c) 才是实验代表发：左侧电子谱横轴 GeV、纵轴归一化 GeV<span
+class="math inline">\(^{-1}\)</span>，右侧 γ 图用任意单位计数色标；红色
+hit 和蓝色 null 分别对应有/无有效碰撞，上下组按 γ 高/较低产额区分。强 γ
+信号伴随电子高能部分下降，给出联合能量账的实验证据。但示例曲线没有直接告诉我们实际
+<span class="math inline">\(a_0\)</span>，γ
+斑也非逐光子谱；谱展宽还可能来自重合参数变化。因此应继续看模型对两个诊断的联合拟合，不能只凭一条展宽曲线宣布随机性。</p>
+<figure>
+<a href="figures/papers/ch03/r035-fig-5.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch03/r035-fig-5.png"
+alt="R035 原图 5：辐射反作用模型的贝叶斯比较" /></a>
+<figcaption aria-hidden="true">R035 原图
+5：辐射反作用模型的贝叶斯比较</figcaption>
+</figure>
+<p>图 03-2｜“支持量子修正”与“识别随机性”是两项结论。<a
+href="#r035">R035，原图 5，PDF 第 6 页</a></p>
+<p>横轴 Bayes factor 是无量纲的模型证据比，按对数刻度展开；灰虚线 <span
+class="math inline">\(B=1\)</span> 表示相当，往右支持右侧 Model
+1，往左支持左侧 Model 2。三行依次比较
+QC/Cl、QS/Cl、QS/QC，分别是量子连续、量子随机、经典模型；纵向位置仅标识模型组合，不是连续物理量。空心圆是一发，黑三角是十发在参数相互独立假设下的联合证据，背景深浅按原文半对数约定表达支持程度。前两行圆点各自只稍偏右，三角约到十几，说明合并增加量子模型相对经典的证据；第三行仍聚在
+1
+附近，两种量子模型难以区分。它不是“十发都达同样显著性”，也不能把证据比直接读成模型正确概率。邻近正文把改善主要归因较低的平均辐射损能，并指出碰撞强度变化也能展宽谱。图因而明确支撑量子功率修正，同时保留随机性尚未被唯一识别的实验边界。</p>
 <p><strong>② 表面 QED 等离子体分辨随机性。</strong> <a
 href="#r169">R169</a> 用 V 形腔让表面电子获得 GeV
 能量，再在腔顶强表面波中偏转与辐射。相互作用区接近 skin
@@ -1857,6 +2200,29 @@ Compton/两步过程，γ–激光模式更直接看 BW。新进展是 ELBEX
 class="math inline">\(10^5\)</span> 正电子/pulse 等是设计模拟，没有 LUXE
 正式碰撞数据。<a href="#r069">R069</a>
 的未来对撞机讨论是相关路线而非同一篇正式版。</p>
+<figure>
+<a href="figures/papers/ch03/r385-fig-5.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch03/r385-fig-5.png"
+alt="R385 原图 5：非线性Compton谱与边位置" /></a>
+<figcaption aria-hidden="true">R385 原图
+5：非线性Compton谱与边位置</figcaption>
+</figure>
+<p>图 03-3｜强度扫描比单次高产额更能检验理论。<a href="#r385">R385，原图
+5，PDF 第 5 页</a></p>
+<p>左图横轴光子能量 GeV，纵轴发射率 GeV<span
+class="math inline">\(^{-1}\)</span>fs<span
+class="math inline">\(^{-1}\)</span> 用对数刻度；六条曲线取 <span
+class="math inline">\(\xi=0.01\)</span> 到
+2。强度增加使发射率、谐波贡献与边位置改变，不能用一条整体倍乘的线性谱代替。右图固定入射电子
+16.5 GeV、<span class="math inline">\(\eta=0.1915\)</span>，横轴无量纲
+<span class="math inline">\(\xi\)</span>，纵轴为出射电子谱的 Compton
+边能量 GeV。红水平线是线性 Klein–Nishina，紫线是非线性经典，橙带是非线性
+QED 并含 <span class="math inline">\(\xi\)</span> 的 ±2.5%
+不确定度；蓝点和误差条是预计的谱重建精度。边随 <span
+class="math inline">\(\xi\)</span>
+上移涉及有效质量和散射运动学，不能解释成电子从激光获得了该差值能量，也不是全谱平均损能的曲线。图显示约
+<span class="math inline">\(\xi\sim0.5\)</span>
+已可产生有意义的模型分离，并提示场强标定须参与误差预算。全部曲线与“重建”点是设计预测，LUXE
+当年实施与原型进展并没有把这幅图变成正式碰撞数据。</p>
 <p><strong>⑥ 高通量电子谱原型。</strong> <a href="#r393">R393</a> 结合
 GadOx 屏与分段 Cherenkov，在 ARES 与 FACET-II
 束测线性、位置标定与高能联合响应。屏拟合斜率不确定度约 1.3%；最低 5σ
@@ -1867,6 +2233,42 @@ class="math inline">\(3\times10^6\)</span>
 退化是主要贡献。这里是原型真实束测，不能称满足全部 LUXE
 动态范围或已经测到 LUXE 非线性 Compton 谱。<a
 href="https://arxiv.org/abs/2609.35519">官方预印本</a>，09-28。</p>
+<figure>
+<a href="figures/papers/ch03/r393-figure-1.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch03/r393-figure-1.png"
+alt="R393 原图 1：LUXE三通道探测布局" /></a>
+<figcaption aria-hidden="true">R393 原图
+1：LUXE三通道探测布局</figcaption>
+</figure>
+<p>图 03-4｜电子、光子与正电子构成互补观测。<a href="#r393">R393，原图
+1，PDF 第 3 页</a></p>
+<p>蓝虚线电子束与红色激光在交互点相遇，绿色偶极把带负电电子和橙色正电子偏向相反方向；紫色
+Compton
+光子不受磁场作用继续向前。三条输出分别对应电子、光子、正电子探测系统，电子损能与光子发射相互约束，而成对通道为另一类
+QED
+过程提供信息。图没有连续坐标、距离单位或通量色标，弯曲轨迹和探测箱大小均为示意，不能按纸面曲率反推粒子能量。真实电子谱要将位置映射到磁刚度，再考虑接受度、屏/相机响应和背景；正电子通道则有不同计数与纯度需求。邻近正文明确引用当时的技术设计布局，安装地点细节仍在定案，并计划用互补探测器交叉标定。因此这幅图的论证作用是把理论可观测量落实到独立测量链；本论文的
+ARES/FACET-II 原型束测验证其中部分电子诊断能力，并不是该全装置已经开展
+LUXE 碰撞。</p>
+<figure>
+<a href="figures/papers/ch03/r393-figure-2.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch03/r393-figure-2.png"
+alt="R393 原图 2：设计电子谱与动态范围要求" /></a>
+<figcaption aria-hidden="true">R393 原图
+2：设计电子谱与动态范围要求</figcaption>
+</figure>
+<p>图 03-5｜理论谱决定探测器需要多少动态范围。<a href="#r393">R393，原图
+2，PDF 第 4 页</a></p>
+<p>横轴是出射电子能量 <span class="math inline">\(E_e\)</span>，单位
+GeV；纵轴是每次束交叉、每 200 MeV
+能量箱的散射电子数，使用对数刻度。蓝、橙、绿、红、紫分别为 <span
+class="math inline">\(a_0=0.1,0.2,0.5,1,5\)</span> 的 Ptarmigan
+计算，误差条只表示模拟事件采样统计。低强度蓝谱约 12 GeV
+的线性边较尖，强度增加后出现谐波与更多低能电子，最高强度分布更宽；被排除的
+16.5 GeV 未相互作用主束不能从这张图估计。图显示同一谱上可能要覆盖 <span
+class="math inline">\(10^4\)</span> 到 <span
+class="math inline">\(10^7\)</span> 电子/箱，解释了屏与 Cherenkov
+组合、低信号灵敏度和高信号线性的共同需求。邻近正文给设计磁铁 1.2 m、最高
+1.6 T，探测器在其后 2.8 m；12 GeV 附近 200 MeV 对应约 3 mm
+位移。这个位置—能量转换是设计尺度，不是原型已经满足所有分辨率和灵敏度的验收结果。原型真实线性与退化证据见第
+08 章的独立图。</p>
 <p><strong>⑦ 可计数偏振信号。</strong> <a href="#r322">R322</a>
 用自旋/光子偏振 MC 回算 SLAC E-144，再预测 ELI-NP
 稀疏高能光子与正电子。回算历史数据增加方法可信度，未来约十个级别正电子与偏振角分布仍是预测。稀疏信号不适合只用连续沉积能读出，需要计数效率、误识别率、背景和置信区间。这里的“可计数”是对实验策略的有用约束，而不是已经取得新
@@ -1925,6 +2327,31 @@ class="math inline">\(|a|^2+|b|^2=1\)</span>，则双自由度非可分性的量
 束的纯度、产额或两空间粒子纠缠验证。激光椭圆率控制分支平衡，<span
 class="math inline">\(a_0\)</span> 控制 OAM
 带宽；本文只有振幅/概率计算，没有 γ 模式层析实验。</p>
+<figure>
+<a href="figures/papers/ch03/r392-fig-3.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch03/r392-fig-3.png"
+alt="R392 原图 3：椭圆率控制模式概率与相干" /></a>
+<figcaption aria-hidden="true">R392 原图
+3：椭圆率控制模式概率与相干</figcaption>
+</figure>
+<p>图 03-6｜模式强度和条件非可分性需要分开读取。<a
+href="#r392">R392，原图 3，PDF 第 4 页</a></p>
+<p>图 (a–e) 依次取激光椭圆率 <span
+class="math inline">\(\epsilon=0,1/4,1/2,3/4,1\)</span>；横轴整数 <span
+class="math inline">\(m\)</span>
+为矢量涡旋模式阶数，纵轴给无量纲积分概率和干涉幅值，均带 <span
+class="math inline">\(10^{-3}\)</span>
+标度，各子图上限不同。蓝/橙柱分别是径向/方位向分析器的 <span
+class="math inline">\(P(m,0),P(m,\pi)\)</span>，黄柱是干涉项幅值 <span
+class="math inline">\(I_m\)</span>；这些分析器概率不能直接当两支裸
+helicity 的人口数。积分窗口为光子能量 0–36 MeV、角度 0–2.5
+mrad，柱上百分比是对应条件模式对的 concurrence。线偏振 (a)
+中各选定对接近 100%，却具有不同概率；(b,c) 某些负 <span
+class="math inline">\(m\)</span> 仍保持较强相干，(d)
+强通道与高百分比通道也不必重合；圆偏振 (e) 的已分辨对干涉消失。<span
+class="math inline">\(m=-1\)</span>
+上短横线表示人口未可靠分辨，不应填成测得
+0%。图支持椭圆率控制选定子空间的振幅平衡与相干，但只是理论积分结果；全 γ
+束纯度、产额、反冲条件和实际 helicity–OAM 层析不能由百分比直接替代。</p>
 <h2 id="其余文章怎样形成方向判断">7. 其余文章怎样形成方向判断</h2>
 <p>偏振可来自注入源、辐射自旋翻转或筛选。电子波包控制 γ OAM <a
 href="#r257">R257</a> 把入射横向 Fourier
@@ -2025,9 +2452,15 @@ BW 的绝对率和背景闭合、真空非线性的技术噪声验证，以及�
 <p>本次阅读对应中文笔记；对 R035、R385、R393、R392 本地 PDF 重跑
 pdftotext -layout，重点核对量子 RR
 模型结论、实施时间线、探测器灵敏度/退化和 concurrence 条件。R392 的 PDF
-文本有叠层/阅读顺序混杂，未据此扩写脉冲周期数等细节，精确量化限制以既有笔记与可读原文段落交叉确认。联网核查
-R035 的 Nature 正式日期/摘要和 R393 的官方 arXiv 记录，记录见 <a
+文本有叠层/阅读顺序混杂，未据此扩写脉冲周期数等细节，精确量化限制以既有笔记与可读原文段落交叉确认。新增
+R035、R385、R393、R392 的 6
+幅原图时，另读对应图注与邻近正文，逐幅核对原始整页和最终裁图；R392 图 3
+的积分窗口、分析器定义、短横线含义均已直接读原文。联网核查 R035 的
+Nature 正式日期/摘要和 R393 的官方 arXiv 记录，记录见 <a
 href="../data/acceleration-source-checks.json">来源核查</a>。</p>
+<p>原图页码、PDF/图像 SHA-256、裁框与核查状态保存在 <a
+href="../data/figure-assets/">逐图侧录目录</a>，取舍见 <a
+href="../data/figure-selection-acceleration.md">图选说明</a>。原图保持坐标、图例、子图与配色。</p>
 <p>其他重点与串联文章复用已有笔记，不代表本次逐篇全文精读。早期模板的通用
 <span class="math inline">\(\chi\)</span>
 公式未作为基础；本章显式修复“静止系场再乘 <span
@@ -2156,6 +2589,27 @@ to 9 Mbar”口径。它是新冲击数据，不是凭计算拟合出来的高�
 EOS；但最终压力密度仍通过参考层模型与测速误差传播获得。读这篇时，应先区分自发光前沿、真实冲击位置和温度诊断，再看参考材料的释放线选择。对
 ICF 材料，新的约束点能改变冲击时序与层间阻抗判断，却没有证明 BN
 靶已实现聚变性能。<a href="#r039">R039</a></p>
+<figure>
+<a href="figures/papers/ch04/r039-fig7.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch04/r039-fig7.png"
+alt="图04-1 BN冲击状态：速度空间比密度空间更容易判读" /></a>
+<figcaption aria-hidden="true">图04-1
+BN冲击状态：速度空间比密度空间更容易判读</figcaption>
+</figure>
+<p><strong>图
+04-1｜BN冲击状态：速度空间比密度空间更容易判读。</strong></p>
+<p>原 Fig. 7（PDF 第6页）左右两图共同以压力为纵轴，单位 Mbar；左横轴是
+BN 的<strong>流体粒子速度</strong>，单位 km/s，右横轴是压缩密度，单位
+g/cm³。不要把左横轴当成直接追踪到的冲击前沿速度。蓝点与红点分别使用
+Al、石英参考层，蓝线 FPEOS 与红线 FEOS 是 EOS
+预测。左图显示压力随粒子速度上升，约9
+Mbar的点已接近两模型的可分辨区域；右图中同一批点横向误差明显更大，说明从测速推密度时反演链放大了不确定性。它的论证作用是给模型增加真实冲击约束，而非只展示一条理论
+Hugoniot。重要限制在图后正文：这些点使用穿层平均冲击速度，仍受冲击非定常影响；作者随后借
+MULTI 重建界面瞬时速度，得到 Fig. 9 的修正点。修正后的10–18
+Mbar口径带有流体模拟辅助，不能与本图约9
+Mbar的原始平均速度口径混写。两幅图因此也是学习“直接诊断—阻抗匹配—模型修正”三层证据的例子。从质量守恒
+<span class="math inline">\(\rho=\rho_0D/(D-u_p)\)</span>
+也能看出，当分母随误差变化时，压缩密度可比压力更敏感；因此右图的大横误差条有具体反演原因，不能凭图上离模型较远就优先否定某种EOS。
+<a href="#r039">R039</a></p>
 <p><strong>重点 2：暖稠密铝为什么在高压区模型分叉。</strong> R383
 的混合确定性—随机有限温 DFT 把电子热 EOS 计算扩展到 10–1000 eV、1–18
 g/cm³；输运有效域较窄，为 20–500 eV、2.7–10
@@ -2164,6 +2618,24 @@ g/cm³。低能强占据电子态用确定性轨道，高能弱占据部分用�
 31%；该数字是模型对模型，不是实验误差。现有冲击数据主要位于约 9 g/cm³
 以下，恰恰尚未覆盖强分叉区，所以其高压 Hugoniot
 拐点是待实验检验的预测。<a href="#r383">R383</a></p>
+<figure>
+<a href="figures/papers/ch04/r383-fig3.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch04/r383-fig3.png"
+alt="图04-2 铝主Hugoniot：现有实验覆盖与高压模型分叉" /></a>
+<figcaption aria-hidden="true">图04-2
+铝主Hugoniot：现有实验覆盖与高压模型分叉</figcaption>
+</figure>
+<p><strong>图
+04-2｜铝主Hugoniot：现有实验覆盖与高压模型分叉。</strong></p>
+<p>原 Fig. 3（PDF 第6页）是单图：横轴质量密度 g/cm³，纵轴压力
+GPa，采用对数刻度；所以纵轴相邻大刻度代表十倍变化，不能用线条垂直距离直接读绝对压差。黑色
+mDFT、红色 IONEQ、蓝色 TFD 曲线来自改变电子 EOS
+贡献后构建的完整表；绿色三角是已有实验数据。低压、约9
+g/cm³以下三条曲线近似重合且受到数据约束；更高压下压缩率及拐点位置分开，说明壳层电离与电子热贡献的处理可以影响
+Hugoniot。拐点并不意味着密度在实验中无原因地跳动，它是在给定初态下求解冲击能量关系得到的状态轨迹。本图的关键是<strong>绿色点没有覆盖最大的分叉区</strong>：低压吻合只能支持低压区，不能据此给高压预测贴上实验验证标签。前文12
+g/cm³、10
+eV的59%/31%差异来自另一项固定状态电子压力比较，也不能直接从这张沿
+Hugoniot、温度随状态变化的图读出。它提示后续实验应主动选择模型分歧大的状态，而非继续只测大家已吻合的区域。后续若要比较曲线的可信度，还需固定初始密度、离子冷曲线与电子模型组合；从一张总EOS图直接归咎某个单独电子机制，会混淆模型装配与状态路径。
+<a href="#r383">R383</a></p>
 <p><strong>重点 3：泡沫冲击中“推动层速度”不等于“冲击速度”。</strong>
 R353 在 Vulcan 用长脉冲驱动 Ti 推动层进入 0.1 g/cm³ 泡沫，时间分辨 X
 射线照相在 15/25/35 ns 分离推动层与前方冲击。拟合推动层轨迹得到 <span
@@ -2228,10 +2700,49 @@ g/cm²，但超过一半面密度集中在仅含约 10%
 39%，饱和产额只增约 22%，燃耗约
 11%。这些数字来自规定外部加热的燃烧计算，没有包含真实快电子产生/输运，因此应理解为密度剖面设计准则。它直接纠正“面密度够高就必然高增益”的直觉。<a
 href="#r274">R274</a></p>
+<figure>
+<a href="figures/papers/ch04/r274-fig6.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch04/r274-fig6.png"
+alt="图04-3 同样总面密度，密度剖面决定能否烧穿燃料" /></a>
+<figcaption aria-hidden="true">图04-3
+同样总面密度，密度剖面决定能否烧穿燃料</figcaption>
+</figure>
+<p><strong>图
+04-3｜同样总面密度，密度剖面决定能否烧穿燃料。</strong></p>
+<p>原 Fig. 6（PDF 第8页）横轴为总 DT 面密度 <span
+class="math inline">\(\rho R_{DT}\)</span>，单位 g/cm²；纵轴 <span
+class="math inline">\(\Phi\)</span> 是无量纲燃耗比例。黑曲线给出 <span
+class="math inline">\(\rho R/(\rho R+H_B)\)</span>，图中 <span
+class="math inline">\(H_B=7\)</span>
+g/cm²，故分子分母量纲一致。黑色方块代表作者非均匀内爆燃料在最大面密度附近或更晚点火，约2.2
+g/cm²时燃耗仅约0.1，显著低于经验线。红圆把外层密度 <span
+class="math inline">\(\rho_B\)</span> 人为增至50–500
+g/cm³，燃耗和总面密度共同上升；它们不是只改变一个无量纲指标的实验扫描。蓝色符号及其他历史比较点对应更均匀的高密燃料，在相近面密度下更接近黑线。图的作用是揭示总积分可能被少量中心高密质量“包办”，不能保证大部分外层燃料获得足够反应与alpha加热。晚点火改善有限，也支持这一解释。所用靶剖面、外部规定加热和人工增密均为作者计算条件，尚未包括现实快电子输运或驱动器；本图不是实验燃耗图。原接受稿的灰色水印予以保留，曲线、轴和图例未重绘或改色。人工增密同时移动横轴和纵轴，因而本图更适合提出设计准则，而不是拟合一条可用于所有靶型的燃耗修正系数。
+<a href="#r274">R274</a></p>
 <p><strong>重点 5：湍流反应率增强与热量增加要分开。</strong> R112 对比
 BGK、Fokker–Planck 和带核反应 PIC，说明湍流剪切既可能产生非 Maxwell
 尾，也可能通过耗散优先加热离子。BGK
 对尾增强较乐观，较真实碰撞算子给出更保守结果；时变加热又可使总效应超过固定温度稳态估计。这不是一条“湍流越强越好”的结论：同一湍流还可能增加混合、损失和诊断温度偏差。应把分布函数改变、温度升高和燃料逃逸分开做账，不能只用中子产额上涨推断某种尾机制。<a
+href="#r112">R112</a></p>
+<figure>
+<a href="figures/papers/ch04/r112-fig5.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch04/r112-fig5.png"
+alt="图04-4 碰撞算子与热化基线限制非Maxwell反应率增强" /></a>
+<figcaption aria-hidden="true">图04-4
+碰撞算子与热化基线限制非Maxwell反应率增强</figcaption>
+</figure>
+<p><strong>图
+04-4｜碰撞算子与热化基线限制非Maxwell反应率增强。</strong></p>
+<p>原 Fig. 5（PDF 第7页）三图纵轴均为相对初始 Maxwell 分布的反应率增强
+<span class="math inline">\(\Phi\)</span>，无量纲；蓝色 BGK 与橙色
+Fokker–Planck（FP）分别给出空间最大值（虚线）和平均值（实线），灰点线是将同一湍动能完全热化后的参照。<strong>(a)</strong>下横轴密度
+g/cc，上横轴 <span class="math inline">\(L\)</span> 为等效剪切波长
+μm：不是同时独立扫描密度和长度，而是利用 <span
+class="math inline">\(kv_{th}/\nu_0\)</span>
+相同建立对应。密度升高使碰撞更强，尾增强减弱；FP在较高密度下可低于热化参照。<strong>(b)</strong>横轴
+<span class="math inline">\(u_0/v_{th}\)</span>
+是剪切速度幅度/热速度，增强随其增大，但BGK给出更强、更陡的结果。<strong>(c)</strong>横轴离子温度
+keV，增强非单调，说明尾分布与 DT
+截面对相对速度的权重共同决定结果，不能只说温度越高倍数越大。三图共同证明算子选择和基准选择会改变“湍流有益”的幅度甚至判断。FP包括速度扩散和俯仰角散射，减弱BGK保留的过强各向异性；计算仍为1D2V，并在反应率积分中假定第三速度维
+Maxwell，作者明确提醒真实3V散射可能进一步降低尾优势。本图是稳态作者模拟，不是中子产额直接实验，也不含燃料混合和宏观损失账本。<a
 href="#r112">R112</a></p>
 <p><strong>重点 6：10 MJ 商用靶的真正进展与尚未闭合部分。</strong> R363
 以 NIF 已有实验为标定基础，提出扩大燃料量的间接驱动靶，作者 HYDRA/LASNEX
@@ -2241,6 +2752,27 @@ href="#r112">R112</a></p>
 Hz
 驱动、墙插效率、靶注入、腔室清空与氚循环仍是系统假设。阅读时应分别记“实验锚点”“靶级模拟”“电站情景”，不要把三者合成“已经实现商业净电”。<a
 href="#r363">R363</a></p>
+<figure>
+<a href="figures/papers/ch04/r363-fig1.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch04/r363-fig1.png"
+alt="图04-5 从NIF实验锚点到10MJ驱动的靶级外推" /></a>
+<figcaption aria-hidden="true">图04-5
+从NIF实验锚点到10MJ驱动的靶级外推</figcaption>
+</figure>
+<p><strong>图 04-5｜从NIF实验锚点到10MJ驱动的靶级外推。</strong></p>
+<p>原 Fig. 1（PDF 第2页）横轴激光驱动能量 <span
+class="math inline">\(E_d\)</span> 为 MJ，纵轴聚变产额 <span
+class="math inline">\(Y\)</span> 也是
+MJ，却为对数刻度。左侧蓝点是NIF已有实验，约2
+MJ附近的产额跨多个数量级，直观显示“点火悬崖”：略改驱动与靶状态，可跨过alpha自加热阈值。蓝实线以理想1D的15
+MJ/2.08 MJ设计作为标尺，并非穿过每个蓝实验点的实测拟合。橙实线从2.6
+MJ的EYC设计点使用Meyer–ter–Vehn尺度律外推；橙虚线示意引入靶制造、定位等非理想因素后，所需驱动能量向右移。最右紫色点是作者10
+MJ靶设计的265–427
+MJ计算范围，不能把蓝色实验身份继承给紫色点。图的价值在把“提高产额”与“离阈值更远、获得裕量”分开表达；曲线外推也为随后数值扰动扫描提供背景。该图没有重复率、驱动墙插效率或腔室恢复时间坐标，因此无法证明10
+Hz运行，更不能单凭 <span class="math inline">\(Y/E_d\)</span>
+判断净电收益。它混合历史实验、设计标尺、尺度模型和新靶模拟，四类证据需要分别读。单次靶增益还须区分
+<span class="math inline">\(Y/E_d\)</span>
+与墙插电能的回收比例；即便右端紫点具有高激光增益，也不替代系统各项损耗和辅助用电的守恒核算。
+<a href="#r363">R363</a></p>
 <h2 id="激光等离子体不稳定性宽带不天然等于安全">5.
 激光等离子体不稳定性：宽带不天然等于安全</h2>
 <p><strong>教学推导。</strong> 电磁泵浦 <span
@@ -2282,9 +2814,25 @@ X 射线、电子谱和散射光同 shot 联合约束。<a href="#r360">R360</a>
 href="#r134">R134</a></p>
 <p><strong>重点 9：早到高能 X 射线如何反转冲击标度。</strong> R388 的 4
 发 VISAR 冲击定时实验发现：主脉冲在首激波出壳前到达时，picket 功率增约
-18% 反而对应首激波慢约 4 km/s。直接测量是轨迹和速度；约 13% M-band
+18% 反而对应首激波慢约 4 km/s。直接测量是轨迹和速度；前三炮约 13% M-band
 份额、烧蚀层—液氘界面压力提高等，是一维辐射流体校准与解析估算。热沉积提前改变后续冲击所面对的压力边界，所以“更强早期驱动”不再等价于“更快首冲击”。它把激光脉冲、掺杂层、硬谱预热与冲击时序联成一个问题，但结论受当前
 GDP/Si 靶结构限制。<a href="#r388">R388</a></p>
+<figure>
+<a href="figures/papers/ch04/r388-fig3.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch04/r388-fig3.png"
+alt="图04-6 主脉冲提前时，硬X射线预热改变首冲击历史" /></a>
+<figcaption aria-hidden="true">图04-6
+主脉冲提前时，硬X射线预热改变首冲击历史</figcaption>
+</figure>
+<p><strong>图
+04-6｜主脉冲提前时，硬X射线预热改变首冲击历史。</strong></p>
+<p>原 Fig. 3（PDF
+第5页）保留四个完整炮次面板：左上N091、右上N097、左下N102、右下N111。横轴时间
+ns、纵轴冲击速度
+km/s，各图时间范围不同，不能只比较同一横向位置。黑线及灰带是VISAR处理速度与不确定性，蓝竖虚线标主脉冲开始；绿虚线为M-band置零的流体模拟，红线为经校准的模拟。N091、N097、N102在主脉冲先到时，首冲击进入液氘后已持续加速，约13%M-band红线比零预热更能捕捉这一阶段；随后约110–120
+km/s的跃升包含第二冲击追上首冲击。N111主脉冲延后，先出现约40
+km/s平台，此面板红线标的是<strong>3%</strong>，不应误称四炮统一13%；作者正文解释此时主脉冲在出壳后开始，初始入燃料速度对M-band不敏感。红线后期仍会高估加速，表明模型并未在全时段完全闭合。本图支持预热时间窗的重要性；18%picket增幅对应慢4
+km/s的反标度，还依赖论文对N097/N102的专门比较。直接实验是速度历史，M-band份额属于模型校准，既不是光谱仪直接测量，也不是通用最佳设置。多炮次误差带并未包含辐射谱、靶层厚度和EOS全部系统误差，所以红线接近黑线只能称特定假设下的一致，不能据此唯一反演硬谱成分。
+<a href="#r388">R388</a></p>
 <h2 id="输运与磁场峰值对了能量沉积也可能错了">6.
 输运与磁场：峰值对了，能量沉积也可能错了</h2>
 <p><strong>教学推导。</strong>
@@ -2475,6 +3023,11 @@ R161、R388、R274、R112，画出预热—压缩—尾—燃烧的因果链，�
 R363 与
 R199，检查设计外推和实验室相似各自缺少哪一段验证。每篇至少记“问题、观测/计算量、假设、最大不确定性、下一步可以否证的测试”，比抄摘要更有长期价值。</p>
 <h2 id="本章证据来源与覆盖-3">10. 本章证据来源与覆盖</h2>
+<p>本轮原图补充（2026-10-01）逐一阅读6幅所选原图的图注及邻近正文，并查看原页与最终裁图；来源为
+R039、R383、R274、R112、R363、R388。保留全部所选子图、坐标轴和图例；每幅均有原PDF/PNG
+SHA-256、页码、PDF点坐标裁框及检查侧录。此检查覆盖所选图，不表示全库逐图精读或独立复现；详见<a
+href="../data/figure-selection-hedp.md">原图选择记录</a>与<a
+href="../data/figure-assets/">图像来源侧录</a>。</p>
 <p>本次清点了原分类 105
 条的标题、日期、路径与交叉标签；正文人工选取其中与
 HED/ICF/实验室天体最相关的条目及少量跨类基础条目。早期 R001—R019
@@ -2482,9 +3035,9 @@ HED/ICF/实验室天体最相关的条目及少量跨类基础条目。早期 R0
 标签，其中多篇实质是加速器或强场辐射，因此未将分类数等同于 ICF
 证据数。正文有超过 35 篇有意义串联，14 个重点单元，未声称逐页精读全部
 105 篇。</p>
-<p>本次用本地 PDF <code>pdftotext -layout</code>
+<p>初稿阶段用本地 PDF <code>pdftotext -layout</code>
 重新读取并定位关键参数的条目为
-<strong>R039、R150、R274、R280、R363、R383、R388</strong>；它是全文文本与局部定量口径复核，本次没有重新做全部图片像素审阅、原始数据拟合或作者代码运行。其余细节主要复用仓库既有中文笔记，本次阅读了与上述重点及
+<strong>R039、R150、R274、R280、R363、R383、R388</strong>；该阶段属于全文文本与局部定量口径复核；本图版另对所选6幅原图完成所选原页和裁图的像素检查，仍未审阅全部论文图片、拟合原始数据或运行作者代码。其余细节主要复用仓库既有中文笔记，本次阅读了与上述重点及
 R112/R152/R158/R161/R191/R195/R199/R233/R242/R290/R295/R327/R335/R346/R353/R360
 相关的笔记内容；对其未新核验的数字采用限定语或不展开数字。</p>
 <p>2026-09-30 通过 <code>web.open</code> 读取成功的原始来源包括 <a
@@ -2561,6 +3114,21 @@ class="math inline">\(M_p=w_pm_s\)</span>，因此电荷质量比保持 <span
 class="math inline">\(q_s/m_s\)</span>。<strong>权重无量纲；权重保持轨道加速度相似，却不保证离散碰撞统计等同真实粒子。</strong>
 <a href="#r160">R160</a>、<a href="#r307">R307</a>
 正是在审计这一区别。</p>
+<figure>
+<a href="figures/papers/ch05/r357-fig-1.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch05/r357-fig-1.png"
+alt="原图：连续分布如何成为宏粒子" /></a>
+<figcaption aria-hidden="true">原图：连续分布如何成为宏粒子</figcaption>
+</figure>
+<p><strong>图 05-1：连续分布如何成为宏粒子。</strong>
+R357，原Fig.1，PDF第6页；论文方法示意。</p>
+<p><strong>逐图解读。</strong> （a）横轴是位置 <span
+class="math inline">\(x\)</span>，纵轴是动量 <span
+class="math inline">\(p_x\)</span>，蓝色深浅示意连续分布 <span
+class="math inline">\(f(x,p_x,t)\)</span>；原图没有数值刻度或颜色标尺，不能从这团蓝色读出真实温度。（b）改用离散黑点采样同一相空间包络，黑点代表计算宏粒子，不是实验拍摄到的电子；采样稀疏会引入涨落，平滑分布和离散点图即使外观接近，也可能有不同短波噪声。（c）放大一个宏粒子所代表的物理粒子集合。图中
+<span class="math inline">\(10^6\)</span>—<span
+class="math inline">\(10^{12}\)</span>
+是说明计算压缩程度的示意量级，不能当本章所有算例的固定权重。邻近正文明确按同一权重放大电荷和质量，所以洛伦兹加速度中的比值保持不变。这张图支撑的是“PIC怎样表示分布”，没有测量真实微观关联，也不证明碰撞率、热平衡或稀有尾部自动正确；这些必须由后面的噪声、权重和收敛审计补齐。<a
+href="#r357">R357</a></p>
 <h3 id="沉积把有限个粒子变成网格源">2.1
 沉积：把有限个粒子变成网格源</h3>
 <p>在最简单的均匀网格上，可把电荷写成</p>
@@ -2618,6 +3186,21 @@ href="#r178">R178</a> 从三维旋转表示研究高精度 Boris 类推进器。
 <p>相对论版本用动量并处理 <span
 class="math inline">\(\gamma\)</span>，强场辐射或碰撞又需额外推进。许多程序都叫
 Boris，具体的居中方式、相对论修正、外场时间层仍须查看实现，不能凭名称断言完全等价。</p>
+<figure>
+<a href="figures/papers/ch05/r357-fig-3.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch05/r357-fig-3.png"
+alt="原图：Boris磁旋转的轨道与二阶收敛" /></a>
+<figcaption
+aria-hidden="true">原图：Boris磁旋转的轨道与二阶收敛</figcaption>
+</figure>
+<p><strong>图 05-2：Boris磁旋转的轨道与二阶收敛。</strong>
+R357，原Fig.3，PDF第18页；作者单粒子数值验证。</p>
+<p><strong>逐图解读。</strong>
+（a）是均匀磁场、零电场下的单电子回旋轨道：横纵坐标按图中的 <span
+class="math inline">\(c/\omega_c\)</span>
+长度尺度归一化，黑线为解析解，绿点为数值解；邻近正文说明展示的是模拟1000圈后的最后一圈，曲线重合检验长期半径和轨道形状。（b）横轴为归一化步长的自然对数，纵轴为相对回旋半径误差的自然对数；红点是不同步长的计算，黑虚线为拟合，斜率约1.998说明误差近似随
+<span class="math inline">\(\Delta t^2\)</span>
+缩小。这里比较的是作者相对论Boris实现的受控磁旋转基准，和前面的旋转推导共享“纯磁不做功”结构。作者还报告速度、动能和洛伦兹因子保持到双精度舍入水平，但这不等于回旋相位在任意步长下完全正确。单粒子外场中没有自洽沉积、场求解、碰撞或辐射，因而这幅图只能验证推进器的一部分，不能替代完整PIC守恒与物理模块测试。<a
+href="#r357">R357</a></p>
 <h3 id="场推进稳定性与色散是两个问题">2.4
 场推进：稳定性与色散是两个问题</h3>
 <p>Yee FDTD 用错位电、磁场和中心差分，三维矩形网格的场 CFL 条件为</p>
@@ -2692,6 +3275,23 @@ R131：势形式与严格离散能量闭合</h3>
 定律与总能量守恒。轨道平均的作用是让粒子做功与网格能量交换满足同一个离散链式法则。冷双流基准中的好守恒属于作者非线性求解容差内结果；Part
 I
 的非相对论前提不能直接搬进相对论激光问题，隐式求解成本也要计入比较。</p>
+<figure>
+<a href="figures/papers/ch05/r131-fig-2.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch05/r131-fig-2.png"
+alt="原图：总能量守恒需要一致轨道积分" /></a>
+<figcaption
+aria-hidden="true">原图：总能量守恒需要一致轨道积分</figcaption>
+</figure>
+<p><strong>图 05-3：总能量守恒需要一致轨道积分。</strong>
+R131，原Fig.2，PDF第18页；作者3D冷双流数值验证。</p>
+<p><strong>逐图解读。</strong>
+（a）横轴为冷双流算例时间，纵轴为该算例的能量单位，原图未标秒或焦耳；蓝色动能降低时橙色场能上升，绿色总能量仍近似水平，说明“不变的总账本”允许两类能量真实交换。（b）横轴相同，纵轴是
+<span class="math inline">\((\mathcal E^n-\mathcal E^0)/\mathcal
+E^0\)</span>，为无量纲量，注意左上角 <span
+class="math inline">\(10^{-5}\)</span>
+倍率。蓝线采用跨B-spline结点分段的轨道积分，橙线不分段；后者先负漂移再正漂移，不能只检查最终值接近零就认定守恒。邻近正文说明两种方法都能保持Gauss与规范约束，差异来自粒子轨道上的链式法则是否与场能交换一致。分段方案在本算例求解容差内保持总能量，未分段方案积累约
+<span class="math inline">\(10^{-5}\)</span>
+漂移。这是非相对论、周期冷双流的作者数值验证；没有独立实验或本次复跑，也没有证明任意相对论、碰撞和开放边界模块同样守恒。<a
+href="#r131">R131</a></p>
 <h3 id="r145噪声改变不稳定性的时空历史">5.5
 R145：噪声改变不稳定性的时空历史</h3>
 <p><a href="#r145">R145</a>
@@ -2754,6 +3354,24 @@ flow
 对照支持目标物理量保持；它主动选择保留模式，收益含有效问题规模下降。不能把笔记本单模计时当作同粒子数全三维
 A/B，也不能把粒子核近线性缩放当作整个程序理想缩放。串行 Poisson
 部分已经是重要瓶颈。</p>
+<figure>
+<a href="figures/papers/ch05/r330-fig-5.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch05/r330-fig-5.png"
+alt="原图：谱粒子压缩保留了哪些ITG物理" /></a>
+<figcaption
+aria-hidden="true">原图：谱粒子压缩保留了哪些ITG物理</figcaption>
+</figure>
+<p><strong>图 05-4：谱粒子压缩保留了哪些ITG物理。</strong>
+R330，原Fig.5，PDF第9页；作者线性陀螺动理学数值基准。</p>
+<p><strong>逐图解读。</strong> （a）、（b）分别给谱PIF与常规PIC的 <span
+class="math inline">\(n=10\)</span> 离子温度梯度模。横纵轴是 <span
+class="math inline">\(R/R_0\)</span>、<span
+class="math inline">\(Z/R_0\)</span>，色标从−1到1，表示归一化电势扰动而非伏特；相近的外侧气球状条纹说明保留模式后没有明显改变这一线性本征结构。（c）横轴为环向模数
+<span class="math inline">\(n\)</span>，纵轴为以 <span
+class="math inline">\(C_s/R_0\)</span>
+归一化的增长率；两套红圆、蓝菱结果接近，增长率先升后降，邻近正文将后段降低联系到有限Larmor半径稳定。（d）同样扫描
+<span
+class="math inline">\(n\)</span>，纵轴为同一频率单位的实频，随模数增加而升高，两方法亦接近。四幅合起来检验空间形态、增长和传播相位，避免只凭一张彩图宣布保真。它仍是作者单模线性GK基准，不能单独证明非线性热流、所有环向模式和快粒子物理。邻近正文还说明PIF有效问题规模更小，因此该一致性支持有目的的压缩，不构成同规模全三维运行成本的直接比较。<a
+href="#r330">R330</a></p>
 <h3 id="r333沿主要传播轴消除数值相位误差">5.14
 R333：沿主要传播轴消除数值相位误差</h3>
 <p><a href="#r333">R333</a> 在 <span class="math inline">\(c\Delta
@@ -2787,6 +3405,21 @@ href="#r127">R127</a>、X 点回旋坐标 <a href="#r106">R106</a>、环向谱�
 <a href="#r157">R157</a>、超相对论束流准静态模型 <a
 href="#r241">R241</a>、混合动理学变分模型 <a
 href="#r255">R255</a>。每一次减少维数都需要指出消掉了什么时间尺度、角向模式或粒子自由度，而不能只说“更快”。</p>
+<p>学习型场求解的数值验证还可读 <a
+href="#r139">R139</a>：源项潜表示进入粒子—场闭环后，训练时间内的单步精度不能自动延续到更长演化。下面直接比较其双流基准的场能和粒子动能，从“求解一张场图”转向“保持动力学轨迹”。</p>
+<figure>
+<a href="figures/papers/ch05/r139-fig-8.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch05/r139-fig-8.png"
+alt="原图：神经场求解的误差沿时间反馈（R139，原Fig.8，PDF第16页）" /></a>
+<figcaption
+aria-hidden="true">原图：神经场求解的误差沿时间反馈（R139，原Fig.8，PDF第16页）</figcaption>
+</figure>
+<p><strong>图 05-5：神经场求解的误差沿时间反馈。</strong>
+R139，原Fig.8，PDF第16页；作者神经求解器闭环数值验证。</p>
+<p><strong>逐图解读。</strong> 两幅横轴均为论文的归一化时间 <span
+class="math inline">\(t\)</span>，纵轴采用任意单位a.u.，不能直接换成实验焦耳。（a）是电场能量，（b）是粒子动能；灰黑线为FFT场求解参考，浅绿、浅蓝、红线分别对应AE的4通道、12通道及AE+LCR潜表示，其他场求解结构保持相同。约
+<span class="math inline">\(t=30\)</span>
+的竖虚线划分训练演化范围与其后的时间外推。早期不稳定增长峰相近，但外推段场能振荡逐渐错相、晚期振幅也分离；右图更显示三种代理的动能均偏离参考的长期上升轨迹。作者指出AE+LCR保留了较相似的振荡频率与形态，这不能被改写成它完全复现FFT能量。这幅图的作用是把单步范数误差升级为“场误差→粒子轨道→下一步源项”的滚动检验。它属于二维静电双流闭环模拟中的消融比较，训练和标签均来自指定数值模型，尚不能验证真实装置或全电磁PIC的长期可靠性。<a
+href="#r139">R139</a></p>
 <p>物理验证线可由混合 PIC–流体中子产额 <a href="#r078">R078</a> 连接 FRC
 的混合 PIC 验证 <a href="#r273">R273</a>，再到全粒子雪崩源实现 <a
 href="#r243">R243</a> 和 Hall 推力器近壁输运 <a
@@ -2794,6 +3427,21 @@ href="#r370">R370</a>。前者需要反应与仪器链，后者需要壁面、�
 <a href="#r369">R369</a>
 则是漂移扩散流体加速，本章将其放在多尺度外围，详细机制见 AI
 章，避免因库内分类而误称 PIC 内核成果。</p>
+<figure>
+<a href="figures/papers/ch05/r369-fig-1.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch05/r369-fig-1.png"
+alt="原图：时间跳跃仍受物理重建与回滚约束" /></a>
+<figcaption
+aria-hidden="true">原图：时间跳跃仍受物理重建与回滚约束</figcaption>
+</figure>
+<p><strong>图 05-6：时间跳跃仍受物理重建与回滚约束。</strong>
+R369，原Fig.1，PDF第4页；论文算法示意。</p>
+<p><strong>逐图解读。</strong>
+这是流程图，没有横纵坐标或性能色标。左上状态包含电子/离子密度、电势、电场和电路量；这些原始量有不同单位，进入CNN前先归一化。箭头（1）用便宜物理预测构造跨
+<span class="math inline">\(K\)</span>
+个普通步的候选，（2）由网络修正，（3）重新解Poisson并恢复终点电路状态，所以电场并非任由网络独立输出。右侧检查有限值、非负密度和电路一致性；通过后，（4）仍须走
+<span class="math inline">\(M\)</span>
+个真实普通重锚步，无数值失败才执行（5）提交。任何检查或重锚失败都经（6）回滚到原状态，再由普通求解器推进。其物理意义是学习器提议捷径，约束重建和传统求解器决定是否接受。图示包含回退机制，却不是拒绝率、误差上界或加速比数据；作者所展示测试的提议均获接受。尤其要记住底层是氮气漂移—扩散—Poisson/电路模型，这幅图解释多尺度时间加速的接口，不能作为PIC内核已经提速的证据。<a
+href="#r369">R369</a></p>
 <h2 id="方法比较与实际工作经验">7. 方法比较与实际工作经验</h2>
 <table>
 <colgroup>
@@ -2903,6 +3551,9 @@ href="#r099">R099</a>
 PIC/Vlasov、编译代码、重复 GPU 基准或验证实验。来源核验记录保存于 <a
 href="../data/methods-source-checks.json">methods-source-checks.json</a>。</li>
 </ul>
+<p><strong>本次原图增补的范围：</strong>
+本章新增6幅论文原图区，来自R131、R139、R330、R357、R369五篇。2026-10-01重新查看相应PDF图注、邻近方法/结果及源页面，并逐幅检查最终裁图；这是指定图区域的视觉与说明核验，未升级为这五篇全部图表的逐页精读。逐图来源、PDF页码、裁图坐标和哈希见<code>data/figure-assets/</code>的ch05侧录，选择与未用项见<a
+href="../data/figure-selection-methods.md">原图选择方法</a>。</p>
 <h1
 id="机器学习与等离子体预测闭合反演优化和控制">06｜机器学习与等离子体：预测、闭合、反演、优化和控制</h1>
 <blockquote>
@@ -3077,6 +3728,23 @@ R133：在固定激光能量下优化双脉冲</h3>
 <p><a href="#r133">R133</a> 把前导脉冲能量分数和延迟作为两个变量，用 BO
 驱动二维 PIC，在固定总能量下寻找更强
 TNSA。物理解释是预脉冲改变前等离子体，使主脉冲吸收、热电子和后鞘场更有利。相比手动扫描，算法贡献是用较少点找到有效区域；物理贡献则须看同能量基线和稳健平台。最优值是否跨网格、粒子数和定时抖动保持，比单点增幅更接近实验价值。</p>
+<figure>
+<a href="figures/papers/ch06/r133-fig-3.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch06/r133-fig-3.png"
+alt="原图：固定能量双脉冲的贝叶斯优化地图" /></a>
+<figcaption
+aria-hidden="true">原图：固定能量双脉冲的贝叶斯优化地图</figcaption>
+</figure>
+<p><strong>图 06-1：固定能量双脉冲的贝叶斯优化地图。</strong>
+R133，原Fig.3，PDF第3页；作者2D PIC驱动的优化与代理插值。</p>
+<p><strong>逐图解读。</strong> 横轴为两脉冲延迟 <span
+class="math inline">\(\Delta t\)</span>，单位fs；纵轴为前导脉冲能量分数
+<span class="math inline">\(r\)</span>，无量纲；主脉冲获得剩余的 <span
+class="math inline">\(1-r\)</span>，因此每个点保持相同总驱动能量。色标是GP后验均值预测的质子截止能量
+<span
+class="math inline">\(E_{max}\)</span>，单位MeV。白圈是32次PIC调用的采样位置，红星标出
+<span class="math inline">\(r=0.07\)</span>、234
+fs候选；连续彩色面是代理插值，不能当成每个像素都实际计算过的扫描。黄绿高值区集中在小前导份额和中等延迟，给前等离子体形成留时间，同时避免过度抽走主脉冲能量；紫色区显示“大预脉冲”并非总有利。邻近正文说明目标在主峰后统一时间窗读出，使各候选按相同口径比较。图中没有后验方差，所以色面平滑不表示统计置信度已被证明。它支持固定能量二维PIC模型中的BO选点和有效区域，不是实验优化；定时抖动、三维膨胀与分辨率改变后的稳健性仍需复核。<a
+href="#r133">R133</a></p>
 <h3 id="r139把神经场求解放进-pic-循环">6.5 R139：把神经场求解放进 PIC
 循环</h3>
 <p><a href="#r139">R139</a> 以源项压缩、潜残差修正和多层 FNO
@@ -3096,6 +3764,25 @@ Jacobian，而非单一步回归。真正的困难是模块闭合误差会沿同
 Landau 闭合</h3>
 <p><a href="#r256">R256</a> 在可微低阶流体求解器内训练
 FNO，让损失直接作用于部署轨迹。模型读低阶矩的历史，复现从线性阻尼到非线性俘获的部分范围；训练振幅包络外明显失效。它展示“最佳有效闭合不必逐点等于真实热流”，因为闭合还补偿被截断矩的总体作用。因此学习结果依赖波数、求解器和离散方式；不能把一维单模成功当成一般湍流闭合。</p>
+<figure>
+<a href="figures/papers/ch06/r256-fig-5.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch06/r256-fig-5.png"
+alt="原图：闭合跨越线性阻尼与非线性俘获" /></a>
+<figcaption
+aria-hidden="true">原图：闭合跨越线性阻尼与非线性俘获</figcaption>
+</figure>
+<p><strong>图 06-2：闭合跨越线性阻尼与非线性俘获。</strong>
+R256，原Fig.5，PDF第21页；作者Vlasov与流体-FNO数值比较。</p>
+<p><strong>逐图解读。</strong> （a）横轴是初始密度扰动振幅 <span
+class="math inline">\(A\)</span> 的对数坐标，纵轴是归一化有效阻尼率
+<span
+class="math inline">\(\gamma_{eff}/\omega_p\)</span>；蓝线为Vlasov参考，红线为流体+FNO，灰实/空标记区分训练与测试振幅，虚线为线性Landau基线。训练范围
+<span class="math inline">\(10^{-3}\)</span>—<span
+class="math inline">\(10^{-1}\)</span>
+内两线接近，向0.2、0.3外推则明显分离。（b）、（c）、（d）依次取0.0007、0.009、0.07，横轴为
+<span class="math inline">\(\omega_pt\)</span>，纵轴为对数归一化电场能量
+<span
+class="math inline">\(W_E\)</span>，不是焦耳：第一幅包络持续衰减；第二幅接近俘获阈值后趋平；第三幅显著振荡并保持非线性包络，FNO总体能跟随这些变化。阻尼率按原图注由初期能量峰值拟合，是本文的有效诊断口径，不宜和其他论文场振幅阻尼率未经定义直接比较。此图展示一套有记忆闭合跨训练包络的可用区与失效区；参考也是一维固定波数Vlasov计算，不能证明任意多模湍流闭合或真实实验中的一般泛化。<a
+href="#r256">R256</a></p>
 <h3 id="r268毫秒平衡代理的输入边界">6.9
 R268：毫秒平衡代理的输入边界</h3>
 <p><a href="#r268">R268</a> 用 FreeGS
@@ -3104,6 +3791,23 @@ R268：毫秒平衡代理的输入边界</h3>
 点坐标本来就是输入，网络并没有从线圈信号独立发现 X
 点；固定壁面、拓扑和网格限制了泛化。毫秒推理与传统求解配置的比较，只对论文该基线成立，不能自动优于已经
 warm-start 的生产求解器。</p>
+<figure>
+<a href="figures/papers/ch06/r268-fig-5.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch06/r268-fig-5.png"
+alt="原图：磁通误差与X点几何误差" /></a>
+<figcaption aria-hidden="true">原图：磁通误差与X点几何误差</figcaption>
+</figure>
+<p><strong>图 06-3：磁通误差与X点几何误差。</strong>
+R268，原Fig.5，PDF第8页；作者单装置固定拓扑代理测试。</p>
+<p><strong>逐图解读。</strong> 九幅图共用 <span
+class="math inline">\(R,Z\)</span>
+米坐标；每行左、中、右依次为FreeGS参考磁通、FNO磁通和绝对误差 <span
+class="math inline">\(|\Delta\psi|\)</span>。前两列采用同一Wb色标，误差列采用单独的
+<span class="math inline">\(10^{-4}\)</span>
+Wb尺度，不能凭颜色相似度跨色标比较。上、中、下行分别选低误差、近中位和近p95样本，其全场相对
+<span class="math inline">\(L_2\)</span>
+为0.024%、0.047%、0.097%。每一行前两幅核心轮廓相近，右幅揭示误差向分离面和X点相关区域集中；青色为真实分离面，洋红为预测。上行的几何偏差较小，中行略增，下行虽仍保持小全场范数，框内Hausdorff距离已达4.816
+cm。Hausdorff度量最坏局部偏差，不能和平均最近点误差混用。图中壁和线圈位置固定，X点目标本来就是输入，三行也只是500个留出样本中的代表，不是三个实机放电。它支持在所选双零位族内检查代理几何，而不证明新拓扑、另一装置或真实诊断反演同样准确。<a
+href="#r268">R268</a></p>
 <h3 id="r272带前向核和-ood-的-efish-反演">6.10 R272：带前向核和 OOD 的
 EFISH 反演</h3>
 <p><a href="#r272">R272</a> 将偏振条件、Fourier 特征和 EFISH
@@ -3120,6 +3824,35 @@ class="math inline">\(dP=S\,dI\)</span>、<span
 class="math inline">\(dI=S^+dP\)</span> 将形状请求转为线圈请求；当 <span
 class="math inline">\(S\)</span>
 病态时，微小形状误差会放大为巨大电流。主动炮次中的保护跳闸与病态案例是部署边界，不应被平均跟踪效果掩盖。</p>
+<figure>
+<a href="figures/papers/ch06/r318-fig-1-1.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch06/r318-fig-1-1.png"
+alt="原图：神经Jacobian接入已有控制链" /></a>
+<figcaption
+aria-hidden="true">原图：神经Jacobian接入已有控制链</figcaption>
+</figure>
+<p><strong>图 06-4：神经Jacobian接入已有控制链。</strong>
+R318，原Fig.1.1，PDF第2页；论文控制架构示意。</p>
+<p><strong>逐图解读。</strong> 左侧装置示意标出 <span
+class="math inline">\(R_{in},R_{out}\)</span>、X点和间隙等形状量，没有数值轴，颜色是磁通轮廓示意，不能读取约束性能。中间紫框先由线圈电流、等离子体电流和剖面参数预测形状，再求Jacobian
+<span class="math inline">\(S=\partial P/\partial
+I_{act}\)</span>，经伪逆产生虚拟电路；橙框则是传统按放电阶段查预计算VC的替代路径。右侧磁诊断和形状重建提供当前状态，既有PID/前馈控制决定形状变化请求，VC将它变为线圈电流请求，机器保护再限制电流并转为电压，最后返回装置。图的重点是AI位于局部响应计算接口，形状估计、目标控制与执行器保护都仍有各自职责；两种VC路径也不是同时叠加的两个控制增益。它属于论文架构示意，没有跟踪误差或延迟数据；主动控制的实验证据需结合实际炮次。相比“神经网络控制聚变”这一笼统说法，这张图更准确地说明了真实闭环中被替换的环节及误差会进入何处。<a
+href="#r318">R318</a></p>
+<figure>
+<a href="figures/papers/ch06/r318-fig-4-1.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch06/r318-fig-4-1.png"
+alt="原图：实时伪逆的病态会放大线圈请求" /></a>
+<figcaption
+aria-hidden="true">原图：实时伪逆的病态会放大线圈请求</figcaption>
+</figure>
+<p><strong>图 06-5：实时伪逆的病态会放大线圈请求。</strong>
+R318，原Fig.4.1，PDF第6页；真实放电状态与离线诊断反事实。</p>
+<p><strong>逐图解读。</strong>
+横轴为放电时间s，纵轴是实际受控VC矩阵的二范数，单位A/m且采用对数刻度；它衡量单位形状变化会要求多大线圈电流，不是神经预测误差。黑线来自53996炮，红线来自54168炮所用映射，后者在大部分时段较高，约0.5
+s处还有局部尖峰。蓝、绿虚线是分别删去 <span
+class="math inline">\(R_{nose}\)</span>、<span
+class="math inline">\(R_s\)</span>
+列后的离线重求逆，紫色点线仅取这对方向；这些反事实曲线没有用于实际控制。邻近正文指出约0.5
+s两列近共线，伪逆放大形状请求，图中下降的删列曲线帮助定位退化来源。大增益会放大测量和模型误差，解释为什么网络本身准确仍可能产生不稳健执行请求。作者明确未由两炮比较建立跟踪变差的唯一因果关系，不能把尖峰直接称为诊断到的损伤。该图结合真实放电状态与离线矩阵诊断，支持对条件数和正则化的关注，不证明删除约束已经在现场解决问题。<a
+href="#r318">R318</a></p>
 <h3 id="r327网格迁移与物理分布迁移有区别">6.12
 R327：网格迁移与物理分布迁移有区别</h3>
 <p>正式论文 <a href="#r327">R327</a>
@@ -3187,6 +3920,22 @@ href="#r302">R302</a>。生成模型可以输出多种可能轨迹，但这不�
 href="#r317">R317</a>、无磁诊断的平衡挑战 <a
 href="#r324">R324</a>、观察器模型预测控制 <a
 href="#r390">R390</a>。仿真中的强化学习策略、历史数据回放、硬件集成、真实主动放电是连续但不同的验证层次；跨装置控制尤其不能靠随机拆分测试集宣称。</p>
+<p><a href="#r308">R308</a>
+则由目标形状与状态估计反求线圈请求，再交给已有低层电流/位置控制。下图把它的真实TCV成形结果与全形状闭环能力分开，作为前述控制证据层次的具体例子。</p>
+<figure>
+<a href="figures/papers/ch06/r308-fig-4.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch06/r308-fig-4.png"
+alt="原图：TCV的实机成形与已有径向反馈" /></a>
+<figcaption
+aria-hidden="true">原图：TCV的实机成形与已有径向反馈</figcaption>
+</figure>
+<p><strong>图 06-6：TCV的实机成形与已有径向反馈。</strong>
+R308，原Fig.4，PDF第20页；真实TCV放电及平衡重建。</p>
+<p><strong>逐图解读。</strong> 上排是TCV
+#86708在0.252、0.336、0.416、0.8、1.05
+s的重建平衡，背景为实验数据重建，红点表示下一目标形状；这些图没有通用温度色标，不能把核心颜色解释成温度。五幅依次显示受限形状、向下单零位过渡及后续保持；坐标刻度对应装置的
+<span class="math inline">\(R,Z\)</span>
+米尺度。下图横轴为秒，左轴是两炮径向位置误差mm，黑/灰曲线总体在毫米量级波动；右轴是无量纲极向beta，蓝/青曲线在中性束加热后升高，用来检查压力扰动下的成形。红虚线将轨迹时刻与上排快照联系起来。邻近正文特别说明径向位置另有反馈环路，而当时未对全部形状误差施加完整实时闭环；因此小径向误差不能全归功于神经网络。这是真实TCV成形和诊断重建证据，较纯FGE仿真前进了一步，但仍不能替代所有控制点、拓扑切换和在线适应任务的独立实机验收。<a
+href="#r308">R308</a></p>
 <h2 id="如何选择方法和验证泛化">8. 如何选择方法和验证泛化</h2>
 <table>
 <thead>
@@ -3267,6 +4016,9 @@ BO/GX/PASCHEN、运行真实 PCS
 <a
 href="../data/methods-source-checks.json">methods-source-checks.json</a>。</li>
 </ul>
+<p><strong>本次原图增补的范围：</strong>
+本章新增6幅论文原图区，来自R133、R256、R268、R308、R318五篇。2026-10-01重新查看图注、邻近模型/结果和源页面，逐幅检查最终裁图；示意、作者数值验证、真实放电及离线诊断分别标注，未重新训练或进行实机控制。逐图来源、PDF页码、裁图坐标和哈希见<code>data/figure-assets/</code>的ch06侧录，选择与未用项见<a
+href="../data/figure-selection-methods.md">原图选择方法</a>。</p>
 <h1 id="磁约束聚变与快粒子从磁面平衡到可验证的实时控制">07
 磁约束聚变与快粒子：从磁面平衡到可验证的实时控制</h1>
 <blockquote>
@@ -3469,6 +4221,24 @@ class="math inline">\(r/a\le0.5\)</span> 的湍流通量降低和非线性 ITG
 分布、全剖面功率平衡和电磁模式损失仍应一起检查。高能 alpha
 可能稳定微湍流，同时又通过 Alfvén 本征模向壁损失，两个结论可同时成立。<a
 href="#r142">R142</a></p>
+<figure>
+<a href="figures/papers/ch07/r142-fig10.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch07/r142-fig10.png"
+alt="图07-1 快alpha降低主体热流，同时打开自身输运通道" /></a>
+<figcaption aria-hidden="true">图07-1
+快alpha降低主体热流，同时打开自身输运通道</figcaption>
+</figure>
+<p><strong>图
+07-1｜快alpha降低主体热流，同时打开自身输运通道。</strong></p>
+<p>原 Fig. 10（PDF 第16页）比较 <span
+class="math inline">\(r/a=0.35\)</span>
+的局域非线性计算，左列把alpha人为热化作为控制，右列保留快alpha。<strong>(a)、(b)</strong>横轴时间以
+<span class="math inline">\(a/c_s\)</span>
+为单位，纵轴热流以作者gyro-Bohm量 <span
+class="math inline">\(Q_{gb}\)</span>
+归一化；黑、青、紫分别为DT、电子、alpha。控制组主体热流持续涨落，快alpha组在模式发展后DT/电子热流显著降低，alpha热流却增加：稳定主体湍流不能等价于高能粒子完全没有损失。<strong>(c)、(d)</strong>横轴为无量纲
+<span
+class="math inline">\(k_y\rho_s\)</span>，两轴均采用对数刻度；控制组热流较宽地分布在离子尺度，快alpha组在约0.0525出现窄的alpha输运峰，而更高波数主体热流下降。阴影是各波数平均热流的95%置信区间，属于有限模拟时间统计，并非ARC装置测量误差。图的论证作用是显示长波快粒子模与宽谱湍流之间的非线性反馈，需结合论文zonal-flow与模式结构诊断才解释因果；单看四图不能唯一认定模式为某个全局本征模。它没有把整体温度剖面重新闭合，也未证明总alpha沉积净增加。相同归一化与人为热化对照使机制比较清晰，但局域几何、给定分布和有限计算域限制向真实燃烧机器外推。<a
+href="#r142">R142</a></p>
 <p><strong>重点 8：恒星器 alpha
 约束从“优化器”转向“可行设计空间”。</strong> R141 用数据分位变换和边界点
 PCA，把几何搜索空间重新组织，再做异步 Bayesian optimization 与
@@ -3485,6 +4255,26 @@ beat-driven，但不能排除晚期快离子外逸附加贡献。真实测到流
 alpha 自热增加。它为 R142
 的多尺度反馈提供相关实验参照，尚不是同一条件的验证。<a
 href="#r239">R239</a></p>
+<figure>
+<a href="figures/papers/ch07/r239-fig2.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch07/r239-fig2.png"
+alt="图07-2 鱼骨与低频流：频率重合之后还要看相位耦合" /></a>
+<figcaption aria-hidden="true">图07-2
+鱼骨与低频流：频率重合之后还要看相位耦合</figcaption>
+</figure>
+<p><strong>图
+07-2｜鱼骨与低频流：频率重合之后还要看相位耦合。</strong></p>
+<p>原 Fig. 2（PDF 第3页）的<strong>(a)</strong>横轴频率
+kHz（对数），纵轴垂直于磁场的流速信号的功率谱密度
+dB/Hz。橙线鱼骨时段相对蓝色无鱼骨时段，在约20–25
+kHz出现强峰，低频流也增强；黑虚线提示噪声底。它先建立共存，却不足以证明非线性驱动。<strong>(b)</strong>用两温度涨落与一个流速涨落计算归一化双相干
+<span class="math inline">\(b^2\)</span>，横纵坐标为 <span
+class="math inline">\(f_1,f_2\)</span>，单位kHz；色标无量纲。图中正负鱼骨频率形成近零差频的耦合斑，沿虚线检查
+<span class="math inline">\(f_1+f_2=f_{flow}\)</span>
+的组合，比两条时间曲线同时上升更有力。<strong>(c)</strong>取该差频线上的双相干，横轴
+<span class="math inline">\(f_1\)</span>、纵轴 <span
+class="math inline">\(b^2\)</span>，约24
+kHz峰明显超出黑色噪声水平。三图分别承担频谱识别、频率三元组定位与相位统计显著性的论证，不能只摘(c)的高峰就省略其定义。数据来自EAST诊断，属于实验相位耦合证据；空间流形、早晚期驱动与热离子/电子贡献还需其余测量和GTC解释。有限窗口、诊断空间权重和统计噪声仍限制结论，这张图没有显示长期能量约束改善或聚变alpha增益。双相干的零到一归一化衡量相位锁定程度，既不是能量传输百分比，也不直接给出流的绝对驱动力或输入功率。
+<a href="#r239">R239</a></p>
 <p>快粒子输运代理 R278 学的是指定 ITER 工况、已非线性饱和的 FAR3d
 响应，不是完整模增长时间过程。R255
 从变分结构构造全动理学离子/陀螺电子混合框架，提供守恒设计背景。R109
@@ -3493,6 +4283,26 @@ channeling。它们都涉及快粒子，物理层次和证据成熟度却不同�
 关键词并成一条性能增长曲线。<a href="#r278">R278</a> <a
 href="#r255">R255</a> <a href="#r109">R109</a> <a
 href="#r244">R244</a></p>
+<figure>
+<a href="figures/papers/ch07/r278-fig9.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch07/r278-fig9.png"
+alt="图07-3 快粒子通量代理：剖面准确与可信区间宽度是两回事" /></a>
+<figcaption aria-hidden="true">图07-3
+快粒子通量代理：剖面准确与可信区间宽度是两回事</figcaption>
+</figure>
+<p><strong>图
+07-3｜快粒子通量代理：剖面准确与可信区间宽度是两回事。</strong></p>
+<p>原 Fig. 9（PDF 第19页）上排<strong>(a–d)</strong>为Gaussian
+process，下排<strong>(e–h)</strong>为神经网络，四列依次是训练15_rev、训练22_norm、测试23_rev、测试24_norm；rev与norm表示反剪切和单调<span
+class="math inline">\(q\)</span>构型。各图横轴 <span
+class="math inline">\(\rho\)</span>
+为归一化环向磁通平方根；纵轴为缩放alpha粒子通量，需乘 <span
+class="math inline">\(\Gamma_{\alpha,0}=5.5857\times10^{19}\)</span>
+m⁻²s⁻¹恢复单位，不能把纵轴数字当热功率。黑线“True”是FAR3d模拟标签，蓝线是均值，阴影是
+<span class="math inline">\(\pm1\sigma\)</span>
+预测范围。<strong>(a/e)</strong>窄峰较难，NN有更明显局部起伏；<strong>(b/f)</strong>较宽训练峰两者均跟随；<strong>(c/g)</strong>留出反剪切剖面仍能捕捉更高峰值；<strong>(d/h)</strong>留出单调<span
+class="math inline">\(q\)</span>宽峰也近似恢复。GP带往往比NN带宽，反映概率GP与Monte-Carlo
+dropout两种不确定性估计的差别，不能只用带窄判断模型更可靠。这八图支持指定构型、非线性饱和数据范围内的快速输运闭合，未覆盖强burst、chirping或完整模式成长史。测试是完整留出剖面而非同剖面随机点，较有说服力；但样本来自有限两类ITER平衡，真实实验与分布外构型仍须独立检验。判断阴影能否作为部署置信区间，还应在额外独立样本上检验覆盖率，并检查误差是否随构型、峰值与饱和阶段系统变化；仅这八条剖面不能完成此类校准。
+<a href="#r278">R278</a></p>
 <p><strong>教学推导：逃逸电子的阈值为何不是单一温度。</strong>
 高能电子的碰撞摩擦随速度变化；相对论极限的临界电场常写为</p>
 <p><span class="math display">\[
@@ -3532,6 +4342,22 @@ class="math inline">\(c/3\)</span>。实验处于较低 beta
 原理验证，单侧天线未做方向反转，所以反应堆效率仍需专门检验。本次官方核查首次
 arXiv 提交为 09-11，台账 09-08 不宜当已确认首次公开日期。<a
 href="#r342">R342</a></p>
+<figure>
+<a href="figures/papers/ch07/r342-fig3.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch07/r342-fig3.png"
+alt="图07-4 核心电流驱动：诊断残差与理论的一致及分歧" /></a>
+<figcaption aria-hidden="true">图07-4
+核心电流驱动：诊断残差与理论的一致及分歧</figcaption>
+</figure>
+<p><strong>图
+07-4｜核心电流驱动：诊断残差与理论的一致及分歧。</strong></p>
+<p>原 Fig. 3（PDF 第4页）的<strong>(a)</strong>横轴为归一化半径 <span
+class="math inline">\(\rho\)</span>，纵轴电流密度 A/cm²，需注意 <span
+class="math inline">\(1\)</span> A/cm²=<span
+class="math inline">\(10^4\)</span>
+A/m²。橙线螺旋波炮次在轴附近产生正残差，绿色GENRAY首次通过预测更尖的轴心峰；蓝色带是无螺旋波的参考和额外ECH炮次变化。<strong>(b)</strong>把残差径向积分，纵轴
+kA，核心约20±10 kA与GENRAY约26
+kA同量级；橙线外侧起伏及局部负值说明残差剖面并非处处精确等于独立驱动源，不能逐点当作负电流真实新机制。阴影是炮次平均的标准差，尚未涵盖所有电流源建模系统误差。真实实验约束来自MSE平衡重建和放电对照，螺旋波电流则由总电流减去Ohmic、自举、NB、EC等已知模型贡献取得；这解释为何既可称电流驱动实验，也必须注明反演链。图支持核心共电流方向与加热对照之外的贡献，峰形差别则提示沉积/输运或重建误差仍待厘清。单侧天线、低beta与未反转发射方向，限制其直接升级为反应堆级效率验证。径向积分能减弱局部重建噪声，却不会消除自举电流和外部驱动模型的共同偏差，因此积分一致与峰形一致应作为两个不同检查项。
+<a href="#r342">R342</a></p>
 <p><strong>重点 12：宽带下混合波改变的是边带结构。</strong> R228
 的理论结合 Alcator C-Mod
 边带，指出有限带宽可把非共振连续谱重组到离子回旋谐波附近，且增长率仍可较大。它和
@@ -3575,6 +4401,25 @@ R318 是前篇 PCS
 VC
 对照机器时间，故证明可部署完成任务，尚不能证明所有情景全面优于传统方法。<a
 href="#r318">R318</a> <a href="#r312">R312</a></p>
+<figure>
+<a href="figures/papers/ch07/r318-fig3-1.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch07/r318-fig3-1.png"
+alt="图07-5 四炮主动闭环：每个形状自由度都要看控制边界" /></a>
+<figcaption aria-hidden="true">图07-5
+四炮主动闭环：每个形状自由度都要看控制边界</figcaption>
+</figure>
+<p><strong>图
+07-5｜四炮主动闭环：每个形状自由度都要看控制边界。</strong></p>
+<p>原 Fig. 3.1（PDF
+第4页）四列是真实MAST-U炮次53996、54000、54002、54168，所有横轴时间
+s、纵轴长度 m。七行从上到下为外/内中平面半径 <span
+class="math inline">\(R_{out},R_{in}\)</span>、X点高度 <span
+class="math inline">\(Z_X\)</span>、X点半径 <span
+class="math inline">\(R_X\)</span>、偏滤器间隙 <span
+class="math inline">\(S_{gap}\)</span>、nose附近半径 <span
+class="math inline">\(R_{nose}\)</span>、打击点半径 <span
+class="math inline">\(R_s\)</span>。橙线是LEMUR实时重建，紫点划线是预炮FPDT模拟，黑虚线是反馈参考；绿色时段启用RTVC，淡紫时段用传统VC，白区表示该参数并未受对应VC主动反馈。第一列说明核心三参数可保持，底部自由量仍变化；第二列在核心扰动时同时扫描打击点，不能只检验首行。第三列增加伸长与腿扫描，后期多个几何量一起偏离，原文将nose接近及未控制该约束联系起来；最后一列控制全部七参数，扰动后大部分回到参考，但短时尖峰仍在。红竖线是爬降开始，不是每个尖峰的故障标签。54000的563
+ms终止源于Langmuir探针保护，作者未归因RTVC运行失败。图展示控制器确实向实机发请求并完成规定任务，同时公开边界和重建偏差；由于传统VC对照机器时间有限，不能由四列直接给出普遍优胜排名。各行量程不同，视觉上类似幅度的偏离对应不同绝对厘米误差，跨参数性能比较应恢复单位后进行。
+<a href="#r318">R318</a></p>
 <p>R308 的 TCV inverse-GS 网络采取另一接口：目标形状先变成 PF
 电流请求，再由低层 RZIP
 执行。真实成形实验存在，但初始实验没有显式实时形状反馈，完整适应主要在
@@ -3588,6 +4433,21 @@ href="#r308">R308</a></p>
 ms。尚未包含真实平衡重建、通信、电源和装置闭环，个别最大计时超过 1
 ms；不能只靠均值称硬实时保证。这是模型降阶和优化控制，不能因同在先进算法章节就称为
 ML 已上机。<a href="#r390">R390</a></p>
+<figure>
+<a href="figures/papers/ch07/r390-fig8.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch07/r390-fig8.png"
+alt="图07-6 名义控制性能：多任务误差与实机闭环距离" /></a>
+<figcaption aria-hidden="true">图07-6
+名义控制性能：多任务误差与实机闭环距离</figcaption>
+</figure>
+<p><strong>图
+07-6｜名义控制性能：多任务误差与实机闭环距离。</strong></p>
+<p>原 Fig. 8（PDF
+第17页）全部来自作者FGE非线性plant仿真。左上纵轴等离子体电流
+kA，左下为LCFS边界均方根误差 mm；横轴时间
+s，蓝/橙/绿分别为PID/LQR/MPC。MPC初始电流过冲更大、边界误差也暂升到约40
+mm，约0.65
+s后降至较低平台；LQR初始更平滑，后续边界误差反升，PID留较大偏置。因此“更好”必须说明稳态、整窗RMS还是瞬态峰值，不能靠最后一个点概括。右侧三行依次PID、LQR、MPC，每行九条曲线对应九个控制点磁通误差，单位mWb；不同点可能同号偏置或相互抵消，必须逐通道看，不能只画平均。MPC在主体时间段压低多个通道误差，仍有正偏置点和负过冲。阴影是视觉参考带，原图注<strong>没有将其定义为硬性容许误差范围</strong>。它支撑在该名义模型和调参下的多变量收益；论文其他页才讨论噪声、延迟及失配，不能把此图当鲁棒性全检验。状态观测器、电源通信与真实重建未在装置中闭环，图中毫秒级误差演化也不是CPU求解延迟分布。左下曲线是每时刻的空间边界误差，论文全窗RMS数字又增加时间平均；两者相互补充，不能混成同一统计口径。
+<a href="#r390">R390</a></p>
 <h2 id="今年动态比较与经验">8. 今年动态、比较与经验</h2>
 <p>本库 2026 年动态可分三条。第一条是
 <strong>平衡与输运计算可调用化</strong>：从 R074 的线性 GK
@@ -3688,13 +4548,18 @@ R330/R142/R239，区分线性增长、非线性饱和和约束反馈。第四轮
 物理与算力）、R142（alpha
 反馈）、R318（实机闭环）、R379（优化失败与回退）。它们共同解释这个方向为什么同时需要物理、算法、诊断和工程，而不只是一套更大的神经网络。</p>
 <h2 id="本章证据来源与覆盖-6">10. 本章证据来源与覆盖</h2>
+<p>本轮原图补充（2026-10-01）逐一阅读6幅所选原图的图注及邻近正文，并查看原页与最终裁图；来源为
+R142、R239、R278、R342、R318、R390。保留全部所选子图、坐标轴和图例；每幅均有原PDF/PNG
+SHA-256、页码、PDF点坐标裁框及检查侧录。此检查覆盖所选图，不表示全库逐图精读或独立复现；详见<a
+href="../data/figure-selection-hedp.md">原图选择记录</a>与<a
+href="../data/figure-assets/">图像来源侧录</a>。</p>
 <p>本次清点原路由 43 条的标题、日期与路径，正文串联超过 30 篇，16
 个重点单元。对于同标签的
 ICF、核素与闪烁材料明确作分类噪声/跨方向关联处理，未把它们算成磁约束实测提升。现有笔记阅读覆盖
 R106/R109/R128/R141/R142/R157/R175/R197/R228/R231/R234/R235/R239/R243/R255/R268/R269/R270/R278/R291/R305/R308/R318/R324/R330/R342/R349/R359/R365/R367/R379/R390；未有新读全文支撑的条目仅作主题关联，不摘录强定量结论。</p>
-<p>本次重新用本地 <code>pdftotext -layout</code> 定位复核
-<strong>R268、R318、R342、R379</strong>
-的定量与证据口径；R330/R324/R308/R390
+<p>初稿阶段重新用本地 <code>pdftotext -layout</code> 定位复核
+<strong>R268、R318、R342、R379</strong> 的定量与证据口径；初稿中
+R330/R324/R308/R390
 等细节主要复用现有深入笔记，未重跑代码、下载开放数据集或审阅原始放电信号。</p>
 <p>2026-09-30 成功打开 <a href="https://arxiv.org/abs/2608.28468">R318
 官方 arXiv</a> 和 <a href="https://arxiv.org/abs/2609.12474">R342 官方
@@ -3868,6 +4733,16 @@ href="#r284">R284</a>
 将固体、气体、低温、液体和刷新方案放在统一视角。平薄靶服务鞘场、辐射压与透明度机制；近临界泡沫改变激光吸收和体加热；气体/毛细管服务电子尾场；液体、低温和
 tape
 服务持续刷新。读者应同时比较制备复杂度、预脉冲生存性、尺寸公差、碎屑和重复率。靶类型不能独立决定最优物理机制，激光对比度和时间尺度同样关键。</p>
+<figure>
+<a href="figures/papers/ch08/r067-fig-3.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch08/r067-fig-3.png"
+alt="原图：气体靶的三种工程几何" /></a>
+<figcaption aria-hidden="true">原图：气体靶的三种工程几何</figcaption>
+</figure>
+<p><strong>图 08-1：气体靶的三种工程几何。</strong>
+R067，原Fig.3，PDF第6页；综述中的装置照片汇编。</p>
+<p><strong>逐图解读。</strong>
+（a）左、右照片分别为圆口和狭缝喷嘴，开放几何便于激光与横向探针进入，也把连续供气负担交给真空系统。（b）气室把气体限制在腔体内，激光穿过入口和出口，便于形成较均匀的纵向区域，但孔口、壁侵蚀和失准必须考虑。（c）展示毛细管放电发光和电极、供气接头、蓝宝石块的结构，用预放电制备具有导引作用的等离子体通道，代价是高压与时序同步。三组都是装置照片，没有密度、温度或束能坐标；发光亮度也未做辐射标定，不能据此比较密度或导引效率。原图注注明照片来自ELI-NP及综述引用74—76，因此是2026综述汇编的已有结构，而非三项新性能实验。邻近表格对供气、诊断访问和壁损伤作比较；其典型重复率限制不是喷嘴几何的普适硬上限，高重复率论文还需单独检查气体回收、抽速和实际运行统计。这幅图给初学者一个靶的工程接口地图。<a
+href="#r067">R067</a></p>
 <h3 id="r092开放相互作用几何中的气体回收">6.2
 R092：开放相互作用几何中的气体回收</h3>
 <p><a href="#r092">R092</a> 将 skimmer/catcher
@@ -3885,6 +4760,22 @@ R185：时间分辨晶体谱仪的绝对响应</h3>
 读出链，并用时间积分通道辅助现场交叉标定。谱线展宽可约束密度，卫星线相对强度可约束温度，但先需扣除仪器线宽和响应。标定在
 X 射线实验室与最终 NIF 几何之间的传递，是它的方法价值。本次提取 PDF
 并核查仪器/标定段落，未复算反射率或温密反演。</p>
+<figure>
+<a href="figures/papers/ch08/r185-fig-11.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch08/r185-fig-11.png"
+alt="原图：晶体谱仪的绝对通量换算" /></a>
+<figcaption aria-hidden="true">原图：晶体谱仪的绝对通量换算</figcaption>
+</figure>
+<p><strong>图 08-2：晶体谱仪的绝对通量换算。</strong>
+R185，原Fig.11，PDF第6页；实验室X射线绝对标定。</p>
+<p><strong>逐图解读。</strong>
+横轴是X射线能量keV，纵轴是晶体吞吐转换因子，单位 <span
+class="math inline">\(\mathrm{sr\,keV/mm}\)</span>，并带 <span
+class="math inline">\(10^{-7}\)</span>
+倍率；它来自焦面每毫米的衍射光子强度除以源的每keV、每sr光子强度，所以是带单位的几何/谱响应，不是0到1的量子效率。红、蓝曲线分别为Pilatus测得并修正效率的Ge与石英响应，黑点是另一Amptek探测器在若干位置的独立测量。石英覆盖约13
+keV，Ge覆盖约15 keV；带内平台约 <span
+class="math inline">\(5\times10^{-8}\)</span> 和 <span
+class="math inline">\(1.2\times10^{-7}\)</span>，边缘急降说明同样光子谱不能用全能区单常数换算。黑点与连续曲线接近，使源谱、空间色散和探测效率之间有交叉约束；局部起伏仍可含晶体表面缺陷。它是实验室晶体支路的绝对标定结果，最终NIF记录还要接上streak相机、滤片及几何传递，并非图中已直接测得热斑温密或完整单发谱的不确定度。<a
+href="#r185">R185</a></p>
 <h3 id="r206同发前后谱可以减少哪类系统误差">6.5
 R206：同发前后谱可以减少哪类系统误差</h3>
 <p><a href="#r206">R206</a> 设计 90°
@@ -3897,6 +4788,23 @@ R206：同发前后谱可以减少哪类系统误差</h3>
 href="https://arxiv.org/abs/2607.17059">官方原始来源</a>核验了基线。主绿光约
 543 nm 的测量与滤光处理很重要，因为相机 QE
 随波长变化。该结果不能无条件套给任意电子能量、屏型号、观察角与镜头；迁移到自己的能谱仪要重新折算全光学链并检查局部饱和。</p>
+<figure>
+<a href="figures/papers/ch08/r219-fig-4.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch08/r219-fig-4.png"
+alt="原图：DRZ屏光输出斜率如何变成电荷" /></a>
+<figcaption
+aria-hidden="true">原图：DRZ屏光输出斜率如何变成电荷</figcaption>
+</figure>
+<p><strong>图 08-3：DRZ屏光输出斜率如何变成电荷。</strong>
+R219，原Fig.4，PDF第3页；RF电子束绝对电荷标定。</p>
+<p><strong>逐图解读。</strong>
+横轴是参考束流监测器给出的总电荷pC，纵轴是校正光学链后的每立体角闪烁光子数photons/sr，注意
+<span class="math inline">\(10^{11}\)</span>
+倍率；这里不是原始CCD灰度，也不是photons/s。不同颜色对应PI200、HIGH、PLUS、STANDARD、FINE、HR，误差棒综合束荷波动、光学效率和图像重复测量。六条拟合线在该5—50
+pC扫描区间近似线性，PI200最陡，HR最缓，表明选屏会改变电荷换算因子；邻近表格将斜率换成每pC、每sr的绝对灵敏度，PI200与HR约为
+<span class="math inline">\(12.7\times10^9\)</span> 和 <span
+class="math inline">\(1.5\times10^9\)</span>。有线性关系仍需确定单位、角分布和光谱校正，不能把某条斜率直接复制到另一相机/镜头。该图属于约30
+MeV射频电子束的真实标定，验证的是已用配置与束荷范围，没有验证所有能量、局部面电荷密度或饱和条件；迁移到激光宽谱电子时，应先把屏、角度、QE和完整收光链接回响应模型。<a
+href="#r219">R219</a></p>
 <h3 id="r262边缘场决定低能端偏转">6.7 R262：边缘场决定低能端偏转</h3>
 <p><a href="#r262">R262</a>
 以数值场图、非均匀场偏转公式、磁测和激光离子图验证可调漂移段 Thomson
@@ -3909,6 +4817,22 @@ R275：纵向相空间决定狭缝怎么选</h3>
 <span
 class="math inline">\(R_{56}\)</span>。所报飞秒分辨率由该束能、偏转和低电荷条件决定，对
 GeV 或高电荷不具有直接适用性。</p>
+<figure>
+<a href="figures/papers/ch08/r275-fig-5.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch08/r275-fig-5.png"
+alt="原图：能窗选择改变所测纵向相空间" /></a>
+<figcaption
+aria-hidden="true">原图：能窗选择改变所测纵向相空间</figcaption>
+</figure>
+<p><strong>图 08-4：能窗选择改变所测纵向相空间。</strong>
+R275，原Fig.5，PDF第6页；真实LWFA束流THz诊断与响应重建。</p>
+<p><strong>逐图解读。</strong>
+六幅横轴均为时间fs，纵轴为电子能量MeV；颜色是各图归一化相空间密度0—1，绿色、紫色分别为能量与时间投影，阴影表示200连续发的标准差，不能把峰色读成绝对fC。（a）、（b）、（c）保持约2.8%—2.9%
+FWHM能散，把窗中心从4.574移到4.554、4.532
+MeV；三幅C形结构覆盖的局部斜率不同，RMS束长依次为26±3、35±5、42±5
+fs。（d）、（e）、（f）保持中心约4.55
+MeV，放宽能散至2.0%、3.8%、4.4%；较宽能窗纳入更多弯曲尾部，束长为27±3、40±4、44±6
+fs。对应数值来自同页表格，不是按图片宽度目测。这说明狭缝位置和开口共同决定诊断到的时间投影，束长不是独立于接受度的单一源属性。图是实际THz偏转、色散及响应重建，诊断点略偏离理想全压缩点；不能外推为全部源电子都具有这些束长，也不能直接推广到GeV或高束荷条件。<a
+href="#r275">R275</a></p>
 <h3 id="r284源端质子与照射点剂量之间的链">6.9
 R284：源端质子与照射点剂量之间的链</h3>
 <p><a href="#r284">R284</a> 在 ELIMAIA–ELIMED
@@ -3924,6 +4848,21 @@ R287：现场长期运行给出另一种性能量</h3>
 验收。相比最佳单发，平台可用日比例、连续工作时间、累计曝光数和实际缺陷分辨更接近应用需求。它提供真实现场无损检测证据，但
 CT 结果来自大量多视角累计曝光，不是同分辨率单发实时成像。也不能从工业 X
 射线性能自动推导光核或医学能力。</p>
+<figure>
+<a href="figures/papers/ch08/r287-fig-2.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch08/r287-fig-2.png"
+alt="原图：72小时运行的单发与平均稳定性" /></a>
+<figcaption
+aria-hidden="true">原图：72小时运行的单发与平均稳定性</figcaption>
+</figure>
+<p><strong>图 08-5：72小时运行的单发与平均稳定性。</strong>
+R287，原Fig.2，PDF第15页；现场LWFA长期运行测量。</p>
+<p><strong>逐图解读。</strong>
+（A）横轴为0—72小时，纵轴为电子能量MeV，色标是探测谱图标定的pC/mm²；长期主谱带保持在相近区域，但瞬时细条纹仍体现发间波动。图注明确数据按0.1
+Hz采样以控制数据量，因此不能据此称每个激光脉冲都被完整记录。（B）左轴为平均能量MeV，右轴为相对束荷a.u.，统计只取大于70
+MeV的电子；浅蓝、浅绿散点是单发，细线是10分钟、60个采样发的平均。图注给单发平均能量86.2±1.1
+MeV、束荷164±16 pC，对应1.3%、9.8%
+RMS；平均后降为0.4%、1.9%。平均曲线更平滑说明应用积分时间能降低随机波动，却不会自动消除慢漂移或罕见失效。该图来自工业现场LWFA运行，论证长期输出可用性；它仍不是单发实时CT、全天全部脉冲稳定性或完整可用率统计。比较另一高重复率平台时，必须对齐采样、能窗和平均时间。<a
+href="#r287">R287</a></p>
 <h3 id="r309干涉仪零点与实际碰撞点不同">6.11
 R309：干涉仪零点与实际碰撞点不同</h3>
 <p><a href="#r309">R309</a>
@@ -3969,6 +4908,19 @@ pC，即约三百万电子，仍未满足所有低通量需求。九天运行 LE
 信号下降逾半，显示传感器退化需要在线处理。本次 PDF 与<a
 href="https://arxiv.org/abs/2609.35519">官方来源</a>核验这些数值。双读出可查系统差异，但束宽不一致和本底尚未闭合；原型可行性不能写成
 LUXE 最终全谱分辨率已经达到。</p>
+<figure>
+<a href="figures/papers/ch08/r393-fig-8.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch08/r393-fig-8.png"
+alt="原图：束测线性需要同时看拟合残差" /></a>
+<figcaption
+aria-hidden="true">原图：束测线性需要同时看拟合残差</figcaption>
+</figure>
+<p><strong>图 08-6：束测线性需要同时看拟合残差。</strong>
+R393，原Fig.8，PDF第12页；ARES原型探测器真实束测。</p>
+<p><strong>逐图解读。</strong>
+上图横轴为束团电荷pC，纵轴为相机ROI积分CMOS计数并带 <span
+class="math inline">\(10^6\)</span> 倍率；蓝、橙、绿分别为DRZ
+High、Plus、Standard，实线为允许非零截距的线性拟合。High最亮，但这里的斜率包含屏、收光和相机共同响应，不能直接当材料的普适光子产额。下图用相同电荷轴，纵轴为测量值除拟合值的无量纲比；围绕1的小偏离比“上图几乎直线”更直接地检验线性。邻近正文给偏离小于3%，包括横纵误差后的斜率相对不确定度约1.3%；两者分别描述线性残差和校准斜率，不能混成同一个绝对误差。拟合未强制过原点，小正截距与本底有关。它是真实ARES原型束测，已支持该光学配置的电荷换算，却不是LUXE正式非线性Compton谱；全束线本底、空间均匀性、长期退化和另一读出链仍要分别验收，也不能把局部线性推广到更高通量的所有工作条件。<a
+href="#r393">R393</a></p>
 <h2 id="从重点文章扩展到其余诊断路线">7.
 从重点文章扩展到其余诊断路线</h2>
 <p>X 射线结构诊断包含动态压缩粉末衍射分析 <a
@@ -4119,6 +5071,9 @@ href="#r094">R094</a>、<a href="#r115">R115</a>
 <a
 href="../data/methods-source-checks.json">methods-source-checks.json</a>。</li>
 </ul>
+<p><strong>本次原图增补的范围：</strong>
+本章新增6幅论文原图区，来自R067、R185、R219、R275、R287、R393六篇。2026-10-01针对图注、邻近标定/统计段落与源页面复核，并检查最终裁图。照片汇编、实验室标定、束流诊断重建、现场运行与原型束测均保留其证据层；未进行新的独立标定或实验。逐图来源、PDF页码、裁图坐标和哈希见<code>data/figure-assets/</code>的ch08侧录，选择与未用项见<a
+href="../data/figure-selection-methods.md">原图选择方法</a>。</p>
 <h1 id="综合等离子体与交叉方法波开放体系低温源和可信反演">09
 综合等离子体与交叉方法：波、开放体系、低温源和可信反演</h1>
 <blockquote>
@@ -4231,6 +5186,20 @@ href="#r350">R350</a> <a href="#r358">R358</a></p>
 <p><strong>重点 3：从快磁声速度反演密度的 TREX 实验。</strong> R350 让
 B-dot 阵列追踪重联层形成前的早期波前，在已知背景场、低 beta
 条件下反演初始密度。最简式为</p>
+<figure>
+<a href="figures/papers/ch09/r350-fig5.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch09/r350-fig5.png"
+alt="图09-1 从磁声波速度反演密度：相符区与检测下限" /></a>
+<figcaption aria-hidden="true">图09-1
+从磁声波速度反演密度：相符区与检测下限</figcaption>
+</figure>
+<p><strong>图
+09-1｜从磁声波速度反演密度：相符区与检测下限。</strong></p>
+<p>原 Fig. 5（PDF 第5页）单图横轴柱坐标半径 <span
+class="math inline">\(r\)</span>，单位m；纵轴数密度
+m⁻³，采用对数刻度。橙线与阴影是四发放电逐炮利用波前速度反演并插值的密度及一倍标准差；绿点来自Langmuir探针，每个位置测量对应不同炮次。中心约
+<span class="math inline">\(10^{18}\)</span>
+m⁻³范围两者相符，说明在已知背景磁场、温度和MHD近似下，磁声速度能约束密度；这里不是光学直接拍到粒子数。半径增大时密度迅速下降，两法误差增大，橙绿曲线在外侧的偏离不宜立刻解释成未知输运。绿虚线检测下限由Debye长度与探针尖间距限制，橙虚线由B-dot间距、采样频率及波传播速度限制：密度低时波速更高，相邻探针可能同一采样时刻看到波前，导数无法可靠给出速度。图的作用是界定<strong>在哪个密度域得到交叉验证</strong>，不是证明整个半径都测准。逐炮全剖面相对机械扫描有优势，但阈值取样、探针位置、温度估计及场标定仍进入误差；两种方法也并非完全无共同模型假设的真值比较。纵轴十倍刻度也使低密区的相对偏差显得较小，需结合检测下限读图。
+<a href="#r350">R350</a></p>
 <p><span class="math display">\[
 n_0\simeq\frac{B_0^2}{\mu_0m_iv_{\rm meas}^2}.
 \]</span></p>
@@ -4252,6 +5221,22 @@ Hall-MHD 项相符，并经作者 3D hybrid 模拟比较。能量向高 <span
 class="math inline">\(k_\perp\)</span>
 移动支持级联相容性，尚不是稳态惯性区或普适谱律。该实验把空间等离子体里难分离的机制变成可控测试，外推仍需匹配无量纲区间。<a
 href="#r358">R358</a></p>
+<figure>
+<a href="figures/papers/ch09/r358-fig2.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch09/r358-fig2.png"
+alt="图09-2 和频模依赖双波幅度：排除单天线谐波的关键比较" /></a>
+<figcaption aria-hidden="true">图09-2
+和频模依赖双波幅度：排除单天线谐波的关键比较</figcaption>
+</figure>
+<p><strong>图
+09-2｜和频模依赖双波幅度：排除单天线谐波的关键比较。</strong></p>
+<p>原 Fig. 2（PDF 第4页）六图均为实验幅度扫描，横轴75与100
+kHz基波磁场振幅之积，单位G²；纵轴为所选模式磁场幅度，单位G，两轴均取对数。上排<strong>(a–c)</strong>为反向传播，下排<strong>(d–f)</strong>为同向传播：第一列150
+kHz、第二列200 kHz、第三列175 kHz。150与200
+kHz分别是单基波二次谐波，(a/b/d/e)呈菱形散布，因一台天线增强而另一台变弱也可得到同一横轴积，却不是同一谐波振幅。和频175
+kHz的(c/f)则紧贴一条幂律，说明它确实依赖两波共同存在；反向/同向拟合指数约0.86/0.73，相关系数约0.994/0.97。指数接近但不等于理想二次响应对幅度积的线性指数1，作者指出效率减弱及额外耦合路径等可能性，不能把数值四舍五入为精确理论验证。各图红线为幂律拟合，图内<span
+class="math inline">\(m\)</span>误差是拟合标准误，<span
+class="math inline">\(r\)</span>范围为95%置信区间。该比较支持两流体尺度下同向波也有非线性耦合；它尚未单独证明充分发展的湍流、恒定惯性区通量或任意MHD尺度同向相互作用。波幅用磁场扰动的绝对值标注，实验斜率检验的是响应标度；相位、波数匹配及能量方向仍需要论文其他观测共同约束。
+<a href="#r358">R358</a></p>
 <p>相关波研究还包括 R042 的相位控制双色 THz、R190 的红外光子减速
 THz、R299 的 flying-focus 波前整形与 R048
 的有质动力等离子体透镜。这些可放在“电磁波与等离子体相互整形”的地图上，但射频
@@ -4292,6 +5277,27 @@ class="math inline">\(S\)</span> 上磁通误差约 1%，谱电流约
 class="math inline">\(S\)</span> 晚期 plasmoid burst
 不在训练窗时，重联率误差显著升高。它说明物理残差、导数和任务指标必须共同检查，不能把低场误差升级成高保真全阶段重联。本次没有运行
 DNS 或网络。<a href="#r384">R384</a></p>
+<figure>
+<a href="figures/papers/ch09/r384-fig8.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch09/r384-fig8.png"
+alt="图09-3 重联代理的物理指标：留出参数与时间窗都要交代" /></a>
+<figcaption aria-hidden="true">图09-3
+重联代理的物理指标：留出参数与时间窗都要交代</figcaption>
+</figure>
+<p><strong>图
+09-3｜重联代理的物理指标：留出参数与时间窗都要交代。</strong></p>
+<p>原 Fig. 8（PDF 第11页）三图从左到右为 <span
+class="math inline">\(S=1000\)</span>、训练值9467、留出值约 <span
+class="math inline">\(1.1\times10^4\)</span>（图内具体标11115）。横轴
+<span class="math inline">\(t/\tau_A\)</span>
+是Alfvén时间归一化，纵轴电流层平均 <span
+class="math inline">\(E_z\)</span>
+为作者无量纲重联率，不是SI电压。黑线为2049²网格DNS内部记录，红圆为仅在513²网格训练的PINO直接查询2049²网格所得；因此“同网格对照”不意味着曾用该高网格训练。左图初态松弛后进入较平稳低值，中右图显示振荡趋稳；三图不同纵轴范围，不能凭高度比较绝对重联速度。灰区
+<span class="math inline">\(t\le0.25\)</span> 被排除在图例相对 <span
+class="math inline">\(L_2\)</span>
+误差外，报告3.0%、2.6%、2.8%仅适用于后续窗口。它同时说明参数插值与分辨率转移的可行性，但最高<span
+class="math inline">\(S\)</span>晚期plasmoid
+burst没有画在这里，正文另报相关误差升至32–42%。导数诊断还须与求解器内部记录比：粗网格有限差分即使用于DNS本身也会带来误差，不能全部归咎网络。此图属于二维电阻MHD数值基准，不是无碰撞重联实验或本次独立复现。留出数值仍处于训练参数区间内部，因此这属于插值检验；“没有用于训练”与“超出所有训练条件”的物理外推应严格区分。
+<a href="#r384">R384</a></p>
 <p>R300 的 electron-only 重联出流下混合漂移不稳定性和 R325 的 MRX
 电流层半碰撞动理学，研究的是电阻 MHD 不包含的尺度。第 04 章的 R290/R295
 是 HED 可控平台；本章只建立共同框架，不重复其装置细节。不同条目都含
@@ -4336,10 +5342,48 @@ Lawson 达标或净聚变电站。<a href="#r167">R167</a></p>
 的代表算例追离子出生、轨迹与积分功。完整时变场更易把指定出生队列送入高能区，许多高能流出离子来自羽流内电离。它没有把每个实验工况逐点重建；双探针相位图还受混叠影响，不能唯一认定能量来自某种离子声模。做法最值得借鉴的是对同一出生队列比较时变、平均和冻结场，并用
 <span class="math inline">\(\Delta K=q\int\mathbf v\cdot\mathbf
 E\,dt\)</span> 作能量来源审计。<a href="#r347">R347</a></p>
+<figure>
+<a href="figures/papers/ch09/r347-fig11.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch09/r347-fig11.png"
+alt="图09-4 同一出生队列：时变场如何改变高能尾与逃逸" /></a>
+<figcaption aria-hidden="true">图09-4
+同一出生队列：时变场如何改变高能尾与逃逸</figcaption>
+</figure>
+<p><strong>图
+09-4｜同一出生队列：时变场如何改变高能尾与逃逸。</strong></p>
+<p>原 Fig. 11（PDF
+第13页）图注按(a–c)指从左到右三面板，图中本身未另印字母。作者令同一百万个KDE出生粒子在完整PIC时变场、时间平均场、冻结场及仅涨落场中传播。左图横轴末态能量阈值
+eV，纵轴存活函数 <span
+class="math inline">\(P(K_f&gt;K_0)\)</span>：完整时变场保留宽尾，平均/冻结场在约50–100
+eV迅速衰减。中图横轴四能量阈值，纵轴比例%；大于50
+eV分别73.0%、7.2%、8.4%、47.0%，展示平均场无法重现同一队列的高能轨道。右图只在
+<span class="math inline">\(K_f&gt;50\)</span>
+eV条件下，纵轴逃逸族比例%，蓝/橙/绿为上游<span
+class="math inline">\(z_{min}\)</span>、下游<span
+class="math inline">\(z_{max}\)</span>、径向<span
+class="math inline">\(r_{max}\)</span>，灰为结束时仍活跃。平均场几乎全部高能离子回上游，而完整时变场分布于多条路径。它是受控敏感性试验，改变场也会改变轨迹，所以四组结果不能相加解释成能量贡献分解；仅涨落场也不是独立自洽等离子体解。73%尤其不是实验羽流高能离子占比，和瞬时自洽PIC的11.87%属于不同统计群体。真正机制还需轨迹积分功与空间出生数据支持，不能由这张图唯一归因某种离子声波。右图灰色仍活跃群体并未自动失去高能，只是尚未到达吸收边界，有限传播终止时间会影响各逃逸族份额。
+<a href="#r347">R347</a></p>
 <p><strong>重点 10：Hall 推进器的净输运出现在近壁路径。</strong> R370
 的作者 3D PIC
 包括电离、中性演化、介质充电、二次发射与开放羽流。时间/方位平均的密度—电场相关揭示出口附近持续近壁通道，而非均匀铺满截面的迁移率。拓扑跨几个边界处理保持，但绝对迁移率、高波数谱和晚期收敛仍有限制。真实推进器的整环曲率也被局部扇区近似简化。它是作者模拟发现，不是本次或论文已经直接在整机测到两条电流通道。<a
 href="#r370">R370</a></p>
+<figure>
+<a href="figures/papers/ch09/r370-fig8.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch09/r370-fig8.png"
+alt="图09-5 瞬态波动平均后留下近壁净输运足迹" /></a>
+<figcaption aria-hidden="true">图09-5
+瞬态波动平均后留下近壁净输运足迹</figcaption>
+</figure>
+<p><strong>图 09-5｜瞬态波动平均后留下近壁净输运足迹。</strong></p>
+<p>原 Fig. 8（PDF
+第13页）六面板的列依次为D固定电位壁、C陶瓷介质壁、<span
+class="math inline">\(O_{loadC}\)</span>介质壁与开放羽流组合；上排是时间与方位平均的
+<span class="math inline">\(\langle n_eE_y\rangle\)</span>，色标乘 <span
+class="math inline">\(10^{20}\)</span> V/m⁴，下排有效垂直迁移率 <span
+class="math inline">\(\mu_\perp\)</span>，单位m²/(V·s)。所有横轴<span
+class="math inline">\(z\)</span>、纵轴<span
+class="math inline">\(x\)</span>都是<strong>网格索引</strong>，不能当毫米；白/黑曲线是磁力线结构。上排三种边界均在出口附近的内外壁邻近形成两条较亮带，核心较弱，说明净相关并不均匀遍布横截面；下排相应负迁移率结构更明显。负号遵从作者定义，表示电子跨场向阳极输运，不是负耗散定律或器件功率增益。时标39.505
+μs对应代表性晚期窗口，200个样本平均滤掉快速EDI振荡，留下非零输运；瞬时单幅波纹无法代替此平均。图支持多个边界处理下<strong>拓扑相似</strong>，不证明绝对迁移率已网格/时长完全收敛。分母含局部场和密度，弱场区的比值解释尤需谨慎；局部方位扇区、固定背景磁场及开边界也限制整环推广。六图均为作者3D
+PIC诊断，尚不是整机电子通道的直接观测。同样的两带位置可以与不同绝对强度并存，故边界鲁棒性需同时报告拓扑与幅度。
+<a href="#r370">R370</a></p>
 <p>R348 的 Vlasov plasma-wall
 代码适合研究低噪声相空间和壁过程，但给出框架不等于所有
 sheath/化学已验证。R350 的波速密度法、R347 的轨迹功、R370
@@ -4367,6 +5411,20 @@ PIC/MCC、每匝线圈电流/电位和射频网络：感应电流回馈反电动
 GEC 算例功率平衡残差约 0.4–0.5%，说明装配与收支有可信基准；基频相量、每
 RF
 周期更新、轴对称与局部集肤近似仍限制快瞬态和三维。历史密度比较不是已与硬件电源双向实时闭环。<a
+href="#r355">R355</a></p>
+<figure>
+<a href="figures/papers/ch09/r355-fig14.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/papers/ch09/r355-fig14.png"
+alt="图09-6 端口功率不全是电子加热：双向场电路的能量账" /></a>
+<figcaption aria-hidden="true">图09-6
+端口功率不全是电子加热：双向场电路的能量账</figcaption>
+</figure>
+<p><strong>图
+09-6｜端口功率不全是电子加热：双向场电路的能量账。</strong></p>
+<p>原 Fig. 14（PDF 第30页）保留(a–d)：上排目标端口60 W，下排100
+W。左列<strong>(a/c)</strong>横轴RF周期数，纵轴完成周期的功率
+W；黑线总端口功率，蓝虚线感应耦合、橙点划线电容耦合、绿点线铜损。启动时各项迅速改变，随后总端口落到灰水平目标，感应项缓慢增长、铜损和电容项调整，说明不能把发生器端口输入直接全赋给等离子体。右列<strong>(b/d)</strong>只看周期1901–2000，纵轴各项相对其自身窗口平均的偏差
+W；四曲线不是共同减去总功率均值。电容通道波动较大而铜损较稳，60/100
+W的统计幅度也不同；所有曲线未平滑，保留PIC统计与负载反馈。左灰竖带与右图对应同一稳态统计窗，便于把启动瞬态和周期平均分开。论文特别提醒启动期电容曲线是周期封闭的端口功，稳态加热解释需结合其能量定义，不能把每个瞬态值都读成即时电子耗散。图论证双向场—电路耦合的分项收支与稳定工作点，仍是轴对称、基频相量的作者模拟，没有展示硬件网络实时闭环或高次谐波全部能量。<a
 href="#r355">R355</a></p>
 <p><strong>重点 12：虚拟临界耦合靠波形而非固定匹配。</strong> R176
 用指数增长微波驱动，在过耦合谐振器中使入射与返回场瞬态相消，改善反射与点火储能。论文实验展示动态匹配的可行性，既有笔记报告特定配置的最高储能约常规临界耦合四倍；本章不把这个值推广到任意源。等离子体点火后负载改变、窗口与导体损耗仍须跟踪。与
@@ -4531,14 +5589,19 @@ R347/R370，在轨迹/场历史里检查粒子做功与平均涨落通量，不�
 R343/R369/R386/R384，练习为缩比、代理和反演写一份假设清单：输入来自哪里、可观测量是什么、未包含机制是什么、出现什么现象必须停止外推。</p>
 <p>若关心科研经验，最有价值的成果往往是发现一个闭环仍不够：低磁通误差不保电流层、完整时变场增能不唯一指模、最小谱残差不选正确复杂度、数倍加速不代表回退已验证。这些边界使后续实验/数值问题具体化，也比无条件的“突破性”判断更适合规划工作。</p>
 <h2 id="本章证据来源与覆盖-8">10. 本章证据来源与覆盖</h2>
+<p>本轮原图补充（2026-10-01）逐一阅读6幅所选原图的图注及邻近正文，并查看原页与最终裁图；来源为
+R350、R358、R384、R347、R370、R355。保留全部所选子图、坐标轴和图例；每幅均有原PDF/PNG
+SHA-256、页码、PDF点坐标裁框及检查侧录。此检查覆盖所选图，不表示全库逐图精读或独立复现；详见<a
+href="../data/figure-selection-hedp.md">原图选择记录</a>与<a
+href="../data/figure-assets/">图像来源侧录</a>。</p>
 <p>本次清点 75 个路由条目的标题、日期、路径和交叉分类，正文有超过 35
 篇串联，17
 个重点单元。核与束流诊断条目只按工具联系放置，未升级为等离子体机制证明。对
 HED/磁聚变与强场辐射条目以跨章导航处理，保持本章低温/开放体系和共同波理论的主线。</p>
-<p>本次重新用本地 <code>pdftotext -layout</code> 读取并定位
+<p>初稿阶段重新用本地 <code>pdftotext -layout</code> 读取并定位
 <strong>R350、R358、R384、R386、R343</strong> 的关键模型/数字；另外读取
 <strong>R096、R050</strong>
-的本地全文开头与摘要，核对实验/模拟属性。其余重点主要复用并阅读了现有笔记
+的本地全文开头与摘要，核对实验/模拟属性。初稿其余重点主要复用并阅读了现有笔记
 R107/R149/R167/R174/R176/R221/R347/R355/R359/R369/R370/R372，未声称本次逐页精读所有
 75 篇。R032
 没有本轮可用全文/笔记内容支撑，本章只把其标题所示丝化成像作为目录关联，未推断实验细节。</p>
@@ -4572,6 +5635,18 @@ p)\,d^3x\,d^3p.
 <p>对电子这里取电荷绝对值；<span
 class="math inline">\(f\)</span>的归一化为实际粒子数。总电荷增加而发散变大时，<span
 class="math inline">\(Q_{\mathrm{acc}}\)</span>未必增加。研究下一步应从“我产生了多少”追问“用户在定义好的接受区拿到了多少”。01和02章提供具体机制与案例，08章说明怎样测清这些量。</p>
+<figure>
+<a href="figures/teaching/phase-space-acceptance.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/teaching/phase-space-acceptance.png"
+alt="教学图：相同相空间面积，接受区内的电荷仍可能不同。" /></a>
+<figcaption
+aria-hidden="true">教学图：相同相空间面积，接受区内的电荷仍可能不同。</figcaption>
+</figure>
+<p><strong>图像与公式怎样对应。</strong> 两图横轴为位置<span
+class="math inline">\(x\)</span>、单位mm，纵轴为近轴斜率<span
+class="math inline">\(x&#39;\)</span>、单位mrad，坐标范围相同。蓝色椭圆分别代表半轴为(1
+mm, 0.5 mrad)和(0.25 mm, 2
+mrad)的均匀填充相空间；二者面积相同，RMS几何发射度均为半轴乘积的四分之一，即0.125
+mm·mrad。橙色矩形是同一应用接受区。缩小束斑同时增大发散，未必提高矩形内的粒子比例：本图固定种子的4000个教学采样点约为71%与49%。这些比例仅解释几何重叠，不是任何论文束线的测量；实际束还有非均匀分布、能散、色差与空间电荷。</p>
 <p>在时间维度上，平均输出不是峰值通量乘一个随意选取的脉宽。简化成每发产额
 <span class="math inline">\(Y\)</span>、发频 <span
 class="math inline">\(f_{\mathrm{rep}}\)</span>、有效发比例 <span
@@ -4599,6 +5674,17 @@ class="math inline">\(\boldsymbol\theta\)</span>
 <p>其中 <span class="math inline">\(\mathbf C_\theta\)</span>
 包含协方差。忽略相关性可能低估也可能高估不确定度；非线性强或尾部主导时应做采样传播，而非只用线性公式。对活化、剂量或成像应用尤其应检查：哪一段不确定度支配最终结论？更精细的PIC网格如果不能改善源谱的实验约束，可能不是最优投入。</p>
 <p><strong>最值得追踪的新增证据</strong>是同一平台或同一shots集合中同时约束一次束流、转换靶、光子谱、核反应和探测器响应，并公开阈值、接受度和误差传播。单独一个更大的预测产额不够闭合整条链。</p>
+<figure>
+<a href="figures/teaching/inverse-ambiguity.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/teaching/inverse-ambiguity.png"
+alt="教学图：少量响应通道可以把不同谱投影成相同信号。" /></a>
+<figcaption
+aria-hidden="true">教学图：少量响应通道可以把不同谱投影成相同信号。</figcaption>
+</figure>
+<p><strong>读图时区分物理分布和读数。</strong>
+(a)横轴是能量MeV，纵轴为归一化能谱，单位 <span
+class="math inline">\(\mathrm{MeV^{-1}}\)</span>；蓝线是宽单峰、紫虚线是两个窄峰，均积分为1并具有5
+MeV平均能量。(b)自拟的两个理想响应分别测粒子总数和除以5
+MeV的能量一阶矩，因而两种谱的两个柱子都等于1。图没有噪声，仍然出现非唯一性；这不是某个真实探测器的响应，也不是论文反演结果。其论证作用是说明：仅凭总信号或平均能量，很难唯一恢复谱形。增加有不同能量权重的独立通道可以补充信息；单纯换更复杂的拟合网络，不能自动补出原始测量未包含的信息。</p>
 <h2 id="从发现量子效应走向区分量子模型">3.
 从发现量子效应走向区分量子模型</h2>
 <p>在强场QED里，看到电子损失能量或出现高能光子，并不自动唯一识别量子模型。需要控制初始束流、焦点场、时空重叠和诊断响应，并找出不同理论在可观测量上的分离。量子RR实验与LUXE的设计/原型探测工作代表不同阶段：前者有具体实验对照，后者的重要内容包括装置和测量能力建设。<a
@@ -4631,6 +5717,18 @@ e_{n+1}\simeq DF(x_n)e_n+\delta F(x_n).
 \]</span></p>
 <p>即使每步局部误差 <span class="math inline">\(\delta F\)</span>
 很小，系统的放大因子也可能让误差累积。训练集随机拆分的低均方误差，不能代替长时间滚动推进，更不能代替跨装置验证。若训练样本来自相同shot、相邻时刻或同一次数值扫描，随机拆分还可能造成信息泄漏，应按实验批次、参数区域或装置分组留出。</p>
+<figure>
+<a href="figures/teaching/rollout-error.png" target="_blank" rel="noopener" title="打开原尺寸图像"><img src="figures/teaching/rollout-error.png"
+alt="教学图：单步误差相同，滚动误差取决于动力学放大。" /></a>
+<figcaption
+aria-hidden="true">教学图：单步误差相同，滚动误差取决于动力学放大。</figcaption>
+</figure>
+<p><strong>坐标与适用边界。</strong>
+横轴是推进步数，纵轴为无量纲误差、对数刻度；三条线使用完全相同的局部误差
+<span class="math inline">\(\delta=10^{-4}\)</span>
+和初始误差0，只改变常数放大因子L。蓝线L=0.8趋近有限误差，灰虚线L=1线性累积，紫点划线L=1.08不断放大。曲线是标量递推
+<span class="math inline">\(e_{n+1}=Le_n+\delta\)</span>
+的教学计算，局部误差被设成同号；真实系统的Jacobian有多个方向且随时间变化，不能据此预报任一论文的误差曲线。它说明为什么05/06章的长期推进、守恒、重新锚定和留出工况图比一张低MSE散点图更有判断力。</p>
 <p><strong>今年文章应该按部署阶段阅读：</strong> 单模型拟合 → 留出工况 →
 在线求解器耦合 → 数字或物理闭环 →
 实际装置运行。不同论文停在不同阶段；综述不能把它们压成一个笼统的“AI已经解决等离子体控制”。</p>

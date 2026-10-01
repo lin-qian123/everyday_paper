@@ -1,0 +1,31 @@
+{
+  "asset_id": "ch02-r286-fig-5",
+  "kind": "paper_figure_excerpt",
+  "chapter": "02",
+  "ref": "R286",
+  "source_title": "Bayesian Optimization of Molybdenum-99 Production by Laser Wakefield Acceleration Using Coupled PIC and Monte Carlo Simulations",
+  "source_url": "https://arxiv.org/abs/2608.17119",
+  "source_pdf": "daily/2026-08-20/pdfs/Nunes et al. - 2026 - Mo-99 production laser wakefield.pdf",
+  "source_pdf_sha256": "dc6733b1b64534d9438438341b019337f47e65f02c97b0c2a97254c46a7e24af",
+  "original_figure": "Fig. 5",
+  "source_page_1_based": 10,
+  "crop_box_pdf_points": [
+    62.0,
+    49.0,
+    291.0,
+    179.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch02/r286-fig-5.png",
+  "pixel_width": 796,
+  "pixel_height": 452,
+  "asset_sha256": "c8be2eaaef6bb3d135d2fad38babbec32f8f7909123eb1713417708ef9617a44",
+  "title": "Mo/Tc活度的运行假设",
+  "source_caption_summary": "1kHz假设下照射时长与活度；实线天然Mo、虚线富集100Mo，蓝/绿分别99Mo/99mTc。",
+  "evidence_type": "coupled_PIC_MC_and_decay_model_prediction",
+  "purpose_in_review": "解释原子产额到活度的转换与平均功率假设",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "visual_check_notes": "已查看原始整页与最终250 dpi裁图，并直接读取图注及邻近正文；坐标单位、色标数值、图例和全部子图标签完整。仅裁取原图区域，保留原始图像、曲线、配色与标尺。实验/模拟/反演条件在章节逐图解读中明确；贴边标签的裁框已扩大后重新查看。"
+}

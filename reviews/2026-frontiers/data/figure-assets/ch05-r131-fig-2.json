@@ -1,0 +1,33 @@
+{
+  "asset_id": "ch05-r131-fig-2",
+  "kind": "paper_figure_excerpt",
+  "chapter": "05",
+  "ref": "R131",
+  "source_title": "An Energy-Conserving Unstaggered Electromagnetic-Potential Particle-in-Cell Method, Part I: Non-relativistic Generalized-Momentum Formulation",
+  "source_url": "https://arxiv.org/abs/2606.15035",
+  "source_pdf": "daily/2026-06-18/pdfs/Andrew J. Christlieb et al. - 2026 - An Energy-Conserving Unstaggered Electromagnetic-Potential Particle-in-Cell Method, Part I Non-relativistic Generalized-Momentum Formulation.pdf",
+  "source_pdf_sha256": "cf1e776d6dfeef972bd61703bfce4d995e6a1ead24140272fd95bcd6d7f9e126",
+  "original_figure": "Fig.2",
+  "source_page_1_based": 18,
+  "crop_box_pdf_points": [
+    50.0,
+    60.0,
+    425.0,
+    214.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch05/r131-fig-2.png",
+  "pixel_width": 1303,
+  "pixel_height": 536,
+  "asset_sha256": "6b947a09fe3cf9b2a9671f0188d695cbc971305c6409ed8ec6fd2d7f90460b76",
+  "title": "总能量守恒需要一致轨道积分",
+  "source_caption_summary": "a显示动能与场能交换而总能量不变；b比较分段与未分段轨道的相对总能量漂移，后者达到约10^-5。",
+  "evidence_type": "作者3D冷双流数值验证",
+  "purpose_in_review": "说明场约束保持与精确能量守恒是不同要求",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "review_explanation": "**逐图解读。** （a）横轴为冷双流算例时间，纵轴为该算例的能量单位，原图未标秒或焦耳；蓝色动能降低时橙色场能上升，绿色总能量仍近似水平，说明“不变的总账本”允许两类能量真实交换。（b）横轴相同，纵轴是 $(\\mathcal E^n-\\mathcal E^0)/\\mathcal E^0$，为无量纲量，注意左上角 $10^{-5}$ 倍率。蓝线采用跨B-spline结点分段的轨道积分，橙线不分段；后者先负漂移再正漂移，不能只检查最终值接近零就认定守恒。邻近正文说明两种方法都能保持Gauss与规范约束，差异来自粒子轨道上的链式法则是否与场能交换一致。分段方案在本算例求解容差内保持总能量，未分段方案积累约 $10^{-5}$ 漂移。这是非相对论、周期冷双流的作者数值验证；没有独立实验或本次复跑，也没有证明任意相对论、碰撞和开放边界模块同样守恒。[R131](../appendices/reference-catalog.md#r131)",
+  "review_explanation_han_chars": 260,
+  "visual_check_notes": "已用view_image分别查看源PDF整页预览与最终250dpi原图区；阅读对应图注及邻近正文。核对所有子图/箭头标签、坐标单位、色标、图例和图中归一化口径，未改曲线或标注。"
+}

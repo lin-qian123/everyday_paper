@@ -1,0 +1,33 @@
+{
+  "asset_id": "ch06-r256-fig-5",
+  "kind": "paper_figure_excerpt",
+  "chapter": "06",
+  "ref": "R256",
+  "source_title": "A Neural Operator Closure for Landau Damping in Electrostatic Plasma",
+  "source_url": "https://arxiv.org/abs/2607.29364",
+  "source_pdf": "daily/2026-08-04/pdfs/Neural operator closure for Landau damping.pdf",
+  "source_pdf_sha256": "024896820465711d29e67a50229628d3cd09a5da29bf5553dae6af9c3a9857ee",
+  "original_figure": "Fig.5",
+  "source_page_1_based": 21,
+  "crop_box_pdf_points": [
+    64.0,
+    58.0,
+    434.0,
+    289.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch06/r256-fig-5.png",
+  "pixel_width": 1285,
+  "pixel_height": 803,
+  "asset_sha256": "48ed5c214d4e878bf9b242f8dd7129a53a4240a948280a763d8511cbb894870c",
+  "title": "闭合跨越线性阻尼与非线性俘获",
+  "source_caption_summary": "a比较不同振幅下初期有效阻尼率；b,c,d显示A=0.0007、0.009、0.07的场能轨迹，训练包络之外的大振幅阻尼率明显失配。",
+  "evidence_type": "作者Vlasov与流体-FNO数值比较",
+  "purpose_in_review": "识别有效闭合插值与振幅外推失败",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "review_explanation": "**逐图解读。** （a）横轴是初始密度扰动振幅 $A$ 的对数坐标，纵轴是归一化有效阻尼率 $\\gamma_{eff}/\\omega_p$；蓝线为Vlasov参考，红线为流体+FNO，灰实/空标记区分训练与测试振幅，虚线为线性Landau基线。训练范围 $10^{-3}$—$10^{-1}$ 内两线接近，向0.2、0.3外推则明显分离。（b）、（c）、（d）依次取0.0007、0.009、0.07，横轴为 $\\omega_pt$，纵轴为对数归一化电场能量 $W_E$，不是焦耳：第一幅包络持续衰减；第二幅接近俘获阈值后趋平；第三幅显著振荡并保持非线性包络，FNO总体能跟随这些变化。阻尼率按原图注由初期能量峰值拟合，是本文的有效诊断口径，不宜和其他论文场振幅阻尼率未经定义直接比较。此图展示一套有记忆闭合跨训练包络的可用区与失效区；参考也是一维固定波数Vlasov计算，不能证明任意多模湍流闭合或真实实验中的一般泛化。[R256](../appendices/reference-catalog.md#r256)",
+  "review_explanation_han_chars": 252,
+  "visual_check_notes": "已用view_image分别查看源PDF整页预览与最终250dpi原图区；阅读对应图注及邻近正文。核对所有子图/箭头标签、坐标单位、色标、图例和图中归一化口径，未改曲线或标注。"
+}

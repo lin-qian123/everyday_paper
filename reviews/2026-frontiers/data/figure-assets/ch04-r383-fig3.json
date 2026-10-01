@@ -1,0 +1,31 @@
+{
+  "asset_id": "ch04-r383-fig3",
+  "kind": "paper_figure_excerpt",
+  "chapter": "04",
+  "ref": "R383",
+  "source_title": "Equation of state and transport coefficients of warm dense aluminum from mixed deterministic-stochastic density functional theory",
+  "source_url": "https://arxiv.org/abs/2609.29435",
+  "source_pdf": "daily/2026-09-26/pdfs/Li et al. - 2026 - Warm dense aluminum DFT.pdf",
+  "source_pdf_sha256": "9956601bf25160873c0520deddf2aba2dfb74b5cdaa40e65a960883e6a47450a",
+  "original_figure": "Fig3",
+  "source_page_1_based": 6,
+  "crop_box_pdf_points": [
+    53.0,
+    52.0,
+    299.0,
+    239.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch04/r383-fig3.png",
+  "pixel_width": 855,
+  "pixel_height": 650,
+  "asset_sha256": "4935b794965b4494498b32763a618733787bf5e31bc3b644f7faadd766a4d0b5",
+  "title": "铝Hugoniot高压区的模型分叉",
+  "source_caption_summary": "三套电子热EOS构建Hugoniot，与较低压实验点比较。",
+  "evidence_type": "作者有限温DFT/EOS计算与历史实验数据",
+  "purpose_in_review": "说明未被实验覆盖的模型差异",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "visual_check_notes": "已阅读原PDF图注和邻近正文、查看原页与最终裁图；完整保留所有所选子图、轴刻度、单位、标签及图例。"
+}

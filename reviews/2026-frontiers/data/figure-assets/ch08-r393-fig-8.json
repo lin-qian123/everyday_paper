@@ -1,0 +1,33 @@
+{
+  "asset_id": "ch08-r393-fig-8",
+  "kind": "paper_figure_excerpt",
+  "chapter": "08",
+  "ref": "R393",
+  "source_title": "A high-flux electron detection system to measure non-linear Compton scattering at LUXE",
+  "source_url": "https://arxiv.org/abs/2609.35519",
+  "source_pdf": "daily/2026-09-30/pdfs/Athanassiadis et al. - 2026 - LUXE high-flux electron detector.pdf",
+  "source_pdf_sha256": "ba1a955e6e9c5c6d750c65de2b062324361fdc54e98c268ea39a486d8f45bee1",
+  "original_figure": "Fig.8",
+  "source_page_1_based": 12,
+  "crop_box_pdf_points": [
+    145.0,
+    246.0,
+    446.0,
+    445.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch08/r393-fig-8.png",
+  "pixel_width": 1046,
+  "pixel_height": 692,
+  "asset_sha256": "fb44a431671e392ca03c35a6ea42697a81f16ff159b4435148803d1a3ee26c7f",
+  "title": "束测线性需要同时看拟合残差",
+  "source_caption_summary": "ARES束测比较DRZ High、Plus、Standard的CMOS积分与束荷，下面为数据/线性拟合比值；偏离小于3%，斜率相对不确定度约1.3%。",
+  "evidence_type": "ARES原型探测器真实束测",
+  "purpose_in_review": "区分相机链标定、线性偏离与最终LUXE性能",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "review_explanation": "**逐图解读。** 上图横轴为束团电荷pC，纵轴为相机ROI积分CMOS计数并带 $10^6$ 倍率；蓝、橙、绿分别为DRZ High、Plus、Standard，实线为允许非零截距的线性拟合。High最亮，但这里的斜率包含屏、收光和相机共同响应，不能直接当材料的普适光子产额。下图用相同电荷轴，纵轴为测量值除拟合值的无量纲比；围绕1的小偏离比“上图几乎直线”更直接地检验线性。邻近正文给偏离小于3%，包括横纵误差后的斜率相对不确定度约1.3%；两者分别描述线性残差和校准斜率，不能混成同一个绝对误差。拟合未强制过原点，小正截距与本底有关。它是真实ARES原型束测，已支持该光学配置的电荷换算，却不是LUXE正式非线性Compton谱；全束线本底、空间均匀性、长期退化和另一读出链仍要分别验收，也不能把局部线性推广到更高通量的所有工作条件。[R393](../appendices/reference-catalog.md#r393)",
+  "review_explanation_han_chars": 271,
+  "visual_check_notes": "已用view_image分别查看源PDF整页预览与最终250dpi原图区；阅读对应图注及邻近正文。核对所有子图/箭头标签、坐标单位、色标、图例和图中归一化口径，未改曲线或标注。"
+}

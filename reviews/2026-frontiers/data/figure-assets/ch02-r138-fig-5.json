@@ -1,0 +1,31 @@
+{
+  "asset_id": "ch02-r138-fig-5",
+  "kind": "paper_figure_excerpt",
+  "chapter": "02",
+  "ref": "R138",
+  "source_title": "Stable and tunable MeV γ-ray generation via dual-laser inverse Thomson scattering from a laser-plasma accelerator",
+  "source_url": "https://www.nature.com/articles/s41598-026-56639-7",
+  "source_pdf": "daily/2026-09-03/pdfs/Tsai et al. - 2026 - Stable and tunable MeV gamma-ray generation via dual-laser ITS.pdf",
+  "source_pdf_sha256": "6510fbd343a0059167b1585ff9d4cf5f31f47e1ad69a073c37c2d79ff56a2dbc",
+  "original_figure": "Fig. 5",
+  "source_page_1_based": 7,
+  "crop_box_pdf_points": [
+    64.0,
+    43.0,
+    560.0,
+    414.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch02/r138-fig-5.png",
+  "pixel_width": 1723,
+  "pixel_height": 1289,
+  "asset_sha256": "8cdd1c607f4480d56bc73cda8f630e7e4b41aa0f74e01ebe01b06217cbb97d62",
+  "title": "光子能量、重合与稳定性",
+  "source_caption_summary": "a滤片透过率；b反演γ能量与理论；c延迟扫描；d横向扫描；e作用位置扫描与模型；f数小时稳定性。",
+  "evidence_type": "experiment_with_spectral_inference_and_model_overlay",
+  "purpose_in_review": "区分可调能谱、时空重合与光子通量",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "visual_check_notes": "已查看原始整页与最终250 dpi裁图，并直接读取图注及邻近正文；坐标单位、色标数值、图例和全部子图标签完整。仅裁取原图区域，保留原始图像、曲线、配色与标尺。实验/模拟/反演条件在章节逐图解读中明确；贴边标签的裁框已扩大后重新查看。"
+}

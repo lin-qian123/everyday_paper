@@ -1,0 +1,31 @@
+{
+  "asset_id": "ch07-r318-fig3-1",
+  "kind": "paper_figure_excerpt",
+  "chapter": "07",
+  "ref": "R318",
+  "source_title": "Real-time virtual circuits for plasma shape control via neural network emulators: experimental demonstration on MAST Upgrade",
+  "source_url": "https://arxiv.org/abs/2608.28468",
+  "source_pdf": "daily/2026-09-01/pdfs/Amorisco et al. - 2026 - Real-time virtual circuits experimental demonstration on MAST-U.pdf",
+  "source_pdf_sha256": "da772213cce1b15ac52e2bc9decb64b29b46ac4653a6bcb7b666d2fca4a98451",
+  "original_figure": "Fig3.1",
+  "source_page_1_based": 4,
+  "crop_box_pdf_points": [
+    48.0,
+    222.0,
+    547.0,
+    506.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch07/r318-fig3-1.png",
+  "pixel_width": 1734,
+  "pixel_height": 987,
+  "asset_sha256": "cb4339c35c4ff2aaf5b76375d08f4df3bc1a8c00100c882359eb784644d83022",
+  "title": "MAST-U四炮主动形状控制",
+  "source_caption_summary": "七形状参数真实RTVC炮次轨迹、参考和预炮模拟",
+  "evidence_type": "实际主动闭环放电与平衡重建",
+  "purpose_in_review": "区分上线任务完成与控制算法普遍优胜",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "visual_check_notes": "已阅读原PDF图注和邻近正文、查看原页与最终裁图；完整保留所有所选子图、轴刻度、单位、标签及图例。"
+}

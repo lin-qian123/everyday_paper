@@ -9,12 +9,16 @@ BASE = Path(__file__).resolve().parents[1]
 TMP = BASE / '.build'
 TMP.mkdir(exist_ok=True)
 rows = json.loads((BASE / 'data/corpus.json').read_text())['articles']
+figure_manifest = json.loads((BASE/'data/figure-manifest.json').read_text()) if (BASE/'data/figure-manifest.json').exists() else {'summary':{},'figures':[]}
 parts = [
     '# 关于本合订本', '',
     '本版截止2026-09-30，以仓库393条文献为范围，其中365条的仓库发表日期为2026年。全库目录覆盖与重点论文讲解分别记录；不是393篇全文精读，也不是全球穷尽检索。', '',
     '正文包括共同基础、九个主题和跨方向学习路线。每章引用使用统一R编号，末尾附全库精简书目。完整路径、逐条覆盖矩阵、阅读缺口与来源核查在 reviews/2026-frontiers/ 的Markdown及data目录。', '',
     '基础推导为教学整理；实验、反演、作者模拟与条件化理论保留各自边界。本版没有重跑相关物理代码、模型训练或绝对标定。部分早期笔记存在模板公式/参数/日期差异，新综述以重点原文核查为准。', '',
 ]
+if figure_manifest['summary']:
+    fs=figure_manifest['summary']
+    parts += [f'2026-10-01图像补充版：正文包含{fs["paper_figure_excerpts"]}幅关键论文原图摘录（来自{fs["unique_paper_sources"]}篇论文）和{fs["original_teaching_illustrations"]}幅教学图。原图保留论文图号和来源，新增教学图明确区分解析示例与论文结果。图像导航、原PDF页及裁框见appendices/figure-guide.md与data/figure-manifest.json。', '']
 for p in sorted((BASE / 'chapters').glob('*.md')):
     t = p.read_text()
     t = re.sub(r'\(\.\./appendices/reference-catalog\.md#(r\d{3})\)', r'(#\1)', t)
@@ -48,9 +52,25 @@ header.write_text(r'''\usepackage{xeCJK}
 \newunicodechar{⁻}{\ensuremath{{}^{-}}}
 \newunicodechar{₀}{\ensuremath{{}_0}}
 \newunicodechar{₂}{\ensuremath{{}_2}}
+\newunicodechar{ₑ}{\ensuremath{{}_e}}
+\newunicodechar{⁴}{\ensuremath{{}^4}}
 \renewcommand{\textendash}{-}
 \renewcommand{\textemdash}{-}
 \renewcommand{\figurename}{图}
+\usepackage{float}
+\floatplacement{figure}{H}
+\usepackage[font=small,labelfont=bf]{caption}
+\makeatletter
+\renewcommand*\pandocbounded[1]{%
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{.70\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi%
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi%
+}
+\makeatother
 \setCJKmainfont[Path=/System/Library/Fonts/Supplemental/,FontIndex=6,BoldFont=Songti.ttc,BoldFeatures={FontIndex=1}]{Songti.ttc}
 \setCJKsansfont[Path=/System/Library/Fonts/]{STHeiti Medium.ttc}
 \setCJKmonofont[Path=/System/Library/Fonts/]{STHeiti Medium.ttc}
@@ -75,8 +95,16 @@ subprocess.run(common+['--mathjax=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex
 # Inline the CSS to keep the HTML styling self contained.
 h=html.read_text()
 h=re.sub(r'<link rel="stylesheet" href="[^"]*style\.css"\s*/?>', '<style>'+css.read_text()+'</style>', h)
+def full_size_image(m):
+    tag=m.group(0)
+    src=re.search(r'\bsrc="([^"]+)"',tag).group(1)
+    return f'<a href="{src}" target="_blank" rel="noopener" title="打开原尺寸图像">{tag}</a>'
+h=re.sub(r'<img\b[^>]*>', full_size_image, h)
 html.write_text(h)
 pdf_text = text.replace('figures/research-map.svg', 'figures/research-map.pdf').replace('figures/evidence-chain.svg','figures/evidence-chain.pdf')
+for r in figure_manifest['figures']:
+    if r.get('vector_pdf'):
+        pdf_text=pdf_text.replace(r['asset_path'],r['vector_pdf'])
 pdf_text = pdf_text.replace('–','-').replace('—','-').replace('‑','-')
 pdf_text = re.sub(r'!\[图\d+[：:]\s*', '![', pdf_text)
 pdf_text = re.sub(r'(?<=R\d{3})/(?=R\d{3})', '/ ', pdf_text)

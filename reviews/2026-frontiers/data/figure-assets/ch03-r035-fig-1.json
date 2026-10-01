@@ -1,0 +1,31 @@
+{
+  "asset_id": "ch03-r035-fig-1",
+  "kind": "paper_figure_excerpt",
+  "chapter": "03",
+  "ref": "R035",
+  "source_title": "Observation of quantum effects on radiation reaction in strong fields",
+  "source_url": "https://www.nature.com/articles/s41467-025-67918-8",
+  "source_pdf": "daily/2026-03-21/pdfs/Los et al. - 2026 - Observation of quantum effects on radiation reaction in strong fields.pdf",
+  "source_pdf_sha256": "532ea83713cf6396bb8b83db2f0f48bcbe2041efb068e0b4b53ac1e1ed1537c6",
+  "original_figure": "Fig. 1",
+  "source_page_1_based": 3,
+  "crop_box_pdf_points": [
+    53.0,
+    45.0,
+    549.0,
+    300.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch03/r035-fig-1.png",
+  "pixel_width": 1723,
+  "pixel_height": 886,
+  "asset_sha256": "dd6f1eff0c08c7d3bd79d81e4e827251c0361460346efec13f0f22c9370f4e89",
+  "title": "RR实验与三类模型",
+  "source_caption_summary": "a双束激光、电子/γ谱诊断；b两a0下三个模型的电子/光子谱；c实测hit/null电子谱和γ图。",
+  "evidence_type": "experiment_and_model_comparison",
+  "purpose_in_review": "连接辐射增强与电子损能",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "visual_check_notes": "已查看原始整页与最终250 dpi裁图，并直接读取图注及邻近正文；坐标单位、色标数值、图例和全部子图标签完整。仅裁取原图区域，保留原始图像、曲线、配色与标尺。实验/模拟/反演条件在章节逐图解读中明确；贴边标签的裁框已扩大后重新查看。"
+}

@@ -1,0 +1,31 @@
+{
+  "asset_id": "ch03-r035-fig-5",
+  "kind": "paper_figure_excerpt",
+  "chapter": "03",
+  "ref": "R035",
+  "source_title": "Observation of quantum effects on radiation reaction in strong fields",
+  "source_url": "https://www.nature.com/articles/s41467-025-67918-8",
+  "source_pdf": "daily/2026-03-21/pdfs/Los et al. - 2026 - Observation of quantum effects on radiation reaction in strong fields.pdf",
+  "source_pdf_sha256": "532ea83713cf6396bb8b83db2f0f48bcbe2041efb068e0b4b53ac1e1ed1537c6",
+  "original_figure": "Fig. 5",
+  "source_page_1_based": 6,
+  "crop_box_pdf_points": [
+    39.0,
+    46.0,
+    290.0,
+    202.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch03/r035-fig-5.png",
+  "pixel_width": 872,
+  "pixel_height": 543,
+  "asset_sha256": "91744c92363e7c51dd583768efec31b7a47362dc466c73d61d20c991daec8e3b",
+  "title": "量子连续与随机模型的证据",
+  "source_caption_summary": "无量纲Bayes因子对数轴、逐发圆点及十发联合三角；比较QC/Cl、QS/Cl、QS/QC，背景色标示证据等级。",
+  "evidence_type": "Bayesian_inference_from_experiment",
+  "purpose_in_review": "说明两种量子模型均优于经典而彼此未分开",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "visual_check_notes": "已查看原始整页与最终250 dpi裁图，并直接读取图注及邻近正文；坐标单位、色标数值、图例和全部子图标签完整。仅裁取原图区域，保留原始图像、曲线、配色与标尺。实验/模拟/反演条件在章节逐图解读中明确；贴边标签的裁框已扩大后重新查看。"
+}

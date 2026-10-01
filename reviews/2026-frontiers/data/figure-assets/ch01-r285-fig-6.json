@@ -1,0 +1,31 @@
+{
+  "asset_id": "ch01-r285-fig-6",
+  "kind": "paper_figure_excerpt",
+  "chapter": "01",
+  "ref": "R285",
+  "source_title": "Microcoulomb-level electron beam and multi-Joule hard X-rays driven by a high-efficiency laser-plasma accelerator",
+  "source_url": "https://arxiv.org/abs/2608.16459",
+  "source_pdf": "daily/2026-08-19/pdfs/LMJ PETAL microcoulomb electron beam hard X-rays.pdf",
+  "source_pdf_sha256": "58d7dd2e52ac92fe4c9bd89d81910022cd800632c4bfa2eebbd38b1892c19372",
+  "original_figure": "Fig. 6",
+  "source_page_1_based": 8,
+  "crop_box_pdf_points": [
+    54.0,
+    196.0,
+    557.0,
+    537.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch01/r285-fig-6.png",
+  "pixel_width": 1748,
+  "pixel_height": 1185,
+  "asset_sha256": "d446233c7e3543a847dc1023ecccd87e00750d9329c71599de2a685019544b2d",
+  "title": "SMLWFA与DLA的能量分工",
+  "source_caption_summary": "(a)CALDER峰值a0与激光能量演化；(b)OSIRIS粒子尾场/激光做功与末态能量；(c–e)三个时刻激光场切片。",
+  "evidence_type": "PIC_simulation_supported_experiment",
+  "purpose_in_review": "以做功分解解释高电荷宽谱加速",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "visual_check_notes": "已查看原始整页与最终250 dpi裁图，并直接读取图注及邻近正文；坐标单位、色标数值、图例和全部子图标签完整。仅裁取原图区域，保留原始图像、曲线、配色与标尺。实验/模拟/反演条件在章节逐图解读中明确；贴边标签的裁框已扩大后重新查看。"
+}

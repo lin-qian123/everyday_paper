@@ -1,0 +1,33 @@
+{
+  "asset_id": "ch08-r067-fig-3",
+  "kind": "paper_figure_excerpt",
+  "chapter": "08",
+  "ref": "R067",
+  "source_title": "Short overview of solid, gas, cryogenic and liquid target fabrication for single-beam high-power laser experiments",
+  "source_url": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/short-overview-of-solid-gas-cryogenic-and-liquid-target-fabrication-for-singlebeam-highpower-laser-experiments/644BC50D345BF37915D49744BBEFAF35",
+  "source_pdf": "daily/2026-06-21/pdfs/Stefania C. Ionescu et al. - 2026 - Short overview of solid gas cryogenic and liquid target fabrication for single-beam high-power laser experiments.pdf",
+  "source_pdf_sha256": "1ed658882aa2850a976d62a9145515e21ae2be9665c867089316143c65de2ff0",
+  "original_figure": "Fig.3",
+  "source_page_1_based": 6,
+  "crop_box_pdf_points": [
+    107.0,
+    61.0,
+    471.0,
+    145.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch08/r067-fig-3.png",
+  "pixel_width": 1265,
+  "pixel_height": 293,
+  "asset_sha256": "1e9ebec547ed09cb5edd2ecdc1f7d9d36fd5307ea624ad8d327c5948e5ad46c8",
+  "title": "气体靶的三种工程几何",
+  "source_caption_summary": "a示意圆口与狭缝喷嘴，b为气室，c为毛细管放电；照片来自该综述注明的ELI-NP及其引用74–76，并非本次独立装置。",
+  "evidence_type": "综述中的装置照片汇编",
+  "purpose_in_review": "比较开放访问、供气和光学导引的实际接口",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "review_explanation": "**逐图解读。** （a）左、右照片分别为圆口和狭缝喷嘴，开放几何便于激光与横向探针进入，也把连续供气负担交给真空系统。（b）气室把气体限制在腔体内，激光穿过入口和出口，便于形成较均匀的纵向区域，但孔口、壁侵蚀和失准必须考虑。（c）展示毛细管放电发光和电极、供气接头、蓝宝石块的结构，用预放电制备具有导引作用的等离子体通道，代价是高压与时序同步。三组都是装置照片，没有密度、温度或束能坐标；发光亮度也未做辐射标定，不能据此比较密度或导引效率。原图注注明照片来自ELI-NP及综述引用74—76，因此是2026综述汇编的已有结构，而非三项新性能实验。邻近表格对供气、诊断访问和壁损伤作比较；其典型重复率限制不是喷嘴几何的普适硬上限，高重复率论文还需单独检查气体回收、抽速和实际运行统计。这幅图给初学者一个靶的工程接口地图。[R067](../appendices/reference-catalog.md#r067)",
+  "review_explanation_han_chars": 302,
+  "visual_check_notes": "已用view_image分别查看源PDF整页预览与最终250dpi原图区；阅读对应图注及邻近正文。核对所有子图/箭头标签、坐标单位、色标、图例和图中归一化口径，未改曲线或标注。"
+}

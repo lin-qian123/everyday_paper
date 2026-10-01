@@ -1,0 +1,33 @@
+{
+  "asset_id": "ch08-r275-fig-5",
+  "kind": "paper_figure_excerpt",
+  "chapter": "08",
+  "ref": "R275",
+  "source_title": "Terahertz-based longitudinal phase space diagnostics of laser wakefield accelerated electron beams",
+  "source_url": "https://arxiv.org/abs/2608.08586",
+  "source_pdf": "daily/2026-08-12/pdfs/THz LWFA longitudinal diagnostics.pdf",
+  "source_pdf_sha256": "c2644b11c327ec8939c3a499be1b7fb7ab39ed0ec39bf3537d42ec3d4ef9cf5a",
+  "original_figure": "Fig.5",
+  "source_page_1_based": 6,
+  "crop_box_pdf_points": [
+    82.0,
+    48.0,
+    539.0,
+    316.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch08/r275-fig-5.png",
+  "pixel_width": 1588,
+  "pixel_height": 932,
+  "asset_sha256": "7648d97344c89da8e48bcb16795055772bbd05a62f482fc7020c891f0ef4a44e",
+  "title": "能窗选择改变所测纵向相空间",
+  "source_caption_summary": "a–c移动能窗中心而保留相近能散，d–f在相近中心改变能散；时能图、能量/时间投影和200发波动共同呈现透过束的条件依赖。",
+  "evidence_type": "真实LWFA束流THz诊断与响应重建",
+  "purpose_in_review": "说明束长不是独立于接受度的源指标",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "review_explanation": "**逐图解读。** 六幅横轴均为时间fs，纵轴为电子能量MeV；颜色是各图归一化相空间密度0—1，绿色、紫色分别为能量与时间投影，阴影表示200连续发的标准差，不能把峰色读成绝对fC。（a）、（b）、（c）保持约2.8%—2.9% FWHM能散，把窗中心从4.574移到4.554、4.532 MeV；三幅C形结构覆盖的局部斜率不同，RMS束长依次为26±3、35±5、42±5 fs。（d）、（e）、（f）保持中心约4.55 MeV，放宽能散至2.0%、3.8%、4.4%；较宽能窗纳入更多弯曲尾部，束长为27±3、40±4、44±6 fs。对应数值来自同页表格，不是按图片宽度目测。这说明狭缝位置和开口共同决定诊断到的时间投影，束长不是独立于接受度的单一源属性。图是实际THz偏转、色散及响应重建，诊断点略偏离理想全压缩点；不能外推为全部源电子都具有这些束长，也不能直接推广到GeV或高束荷条件。[R275](../appendices/reference-catalog.md#r275)",
+  "review_explanation_han_chars": 235,
+  "visual_check_notes": "已用view_image分别查看源PDF整页预览与最终250dpi原图区；阅读对应图注及邻近正文。核对所有子图/箭头标签、坐标单位、色标、图例和图中归一化口径，未改曲线或标注。"
+}

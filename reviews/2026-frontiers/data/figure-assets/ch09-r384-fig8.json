@@ -1,0 +1,31 @@
+{
+  "asset_id": "ch09-r384-fig8",
+  "kind": "paper_figure_excerpt",
+  "chapter": "09",
+  "ref": "R384",
+  "source_title": "Physics-Informed Neural Operator Surrogate for 2D Magnetohydrodynamic Reconnection",
+  "source_url": "https://arxiv.org/abs/2609.29514",
+  "source_pdf": "daily/2026-09-27/pdfs/Pothula and Kumar - 2026 - PINO MHD reconnection.pdf",
+  "source_pdf_sha256": "49fb99a0dadc7445f5a6f381df426c334f64d4b5a1334fb8e86b8b4bd870902e",
+  "original_figure": "Fig8",
+  "source_page_1_based": 11,
+  "crop_box_pdf_points": [
+    54.0,
+    49.0,
+    565.0,
+    188.0
+  ],
+  "dpi": 250,
+  "asset_path": "figures/papers/ch09/r384-fig8.png",
+  "pixel_width": 1775,
+  "pixel_height": 483,
+  "asset_sha256": "5b043461bbbb2917316a39b52a7845a2787d8133fae23e70f90c8466d1168e3f",
+  "title": "重联率的跨参数与跨网格代理对照",
+  "source_caption_summary": "三Lundquist数下DNS与PINO率时间序列",
+  "evidence_type": "二维电阻MHD作者DNS与神经算子",
+  "purpose_in_review": "区分诊断指标一致与全阶段外推",
+  "processing": "PDF region rendered to PNG; no data recoloring, relabeling or curve modification.",
+  "source_caption_and_visual_checked": true,
+  "checked_date": "2026-10-01",
+  "visual_check_notes": "已阅读原PDF图注和邻近正文、查看原页与最终裁图；完整保留所有所选子图、轴刻度、单位、标签及图例。"
+}
