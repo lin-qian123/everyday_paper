@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "output": "daily/2026-10-02/pdfs/Xia et al. - 2026 - Laser centroid oscillation damping.pdf",
+  "source_url": "https://arxiv.org/pdf/2605.03918",
+  "mode": "env-proxy",
+  "attempts": [
+    "[env-proxy] https://harvest.aps.org/v2/journals/articles/10.1103/79h1-q62n/fulltext -> HTTP 401",
+    "[direct] https://harvest.aps.org/v2/journals/articles/10.1103/79h1-q62n/fulltext -> HTTP 401"
+  ]
+}

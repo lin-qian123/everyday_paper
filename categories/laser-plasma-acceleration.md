@@ -2,11 +2,13 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：129 篇
-- 索引更新时间：2026-10-01
+- 当前收录：131 篇
+- 索引更新时间：2026-10-02
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-02 | [Compact ultrafast intense LWFA-driven crystal-based source of γ-radiation, positrons and neutrons](../papers/arxiv-2609-40005/README.md) | arXiv preprint | [笔记](../daily/2026-10-02/notes/Sytov et al. - 2026 - LWFA crystal gamma positron neutron source.md) |
+| 2026-10-02 | [Damping dynamics of the centroid oscillation of a relativistic laser pulse in a plasma channel](../papers/10-1103-79h1-q62n/README.md) | Physical Review Applied Accepted Paper (local full text: corresponding arXiv:2605.03918v1 author preprint; not VOR) | [笔记](../daily/2026-10-02/notes/Xia et al. - 2026 - Laser centroid oscillation damping.md) |
 | 2026-10-01 | [Experimental demonstration of broadband-laser suppression of cross-beam energy transfer](../papers/arxiv-2609-36528/README.md) | arXiv preprint | [笔记](../daily/2026-10-01/notes/Xu et al. - 2026 - Broadband laser CBET suppression.md) |
 | 2026-10-01 | [Electron Rephasing in a Truncated Tunable Plasma Channel](../papers/arxiv-2609-36964/README.md) | arXiv preprint | [笔记](../daily/2026-10-01/notes/Mohanty et al. - 2026 - Electron rephasing in plasma channel.md) |
 | 2026-10-01 | [Laser-Polarization Dependence of Betatron X-Ray Production and Angular Collection in Laser-Wakefield Acceleration](../papers/arxiv-2609-37228/README.md) | arXiv preprint | [笔记](../daily/2026-10-01/notes/Berceanu et al. - 2026 - Polarization dependent betatron x rays.md) |

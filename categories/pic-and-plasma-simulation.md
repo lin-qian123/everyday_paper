@@ -2,11 +2,14 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：165 篇
-- 索引更新时间：2026-10-01
+- 当前收录：168 篇
+- 索引更新时间：2026-10-02
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-02 | [Compact ultrafast intense LWFA-driven crystal-based source of γ-radiation, positrons and neutrons](../papers/arxiv-2609-40005/README.md) | arXiv preprint | [笔记](../daily/2026-10-02/notes/Sytov et al. - 2026 - LWFA crystal gamma positron neutron source.md) |
+| 2026-10-02 | [Phase-Space Non-Integrability of Alpha Particles in Near-Omnigeneous Stellarators](../papers/arxiv-2609-39376/README.md) | arXiv preprint (under consideration for Journal of Plasma Physics) | [笔记](../daily/2026-10-02/notes/Lachmann et al. - 2026 - Alpha particle phase space non integrability.md) |
+| 2026-10-02 | [Damping dynamics of the centroid oscillation of a relativistic laser pulse in a plasma channel](../papers/10-1103-79h1-q62n/README.md) | Physical Review Applied Accepted Paper (local full text: corresponding arXiv:2605.03918v1 author preprint; not VOR) | [笔记](../daily/2026-10-02/notes/Xia et al. - 2026 - Laser centroid oscillation damping.md) |
 | 2026-10-01 | [Electron Rephasing in a Truncated Tunable Plasma Channel](../papers/arxiv-2609-36964/README.md) | arXiv preprint | [笔记](../daily/2026-10-01/notes/Mohanty et al. - 2026 - Electron rephasing in plasma channel.md) |
 | 2026-10-01 | [Laser-Polarization Dependence of Betatron X-Ray Production and Angular Collection in Laser-Wakefield Acceleration](../papers/arxiv-2609-37228/README.md) | arXiv preprint | [笔记](../daily/2026-10-01/notes/Berceanu et al. - 2026 - Polarization dependent betatron x rays.md) |
 | 2026-09-26 | [Monte Carlo sampling of first-order QED processes in laser and pulsar plasmas](../papers/arxiv-2609-29325/README.md) | arXiv preprint | [笔记](../daily/2026-09-26/notes/Sarjomaa and Nattila - 2026 - QED Monte Carlo sampling.md) |

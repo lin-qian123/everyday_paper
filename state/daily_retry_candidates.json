@@ -398,5 +398,25 @@
     "last_failure_class": "html_instead_of_pdf",
     "source_family": "iop",
     "failure_count": 1
+  },
+  {
+    "doi": "10.1088/1612-202x/aeab55",
+    "title": "Proton acceleration from tilted thin-foil targets under ultraintense laser irradiation",
+    "source_url": "https://iopscience.iop.org/article/10.1088/1612-202X/aeab55",
+    "publication_date": "2026-10-01",
+    "journal": "Laser Physics Letters（正式期刊）",
+    "topic": "超强激光 + 倾斜非对称薄箔 + TNSA 质子能量/发散控制 + PIC/理论",
+    "run_date": "2026-10-02",
+    "status": "download_failed",
+    "attempt_cmd": "python scripts/safe_pdf_download.py --url https://iopscience.iop.org/article/10.1088/1612-202X/aeab55/pdf --doi 10.1088/1612-202x/aeab55 --output \"daily/2026-10-02/pdfs/Kumar and Gupta - 2026 - Tilted foil proton acceleration.pdf\" --report-json daily/2026-10-02/pdfs/download-reports/10.1088-1612-202x-aeab55.json",
+    "stderr": "Official IOP PDF, DOI and article routes returned HTML instead of a PDF; no matching arXiv preprint or lawful open author manuscript was found during the 2026-10-02 search.",
+    "stdout": "",
+    "output_pdf": "daily/2026-10-02/pdfs/Kumar and Gupta - 2026 - Tilted foil proton acceleration.pdf",
+    "attempted_at": "2026-10-02T07:14:38+08:00",
+    "last_retry_at": null,
+    "retry_count": 0,
+    "last_failure_class": "html_instead_of_pdf",
+    "source_family": "iop",
+    "failure_count": 1
   }
 ]

@@ -4709,5 +4709,69 @@
       "general-plasma-and-methods"
     ],
     "normalized_title": "a portable neutron scatter camera with isotropic sensitivity"
+  },
+  {
+    "title": "Compact ultrafast intense LWFA-driven crystal-based source of γ-radiation, positrons and neutrons",
+    "doi": "10.48550/arXiv.2609.40005",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-30",
+    "processed_date": "2026-10-02",
+    "source_url": "https://arxiv.org/abs/2609.40005",
+    "pdf_path": "daily/2026-10-02/pdfs/Sytov et al. - 2026 - LWFA crystal gamma positron neutron source.pdf",
+    "note_path": "daily/2026-10-02/notes/Sytov et al. - 2026 - LWFA crystal gamma positron neutron source.md",
+    "categories": [
+      "laser-plasma-acceleration",
+      "laser-accelerated-beam-applications",
+      "pic-and-plasma-simulation"
+    ],
+    "normalized_title": "compact ultrafast intense lwfa driven crystal based source of γ radiation positrons and neutrons"
+  },
+  {
+    "title": "FIREWALL: A surrogate model for the rapid assessment of tokamak wall loading and melting by runaway electrons",
+    "doi": "10.48550/arXiv.2609.40132",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-09-30",
+    "processed_date": "2026-10-02",
+    "source_url": "https://arxiv.org/abs/2609.40132",
+    "pdf_path": "daily/2026-10-02/pdfs/Svensson et al. - 2026 - FIREWALL runaway electron wall surrogate.pdf",
+    "note_path": "daily/2026-10-02/notes/Svensson et al. - 2026 - FIREWALL runaway electron wall surrogate.md",
+    "categories": [
+      "magnetic-fusion-and-alpha-particles",
+      "experimental-platforms-diagnostics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "firewall a surrogate model for the rapid assessment of tokamak wall loading and melting by runaway electrons"
+  },
+  {
+    "title": "Phase-Space Non-Integrability of Alpha Particles in Near-Omnigeneous Stellarators",
+    "doi": "10.48550/arXiv.2609.39376",
+    "journal": "arXiv preprint (under consideration for Journal of Plasma Physics)",
+    "publication_date": "2026-09-30",
+    "processed_date": "2026-10-02",
+    "source_url": "https://arxiv.org/abs/2609.39376",
+    "pdf_path": "daily/2026-10-02/pdfs/Lachmann et al. - 2026 - Alpha particle phase space non integrability.pdf",
+    "note_path": "daily/2026-10-02/notes/Lachmann et al. - 2026 - Alpha particle phase space non integrability.md",
+    "categories": [
+      "magnetic-fusion-and-alpha-particles",
+      "pic-and-plasma-simulation",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "phase space non integrability of alpha particles in near omnigeneous stellarators"
+  },
+  {
+    "title": "Damping dynamics of the centroid oscillation of a relativistic laser pulse in a plasma channel",
+    "doi": "10.1103/79h1-q62n",
+    "journal": "Physical Review Applied Accepted Paper (local full text: corresponding arXiv:2605.03918v1 author preprint; not VOR)",
+    "publication_date": "2026-09-30",
+    "processed_date": "2026-10-02",
+    "source_url": "https://doi.org/10.1103/79h1-q62n",
+    "pdf_path": "daily/2026-10-02/pdfs/Xia et al. - 2026 - Laser centroid oscillation damping.pdf",
+    "note_path": "daily/2026-10-02/notes/Xia et al. - 2026 - Laser centroid oscillation damping.md",
+    "categories": [
+      "laser-plasma-acceleration",
+      "pic-and-plasma-simulation",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "damping dynamics of the centroid oscillation of a relativistic laser pulse in a plasma channel"
   }
 ]

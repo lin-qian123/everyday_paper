@@ -7,13 +7,15 @@
 - [ ] 后续新增关键论文或原文版本更新时，修订对应综述章与比较结论；先核查当前快照和 R 编号，避免直接重排台账后留下错误引用。已发现的旧笔记公式/日期/参数问题见 `reviews/2026-frontiers/appendices/source-discrepancies.md`，需按原文逐项修订。
 
 - [ ] 将每日自动化主流程固定为：新增论文与笔记 -> 更新 `state/processed_articles.json` -> 运行 `python scripts/build_indexes.py` -> 提交并推送 `origin/master`。
-- [ ] 处理剩余 20 条未补回 PDF 的候选；其中 10 条为 Elsevier/ScienceDirect `HTTP 403`，1 条为 Nature `cookies_not_supported`，6 条为 IOP/Radware 验证页，另有 3 条 APS accepted / formal `HTTP 403` 或延迟开放候选。
+- [ ] 处理剩余 21 条未补回 PDF 的候选；其中 10 条为 Elsevier/ScienceDirect `HTTP 403`，1 条为 Nature `cookies_not_supported`，7 条为 IOP/Radware/HTML 验证页，另有 3 条 APS accepted / formal `HTTP 403` 或延迟开放候选。
 - [ ] 为当前 65 条已补回 PDF 但尚无笔记的条目补中文结构化笔记。
 - [ ] 把每日自动化主流程接到 `scripts/retry_download_queue.py`，启动时先消化可恢复积压，避免配置恢复后仍只读旧 blocked-day 记录。
 - [ ] 为来源可达性预检补一层轻量检查，避免在明显 `403` / bot-wall 来源上重复空跑，并对 arXiv / DOI 这类开放来源单独标记“仅运行时阻塞”。
 - [ ] 修补 `scripts/safe_pdf_download.py` 在个别 Cambridge 官方 PDF 直链上的卡住问题；当前同 URL 用 `curl` 可正常完成下载，说明更像 Python 传输路径或读取策略问题。
 
 ## 开发记录
+
+- 2026-10-02：加载 398 条完成台账、20 条重试队列和历史 `daily/`，核对 2026-10-01 官方 arXiv 公告批次、Crossref 2026-09-30 至 10-02 元数据与 APS Accepted Paper 页面。新增 `10.48550/arXiv.2609.40005`、`10.48550/arXiv.2609.40132`、`10.48550/arXiv.2609.39376` 和 `10.1103/79h1-q62n`；4 份全文通过文件、页数、哈希、文本和 16 页渲染检查。MinerU 四批次长时间停留在 `pending 0/?` 后使用本地 fallback；APS 本地全文明确为同作品 arXiv v1 作者稿而非 VOR。台账增至 402 条；LPL `10.1088/1612-202x/aeab55` 因 IOP/HTML 阻塞进入重试，使队列增至 21 条。严格区分瞬时率与平均源强、混沌比例与到壁损失、熔点筛查与熔化后损伤、激光质心阻尼与电子束品质；本轮没有重跑相关物理代码。
 
 - 2026-10-01：加载 393 条完成台账、20 条重试队列和历史 `daily/`，核对 2026-09-30 官方 arXiv 公告批次与 Crossref 2026-09-29 至 10-01 正式元数据。新增 `10.48550/arXiv.2609.36528`、`10.48550/arXiv.2609.36964`、`10.48550/arXiv.2609.37228`、`10.48550/arXiv.2609.36536`，并补收上一批次的 `10.48550/arXiv.2609.36342`；5 份官方 PDF 通过文件、页数、哈希、文本和 20 页渲染检查，台账增至 398 条，重试队列保持 20 条。严格区分有限孔径返光与 CBET 模型分解、直接电子谱与再相位模拟、纯 PIC/输运与实验、真实 KSTAR 信号与 LIUQE 标签、Cf-252 校准与 ESS 外推；本轮没有重跑相关物理、输运、反演或机器学习计算。
 
@@ -207,12 +209,14 @@
 
 ## 阻塞点
 
-- 队列里的 17 条非 APS 阻塞已明确是来源侧访问限制：10 条 Elsevier `HTTP 403`、1 条 Nature cookie wall、6 条 IOP/Radware 验证页。
+- 队列里的 18 条非 APS 阻塞已明确是来源侧访问限制：10 条 Elsevier `HTTP 403`、1 条 Nature cookie wall、7 条 IOP/Radware/HTML 验证页。
 - APS `10.1103/p7k8-mjn7`、`10.1103/k23j-c9y7` 与 `10.1103/mmc9-nzfx` 仍在结构化重试队列；其中 `mmc9-nzfx` 的 accepted manuscript 标注延迟到 2027-09-10 开放。
 - APS 候选 `10.1103/d45l-hsgg` 已在 2026-09-23 通过 APS harvest 正式全文端点恢复并入库，不再属于阻塞候选；`10.1103/sgyf-lrw1` 与 `10.1103/2rqf-hq77` 仍待 version of record 或合法作者稿开放。
 - `2026-06-09` Cambridge/JPP 3 条、`2026-06-10` arXiv 3 条和 `2026-06-11` arXiv 3 条已在配置恢复后全部补回 PDF，不再是 runtime-blocked 积压。
 
 ## 下一步
+
+- 2026-10-02：台账已至 402 条，重试队列为 21 条。下轮先检查 2026-10-02 官方 arXiv 批次与可验证正式来源；取向晶体方案需真实 LWFA—透镜—晶体端到端产额/热损伤/屏蔽，FIREWALL 需相变后高保真和装置热成像，alpha WBA 需碰撞与诊断锚定，通道质心阻尼需逐发激光—电子束关联。LPL `10.1088/1612-202x/aeab55` 仅在 IOP 正文或合法作者稿可达后入库。
 
 - 2026-10-01：台账已至 398 条，重试队列为 20 条。下轮先检查 2026-10-01 官方 arXiv 批次与可验证正式来源；宽带 CBET 需自洽流体/内爆与吸收闭合，通道 LWFA 需逐发密度和完整相空间，betatron 需真实成像/剂量和输运线验证，KSTAR 扩散法需独立诊断标签、校准不确定度和实时化，中子相机需 ESS 现场高能响应与绝对通量反卷积。继续寻找能闭合激光电子/离子束—转换靶—γ/中子/同位素—剂量/屏蔽/材料应用的实验全文。
 

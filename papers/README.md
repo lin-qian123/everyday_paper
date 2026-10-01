@@ -1,10 +1,14 @@
 # 论文总索引
 
-- 当前入库论文：398 篇
-- 索引更新时间：2026-10-01
+- 当前入库论文：402 篇
+- 索引更新时间：2026-10-02
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-10-02 | [Compact ultrafast intense LWFA-driven crystal-based source of γ-radiation, positrons and neutrons](./arxiv-2609-40005/README.md) | arXiv preprint | [10.48550/arXiv.2609.40005](https://doi.org/10.48550/arXiv.2609.40005) |
+| 2026-10-02 | [FIREWALL: A surrogate model for the rapid assessment of tokamak wall loading and melting by runaway electrons](./arxiv-2609-40132/README.md) | arXiv preprint | [10.48550/arXiv.2609.40132](https://doi.org/10.48550/arXiv.2609.40132) |
+| 2026-10-02 | [Phase-Space Non-Integrability of Alpha Particles in Near-Omnigeneous Stellarators](./arxiv-2609-39376/README.md) | arXiv preprint (under consideration for Journal of Plasma Physics) | [10.48550/arXiv.2609.39376](https://doi.org/10.48550/arXiv.2609.39376) |
+| 2026-10-02 | [Damping dynamics of the centroid oscillation of a relativistic laser pulse in a plasma channel](./10-1103-79h1-q62n/README.md) | Physical Review Applied Accepted Paper (local full text: corresponding arXiv:2605.03918v1 author preprint; not VOR) | [10.1103/79h1-q62n](https://doi.org/10.1103/79h1-q62n) |
 | 2026-10-01 | [Experimental demonstration of broadband-laser suppression of cross-beam energy transfer](./arxiv-2609-36528/README.md) | arXiv preprint | [10.48550/arXiv.2609.36528](https://doi.org/10.48550/arXiv.2609.36528) |
 | 2026-10-01 | [Electron Rephasing in a Truncated Tunable Plasma Channel](./arxiv-2609-36964/README.md) | arXiv preprint | [10.48550/arXiv.2609.36964](https://doi.org/10.48550/arXiv.2609.36964) |
 | 2026-10-01 | [Laser-Polarization Dependence of Betatron X-Ray Production and Angular Collection in Laser-Wakefield Acceleration](./arxiv-2609-37228/README.md) | arXiv preprint | [10.48550/arXiv.2609.37228](https://doi.org/10.48550/arXiv.2609.37228) |

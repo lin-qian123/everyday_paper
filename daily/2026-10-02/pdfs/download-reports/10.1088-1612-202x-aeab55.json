@@ -1,0 +1,13 @@
+{
+  "ok": false,
+  "output": "daily/2026-10-02/pdfs/Kumar and Gupta - 2026 - Tilted foil proton acceleration.pdf",
+  "attempts": [
+    "[env-proxy] https://iopscience.iop.org/article/10.1088/1612-202X/aeab55/pdf -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[direct] https://iopscience.iop.org/article/10.1088/1612-202X/aeab55/pdf -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[env-proxy] https://doi.org/10.1088/1612-202x/aeab55 -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[direct] https://doi.org/10.1088/1612-202x/aeab55 -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[env-proxy] https://iopscience.iop.org/article/10.1088/1612-202X/aeab55 -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[direct] https://iopscience.iop.org/article/10.1088/1612-202X/aeab55 -> not pdf (content-type=text/html; charset=UTF-8)"
+  ],
+  "failure_class": "html_instead_of_pdf"
+}

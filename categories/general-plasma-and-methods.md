@@ -2,11 +2,14 @@
 
 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。
 
-- 当前收录：76 篇
-- 索引更新时间：2026-10-01
+- 当前收录：79 篇
+- 索引更新时间：2026-10-02
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-02 | [FIREWALL: A surrogate model for the rapid assessment of tokamak wall loading and melting by runaway electrons](../papers/arxiv-2609-40132/README.md) | arXiv preprint | [笔记](../daily/2026-10-02/notes/Svensson et al. - 2026 - FIREWALL runaway electron wall surrogate.md) |
+| 2026-10-02 | [Phase-Space Non-Integrability of Alpha Particles in Near-Omnigeneous Stellarators](../papers/arxiv-2609-39376/README.md) | arXiv preprint (under consideration for Journal of Plasma Physics) | [笔记](../daily/2026-10-02/notes/Lachmann et al. - 2026 - Alpha particle phase space non integrability.md) |
+| 2026-10-02 | [Damping dynamics of the centroid oscillation of a relativistic laser pulse in a plasma channel](../papers/10-1103-79h1-q62n/README.md) | Physical Review Applied Accepted Paper (local full text: corresponding arXiv:2605.03918v1 author preprint; not VOR) | [笔记](../daily/2026-10-02/notes/Xia et al. - 2026 - Laser centroid oscillation damping.md) |
 | 2026-10-01 | [A portable neutron scatter camera with isotropic sensitivity](../papers/arxiv-2609-36342/README.md) | arXiv preprint | [笔记](../daily/2026-10-01/notes/Yoon et al. - 2026 - Portable neutron scatter camera.md) |
 | 2026-09-30 | [A high-flux electron detection system to measure non-linear Compton scattering at LUXE](../papers/arxiv-2609-35519/README.md) | arXiv preprint | [笔记](../daily/2026-09-30/notes/Athanassiadis et al. - 2026 - LUXE high-flux electron detector.md) |
 | 2026-09-30 | [Generating Vector-Vortex gamma Photons by Nonlinear Compton Scattering](../papers/arxiv-2609-35208/README.md) | arXiv preprint | [笔记](../daily/2026-09-30/notes/Ren et al. - 2026 - Vector-vortex gamma photons.md) |

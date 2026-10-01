@@ -2,11 +2,12 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：116 篇
-- 索引更新时间：2026-10-01
+- 当前收录：117 篇
+- 索引更新时间：2026-10-02
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-02 | [FIREWALL: A surrogate model for the rapid assessment of tokamak wall loading and melting by runaway electrons](../papers/arxiv-2609-40132/README.md) | arXiv preprint | [笔记](../daily/2026-10-02/notes/Svensson et al. - 2026 - FIREWALL runaway electron wall surrogate.md) |
 | 2026-10-01 | [Experimental demonstration of broadband-laser suppression of cross-beam energy transfer](../papers/arxiv-2609-36528/README.md) | arXiv preprint | [笔记](../daily/2026-10-01/notes/Xu et al. - 2026 - Broadband laser CBET suppression.md) |
 | 2026-10-01 | [Electron Rephasing in a Truncated Tunable Plasma Channel](../papers/arxiv-2609-36964/README.md) | arXiv preprint | [笔记](../daily/2026-10-01/notes/Mohanty et al. - 2026 - Electron rephasing in plasma channel.md) |
 | 2026-10-01 | [Diffusion prior for KSTAR equilibrium reconstruction under sensor dropout](../papers/arxiv-2609-36536/README.md) | arXiv preprint | [笔记](../daily/2026-10-01/notes/Nam and Seo - 2026 - KSTAR diffusion prior reconstruction.md) |

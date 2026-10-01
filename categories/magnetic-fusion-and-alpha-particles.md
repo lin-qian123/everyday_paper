@@ -2,11 +2,13 @@
 
 stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。
 
-- 当前收录：44 篇
-- 索引更新时间：2026-10-01
+- 当前收录：46 篇
+- 索引更新时间：2026-10-02
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-02 | [FIREWALL: A surrogate model for the rapid assessment of tokamak wall loading and melting by runaway electrons](../papers/arxiv-2609-40132/README.md) | arXiv preprint | [笔记](../daily/2026-10-02/notes/Svensson et al. - 2026 - FIREWALL runaway electron wall surrogate.md) |
+| 2026-10-02 | [Phase-Space Non-Integrability of Alpha Particles in Near-Omnigeneous Stellarators](../papers/arxiv-2609-39376/README.md) | arXiv preprint (under consideration for Journal of Plasma Physics) | [笔记](../daily/2026-10-02/notes/Lachmann et al. - 2026 - Alpha particle phase space non integrability.md) |
 | 2026-10-01 | [Diffusion prior for KSTAR equilibrium reconstruction under sensor dropout](../papers/arxiv-2609-36536/README.md) | arXiv preprint | [笔记](../daily/2026-10-01/notes/Nam and Seo - 2026 - KSTAR diffusion prior reconstruction.md) |
 | 2026-09-30 | [Observer-Based Model Predictive Control for Isoflux Regulation in the EXL-50U Spherical Tokamak](../papers/arxiv-2609-34076/README.md) | arXiv preprint | [笔记](../daily/2026-09-30/notes/Lu et al. - 2026 - EXL-50U observer-based MPC.md) |
 | 2026-09-26 | [AI-Accelerated Gyrokinetic Predictions of Turbulent Transport for Stellarator Design Optimization and Experimental Planning](../papers/arxiv-2609-28730/README.md) | arXiv preprint | [笔记](../daily/2026-09-26/notes/Churchill et al. - 2026 - AI gyrokinetic stellarator transport.md) |

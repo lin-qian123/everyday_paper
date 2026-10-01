@@ -1,0 +1,64 @@
+{
+  "run_date": "2026-10-02",
+  "checks": [
+    "%PDF- header",
+    "file type",
+    "nonzero byte count",
+    "SHA-256",
+    "pdfinfo page count",
+    "nonempty pdftotext -layout",
+    "selected-page rendering and visual inspection"
+  ],
+  "mineru": {
+    "attempted_documents": 4,
+    "completed_documents": 0,
+    "status": "fallback",
+    "reason": "All four MinerU batches remained pending at 0/? for about ten minutes; unbounded local polling was stopped and validated layout text plus rendered-page inspection was used."
+  },
+  "documents": [
+    {
+      "identifier": "10.48550/arXiv.2609.40005",
+      "path": "daily/2026-10-02/pdfs/Sytov et al. - 2026 - LWFA crystal gamma positron neutron source.pdf",
+      "bytes": 5717623,
+      "sha256": "2c215ec3f46d9f50ad1ae6d0b0a5352af09c7b3b6044c35ceb31cf4f2a8f581c",
+      "pages": 15,
+      "text_bytes": 102239,
+      "rendered_pages": [1, 4, 7, 9],
+      "status": "passed"
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.40132",
+      "path": "daily/2026-10-02/pdfs/Svensson et al. - 2026 - FIREWALL runaway electron wall surrogate.pdf",
+      "bytes": 9140474,
+      "sha256": "df98e686fffda1b8bb4c8de947274dc0df5337756d757467d212bfc0cf59cc56",
+      "pages": 12,
+      "text_bytes": 68480,
+      "rendered_pages": [1, 5, 7, 9],
+      "status": "passed"
+    },
+    {
+      "identifier": "10.48550/arXiv.2609.39376",
+      "path": "daily/2026-10-02/pdfs/Lachmann et al. - 2026 - Alpha particle phase space non integrability.pdf",
+      "bytes": 11223277,
+      "sha256": "dc4d94a092188ff7ae61f5a96d5ae9f4ee8d387093b69e781f2074c9b12c34dd",
+      "pages": 22,
+      "text_bytes": 69723,
+      "rendered_pages": [1, 12, 16, 19],
+      "status": "passed"
+    },
+    {
+      "identifier": "10.1103/79h1-q62n",
+      "path": "daily/2026-10-02/pdfs/Xia et al. - 2026 - Laser centroid oscillation damping.pdf",
+      "bytes": 3364044,
+      "sha256": "3c69ec20212e00f90dbeed6ae738c007bc0595a3177900546f68c3720f71d142",
+      "pages": 9,
+      "text_bytes": 66368,
+      "rendered_pages": [1, 4, 6, 7],
+      "source_note": "Corresponding arXiv:2605.03918v1 author preprint; APS accepted-paper harvest endpoint returned HTTP 401; not the APS version of record.",
+      "status": "passed"
+    }
+  ],
+  "selected_and_visually_checked_pages": 16,
+  "valid_documents": 4,
+  "status": "passed_with_mineru_fallback"
+}
