@@ -1,0 +1,87 @@
+{
+  "run_date": "2026-10-03",
+  "latest_official_arxiv_batch": "2026-10-02",
+  "latest_arxiv_submission_date": "2026-10-01",
+  "search_summary": {
+    "sources": "installed multi-source search layer, official arXiv category and article pages, Crossref 2026-10-01 through 2026-10-03 metadata",
+    "selection_basis": "formal/accepted-source priority, verified full text, latest official arXiv increment, topic fit and non-duplication",
+    "coverage_claim": "targeted, not exhaustive",
+    "research_record": "daily/2026-10-03/research/"
+  },
+  "deduplication": {
+    "processed_before": 402,
+    "processed_after": 407,
+    "retry_before": 21,
+    "retry_after": 21,
+    "keys": [
+      "DOI or arXiv identifier",
+      "normalized title",
+      "source URL",
+      "historical daily folders",
+      "retry queue",
+      "formal or accepted version versus preprint title match",
+      "abstract and physical scenario"
+    ],
+    "legacy_cross_state_overlap": {
+      "identifier": "10.1016/j.jcp.2026.114707",
+      "reason": "pre-existing legacy record has pdf_path null in the processed ledger while retaining a PDF-download retry entry; no new overlap was introduced"
+    }
+  },
+  "added": [
+    "10.48550/arXiv.2610.01485",
+    "10.48550/arXiv.2610.01429",
+    "10.48550/arXiv.2610.02052",
+    "10.48550/arXiv.2610.00845",
+    "10.48550/arXiv.2610.01719"
+  ],
+  "retry_removed": [],
+  "retry_added": [],
+  "skipped": [
+    {
+      "identifier": "10.48550/arXiv.2610.00243",
+      "reason": "EAST temperature-profile attention model is older than the latest batch and lower priority than the selected deployment benchmark"
+    },
+    {
+      "identifier": "10.48550/arXiv.2610.00244",
+      "reason": "EAST knowledge-graph ELM recognition is less recent and more narrowly focused on offline classification"
+    },
+    {
+      "identifier": "10.48550/arXiv.2610.00611",
+      "reason": "NSLS-II FLUKA shielding proceedings is farther from the laser and fusion core scope"
+    },
+    {
+      "identifier": "10.48550/arXiv.2610.01406",
+      "reason": "activation-depth framework is relevant but lower priority than a direct thick-target neutron measurement"
+    }
+  ],
+  "pdf_validation": {
+    "valid_documents": 5,
+    "official_arxiv_documents": 5,
+    "accepted_author_manuscripts": 1,
+    "selected_and_visually_checked_pages": 20,
+    "mineru": "local paths unsupported; official URL tasks remained pending beyond a bounded five-minute wait; validated layout-text and rendered-page fallback used",
+    "details": "daily/2026-10-03/pdf_validation.json"
+  },
+  "evidence_boundaries": [
+    "The AWAKE paper reanalyzes earlier experimental schlieren images using formulas trained on simulated signals; it is not a new plasma-channel campaign or universal instrument calibration.",
+    "The drift-kinetic PIC work is a derivation and author numerical validation; the intended drift-kinetic-electron plus fully kinetic-ion hybrid and complex geometries are not yet demonstrated.",
+    "The grid-instability result is theory plus author PIC tests for a one-dimensional electrostatic cold plasma and cannot be promoted to general multidimensional electromagnetic PIC stability.",
+    "The fusion-AI work is an offline heterogeneous-hardware inference benchmark; average latency is not full PCS timing or reactor closed-loop validation.",
+    "The copper result directly measures near-threshold thick-target neutron yield, while the 14 MeV enriched-target activity and application rates rely on TALYS/SRIM extrapolation; the local file is not the publisher VOR.",
+    "No symbolic-regression training, xpic run, grid-eigenmode calculation, AI deployment, TALYS or SRIM calculation was rerun locally."
+  ],
+  "validation": {
+    "index_builder": "Indexed 407 papers across 9 categories.",
+    "pytest": "7 passed via PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q",
+    "unittest": "7 tests passed via python -m unittest discover -s tests -v",
+    "ledger_checks": "407 records parsed; 403 non-null identifiers are unique; all 407 normalized titles are unique; 21 retry identifiers are unique; no new cross-state overlap",
+    "pdf_header_size_hash_metadata_text_check": "passed for all 5 added documents",
+    "download_report_check": "5 JSON reports parsed; all have ok=true",
+    "markdown_link_check": "all local links and image embeds in the daily index and notes resolved",
+    "image_check": "10 JPEG crops decoded successfully; 20 selected rendered PDF pages were visually inspected",
+    "diff_check": "git diff --check passed",
+    "ignored_artifacts": "all daily PDF and extracted-text artifacts are Git-ignored"
+  },
+  "git": "commit and push to origin/master after final staging validation",
+  "status": "success"
+}

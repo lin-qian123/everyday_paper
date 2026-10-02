@@ -1,10 +1,15 @@
 # 论文总索引
 
-- 当前入库论文：402 篇
-- 索引更新时间：2026-10-02
+- 当前入库论文：407 篇
+- 索引更新时间：2026-10-03
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-10-03 | [Quantitative schlieren imaging of a laser-ionized plasma channel in atomic vapor using symbolic regression](./arxiv-2610-01485/README.md) | arXiv preprint | [10.48550/arXiv.2610.01485](https://doi.org/10.48550/arXiv.2610.01485) |
+| 2026-10-03 | [Electromagnetic drift-kinetic particle-in-cell model with energy and charge conservation for studying finite-β plasmas](./arxiv-2610-01429/README.md) | arXiv preprint (submitted to Journal of Computational Physics) | [10.48550/arXiv.2610.01429](https://doi.org/10.48550/arXiv.2610.01429) |
+| 2026-10-03 | [Analysis of grid instabilities in particle-in-cell codes based on a meshfree approach](./arxiv-2610-02052/README.md) | arXiv preprint | [10.48550/arXiv.2610.02052](https://doi.org/10.48550/arXiv.2610.02052) |
+| 2026-10-03 | [Is Your AI Fast Enough to Run a Fusion Reactor?](./arxiv-2610-00845/README.md) | arXiv preprint | [10.48550/arXiv.2610.00845](https://doi.org/10.48550/arXiv.2610.00845) |
+| 2026-10-03 | [Thick-target Yield of 65Cu(α,n)68Ga Near Threshold and Implications for Nuclear Medicine, Deep Underground Detector Backgrounds, and Nucleosynthesis](./arxiv-2610-01719/README.md) | Accepted to Applied Radiation and Isotopes (local full text: arXiv accepted manuscript; not VOR) | [10.48550/arXiv.2610.01719](https://doi.org/10.48550/arXiv.2610.01719) |
 | 2026-10-02 | [Compact ultrafast intense LWFA-driven crystal-based source of γ-radiation, positrons and neutrons](./arxiv-2609-40005/README.md) | arXiv preprint | [10.48550/arXiv.2609.40005](https://doi.org/10.48550/arXiv.2609.40005) |
 | 2026-10-02 | [FIREWALL: A surrogate model for the rapid assessment of tokamak wall loading and melting by runaway electrons](./arxiv-2609-40132/README.md) | arXiv preprint | [10.48550/arXiv.2609.40132](https://doi.org/10.48550/arXiv.2609.40132) |
 | 2026-10-02 | [Phase-Space Non-Integrability of Alpha Particles in Near-Omnigeneous Stellarators](./arxiv-2609-39376/README.md) | arXiv preprint (under consideration for Journal of Plasma Physics) | [10.48550/arXiv.2609.39376](https://doi.org/10.48550/arXiv.2609.39376) |

@@ -1,0 +1,74 @@
+{
+  "run_date": "2026-10-03",
+  "checks": [
+    "%PDF- header",
+    "file type",
+    "nonzero byte count",
+    "SHA-256",
+    "pdfinfo page count",
+    "nonempty pdftotext -layout",
+    "selected-page rendering and visual inspection"
+  ],
+  "mineru": {
+    "attempted_documents": 5,
+    "completed_documents": 0,
+    "status": "pending_timeout_fallback",
+    "reason": "Local paths were unsupported; official arXiv URL tasks were accepted but remained pending beyond a bounded five-minute wait, so validated layout text plus rendered-page inspection was used."
+  },
+  "documents": [
+    {
+      "identifier": "10.48550/arXiv.2610.01485",
+      "path": "daily/2026-10-03/pdfs/Demeter - 2026 - AWAKE plasma channel schlieren symbolic regression.pdf",
+      "bytes": 1706200,
+      "sha256": "64e1f50f9e07de6f74eca07a74b6f464c5db040eca04e8d5d5cc90f287b85cf5",
+      "pages": 15,
+      "text_bytes": 77586,
+      "rendered_pages": [1, 3, 8, 12],
+      "status": "passed"
+    },
+    {
+      "identifier": "10.48550/arXiv.2610.01429",
+      "path": "daily/2026-10-03/pdfs/Morozov et al. - 2026 - Conservative drift kinetic PIC.pdf",
+      "bytes": 1561508,
+      "sha256": "0973cd78aacb44ab3e1fe070f1cddce5aa9cccfb1589782c3cd9d723a7395408",
+      "pages": 26,
+      "text_bytes": 151341,
+      "rendered_pages": [1, 17, 18, 23],
+      "status": "passed"
+    },
+    {
+      "identifier": "10.48550/arXiv.2610.02052",
+      "path": "daily/2026-10-03/pdfs/Finn and Evstatiev - 2026 - PIC grid instability analysis.pdf",
+      "bytes": 948234,
+      "sha256": "b86a0f6e94b510f8b4427c673858e021000bd1bad67c7249fdf6bef6b158689f",
+      "pages": 30,
+      "text_bytes": 138632,
+      "rendered_pages": [1, 21, 23, 24],
+      "status": "passed"
+    },
+    {
+      "identifier": "10.48550/arXiv.2610.00845",
+      "path": "daily/2026-10-03/pdfs/Chen et al. - 2026 - Fusion AI inference benchmark.pdf",
+      "bytes": 249885,
+      "sha256": "51f209b59bccacd6404fd284f617f24280324ace34f6451659da86d222600b8c",
+      "pages": 7,
+      "text_bytes": 25314,
+      "rendered_pages": [1, 2, 3, 4],
+      "status": "passed"
+    },
+    {
+      "identifier": "10.48550/arXiv.2610.01719",
+      "path": "daily/2026-10-03/pdfs/Meisel et al. - 2026 - Cu65 alpha n Ga68 thick target yield.pdf",
+      "bytes": 1282601,
+      "sha256": "af4aebf6f85049f0664a4347d4d90f1ece36778bad0e67b5ca4e30d073d64210",
+      "pages": 12,
+      "text_bytes": 75999,
+      "rendered_pages": [1, 5, 8, 10],
+      "source_note": "arXiv accepted manuscript marked accepted to Applied Radiation and Isotopes; not the publisher version of record.",
+      "status": "passed"
+    }
+  ],
+  "selected_and_visually_checked_pages": 20,
+  "valid_documents": 5,
+  "status": "passed_with_mineru_fallback"
+}

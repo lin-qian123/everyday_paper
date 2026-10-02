@@ -2,11 +2,13 @@
 
 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。
 
-- 当前收录：65 篇
-- 索引更新时间：2026-10-02
+- 当前收录：67 篇
+- 索引更新时间：2026-10-03
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-03 | [Quantitative schlieren imaging of a laser-ionized plasma channel in atomic vapor using symbolic regression](../papers/arxiv-2610-01485/README.md) | arXiv preprint | [笔记](../daily/2026-10-03/notes/Demeter - 2026 - AWAKE plasma channel schlieren symbolic regression.md) |
+| 2026-10-03 | [Is Your AI Fast Enough to Run a Fusion Reactor?](../papers/arxiv-2610-00845/README.md) | arXiv preprint | [笔记](../daily/2026-10-03/notes/Chen et al. - 2026 - Fusion AI inference benchmark.md) |
 | 2026-10-01 | [Diffusion prior for KSTAR equilibrium reconstruction under sensor dropout](../papers/arxiv-2609-36536/README.md) | arXiv preprint | [笔记](../daily/2026-10-01/notes/Nam and Seo - 2026 - KSTAR diffusion prior reconstruction.md) |
 | 2026-09-30 | [Electrons with Anomalous Energy Generated in Vacuum Diodes with Different Pulse Duration](../papers/arxiv-2609-34350/README.md) | arXiv preprint | [笔记](../daily/2026-09-30/notes/Kozhevnikov et al. - 2026 - Anomalous-energy electrons in vacuum diodes.md) |
 | 2026-09-30 | [Observer-Based Model Predictive Control for Isoflux Regulation in the EXL-50U Spherical Tokamak](../papers/arxiv-2609-34076/README.md) | arXiv preprint | [笔记](../daily/2026-09-30/notes/Lu et al. - 2026 - EXL-50U observer-based MPC.md) |

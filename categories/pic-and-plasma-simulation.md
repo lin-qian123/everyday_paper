@@ -2,11 +2,13 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：168 篇
-- 索引更新时间：2026-10-02
+- 当前收录：170 篇
+- 索引更新时间：2026-10-03
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-03 | [Electromagnetic drift-kinetic particle-in-cell model with energy and charge conservation for studying finite-β plasmas](../papers/arxiv-2610-01429/README.md) | arXiv preprint (submitted to Journal of Computational Physics) | [笔记](../daily/2026-10-03/notes/Morozov et al. - 2026 - Conservative drift kinetic PIC.md) |
+| 2026-10-03 | [Analysis of grid instabilities in particle-in-cell codes based on a meshfree approach](../papers/arxiv-2610-02052/README.md) | arXiv preprint | [笔记](../daily/2026-10-03/notes/Finn and Evstatiev - 2026 - PIC grid instability analysis.md) |
 | 2026-10-02 | [Compact ultrafast intense LWFA-driven crystal-based source of γ-radiation, positrons and neutrons](../papers/arxiv-2609-40005/README.md) | arXiv preprint | [笔记](../daily/2026-10-02/notes/Sytov et al. - 2026 - LWFA crystal gamma positron neutron source.md) |
 | 2026-10-02 | [Phase-Space Non-Integrability of Alpha Particles in Near-Omnigeneous Stellarators](../papers/arxiv-2609-39376/README.md) | arXiv preprint (under consideration for Journal of Plasma Physics) | [笔记](../daily/2026-10-02/notes/Lachmann et al. - 2026 - Alpha particle phase space non integrability.md) |
 | 2026-10-02 | [Damping dynamics of the centroid oscillation of a relativistic laser pulse in a plasma channel](../papers/10-1103-79h1-q62n/README.md) | Physical Review Applied Accepted Paper (local full text: corresponding arXiv:2605.03918v1 author preprint; not VOR) | [笔记](../daily/2026-10-02/notes/Xia et al. - 2026 - Laser centroid oscillation damping.md) |
