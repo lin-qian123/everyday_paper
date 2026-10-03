@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "run_id": "2026-10-04-daily-paper",
+  "library": "/Volumes/PHILIPS/programs/everyday_paper",
+  "papers": [
+    {
+      "manifest_id": "cui-2026-au197-ngamma-backn",
+      "doi": "10.1007/s41365-026-02072-4",
+      "target_collection": "daily/2026-10-04",
+      "reason": "direct high-precision gold neutron-capture measurement and nuclear-data benchmark for neutron diagnostics",
+      "status": "imported_reviewed_vor",
+      "url": "https://link.springer.com/article/10.1007/s41365-026-02072-4",
+      "title": "New measurement of the 197Au(n, γ) cross section at the CSNS Back-n white neutron facility",
+      "authors": [
+        "Zhan-Qiao Cui", "Wei Jiang", "Gao-Le Yang", "Rui-Rui Fan", "Jie Ren", "Kang Sun", "Han Yi", "Qiu-Yue Luo", "Yong-Qi Wang", "Fan Wu", "Yu-Bin Shi", "Wei-Ping Liu"
+      ],
+      "year": 2026,
+      "venue": "Nuclear Science and Techniques 37, 233; Springer version of record",
+      "local_pdf": "daily/2026-10-04/pdfs/Cui et al. - 2026 - Au197 neutron capture cross section.pdf",
+      "sha256": "17e7d31f8c58ebc2a62de9a50639a8c7144cb82bffe3b4b95a4c327c198c92d5",
+      "page_count": 11,
+      "pdf_bytes": 3239079,
+      "summary_path": "daily/2026-10-04/notes/Cui et al. - 2026 - Au197 neutron capture cross section.md",
+      "fulltext_review": true
+    }
+  ]
+}

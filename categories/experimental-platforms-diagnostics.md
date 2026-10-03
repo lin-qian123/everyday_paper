@@ -2,11 +2,12 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：120 篇
-- 索引更新时间：2026-10-03
+- 当前收录：121 篇
+- 索引更新时间：2026-10-04
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-04 | [New measurement of the 197Au(n, γ) cross section at the CSNS Back-n white neutron facility](../papers/10-1007-s41365-026-02072-4/README.md) | Nuclear Science and Techniques (formal version of record) | [笔记](../daily/2026-10-04/notes/Cui et al. - 2026 - Au197 neutron capture cross section.md) |
 | 2026-10-03 | [Quantitative schlieren imaging of a laser-ionized plasma channel in atomic vapor using symbolic regression](../papers/arxiv-2610-01485/README.md) | arXiv preprint | [笔记](../daily/2026-10-03/notes/Demeter - 2026 - AWAKE plasma channel schlieren symbolic regression.md) |
 | 2026-10-03 | [Is Your AI Fast Enough to Run a Fusion Reactor?](../papers/arxiv-2610-00845/README.md) | arXiv preprint | [笔记](../daily/2026-10-03/notes/Chen et al. - 2026 - Fusion AI inference benchmark.md) |
 | 2026-10-03 | [Thick-target Yield of 65Cu(α,n)68Ga Near Threshold and Implications for Nuclear Medicine, Deep Underground Detector Backgrounds, and Nucleosynthesis](../papers/arxiv-2610-01719/README.md) | Accepted to Applied Radiation and Isotopes (local full text: arXiv accepted manuscript; not VOR) | [笔记](../daily/2026-10-03/notes/Meisel et al. - 2026 - Cu65 alpha n Ga68 thick target yield.md) |

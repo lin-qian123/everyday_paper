@@ -1,0 +1,34 @@
+{
+  "run_date": "2026-10-04",
+  "checks": [
+    "%PDF- header",
+    "file type",
+    "nonzero byte count",
+    "SHA-256",
+    "pdfinfo page count",
+    "nonempty pdftotext -layout",
+    "all-page rendering and visual inspection"
+  ],
+  "mineru": {
+    "attempted_documents": 1,
+    "completed_documents": 1,
+    "status": "completed_with_transport_fallback",
+    "reason": "MinerU parsed all 11 pages. Its result CDN presented an expired server certificate, so the result ZIP was transferred with curl fallback and then passed ZIP-integrity and extracted-fulltext checks."
+  },
+  "documents": [
+    {
+      "identifier": "10.1007/s41365-026-02072-4",
+      "path": "daily/2026-10-04/pdfs/Cui et al. - 2026 - Au197 neutron capture cross section.pdf",
+      "bytes": 3239079,
+      "sha256": "17e7d31f8c58ebc2a62de9a50639a8c7144cb82bffe3b4b95a4c327c198c92d5",
+      "pages": 11,
+      "text_bytes": 94309,
+      "rendered_pages": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "source_note": "Springer formal version of record.",
+      "status": "passed"
+    }
+  ],
+  "selected_and_visually_checked_pages": 11,
+  "valid_documents": 1,
+  "status": "passed"
+}

@@ -4852,5 +4852,21 @@
       "general-plasma-and-methods"
     ],
     "normalized_title": "thick target yield of 65cu α n 68ga near threshold and implications for nuclear medicine deep underground detector backgrounds and nucleosynthesis"
+  },
+  {
+    "title": "New measurement of the 197Au(n, γ) cross section at the CSNS Back-n white neutron facility",
+    "doi": "10.1007/s41365-026-02072-4",
+    "journal": "Nuclear Science and Techniques (formal version of record)",
+    "publication_date": "2026-10-03",
+    "processed_date": "2026-10-04",
+    "source_url": "https://link.springer.com/article/10.1007/s41365-026-02072-4",
+    "pdf_path": "daily/2026-10-04/pdfs/Cui et al. - 2026 - Au197 neutron capture cross section.pdf",
+    "note_path": "daily/2026-10-04/notes/Cui et al. - 2026 - Au197 neutron capture cross section.md",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "experimental-platforms-diagnostics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "new measurement of the 197au n γ cross section at the csns back n white neutron facility"
   }
 ]

@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "output": "daily/2026-10-04/pdfs/Cui et al. - 2026 - Au197 neutron capture cross section.pdf",
+  "source_url": "https://link.springer.com/content/pdf/10.1007/s41365-026-02072-4.pdf",
+  "mode": "direct",
+  "attempts": [
+    "[env-proxy] https://link.springer.com/content/pdf/10.1007/s41365-026-02072-4.pdf -> not pdf (content-type=text/html; charset=utf-8)"
+  ]
+}

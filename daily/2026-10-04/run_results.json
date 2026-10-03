@@ -1,0 +1,67 @@
+{
+  "run_date": "2026-10-04",
+  "latest_official_arxiv_batch": "2026-10-02",
+  "latest_arxiv_submission_date": "2026-10-01",
+  "search_summary": {
+    "sources": "installed multi-source search layer, official arXiv category pages, Crossref 2026-10-03 through 2026-10-04 metadata, Springer article and PDF",
+    "selection_basis": "formal-source priority, verified full text, recency, topic fit and non-duplication",
+    "coverage_claim": "targeted, not exhaustive",
+    "research_record": "daily/2026-10-04/research/"
+  },
+  "deduplication": {
+    "processed_before": 407,
+    "processed_after": 408,
+    "retry_before": 21,
+    "retry_after": 21,
+    "keys": [
+      "DOI or arXiv identifier",
+      "normalized title",
+      "source URL",
+      "historical daily folders",
+      "retry queue",
+      "formal version versus preprint title match",
+      "abstract and physical scenario"
+    ],
+    "legacy_cross_state_overlap": {
+      "identifier": "10.1016/j.jcp.2026.114707",
+      "reason": "pre-existing legacy record has pdf_path null in the processed ledger while retaining a PDF-download retry entry; no new overlap was introduced"
+    }
+  },
+  "added": ["10.1007/s41365-026-02072-4"],
+  "retry_removed": [],
+  "retry_added": [],
+  "skipped": [
+    {
+      "identifier": "official arXiv batch 2026-10-02",
+      "reason": "same latest batch was already screened on 2026-10-03; no duplicate re-ingestion"
+    }
+  ],
+  "pdf_validation": {
+    "valid_documents": 1,
+    "formal_version_of_record_documents": 1,
+    "selected_and_visually_checked_pages": 11,
+    "mineru": "completed 11/11 pages; expired result-CDN certificate required curl transport fallback; ZIP integrity and extracted full text passed",
+    "details": "daily/2026-10-04/pdf_validation.json"
+  },
+  "evidence_boundaries": [
+    "The capture yield is directly measured at CSNS Back-n; PHWT, double-bunch unfolding, background scaling and SAMMY resonance fitting are model-assisted analysis stages.",
+    "The reported capture cross section uses ENDF/B-VIII.1 total cross section, so it is not a fully independent absolute cross-section measurement.",
+    "The MACS above 300 keV uses ENDF/B-VIII.1; the evaluated contribution reaches 10.8 percent at kT=100 keV.",
+    "This is not a laser-driven neutron experiment and does not validate a laser target, source spectrum, EMP environment or shot-to-shot stability.",
+    "No raw waveform replay, unfolding, PHWT or GEANT4 response simulation, SAMMY fit or MACS recalculation was performed locally."
+  ],
+  "validation": {
+    "index_builder": "Indexed 408 papers across 9 categories.",
+    "pytest": "7 passed via PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q",
+    "unittest": "7 tests passed via python -m unittest discover -s tests -v",
+    "ledger_checks": "408 records parsed; 404 non-null identifiers are unique; all 408 normalized titles are unique; 21 retry identifiers are unique; no new cross-state overlap",
+    "pdf_header_size_hash_metadata_text_check": "passed",
+    "download_report_check": "passed",
+    "markdown_link_check": "all local links and image embeds in the daily index and note resolved",
+    "image_check": "8 JPEG crops decoded successfully; all 11 PDF pages were visually inspected",
+    "diff_check": "git diff --check passed",
+    "ignored_artifacts": "the daily PDF and extracted-text artifact are Git-ignored"
+  },
+  "git": "commit and push to origin/master after final staging validation",
+  "status": "success"
+}

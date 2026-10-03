@@ -2,11 +2,12 @@
 
 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。
 
-- 当前收录：82 篇
-- 索引更新时间：2026-10-03
+- 当前收录：83 篇
+- 索引更新时间：2026-10-04
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-04 | [New measurement of the 197Au(n, γ) cross section at the CSNS Back-n white neutron facility](../papers/10-1007-s41365-026-02072-4/README.md) | Nuclear Science and Techniques (formal version of record) | [笔记](../daily/2026-10-04/notes/Cui et al. - 2026 - Au197 neutron capture cross section.md) |
 | 2026-10-03 | [Electromagnetic drift-kinetic particle-in-cell model with energy and charge conservation for studying finite-β plasmas](../papers/arxiv-2610-01429/README.md) | arXiv preprint (submitted to Journal of Computational Physics) | [笔记](../daily/2026-10-03/notes/Morozov et al. - 2026 - Conservative drift kinetic PIC.md) |
 | 2026-10-03 | [Analysis of grid instabilities in particle-in-cell codes based on a meshfree approach](../papers/arxiv-2610-02052/README.md) | arXiv preprint | [笔记](../daily/2026-10-03/notes/Finn and Evstatiev - 2026 - PIC grid instability analysis.md) |
 | 2026-10-03 | [Thick-target Yield of 65Cu(α,n)68Ga Near Threshold and Implications for Nuclear Medicine, Deep Underground Detector Backgrounds, and Nucleosynthesis](../papers/arxiv-2610-01719/README.md) | Accepted to Applied Radiation and Isotopes (local full text: arXiv accepted manuscript; not VOR) | [笔记](../daily/2026-10-03/notes/Meisel et al. - 2026 - Cu65 alpha n Ga68 thick target yield.md) |

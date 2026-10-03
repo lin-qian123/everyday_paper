@@ -2,11 +2,12 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：93 篇
-- 索引更新时间：2026-10-03
+- 当前收录：94 篇
+- 索引更新时间：2026-10-04
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-04 | [New measurement of the 197Au(n, γ) cross section at the CSNS Back-n white neutron facility](../papers/10-1007-s41365-026-02072-4/README.md) | Nuclear Science and Techniques (formal version of record) | [笔记](../daily/2026-10-04/notes/Cui et al. - 2026 - Au197 neutron capture cross section.md) |
 | 2026-10-03 | [Thick-target Yield of 65Cu(α,n)68Ga Near Threshold and Implications for Nuclear Medicine, Deep Underground Detector Backgrounds, and Nucleosynthesis](../papers/arxiv-2610-01719/README.md) | Accepted to Applied Radiation and Isotopes (local full text: arXiv accepted manuscript; not VOR) | [笔记](../daily/2026-10-03/notes/Meisel et al. - 2026 - Cu65 alpha n Ga68 thick target yield.md) |
 | 2026-10-02 | [Compact ultrafast intense LWFA-driven crystal-based source of γ-radiation, positrons and neutrons](../papers/arxiv-2609-40005/README.md) | arXiv preprint | [笔记](../daily/2026-10-02/notes/Sytov et al. - 2026 - LWFA crystal gamma positron neutron source.md) |
 | 2026-10-01 | [Laser-Polarization Dependence of Betatron X-Ray Production and Angular Collection in Laser-Wakefield Acceleration](../papers/arxiv-2609-37228/README.md) | arXiv preprint | [笔记](../daily/2026-10-01/notes/Berceanu et al. - 2026 - Polarization dependent betatron x rays.md) |

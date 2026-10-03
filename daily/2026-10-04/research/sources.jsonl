@@ -1,0 +1,4 @@
+{"source":"installed search layer","queried_at":"2026-10-04","queries":3,"results":0,"role":"initial multi-source discovery; no usable result"}
+{"source":"official arXiv category new pages","queried_at":"2026-10-04","categories":["physics.plasm-ph","physics.acc-ph","physics.comp-ph","physics.ins-det","nucl-ex"],"latest_batch":"2026-10-02","role":"latest official preprint batch check; already screened on the previous run"}
+{"source":"Crossref REST metadata","queried_at":"2026-10-04","date_from":"2026-10-03","date_until":"2026-10-04","topic_queries":6,"rows":422,"unique_works":336,"role":"formal-publication discovery and metadata verification"}
+{"source":"Springer Nature","queried_at":"2026-10-04","doi":"10.1007/s41365-026-02072-4","article_url":"https://link.springer.com/article/10.1007/s41365-026-02072-4","pdf_url":"https://link.springer.com/content/pdf/10.1007/s41365-026-02072-4.pdf","role":"formal article metadata and version-of-record PDF"}
