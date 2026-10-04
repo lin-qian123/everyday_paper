@@ -2,11 +2,12 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：94 篇
-- 索引更新时间：2026-10-04
+- 当前收录：95 篇
+- 索引更新时间：2026-10-05
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-05 | [Precise efficiency calibration of a p-type HPGe detector: dead layer optimization and near-field TCS analysis via PHITS simulation](../papers/10-1140-epjp-s13360-026-08383-0/README.md) | The European Physical Journal Plus (formal version of record) | [笔记](../daily/2026-10-05/notes/Badague et al. - 2026 - HPGe efficiency calibration PHITS.md) |
 | 2026-10-04 | [New measurement of the 197Au(n, γ) cross section at the CSNS Back-n white neutron facility](../papers/10-1007-s41365-026-02072-4/README.md) | Nuclear Science and Techniques (formal version of record) | [笔记](../daily/2026-10-04/notes/Cui et al. - 2026 - Au197 neutron capture cross section.md) |
 | 2026-10-03 | [Thick-target Yield of 65Cu(α,n)68Ga Near Threshold and Implications for Nuclear Medicine, Deep Underground Detector Backgrounds, and Nucleosynthesis](../papers/arxiv-2610-01719/README.md) | Accepted to Applied Radiation and Isotopes (local full text: arXiv accepted manuscript; not VOR) | [笔记](../daily/2026-10-03/notes/Meisel et al. - 2026 - Cu65 alpha n Ga68 thick target yield.md) |
 | 2026-10-02 | [Compact ultrafast intense LWFA-driven crystal-based source of γ-radiation, positrons and neutrons](../papers/arxiv-2609-40005/README.md) | arXiv preprint | [笔记](../daily/2026-10-02/notes/Sytov et al. - 2026 - LWFA crystal gamma positron neutron source.md) |

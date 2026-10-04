@@ -1,10 +1,11 @@
 # 论文总索引
 
-- 当前入库论文：408 篇
-- 索引更新时间：2026-10-04
+- 当前入库论文：409 篇
+- 索引更新时间：2026-10-05
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-10-05 | [Precise efficiency calibration of a p-type HPGe detector: dead layer optimization and near-field TCS analysis via PHITS simulation](./10-1140-epjp-s13360-026-08383-0/README.md) | The European Physical Journal Plus (formal version of record) | [10.1140/epjp/s13360-026-08383-0](https://doi.org/10.1140/epjp/s13360-026-08383-0) |
 | 2026-10-04 | [New measurement of the 197Au(n, γ) cross section at the CSNS Back-n white neutron facility](./10-1007-s41365-026-02072-4/README.md) | Nuclear Science and Techniques (formal version of record) | [10.1007/s41365-026-02072-4](https://doi.org/10.1007/s41365-026-02072-4) |
 | 2026-10-03 | [Quantitative schlieren imaging of a laser-ionized plasma channel in atomic vapor using symbolic regression](./arxiv-2610-01485/README.md) | arXiv preprint | [10.48550/arXiv.2610.01485](https://doi.org/10.48550/arXiv.2610.01485) |
 | 2026-10-03 | [Electromagnetic drift-kinetic particle-in-cell model with energy and charge conservation for studying finite-β plasmas](./arxiv-2610-01429/README.md) | arXiv preprint (submitted to Journal of Computational Physics) | [10.48550/arXiv.2610.01429](https://doi.org/10.48550/arXiv.2610.01429) |

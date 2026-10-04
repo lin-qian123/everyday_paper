@@ -1,0 +1,35 @@
+{
+  "run_date": "2026-10-05",
+  "checks": [
+    "%PDF- header",
+    "file type",
+    "nonzero byte count",
+    "SHA-256",
+    "pdfinfo page count",
+    "nonempty pdftotext -layout",
+    "all-page rendering and visual inspection"
+  ],
+  "mineru": {
+    "attempted_documents": 1,
+    "completed_documents": 0,
+    "status": "failed_with_local_fallback",
+    "reason": "The official Springer PDF URL task returned parsing failed. The locally validated PDF, layout text, five decoded embedded figures and all ten rendered pages were used as the documented fallback."
+  },
+  "documents": [
+    {
+      "identifier": "10.1140/epjp/s13360-026-08383-0",
+      "path": "daily/2026-10-05/pdfs/Badague et al. - 2026 - HPGe efficiency calibration PHITS.pdf",
+      "bytes": 2611090,
+      "sha256": "e9c1981d4c8b46ea20f200259e475759b3b13f9d4711333e4a2bbdea7c861bfc",
+      "pages": 10,
+      "text_bytes": 43364,
+      "rendered_pages": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "source_note": "Springer formal version of record.",
+      "status": "passed"
+    }
+  ],
+  "selected_and_visually_checked_pages": 10,
+  "decoded_key_figures": 5,
+  "valid_documents": 1,
+  "status": "passed"
+}

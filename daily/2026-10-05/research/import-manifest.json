@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "run_id": "2026-10-05-daily-paper",
+  "library": "/Volumes/PHILIPS/programs/everyday_paper",
+  "papers": [
+    {
+      "manifest_id": "badague-2026-hpge-phits-tcs",
+      "doi": "10.1140/epjp/s13360-026-08383-0",
+      "target_collection": "daily/2026-10-05",
+      "reason": "formal HPGe efficiency-calibration study with direct multi-distance spectra, PHITS geometry validation and near-field TCS correction relevant to gamma and activation diagnostics",
+      "status": "imported_reviewed_vor",
+      "url": "https://link.springer.com/article/10.1140/epjp/s13360-026-08383-0",
+      "title": "Precise efficiency calibration of a p-type HPGe detector: dead layer optimization and near-field TCS analysis via PHITS simulation",
+      "authors": [
+        "Abdelwahab Badague",
+        "Hamid Bounouira",
+        "Iliasse Aarab",
+        "Jamila Yousfi",
+        "Abdessamad Didi",
+        "Hamid Amsil",
+        "Taibi Zidouz",
+        "El Mahjoub Chakir"
+      ],
+      "year": 2026,
+      "venue": "The European Physical Journal Plus 141, 1130; Springer version of record",
+      "local_pdf": "daily/2026-10-05/pdfs/Badague et al. - 2026 - HPGe efficiency calibration PHITS.pdf",
+      "sha256": "e9c1981d4c8b46ea20f200259e475759b3b13f9d4711333e4a2bbdea7c861bfc",
+      "page_count": 10,
+      "pdf_bytes": 2611090,
+      "summary_path": "daily/2026-10-05/notes/Badague et al. - 2026 - HPGe efficiency calibration PHITS.md",
+      "fulltext_review": true
+    }
+  ]
+}

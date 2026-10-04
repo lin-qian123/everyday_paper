@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "output": "daily/2026-10-05/pdfs/Badague et al. - 2026 - HPGe efficiency calibration PHITS.pdf",
+  "source_url": "https://link.springer.com/content/pdf/10.1140/epjp/s13360-026-08383-0.pdf",
+  "mode": "direct",
+  "attempts": [
+    "[env-proxy] https://link.springer.com/content/pdf/10.1140/epjp/s13360-026-08383-0.pdf -> not pdf (content-type=text/html; charset=utf-8)"
+  ]
+}

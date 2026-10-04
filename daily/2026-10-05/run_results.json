@@ -1,0 +1,74 @@
+{
+  "run_date": "2026-10-05",
+  "latest_official_arxiv_batch": "2026-10-02",
+  "latest_arxiv_submission_date": "2026-10-01",
+  "search_summary": {
+    "sources": "installed multi-source search layer, official arXiv Atom API, Crossref 2026-10-04 through 2026-10-05 metadata, Springer article and PDF",
+    "selection_basis": "formal-source priority, verified full text, recency, topic fit and non-duplication",
+    "coverage_claim": "targeted, not exhaustive",
+    "research_record": "daily/2026-10-05/research/"
+  },
+  "deduplication": {
+    "processed_before": 408,
+    "processed_after": 409,
+    "retry_before": 21,
+    "retry_after": 21,
+    "keys": [
+      "DOI or arXiv identifier",
+      "normalized title",
+      "source URL",
+      "historical daily folders",
+      "retry queue",
+      "formal version versus preprint title match",
+      "abstract and physical scenario"
+    ],
+    "legacy_cross_state_overlap": {
+      "identifier": "10.1016/j.jcp.2026.114707",
+      "reason": "pre-existing legacy record has pdf_path null in the processed ledger while retaining a PDF-download retry entry; no new overlap was introduced"
+    }
+  },
+  "added": [
+    "10.1140/epjp/s13360-026-08383-0"
+  ],
+  "retry_removed": [],
+  "retry_added": [],
+  "skipped": [
+    {
+      "identifier": "official arXiv batch 2026-10-02",
+      "reason": "same latest visible batch was already screened on previous runs; no duplicate re-ingestion"
+    },
+    {
+      "identifier": "10.1038/s41598-026-74124-z",
+      "reason": "in-flight hydrogen-plasma silicon processing is a materials-process paper and lower priority than the selected gamma-diagnostic calibration study"
+    }
+  ],
+  "pdf_validation": {
+    "valid_documents": 1,
+    "formal_version_of_record_documents": 1,
+    "selected_and_visually_checked_pages": 10,
+    "mineru": "official URL task returned parsing failed; validated layout-text, embedded-figure and all-page rendering fallback used",
+    "details": "daily/2026-10-05/pdf_validation.json"
+  },
+  "evidence_boundaries": [
+    "Standard-source spectra, peak areas, source distances and the 367.7 keV sum peak are direct measurements; the 1.2 mm dead layer, angular biasing, PHITS efficiency response, Gaussian broadening and Efftran CSF are model-assisted.",
+    "The 1.2 mm dead layer is primarily constrained by the 121 and 344 keV response; it is not a sub-percent validation across all energies and geometries.",
+    "At 3.8 cm the TCS correction reduces energy-dependent bias, but the remaining 6.51 to 8.46 percent residual stays outside the stated 5 percent acceptance band.",
+    "Table 2 supports an uncorrected maximum deviation of about 14.7 percent, not the conclusion's statement that it exceeded 20 percent.",
+    "This is not a laser-plasma or converter-target experiment and does not validate pulsed pile-up, EMP, prompt-gamma background, broad-spectrum activation, shielding or shot-to-shot source stability.",
+    "No PHITS or Efftran run, peak-area reanalysis, dead-layer fit or experimental replay was performed locally."
+  ],
+  "validation": {
+    "index_builder": "Indexed 409 papers across 9 categories.",
+    "pytest": "7 passed via PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q",
+    "unittest": "7 tests passed via python -m unittest discover -s tests -v",
+    "ledger_checks": "409 records parsed; 405 non-null identifiers are unique; all 409 normalized titles are unique; 21 retry identifiers are unique; no new cross-state overlap",
+    "pdf_header_size_hash_metadata_text_check": "passed",
+    "download_report_check": "passed",
+    "markdown_link_check": "all local links and image embeds in the daily index, note and generated paper page resolved",
+    "image_check": "5 PNG embedded figures decoded successfully; all 10 PDF pages were visually inspected",
+    "diff_check": "git diff --check passed",
+    "ignored_artifacts": "the daily PDF and extracted-text artifact are Git-ignored"
+  },
+  "git": "commit and push to origin/master after final staging validation",
+  "status": "success"
+}

@@ -4868,5 +4868,21 @@
       "general-plasma-and-methods"
     ],
     "normalized_title": "new measurement of the 197au n γ cross section at the csns back n white neutron facility"
+  },
+  {
+    "title": "Precise efficiency calibration of a p-type HPGe detector: dead layer optimization and near-field TCS analysis via PHITS simulation",
+    "doi": "10.1140/epjp/s13360-026-08383-0",
+    "journal": "The European Physical Journal Plus (formal version of record)",
+    "publication_date": "2026-10-04",
+    "processed_date": "2026-10-05",
+    "source_url": "https://link.springer.com/article/10.1140/epjp/s13360-026-08383-0",
+    "pdf_path": "daily/2026-10-05/pdfs/Badague et al. - 2026 - HPGe efficiency calibration PHITS.pdf",
+    "note_path": "daily/2026-10-05/notes/Badague et al. - 2026 - HPGe efficiency calibration PHITS.md",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "experimental-platforms-diagnostics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "precise efficiency calibration of a p type hpge detector dead layer optimization and near field tcs analysis via phits simulation"
   }
 ]
