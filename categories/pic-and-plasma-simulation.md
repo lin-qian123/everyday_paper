@@ -2,11 +2,14 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：170 篇
-- 索引更新时间：2026-10-05
+- 当前收录：173 篇
+- 索引更新时间：2026-10-06
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-06 | [Guide field effects on particle acceleration in three-dimensional relativistic magnetic reconnection](../papers/arxiv-2610-03427/README.md) | arXiv preprint | [笔记](../daily/2026-10-06/notes/Karavola et al. - 2026 - 3D guide-field relativistic reconnection.md) |
+| 2026-10-06 | [Dynamics-aware bandwidth selection for smoothed charge deposition in 2D electrostatic particle-in-cell](../papers/arxiv-2610-03230/README.md) | arXiv preprint | [笔记](../daily/2026-10-06/notes/Agrawal et al. - 2026 - Dynamics-aware PIC smoothing.md) |
+| 2026-10-06 | [Quantum approaches for particle-in-cell codes](../papers/arxiv-2610-03254/README.md) | arXiv preprint | [笔记](../daily/2026-10-06/notes/Connor et al. - 2026 - Quantum approaches for PIC.md) |
 | 2026-10-03 | [Electromagnetic drift-kinetic particle-in-cell model with energy and charge conservation for studying finite-β plasmas](../papers/arxiv-2610-01429/README.md) | arXiv preprint (submitted to Journal of Computational Physics) | [笔记](../daily/2026-10-03/notes/Morozov et al. - 2026 - Conservative drift kinetic PIC.md) |
 | 2026-10-03 | [Analysis of grid instabilities in particle-in-cell codes based on a meshfree approach](../papers/arxiv-2610-02052/README.md) | arXiv preprint | [笔记](../daily/2026-10-03/notes/Finn and Evstatiev - 2026 - PIC grid instability analysis.md) |
 | 2026-10-02 | [Compact ultrafast intense LWFA-driven crystal-based source of γ-radiation, positrons and neutrons](../papers/arxiv-2609-40005/README.md) | arXiv preprint | [笔记](../daily/2026-10-02/notes/Sytov et al. - 2026 - LWFA crystal gamma positron neutron source.md) |

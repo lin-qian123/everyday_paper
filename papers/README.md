@@ -1,10 +1,16 @@
 # 论文总索引
 
-- 当前入库论文：409 篇
-- 索引更新时间：2026-10-05
+- 当前入库论文：415 篇
+- 索引更新时间：2026-10-06
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-10-06 | [Characterization and optimization of a laser-produced x-ray source for x-ray radiography](./10-1063-5-0323034/README.md) | Review of Scientific Instruments (formal version of record) | [10.1063/5.0323034](https://doi.org/10.1063/5.0323034) |
+| 2026-10-06 | [X-ray spectroscopy of hot dense plasmas using LLNL’s upgraded Titan 2ω short-pulse laser](./10-1063-5-0350551/README.md) | Review of Scientific Instruments (formal version of record) | [10.1063/5.0350551](https://doi.org/10.1063/5.0350551) |
+| 2026-10-06 | [Guide field effects on particle acceleration in three-dimensional relativistic magnetic reconnection](./arxiv-2610-03427/README.md) | arXiv preprint | [10.48550/arXiv.2610.03427](https://doi.org/10.48550/arXiv.2610.03427) |
+| 2026-10-06 | [Dynamics-aware bandwidth selection for smoothed charge deposition in 2D electrostatic particle-in-cell](./arxiv-2610-03230/README.md) | arXiv preprint | [10.48550/arXiv.2610.03230](https://doi.org/10.48550/arXiv.2610.03230) |
+| 2026-10-06 | [Quantum approaches for particle-in-cell codes](./arxiv-2610-03254/README.md) | arXiv preprint | [10.48550/arXiv.2610.03254](https://doi.org/10.48550/arXiv.2610.03254) |
+| 2026-10-06 | [NeutronGym: Physics-Graded Neutron Instrument Design for LLM Agents](./arxiv-2610-03631/README.md) | arXiv preprint | [10.48550/arXiv.2610.03631](https://doi.org/10.48550/arXiv.2610.03631) |
 | 2026-10-05 | [Precise efficiency calibration of a p-type HPGe detector: dead layer optimization and near-field TCS analysis via PHITS simulation](./10-1140-epjp-s13360-026-08383-0/README.md) | The European Physical Journal Plus (formal version of record) | [10.1140/epjp/s13360-026-08383-0](https://doi.org/10.1140/epjp/s13360-026-08383-0) |
 | 2026-10-04 | [New measurement of the 197Au(n, γ) cross section at the CSNS Back-n white neutron facility](./10-1007-s41365-026-02072-4/README.md) | Nuclear Science and Techniques (formal version of record) | [10.1007/s41365-026-02072-4](https://doi.org/10.1007/s41365-026-02072-4) |
 | 2026-10-03 | [Quantitative schlieren imaging of a laser-ionized plasma channel in atomic vapor using symbolic regression](./arxiv-2610-01485/README.md) | arXiv preprint | [10.48550/arXiv.2610.01485](https://doi.org/10.48550/arXiv.2610.01485) |

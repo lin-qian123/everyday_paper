@@ -4884,5 +4884,100 @@
       "general-plasma-and-methods"
     ],
     "normalized_title": "precise efficiency calibration of a p type hpge detector dead layer optimization and near field tcs analysis via phits simulation"
+  },
+  {
+    "title": "Characterization and optimization of a laser-produced x-ray source for x-ray radiography",
+    "doi": "10.1063/5.0323034",
+    "journal": "Review of Scientific Instruments (formal version of record)",
+    "publication_date": "2026-10-02",
+    "processed_date": "2026-10-06",
+    "source_url": "https://doi.org/10.1063/5.0323034",
+    "pdf_path": "daily/2026-10-06/pdfs/Benkadoum et al. - 2026 - Laser X-ray radiography source.pdf",
+    "note_path": "daily/2026-10-06/notes/Benkadoum et al. - 2026 - Laser X-ray radiography source.md",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "hedp-icf-laboratory-astrophysics",
+      "experimental-platforms-diagnostics"
+    ],
+    "normalized_title": "characterization and optimization of a laser produced x ray source for x ray radiography"
+  },
+  {
+    "title": "X-ray spectroscopy of hot dense plasmas using LLNL’s upgraded Titan 2ω short-pulse laser",
+    "doi": "10.1063/5.0350551",
+    "journal": "Review of Scientific Instruments (formal version of record)",
+    "publication_date": "2026-10-02",
+    "processed_date": "2026-10-06",
+    "source_url": "https://doi.org/10.1063/5.0350551",
+    "pdf_path": "daily/2026-10-06/pdfs/Fairchild et al. - 2026 - Titan hot dense plasma X-ray spectroscopy.pdf",
+    "note_path": "daily/2026-10-06/notes/Fairchild et al. - 2026 - Titan hot dense plasma X-ray spectroscopy.md",
+    "categories": [
+      "hedp-icf-laboratory-astrophysics",
+      "experimental-platforms-diagnostics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "x ray spectroscopy of hot dense plasmas using llnl s upgraded titan 2ω short pulse laser"
+  },
+  {
+    "title": "Guide field effects on particle acceleration in three-dimensional relativistic magnetic reconnection",
+    "doi": "10.48550/arXiv.2610.03427",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-02",
+    "processed_date": "2026-10-06",
+    "source_url": "https://arxiv.org/abs/2610.03427",
+    "pdf_path": "daily/2026-10-06/pdfs/Karavola et al. - 2026 - 3D guide-field relativistic reconnection.pdf",
+    "note_path": "daily/2026-10-06/notes/Karavola et al. - 2026 - 3D guide-field relativistic reconnection.md",
+    "categories": [
+      "pic-and-plasma-simulation",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "guide field effects on particle acceleration in three dimensional relativistic magnetic reconnection"
+  },
+  {
+    "title": "Dynamics-aware bandwidth selection for smoothed charge deposition in 2D electrostatic particle-in-cell",
+    "doi": "10.48550/arXiv.2610.03230",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-02",
+    "processed_date": "2026-10-06",
+    "source_url": "https://arxiv.org/abs/2610.03230",
+    "pdf_path": "daily/2026-10-06/pdfs/Agrawal et al. - 2026 - Dynamics-aware PIC smoothing.pdf",
+    "note_path": "daily/2026-10-06/notes/Agrawal et al. - 2026 - Dynamics-aware PIC smoothing.md",
+    "categories": [
+      "pic-and-plasma-simulation",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "dynamics aware bandwidth selection for smoothed charge deposition in 2d electrostatic particle in cell"
+  },
+  {
+    "title": "Quantum approaches for particle-in-cell codes",
+    "doi": "10.48550/arXiv.2610.03254",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-02",
+    "processed_date": "2026-10-06",
+    "source_url": "https://arxiv.org/abs/2610.03254",
+    "pdf_path": "daily/2026-10-06/pdfs/Connor et al. - 2026 - Quantum approaches for PIC.pdf",
+    "note_path": "daily/2026-10-06/notes/Connor et al. - 2026 - Quantum approaches for PIC.md",
+    "categories": [
+      "pic-and-plasma-simulation",
+      "laser-plasma-acceleration",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "quantum approaches for particle in cell codes"
+  },
+  {
+    "title": "NeutronGym: Physics-Graded Neutron Instrument Design for LLM Agents",
+    "doi": "10.48550/arXiv.2610.03631",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-02",
+    "processed_date": "2026-10-06",
+    "source_url": "https://arxiv.org/abs/2610.03631",
+    "pdf_path": "daily/2026-10-06/pdfs/Ding and Do - 2026 - NeutronGym instrument design.pdf",
+    "note_path": "daily/2026-10-06/notes/Ding and Do - 2026 - NeutronGym instrument design.md",
+    "categories": [
+      "ai-ml-plasma-physics",
+      "laser-accelerated-beam-applications",
+      "experimental-platforms-diagnostics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "neutrongym physics graded neutron instrument design for llm agents"
   }
 ]

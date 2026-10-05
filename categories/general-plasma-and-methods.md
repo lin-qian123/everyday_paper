@@ -2,11 +2,16 @@
 
 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。
 
-- 当前收录：84 篇
-- 索引更新时间：2026-10-05
+- 当前收录：89 篇
+- 索引更新时间：2026-10-06
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-06 | [X-ray spectroscopy of hot dense plasmas using LLNL’s upgraded Titan 2ω short-pulse laser](../papers/10-1063-5-0350551/README.md) | Review of Scientific Instruments (formal version of record) | [笔记](../daily/2026-10-06/notes/Fairchild et al. - 2026 - Titan hot dense plasma X-ray spectroscopy.md) |
+| 2026-10-06 | [Guide field effects on particle acceleration in three-dimensional relativistic magnetic reconnection](../papers/arxiv-2610-03427/README.md) | arXiv preprint | [笔记](../daily/2026-10-06/notes/Karavola et al. - 2026 - 3D guide-field relativistic reconnection.md) |
+| 2026-10-06 | [Dynamics-aware bandwidth selection for smoothed charge deposition in 2D electrostatic particle-in-cell](../papers/arxiv-2610-03230/README.md) | arXiv preprint | [笔记](../daily/2026-10-06/notes/Agrawal et al. - 2026 - Dynamics-aware PIC smoothing.md) |
+| 2026-10-06 | [Quantum approaches for particle-in-cell codes](../papers/arxiv-2610-03254/README.md) | arXiv preprint | [笔记](../daily/2026-10-06/notes/Connor et al. - 2026 - Quantum approaches for PIC.md) |
+| 2026-10-06 | [NeutronGym: Physics-Graded Neutron Instrument Design for LLM Agents](../papers/arxiv-2610-03631/README.md) | arXiv preprint | [笔记](../daily/2026-10-06/notes/Ding and Do - 2026 - NeutronGym instrument design.md) |
 | 2026-10-05 | [Precise efficiency calibration of a p-type HPGe detector: dead layer optimization and near-field TCS analysis via PHITS simulation](../papers/10-1140-epjp-s13360-026-08383-0/README.md) | The European Physical Journal Plus (formal version of record) | [笔记](../daily/2026-10-05/notes/Badague et al. - 2026 - HPGe efficiency calibration PHITS.md) |
 | 2026-10-04 | [New measurement of the 197Au(n, γ) cross section at the CSNS Back-n white neutron facility](../papers/10-1007-s41365-026-02072-4/README.md) | Nuclear Science and Techniques (formal version of record) | [笔记](../daily/2026-10-04/notes/Cui et al. - 2026 - Au197 neutron capture cross section.md) |
 | 2026-10-03 | [Electromagnetic drift-kinetic particle-in-cell model with energy and charge conservation for studying finite-β plasmas](../papers/arxiv-2610-01429/README.md) | arXiv preprint (submitted to Journal of Computational Physics) | [笔记](../daily/2026-10-03/notes/Morozov et al. - 2026 - Conservative drift kinetic PIC.md) |

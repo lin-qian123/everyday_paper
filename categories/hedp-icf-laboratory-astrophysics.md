@@ -2,11 +2,13 @@
 
 HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。
 
-- 当前收录：106 篇
-- 索引更新时间：2026-10-05
+- 当前收录：108 篇
+- 索引更新时间：2026-10-06
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-06 | [Characterization and optimization of a laser-produced x-ray source for x-ray radiography](../papers/10-1063-5-0323034/README.md) | Review of Scientific Instruments (formal version of record) | [笔记](../daily/2026-10-06/notes/Benkadoum et al. - 2026 - Laser X-ray radiography source.md) |
+| 2026-10-06 | [X-ray spectroscopy of hot dense plasmas using LLNL’s upgraded Titan 2ω short-pulse laser](../papers/10-1063-5-0350551/README.md) | Review of Scientific Instruments (formal version of record) | [笔记](../daily/2026-10-06/notes/Fairchild et al. - 2026 - Titan hot dense plasma X-ray spectroscopy.md) |
 | 2026-10-01 | [Experimental demonstration of broadband-laser suppression of cross-beam energy transfer](../papers/arxiv-2609-36528/README.md) | arXiv preprint | [笔记](../daily/2026-10-01/notes/Xu et al. - 2026 - Broadband laser CBET suppression.md) |
 | 2026-09-29 | [Anomalous shock scaling in ICF implosions dominated by high-energy X-ray preheat](../papers/10-1063-5-0332964/README.md) | Matter and Radiation at Extremes | [笔记](../daily/2026-09-29/notes/Yang et al. - 2026 - ICF anomalous shock scaling.md) |
 | 2026-09-26 | [Equation of state and transport coefficients of warm dense aluminum from mixed deterministic-stochastic density functional theory](../papers/arxiv-2609-29435/README.md) | arXiv preprint | [笔记](../daily/2026-09-26/notes/Li et al. - 2026 - Warm dense aluminum DFT.md) |

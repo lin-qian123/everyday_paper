@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-10-06",
+  "scope": [
+    "laser plasma acceleration and beam quality",
+    "strong-field QED and high-energy-density physics",
+    "particle-in-cell and machine-learning methods",
+    "gamma rays, photonuclear reactions, neutrons, isotopes, dose, shielding and nuclear diagnostics"
+  ],
+  "date_window": {
+    "official_arxiv_latest_batch": "2026-10-03",
+    "latest_arxiv_submission_date": "2026-10-02",
+    "formal_metadata_from": "2026-10-05",
+    "formal_metadata_until": "2026-10-06"
+  },
+  "selection_rules": [
+    "prefer formal publications with verified full text",
+    "deduplicate by identifier, normalized title, source URL, historical daily folders, retry state, formal-version relationship and physical scenario",
+    "require a valid local PDF and non-empty extracted text before writing a note",
+    "separate direct experiment, model-assisted interpretation, numerical evidence and local verification"
+  ],
+  "selected": [
+    "10.1063/5.0323034",
+    "10.1063/5.0350551",
+    "10.48550/arXiv.2610.03427",
+    "10.48550/arXiv.2610.03230",
+    "10.48550/arXiv.2610.03254",
+    "10.48550/arXiv.2610.03631"
+  ],
+  "retry_added": [
+    "10.1088/1741-4326/aeb037"
+  ],
+  "coverage_claim": "targeted official-source search, not exhaustive",
+  "search_layer": "The installed multi-source search layer returned zero usable results for three targeted queries; official arXiv Atom, Crossref, AIP and IOP were used as fallbacks.",
+  "outputs": {
+    "report": "daily/2026-10-06/research/research-report.md",
+    "sources": "daily/2026-10-06/research/sources.jsonl",
+    "log": "daily/2026-10-06/research/run-log.md",
+    "import_manifest": "daily/2026-10-06/research/import-manifest.json"
+  }
+}

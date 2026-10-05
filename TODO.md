@@ -7,13 +7,15 @@
 - [ ] 后续新增关键论文或原文版本更新时，修订对应综述章与比较结论；先核查当前快照和 R 编号，避免直接重排台账后留下错误引用。已发现的旧笔记公式/日期/参数问题见 `reviews/2026-frontiers/appendices/source-discrepancies.md`，需按原文逐项修订。
 
 - [ ] 将每日自动化主流程固定为：新增论文与笔记 -> 更新 `state/processed_articles.json` -> 运行 `python scripts/build_indexes.py` -> 提交并推送 `origin/master`。
-- [ ] 处理剩余 21 条未补回 PDF 的候选；其中 10 条为 Elsevier/ScienceDirect `HTTP 403`，1 条为 Nature `cookies_not_supported`，7 条为 IOP/Radware/HTML 验证页，另有 3 条 APS accepted / formal `HTTP 403` 或延迟开放候选。
+- [ ] 处理剩余 22 条未补回 PDF 的候选；其中 10 条为 Elsevier/ScienceDirect `HTTP 403`，1 条为 Nature `cookies_not_supported`，8 条为 IOP/Radware/HTML 验证页，另有 3 条 APS accepted / formal `HTTP 403` 或延迟开放候选。
 - [ ] 为当前 65 条已补回 PDF 但尚无笔记的条目补中文结构化笔记。
 - [ ] 把每日自动化主流程接到 `scripts/retry_download_queue.py`，启动时先消化可恢复积压，避免配置恢复后仍只读旧 blocked-day 记录。
 - [ ] 为来源可达性预检补一层轻量检查，避免在明显 `403` / bot-wall 来源上重复空跑，并对 arXiv / DOI 这类开放来源单独标记“仅运行时阻塞”。
 - [ ] 修补 `scripts/safe_pdf_download.py` 在个别 Cambridge 官方 PDF 直链上的卡住问题；当前同 URL 用 `curl` 可正常完成下载，说明更像 Python 传输路径或读取策略问题。
 
 ## 开发记录
+
+- 2026-10-06：加载 409 条完成台账、21 条重试队列和历史 `daily/`；核对官方 arXiv 2026-10-02 投稿批次、Crossref 2026-10-05 至 10-06 元数据与 AIP/IOP 正式来源。新增两篇 RSI VOR 和四篇 arXiv 全文，6 份 PDF 共 97 页通过文件、页数、哈希、文本及 36 页渲染检查；MinerU 本地路径不受支持且公开 URL 任务全部失败，故使用本地 fallback。台账增至 415 条；HL-3 CXRS `10.1088/1741-4326/aeb037` 因 IOP 验证页加入重试，使队列增至 22 条。严格区分两项直接激光实验、模型辅助诊断和四项数值/软件证据；本轮没有运行相关物理、输运、张量网络或机器学习计算。
 
 - 2026-10-05：加载 408 条完成台账、21 条重试队列和历史 `daily/`；官方 arXiv 目标分类最新可见提交仍为 2026-10-01、公告批次为 2026-10-02，Crossref 2026-10-04 至 10-05 正式元数据新增 EPJ Plus `10.1140/epjp/s13360-026-08383-0`。Springer 正式 PDF 通过文件、页数、哈希、文本和 10 页全量渲染检查；MinerU 返回 `parsing failed` 后使用本地 fallback，5 张关键嵌图完成核查。台账增至 409 条，重试队列保持 21 条。严格区分标准源直接实验、PHITS 单光子输运、Efftran TCS 修正和未解释近场残差；表格最大未修正偏差约 `14.7%`，未采信结论的“超过 20%”。本轮没有运行 PHITS/Efftran、重拟合死层或重算峰面积。
 
@@ -215,12 +217,14 @@
 
 ## 阻塞点
 
-- 队列里的 18 条非 APS 阻塞已明确是来源侧访问限制：10 条 Elsevier `HTTP 403`、1 条 Nature cookie wall、7 条 IOP/Radware/HTML 验证页。
+- 队列里的 19 条非 APS 阻塞已明确是来源侧访问限制：10 条 Elsevier `HTTP 403`、1 条 Nature cookie wall、8 条 IOP/Radware/HTML 验证页。
 - APS `10.1103/p7k8-mjn7`、`10.1103/k23j-c9y7` 与 `10.1103/mmc9-nzfx` 仍在结构化重试队列；其中 `mmc9-nzfx` 的 accepted manuscript 标注延迟到 2027-09-10 开放。
 - APS 候选 `10.1103/d45l-hsgg` 已在 2026-09-23 通过 APS harvest 正式全文端点恢复并入库，不再属于阻塞候选；`10.1103/sgyf-lrw1` 与 `10.1103/2rqf-hq77` 仍待 version of record 或合法作者稿开放。
 - `2026-06-09` Cambridge/JPP 3 条、`2026-06-10` arXiv 3 条和 `2026-06-11` arXiv 3 条已在配置恢复后全部补回 PDF，不再是 runtime-blocked 积压。
 
 ## 下一步
+
+- 2026-10-06：台账已至 415 条，重试队列为 22 条。下轮先检查新的官方 arXiv 批次，并优先重查 HL-3 CXRS `10.1088/1741-4326/aeb037` 的 IOP 正文或合法作者稿；激光 X 射线源需补绝对剂量、全靶厚/焦斑扫描和端到端成像，Titan 谱诊断需独立温密度约束，3D 重联需电子—离子及辐射反馈，PIC/量子方法需多维电磁与等精度成本比较，NeutronGym 需多 seed、可变布局和真实束线闭环验证。
 
 - 2026-10-05：台账已至 409 条，重试队列为 21 条。下轮先检查新的官方 arXiv 公告批次和可验证正式来源；HPGe 标定后续应优先寻找公开原始谱/输入、独立晶体几何测量、体源/扩展源效率转移和完整级联 Monte Carlo 复核。迁移到激光驱动 γ / 中子 / 活化诊断时，必须另行处理脉冲 pile-up、EMP、prompt-γ、样品自吸收、宽谱激活、屏蔽孔道和逐发波动。
 

@@ -1,0 +1,79 @@
+{
+  "run_date": "2026-10-06",
+  "latest_official_arxiv_batch": "2026-10-03",
+  "latest_arxiv_submission_date": "2026-10-02",
+  "search_summary": {
+    "sources": "installed multi-source search layer, official arXiv Atom API, Crossref 2026-10-05 through 2026-10-06 metadata, AIP and IOP",
+    "selection_basis": "formal-source priority, verified full text, recency, topic fit and non-duplication",
+    "coverage_claim": "targeted, not exhaustive",
+    "research_record": "daily/2026-10-06/research/"
+  },
+  "deduplication": {
+    "processed_before": 409,
+    "processed_after": 415,
+    "retry_before": 21,
+    "retry_after": 22,
+    "keys": [
+      "DOI or arXiv identifier",
+      "normalized title",
+      "source URL",
+      "historical daily folders",
+      "retry queue",
+      "formal version versus preprint title match",
+      "abstract and physical scenario"
+    ],
+    "legacy_cross_state_overlap": {
+      "identifier": "10.1016/j.jcp.2026.114707",
+      "reason": "pre-existing legacy record has pdf_path null in the processed ledger while retaining a PDF-download retry entry; no new overlap was introduced"
+    }
+  },
+  "added": [
+    "10.1063/5.0323034",
+    "10.1063/5.0350551",
+    "10.48550/arXiv.2610.03427",
+    "10.48550/arXiv.2610.03230",
+    "10.48550/arXiv.2610.03254",
+    "10.48550/arXiv.2610.03631"
+  ],
+  "retry_removed": [],
+  "retry_added": [
+    "10.1088/1741-4326/aeb037"
+  ],
+  "skipped": [
+    {
+      "identifier": "10.1088/1741-4326/aeb037",
+      "reason": "formal metadata was verified, but the official PDF, DOI and article routes returned HTML verification pages; queued for lawful full-text retry rather than summarized from metadata"
+    }
+  ],
+  "pdf_validation": {
+    "valid_documents": 6,
+    "formal_version_of_record_documents": 2,
+    "official_arxiv_documents": 4,
+    "total_pages": 97,
+    "selected_and_visually_checked_pages": 36,
+    "decoded_key_figures": 6,
+    "mineru": "local paths were unsupported and all six public-URL tasks failed; validated local layout-text and rendered-page fallback used",
+    "details": "daily/2026-10-06/pdf_validation.json"
+  },
+  "evidence_boundaries": [
+    "The Benkadoum and Fairchild papers contain direct laser experiments; their double-Maxwellian, GEANT4, PrismSPECT, MERL and inferred temperature-density interpretations are model-assisted.",
+    "The Karavola and Agrawal studies are PIC-based numerical evidence, not experimental validation; the former uses an idealized pair plasma and the latter is restricted to two-dimensional electrostatic linear modes.",
+    "The Connor paper is a four-page tensor-network prototype without an equal-accuracy production-PIC cost comparison.",
+    "NeutronGym reports McStas and reinforcement-learning software experiments on fixed layouts, mostly with one training seed; it is not a facility demonstration.",
+    "No PIC, atomic-physics, radiation-transport, tensor-network, McStas or reinforcement-learning computation was performed locally."
+  ],
+  "validation": {
+    "index_builder": "Indexed 415 papers across 9 categories.",
+    "pytest": "7 passed via PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q",
+    "unittest": "7 tests passed via python -m unittest discover -s tests -v",
+    "ledger_checks": "415 records parsed; 411 non-null identifiers are unique; all 415 normalized titles are unique; 22 retry identifiers are unique; no new cross-state overlap",
+    "pdf_header_size_hash_metadata_text_check": "passed for six PDFs totaling 97 pages",
+    "download_report_check": "six successful reports and one expected IOP html_instead_of_pdf retry report",
+    "markdown_link_check": "all local links and image embeds in the daily index, six notes and six generated paper pages resolved after URL decoding",
+    "image_check": "six PNG figures decoded successfully; 36 selected PDF pages were visually inspected",
+    "diff_check": "git diff --check passed",
+    "ignored_artifacts": "the six daily PDFs and extracted-text artifacts are Git-ignored"
+  },
+  "git": "commit and push to origin/master after final staging validation",
+  "status": "success"
+}

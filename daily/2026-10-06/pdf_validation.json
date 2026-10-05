@@ -1,0 +1,90 @@
+{
+  "run_date": "2026-10-06",
+  "checks": [
+    "%PDF- header",
+    "file type",
+    "nonzero byte count",
+    "SHA-256",
+    "pdfinfo page count",
+    "nonempty pdftotext -layout",
+    "selected-page rendering and visual inspection"
+  ],
+  "mineru": {
+    "attempted_documents": 6,
+    "completed_documents": 0,
+    "status": "failed_with_local_fallback",
+    "reason": "The local-path workflow reported that local files were unsupported. The six public-URL tasks then failed to parse or read the documents, so the locally validated PDFs, layout text, 36 rendered pages and six decoded key figures were used as the documented fallback."
+  },
+  "documents": [
+    {
+      "identifier": "10.1063/5.0323034",
+      "path": "daily/2026-10-06/pdfs/Benkadoum et al. - 2026 - Laser X-ray radiography source.pdf",
+      "bytes": 12358029,
+      "sha256": "de34dbde1254079af91e3c958fa3a220732c9570834e04e510b8ab0512b8d26b",
+      "pages": 17,
+      "text_bytes": 113058,
+      "rendered_pages": [3, 4, 7, 9, 11, 12, 13],
+      "source_note": "AIP formal version of record.",
+      "status": "passed"
+    },
+    {
+      "identifier": "10.1063/5.0350551",
+      "path": "daily/2026-10-06/pdfs/Fairchild et al. - 2026 - Titan hot dense plasma X-ray spectroscopy.pdf",
+      "bytes": 7505944,
+      "sha256": "59e2a8436a6ecca201b67823566de5e0cff2da38bc7326d8ad90d4ee79942635",
+      "pages": 9,
+      "text_bytes": 57305,
+      "rendered_pages": [2, 4, 5, 6, 7, 8],
+      "source_note": "AIP formal version of record.",
+      "status": "passed"
+    },
+    {
+      "identifier": "10.48550/arXiv.2610.03427",
+      "path": "daily/2026-10-06/pdfs/Karavola et al. - 2026 - 3D guide-field relativistic reconnection.pdf",
+      "bytes": 8145291,
+      "sha256": "0d5bfdca31741117ccc0ad4cdcc08f8f3b92070e420527c7d3af701c3c8a2371",
+      "pages": 10,
+      "text_bytes": 51793,
+      "rendered_pages": [3, 4, 5, 7, 8, 9],
+      "source_note": "Official arXiv PDF.",
+      "status": "passed"
+    },
+    {
+      "identifier": "10.48550/arXiv.2610.03230",
+      "path": "daily/2026-10-06/pdfs/Agrawal et al. - 2026 - Dynamics-aware PIC smoothing.pdf",
+      "bytes": 968372,
+      "sha256": "14a15112c59bf3a56158871f7a0e60c69a475df13f41e8842d54f09fd2acd560",
+      "pages": 31,
+      "text_bytes": 117232,
+      "rendered_pages": [12, 15, 16, 17, 18, 20, 23],
+      "source_note": "Official arXiv PDF.",
+      "status": "passed"
+    },
+    {
+      "identifier": "10.48550/arXiv.2610.03254",
+      "path": "daily/2026-10-06/pdfs/Connor et al. - 2026 - Quantum approaches for PIC.pdf",
+      "bytes": 1161667,
+      "sha256": "d23ef95d4e456822db685d81c7e4d9cb96879bb732c2d497ebea766f893c87c5",
+      "pages": 4,
+      "text_bytes": 36690,
+      "rendered_pages": [1, 2, 3, 4],
+      "source_note": "Official arXiv PDF.",
+      "status": "passed"
+    },
+    {
+      "identifier": "10.48550/arXiv.2610.03631",
+      "path": "daily/2026-10-06/pdfs/Ding and Do - 2026 - NeutronGym instrument design.pdf",
+      "bytes": 452565,
+      "sha256": "94297f058923ed3a5ea1fccb1be4a2b22342fba498ba45899259592e65c7117f",
+      "pages": 26,
+      "text_bytes": 109212,
+      "rendered_pages": [4, 5, 6, 7, 8, 9],
+      "source_note": "Official arXiv PDF.",
+      "status": "passed"
+    }
+  ],
+  "selected_and_visually_checked_pages": 36,
+  "decoded_key_figures": 6,
+  "valid_documents": 6,
+  "status": "passed"
+}

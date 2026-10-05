@@ -418,5 +418,25 @@
     "last_failure_class": "html_instead_of_pdf",
     "source_family": "iop",
     "failure_count": 1
+  },
+  {
+    "doi": "10.1088/1741-4326/aeb037",
+    "title": "Real-time CXRS analysis on HL-3 tokamak with reliable neural networks and cross-device transfer learning",
+    "source_url": "https://iopscience.iop.org/article/10.1088/1741-4326/aeb037",
+    "publication_date": "2026-10-05",
+    "journal": "Nuclear Fusion（正式期刊，CC BY 4.0）",
+    "topic": "HL-3 + 实时 CXRS + 物理结构神经网络 + 跨装置迁移学习 + 不确定度",
+    "run_date": "2026-10-06",
+    "status": "download_failed",
+    "attempt_cmd": "python scripts/safe_pdf_download.py --url https://iopscience.iop.org/article/10.1088/1741-4326/aeb037/pdf --doi 10.1088/1741-4326/aeb037 --output \"daily/2026-10-06/pdfs/Tian et al. - 2026 - Real-time CXRS neural networks.pdf\" --report-json daily/2026-10-06/pdfs/download-reports/10.1088-1741-4326-aeb037.json",
+    "stderr": "Official IOP PDF, DOI, and article routes returned HTML verification pages instead of a PDF; no lawful open author manuscript was found during the 2026-10-06 search.",
+    "stdout": "",
+    "output_pdf": "daily/2026-10-06/pdfs/Tian et al. - 2026 - Real-time CXRS neural networks.pdf",
+    "attempted_at": "2026-10-06T07:06:00+08:00",
+    "last_retry_at": null,
+    "retry_count": 0,
+    "last_failure_class": "html_instead_of_pdf",
+    "source_family": "iop",
+    "failure_count": 1
   }
 ]

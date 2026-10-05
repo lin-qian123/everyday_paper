@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "output": "daily/2026-10-06/pdfs/Fairchild et al. - 2026 - Titan hot dense plasma X-ray spectroscopy.pdf",
+  "source_url": "https://pubs.aip.org/aip/rsi/article-pdf/doi/10.1063/5.0350551/21160349/103506_1_5.0350551.pdf",
+  "mode": "direct",
+  "attempts": [
+    "[env-proxy] https://pubs.aip.org/aip/rsi/article-pdf/doi/10.1063/5.0350551/21160349/103506_1_5.0350551.pdf -> HTTP 403"
+  ]
+}

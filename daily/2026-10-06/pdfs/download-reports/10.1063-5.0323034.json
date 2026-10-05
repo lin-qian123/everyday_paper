@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "output": "daily/2026-10-06/pdfs/Benkadoum et al. - 2026 - Laser X-ray radiography source.pdf",
+  "source_url": "https://pubs.aip.org/aip/rsi/article-pdf/doi/10.1063/5.0323034/21160004/103510_1_5.0323034.pdf",
+  "mode": "direct",
+  "attempts": [
+    "[env-proxy] https://pubs.aip.org/aip/rsi/article-pdf/doi/10.1063/5.0323034/21160004/103510_1_5.0323034.pdf -> HTTP 403"
+  ]
+}
