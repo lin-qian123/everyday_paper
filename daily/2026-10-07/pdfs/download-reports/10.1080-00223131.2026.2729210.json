@@ -1,0 +1,11 @@
+{
+  "ok": false,
+  "output": "daily/2026-10-07/pdfs/blocked-tc99.pdf",
+  "attempts": [
+    "[env-proxy] https://www.tandfonline.com/doi/pdf/10.1080/00223131.2026.2729210 -> HTTP 403",
+    "[direct] https://www.tandfonline.com/doi/pdf/10.1080/00223131.2026.2729210 -> HTTP 403",
+    "[env-proxy] https://doi.org/10.1080/00223131.2026.2729210 -> HTTP 403",
+    "[direct] https://doi.org/10.1080/00223131.2026.2729210 -> HTTP 403"
+  ],
+  "failure_class": "publisher_http_403"
+}

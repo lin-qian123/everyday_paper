@@ -1,0 +1,8 @@
+{"source":"installed search layer","queried_at":"2026-10-07","queries":3,"results":0,"role":"initial multi-source discovery; no usable result"}
+{"source":"official arXiv Atom API","queried_at":"2026-10-07","categories":["physics.plasm-ph","physics.acc-ph","physics.ins-det","nucl-ex","hep-ph","physics.comp-ph","cs.LG"],"latest_submission_date":"2026-10-05","selected_ids":["2610.06396","2610.05635","2610.05386","2410.14722"],"role":"latest official preprint discovery, accepted-paper counterpart lookup and metadata verification"}
+{"source":"Crossref REST metadata","queried_at":"2026-10-07","date_from":"2026-10-06","date_until":"2026-10-07","topic_queries":5,"unique_works":240,"role":"formal-publication discovery and metadata verification"}
+{"source":"Springer Nature","queried_at":"2026-10-07","doi":"10.1140/epjp/s13360-026-08377-y","role":"formal EPJ Plus metadata and version-of-record PDF"}
+{"source":"APS accepted papers and Crossref","queried_at":"2026-10-07","dois":["10.1103/fqgp-916r","10.1103/yrts-62hs"],"role":"accepted/formal status verification, arXiv counterpart check and PDF availability test"}
+{"source":"Taylor & Francis and Crossref","queried_at":"2026-10-07","dois":["10.1080/00223131.2026.2742550","10.1080/00223131.2026.2729210"],"role":"formal publication/version upgrade and PDF availability checks; publisher PDF routes returned HTTP 403"}
+{"source":"IOP Publishing","queried_at":"2026-10-07","doi":"10.1088/1741-4326/aeb037","role":"priority retry; official routes again returned HTML rather than PDF"}
+{"source":"MinerU official API","queried_at":"2026-10-07","documents":5,"completed":0,"role":"structured parsing attempt; local paths unsupported and all public URL tasks failed, so local validated-text/rendering fallback was used"}

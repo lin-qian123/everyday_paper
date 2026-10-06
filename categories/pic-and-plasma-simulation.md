@@ -2,11 +2,13 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：173 篇
-- 索引更新时间：2026-10-06
+- 当前收录：174 篇
+- 索引更新时间：2026-10-07
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-07 | [Effect of transition layer on wakefield in plasma waveguide](../papers/arxiv-2610-06396/README.md) | arXiv preprint | [笔记](../daily/2026-10-07/notes/Markov et al. - 2026 - Transition layer in plasma waveguide wakefield.md) |
+| 2026-10-07 | [Radiation Reaction in Relativistic Magnetized Shocks of Neutron Star Magnetospheres](../papers/arxiv-2610-05386/README.md) | arXiv preprint | [笔记](../daily/2026-10-07/notes/Vanthieghem and Levinson - 2026 - Radiation reaction in relativistic magnetized shocks.md) |
 | 2026-10-06 | [Guide field effects on particle acceleration in three-dimensional relativistic magnetic reconnection](../papers/arxiv-2610-03427/README.md) | arXiv preprint | [笔记](../daily/2026-10-06/notes/Karavola et al. - 2026 - 3D guide-field relativistic reconnection.md) |
 | 2026-10-06 | [Dynamics-aware bandwidth selection for smoothed charge deposition in 2D electrostatic particle-in-cell](../papers/arxiv-2610-03230/README.md) | arXiv preprint | [笔记](../daily/2026-10-06/notes/Agrawal et al. - 2026 - Dynamics-aware PIC smoothing.md) |
 | 2026-10-06 | [Quantum approaches for particle-in-cell codes](../papers/arxiv-2610-03254/README.md) | arXiv preprint | [笔记](../daily/2026-10-06/notes/Connor et al. - 2026 - Quantum approaches for PIC.md) |
@@ -103,7 +105,6 @@ PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性�
 | 2026-07-17 | [Neutron-source fidelity for laser-driven D--D lithium-blanket tritium-breeding tests](../papers/arxiv-2607-13585/README.md) | arXiv preprint | [笔记](../daily/2026-07-17/notes/Chengqi-Zhang et al. - 2026 - Neutron-source fidelity.md) |
 | 2026-07-17 | [λPIC: A callback-centric particle-in-cell framework](../papers/arxiv-2607-13507/README.md) | arXiv preprint | [笔记](../daily/2026-07-17/notes/Xuesong Geng et al. - 2026 - lambdaPIC callback-centric PIC framework.md) |
 | 2026-07-17 | [On the evolution of a large-amplitude, weakly collisional electron plasma wave](../papers/10-1017-s0022377826101986/README.md) | Journal of Plasma Physics | [笔记](../daily/2026-07-17/notes/Archis Joglekar and Alec Thomas - 2026 - Large-amplitude weakly collisional electron plasma wave.md) |
-| 2026-07-15 | [Toward AI-Agent-Driven Particle Transport Simulations: Implementation of AI-Assisted Workflows for PHITS](../papers/arxiv-2607-11309/README.md) | arXiv preprint | [笔记](../daily/2026-07-15/notes/Tatsuhiko Sato et al. - 2026 - Toward AI-Agent-Driven Particle Transport Simulations.md) |
 | 2026-07-15 | [Investigation of transverse instability in efficient plasma-based accelerators](../papers/arxiv-2607-10497/README.md) | arXiv preprint | [笔记](../daily/2026-07-15/notes/Arohi Jain and Navid Vafaei-Najafbadi - 2026 - Investigation of transverse instability.md) |
 | 2026-07-14 | [Tens of MeV, collimated, bright fluxes of protons from ordered nano-structured targets in ultra-relativistic laser-matter interaction](../papers/arxiv-2607-09229/README.md) | arXiv preprint | [笔记](../daily/2026-07-14/notes/Sagar Dam et al. - 2026 - Tens of MeV collimated bright fluxes of protons.md) |
 | 2026-07-14 | [TokaGrad: End-to-end differentiable tokamak simulator for L-to-H full scenario optimization](../papers/arxiv-2607-09088/README.md) | arXiv preprint | [笔记](../daily/2026-07-14/notes/Jaemin Seo - 2026 - TokaGrad differentiable tokamak simulator.md) |

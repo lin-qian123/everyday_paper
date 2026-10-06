@@ -1,0 +1,12 @@
+{
+  "ok": false,
+  "output": "daily/2026-07-15/pdfs/Tatsuhiko Sato et al. - 2026 - Toward AI-Agent-Driven Particle Transport Simulations.pdf",
+  "attempts": [
+    "[env-proxy] https://www.tandfonline.com/doi/pdf/10.1080/00223131.2026.2742550 -> HTTP 403",
+    "[direct] https://www.tandfonline.com/doi/pdf/10.1080/00223131.2026.2742550 -> HTTP 403",
+    "[env-proxy] https://doi.org/10.1080/00223131.2026.2742550 -> HTTP 403",
+    "[direct] https://doi.org/10.1080/00223131.2026.2742550 -> HTTP 403"
+  ],
+  "failure_class": "publisher_http_403",
+  "fallback": "Existing validated same-work arXiv:2607.11309 author preprint retained; metadata and note upgraded in place without creating a duplicate paper record."
+}

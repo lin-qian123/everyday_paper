@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "output": "daily/2026-10-07/pdfs/Imran et al. - 2026 - Quantum relativistic pair plasma nonlinear excitations.pdf",
+  "source_url": "https://link.springer.com/content/pdf/10.1140/epjp/s13360-026-08377-y.pdf",
+  "mode": "direct",
+  "attempts": [
+    "[env-proxy] https://link.springer.com/content/pdf/10.1140/epjp/s13360-026-08377-y.pdf -> not pdf (content-type=text/html; charset=utf-8)"
+  ]
+}

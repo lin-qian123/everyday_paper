@@ -2,11 +2,12 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：133 篇
-- 索引更新时间：2026-10-06
+- 当前收录：134 篇
+- 索引更新时间：2026-10-07
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-07 | [Effect of transition layer on wakefield in plasma waveguide](../papers/arxiv-2610-06396/README.md) | arXiv preprint | [笔记](../daily/2026-10-07/notes/Markov et al. - 2026 - Transition layer in plasma waveguide wakefield.md) |
 | 2026-10-06 | [Quantum approaches for particle-in-cell codes](../papers/arxiv-2610-03254/README.md) | arXiv preprint | [笔记](../daily/2026-10-06/notes/Connor et al. - 2026 - Quantum approaches for PIC.md) |
 | 2026-10-03 | [Quantitative schlieren imaging of a laser-ionized plasma channel in atomic vapor using symbolic regression](../papers/arxiv-2610-01485/README.md) | arXiv preprint | [笔记](../daily/2026-10-03/notes/Demeter - 2026 - AWAKE plasma channel schlieren symbolic regression.md) |
 | 2026-10-02 | [Compact ultrafast intense LWFA-driven crystal-based source of γ-radiation, positrons and neutrons](../papers/arxiv-2609-40005/README.md) | arXiv preprint | [笔记](../daily/2026-10-02/notes/Sytov et al. - 2026 - LWFA crystal gamma positron neutron source.md) |

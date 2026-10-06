@@ -1,0 +1,82 @@
+{
+  "run_date": "2026-10-07",
+  "checks": [
+    "%PDF- header",
+    "file type",
+    "nonzero byte count",
+    "SHA-256",
+    "pdfinfo page count",
+    "nonempty pdftotext -layout",
+    "selected-page rendering and visual inspection"
+  ],
+  "mineru": {
+    "attempted_documents": 5,
+    "completed_documents": 0,
+    "status": "failed_with_local_fallback",
+    "reason": "The local-path workflow reported that local files were unsupported. The five corresponding public-URL tasks all returned parsing failed, so the locally validated PDFs, layout text, 24 rendered pages and five decoded key figures were used as the documented fallback."
+  },
+  "documents": [
+    {
+      "identifier": "10.1140/epjp/s13360-026-08377-y",
+      "path": "daily/2026-10-07/pdfs/Imran et al. - 2026 - Quantum relativistic pair plasma nonlinear excitations.pdf",
+      "bytes": 542413,
+      "sha256": "17d21e04471e809003429c161e23457795a8741d2b634e76b33bfdff5bdf201c",
+      "pages": 15,
+      "text_bytes": 114346,
+      "rendered_pages": [1, 9, 10, 11],
+      "source_note": "Springer formal version of record.",
+      "status": "passed"
+    },
+    {
+      "identifier": "10.1103/fqgp-916r",
+      "path": "daily/2026-10-07/pdfs/Chaplinsky et al. - 2026 - Pulsed 2-keV neutron calibration source.pdf",
+      "bytes": 13694665,
+      "sha256": "9d2a0ee92abfbb62ac51a68c4c3b171fe29add6cddc34f12bc4ee1ba5bc4b69a",
+      "pages": 10,
+      "text_bytes": 66379,
+      "rendered_pages": [1, 4, 6, 8],
+      "source_note": "APS accepted paper metadata; local full text is the corresponding official arXiv:2410.14722v1 author preprint, not the APS VOR.",
+      "status": "passed"
+    },
+    {
+      "identifier": "10.48550/arXiv.2610.06396",
+      "path": "daily/2026-10-07/pdfs/Markov et al. - 2026 - Transition layer in plasma waveguide wakefield.pdf",
+      "bytes": 6222527,
+      "sha256": "788edc0c48ac1a756f934a9e37c1e8c30391c44b7c84ee36f1ef07a4d39c57ef",
+      "pages": 17,
+      "text_bytes": 51643,
+      "rendered_pages": [1, 5, 7, 10, 12, 13],
+      "source_note": "Official arXiv PDF.",
+      "status": "passed"
+    },
+    {
+      "identifier": "10.48550/arXiv.2610.05635",
+      "path": "daily/2026-10-07/pdfs/He and Hao - 2026 - Symplectic neural network accelerator normal form.pdf",
+      "bytes": 811220,
+      "sha256": "18f298be8bf781f62a9882d24a51dbb210733d413fd8b74e7e21692f1cf9e6c9",
+      "pages": 10,
+      "text_bytes": 32000,
+      "rendered_pages": [1, 4, 7, 8, 9],
+      "source_note": "Official arXiv PDF.",
+      "status": "passed"
+    },
+    {
+      "identifier": "10.48550/arXiv.2610.05386",
+      "path": "daily/2026-10-07/pdfs/Vanthieghem and Levinson - 2026 - Radiation reaction in relativistic magnetized shocks.pdf",
+      "bytes": 8894298,
+      "sha256": "9affe44691cce8802fbd32d8aba51fd19c5f406022fc4d480f62aea845170d54",
+      "pages": 15,
+      "text_bytes": 94466,
+      "rendered_pages": [1, 4, 6, 9, 11],
+      "source_note": "Official arXiv PDF.",
+      "status": "passed"
+    }
+  ],
+  "total_pdf_bytes": 30165123,
+  "total_text_bytes": 358834,
+  "total_pages": 67,
+  "selected_and_visually_checked_pages": 24,
+  "decoded_key_figures": 5,
+  "valid_documents": 5,
+  "status": "passed"
+}

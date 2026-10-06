@@ -1,0 +1,13 @@
+{
+  "ok": false,
+  "output": "daily/2026-10-07/pdfs/blocked-capillary.pdf",
+  "attempts": [
+    "[env-proxy] https://harvest.aps.org/v2/journals/articles/10.1103/yrts-62hs/fulltext -> HTTP 404",
+    "[direct] https://harvest.aps.org/v2/journals/articles/10.1103/yrts-62hs/fulltext -> HTTP 404",
+    "[env-proxy] https://doi.org/10.1103/yrts-62hs -> HTTP 403",
+    "[direct] https://doi.org/10.1103/yrts-62hs -> not pdf (content-type=text/html;charset=utf-8)",
+    "[env-proxy] https://journals.aps.org/pre/accepted/10.1103/yrts-62hs -> HTTP 403",
+    "[direct] https://journals.aps.org/pre/accepted/10.1103/yrts-62hs -> not pdf (content-type=text/html;charset=utf-8)"
+  ],
+  "failure_class": "publisher_http_403"
+}

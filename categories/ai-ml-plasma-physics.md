@@ -2,11 +2,12 @@
 
 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。
 
-- 当前收录：68 篇
-- 索引更新时间：2026-10-06
+- 当前收录：70 篇
+- 索引更新时间：2026-10-07
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-07 | [Reveal normal form structure for nonlinear map in accelerator beam physics with symplectic neural network](../papers/arxiv-2610-05635/README.md) | arXiv preprint | [笔记](../daily/2026-10-07/notes/He and Hao - 2026 - Symplectic neural network accelerator normal form.md) |
 | 2026-10-06 | [NeutronGym: Physics-Graded Neutron Instrument Design for LLM Agents](../papers/arxiv-2610-03631/README.md) | arXiv preprint | [笔记](../daily/2026-10-06/notes/Ding and Do - 2026 - NeutronGym instrument design.md) |
 | 2026-10-03 | [Quantitative schlieren imaging of a laser-ionized plasma channel in atomic vapor using symbolic regression](../papers/arxiv-2610-01485/README.md) | arXiv preprint | [笔记](../daily/2026-10-03/notes/Demeter - 2026 - AWAKE plasma channel schlieren symbolic regression.md) |
 | 2026-10-03 | [Is Your AI Fast Enough to Run a Fusion Reactor?](../papers/arxiv-2610-00845/README.md) | arXiv preprint | [笔记](../daily/2026-10-03/notes/Chen et al. - 2026 - Fusion AI inference benchmark.md) |
@@ -50,6 +51,7 @@
 | 2026-07-23 | [A low-temperature plasma collisional framework for quadrature-based moment methods](../papers/arxiv-2607-20278/README.md) | arXiv preprint | [笔记](../daily/2026-07-23/notes/Pierre-Yves Taunay - 2026 - Plasma quadrature moment collisions.md) |
 | 2026-07-21 | [Surrogate modeling of drift-reduced Braginskii turbulence with resistivity-conditioned Koopman neural operators](../papers/arxiv-2607-15857/README.md) | arXiv preprint | [笔记](../daily/2026-07-21/notes/Ameir Shaa et al. - 2026 - Braginskii turbulence Koopman neural operators.md) |
 | 2026-07-20 | [Automated Outlier-Robust Bayesian Profile Fitting for Magnetically Confined Plasmas with Modified Tanh Profiles and Good-and-Bad Gaussian Mixture Likelihoods](../papers/arxiv-2607-14142/README.md) | arXiv preprint | [笔记](../daily/2026-07-20/notes/Jaewook Kim et al. - 2026 - Bayesian profile fitting magnetically confined plasmas.md) |
+| 2026-07-15 | [Toward AI-Agent-Driven Particle Transport Simulations: Implementation of AI-Assisted Workflows for PHITS](../papers/10-1080-00223131-2026-2742550/README.md) | Journal of Nuclear Science and Technology (formal online publication; local full text is the corresponding arXiv:2607.11309 author preprint, not VOR) | [笔记](../daily/2026-07-15/notes/Tatsuhiko Sato et al. - 2026 - Toward AI-Agent-Driven Particle Transport Simulations.md) |
 | 2026-07-14 | [TokaGrad: End-to-end differentiable tokamak simulator for L-to-H full scenario optimization](../papers/arxiv-2607-09088/README.md) | arXiv preprint | [笔记](../daily/2026-07-14/notes/Jaemin Seo - 2026 - TokaGrad differentiable tokamak simulator.md) |
 | 2026-07-08 | [Deep Learning Models for ADITYA-U MHD Equilibrium](../papers/arxiv-2607-04865/README.md) | arXiv preprint | [笔记](../daily/2026-07-08/notes/Udaya Maurya et al. - 2026 - Deep Learning Models for ADITYA-U MHD Equilibrium.md) |
 | 2026-07-06 | [A toroidally spectral field solver in the X-point Gyrokinetic Code for accurate simulation of reduced magneto-hydrodynamic modes](../papers/arxiv-2606-25213/README.md) | arXiv preprint | [笔记](../daily/2026-07-06/notes/Robert Hager et al. - 2026 - A toroidally spectral field solver in the X-point Gyrokinetic Code.md) |

@@ -1,0 +1,86 @@
+{
+  "run_date": "2026-10-07",
+  "latest_arxiv_submission_date": "2026-10-05",
+  "search_summary": {
+    "sources": "installed multi-source search layer, official arXiv Atom API, Crossref 2026-10-06 through 2026-10-07 metadata, Springer, APS, Taylor & Francis and IOP",
+    "search_layer_queries": 3,
+    "search_layer_results": 0,
+    "crossref_unique_works": 240,
+    "selection_basis": "formal-source priority, verified full text, recency, topic fit and non-duplication",
+    "coverage_claim": "targeted, not exhaustive",
+    "research_record": "daily/2026-10-07/research/"
+  },
+  "deduplication": {
+    "processed_before": 415,
+    "processed_after": 420,
+    "retry_before": 22,
+    "retry_after": 24,
+    "keys": [
+      "DOI or arXiv identifier",
+      "normalized title",
+      "source URL",
+      "historical daily folders",
+      "retry queue",
+      "formal version versus preprint title match",
+      "abstract and physical scenario"
+    ],
+    "version_update": {
+      "formal_identifier": "10.1080/00223131.2026.2742550",
+      "preprint_identifier": "10.48550/arXiv.2607.11309",
+      "action": "merged into the existing July record without creating a duplicate"
+    },
+    "legacy_cross_state_overlap": {
+      "identifier": "10.1016/j.jcp.2026.114707",
+      "reason": "pre-existing legacy record has pdf_path null in the processed ledger while retaining a PDF-download retry entry; no new overlap was introduced"
+    }
+  },
+  "added": [
+    "10.1140/epjp/s13360-026-08377-y",
+    "10.1103/fqgp-916r",
+    "10.48550/arXiv.2610.06396",
+    "10.48550/arXiv.2610.05635",
+    "10.48550/arXiv.2610.05386"
+  ],
+  "retry_removed": [],
+  "retry_added": [
+    "10.1103/yrts-62hs",
+    "10.1080/00223131.2026.2729210"
+  ],
+  "retry_rechecked": [
+    "10.1088/1741-4326/aeb037"
+  ],
+  "pdf_validation": {
+    "valid_documents": 5,
+    "formal_version_of_record_documents": 1,
+    "accepted_paper_author_preprints": 1,
+    "official_arxiv_documents": 3,
+    "total_bytes": 30165123,
+    "total_pages": 67,
+    "selected_and_visually_checked_pages": 24,
+    "decoded_key_figures": 5,
+    "mineru": "local paths were unsupported and all five public-URL tasks failed; validated local layout-text and rendered-page fallback used",
+    "details": "daily/2026-10-07/pdf_validation.json"
+  },
+  "evidence_boundaries": [
+    "The pair-plasma paper is an analytic quantum-fluid and KdV parameter study, not an experiment or a kinetic validation.",
+    "The 2-keV neutron source is a GEANT4 design study; the local full text is the corresponding arXiv author preprint, not the APS version of record.",
+    "The plasma-waveguide and magnetized-shock studies report 2.5D and one-dimensional PIC evidence respectively, without three-dimensional or experimental closure.",
+    "The SympNet study is restricted to a McMillan-type toy map and has no equal-accuracy production benchmark.",
+    "The PHITS record received a publication-metadata upgrade only; no transport case was rerun locally.",
+    "No KdV coefficient calculation, GEANT4, MCNP, SOM, SympNet, Entity or PHITS computation was performed locally."
+  ],
+  "validation": {
+    "index_builder": "Indexed 420 papers across 9 categories.",
+    "pytest": "7 passed via PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q",
+    "unittest": "7 tests passed via python -m unittest discover -s tests -v",
+    "ledger_checks": "420 records parsed; 416 non-null identifiers are unique; all 420 normalized titles are unique; 24 retry identifiers are unique; no new cross-state overlap",
+    "pdf_header_size_hash_metadata_text_check": "passed for five PDFs totaling 67 pages",
+    "download_report_check": "nine reports parsed: five selected papers, one formal-version update and three retry/recheck attempts",
+    "markdown_link_check": "40 local links in the daily index, five notes and six affected generated paper pages resolved after URL decoding",
+    "image_check": "five PNG figures decoded successfully; 24 selected PDF pages were visually inspected",
+    "diff_check": "git diff --check passed",
+    "ignored_artifacts": "the five daily PDFs and extracted-text artifacts are Git-ignored"
+  },
+  "git": "commit and push to origin/master after final staging validation",
+  "status": "success"
+}

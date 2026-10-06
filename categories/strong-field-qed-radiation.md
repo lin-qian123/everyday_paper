@@ -2,11 +2,12 @@
 
 强场量子效应、辐射反作用、非线性 Compton、pair production 与极端场实验。
 
-- 当前收录：67 篇
-- 索引更新时间：2026-10-06
+- 当前收录：68 篇
+- 索引更新时间：2026-10-07
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-07 | [Radiation Reaction in Relativistic Magnetized Shocks of Neutron Star Magnetospheres](../papers/arxiv-2610-05386/README.md) | arXiv preprint | [笔记](../daily/2026-10-07/notes/Vanthieghem and Levinson - 2026 - Radiation reaction in relativistic magnetized shocks.md) |
 | 2026-09-30 | [A high-flux electron detection system to measure non-linear Compton scattering at LUXE](../papers/arxiv-2609-35519/README.md) | arXiv preprint | [笔记](../daily/2026-09-30/notes/Athanassiadis et al. - 2026 - LUXE high-flux electron detector.md) |
 | 2026-09-30 | [Generating Vector-Vortex gamma Photons by Nonlinear Compton Scattering](../papers/arxiv-2609-35208/README.md) | arXiv preprint | [笔记](../daily/2026-09-30/notes/Ren et al. - 2026 - Vector-vortex gamma photons.md) |
 | 2026-09-29 | [Renormalized perturbation theory in an intense background electromagnetic field](../papers/arxiv-2609-31366/README.md) | arXiv preprint | [笔记](../daily/2026-09-29/notes/Lopez-Lopez et al. - 2026 - Renormalized strong-field QED.md) |

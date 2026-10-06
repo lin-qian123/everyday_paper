@@ -2,11 +2,15 @@
 
 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。
 
-- 当前收录：89 篇
-- 索引更新时间：2026-10-06
+- 当前收录：94 篇
+- 索引更新时间：2026-10-07
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-07 | [Nonlinear excitations in a relativistic pair plasma with quantum corrections](../papers/10-1140-epjp-s13360-026-08377-y/README.md) | The European Physical Journal Plus (formal version of record) | [笔记](../daily/2026-10-07/notes/Imran et al. - 2026 - Quantum relativistic pair plasma nonlinear excitations.md) |
+| 2026-10-07 | [Design studies of a pulsed quasimonoenergetic 2-keV neutron source for calibration of low threshold dark matter detectors](../papers/10-1103-fqgp-916r/README.md) | Physical Review D Accepted Paper (local full text: corresponding arXiv:2410.14722v1 author preprint; not VOR) | [笔记](../daily/2026-10-07/notes/Chaplinsky et al. - 2026 - Pulsed 2-keV neutron calibration source.md) |
+| 2026-10-07 | [Effect of transition layer on wakefield in plasma waveguide](../papers/arxiv-2610-06396/README.md) | arXiv preprint | [笔记](../daily/2026-10-07/notes/Markov et al. - 2026 - Transition layer in plasma waveguide wakefield.md) |
+| 2026-10-07 | [Reveal normal form structure for nonlinear map in accelerator beam physics with symplectic neural network](../papers/arxiv-2610-05635/README.md) | arXiv preprint | [笔记](../daily/2026-10-07/notes/He and Hao - 2026 - Symplectic neural network accelerator normal form.md) |
 | 2026-10-06 | [X-ray spectroscopy of hot dense plasmas using LLNL’s upgraded Titan 2ω short-pulse laser](../papers/10-1063-5-0350551/README.md) | Review of Scientific Instruments (formal version of record) | [笔记](../daily/2026-10-06/notes/Fairchild et al. - 2026 - Titan hot dense plasma X-ray spectroscopy.md) |
 | 2026-10-06 | [Guide field effects on particle acceleration in three-dimensional relativistic magnetic reconnection](../papers/arxiv-2610-03427/README.md) | arXiv preprint | [笔记](../daily/2026-10-06/notes/Karavola et al. - 2026 - 3D guide-field relativistic reconnection.md) |
 | 2026-10-06 | [Dynamics-aware bandwidth selection for smoothed charge deposition in 2D electrostatic particle-in-cell](../papers/arxiv-2610-03230/README.md) | arXiv preprint | [笔记](../daily/2026-10-06/notes/Agrawal et al. - 2026 - Dynamics-aware PIC smoothing.md) |
@@ -66,6 +70,7 @@
 | 2026-08-25 | [Gas Beam Dump and Power Meter for High Energy Lasers](../papers/arxiv-2608-20645/README.md) | arXiv preprint | [笔记](../daily/2026-08-25/notes/Rajesh et al. - 2026 - Gas beam dump power meter.md) |
 | 2026-08-23 | [Wavefront shaping of terahertz radiation using two-color flying-focus pulses with time-dependent focal velocities](../papers/arxiv-2608-20142/README.md) | arXiv preprint | [笔记](../daily/2026-08-23/notes/Elliott et al. - 2026 - Flying-focus terahertz wavefront shaping.md) |
 | 2026-07-22 | [Exploring Self-Organization of Charged Dust Dimers in Plasma](../papers/arxiv-2607-19180/README.md) | arXiv preprint | [笔记](../daily/2026-07-22/notes/Aman Singh Katariya et al. - 2026 - Charged dust dimers plasma.md) |
+| 2026-07-15 | [Toward AI-Agent-Driven Particle Transport Simulations: Implementation of AI-Assisted Workflows for PHITS](../papers/10-1080-00223131-2026-2742550/README.md) | Journal of Nuclear Science and Technology (formal online publication; local full text is the corresponding arXiv:2607.11309 author preprint, not VOR) | [笔记](../daily/2026-07-15/notes/Tatsuhiko Sato et al. - 2026 - Toward AI-Agent-Driven Particle Transport Simulations.md) |
 | 2026-07-10 | [Terahertz Generation through Photon Deceleration of Long-Wavelength Infrared Laser Pulses in Plasma](../papers/arxiv-2607-07005/README.md) | arXiv preprint | [笔记](../daily/2026-07-10/notes/Srimanta Maity - 2026 - Terahertz Generation through Photon Deceleration.md) |
 | 2026-07-09 | [Mega-Gauss Plasma Jet Creation Using a Ring of Laser Beams](../papers/arxiv-2607-05746/README.md) | arXiv preprint | [笔记](../daily/2026-07-09/notes/L. Gao et al. - 2026 - Mega-Gauss Plasma Jet Creation Using a Ring of Laser Beams.md) |
 | 2026-07-09 | [Hot Spot Evolution Measured by High-Resolution X-Ray Spectroscopy at the National Ignition Facility](../papers/arxiv-2607-05738/README.md) | arXiv preprint | [笔记](../daily/2026-07-09/notes/Lan Gao et al. - 2026 - Hot Spot Evolution Measured by High-Resolution X-Ray Spectroscopy.md) |

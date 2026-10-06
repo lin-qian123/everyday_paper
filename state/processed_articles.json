@@ -2175,13 +2175,22 @@
   {
     "title": "Toward AI-Agent-Driven Particle Transport Simulations: Implementation of AI-Assisted Workflows for PHITS",
     "normalized_title": "toward ai agent driven particle transport simulations implementation of ai assisted workflows for phits",
-    "doi": "10.48550/arXiv.2607.11309",
-    "journal": "arXiv preprint",
-    "publication_date": "2026-07-13",
+    "doi": "10.1080/00223131.2026.2742550",
+    "journal": "Journal of Nuclear Science and Technology (formal online publication; local full text is the corresponding arXiv:2607.11309 author preprint, not VOR)",
+    "publication_date": "2026-10-06",
     "processed_date": "2026-07-15",
-    "source_url": "https://arxiv.org/abs/2607.11309",
+    "version_updated_date": "2026-10-07",
+    "preprint_identifier": "10.48550/arXiv.2607.11309",
+    "source_url": "https://doi.org/10.1080/00223131.2026.2742550",
+    "pdf_url": "https://arxiv.org/pdf/2607.11309",
     "pdf_path": "daily/2026-07-15/pdfs/Tatsuhiko Sato et al. - 2026 - Toward AI-Agent-Driven Particle Transport Simulations.pdf",
-    "note_path": "daily/2026-07-15/notes/Tatsuhiko Sato et al. - 2026 - Toward AI-Agent-Driven Particle Transport Simulations.md"
+    "note_path": "daily/2026-07-15/notes/Tatsuhiko Sato et al. - 2026 - Toward AI-Agent-Driven Particle Transport Simulations.md",
+    "categories": [
+      "ai-ml-plasma-physics",
+      "laser-accelerated-beam-applications",
+      "experimental-platforms-diagnostics",
+      "general-plasma-and-methods"
+    ]
   },
   {
     "title": "Single-Shot High-Energy Muon and Particle Radiography with a Multi-GeV Laser-Wakefield-Accelerator-Driven Source",
@@ -4979,5 +4988,84 @@
       "general-plasma-and-methods"
     ],
     "normalized_title": "neutrongym physics graded neutron instrument design for llm agents"
+  },
+  {
+    "title": "Nonlinear excitations in a relativistic pair plasma with quantum corrections",
+    "doi": "10.1140/epjp/s13360-026-08377-y",
+    "journal": "The European Physical Journal Plus (formal version of record)",
+    "publication_date": "2026-10-06",
+    "processed_date": "2026-10-07",
+    "source_url": "https://doi.org/10.1140/epjp/s13360-026-08377-y",
+    "pdf_path": "daily/2026-10-07/pdfs/Imran et al. - 2026 - Quantum relativistic pair plasma nonlinear excitations.pdf",
+    "note_path": "daily/2026-10-07/notes/Imran et al. - 2026 - Quantum relativistic pair plasma nonlinear excitations.md",
+    "categories": [
+      "hedp-icf-laboratory-astrophysics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "nonlinear excitations in a relativistic pair plasma with quantum corrections"
+  },
+  {
+    "title": "Design studies of a pulsed quasimonoenergetic 2-keV neutron source for calibration of low threshold dark matter detectors",
+    "doi": "10.1103/fqgp-916r",
+    "journal": "Physical Review D Accepted Paper (local full text: corresponding arXiv:2410.14722v1 author preprint; not VOR)",
+    "publication_date": "2026-10-06",
+    "processed_date": "2026-10-07",
+    "source_url": "https://doi.org/10.1103/fqgp-916r",
+    "pdf_url": "https://arxiv.org/pdf/2410.14722",
+    "pdf_path": "daily/2026-10-07/pdfs/Chaplinsky et al. - 2026 - Pulsed 2-keV neutron calibration source.pdf",
+    "note_path": "daily/2026-10-07/notes/Chaplinsky et al. - 2026 - Pulsed 2-keV neutron calibration source.md",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "experimental-platforms-diagnostics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "design studies of a pulsed quasimonoenergetic 2 kev neutron source for calibration of low threshold dark matter detectors"
+  },
+  {
+    "title": "Effect of transition layer on wakefield in plasma waveguide",
+    "doi": "10.48550/arXiv.2610.06396",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-05",
+    "processed_date": "2026-10-07",
+    "source_url": "https://arxiv.org/abs/2610.06396",
+    "pdf_path": "daily/2026-10-07/pdfs/Markov et al. - 2026 - Transition layer in plasma waveguide wakefield.pdf",
+    "note_path": "daily/2026-10-07/notes/Markov et al. - 2026 - Transition layer in plasma waveguide wakefield.md",
+    "categories": [
+      "laser-plasma-acceleration",
+      "pic-and-plasma-simulation",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "effect of transition layer on wakefield in plasma waveguide"
+  },
+  {
+    "title": "Reveal normal form structure for nonlinear map in accelerator beam physics with symplectic neural network",
+    "doi": "10.48550/arXiv.2610.05635",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-05",
+    "processed_date": "2026-10-07",
+    "source_url": "https://arxiv.org/abs/2610.05635",
+    "pdf_path": "daily/2026-10-07/pdfs/He and Hao - 2026 - Symplectic neural network accelerator normal form.pdf",
+    "note_path": "daily/2026-10-07/notes/He and Hao - 2026 - Symplectic neural network accelerator normal form.md",
+    "categories": [
+      "ai-ml-plasma-physics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "reveal normal form structure for nonlinear map in accelerator beam physics with symplectic neural network"
+  },
+  {
+    "title": "Radiation Reaction in Relativistic Magnetized Shocks of Neutron Star Magnetospheres",
+    "doi": "10.48550/arXiv.2610.05386",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-04",
+    "processed_date": "2026-10-07",
+    "source_url": "https://arxiv.org/abs/2610.05386",
+    "pdf_path": "daily/2026-10-07/pdfs/Vanthieghem and Levinson - 2026 - Radiation reaction in relativistic magnetized shocks.pdf",
+    "note_path": "daily/2026-10-07/notes/Vanthieghem and Levinson - 2026 - Radiation reaction in relativistic magnetized shocks.md",
+    "categories": [
+      "strong-field-qed-radiation",
+      "pic-and-plasma-simulation",
+      "hedp-icf-laboratory-astrophysics"
+    ],
+    "normalized_title": "radiation reaction in relativistic magnetized shocks of neutron star magnetospheres"
   }
 ]

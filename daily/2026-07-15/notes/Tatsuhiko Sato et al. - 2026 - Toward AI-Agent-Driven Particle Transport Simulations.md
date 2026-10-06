@@ -1,12 +1,15 @@
 # Toward AI-Agent-Driven Particle Transport Simulations: Implementation of AI-Assisted Workflows for PHITS
 
+> **版本更新（2026-10-07）：** 该工作已于 2026-10-06 正式在线发表于 *Journal of Nuclear Science and Technology*，DOI `10.1080/00223131.2026.2742550`，CC BY 4.0。Taylor & Francis VOR PDF 本轮返回 HTTP 403，因此下述物理核读仍基于同作品 arXiv:`2607.11309` 作者预印本，不把预印本表述为排版版 VOR。
+
 ## 基本信息
 
 - 作者：Tatsuhiko Sato; Shintaro Hashimoto; Tatsuhiko Ogawa; Takuya Furuta; Yuho Hirata; Seiki Ohnishi; Tomohiro Yamada; Shinichiro Abe; Yosuke Iwamoto; Kohei Okumura
-- 期刊/平台：arXiv preprint
-- DOI：https://doi.org/10.48550/arXiv.2607.11309
-- 发表时间：2026-07-13
-- 来源链接：https://arxiv.org/abs/2607.11309
+- 期刊/平台：*Journal of Nuclear Science and Technology*（正式在线发表；本地全文为作者预印本）
+- 正式 DOI：https://doi.org/10.1080/00223131.2026.2742550
+- 预印本标识：https://doi.org/10.48550/arXiv.2607.11309
+- 正式发表时间：2026-10-06（预印本 2026-07-13）
+- 来源链接：https://doi.org/10.1080/00223131.2026.2742550
 - 本地 PDF：`daily/2026-07-15/pdfs/Tatsuhiko Sato et al. - 2026 - Toward AI-Agent-Driven Particle Transport Simulations.pdf`
 
 ## 研究问题
@@ -38,4 +41,4 @@ PHITS 等蒙特卡罗粒子输运程序对输入准备、执行、后处理和�
 
 ## 局限与注意事项
 
-当前为预印本且偏方法/工作流；与激光等离子体的联系是通过后续辐射输运、转换靶和核应用场景建立的。实际采用时需要严格保留人工审查、基准算例和物理守恒/剂量单位检查。
+当前已经正式发表，但本地核读文本仍是同作品作者预印本而不是 VOR；与激光等离子体的联系是通过后续辐射输运、转换靶和核应用场景建立的。论文给出工作流演示，不等同于 PHITS 结果自动通过物理验收；实际采用时仍需保留人工审查、基准算例、版本/输入 provenance，以及物理守恒、统计误差和剂量单位检查。

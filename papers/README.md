@@ -1,10 +1,15 @@
 # 论文总索引
 
-- 当前入库论文：415 篇
-- 索引更新时间：2026-10-06
+- 当前入库论文：420 篇
+- 索引更新时间：2026-10-07
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-10-07 | [Nonlinear excitations in a relativistic pair plasma with quantum corrections](./10-1140-epjp-s13360-026-08377-y/README.md) | The European Physical Journal Plus (formal version of record) | [10.1140/epjp/s13360-026-08377-y](https://doi.org/10.1140/epjp/s13360-026-08377-y) |
+| 2026-10-07 | [Design studies of a pulsed quasimonoenergetic 2-keV neutron source for calibration of low threshold dark matter detectors](./10-1103-fqgp-916r/README.md) | Physical Review D Accepted Paper (local full text: corresponding arXiv:2410.14722v1 author preprint; not VOR) | [10.1103/fqgp-916r](https://doi.org/10.1103/fqgp-916r) |
+| 2026-10-07 | [Effect of transition layer on wakefield in plasma waveguide](./arxiv-2610-06396/README.md) | arXiv preprint | [10.48550/arXiv.2610.06396](https://doi.org/10.48550/arXiv.2610.06396) |
+| 2026-10-07 | [Reveal normal form structure for nonlinear map in accelerator beam physics with symplectic neural network](./arxiv-2610-05635/README.md) | arXiv preprint | [10.48550/arXiv.2610.05635](https://doi.org/10.48550/arXiv.2610.05635) |
+| 2026-10-07 | [Radiation Reaction in Relativistic Magnetized Shocks of Neutron Star Magnetospheres](./arxiv-2610-05386/README.md) | arXiv preprint | [10.48550/arXiv.2610.05386](https://doi.org/10.48550/arXiv.2610.05386) |
 | 2026-10-06 | [Characterization and optimization of a laser-produced x-ray source for x-ray radiography](./10-1063-5-0323034/README.md) | Review of Scientific Instruments (formal version of record) | [10.1063/5.0323034](https://doi.org/10.1063/5.0323034) |
 | 2026-10-06 | [X-ray spectroscopy of hot dense plasmas using LLNL’s upgraded Titan 2ω short-pulse laser](./10-1063-5-0350551/README.md) | Review of Scientific Instruments (formal version of record) | [10.1063/5.0350551](https://doi.org/10.1063/5.0350551) |
 | 2026-10-06 | [Guide field effects on particle acceleration in three-dimensional relativistic magnetic reconnection](./arxiv-2610-03427/README.md) | arXiv preprint | [10.48550/arXiv.2610.03427](https://doi.org/10.48550/arXiv.2610.03427) |
@@ -222,8 +227,8 @@
 | 2026-07-16 | [Single-Shot High-Energy Muon and Particle Radiography with a Multi-GeV Laser-Wakefield-Accelerator-Driven Source](./arxiv-2607-12984/README.md) | arXiv preprint | [10.48550/arXiv.2607.12984](https://doi.org/10.48550/arXiv.2607.12984) |
 | 2026-07-16 | [Impact of Residual Angular Chirp in a Petawatt-class Laser System on Laser-driven Proton Acceleration](./arxiv-2607-12451/README.md) | arXiv preprint | [10.48550/arXiv.2607.12451](https://doi.org/10.48550/arXiv.2607.12451) |
 | 2026-07-16 | [Radiation reaction measurements via single-shot energy-loss determination in high-intensity laser-electron collisions](./arxiv-2607-12439/README.md) | arXiv preprint | [10.48550/arXiv.2607.12439](https://doi.org/10.48550/arXiv.2607.12439) |
+| 2026-07-15 | [Toward AI-Agent-Driven Particle Transport Simulations: Implementation of AI-Assisted Workflows for PHITS](./10-1080-00223131-2026-2742550/README.md) | Journal of Nuclear Science and Technology (formal online publication; local full text is the corresponding arXiv:2607.11309 author preprint, not VOR) | [10.1080/00223131.2026.2742550](https://doi.org/10.1080/00223131.2026.2742550) |
 | 2026-07-15 | [Efficient hot electron generation via low-coherence lasers](./arxiv-2607-11045/README.md) | arXiv preprint | [10.48550/arXiv.2607.11045](https://doi.org/10.48550/arXiv.2607.11045) |
-| 2026-07-15 | [Toward AI-Agent-Driven Particle Transport Simulations: Implementation of AI-Assisted Workflows for PHITS](./arxiv-2607-11309/README.md) | arXiv preprint | [10.48550/arXiv.2607.11309](https://doi.org/10.48550/arXiv.2607.11309) |
 | 2026-07-15 | [Investigation of transverse instability in efficient plasma-based accelerators](./arxiv-2607-10497/README.md) | arXiv preprint | [10.48550/arXiv.2607.10497](https://doi.org/10.48550/arXiv.2607.10497) |
 | 2026-07-14 | [Tens of MeV, collimated, bright fluxes of protons from ordered nano-structured targets in ultra-relativistic laser-matter interaction](./arxiv-2607-09229/README.md) | arXiv preprint | [10.48550/arXiv.2607.09229](https://doi.org/10.48550/arXiv.2607.09229) |
 | 2026-07-14 | [On the generation of astrophysically-relevant intermittent magnetic turbulence in the laboratory](./arxiv-2607-09453/README.md) | arXiv preprint | [10.48550/arXiv.2607.09453](https://doi.org/10.48550/arXiv.2607.09453) |

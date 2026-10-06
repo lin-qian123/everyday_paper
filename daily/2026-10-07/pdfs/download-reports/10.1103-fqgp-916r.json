@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "output": "daily/2026-10-07/pdfs/Chaplinsky et al. - 2026 - Pulsed 2-keV neutron calibration source.pdf",
+  "source_url": "https://arxiv.org/pdf/2410.14722",
+  "mode": "env-proxy",
+  "attempts": [
+    "[env-proxy] https://harvest.aps.org/v2/journals/articles/10.1103/fqgp-916r/fulltext -> HTTP 404",
+    "[direct] https://harvest.aps.org/v2/journals/articles/10.1103/fqgp-916r/fulltext -> HTTP 404"
+  ]
+}
