@@ -2,11 +2,13 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：134 篇
-- 索引更新时间：2026-10-07
+- 当前收录：136 篇
+- 索引更新时间：2026-10-08
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-08 | [Evolution of transversely asymmetric electron beams in hollow plasma channels](../papers/10-1103-13fz-y5wy/README.md) | Physical Review Accelerators and Beams (formal version of record) | [笔记](../daily/2026-10-08/notes/Ding et al. - 2026 - Asymmetric beams in hollow plasma channels.md) |
+| 2026-10-08 | [Experimental Demonstration of Beam-Driven Wakefield Acceleration in Laser-Plasma Filament](../papers/10-1103-qjd9-p6dy/README.md) | Physical Review E Accepted Paper (local full text: corresponding arXiv:2602.22841v1 author preprint; not VOR) | [笔记](../daily/2026-10-08/notes/Galletti et al. - 2026 - Beam-driven acceleration in laser-plasma filament.md) |
 | 2026-10-07 | [Effect of transition layer on wakefield in plasma waveguide](../papers/arxiv-2610-06396/README.md) | arXiv preprint | [笔记](../daily/2026-10-07/notes/Markov et al. - 2026 - Transition layer in plasma waveguide wakefield.md) |
 | 2026-10-06 | [Quantum approaches for particle-in-cell codes](../papers/arxiv-2610-03254/README.md) | arXiv preprint | [笔记](../daily/2026-10-06/notes/Connor et al. - 2026 - Quantum approaches for PIC.md) |
 | 2026-10-03 | [Quantitative schlieren imaging of a laser-ionized plasma channel in atomic vapor using symbolic regression](../papers/arxiv-2610-01485/README.md) | arXiv preprint | [笔记](../daily/2026-10-03/notes/Demeter - 2026 - AWAKE plasma channel schlieren symbolic regression.md) |

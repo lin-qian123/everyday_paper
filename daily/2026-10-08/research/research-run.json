@@ -1,0 +1,39 @@
+{
+  "run_id": "2026-10-08-daily-paper",
+  "run_date": "2026-10-08",
+  "status": "success",
+  "coverage_claim": "targeted official-source search, not exhaustive",
+  "search_layer_queries": 3,
+  "search_layer_results": 0,
+  "crossref_unique_works": 388,
+  "crossref_keyword_filtered_works": 124,
+  "latest_arxiv_submission_date": "2026-10-06",
+  "selected_identifiers": [
+    "10.1103/13fz-y5wy",
+    "10.1063/5.0342431",
+    "10.1103/mmzz-gq7q",
+    "10.48550/arXiv.2610.08530",
+    "10.1103/qjd9-p6dy"
+  ],
+  "version_updated": [],
+  "retry_added": [
+    "10.1103/rds9-9p7r",
+    "10.1080/00223131.2026.2741954",
+    "10.1103/2dby-29s7"
+  ],
+  "processed_before": 420,
+  "processed_after": 425,
+  "retry_before": 24,
+  "retry_after": 27,
+  "validation": {
+    "index_builder": "Indexed 425 papers across 9 categories.",
+    "pytest": "7 passed",
+    "unittest": "7 passed",
+    "ledger": "425 normalized titles and 421 non-null identifiers are unique; 27 retry identifiers are unique; only the pre-existing legacy cross-state overlap remains",
+    "pdfs": "5 documents totaling 75 pages passed header, type, size, SHA-256, pdfinfo and non-empty layout-text checks",
+    "images": "5 PNG figures decoded; 15 selected PDF pages were visually inspected",
+    "links": "34 local links in the daily index, five notes and five affected generated paper pages resolved after URL decoding",
+    "diff_check": "git diff --check passed",
+    "tests": "PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q and python -m unittest discover -s tests -v"
+  }
+}

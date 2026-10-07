@@ -2,11 +2,15 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：126 篇
-- 索引更新时间：2026-10-07
+- 当前收录：130 篇
+- 索引更新时间：2026-10-08
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-08 | [Experimental observation of drift acoustic cnoidal waves in a magnetized plasma](../papers/10-1103-mmzz-gq7q/README.md) | Physical Review E formal metadata (local full text: corresponding arXiv:2604.19927v1 author preprint; not VOR) | [笔记](../daily/2026-10-08/notes/Karmakar et al. - 2026 - Drift acoustic cnoidal waves.md) |
+| 2026-10-08 | [Experimental observations of microturbulence-suppressed parallel heat conduction in a weakly collisional, high-β plasma](../papers/arxiv-2610-08530/README.md) | arXiv preprint | [笔记](../daily/2026-10-08/notes/Vincent et al. - 2026 - Microturbulence suppressed heat conduction.md) |
+| 2026-10-08 | [Proton probing measurements of filamentary electromagnetic structure in laser ablation of solids](../papers/10-1063-5-0342431/README.md) | Physics of Plasmas (formal version of record) | [笔记](../daily/2026-10-08/notes/Peebles et al. - 2026 - Proton probing laser ablation filaments.md) |
+| 2026-10-08 | [Experimental Demonstration of Beam-Driven Wakefield Acceleration in Laser-Plasma Filament](../papers/10-1103-qjd9-p6dy/README.md) | Physical Review E Accepted Paper (local full text: corresponding arXiv:2602.22841v1 author preprint; not VOR) | [笔记](../daily/2026-10-08/notes/Galletti et al. - 2026 - Beam-driven acceleration in laser-plasma filament.md) |
 | 2026-10-07 | [Design studies of a pulsed quasimonoenergetic 2-keV neutron source for calibration of low threshold dark matter detectors](../papers/10-1103-fqgp-916r/README.md) | Physical Review D Accepted Paper (local full text: corresponding arXiv:2410.14722v1 author preprint; not VOR) | [笔记](../daily/2026-10-07/notes/Chaplinsky et al. - 2026 - Pulsed 2-keV neutron calibration source.md) |
 | 2026-10-06 | [Characterization and optimization of a laser-produced x-ray source for x-ray radiography](../papers/10-1063-5-0323034/README.md) | Review of Scientific Instruments (formal version of record) | [笔记](../daily/2026-10-06/notes/Benkadoum et al. - 2026 - Laser X-ray radiography source.md) |
 | 2026-10-06 | [X-ray spectroscopy of hot dense plasmas using LLNL’s upgraded Titan 2ω short-pulse laser](../papers/10-1063-5-0350551/README.md) | Review of Scientific Instruments (formal version of record) | [笔记](../daily/2026-10-06/notes/Fairchild et al. - 2026 - Titan hot dense plasma X-ray spectroscopy.md) |

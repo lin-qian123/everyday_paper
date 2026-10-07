@@ -1,10 +1,15 @@
 # 论文总索引
 
-- 当前入库论文：420 篇
-- 索引更新时间：2026-10-07
+- 当前入库论文：425 篇
+- 索引更新时间：2026-10-08
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-10-08 | [Evolution of transversely asymmetric electron beams in hollow plasma channels](./10-1103-13fz-y5wy/README.md) | Physical Review Accelerators and Beams (formal version of record) | [10.1103/13fz-y5wy](https://doi.org/10.1103/13fz-y5wy) |
+| 2026-10-08 | [Experimental observation of drift acoustic cnoidal waves in a magnetized plasma](./10-1103-mmzz-gq7q/README.md) | Physical Review E formal metadata (local full text: corresponding arXiv:2604.19927v1 author preprint; not VOR) | [10.1103/mmzz-gq7q](https://doi.org/10.1103/mmzz-gq7q) |
+| 2026-10-08 | [Experimental observations of microturbulence-suppressed parallel heat conduction in a weakly collisional, high-β plasma](./arxiv-2610-08530/README.md) | arXiv preprint | [10.48550/arXiv.2610.08530](https://doi.org/10.48550/arXiv.2610.08530) |
+| 2026-10-08 | [Proton probing measurements of filamentary electromagnetic structure in laser ablation of solids](./10-1063-5-0342431/README.md) | Physics of Plasmas (formal version of record) | [10.1063/5.0342431](https://doi.org/10.1063/5.0342431) |
+| 2026-10-08 | [Experimental Demonstration of Beam-Driven Wakefield Acceleration in Laser-Plasma Filament](./10-1103-qjd9-p6dy/README.md) | Physical Review E Accepted Paper (local full text: corresponding arXiv:2602.22841v1 author preprint; not VOR) | [10.1103/qjd9-p6dy](https://doi.org/10.1103/qjd9-p6dy) |
 | 2026-10-07 | [Nonlinear excitations in a relativistic pair plasma with quantum corrections](./10-1140-epjp-s13360-026-08377-y/README.md) | The European Physical Journal Plus (formal version of record) | [10.1140/epjp/s13360-026-08377-y](https://doi.org/10.1140/epjp/s13360-026-08377-y) |
 | 2026-10-07 | [Design studies of a pulsed quasimonoenergetic 2-keV neutron source for calibration of low threshold dark matter detectors](./10-1103-fqgp-916r/README.md) | Physical Review D Accepted Paper (local full text: corresponding arXiv:2410.14722v1 author preprint; not VOR) | [10.1103/fqgp-916r](https://doi.org/10.1103/fqgp-916r) |
 | 2026-10-07 | [Effect of transition layer on wakefield in plasma waveguide](./arxiv-2610-06396/README.md) | arXiv preprint | [10.48550/arXiv.2610.06396](https://doi.org/10.48550/arXiv.2610.06396) |

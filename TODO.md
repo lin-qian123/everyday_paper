@@ -1,5 +1,7 @@
 # TODO
 
+- 2026-10-08：加载 420 条完成台账、24 条重试队列和历史 `daily/`；安装的多来源搜索层 3 个定向查询无结果，转用官方 arXiv、Crossref、APS、AIP 与 Taylor & Francis。新增 2 篇正式 VOR、2 篇 APS 正式/accepted 记录对应作者预印本和 1 篇 arXiv 全文；5 份 PDF 共 75 页通过文件、页数、哈希、文本及 15 个关键页目视检查，保留 5 幅关键图。台账增至 425 条；3 条高相关正式候选因全文不可达进入重试，使队列增至 27 条。严格区分实验测量、模型辅助机制/输运反演和单代码 PIC；本轮没有运行相关模型。
+
 - 2026-10-07：加载 415 条完成台账、22 条重试队列和历史 `daily/`；安装的多来源搜索层 3 个定向查询无结果，转用官方 arXiv、Crossref、Springer、APS、Taylor & Francis 与 IOP。新增 1 篇 EPJ Plus VOR、1 篇 APS accepted 对应作者预印本和 3 篇 arXiv 全文；5 份 PDF 共 67 页通过文件、页数、哈希、文本及 24 页渲染检查，保留 5 幅关键图。PHITS AI-agent 论文合并升级到正式 DOI，不重复计数；台账增至 420 条。HL-3 CXRS 复查仍为 HTML，PRE 毛细管和 JNST `99Tc(n,γ)` 新增重试，使队列增至 24 条。严格区分解析理论、GEANT4 设计、2.5D/1D PIC、玩具映射机器学习和正式出版元数据；本轮没有运行相关模型。
 
 ## 当前待办
@@ -9,7 +11,7 @@
 - [ ] 后续新增关键论文或原文版本更新时，修订对应综述章与比较结论；先核查当前快照和 R 编号，避免直接重排台账后留下错误引用。已发现的旧笔记公式/日期/参数问题见 `reviews/2026-frontiers/appendices/source-discrepancies.md`，需按原文逐项修订。
 
 - [ ] 将每日自动化主流程固定为：新增论文与笔记 -> 更新 `state/processed_articles.json` -> 运行 `python scripts/build_indexes.py` -> 提交并推送 `origin/master`。
-- [ ] 处理剩余 22 条未补回 PDF 的候选；其中 10 条为 Elsevier/ScienceDirect `HTTP 403`，1 条为 Nature `cookies_not_supported`，8 条为 IOP/Radware/HTML 验证页，另有 3 条 APS accepted / formal `HTTP 403` 或延迟开放候选。
+- [ ] 处理剩余 27 条未补回 PDF 的候选；其中 10 条为 Elsevier/ScienceDirect `HTTP 403`，1 条为 Nature cookie wall，8 条为 IOP/Radware/HTML 验证页，6 条为 APS accepted/formal `HTTP 403` 或延迟开放，另有 2 条 Taylor & Francis 正式论文 `HTTP 403`。
 - [ ] 为当前 65 条已补回 PDF 但尚无笔记的条目补中文结构化笔记。
 - [ ] 把每日自动化主流程接到 `scripts/retry_download_queue.py`，启动时先消化可恢复积压，避免配置恢复后仍只读旧 blocked-day 记录。
 - [ ] 为来源可达性预检补一层轻量检查，避免在明显 `403` / bot-wall 来源上重复空跑，并对 arXiv / DOI 这类开放来源单独标记“仅运行时阻塞”。
@@ -219,12 +221,14 @@
 
 ## 阻塞点
 
-- 队列里的 19 条非 APS 阻塞已明确是来源侧访问限制：10 条 Elsevier `HTTP 403`、1 条 Nature cookie wall、8 条 IOP/Radware/HTML 验证页。
-- APS `10.1103/p7k8-mjn7`、`10.1103/k23j-c9y7` 与 `10.1103/mmc9-nzfx` 仍在结构化重试队列；其中 `mmc9-nzfx` 的 accepted manuscript 标注延迟到 2027-09-10 开放。
+- 27 条重试均已明确为来源侧访问限制：10 条 Elsevier `HTTP 403`、1 条 Nature cookie wall、8 条 IOP/Radware/HTML 验证页、6 条 APS `HTTP 403`/延迟开放、2 条 Taylor & Francis `HTTP 403`。
+- APS `10.1103/p7k8-mjn7`、`10.1103/k23j-c9y7`、`10.1103/mmc9-nzfx`、`10.1103/yrts-62hs`、`10.1103/rds9-9p7r` 与 `10.1103/2dby-29s7` 仍在结构化重试队列；其中 `mmc9-nzfx` 的 accepted manuscript 标注延迟到 2027-09-10 开放。
 - APS 候选 `10.1103/d45l-hsgg` 已在 2026-09-23 通过 APS harvest 正式全文端点恢复并入库，不再属于阻塞候选；`10.1103/sgyf-lrw1` 与 `10.1103/2rqf-hq77` 仍待 version of record 或合法作者稿开放。
 - `2026-06-09` Cambridge/JPP 3 条、`2026-06-10` arXiv 3 条和 `2026-06-11` arXiv 3 条已在配置恢复后全部补回 PDF，不再是 runtime-blocked 积压。
 
 ## 下一步
+
+- 2026-10-08：台账已至 425 条，重试队列为 27 条。下轮先检查新的官方 arXiv 批次，并优先重查 `10.1103/2dby-29s7`、`10.1103/rds9-9p7r` 与 `10.1080/00223131.2026.2741954` 的正式全文或合法作者稿；空心通道需实验和跨代码稳定窗，烧蚀丝状场需自洽 E/B 分解，高 β 热流需直接波模诊断和 kinetic–fluid 闭合，激光丝 PWFA 需高重复频、长级联及完整束质验收，cnoidal wave 需压力条件澄清和模型选择检验。
 
 - 2026-10-07：台账已至 420 条，重试队列为 24 条。下轮先检查新的官方 arXiv 批次，并优先重查 `10.1088/1741-4326/aeb037`、`10.1103/yrts-62hs` 与 `10.1080/00223131.2026.2729210` 的正式全文或合法作者稿；量子对等离子体需动理学/大振幅验证，中子源需端到端建造和本底实测，波导需三维与束流品质验收，SympNet 需真实晶格及同精度成本对照，辐射激波需多维传播和观测响应闭合。
 

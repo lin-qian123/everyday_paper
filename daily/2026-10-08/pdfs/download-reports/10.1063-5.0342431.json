@@ -1,0 +1,13 @@
+{
+  "ok": true,
+  "output": "daily/2026-10-08/pdfs/Peebles et al. - 2026 - Proton probing laser ablation filaments.pdf",
+  "source_url": "https://pubs.aip.org/aip/pop/article-pdf/doi/10.1063/5.0342431/21160157/102703_1_5.0342431.pdf",
+  "mode": "direct",
+  "attempts": [
+    "[env-proxy] https://doi.org/10.1063/5.0342431 -> HTTP 403",
+    "[direct] https://doi.org/10.1063/5.0342431 -> not pdf (content-type=text/html; charset=utf-8)",
+    "[env-proxy] https://pubs.aip.org/aip/pop/article/33/10/102703/3405858/Proton-probing-measurements-of-filamentary -> HTTP 403",
+    "[direct] https://pubs.aip.org/aip/pop/article/33/10/102703/3405858/Proton-probing-measurements-of-filamentary -> not pdf (content-type=text/html; charset=utf-8)",
+    "[env-proxy] https://pubs.aip.org/aip/pop/article-pdf/doi/10.1063/5.0342431/21160157/102703_1_5.0342431.pdf -> HTTP 403"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "ok": false,
+  "output": "daily/2026-10-08/pdfs/blocked-rds9-9p7r.pdf",
+  "attempts": [
+    "[env-proxy] https://harvest.aps.org/v2/journals/articles/10.1103/rds9-9p7r/fulltext -> HTTP 404",
+    "[direct] https://harvest.aps.org/v2/journals/articles/10.1103/rds9-9p7r/fulltext -> HTTP 404",
+    "[env-proxy] https://doi.org/10.1103/rds9-9p7r -> HTTP 403",
+    "[direct] https://doi.org/10.1103/rds9-9p7r -> not pdf (content-type=text/html;charset=utf-8)",
+    "[env-proxy] https://journals.aps.org/prc/accepted/10.1103/rds9-9p7r -> HTTP 403",
+    "[direct] https://journals.aps.org/prc/accepted/10.1103/rds9-9p7r -> not pdf (content-type=text/html;charset=utf-8)"
+  ],
+  "failure_class": "publisher_http_403"
+}

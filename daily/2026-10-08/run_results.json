@@ -1,0 +1,81 @@
+{
+  "run_date": "2026-10-08",
+  "latest_arxiv_submission_date": "2026-10-06",
+  "search_summary": {
+    "sources": "installed multi-source search layer, official arXiv Atom API, Crossref 2026-10-06 through 2026-10-08 metadata, APS, AIP and Taylor & Francis",
+    "search_layer_queries": 3,
+    "search_layer_results": 0,
+    "crossref_unique_works": 388,
+    "crossref_keyword_filtered_works": 124,
+    "selection_basis": "formal-source priority, verified full text, recency, topic fit and non-duplication",
+    "coverage_claim": "targeted, not exhaustive",
+    "research_record": "daily/2026-10-08/research/"
+  },
+  "deduplication": {
+    "processed_before": 420,
+    "processed_after": 425,
+    "retry_before": 24,
+    "retry_after": 27,
+    "keys": [
+      "DOI or arXiv identifier",
+      "normalized title",
+      "source URL",
+      "historical daily folders",
+      "retry queue",
+      "formal version versus preprint title match",
+      "abstract and physical scenario"
+    ],
+    "legacy_cross_state_overlap": {
+      "identifier": "10.1016/j.jcp.2026.114707",
+      "reason": "pre-existing legacy record has pdf_path null in the processed ledger while retaining a PDF-download retry entry; no new overlap was introduced"
+    }
+  },
+  "added": [
+    "10.1103/13fz-y5wy",
+    "10.1063/5.0342431",
+    "10.1103/mmzz-gq7q",
+    "10.48550/arXiv.2610.08530",
+    "10.1103/qjd9-p6dy"
+  ],
+  "retry_removed": [],
+  "retry_added": [
+    "10.1103/rds9-9p7r",
+    "10.1080/00223131.2026.2741954",
+    "10.1103/2dby-29s7"
+  ],
+  "pdf_validation": {
+    "valid_documents": 5,
+    "formal_version_of_record_documents": 2,
+    "accepted_or_formal_author_preprints": 2,
+    "official_arxiv_documents": 1,
+    "total_bytes": 35113850,
+    "total_pages": 75,
+    "rendered_candidate_pages": 29,
+    "selected_and_visually_checked_pages": 15,
+    "decoded_key_figures": 5,
+    "mineru": "all five public-URL tasks failed; validated local layout-text and rendered-page fallback used",
+    "details": "daily/2026-10-08/pdf_validation.json"
+  },
+  "evidence_boundaries": [
+    "The hollow-channel paper reports fully 3D quasi-static PIC evidence only, without experimental or independent-code closure.",
+    "The OMEGA EP filament paper directly measures proton radiographs, while the electric-versus-magnetic decomposition and Weibel interpretation are model assisted.",
+    "The cnoidal-wave paper reports probe measurements, fits and bicoherence; its local full text is an author preprint and the mechanism is not uniquely identified.",
+    "The Orion paper directly observes stochastic magnetic structures and temperature histories, while the whistler attribution and five-to-seven-percent Spitzer conductivity are model-assisted inferences.",
+    "The laser-filament wakefield paper directly reports 100-shot energy spectra at 10 Hz and 3 cm; tens-of-kilohertz and long-stage operation are future extrapolations.",
+    "No QuickPIC, FBPIC, FLASH, proton-tracking, spectral-fitting or bicoherence computation was performed locally."
+  ],
+  "validation": {
+    "index_builder": "Indexed 425 papers across 9 categories.",
+    "pytest": "7 passed via PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q",
+    "unittest": "7 tests passed via python -m unittest discover -s tests -v",
+    "ledger_checks": "425 records parsed; 421 non-null identifiers are unique; all 425 normalized titles are unique; 27 retry identifiers are unique; no new cross-state overlap",
+    "pdf_header_size_hash_metadata_text_check": "passed for five PDFs totaling 75 pages",
+    "download_report_check": "eight reports parsed: five selected papers and three retry attempts",
+    "markdown_link_check": "34 local links in the daily index, five notes and five affected generated paper pages resolved after URL decoding",
+    "image_check": "five PNG figures decoded successfully; 15 selected PDF pages were visually inspected",
+    "diff_check": "git diff --check passed",
+    "ignored_artifacts": "the five daily PDFs and extracted-text artifacts are Git-ignored"
+  },
+  "git": "commit and push to origin/master after final staging validation",
+  "status": "success"
+}

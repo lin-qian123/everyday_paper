@@ -5067,5 +5067,86 @@
       "hedp-icf-laboratory-astrophysics"
     ],
     "normalized_title": "radiation reaction in relativistic magnetized shocks of neutron star magnetospheres"
+  },
+  {
+    "title": "Evolution of transversely asymmetric electron beams in hollow plasma channels",
+    "doi": "10.1103/13fz-y5wy",
+    "journal": "Physical Review Accelerators and Beams (formal version of record)",
+    "publication_date": "2026-10-07",
+    "processed_date": "2026-10-08",
+    "source_url": "https://doi.org/10.1103/13fz-y5wy",
+    "pdf_path": "daily/2026-10-08/pdfs/Ding et al. - 2026 - Asymmetric beams in hollow plasma channels.pdf",
+    "note_path": "daily/2026-10-08/notes/Ding et al. - 2026 - Asymmetric beams in hollow plasma channels.md",
+    "categories": [
+      "laser-plasma-acceleration",
+      "pic-and-plasma-simulation",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "evolution of transversely asymmetric electron beams in hollow plasma channels"
+  },
+  {
+    "title": "Proton probing measurements of filamentary electromagnetic structure in laser ablation of solids",
+    "doi": "10.1063/5.0342431",
+    "journal": "Physics of Plasmas (formal version of record)",
+    "publication_date": "2026-10-02",
+    "processed_date": "2026-10-08",
+    "source_url": "https://doi.org/10.1063/5.0342431",
+    "pdf_path": "daily/2026-10-08/pdfs/Peebles et al. - 2026 - Proton probing laser ablation filaments.pdf",
+    "note_path": "daily/2026-10-08/notes/Peebles et al. - 2026 - Proton probing laser ablation filaments.md",
+    "categories": [
+      "hedp-icf-laboratory-astrophysics",
+      "experimental-platforms-diagnostics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "proton probing measurements of filamentary electromagnetic structure in laser ablation of solids"
+  },
+  {
+    "title": "Experimental observation of drift acoustic cnoidal waves in a magnetized plasma",
+    "doi": "10.1103/mmzz-gq7q",
+    "journal": "Physical Review E formal metadata (local full text: corresponding arXiv:2604.19927v1 author preprint; not VOR)",
+    "publication_date": "2026-10-07",
+    "processed_date": "2026-10-08",
+    "source_url": "https://doi.org/10.1103/mmzz-gq7q",
+    "pdf_url": "https://arxiv.org/pdf/2604.19927",
+    "pdf_path": "daily/2026-10-08/pdfs/Karmakar et al. - 2026 - Drift acoustic cnoidal waves.pdf",
+    "note_path": "daily/2026-10-08/notes/Karmakar et al. - 2026 - Drift acoustic cnoidal waves.md",
+    "categories": [
+      "experimental-platforms-diagnostics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "experimental observation of drift acoustic cnoidal waves in a magnetized plasma"
+  },
+  {
+    "title": "Experimental observations of microturbulence-suppressed parallel heat conduction in a weakly collisional, high-β plasma",
+    "doi": "10.48550/arXiv.2610.08530",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-06",
+    "processed_date": "2026-10-08",
+    "source_url": "https://arxiv.org/abs/2610.08530",
+    "pdf_path": "daily/2026-10-08/pdfs/Vincent et al. - 2026 - Microturbulence suppressed heat conduction.pdf",
+    "note_path": "daily/2026-10-08/notes/Vincent et al. - 2026 - Microturbulence suppressed heat conduction.md",
+    "categories": [
+      "hedp-icf-laboratory-astrophysics",
+      "experimental-platforms-diagnostics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "experimental observations of microturbulence suppressed parallel heat conduction in a weakly collisional high β plasma"
+  },
+  {
+    "title": "Experimental Demonstration of Beam-Driven Wakefield Acceleration in Laser-Plasma Filament",
+    "doi": "10.1103/qjd9-p6dy",
+    "journal": "Physical Review E Accepted Paper (local full text: corresponding arXiv:2602.22841v1 author preprint; not VOR)",
+    "publication_date": "2026-09-29",
+    "processed_date": "2026-10-08",
+    "source_url": "https://doi.org/10.1103/qjd9-p6dy",
+    "pdf_url": "https://arxiv.org/pdf/2602.22841",
+    "pdf_path": "daily/2026-10-08/pdfs/Galletti et al. - 2026 - Beam-driven acceleration in laser-plasma filament.pdf",
+    "note_path": "daily/2026-10-08/notes/Galletti et al. - 2026 - Beam-driven acceleration in laser-plasma filament.md",
+    "categories": [
+      "laser-plasma-acceleration",
+      "experimental-platforms-diagnostics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "experimental demonstration of beam driven wakefield acceleration in laser plasma filament"
   }
 ]

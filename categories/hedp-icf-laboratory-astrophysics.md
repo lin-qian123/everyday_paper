@@ -2,11 +2,13 @@
 
 HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。
 
-- 当前收录：110 篇
-- 索引更新时间：2026-10-07
+- 当前收录：112 篇
+- 索引更新时间：2026-10-08
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-08 | [Experimental observations of microturbulence-suppressed parallel heat conduction in a weakly collisional, high-β plasma](../papers/arxiv-2610-08530/README.md) | arXiv preprint | [笔记](../daily/2026-10-08/notes/Vincent et al. - 2026 - Microturbulence suppressed heat conduction.md) |
+| 2026-10-08 | [Proton probing measurements of filamentary electromagnetic structure in laser ablation of solids](../papers/10-1063-5-0342431/README.md) | Physics of Plasmas (formal version of record) | [笔记](../daily/2026-10-08/notes/Peebles et al. - 2026 - Proton probing laser ablation filaments.md) |
 | 2026-10-07 | [Nonlinear excitations in a relativistic pair plasma with quantum corrections](../papers/10-1140-epjp-s13360-026-08377-y/README.md) | The European Physical Journal Plus (formal version of record) | [笔记](../daily/2026-10-07/notes/Imran et al. - 2026 - Quantum relativistic pair plasma nonlinear excitations.md) |
 | 2026-10-07 | [Radiation Reaction in Relativistic Magnetized Shocks of Neutron Star Magnetospheres](../papers/arxiv-2610-05386/README.md) | arXiv preprint | [笔记](../daily/2026-10-07/notes/Vanthieghem and Levinson - 2026 - Radiation reaction in relativistic magnetized shocks.md) |
 | 2026-10-06 | [Characterization and optimization of a laser-produced x-ray source for x-ray radiography](../papers/10-1063-5-0323034/README.md) | Review of Scientific Instruments (formal version of record) | [笔记](../daily/2026-10-06/notes/Benkadoum et al. - 2026 - Laser X-ray radiography source.md) |

@@ -1,0 +1,83 @@
+{
+  "run_date": "2026-10-08",
+  "checks": [
+    "%PDF- header",
+    "file type",
+    "nonzero byte count",
+    "SHA-256",
+    "pdfinfo page count",
+    "nonempty pdftotext -layout",
+    "selected-page rendering and visual inspection"
+  ],
+  "mineru": {
+    "attempted_documents": 5,
+    "completed_documents": 0,
+    "status": "failed_with_local_fallback",
+    "reason": "All five corresponding public-URL tasks failed: APS harvest returned parsing failed, the AIP URL could not be read, and all three arXiv URL tasks returned parsing failed. Validated local PDFs, layout text, 29 rendered candidate pages and 15 visually inspected key pages were used as the documented fallback."
+  },
+  "documents": [
+    {
+      "identifier": "10.1103/13fz-y5wy",
+      "path": "daily/2026-10-08/pdfs/Ding et al. - 2026 - Asymmetric beams in hollow plasma channels.pdf",
+      "bytes": 1090446,
+      "sha256": "d6e6df1ad0a1caf11d6c3b1bc8a32c3221aa7de76e0d29421bd8a0986d4d772b",
+      "pages": 11,
+      "text_bytes": 75714,
+      "rendered_pages": [1, 3, 5, 7, 8],
+      "source_note": "APS formal version of record.",
+      "status": "passed"
+    },
+    {
+      "identifier": "10.1063/5.0342431",
+      "path": "daily/2026-10-08/pdfs/Peebles et al. - 2026 - Proton probing laser ablation filaments.pdf",
+      "bytes": 3878472,
+      "sha256": "5f1017cc77bb9a625b0ec11fdc25c7d11d1c8c2798041bdba014a98e048a7950",
+      "pages": 14,
+      "text_bytes": 92765,
+      "rendered_pages": [2, 4, 5, 9, 10, 11],
+      "source_note": "AIP formal version of record.",
+      "status": "passed"
+    },
+    {
+      "identifier": "10.1103/mmzz-gq7q",
+      "path": "daily/2026-10-08/pdfs/Karmakar et al. - 2026 - Drift acoustic cnoidal waves.pdf",
+      "bytes": 4335434,
+      "sha256": "e488cb5820a91029237dd36ac422dac292f0af0fff099c6de745a4f1894cb373",
+      "pages": 12,
+      "text_bytes": 62744,
+      "rendered_pages": [1, 4, 5, 8, 9, 10],
+      "source_note": "APS formal metadata; local full text is the corresponding official arXiv:2604.19927v1 author preprint, not the VOR.",
+      "status": "passed"
+    },
+    {
+      "identifier": "10.48550/arXiv.2610.08530",
+      "path": "daily/2026-10-08/pdfs/Vincent et al. - 2026 - Microturbulence suppressed heat conduction.pdf",
+      "bytes": 23390702,
+      "sha256": "7378d67fa45fc61eaf87328a492a2583aa2e670d069dbe67787282902fffe17a",
+      "pages": 17,
+      "text_bytes": 101707,
+      "rendered_pages": [1, 3, 4, 5, 6, 13],
+      "source_note": "Official arXiv PDF.",
+      "status": "passed"
+    },
+    {
+      "identifier": "10.1103/qjd9-p6dy",
+      "path": "daily/2026-10-08/pdfs/Galletti et al. - 2026 - Beam-driven acceleration in laser-plasma filament.pdf",
+      "bytes": 2418796,
+      "sha256": "08f8fddb3ab188daa01fc90264ce24965afcaba4bccf80831f6517302fe3f74d",
+      "pages": 21,
+      "text_bytes": 53096,
+      "rendered_pages": [1, 4, 6, 7, 8, 9],
+      "source_note": "APS accepted paper metadata; local full text is the corresponding official arXiv:2602.22841v1 author preprint, not the VOR.",
+      "status": "passed"
+    }
+  ],
+  "total_pdf_bytes": 35113850,
+  "total_text_bytes": 386026,
+  "total_pages": 75,
+  "rendered_candidate_pages": 29,
+  "selected_and_visually_checked_pages": 15,
+  "decoded_key_figures": 5,
+  "valid_documents": 5,
+  "status": "passed"
+}
