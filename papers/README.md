@@ -1,10 +1,15 @@
 # 论文总索引
 
-- 当前入库论文：425 篇
-- 索引更新时间：2026-10-08
+- 当前入库论文：430 篇
+- 索引更新时间：2026-10-09
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-10-09 | [Real-time Tokamak Equilibrium Reconstruction Under Limited Experimental Data via Physics-Grounded Synthetic Pre-training](./arxiv-2610-09674/README.md) | arXiv preprint | [10.48550/arXiv.2610.09674](https://doi.org/10.48550/arXiv.2610.09674) |
+| 2026-10-09 | [High-order harmonic generation in ion- and nanoparticle-containing aluminum laser-induced plasma](./10-1063-5-0350047/README.md) | Physics of Plasmas 33, 103302 (formal version of record) | [10.1063/5.0350047](https://doi.org/10.1063/5.0350047) |
+| 2026-10-09 | [Omnidirectional Radiation Detector with Perpendicular Dual Silicon Photomultiplier Readout - Directional Sensitivity and Machine Learning Source Positioning](./arxiv-2610-08195/README.md) | arXiv preprint | [10.48550/arXiv.2610.08195](https://doi.org/10.48550/arXiv.2610.08195) |
+| 2026-10-09 | [A Differentiable Surrogate for Loss-Dominated Ion Beam Transport](./arxiv-2610-08877/README.md) | arXiv preprint | [10.48550/arXiv.2610.08877](https://doi.org/10.48550/arXiv.2610.08877) |
+| 2026-10-09 | [Novel radiative trapping mechanism in ultra-intense laser–plasma interactions](./10-1063-5-0341085/README.md) | Matter and Radiation at Extremes 11, 065201 (formal version of record, CC BY) | [10.1063/5.0341085](https://doi.org/10.1063/5.0341085) |
 | 2026-10-08 | [Evolution of transversely asymmetric electron beams in hollow plasma channels](./10-1103-13fz-y5wy/README.md) | Physical Review Accelerators and Beams (formal version of record) | [10.1103/13fz-y5wy](https://doi.org/10.1103/13fz-y5wy) |
 | 2026-10-08 | [Experimental observation of drift acoustic cnoidal waves in a magnetized plasma](./10-1103-mmzz-gq7q/README.md) | Physical Review E formal metadata (local full text: corresponding arXiv:2604.19927v1 author preprint; not VOR) | [10.1103/mmzz-gq7q](https://doi.org/10.1103/mmzz-gq7q) |
 | 2026-10-08 | [Experimental observations of microturbulence-suppressed parallel heat conduction in a weakly collisional, high-β plasma](./arxiv-2610-08530/README.md) | arXiv preprint | [10.48550/arXiv.2610.08530](https://doi.org/10.48550/arXiv.2610.08530) |
@@ -350,6 +355,7 @@
 | 2026-06-08 | [Neural network-based deconvolution for GeV-Scale Gamma-Ray Spectroscopy](./10-1017-hpl-2026-10142/README.md) | High Power Laser Science and Engineering（Accepted manuscript，官方已接收） | [10.1017/hpl.2026.10142](https://doi.org/10.1017/hpl.2026.10142) |
 | 2026-06-08 | [Plasma rotation driven by lasers with zero angular momentum](./10-1017-s0022377825101062/README.md) | Journal of Plasma Physics（正式期刊，Open Access） | [10.1017/S0022377825101062](https://doi.org/10.1017/S0022377825101062) |
 | 2026-06-08 | [Generation of X-ray Spatiotemporal Vortices via Nonlinear Thomson Scattering](./10-1017-hpl-2026-10117/README.md) | High Power Laser Science and Engineering（Accepted manuscript，官方已接收） | [10.1017/hpl.2026.10117](https://doi.org/10.1017/hpl.2026.10117) |
+| 2026-06-06 | [Revealing Laser and Electron Beam Evolution in 10-GeV-class Laser-Plasma Accelerators](./10-1103-qqcv-f29q/README.md) | Physical Review Research 8, 033352 (formal version of record, CC BY) | [10.1103/qqcv-f29q](https://doi.org/10.1103/qqcv-f29q) |
 | 2026-06-06 | [Explainable tokamak-agnostic forecasting of fusion plasma instability via megahertz turbulent fluctuations](./10-1038-s42005-026-02689-2/README.md) | Communications Physics（正式期刊） | [10.1038/s42005-026-02689-2](https://doi.org/10.1038/s42005-026-02689-2) |
 | 2026-06-06 | [Quasi-monoenergetic deuteron acceleration via boosted coulomb explosion by reflected picosecond laser pulse](./10-1038-s41467-026-73196-9/README.md) | Nature Communications（正式期刊） | [10.1038/s41467-026-73196-9](https://doi.org/10.1038/s41467-026-73196-9) |
 | 2026-06-06 | [Dual-picosecond-laser-driven generation of MV/m giant electromagnetic pulses](./dual-picosecond-laser-driven-generation-of-mv-m-giant-electromagnetic-pulses/README.md) | High Power Laser Science and Engineering |  |
@@ -357,7 +363,6 @@
 | 2026-06-06 | [Ultrafast many-body dynamics of dense Rydberg gases and ultracold plasma](./10-1038-s42005-026-02674-9/README.md) | Communications Physics（正式期刊） | [10.1038/s42005-026-02674-9](https://doi.org/10.1038/s42005-026-02674-9) |
 | 2026-06-06 | [FusionMAE, a self-supervised pretrained model to optimize and simplify diagnostic and control of fusion plasma](./10-1038-s42005-026-02626-3/README.md) | Communications Physics（正式期刊） | [10.1038/s42005-026-02626-3](https://doi.org/10.1038/s42005-026-02626-3) |
 | 2026-06-06 | [Compensation of Carrier Envelope Phase Slip using Machine Learning](./10-1017-hpl-2026-10129/README.md) | High Power Laser Science and Engineering | [10.1017/hpl.2026.10129](https://doi.org/10.1017/hpl.2026.10129) |
-| 2026-06-06 | [Revealing Laser and Electron Beam Evolution in 10-GeV-class Laser-Plasma Accelerators](./arxiv-2604-25823/README.md) | arXiv (preprint)（高质量预印本） | [10.48550/arXiv.2604.25823](https://doi.org/10.48550/arXiv.2604.25823) |
 | 2026-06-06 | [X-ray tomography of damage dynamics in advanced materials using a laser wakefield accelerator](./10-1038-s41598-026-47926-4/README.md) | Scientific Reports（正式期刊） | [10.1038/s41598-026-47926-4](https://doi.org/10.1038/s41598-026-47926-4) |
 | 2026-06-06 | [Efficiency-optimized relativistic plasma harmonics for extreme fields](./10-1038-s41586-026-10400-2/README.md) | Nature（正式期刊） | [10.1038/s41586-026-10400-2](https://doi.org/10.1038/s41586-026-10400-2) |
 | 2026-06-06 | [Attosecond Nonlinear Quantum Electrodynamics in Laser-Driven Plasmas via Two-Photon Synchrotron Emission](./arxiv-2604-20672/README.md) | arXiv (preprint)（高质量预印本） | [10.48550/arXiv.2604.20672](https://doi.org/10.48550/arXiv.2604.20672) |

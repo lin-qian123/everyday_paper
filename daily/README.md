@@ -4,7 +4,8 @@
 
 | 日期 | 当日索引 | 运行结果 |
 | --- | --- | --- |
-| 2026-10-08 | [index.md](./2026-10-08/index.md) |  |
+| 2026-10-09 | [index.md](./2026-10-09/index.md) | [run_results.json](./2026-10-09/run_results.json) |
+| 2026-10-08 | [index.md](./2026-10-08/index.md) | [run_results.json](./2026-10-08/run_results.json) |
 | 2026-10-07 | [index.md](./2026-10-07/index.md) | [run_results.json](./2026-10-07/run_results.json) |
 | 2026-10-06 | [index.md](./2026-10-06/index.md) | [run_results.json](./2026-10-06/run_results.json) |
 | 2026-10-05 | [index.md](./2026-10-05/index.md) | [run_results.json](./2026-10-05/run_results.json) |

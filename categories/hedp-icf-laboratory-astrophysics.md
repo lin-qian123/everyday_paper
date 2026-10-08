@@ -2,11 +2,12 @@
 
 HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。
 
-- 当前收录：112 篇
-- 索引更新时间：2026-10-08
+- 当前收录：113 篇
+- 索引更新时间：2026-10-09
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-09 | [Novel radiative trapping mechanism in ultra-intense laser–plasma interactions](../papers/10-1063-5-0341085/README.md) | Matter and Radiation at Extremes 11, 065201 (formal version of record, CC BY) | [笔记](../daily/2026-10-09/notes/Zhou et al. - 2026 - Novel radiative trapping mechanism.md) |
 | 2026-10-08 | [Experimental observations of microturbulence-suppressed parallel heat conduction in a weakly collisional, high-β plasma](../papers/arxiv-2610-08530/README.md) | arXiv preprint | [笔记](../daily/2026-10-08/notes/Vincent et al. - 2026 - Microturbulence suppressed heat conduction.md) |
 | 2026-10-08 | [Proton probing measurements of filamentary electromagnetic structure in laser ablation of solids](../papers/10-1063-5-0342431/README.md) | Physics of Plasmas (formal version of record) | [笔记](../daily/2026-10-08/notes/Peebles et al. - 2026 - Proton probing laser ablation filaments.md) |
 | 2026-10-07 | [Nonlinear excitations in a relativistic pair plasma with quantum corrections](../papers/10-1140-epjp-s13360-026-08377-y/README.md) | The European Physical Journal Plus (formal version of record) | [笔记](../daily/2026-10-07/notes/Imran et al. - 2026 - Quantum relativistic pair plasma nonlinear excitations.md) |

@@ -3,7 +3,7 @@
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
 - 当前收录：136 篇
-- 索引更新时间：2026-10-08
+- 索引更新时间：2026-10-09
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
@@ -109,8 +109,8 @@ LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯
 | 2026-06-11 | [Plasma wakefield dynamics of self-generated electron bunch trains](../papers/arxiv-2606-06232/README.md) | arXiv 预印本（高相关补充） | 未生成 |
 | 2026-06-11 | [Simulation Design for Velocity-Controlled Spatio-Temporal Drivers in Laser Wakefield Acceleration](../papers/arxiv-2603-28473/README.md) | arXiv 预印本（高相关补充） | 未生成 |
 | 2026-06-08 | [High-repetition-rate, all-reflective optical guiding and electron acceleration in helium using an off-axis axicon](../papers/10-1017-hpl-2026-10154/README.md) | High Power Laser Science and Engineering（Accepted manuscript，官方已接收） | 未生成 |
+| 2026-06-06 | [Revealing Laser and Electron Beam Evolution in 10-GeV-class Laser-Plasma Accelerators](../papers/10-1103-qqcv-f29q/README.md) | Physical Review Research 8, 033352 (formal version of record, CC BY) | [笔记](../daily/2026-10-09/notes/Tang et al. - 2026 - 10-GeV laser-plasma accelerator evolution.md) |
 | 2026-06-06 | [Quasi-monoenergetic deuteron acceleration via boosted coulomb explosion by reflected picosecond laser pulse](../papers/10-1038-s41467-026-73196-9/README.md) | Nature Communications（正式期刊） | 未生成 |
-| 2026-06-06 | [Revealing Laser and Electron Beam Evolution in 10-GeV-class Laser-Plasma Accelerators](../papers/arxiv-2604-25823/README.md) | arXiv (preprint)（高质量预印本） | 未生成 |
 | 2026-06-06 | [X-ray tomography of damage dynamics in advanced materials using a laser wakefield accelerator](../papers/10-1038-s41598-026-47926-4/README.md) | Scientific Reports（正式期刊） | 未生成 |
 | 2026-06-06 | [All-optically controllable electron and X-ray sources from microchannel-guided direct laser acceleration](../papers/10-1017-hpl-2025-10096/README.md) | High Power Laser Science and Engineering | 未生成 |
 | 2026-06-06 | [Efficient generation of a 100 nC electron beam via self-mode transition from LWFA to PWFA](../papers/10-1017-hpl-2025-10093/README.md) | High Power Laser Science and Engineering | 未生成 |

@@ -1,0 +1,13 @@
+{
+  "ok": false,
+  "output": "daily/2026-10-09/pdfs/Du et al. - 2026 - Room-temperature targets for laser direct-drive fusion.pdf",
+  "attempts": [
+    "[env-proxy] https://iopscience.iop.org/article/10.1088/1741-4326/aeb1db/pdf -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[direct] https://iopscience.iop.org/article/10.1088/1741-4326/aeb1db/pdf -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[env-proxy] https://doi.org/10.1088/1741-4326/aeb1db -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[direct] https://doi.org/10.1088/1741-4326/aeb1db -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[env-proxy] https://iopscience.iop.org/article/10.1088/1741-4326/aeb1db -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[direct] https://iopscience.iop.org/article/10.1088/1741-4326/aeb1db -> not pdf (content-type=text/html; charset=UTF-8)"
+  ],
+  "failure_class": "html_instead_of_pdf"
+}

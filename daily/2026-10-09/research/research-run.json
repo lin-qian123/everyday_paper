@@ -1,0 +1,29 @@
+{
+  "run_id": "2026-10-09-daily-paper",
+  "run_date": "2026-10-09",
+  "status": "success",
+  "coverage_claim": "targeted official-source search, not exhaustive",
+  "search_layer_queries": 3,
+  "search_layer_results": 0,
+  "crossref_queries": 5,
+  "crossref_rows_per_query": 100,
+  "crossref_keyword_filtered_unique_works": 196,
+  "latest_arxiv_submission_date": "2026-10-07",
+  "selected_identifiers": ["10.1063/5.0350047","10.1063/5.0341085","10.48550/arXiv.2610.09674","10.48550/arXiv.2610.08195","10.48550/arXiv.2610.08877","10.1103/qqcv-f29q"],
+  "version_updated": ["10.48550/arXiv.2604.25823 -> 10.1103/qqcv-f29q"],
+  "retry_added": ["10.1088/1741-4326/aeb1db"],
+  "processed_before": 425,
+  "processed_after": 430,
+  "retry_before": 27,
+  "retry_after": 28,
+  "validation": {
+    "index_builder": "Indexed 430 papers across 9 categories.",
+    "pytest": "7 passed",
+    "unittest": "7 passed",
+    "ledger": "430 normalized titles and 426 non-null identifiers are unique; 28 retry identifiers are unique; only the pre-existing legacy cross-state overlap remains",
+    "pdfs": "6 documents totaling 89 pages passed header, type, size, SHA-256, pdfinfo and non-empty layout-text checks",
+    "images": "6 PNG figures decoded; 12 selected PDF pages were visually inspected",
+    "links": "42 local links across the daily index, six notes and six affected generated paper pages resolved after URL decoding",
+    "diff_check": "git diff --check passed"
+  }
+}

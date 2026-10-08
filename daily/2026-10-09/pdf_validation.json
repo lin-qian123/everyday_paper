@@ -1,0 +1,25 @@
+{
+  "run_date": "2026-10-09",
+  "checks": ["%PDF- header", "file type", "nonzero byte count", "SHA-256", "pdfinfo page count", "nonempty pdftotext -layout", "selected-page rendering and visual inspection"],
+  "mineru": {
+    "attempted_documents": 6,
+    "completed_documents": 0,
+    "status": "failed_with_local_fallback",
+    "reason": "All six public-URL jobs failed: both AIP URLs could not be read and APS/arXiv jobs returned parsing failed. Validated local PDFs, 434055 bytes of layout text, 12 visually inspected key pages and six decoded figure crops were used as the documented fallback."
+  },
+  "documents": [
+    {"identifier":"10.1063/5.0350047","path":"daily/2026-10-09/pdfs/Ganeev - 2026 - High-order harmonic generation in aluminum plasma.pdf","bytes":2439018,"sha256":"0597256231196b6008780c0b4d7da42aaf0b385ccd0a4e14219fe9c299656d16","pages":12,"text_bytes":93901,"rendered_pages":[6,7],"source_note":"AIP formal version of record.","status":"passed"},
+    {"identifier":"10.48550/arXiv.2610.09674","path":"daily/2026-10-09/pdfs/He et al. - 2026 - Tokamak equilibrium reconstruction via synthetic pretraining.pdf","bytes":7227543,"sha256":"65320b72942bb7fa50458a3a0bda39aec4a7e8641f0e9da2edfb6486cff6c496","pages":21,"text_bytes":74352,"rendered_pages":[15,16],"source_note":"Official arXiv PDF.","status":"passed"},
+    {"identifier":"10.48550/arXiv.2610.08195","path":"daily/2026-10-09/pdfs/Kozuljevic et al. - 2026 - Omnidirectional gamma detector with ML positioning.pdf","bytes":3604712,"sha256":"948659b9ebded40c2ac456aad7af971464642ff43864ce804b990be95da5f443","pages":20,"text_bytes":70721,"rendered_pages":[9,13],"source_note":"Official arXiv PDF.","status":"passed"},
+    {"identifier":"10.48550/arXiv.2610.08877","path":"daily/2026-10-09/pdfs/Munoz-Arias et al. - 2026 - Differentiable ion beam transport surrogate.pdf","bytes":3601094,"sha256":"8b2c0047243e734403d27f707122aea7242076f5e9793d55c73f2f224146aed7","pages":17,"text_bytes":71168,"rendered_pages":[4,5],"source_note":"Official arXiv PDF.","status":"passed"},
+    {"identifier":"10.1103/qqcv-f29q","path":"daily/2026-10-09/pdfs/Tang et al. - 2026 - 10-GeV laser-plasma accelerator evolution.pdf","bytes":1212798,"sha256":"2ae66b5ea89e609f73d531732914604868460502a6d9727e691756055c5431e1","pages":8,"text_bytes":56612,"rendered_pages":[3,5],"source_note":"APS formal version of record.","status":"passed"},
+    {"identifier":"10.1063/5.0341085","path":"daily/2026-10-09/pdfs/Zhou et al. - 2026 - Novel radiative trapping mechanism.pdf","bytes":9139355,"sha256":"055358a253a670623daee9bd518c71922e624d7f819d810161017c195307498e","pages":11,"text_bytes":67301,"rendered_pages":[4,10],"source_note":"AIP formal version of record, CC BY.","status":"passed"}
+  ],
+  "total_pdf_bytes": 27224520,
+  "total_text_bytes": 434055,
+  "total_pages": 89,
+  "selected_and_visually_checked_pages": 12,
+  "decoded_key_figures": 6,
+  "valid_documents": 6,
+  "status": "passed"
+}

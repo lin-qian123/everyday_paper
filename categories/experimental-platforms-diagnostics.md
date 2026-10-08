@@ -2,11 +2,13 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：130 篇
-- 索引更新时间：2026-10-08
+- 当前收录：133 篇
+- 索引更新时间：2026-10-09
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-09 | [High-order harmonic generation in ion- and nanoparticle-containing aluminum laser-induced plasma](../papers/10-1063-5-0350047/README.md) | Physics of Plasmas 33, 103302 (formal version of record) | [笔记](../daily/2026-10-09/notes/Ganeev - 2026 - High-order harmonic generation in aluminum plasma.md) |
+| 2026-10-09 | [Omnidirectional Radiation Detector with Perpendicular Dual Silicon Photomultiplier Readout - Directional Sensitivity and Machine Learning Source Positioning](../papers/arxiv-2610-08195/README.md) | arXiv preprint | [笔记](../daily/2026-10-09/notes/Kozuljevic et al. - 2026 - Omnidirectional gamma detector with ML positioning.md) |
 | 2026-10-08 | [Experimental observation of drift acoustic cnoidal waves in a magnetized plasma](../papers/10-1103-mmzz-gq7q/README.md) | Physical Review E formal metadata (local full text: corresponding arXiv:2604.19927v1 author preprint; not VOR) | [笔记](../daily/2026-10-08/notes/Karmakar et al. - 2026 - Drift acoustic cnoidal waves.md) |
 | 2026-10-08 | [Experimental observations of microturbulence-suppressed parallel heat conduction in a weakly collisional, high-β plasma](../papers/arxiv-2610-08530/README.md) | arXiv preprint | [笔记](../daily/2026-10-08/notes/Vincent et al. - 2026 - Microturbulence suppressed heat conduction.md) |
 | 2026-10-08 | [Proton probing measurements of filamentary electromagnetic structure in laser ablation of solids](../papers/10-1063-5-0342431/README.md) | Physics of Plasmas (formal version of record) | [笔记](../daily/2026-10-08/notes/Peebles et al. - 2026 - Proton probing laser ablation filaments.md) |
@@ -130,6 +132,7 @@
 | 2026-06-11 | [Suppression and Enhancement of Electromagnetic Pulses from Laser-Target Interactions by Strong Magnetic Fields](../papers/10-1017-hpl-2026-10147/README.md) | High Power Laser Science and Engineering（Accepted manuscript，官方已接收） | 未生成 |
 | 2026-06-08 | [Experimental investigation of SRS and SBS growth in thick and exploded foil targets in smoothed and unsmoothed beam interactions](../papers/experimental-investigation-of-srs-and-sbs-growth-in-thick-and-exploded-foil-targets-in-smoothed-/README.md) | High Power Laser Science and Engineering（Accepted manuscript，官方已接收） | 未生成 |
 | 2026-06-08 | [High-repetition-rate, all-reflective optical guiding and electron acceleration in helium using an off-axis axicon](../papers/10-1017-hpl-2026-10154/README.md) | High Power Laser Science and Engineering（Accepted manuscript，官方已接收） | 未生成 |
+| 2026-06-06 | [Revealing Laser and Electron Beam Evolution in 10-GeV-class Laser-Plasma Accelerators](../papers/10-1103-qqcv-f29q/README.md) | Physical Review Research 8, 033352 (formal version of record, CC BY) | [笔记](../daily/2026-10-09/notes/Tang et al. - 2026 - 10-GeV laser-plasma accelerator evolution.md) |
 | 2026-06-06 | [FusionMAE, a self-supervised pretrained model to optimize and simplify diagnostic and control of fusion plasma](../papers/10-1038-s42005-026-02626-3/README.md) | Communications Physics（正式期刊） | 未生成 |
 | 2026-06-06 | [Femtosecond laser-driven ultrafast X-ray dynamics experimental station](../papers/10-11884-hplpb202638-250382/README.md) | High Power Laser and Particle Beams（正式期刊） | 未生成 |
 | 2026-06-06 | [ARISE: an algorithm for rapid ion spectrum extraction enabling real-time optimisation in high-repetition-rate laser-driven ion acceleration](../papers/10-1017-hpl-2025-10083/README.md) | High Power Laser Science and Engineering（正式期刊） | 未生成 |

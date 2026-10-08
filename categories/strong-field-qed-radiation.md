@@ -2,11 +2,13 @@
 
 强场量子效应、辐射反作用、非线性 Compton、pair production 与极端场实验。
 
-- 当前收录：68 篇
-- 索引更新时间：2026-10-08
+- 当前收录：70 篇
+- 索引更新时间：2026-10-09
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-09 | [High-order harmonic generation in ion- and nanoparticle-containing aluminum laser-induced plasma](../papers/10-1063-5-0350047/README.md) | Physics of Plasmas 33, 103302 (formal version of record) | [笔记](../daily/2026-10-09/notes/Ganeev - 2026 - High-order harmonic generation in aluminum plasma.md) |
+| 2026-10-09 | [Novel radiative trapping mechanism in ultra-intense laser–plasma interactions](../papers/10-1063-5-0341085/README.md) | Matter and Radiation at Extremes 11, 065201 (formal version of record, CC BY) | [笔记](../daily/2026-10-09/notes/Zhou et al. - 2026 - Novel radiative trapping mechanism.md) |
 | 2026-10-07 | [Radiation Reaction in Relativistic Magnetized Shocks of Neutron Star Magnetospheres](../papers/arxiv-2610-05386/README.md) | arXiv preprint | [笔记](../daily/2026-10-07/notes/Vanthieghem and Levinson - 2026 - Radiation reaction in relativistic magnetized shocks.md) |
 | 2026-09-30 | [A high-flux electron detection system to measure non-linear Compton scattering at LUXE](../papers/arxiv-2609-35519/README.md) | arXiv preprint | [笔记](../daily/2026-09-30/notes/Athanassiadis et al. - 2026 - LUXE high-flux electron detector.md) |
 | 2026-09-30 | [Generating Vector-Vortex gamma Photons by Nonlinear Compton Scattering](../papers/arxiv-2609-35208/README.md) | arXiv preprint | [笔记](../daily/2026-09-30/notes/Ren et al. - 2026 - Vector-vortex gamma photons.md) |

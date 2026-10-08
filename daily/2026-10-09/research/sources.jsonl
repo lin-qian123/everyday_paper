@@ -1,0 +1,7 @@
+{"source":"search-layer","run_date":"2026-10-09","queries":3,"results":0,"note":"Installed multi-source search returned no results; official-source fallback was used and zero was not treated as evidence of no literature."}
+{"source":"arXiv Atom API","run_date":"2026-10-09","categories":["physics.plasm-ph","physics.acc-ph","physics.ins-det","nucl-ex"],"latest_submission_date":"2026-10-07","selected":["2610.09674","2610.08195","2610.08877"]}
+{"source":"Crossref REST API","run_date":"2026-10-09","date_window":["2026-10-07","2026-10-09"],"queries":5,"rows_per_query":100,"keyword_filtered_unique_candidates":196,"note":"Targeted metadata screen, not exhaustive coverage."}
+{"source":"AIP Publishing","run_date":"2026-10-09","selected":["10.1063/5.0350047","10.1063/5.0341085"],"status":"formal VOR PDFs validated"}
+{"source":"APS","run_date":"2026-10-09","selected":["10.1103/qqcv-f29q"],"status":"existing arXiv record upgraded to formal VOR without increasing ledger count"}
+{"source":"IOP Publishing","run_date":"2026-10-09","candidate":"10.1088/1741-4326/aeb1db","status":"retry_added","failure_class":"html_instead_of_pdf"}
+{"source":"MinerU","run_date":"2026-10-09","attempted":6,"completed":0,"status":"failed_with_validated_local_fallback"}

@@ -2,11 +2,12 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：175 篇
-- 索引更新时间：2026-10-08
+- 当前收录：177 篇
+- 索引更新时间：2026-10-09
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-09 | [Novel radiative trapping mechanism in ultra-intense laser–plasma interactions](../papers/10-1063-5-0341085/README.md) | Matter and Radiation at Extremes 11, 065201 (formal version of record, CC BY) | [笔记](../daily/2026-10-09/notes/Zhou et al. - 2026 - Novel radiative trapping mechanism.md) |
 | 2026-10-08 | [Evolution of transversely asymmetric electron beams in hollow plasma channels](../papers/10-1103-13fz-y5wy/README.md) | Physical Review Accelerators and Beams (formal version of record) | [笔记](../daily/2026-10-08/notes/Ding et al. - 2026 - Asymmetric beams in hollow plasma channels.md) |
 | 2026-10-07 | [Effect of transition layer on wakefield in plasma waveguide](../papers/arxiv-2610-06396/README.md) | arXiv preprint | [笔记](../daily/2026-10-07/notes/Markov et al. - 2026 - Transition layer in plasma waveguide wakefield.md) |
 | 2026-10-07 | [Radiation Reaction in Relativistic Magnetized Shocks of Neutron Star Magnetospheres](../papers/arxiv-2610-05386/README.md) | arXiv preprint | [笔记](../daily/2026-10-07/notes/Vanthieghem and Levinson - 2026 - Radiation reaction in relativistic magnetized shocks.md) |
@@ -154,6 +155,7 @@ PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性�
 | 2026-06-11 | [A machine learning framework for developing quasilinear saturation rules of turbulent transport from linear gyrokinetic data](../papers/arxiv-2604-00462/README.md) | arXiv 预印本（高相关补充） | 未生成 |
 | 2026-06-11 | [Simulation Design for Velocity-Controlled Spatio-Temporal Drivers in Laser Wakefield Acceleration](../papers/arxiv-2603-28473/README.md) | arXiv 预印本（高相关补充） | 未生成 |
 | 2026-06-11 | [Data-driven model order reduction for accelerating boundary plasma turbulence simulations](../papers/10-1017-s0022377825101050/README.md) | Journal of Plasma Physics（正式期刊，Open Access） | 未生成 |
+| 2026-06-06 | [Revealing Laser and Electron Beam Evolution in 10-GeV-class Laser-Plasma Accelerators](../papers/10-1103-qqcv-f29q/README.md) | Physical Review Research 8, 033352 (formal version of record, CC BY) | [笔记](../daily/2026-10-09/notes/Tang et al. - 2026 - 10-GeV laser-plasma accelerator evolution.md) |
 | 2026-06-06 | [Quasi-monoenergetic deuteron acceleration via boosted coulomb explosion by reflected picosecond laser pulse](../papers/10-1038-s41467-026-73196-9/README.md) | Nature Communications（正式期刊） | 未生成 |
 | 2026-06-06 | [Dual-picosecond-laser-driven generation of MV/m giant electromagnetic pulses](../papers/dual-picosecond-laser-driven-generation-of-mv-m-giant-electromagnetic-pulses/README.md) | High Power Laser Science and Engineering | 未生成 |
 | 2026-05-02 | [Neural network sampling of Bethe-Heitler process in particle-in-cell codes](../papers/10-1016-j-jcp-2026-114707/README.md) | Journal of Computational Physics | [笔记](../daily/2026-05-02/notes/Oscar Amaro et al. - 2026 - Neural network sampling of Bethe-Heitler process in particle-in-cell codes.md) |

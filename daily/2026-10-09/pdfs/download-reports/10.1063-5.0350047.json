@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "output": "daily/2026-10-09/pdfs/Ganeev - 2026 - High-order harmonic generation in aluminum plasma.pdf",
+  "source_url": "https://pubs.aip.org/aip/pop/article-pdf/doi/10.1063/5.0350047/21163526/103302_1_5.0350047.pdf",
+  "mode": "direct",
+  "attempts": [
+    "[env-proxy] https://pubs.aip.org/aip/pop/article-pdf/doi/10.1063/5.0350047/21163526/103302_1_5.0350047.pdf -> HTTP 403"
+  ]
+}

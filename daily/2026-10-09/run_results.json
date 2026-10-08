@@ -1,0 +1,46 @@
+{
+  "run_date": "2026-10-09",
+  "latest_arxiv_submission_date": "2026-10-07",
+  "search_summary": {
+    "sources": "installed multi-source search layer, official arXiv Atom API, Crossref 2026-10-07 through 2026-10-09 metadata, AIP, APS and IOP",
+    "search_layer_queries": 3,
+    "search_layer_results": 0,
+    "crossref_queries": 5,
+    "crossref_rows_per_query": 100,
+    "crossref_keyword_filtered_unique_works": 196,
+    "selection_basis": "formal-source priority, verified full text, recency, topic fit and non-duplication",
+    "coverage_claim": "targeted, not exhaustive",
+    "research_record": "daily/2026-10-09/research/"
+  },
+  "deduplication": {
+    "processed_before": 425,
+    "processed_after": 430,
+    "retry_before": 27,
+    "retry_after": 28,
+    "version_updated": ["10.48550/arXiv.2604.25823 -> 10.1103/qqcv-f29q"],
+    "keys": ["DOI or arXiv identifier", "normalized title", "source URL", "historical daily folders", "retry queue", "formal version versus preprint title match", "abstract and physical scenario"]
+  },
+  "added": ["10.1063/5.0350047", "10.1063/5.0341085", "10.48550/arXiv.2610.09674", "10.48550/arXiv.2610.08195", "10.48550/arXiv.2610.08877"],
+  "retry_added": ["10.1088/1741-4326/aeb1db"],
+  "pdf_validation": {"valid_documents":6,"formal_version_of_record_documents":3,"official_arxiv_documents":3,"total_bytes":27224520,"total_pages":89,"selected_and_visually_checked_pages":12,"decoded_key_figures":6,"mineru":"all six public-URL tasks failed; validated local layout-text and rendered-page fallback used","details":"daily/2026-10-09/pdf_validation.json"},
+  "evidence_boundaries": [
+    "Ganeev reports direct HHG spectra and target scans; composition-specific and local-field mechanisms remain indirect.",
+    "Tang directly reports electron and laser spectra, while channel inversion and 15-20 GeV projections are model assisted.",
+    "Zhou is a PIC-only mechanism study; He, Kozuljevic and Munoz-Arias are offline synthetic or simulator-domain ML studies.",
+    "No KLAPS, INF&RNO, FreeGSNKE, Geant4, SIMION or network training was performed locally."
+  ],
+  "validation": {
+    "index_builder": "Indexed 430 papers across 9 categories.",
+    "pytest": "7 passed via PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q",
+    "unittest": "7 tests passed via python -m unittest discover -s tests -v",
+    "ledger_checks": "430 records parsed; 426 non-null identifiers are unique; all 430 normalized titles are unique; 28 retry identifiers are unique; no new cross-state overlap",
+    "pdf_header_size_hash_metadata_text_check": "passed for six PDFs totaling 89 pages",
+    "download_report_check": "seven reports parsed: six selected papers and one retry attempt",
+    "markdown_link_check": "42 local links across the daily index, six notes and six affected generated paper pages resolved after URL decoding",
+    "image_check": "six PNG figures decoded successfully; 12 selected PDF pages were visually inspected",
+    "diff_check": "git diff --check passed",
+    "ignored_artifacts": "the six daily PDFs and extracted-text artifacts are Git-ignored"
+  },
+  "git": "commit and push to origin/master after final staging validation",
+  "status": "success"
+}

@@ -2,11 +2,14 @@
 
 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。
 
-- 当前收录：70 篇
-- 索引更新时间：2026-10-08
+- 当前收录：73 篇
+- 索引更新时间：2026-10-09
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-09 | [Real-time Tokamak Equilibrium Reconstruction Under Limited Experimental Data via Physics-Grounded Synthetic Pre-training](../papers/arxiv-2610-09674/README.md) | arXiv preprint | [笔记](../daily/2026-10-09/notes/He et al. - 2026 - Tokamak equilibrium reconstruction via synthetic pretraining.md) |
+| 2026-10-09 | [Omnidirectional Radiation Detector with Perpendicular Dual Silicon Photomultiplier Readout - Directional Sensitivity and Machine Learning Source Positioning](../papers/arxiv-2610-08195/README.md) | arXiv preprint | [笔记](../daily/2026-10-09/notes/Kozuljevic et al. - 2026 - Omnidirectional gamma detector with ML positioning.md) |
+| 2026-10-09 | [A Differentiable Surrogate for Loss-Dominated Ion Beam Transport](../papers/arxiv-2610-08877/README.md) | arXiv preprint | [笔记](../daily/2026-10-09/notes/Munoz-Arias et al. - 2026 - Differentiable ion beam transport surrogate.md) |
 | 2026-10-07 | [Reveal normal form structure for nonlinear map in accelerator beam physics with symplectic neural network](../papers/arxiv-2610-05635/README.md) | arXiv preprint | [笔记](../daily/2026-10-07/notes/He and Hao - 2026 - Symplectic neural network accelerator normal form.md) |
 | 2026-10-06 | [NeutronGym: Physics-Graded Neutron Instrument Design for LLM Agents](../papers/arxiv-2610-03631/README.md) | arXiv preprint | [笔记](../daily/2026-10-06/notes/Ding and Do - 2026 - NeutronGym instrument design.md) |
 | 2026-10-03 | [Quantitative schlieren imaging of a laser-ionized plasma channel in atomic vapor using symbolic regression](../papers/arxiv-2610-01485/README.md) | arXiv preprint | [笔记](../daily/2026-10-03/notes/Demeter - 2026 - AWAKE plasma channel schlieren symbolic regression.md) |

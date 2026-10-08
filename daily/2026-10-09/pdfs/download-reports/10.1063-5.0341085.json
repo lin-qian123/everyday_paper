@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "output": "daily/2026-10-09/pdfs/Zhou et al. - 2026 - Novel radiative trapping mechanism.pdf",
+  "source_url": "https://pubs.aip.org/aip/mre/article-pdf/doi/10.1063/5.0341085/21143506/065201_1_5.0341085.pdf",
+  "mode": "direct",
+  "attempts": [
+    "[env-proxy] https://pubs.aip.org/aip/mre/article-pdf/doi/10.1063/5.0341085/21143506/065201_1_5.0341085.pdf -> HTTP 403"
+  ]
+}

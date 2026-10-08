@@ -866,13 +866,21 @@
   {
     "title": "Revealing Laser and Electron Beam Evolution in 10-GeV-class Laser-Plasma Accelerators",
     "normalized_title": "revealing laser and electron beam evolution in 10 gev class laser plasma accelerators",
-    "doi": "10.48550/arXiv.2604.25823",
-    "source_url": "https://arxiv.org/abs/2604.25823",
-    "journal": "arXiv (preprint)（高质量预印本）",
-    "publication_date": "2026-04-28",
+    "doi": "10.1103/qqcv-f29q",
+    "source_url": "https://doi.org/10.1103/qqcv-f29q",
+    "journal": "Physical Review Research 8, 033352 (formal version of record, CC BY)",
+    "publication_date": "2026-09-22",
     "processed_date": "2026-06-06",
-    "pdf_path": "daily/2026-05-20/pdfs/arXiv authors - 2026 - Revealing Laser and Electron Beam Evolution in 10-GeV-class Laser-Plasma Accelerators.pdf",
-    "note_path": null
+    "version_updated_date": "2026-10-09",
+    "preprint_identifier": "10.48550/arXiv.2604.25823",
+    "pdf_url": "http://harvest.aps.org/v2/journals/articles/10.1103/qqcv-f29q/fulltext",
+    "pdf_path": "daily/2026-10-09/pdfs/Tang et al. - 2026 - 10-GeV laser-plasma accelerator evolution.pdf",
+    "note_path": "daily/2026-10-09/notes/Tang et al. - 2026 - 10-GeV laser-plasma accelerator evolution.md",
+    "categories": [
+      "laser-plasma-acceleration",
+      "pic-and-plasma-simulation",
+      "experimental-platforms-diagnostics"
+    ]
   },
   {
     "title": "Attosecond Nonlinear Quantum Electrodynamics in Laser-Driven Plasmas via Two-Photon Synchrotron Emission",
@@ -5148,5 +5156,90 @@
       "general-plasma-and-methods"
     ],
     "normalized_title": "experimental demonstration of beam driven wakefield acceleration in laser plasma filament"
+  },
+  {
+    "title": "High-order harmonic generation in ion- and nanoparticle-containing aluminum laser-induced plasma",
+    "doi": "10.1063/5.0350047",
+    "journal": "Physics of Plasmas 33, 103302 (formal version of record)",
+    "publication_date": "2026-10-06",
+    "processed_date": "2026-10-09",
+    "source_url": "https://doi.org/10.1063/5.0350047",
+    "pdf_url": "https://pubs.aip.org/aip/pop/article-pdf/doi/10.1063/5.0350047/21163526/103302_1_5.0350047.pdf",
+    "pdf_path": "daily/2026-10-09/pdfs/Ganeev - 2026 - High-order harmonic generation in aluminum plasma.pdf",
+    "note_path": "daily/2026-10-09/notes/Ganeev - 2026 - High-order harmonic generation in aluminum plasma.md",
+    "categories": [
+      "strong-field-qed-radiation",
+      "experimental-platforms-diagnostics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "high order harmonic generation in ion and nanoparticle containing aluminum laser induced plasma"
+  },
+  {
+    "title": "Novel radiative trapping mechanism in ultra-intense laser–plasma interactions",
+    "doi": "10.1063/5.0341085",
+    "journal": "Matter and Radiation at Extremes 11, 065201 (formal version of record, CC BY)",
+    "publication_date": "2026-09-17",
+    "processed_date": "2026-10-09",
+    "source_url": "https://doi.org/10.1063/5.0341085",
+    "pdf_url": "https://pubs.aip.org/aip/mre/article-pdf/doi/10.1063/5.0341085/21143506/065201_1_5.0341085.pdf",
+    "pdf_path": "daily/2026-10-09/pdfs/Zhou et al. - 2026 - Novel radiative trapping mechanism.pdf",
+    "note_path": "daily/2026-10-09/notes/Zhou et al. - 2026 - Novel radiative trapping mechanism.md",
+    "categories": [
+      "strong-field-qed-radiation",
+      "hedp-icf-laboratory-astrophysics",
+      "pic-and-plasma-simulation"
+    ],
+    "normalized_title": "novel radiative trapping mechanism in ultra intense laser plasma interactions"
+  },
+  {
+    "title": "Real-time Tokamak Equilibrium Reconstruction Under Limited Experimental Data via Physics-Grounded Synthetic Pre-training",
+    "doi": "10.48550/arXiv.2610.09674",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-07",
+    "processed_date": "2026-10-09",
+    "source_url": "https://arxiv.org/abs/2610.09674",
+    "pdf_url": "https://arxiv.org/pdf/2610.09674",
+    "pdf_path": "daily/2026-10-09/pdfs/He et al. - 2026 - Tokamak equilibrium reconstruction via synthetic pretraining.pdf",
+    "note_path": "daily/2026-10-09/notes/He et al. - 2026 - Tokamak equilibrium reconstruction via synthetic pretraining.md",
+    "categories": [
+      "ai-ml-plasma-physics",
+      "magnetic-fusion-and-alpha-particles",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "real time tokamak equilibrium reconstruction under limited experimental data via physics grounded synthetic pre training"
+  },
+  {
+    "title": "Omnidirectional Radiation Detector with Perpendicular Dual Silicon Photomultiplier Readout - Directional Sensitivity and Machine Learning Source Positioning",
+    "doi": "10.48550/arXiv.2610.08195",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-06",
+    "processed_date": "2026-10-09",
+    "source_url": "https://arxiv.org/abs/2610.08195",
+    "pdf_url": "https://arxiv.org/pdf/2610.08195",
+    "pdf_path": "daily/2026-10-09/pdfs/Kozuljevic et al. - 2026 - Omnidirectional gamma detector with ML positioning.pdf",
+    "note_path": "daily/2026-10-09/notes/Kozuljevic et al. - 2026 - Omnidirectional gamma detector with ML positioning.md",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "ai-ml-plasma-physics",
+      "experimental-platforms-diagnostics"
+    ],
+    "normalized_title": "omnidirectional radiation detector with perpendicular dual silicon photomultiplier readout directional sensitivity and machine learning source positioning"
+  },
+  {
+    "title": "A Differentiable Surrogate for Loss-Dominated Ion Beam Transport",
+    "doi": "10.48550/arXiv.2610.08877",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-06",
+    "processed_date": "2026-10-09",
+    "source_url": "https://arxiv.org/abs/2610.08877",
+    "pdf_url": "https://arxiv.org/pdf/2610.08877",
+    "pdf_path": "daily/2026-10-09/pdfs/Munoz-Arias et al. - 2026 - Differentiable ion beam transport surrogate.pdf",
+    "note_path": "daily/2026-10-09/notes/Munoz-Arias et al. - 2026 - Differentiable ion beam transport surrogate.md",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "ai-ml-plasma-physics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "a differentiable surrogate for loss dominated ion beam transport"
   }
 ]

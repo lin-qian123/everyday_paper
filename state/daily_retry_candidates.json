@@ -538,5 +538,25 @@
     "last_failure_class": "publisher_http_403",
     "source_family": "other",
     "failure_count": 1
+  },
+  {
+    "doi": "10.1088/1741-4326/aeb1db",
+    "title": "Optimization of room-temperature targets for laser direct-drive fusion",
+    "source_url": "https://doi.org/10.1088/1741-4326/aeb1db",
+    "publication_date": "2026-10-08",
+    "journal": "Nuclear Fusion（正式期刊；IOP 全文验证页受阻）",
+    "topic": "激光直接驱动聚变 + 室温靶优化 + 靶设计 + 流体不稳定性与能量耦合",
+    "run_date": "2026-10-09",
+    "status": "download_failed",
+    "attempt_cmd": "python scripts/safe_pdf_download.py --url https://iopscience.iop.org/article/10.1088/1741-4326/aeb1db/pdf --doi 10.1088/1741-4326/aeb1db --output 'daily/2026-10-09/pdfs/Du et al. - 2026 - Room-temperature targets for laser direct-drive fusion.pdf' --report-json daily/2026-10-09/pdfs/download-reports/10.1088-1741-4326-aeb1db.json",
+    "stderr": "IOP PDF, DOI and article routes all returned HTML verification pages rather than PDF; no lawful full-text or matching author preprint was found during the 2026-10-09 search.",
+    "stdout": "",
+    "output_pdf": "daily/2026-10-09/pdfs/Du et al. - 2026 - Room-temperature targets for laser direct-drive fusion.pdf",
+    "attempted_at": "2026-10-09T07:12:20+08:00",
+    "last_retry_at": null,
+    "retry_count": 0,
+    "last_failure_class": "html_instead_of_pdf",
+    "source_family": "iop",
+    "failure_count": 1
   }
 ]
