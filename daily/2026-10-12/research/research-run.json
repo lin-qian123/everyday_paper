@@ -1,0 +1,42 @@
+{
+  "run_id": "2026-10-12-daily-paper",
+  "run_date": "2026-10-12",
+  "status": "success",
+  "coverage_claim": "targeted official-source search, not exhaustive",
+  "search_layer_queries": 3,
+  "search_layer_results": 0,
+  "crossref_queries": 15,
+  "crossref_broad_unique_rows": 446,
+  "crossref_targeted_unique_rows": 376,
+  "crossref_strict_domain_candidates": 15,
+  "latest_selected_arxiv_submission_date": "2026-10-08",
+  "selected_identifiers": [
+    "10.1103/wb14-xvj2",
+    "10.48550/arXiv.2610.11890",
+    "10.48550/arXiv.2610.11769",
+    "10.48550/arXiv.2610.11603",
+    "10.48550/arXiv.2610.11061",
+    "10.48550/arXiv.2610.12395"
+  ],
+  "formal_fulltext_provenance": [
+    "10.1103/wb14-xvj2 metadata + corresponding arXiv:2604.16059v1 author preprint"
+  ],
+  "retry_added": ["10.1088/1361-6587/aeb280"],
+  "processed_before": 430,
+  "processed_after": 436,
+  "retry_before": 28,
+  "retry_after": 29,
+  "validation": {
+    "index_builder": "Indexed 436 papers across 9 categories.",
+    "pytest": "7 passed via PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q",
+    "unittest": "7 tests passed via python -m unittest discover -s tests -v",
+    "ledger": "436 records; 432 unique non-null identifiers; 436 unique normalized titles; 29 unique retry identifiers",
+    "pdfs": "six documents; 23658952 bytes; 78 pages; headers, sizes, SHA-256, metadata, text extraction and pypdf readability passed",
+    "links": "42 local links resolved after URL decoding",
+    "images": "six key-figure PNG files decoded; 12 selected PDF pages visually inspected",
+    "download_reports": "seven JSON reports parsed",
+    "ignored_artifacts": "six PDFs and six extracted-text files confirmed Git-ignored",
+    "diff_check": "git diff --check passed"
+  },
+  "validated_at": "2026-10-12T07:16:32+08:00"
+}

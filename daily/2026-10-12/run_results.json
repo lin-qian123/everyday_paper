@@ -1,0 +1,75 @@
+{
+  "run_date": "2026-10-12",
+  "latest_arxiv_submission_date": "2026-10-08",
+  "search_summary": {
+    "sources": "installed multi-source search layer, official arXiv Atom API, Crossref metadata, APS and IOP",
+    "search_layer_queries": 3,
+    "search_layer_results": 0,
+    "crossref_broad_unique_works": 446,
+    "crossref_targeted_unique_works": 376,
+    "crossref_strict_domain_candidates": 15,
+    "selection_basis": "formal-source priority, verified full text, recency, topic fit and non-duplication",
+    "coverage_claim": "targeted, not exhaustive",
+    "research_record": "daily/2026-10-12/research/"
+  },
+  "deduplication": {
+    "processed_before": 430,
+    "processed_after": 436,
+    "retry_before": 28,
+    "retry_after": 29,
+    "keys": [
+      "DOI or arXiv identifier",
+      "normalized title",
+      "source URL",
+      "historical daily folders",
+      "retry queue",
+      "formal version versus author-preprint title match",
+      "abstract and physical scenario"
+    ]
+  },
+  "added": [
+    "10.1103/wb14-xvj2",
+    "10.48550/arXiv.2610.11890",
+    "10.48550/arXiv.2610.11769",
+    "10.48550/arXiv.2610.11603",
+    "10.48550/arXiv.2610.11061",
+    "10.48550/arXiv.2610.12395"
+  ],
+  "retry_added": [
+    "10.1088/1361-6587/aeb280"
+  ],
+  "pdf_validation": {
+    "valid_documents": 6,
+    "formal_records_with_corresponding_author_preprint": 1,
+    "official_arxiv_documents": 5,
+    "total_bytes": 23658952,
+    "total_pages": 78,
+    "selected_and_visually_checked_pages": 12,
+    "decoded_key_figures": 6,
+    "mineru": "all six public-URL tasks failed; validated local layout-text and rendered-page fallback used",
+    "details": "daily/2026-10-12/pdf_validation.json"
+  },
+  "evidence_boundaries": [
+    "Amini et al. is a start-to-end numerical study tied to an APS formal record; no accelerator experiment was performed in this work.",
+    "Howard et al. and Carle et al. analyze complementary observables from the same LM26 LMC-12 shot and are not independent repetition.",
+    "Huang et al. combines a direct Cu-wire proof experiment with FLASH and atomic-model synthesis for ICF scenarios; it does not demonstrate ignition or burn.",
+    "Qiu et al. is a two-dimensional PIC mechanism study; its model counts are not an end-to-end absolute laser-driven source yield.",
+    "Campos Pinto et al. validates low-dimensional kinetic benchmarks; competitive five-dimensional performance was not demonstrated.",
+    "No accelerator, MagLIF, ICF, PIC, XFEL or neural-network simulation was reproduced locally."
+  ],
+  "validation": {
+    "index_builder": "Indexed 436 papers across 9 categories.",
+    "pytest": "7 passed via PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q",
+    "unittest": "7 tests passed via python -m unittest discover -s tests -v",
+    "ledger_checks": "436 records parsed; 432 non-null identifiers are unique; all 436 normalized titles are unique; 29 retry identifiers are unique",
+    "pdf_header_size_hash_metadata_text_check": "passed for six PDFs totaling 78 pages",
+    "download_report_check": "seven reports parsed: six selected papers and one retry attempt",
+    "markdown_link_check": "42 local links across the daily index, six notes and six affected generated paper pages resolved after URL decoding",
+    "image_check": "six PNG figures decoded successfully; 12 selected PDF pages were visually inspected",
+    "diff_check": "git diff --check passed",
+    "ignored_artifacts": "the six daily PDFs and extracted-text artifacts are Git-ignored"
+  },
+  "git": "scoped commit and push to origin/master after final staging validation",
+  "status": "success",
+  "validated_at": "2026-10-12T07:16:32+08:00"
+}

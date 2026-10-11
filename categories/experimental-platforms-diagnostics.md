@@ -2,11 +2,14 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：133 篇
-- 索引更新时间：2026-10-09
+- 当前收录：136 篇
+- 索引更新时间：2026-10-12
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-12 | [Compressional heating above 1 keV on the LM26 magnetized target fusion machine](../papers/arxiv-2610-11890/README.md) | arXiv preprint | [笔记](../daily/2026-10-12/notes/Howard et al. - 2026 - LM26 compressional heating above 1 keV.md) |
+| 2026-10-12 | [Thomson Scattering Measurement of 1 keV Electron Temperature on Lawson Machine 26](../papers/arxiv-2610-11769/README.md) | arXiv preprint | [笔记](../daily/2026-10-12/notes/Carle et al. - 2026 - LM26 Thomson scattering at 1 keV.md) |
+| 2026-10-12 | [Imaging ablator-fuel mix of hot spot in inertial confinement fusion via resonant X-ray absorption using an X-ray free electron laser](../papers/arxiv-2610-11603/README.md) | arXiv preprint | [笔记](../daily/2026-10-12/notes/Huang et al. - 2026 - Resonant X-ray imaging of ICF mix.md) |
 | 2026-10-09 | [High-order harmonic generation in ion- and nanoparticle-containing aluminum laser-induced plasma](../papers/10-1063-5-0350047/README.md) | Physics of Plasmas 33, 103302 (formal version of record) | [笔记](../daily/2026-10-09/notes/Ganeev - 2026 - High-order harmonic generation in aluminum plasma.md) |
 | 2026-10-09 | [Omnidirectional Radiation Detector with Perpendicular Dual Silicon Photomultiplier Readout - Directional Sensitivity and Machine Learning Source Positioning](../papers/arxiv-2610-08195/README.md) | arXiv preprint | [笔记](../daily/2026-10-09/notes/Kozuljevic et al. - 2026 - Omnidirectional gamma detector with ML positioning.md) |
 | 2026-10-08 | [Experimental observation of drift acoustic cnoidal waves in a magnetized plasma](../papers/10-1103-mmzz-gq7q/README.md) | Physical Review E formal metadata (local full text: corresponding arXiv:2604.19927v1 author preprint; not VOR) | [笔记](../daily/2026-10-08/notes/Karmakar et al. - 2026 - Drift acoustic cnoidal waves.md) |

@@ -2,11 +2,14 @@
 
 stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。
 
-- 当前收录：49 篇
-- 索引更新时间：2026-10-09
+- 当前收录：52 篇
+- 索引更新时间：2026-10-12
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-12 | [Compressional heating above 1 keV on the LM26 magnetized target fusion machine](../papers/arxiv-2610-11890/README.md) | arXiv preprint | [笔记](../daily/2026-10-12/notes/Howard et al. - 2026 - LM26 compressional heating above 1 keV.md) |
+| 2026-10-12 | [Thomson Scattering Measurement of 1 keV Electron Temperature on Lawson Machine 26](../papers/arxiv-2610-11769/README.md) | arXiv preprint | [笔记](../daily/2026-10-12/notes/Carle et al. - 2026 - LM26 Thomson scattering at 1 keV.md) |
+| 2026-10-12 | [A neural characteristic mapping method: Lagrangian PINNs based on flow maps for transport-dominated problems](../papers/arxiv-2610-12395/README.md) | arXiv preprint | [笔记](../daily/2026-10-12/notes/Campos Pinto et al. - 2026 - Neural characteristic maps for kinetic transport.md) |
 | 2026-10-09 | [Real-time Tokamak Equilibrium Reconstruction Under Limited Experimental Data via Physics-Grounded Synthetic Pre-training](../papers/arxiv-2610-09674/README.md) | arXiv preprint | [笔记](../daily/2026-10-09/notes/He et al. - 2026 - Tokamak equilibrium reconstruction via synthetic pretraining.md) |
 | 2026-10-03 | [Electromagnetic drift-kinetic particle-in-cell model with energy and charge conservation for studying finite-β plasmas](../papers/arxiv-2610-01429/README.md) | arXiv preprint (submitted to Journal of Computational Physics) | [笔记](../daily/2026-10-03/notes/Morozov et al. - 2026 - Conservative drift kinetic PIC.md) |
 | 2026-10-03 | [Is Your AI Fast Enough to Run a Fusion Reactor?](../papers/arxiv-2610-00845/README.md) | arXiv preprint | [笔记](../daily/2026-10-03/notes/Chen et al. - 2026 - Fusion AI inference benchmark.md) |

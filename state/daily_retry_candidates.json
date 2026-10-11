@@ -558,5 +558,25 @@
     "last_failure_class": "html_instead_of_pdf",
     "source_family": "iop",
     "failure_count": 1
+  },
+  {
+    "doi": "10.1088/1361-6587/aeb280",
+    "title": "Synthetic diagnostics and integrated modeling: Bridging the gap between measurement and interpretation in magnetic confinement fusion",
+    "source_url": "https://doi.org/10.1088/1361-6587/aeb280",
+    "publication_date": "2026-10-09",
+    "journal": "Plasma Physics and Controlled Fusion（正式期刊，CC BY；IOP 全文验证页受阻）",
+    "topic": "磁约束聚变 + 合成诊断 + 集成建模 + digital twin + 测量/解释证据链",
+    "run_date": "2026-10-12",
+    "status": "download_failed",
+    "attempt_cmd": "python scripts/safe_pdf_download.py --url https://iopscience.iop.org/article/10.1088/1361-6587/aeb280/pdf --doi 10.1088/1361-6587/aeb280 --output daily/2026-10-12/pdfs/blocked-aeb280.pdf --report-json daily/2026-10-12/pdfs/download-reports/10.1088-1361-6587-aeb280.json",
+    "stderr": "IOP PDF, DOI and article routes all returned HTML/Radware verification pages rather than PDF. Crossref records a CC BY author manuscript link, but the same route remained blocked; no matching lawful arXiv or repository full text was found during the 2026-10-12 search.",
+    "stdout": "",
+    "output_pdf": "daily/2026-10-12/pdfs/blocked-aeb280.pdf",
+    "attempted_at": "2026-10-12T07:09:44+08:00",
+    "last_retry_at": null,
+    "retry_count": 0,
+    "last_failure_class": "html_instead_of_pdf",
+    "source_family": "iop",
+    "failure_count": 1
   }
 ]

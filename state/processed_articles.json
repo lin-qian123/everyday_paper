@@ -5241,5 +5241,107 @@
       "general-plasma-and-methods"
     ],
     "normalized_title": "a differentiable surrogate for loss dominated ion beam transport"
+  },
+  {
+    "title": "Controlling external injection in laser-plasma accelerators with terahertz frequency bunch manipulation",
+    "doi": "10.1103/wb14-xvj2",
+    "journal": "Physical Review Research (formal publication; local full text: corresponding arXiv:2604.16059v1 author preprint, not VOR)",
+    "publication_date": "2026-10-09",
+    "processed_date": "2026-10-12",
+    "source_url": "https://doi.org/10.1103/wb14-xvj2",
+    "pdf_url": "https://arxiv.org/pdf/2604.16059",
+    "pdf_path": "daily/2026-10-12/pdfs/Amini et al. - 2026 - THz-controlled external injection for LWFA.pdf",
+    "note_path": "daily/2026-10-12/notes/Amini et al. - 2026 - THz-controlled external injection for LWFA.md",
+    "categories": [
+      "laser-plasma-acceleration",
+      "laser-accelerated-beam-applications",
+      "pic-and-plasma-simulation"
+    ],
+    "normalized_title": "controlling external injection in laser plasma accelerators with terahertz frequency bunch manipulation"
+  },
+  {
+    "title": "Compressional heating above 1 keV on the LM26 magnetized target fusion machine",
+    "doi": "10.48550/arXiv.2610.11890",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-08",
+    "processed_date": "2026-10-12",
+    "source_url": "https://arxiv.org/abs/2610.11890",
+    "pdf_url": "https://arxiv.org/pdf/2610.11890",
+    "pdf_path": "daily/2026-10-12/pdfs/Howard et al. - 2026 - LM26 compressional heating above 1 keV.pdf",
+    "note_path": "daily/2026-10-12/notes/Howard et al. - 2026 - LM26 compressional heating above 1 keV.md",
+    "categories": [
+      "hedp-icf-laboratory-astrophysics",
+      "magnetic-fusion-and-alpha-particles",
+      "experimental-platforms-diagnostics"
+    ],
+    "normalized_title": "compressional heating above 1 kev on the lm26 magnetized target fusion machine"
+  },
+  {
+    "title": "Thomson Scattering Measurement of 1 keV Electron Temperature on Lawson Machine 26",
+    "doi": "10.48550/arXiv.2610.11769",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-08",
+    "processed_date": "2026-10-12",
+    "source_url": "https://arxiv.org/abs/2610.11769",
+    "pdf_url": "https://arxiv.org/pdf/2610.11769",
+    "pdf_path": "daily/2026-10-12/pdfs/Carle et al. - 2026 - LM26 Thomson scattering at 1 keV.pdf",
+    "note_path": "daily/2026-10-12/notes/Carle et al. - 2026 - LM26 Thomson scattering at 1 keV.md",
+    "categories": [
+      "magnetic-fusion-and-alpha-particles",
+      "experimental-platforms-diagnostics",
+      "hedp-icf-laboratory-astrophysics"
+    ],
+    "normalized_title": "thomson scattering measurement of 1 kev electron temperature on lawson machine 26"
+  },
+  {
+    "title": "Imaging ablator-fuel mix of hot spot in inertial confinement fusion via resonant X-ray absorption using an X-ray free electron laser",
+    "doi": "10.48550/arXiv.2610.11603",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-08",
+    "processed_date": "2026-10-12",
+    "source_url": "https://arxiv.org/abs/2610.11603",
+    "pdf_url": "https://arxiv.org/pdf/2610.11603",
+    "pdf_path": "daily/2026-10-12/pdfs/Huang et al. - 2026 - Resonant X-ray imaging of ICF mix.pdf",
+    "note_path": "daily/2026-10-12/notes/Huang et al. - 2026 - Resonant X-ray imaging of ICF mix.md",
+    "categories": [
+      "hedp-icf-laboratory-astrophysics",
+      "experimental-platforms-diagnostics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "imaging ablator fuel mix of hot spot in inertial confinement fusion via resonant x ray absorption using an x ray free electron laser"
+  },
+  {
+    "title": "Beam filamentation instability drives deuterium-tritium fusion with polarized neutron emission",
+    "doi": "10.48550/arXiv.2610.11061",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-08",
+    "processed_date": "2026-10-12",
+    "source_url": "https://arxiv.org/abs/2610.11061",
+    "pdf_url": "https://arxiv.org/pdf/2610.11061",
+    "pdf_path": "daily/2026-10-12/pdfs/Qiu et al. - 2026 - Beam filamentation driven DT fusion.pdf",
+    "note_path": "daily/2026-10-12/notes/Qiu et al. - 2026 - Beam filamentation driven DT fusion.md",
+    "categories": [
+      "pic-and-plasma-simulation",
+      "hedp-icf-laboratory-astrophysics",
+      "laser-accelerated-beam-applications"
+    ],
+    "normalized_title": "beam filamentation instability drives deuterium tritium fusion with polarized neutron emission"
+  },
+  {
+    "title": "A neural characteristic mapping method: Lagrangian PINNs based on flow maps for transport-dominated problems",
+    "doi": "10.48550/arXiv.2610.12395",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-08",
+    "processed_date": "2026-10-12",
+    "source_url": "https://arxiv.org/abs/2610.12395",
+    "pdf_url": "https://arxiv.org/pdf/2610.12395",
+    "pdf_path": "daily/2026-10-12/pdfs/Campos Pinto et al. - 2026 - Neural characteristic maps for kinetic transport.pdf",
+    "note_path": "daily/2026-10-12/notes/Campos Pinto et al. - 2026 - Neural characteristic maps for kinetic transport.md",
+    "categories": [
+      "ai-ml-plasma-physics",
+      "pic-and-plasma-simulation",
+      "magnetic-fusion-and-alpha-particles"
+    ],
+    "normalized_title": "a neural characteristic mapping method lagrangian pinns based on flow maps for transport dominated problems"
   }
 ]

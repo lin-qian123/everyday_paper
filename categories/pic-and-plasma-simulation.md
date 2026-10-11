@@ -2,11 +2,14 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：177 篇
-- 索引更新时间：2026-10-09
+- 当前收录：180 篇
+- 索引更新时间：2026-10-12
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-12 | [Controlling external injection in laser-plasma accelerators with terahertz frequency bunch manipulation](../papers/10-1103-wb14-xvj2/README.md) | Physical Review Research (formal publication; local full text: corresponding arXiv:2604.16059v1 author preprint, not VOR) | [笔记](../daily/2026-10-12/notes/Amini et al. - 2026 - THz-controlled external injection for LWFA.md) |
+| 2026-10-12 | [Beam filamentation instability drives deuterium-tritium fusion with polarized neutron emission](../papers/arxiv-2610-11061/README.md) | arXiv preprint | [笔记](../daily/2026-10-12/notes/Qiu et al. - 2026 - Beam filamentation driven DT fusion.md) |
+| 2026-10-12 | [A neural characteristic mapping method: Lagrangian PINNs based on flow maps for transport-dominated problems](../papers/arxiv-2610-12395/README.md) | arXiv preprint | [笔记](../daily/2026-10-12/notes/Campos Pinto et al. - 2026 - Neural characteristic maps for kinetic transport.md) |
 | 2026-10-09 | [Novel radiative trapping mechanism in ultra-intense laser–plasma interactions](../papers/10-1063-5-0341085/README.md) | Matter and Radiation at Extremes 11, 065201 (formal version of record, CC BY) | [笔记](../daily/2026-10-09/notes/Zhou et al. - 2026 - Novel radiative trapping mechanism.md) |
 | 2026-10-08 | [Evolution of transversely asymmetric electron beams in hollow plasma channels](../papers/10-1103-13fz-y5wy/README.md) | Physical Review Accelerators and Beams (formal version of record) | [笔记](../daily/2026-10-08/notes/Ding et al. - 2026 - Asymmetric beams in hollow plasma channels.md) |
 | 2026-10-07 | [Effect of transition layer on wakefield in plasma waveguide](../papers/arxiv-2610-06396/README.md) | arXiv preprint | [笔记](../daily/2026-10-07/notes/Markov et al. - 2026 - Transition layer in plasma waveguide wakefield.md) |

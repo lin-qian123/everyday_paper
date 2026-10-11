@@ -2,11 +2,15 @@
 
 HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。
 
-- 当前收录：113 篇
-- 索引更新时间：2026-10-09
+- 当前收录：117 篇
+- 索引更新时间：2026-10-12
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-12 | [Compressional heating above 1 keV on the LM26 magnetized target fusion machine](../papers/arxiv-2610-11890/README.md) | arXiv preprint | [笔记](../daily/2026-10-12/notes/Howard et al. - 2026 - LM26 compressional heating above 1 keV.md) |
+| 2026-10-12 | [Thomson Scattering Measurement of 1 keV Electron Temperature on Lawson Machine 26](../papers/arxiv-2610-11769/README.md) | arXiv preprint | [笔记](../daily/2026-10-12/notes/Carle et al. - 2026 - LM26 Thomson scattering at 1 keV.md) |
+| 2026-10-12 | [Imaging ablator-fuel mix of hot spot in inertial confinement fusion via resonant X-ray absorption using an X-ray free electron laser](../papers/arxiv-2610-11603/README.md) | arXiv preprint | [笔记](../daily/2026-10-12/notes/Huang et al. - 2026 - Resonant X-ray imaging of ICF mix.md) |
+| 2026-10-12 | [Beam filamentation instability drives deuterium-tritium fusion with polarized neutron emission](../papers/arxiv-2610-11061/README.md) | arXiv preprint | [笔记](../daily/2026-10-12/notes/Qiu et al. - 2026 - Beam filamentation driven DT fusion.md) |
 | 2026-10-09 | [Novel radiative trapping mechanism in ultra-intense laser–plasma interactions](../papers/10-1063-5-0341085/README.md) | Matter and Radiation at Extremes 11, 065201 (formal version of record, CC BY) | [笔记](../daily/2026-10-09/notes/Zhou et al. - 2026 - Novel radiative trapping mechanism.md) |
 | 2026-10-08 | [Experimental observations of microturbulence-suppressed parallel heat conduction in a weakly collisional, high-β plasma](../papers/arxiv-2610-08530/README.md) | arXiv preprint | [笔记](../daily/2026-10-08/notes/Vincent et al. - 2026 - Microturbulence suppressed heat conduction.md) |
 | 2026-10-08 | [Proton probing measurements of filamentary electromagnetic structure in laser ablation of solids](../papers/10-1063-5-0342431/README.md) | Physics of Plasmas (formal version of record) | [笔记](../daily/2026-10-08/notes/Peebles et al. - 2026 - Proton probing laser ablation filaments.md) |

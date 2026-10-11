@@ -1,0 +1,94 @@
+{
+  "run_date": "2026-10-12",
+  "checks": [
+    "%PDF- header",
+    "file type",
+    "nonzero byte count",
+    "SHA-256",
+    "pdfinfo page count",
+    "pypdf page/text readability",
+    "nonempty pdftotext -layout",
+    "selected-page rendering and visual inspection"
+  ],
+  "mineru": {
+    "attempted_documents": 6,
+    "completed_documents": 0,
+    "status": "failed_with_local_fallback",
+    "reason": "All six public arXiv URL jobs ended with parsing failed. Validated local PDFs, 466166 bytes of layout text, 12 visually inspected key pages and six decoded figure crops were used as the documented fallback."
+  },
+  "documents": [
+    {
+      "identifier": "10.1103/wb14-xvj2",
+      "path": "daily/2026-10-12/pdfs/Amini et al. - 2026 - THz-controlled external injection for LWFA.pdf",
+      "bytes": 8927125,
+      "sha256": "4c8a30def269a8aa515dd2cdf6eb00b8a5bf48647a86b9295f963329ce63e2d5",
+      "pages": 8,
+      "text_bytes": 48839,
+      "rendered_pages": [4, 5],
+      "source_note": "Formal APS metadata; local full text is the corresponding arXiv:2604.16059v1 author preprint, not VOR.",
+      "status": "passed"
+    },
+    {
+      "identifier": "10.48550/arXiv.2610.11890",
+      "path": "daily/2026-10-12/pdfs/Howard et al. - 2026 - LM26 compressional heating above 1 keV.pdf",
+      "bytes": 2007674,
+      "sha256": "07156bf859f5e52ee1b90973638e944d3a9d943026f015452afbbf481f2819bb",
+      "pages": 8,
+      "text_bytes": 51493,
+      "rendered_pages": [3, 6],
+      "source_note": "Official arXiv PDF.",
+      "status": "passed"
+    },
+    {
+      "identifier": "10.48550/arXiv.2610.11769",
+      "path": "daily/2026-10-12/pdfs/Carle et al. - 2026 - LM26 Thomson scattering at 1 keV.pdf",
+      "bytes": 1369416,
+      "sha256": "44e0b2d70a0d66877cf02e212684996b4fd0363e78514dc95c76fca9685df2ac",
+      "pages": 9,
+      "text_bytes": 81877,
+      "rendered_pages": [6, 7],
+      "source_note": "Official arXiv PDF; same LMC-12 shot as arXiv:2610.11890, diagnostic-focused companion work.",
+      "status": "passed"
+    },
+    {
+      "identifier": "10.48550/arXiv.2610.11603",
+      "path": "daily/2026-10-12/pdfs/Huang et al. - 2026 - Resonant X-ray imaging of ICF mix.pdf",
+      "bytes": 4646831,
+      "sha256": "4cb531732759099142de648e795387422d78b40d38553c82d94c708ae9bafe73",
+      "pages": 14,
+      "text_bytes": 92150,
+      "rendered_pages": [5, 7],
+      "source_note": "Official arXiv PDF.",
+      "status": "passed"
+    },
+    {
+      "identifier": "10.48550/arXiv.2610.11061",
+      "path": "daily/2026-10-12/pdfs/Qiu et al. - 2026 - Beam filamentation driven DT fusion.pdf",
+      "bytes": 2096075,
+      "sha256": "f56cf53890bf60c9b04deb0a87531a2a63b2f1b1e8a75aa5c126b9fde4b870e8",
+      "pages": 13,
+      "text_bytes": 82872,
+      "rendered_pages": [5, 6],
+      "source_note": "Official arXiv PDF.",
+      "status": "passed"
+    },
+    {
+      "identifier": "10.48550/arXiv.2610.12395",
+      "path": "daily/2026-10-12/pdfs/Campos Pinto et al. - 2026 - Neural characteristic maps for kinetic transport.pdf",
+      "bytes": 4611831,
+      "sha256": "9fbbab7db3d898064116bb940f2705e65fd9927713e6857f4a583530dd5367fb",
+      "pages": 26,
+      "text_bytes": 108935,
+      "rendered_pages": [18, 23],
+      "source_note": "Official arXiv PDF.",
+      "status": "passed"
+    }
+  ],
+  "total_pdf_bytes": 23658952,
+  "total_text_bytes": 466166,
+  "total_pages": 78,
+  "selected_and_visually_checked_pages": 12,
+  "decoded_key_figures": 6,
+  "valid_documents": 6,
+  "status": "passed"
+}

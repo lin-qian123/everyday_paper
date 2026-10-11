@@ -2,11 +2,13 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：100 篇
-- 索引更新时间：2026-10-09
+- 当前收录：102 篇
+- 索引更新时间：2026-10-12
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-12 | [Controlling external injection in laser-plasma accelerators with terahertz frequency bunch manipulation](../papers/10-1103-wb14-xvj2/README.md) | Physical Review Research (formal publication; local full text: corresponding arXiv:2604.16059v1 author preprint, not VOR) | [笔记](../daily/2026-10-12/notes/Amini et al. - 2026 - THz-controlled external injection for LWFA.md) |
+| 2026-10-12 | [Beam filamentation instability drives deuterium-tritium fusion with polarized neutron emission](../papers/arxiv-2610-11061/README.md) | arXiv preprint | [笔记](../daily/2026-10-12/notes/Qiu et al. - 2026 - Beam filamentation driven DT fusion.md) |
 | 2026-10-09 | [Omnidirectional Radiation Detector with Perpendicular Dual Silicon Photomultiplier Readout - Directional Sensitivity and Machine Learning Source Positioning](../papers/arxiv-2610-08195/README.md) | arXiv preprint | [笔记](../daily/2026-10-09/notes/Kozuljevic et al. - 2026 - Omnidirectional gamma detector with ML positioning.md) |
 | 2026-10-09 | [A Differentiable Surrogate for Loss-Dominated Ion Beam Transport](../papers/arxiv-2610-08877/README.md) | arXiv preprint | [笔记](../daily/2026-10-09/notes/Munoz-Arias et al. - 2026 - Differentiable ion beam transport surrogate.md) |
 | 2026-10-07 | [Design studies of a pulsed quasimonoenergetic 2-keV neutron source for calibration of low threshold dark matter detectors](../papers/10-1103-fqgp-916r/README.md) | Physical Review D Accepted Paper (local full text: corresponding arXiv:2410.14722v1 author preprint; not VOR) | [笔记](../daily/2026-10-07/notes/Chaplinsky et al. - 2026 - Pulsed 2-keV neutron calibration source.md) |

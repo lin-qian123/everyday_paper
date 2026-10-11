@@ -10,7 +10,7 @@
 - [仓库结构](#仓库结构)
 - [分类索引](#分类索引)
 - [专题综述](#专题综述)
-- [当前状态](#当前状态2026-10-09)
+- [当前状态](#当前状态2026-10-12)
 - [去重规则](#去重规则)
 - [PDF 下载稳健性](#pdf-下载稳健性)
 - [维护约定](#维护约定)
@@ -85,6 +85,12 @@
 - `INDEX.md`: 总索引
 - `state/processed_articles.json`: 已处理论文去重台账
 - `templates/daily-index-template.md`: 每日索引模板
+
+## 当前状态（2026-10-12）
+
+- 已维护到 `daily/2026-10-12/`。在最近成功日更 2026-10-09 之后，本轮核对官方 arXiv 目标分类、Crossref 2026-10-09 至 10-12 元数据、APS 与 IOP；新增 1 篇 APS 正式出版记录对应作者预印本和 5 篇 2026-10-08 arXiv 全文，覆盖 THz 锁时外注入 LWFA、LM26 压缩加热/Thomson 诊断、XFEL 共振 ICF 混合诊断、PIC 偏振中子和 Vlasov/漂移动力学 PINN。
+- 6 份 PDF 共 78 页通过文件头、类型、页数、SHA-256、`pypdf`、布局文本和 12 个关键页目视检查；保留 6 幅关键图。MinerU 6 个公开 URL 均 `parsing failed`，因此只声明已验证本地全文/渲染回退。APS `10.1103/wb14-xvj2` 的正式元数据与作者稿全文分开标注；LM26 两文共享 LMC-12 炮次，不计为独立复现实验。
+- 台账从 430 增至 436 条；IOP 合成诊断 `10.1088/1361-6587/aeb280` 因 HTML/Radware 验证页进入重试，使队列从 28 增至 29 条。本轮严格区分直接实验、同炮次诊断、模型辅助反演、二维 PIC 和数值方法基准；没有运行 ASTRA/GPT/ELEGANT/FBPIC、ISM/BPR/MCNP、FLASH/原子模型、PIC 自旋反应或 PINN/GYSELA。
 
 ## 当前状态（2026-10-09）
 
@@ -421,7 +427,7 @@
 - `2026-06-25` 先复查了 Cambridge `Journal of Plasma Physics` / `High Power Laser Science and Engineering` 当前页面，没有筛到比近几日已入库条目更强且明确非重复的正式来源增量；随后转向 arXiv `physics.plasm-ph` / `physics.acc-ph` 近两日列表，补入 3 条未入库高相关预印本：`10.48550/arXiv.2606.23224`、`10.48550/arXiv.2606.24067`、`10.48550/arXiv.2606.23109`，分别覆盖双层靶 TNSA 质子束多目标贝叶斯优化、hollow-channel 正电子友好 quadrupole wakefield 稳定性，以及激光加速碳离子驱动的强耦合 stopping power 实验 benchmark。
 - `2026-06-24` 先复查了 Cambridge `Journal of Plasma Physics` / `High Power Laser Science and Engineering` 当前页面与近期条目，确认本轮高相关正式来源候选要么已在 `processed_articles.json` 中、要么属于此前旧日阻塞记录，继续补录会重复处理；随后转向近几天 arXiv 新稿与近期修订稿，补入 3 条未入库高相关预印本：`10.48550/arXiv.2606.22427`、`10.48550/arXiv.2606.21221`、`10.48550/arXiv.2605.07929`，分别覆盖强场 QED 非线性康普顿谱解析、相对论束流-等离子体丝化不稳定性时空演化，以及 proton-driven PWFA 注入器应用。
 - 已处理论文总数增至 233 条；`state/daily_retry_candidates.json` 维持 12 条。
-- 当前重试队列只剩已明确的来源侧限制：10 条 ScienceDirect / Elsevier `HTTP 403`、1 条 Nature `cookies_not_supported`、1 条 IOP / New Journal of Physics Radware/Perfdrive 验证页。
+- 当前重试队列为 29 条来源侧限制：10 条 ScienceDirect / Elsevier `HTTP 403`、1 条 Nature `cookies_not_supported`、10 条 IOP/Radware/HTML 验证页、6 条 APS accepted/formal `HTTP 403` 或延迟开放，以及 2 条 Taylor & Francis `HTTP 403`。
 - 2026-06-11 配置级诊断显示当前 Codex shell 已是 `danger-full-access` 且 network enabled；`127.0.0.1:1087` 代理路径可下载 arXiv PDF。此前 06-09 到 06-11 的 9 条 runtime-blocked 候选已通过 `retry_download_queue.py` 全部恢复。
 - 当前有 65 条已补到 PDF 但尚未补中文结构化笔记的历史条目。
 - 已新增自动索引脚本 `scripts/build_indexes.py`，可从 `state/processed_articles.json` 重建 `INDEX.md`、`papers/`、`categories/` 与 `daily/README.md`。

@@ -1,10 +1,16 @@
 # 论文总索引
 
-- 当前入库论文：430 篇
-- 索引更新时间：2026-10-09
+- 当前入库论文：436 篇
+- 索引更新时间：2026-10-12
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-10-12 | [Controlling external injection in laser-plasma accelerators with terahertz frequency bunch manipulation](./10-1103-wb14-xvj2/README.md) | Physical Review Research (formal publication; local full text: corresponding arXiv:2604.16059v1 author preprint, not VOR) | [10.1103/wb14-xvj2](https://doi.org/10.1103/wb14-xvj2) |
+| 2026-10-12 | [Compressional heating above 1 keV on the LM26 magnetized target fusion machine](./arxiv-2610-11890/README.md) | arXiv preprint | [10.48550/arXiv.2610.11890](https://doi.org/10.48550/arXiv.2610.11890) |
+| 2026-10-12 | [Thomson Scattering Measurement of 1 keV Electron Temperature on Lawson Machine 26](./arxiv-2610-11769/README.md) | arXiv preprint | [10.48550/arXiv.2610.11769](https://doi.org/10.48550/arXiv.2610.11769) |
+| 2026-10-12 | [Imaging ablator-fuel mix of hot spot in inertial confinement fusion via resonant X-ray absorption using an X-ray free electron laser](./arxiv-2610-11603/README.md) | arXiv preprint | [10.48550/arXiv.2610.11603](https://doi.org/10.48550/arXiv.2610.11603) |
+| 2026-10-12 | [Beam filamentation instability drives deuterium-tritium fusion with polarized neutron emission](./arxiv-2610-11061/README.md) | arXiv preprint | [10.48550/arXiv.2610.11061](https://doi.org/10.48550/arXiv.2610.11061) |
+| 2026-10-12 | [A neural characteristic mapping method: Lagrangian PINNs based on flow maps for transport-dominated problems](./arxiv-2610-12395/README.md) | arXiv preprint | [10.48550/arXiv.2610.12395](https://doi.org/10.48550/arXiv.2610.12395) |
 | 2026-10-09 | [Real-time Tokamak Equilibrium Reconstruction Under Limited Experimental Data via Physics-Grounded Synthetic Pre-training](./arxiv-2610-09674/README.md) | arXiv preprint | [10.48550/arXiv.2610.09674](https://doi.org/10.48550/arXiv.2610.09674) |
 | 2026-10-09 | [High-order harmonic generation in ion- and nanoparticle-containing aluminum laser-induced plasma](./10-1063-5-0350047/README.md) | Physics of Plasmas 33, 103302 (formal version of record) | [10.1063/5.0350047](https://doi.org/10.1063/5.0350047) |
 | 2026-10-09 | [Omnidirectional Radiation Detector with Perpendicular Dual Silicon Photomultiplier Readout - Directional Sensitivity and Machine Learning Source Positioning](./arxiv-2610-08195/README.md) | arXiv preprint | [10.48550/arXiv.2610.08195](https://doi.org/10.48550/arXiv.2610.08195) |
