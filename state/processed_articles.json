@@ -5343,5 +5343,106 @@
       "magnetic-fusion-and-alpha-particles"
     ],
     "normalized_title": "a neural characteristic mapping method lagrangian pinns based on flow maps for transport dominated problems"
+  },
+  {
+    "title": "Generating cylindrical vector gamma rays via beam-target interactions: toward structured light at high energies",
+    "doi": "10.1364/optica.612330",
+    "journal": "Optica (formal publication; local full text: corresponding arXiv:2508.16220v1 author preprint, not VOR)",
+    "publication_date": "2026-10-09",
+    "processed_date": "2026-10-13",
+    "source_url": "https://doi.org/10.1364/optica.612330",
+    "pdf_url": "https://arxiv.org/pdf/2508.16220",
+    "pdf_path": "daily/2026-10-13/pdfs/Cao et al. - 2026 - Cylindrical vector gamma rays.pdf",
+    "note_path": "daily/2026-10-13/notes/Cao et al. - 2026 - Cylindrical vector gamma rays.md",
+    "categories": [
+      "strong-field-qed-radiation",
+      "laser-accelerated-beam-applications",
+      "pic-and-plasma-simulation"
+    ],
+    "normalized_title": "generating cylindrical vector gamma rays via beam target interactions toward structured light at high energies"
+  },
+  {
+    "title": "Global gyrokinetic simulations of electromagnetic turbulence in STEP",
+    "doi": "10.1088/1741-4326/aeaaf4",
+    "journal": "Nuclear Fusion (formal CC BY publication; local full text: corresponding arXiv:2609.02803v1 author preprint, not VOR)",
+    "publication_date": "2026-10-12",
+    "processed_date": "2026-10-13",
+    "source_url": "https://doi.org/10.1088/1741-4326/aeaaf4",
+    "pdf_url": "https://arxiv.org/pdf/2609.02803",
+    "pdf_path": "daily/2026-10-13/pdfs/Kennedy et al. - 2026 - Global gyrokinetic STEP turbulence.pdf",
+    "note_path": "daily/2026-10-13/notes/Kennedy et al. - 2026 - Global gyrokinetic STEP turbulence.md",
+    "categories": [
+      "magnetic-fusion-and-alpha-particles",
+      "pic-and-plasma-simulation",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "global gyrokinetic simulations of electromagnetic turbulence in step"
+  },
+  {
+    "title": "Physical-state supervision for design-only Gaussian process surrogates of implosion simulations",
+    "doi": "10.48550/arXiv.2610.13822",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-09",
+    "processed_date": "2026-10-13",
+    "source_url": "https://arxiv.org/abs/2610.13822",
+    "pdf_url": "https://arxiv.org/pdf/2610.13822",
+    "pdf_path": "daily/2026-10-13/pdfs/Liu et al. - 2026 - Physical-state GP implosion surrogates.pdf",
+    "note_path": "daily/2026-10-13/notes/Liu et al. - 2026 - Physical-state GP implosion surrogates.md",
+    "categories": [
+      "ai-ml-plasma-physics",
+      "hedp-icf-laboratory-astrophysics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "physical state supervision for design only gaussian process surrogates of implosion simulations"
+  },
+  {
+    "title": "Implementation and verification of a new free boundary module for Resistive Wall Modes simulations with the nonlinear 3D full MHD code SpeCyl",
+    "doi": "10.48550/arXiv.2610.13428",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-09",
+    "processed_date": "2026-10-13",
+    "source_url": "https://arxiv.org/abs/2610.13428",
+    "pdf_url": "https://arxiv.org/pdf/2610.13428",
+    "pdf_path": "daily/2026-10-13/pdfs/Galeazzi et al. - 2026 - SpeCyl free-boundary RWM module.pdf",
+    "note_path": "daily/2026-10-13/notes/Galeazzi et al. - 2026 - SpeCyl free-boundary RWM module.md",
+    "categories": [
+      "magnetic-fusion-and-alpha-particles",
+      "pic-and-plasma-simulation",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "implementation and verification of a new free boundary module for resistive wall modes simulations with the nonlinear 3d full mhd code specyl"
+  },
+  {
+    "title": "Global optimization of beam profiles for suppressing the bump-on-tail instability",
+    "doi": "10.48550/arXiv.2610.13391",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-09",
+    "processed_date": "2026-10-13",
+    "source_url": "https://arxiv.org/abs/2610.13391",
+    "pdf_url": "https://arxiv.org/pdf/2610.13391",
+    "pdf_path": "daily/2026-10-13/pdfs/Mignelli and Einkemmer - 2026 - Optimized beam profiles for bump-on-tail suppression.pdf",
+    "note_path": "daily/2026-10-13/notes/Mignelli and Einkemmer - 2026 - Optimized beam profiles for bump-on-tail suppression.md",
+    "categories": [
+      "laser-plasma-acceleration",
+      "pic-and-plasma-simulation",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "global optimization of beam profiles for suppressing the bump on tail instability"
+  },
+  {
+    "title": "Impact of ab initio E1 strength on neutron capture rates along the nickel isotopic chain",
+    "doi": "10.48550/arXiv.2610.13868",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-09",
+    "processed_date": "2026-10-13",
+    "source_url": "https://arxiv.org/abs/2610.13868",
+    "pdf_url": "https://arxiv.org/pdf/2610.13868",
+    "pdf_path": "daily/2026-10-13/pdfs/Bonaiti and Sobczyk - 2026 - Ab initio E1 neutron capture rates.pdf",
+    "note_path": "daily/2026-10-13/notes/Bonaiti and Sobczyk - 2026 - Ab initio E1 neutron capture rates.md",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "impact of ab initio e1 strength on neutron capture rates along the nickel isotopic chain"
   }
 ]

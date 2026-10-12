@@ -1,5 +1,7 @@
 # TODO
 
+- 2026-10-13：加载 436 条完成台账、29 条重试队列和历史 `daily/`；安装的多来源搜索层 3 个定向查询无结果，转用官方 arXiv、Crossref、Optica 与 IOP。新增 2 篇正式出版记录对应作者预印本和 4 篇 arXiv 全文；6 份 PDF 共 175 页、14,550,916 字节通过文件、页数、哈希、`pypdf`、布局文本及 12 个关键页目视检查，保留 6 幅关键图。台账增至 442 条；1 条 IOP 正式候选因 HTML/Radware 验证页进入重试，使队列增至 30 条。相近 HPL/Optica 柱矢量 γ 方案按物理场景判为不同作品；严格区分正式元数据、作者预印本、数值结果与未运行模型。
+
 - 2026-10-12：加载 430 条完成台账、28 条重试队列和历史 `daily/`；安装的多来源搜索层 3 个定向查询无结果，转用官方 arXiv、Crossref、APS 与 IOP。新增 1 篇 APS 正式出版记录对应作者预印本和 5 篇 arXiv 全文；6 份 PDF 共 78 页通过文件、页数、哈希、`pypdf`、布局文本及 12 个关键页目视检查，保留 6 幅关键图。台账增至 436 条；1 条 IOP 正式候选因 HTML/Radware 验证页进入重试，使队列增至 29 条。严格区分直接实验、同炮次诊断、模型辅助 ICF 设计、二维 PIC 与低维 PINN 基准；本轮没有运行相关模型。
 
 - 2026-10-09：加载 425 条完成台账、27 条重试队列和历史 `daily/`；安装的多来源搜索层 3 个定向查询无结果，转用官方 arXiv、Crossref、AIP、APS 与 IOP。新增 2 篇正式 VOR 和 3 篇 arXiv 全文，并把 Tang 等 10 GeV 级 LWFA 旧预印本合并升级为 APS VOR；6 份 PDF 共 89 页通过文件、页数、哈希、文本及 12 个关键页目视检查，保留 6 幅关键图。台账增至 430 条；1 条 IOP 正式候选因 HTML 验证页进入重试，使队列增至 28 条。严格区分直接实验、模型辅助反演、纯 PIC 与模拟器/合成数据机器学习；本轮没有运行相关模型。
@@ -15,7 +17,7 @@
 - [ ] 后续新增关键论文或原文版本更新时，修订对应综述章与比较结论；先核查当前快照和 R 编号，避免直接重排台账后留下错误引用。已发现的旧笔记公式/日期/参数问题见 `reviews/2026-frontiers/appendices/source-discrepancies.md`，需按原文逐项修订。
 
 - [ ] 将每日自动化主流程固定为：新增论文与笔记 -> 更新 `state/processed_articles.json` -> 运行 `python scripts/build_indexes.py` -> 提交并推送 `origin/master`。
-- [ ] 处理剩余 29 条未补回 PDF 的候选；其中 10 条为 Elsevier/ScienceDirect `HTTP 403`，1 条为 Nature cookie wall，10 条为 IOP/Radware/HTML 验证页，6 条为 APS accepted/formal `HTTP 403` 或延迟开放，另有 2 条 Taylor & Francis 正式论文 `HTTP 403`。
+- [ ] 处理剩余 30 条未补回 PDF 的候选；其中 10 条为 Elsevier/ScienceDirect `HTTP 403`，1 条为 Nature cookie wall，11 条为 IOP/Radware/HTML 验证页，6 条为 APS accepted/formal `HTTP 403` 或延迟开放，另有 2 条 Taylor & Francis 正式论文 `HTTP 403`。
 - [ ] 为当前 65 条已补回 PDF 但尚无笔记的条目补中文结构化笔记。
 - [ ] 把每日自动化主流程接到 `scripts/retry_download_queue.py`，启动时先消化可恢复积压，避免配置恢复后仍只读旧 blocked-day 记录。
 - [ ] 为来源可达性预检补一层轻量检查，避免在明显 `403` / bot-wall 来源上重复空跑，并对 arXiv / DOI 这类开放来源单独标记“仅运行时阻塞”。

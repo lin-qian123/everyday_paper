@@ -578,5 +578,25 @@
     "last_failure_class": "html_instead_of_pdf",
     "source_family": "iop",
     "failure_count": 1
+  },
+  {
+    "doi": "10.1088/1361-6560/aeaf41",
+    "title": "A convergent electron beam approach for small-field irradiation with reduced bremsstrahlung",
+    "source_url": "https://doi.org/10.1088/1361-6560/aeaf41",
+    "publication_date": "2026-10-12",
+    "journal": "Physics in Medicine & Biology（正式期刊；IOP 全文验证页受阻）",
+    "topic": "聚焦电子束 + 小野放疗 + 四极磁铁 + 韧致辐射污染 + Monte Carlo 剂量学",
+    "run_date": "2026-10-13",
+    "status": "download_failed",
+    "attempt_cmd": "python scripts/safe_pdf_download.py --url https://iopscience.iop.org/article/10.1088/1361-6560/aeaf41/pdf --doi 10.1088/1361-6560/aeaf41 --output daily/2026-10-13/pdfs/blocked-aeaf41.pdf --report-json daily/2026-10-13/pdfs/download-reports/10.1088-1361-6560-aeaf41.json",
+    "stderr": "IOP PDF, DOI and landing routes all returned HTML/Radware verification pages rather than PDF; no matching lawful arXiv or repository full text was found during the 2026-10-13 search.",
+    "stdout": "",
+    "output_pdf": "daily/2026-10-13/pdfs/blocked-aeaf41.pdf",
+    "attempted_at": "2026-10-13T07:14:35+08:00",
+    "last_retry_at": null,
+    "retry_count": 0,
+    "last_failure_class": "publisher_bot_wall",
+    "source_family": "iop",
+    "failure_count": 1
   }
 ]

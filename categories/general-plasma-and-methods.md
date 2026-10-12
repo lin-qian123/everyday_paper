@@ -2,11 +2,16 @@
 
 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。
 
-- 当前收录：103 篇
-- 索引更新时间：2026-10-12
+- 当前收录：108 篇
+- 索引更新时间：2026-10-13
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-13 | [Global gyrokinetic simulations of electromagnetic turbulence in STEP](../papers/10-1088-1741-4326-aeaaf4/README.md) | Nuclear Fusion (formal CC BY publication; local full text: corresponding arXiv:2609.02803v1 author preprint, not VOR) | [笔记](../daily/2026-10-13/notes/Kennedy et al. - 2026 - Global gyrokinetic STEP turbulence.md) |
+| 2026-10-13 | [Physical-state supervision for design-only Gaussian process surrogates of implosion simulations](../papers/arxiv-2610-13822/README.md) | arXiv preprint | [笔记](../daily/2026-10-13/notes/Liu et al. - 2026 - Physical-state GP implosion surrogates.md) |
+| 2026-10-13 | [Implementation and verification of a new free boundary module for Resistive Wall Modes simulations with the nonlinear 3D full MHD code SpeCyl](../papers/arxiv-2610-13428/README.md) | arXiv preprint | [笔记](../daily/2026-10-13/notes/Galeazzi et al. - 2026 - SpeCyl free-boundary RWM module.md) |
+| 2026-10-13 | [Global optimization of beam profiles for suppressing the bump-on-tail instability](../papers/arxiv-2610-13391/README.md) | arXiv preprint | [笔记](../daily/2026-10-13/notes/Mignelli and Einkemmer - 2026 - Optimized beam profiles for bump-on-tail suppression.md) |
+| 2026-10-13 | [Impact of ab initio E1 strength on neutron capture rates along the nickel isotopic chain](../papers/arxiv-2610-13868/README.md) | arXiv preprint | [笔记](../daily/2026-10-13/notes/Bonaiti and Sobczyk - 2026 - Ab initio E1 neutron capture rates.md) |
 | 2026-10-12 | [Imaging ablator-fuel mix of hot spot in inertial confinement fusion via resonant X-ray absorption using an X-ray free electron laser](../papers/arxiv-2610-11603/README.md) | arXiv preprint | [笔记](../daily/2026-10-12/notes/Huang et al. - 2026 - Resonant X-ray imaging of ICF mix.md) |
 | 2026-10-09 | [Real-time Tokamak Equilibrium Reconstruction Under Limited Experimental Data via Physics-Grounded Synthetic Pre-training](../papers/arxiv-2610-09674/README.md) | arXiv preprint | [笔记](../daily/2026-10-09/notes/He et al. - 2026 - Tokamak equilibrium reconstruction via synthetic pretraining.md) |
 | 2026-10-09 | [High-order harmonic generation in ion- and nanoparticle-containing aluminum laser-induced plasma](../papers/10-1063-5-0350047/README.md) | Physics of Plasmas 33, 103302 (formal version of record) | [笔记](../daily/2026-10-09/notes/Ganeev - 2026 - High-order harmonic generation in aluminum plasma.md) |

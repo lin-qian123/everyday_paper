@@ -1,0 +1,96 @@
+{
+  "run_date": "2026-10-13",
+  "checks": [
+    "%PDF- header",
+    "file type",
+    "nonzero byte count",
+    "SHA-256",
+    "pdfinfo page count",
+    "pypdf page/text readability",
+    "nonempty pdftotext -layout",
+    "selected-page rendering and visual inspection"
+  ],
+  "mineru": {
+    "attempted_local_documents": 6,
+    "local_status": "unsupported",
+    "attempted_public_urls": 6,
+    "completed_documents": 0,
+    "status": "failed_with_local_fallback",
+    "reason": "The wrapper does not support local paths, and all six public arXiv URL jobs ended with parsing failed. Validated local PDFs, 738876 bytes of layout text, 12 visually inspected key pages and six decoded figure crops were used as the documented fallback."
+  },
+  "documents": [
+    {
+      "identifier": "10.1364/optica.612330",
+      "path": "daily/2026-10-13/pdfs/Cao et al. - 2026 - Cylindrical vector gamma rays.pdf",
+      "bytes": 2864424,
+      "sha256": "d16140dfff96eeb93c18e6f00f941ff784120e626af52f278dc67e69748544d9",
+      "pages": 8,
+      "text_bytes": 76769,
+      "rendered_pages": [3, 4],
+      "source_note": "Formal Optica metadata; local full text is the corresponding arXiv:2508.16220v1 author preprint, not VOR.",
+      "status": "passed"
+    },
+    {
+      "identifier": "10.1088/1741-4326/aeaaf4",
+      "path": "daily/2026-10-13/pdfs/Kennedy et al. - 2026 - Global gyrokinetic STEP turbulence.pdf",
+      "bytes": 2330304,
+      "sha256": "745d5aedc938d2a271863e7fc216ba268ae28237a7b5877c1ada7bb5e1f52590",
+      "pages": 56,
+      "text_bytes": 189512,
+      "rendered_pages": [32, 34],
+      "source_note": "Formal Nuclear Fusion metadata; local full text is the corresponding arXiv:2609.02803v1 author preprint, not IOP VOR.",
+      "status": "passed"
+    },
+    {
+      "identifier": "10.48550/arXiv.2610.13822",
+      "path": "daily/2026-10-13/pdfs/Liu et al. - 2026 - Physical-state GP implosion surrogates.pdf",
+      "bytes": 1227131,
+      "sha256": "75e4a7b5580fdc7552a0f0d4f7baf732a27d1574411b591dbb352f5ed2297197",
+      "pages": 30,
+      "text_bytes": 101572,
+      "rendered_pages": [17, 23],
+      "source_note": "Official arXiv PDF.",
+      "status": "passed"
+    },
+    {
+      "identifier": "10.48550/arXiv.2610.13428",
+      "path": "daily/2026-10-13/pdfs/Galeazzi et al. - 2026 - SpeCyl free-boundary RWM module.pdf",
+      "bytes": 770074,
+      "sha256": "302fcb9f70a912e2a304500ae820081ab360eb5519fd607e416071f883521633",
+      "pages": 39,
+      "text_bytes": 133283,
+      "rendered_pages": [20, 23],
+      "source_note": "Official arXiv PDF.",
+      "status": "passed"
+    },
+    {
+      "identifier": "10.48550/arXiv.2610.13391",
+      "path": "daily/2026-10-13/pdfs/Mignelli and Einkemmer - 2026 - Optimized beam profiles for bump-on-tail suppression.pdf",
+      "bytes": 5479100,
+      "sha256": "2cb43ab3d50443d10764ca13da7863f06c16143f0f59e6b2b726e7ff59bcbdf6",
+      "pages": 24,
+      "text_bytes": 132384,
+      "rendered_pages": [17, 18],
+      "source_note": "Official arXiv PDF.",
+      "status": "passed"
+    },
+    {
+      "identifier": "10.48550/arXiv.2610.13868",
+      "path": "daily/2026-10-13/pdfs/Bonaiti and Sobczyk - 2026 - Ab initio E1 neutron capture rates.pdf",
+      "bytes": 1879883,
+      "sha256": "6d4026dc671c1b57016283807110ea1178a85999de9db00f73456995bc769132",
+      "pages": 18,
+      "text_bytes": 105356,
+      "rendered_pages": [7, 8],
+      "source_note": "Official arXiv PDF.",
+      "status": "passed"
+    }
+  ],
+  "total_pdf_bytes": 14550916,
+  "total_text_bytes": 738876,
+  "total_pages": 175,
+  "selected_and_visually_checked_pages": 12,
+  "decoded_key_figures": 6,
+  "valid_documents": 6,
+  "status": "passed"
+}

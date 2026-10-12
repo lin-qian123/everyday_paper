@@ -2,11 +2,15 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：180 篇
-- 索引更新时间：2026-10-12
+- 当前收录：184 篇
+- 索引更新时间：2026-10-13
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-13 | [Global gyrokinetic simulations of electromagnetic turbulence in STEP](../papers/10-1088-1741-4326-aeaaf4/README.md) | Nuclear Fusion (formal CC BY publication; local full text: corresponding arXiv:2609.02803v1 author preprint, not VOR) | [笔记](../daily/2026-10-13/notes/Kennedy et al. - 2026 - Global gyrokinetic STEP turbulence.md) |
+| 2026-10-13 | [Generating cylindrical vector gamma rays via beam-target interactions: toward structured light at high energies](../papers/10-1364-optica-612330/README.md) | Optica (formal publication; local full text: corresponding arXiv:2508.16220v1 author preprint, not VOR) | [笔记](../daily/2026-10-13/notes/Cao et al. - 2026 - Cylindrical vector gamma rays.md) |
+| 2026-10-13 | [Implementation and verification of a new free boundary module for Resistive Wall Modes simulations with the nonlinear 3D full MHD code SpeCyl](../papers/arxiv-2610-13428/README.md) | arXiv preprint | [笔记](../daily/2026-10-13/notes/Galeazzi et al. - 2026 - SpeCyl free-boundary RWM module.md) |
+| 2026-10-13 | [Global optimization of beam profiles for suppressing the bump-on-tail instability](../papers/arxiv-2610-13391/README.md) | arXiv preprint | [笔记](../daily/2026-10-13/notes/Mignelli and Einkemmer - 2026 - Optimized beam profiles for bump-on-tail suppression.md) |
 | 2026-10-12 | [Controlling external injection in laser-plasma accelerators with terahertz frequency bunch manipulation](../papers/10-1103-wb14-xvj2/README.md) | Physical Review Research (formal publication; local full text: corresponding arXiv:2604.16059v1 author preprint, not VOR) | [笔记](../daily/2026-10-12/notes/Amini et al. - 2026 - THz-controlled external injection for LWFA.md) |
 | 2026-10-12 | [Beam filamentation instability drives deuterium-tritium fusion with polarized neutron emission](../papers/arxiv-2610-11061/README.md) | arXiv preprint | [笔记](../daily/2026-10-12/notes/Qiu et al. - 2026 - Beam filamentation driven DT fusion.md) |
 | 2026-10-12 | [A neural characteristic mapping method: Lagrangian PINNs based on flow maps for transport-dominated problems](../papers/arxiv-2610-12395/README.md) | arXiv preprint | [笔记](../daily/2026-10-12/notes/Campos Pinto et al. - 2026 - Neural characteristic maps for kinetic transport.md) |

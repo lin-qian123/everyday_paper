@@ -2,11 +2,13 @@
 
 stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。
 
-- 当前收录：52 篇
-- 索引更新时间：2026-10-12
+- 当前收录：54 篇
+- 索引更新时间：2026-10-13
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-13 | [Global gyrokinetic simulations of electromagnetic turbulence in STEP](../papers/10-1088-1741-4326-aeaaf4/README.md) | Nuclear Fusion (formal CC BY publication; local full text: corresponding arXiv:2609.02803v1 author preprint, not VOR) | [笔记](../daily/2026-10-13/notes/Kennedy et al. - 2026 - Global gyrokinetic STEP turbulence.md) |
+| 2026-10-13 | [Implementation and verification of a new free boundary module for Resistive Wall Modes simulations with the nonlinear 3D full MHD code SpeCyl](../papers/arxiv-2610-13428/README.md) | arXiv preprint | [笔记](../daily/2026-10-13/notes/Galeazzi et al. - 2026 - SpeCyl free-boundary RWM module.md) |
 | 2026-10-12 | [Compressional heating above 1 keV on the LM26 magnetized target fusion machine](../papers/arxiv-2610-11890/README.md) | arXiv preprint | [笔记](../daily/2026-10-12/notes/Howard et al. - 2026 - LM26 compressional heating above 1 keV.md) |
 | 2026-10-12 | [Thomson Scattering Measurement of 1 keV Electron Temperature on Lawson Machine 26](../papers/arxiv-2610-11769/README.md) | arXiv preprint | [笔记](../daily/2026-10-12/notes/Carle et al. - 2026 - LM26 Thomson scattering at 1 keV.md) |
 | 2026-10-12 | [A neural characteristic mapping method: Lagrangian PINNs based on flow maps for transport-dominated problems](../papers/arxiv-2610-12395/README.md) | arXiv preprint | [笔记](../daily/2026-10-12/notes/Campos Pinto et al. - 2026 - Neural characteristic maps for kinetic transport.md) |

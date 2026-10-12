@@ -1,0 +1,76 @@
+{
+  "run_date": "2026-10-13",
+  "latest_arxiv_submission_date": "2026-10-09",
+  "search_summary": {
+    "sources": "installed multi-source search layer, official arXiv Atom API, Crossref metadata, Optica and IOP",
+    "search_layer_queries": 3,
+    "search_layer_results": 0,
+    "crossref_unique_works": 694,
+    "arxiv_recent_rows": 33,
+    "selection_basis": "formal-source priority, verified full text, recency, topic fit and non-duplication",
+    "coverage_claim": "targeted, not exhaustive",
+    "research_record": "daily/2026-10-13/research/"
+  },
+  "deduplication": {
+    "processed_before": 436,
+    "processed_after": 442,
+    "retry_before": 29,
+    "retry_after": 30,
+    "keys": [
+      "DOI or arXiv identifier",
+      "normalized title",
+      "source URL",
+      "historical daily folders",
+      "retry queue",
+      "formal version versus author-preprint title match",
+      "abstract and physical scenario"
+    ],
+    "distinct_related_case": "Optica 10.1364/optica.612330 and existing HPL 10.1017/hpl.2026.10121 share authors and cylindrical-vector gamma context but use different beam-target configurations and results"
+  },
+  "added": [
+    "10.1364/optica.612330",
+    "10.1088/1741-4326/aeaaf4",
+    "10.48550/arXiv.2610.13822",
+    "10.48550/arXiv.2610.13428",
+    "10.48550/arXiv.2610.13391",
+    "10.48550/arXiv.2610.13868"
+  ],
+  "retry_added": [
+    "10.1088/1361-6560/aeaf41"
+  ],
+  "pdf_validation": {
+    "valid_documents": 6,
+    "formal_records_with_corresponding_author_preprint": 2,
+    "official_arxiv_preprints": 4,
+    "total_bytes": 14550916,
+    "total_pages": 175,
+    "selected_and_visually_checked_pages": 12,
+    "decoded_key_figures": 6,
+    "mineru": "all six public-URL tasks failed; validated local layout-text and rendered-page fallback used",
+    "details": "daily/2026-10-13/pdf_validation.json"
+  },
+  "evidence_boundaries": [
+    "Cao et al. reports a three-dimensional QED-PIC beam-target concept, not an operating structured-gamma source experiment.",
+    "Kennedy et al. is a global electromagnetic GENE study; the reference profiles are not a demonstrated steady STEP operating point.",
+    "Liu et al. trains surrogates on one-dimensional implosion simulations; the OOD material results do not establish experimental transfer.",
+    "Galeazzi et al. verifies a free-boundary MHD module against analytic and prior-model benchmarks, not a new device observation.",
+    "Mignelli and Einkemmer optimize a one-dimensional electrostatic Vlasov-Poisson model without transverse injector physics.",
+    "Bonaiti and Sobczyk combines ab initio E1 strength with reaction modeling; it is not a new neutron-capture cross-section measurement.",
+    "No QED-PIC, gyrokinetic, implosion, MHD, Vlasov optimization, ab initio or TALYS calculation was reproduced locally."
+  ],
+  "validation": {
+    "index_builder": "Indexed 442 papers across 9 categories.",
+    "pytest": "7 passed via PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q",
+    "unittest": "7 tests passed via python -m unittest discover -s tests -v",
+    "ledger_checks": "442 records parsed; 438 non-null identifiers are unique; all 442 normalized titles are unique; 30 retry identifiers are unique",
+    "pdf_header_size_hash_metadata_text_check": "passed for six PDFs totaling 175 pages and 14550916 bytes",
+    "download_report_check": "seven reports parsed: six selected papers and one retry attempt",
+    "markdown_link_check": "41 local links across the daily index, six notes and six affected generated paper pages resolved after URL decoding",
+    "image_check": "six PNG figures decoded successfully; 12 selected PDF pages were visually inspected",
+    "diff_check": "git diff --check passed",
+    "ignored_artifacts": "the six daily PDFs and extracted-text artifacts are Git-ignored; temporary rendered pages and MinerU cache were moved to Trash"
+  },
+  "git": "scoped commit and push to origin/master after final staging validation",
+  "status": "success",
+  "validated_at": "2026-10-13T07:18:46+08:00"
+}

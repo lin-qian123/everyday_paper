@@ -1,10 +1,16 @@
 # 论文总索引
 
-- 当前入库论文：436 篇
-- 索引更新时间：2026-10-12
+- 当前入库论文：442 篇
+- 索引更新时间：2026-10-13
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-10-13 | [Global gyrokinetic simulations of electromagnetic turbulence in STEP](./10-1088-1741-4326-aeaaf4/README.md) | Nuclear Fusion (formal CC BY publication; local full text: corresponding arXiv:2609.02803v1 author preprint, not VOR) | [10.1088/1741-4326/aeaaf4](https://doi.org/10.1088/1741-4326/aeaaf4) |
+| 2026-10-13 | [Generating cylindrical vector gamma rays via beam-target interactions: toward structured light at high energies](./10-1364-optica-612330/README.md) | Optica (formal publication; local full text: corresponding arXiv:2508.16220v1 author preprint, not VOR) | [10.1364/optica.612330](https://doi.org/10.1364/optica.612330) |
+| 2026-10-13 | [Physical-state supervision for design-only Gaussian process surrogates of implosion simulations](./arxiv-2610-13822/README.md) | arXiv preprint | [10.48550/arXiv.2610.13822](https://doi.org/10.48550/arXiv.2610.13822) |
+| 2026-10-13 | [Implementation and verification of a new free boundary module for Resistive Wall Modes simulations with the nonlinear 3D full MHD code SpeCyl](./arxiv-2610-13428/README.md) | arXiv preprint | [10.48550/arXiv.2610.13428](https://doi.org/10.48550/arXiv.2610.13428) |
+| 2026-10-13 | [Global optimization of beam profiles for suppressing the bump-on-tail instability](./arxiv-2610-13391/README.md) | arXiv preprint | [10.48550/arXiv.2610.13391](https://doi.org/10.48550/arXiv.2610.13391) |
+| 2026-10-13 | [Impact of ab initio E1 strength on neutron capture rates along the nickel isotopic chain](./arxiv-2610-13868/README.md) | arXiv preprint | [10.48550/arXiv.2610.13868](https://doi.org/10.48550/arXiv.2610.13868) |
 | 2026-10-12 | [Controlling external injection in laser-plasma accelerators with terahertz frequency bunch manipulation](./10-1103-wb14-xvj2/README.md) | Physical Review Research (formal publication; local full text: corresponding arXiv:2604.16059v1 author preprint, not VOR) | [10.1103/wb14-xvj2](https://doi.org/10.1103/wb14-xvj2) |
 | 2026-10-12 | [Compressional heating above 1 keV on the LM26 magnetized target fusion machine](./arxiv-2610-11890/README.md) | arXiv preprint | [10.48550/arXiv.2610.11890](https://doi.org/10.48550/arXiv.2610.11890) |
 | 2026-10-12 | [Thomson Scattering Measurement of 1 keV Electron Temperature on Lawson Machine 26](./arxiv-2610-11769/README.md) | arXiv preprint | [10.48550/arXiv.2610.11769](https://doi.org/10.48550/arXiv.2610.11769) |

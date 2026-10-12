@@ -1,0 +1,39 @@
+{
+  "run_id": "2026-10-13-daily-paper",
+  "run_date": "2026-10-13",
+  "status": "success",
+  "coverage_claim": "targeted official-source search, not exhaustive",
+  "search_layer_queries": 3,
+  "search_layer_results": 0,
+  "crossref_queries": 8,
+  "crossref_unique_rows": 694,
+  "arxiv_recent_rows": 33,
+  "latest_selected_arxiv_submission_date": "2026-10-09",
+  "selected_identifiers": [
+    "10.1364/optica.612330",
+    "10.1088/1741-4326/aeaaf4",
+    "10.48550/arXiv.2610.13822",
+    "10.48550/arXiv.2610.13428",
+    "10.48550/arXiv.2610.13391",
+    "10.48550/arXiv.2610.13868"
+  ],
+  "formal_fulltext_provenance": [
+    "10.1364/optica.612330 metadata + corresponding arXiv:2508.16220v1 author preprint",
+    "10.1088/1741-4326/aeaaf4 metadata + corresponding arXiv:2609.02803v1 author preprint"
+  ],
+  "retry_added": ["10.1088/1361-6560/aeaf41"],
+  "processed_before": 436,
+  "processed_after": 442,
+  "retry_before": 29,
+  "retry_after": 30,
+  "validation": {
+    "pdfs": "six documents; 14550916 bytes; 175 pages; headers, sizes, SHA-256, metadata, text extraction and pypdf readability passed",
+    "images": "six key-figure PNG files decoded; 12 selected PDF pages were visually inspected",
+    "mineru": "six local paths unsupported and six public-URL tasks failed; validated local fallback used",
+    "indexes": "Indexed 442 papers across 9 categories.",
+    "tests": "pytest 7/7 and unittest 7/7 passed",
+    "ledger": "442 records; 438 unique non-null identifiers; 442 unique normalized titles; 30 unique retry identifiers",
+    "links": "41 local links across the daily index, six notes and six generated paper pages resolved",
+    "diff": "git diff --check passed"
+  }
+}

@@ -2,11 +2,13 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：102 篇
-- 索引更新时间：2026-10-12
+- 当前收录：104 篇
+- 索引更新时间：2026-10-13
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-13 | [Generating cylindrical vector gamma rays via beam-target interactions: toward structured light at high energies](../papers/10-1364-optica-612330/README.md) | Optica (formal publication; local full text: corresponding arXiv:2508.16220v1 author preprint, not VOR) | [笔记](../daily/2026-10-13/notes/Cao et al. - 2026 - Cylindrical vector gamma rays.md) |
+| 2026-10-13 | [Impact of ab initio E1 strength on neutron capture rates along the nickel isotopic chain](../papers/arxiv-2610-13868/README.md) | arXiv preprint | [笔记](../daily/2026-10-13/notes/Bonaiti and Sobczyk - 2026 - Ab initio E1 neutron capture rates.md) |
 | 2026-10-12 | [Controlling external injection in laser-plasma accelerators with terahertz frequency bunch manipulation](../papers/10-1103-wb14-xvj2/README.md) | Physical Review Research (formal publication; local full text: corresponding arXiv:2604.16059v1 author preprint, not VOR) | [笔记](../daily/2026-10-12/notes/Amini et al. - 2026 - THz-controlled external injection for LWFA.md) |
 | 2026-10-12 | [Beam filamentation instability drives deuterium-tritium fusion with polarized neutron emission](../papers/arxiv-2610-11061/README.md) | arXiv preprint | [笔记](../daily/2026-10-12/notes/Qiu et al. - 2026 - Beam filamentation driven DT fusion.md) |
 | 2026-10-09 | [Omnidirectional Radiation Detector with Perpendicular Dual Silicon Photomultiplier Readout - Directional Sensitivity and Machine Learning Source Positioning](../papers/arxiv-2610-08195/README.md) | arXiv preprint | [笔记](../daily/2026-10-09/notes/Kozuljevic et al. - 2026 - Omnidirectional gamma detector with ML positioning.md) |

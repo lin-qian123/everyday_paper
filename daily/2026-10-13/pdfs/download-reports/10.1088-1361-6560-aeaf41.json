@@ -1,0 +1,13 @@
+{
+  "ok": false,
+  "output": "daily/2026-10-13/pdfs/blocked-aeaf41.pdf",
+  "attempts": [
+    "[env-proxy] https://iopscience.iop.org/article/10.1088/1361-6560/aeaf41/pdf -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[direct] https://iopscience.iop.org/article/10.1088/1361-6560/aeaf41/pdf -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[env-proxy] https://doi.org/10.1088/1361-6560/aeaf41 -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[direct] https://doi.org/10.1088/1361-6560/aeaf41 -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[env-proxy] https://validate.perfdrive.com/fb803c746e9148689b3984a31fccd902/?ssa=0d7f7fb8-d093-4732-a87d-dc96c48aca9f&ssb=27200275479&ssc=https%3A%2F%2Fiopscience.iop.org%2Farticle%2F10.1088%2F1361-6560%2Faeaf41&ssi=26c06b4b-cnvj-44fc-849e-f1c99e088208&ssk=botmanager_support@radware.com&ssm=49422709967231475104865543088563&ssn=0c31946e75fefa072303b2de3440f5ee6d728f0c32c0-3609-41f9-9e7cfe&sso=2e5e6122-7498003415c5c74610b9fec2b31c9421735d36c087329d68&ssp=73197714971791852434179180326746100&ssq=37439354646162505873546461158508247782074&ssr=NjYuMTM1LjIxLjIwNg==&sst=everyday-paper-bot/1.0%20(+local%20automation)&ssu=&ssv=&ssw=&ssx=eyJyZCI6ImlvcC5vcmciLCJ1em14IjoiN2ZjMDAwODE0NjcwYTItOGQ4Zi00MjMyLTg2NjItMmE5YmFkMmJhNGE1MS0xNzkxODQ2NDYxNTU1MC0wMDk0NTE2ZWRiZWI4MmEwMTc0MTAiLCJfX3V6bWYiOiI3ZjkwMDA4ZjBjMzJjMC0zNjA5LTQxZjktOTEyMi03NDk4MDAzNDE1YzUxLTE3OTE4NDY0NjE1NTUwLTAwNTZjNTdhMzU0ZDY3N2U0ZWIxMCJ9 -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[direct] https://validate.perfdrive.com/fb803c746e9148689b3984a31fccd902/?ssa=0d7f7fb8-d093-4732-a87d-dc96c48aca9f&ssb=27200275479&ssc=https%3A%2F%2Fiopscience.iop.org%2Farticle%2F10.1088%2F1361-6560%2Faeaf41&ssi=26c06b4b-cnvj-44fc-849e-f1c99e088208&ssk=botmanager_support@radware.com&ssm=49422709967231475104865543088563&ssn=0c31946e75fefa072303b2de3440f5ee6d728f0c32c0-3609-41f9-9e7cfe&sso=2e5e6122-7498003415c5c74610b9fec2b31c9421735d36c087329d68&ssp=73197714971791852434179180326746100&ssq=37439354646162505873546461158508247782074&ssr=NjYuMTM1LjIxLjIwNg==&sst=everyday-paper-bot/1.0%20(+local%20automation)&ssu=&ssv=&ssw=&ssx=eyJyZCI6ImlvcC5vcmciLCJ1em14IjoiN2ZjMDAwODE0NjcwYTItOGQ4Zi00MjMyLTg2NjItMmE5YmFkMmJhNGE1MS0xNzkxODQ2NDYxNTU1MC0wMDk0NTE2ZWRiZWI4MmEwMTc0MTAiLCJfX3V6bWYiOiI3ZjkwMDA4ZjBjMzJjMC0zNjA5LTQxZjktOTEyMi03NDk4MDAzNDE1YzUxLTE3OTE4NDY0NjE1NTUwLTAwNTZjNTdhMzU0ZDY3N2U0ZWIxMCJ9 -> not pdf (content-type=text/html; charset=UTF-8)"
+  ],
+  "failure_class": "publisher_bot_wall"
+}

@@ -2,11 +2,12 @@
 
 强场量子效应、辐射反作用、非线性 Compton、pair production 与极端场实验。
 
-- 当前收录：70 篇
-- 索引更新时间：2026-10-12
+- 当前收录：71 篇
+- 索引更新时间：2026-10-13
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-13 | [Generating cylindrical vector gamma rays via beam-target interactions: toward structured light at high energies](../papers/10-1364-optica-612330/README.md) | Optica (formal publication; local full text: corresponding arXiv:2508.16220v1 author preprint, not VOR) | [笔记](../daily/2026-10-13/notes/Cao et al. - 2026 - Cylindrical vector gamma rays.md) |
 | 2026-10-09 | [High-order harmonic generation in ion- and nanoparticle-containing aluminum laser-induced plasma](../papers/10-1063-5-0350047/README.md) | Physics of Plasmas 33, 103302 (formal version of record) | [笔记](../daily/2026-10-09/notes/Ganeev - 2026 - High-order harmonic generation in aluminum plasma.md) |
 | 2026-10-09 | [Novel radiative trapping mechanism in ultra-intense laser–plasma interactions](../papers/10-1063-5-0341085/README.md) | Matter and Radiation at Extremes 11, 065201 (formal version of record, CC BY) | [笔记](../daily/2026-10-09/notes/Zhou et al. - 2026 - Novel radiative trapping mechanism.md) |
 | 2026-10-07 | [Radiation Reaction in Relativistic Magnetized Shocks of Neutron Star Magnetospheres](../papers/arxiv-2610-05386/README.md) | arXiv preprint | [笔记](../daily/2026-10-07/notes/Vanthieghem and Levinson - 2026 - Radiation reaction in relativistic magnetized shocks.md) |
