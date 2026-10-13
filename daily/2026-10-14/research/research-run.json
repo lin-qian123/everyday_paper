@@ -1,0 +1,39 @@
+{
+  "run_id": "2026-10-14-daily-paper",
+  "run_date": "2026-10-14",
+  "status": "success",
+  "coverage_claim": "targeted official-source search, not exhaustive",
+  "crossref_queries": 10,
+  "crossref_unique_rows": 740,
+  "arxiv_recent_rows": 100,
+  "latest_visible_arxiv_submission_date": "2026-10-09",
+  "selected_identifiers": [
+    "10.1103/b27b-9gg1",
+    "10.1007/s10894-026-00603-w",
+    "10.1007/s10751-026-02815-0",
+    "10.3390/condmat11040038",
+    "10.1186/s11671-026-04982-z"
+  ],
+  "retry_added": [
+    "10.1364/oe.615068",
+    "10.1088/1741-4326/aeacfc",
+    "10.1088/1741-4326/aead74",
+    "10.1080/00223131.2026.2745756",
+    "10.1038/s42005-026-02913-z"
+  ],
+  "processed_before": 442,
+  "processed_after": 447,
+  "retry_before": 30,
+  "retry_after": 35,
+  "pdf_validation": "daily/2026-10-14/pdf_validation.json",
+  "validation": {
+    "pdfs": "five documents; 16656651 bytes; 77 pages; headers, sizes, SHA-256, metadata, text extraction and pypdf readability passed",
+    "images": "five key-figure PNG files decoded; 10 selected PDF pages were visually inspected",
+    "mineru": "not attempted; validated local PDF, layout-text and rendered-page workflow used",
+    "indexes": "Indexed 447 papers across 9 categories.",
+    "tests": "pytest 7/7 and unittest 7/7 passed",
+    "ledger": "447 records; 443 unique non-null DOIs; 447 unique normalized titles; 35 unique retry DOIs",
+    "links": "35 local links across the daily index, five notes and five generated paper pages resolved",
+    "diff": "git diff --check passed"
+  }
+}

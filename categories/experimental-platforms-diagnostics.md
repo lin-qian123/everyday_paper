@@ -2,11 +2,16 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：136 篇
-- 索引更新时间：2026-10-13
+- 当前收录：141 篇
+- 索引更新时间：2026-10-14
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-14 | [Two-color dual-oscillator infrared free-electron laser](../papers/10-1103-b27b-9gg1/README.md) | Physical Review Accelerators and Beams (formal CC BY VOR) | [笔记](../daily/2026-10-14/notes/Schollkopf et al. - 2026 - Two-color dual-oscillator infrared FEL.md) |
+| 2026-10-14 | [Triton Burnup Detector in Large Helical Device](../papers/10-1007-s10894-026-00603-w/README.md) | Journal of Fusion Energy (formal CC BY VOR) | [笔记](../daily/2026-10-14/notes/Ogawa et al. - 2026 - Triton burnup detector in LHD.md) |
+| 2026-10-14 | [Calibration of organic liquid scintillator EJ-315 and unfolding of gamma spectra](../papers/10-1007-s10751-026-02815-0/README.md) | Interactions (formal conference-proceeding VOR) | [笔记](../daily/2026-10-14/notes/Saikia et al. - 2026 - EJ-315 gamma spectrum unfolding.md) |
+| 2026-10-14 | [Pulse-Shape Discrimination with Machine Learning for CZT Detectors at DAΦNE Beam Test Facility](../papers/10-3390-condmat11040038/README.md) | Condensed Matter (formal CC BY VOR) | [笔记](../daily/2026-10-14/notes/Manti et al. - 2026 - ML pulse-shape discrimination for CZT.md) |
+| 2026-10-14 | [Analysis of material reliability features of plasma material interactions](../papers/10-1186-s11671-026-04982-z/README.md) | Discover Nano (formal VOR) | [笔记](../daily/2026-10-14/notes/Pahsa - 2026 - Plasma-material reliability from AFM and SEM.md) |
 | 2026-10-12 | [Compressional heating above 1 keV on the LM26 magnetized target fusion machine](../papers/arxiv-2610-11890/README.md) | arXiv preprint | [笔记](../daily/2026-10-12/notes/Howard et al. - 2026 - LM26 compressional heating above 1 keV.md) |
 | 2026-10-12 | [Thomson Scattering Measurement of 1 keV Electron Temperature on Lawson Machine 26](../papers/arxiv-2610-11769/README.md) | arXiv preprint | [笔记](../daily/2026-10-12/notes/Carle et al. - 2026 - LM26 Thomson scattering at 1 keV.md) |
 | 2026-10-12 | [Imaging ablator-fuel mix of hot spot in inertial confinement fusion via resonant X-ray absorption using an X-ray free electron laser](../papers/arxiv-2610-11603/README.md) | arXiv preprint | [笔记](../daily/2026-10-12/notes/Huang et al. - 2026 - Resonant X-ray imaging of ICF mix.md) |

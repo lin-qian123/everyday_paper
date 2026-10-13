@@ -2,11 +2,12 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：138 篇
-- 索引更新时间：2026-10-13
+- 当前收录：139 篇
+- 索引更新时间：2026-10-14
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-14 | [Two-color dual-oscillator infrared free-electron laser](../papers/10-1103-b27b-9gg1/README.md) | Physical Review Accelerators and Beams (formal CC BY VOR) | [笔记](../daily/2026-10-14/notes/Schollkopf et al. - 2026 - Two-color dual-oscillator infrared FEL.md) |
 | 2026-10-13 | [Global optimization of beam profiles for suppressing the bump-on-tail instability](../papers/arxiv-2610-13391/README.md) | arXiv preprint | [笔记](../daily/2026-10-13/notes/Mignelli and Einkemmer - 2026 - Optimized beam profiles for bump-on-tail suppression.md) |
 | 2026-10-12 | [Controlling external injection in laser-plasma accelerators with terahertz frequency bunch manipulation](../papers/10-1103-wb14-xvj2/README.md) | Physical Review Research (formal publication; local full text: corresponding arXiv:2604.16059v1 author preprint, not VOR) | [笔记](../daily/2026-10-12/notes/Amini et al. - 2026 - THz-controlled external injection for LWFA.md) |
 | 2026-10-08 | [Evolution of transversely asymmetric electron beams in hollow plasma channels](../papers/10-1103-13fz-y5wy/README.md) | Physical Review Accelerators and Beams (formal version of record) | [笔记](../daily/2026-10-08/notes/Ding et al. - 2026 - Asymmetric beams in hollow plasma channels.md) |

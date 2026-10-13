@@ -1,0 +1,9 @@
+{
+  "ok": false,
+  "output": "daily/2026-10-14/pdfs/blocked-oe-615068.pdf",
+  "attempts": [
+    "Optica viewmedia, DOI and article routes returned HTML/Radware verification pages rather than a PDF.",
+    "Exact-title checks found no lawful arXiv or repository manuscript."
+  ],
+  "failure_class": "publisher_bot_wall"
+}

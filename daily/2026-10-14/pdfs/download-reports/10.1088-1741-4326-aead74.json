@@ -1,0 +1,9 @@
+{
+  "ok": false,
+  "output": "daily/2026-10-14/pdfs/blocked-aead74.pdf",
+  "attempts": [
+    "IOP PDF, DOI and article routes returned HTML/Radware verification pages.",
+    "No lawful matching arXiv or institutional full text was found."
+  ],
+  "failure_class": "html_instead_of_pdf"
+}

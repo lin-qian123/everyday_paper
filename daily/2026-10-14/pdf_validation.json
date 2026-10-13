@@ -1,0 +1,83 @@
+{
+  "run_date": "2026-10-14",
+  "checks": [
+    "%PDF- header",
+    "file type",
+    "nonzero byte count",
+    "SHA-256",
+    "pdfinfo page count",
+    "pypdf page/text readability",
+    "nonempty pdftotext -layout",
+    "selected-page rendering and visual inspection"
+  ],
+  "mineru": {
+    "attempted_documents": 0,
+    "completed_documents": 0,
+    "status": "not_attempted",
+    "reason": "The formal PDFs were validated with local header, type, metadata, pypdf, layout-text and rendered-page checks; no MinerU result is claimed."
+  },
+  "documents": [
+    {
+      "identifier": "10.1103/b27b-9gg1",
+      "path": "daily/2026-10-14/pdfs/Schollkopf et al. - 2026 - Two-color dual-oscillator infrared FEL.pdf",
+      "bytes": 5754879,
+      "sha256": "7899c0b2212893900394b3db6525bb9ce381b5d68aba35c6993c89f59a563864",
+      "pages": 14,
+      "text_bytes": 82490,
+      "rendered_pages": [11, 12],
+      "source_note": "APS formal CC BY VOR.",
+      "status": "passed"
+    },
+    {
+      "identifier": "10.1007/s10894-026-00603-w",
+      "path": "daily/2026-10-14/pdfs/Ogawa et al. - 2026 - Triton burnup detector in LHD.pdf",
+      "bytes": 1409917,
+      "sha256": "4c6d52ef2a65a59eeeb426437be2ce29330dab4971209bc25cb98771bf19c916",
+      "pages": 7,
+      "text_bytes": 37701,
+      "rendered_pages": [5, 6],
+      "source_note": "Springer formal CC BY VOR.",
+      "status": "passed"
+    },
+    {
+      "identifier": "10.1007/s10751-026-02815-0",
+      "path": "daily/2026-10-14/pdfs/Saikia et al. - 2026 - EJ-315 gamma spectrum unfolding.pdf",
+      "bytes": 5300376,
+      "sha256": "46a4605d78b2f3477b87dbdd128cdf787d7b63f118b53de404ca48a41f5f32d8",
+      "pages": 27,
+      "text_bytes": 75980,
+      "rendered_pages": [17, 25],
+      "source_note": "Springer formal conference-proceeding VOR.",
+      "status": "passed"
+    },
+    {
+      "identifier": "10.3390/condmat11040038",
+      "path": "daily/2026-10-14/pdfs/Manti et al. - 2026 - ML pulse-shape discrimination for CZT.pdf",
+      "bytes": 2141263,
+      "sha256": "cfc37b8019d25edae458195b8beb72b338551045128b305b32dcb65189e4e33d",
+      "pages": 11,
+      "text_bytes": 61957,
+      "rendered_pages": [7, 8],
+      "source_note": "MDPI formal CC BY VOR.",
+      "status": "passed"
+    },
+    {
+      "identifier": "10.1186/s11671-026-04982-z",
+      "path": "daily/2026-10-14/pdfs/Pahsa - 2026 - Plasma-material reliability from AFM and SEM.pdf",
+      "bytes": 2050216,
+      "sha256": "8f8b8fa2be6fd0b81bd783bdbf1420822def4420c9f9b92a608a1372cc8f82c1",
+      "pages": 18,
+      "text_bytes": 77824,
+      "rendered_pages": [10, 16],
+      "source_note": "Springer Nature formal VOR; figure-table inconsistency retained in the note.",
+      "status": "passed"
+    }
+  ],
+  "total_pdf_bytes": 16656651,
+  "total_text_bytes": 335952,
+  "total_pages": 77,
+  "selected_and_visually_checked_pages": 10,
+  "decoded_key_figures": 5,
+  "valid_documents": 5,
+  "status": "passed"
+}

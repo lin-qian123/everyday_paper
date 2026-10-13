@@ -1,0 +1,10 @@
+{
+  "ok": false,
+  "output": "daily/2026-10-14/pdfs/blocked-s42005-026-02913-z.pdf",
+  "attempts": [
+    "Nature article PDF routes returned HTML/cookie pages.",
+    "A downloaded peer-review-history file was rejected after title and content inspection because it was not the article VOR.",
+    "No alternate lawful article PDF was found."
+  ],
+  "failure_class": "publisher_cookie_wall"
+}

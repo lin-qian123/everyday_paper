@@ -2,11 +2,13 @@
 
 stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。
 
-- 当前收录：54 篇
-- 索引更新时间：2026-10-13
+- 当前收录：56 篇
+- 索引更新时间：2026-10-14
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-14 | [Triton Burnup Detector in Large Helical Device](../papers/10-1007-s10894-026-00603-w/README.md) | Journal of Fusion Energy (formal CC BY VOR) | [笔记](../daily/2026-10-14/notes/Ogawa et al. - 2026 - Triton burnup detector in LHD.md) |
+| 2026-10-14 | [Analysis of material reliability features of plasma material interactions](../papers/10-1186-s11671-026-04982-z/README.md) | Discover Nano (formal VOR) | [笔记](../daily/2026-10-14/notes/Pahsa - 2026 - Plasma-material reliability from AFM and SEM.md) |
 | 2026-10-13 | [Global gyrokinetic simulations of electromagnetic turbulence in STEP](../papers/10-1088-1741-4326-aeaaf4/README.md) | Nuclear Fusion (formal CC BY publication; local full text: corresponding arXiv:2609.02803v1 author preprint, not VOR) | [笔记](../daily/2026-10-13/notes/Kennedy et al. - 2026 - Global gyrokinetic STEP turbulence.md) |
 | 2026-10-13 | [Implementation and verification of a new free boundary module for Resistive Wall Modes simulations with the nonlinear 3D full MHD code SpeCyl](../papers/arxiv-2610-13428/README.md) | arXiv preprint | [笔记](../daily/2026-10-13/notes/Galeazzi et al. - 2026 - SpeCyl free-boundary RWM module.md) |
 | 2026-10-12 | [Compressional heating above 1 keV on the LM26 magnetized target fusion machine](../papers/arxiv-2610-11890/README.md) | arXiv preprint | [笔记](../daily/2026-10-12/notes/Howard et al. - 2026 - LM26 compressional heating above 1 keV.md) |

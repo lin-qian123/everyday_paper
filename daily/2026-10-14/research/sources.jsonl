@@ -1,0 +1,7 @@
+{"source":"arXiv Atom API","run_date":"2026-10-14","categories":["physics.plasm-ph","physics.acc-ph","physics.comp-ph","physics.med-ph","physics.ins-det","nucl-ex","nucl-th"],"max_results":100,"latest_visible_submission_date":"2026-10-09","selected":[],"note":"No newer target-category submission was visible; this was not treated as evidence that no relevant literature existed."}
+{"source":"Crossref REST API","run_date":"2026-10-14","date_window":["2026-10-09","2026-10-14"],"queries":10,"unique_rows":740,"note":"Targeted metadata screen, not exhaustive coverage."}
+{"source":"APS","run_date":"2026-10-14","selected":"10.1103/b27b-9gg1","status":"formal CC BY VOR downloaded and validated"}
+{"source":"Springer Nature","run_date":"2026-10-14","selected":["10.1007/s10894-026-00603-w","10.1007/s10751-026-02815-0","10.1186/s11671-026-04982-z"],"status":"formal VOR PDFs downloaded and validated"}
+{"source":"MDPI","run_date":"2026-10-14","selected":"10.3390/condmat11040038","status":"formal CC BY VOR downloaded and validated"}
+{"source":"Optica/IOP/Nature/Taylor & Francis","run_date":"2026-10-14","retry_added":["10.1364/oe.615068","10.1088/1741-4326/aeacfc","10.1088/1741-4326/aead74","10.1080/00223131.2026.2745756","10.1038/s42005-026-02913-z"],"status":"article full text unavailable through lawful checked routes; no abstract-only notes created"}
+{"source":"MinerU","run_date":"2026-10-14","attempted":0,"status":"not_attempted","note":"Validated local PDF, layout-text, pypdf and rendered-page workflow used."}

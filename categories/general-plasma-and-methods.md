@@ -2,11 +2,15 @@
 
 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。
 
-- 当前收录：108 篇
-- 索引更新时间：2026-10-13
+- 当前收录：112 篇
+- 索引更新时间：2026-10-14
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-14 | [Two-color dual-oscillator infrared free-electron laser](../papers/10-1103-b27b-9gg1/README.md) | Physical Review Accelerators and Beams (formal CC BY VOR) | [笔记](../daily/2026-10-14/notes/Schollkopf et al. - 2026 - Two-color dual-oscillator infrared FEL.md) |
+| 2026-10-14 | [Triton Burnup Detector in Large Helical Device](../papers/10-1007-s10894-026-00603-w/README.md) | Journal of Fusion Energy (formal CC BY VOR) | [笔记](../daily/2026-10-14/notes/Ogawa et al. - 2026 - Triton burnup detector in LHD.md) |
+| 2026-10-14 | [Calibration of organic liquid scintillator EJ-315 and unfolding of gamma spectra](../papers/10-1007-s10751-026-02815-0/README.md) | Interactions (formal conference-proceeding VOR) | [笔记](../daily/2026-10-14/notes/Saikia et al. - 2026 - EJ-315 gamma spectrum unfolding.md) |
+| 2026-10-14 | [Analysis of material reliability features of plasma material interactions](../papers/10-1186-s11671-026-04982-z/README.md) | Discover Nano (formal VOR) | [笔记](../daily/2026-10-14/notes/Pahsa - 2026 - Plasma-material reliability from AFM and SEM.md) |
 | 2026-10-13 | [Global gyrokinetic simulations of electromagnetic turbulence in STEP](../papers/10-1088-1741-4326-aeaaf4/README.md) | Nuclear Fusion (formal CC BY publication; local full text: corresponding arXiv:2609.02803v1 author preprint, not VOR) | [笔记](../daily/2026-10-13/notes/Kennedy et al. - 2026 - Global gyrokinetic STEP turbulence.md) |
 | 2026-10-13 | [Physical-state supervision for design-only Gaussian process surrogates of implosion simulations](../papers/arxiv-2610-13822/README.md) | arXiv preprint | [笔记](../daily/2026-10-13/notes/Liu et al. - 2026 - Physical-state GP implosion surrogates.md) |
 | 2026-10-13 | [Implementation and verification of a new free boundary module for Resistive Wall Modes simulations with the nonlinear 3D full MHD code SpeCyl](../papers/arxiv-2610-13428/README.md) | arXiv preprint | [笔记](../daily/2026-10-13/notes/Galeazzi et al. - 2026 - SpeCyl free-boundary RWM module.md) |

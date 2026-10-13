@@ -1,0 +1,77 @@
+{
+  "run_date": "2026-10-14",
+  "latest_arxiv_submission_date": "2026-10-09",
+  "search_summary": {
+    "sources": "official arXiv Atom API, Crossref metadata, APS, Springer Nature, MDPI, Optica, IOP, Nature and Taylor & Francis",
+    "crossref_queries": 10,
+    "crossref_unique_works": 740,
+    "arxiv_recent_rows": 100,
+    "selection_basis": "formal-source priority, verified full text, recency, topic fit and non-duplication",
+    "coverage_claim": "targeted, not exhaustive",
+    "research_record": "daily/2026-10-14/research/"
+  },
+  "deduplication": {
+    "processed_before": 442,
+    "processed_after": 447,
+    "retry_before": 30,
+    "retry_after": 35,
+    "keys": [
+      "DOI",
+      "normalized title",
+      "source URL",
+      "historical daily folders",
+      "retry queue",
+      "abstract",
+      "physical scenario"
+    ],
+    "existing_overlap": "The only completed/retry overlap remains the documented legacy 10.1016/j.jcp.2026.114707; this run created no new overlap."
+  },
+  "added": [
+    "10.1103/b27b-9gg1",
+    "10.1007/s10894-026-00603-w",
+    "10.1007/s10751-026-02815-0",
+    "10.3390/condmat11040038",
+    "10.1186/s11671-026-04982-z"
+  ],
+  "retry_added": [
+    "10.1364/oe.615068",
+    "10.1088/1741-4326/aeacfc",
+    "10.1088/1741-4326/aead74",
+    "10.1080/00223131.2026.2745756",
+    "10.1038/s42005-026-02913-z"
+  ],
+  "pdf_validation": {
+    "valid_documents": 5,
+    "formal_vors": 5,
+    "total_bytes": 16656651,
+    "total_text_bytes": 335952,
+    "total_pages": 77,
+    "selected_and_visually_checked_pages": 10,
+    "decoded_key_figures": 5,
+    "mineru": "not attempted; validated local PDF, layout-text and rendered-page workflow used",
+    "details": "daily/2026-10-14/pdf_validation.json"
+  },
+  "evidence_boundaries": [
+    "Schollkopf et al. is an operating FEL commissioning and performance study, not a laser-plasma acceleration result.",
+    "Ogawa et al. directly measures secondary D-T neutrons, while radial diffusion and alpha-particle implications are FBURN-assisted proxy inferences.",
+    "Saikia et al. directly measures source spectra, while unfolded gamma spectra depend on GEANT4 response and iterative regularization.",
+    "Manti et al. uses real beam-target waveforms, but AUC and accuracy are agreement with human morphology labels rather than independent particle truth.",
+    "Pahsa reanalyzes prior helium-plasma aluminum data with only three common time points; Figure 3 conflicts with Table 6 and the text for cathode reliability.",
+    "No FEL, beam optics, FBURN, GEANT4, unfolding, XGBoost, Weibull or image-analysis calculation was reproduced locally."
+  ],
+  "validation": {
+    "index_builder": "Indexed 447 papers across 9 categories.",
+    "pytest": "7 passed via PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q",
+    "unittest": "7 tests passed via python -m unittest discover -s tests -v",
+    "ledger_checks": "447 records parsed; 443 non-null DOIs are unique; all 447 normalized titles are unique; 35 retry DOIs are unique",
+    "pdf_header_size_hash_metadata_text_check": "passed for five PDFs totaling 77 pages and 16656651 bytes",
+    "download_report_check": "ten reports parsed: five selected papers and five retry attempts",
+    "markdown_link_check": "35 local links across the daily index, five notes and five affected generated paper pages resolved after URL decoding",
+    "image_check": "five PNG figures decoded successfully; 10 selected PDF pages were visually inspected",
+    "diff_check": "git diff --check passed",
+    "ignored_artifacts": "the five daily PDFs and extracted-text artifacts are Git-ignored; temporary discovery and render intermediates are removed after final verification"
+  },
+  "git": "scoped commit and push to origin/master after final staging validation",
+  "status": "success",
+  "validated_at": "2026-10-14T07:21:28+08:00"
+}

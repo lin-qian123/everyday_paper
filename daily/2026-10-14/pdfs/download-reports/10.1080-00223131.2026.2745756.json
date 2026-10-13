@@ -1,0 +1,9 @@
+{
+  "ok": false,
+  "output": "daily/2026-10-14/pdfs/blocked-2745756.pdf",
+  "attempts": [
+    "Taylor & Francis PDF and DOI routes returned HTTP 403 despite Open Access metadata.",
+    "JAEA/JOPSS and exact-title checks found no downloadable manuscript."
+  ],
+  "failure_class": "publisher_http_403"
+}

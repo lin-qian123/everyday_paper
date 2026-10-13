@@ -2,11 +2,12 @@
 
 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。
 
-- 当前收录：75 篇
-- 索引更新时间：2026-10-13
+- 当前收录：76 篇
+- 索引更新时间：2026-10-14
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-14 | [Pulse-Shape Discrimination with Machine Learning for CZT Detectors at DAΦNE Beam Test Facility](../papers/10-3390-condmat11040038/README.md) | Condensed Matter (formal CC BY VOR) | [笔记](../daily/2026-10-14/notes/Manti et al. - 2026 - ML pulse-shape discrimination for CZT.md) |
 | 2026-10-13 | [Physical-state supervision for design-only Gaussian process surrogates of implosion simulations](../papers/arxiv-2610-13822/README.md) | arXiv preprint | [笔记](../daily/2026-10-13/notes/Liu et al. - 2026 - Physical-state GP implosion surrogates.md) |
 | 2026-10-12 | [A neural characteristic mapping method: Lagrangian PINNs based on flow maps for transport-dominated problems](../papers/arxiv-2610-12395/README.md) | arXiv preprint | [笔记](../daily/2026-10-12/notes/Campos Pinto et al. - 2026 - Neural characteristic maps for kinetic transport.md) |
 | 2026-10-09 | [Real-time Tokamak Equilibrium Reconstruction Under Limited Experimental Data via Physics-Grounded Synthetic Pre-training](../papers/arxiv-2610-09674/README.md) | arXiv preprint | [笔记](../daily/2026-10-09/notes/He et al. - 2026 - Tokamak equilibrium reconstruction via synthetic pretraining.md) |

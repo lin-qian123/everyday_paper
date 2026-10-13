@@ -5444,5 +5444,90 @@
       "general-plasma-and-methods"
     ],
     "normalized_title": "impact of ab initio e1 strength on neutron capture rates along the nickel isotopic chain"
+  },
+  {
+    "title": "Two-color dual-oscillator infrared free-electron laser",
+    "doi": "10.1103/b27b-9gg1",
+    "journal": "Physical Review Accelerators and Beams (formal CC BY VOR)",
+    "publication_date": "2026-10-13",
+    "processed_date": "2026-10-14",
+    "source_url": "https://doi.org/10.1103/b27b-9gg1",
+    "pdf_url": "https://link.aps.org/pdf/10.1103/b27b-9gg1",
+    "pdf_path": "daily/2026-10-14/pdfs/Schollkopf et al. - 2026 - Two-color dual-oscillator infrared FEL.pdf",
+    "note_path": "daily/2026-10-14/notes/Schollkopf et al. - 2026 - Two-color dual-oscillator infrared FEL.md",
+    "categories": [
+      "laser-plasma-acceleration",
+      "experimental-platforms-diagnostics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "two color dual oscillator infrared free electron laser"
+  },
+  {
+    "title": "Triton Burnup Detector in Large Helical Device",
+    "doi": "10.1007/s10894-026-00603-w",
+    "journal": "Journal of Fusion Energy (formal CC BY VOR)",
+    "publication_date": "2026-10-13",
+    "processed_date": "2026-10-14",
+    "source_url": "https://doi.org/10.1007/s10894-026-00603-w",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10894-026-00603-w.pdf",
+    "pdf_path": "daily/2026-10-14/pdfs/Ogawa et al. - 2026 - Triton burnup detector in LHD.pdf",
+    "note_path": "daily/2026-10-14/notes/Ogawa et al. - 2026 - Triton burnup detector in LHD.md",
+    "categories": [
+      "magnetic-fusion-and-alpha-particles",
+      "experimental-platforms-diagnostics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "triton burnup detector in large helical device"
+  },
+  {
+    "title": "Calibration of organic liquid scintillator EJ-315 and unfolding of gamma spectra",
+    "doi": "10.1007/s10751-026-02815-0",
+    "journal": "Interactions (formal conference-proceeding VOR)",
+    "publication_date": "2026-10-13",
+    "processed_date": "2026-10-14",
+    "source_url": "https://doi.org/10.1007/s10751-026-02815-0",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10751-026-02815-0.pdf",
+    "pdf_path": "daily/2026-10-14/pdfs/Saikia et al. - 2026 - EJ-315 gamma spectrum unfolding.pdf",
+    "note_path": "daily/2026-10-14/notes/Saikia et al. - 2026 - EJ-315 gamma spectrum unfolding.md",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "experimental-platforms-diagnostics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "calibration of organic liquid scintillator ej 315 and unfolding of gamma spectra"
+  },
+  {
+    "title": "Pulse-Shape Discrimination with Machine Learning for CZT Detectors at DAΦNE Beam Test Facility",
+    "doi": "10.3390/condmat11040038",
+    "journal": "Condensed Matter (formal CC BY VOR)",
+    "publication_date": "2026-10-13",
+    "processed_date": "2026-10-14",
+    "source_url": "https://doi.org/10.3390/condmat11040038",
+    "pdf_url": "https://mdpi-res.com/d_attachment/condensedmatter/condensedmatter-11-00038/article_deploy/condensedmatter-11-00038.pdf",
+    "pdf_path": "daily/2026-10-14/pdfs/Manti et al. - 2026 - ML pulse-shape discrimination for CZT.pdf",
+    "note_path": "daily/2026-10-14/notes/Manti et al. - 2026 - ML pulse-shape discrimination for CZT.md",
+    "categories": [
+      "ai-ml-plasma-physics",
+      "laser-accelerated-beam-applications",
+      "experimental-platforms-diagnostics"
+    ],
+    "normalized_title": "pulse shape discrimination with machine learning for czt detectors at dafne beam test facility"
+  },
+  {
+    "title": "Analysis of material reliability features of plasma material interactions",
+    "doi": "10.1186/s11671-026-04982-z",
+    "journal": "Discover Nano (formal VOR)",
+    "publication_date": "2026-10-13",
+    "processed_date": "2026-10-14",
+    "source_url": "https://doi.org/10.1186/s11671-026-04982-z",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1186/s11671-026-04982-z.pdf",
+    "pdf_path": "daily/2026-10-14/pdfs/Pahsa - 2026 - Plasma-material reliability from AFM and SEM.pdf",
+    "note_path": "daily/2026-10-14/notes/Pahsa - 2026 - Plasma-material reliability from AFM and SEM.md",
+    "categories": [
+      "magnetic-fusion-and-alpha-particles",
+      "experimental-platforms-diagnostics",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "analysis of material reliability features of plasma material interactions"
   }
 ]

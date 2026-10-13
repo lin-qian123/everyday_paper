@@ -1,10 +1,15 @@
 # 论文总索引
 
-- 当前入库论文：442 篇
-- 索引更新时间：2026-10-13
+- 当前入库论文：447 篇
+- 索引更新时间：2026-10-14
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-10-14 | [Two-color dual-oscillator infrared free-electron laser](./10-1103-b27b-9gg1/README.md) | Physical Review Accelerators and Beams (formal CC BY VOR) | [10.1103/b27b-9gg1](https://doi.org/10.1103/b27b-9gg1) |
+| 2026-10-14 | [Triton Burnup Detector in Large Helical Device](./10-1007-s10894-026-00603-w/README.md) | Journal of Fusion Energy (formal CC BY VOR) | [10.1007/s10894-026-00603-w](https://doi.org/10.1007/s10894-026-00603-w) |
+| 2026-10-14 | [Calibration of organic liquid scintillator EJ-315 and unfolding of gamma spectra](./10-1007-s10751-026-02815-0/README.md) | Interactions (formal conference-proceeding VOR) | [10.1007/s10751-026-02815-0](https://doi.org/10.1007/s10751-026-02815-0) |
+| 2026-10-14 | [Pulse-Shape Discrimination with Machine Learning for CZT Detectors at DAΦNE Beam Test Facility](./10-3390-condmat11040038/README.md) | Condensed Matter (formal CC BY VOR) | [10.3390/condmat11040038](https://doi.org/10.3390/condmat11040038) |
+| 2026-10-14 | [Analysis of material reliability features of plasma material interactions](./10-1186-s11671-026-04982-z/README.md) | Discover Nano (formal VOR) | [10.1186/s11671-026-04982-z](https://doi.org/10.1186/s11671-026-04982-z) |
 | 2026-10-13 | [Global gyrokinetic simulations of electromagnetic turbulence in STEP](./10-1088-1741-4326-aeaaf4/README.md) | Nuclear Fusion (formal CC BY publication; local full text: corresponding arXiv:2609.02803v1 author preprint, not VOR) | [10.1088/1741-4326/aeaaf4](https://doi.org/10.1088/1741-4326/aeaaf4) |
 | 2026-10-13 | [Generating cylindrical vector gamma rays via beam-target interactions: toward structured light at high energies](./10-1364-optica-612330/README.md) | Optica (formal publication; local full text: corresponding arXiv:2508.16220v1 author preprint, not VOR) | [10.1364/optica.612330](https://doi.org/10.1364/optica.612330) |
 | 2026-10-13 | [Physical-state supervision for design-only Gaussian process surrogates of implosion simulations](./arxiv-2610-13822/README.md) | arXiv preprint | [10.48550/arXiv.2610.13822](https://doi.org/10.48550/arXiv.2610.13822) |
