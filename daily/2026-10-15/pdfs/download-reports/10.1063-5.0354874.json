@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "output": "daily/2026-10-15/pdfs/Mezlini et al. - 2026 - Low-energy electron collisions with BH plus.pdf",
+  "source_url": "https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/5.0354874/21170461/144309_1_5.0354874.pdf",
+  "mode": "direct",
+  "attempts": [
+    "[env-proxy] https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/5.0354874/21170461/144309_1_5.0354874.pdf -> HTTP 403"
+  ]
+}

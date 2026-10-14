@@ -1,0 +1,37 @@
+{
+  "run_id": "2026-10-15-daily-paper",
+  "run_date": "2026-10-15",
+  "status": "success",
+  "coverage_claim": "targeted official-source search, not exhaustive",
+  "search_layer_queries": 3,
+  "search_layer_results": 0,
+  "crossref_queries": 10,
+  "crossref_returned_rows": 1000,
+  "crossref_unique_dois": 720,
+  "arxiv_recent_rows": 300,
+  "latest_visible_arxiv_submission_date": "2026-10-13",
+  "selected_identifiers": [
+    "10.1063/5.0354874",
+    "10.48550/arXiv.2610.14664",
+    "10.48550/arXiv.2610.14824",
+    "10.48550/arXiv.2610.15076",
+    "10.48550/arXiv.2610.14537",
+    "10.48550/arXiv.2610.16910"
+  ],
+  "retry_added": ["10.1103/k2ht-nnz6", "10.1364/oe.612925"],
+  "processed_before": 447,
+  "processed_after": 453,
+  "retry_before": 35,
+  "retry_after": 37,
+  "pdf_validation": "daily/2026-10-15/pdf_validation.json",
+  "validation": {
+    "pdfs": "six documents; 56246645 bytes; 122 pages; headers, sizes, SHA-256, metadata, text extraction and pypdf readability passed",
+    "images": "six key-figure PNG files decoded; six selected PDF pages were visually inspected",
+    "mineru": "six URL attempts failed; validated local PDF, layout-text and rendered-page workflow used",
+    "indexes": "Indexed 453 papers across 9 categories.",
+    "tests": "pytest 7/7 and unittest 7/7 passed",
+    "ledger": "453 records; 449 unique non-null DOI/arXiv identifiers; 453 unique normalized titles; 37 unique retry DOIs",
+    "links": "41 local links in the daily index, six notes and six generated paper pages resolved",
+    "diff": "git diff --check passed"
+  }
+}

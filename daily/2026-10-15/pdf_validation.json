@@ -1,0 +1,94 @@
+{
+  "run_date": "2026-10-15",
+  "checks": [
+    "%PDF- header",
+    "file type",
+    "nonzero byte count",
+    "SHA-256",
+    "pdfinfo page count",
+    "pypdf page/text readability",
+    "nonempty pdftotext -layout",
+    "selected-page rendering and visual inspection"
+  ],
+  "mineru": {
+    "attempted_documents": 6,
+    "completed_documents": 0,
+    "status": "failed",
+    "reason": "The AIP public URL returned failed to read file and the five arXiv URLs returned parsing failed; independent local PDF, layout-text and rendered-page checks passed."
+  },
+  "documents": [
+    {
+      "identifier": "10.1063/5.0354874",
+      "path": "daily/2026-10-15/pdfs/Mezlini et al. - 2026 - Low-energy electron collisions with BH plus.pdf",
+      "bytes": 6229403,
+      "sha256": "d7ebaa25d7792b60c1fa150a91d67e62da29cc56c3c8ffe9c4387907f4976a16",
+      "pages": 13,
+      "text_bytes": 92086,
+      "rendered_pages": [11],
+      "source_note": "AIP formal VOR.",
+      "status": "passed"
+    },
+    {
+      "identifier": "10.48550/arXiv.2610.14664",
+      "path": "daily/2026-10-15/pdfs/Wu et al. - 2026 - SPIRE spin-resolved QED PIC.pdf",
+      "bytes": 11014986,
+      "sha256": "b8e3f88c4c35f25d4d6f1964848c3ad3ab57aeadb368b5cf0e289afc7e0e566c",
+      "pages": 18,
+      "text_bytes": 153399,
+      "rendered_pages": [16],
+      "source_note": "Official arXiv author preprint.",
+      "status": "passed"
+    },
+    {
+      "identifier": "10.48550/arXiv.2610.14824",
+      "path": "daily/2026-10-15/pdfs/Rezaei-Pandari et al. - 2026 - C-shaped laser proton targets.pdf",
+      "bytes": 2695769,
+      "sha256": "233c81a06ac8c8782c821d73cb8363a00bc2129ee6784946127ea8907d9a4622",
+      "pages": 20,
+      "text_bytes": 127343,
+      "rendered_pages": [8],
+      "source_note": "Official arXiv author preprint.",
+      "status": "passed"
+    },
+    {
+      "identifier": "10.48550/arXiv.2610.15076",
+      "path": "daily/2026-10-15/pdfs/Xia et al. - 2026 - Multimodal plasma reconstruction.pdf",
+      "bytes": 1885252,
+      "sha256": "28231897cdfcc7149cbfe3930c0461d11c6de73133ef40b5ed892196041e627f",
+      "pages": 15,
+      "text_bytes": 57271,
+      "rendered_pages": [8],
+      "source_note": "Official arXiv workshop preprint.",
+      "status": "passed"
+    },
+    {
+      "identifier": "10.48550/arXiv.2610.14537",
+      "path": "daily/2026-10-15/pdfs/Zou et al. - 2026 - GLOBE beam evolution.pdf",
+      "bytes": 33562315,
+      "sha256": "3cf47691166add14c11077580c20392f264e5df5e58b8c3d65b8cf4db1325d76",
+      "pages": 46,
+      "text_bytes": 194324,
+      "rendered_pages": [9],
+      "source_note": "Official arXiv under-review preprint.",
+      "status": "passed"
+    },
+    {
+      "identifier": "10.48550/arXiv.2610.16910",
+      "path": "daily/2026-10-15/pdfs/Pukhov and Wilson - 2026 - QUARZ plasma wakefields.pdf",
+      "bytes": 858920,
+      "sha256": "736bc320eb9e9235e6ccf26e44dc17ca5a9ee1c8def270d4b3ce516f5e84bc1d",
+      "pages": 10,
+      "text_bytes": 71318,
+      "rendered_pages": [6],
+      "source_note": "Official arXiv author preprint.",
+      "status": "passed"
+    }
+  ],
+  "total_pdf_bytes": 56246645,
+  "total_text_bytes": 695741,
+  "total_pages": 122,
+  "selected_and_visually_checked_pages": 6,
+  "decoded_key_figures": 6,
+  "valid_documents": 6,
+  "status": "passed"
+}

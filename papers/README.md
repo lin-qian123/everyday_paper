@@ -1,10 +1,16 @@
 # 论文总索引
 
-- 当前入库论文：447 篇
-- 索引更新时间：2026-10-14
+- 当前入库论文：453 篇
+- 索引更新时间：2026-10-15
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-10-15 | [Low-energy electron collisions with BH+](./10-1063-5-0354874/README.md) | The Journal of Chemical Physics (formal VOR) | [10.1063/5.0354874](https://doi.org/10.1063/5.0354874) |
+| 2026-10-15 | [QUARZ: a quasi-static particle-in-cell code with non-uniform radial grids for plasma wakefields](./arxiv-2610-16910/README.md) | arXiv preprint | [10.48550/arXiv.2610.16910](https://doi.org/10.48550/arXiv.2610.16910) |
+| 2026-10-15 | [SPIRE: Spin-Resolved Particle-in-Cell with Radiative Corrections for Extreme Laser--Plasma Interactions](./arxiv-2610-14664/README.md) | arXiv preprint | [10.48550/arXiv.2610.14664](https://doi.org/10.48550/arXiv.2610.14664) |
+| 2026-10-15 | [Multi-Objective Design of C-Shaped Targets for Energy--Divergence Control in Laser-Driven Proton Acceleration](./arxiv-2610-14824/README.md) | arXiv preprint | [10.48550/arXiv.2610.14824](https://doi.org/10.48550/arXiv.2610.14824) |
+| 2026-10-15 | [Toward a Multimodal Foundation Model for Plasma State Reconstruction](./arxiv-2610-15076/README.md) | arXiv preprint (NeurIPS 2026 workshop) | [10.48550/arXiv.2610.15076](https://doi.org/10.48550/arXiv.2610.15076) |
+| 2026-10-15 | [Learn the Dynamics, Enforce the Physics: Generative Latent Operators for High-Dimensional Beam Evolution](./arxiv-2610-14537/README.md) | arXiv preprint | [10.48550/arXiv.2610.14537](https://doi.org/10.48550/arXiv.2610.14537) |
 | 2026-10-14 | [Two-color dual-oscillator infrared free-electron laser](./10-1103-b27b-9gg1/README.md) | Physical Review Accelerators and Beams (formal CC BY VOR) | [10.1103/b27b-9gg1](https://doi.org/10.1103/b27b-9gg1) |
 | 2026-10-14 | [Triton Burnup Detector in Large Helical Device](./10-1007-s10894-026-00603-w/README.md) | Journal of Fusion Energy (formal CC BY VOR) | [10.1007/s10894-026-00603-w](https://doi.org/10.1007/s10894-026-00603-w) |
 | 2026-10-14 | [Calibration of organic liquid scintillator EJ-315 and unfolding of gamma spectra](./10-1007-s10751-026-02815-0/README.md) | Interactions (formal conference-proceeding VOR) | [10.1007/s10751-026-02815-0](https://doi.org/10.1007/s10751-026-02815-0) |

@@ -1,0 +1,15 @@
+{
+  "run_date": "2026-10-15",
+  "attempted_documents": 6,
+  "completed_documents": 0,
+  "status": "failed",
+  "attempts": [
+    {"identifier": "10.1063/5.0354874", "url": "https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/5.0354874/21170461/144309_1_5.0354874.pdf", "result": "failed to read file, please check if corrupted"},
+    {"identifier": "10.48550/arXiv.2610.14664", "url": "https://arxiv.org/pdf/2610.14664", "result": "parsing failed, please try again later"},
+    {"identifier": "10.48550/arXiv.2610.14824", "url": "https://arxiv.org/pdf/2610.14824", "result": "parsing failed, please try again later"},
+    {"identifier": "10.48550/arXiv.2610.15076", "url": "https://arxiv.org/pdf/2610.15076", "result": "parsing failed, please try again later"},
+    {"identifier": "10.48550/arXiv.2610.14537", "url": "https://arxiv.org/pdf/2610.14537", "result": "parsing failed, please try again later"},
+    {"identifier": "10.48550/arXiv.2610.16910", "url": "https://arxiv.org/pdf/2610.16910", "result": "parsing failed, please try again later"}
+  ],
+  "fallback": "All six local PDFs passed independent header, type, metadata, pypdf, layout-text and rendered-page checks."
+}

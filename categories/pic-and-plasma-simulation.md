@@ -2,11 +2,15 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：184 篇
-- 索引更新时间：2026-10-14
+- 当前收录：188 篇
+- 索引更新时间：2026-10-15
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-15 | [QUARZ: a quasi-static particle-in-cell code with non-uniform radial grids for plasma wakefields](../papers/arxiv-2610-16910/README.md) | arXiv preprint | [笔记](../daily/2026-10-15/notes/Pukhov and Wilson - 2026 - QUARZ plasma wakefields.md) |
+| 2026-10-15 | [SPIRE: Spin-Resolved Particle-in-Cell with Radiative Corrections for Extreme Laser--Plasma Interactions](../papers/arxiv-2610-14664/README.md) | arXiv preprint | [笔记](../daily/2026-10-15/notes/Wu et al. - 2026 - SPIRE spin-resolved QED PIC.md) |
+| 2026-10-15 | [Toward a Multimodal Foundation Model for Plasma State Reconstruction](../papers/arxiv-2610-15076/README.md) | arXiv preprint (NeurIPS 2026 workshop) | [笔记](../daily/2026-10-15/notes/Xia et al. - 2026 - Multimodal plasma reconstruction.md) |
+| 2026-10-15 | [Learn the Dynamics, Enforce the Physics: Generative Latent Operators for High-Dimensional Beam Evolution](../papers/arxiv-2610-14537/README.md) | arXiv preprint | [笔记](../daily/2026-10-15/notes/Zou et al. - 2026 - GLOBE beam evolution.md) |
 | 2026-10-13 | [Global gyrokinetic simulations of electromagnetic turbulence in STEP](../papers/10-1088-1741-4326-aeaaf4/README.md) | Nuclear Fusion (formal CC BY publication; local full text: corresponding arXiv:2609.02803v1 author preprint, not VOR) | [笔记](../daily/2026-10-13/notes/Kennedy et al. - 2026 - Global gyrokinetic STEP turbulence.md) |
 | 2026-10-13 | [Generating cylindrical vector gamma rays via beam-target interactions: toward structured light at high energies](../papers/10-1364-optica-612330/README.md) | Optica (formal publication; local full text: corresponding arXiv:2508.16220v1 author preprint, not VOR) | [笔记](../daily/2026-10-13/notes/Cao et al. - 2026 - Cylindrical vector gamma rays.md) |
 | 2026-10-13 | [Implementation and verification of a new free boundary module for Resistive Wall Modes simulations with the nonlinear 3D full MHD code SpeCyl](../papers/arxiv-2610-13428/README.md) | arXiv preprint | [笔记](../daily/2026-10-13/notes/Galeazzi et al. - 2026 - SpeCyl free-boundary RWM module.md) |

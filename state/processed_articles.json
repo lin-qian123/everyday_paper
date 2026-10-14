@@ -5529,5 +5529,106 @@
       "general-plasma-and-methods"
     ],
     "normalized_title": "analysis of material reliability features of plasma material interactions"
+  },
+  {
+    "title": "Low-energy electron collisions with BH+",
+    "doi": "10.1063/5.0354874",
+    "journal": "The Journal of Chemical Physics (formal VOR)",
+    "publication_date": "2026-10-14",
+    "processed_date": "2026-10-15",
+    "source_url": "https://doi.org/10.1063/5.0354874",
+    "pdf_url": "https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/5.0354874/21170461/144309_1_5.0354874.pdf",
+    "pdf_path": "daily/2026-10-15/pdfs/Mezlini et al. - 2026 - Low-energy electron collisions with BH plus.pdf",
+    "note_path": "daily/2026-10-15/notes/Mezlini et al. - 2026 - Low-energy electron collisions with BH plus.md",
+    "categories": [
+      "magnetic-fusion-and-alpha-particles",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "low energy electron collisions with bh"
+  },
+  {
+    "title": "SPIRE: Spin-Resolved Particle-in-Cell with Radiative Corrections for Extreme Laser--Plasma Interactions",
+    "doi": "10.48550/arXiv.2610.14664",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-10",
+    "processed_date": "2026-10-15",
+    "source_url": "https://arxiv.org/abs/2610.14664",
+    "pdf_url": "https://arxiv.org/pdf/2610.14664",
+    "pdf_path": "daily/2026-10-15/pdfs/Wu et al. - 2026 - SPIRE spin-resolved QED PIC.pdf",
+    "note_path": "daily/2026-10-15/notes/Wu et al. - 2026 - SPIRE spin-resolved QED PIC.md",
+    "categories": [
+      "strong-field-qed-radiation",
+      "pic-and-plasma-simulation",
+      "laser-plasma-acceleration"
+    ],
+    "normalized_title": "spire spin resolved particle in cell with radiative corrections for extreme laser plasma interactions"
+  },
+  {
+    "title": "Multi-Objective Design of C-Shaped Targets for Energy--Divergence Control in Laser-Driven Proton Acceleration",
+    "doi": "10.48550/arXiv.2610.14824",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-10",
+    "processed_date": "2026-10-15",
+    "source_url": "https://arxiv.org/abs/2610.14824",
+    "pdf_url": "https://arxiv.org/pdf/2610.14824",
+    "pdf_path": "daily/2026-10-15/pdfs/Rezaei-Pandari et al. - 2026 - C-shaped laser proton targets.pdf",
+    "note_path": "daily/2026-10-15/notes/Rezaei-Pandari et al. - 2026 - C-shaped laser proton targets.md",
+    "categories": [
+      "laser-plasma-acceleration",
+      "laser-accelerated-beam-applications",
+      "experimental-platforms-diagnostics"
+    ],
+    "normalized_title": "multi objective design of c shaped targets for energy divergence control in laser driven proton acceleration"
+  },
+  {
+    "title": "Toward a Multimodal Foundation Model for Plasma State Reconstruction",
+    "doi": "10.48550/arXiv.2610.15076",
+    "journal": "arXiv preprint (NeurIPS 2026 workshop)",
+    "publication_date": "2026-10-10",
+    "processed_date": "2026-10-15",
+    "source_url": "https://arxiv.org/abs/2610.15076",
+    "pdf_url": "https://arxiv.org/pdf/2610.15076",
+    "pdf_path": "daily/2026-10-15/pdfs/Xia et al. - 2026 - Multimodal plasma reconstruction.pdf",
+    "note_path": "daily/2026-10-15/notes/Xia et al. - 2026 - Multimodal plasma reconstruction.md",
+    "categories": [
+      "ai-ml-plasma-physics",
+      "pic-and-plasma-simulation",
+      "experimental-platforms-diagnostics"
+    ],
+    "normalized_title": "toward a multimodal foundation model for plasma state reconstruction"
+  },
+  {
+    "title": "Learn the Dynamics, Enforce the Physics: Generative Latent Operators for High-Dimensional Beam Evolution",
+    "doi": "10.48550/arXiv.2610.14537",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-10",
+    "processed_date": "2026-10-15",
+    "source_url": "https://arxiv.org/abs/2610.14537",
+    "pdf_url": "https://arxiv.org/pdf/2610.14537",
+    "pdf_path": "daily/2026-10-15/pdfs/Zou et al. - 2026 - GLOBE beam evolution.pdf",
+    "note_path": "daily/2026-10-15/notes/Zou et al. - 2026 - GLOBE beam evolution.md",
+    "categories": [
+      "ai-ml-plasma-physics",
+      "pic-and-plasma-simulation",
+      "laser-plasma-acceleration"
+    ],
+    "normalized_title": "learn the dynamics enforce the physics generative latent operators for high dimensional beam evolution"
+  },
+  {
+    "title": "QUARZ: a quasi-static particle-in-cell code with non-uniform radial grids for plasma wakefields",
+    "doi": "10.48550/arXiv.2610.16910",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-12",
+    "processed_date": "2026-10-15",
+    "source_url": "https://arxiv.org/abs/2610.16910",
+    "pdf_url": "https://arxiv.org/pdf/2610.16910",
+    "pdf_path": "daily/2026-10-15/pdfs/Pukhov and Wilson - 2026 - QUARZ plasma wakefields.pdf",
+    "note_path": "daily/2026-10-15/notes/Pukhov and Wilson - 2026 - QUARZ plasma wakefields.md",
+    "categories": [
+      "pic-and-plasma-simulation",
+      "laser-plasma-acceleration",
+      "general-plasma-and-methods"
+    ],
+    "normalized_title": "quarz a quasi static particle in cell code with non uniform radial grids for plasma wakefields"
   }
 ]

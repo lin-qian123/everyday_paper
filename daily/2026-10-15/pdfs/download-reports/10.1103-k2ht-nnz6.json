@@ -1,0 +1,10 @@
+{
+  "ok": false,
+  "output": "daily/2026-10-15/pdfs/Reali et al. - 2026 - Full tokamak device neutron irradiation.pdf",
+  "attempts": [
+    "[direct] http://harvest.aps.org/v2/journals/articles/10.1103/k2ht-nnz6/fulltext -> HTTP 404",
+    "[direct] https://harvest.aps.org/v2/journals/articles/10.1103/k2ht-nnz6/fulltext -> HTTP 404",
+    "[direct] https://link.aps.org/doi/10.1103/k2ht-nnz6 -> HTTP 403 Cloudflare challenge"
+  ],
+  "failure_class": "publisher_http_403"
+}

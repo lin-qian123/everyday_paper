@@ -2,11 +2,13 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：141 篇
-- 索引更新时间：2026-10-14
+- 当前收录：143 篇
+- 索引更新时间：2026-10-15
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-15 | [Multi-Objective Design of C-Shaped Targets for Energy--Divergence Control in Laser-Driven Proton Acceleration](../papers/arxiv-2610-14824/README.md) | arXiv preprint | [笔记](../daily/2026-10-15/notes/Rezaei-Pandari et al. - 2026 - C-shaped laser proton targets.md) |
+| 2026-10-15 | [Toward a Multimodal Foundation Model for Plasma State Reconstruction](../papers/arxiv-2610-15076/README.md) | arXiv preprint (NeurIPS 2026 workshop) | [笔记](../daily/2026-10-15/notes/Xia et al. - 2026 - Multimodal plasma reconstruction.md) |
 | 2026-10-14 | [Two-color dual-oscillator infrared free-electron laser](../papers/10-1103-b27b-9gg1/README.md) | Physical Review Accelerators and Beams (formal CC BY VOR) | [笔记](../daily/2026-10-14/notes/Schollkopf et al. - 2026 - Two-color dual-oscillator infrared FEL.md) |
 | 2026-10-14 | [Triton Burnup Detector in Large Helical Device](../papers/10-1007-s10894-026-00603-w/README.md) | Journal of Fusion Energy (formal CC BY VOR) | [笔记](../daily/2026-10-14/notes/Ogawa et al. - 2026 - Triton burnup detector in LHD.md) |
 | 2026-10-14 | [Calibration of organic liquid scintillator EJ-315 and unfolding of gamma spectra](../papers/10-1007-s10751-026-02815-0/README.md) | Interactions (formal conference-proceeding VOR) | [笔记](../daily/2026-10-14/notes/Saikia et al. - 2026 - EJ-315 gamma spectrum unfolding.md) |

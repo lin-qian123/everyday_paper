@@ -1,0 +1,69 @@
+{
+  "run_date": "2026-10-15",
+  "latest_arxiv_submission_date": "2026-10-13",
+  "search_summary": {
+    "sources": "installed search-layer, official arXiv Atom API, Crossref metadata, AIP, APS and Optica",
+    "search_layer_queries": 3,
+    "search_layer_results": 0,
+    "crossref_queries": 10,
+    "crossref_returned_rows": 1000,
+    "crossref_unique_dois": 720,
+    "arxiv_recent_rows": 300,
+    "selection_basis": "formal-source priority, verified full text, recency, topic fit and non-duplication",
+    "coverage_claim": "targeted, not exhaustive",
+    "research_record": "daily/2026-10-15/research/"
+  },
+  "deduplication": {
+    "processed_before": 447,
+    "processed_after": 453,
+    "retry_before": 35,
+    "retry_after": 37,
+    "keys": ["DOI/arXiv identifier", "normalized title", "source URL", "historical daily folders", "retry queue", "abstract", "physical scenario"],
+    "existing_overlap": "The only completed/retry overlap remains the documented legacy 10.1016/j.jcp.2026.114707; this run created no new overlap."
+  },
+  "added": [
+    "10.1063/5.0354874",
+    "10.48550/arXiv.2610.14664",
+    "10.48550/arXiv.2610.14824",
+    "10.48550/arXiv.2610.15076",
+    "10.48550/arXiv.2610.14537",
+    "10.48550/arXiv.2610.16910"
+  ],
+  "retry_added": ["10.1103/k2ht-nnz6", "10.1364/oe.612925"],
+  "pdf_validation": {
+    "valid_documents": 6,
+    "formal_vors": 1,
+    "author_preprints": 5,
+    "total_bytes": 56246645,
+    "total_text_bytes": 695741,
+    "total_pages": 122,
+    "selected_and_visually_checked_pages": 6,
+    "decoded_key_figures": 6,
+    "mineru": "six public-URL attempts failed; validated local PDF, layout-text and rendered-page workflow used",
+    "details": "daily/2026-10-15/pdf_validation.json"
+  },
+  "evidence_boundaries": [
+    "Mezlini et al. is an atomic-molecular theory calculation for boron hydride ions, not a direct fusion-edge measurement.",
+    "SPIRE reproduces numerical reference cases, but no public source-code location or independent experimental validation is established in the preprint.",
+    "The C-shaped-target Pareto front comes from two-dimensional Smilei runs at a fixed analysis time with idealized preplasma and one macro-particle realization per design.",
+    "The multimodal reconstruction model is trained and tested on a fixed-beta VPIC parameter grid without real FLARE diagnostics or sim-to-real validation.",
+    "GLOBE is evaluated on held-out WarpX trajectories from the same design distributions; its speedups exclude training and data-generation costs.",
+    "QUARZ benchmarks a quasi-static low-azimuthal-mode model; its non-uniform-grid gain is case-specific and the zero-touch-development statement is not sufficient correctness evidence.",
+    "No collision, PIC, optimization, neural-network, surrogate or wakefield calculation was reproduced locally."
+  ],
+  "validation": {
+    "index_builder": "Indexed 453 papers across 9 categories.",
+    "pytest": "7 passed via PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q",
+    "unittest": "7 tests passed via python -m unittest discover -s tests -v",
+    "ledger_checks": "453 records parsed; 449 non-null DOI/arXiv identifiers are unique; all 453 normalized titles are unique; 37 retry DOIs are unique",
+    "pdf_header_size_hash_metadata_text_check": "passed for six PDFs totaling 122 pages and 56246645 bytes",
+    "download_and_mineru_report_check": "nine reports parsed: six selected downloads, two retry attempts and one MinerU attempt ledger",
+    "markdown_link_check": "41 local links across the daily index, six notes and six affected generated paper pages resolved after URL decoding",
+    "image_check": "six PNG figures decoded successfully; six selected PDF pages were visually inspected",
+    "diff_check": "git diff --check passed",
+    "ignored_artifacts": "the six daily PDFs and extracted-text artifacts are Git-ignored; temporary discovery and render intermediates are removed after final verification"
+  },
+  "git": "scoped commit and push to origin/master after final staging validation",
+  "status": "success",
+  "validated_at": "2026-10-15T07:17:46+08:00"
+}

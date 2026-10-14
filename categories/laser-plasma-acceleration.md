@@ -2,11 +2,15 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：139 篇
-- 索引更新时间：2026-10-14
+- 当前收录：143 篇
+- 索引更新时间：2026-10-15
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-15 | [QUARZ: a quasi-static particle-in-cell code with non-uniform radial grids for plasma wakefields](../papers/arxiv-2610-16910/README.md) | arXiv preprint | [笔记](../daily/2026-10-15/notes/Pukhov and Wilson - 2026 - QUARZ plasma wakefields.md) |
+| 2026-10-15 | [SPIRE: Spin-Resolved Particle-in-Cell with Radiative Corrections for Extreme Laser--Plasma Interactions](../papers/arxiv-2610-14664/README.md) | arXiv preprint | [笔记](../daily/2026-10-15/notes/Wu et al. - 2026 - SPIRE spin-resolved QED PIC.md) |
+| 2026-10-15 | [Multi-Objective Design of C-Shaped Targets for Energy--Divergence Control in Laser-Driven Proton Acceleration](../papers/arxiv-2610-14824/README.md) | arXiv preprint | [笔记](../daily/2026-10-15/notes/Rezaei-Pandari et al. - 2026 - C-shaped laser proton targets.md) |
+| 2026-10-15 | [Learn the Dynamics, Enforce the Physics: Generative Latent Operators for High-Dimensional Beam Evolution](../papers/arxiv-2610-14537/README.md) | arXiv preprint | [笔记](../daily/2026-10-15/notes/Zou et al. - 2026 - GLOBE beam evolution.md) |
 | 2026-10-14 | [Two-color dual-oscillator infrared free-electron laser](../papers/10-1103-b27b-9gg1/README.md) | Physical Review Accelerators and Beams (formal CC BY VOR) | [笔记](../daily/2026-10-14/notes/Schollkopf et al. - 2026 - Two-color dual-oscillator infrared FEL.md) |
 | 2026-10-13 | [Global optimization of beam profiles for suppressing the bump-on-tail instability](../papers/arxiv-2610-13391/README.md) | arXiv preprint | [笔记](../daily/2026-10-13/notes/Mignelli and Einkemmer - 2026 - Optimized beam profiles for bump-on-tail suppression.md) |
 | 2026-10-12 | [Controlling external injection in laser-plasma accelerators with terahertz frequency bunch manipulation](../papers/10-1103-wb14-xvj2/README.md) | Physical Review Research (formal publication; local full text: corresponding arXiv:2604.16059v1 author preprint, not VOR) | [笔记](../daily/2026-10-12/notes/Amini et al. - 2026 - THz-controlled external injection for LWFA.md) |

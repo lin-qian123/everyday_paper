@@ -1,0 +1,13 @@
+{
+  "ok": false,
+  "output": "daily/2026-10-15/pdfs/Jiang et al. - 2026 - Attosecond coherent Cherenkov radiation.pdf",
+  "attempts": [
+    "[env-proxy] https://opg.optica.org/oe/abstract.cfm?doi=10.1364/OE.612925 -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[direct] https://opg.optica.org/oe/abstract.cfm?doi=10.1364/OE.612925 -> not pdf (content-type=text/html;charset=UTF-8)",
+    "[env-proxy] https://doi.org/10.1364/oe.612925 -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[direct] https://doi.org/10.1364/oe.612925 -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[env-proxy] https://doi.org/10.1364/OE.612925 -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[direct] https://doi.org/10.1364/OE.612925 -> not pdf (content-type=text/html; charset=UTF-8)"
+  ],
+  "failure_class": "html_instead_of_pdf"
+}

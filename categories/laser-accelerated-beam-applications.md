@@ -2,11 +2,12 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：106 篇
-- 索引更新时间：2026-10-14
+- 当前收录：107 篇
+- 索引更新时间：2026-10-15
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-15 | [Multi-Objective Design of C-Shaped Targets for Energy--Divergence Control in Laser-Driven Proton Acceleration](../papers/arxiv-2610-14824/README.md) | arXiv preprint | [笔记](../daily/2026-10-15/notes/Rezaei-Pandari et al. - 2026 - C-shaped laser proton targets.md) |
 | 2026-10-14 | [Calibration of organic liquid scintillator EJ-315 and unfolding of gamma spectra](../papers/10-1007-s10751-026-02815-0/README.md) | Interactions (formal conference-proceeding VOR) | [笔记](../daily/2026-10-14/notes/Saikia et al. - 2026 - EJ-315 gamma spectrum unfolding.md) |
 | 2026-10-14 | [Pulse-Shape Discrimination with Machine Learning for CZT Detectors at DAΦNE Beam Test Facility](../papers/10-3390-condmat11040038/README.md) | Condensed Matter (formal CC BY VOR) | [笔记](../daily/2026-10-14/notes/Manti et al. - 2026 - ML pulse-shape discrimination for CZT.md) |
 | 2026-10-13 | [Generating cylindrical vector gamma rays via beam-target interactions: toward structured light at high energies](../papers/10-1364-optica-612330/README.md) | Optica (formal publication; local full text: corresponding arXiv:2508.16220v1 author preprint, not VOR) | [笔记](../daily/2026-10-13/notes/Cao et al. - 2026 - Cylindrical vector gamma rays.md) |

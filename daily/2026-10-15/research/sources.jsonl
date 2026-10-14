@@ -1,0 +1,8 @@
+{"source":"installed search-layer","run_date":"2026-10-15","queries":3,"result_count":0,"status":"retrieval limitation","note":"Empty aggregator results were not treated as evidence that no relevant papers existed."}
+{"source":"arXiv Atom API","run_date":"2026-10-15","categories":["physics.plasm-ph","physics.acc-ph","physics.comp-ph","physics.med-ph","physics.ins-det","nucl-ex","nucl-th"],"max_results":300,"latest_visible_submission_date":"2026-10-13","selected":["2610.14664","2610.14824","2610.15076","2610.14537","2610.16910"]}
+{"source":"Crossref REST API","run_date":"2026-10-15","date_window":["2026-10-13","2026-10-15"],"queries":10,"returned_rows":1000,"unique_dois":720,"note":"Targeted metadata screen, not exhaustive coverage."}
+{"source":"AIP Publishing","run_date":"2026-10-15","selected":"10.1063/5.0354874","status":"formal VOR downloaded and validated"}
+{"source":"official arXiv","run_date":"2026-10-15","selected":["2610.14664","2610.14824","2610.15076","2610.14537","2610.16910"],"status":"author preprint PDFs downloaded and validated"}
+{"source":"APS","run_date":"2026-10-15","retry_added":"10.1103/k2ht-nnz6","status":"article route HTTP 403 Cloudflare challenge and harvest fulltext endpoint HTTP 404; no lawful author manuscript found"}
+{"source":"Optica","run_date":"2026-10-15","retry_added":"10.1364/oe.612925","status":"article and DOI routes returned HTML; no lawful author manuscript found"}
+{"source":"MinerU","run_date":"2026-10-15","attempted":6,"completed":0,"status":"failed","note":"AIP URL returned failed to read file; five arXiv URLs returned parsing failed. Validated local PDF, layout-text, pypdf and rendered-page workflow used."}

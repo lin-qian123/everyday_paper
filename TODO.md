@@ -1,5 +1,7 @@
 # TODO
 
+- 2026-10-15：加载 447 条完成台账、35 条重试队列和历史 `daily/`；多来源搜索层 3 个定向查询无返回后，转用官方 arXiv 最近 300 条、Crossref 10 组主题查询与 AIP/APS/Optica 正式来源。新增 1 篇 AIP 正式 VOR 和 5 篇官方 arXiv 预印本；6 份 PDF 共 122 页、56,246,645 字节通过文件、页数、哈希、`pypdf`、布局文本及 6 个关键页目视检查，保留 6 幅关键图。MinerU 6 个 URL 均失败后使用已验证本地回退。台账增至 453 条；2 条高相关正式候选因 Cloudflare/404 或 HTML 验证页进入重试，使队列增至 37 条。严格区分理论、模拟、代码验证、机器学习代理与实验事实。
+
 - 2026-10-14：加载 442 条完成台账、30 条重试队列和历史 `daily/`；官方 arXiv 目标分类最近 100 条的最新提交仍为 2026-10-09，转用 Crossref 10 组主题查询及 APS、Springer、MDPI 等正式来源补核。新增 5 篇 2026-10-13 正式 VOR；5 份 PDF 共 77 页、16,656,651 字节通过文件、页数、哈希、`pypdf`、布局文本及 10 个关键页目视检查，保留 5 幅关键图。台账增至 447 条；5 条高相关正式候选因出版商验证页、cookie wall 或 `HTTP 403` 进入重试，使队列增至 35 条。Fig. 3—Table 6 的材料可靠性内部矛盾已显式保留；严格区分直接实验、模型辅助展开/输运、人工标签准确率和统计重分析。
 
 - 2026-10-13：加载 436 条完成台账、29 条重试队列和历史 `daily/`；安装的多来源搜索层 3 个定向查询无结果，转用官方 arXiv、Crossref、Optica 与 IOP。新增 2 篇正式出版记录对应作者预印本和 4 篇 arXiv 全文；6 份 PDF 共 175 页、14,550,916 字节通过文件、页数、哈希、`pypdf`、布局文本及 12 个关键页目视检查，保留 6 幅关键图。台账增至 442 条；1 条 IOP 正式候选因 HTML/Radware 验证页进入重试，使队列增至 30 条。相近 HPL/Optica 柱矢量 γ 方案按物理场景判为不同作品；严格区分正式元数据、作者预印本、数值结果与未运行模型。
@@ -19,7 +21,7 @@
 - [ ] 后续新增关键论文或原文版本更新时，修订对应综述章与比较结论；先核查当前快照和 R 编号，避免直接重排台账后留下错误引用。已发现的旧笔记公式/日期/参数问题见 `reviews/2026-frontiers/appendices/source-discrepancies.md`，需按原文逐项修订。
 
 - [ ] 将每日自动化主流程固定为：新增论文与笔记 -> 更新 `state/processed_articles.json` -> 运行 `python scripts/build_indexes.py` -> 提交并推送 `origin/master`。
-- [ ] 处理剩余 35 条未补回 PDF 的候选；其中 10 条为 Elsevier/ScienceDirect `HTTP 403`，2 条为 Nature cookie wall，13 条为 IOP/Radware/HTML 验证页，6 条为 APS accepted/formal `HTTP 403` 或延迟开放，3 条为 Taylor & Francis 正式论文 `HTTP 403`，另有 1 条 Optica/Radware 验证页。
+- [ ] 处理剩余 37 条未补回 PDF 的候选；其中 10 条为 Elsevier/ScienceDirect `HTTP 403`，2 条为 Nature cookie wall，13 条为 IOP/Radware/HTML 验证页，7 条为 APS accepted/formal `HTTP 403` 或延迟开放，3 条为 Taylor & Francis 正式论文 `HTTP 403`，另有 2 条 Optica/Radware 验证页。
 - [ ] 为当前 65 条已补回 PDF 但尚无笔记的条目补中文结构化笔记。
 - [ ] 把每日自动化主流程接到 `scripts/retry_download_queue.py`，启动时先消化可恢复积压，避免配置恢复后仍只读旧 blocked-day 记录。
 - [ ] 为来源可达性预检补一层轻量检查，避免在明显 `403` / bot-wall 来源上重复空跑，并对 arXiv / DOI 这类开放来源单独标记“仅运行时阻塞”。
