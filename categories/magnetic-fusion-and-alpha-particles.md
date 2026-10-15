@@ -2,11 +2,12 @@
 
 stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。
 
-- 当前收录：57 篇
-- 索引更新时间：2026-10-15
+- 当前收录：58 篇
+- 索引更新时间：2026-10-16
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-16 | [Learning to reconstruct Germano Differential Filtered Fields with Convolutional Neural Networks for Large Eddy Simulation of Plasma Turbulence](../papers/arxiv-2610-20204/README.md) | arXiv preprint | [笔记](../daily/2026-10-16/notes/Castagna and Williams - 2026 - Filtered plasma turbulence CNN.md) |
 | 2026-10-15 | [Low-energy electron collisions with BH+](../papers/10-1063-5-0354874/README.md) | The Journal of Chemical Physics (formal VOR) | [笔记](../daily/2026-10-15/notes/Mezlini et al. - 2026 - Low-energy electron collisions with BH plus.md) |
 | 2026-10-14 | [Triton Burnup Detector in Large Helical Device](../papers/10-1007-s10894-026-00603-w/README.md) | Journal of Fusion Energy (formal CC BY VOR) | [笔记](../daily/2026-10-14/notes/Ogawa et al. - 2026 - Triton burnup detector in LHD.md) |
 | 2026-10-14 | [Analysis of material reliability features of plasma material interactions](../papers/10-1186-s11671-026-04982-z/README.md) | Discover Nano (formal VOR) | [笔记](../daily/2026-10-14/notes/Pahsa - 2026 - Plasma-material reliability from AFM and SEM.md) |

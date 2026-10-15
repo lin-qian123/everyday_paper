@@ -1,0 +1,381 @@
+{
+  "run_date": "2026-10-16",
+  "searched_at": "2026-10-16T07:09:12+08:00",
+  "search_layer": {
+    "mode": "deep",
+    "intent": "status",
+    "queries": [
+      "laser plasma photonuclear neutron converter target October 2026",
+      "strong field QED laser plasma October 2026 new paper",
+      "particle in cell machine learning high energy density October 2026"
+    ],
+    "count": 0,
+    "results": [],
+    "freshness_filter": "pw"
+  },
+  "arxiv": {
+    "url": "https://export.arxiv.org/api/query?search_query=cat:physics.plasm-ph%20OR%20cat:physics.acc-ph%20OR%20cat:physics.comp-ph%20OR%20cat:nucl-ex%20OR%20cat:physics.ins-det&sortBy=submittedDate&sortOrder=descending&max_results=300",
+    "rows": 300,
+    "latest_submission": "2026-10-14T17:59:44Z",
+    "categories": [
+      "physics.plasm-ph",
+      "physics.acc-ph",
+      "physics.comp-ph",
+      "nucl-ex",
+      "physics.ins-det"
+    ]
+  },
+  "crossref": {
+    "queries": 10,
+    "rate_limited_initial_queries": 6,
+    "successful_requeries": 6,
+    "rows": 820,
+    "unique_dois": 662,
+    "query_log": [
+      {
+        "query": "laser plasma acceleration",
+        "rows": 100,
+        "error": null,
+        "phase": "initial",
+        "sort": "published",
+        "from_pub_date": "2026-10-14",
+        "until_pub_date": "2026-10-16"
+      },
+      {
+        "query": "laser photonuclear neutron",
+        "rows": 100,
+        "error": null,
+        "phase": "initial",
+        "sort": "published",
+        "from_pub_date": "2026-10-14",
+        "until_pub_date": "2026-10-16"
+      },
+      {
+        "query": "bremsstrahlung gamma converter target",
+        "rows": 0,
+        "error": "HTTP Error 429: Too Many Requests",
+        "phase": "initial",
+        "sort": "published",
+        "from_pub_date": "2026-10-14",
+        "until_pub_date": "2026-10-16"
+      },
+      {
+        "query": "strong field quantum electrodynamics",
+        "rows": 0,
+        "error": "HTTP Error 429: Too Many Requests",
+        "phase": "initial",
+        "sort": "published",
+        "from_pub_date": "2026-10-14",
+        "until_pub_date": "2026-10-16"
+      },
+      {
+        "query": "high energy density inertial confinement fusion",
+        "rows": 100,
+        "error": null,
+        "phase": "initial",
+        "sort": "published",
+        "from_pub_date": "2026-10-14",
+        "until_pub_date": "2026-10-16"
+      },
+      {
+        "query": "particle in cell simulation",
+        "rows": 0,
+        "error": "HTTP Error 429: Too Many Requests",
+        "phase": "initial",
+        "sort": "published",
+        "from_pub_date": "2026-10-14",
+        "until_pub_date": "2026-10-16"
+      },
+      {
+        "query": "machine learning plasma",
+        "rows": 0,
+        "error": "HTTP Error 429: Too Many Requests",
+        "phase": "initial",
+        "sort": "published",
+        "from_pub_date": "2026-10-14",
+        "until_pub_date": "2026-10-16"
+      },
+      {
+        "query": "laser ion proton target",
+        "rows": 0,
+        "error": "HTTP Error 429: Too Many Requests",
+        "phase": "initial",
+        "sort": "published",
+        "from_pub_date": "2026-10-14",
+        "until_pub_date": "2026-10-16"
+      },
+      {
+        "query": "radiation shielding isotope irradiation",
+        "rows": 0,
+        "error": "HTTP Error 429: Too Many Requests",
+        "phase": "initial",
+        "sort": "published",
+        "from_pub_date": "2026-10-14",
+        "until_pub_date": "2026-10-16"
+      },
+      {
+        "query": "plasma beam diagnostic",
+        "rows": 100,
+        "error": null,
+        "phase": "initial",
+        "sort": "published",
+        "from_pub_date": "2026-10-14",
+        "until_pub_date": "2026-10-16"
+      },
+      {
+        "query": "bremsstrahlung gamma converter target",
+        "rows": 70,
+        "error": null,
+        "phase": "reduced-concurrency retry",
+        "sort": "relevance",
+        "from_pub_date": "2026-10-14",
+        "until_pub_date": "2026-10-16"
+      },
+      {
+        "query": "strong field quantum electrodynamics",
+        "rows": 70,
+        "error": null,
+        "phase": "reduced-concurrency retry",
+        "sort": "relevance",
+        "from_pub_date": "2026-10-14",
+        "until_pub_date": "2026-10-16"
+      },
+      {
+        "query": "particle in cell simulation",
+        "rows": 70,
+        "error": null,
+        "phase": "reduced-concurrency retry",
+        "sort": "relevance",
+        "from_pub_date": "2026-10-14",
+        "until_pub_date": "2026-10-16"
+      },
+      {
+        "query": "machine learning plasma",
+        "rows": 70,
+        "error": null,
+        "phase": "reduced-concurrency retry",
+        "sort": "relevance",
+        "from_pub_date": "2026-10-14",
+        "until_pub_date": "2026-10-16"
+      },
+      {
+        "query": "laser ion proton target",
+        "rows": 70,
+        "error": null,
+        "phase": "reduced-concurrency retry",
+        "sort": "relevance",
+        "from_pub_date": "2026-10-14",
+        "until_pub_date": "2026-10-16"
+      },
+      {
+        "query": "radiation shielding isotope irradiation",
+        "rows": 70,
+        "error": null,
+        "phase": "reduced-concurrency retry",
+        "sort": "relevance",
+        "from_pub_date": "2026-10-14",
+        "until_pub_date": "2026-10-16"
+      }
+    ]
+  },
+  "coverage": "targeted incremental selection; non-exhaustive; broad biomedical/materials homonyms excluded; Crossref dates may be acceptance metadata rather than VOR dates",
+  "dedup_checks": [
+    {
+      "title": "A single radiation hard pixel detector for proton dosimetry, imaging, energy resolution and beam monitoring",
+      "arxiv": "http://arxiv.org/abs/2610.20304v1",
+      "nearest_existing": [
+        [
+          0.4260869565217391,
+          "AI-Accelerated Gyrokinetic Predictions of Turbulent Transport for Stellarator Design Optimization and Experimental Planning",
+          "10.48550/arXiv.2609.28730"
+        ],
+        [
+          0.42045454545454547,
+          "Observation of stopping power reduction at strong ion-plasma coupling",
+          "10.48550/arXiv.2606.23109"
+        ],
+        [
+          0.41545893719806765,
+          "Generation of polarization-tunable hybrid cylindrical vector gamma rays from rotating electron beams",
+          "10.1017/hpl.2026.10121"
+        ]
+      ]
+    },
+    {
+      "title": "Learning to reconstruct Germano Differential Filtered Fields with Convolutional Neural Networks for Large Eddy Simulation of Plasma Turbulence",
+      "arxiv": "http://arxiv.org/abs/2610.20204v1",
+      "nearest_existing": [
+        [
+          0.4497991967871486,
+          "Constructing field-aligned coordinate systems for gyrokinetic simulations of tokamaks in X-point geometries",
+          "10.1017/S0022377826101779"
+        ],
+        [
+          0.4330708661417323,
+          "Revisiting the MRX Electron Current Sheet Width with Semi-Collisional Kinetic Simulations at Hydrogen Mass Ratio",
+          "10.48550/arXiv.2609.01793"
+        ],
+        [
+          0.4297520661157025,
+          "Precision mapping of laser-driven magnetic fields and their evolution in high-energy-density plasmas",
+          "10.48550/arXiv.2607.08680"
+        ]
+      ]
+    },
+    {
+      "title": "A modern particle-in-cell code for beam-beam simulations of future colliders",
+      "arxiv": "http://arxiv.org/abs/2610.17557v1",
+      "nearest_existing": [
+        [
+          0.5202312138728323,
+          "Full EPIC-GOD: An energy-conserving full particle-in-cell code for GPU acceleration using OpenACC",
+          "10.1016/j.cpc.2026.110021"
+        ],
+        [
+          0.5032258064516129,
+          "An explicit, energy-conserving particle-in-cell scheme for relativistic plasmas",
+          "10.48550/arXiv.2605.18542"
+        ],
+        [
+          0.4970414201183432,
+          "High-order exponential solver method for particle-in-cell simulations in cylindrical geometry",
+          "10.48550/arXiv.2605.12132"
+        ]
+      ]
+    },
+    {
+      "title": "Programmable Hard-X-Ray Spectral Comb Generation via Laser-Compton Scattering",
+      "arxiv": "http://arxiv.org/abs/2610.17166v1",
+      "nearest_existing": [
+        [
+          0.49473684210526314,
+          "Stable and tunable MeV γ-ray generation via dual-laser inverse Thomson scattering from a laser-plasma accelerator",
+          "10.1038/s41598-026-56639-7"
+        ],
+        [
+          0.49079754601226994,
+          "A high-flux electron detection system to measure non-linear Compton scattering at LUXE",
+          "10.48550/arXiv.2609.35519"
+        ],
+        [
+          0.47619047619047616,
+          "Experimental demonstration of Flying-Focus enhanced Thomson scattering",
+          "10.48550/arXiv.2607.15805"
+        ]
+      ]
+    }
+  ],
+  "formal_version_checks": [
+    {
+      "arxiv": "http://arxiv.org/abs/2610.20304v1",
+      "matches": [
+        {
+          "doi": "10.1016/j.lssr.2015.06.006",
+          "title": [
+            "A semiconductor radiation imaging pixel detector for space radiation dosimetry"
+          ],
+          "similarity": 0.5621621621621622
+        },
+        {
+          "doi": "10.3938/jkps.50.1534",
+          "title": [
+            "Proton Beam Energy Monitoring with Radiation-Hard Crystal Scintillators"
+          ],
+          "similarity": 0.29213483146067415
+        },
+        {
+          "doi": "10.1109/nss/mic/rtsd57106.2025.11287133",
+          "title": [
+            "Developing a Gallium Nitride Detector for High-Energy Proton Beam Dosimetry and Imaging"
+          ],
+          "similarity": 0.44329896907216493
+        }
+      ]
+    },
+    {
+      "arxiv": "http://arxiv.org/abs/2610.20204v1",
+      "matches": [
+        {
+          "doi": "10.52202/075280-3033",
+          "title": [
+            "Neural Ideal Large Eddy Simulation: Modeling Turbulence with Neural Stochastic Differential Equations"
+          ],
+          "similarity": 0.36213991769547327
+        },
+        {
+          "doi": "10.1063/5.0265759",
+          "title": [
+            "Multiscale convolutional neural networks for subgrid-scale modeling in large-eddy simulation"
+          ],
+          "similarity": 0.48717948717948717
+        },
+        {
+          "doi": "10.1016/j.jcp.2025.114125",
+          "title": [
+            "LESnets (large-eddy simulation nets): Physics-informed neural operator for large-eddy simulation of turbulence"
+          ],
+          "similarity": 0.5238095238095238
+        }
+      ]
+    },
+    {
+      "arxiv": "http://arxiv.org/abs/2610.17557v1",
+      "matches": [
+        {
+          "doi": "10.1109/hipc.2019.00025",
+          "title": [
+            "Efficient Parallel Multi-bunch Beam-Beam Simulation in Particle Colliders"
+          ],
+          "similarity": 0.5906040268456376
+        },
+        {
+          "doi": "10.1063/1.1638370",
+          "title": [
+            "Beam-beam Simulations in Four-beam Scheme for High Luminosity e+e− Colliders"
+          ],
+          "similarity": 0.4868421052631579
+        },
+        {
+          "doi": "10.1103/physrevlett.72.2025",
+          "title": [
+            "Particle diffusion from the beam-beam interaction in synchrotron colliders"
+          ],
+          "similarity": 0.5866666666666667
+        }
+      ]
+    },
+    {
+      "arxiv": "http://arxiv.org/abs/2610.17166v1",
+      "matches": [
+        {
+          "doi": "10.1142/s0217979207042288",
+          "title": [
+            "INJECTOR STUDY FOR COMPACT HARD X-RAY SOURCE VIA LASER COMPTON SCATTERING"
+          ],
+          "similarity": 0.5733333333333334
+        },
+        {
+          "doi": "10.1016/j.nima.2010.04.001",
+          "title": [
+            "Quasi-monochromatic hard X-ray source via laser Compton scattering and its application"
+          ],
+          "similarity": 0.5521472392638037
+        },
+        {
+          "doi": "10.1063/1.3094882",
+          "title": [
+            "Positron generation through laser Compton scattering gamma ray"
+          ],
+          "similarity": 0.5611510791366906
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "doi": "10.1103/8rg8-tmgg",
+      "title": "Calculating extremely high-energy bremsstrahlung in matter",
+      "reason": "ultrarelativistic LPM/overlapping-formation theory; lower priority than directly relevant source/diagnostic papers in this run; not ingested"
+    }
+  ]
+}

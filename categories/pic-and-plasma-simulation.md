@@ -2,11 +2,14 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：188 篇
-- 索引更新时间：2026-10-15
+- 当前收录：191 篇
+- 索引更新时间：2026-10-16
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-16 | [Path-integrated electrostatic energization in laser-driven collisionless cylindrical convergence](../papers/10-1103-8jqr-lcb3/README.md) | Physical Review E | [笔记](../daily/2026-10-16/notes/Pan et al. - 2026 - Electrostatic energization in cylindrical convergence.md) |
+| 2026-10-16 | [Learning to reconstruct Germano Differential Filtered Fields with Convolutional Neural Networks for Large Eddy Simulation of Plasma Turbulence](../papers/arxiv-2610-20204/README.md) | arXiv preprint | [笔记](../daily/2026-10-16/notes/Castagna and Williams - 2026 - Filtered plasma turbulence CNN.md) |
+| 2026-10-16 | [A modern particle-in-cell code for beam-beam simulations of future colliders](../papers/arxiv-2610-17557/README.md) | arXiv preprint | [笔记](../daily/2026-10-16/notes/Formenti et al. - 2026 - WarpX beam beam benchmark.md) |
 | 2026-10-15 | [QUARZ: a quasi-static particle-in-cell code with non-uniform radial grids for plasma wakefields](../papers/arxiv-2610-16910/README.md) | arXiv preprint | [笔记](../daily/2026-10-15/notes/Pukhov and Wilson - 2026 - QUARZ plasma wakefields.md) |
 | 2026-10-15 | [SPIRE: Spin-Resolved Particle-in-Cell with Radiative Corrections for Extreme Laser--Plasma Interactions](../papers/arxiv-2610-14664/README.md) | arXiv preprint | [笔记](../daily/2026-10-15/notes/Wu et al. - 2026 - SPIRE spin-resolved QED PIC.md) |
 | 2026-10-15 | [Toward a Multimodal Foundation Model for Plasma State Reconstruction](../papers/arxiv-2610-15076/README.md) | arXiv preprint (NeurIPS 2026 workshop) | [笔记](../daily/2026-10-15/notes/Xia et al. - 2026 - Multimodal plasma reconstruction.md) |

@@ -2,11 +2,14 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：143 篇
-- 索引更新时间：2026-10-15
+- 当前收录：146 篇
+- 索引更新时间：2026-10-16
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-16 | [Practical considerations in measuring out-of-field neutron dose for pulsed and gantry-mounted proton therapy machines](../papers/10-1088-1361-6560-aeaf3e/README.md) | Physics in Medicine &amp; Biology | [笔记](../daily/2026-10-16/notes/Zhang et al. - 2026 - Pulsed proton therapy neutron dose.md) |
+| 2026-10-16 | [A single radiation hard pixel detector for proton dosimetry, imaging, energy resolution and beam monitoring](../papers/arxiv-2610-20304/README.md) | arXiv preprint | [笔记](../daily/2026-10-16/notes/Brosda et al. - 2026 - GaN proton detector.md) |
+| 2026-10-16 | [Programmable Hard-X-Ray Spectral Comb Generation via Laser-Compton Scattering](../papers/arxiv-2610-17166/README.md) | arXiv preprint | [笔记](../daily/2026-10-16/notes/Zhang et al. - 2026 - Programmable hard X ray spectral comb.md) |
 | 2026-10-15 | [Multi-Objective Design of C-Shaped Targets for Energy--Divergence Control in Laser-Driven Proton Acceleration](../papers/arxiv-2610-14824/README.md) | arXiv preprint | [笔记](../daily/2026-10-15/notes/Rezaei-Pandari et al. - 2026 - C-shaped laser proton targets.md) |
 | 2026-10-15 | [Toward a Multimodal Foundation Model for Plasma State Reconstruction](../papers/arxiv-2610-15076/README.md) | arXiv preprint (NeurIPS 2026 workshop) | [笔记](../daily/2026-10-15/notes/Xia et al. - 2026 - Multimodal plasma reconstruction.md) |
 | 2026-10-14 | [Two-color dual-oscillator infrared free-electron laser](../papers/10-1103-b27b-9gg1/README.md) | Physical Review Accelerators and Beams (formal CC BY VOR) | [笔记](../daily/2026-10-14/notes/Schollkopf et al. - 2026 - Two-color dual-oscillator infrared FEL.md) |

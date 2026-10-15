@@ -2,11 +2,12 @@
 
 HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。
 
-- 当前收录：118 篇
-- 索引更新时间：2026-10-15
+- 当前收录：119 篇
+- 索引更新时间：2026-10-16
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-16 | [Path-integrated electrostatic energization in laser-driven collisionless cylindrical convergence](../papers/10-1103-8jqr-lcb3/README.md) | Physical Review E | [笔记](../daily/2026-10-16/notes/Pan et al. - 2026 - Electrostatic energization in cylindrical convergence.md) |
 | 2026-10-13 | [Physical-state supervision for design-only Gaussian process surrogates of implosion simulations](../papers/arxiv-2610-13822/README.md) | arXiv preprint | [笔记](../daily/2026-10-13/notes/Liu et al. - 2026 - Physical-state GP implosion surrogates.md) |
 | 2026-10-12 | [Compressional heating above 1 keV on the LM26 magnetized target fusion machine](../papers/arxiv-2610-11890/README.md) | arXiv preprint | [笔记](../daily/2026-10-12/notes/Howard et al. - 2026 - LM26 compressional heating above 1 keV.md) |
 | 2026-10-12 | [Thomson Scattering Measurement of 1 keV Electron Temperature on Lawson Machine 26](../papers/arxiv-2610-11769/README.md) | arXiv preprint | [笔记](../daily/2026-10-12/notes/Carle et al. - 2026 - LM26 Thomson scattering at 1 keV.md) |

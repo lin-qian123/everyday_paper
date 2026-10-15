@@ -1,0 +1,115 @@
+{
+  "run_date": "2026-10-16",
+  "latest_arxiv_submission_date": "2026-10-14",
+  "search_summary": {
+    "sources": [
+      "installed search-layer",
+      "official arXiv Atom API",
+      "Crossref",
+      "APS harvest and accepted listings",
+      "IOP",
+      "official single-paper pages and exact-title searches"
+    ],
+    "search_layer_queries": 3,
+    "search_layer_results": 0,
+    "crossref_distinct_theme_queries": 10,
+    "crossref_initial_rate_limited_queries": 6,
+    "successful_crossref_requeries": 6,
+    "crossref_total_requests": 16,
+    "crossref_returned_rows": 820,
+    "crossref_unique_dois": 662,
+    "arxiv_recent_rows": 300,
+    "formal_version_title_queries": 4,
+    "coverage_claim": "targeted, non-exhaustive",
+    "research_record": "daily/2026-10-16/research/research-run.json"
+  },
+  "deduplication": {
+    "processed_before": 453,
+    "processed_after": 459,
+    "retry_before": 37,
+    "retry_after": 39,
+    "keys": [
+      "DOI/arXiv",
+      "normalized title",
+      "source URL",
+      "historical daily folders",
+      "retry queue",
+      "near-title comparisons",
+      "abstract/physical scenario"
+    ],
+    "existing_overlap": "Only legacy 10.1016/j.jcp.2026.114707 remains in both completed and retry states; no new overlap."
+  },
+  "added": [
+    "10.1103/8jqr-lcb3",
+    "10.1088/1361-6560/aeaf3e",
+    "10.48550/arXiv.2610.20304",
+    "10.48550/arXiv.2610.20204",
+    "10.48550/arXiv.2610.17557",
+    "10.48550/arXiv.2610.17166"
+  ],
+  "retry_added": [
+    "10.1103/9y46-lc6w",
+    "10.1088/1741-4326/aeb431"
+  ],
+  "fulltext": {
+    "valid_documents": 6,
+    "formal_vors": 2,
+    "author_preprints": 4,
+    "pages": 116,
+    "pdf_bytes": 23262368,
+    "layout_text_bytes": 499692,
+    "mineru_pipeline_completed": 6,
+    "mineru_initial_routing_issue": "Extensionless PDF URLs initially auto-selected HTML; that attempt was stopped after failures. Explicit pipeline conversion succeeded for all six.",
+    "visually_checked_identity_and_key_pages": 13,
+    "retained_original_figure_crops": 7,
+    "details": "daily/2026-10-16/pdf_validation.json"
+  },
+  "evidence_boundaries": [
+    "Pan et al. is 2D EPOCH mechanism/scaling; 0.89 GeV is peak local mean carbon-ion energy, not extracted beam energy or cutoff.",
+    "Zhang neutron measurements are phantom H*(10) for a specific synchrocyclotron plan; not direct fetal absorbed dose or clinical risk.",
+    "Brosda has direct continuous-beam detector experiments plus GATE-assisted local-dose estimates; single-frame imaging and FLASH claims retain extrapolation conditions.",
+    "Castagna uses 2D periodic HW/mHW models; the coarsest mesh has wrong transport. MPI task-time reductions are distinct from wall-clock speedup; Fig. 13 HW visible axes end at 200 despite a 1000-duration caption.",
+    "WarpX cross-code total/high-energy luminosity differences remain large in the LWFA-QED case; CPU-versus-GPU turnaround times are not hardware-normalized speedups.",
+    "Compton comb is transport/radiation simulation with incoherent addition across electrons; spectral teeth do not establish temporal locking for the transported 10-micrometer bunch.",
+    "No EPOCH, TPS, GATE/Geant4, BOUT++, neural training, WarpX, GUINEA-PIG, CAIN, ImpactX or radiation calculation was rerun locally."
+  ],
+  "validation": {
+    "index_builder": "Indexed 459 papers across 9 categories.",
+    "pytest": "7 passed",
+    "unittest": "7 tests passed",
+    "artifact_audit": {
+      "ledger": 459,
+      "unique_identifiers": 455,
+      "unique_titles": 459,
+      "retry": 39,
+      "legacy_overlap": [
+        "10.1016/j.jcp.2026.114707"
+      ],
+      "new_pdfs": 6,
+      "pages": 116,
+      "pdf_bytes": 23262368,
+      "links": 60,
+      "images": 7,
+      "json_or_jsonl_files": 18,
+      "ignored_pdf_text_artifacts": 18,
+      "generated_paper_pages": [
+        "papers/10-1103-8jqr-lcb3/README.md",
+        "papers/10-1088-1361-6560-aeaf3e/README.md",
+        "papers/arxiv-2610-20304/README.md",
+        "papers/arxiv-2610-20204/README.md",
+        "papers/arxiv-2610-17557/README.md",
+        "papers/arxiv-2610-17166/README.md"
+      ]
+    },
+    "diff_check": "git diff --check and git diff --cached --check passed",
+    "historical_notes_backlog": {
+      "ledger_pdf_path_without_note": 42,
+      "existing_local_pdfs": 36,
+      "scope": "status count corrected; no historical full-text re-review in this run"
+    },
+    "staging": "53 scoped files; existing AGENTS.md edit excluded; all six PDFs and 12 extracted text files remain ignored; prior 453 completed and 37 retry records unchanged"
+  },
+  "git": "scoped commit and push to origin/master after final staging validation; preserve existing AGENTS.md edit",
+  "status": "success",
+  "validated_at": "2026-10-16T07:12:46+08:00"
+}

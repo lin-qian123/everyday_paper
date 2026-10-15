@@ -2,11 +2,15 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：107 篇
-- 索引更新时间：2026-10-15
+- 当前收录：111 篇
+- 索引更新时间：2026-10-16
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-16 | [Path-integrated electrostatic energization in laser-driven collisionless cylindrical convergence](../papers/10-1103-8jqr-lcb3/README.md) | Physical Review E | [笔记](../daily/2026-10-16/notes/Pan et al. - 2026 - Electrostatic energization in cylindrical convergence.md) |
+| 2026-10-16 | [Practical considerations in measuring out-of-field neutron dose for pulsed and gantry-mounted proton therapy machines](../papers/10-1088-1361-6560-aeaf3e/README.md) | Physics in Medicine &amp; Biology | [笔记](../daily/2026-10-16/notes/Zhang et al. - 2026 - Pulsed proton therapy neutron dose.md) |
+| 2026-10-16 | [A single radiation hard pixel detector for proton dosimetry, imaging, energy resolution and beam monitoring](../papers/arxiv-2610-20304/README.md) | arXiv preprint | [笔记](../daily/2026-10-16/notes/Brosda et al. - 2026 - GaN proton detector.md) |
+| 2026-10-16 | [Programmable Hard-X-Ray Spectral Comb Generation via Laser-Compton Scattering](../papers/arxiv-2610-17166/README.md) | arXiv preprint | [笔记](../daily/2026-10-16/notes/Zhang et al. - 2026 - Programmable hard X ray spectral comb.md) |
 | 2026-10-15 | [Multi-Objective Design of C-Shaped Targets for Energy--Divergence Control in Laser-Driven Proton Acceleration](../papers/arxiv-2610-14824/README.md) | arXiv preprint | [笔记](../daily/2026-10-15/notes/Rezaei-Pandari et al. - 2026 - C-shaped laser proton targets.md) |
 | 2026-10-14 | [Calibration of organic liquid scintillator EJ-315 and unfolding of gamma spectra](../papers/10-1007-s10751-026-02815-0/README.md) | Interactions (formal conference-proceeding VOR) | [笔记](../daily/2026-10-14/notes/Saikia et al. - 2026 - EJ-315 gamma spectrum unfolding.md) |
 | 2026-10-14 | [Pulse-Shape Discrimination with Machine Learning for CZT Detectors at DAΦNE Beam Test Facility](../papers/10-3390-condmat11040038/README.md) | Condensed Matter (formal CC BY VOR) | [笔记](../daily/2026-10-14/notes/Manti et al. - 2026 - ML pulse-shape discrimination for CZT.md) |

@@ -10,7 +10,7 @@
 - [仓库结构](#仓库结构)
 - [分类索引](#分类索引)
 - [专题综述](#专题综述)
-- [当前状态](#当前状态2026-10-15)
+- [当前状态](#当前状态2026-10-16)
 - [去重规则](#去重规则)
 - [PDF 下载稳健性](#pdf-下载稳健性)
 - [维护约定](#维护约定)
@@ -86,11 +86,12 @@
 - `state/processed_articles.json`: 已处理论文去重台账
 - `templates/daily-index-template.md`: 每日索引模板
 
-## 当前状态（2026-10-15）
+## 当前状态（2026-10-16）
 
-- 已维护到 `daily/2026-10-15/`。本轮在多来源搜索层 3 个定向查询无返回后，核对官方 arXiv 目标分类最近 300 条、Crossref 2026-10-13 至 15 的 10 组主题元数据及 AIP、APS、Optica 和精确标题来源；新增 1 篇 2026-10-14 AIP 正式 VOR 与 5 篇官方 arXiv 作者预印本，覆盖硼氢离子电子碰撞、强场 QED-PIC、激光质子靶多目标优化、等离子体多模态重建、束流生成代理和非均匀网格准静态 PIC。
-- 6 份 PDF 共 122 页、56,246,645 字节，通过文件头、类型、页数、SHA-256、`pypdf` 和布局文本校验；目视检查 6 个关键页并保留 6 幅关键图。MinerU 的 6 个公开 URL 均失败，因此明确使用已验证本地全文、695,741 字节布局文本和页面渲染回退。
-- 台账从 447 增至 453 条；APS 全托卡马克中子辐照模型与 Optica 飞焦超光速尾场阿秒辐射两篇正式候选因 Cloudflare/404 或 HTML 验证页进入重试，使队列从 35 增至 37 条。严格区分正式 VOR、预印本、理论/模拟/机器学习结果和本地未复现边界。
+- 已维护到 `daily/2026-10-16/`，完成台账从 453 增至 **459 条**。新增 2 篇 2026-10-15 正式 VOR 和 4 篇官方 arXiv v1，覆盖激光微管增能、脉冲质子治疗机场外中子、GaN 质子探测器、CNN 湍流 LES、WarpX 束束 QED 基准与可编程 Compton 硬 X 射线频梳。
+- 6 份 PDF 共 116 页、23,262,368 字节，通过文件头、类型、页数、SHA-256、全页可读性和布局文本检查；MinerU 显式 `pipeline` 对 6 篇全部成功，目视核查 13 个身份/关键页并保留 7 幅原图。PDF 与提取正文按规则仅本地保留。
+- 搜索层 3 个查询无返回，官方 arXiv 最近 300 条最新提交为 2026-10-14；Crossref 10 组主题查询初次 6 组限流，降低并发补查后合计 820 条返回、662 个唯一 DOI。定向覆盖，不宣称穷尽；两条 APS/IOP accepted 候选因 403/404 或 HTML 进入重试，队列增至 **39 条**。
+- 关键边界：微管 0.89 GeV 是局部平均动能峰值；中子 H*(10) 不是胎儿吸收剂量；GaN 部分性能为外推；最强 LWFA-QED 跨代码亮度尚有大分歧；CNN 最高实际墙钟加速为 1.55×。本轮没有复跑相关物理或机器学习计算。
 
 ## 当前状态（2026-10-14）
 
@@ -447,7 +448,7 @@
 - 已处理论文总数增至 233 条；`state/daily_retry_candidates.json` 维持 12 条。
 - 当前重试队列为 29 条来源侧限制：10 条 ScienceDirect / Elsevier `HTTP 403`、1 条 Nature `cookies_not_supported`、10 条 IOP/Radware/HTML 验证页、6 条 APS accepted/formal `HTTP 403` 或延迟开放，以及 2 条 Taylor & Francis `HTTP 403`。
 - 2026-06-11 配置级诊断显示当前 Codex shell 已是 `danger-full-access` 且 network enabled；`127.0.0.1:1087` 代理路径可下载 arXiv PDF。此前 06-09 到 06-11 的 9 条 runtime-blocked 候选已通过 `retry_download_queue.py` 全部恢复。
-- 当前有 65 条已补到 PDF 但尚未补中文结构化笔记的历史条目。
+- 当前台账有 42 条已记录 PDF 路径但尚未补中文结构化笔记的历史条目；其中 36 份本地 PDF 存在，6 条路径对应文件缺失，需先恢复原文。
 - 已新增自动索引脚本 `scripts/build_indexes.py`，可从 `state/processed_articles.json` 重建 `INDEX.md`、`papers/`、`categories/` 与 `daily/README.md`。
 - `scripts/safe_pdf_download.py` 已支持 HTML 落地页自动提取官方 PDF、失败分类输出和 `curl` 传输回退；其中 `curl` 回退下的代理不可连 / DNS 失败也已单独归类。`scripts/retry_download_queue.py` 可批量重试并自动更新 processed/retry 台账。今天再次验证：arXiv PDF 可经环境代理路径下载；但对来源侧长期受限的 12 条旧队列，全量重试仍会在无效来源上耗时过长，后续更适合按来源分组或限额运行。
 
@@ -478,6 +479,8 @@ python scripts/safe_pdf_download.py --url <候选URL> --doi <DOI> --output <目�
 - 若 `urllib` 传输层失败，会自动回退到 `curl`
 
 并会校验下载结果是否为真实 PDF（`Content-Type` 或 `%PDF-` 文件头）。
+
+解析学术 PDF 时，MinerU 对没有 `.pdf` 后缀的 arXiv、APS harvest 或 IOP PDF URL 应显式设置 `--model-version pipeline`，避免自动误选 HTML 模型。解析完成还须核对真实论文内容，并以本地文件头、页数、哈希、全文可读性与原图检查独立验证；受阻或失败时才记录本地回退。
 
 需要批量消化历史重试队列时，可使用：
 

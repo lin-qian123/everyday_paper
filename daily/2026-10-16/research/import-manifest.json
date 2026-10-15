@@ -1,0 +1,169 @@
+[
+  {
+    "title": "Path-integrated electrostatic energization in laser-driven collisionless cylindrical convergence",
+    "doi": "10.1103/8jqr-lcb3",
+    "journal": "Physical Review E",
+    "publication_date": "2026-10-15",
+    "processed_date": "2026-10-16",
+    "source_url": "https://link.aps.org/doi/10.1103/8jqr-lcb3",
+    "pdf_url": "https://harvest.aps.org/v2/journals/articles/10.1103/8jqr-lcb3/fulltext",
+    "pdf_path": "daily/2026-10-16/pdfs/Pan et al. - 2026 - Electrostatic energization in cylindrical convergence.pdf",
+    "note_path": "daily/2026-10-16/notes/Pan et al. - 2026 - Electrostatic energization in cylindrical convergence.md",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "hedp-icf-laboratory-astrophysics",
+      "pic-and-plasma-simulation"
+    ],
+    "normalized_title": "path integrated electrostatic energization in laser driven collisionless cylindrical convergence",
+    "key": "pan-convergence",
+    "authors": [
+      "D. Pan",
+      "M. Murakami",
+      "S. Fujioka",
+      "H. Nagatomo"
+    ],
+    "arxiv_version": null,
+    "fulltext_version": "version of record"
+  },
+  {
+    "title": "Practical considerations in measuring out-of-field neutron dose for pulsed and gantry-mounted proton therapy machines",
+    "doi": "10.1088/1361-6560/aeaf3e",
+    "journal": "Physics in Medicine &amp; Biology",
+    "publication_date": "2026-10-15",
+    "processed_date": "2026-10-16",
+    "source_url": "https://iopscience.iop.org/article/10.1088/1361-6560/aeaf3e",
+    "pdf_url": "https://iopscience.iop.org/article/10.1088/1361-6560/aeaf3e/pdf",
+    "pdf_path": "daily/2026-10-16/pdfs/Zhang et al. - 2026 - Pulsed proton therapy neutron dose.pdf",
+    "note_path": "daily/2026-10-16/notes/Zhang et al. - 2026 - Pulsed proton therapy neutron dose.md",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "experimental-platforms-diagnostics"
+    ],
+    "normalized_title": "practical considerations in measuring out of field neutron dose for pulsed and gantry mounted proton therapy machines",
+    "key": "zhang-neutron",
+    "authors": [
+      "Hailei Zhang",
+      "Thomas R Mazur",
+      "Gabriele Zorloni",
+      "Arash Darafsheh"
+    ],
+    "arxiv_version": null,
+    "fulltext_version": "version of record"
+  },
+  {
+    "title": "A single radiation hard pixel detector for proton dosimetry, imaging, energy resolution and beam monitoring",
+    "doi": "10.48550/arXiv.2610.20304",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-14",
+    "processed_date": "2026-10-16",
+    "source_url": "https://arxiv.org/abs/2610.20304",
+    "pdf_url": "https://arxiv.org/pdf/2610.20304",
+    "pdf_path": "daily/2026-10-16/pdfs/Brosda et al. - 2026 - GaN proton detector.pdf",
+    "note_path": "daily/2026-10-16/notes/Brosda et al. - 2026 - GaN proton detector.md",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "experimental-platforms-diagnostics"
+    ],
+    "normalized_title": "a single radiation hard pixel detector for proton dosimetry imaging energy resolution and beam monitoring",
+    "key": "brosda-gan",
+    "authors": [
+      "Nico Frederic Brosda",
+      "Stephane Higueret",
+      "Nicolas Arbor",
+      "Matilde Siviero",
+      "Maxime Hugues",
+      "Eric Frayssinet",
+      "Luisa Parschat",
+      "Christian Baumer",
+      "Andreas Dirk Wieck",
+      "Jean Yves Duboz"
+    ],
+    "arxiv_version": "2610.20304v1",
+    "fulltext_version": "author preprint"
+  },
+  {
+    "title": "Learning to reconstruct Germano Differential Filtered Fields with Convolutional Neural Networks for Large Eddy Simulation of Plasma Turbulence",
+    "doi": "10.48550/arXiv.2610.20204",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-14",
+    "processed_date": "2026-10-16",
+    "source_url": "https://arxiv.org/abs/2610.20204",
+    "pdf_url": "https://arxiv.org/pdf/2610.20204",
+    "pdf_path": "daily/2026-10-16/pdfs/Castagna and Williams - 2026 - Filtered plasma turbulence CNN.pdf",
+    "note_path": "daily/2026-10-16/notes/Castagna and Williams - 2026 - Filtered plasma turbulence CNN.md",
+    "categories": [
+      "ai-ml-plasma-physics",
+      "pic-and-plasma-simulation",
+      "magnetic-fusion-and-alpha-particles"
+    ],
+    "normalized_title": "learning to reconstruct germano differential filtered fields with convolutional neural networks for large eddy simulation of plasma turbulence",
+    "key": "castagna-les",
+    "authors": [
+      "Jony Castagna",
+      "Josh Williams"
+    ],
+    "arxiv_version": "2610.20204v1",
+    "fulltext_version": "author preprint"
+  },
+  {
+    "title": "A modern particle-in-cell code for beam-beam simulations of future colliders",
+    "doi": "10.48550/arXiv.2610.17557",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-13",
+    "processed_date": "2026-10-16",
+    "source_url": "https://arxiv.org/abs/2610.17557",
+    "pdf_url": "https://arxiv.org/pdf/2610.17557",
+    "pdf_path": "daily/2026-10-16/pdfs/Formenti et al. - 2026 - WarpX beam beam benchmark.pdf",
+    "note_path": "daily/2026-10-16/notes/Formenti et al. - 2026 - WarpX beam beam benchmark.md",
+    "categories": [
+      "pic-and-plasma-simulation",
+      "strong-field-qed-radiation",
+      "laser-plasma-acceleration"
+    ],
+    "normalized_title": "a modern particle in cell code for beam beam simulations of future colliders",
+    "key": "formenti-warpx",
+    "authors": [
+      "Arianna Formenti",
+      "Remi Lehe",
+      "Axel Huebl",
+      "Stepan S. Bulanov",
+      "Jens Osterhoff",
+      "Andrew Myers",
+      "Weiqun Zhang",
+      "Spencer Gessner",
+      "Peter Kicsiny",
+      "Anna Kinderman",
+      "Bao Nguyen",
+      "Jinseo Park",
+      "Jean-Luc Vay"
+    ],
+    "arxiv_version": "2610.17557v1",
+    "fulltext_version": "author preprint"
+  },
+  {
+    "title": "Programmable Hard-X-Ray Spectral Comb Generation via Laser-Compton Scattering",
+    "doi": "10.48550/arXiv.2610.17166",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-12",
+    "processed_date": "2026-10-16",
+    "source_url": "https://arxiv.org/abs/2610.17166",
+    "pdf_url": "https://arxiv.org/pdf/2610.17166",
+    "pdf_path": "daily/2026-10-16/pdfs/Zhang et al. - 2026 - Programmable hard X ray spectral comb.pdf",
+    "note_path": "daily/2026-10-16/notes/Zhang et al. - 2026 - Programmable hard X ray spectral comb.md",
+    "categories": [
+      "laser-plasma-acceleration",
+      "laser-accelerated-beam-applications",
+      "experimental-platforms-diagnostics"
+    ],
+    "normalized_title": "programmable hard x ray spectral comb generation via laser compton scattering",
+    "key": "zhang-comb",
+    "authors": [
+      "Hao Zhang",
+      "1Ji Qiang",
+      "Shukui Zhang",
+      "Sergio Carbajo"
+    ],
+    "arxiv_version": "2610.17166v1",
+    "fulltext_version": "author preprint"
+  }
+]

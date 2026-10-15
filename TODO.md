@@ -1,5 +1,7 @@
 # TODO
 
+- 2026-10-16：加载 453 条完成台账和 37 条重试项；官方 arXiv 最近 300 条更新到 10-14 投稿，Crossref 10 组查询的 6 次限流降低并发补查后恢复，合计 820 条返回、662 个 DOI。新增 2 篇正式 VOR 和 4 篇 arXiv v1，6 份 PDF 共 116 页、23,262,368 字节，全部完成 MinerU pipeline 和本地独立核验；检查 13 个身份/关键页，保留 7 幅原图。台账增至 459，APS 核衰变/IOP 束布局两条 accepted 候选受阻后重试增至 39。笔记明确局部均能、H*(10)、GaN 外推、强 QED 跨代码分歧与 MPI/墙钟成本口径；本地未复跑物理或训练。
+
 - 2026-10-15：加载 447 条完成台账、35 条重试队列和历史 `daily/`；多来源搜索层 3 个定向查询无返回后，转用官方 arXiv 最近 300 条、Crossref 10 组主题查询与 AIP/APS/Optica 正式来源。新增 1 篇 AIP 正式 VOR 和 5 篇官方 arXiv 预印本；6 份 PDF 共 122 页、56,246,645 字节通过文件、页数、哈希、`pypdf`、布局文本及 6 个关键页目视检查，保留 6 幅关键图。MinerU 6 个 URL 均失败后使用已验证本地回退。台账增至 453 条；2 条高相关正式候选因 Cloudflare/404 或 HTML 验证页进入重试，使队列增至 37 条。严格区分理论、模拟、代码验证、机器学习代理与实验事实。
 
 - 2026-10-14：加载 442 条完成台账、30 条重试队列和历史 `daily/`；官方 arXiv 目标分类最近 100 条的最新提交仍为 2026-10-09，转用 Crossref 10 组主题查询及 APS、Springer、MDPI 等正式来源补核。新增 5 篇 2026-10-13 正式 VOR；5 份 PDF 共 77 页、16,656,651 字节通过文件、页数、哈希、`pypdf`、布局文本及 10 个关键页目视检查，保留 5 幅关键图。台账增至 447 条；5 条高相关正式候选因出版商验证页、cookie wall 或 `HTTP 403` 进入重试，使队列增至 35 条。Fig. 3—Table 6 的材料可靠性内部矛盾已显式保留；严格区分直接实验、模型辅助展开/输运、人工标签准确率和统计重分析。
@@ -21,8 +23,8 @@
 - [ ] 后续新增关键论文或原文版本更新时，修订对应综述章与比较结论；先核查当前快照和 R 编号，避免直接重排台账后留下错误引用。已发现的旧笔记公式/日期/参数问题见 `reviews/2026-frontiers/appendices/source-discrepancies.md`，需按原文逐项修订。
 
 - [ ] 将每日自动化主流程固定为：新增论文与笔记 -> 更新 `state/processed_articles.json` -> 运行 `python scripts/build_indexes.py` -> 提交并推送 `origin/master`。
-- [ ] 处理剩余 37 条未补回 PDF 的候选；其中 10 条为 Elsevier/ScienceDirect `HTTP 403`，2 条为 Nature cookie wall，13 条为 IOP/Radware/HTML 验证页，7 条为 APS accepted/formal `HTTP 403` 或延迟开放，3 条为 Taylor & Francis 正式论文 `HTTP 403`，另有 2 条 Optica/Radware 验证页。
-- [ ] 为当前 65 条已补回 PDF 但尚无笔记的条目补中文结构化笔记。
+- [ ] 处理剩余 39 条未补回 PDF 的候选；其中 10 条为 Elsevier/ScienceDirect `HTTP 403`，2 条为 Nature cookie wall，14 条为 IOP/Radware/HTML 验证页，8 条为 APS accepted/formal `HTTP 403` 或延迟开放，3 条为 Taylor & Francis 正式论文 `HTTP 403`，另有 2 条 Optica/Radware 验证页。
+- [ ] 为当前台账 42 条已记录 PDF 路径但尚无笔记的条目补中文结构化笔记；其中 36 份 PDF 本地存在，另 6 条需先恢复缺失全文。
 - [ ] 把每日自动化主流程接到 `scripts/retry_download_queue.py`，启动时先消化可恢复积压，避免配置恢复后仍只读旧 blocked-day 记录。
 - [ ] 为来源可达性预检补一层轻量检查，避免在明显 `403` / bot-wall 来源上重复空跑，并对 arXiv / DOI 这类开放来源单独标记“仅运行时阻塞”。
 - [ ] 修补 `scripts/safe_pdf_download.py` 在个别 Cambridge 官方 PDF 直链上的卡住问题；当前同 URL 用 `curl` 可正常完成下载，说明更像 Python 传输路径或读取策略问题。

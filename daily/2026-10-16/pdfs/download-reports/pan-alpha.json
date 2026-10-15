@@ -1,0 +1,9 @@
+{
+  "ok": false,
+  "output": "daily/2026-10-16/pdfs/Pan et al. - 2026 - Alpha decay in intense laser fields.pdf",
+  "attempts": [
+    "[env-proxy] https://harvest.aps.org/v2/journals/articles/10.1103/9y46-lc6w/fulltext -> HTTP 404",
+    "[direct] https://harvest.aps.org/v2/journals/articles/10.1103/9y46-lc6w/fulltext -> HTTP 404"
+  ],
+  "failure_class": "unknown"
+}

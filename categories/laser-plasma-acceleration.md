@@ -2,11 +2,13 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：143 篇
-- 索引更新时间：2026-10-15
+- 当前收录：145 篇
+- 索引更新时间：2026-10-16
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-16 | [A modern particle-in-cell code for beam-beam simulations of future colliders](../papers/arxiv-2610-17557/README.md) | arXiv preprint | [笔记](../daily/2026-10-16/notes/Formenti et al. - 2026 - WarpX beam beam benchmark.md) |
+| 2026-10-16 | [Programmable Hard-X-Ray Spectral Comb Generation via Laser-Compton Scattering](../papers/arxiv-2610-17166/README.md) | arXiv preprint | [笔记](../daily/2026-10-16/notes/Zhang et al. - 2026 - Programmable hard X ray spectral comb.md) |
 | 2026-10-15 | [QUARZ: a quasi-static particle-in-cell code with non-uniform radial grids for plasma wakefields](../papers/arxiv-2610-16910/README.md) | arXiv preprint | [笔记](../daily/2026-10-15/notes/Pukhov and Wilson - 2026 - QUARZ plasma wakefields.md) |
 | 2026-10-15 | [SPIRE: Spin-Resolved Particle-in-Cell with Radiative Corrections for Extreme Laser--Plasma Interactions](../papers/arxiv-2610-14664/README.md) | arXiv preprint | [笔记](../daily/2026-10-15/notes/Wu et al. - 2026 - SPIRE spin-resolved QED PIC.md) |
 | 2026-10-15 | [Multi-Objective Design of C-Shaped Targets for Energy--Divergence Control in Laser-Driven Proton Acceleration](../papers/arxiv-2610-14824/README.md) | arXiv preprint | [笔记](../daily/2026-10-15/notes/Rezaei-Pandari et al. - 2026 - C-shaped laser proton targets.md) |

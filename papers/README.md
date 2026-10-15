@@ -1,10 +1,16 @@
 # 论文总索引
 
-- 当前入库论文：453 篇
-- 索引更新时间：2026-10-15
+- 当前入库论文：459 篇
+- 索引更新时间：2026-10-16
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-10-16 | [Path-integrated electrostatic energization in laser-driven collisionless cylindrical convergence](./10-1103-8jqr-lcb3/README.md) | Physical Review E | [10.1103/8jqr-lcb3](https://doi.org/10.1103/8jqr-lcb3) |
+| 2026-10-16 | [Practical considerations in measuring out-of-field neutron dose for pulsed and gantry-mounted proton therapy machines](./10-1088-1361-6560-aeaf3e/README.md) | Physics in Medicine &amp; Biology | [10.1088/1361-6560/aeaf3e](https://doi.org/10.1088/1361-6560/aeaf3e) |
+| 2026-10-16 | [A single radiation hard pixel detector for proton dosimetry, imaging, energy resolution and beam monitoring](./arxiv-2610-20304/README.md) | arXiv preprint | [10.48550/arXiv.2610.20304](https://doi.org/10.48550/arXiv.2610.20304) |
+| 2026-10-16 | [Learning to reconstruct Germano Differential Filtered Fields with Convolutional Neural Networks for Large Eddy Simulation of Plasma Turbulence](./arxiv-2610-20204/README.md) | arXiv preprint | [10.48550/arXiv.2610.20204](https://doi.org/10.48550/arXiv.2610.20204) |
+| 2026-10-16 | [A modern particle-in-cell code for beam-beam simulations of future colliders](./arxiv-2610-17557/README.md) | arXiv preprint | [10.48550/arXiv.2610.17557](https://doi.org/10.48550/arXiv.2610.17557) |
+| 2026-10-16 | [Programmable Hard-X-Ray Spectral Comb Generation via Laser-Compton Scattering](./arxiv-2610-17166/README.md) | arXiv preprint | [10.48550/arXiv.2610.17166](https://doi.org/10.48550/arXiv.2610.17166) |
 | 2026-10-15 | [Low-energy electron collisions with BH+](./10-1063-5-0354874/README.md) | The Journal of Chemical Physics (formal VOR) | [10.1063/5.0354874](https://doi.org/10.1063/5.0354874) |
 | 2026-10-15 | [QUARZ: a quasi-static particle-in-cell code with non-uniform radial grids for plasma wakefields](./arxiv-2610-16910/README.md) | arXiv preprint | [10.48550/arXiv.2610.16910](https://doi.org/10.48550/arXiv.2610.16910) |
 | 2026-10-15 | [SPIRE: Spin-Resolved Particle-in-Cell with Radiative Corrections for Extreme Laser--Plasma Interactions](./arxiv-2610-14664/README.md) | arXiv preprint | [10.48550/arXiv.2610.14664](https://doi.org/10.48550/arXiv.2610.14664) |

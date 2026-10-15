@@ -1,0 +1,100 @@
+[
+  {
+    "paper_key": "pan-convergence",
+    "figure": "Fig. 10",
+    "pdf_path": "daily/2026-10-16/pdfs/Pan et al. - 2026 - Electrostatic energization in cylindrical convergence.pdf",
+    "pdf_page": 8,
+    "crop_pdf_points": [
+      40,
+      65,
+      298,
+      575
+    ],
+    "path": "daily/2026-10-16/images/pan-tracer-work.png",
+    "source": "publisher/arXiv PDF; direct page crop, unchanged plot data"
+  },
+  {
+    "paper_key": "brosda-gan",
+    "figure": "Fig. 6",
+    "pdf_path": "daily/2026-10-16/pdfs/Brosda et al. - 2026 - GaN proton detector.pdf",
+    "pdf_page": 17,
+    "crop_pdf_points": [
+      70,
+      168,
+      530,
+      534
+    ],
+    "path": "daily/2026-10-16/images/gan-bragg-tracking.png",
+    "source": "publisher/arXiv PDF; direct page crop, unchanged plot data"
+  },
+  {
+    "paper_key": "castagna-les",
+    "figure": "Fig. 13",
+    "pdf_path": "daily/2026-10-16/pdfs/Castagna and Williams - 2026 - Filtered plasma turbulence CNN.pdf",
+    "pdf_page": 25,
+    "crop_pdf_points": [
+      65,
+      130,
+      535,
+      653
+    ],
+    "path": "daily/2026-10-16/images/cnn-turbulent-flux.png",
+    "source": "publisher/arXiv PDF; direct page crop, unchanged plot data"
+  },
+  {
+    "paper_key": "formenti-warpx",
+    "figure": "Fig. 5",
+    "pdf_path": "daily/2026-10-16/pdfs/Formenti et al. - 2026 - WarpX beam beam benchmark.pdf",
+    "pdf_page": 8,
+    "crop_pdf_points": [
+      40,
+      380,
+      308,
+      638
+    ],
+    "path": "daily/2026-10-16/images/warpx-luminosity-benchmark.png",
+    "source": "publisher/arXiv PDF; direct page crop, unchanged plot data"
+  },
+  {
+    "paper_key": "zhang-comb",
+    "figure": "Fig. 1",
+    "pdf_path": "daily/2026-10-16/pdfs/Zhang et al. - 2026 - Programmable hard X ray spectral comb.pdf",
+    "pdf_page": 1,
+    "crop_pdf_points": [
+      309,
+      314,
+      570,
+      675
+    ],
+    "path": "daily/2026-10-16/images/compton-comb-programming.png",
+    "source": "publisher/arXiv PDF; direct page crop, unchanged plot data"
+  },
+  {
+    "paper_key": "zhang-comb",
+    "figure": "Fig. 4",
+    "pdf_path": "daily/2026-10-16/pdfs/Zhang et al. - 2026 - Programmable hard X ray spectral comb.pdf",
+    "pdf_page": 4,
+    "crop_pdf_points": [
+      40,
+      290,
+      307,
+      570
+    ],
+    "path": "daily/2026-10-16/images/compton-temporal-locking.png",
+    "source": "publisher/arXiv PDF; direct page crop, unchanged plot data"
+  },
+  {
+    "paper_key": "zhang-neutron",
+    "figure": "Fig. 2",
+    "pdf_path": "daily/2026-10-16/pdfs/Zhang et al. - 2026 - Pulsed proton therapy neutron dose.pdf",
+    "pdf_page": 6,
+    "crop_pdf_points": [
+      84,
+      60,
+      550,
+      349
+    ],
+    "path": "daily/2026-10-16/images/neutron-dose-counter-comparison.png",
+    "source": "publisher/arXiv PDF; direct page crop, unchanged plot data"
+  }
+]

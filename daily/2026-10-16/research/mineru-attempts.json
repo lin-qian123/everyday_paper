@@ -1,0 +1,54 @@
+{
+  "status": "six pipeline conversions completed",
+  "initial_routing_issue": "Implicit extension-based detection chose HTML for extensionless PDF URLs. Two HTML tasks failed; the sequential attempt was stopped. All six were then submitted explicitly as pipeline and completed.",
+  "documents": [
+    {
+      "source": "https://harvest.aps.org/v2/journals/articles/10.1103/8jqr-lcb3/fulltext",
+      "task_id": "309a05cb-81db-4e64-ab58-34c3181a7cfd",
+      "state": "done",
+      "model_version": "pipeline",
+      "language": "en",
+      "fetched_at": 1792105332
+    },
+    {
+      "source": "https://arxiv.org/pdf/2610.20304",
+      "task_id": "7e5d0ee4-fb23-4599-a7ca-4491bd14027e",
+      "state": "done",
+      "model_version": "pipeline",
+      "language": "en",
+      "fetched_at": 1792105343
+    },
+    {
+      "source": "https://arxiv.org/pdf/2610.20204",
+      "task_id": "cd5cd2cb-02ce-49ee-aec9-ed935527bdd1",
+      "state": "done",
+      "model_version": "pipeline",
+      "language": "en",
+      "fetched_at": 1792105344
+    },
+    {
+      "source": "https://arxiv.org/pdf/2610.17557",
+      "task_id": "45695913-3dde-4264-a81e-0ca269d4e955",
+      "state": "done",
+      "model_version": "pipeline",
+      "language": "en",
+      "fetched_at": 1792105361
+    },
+    {
+      "source": "https://arxiv.org/pdf/2610.17166",
+      "task_id": "1cba00dc-8117-4f04-b7cf-781fc30e83cc",
+      "state": "done",
+      "model_version": "pipeline",
+      "language": "en",
+      "fetched_at": 1792105362
+    },
+    {
+      "source": "https://iopscience.iop.org/article/10.1088/1361-6560/aeaf3e/pdf",
+      "task_id": "2228ab58-c6ef-4a18-b380-1c662fa92c89",
+      "state": "done",
+      "model_version": "pipeline",
+      "language": "en",
+      "fetched_at": 1792105362
+    }
+  ]
+}
