@@ -1,0 +1,79 @@
+{
+  "ok": true,
+  "items": [
+    {
+      "source": "https://arxiv.org/pdf/2603.26383v2",
+      "task_id": "9deec993-8466-486e-a014-7877533dc777",
+      "state": "done",
+      "model_version": "pipeline",
+      "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-10-17/9deec993-8466-486e-a014-7877533dc777.zip",
+      "key": "dou-fireball",
+      "output_text_path": "daily/2026-10-17/pdfs/Dou et al. - 2026 - Polarized pair photon fireball.mineru.txt",
+      "text_bytes": 44807,
+      "title_word_overlap": 1.0,
+      "identity_crosschecked": true
+    },
+    {
+      "source": "https://arxiv.org/pdf/2606.02881v1",
+      "task_id": "5c66ab25-7e64-4d76-9e95-a9a62594481f",
+      "state": "done",
+      "model_version": "pipeline",
+      "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-10-17/5c66ab25-7e64-4d76-9e95-a9a62594481f.zip",
+      "key": "babati-conductivity",
+      "output_text_path": "daily/2026-10-17/pdfs/Babati et al. - 2026 - Mean force plasma conductivity.mineru.txt",
+      "text_bytes": 36053,
+      "title_word_overlap": 1.0,
+      "identity_crosschecked": true
+    },
+    {
+      "source": "https://www.nature.com/articles/s42005-026-02872-5.pdf",
+      "task_id": "8bb3d194-f31a-4ee0-8eca-abdb5972cc53",
+      "state": "done",
+      "model_version": "pipeline",
+      "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-10-17/8bb3d194-f31a-4ee0-8eca-abdb5972cc53.zip",
+      "key": "ota-saxs",
+      "output_text_path": "daily/2026-10-17/pdfs/Ota et al. - 2026 - Beamstop free HED plasma SAXS.mineru.txt",
+      "text_bytes": 54961,
+      "title_word_overlap": 1.0,
+      "identity_crosschecked": true
+    },
+    {
+      "source": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0359294&type=printable",
+      "task_id": "5e827be6-52d7-4621-beab-8097db263253",
+      "state": "done",
+      "model_version": "pipeline",
+      "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-10-17/5e827be6-52d7-4621-beab-8097db263253.zip",
+      "key": "kim-visual",
+      "output_text_path": "daily/2026-10-17/pdfs/Kim et al. - 2026 - GPU plasma visualization.mineru.txt",
+      "text_bytes": 66170,
+      "title_word_overlap": 1.0,
+      "identity_crosschecked": true
+    },
+    {
+      "source": "https://arxiv.org/pdf/2610.20435v1",
+      "task_id": "c1e8f337-3a28-4fc2-bb77-19203fa1aa3c",
+      "state": "done",
+      "model_version": "pipeline",
+      "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-10-17/c1e8f337-3a28-4fc2-bb77-19203fa1aa3c.zip",
+      "key": "djilkibaev-neutron",
+      "output_text_path": "daily/2026-10-17/pdfs/Djilkibaev - 2026 - Fast neutron multiple scattering Monte Carlo.mineru.txt",
+      "text_bytes": 45265,
+      "title_word_overlap": 1.0,
+      "identity_crosschecked": true
+    },
+    {
+      "source": "https://arxiv.org/pdf/2610.22118v1",
+      "task_id": "a1c5708f-26ba-4fbf-b961-4c1060f94865",
+      "state": "done",
+      "model_version": "pipeline",
+      "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-10-17/a1c5708f-26ba-4fbf-b961-4c1060f94865.zip",
+      "key": "french-reconnection",
+      "output_text_path": "daily/2026-10-17/pdfs/French et al. - 2026 - Reconnection particle injection channels.mineru.txt",
+      "text_bytes": 68816,
+      "title_word_overlap": 1.0,
+      "identity_crosschecked": true
+    }
+  ],
+  "errors": [],
+  "note": "All six explicit pipeline extractions contain matching article text and are crosschecked with local PDFs. Temporary parser caches are not retained."
+}

@@ -2,11 +2,12 @@
 
 强场量子效应、辐射反作用、非线性 Compton、pair production 与极端场实验。
 
-- 当前收录：73 篇
-- 索引更新时间：2026-10-16
+- 当前收录：74 篇
+- 索引更新时间：2026-10-17
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-17 | [Generation of a polarized pair-photon fireball via a laser-driven nonlinear-linear QED cascade](../papers/10-1103-xvmh-mcg7/README.md) | Physical Review E | [笔记](../daily/2026-10-17/notes/Dou et al. - 2026 - Polarized pair photon fireball.md) |
 | 2026-10-16 | [A modern particle-in-cell code for beam-beam simulations of future colliders](../papers/arxiv-2610-17557/README.md) | arXiv preprint | [笔记](../daily/2026-10-16/notes/Formenti et al. - 2026 - WarpX beam beam benchmark.md) |
 | 2026-10-15 | [SPIRE: Spin-Resolved Particle-in-Cell with Radiative Corrections for Extreme Laser--Plasma Interactions](../papers/arxiv-2610-14664/README.md) | arXiv preprint | [笔记](../daily/2026-10-15/notes/Wu et al. - 2026 - SPIRE spin-resolved QED PIC.md) |
 | 2026-10-13 | [Generating cylindrical vector gamma rays via beam-target interactions: toward structured light at high energies](../papers/10-1364-optica-612330/README.md) | Optica (formal publication; local full text: corresponding arXiv:2508.16220v1 author preprint, not VOR) | [笔记](../daily/2026-10-13/notes/Cao et al. - 2026 - Cylindrical vector gamma rays.md) |

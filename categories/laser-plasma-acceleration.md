@@ -2,11 +2,13 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：145 篇
-- 索引更新时间：2026-10-16
+- 当前收录：147 篇
+- 索引更新时间：2026-10-17
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-17 | [Generation of a polarized pair-photon fireball via a laser-driven nonlinear-linear QED cascade](../papers/10-1103-xvmh-mcg7/README.md) | Physical Review E | [笔记](../daily/2026-10-17/notes/Dou et al. - 2026 - Polarized pair photon fireball.md) |
+| 2026-10-17 | [Beamstop-free small-angle X-ray scattering for multiscale structure measurement of high-energy-density plasma](../papers/10-1038-s42005-026-02872-5/README.md) | Communications Physics | [笔记](../daily/2026-10-17/notes/Ota et al. - 2026 - Beamstop free HED plasma SAXS.md) |
 | 2026-10-16 | [A modern particle-in-cell code for beam-beam simulations of future colliders](../papers/arxiv-2610-17557/README.md) | arXiv preprint | [笔记](../daily/2026-10-16/notes/Formenti et al. - 2026 - WarpX beam beam benchmark.md) |
 | 2026-10-16 | [Programmable Hard-X-Ray Spectral Comb Generation via Laser-Compton Scattering](../papers/arxiv-2610-17166/README.md) | arXiv preprint | [笔记](../daily/2026-10-16/notes/Zhang et al. - 2026 - Programmable hard X ray spectral comb.md) |
 | 2026-10-15 | [QUARZ: a quasi-static particle-in-cell code with non-uniform radial grids for plasma wakefields](../papers/arxiv-2610-16910/README.md) | arXiv preprint | [笔记](../daily/2026-10-15/notes/Pukhov and Wilson - 2026 - QUARZ plasma wakefields.md) |

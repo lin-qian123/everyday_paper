@@ -1,10 +1,16 @@
 # 论文总索引
 
-- 当前入库论文：459 篇
-- 索引更新时间：2026-10-16
+- 当前入库论文：465 篇
+- 索引更新时间：2026-10-17
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-10-17 | [Generation of a polarized pair-photon fireball via a laser-driven nonlinear-linear QED cascade](./10-1103-xvmh-mcg7/README.md) | Physical Review E | [10.1103/xvmh-mcg7](https://doi.org/10.1103/xvmh-mcg7) |
+| 2026-10-17 | [Plasma conductivity from warm dense matter to the Spitzer limit using mean-force kinetic theory](./10-1103-177n-4yfm/README.md) | Physical Review Letters | [10.1103/177n-4yfm](https://doi.org/10.1103/177n-4yfm) |
+| 2026-10-17 | [Beamstop-free small-angle X-ray scattering for multiscale structure measurement of high-energy-density plasma](./10-1038-s42005-026-02872-5/README.md) | Communications Physics | [10.1038/s42005-026-02872-5](https://doi.org/10.1038/s42005-026-02872-5) |
+| 2026-10-17 | [Visual tools for 3D plasma simulation: GPU-based isosurface extraction and particle-based rendering](./10-1371-journal-pone-0359294/README.md) | PLOS One | [10.1371/journal.pone.0359294](https://doi.org/10.1371/journal.pone.0359294) |
+| 2026-10-17 | [Are $E>B$ regions essential for particle injection in relativistic magnetic reconnection?](./arxiv-2610-22118/README.md) | arXiv preprint | [10.48550/arXiv.2610.22118](https://doi.org/10.48550/arXiv.2610.22118) |
+| 2026-10-17 | [Fast Monte Carlo calculation of multiple scattering in resonant neutron capture](./arxiv-2610-20435/README.md) | arXiv preprint | [10.48550/arXiv.2610.20435](https://doi.org/10.48550/arXiv.2610.20435) |
 | 2026-10-16 | [Path-integrated electrostatic energization in laser-driven collisionless cylindrical convergence](./10-1103-8jqr-lcb3/README.md) | Physical Review E | [10.1103/8jqr-lcb3](https://doi.org/10.1103/8jqr-lcb3) |
 | 2026-10-16 | [Practical considerations in measuring out-of-field neutron dose for pulsed and gantry-mounted proton therapy machines](./10-1088-1361-6560-aeaf3e/README.md) | Physics in Medicine &amp; Biology | [10.1088/1361-6560/aeaf3e](https://doi.org/10.1088/1361-6560/aeaf3e) |
 | 2026-10-16 | [A single radiation hard pixel detector for proton dosimetry, imaging, energy resolution and beam monitoring](./arxiv-2610-20304/README.md) | arXiv preprint | [10.48550/arXiv.2610.20304](https://doi.org/10.48550/arXiv.2610.20304) |

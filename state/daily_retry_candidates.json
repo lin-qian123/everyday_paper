@@ -778,5 +778,30 @@
     "last_failure_class": "html_instead_of_pdf",
     "source_family": "iop",
     "failure_count": 1
+  },
+  {
+    "doi": "10.1103/qdnr-4g6w",
+    "title": "Optimal density profiles for phase-locked laser-wakefield acceleration",
+    "source_url": "https://journals.aps.org/prab/abstract/10.1103/qdnr-4g6w",
+    "publication_date": "2026-10-16",
+    "journal": "Physical Review Accelerators and Beams (Crossref publication metadata)",
+    "topic": "LWFA 密度整形、相位锁定与束流品质",
+    "run_date": "2026-10-17",
+    "status": "download_failed",
+    "attempt_cmd": "python scripts/safe_pdf_download.py --url https://harvest.aps.org/v2/journals/articles/10.1103/qdnr-4g6w/fulltext --output daily/2026-10-17/pdfs/McManus et al. - 2026 - Phase locked LWFA density profiles.pdf --report-json daily/2026-10-17/pdfs/download-reports/mcmanus-phase.json",
+    "stderr": "Failed to download PDF. Attempts:\n- [env-proxy] https://harvest.aps.org/v2/journals/articles/10.1103/qdnr-4g6w/fulltext -> HTTP 404\n- [direct] https://harvest.aps.org/v2/journals/articles/10.1103/qdnr-4g6w/fulltext -> HTTP 404\nFailed to download PDF. Attempts:\n- [env-proxy] https://journals.aps.org/prab/pdf/10.1103/qdnr-4g6w -> HTTP 403\n- [direct] https://journals.aps.org/prab/pdf/10.1103/qdnr-4g6w -> HTTP 404\n",
+    "stdout": "",
+    "output_pdf": "daily/2026-10-17/pdfs/McManus et al. - 2026 - Phase locked LWFA density profiles.pdf",
+    "attempted_at": "2026-10-17T07:07:07+08:00",
+    "last_retry_at": null,
+    "retry_count": 0,
+    "last_failure_class": "publisher_http_403_or_404",
+    "source_family": "aps",
+    "failure_count": 1,
+    "download_reports": [
+      "daily/2026-10-17/pdfs/download-reports/mcmanus-phase.json",
+      "daily/2026-10-17/pdfs/download-reports/mcmanus-phase-journal.json"
+    ],
+    "author_manuscript_search": "Official arXiv McManus+wakefield/density query and exact-title search did not identify a matching accessible author manuscript. No abstract-only note."
   }
 ]

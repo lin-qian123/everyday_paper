@@ -1,0 +1,9 @@
+{
+  "ok": false,
+  "output": "daily/2026-10-17/pdfs/McManus et al. - 2026 - Phase locked LWFA density profiles.pdf",
+  "attempts": [
+    "[env-proxy] https://journals.aps.org/prab/pdf/10.1103/qdnr-4g6w -> HTTP 403",
+    "[direct] https://journals.aps.org/prab/pdf/10.1103/qdnr-4g6w -> HTTP 404"
+  ],
+  "failure_class": "publisher_http_403"
+}

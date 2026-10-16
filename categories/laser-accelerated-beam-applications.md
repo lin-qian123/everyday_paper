@@ -2,11 +2,12 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：111 篇
-- 索引更新时间：2026-10-16
+- 当前收录：112 篇
+- 索引更新时间：2026-10-17
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-17 | [Fast Monte Carlo calculation of multiple scattering in resonant neutron capture](../papers/arxiv-2610-20435/README.md) | arXiv preprint | [笔记](../daily/2026-10-17/notes/Djilkibaev - 2026 - Fast neutron multiple scattering Monte Carlo.md) |
 | 2026-10-16 | [Path-integrated electrostatic energization in laser-driven collisionless cylindrical convergence](../papers/10-1103-8jqr-lcb3/README.md) | Physical Review E | [笔记](../daily/2026-10-16/notes/Pan et al. - 2026 - Electrostatic energization in cylindrical convergence.md) |
 | 2026-10-16 | [Practical considerations in measuring out-of-field neutron dose for pulsed and gantry-mounted proton therapy machines](../papers/10-1088-1361-6560-aeaf3e/README.md) | Physics in Medicine &amp; Biology | [笔记](../daily/2026-10-16/notes/Zhang et al. - 2026 - Pulsed proton therapy neutron dose.md) |
 | 2026-10-16 | [A single radiation hard pixel detector for proton dosimetry, imaging, energy resolution and beam monitoring](../papers/arxiv-2610-20304/README.md) | arXiv preprint | [笔记](../daily/2026-10-16/notes/Brosda et al. - 2026 - GaN proton detector.md) |

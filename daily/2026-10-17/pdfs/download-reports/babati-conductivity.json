@@ -1,0 +1,9 @@
+{
+  "ok": false,
+  "output": "daily/2026-10-17/pdfs/Babati et al. - 2026 - Mean force plasma conductivity.pdf",
+  "attempts": [
+    "[env-proxy] https://harvest.aps.org/v2/journals/articles/10.1103/177n-4yfm/fulltext -> HTTP 404",
+    "[direct] https://harvest.aps.org/v2/journals/articles/10.1103/177n-4yfm/fulltext -> HTTP 404"
+  ],
+  "failure_class": "unknown"
+}

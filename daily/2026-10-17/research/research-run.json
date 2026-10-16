@@ -1,0 +1,424 @@
+{
+  "run_date": "2026-10-17",
+  "searched_at": "2026-10-17T07:07:27+08:00",
+  "search_layer": {
+    "mode": "deep",
+    "intent": "news",
+    "queries": [
+      "laser plasma photonuclear neutron converter October 2026",
+      "strong field QED high energy density PIC October 2026",
+      "machine learning plasma particle in cell October 2026"
+    ],
+    "count": 0,
+    "results": [],
+    "freshness_filter": "pw"
+  },
+  "web_search": {
+    "queries": [
+      "laser plasma October 16 2026",
+      "photonuclear October 2026",
+      "strong field QED October 2026",
+      "selected exact titles and DOIs"
+    ],
+    "note": "General search was sparse; authoritative metadata and downloaded full texts determine inclusion."
+  },
+  "arxiv": {
+    "url": "https://export.arxiv.org/api/query?search_query=cat%3Aphysics.plasm-ph+OR+cat%3Aphysics.acc-ph+OR+cat%3Aphysics.comp-ph+OR+cat%3Anucl-ex+OR+cat%3Aphysics.ins-det&sortBy=submittedDate&sortOrder=descending&max_results=300",
+    "rows": 300,
+    "latest_submission": "2026-10-15T17:02:46Z",
+    "categories": [
+      "physics.plasm-ph",
+      "physics.acc-ph",
+      "physics.comp-ph",
+      "nucl-ex",
+      "physics.ins-det"
+    ],
+    "screened_new_since": "2026-10-14",
+    "note": "Empty journal DOI is treated as missing, never as a duplicate. Final screening checked arXiv IDs separately."
+  },
+  "crossref": {
+    "queries": 10,
+    "rows": 750,
+    "unique_dois": 615,
+    "max_concurrency": 2,
+    "query_log": [
+      {
+        "query": "laser plasma acceleration",
+        "url": "https://api.crossref.org/works?query=laser+plasma+acceleration&filter=from-pub-date%3A2026-10-15%2Cuntil-pub-date%3A2026-10-17&sort=published&order=desc&rows=75",
+        "rows": 75,
+        "attempt": 1,
+        "error": null
+      },
+      {
+        "query": "laser photonuclear neutron",
+        "url": "https://api.crossref.org/works?query=laser+photonuclear+neutron&filter=from-pub-date%3A2026-10-15%2Cuntil-pub-date%3A2026-10-17&sort=published&order=desc&rows=75",
+        "rows": 75,
+        "attempt": 1,
+        "error": null
+      },
+      {
+        "query": "strong field QED radiation reaction",
+        "url": "https://api.crossref.org/works?query=strong+field+QED+radiation+reaction&filter=from-pub-date%3A2026-10-15%2Cuntil-pub-date%3A2026-10-17&sort=published&order=desc&rows=75",
+        "rows": 75,
+        "attempt": 1,
+        "error": null
+      },
+      {
+        "query": "high energy density inertial confinement fusion",
+        "url": "https://api.crossref.org/works?query=high+energy+density+inertial+confinement+fusion&filter=from-pub-date%3A2026-10-15%2Cuntil-pub-date%3A2026-10-17&sort=published&order=desc&rows=75",
+        "rows": 75,
+        "attempt": 1,
+        "error": null
+      },
+      {
+        "query": "particle in cell plasma simulation",
+        "url": "https://api.crossref.org/works?query=particle+in+cell+plasma+simulation&filter=from-pub-date%3A2026-10-15%2Cuntil-pub-date%3A2026-10-17&sort=published&order=desc&rows=75",
+        "rows": 75,
+        "attempt": 1,
+        "error": null
+      },
+      {
+        "query": "machine learning plasma physics",
+        "url": "https://api.crossref.org/works?query=machine+learning+plasma+physics&filter=from-pub-date%3A2026-10-15%2Cuntil-pub-date%3A2026-10-17&sort=published&order=desc&rows=75",
+        "rows": 75,
+        "attempt": 1,
+        "error": null
+      },
+      {
+        "query": "bremsstrahlung converter gamma source",
+        "url": "https://api.crossref.org/works?query=bremsstrahlung+converter+gamma+source&filter=from-pub-date%3A2026-10-15%2Cuntil-pub-date%3A2026-10-17&sort=published&order=desc&rows=75",
+        "rows": 75,
+        "attempt": 1,
+        "error": null
+      },
+      {
+        "query": "proton ion therapy dosimetry neutron",
+        "url": "https://api.crossref.org/works?query=proton+ion+therapy+dosimetry+neutron&filter=from-pub-date%3A2026-10-15%2Cuntil-pub-date%3A2026-10-17&sort=published&order=desc&rows=75",
+        "rows": 75,
+        "attempt": 1,
+        "error": null
+      },
+      {
+        "query": "laser target design efficiency",
+        "url": "https://api.crossref.org/works?query=laser+target+design+efficiency&filter=from-pub-date%3A2026-10-15%2Cuntil-pub-date%3A2026-10-17&sort=published&order=desc&rows=75",
+        "rows": 75,
+        "attempt": 1,
+        "error": null
+      },
+      {
+        "query": "nuclear reaction isotope production",
+        "url": "https://api.crossref.org/works?query=nuclear+reaction+isotope+production&filter=from-pub-date%3A2026-10-15%2Cuntil-pub-date%3A2026-10-17&sort=published&order=desc&rows=75",
+        "rows": 75,
+        "attempt": 1,
+        "error": null
+      }
+    ],
+    "note": "Published-date descending, 75 rows per theme; finite capped queries include irrelevant hits and do not exhaust publication coverage."
+  },
+  "coverage": "Targeted incremental discovery, not exhaustive. Fresh formal metadata preferred; two publisher VORs, two older matching author manuscripts with new formal metadata, and two recent arXiv works read in full. No newly obtained end-to-end laser converter photonuclear experiment selected.",
+  "dedup_checks": {
+    "before_completed": 459,
+    "before_retry": 39,
+    "identifiers": "DOI case folding plus arXiv ID and version linkage",
+    "titles": "normalized and fuzzy title check, author identity and physical scenario",
+    "historical_daily": "Previous selected IDs/titles and ledger source paths checked; no existing record upgraded or duplicated.",
+    "retry_policy": "Prior 39 entries preserved; no repeated full-queue download without new source evidence."
+  },
+  "formal_version_checks": {
+    "arxiv_queries": [
+      {
+        "query": "ti:\"pair-photon\"",
+        "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22pair-photon%22&max_results=15&sortBy=submittedDate&sortOrder=descending",
+        "entries": [
+          {
+            "id": "http://arxiv.org/abs/2603.26383v2",
+            "title": "Generation of Polarized Overdense Pair-photon Fireball via Laser-Driven Nonlinear-linear QED Cascade",
+            "summary": "Relativistic, polarized pair-photon fireballs are central to understand the microscopic energy transfer of high-energy astrophysical outflows, yet generating an overdense fireball in the laboratory, especially via an ultraintense laser, remains a formidable challenge. Here, we propose a novel method of laser-driven nonlinear-linear quantum electrodynamics (NL-QED) plasma, that dramatically lowers the laser intensity threshold for dense pair-photon fireball creation. By coupling polarization-resolved linear Breit-Wheeler and Compton processes with strong-field nonlinear radiation, we find that a self-organized NL-QED cascade is ignited in the laser-driven hole boring at intensities of $\\sim 10^{22}~\\mathrm{W/cm^2}$, accessible with current 10-PW-class laser facilities. Consequently, we demonstrate the generation of a pair-photon fireball with an overdense gamma-ray bath (maximum average density $\\overline{n_γ} \\approx 3 \\times 10^{22}~\\mathrm{cm^{-3}}$) and a pair plasma reaching collective regime (maximum average density $\\overline{n_\\pm} \\approx 3 \\times 10^{17}~\\mathrm{cm^{-3}}$), which is highly polarized. Our method provides a comprehensive framework for studying laser-driven QED plasma and its application in laboratory astrophysics, probing multi-process QED physics.",
+            "published": "2026-03-27T13:09:01Z",
+            "updated": "2026-07-03T02:51:02Z",
+            "doi": "",
+            "authors": [
+              "Zhen-Ke Dou",
+              "Qian Zhao",
+              "Feng Wan",
+              "Chong Lv",
+              "Bing Guo",
+              "Jian-Xing Li"
+            ]
+          },
+          {
+            "id": "http://arxiv.org/abs/2108.09596v1",
+            "title": "Deterministic quantum correlation between coherently paired photons acting on a beam splitter",
+            "summary": "Quantum technologies based on the particle nature of a photon has been progressed over the last several decades, where the fundamental quantum features of entanglement have been tested by Hong-Ou-Mandel-type anticorrelation and Bell-type nonlocal correlation. Recently, mutually exclusive quantum features based on the wave nature of a photon have been investigated to understand the fundamental physics of mysterious quantum correlation, resulting in deterministic and macroscopic quantum technologies. Here, we study the quantum natures of paired photons acting on a beam splitter, where mutual coherence plays a major role. Unlike current common understanding on anticorrelation, bipartite entanglement between paired photons does not have to be probabilistic or post-selected, but can be deterministic and even macroscopic via phase basis manipulation without violating quantum mechanics.",
+            "published": "2021-08-21T23:24:18Z",
+            "updated": "2021-08-21T23:24:18Z",
+            "doi": "",
+            "authors": [
+              "B. S. Ham"
+            ]
+          },
+          {
+            "id": "http://arxiv.org/abs/1610.08268v2",
+            "title": "Path-controlled time reordering of paired photons in a dressed three-level cascade",
+            "summary": "The two-photon dressing of a \"three-level ladder\" system, here the ground state, the exciton and the biexciton of a semiconductor quantum dot, leads to new eigenstates and allows one to manipulate the time ordering of the paired photons without unitary post processing. We show that, after spectral post-selection of the single dressed states, the time ordering of the cascaded photons can be removed or conserved. Our joint experimental and theoretical study demonstrates the high potential of a \"ladder\" system to be a versatile source of orthogonally polarized, bunched or antibunched pairs of photons.",
+            "published": "2016-10-26T10:20:33Z",
+            "updated": "2017-05-05T08:36:19Z",
+            "doi": "10.1103/PhysRevLett.118.233601",
+            "authors": [
+              "Samir Bounouar",
+              "Max Strauß",
+              "Alexander Carmele",
+              "Peter Schnauber",
+              "Alexander Thoma",
+              "Manuel Gschrey",
+              "Jan-Hindrik Schulze",
+              "André Strittmatter",
+              "Sven Rodt",
+              "Andreas Knorr",
+              "Stephan Reitzenstein"
+            ]
+          },
+          {
+            "id": "http://arxiv.org/abs/1102.4415v1",
+            "title": "Intrinsically narrowband pair photon generation in microstructured fibres",
+            "summary": "In this paper we study the tailoring of photon spectral properties generated by four-wave mixing in a birefringent photonic crystal fibre (PCF). The aim is to produce intrinsically narrow-band photons and hence to achieve high non-classical interference visibility and generate high fidelity entanglement without any requirement for spectral filtering, leading to high effective detection efficiencies. We show unfiltered Hong-Ou-Mandel interference visibilities of 77% between photons from the same PCF, and 80% between separate sources. We compare results from modelling the PCF to these experiments and analyse photon purities.",
+            "published": "2011-02-22T06:12:42Z",
+            "updated": "2011-02-22T06:12:42Z",
+            "doi": "10.1088/1367-2630/13/6/065009",
+            "authors": [
+              "Alex Clark",
+              "Bryn Bell",
+              "Jeremie Fulconis",
+              "Matthaeus M. Halder",
+              "Ben Cemlyn",
+              "Olivier Alibart",
+              "Chunle Xiong",
+              "William J. Wadsworth",
+              "John G. Rarity"
+            ]
+          },
+          {
+            "id": "http://arxiv.org/abs/1011.4003v1",
+            "title": "Generation of paired photons in a quantum separable state in Bragg reflection waveguides",
+            "summary": "This work proposes and analyses a novel approach for the generation of separable (quantum uncorrelated) photon pairs based on spontaneous parametric down-conversion in Bragg reflection waveguides composed of semiconductor AlGaN layers. This platform allows the removal of any spectral correlation between paired photons that propagate in different spatial modes. The photons can be designed to show equal or different spectra by tuning the structural parameters and hence the dispersion of the waveguide.",
+            "published": "2010-11-17T17:24:20Z",
+            "updated": "2010-11-17T17:24:20Z",
+            "doi": "10.1364/OE.19.003115",
+            "authors": [
+              "Jiří Svozilík",
+              "Martin Hendrych",
+              "Amr S. Helmy",
+              "Juan P. Torres"
+            ]
+          },
+          {
+            "id": "http://arxiv.org/abs/0804.3257v2",
+            "title": "Spatial entanglement of paired photons generated in cold atomic ensembles",
+            "summary": "Cold atomic ensembles can mediate the generation of entanglement between pairs of photons. Photons with specific directions of propagation are detected, and the entanglement can reside in any of the degrees of freedom that describe the whole quantum state of the photons: polarization, spatial shape or frequency. We show that the direction of propagation of the generated photons determines the spatial quantum state of the photons and therefore, the amount of entanglement generated. When photons generated in different directions are combined, this spatial distinguishing information can degrade the quantum purity of the polarization or frequency entanglement.",
+            "published": "2008-04-21T09:56:58Z",
+            "updated": "2008-07-24T10:55:25Z",
+            "doi": "10.1103/PhysRevA.78.052301",
+            "authors": [
+              "Clara I. Osorio",
+              "Sergio Barreiro",
+              "Morgan W. Mitchell",
+              "Juan P. Torres"
+            ]
+          },
+          {
+            "id": "http://arxiv.org/abs/0711.4500v1",
+            "title": "Correlations in orbital angular momentum of spatially entangled paired photons generated in parametric downconversion",
+            "summary": "What are the orbital angular momentum correlations between spatially entangled photon pairs generated in spontaneous parametric down-conversion? We show that the answer to this question can be given in two alternative, although complementary, ways. The answer posed in this letter explains satisfactorily the seemingly contradictory results obtained in different experiments, and theoretical approaches.",
+            "published": "2007-11-28T13:40:17Z",
+            "updated": "2007-11-28T13:40:17Z",
+            "doi": "10.1103/PhysRevA.77.015810",
+            "authors": [
+              "Clara I. Osorio",
+              "Gabriel Molina-Terriza",
+              "Juan P. Torres"
+            ]
+          }
+        ]
+      },
+      {
+        "query": "au:McManus AND (ti:wakefield OR ti:density)",
+        "url": "https://export.arxiv.org/api/query?search_query=au%3AMcManus+AND+%28ti%3Awakefield+OR+ti%3Adensity%29&max_results=15&sortBy=submittedDate&sortOrder=descending",
+        "entries": [
+          {
+            "id": "http://arxiv.org/abs/2204.13801v1",
+            "title": "Density And Velocity Fluctuations of Alpha Particles in Magnetic Switchbacks",
+            "summary": "Magnetic switchbacks, or sudden reversals in the magnetic field's radial direction, are one of the more striking observations of Parker Solar Probe (PSP) thus far in its mission. While their precise production mechanisms are still unknown, the two main theories are via interchange reconnection events and in-situ generation. In this work density and abundance variations of alpha particles are studied inside and outside individual switchbacks. We find no consistent compositional differences in the alpha particle abundance ratio, $n_{αp}$, inside vs outside, nor do we observe any signature when separating the switchbacks according to $V_{αp}/V_{pw}$, the ratio of alpha-proton differential speed to the wave phase speed (speed the switchback is travelling). We argue these measurements cannot be used to rule in favour of one production mechanism over the other, due to the distance between PSP and the postulated interchange reconnection events. In addition we examine the 3D velocity fluctuations of protons and alpha particles within individual switchbacks. While switchbacks are always associated with increases in proton velocity, alpha velocities may be enhanced, unchanged, or decrease. This is due to the interplay between $V_{pw}$ and $V_{αp}$, with the Alfvénic motion of the alpha particles vanishing as the difference $|V_{pw} - V_{αp}|$ decreases. We show how the Alfvénic motion of both the alphas and the protons through switchbacks can be understood as approximately rigid arm rotation about the location of the wave frame, and illustrate that the wave frame can therefore be estimated using particle measurements alone, via sphere fitting.",
+            "published": "2022-04-28T22:19:38Z",
+            "updated": "2022-04-28T22:19:38Z",
+            "doi": "10.3847/1538-4357/ac6ba3",
+            "authors": [
+              "M. D. McManus",
+              "J. L. Verniero",
+              "S. D. Bale",
+              "T. A. Bowen",
+              "D. E. Larson",
+              "J. C. Kasper",
+              "R. Livi",
+              "L. Matteini",
+              "A. Rahmati",
+              "O. Romeo",
+              "P. L. Whittlesey",
+              "T. Woolley"
+            ]
+          }
+        ]
+      },
+      {
+        "query": "id:2606.02881",
+        "url": "https://export.arxiv.org/api/query?search_query=id%3A2606.02881&max_results=15&sortBy=submittedDate&sortOrder=descending",
+        "entries": [
+          {
+            "id": "http://arxiv.org/abs/2606.02881v1",
+            "title": "Plasma Conductivity from Warm Dense Matter to the Spitzer Limit Using Mean-Force Kinetic Theory",
+            "summary": "A theoretical model is developed to compute electronic transport coefficients extending from warm and dense to hot and dilute plasma conditions. This kinetic theory-based approach models strong Coulomb correlations by treating interactions using the potential of mean force, electron degeneracy using the Uehling-Uhlenbeck equation, and diffraction by computing cross sections quantum mechanically. The result provides a fast and accurate means to compute electrical conductivity,thermal conductivity and electrothermal coefficients, including contributions from electron-electron interactions. The model enables accurate calculation of materials properties in many warm dense matter systems, including inertial confinement fusion, stellar evolution, and high energy density plasma experiments.",
+            "published": "2026-06-01T20:51:33Z",
+            "updated": "2026-06-01T20:51:33Z",
+            "doi": "",
+            "authors": [
+              "Lucas J. Babati",
+              "Nathaniel R. Shaffer",
+              "Louis Jose",
+              "Scott D. Baalrud"
+            ]
+          }
+        ]
+      }
+    ],
+    "preprint_crossref_exact_titles": [
+      {
+        "key": "djilkibaev-neutron",
+        "query": "Fast Monte Carlo calculation of multiple scattering in resonant neutron capture",
+        "url": "https://api.crossref.org/works?query.title=Fast+Monte+Carlo+calculation+of+multiple+scattering+in+resonant+neutron+capture&rows=3",
+        "results": [
+          {
+            "doi": "10.1016/0010-4655(74)90028-9",
+            "title": [
+              "Monte Carlo calculation of multiple scattering effects in thermal neutron scattering experiments"
+            ],
+            "type": "journal-article",
+            "publication": {
+              "date-parts": [
+                [
+                  1974,
+                  6
+                ]
+              ]
+            },
+            "source_url": "https://doi.org/10.1016/0010-4655(74)90028-9"
+          },
+          {
+            "doi": "10.1016/s0010-4655(84)82483-2",
+            "title": [
+              "Monte Carlo calculation of multiple scattering effects in thermal neutron scattering experiments"
+            ],
+            "type": "journal-article",
+            "publication": {
+              "date-parts": [
+                [
+                  1984,
+                  1
+                ]
+              ]
+            },
+            "source_url": "https://doi.org/10.1016/s0010-4655(84)82483-2"
+          },
+          {
+            "doi": "10.1016/0010-4655(86)90118-9",
+            "title": [
+              "Improved Monte Carlo calculation of multiple scattering effects in thermal neutron scattering experiments"
+            ],
+            "type": "journal-article",
+            "publication": {
+              "date-parts": [
+                [
+                  1986,
+                  6
+                ]
+              ]
+            },
+            "source_url": "https://doi.org/10.1016/0010-4655(86)90118-9"
+          }
+        ]
+      },
+      {
+        "key": "french-reconnection",
+        "query": "Are $E>B$ regions essential for particle injection in relativistic magnetic reconnection?",
+        "url": "https://api.crossref.org/works?query.title=Are+%24E%3EB%24+regions+essential+for+particle+injection+in+relativistic+magnetic+reconnection%3F&rows=3",
+        "initial_error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query.title=Are+%24E%3EB%24+regions+essential+for+particle+injection+in+relativistic+magnetic+reconnection%3F&rows=3",
+        "retry_url": "https://api.crossref.org/works?query.title=Are+%24E%3EB%24+regions+essential+for+particle+injection+in+relativistic+magnetic+reconnection%3F&rows=3",
+        "results": [
+          {
+            "doi": "10.1017/s0022377825101189",
+            "title": [
+              "Particle injection in three-dimensional relativistic magnetic reconnection"
+            ],
+            "type": "journal-article",
+            "publication": {
+              "date-parts": [
+                [
+                  2026,
+                  2
+                ]
+              ]
+            },
+            "source_url": "https://doi.org/10.1017/s0022377825101189"
+          },
+          {
+            "doi": "10.3847/1538-4357/acb7dd",
+            "title": [
+              "Particle Injection and Nonthermal Particle Acceleration in Relativistic Magnetic Reconnection*"
+            ],
+            "type": "journal-article",
+            "publication": {
+              "date-parts": [
+                [
+                  2023,
+                  4,
+                  28
+                ]
+              ]
+            },
+            "source_url": "https://doi.org/10.3847/1538-4357/acb7dd"
+          },
+          {
+            "doi": "10.1016/s0927-6505(99)00026-2",
+            "title": [
+              "Particle acceleration in AGN magnetic reconnection regions"
+            ],
+            "type": "journal-article",
+            "publication": {
+              "date-parts": [
+                [
+                  1999,
+                  6
+                ]
+              ]
+            },
+            "source_url": "https://doi.org/10.1016/s0927-6505(99)00026-2"
+          }
+        ],
+        "retry_status": "success"
+      }
+    ],
+    "matching_basis": "Dou/Babati linkages are title-and-identical-author matches; arXiv metadata lacks final DOI. Formal PDF content identity is unverified."
+  },
+  "skipped": [
+    {
+      "doi": "10.1103/6sn3-ltl4",
+      "reason": "Relevant laser-material transport but lower priority than selected direct HED/QED/diagnostic full texts; not downloaded or ingested."
+    },
+    {
+      "arxiv": "2610.22157",
+      "reason": "Generic PI-DeepONet/tensor-handling methods; not selected as direct plasma ML application."
+    },
+    {
+      "arxiv": "2610.21107",
+      "reason": "Relevant HED EOS preprint, held behind obtained formal sources and nuclear/PIC diagnostic priorities; no full-text note created."
+    }
+  ]
+}

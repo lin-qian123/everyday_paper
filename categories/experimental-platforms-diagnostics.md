@@ -2,11 +2,14 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：146 篇
-- 索引更新时间：2026-10-16
+- 当前收录：149 篇
+- 索引更新时间：2026-10-17
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-17 | [Beamstop-free small-angle X-ray scattering for multiscale structure measurement of high-energy-density plasma](../papers/10-1038-s42005-026-02872-5/README.md) | Communications Physics | [笔记](../daily/2026-10-17/notes/Ota et al. - 2026 - Beamstop free HED plasma SAXS.md) |
+| 2026-10-17 | [Visual tools for 3D plasma simulation: GPU-based isosurface extraction and particle-based rendering](../papers/10-1371-journal-pone-0359294/README.md) | PLOS One | [笔记](../daily/2026-10-17/notes/Kim et al. - 2026 - GPU plasma visualization.md) |
+| 2026-10-17 | [Fast Monte Carlo calculation of multiple scattering in resonant neutron capture](../papers/arxiv-2610-20435/README.md) | arXiv preprint | [笔记](../daily/2026-10-17/notes/Djilkibaev - 2026 - Fast neutron multiple scattering Monte Carlo.md) |
 | 2026-10-16 | [Practical considerations in measuring out-of-field neutron dose for pulsed and gantry-mounted proton therapy machines](../papers/10-1088-1361-6560-aeaf3e/README.md) | Physics in Medicine &amp; Biology | [笔记](../daily/2026-10-16/notes/Zhang et al. - 2026 - Pulsed proton therapy neutron dose.md) |
 | 2026-10-16 | [A single radiation hard pixel detector for proton dosimetry, imaging, energy resolution and beam monitoring](../papers/arxiv-2610-20304/README.md) | arXiv preprint | [笔记](../daily/2026-10-16/notes/Brosda et al. - 2026 - GaN proton detector.md) |
 | 2026-10-16 | [Programmable Hard-X-Ray Spectral Comb Generation via Laser-Compton Scattering](../papers/arxiv-2610-17166/README.md) | arXiv preprint | [笔记](../daily/2026-10-16/notes/Zhang et al. - 2026 - Programmable hard X ray spectral comb.md) |

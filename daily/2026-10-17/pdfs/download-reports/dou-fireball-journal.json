@@ -1,0 +1,9 @@
+{
+  "ok": false,
+  "output": "daily/2026-10-17/pdfs/Dou et al. - 2026 - Polarized pair photon fireball.pdf",
+  "attempts": [
+    "[env-proxy] https://journals.aps.org/pre/pdf/10.1103/xvmh-mcg7 -> HTTP 403",
+    "[direct] https://journals.aps.org/pre/pdf/10.1103/xvmh-mcg7 -> HTTP 404"
+  ],
+  "failure_class": "publisher_http_403"
+}

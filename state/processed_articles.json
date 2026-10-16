@@ -5730,5 +5730,119 @@
       "experimental-platforms-diagnostics"
     ],
     "normalized_title": "programmable hard x ray spectral comb generation via laser compton scattering"
+  },
+  {
+    "title": "Generation of a polarized pair-photon fireball via a laser-driven nonlinear-linear QED cascade",
+    "doi": "10.1103/xvmh-mcg7",
+    "journal": "Physical Review E",
+    "publication_date": "2026-10-16",
+    "processed_date": "2026-10-17",
+    "source_url": "https://doi.org/10.1103/xvmh-mcg7",
+    "pdf_url": "https://arxiv.org/pdf/2603.26383v2",
+    "pdf_path": "daily/2026-10-17/pdfs/Dou et al. - 2026 - Polarized pair photon fireball.pdf",
+    "note_path": "daily/2026-10-17/notes/Dou et al. - 2026 - Polarized pair photon fireball.md",
+    "categories": [
+      "strong-field-qed-radiation",
+      "laser-plasma-acceleration",
+      "pic-and-plasma-simulation",
+      "hedp-icf-laboratory-astrophysics"
+    ],
+    "normalized_title": "generation of a polarized pair photon fireball via a laser driven nonlinear linear qed cascade",
+    "arxiv_id": "2603.26383",
+    "arxiv_version": "2603.26383v2",
+    "fulltext_version": "corresponding author preprint; publisher PDF unavailable"
+  },
+  {
+    "title": "Plasma conductivity from warm dense matter to the Spitzer limit using mean-force kinetic theory",
+    "doi": "10.1103/177n-4yfm",
+    "journal": "Physical Review Letters",
+    "publication_date": "2026-10-16",
+    "processed_date": "2026-10-17",
+    "source_url": "https://doi.org/10.1103/177n-4yfm",
+    "pdf_url": "https://arxiv.org/pdf/2606.02881v1",
+    "pdf_path": "daily/2026-10-17/pdfs/Babati et al. - 2026 - Mean force plasma conductivity.pdf",
+    "note_path": "daily/2026-10-17/notes/Babati et al. - 2026 - Mean force plasma conductivity.md",
+    "categories": [
+      "hedp-icf-laboratory-astrophysics",
+      "pic-and-plasma-simulation"
+    ],
+    "normalized_title": "plasma conductivity from warm dense matter to the spitzer limit using mean force kinetic theory",
+    "arxiv_id": "2606.02881",
+    "arxiv_version": "2606.02881v1",
+    "fulltext_version": "corresponding author preprint; publisher PDF unavailable"
+  },
+  {
+    "title": "Beamstop-free small-angle X-ray scattering for multiscale structure measurement of high-energy-density plasma",
+    "doi": "10.1038/s42005-026-02872-5",
+    "journal": "Communications Physics",
+    "publication_date": "2026-10-16",
+    "processed_date": "2026-10-17",
+    "source_url": "https://doi.org/10.1038/s42005-026-02872-5",
+    "pdf_url": "https://www.nature.com/articles/s42005-026-02872-5.pdf",
+    "pdf_path": "daily/2026-10-17/pdfs/Ota et al. - 2026 - Beamstop free HED plasma SAXS.pdf",
+    "note_path": "daily/2026-10-17/notes/Ota et al. - 2026 - Beamstop free HED plasma SAXS.md",
+    "categories": [
+      "experimental-platforms-diagnostics",
+      "laser-plasma-acceleration",
+      "hedp-icf-laboratory-astrophysics"
+    ],
+    "normalized_title": "beamstop free small angle x ray scattering for multiscale structure measurement of high energy density plasma",
+    "fulltext_version": "formal VOR"
+  },
+  {
+    "title": "Visual tools for 3D plasma simulation: GPU-based isosurface extraction and particle-based rendering",
+    "doi": "10.1371/journal.pone.0359294",
+    "journal": "PLOS One",
+    "publication_date": "2026-10-16",
+    "processed_date": "2026-10-17",
+    "source_url": "https://doi.org/10.1371/journal.pone.0359294",
+    "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0359294&type=printable",
+    "pdf_path": "daily/2026-10-17/pdfs/Kim et al. - 2026 - GPU plasma visualization.pdf",
+    "note_path": "daily/2026-10-17/notes/Kim et al. - 2026 - GPU plasma visualization.md",
+    "categories": [
+      "pic-and-plasma-simulation",
+      "experimental-platforms-diagnostics",
+      "magnetic-fusion-and-alpha-particles"
+    ],
+    "normalized_title": "visual tools for 3d plasma simulation gpu based isosurface extraction and particle based rendering",
+    "fulltext_version": "formal VOR"
+  },
+  {
+    "title": "Fast Monte Carlo calculation of multiple scattering in resonant neutron capture",
+    "doi": "10.48550/arXiv.2610.20435",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-14",
+    "processed_date": "2026-10-17",
+    "source_url": "https://arxiv.org/abs/2610.20435",
+    "pdf_url": "https://arxiv.org/pdf/2610.20435v1",
+    "pdf_path": "daily/2026-10-17/pdfs/Djilkibaev - 2026 - Fast neutron multiple scattering Monte Carlo.pdf",
+    "note_path": "daily/2026-10-17/notes/Djilkibaev - 2026 - Fast neutron multiple scattering Monte Carlo.md",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "experimental-platforms-diagnostics"
+    ],
+    "normalized_title": "fast monte carlo calculation of multiple scattering in resonant neutron capture",
+    "arxiv_id": "2610.20435",
+    "arxiv_version": "2610.20435v1",
+    "fulltext_version": "official arXiv author preprint"
+  },
+  {
+    "title": "Are $E>B$ regions essential for particle injection in relativistic magnetic reconnection?",
+    "doi": "10.48550/arXiv.2610.22118",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-15",
+    "processed_date": "2026-10-17",
+    "source_url": "https://arxiv.org/abs/2610.22118",
+    "pdf_url": "https://arxiv.org/pdf/2610.22118v1",
+    "pdf_path": "daily/2026-10-17/pdfs/French et al. - 2026 - Reconnection particle injection channels.pdf",
+    "note_path": "daily/2026-10-17/notes/French et al. - 2026 - Reconnection particle injection channels.md",
+    "categories": [
+      "pic-and-plasma-simulation",
+      "hedp-icf-laboratory-astrophysics"
+    ],
+    "normalized_title": "are e b regions essential for particle injection in relativistic magnetic reconnection",
+    "arxiv_id": "2610.22118",
+    "arxiv_version": "2610.22118v1",
+    "fulltext_version": "official arXiv author preprint"
   }
 ]

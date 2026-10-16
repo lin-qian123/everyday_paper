@@ -2,11 +2,15 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：191 篇
-- 索引更新时间：2026-10-16
+- 当前收录：195 篇
+- 索引更新时间：2026-10-17
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-17 | [Generation of a polarized pair-photon fireball via a laser-driven nonlinear-linear QED cascade](../papers/10-1103-xvmh-mcg7/README.md) | Physical Review E | [笔记](../daily/2026-10-17/notes/Dou et al. - 2026 - Polarized pair photon fireball.md) |
+| 2026-10-17 | [Plasma conductivity from warm dense matter to the Spitzer limit using mean-force kinetic theory](../papers/10-1103-177n-4yfm/README.md) | Physical Review Letters | [笔记](../daily/2026-10-17/notes/Babati et al. - 2026 - Mean force plasma conductivity.md) |
+| 2026-10-17 | [Visual tools for 3D plasma simulation: GPU-based isosurface extraction and particle-based rendering](../papers/10-1371-journal-pone-0359294/README.md) | PLOS One | [笔记](../daily/2026-10-17/notes/Kim et al. - 2026 - GPU plasma visualization.md) |
+| 2026-10-17 | [Are $E>B$ regions essential for particle injection in relativistic magnetic reconnection?](../papers/arxiv-2610-22118/README.md) | arXiv preprint | [笔记](../daily/2026-10-17/notes/French et al. - 2026 - Reconnection particle injection channels.md) |
 | 2026-10-16 | [Path-integrated electrostatic energization in laser-driven collisionless cylindrical convergence](../papers/10-1103-8jqr-lcb3/README.md) | Physical Review E | [笔记](../daily/2026-10-16/notes/Pan et al. - 2026 - Electrostatic energization in cylindrical convergence.md) |
 | 2026-10-16 | [Learning to reconstruct Germano Differential Filtered Fields with Convolutional Neural Networks for Large Eddy Simulation of Plasma Turbulence](../papers/arxiv-2610-20204/README.md) | arXiv preprint | [笔记](../daily/2026-10-16/notes/Castagna and Williams - 2026 - Filtered plasma turbulence CNN.md) |
 | 2026-10-16 | [A modern particle-in-cell code for beam-beam simulations of future colliders](../papers/arxiv-2610-17557/README.md) | arXiv preprint | [笔记](../daily/2026-10-16/notes/Formenti et al. - 2026 - WarpX beam beam benchmark.md) |

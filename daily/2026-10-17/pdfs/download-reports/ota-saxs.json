@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "output": "daily/2026-10-17/pdfs/Ota et al. - 2026 - Beamstop free HED plasma SAXS.pdf",
+  "source_url": "https://www.nature.com/articles/s42005-026-02872-5.pdf",
+  "mode": "direct",
+  "attempts": [
+    "[env-proxy] https://www.nature.com/articles/s42005-026-02872-5.pdf -> not pdf (content-type=text/html; charset=utf-8)"
+  ]
+}

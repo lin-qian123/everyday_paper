@@ -2,11 +2,12 @@
 
 stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。
 
-- 当前收录：58 篇
-- 索引更新时间：2026-10-16
+- 当前收录：59 篇
+- 索引更新时间：2026-10-17
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-17 | [Visual tools for 3D plasma simulation: GPU-based isosurface extraction and particle-based rendering](../papers/10-1371-journal-pone-0359294/README.md) | PLOS One | [笔记](../daily/2026-10-17/notes/Kim et al. - 2026 - GPU plasma visualization.md) |
 | 2026-10-16 | [Learning to reconstruct Germano Differential Filtered Fields with Convolutional Neural Networks for Large Eddy Simulation of Plasma Turbulence](../papers/arxiv-2610-20204/README.md) | arXiv preprint | [笔记](../daily/2026-10-16/notes/Castagna and Williams - 2026 - Filtered plasma turbulence CNN.md) |
 | 2026-10-15 | [Low-energy electron collisions with BH+](../papers/10-1063-5-0354874/README.md) | The Journal of Chemical Physics (formal VOR) | [笔记](../daily/2026-10-15/notes/Mezlini et al. - 2026 - Low-energy electron collisions with BH plus.md) |
 | 2026-10-14 | [Triton Burnup Detector in Large Helical Device](../papers/10-1007-s10894-026-00603-w/README.md) | Journal of Fusion Energy (formal CC BY VOR) | [笔记](../daily/2026-10-14/notes/Ogawa et al. - 2026 - Triton burnup detector in LHD.md) |

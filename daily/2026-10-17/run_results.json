@@ -1,0 +1,87 @@
+{
+  "run_date": "2026-10-17",
+  "validated_at": "2026-10-17T07:09:28+08:00",
+  "status": "local_validation_passed",
+  "completed_before": 459,
+  "completed_after": 465,
+  "retry_before": 39,
+  "retry_after": 40,
+  "new_identifiers": [
+    "10.1103/xvmh-mcg7",
+    "10.1103/177n-4yfm",
+    "10.1038/s42005-026-02872-5",
+    "10.1371/journal.pone.0359294",
+    "10.48550/arXiv.2610.20435",
+    "10.48550/arXiv.2610.22118"
+  ],
+  "retry_added": [
+    "10.1103/qdnr-4g6w"
+  ],
+  "fulltext": {
+    "valid_documents": 6,
+    "publisher_vors": 2,
+    "matching_older_author_manuscripts_with_new_formal_metadata": 2,
+    "recent_author_preprints": 2,
+    "pages": 69,
+    "pdf_bytes": 50354929,
+    "layout_text_bytes": 400936,
+    "mineru_pipeline_completed": 6,
+    "visually_checked_identity_and_key_pages": 12,
+    "retained_original_figure_or_table_crops": 7
+  },
+  "evidence_boundaries": [
+    "QED/PIC fireball is numerical; overdense qualifier concerns the photon bath. Two older author versions are linked by titles and complete author lists, not by a verified final-PDF content comparison.",
+    "Conductivity comparison reuses prior experimental and DFT data; per-point runtime supports offline tables, not inline hydrodynamics.",
+    "SAXS diffraction is experimental, temporal evolution uses multiple shots, temperature/ionization are model inferred, absorption-efficiency scan is 2D PIC.",
+    "MC-fast uses eV gold-slab model data and its 9.4x timing includes six-worker versus single-thread execution.",
+    "Reconnection plurality shares count injected tracers; Table 2 gives 93-to-63 percent rather than the abstract approximate 95-to-65 percent. No field decomposition proves a unique mechanism.",
+    "Visualization performance concerns extraction/rendering, not plasma time integration; no formal VR user study.",
+    "No corresponding physics solver, transport code, GPU benchmark, user study or training was rerun locally."
+  ],
+  "validation": {
+    "index_builder": "Indexed 465 papers across 9 categories.",
+    "pytest": "7 passed in 1.04s",
+    "ledger_prefix_preserved": true,
+    "retry_prefix_preserved": true,
+    "unique_nonnull_identifiers": 461,
+    "unique_normalized_titles": 465,
+    "legacy_processed_retry_overlap": [
+      "10.1016/j.jcp.2026.114707"
+    ],
+    "ignored_pdf_text_artifacts": 18,
+    "staging": "56 scoped files; AGENTS.md excluded; PDFs and both extracted text formats ignored. Existing 459 completed records and 39 retries unchanged.",
+    "artifact_audit": {
+      "ledger": 465,
+      "retry": 40,
+      "prior_records_unchanged": true,
+      "unique_nonnull_identifiers": 461,
+      "unique_titles": 465,
+      "legacy_overlap": [
+        "10.1016/j.jcp.2026.114707"
+      ],
+      "new_pdfs": 6,
+      "pages": 69,
+      "pdf_bytes": 50354929,
+      "links": 83,
+      "images": 7,
+      "json_or_jsonl_files": 21,
+      "ignored_artifacts": 18,
+      "note_files": 6
+    },
+    "diff_check": "git diff --check and git diff --cached --check passed"
+  },
+  "publication": {
+    "branch": "master",
+    "remote": "origin",
+    "target": "refs/heads/master",
+    "parent_commit": "39c35174908fe3d2b1188cc7c1f7f6b9446f9867",
+    "status": "commit and push follow this report; exact remote parity recorded in automation memory and final response"
+  },
+  "search_notes": {
+    "primary_discovery_rows": 750,
+    "primary_unique_dois": 615,
+    "arxiv_recent_rows": 300,
+    "search_layer_results": 0,
+    "exact_title_rate_limit": "One Crossref title query initially returned 429; lower-concurrency retry succeeded."
+  }
+}

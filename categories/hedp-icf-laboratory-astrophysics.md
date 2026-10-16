@@ -2,11 +2,15 @@
 
 HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。
 
-- 当前收录：119 篇
-- 索引更新时间：2026-10-16
+- 当前收录：123 篇
+- 索引更新时间：2026-10-17
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-17 | [Generation of a polarized pair-photon fireball via a laser-driven nonlinear-linear QED cascade](../papers/10-1103-xvmh-mcg7/README.md) | Physical Review E | [笔记](../daily/2026-10-17/notes/Dou et al. - 2026 - Polarized pair photon fireball.md) |
+| 2026-10-17 | [Plasma conductivity from warm dense matter to the Spitzer limit using mean-force kinetic theory](../papers/10-1103-177n-4yfm/README.md) | Physical Review Letters | [笔记](../daily/2026-10-17/notes/Babati et al. - 2026 - Mean force plasma conductivity.md) |
+| 2026-10-17 | [Beamstop-free small-angle X-ray scattering for multiscale structure measurement of high-energy-density plasma](../papers/10-1038-s42005-026-02872-5/README.md) | Communications Physics | [笔记](../daily/2026-10-17/notes/Ota et al. - 2026 - Beamstop free HED plasma SAXS.md) |
+| 2026-10-17 | [Are $E>B$ regions essential for particle injection in relativistic magnetic reconnection?](../papers/arxiv-2610-22118/README.md) | arXiv preprint | [笔记](../daily/2026-10-17/notes/French et al. - 2026 - Reconnection particle injection channels.md) |
 | 2026-10-16 | [Path-integrated electrostatic energization in laser-driven collisionless cylindrical convergence](../papers/10-1103-8jqr-lcb3/README.md) | Physical Review E | [笔记](../daily/2026-10-16/notes/Pan et al. - 2026 - Electrostatic energization in cylindrical convergence.md) |
 | 2026-10-13 | [Physical-state supervision for design-only Gaussian process surrogates of implosion simulations](../papers/arxiv-2610-13822/README.md) | arXiv preprint | [笔记](../daily/2026-10-13/notes/Liu et al. - 2026 - Physical-state GP implosion surrogates.md) |
 | 2026-10-12 | [Compressional heating above 1 keV on the LM26 magnetized target fusion machine](../papers/arxiv-2610-11890/README.md) | arXiv preprint | [笔记](../daily/2026-10-12/notes/Howard et al. - 2026 - LM26 compressional heating above 1 keV.md) |
