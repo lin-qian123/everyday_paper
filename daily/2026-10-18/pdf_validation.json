@@ -1,0 +1,143 @@
+{
+  "run_date": "2026-10-18",
+  "validated_at": "2026-10-18T07:02:18+08:00",
+  "checks": [
+    "%PDF- header",
+    "file type",
+    "SHA-256",
+    "pdfinfo/pypdf page count agreement",
+    "all-page pypdf readability",
+    "nonempty pdftotext -layout",
+    "MinerU pipeline identity where successful",
+    "identity/key page visual checks"
+  ],
+  "mineru": {
+    "attempted": 5,
+    "completed": 4,
+    "failed": 1,
+    "model_version": "pipeline"
+  },
+  "documents": [
+    {
+      "key": "yang-neutron",
+      "identifier": "10.1007/s41365-026-02068-0",
+      "path": "daily/2026-10-18/pdfs/Yang et al. - 2026 - Adaptive neutron moderator collimator optimization.pdf",
+      "source_url": "https://link.springer.com/content/pdf/10.1007/s41365-026-02068-0.pdf",
+      "fulltext_version": "formal VOR",
+      "bytes": 2615277,
+      "sha256": "3ff46e5f9541a79072785152e4feac2b6cb2dd2c9a9b45df7441d647187533d1",
+      "pages": 13,
+      "file_type": "PDF document, version 1.4",
+      "pypdf_text_characters": 47881,
+      "text_bytes": 65879,
+      "status": "passed",
+      "identity_page_visually_checked": 1,
+      "visually_checked_pages": [
+        1,
+        10
+      ],
+      "mineru_status": "failed_with_validated_local_fallback",
+      "pdfinfo_pages": 13
+    },
+    {
+      "key": "hobmaier-transport",
+      "identifier": "10.1103/6sn3-ltl4",
+      "path": "daily/2026-10-18/pdfs/Hobmaier et al. - 2026 - Titanium alloy electronic transport.pdf",
+      "source_url": "https://harvest.aps.org/v2/journals/articles/10.1103/6sn3-ltl4/fulltext",
+      "fulltext_version": "formal VOR",
+      "bytes": 995167,
+      "sha256": "7c0995d506915e540ac8a55184ececbe3438bb2cbbc0b103c51ad05ecef11fef",
+      "pages": 14,
+      "file_type": "PDF document, version 1.3, 14 pages",
+      "pypdf_text_characters": 72718,
+      "text_bytes": 117029,
+      "status": "passed",
+      "identity_page_visually_checked": 1,
+      "visually_checked_pages": [
+        1,
+        7
+      ],
+      "mineru_status": "success",
+      "mineru_task_id": "594cec60-2e1a-4358-8866-22b782617e78",
+      "mineru_text_bytes": 82569,
+      "pdfinfo_pages": 14
+    },
+    {
+      "key": "wang-eos",
+      "identifier": "10.48550/arXiv.2610.21107",
+      "path": "daily/2026-10-18/pdfs/Wang et al. - 2026 - Aluminum EOS dynamic hohlraum sensitivity.pdf",
+      "source_url": "https://arxiv.org/pdf/2610.21107v1",
+      "fulltext_version": "official arXiv v1 author preprint",
+      "bytes": 281994,
+      "sha256": "19608fc025ba6b503b3ecf078508670219f868fa938198c832d10527cf98ca59",
+      "pages": 13,
+      "file_type": "PDF document, version 1.4, 6 pages",
+      "pypdf_text_characters": 31909,
+      "text_bytes": 41456,
+      "status": "passed",
+      "identity_page_visually_checked": 1,
+      "visually_checked_pages": [
+        1,
+        9,
+        11
+      ],
+      "visual_limitation": "Some source plots lack visible numeric ticks and legend text due to embedded-font rendering; quantitative note cites readable Table 4 rather than estimating plotted coordinates.",
+      "mineru_status": "success",
+      "mineru_task_id": "3718fa96-86b2-4120-880d-a1251c8c3c78",
+      "mineru_text_bytes": 38603,
+      "pdfinfo_pages": 13
+    },
+    {
+      "key": "banks-deeponet",
+      "identifier": "10.48550/arXiv.2610.22157",
+      "path": "daily/2026-10-18/pdfs/Banks et al. - 2026 - Efficient physics informed DeepONet tensors.pdf",
+      "source_url": "https://arxiv.org/pdf/2610.22157v1",
+      "fulltext_version": "official arXiv v1 author preprint",
+      "bytes": 1648696,
+      "sha256": "8f99e4a3e066f14e8c66e5bba3c4aa06b57f6671c67b44cf7d905cfb4a04a615",
+      "pages": 19,
+      "file_type": "PDF document, version 1.7",
+      "pypdf_text_characters": 60815,
+      "text_bytes": 99811,
+      "status": "passed",
+      "identity_page_visually_checked": 1,
+      "visually_checked_pages": [
+        1,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "mineru_status": "success",
+      "mineru_task_id": "03d015f2-13b6-4ec5-b6fe-1bdbcd971ba7",
+      "mineru_text_bytes": 70594,
+      "pdfinfo_pages": 19
+    },
+    {
+      "key": "mccright-shock",
+      "identifier": "10.1103/2hhy-jfcd",
+      "path": "daily/2026-10-18/pdfs/McCright et al. - 2026 - Electron beam dispersive shock waves.pdf",
+      "source_url": "https://arxiv.org/pdf/2510.19786v1",
+      "fulltext_version": "official arXiv 2510.19786v1 author manuscript (2025-10-22); APS accepted 2026-10-16, VOR unavailable",
+      "bytes": 507061,
+      "sha256": "15984326046037ee6df7cca3d58a5be4dc97ea322e757b9cf8ac09f6364e8c08",
+      "pages": 4,
+      "file_type": "PDF document, version 1.7, 1 pages",
+      "pypdf_text_characters": 15482,
+      "text_bytes": 23852,
+      "status": "passed",
+      "identity_page_visually_checked": 1,
+      "visually_checked_pages": [
+        1,
+        3
+      ],
+      "mineru_status": "success",
+      "mineru_task_id": "be36040f-0942-4adb-bd54-e83dce9b2190",
+      "mineru_text_bytes": 16797,
+      "pdfinfo_pages": 4
+    }
+  ]
+}

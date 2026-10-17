@@ -1,10 +1,15 @@
 # 论文总索引
 
-- 当前入库论文：465 篇
-- 索引更新时间：2026-10-17
+- 当前入库论文：470 篇
+- 索引更新时间：2026-10-18
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-10-18 | [Hybrid adaptive RSM-GA Monte Carlo optimization method (HRG-MCO) and its application in the design of moderator–collimator systems for accelerator-based thermal neutron radiography](./10-1007-s41365-026-02068-0/README.md) | Nuclear Science and Techniques | [10.1007/s41365-026-02068-0](https://doi.org/10.1007/s41365-026-02068-0) |
+| 2026-10-18 | [First observation of dispersive shock waves in an electron beam](./10-1103-2hhy-jfcd/README.md) | Physical Review Accelerators and Beams (accepted paper) | [10.1103/2hhy-jfcd](https://doi.org/10.1103/2hhy-jfcd) |
+| 2026-10-18 | [First-principles electronic transport properties of Ti and Ti-6Al-4V for modeling ultrashort-pulse laser ablation](./10-1103-6sn3-ltl4/README.md) | Physical Review Materials | [10.1103/6sn3-ltl4](https://doi.org/10.1103/6sn3-ltl4) |
+| 2026-10-18 | [Aluminum wide-range EOS sensitivity in Z-pinch dynamic-hohlraum liner-foam impact and outgoing radiation](./arxiv-2610-21107/README.md) | arXiv preprint | [10.48550/arXiv.2610.21107](https://doi.org/10.48550/arXiv.2610.21107) |
+| 2026-10-18 | [The importance of tensor handling and implementation of physics-informed DeepONets](./arxiv-2610-22157/README.md) | arXiv preprint | [10.48550/arXiv.2610.22157](https://doi.org/10.48550/arXiv.2610.22157) |
 | 2026-10-17 | [Generation of a polarized pair-photon fireball via a laser-driven nonlinear-linear QED cascade](./10-1103-xvmh-mcg7/README.md) | Physical Review E | [10.1103/xvmh-mcg7](https://doi.org/10.1103/xvmh-mcg7) |
 | 2026-10-17 | [Plasma conductivity from warm dense matter to the Spitzer limit using mean-force kinetic theory](./10-1103-177n-4yfm/README.md) | Physical Review Letters | [10.1103/177n-4yfm](https://doi.org/10.1103/177n-4yfm) |
 | 2026-10-17 | [Beamstop-free small-angle X-ray scattering for multiscale structure measurement of high-energy-density plasma](./10-1038-s42005-026-02872-5/README.md) | Communications Physics | [10.1038/s42005-026-02872-5](https://doi.org/10.1038/s42005-026-02872-5) |

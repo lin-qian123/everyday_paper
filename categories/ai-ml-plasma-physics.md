@@ -2,11 +2,12 @@
 
 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。
 
-- 当前收录：79 篇
-- 索引更新时间：2026-10-17
+- 当前收录：80 篇
+- 索引更新时间：2026-10-18
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-18 | [The importance of tensor handling and implementation of physics-informed DeepONets](../papers/arxiv-2610-22157/README.md) | arXiv preprint | [笔记](../daily/2026-10-18/notes/Banks et al. - 2026 - Efficient physics informed DeepONet tensors.md) |
 | 2026-10-16 | [Learning to reconstruct Germano Differential Filtered Fields with Convolutional Neural Networks for Large Eddy Simulation of Plasma Turbulence](../papers/arxiv-2610-20204/README.md) | arXiv preprint | [笔记](../daily/2026-10-16/notes/Castagna and Williams - 2026 - Filtered plasma turbulence CNN.md) |
 | 2026-10-15 | [Toward a Multimodal Foundation Model for Plasma State Reconstruction](../papers/arxiv-2610-15076/README.md) | arXiv preprint (NeurIPS 2026 workshop) | [笔记](../daily/2026-10-15/notes/Xia et al. - 2026 - Multimodal plasma reconstruction.md) |
 | 2026-10-15 | [Learn the Dynamics, Enforce the Physics: Generative Latent Operators for High-Dimensional Beam Evolution](../papers/arxiv-2610-14537/README.md) | arXiv preprint | [笔记](../daily/2026-10-15/notes/Zou et al. - 2026 - GLOBE beam evolution.md) |

@@ -2,11 +2,14 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：149 篇
-- 索引更新时间：2026-10-17
+- 当前收录：152 篇
+- 索引更新时间：2026-10-18
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-18 | [Hybrid adaptive RSM-GA Monte Carlo optimization method (HRG-MCO) and its application in the design of moderator–collimator systems for accelerator-based thermal neutron radiography](../papers/10-1007-s41365-026-02068-0/README.md) | Nuclear Science and Techniques | [笔记](../daily/2026-10-18/notes/Yang et al. - 2026 - Adaptive neutron moderator collimator optimization.md) |
+| 2026-10-18 | [First observation of dispersive shock waves in an electron beam](../papers/10-1103-2hhy-jfcd/README.md) | Physical Review Accelerators and Beams (accepted paper) | [笔记](../daily/2026-10-18/notes/McCright et al. - 2026 - Electron beam dispersive shock waves.md) |
+| 2026-10-18 | [First-principles electronic transport properties of Ti and Ti-6Al-4V for modeling ultrashort-pulse laser ablation](../papers/10-1103-6sn3-ltl4/README.md) | Physical Review Materials | [笔记](../daily/2026-10-18/notes/Hobmaier et al. - 2026 - Titanium alloy electronic transport.md) |
 | 2026-10-17 | [Beamstop-free small-angle X-ray scattering for multiscale structure measurement of high-energy-density plasma](../papers/10-1038-s42005-026-02872-5/README.md) | Communications Physics | [笔记](../daily/2026-10-17/notes/Ota et al. - 2026 - Beamstop free HED plasma SAXS.md) |
 | 2026-10-17 | [Visual tools for 3D plasma simulation: GPU-based isosurface extraction and particle-based rendering](../papers/10-1371-journal-pone-0359294/README.md) | PLOS One | [笔记](../daily/2026-10-17/notes/Kim et al. - 2026 - GPU plasma visualization.md) |
 | 2026-10-17 | [Fast Monte Carlo calculation of multiple scattering in resonant neutron capture](../papers/arxiv-2610-20435/README.md) | arXiv preprint | [笔记](../daily/2026-10-17/notes/Djilkibaev - 2026 - Fast neutron multiple scattering Monte Carlo.md) |

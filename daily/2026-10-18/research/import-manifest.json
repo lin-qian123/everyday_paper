@@ -1,0 +1,147 @@
+[
+  {
+    "key": "yang-neutron",
+    "identifier": "10.1007/s41365-026-02068-0",
+    "title": "Hybrid adaptive RSM-GA Monte Carlo optimization method (HRG-MCO) and its application in the design of moderator–collimator systems for accelerator-based thermal neutron radiography",
+    "journal": "Nuclear Science and Techniques",
+    "publication_date": "2026-10-16",
+    "source_url": "https://doi.org/10.1007/s41365-026-02068-0",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s41365-026-02068-0.pdf",
+    "pdf_path": "daily/2026-10-18/pdfs/Yang et al. - 2026 - Adaptive neutron moderator collimator optimization.pdf",
+    "note_path": "daily/2026-10-18/notes/Yang et al. - 2026 - Adaptive neutron moderator collimator optimization.md",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "experimental-platforms-diagnostics",
+      "pic-and-plasma-simulation"
+    ],
+    "fulltext_version": "formal VOR",
+    "nearest_existing_titles": [
+      [
+        0.425531914893617,
+        "High-Flux X-Ray Emission due to Injection into a Laser-Wakefield Accelerator beyond Its Depletion Length",
+        "10.1103/krsl-322s"
+      ],
+      [
+        0.4046692607003891,
+        "Fast Monte Carlo calculation of multiple scattering in resonant neutron capture",
+        "10.48550/arXiv.2610.20435"
+      ]
+    ]
+  },
+  {
+    "key": "mccright-shock",
+    "identifier": "10.1103/2hhy-jfcd",
+    "title": "First observation of dispersive shock waves in an electron beam",
+    "journal": "Physical Review Accelerators and Beams (accepted paper)",
+    "publication_date": "2026-10-16",
+    "source_url": "https://journals.aps.org/prab/accepted/10.1103/2hhy-jfcd",
+    "pdf_url": "https://arxiv.org/pdf/2510.19786v1",
+    "pdf_path": "daily/2026-10-18/pdfs/McCright et al. - 2026 - Electron beam dispersive shock waves.pdf",
+    "note_path": "daily/2026-10-18/notes/McCright et al. - 2026 - Electron beam dispersive shock waves.md",
+    "categories": [
+      "laser-plasma-acceleration",
+      "experimental-platforms-diagnostics"
+    ],
+    "fulltext_version": "official arXiv 2510.19786v1 author manuscript (2025-10-22); APS accepted 2026-10-16, VOR unavailable",
+    "nearest_existing_titles": [
+      [
+        0.5633802816901409,
+        "Experimental observation of drift acoustic cnoidal waves in a magnetized plasma",
+        "10.1103/mmzz-gq7q"
+      ],
+      [
+        0.5352112676056338,
+        "Fast Monte Carlo calculation of multiple scattering in resonant neutron capture",
+        "10.48550/arXiv.2610.20435"
+      ]
+    ],
+    "arxiv_id": "2510.19786",
+    "arxiv_version": "2510.19786v1",
+    "formal_status": "accepted",
+    "publication_date_kind": "acceptance date; Crossref lists same date as publication"
+  },
+  {
+    "key": "hobmaier-transport",
+    "identifier": "10.1103/6sn3-ltl4",
+    "title": "First-principles electronic transport properties of Ti and Ti-6Al-4V for modeling ultrashort-pulse laser ablation",
+    "journal": "Physical Review Materials",
+    "publication_date": "2026-10-16",
+    "source_url": "https://doi.org/10.1103/6sn3-ltl4",
+    "pdf_url": "https://harvest.aps.org/v2/journals/articles/10.1103/6sn3-ltl4/fulltext",
+    "pdf_path": "daily/2026-10-18/pdfs/Hobmaier et al. - 2026 - Titanium alloy electronic transport.pdf",
+    "note_path": "daily/2026-10-18/notes/Hobmaier et al. - 2026 - Titanium alloy electronic transport.md",
+    "categories": [
+      "hedp-icf-laboratory-astrophysics",
+      "experimental-platforms-diagnostics"
+    ],
+    "fulltext_version": "formal VOR",
+    "nearest_existing_titles": [
+      [
+        0.5198237885462555,
+        "Measurement of multiple mechanical properties from multi-dimensional signals in nanosecond laser ablation via PINN",
+        "10.48550/arXiv.2607.26965"
+      ],
+      [
+        0.5041322314049587,
+        "Kinetic Theory for Electronic Transport Properties of Warm Dense Matter: Chapman-Enskog Solution of the Uehling-Uhlenbeck Equation",
+        "10.48550/arXiv.2606.02890"
+      ]
+    ]
+  },
+  {
+    "key": "wang-eos",
+    "identifier": "10.48550/arXiv.2610.21107",
+    "title": "Aluminum wide-range EOS sensitivity in Z-pinch dynamic-hohlraum liner-foam impact and outgoing radiation",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-15",
+    "source_url": "https://arxiv.org/abs/2610.21107",
+    "pdf_url": "https://arxiv.org/pdf/2610.21107v1",
+    "pdf_path": "daily/2026-10-18/pdfs/Wang et al. - 2026 - Aluminum EOS dynamic hohlraum sensitivity.pdf",
+    "note_path": "daily/2026-10-18/notes/Wang et al. - 2026 - Aluminum EOS dynamic hohlraum sensitivity.md",
+    "categories": [
+      "hedp-icf-laboratory-astrophysics",
+      "pic-and-plasma-simulation"
+    ],
+    "fulltext_version": "official arXiv v1 author preprint",
+    "nearest_existing_titles": [
+      [
+        0.40425531914893614,
+        "Machine Learning Based ROI Segmentation for Beam Imaging Diagnostics at Accelerators",
+        "10.48550/arXiv.2608.26826"
+      ],
+      [
+        0.3888888888888889,
+        "Influence of plasma, surface, and angle on interlinked X-ray emission dynamics in femtosecond burst pulse ablation",
+        "10.1038/s41598-025-34221-x"
+      ]
+    ]
+  },
+  {
+    "key": "banks-deeponet",
+    "identifier": "10.48550/arXiv.2610.22157",
+    "title": "The importance of tensor handling and implementation of physics-informed DeepONets",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-15",
+    "source_url": "https://arxiv.org/abs/2610.22157",
+    "pdf_url": "https://arxiv.org/pdf/2610.22157v1",
+    "pdf_path": "daily/2026-10-18/pdfs/Banks et al. - 2026 - Efficient physics informed DeepONet tensors.pdf",
+    "note_path": "daily/2026-10-18/notes/Banks et al. - 2026 - Efficient physics informed DeepONet tensors.md",
+    "categories": [
+      "ai-ml-plasma-physics",
+      "pic-and-plasma-simulation"
+    ],
+    "fulltext_version": "official arXiv v1 author preprint",
+    "nearest_existing_titles": [
+      [
+        0.47342995169082125,
+        "Self-organized positron reorienting and pinching mechanism for the experimental detection of the linear Breit-Wheeler process",
+        "10.48550/arXiv.2609.07584"
+      ],
+      [
+        0.4691358024691358,
+        "Machine Learning Accelerated Plasma Simulation through Physics Guided Time Jumps",
+        "10.48550/arXiv.2609.23358"
+      ]
+    ]
+  }
+]

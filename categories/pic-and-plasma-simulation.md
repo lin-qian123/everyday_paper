@@ -2,11 +2,14 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：195 篇
-- 索引更新时间：2026-10-17
+- 当前收录：198 篇
+- 索引更新时间：2026-10-18
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-18 | [Hybrid adaptive RSM-GA Monte Carlo optimization method (HRG-MCO) and its application in the design of moderator–collimator systems for accelerator-based thermal neutron radiography](../papers/10-1007-s41365-026-02068-0/README.md) | Nuclear Science and Techniques | [笔记](../daily/2026-10-18/notes/Yang et al. - 2026 - Adaptive neutron moderator collimator optimization.md) |
+| 2026-10-18 | [Aluminum wide-range EOS sensitivity in Z-pinch dynamic-hohlraum liner-foam impact and outgoing radiation](../papers/arxiv-2610-21107/README.md) | arXiv preprint | [笔记](../daily/2026-10-18/notes/Wang et al. - 2026 - Aluminum EOS dynamic hohlraum sensitivity.md) |
+| 2026-10-18 | [The importance of tensor handling and implementation of physics-informed DeepONets](../papers/arxiv-2610-22157/README.md) | arXiv preprint | [笔记](../daily/2026-10-18/notes/Banks et al. - 2026 - Efficient physics informed DeepONet tensors.md) |
 | 2026-10-17 | [Generation of a polarized pair-photon fireball via a laser-driven nonlinear-linear QED cascade](../papers/10-1103-xvmh-mcg7/README.md) | Physical Review E | [笔记](../daily/2026-10-17/notes/Dou et al. - 2026 - Polarized pair photon fireball.md) |
 | 2026-10-17 | [Plasma conductivity from warm dense matter to the Spitzer limit using mean-force kinetic theory](../papers/10-1103-177n-4yfm/README.md) | Physical Review Letters | [笔记](../daily/2026-10-17/notes/Babati et al. - 2026 - Mean force plasma conductivity.md) |
 | 2026-10-17 | [Visual tools for 3D plasma simulation: GPU-based isosurface extraction and particle-based rendering](../papers/10-1371-journal-pone-0359294/README.md) | PLOS One | [笔记](../daily/2026-10-17/notes/Kim et al. - 2026 - GPU plasma visualization.md) |

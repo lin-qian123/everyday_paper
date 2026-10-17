@@ -2,11 +2,13 @@
 
 HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。
 
-- 当前收录：123 篇
-- 索引更新时间：2026-10-17
+- 当前收录：125 篇
+- 索引更新时间：2026-10-18
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-18 | [First-principles electronic transport properties of Ti and Ti-6Al-4V for modeling ultrashort-pulse laser ablation](../papers/10-1103-6sn3-ltl4/README.md) | Physical Review Materials | [笔记](../daily/2026-10-18/notes/Hobmaier et al. - 2026 - Titanium alloy electronic transport.md) |
+| 2026-10-18 | [Aluminum wide-range EOS sensitivity in Z-pinch dynamic-hohlraum liner-foam impact and outgoing radiation](../papers/arxiv-2610-21107/README.md) | arXiv preprint | [笔记](../daily/2026-10-18/notes/Wang et al. - 2026 - Aluminum EOS dynamic hohlraum sensitivity.md) |
 | 2026-10-17 | [Generation of a polarized pair-photon fireball via a laser-driven nonlinear-linear QED cascade](../papers/10-1103-xvmh-mcg7/README.md) | Physical Review E | [笔记](../daily/2026-10-17/notes/Dou et al. - 2026 - Polarized pair photon fireball.md) |
 | 2026-10-17 | [Plasma conductivity from warm dense matter to the Spitzer limit using mean-force kinetic theory](../papers/10-1103-177n-4yfm/README.md) | Physical Review Letters | [笔记](../daily/2026-10-17/notes/Babati et al. - 2026 - Mean force plasma conductivity.md) |
 | 2026-10-17 | [Beamstop-free small-angle X-ray scattering for multiscale structure measurement of high-energy-density plasma](../papers/10-1038-s42005-026-02872-5/README.md) | Communications Physics | [笔记](../daily/2026-10-17/notes/Ota et al. - 2026 - Beamstop free HED plasma SAXS.md) |

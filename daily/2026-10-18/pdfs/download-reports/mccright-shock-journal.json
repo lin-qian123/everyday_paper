@@ -1,0 +1,9 @@
+{
+  "ok": false,
+  "output": "daily/2026-10-18/pdfs/McCright et al. - 2026 - Electron beam dispersive shock waves.pdf",
+  "attempts": [
+    "[env-proxy] https://journals.aps.org/prab/pdf/10.1103/2hhy-jfcd -> HTTP 403",
+    "[direct] https://journals.aps.org/prab/pdf/10.1103/2hhy-jfcd -> HTTP 404"
+  ],
+  "failure_class": "publisher_http_403"
+}

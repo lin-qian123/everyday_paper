@@ -1,0 +1,81 @@
+{
+  "attempted": 5,
+  "successful": 4,
+  "model_version": "pipeline",
+  "items": [
+    {
+      "ok": true,
+      "source": "https://harvest.aps.org/v2/journals/articles/10.1103/6sn3-ltl4/fulltext",
+      "task_id": "594cec60-2e1a-4358-8866-22b782617e78",
+      "state": "done",
+      "model_version": "pipeline",
+      "language": "en",
+      "enable_ocr": false,
+      "page_ranges": null,
+      "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-10-18/594cec60-2e1a-4358-8866-22b782617e78.zip",
+      "cached": false,
+      "cache_key": "2b8258a0c586d6bc1cc73742",
+      "fetched_at": 1792277890,
+      "key": "hobmaier-transport",
+      "retained_text_path": "daily/2026-10-18/pdfs/Hobmaier et al. - 2026 - Titanium alloy electronic transport.mineru.txt"
+    },
+    {
+      "ok": true,
+      "source": "https://arxiv.org/pdf/2610.21107v1",
+      "task_id": "3718fa96-86b2-4120-880d-a1251c8c3c78",
+      "state": "done",
+      "model_version": "pipeline",
+      "language": "en",
+      "enable_ocr": false,
+      "page_ranges": null,
+      "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-10-18/3718fa96-86b2-4120-880d-a1251c8c3c78.zip",
+      "cached": false,
+      "cache_key": "ad76b70e7f69ac09567d4f25",
+      "fetched_at": 1792277915,
+      "key": "wang-eos",
+      "retained_text_path": "daily/2026-10-18/pdfs/Wang et al. - 2026 - Aluminum EOS dynamic hohlraum sensitivity.mineru.txt"
+    },
+    {
+      "ok": true,
+      "source": "https://arxiv.org/pdf/2610.22157v1",
+      "task_id": "03d015f2-13b6-4ec5-b6fe-1bdbcd971ba7",
+      "state": "done",
+      "model_version": "pipeline",
+      "language": "en",
+      "enable_ocr": false,
+      "page_ranges": null,
+      "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-10-18/03d015f2-13b6-4ec5-b6fe-1bdbcd971ba7.zip",
+      "cached": false,
+      "cache_key": "7295a41d97a9a82d427f7d33",
+      "fetched_at": 1792277947,
+      "key": "banks-deeponet",
+      "retained_text_path": "daily/2026-10-18/pdfs/Banks et al. - 2026 - Efficient physics informed DeepONet tensors.mineru.txt"
+    },
+    {
+      "ok": true,
+      "source": "https://arxiv.org/pdf/2510.19786v1",
+      "task_id": "be36040f-0942-4adb-bd54-e83dce9b2190",
+      "state": "done",
+      "model_version": "pipeline",
+      "language": "en",
+      "enable_ocr": false,
+      "page_ranges": null,
+      "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-10-18/be36040f-0942-4adb-bd54-e83dce9b2190.zip",
+      "cached": false,
+      "cache_key": "ac2954f29b9e90c76d6da422",
+      "fetched_at": 1792277915,
+      "key": "mccright-shock",
+      "retained_text_path": "daily/2026-10-18/pdfs/McCright et al. - 2026 - Electron beam dispersive shock waves.mineru.txt"
+    }
+  ],
+  "errors": [
+    {
+      "source": "https://link.springer.com/content/pdf/10.1007/s41365-026-02068-0.pdf",
+      "error": "MinerU task failed: parsing failed, please try again later",
+      "next_step": "If this is a protected page, try another accessible mirror URL."
+    }
+  ],
+  "fallback": {
+    "yang-neutron": "validated local PDF + pdftotext -layout + all-page pypdf + visual first/key page checks"
+  }
+}

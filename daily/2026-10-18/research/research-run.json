@@ -1,0 +1,234 @@
+{
+  "run_date": "2026-10-18",
+  "searched_at": "2026-10-18T07:02:18+08:00",
+  "search_layer": {
+    "queries": [
+      "laser plasma photonuclear neutron gamma October 2026"
+    ],
+    "returned_count": 0,
+    "note": "Installed search-layer empty result is a coverage limitation, not evidence of no papers."
+  },
+  "web_search": {
+    "queries": [
+      "laser plasma gamma neutron target October 2026 journal",
+      "strong field QED particle in cell October 17 2026",
+      "laser electron proton radiation therapy October 2026 converter target",
+      "exact titles of neutron moderator optimization, electron dispersive shock and Ti alloy transport"
+    ],
+    "role": "Primary publisher and arXiv title/status linkage checks; generic search was noisy."
+  },
+  "crossref": {
+    "endpoint": "https://api.crossref.org/works",
+    "filters": "from-pub-date:2026-10-16,until-pub-date:2026-10-18,type:journal-article",
+    "sort": "published descending",
+    "rows_per_query": 75,
+    "queries": [
+      "laser plasma acceleration",
+      "strong field QED gamma",
+      "high energy density plasma",
+      "particle in cell plasma machine learning",
+      "laser electron bremsstrahlung converter",
+      "laser neutron photonuclear isotope",
+      "proton ion beam radiation therapy",
+      "neutron nuclear diagnostic",
+      "laser target design efficiency",
+      "plasma machine learning surrogate"
+    ],
+    "returned_rows": 750,
+    "unique_dois": 545,
+    "errors": []
+  },
+  "arxiv": {
+    "endpoint": "https://export.arxiv.org/api/query",
+    "categories": [
+      "physics.plasm-ph",
+      "physics.acc-ph",
+      "physics.comp-ph",
+      "nucl-ex",
+      "physics.ins-det"
+    ],
+    "max_results": 300,
+    "sort": "submittedDate descending",
+    "latest_visible_submission": "2026-10-15T17:02:46Z",
+    "linked_author_records": [
+      {
+        "id": "http://arxiv.org/abs/2607.18085v1",
+        "title": "First-principles electronic transport properties of Ti and Ti-6Al-4V for modeling ultrashort-pulse laser ablation",
+        "authors": [
+          "Korbinian Hobmaier",
+          "Guillaume E. Allemand",
+          "Alberto Marmodoro",
+          "Matthieu J. Verstraete",
+          "Ján Minár",
+          "Heinz P. Huber",
+          "David Redka"
+        ]
+      },
+      {
+        "id": "http://arxiv.org/abs/2510.19786v1",
+        "title": "First Observation of Dispersive Shock Waves in an Electron Beam",
+        "authors": [
+          "H. McCright",
+          "I. G. Abel",
+          "I. Haber",
+          "P. G. O'Shea",
+          "B. L. Beaudoin"
+        ]
+      }
+    ]
+  },
+  "formal_version_checks": [
+    {
+      "query": "Aluminum wide-range EOS sensitivity in Z-pinch dynamic-hohlraum liner-foam impact and outgoing radiation",
+      "status": 200,
+      "top_results": [
+        {
+          "doi": "10.1109/plasma.2000.854606",
+          "title": [
+            "Radiation trapping efficiency in Double Liner and Dynamic Hohlraum"
+          ]
+        },
+        {
+          "doi": "10.1016/j.mre.2018.06.001",
+          "title": [
+            "Numerical studies on the radiation uniformity of Z-pinch dynamic hohlraum"
+          ]
+        },
+        {
+          "doi": "10.1063/1.2159389",
+          "title": [
+            "Augmentation of Radiation Intensity in Quasi-Spherical Double Liner/Dynamic Hohlraum"
+          ]
+        }
+      ],
+      "conclusion": "No matching formal version identified in top-three exact-title metadata results; not proof that no formal version exists."
+    },
+    {
+      "query": "The importance of tensor handling and implementation of physics-informed DeepONets",
+      "status": 200,
+      "top_results": [
+        {
+          "doi": "10.2139/ssrn.5297687",
+          "title": [
+            "Improving Physics-Informed Deeponets with Hard Constraints"
+          ]
+        },
+        {
+          "doi": "10.1016/j.jcp.2022.111855",
+          "title": [
+            "Long-time integration of parametric evolution equations with physics-informed DeepONets"
+          ]
+        },
+        {
+          "doi": "10.2139/ssrn.4992639",
+          "title": [
+            "Fine-Tuning Deeponets to Enhance Physics-Informed Neural Networks for Solving Partial Differential Equations"
+          ]
+        }
+      ],
+      "conclusion": "No matching formal version identified in top-three exact-title metadata results; not proof that no formal version exists."
+    }
+  ],
+  "dedup_checks": {
+    "completed_before": 465,
+    "retry_before": 40,
+    "identifiers": "nonempty DOI and arXiv IDs/versions; no null-identifier matching",
+    "titles": "normalized exact and nearest-title screen; author/scenario review",
+    "history": "Prior 2026-10-17 discovery-only mentions of Hobmaier, Wang and Banks are not ingestions; none has a prior note or completed ledger record.",
+    "aliases": "McCright arXiv 2510.19786 and Hobmaier arXiv 2607.18085 linked to formal IDs; each work ingested once.",
+    "selected_candidates": [
+      {
+        "key": "yang-neutron",
+        "nearest_existing_titles": [
+          [
+            0.425531914893617,
+            "High-Flux X-Ray Emission due to Injection into a Laser-Wakefield Accelerator beyond Its Depletion Length",
+            "10.1103/krsl-322s"
+          ],
+          [
+            0.4046692607003891,
+            "Fast Monte Carlo calculation of multiple scattering in resonant neutron capture",
+            "10.48550/arXiv.2610.20435"
+          ]
+        ]
+      },
+      {
+        "key": "mccright-shock",
+        "nearest_existing_titles": [
+          [
+            0.5633802816901409,
+            "Experimental observation of drift acoustic cnoidal waves in a magnetized plasma",
+            "10.1103/mmzz-gq7q"
+          ],
+          [
+            0.5352112676056338,
+            "Fast Monte Carlo calculation of multiple scattering in resonant neutron capture",
+            "10.48550/arXiv.2610.20435"
+          ]
+        ]
+      },
+      {
+        "key": "hobmaier-transport",
+        "nearest_existing_titles": [
+          [
+            0.5198237885462555,
+            "Measurement of multiple mechanical properties from multi-dimensional signals in nanosecond laser ablation via PINN",
+            "10.48550/arXiv.2607.26965"
+          ],
+          [
+            0.5041322314049587,
+            "Kinetic Theory for Electronic Transport Properties of Warm Dense Matter: Chapman-Enskog Solution of the Uehling-Uhlenbeck Equation",
+            "10.48550/arXiv.2606.02890"
+          ]
+        ]
+      },
+      {
+        "key": "wang-eos",
+        "nearest_existing_titles": [
+          [
+            0.40425531914893614,
+            "Machine Learning Based ROI Segmentation for Beam Imaging Diagnostics at Accelerators",
+            "10.48550/arXiv.2608.26826"
+          ],
+          [
+            0.3888888888888889,
+            "Influence of plasma, surface, and angle on interlinked X-ray emission dynamics in femtosecond burst pulse ablation",
+            "10.1038/s41598-025-34221-x"
+          ]
+        ]
+      },
+      {
+        "key": "banks-deeponet",
+        "nearest_existing_titles": [
+          [
+            0.47342995169082125,
+            "Self-organized positron reorienting and pinching mechanism for the experimental detection of the linear Breit-Wheeler process",
+            "10.48550/arXiv.2609.07584"
+          ],
+          [
+            0.4691358024691358,
+            "Machine Learning Accelerated Plasma Simulation through Physics Guided Time Jumps",
+            "10.48550/arXiv.2609.23358"
+          ]
+        ]
+      }
+    ]
+  },
+  "coverage": "Targeted capped queries, not exhaustive global discovery. No newer arXiv batch appeared. Selected two recent VORs, one APS accepted record with older author manuscript, and two recent preprints; generic advection ML is labelled a transferable method rather than plasma application. No new end-to-end laser converter/photonuclear/neutron experimental result selected.",
+  "not_selected": [
+    {
+      "id": "2610.21897v1",
+      "reason": "Lossy Lorentz boosts: numerical high-energy software survey, lower direct plasma relevance than selected material/HED/neutron and operator-training methods."
+    },
+    {
+      "doi": "10.1107/s1600576726009015",
+      "reason": "SANS detector development less direct to the expanded laser-converter/nuclear-application scope."
+    }
+  ],
+  "retry": {
+    "before": 40,
+    "after": 40,
+    "new": [],
+    "note": "Existing source-restricted entries preserved. APS shock work has a verified author manuscript; final VOR remains a version-comparison follow-up, not a missing-fulltext ingestion."
+  }
+}

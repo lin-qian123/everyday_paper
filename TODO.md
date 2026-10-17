@@ -1,5 +1,7 @@
 # TODO
 
+- 2026-10-18：完成 5 篇全文与中文笔记，台账 465→470；2 篇正式 VOR、1 篇新 APS 接受稿记录对应 2025 年作者稿、2 篇 10-15 预印本。63 页 PDF、17 个首页/关键页与 5 幅可读原图/原表已核查；MinerU pipeline 4 成功，Yang 失败后用已验证本地文本/渲染回退。重试仍 40 条；后续优先对照 McCright 最终 VOR、核实 Banks 3D epochs 的 200k/300k 冲突，并恢复既有来源受限全文。暂无激光转换靶—光核/中子端到端新实测，本轮未复跑模型。
+
 - 2026-10-17：完成 6 篇全文与中文笔记，台账 459→465；其中 2 篇正式 VOR、2 篇新正式记录对应较早作者稿、2 篇新预印本。69 页 PDF、六篇 MinerU pipeline、12 个身份/关键页与 7 幅原图/原表已核验。相位锁定 LWFA 因 403/404 入重试，队列 39→40；后续如正式 PDF 可得，优先对照两篇 APS 作者稿差异，并恢复新重试项。关注激光转换靶—光核/中子端到端实测增量；本轮未新增此类实证，也未复跑物理或训练。
 
 - 2026-10-16：加载 453 条完成台账和 37 条重试项；官方 arXiv 最近 300 条更新到 10-14 投稿，Crossref 10 组查询的 6 次限流降低并发补查后恢复，合计 820 条返回、662 个 DOI。新增 2 篇正式 VOR 和 4 篇 arXiv v1，6 份 PDF 共 116 页、23,262,368 字节，全部完成 MinerU pipeline 和本地独立核验；检查 13 个身份/关键页，保留 7 幅原图。台账增至 459，APS 核衰变/IOP 束布局两条 accepted 候选受阻后重试增至 39。笔记明确局部均能、H*(10)、GaN 外推、强 QED 跨代码分歧与 MPI/墙钟成本口径；本地未复跑物理或训练。
@@ -25,7 +27,7 @@
 - [ ] 后续新增关键论文或原文版本更新时，修订对应综述章与比较结论；先核查当前快照和 R 编号，避免直接重排台账后留下错误引用。已发现的旧笔记公式/日期/参数问题见 `reviews/2026-frontiers/appendices/source-discrepancies.md`，需按原文逐项修订。
 
 - [ ] 将每日自动化主流程固定为：新增论文与笔记 -> 更新 `state/processed_articles.json` -> 运行 `python scripts/build_indexes.py` -> 提交并推送 `origin/master`。
-- [ ] 处理剩余 39 条未补回 PDF 的候选；其中 10 条为 Elsevier/ScienceDirect `HTTP 403`，2 条为 Nature cookie wall，14 条为 IOP/Radware/HTML 验证页，8 条为 APS accepted/formal `HTTP 403` 或延迟开放，3 条为 Taylor & Francis 正式论文 `HTTP 403`，另有 2 条 Optica/Radware 验证页。
+- [ ] 重试队列共 40 条（含 1 条历史已完成重叠），处理剩余 39 条未补回 PDF 的候选；其中 10 条为 Elsevier/ScienceDirect `HTTP 403`，2 条为 Nature cookie wall，14 条为 IOP/Radware/HTML 验证页，8 条为 APS accepted/formal `HTTP 403` 或延迟开放，3 条为 Taylor & Francis 正式论文 `HTTP 403`，另有 2 条 Optica/Radware 验证页。
 - [ ] 为当前台账 42 条已记录 PDF 路径但尚无笔记的条目补中文结构化笔记；其中 36 份 PDF 本地存在，另 6 条需先恢复缺失全文。
 - [ ] 把每日自动化主流程接到 `scripts/retry_download_queue.py`，启动时先消化可恢复积压，避免配置恢复后仍只读旧 blocked-day 记录。
 - [ ] 为来源可达性预检补一层轻量检查，避免在明显 `403` / bot-wall 来源上重复空跑，并对 arXiv / DOI 这类开放来源单独标记“仅运行时阻塞”。

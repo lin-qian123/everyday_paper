@@ -1,0 +1,88 @@
+{
+  "figures": [
+    {
+      "key": "yang-neutron",
+      "source_pdf": "daily/2026-10-18/pdfs/Yang et al. - 2026 - Adaptive neutron moderator collimator optimization.pdf",
+      "page": 10,
+      "crop_rect": [
+        302,
+        315,
+        555,
+        525
+      ],
+      "path": "daily/2026-10-18/images/yang-neutron-pareto.png",
+      "sha256": "61ef902038ff6386fc59249eb6bb51fbdfa6249a8ae1a66fc8d0a6a46ad91de7",
+      "caption": "Fig. 13",
+      "coordinate_system": "PDF points, origin top left",
+      "source_pdf_sha256": "3ff46e5f9541a79072785152e4feac2b6cb2dd2c9a9b45df7441d647187533d1"
+    },
+    {
+      "key": "wang-eos",
+      "source_pdf": "daily/2026-10-18/pdfs/Wang et al. - 2026 - Aluminum EOS dynamic hohlraum sensitivity.pdf",
+      "page": 9,
+      "crop_rect": [
+        58,
+        628,
+        537,
+        778
+      ],
+      "path": "daily/2026-10-18/images/wang-eos-radiation-table.png",
+      "sha256": "7ee40879bb9d32e1a35ffa1a75dba3f4eb2252ac38c0ebea59419f082c0b3d79",
+      "caption": "Table 4",
+      "coordinate_system": "PDF points, origin top left",
+      "source_pdf_sha256": "19608fc025ba6b503b3ecf078508670219f868fa938198c832d10527cf98ca59"
+    },
+    {
+      "key": "mccright-shock",
+      "source_pdf": "daily/2026-10-18/pdfs/McCright et al. - 2026 - Electron beam dispersive shock waves.pdf",
+      "page": 3,
+      "crop_rect": [
+        30,
+        128,
+        306,
+        540
+      ],
+      "path": "daily/2026-10-18/images/mccright-shock-observation.png",
+      "sha256": "0854c120de44030e331fcb527fd4a19fd92ff7893d454ff8ae5f1aafbd5960e6",
+      "caption": "Fig. 3",
+      "coordinate_system": "PDF points, origin top left",
+      "source_pdf_sha256": "15984326046037ee6df7cca3d58a5be4dc97ea322e757b9cf8ac09f6364e8c08"
+    },
+    {
+      "source_pdf": "daily/2026-10-18/pdfs/Banks et al. - 2026 - Efficient physics informed DeepONet tensors.pdf",
+      "source_figure": "Figure 6",
+      "page": 14,
+      "crop_rect": [
+        65,
+        416,
+        551,
+        587
+      ],
+      "coordinate_system": "PDF points, origin top left",
+      "sha256": "fd36c7ac821eb4b97c82daef46156490f03c0010935af908d3cc54d91ed990d6",
+      "caption": "原文图6：2D线性平流中，内部配点数和输入函数数改变时，Vanilla/ATenH训练时间与加速比。",
+      "visual_qa": "passed: original PDF p1 and p9-15 visually inspected; final Figure 6 crop visually checked with complete axes, legends and units",
+      "path": "daily/2026-10-18/images/banks-fig6-training-scaling.png",
+      "source_pdf_sha256": "8f99e4a3e066f14e8c66e5bba3c4aa06b57f6671c67b44cf7d905cfb4a04a615"
+    },
+    {
+      "path": "daily/2026-10-18/images/hobmaier-figure-3.png",
+      "source_pdf": "daily/2026-10-18/pdfs/Hobmaier et al. - 2026 - Titanium alloy electronic transport.pdf",
+      "source_pdf_sha256": "7c0995d506915e540ac8a55184ececbe3438bb2cbbc0b103c51ad05ecef11fef",
+      "source_figure": "Figure 3",
+      "page": 7,
+      "render_scale": 2,
+      "sha256": "60a8efda7e6f5d49b118027a9b7990dd1dd1925d4daeaac7c89b1d0edae7e9dc",
+      "description": "原论文 Fig.3 六面板及原图注，显示能量分辨电导、非平衡电子热导近似比较、Ti与Ti-6Al-4V的双温热导图、电子热容及电子-声子耦合；未重绘，未修改数据。",
+      "visual_qa": "已查看源PDF首页及第7页；图的坐标、单位、不同热导色标与图注完整可读。",
+      "license": "CC BY 4.0 (article first page)",
+      "crop_rect": [
+        48,
+        66,
+        560,
+        510
+      ],
+      "coordinate_system": "PDF points, origin top left"
+    }
+  ]
+}
