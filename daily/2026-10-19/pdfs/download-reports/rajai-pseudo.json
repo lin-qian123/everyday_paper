@@ -1,0 +1,9 @@
+{
+  "ok": false,
+  "output": "daily/2026-10-19/pdfs/Rajai and Bhatt - 2026 - Warm dense matter analytical pseudopotentials.pdf",
+  "attempts": [
+    "[env-proxy] https://harvest.aps.org/v2/journals/articles/10.1103/y9h9-w7pg/fulltext -> HTTP 404",
+    "[direct] https://harvest.aps.org/v2/journals/articles/10.1103/y9h9-w7pg/fulltext -> HTTP 404"
+  ],
+  "failure_class": "unknown"
+}

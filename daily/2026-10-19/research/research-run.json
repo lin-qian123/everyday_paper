@@ -1,0 +1,106 @@
+{
+  "run_date": "2026-10-19",
+  "searched_at": "2026-10-19T07:04:04+08:00",
+  "search_layer": {
+    "queries": [
+      "laser plasma photonuclear neutron October 2026"
+    ],
+    "returned_count": 0,
+    "note": "No results is a service/coverage limitation, not evidence of no literature."
+  },
+  "crossref": {
+    "endpoint": "https://api.crossref.org/works",
+    "window": "2026-10-16 to 2026-10-19 inclusive",
+    "sort": "published descending",
+    "rows_per_query": 75,
+    "queries": [
+      "laser plasma acceleration",
+      "strong field QED gamma",
+      "high energy density plasma",
+      "particle in cell plasma machine learning",
+      "laser electron bremsstrahlung converter",
+      "laser neutron photonuclear isotope",
+      "proton ion beam radiation therapy",
+      "neutron nuclear diagnostic",
+      "laser target design efficiency",
+      "plasma machine learning surrogate"
+    ],
+    "returned_rows": 750,
+    "unique_dois": 543,
+    "errors": []
+  },
+  "focused_crossref": {
+    "window": "2026-10-12 to 2026-10-19 inclusive",
+    "sort": "default relevance",
+    "rows_per_query": 70,
+    "queries": [
+      "laser photonuclear neutron converter",
+      "strong field quantum electrodynamics particle cell",
+      "laser plasma gamma electron beam",
+      "warm dense matter laser diagnostic"
+    ],
+    "returned_rows": 280,
+    "unique_dois": 256
+  },
+  "arxiv": {
+    "endpoint": "https://export.arxiv.org/api/query",
+    "categories": [
+      "physics.plasm-ph",
+      "physics.acc-ph",
+      "physics.comp-ph",
+      "nucl-ex",
+      "physics.ins-det"
+    ],
+    "max_results": 300,
+    "sort": "submittedDate descending",
+    "latest_visible_submission": "2026-10-15T17:02:46Z",
+    "note": "No newer visible batch in this bounded API response; recent unprocessed 10-12 and 10-13 works used as supplements."
+  },
+  "version_checks": "version-checks.json",
+  "dedup": {
+    "baseline_completed": 470,
+    "baseline_retry": 40,
+    "methods": [
+      "case-insensitive non-null DOI",
+      "arXiv identifier/version aliases",
+      "normalized title",
+      "prior daily mentions versus actual completed entries",
+      "title similarity and physical-scenario review"
+    ],
+    "scenario_check": "Wang uses density-modulated electron microbunches with inter-electron coherent fields; existing arXiv 2610.17166 uses a driving laser subpulse train and incoherent electron-intensity summation. Different authors and parameters; distinct work. No previous negative-hydrogen-ion production or NT geometric-proxy work found in completed ledger.",
+    "prior_discovery_mentions_do_not_count_as_ingestion": true
+  },
+  "publisher_status_checks": [
+    {
+      "doi": "10.1103/r6hx-gbhj",
+      "source_url": "https://journals.aps.org/prb/abstract/10.1103/r6hx-gbhj",
+      "status": "Published 2026-10-13, PRB 114 214202; Authorization Required; CHORUS manuscript release 2027-10-13."
+    },
+    {
+      "doi": "10.1103/y9h9-w7pg",
+      "source_url": "https://journals.aps.org/prb/accepted/10.1103/y9h9-w7pg",
+      "status": "Accepted 2026-10-15; Crossref date is not proof of available VOR."
+    },
+    {
+      "doi": "10.1103/qdnr-4g6w",
+      "status": "Existing retry, harvest HTTP 404 in both modes on current run."
+    }
+  ],
+  "selection": {
+    "ingested": [
+      "10.1007/s41365-026-02075-1",
+      "10.48550/arXiv.2610.16257",
+      "10.48550/arXiv.2610.17974"
+    ],
+    "retry_added": [
+      "10.1103/r6hx-gbhj",
+      "10.1103/y9h9-w7pg"
+    ],
+    "lower_priority_not_ingested": [
+      "arXiv:2610.17241 SuperKEKB anomaly detection: accelerator protection method, less directly plasma-focused than selected fulltexts",
+      "IOP 10.1088/2058-6272/aeb360 electrical-wire-explosion residual learning: metadata candidate only; fulltext not attempted",
+      "IOP 10.1088/1361-6587/aeb3b4 alpha stopping-regime map: metadata candidate only; fulltext not attempted"
+    ],
+    "coverage_limit": "Targeted capped searches, not exhaustive. No new selected laser-converter/photonuclear/neutron end-to-end experiment or new strong-field QED work; no quota filling."
+  }
+}

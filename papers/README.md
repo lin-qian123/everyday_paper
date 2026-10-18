@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：470 篇
-- 索引更新时间：2026-10-18
+- 当前入库论文：473 篇
+- 索引更新时间：2026-10-19
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-10-19 | [Generation of mode-locked EUV and soft X-ray radiation via coherent Thomson scattering from a density-modulated electron bunch](./10-1007-s41365-026-02075-1/README.md) | Nuclear Science and Techniques 37, 250 | [10.1007/s41365-026-02075-1](https://doi.org/10.1007/s41365-026-02075-1) |
+| 2026-10-19 | [Validation of geometric proxies using negative and positive triangularity plasmas with varying elongation on TCV and multi-machine gyrokinetic simulations](./arxiv-2610-17974/README.md) | arXiv preprint | [10.48550/arXiv.2610.17974](https://doi.org/10.48550/arXiv.2610.17974) |
+| 2026-10-19 | [Implicit PIC Simulations of Hydrogen Plasmas with Intense Negative Ion Production](./arxiv-2610-16257/README.md) | arXiv preprint | [10.48550/arXiv.2610.16257](https://doi.org/10.48550/arXiv.2610.16257) |
 | 2026-10-18 | [Hybrid adaptive RSM-GA Monte Carlo optimization method (HRG-MCO) and its application in the design of moderator–collimator systems for accelerator-based thermal neutron radiography](./10-1007-s41365-026-02068-0/README.md) | Nuclear Science and Techniques | [10.1007/s41365-026-02068-0](https://doi.org/10.1007/s41365-026-02068-0) |
 | 2026-10-18 | [First observation of dispersive shock waves in an electron beam](./10-1103-2hhy-jfcd/README.md) | Physical Review Accelerators and Beams (accepted paper) | [10.1103/2hhy-jfcd](https://doi.org/10.1103/2hhy-jfcd) |
 | 2026-10-18 | [First-principles electronic transport properties of Ti and Ti-6Al-4V for modeling ultrashort-pulse laser ablation](./10-1103-6sn3-ltl4/README.md) | Physical Review Materials | [10.1103/6sn3-ltl4](https://doi.org/10.1103/6sn3-ltl4) |

@@ -2,11 +2,12 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：152 篇
-- 索引更新时间：2026-10-18
+- 当前收录：153 篇
+- 索引更新时间：2026-10-19
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-19 | [Generation of mode-locked EUV and soft X-ray radiation via coherent Thomson scattering from a density-modulated electron bunch](../papers/10-1007-s41365-026-02075-1/README.md) | Nuclear Science and Techniques 37, 250 | [笔记](../daily/2026-10-19/notes/Wang et al. - 2026 - Mode locked coherent Thomson radiation.md) |
 | 2026-10-18 | [Hybrid adaptive RSM-GA Monte Carlo optimization method (HRG-MCO) and its application in the design of moderator–collimator systems for accelerator-based thermal neutron radiography](../papers/10-1007-s41365-026-02068-0/README.md) | Nuclear Science and Techniques | [笔记](../daily/2026-10-18/notes/Yang et al. - 2026 - Adaptive neutron moderator collimator optimization.md) |
 | 2026-10-18 | [First observation of dispersive shock waves in an electron beam](../papers/10-1103-2hhy-jfcd/README.md) | Physical Review Accelerators and Beams (accepted paper) | [笔记](../daily/2026-10-18/notes/McCright et al. - 2026 - Electron beam dispersive shock waves.md) |
 | 2026-10-18 | [First-principles electronic transport properties of Ti and Ti-6Al-4V for modeling ultrashort-pulse laser ablation](../papers/10-1103-6sn3-ltl4/README.md) | Physical Review Materials | [笔记](../daily/2026-10-18/notes/Hobmaier et al. - 2026 - Titanium alloy electronic transport.md) |

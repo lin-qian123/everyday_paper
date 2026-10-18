@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Generation of mode-locked EUV and soft X-ray radiation via coherent Thomson scattering from a density-modulated electron bunch",
+    "doi": "10.1007/s41365-026-02075-1",
+    "journal": "Nuclear Science and Techniques 37, 250",
+    "publication_date": "2026-10-16",
+    "processed_date": "2026-10-19",
+    "source_url": "https://link.springer.com/article/10.1007/s41365-026-02075-1",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s41365-026-02075-1.pdf",
+    "pdf_path": "daily/2026-10-19/pdfs/Wang et al. - 2026 - Mode locked coherent Thomson radiation.pdf",
+    "note_path": "daily/2026-10-19/notes/Wang et al. - 2026 - Mode locked coherent Thomson radiation.md",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "experimental-platforms-diagnostics"
+    ],
+    "normalized_title": "generation of mode locked euv and soft x ray radiation via coherent thomson scattering from a density modulated electron bunch",
+    "fulltext_version": "formal VOR"
+  },
+  {
+    "title": "Implicit PIC Simulations of Hydrogen Plasmas with Intense Negative Ion Production",
+    "doi": "10.48550/arXiv.2610.16257",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-12",
+    "processed_date": "2026-10-19",
+    "source_url": "https://arxiv.org/abs/2610.16257",
+    "pdf_url": "https://arxiv.org/pdf/2610.16257v1",
+    "pdf_path": "daily/2026-10-19/pdfs/Eremin - 2026 - Implicit PIC hydrogen negative ions.pdf",
+    "note_path": "daily/2026-10-19/notes/Eremin - 2026 - Implicit PIC hydrogen negative ions.md",
+    "categories": [
+      "pic-and-plasma-simulation",
+      "magnetic-fusion-and-alpha-particles"
+    ],
+    "normalized_title": "implicit pic simulations of hydrogen plasmas with intense negative ion production",
+    "fulltext_version": "official arXiv v1 author preprint",
+    "arxiv_id": "2610.16257",
+    "arxiv_version": "2610.16257v1"
+  },
+  {
+    "title": "Validation of geometric proxies using negative and positive triangularity plasmas with varying elongation on TCV and multi-machine gyrokinetic simulations",
+    "doi": "10.48550/arXiv.2610.17974",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-13",
+    "processed_date": "2026-10-19",
+    "source_url": "https://arxiv.org/abs/2610.17974",
+    "pdf_url": "https://arxiv.org/pdf/2610.17974v1",
+    "pdf_path": "daily/2026-10-19/pdfs/Balestri et al. - 2026 - Geometric proxies for negative triangularity.pdf",
+    "note_path": "daily/2026-10-19/notes/Balestri et al. - 2026 - Geometric proxies for negative triangularity.md",
+    "categories": [
+      "magnetic-fusion-and-alpha-particles",
+      "pic-and-plasma-simulation"
+    ],
+    "normalized_title": "validation of geometric proxies using negative and positive triangularity plasmas with varying elongation on tcv and multi machine gyrokinetic simulations",
+    "fulltext_version": "official arXiv v1 author preprint",
+    "arxiv_id": "2610.17974",
+    "arxiv_version": "2610.17974v1"
+  }
+]

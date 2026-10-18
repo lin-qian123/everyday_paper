@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "output": "daily/2026-10-19/pdfs/Wang et al. - 2026 - Mode locked coherent Thomson radiation.pdf",
+  "source_url": "https://link.springer.com/content/pdf/10.1007/s41365-026-02075-1.pdf",
+  "mode": "direct",
+  "attempts": [
+    "[env-proxy] https://link.springer.com/content/pdf/10.1007/s41365-026-02075-1.pdf -> not pdf (content-type=text/html; charset=utf-8)"
+  ]
+}

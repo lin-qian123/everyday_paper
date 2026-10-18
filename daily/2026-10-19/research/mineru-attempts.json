@@ -1,0 +1,36 @@
+{
+  "attempted": 3,
+  "completed": 2,
+  "failed": 1,
+  "items": [
+    {
+      "ok": true,
+      "source": "https://arxiv.org/pdf/2610.16257v1",
+      "task_id": "9abe03c1-66d0-4aac-bc01-456e86063e88",
+      "state": "done",
+      "model_version": "pipeline",
+      "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-10-19/9abe03c1-66d0-4aac-bc01-456e86063e88.zip",
+      "fetched_at": 1792364371,
+      "retained_text_path": "daily/2026-10-19/pdfs/eremin-implicit-mineru.txt",
+      "retained_text_bytes": 42992
+    },
+    {
+      "ok": true,
+      "source": "https://arxiv.org/pdf/2610.17974v1",
+      "task_id": "68cde17a-ee5c-4b2a-be82-3a1308b63705",
+      "state": "done",
+      "model_version": "pipeline",
+      "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-10-19/68cde17a-ee5c-4b2a-be82-3a1308b63705.zip",
+      "fetched_at": 1792364397,
+      "retained_text_path": "daily/2026-10-19/pdfs/balestri-geometry-mineru.txt",
+      "retained_text_bytes": 92918
+    },
+    {
+      "ok": false,
+      "source": "https://link.springer.com/content/pdf/10.1007/s41365-026-02075-1.pdf",
+      "model_version": "pipeline",
+      "error": "MinerU task failed: parsing failed, please try again later",
+      "fallback": "Validated local PDF, pdftotext -layout and original-page visual checks."
+    }
+  ]
+}

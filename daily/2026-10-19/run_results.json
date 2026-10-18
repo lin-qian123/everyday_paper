@@ -1,0 +1,77 @@
+{
+  "run_date": "2026-10-19",
+  "validated_at": "2026-10-19T07:05:26+08:00",
+  "status": "local_validation_passed",
+  "completed_before": 470,
+  "completed_after": 473,
+  "retry_before": 40,
+  "retry_after": 42,
+  "new_identifiers": [
+    "10.1007/s41365-026-02075-1",
+    "10.48550/arXiv.2610.16257",
+    "10.48550/arXiv.2610.17974"
+  ],
+  "retry_added": [
+    "10.1103/r6hx-gbhj",
+    "10.1103/y9h9-w7pg"
+  ],
+  "retry_rechecked": [
+    "10.1103/qdnr-4g6w"
+  ],
+  "fulltext": {
+    "valid_documents": 3,
+    "publisher_vors": 1,
+    "recent_author_preprints": 2,
+    "pages": 49,
+    "pdf_bytes": 5259781,
+    "layout_text_bytes": 275238,
+    "mineru_pipeline_completed": 2,
+    "mineru_failed_with_validated_local_fallback": 1,
+    "visually_checked_pages": 10,
+    "retained_original_figure_excerpts": 6
+  },
+  "evidence_boundaries": [
+    "Wang is classical trajectory and coherent-field modeling with extreme idealized emittance. Relative spectra and approximately 0.3 fs pulse trains are not experimental source performance or absolute photon yields.",
+    "Eremin is implicit PIC-MCC plus RLM vibrational chemistry; 0.23 and nearly 2 are local negative-ion/electron density ratios, not extracted beam yield, energy efficiency or an equal-power discharge comparison.",
+    "Balestri TCV experiments compare LCFS elongations about 1.5 and 0.95. The lower-kappa reversal is a prediction, and multi-machine heat-flux ratios are simulated with fixed profiles, lacking matched experimental PT in AUG/JET.",
+    "No physical solver, transport, author-data fit or training benchmark was rerun."
+  ],
+  "validation": {
+    "index_builder": "Indexed 473 papers across 9 categories.",
+    "pytest": "PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q: 7 passed in 0.50s",
+    "artifact_audit": {
+      "ledger": 473,
+      "retry": 42,
+      "prior_completed_records_unchanged": true,
+      "prior_retry_records_unchanged_except_verified_recheck": [
+        "10.1103/qdnr-4g6w"
+      ],
+      "unique_nonnull_identifiers": 469,
+      "unique_normalized_titles": 473,
+      "legacy_processed_retry_overlap": [
+        "10.1016/j.jcp.2026.114707"
+      ],
+      "new_pdfs": 3,
+      "pages": 49,
+      "pdf_bytes": 5259781,
+      "layout_text_bytes": 275238,
+      "mineru_successes": 2,
+      "mineru_fallbacks": 1,
+      "visually_checked_pages": 10,
+      "images": 6,
+      "scoped_local_links": 2916,
+      "json_or_jsonl_files": 14,
+      "ignored_pdf_text_artifacts": 8,
+      "note_files": 3
+    },
+    "diff_check": "git diff --check and git diff --cached --check passed",
+    "staging": "44 scoped files; pre-existing AGENTS.md excluded; PDFs/layout/MinerU texts ignored."
+  },
+  "publication": {
+    "branch": "master",
+    "remote": "origin",
+    "target": "refs/heads/master",
+    "parent_commit": "b476530fac151b58cc4e2c1bb91a7c8d29ae51fa",
+    "status": "Commit and push follow this local-validation report; final remote parity is recorded in automation memory and final response."
+  }
+}

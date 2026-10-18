@@ -1,0 +1,211 @@
+[
+  {
+    "query": "Efficacy of analytical pseudopotentials for modeling static and dynamic structure in warm dense matter",
+    "http_status": 200,
+    "top_results": [
+      {
+        "DOI": "10.1103/y9h9-w7pg",
+        "title": [
+          "Efficacy of analytical pseudopotentials for modeling static and dynamic structure in warm dense matter"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.1103/physrevlett.109.225001",
+        "title": [
+          "Dynamic Ion Structure Factor of Warm Dense Matter"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2012,
+              11,
+              28
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.1063/5.0265635",
+        "title": [
+          "Investigation of warm dense matter by combining static and dynamic compression"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              1
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "query": "Diamond survival in hydrocarbon fluids under warm dense matter conditions from first principles and machine-learned molecular dynamics",
+    "http_status": 200,
+    "top_results": [
+      {
+        "DOI": "10.1103/r6hx-gbhj",
+        "title": [
+          "Diamond survival in hydrocarbon fluids under warm dense matter conditions from first principles and machine-learned molecular dynamics"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              13
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.1016/j.hedp.2014.07.002",
+        "title": [
+          "Warm dense matter through classical molecular dynamics"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2014,
+              12
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.2172/2540421",
+        "title": [
+          "First-principles electron-electron scatteringsimulations in warm dense matter"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              1
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "query": "Implicit PIC Simulations of Hydrogen Plasmas with Intense Negative Ion Production",
+    "http_status": 200,
+    "top_results": [
+      {
+        "DOI": "10.1063/1.1941690",
+        "title": [
+          "Hydrogen Plasmas for Negative Ion Production"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2005
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.1109/27.887769",
+        "title": [
+          "Modeling of negative ion production in hydrogen plasmas"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2000,
+              6
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.1017/s0263034600002408",
+        "title": [
+          "Intense negative hydrogen ion production in high-power diodes"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1991,
+              3
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "arxiv_title_query": "Efficacy of analytical pseudopotentials for modeling static and dynamic structure in warm dense matter",
+    "http_status": 200,
+    "records": []
+  },
+  {
+    "arxiv_title_query": "Diamond survival in hydrocarbon fluids under warm dense matter conditions from first principles and machine-learned molecular dynamics",
+    "http_status": 200,
+    "records": []
+  },
+  {
+    "query": "Validation of geometric proxies using negative and positive triangularity plasmas with varying elongation on TCV and multi-machine gyrokinetic simulations",
+    "http_status": 200,
+    "top_results": [
+      {
+        "DOI": "10.1088/1361-6587/ad4674",
+        "title": [
+          "Experiments and gyrokinetic simulations of TCV plasmas with negative triangularity in view of DTT operations"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              5,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.1063/1.5115390",
+        "title": [
+          "Turbulent transport in TCV plasmas with positive and negative triangularity"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              10,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.1088/1361-6587/abe39d",
+        "title": [
+          "Nonlocal effects in negative triangularity TCV plasmas"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2021,
+              3,
+              4
+            ]
+          ]
+        }
+      }
+    ]
+  }
+]

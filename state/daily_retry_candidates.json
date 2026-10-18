@@ -793,15 +793,65 @@
     "stdout": "",
     "output_pdf": "daily/2026-10-17/pdfs/McManus et al. - 2026 - Phase locked LWFA density profiles.pdf",
     "attempted_at": "2026-10-17T07:07:07+08:00",
+    "last_retry_at": "2026-10-19T07:04:04+08:00",
+    "retry_count": 1,
+    "last_failure_class": "publisher_http_404",
+    "source_family": "aps",
+    "failure_count": 2,
+    "download_reports": [
+      "daily/2026-10-17/pdfs/download-reports/mcmanus-phase.json",
+      "daily/2026-10-17/pdfs/download-reports/mcmanus-phase-journal.json",
+      "daily/2026-10-19/pdfs/download-reports/retry-mcmanus.json"
+    ],
+    "author_manuscript_search": "Official arXiv McManus+wakefield/density query and exact-title search did not identify a matching accessible author manuscript. No abstract-only note.",
+    "latest_retry_result": "2026-10-19: APS harvest fulltext returned HTTP 404 in both env-proxy and direct modes; no full text obtained. Previous title/version search remains historical."
+  },
+  {
+    "doi": "10.1103/r6hx-gbhj",
+    "title": "Diamond survival in hydrocarbon fluids under warm dense matter conditions from first principles and machine-learned molecular dynamics",
+    "source_url": "https://journals.aps.org/prb/abstract/10.1103/r6hx-gbhj",
+    "publication_date": "2026-10-13",
+    "journal": "Physical Review B (formal VOR; subscription required)",
+    "topic": "Warm dense matter / DFT and machine-learned MD",
+    "run_date": "2026-10-19",
+    "status": "download_failed",
+    "attempt_cmd": "python scripts/safe_pdf_download.py --url https://harvest.aps.org/v2/journals/articles/10.1103/r6hx-gbhj/fulltext --output 'daily/2026-10-19/pdfs/Ghosh et al. - 2026 - Diamond survival in warm dense hydrocarbons.pdf' --report-json daily/2026-10-19/pdfs/download-reports/ghosh-diamond.json",
+    "stderr": "APS harvest returned HTTP 401 in proxy and direct modes. Official article page says Authorization Required and CHORUS accepted manuscript will be available starting 2027-10-13. Bounded exact-title arXiv query returned no entries; targeted arXiv/OSTI/SLAC web query found no lawful matching author manuscript. No fulltext or abstract-only note.",
+    "stdout": "",
+    "output_pdf": "daily/2026-10-19/pdfs/Ghosh et al. - 2026 - Diamond survival in warm dense hydrocarbons.pdf",
+    "attempted_at": "2026-10-19T07:04:04+08:00",
     "last_retry_at": null,
     "retry_count": 0,
-    "last_failure_class": "publisher_http_403_or_404",
+    "last_failure_class": "publisher_authorization_required",
     "source_family": "aps",
     "failure_count": 1,
     "download_reports": [
-      "daily/2026-10-17/pdfs/download-reports/mcmanus-phase.json",
-      "daily/2026-10-17/pdfs/download-reports/mcmanus-phase-journal.json"
+      "daily/2026-10-19/pdfs/download-reports/ghosh-diamond.json"
     ],
-    "author_manuscript_search": "Official arXiv McManus+wakefield/density query and exact-title search did not identify a matching accessible author manuscript. No abstract-only note."
+    "publisher_manuscript_available_from": "2027-10-13",
+    "retry_guidance": "Do not repeat subscription-only endpoint probes daily; revisit on a lawful new author source or manuscript release."
+  },
+  {
+    "doi": "10.1103/y9h9-w7pg",
+    "title": "Efficacy of analytical pseudopotentials for modeling static and dynamic structure in warm dense matter",
+    "source_url": "https://journals.aps.org/prb/accepted/10.1103/y9h9-w7pg",
+    "publication_date": "2026-10-15",
+    "journal": "Physical Review B (accepted 2026-10-15; no verified VOR)",
+    "topic": "Warm dense matter / analytical pseudopotentials / ion dynamics",
+    "run_date": "2026-10-19",
+    "status": "download_failed",
+    "attempt_cmd": "python scripts/safe_pdf_download.py --url https://harvest.aps.org/v2/journals/articles/10.1103/y9h9-w7pg/fulltext --output 'daily/2026-10-19/pdfs/Rajai and Bhatt - 2026 - Warm dense matter analytical pseudopotentials.pdf' --report-json daily/2026-10-19/pdfs/download-reports/rajai-pseudo.json",
+    "stderr": "Official APS accepted page confirms acceptance on 2026-10-15, not VOR publication. APS harvest returned HTTP 404 in proxy and direct modes. Bounded exact-title arXiv query returned no entries and web exact-title search did not locate a matching lawful author manuscript. No fulltext or abstract-only note.",
+    "stdout": "",
+    "output_pdf": "daily/2026-10-19/pdfs/Rajai and Bhatt - 2026 - Warm dense matter analytical pseudopotentials.pdf",
+    "attempted_at": "2026-10-19T07:04:04+08:00",
+    "last_retry_at": null,
+    "retry_count": 0,
+    "last_failure_class": "publisher_http_404",
+    "source_family": "aps",
+    "failure_count": 1,
+    "download_reports": [
+      "daily/2026-10-19/pdfs/download-reports/rajai-pseudo.json"
+    ]
   }
 ]

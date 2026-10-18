@@ -2,11 +2,13 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：198 篇
-- 索引更新时间：2026-10-18
+- 当前收录：200 篇
+- 索引更新时间：2026-10-19
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-19 | [Validation of geometric proxies using negative and positive triangularity plasmas with varying elongation on TCV and multi-machine gyrokinetic simulations](../papers/arxiv-2610-17974/README.md) | arXiv preprint | [笔记](../daily/2026-10-19/notes/Balestri et al. - 2026 - Geometric proxies for negative triangularity.md) |
+| 2026-10-19 | [Implicit PIC Simulations of Hydrogen Plasmas with Intense Negative Ion Production](../papers/arxiv-2610-16257/README.md) | arXiv preprint | [笔记](../daily/2026-10-19/notes/Eremin - 2026 - Implicit PIC hydrogen negative ions.md) |
 | 2026-10-18 | [Hybrid adaptive RSM-GA Monte Carlo optimization method (HRG-MCO) and its application in the design of moderator–collimator systems for accelerator-based thermal neutron radiography](../papers/10-1007-s41365-026-02068-0/README.md) | Nuclear Science and Techniques | [笔记](../daily/2026-10-18/notes/Yang et al. - 2026 - Adaptive neutron moderator collimator optimization.md) |
 | 2026-10-18 | [Aluminum wide-range EOS sensitivity in Z-pinch dynamic-hohlraum liner-foam impact and outgoing radiation](../papers/arxiv-2610-21107/README.md) | arXiv preprint | [笔记](../daily/2026-10-18/notes/Wang et al. - 2026 - Aluminum EOS dynamic hohlraum sensitivity.md) |
 | 2026-10-18 | [The importance of tensor handling and implementation of physics-informed DeepONets](../papers/arxiv-2610-22157/README.md) | arXiv preprint | [笔记](../daily/2026-10-18/notes/Banks et al. - 2026 - Efficient physics informed DeepONet tensors.md) |

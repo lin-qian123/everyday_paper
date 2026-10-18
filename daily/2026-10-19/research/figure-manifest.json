@@ -1,0 +1,104 @@
+[
+  {
+    "key": "wang-thomson",
+    "source_pdf": "daily/2026-10-19/pdfs/Wang et al. - 2026 - Mode locked coherent Thomson radiation.pdf",
+    "source_pdf_sha256": "6d7a7815ba317edf24a185906e1272376c87e4ee717bfe3ed1bb1e0711c48f81",
+    "source_url": "https://link.springer.com/content/pdf/10.1007/s41365-026-02075-1.pdf",
+    "page_1based": 7,
+    "figure": "Fig. 5",
+    "crop_points": [
+      48,
+      53,
+      292,
+      445
+    ],
+    "image_path": "daily/2026-10-19/images/wang-thomson-pulse-spectrum.png",
+    "sha256": "eebb0c043c71c6c97b1398f064021205cb57b1c012f17e5a04b11d5f6f54b0a7",
+    "purpose": "Original figure excerpt supporting Chinese scientific commentary; no author data reconstructed."
+  },
+  {
+    "key": "wang-thomson",
+    "source_pdf": "daily/2026-10-19/pdfs/Wang et al. - 2026 - Mode locked coherent Thomson radiation.pdf",
+    "source_pdf_sha256": "6d7a7815ba317edf24a185906e1272376c87e4ee717bfe3ed1bb1e0711c48f81",
+    "source_url": "https://link.springer.com/content/pdf/10.1007/s41365-026-02075-1.pdf",
+    "page_1based": 7,
+    "figure": "Fig. 6",
+    "crop_points": [
+      304,
+      53,
+      547,
+      291
+    ],
+    "image_path": "daily/2026-10-19/images/wang-thomson-seed-combs.png",
+    "sha256": "de365d5819daf94b6cae2c8fce564c456e6c6dec746ab0fc7d933270abe68dd2",
+    "purpose": "Original figure excerpt supporting Chinese scientific commentary; no author data reconstructed."
+  },
+  {
+    "key": "eremin-implicit",
+    "source_pdf": "daily/2026-10-19/pdfs/Eremin - 2026 - Implicit PIC hydrogen negative ions.pdf",
+    "source_pdf_sha256": "62cee31fbe1ecb23cd8e73966e4624358d30e5719c8e7da9ab3c4d5bfff37948",
+    "source_url": "https://arxiv.org/pdf/2610.16257v1",
+    "page_1based": 7,
+    "figure": "Figs. 4 and 5",
+    "crop_points": [
+      65,
+      108,
+      565,
+      483
+    ],
+    "image_path": "daily/2026-10-19/images/eremin-ccp-density-temperature.png",
+    "sha256": "bc9a3649586d5b5453ac97403a2d9989f0eede222134ae4b7ba14d6aac7be681",
+    "purpose": "Original figure excerpt supporting Chinese scientific commentary; no author data reconstructed."
+  },
+  {
+    "key": "balestri-geometry",
+    "source_pdf": "daily/2026-10-19/pdfs/Balestri et al. - 2026 - Geometric proxies for negative triangularity.pdf",
+    "source_pdf_sha256": "2306c8c126a6bf1d3251ccda8ae16855cd28f8a732b36d9abdb21bca7d8a9a07",
+    "source_url": "https://arxiv.org/pdf/2610.17974v1",
+    "page_1based": 10,
+    "figure": "Fig. 6",
+    "crop_points": [
+      145,
+      225,
+      535,
+      478
+    ],
+    "image_path": "daily/2026-10-19/images/balestri-nonlinear-elongation.png",
+    "sha256": "7ab29cdfc56646013309576863a0ae6521d3ac48f27144add9f4f52998edad48",
+    "purpose": "Original figure excerpt supporting Chinese scientific commentary; no author data reconstructed."
+  },
+  {
+    "key": "balestri-geometry",
+    "source_pdf": "daily/2026-10-19/pdfs/Balestri et al. - 2026 - Geometric proxies for negative triangularity.pdf",
+    "source_pdf_sha256": "2306c8c126a6bf1d3251ccda8ae16855cd28f8a732b36d9abdb21bca7d8a9a07",
+    "source_url": "https://arxiv.org/pdf/2610.17974v1",
+    "page_1based": 13,
+    "figure": "Fig. 11",
+    "crop_points": [
+      124,
+      148,
+      555,
+      454
+    ],
+    "image_path": "daily/2026-10-19/images/balestri-tcv-experiment.png",
+    "sha256": "28521b946b1ce5022a7ea5a98b8d240b6914f9c1afc72c369922b66a516d85ad",
+    "purpose": "Original figure excerpt supporting Chinese scientific commentary; no author data reconstructed."
+  },
+  {
+    "key": "balestri-geometry",
+    "source_pdf": "daily/2026-10-19/pdfs/Balestri et al. - 2026 - Geometric proxies for negative triangularity.pdf",
+    "source_pdf_sha256": "2306c8c126a6bf1d3251ccda8ae16855cd28f8a732b36d9abdb21bca7d8a9a07",
+    "source_url": "https://arxiv.org/pdf/2610.17974v1",
+    "page_1based": 23,
+    "figure": "Fig. 23",
+    "crop_points": [
+      120,
+      125,
+      557,
+      672
+    ],
+    "image_path": "daily/2026-10-19/images/balestri-coefficient-swap.png",
+    "sha256": "0265398920e602bf3c895eeb0245891e9cc08369a16da99c10fe99f939f7012d",
+    "purpose": "Original figure excerpt supporting Chinese scientific commentary; no author data reconstructed."
+  }
+]

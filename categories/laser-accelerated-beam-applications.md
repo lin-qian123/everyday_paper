@@ -2,11 +2,12 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：113 篇
-- 索引更新时间：2026-10-18
+- 当前收录：114 篇
+- 索引更新时间：2026-10-19
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-19 | [Generation of mode-locked EUV and soft X-ray radiation via coherent Thomson scattering from a density-modulated electron bunch](../papers/10-1007-s41365-026-02075-1/README.md) | Nuclear Science and Techniques 37, 250 | [笔记](../daily/2026-10-19/notes/Wang et al. - 2026 - Mode locked coherent Thomson radiation.md) |
 | 2026-10-18 | [Hybrid adaptive RSM-GA Monte Carlo optimization method (HRG-MCO) and its application in the design of moderator–collimator systems for accelerator-based thermal neutron radiography](../papers/10-1007-s41365-026-02068-0/README.md) | Nuclear Science and Techniques | [笔记](../daily/2026-10-18/notes/Yang et al. - 2026 - Adaptive neutron moderator collimator optimization.md) |
 | 2026-10-17 | [Fast Monte Carlo calculation of multiple scattering in resonant neutron capture](../papers/arxiv-2610-20435/README.md) | arXiv preprint | [笔记](../daily/2026-10-17/notes/Djilkibaev - 2026 - Fast neutron multiple scattering Monte Carlo.md) |
 | 2026-10-16 | [Path-integrated electrostatic energization in laser-driven collisionless cylindrical convergence](../papers/10-1103-8jqr-lcb3/README.md) | Physical Review E | [笔记](../daily/2026-10-16/notes/Pan et al. - 2026 - Electrostatic energization in cylindrical convergence.md) |
