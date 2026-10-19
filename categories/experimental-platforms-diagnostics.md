@@ -2,11 +2,13 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：153 篇
-- 索引更新时间：2026-10-19
+- 当前收录：155 篇
+- 索引更新时间：2026-10-20
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-20 | [High average flux positron sources driven by a mJ-class laser](../papers/arxiv-2610-23243/README.md) | arXiv preprint | [笔记](../daily/2026-10-20/notes/Foster et al. - 2026 - mJ laser positron source.md) |
+| 2026-10-20 | [Measuring electron density and electromagnetic fields in low-density laser-driven plasmas using proton radiography](../papers/arxiv-2610-22605/README.md) | arXiv preprint | [笔记](../daily/2026-10-20/notes/Chu et al. - 2026 - Proton radiography electron density.md) |
 | 2026-10-19 | [Generation of mode-locked EUV and soft X-ray radiation via coherent Thomson scattering from a density-modulated electron bunch](../papers/10-1007-s41365-026-02075-1/README.md) | Nuclear Science and Techniques 37, 250 | [笔记](../daily/2026-10-19/notes/Wang et al. - 2026 - Mode locked coherent Thomson radiation.md) |
 | 2026-10-18 | [Hybrid adaptive RSM-GA Monte Carlo optimization method (HRG-MCO) and its application in the design of moderator–collimator systems for accelerator-based thermal neutron radiography](../papers/10-1007-s41365-026-02068-0/README.md) | Nuclear Science and Techniques | [笔记](../daily/2026-10-18/notes/Yang et al. - 2026 - Adaptive neutron moderator collimator optimization.md) |
 | 2026-10-18 | [First observation of dispersive shock waves in an electron beam](../papers/10-1103-2hhy-jfcd/README.md) | Physical Review Accelerators and Beams (accepted paper) | [笔记](../daily/2026-10-18/notes/McCright et al. - 2026 - Electron beam dispersive shock waves.md) |

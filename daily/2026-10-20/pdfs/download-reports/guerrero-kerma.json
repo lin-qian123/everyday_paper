@@ -1,0 +1,9 @@
+{
+  "ok": false,
+  "output": "daily/2026-10-20/pdfs/Guerrero et al. - 2026 - Monte Carlo air kerma strength.pdf",
+  "attempts": [
+    "[env-proxy] https://www.mdpi.com/2673-592X/6/4/41/pdf -> HTTP 403",
+    "[direct] https://www.mdpi.com/2673-592X/6/4/41/pdf -> HTTP 403"
+  ],
+  "failure_class": "publisher_http_403"
+}

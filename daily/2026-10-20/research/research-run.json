@@ -1,0 +1,94 @@
+{
+  "run_date": "2026-10-20",
+  "searched_at": "2026-10-20T07:07:35.142828+08:00",
+  "web_search": {
+    "queries": [
+      "laser plasma gamma photonuclear neutron October 2026",
+      "strong field QED PIC October 2026 new paper"
+    ],
+    "role": "Broad discovery only; selected identities verified against official pages/APIs/PDFs."
+  },
+  "crossref": {
+    "endpoint": "https://api.crossref.org/works",
+    "window": "2026-10-19 to 2026-10-20 inclusive",
+    "sort": "published descending",
+    "rows_per_query_cap": 75,
+    "queries": [
+      "laser plasma acceleration",
+      "strong field QED gamma",
+      "high energy density plasma",
+      "particle in cell plasma machine learning",
+      "laser electron bremsstrahlung converter",
+      "laser neutron photonuclear isotope",
+      "proton ion beam radiation therapy",
+      "neutron nuclear diagnostic",
+      "laser target design efficiency",
+      "plasma machine learning surrogate"
+    ],
+    "returned_rows": 742,
+    "unique_dois": 548,
+    "initial_http_429_query": "strong field QED gamma",
+    "sequential_retry": "Recovered once with 75 rows; initial failed response contributes zero rows.",
+    "coverage_limit": "Each query capped; not exhaustive and relevance affected by broad terms."
+  },
+  "arxiv": {
+    "endpoint": "https://export.arxiv.org/api/query",
+    "categories": [
+      "physics.plasm-ph",
+      "physics.acc-ph",
+      "physics.comp-ph",
+      "nucl-ex",
+      "physics.ins-det"
+    ],
+    "max_results": 300,
+    "sort": "submittedDate descending",
+    "returned": 300,
+    "latest_visible_submission": "2026-10-16T17:57:39Z"
+  },
+  "version_checks": "version-checks.json",
+  "dedup": {
+    "baseline_completed": 473,
+    "baseline_retry": 42,
+    "methods": [
+      "case-insensitive non-null DOI",
+      "arXiv identifier/version aliases",
+      "normalized title",
+      "title similarity against full completed ledger",
+      "authors, abstract and physical-scenario comparison"
+    ],
+    "scenario_review": [
+      "Foster positron experiment is not existing high-average-flux neutron source (10.1038/s41467-025-66535-9), despite that work ranking first in Crossref title search. Also distinct from crystal-converter design arXiv 2609.40005.",
+      "Chu diagnoses density from collisional caustic smoothing in OMEGA turbulent-dynamo data; not existing coil-field radiography arXiv 2607.06946.",
+      "Jess ten-moment closure study is distinct from Burles neural-operator Landau closure arXiv 2607.29364 and Luo ICF heat-flux closure 10.1103/9l4n-mnz6.",
+      "New arXiv 2610.23431 title matches already ingested formal DOI 10.1103/8jqr-lcb3; not added."
+    ]
+  },
+  "selection": {
+    "ingested": [
+      "10.3390/radiation6040041",
+      "10.48550/arXiv.2610.23243",
+      "10.48550/arXiv.2610.22605",
+      "10.48550/arXiv.2610.23080"
+    ],
+    "retry_added": [],
+    "retry_rechecked": [],
+    "existing_retries": "All 42 preserved unchanged; no fresh availability signal justified repeating known restricted/embargoed sources.",
+    "lower_priority_not_ingested": [
+      {
+        "id": "arXiv:2610.23844",
+        "title": "ModeCast: One-Shot Prediction of Linear MHD Eigenmodes and Growth Rates in Tokamaks",
+        "reason": "Relevant simulated ML surrogate, lower current priority than direct converter/diagnostic fulltexts and kinetic closure evaluation."
+      },
+      {
+        "id": "arXiv:2610.23740",
+        "reason": "Hybrid-Vlasov solar/space turbulence energisation; lower current laser/application priority."
+      },
+      {
+        "id": "10.1103/ycnn-yqbx",
+        "title": "Spontaneous nuclear fusion",
+        "reason": "Room-temperature deuterated-palladium reaction study; lower relevance to laser/high-energy-density/beam application focus; metadata only, not fulltext reviewed."
+      }
+    ],
+    "coverage_limit": "No new selected strong-field-QED or photonuclear/neutron/isotope end-to-end fulltext experiment. Positron converter experiment is directly relevant but does not measure those other channels."
+  }
+}

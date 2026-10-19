@@ -2,11 +2,13 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：200 篇
-- 索引更新时间：2026-10-19
+- 当前收录：202 篇
+- 索引更新时间：2026-10-20
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-20 | [On the Monte Carlo Calculation of the Air-Kerma Strength for Brachytherapy Sources](../papers/10-3390-radiation6040041/README.md) | Radiation 6(4), 41 | [笔记](../daily/2026-10-20/notes/Guerrero et al. - 2026 - Monte Carlo air kerma strength.md) |
+| 2026-10-20 | [Properties and challenges of machine learning closures for ten-moment fluid models in the case of Landau damping](../papers/arxiv-2610-23080/README.md) | arXiv preprint | [笔记](../daily/2026-10-20/notes/Jess et al. - 2026 - Machine learning ten moment closures.md) |
 | 2026-10-19 | [Validation of geometric proxies using negative and positive triangularity plasmas with varying elongation on TCV and multi-machine gyrokinetic simulations](../papers/arxiv-2610-17974/README.md) | arXiv preprint | [笔记](../daily/2026-10-19/notes/Balestri et al. - 2026 - Geometric proxies for negative triangularity.md) |
 | 2026-10-19 | [Implicit PIC Simulations of Hydrogen Plasmas with Intense Negative Ion Production](../papers/arxiv-2610-16257/README.md) | arXiv preprint | [笔记](../daily/2026-10-19/notes/Eremin - 2026 - Implicit PIC hydrogen negative ions.md) |
 | 2026-10-18 | [Hybrid adaptive RSM-GA Monte Carlo optimization method (HRG-MCO) and its application in the design of moderator–collimator systems for accelerator-based thermal neutron radiography](../papers/10-1007-s41365-026-02068-0/README.md) | Nuclear Science and Techniques | [笔记](../daily/2026-10-18/notes/Yang et al. - 2026 - Adaptive neutron moderator collimator optimization.md) |

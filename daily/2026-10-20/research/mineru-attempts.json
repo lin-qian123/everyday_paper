@@ -1,0 +1,50 @@
+[
+  {
+    "key": "guerrero-kerma",
+    "source": "https://mdpi-res.com/d_attachment/radiation/radiation-06-00041/article_deploy/radiation-06-00041.pdf",
+    "task_id": "c0888c4a-e238-4f99-8199-033e00bdff4c",
+    "state": "done",
+    "ok": true,
+    "model_version": "pipeline",
+    "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-10-20/c0888c4a-e238-4f99-8199-033e00bdff4c.zip",
+    "retained_text_path": "daily/2026-10-20/pdfs/guerrero-kerma-mineru.txt",
+    "text_bytes": 81350,
+    "sha256": "8e19b31a673abe91deb82bd681455dabdffa14d5fee7dcfb25936567e7806931"
+  },
+  {
+    "key": "foster-positron",
+    "source": "https://arxiv.org/pdf/2610.23243v1",
+    "task_id": "3e28b94e-098b-492f-9d66-4807fbd08a72",
+    "state": "done",
+    "ok": true,
+    "model_version": "pipeline",
+    "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-10-20/3e28b94e-098b-492f-9d66-4807fbd08a72.zip",
+    "retained_text_path": "daily/2026-10-20/pdfs/foster-positron-mineru.txt",
+    "text_bytes": 37713,
+    "sha256": "48c3dab39c7bfd015dec838bd4e196e1163539f4e1d23214f9f566ad3882031d"
+  },
+  {
+    "key": "chu-radiography",
+    "source": "https://arxiv.org/pdf/2610.22605v1",
+    "task_id": "301ec1c4-dc1d-46e1-9143-d4fe9650f2d2",
+    "state": "done",
+    "ok": true,
+    "model_version": "pipeline",
+    "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-10-20/301ec1c4-dc1d-46e1-9143-d4fe9650f2d2.zip",
+    "retained_text_path": "daily/2026-10-20/pdfs/chu-radiography-mineru.txt",
+    "text_bytes": 62733,
+    "sha256": "5c5eb02d78767d47475ad56474ca29d45fd84fc7412378e53e86bbb40c6d9204"
+  },
+  {
+    "key": "jess-closure",
+    "source": "https://arxiv.org/pdf/2610.23080v1",
+    "task_id": "20f76e2d-08d3-4b37-975a-514d94c75ab1",
+    "state": "done",
+    "ok": true,
+    "model_version": "pipeline",
+    "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-10-20/20f76e2d-08d3-4b37-975a-514d94c75ab1.zip",
+    "retained_text_path": "daily/2026-10-20/pdfs/jess-closure-mineru.txt",
+    "text_bytes": 115965,
+    "sha256": "5a1da2661009a7cfa81bfa33b17ed7f9fd18d26e186c19d652f378cbf173aa49"
+  }
+]

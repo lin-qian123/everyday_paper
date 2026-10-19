@@ -1,10 +1,14 @@
 # 论文总索引
 
-- 当前入库论文：473 篇
-- 索引更新时间：2026-10-19
+- 当前入库论文：477 篇
+- 索引更新时间：2026-10-20
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-10-20 | [On the Monte Carlo Calculation of the Air-Kerma Strength for Brachytherapy Sources](./10-3390-radiation6040041/README.md) | Radiation 6(4), 41 | [10.3390/radiation6040041](https://doi.org/10.3390/radiation6040041) |
+| 2026-10-20 | [High average flux positron sources driven by a mJ-class laser](./arxiv-2610-23243/README.md) | arXiv preprint | [10.48550/arXiv.2610.23243](https://doi.org/10.48550/arXiv.2610.23243) |
+| 2026-10-20 | [Properties and challenges of machine learning closures for ten-moment fluid models in the case of Landau damping](./arxiv-2610-23080/README.md) | arXiv preprint | [10.48550/arXiv.2610.23080](https://doi.org/10.48550/arXiv.2610.23080) |
+| 2026-10-20 | [Measuring electron density and electromagnetic fields in low-density laser-driven plasmas using proton radiography](./arxiv-2610-22605/README.md) | arXiv preprint | [10.48550/arXiv.2610.22605](https://doi.org/10.48550/arXiv.2610.22605) |
 | 2026-10-19 | [Generation of mode-locked EUV and soft X-ray radiation via coherent Thomson scattering from a density-modulated electron bunch](./10-1007-s41365-026-02075-1/README.md) | Nuclear Science and Techniques 37, 250 | [10.1007/s41365-026-02075-1](https://doi.org/10.1007/s41365-026-02075-1) |
 | 2026-10-19 | [Validation of geometric proxies using negative and positive triangularity plasmas with varying elongation on TCV and multi-machine gyrokinetic simulations](./arxiv-2610-17974/README.md) | arXiv preprint | [10.48550/arXiv.2610.17974](https://doi.org/10.48550/arXiv.2610.17974) |
 | 2026-10-19 | [Implicit PIC Simulations of Hydrogen Plasmas with Intense Negative Ion Production](./arxiv-2610-16257/README.md) | arXiv preprint | [10.48550/arXiv.2610.16257](https://doi.org/10.48550/arXiv.2610.16257) |

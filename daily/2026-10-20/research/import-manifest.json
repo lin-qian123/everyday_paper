@@ -1,0 +1,82 @@
+[
+  {
+    "title": "On the Monte Carlo Calculation of the Air-Kerma Strength for Brachytherapy Sources",
+    "doi": "10.3390/radiation6040041",
+    "journal": "Radiation 6(4), 41",
+    "publication_date": "2026-10-19",
+    "source_url": "https://www.mdpi.com/2673-592X/6/4/41",
+    "pdf_url": "https://mdpi-res.com/d_attachment/radiation/radiation-06-00041/article_deploy/radiation-06-00041.pdf",
+    "fulltext_version": "formal VOR",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "pic-and-plasma-simulation"
+    ],
+    "processed_date": "2026-10-20",
+    "pdf_path": "daily/2026-10-20/pdfs/Guerrero et al. - 2026 - Monte Carlo air kerma strength.pdf",
+    "note_path": "daily/2026-10-20/notes/Guerrero et al. - 2026 - Monte Carlo air kerma strength.md",
+    "normalized_title": "on the monte carlo calculation of the air kerma strength for brachytherapy sources",
+    "publisher_pdf_url": "https://www.mdpi.com/2673-592X/6/4/41/pdf",
+    "pdf_sha256": "5c7fe2420e28d5b2a0dabbe63524536b946f09e3de16aebb4d2a48fd83f1a7ad"
+  },
+  {
+    "title": "High average flux positron sources driven by a mJ-class laser",
+    "doi": "10.48550/arXiv.2610.23243",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-16",
+    "source_url": "https://arxiv.org/abs/2610.23243",
+    "pdf_url": "https://arxiv.org/pdf/2610.23243v1",
+    "fulltext_version": "official arXiv v1 author preprint",
+    "arxiv_id": "2610.23243",
+    "arxiv_version": "2610.23243v1",
+    "categories": [
+      "laser-plasma-acceleration",
+      "laser-accelerated-beam-applications",
+      "experimental-platforms-diagnostics"
+    ],
+    "processed_date": "2026-10-20",
+    "pdf_path": "daily/2026-10-20/pdfs/Foster et al. - 2026 - mJ laser positron source.pdf",
+    "note_path": "daily/2026-10-20/notes/Foster et al. - 2026 - mJ laser positron source.md",
+    "normalized_title": "high average flux positron sources driven by a mj class laser",
+    "pdf_sha256": "5f6907786fe349f99d335d5c4935bbef0fa2718d40de8db86868161834013c8f"
+  },
+  {
+    "title": "Measuring electron density and electromagnetic fields in low-density laser-driven plasmas using proton radiography",
+    "doi": "10.48550/arXiv.2610.22605",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-15",
+    "source_url": "https://arxiv.org/abs/2610.22605",
+    "pdf_url": "https://arxiv.org/pdf/2610.22605v1",
+    "fulltext_version": "official arXiv v1 author preprint",
+    "arxiv_id": "2610.22605",
+    "arxiv_version": "2610.22605v1",
+    "categories": [
+      "hedp-icf-laboratory-astrophysics",
+      "experimental-platforms-diagnostics"
+    ],
+    "processed_date": "2026-10-20",
+    "pdf_path": "daily/2026-10-20/pdfs/Chu et al. - 2026 - Proton radiography electron density.pdf",
+    "note_path": "daily/2026-10-20/notes/Chu et al. - 2026 - Proton radiography electron density.md",
+    "normalized_title": "measuring electron density and electromagnetic fields in low density laser driven plasmas using proton radiography",
+    "pdf_sha256": "e7e533d453e44c92afb17349e2ce1e2f989f197064344675f3bb5da4f2a0e981"
+  },
+  {
+    "title": "Properties and challenges of machine learning closures for ten-moment fluid models in the case of Landau damping",
+    "doi": "10.48550/arXiv.2610.23080",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-16",
+    "source_url": "https://arxiv.org/abs/2610.23080",
+    "pdf_url": "https://arxiv.org/pdf/2610.23080v1",
+    "fulltext_version": "official arXiv v1 author preprint",
+    "arxiv_id": "2610.23080",
+    "arxiv_version": "2610.23080v1",
+    "categories": [
+      "pic-and-plasma-simulation",
+      "ai-ml-plasma-physics"
+    ],
+    "processed_date": "2026-10-20",
+    "pdf_path": "daily/2026-10-20/pdfs/Jess et al. - 2026 - Machine learning ten moment closures.pdf",
+    "note_path": "daily/2026-10-20/notes/Jess et al. - 2026 - Machine learning ten moment closures.md",
+    "normalized_title": "properties and challenges of machine learning closures for ten moment fluid models in the case of landau damping",
+    "pdf_sha256": "8337036be755e038450a92e7f9d4dd2e1371fce231a960e922deb8f95a65e0a5"
+  }
+]

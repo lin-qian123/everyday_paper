@@ -1,0 +1,74 @@
+{
+  "run_date": "2026-10-20",
+  "validated_at": "2026-10-20T07:11:59.006049+08:00",
+  "status": "local_validation_passed",
+  "completed_before": 473,
+  "completed_after": 477,
+  "retry_before": 42,
+  "retry_after": 42,
+  "new_identifiers": [
+    "10.3390/radiation6040041",
+    "10.48550/arXiv.2610.23243",
+    "10.48550/arXiv.2610.22605",
+    "10.48550/arXiv.2610.23080"
+  ],
+  "retry_added": [],
+  "retry_rechecked": [],
+  "fulltext": {
+    "valid_documents": 4,
+    "publisher_vors": 1,
+    "recent_author_preprints": 3,
+    "pages": 78,
+    "pdf_bytes": 12821360,
+    "layout_text_bytes": 342479,
+    "mineru_pipeline_completed": 4,
+    "mineru_failed_with_validated_local_fallback": 0,
+    "visually_checked_pages": 23,
+    "retained_original_figure_excerpts": 8
+  },
+  "evidence_boundaries": [
+    "Foster detected (1.0 +/- 0.2)e3 positrons in 0.8-1.7MeV after 100 shots at 10Hz; kHz positrons and time-domain performance are conditional projections or estimates, not measurements.",
+    "Chu infers scattering-weighted column density and converts to volume density using geometry/composition; 55-degree correction depends on FLASH, and comparisons differ in timing/volume/weighting.",
+    "Jess is fixed-wavenumber 1D1V offline-trained closure evaluation; offline accuracy does not certify coupled long-time stability, and entropy is a case-supported diagnostic, not an error bound.",
+    "Guerrero is Co/Ir source PENELOPE MC metrology, with k=3 type-A uncertainties; single-factor sub-percent deviations and order-1-percent combined estimates do not establish clinical or laser-source performance.",
+    "No author physical solver, transport, data fit or training benchmark was rerun."
+  ],
+  "validation": {
+    "index_builder": "Indexed 477 papers across 9 categories.",
+    "pytest": "PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q: 7 passed in 14.75s",
+    "artifact_audit": {
+      "ledger": 477,
+      "retry": 42,
+      "prior_completed_records_unchanged": true,
+      "prior_retry_records_unchanged": true,
+      "unique_nonnull_identifiers": 473,
+      "unique_normalized_titles": 477,
+      "legacy_processed_retry_overlap": [
+        "10.1016/j.jcp.2026.114707"
+      ],
+      "new_pdfs": 4,
+      "pages": 78,
+      "pdf_bytes": 12821360,
+      "layout_text_bytes": 342479,
+      "mineru_successes": 4,
+      "mineru_fallbacks": 0,
+      "visually_checked_pages": 23,
+      "images": 8,
+      "scoped_markdown_files": 24,
+      "scoped_local_links": 2949,
+      "json_or_jsonl_files": 15,
+      "ignored_pdf_text_artifacts": 12,
+      "note_files": 4,
+      "preexisting_agents_preserved": true
+    },
+    "diff_check": "git diff --check and git diff --cached --check passed",
+    "staging": "46 scoped files; pre-existing AGENTS.md excluded; 12 PDF/layout/MinerU text artifacts ignored."
+  },
+  "publication": {
+    "branch": "master",
+    "remote": "origin",
+    "target": "refs/heads/master",
+    "parent_commit": "5fe463644b34d02a8eea1447f9c6924ee02be528",
+    "status": "Commit and push follow this local-validation report; final remote parity is recorded in automation memory and final response."
+  }
+}

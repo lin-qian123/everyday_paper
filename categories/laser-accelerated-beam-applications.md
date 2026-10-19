@@ -2,11 +2,13 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：114 篇
-- 索引更新时间：2026-10-19
+- 当前收录：116 篇
+- 索引更新时间：2026-10-20
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-20 | [On the Monte Carlo Calculation of the Air-Kerma Strength for Brachytherapy Sources](../papers/10-3390-radiation6040041/README.md) | Radiation 6(4), 41 | [笔记](../daily/2026-10-20/notes/Guerrero et al. - 2026 - Monte Carlo air kerma strength.md) |
+| 2026-10-20 | [High average flux positron sources driven by a mJ-class laser](../papers/arxiv-2610-23243/README.md) | arXiv preprint | [笔记](../daily/2026-10-20/notes/Foster et al. - 2026 - mJ laser positron source.md) |
 | 2026-10-19 | [Generation of mode-locked EUV and soft X-ray radiation via coherent Thomson scattering from a density-modulated electron bunch](../papers/10-1007-s41365-026-02075-1/README.md) | Nuclear Science and Techniques 37, 250 | [笔记](../daily/2026-10-19/notes/Wang et al. - 2026 - Mode locked coherent Thomson radiation.md) |
 | 2026-10-18 | [Hybrid adaptive RSM-GA Monte Carlo optimization method (HRG-MCO) and its application in the design of moderator–collimator systems for accelerator-based thermal neutron radiography](../papers/10-1007-s41365-026-02068-0/README.md) | Nuclear Science and Techniques | [笔记](../daily/2026-10-18/notes/Yang et al. - 2026 - Adaptive neutron moderator collimator optimization.md) |
 | 2026-10-17 | [Fast Monte Carlo calculation of multiple scattering in resonant neutron capture](../papers/arxiv-2610-20435/README.md) | arXiv preprint | [笔记](../daily/2026-10-17/notes/Djilkibaev - 2026 - Fast neutron multiple scattering Monte Carlo.md) |

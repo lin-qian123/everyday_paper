@@ -1,0 +1,263 @@
+[
+  {
+    "arxiv_id": "2610.23243",
+    "query_title": "High average flux positron sources driven by a mJ-class laser",
+    "candidates": [
+      {
+        "doi": "10.1038/s41467-025-66535-9",
+        "title": [
+          "High average-flux laser-driven neutron source"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              20
+            ]
+          ]
+        },
+        "authors": [
+          "Simon Vallières",
+          "François Fillion-Gourdeau",
+          "Sylvain Fourmaux",
+          "Benjamin Poupart-Raîche",
+          "Nils Dietrich",
+          "Nicholas F. Beier",
+          "Ronan Lelièvre",
+          "Elias Catrix",
+          "Joël Maltais",
+          "Amina E. Hussein",
+          "Patrizio Antici",
+          "François Légaré",
+          "Steve MacLean"
+        ]
+      },
+      {
+        "doi": "10.1364/assl.2024.ath2a.1",
+        "title": [
+          "High Average Power Laser-Driven THz Sources"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2024
+            ]
+          ]
+        },
+        "authors": [
+          "Clara Saraceno"
+        ]
+      },
+      {
+        "doi": "10.1063/5.0288917",
+        "title": [
+          "Laser-driven few-cycle terahertz sources with high average power"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              12,
+              1
+            ]
+          ]
+        },
+        "authors": [
+          "Robin Löscher",
+          "Tim Vogel",
+          "Samira Mansourzadeh",
+          "Mohsen Khalili",
+          "Alan Omar",
+          "Yicheng Wang",
+          "Martin Hoffmann",
+          "Clara J. Saraceno"
+        ]
+      }
+    ],
+    "conclusion": "No exact matching title among the top three Crossref candidates; no matching formal version verified in this bounded check."
+  },
+  {
+    "arxiv_id": "2610.22605",
+    "query_title": "Measuring electron density and electromagnetic fields in low-density laser-driven plasmas using proton radiography",
+    "candidates": [
+      {
+        "doi": "10.1063/1.3096781",
+        "title": [
+          "Proton radiography of dynamic electric and magnetic fields in laser-produced high-energy-density plasmas"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2009,
+              3,
+              24
+            ]
+          ]
+        },
+        "authors": [
+          "C. K. Li",
+          "F. H. Séguin",
+          "J. A. Frenje",
+          "M. Manuel",
+          "D. Casey",
+          "N. Sinenian",
+          "R. D. Petrasso",
+          "P. A. Amendt",
+          "O. L. Landen",
+          "J. R. Rygg",
+          "R. P. J. Town",
+          "R. Betti",
+          "J. Delettrez",
+          "J. P. Knauer",
+          "F. Marshall",
+          "D. D. Meyerhofer",
+          "T. C. Sangster",
+          "D. Shvarts",
+          "V. A. Smalyuk",
+          "J. M. Soures",
+          "C. A. Back",
+          "J. D. Kilkenny",
+          "A. Nikroo"
+        ]
+      },
+      {
+        "doi": "10.1063/1.1719375",
+        "title": [
+          "Measurement of Low Electron Density in Plasmas Using Laser Interferometry"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1965,
+              10,
+              1
+            ]
+          ]
+        },
+        "authors": [
+          "Herbert Malamud"
+        ]
+      },
+      {
+        "doi": "10.21203/rs.3.rs-871300/v1",
+        "title": [
+          "Three-dimensional synchronous proton radiography for dynamic magnetic fields in laser-produced high-energy-density plasmas"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2021,
+              11,
+              17
+            ]
+          ]
+        },
+        "authors": [
+          "Zhonghai Zhao",
+          "Shu-Kai He",
+          "H. H. An",
+          "Z. Lei",
+          "Y. Xie",
+          "W. Q. Yuan",
+          "J. L. Jiao",
+          "K. N. Zhou",
+          "J. J. Ye",
+          "Z. Y. Xie",
+          "J. Xiong",
+          "Z. H. Fang",
+          "X. He",
+          "W. Wang",
+          "Weimin Zhou",
+          "Baohan Zhang",
+          "Shaoping Zhu",
+          "B. Qiao"
+        ]
+      }
+    ],
+    "conclusion": "No exact matching title among the top three Crossref candidates; no matching formal version verified in this bounded check."
+  },
+  {
+    "arxiv_id": "2610.23080",
+    "query_title": "Properties and challenges of machine learning closures for ten-moment fluid models in the case of Landau damping",
+    "candidates": [
+      {
+        "doi": "10.1073/pnas.2419073122",
+        "title": [
+          "Machine-learning heat flux closure for multi-moment fluid modeling of nonlinear Landau damping"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              12
+            ]
+          ]
+        },
+        "authors": [
+          "Ziyu Huang",
+          "Chuanfei Dong",
+          "Liang Wang"
+        ]
+      },
+      {
+        "doi": "10.5194/egusphere-egu26-6528",
+        "title": [
+          "Machine-learning-based closures for the 10-moment fluid model"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              13
+            ]
+          ]
+        },
+        "authors": [
+          "Sophia Köhne",
+          "Simon Lautenbach",
+          "Emanuel Jeß",
+          "Rainer Grauer",
+          "Maria Elena Innocenti"
+        ]
+      },
+      {
+        "doi": "10.1063/1.860350",
+        "title": [
+          "Can Landau-fluid models describe nonlinear Landau damping?"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1992,
+              12,
+              1
+            ]
+          ]
+        },
+        "authors": [
+          "Nathan Mattor"
+        ]
+      }
+    ],
+    "conclusion": "No exact matching title among the top three Crossref candidates; no matching formal version verified in this bounded check."
+  },
+  {
+    "arxiv_id": "2610.23080",
+    "related_doi": "10.1073/pnas.2419073122",
+    "conclusion": "PNAS 2025 paper has different title and authors (Huang, Dong, Wang); it is related prior work, not the formal version of Jess et al."
+  },
+  {
+    "doi": "10.3390/radiation6040041",
+    "status": "formal VOR",
+    "publication_date": "2026-10-19",
+    "evidence": [
+      "Crossref journal-article/published-online and VOR CC-BY license",
+      "Publisher-typeset PDF title, authors, DOI and article date checked"
+    ],
+    "publisher_pdf_route": "403 via env-proxy and direct",
+    "official_public_cdn": "Validated PDF downloaded; no pending missing-fulltext retry."
+  }
+]

@@ -1,0 +1,130 @@
+{
+  "run_date": "2026-10-20",
+  "figures": [
+    {
+      "path": "daily/2026-10-20/images/guerrero-fig2-emission-spectra.png",
+      "page": 6,
+      "crop_bbox_pdf_points": [
+        158,
+        442,
+        505,
+        642
+      ],
+      "caption": "原文图2：Co与Ir光子发射线谱；E (keV)、I (%)均对数刻度，I为每衰变线强度，非探测谱。",
+      "sha256": "71bf5966a96ddc0aaa5c427aa11a11a5c496ba69d82eab4c5fe6c13e68a05277",
+      "source_pdf": "daily/2026-10-20/pdfs/Guerrero et al. - 2026 - Monte Carlo air kerma strength.pdf",
+      "source_doi": "10.3390/radiation6040041",
+      "license": "CC BY",
+      "attribution": "Rafael Guerrero, Julio F. Almansa and Antonio M. Lallena, Radiation 2026, 6, 41; original figure crop, no data modification.",
+      "source_identifier": "10.3390/radiation6040041"
+    },
+    {
+      "path": "daily/2026-10-20/images/guerrero-fig4-cumulative-kerma.png",
+      "page": 12,
+      "crop_bbox_pdf_points": [
+        157,
+        64,
+        435,
+        255
+      ],
+      "caption": "原文图4：累计空气kerma率（左轴 U GBq^-1 m^-2）及质量系数相对差kappa_mu（右轴对数、无量纲）。",
+      "sha256": "5def978183228c043db454998dc952c2d36dcc320c4cef4a5544513a7dc99283",
+      "source_pdf": "daily/2026-10-20/pdfs/Guerrero et al. - 2026 - Monte Carlo air kerma strength.pdf",
+      "source_doi": "10.3390/radiation6040041",
+      "license": "CC BY",
+      "attribution": "Rafael Guerrero, Julio F. Almansa and Antonio M. Lallena, Radiation 2026, 6, 41; original figure crop, no data modification.",
+      "source_identifier": "10.3390/radiation6040041"
+    },
+    {
+      "path": "daily/2026-10-20/images/foster-setup.png",
+      "page": 4,
+      "crop_bbox_pdf_points": [
+        70,
+        65,
+        542,
+        525
+      ],
+      "caption": "原文Fig.1：电子束表征与转换靶正电子测量的两种配置。",
+      "sha256": "c62f837457a271731f731becb65555ee72aca06b819a572459df1e4ad599a885",
+      "source_pdf": "daily/2026-10-20/pdfs/Foster et al. - 2026 - mJ laser positron source.pdf",
+      "source_identifier": "10.48550/arXiv.2610.23243",
+      "attribution": "High average flux positron sources driven by a mJ-class laser; original figure excerpt, no data modification."
+    },
+    {
+      "path": "daily/2026-10-20/images/foster-spectra.png",
+      "page": 9,
+      "crop_bbox_pdf_points": [
+        70,
+        68,
+        542,
+        228
+      ],
+      "caption": "原文Fig.4：散射电子及有/无四极透镜的正电子谱。",
+      "sha256": "c803d10a6cb08d65b24b5aa1db158d21e7e9ad803041859ebe85fea8bda36e83",
+      "source_pdf": "daily/2026-10-20/pdfs/Foster et al. - 2026 - mJ laser positron source.pdf",
+      "source_identifier": "10.48550/arXiv.2610.23243",
+      "attribution": "High average flux positron sources driven by a mJ-class laser; original figure excerpt, no data modification."
+    },
+    {
+      "path": "daily/2026-10-20/images/chu-fig6-density-inference.png",
+      "page": 8,
+      "crop_bbox_pdf_points": [
+        315,
+        51,
+        565,
+        338
+      ],
+      "caption": "原图6：30.2 ns双能PRAD参考、ROI、左右半区功率谱与碰撞展宽拟合",
+      "sha256": "10d53425c4e6ca4cbd392075e9cb643d8ff0a2c9fbe1cff17b5a0634a8f9872c",
+      "source_pdf": "daily/2026-10-20/pdfs/Chu et al. - 2026 - Proton radiography electron density.pdf",
+      "source_identifier": "10.48550/arXiv.2610.22605",
+      "attribution": "Measuring electron density and electromagnetic fields in low-density laser-driven plasmas using proton radiography; original figure excerpt, no data modification."
+    },
+    {
+      "path": "daily/2026-10-20/images/chu-fig7-density-validation.png",
+      "page": 9,
+      "crop_bbox_pdf_points": [
+        315,
+        48,
+        565,
+        248
+      ],
+      "caption": "原图7：PRAD密度反演与Thomson、X射线及FLASH时间序列比较",
+      "sha256": "8f942000d41eedec33455f8798b2c052e6d8d8885a295bf2b470a6907fa6e0af",
+      "source_pdf": "daily/2026-10-20/pdfs/Chu et al. - 2026 - Proton radiography electron density.pdf",
+      "source_identifier": "10.48550/arXiv.2610.22605",
+      "attribution": "Measuring electron density and electromagnetic fields in low-density laser-driven plasmas using proton radiography; original figure excerpt, no data modification."
+    },
+    {
+      "path": "daily/2026-10-20/images/jess-fig06-offline-online.png",
+      "page": 16,
+      "crop_bbox_pdf_points": [
+        172,
+        66,
+        417,
+        241
+      ],
+      "caption": "原图6：离线与在线归一化热流散度MAE；双对数轴，展示离线排名不能唯一决定在线表现",
+      "sha256": "0eaee69076c10ce57a1bede65ee3b78d6fc302dd0c6bd4cb68ebbb375b22b242",
+      "source_pdf": "daily/2026-10-20/pdfs/Jess et al. - 2026 - Machine learning ten moment closures.pdf",
+      "source_identifier": "10.48550/arXiv.2610.23080",
+      "attribution": "Properties and challenges of machine learning closures for ten-moment fluid models in the case of Landau damping; original figure excerpt, no data modification."
+    },
+    {
+      "path": "daily/2026-10-20/images/jess-fig11-entropy-diagnostic.png",
+      "page": 23,
+      "crop_bbox_pdf_points": [
+        98,
+        64,
+        515,
+        329
+      ],
+      "caption": "原图11：α=0.103时相对流体熵、热流散度与相对电场能量；红线tωpe=46.9，蓝区为时间外推",
+      "sha256": "85247d3d59b5d925f3d19c15d0429cc9cf988e01ec46320dbb844fba572f70ca",
+      "source_pdf": "daily/2026-10-20/pdfs/Jess et al. - 2026 - Machine learning ten moment closures.pdf",
+      "source_identifier": "10.48550/arXiv.2610.23080",
+      "attribution": "Properties and challenges of machine learning closures for ten-moment fluid models in the case of Landau damping; original figure excerpt, no data modification."
+    }
+  ],
+  "notes": "PDF page numbers are one-based; crop boxes use PDF points [x0,y0,x1,y1]. All eight crops decoded and visually checked; original axes and normalization retained."
+}
