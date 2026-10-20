@@ -1,0 +1,265 @@
+[
+  {
+    "arxiv_id": "2610.26537v1",
+    "query_title": "Beyond Radiation Hydrodynamics: A Coupled Kinetic Plasma and Radiation Modeling of NIF Polar Direct Drive Capsule",
+    "candidates": [
+      {
+        "doi": "10.1063/1.5083851",
+        "title": [
+          "Modeling of direct-drive cylindrical implosion experiments with an Eulerian radiation-hydrodynamics code"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              4,
+              1
+            ]
+          ]
+        },
+        "authors": [
+          "J. P. Sauppe",
+          "B. M. Haines",
+          "S. Palaniyappan",
+          "P. A. Bradley",
+          "S. H. Batha",
+          "E. N. Loomis",
+          "J. L. Kline"
+        ]
+      },
+      {
+        "doi": "10.1088/1361-6587/aa8af4",
+        "title": [
+          "Long-duration planar direct-drive hydrodynamics experiments on the NIF"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2017,
+              10,
+              25
+            ]
+          ]
+        },
+        "authors": [
+          "A Casner",
+          "C Mailliet",
+          "S F Khan",
+          "D Martinez",
+          "N Izumi",
+          "D Kalantar",
+          "P Di Nicola",
+          "J M Di Nicola",
+          "E Le Bel",
+          "I Igumenshchev",
+          "V T Tikhonchuk",
+          "B A Remington",
+          "L Masse",
+          "V A Smalyuk"
+        ]
+      },
+      {
+        "doi": "10.1051/epjconf/20135902011",
+        "title": [
+          "NIF capsule performance modeling"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2013
+            ]
+          ]
+        },
+        "authors": [
+          "S. Weber",
+          "D. Callahan",
+          "C. Cerjan",
+          "M. Edwards",
+          "S. Haan",
+          "D. Hicks",
+          "O. Jones",
+          "G. Kyrala",
+          "N. Meezan",
+          "R. Olson",
+          "H. Robey",
+          "B. Spears",
+          "P. Springer",
+          "R. Town"
+        ]
+      }
+    ],
+    "conclusion": "No exact title match among top three Crossref results; no formal version verified in this bounded check."
+  },
+  {
+    "arxiv_id": "2610.25336v1",
+    "query_title": "Construction of crystal-based light sources with LWFA electron beams",
+    "candidates": [
+      {
+        "doi": "10.1063/1.3080920",
+        "title": [
+          "Simulation of Weibel Instability for LWFA and PWFA Electron Beams"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2009
+            ]
+          ]
+        },
+        "authors": [
+          "B. Allen",
+          "P. Muggli",
+          "B. Feng",
+          "T. Katsouleas",
+          "C. Huang",
+          "V. Yakimenko",
+          "A. Maksimchuk",
+          "Carl B. Schroeder",
+          "Wim Leemans",
+          "Eric Esarey"
+        ]
+      },
+      {
+        "doi": "10.1016/j.nima.2018.02.008",
+        "title": [
+          "Characterization of self-injected electron beams from LWFA experiments at SPARC_LAB"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              11
+            ]
+          ]
+        },
+        "authors": [
+          "G. Costa",
+          "M.P. Anania",
+          "F. Bisesto",
+          "E. Chiadroni",
+          "A. Cianchi",
+          "A. Curcio",
+          "M. Ferrario",
+          "F. Filippi",
+          "A. Marocchino",
+          "F. Mira",
+          "R. Pompili",
+          "A. Zigler"
+        ]
+      },
+      {
+        "doi": "10.1016/j.nimb.2013.01.069",
+        "title": [
+          "Light sources based on relativistic ion beams"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2013,
+              8
+            ]
+          ]
+        },
+        "authors": [
+          "E.G. Bessonov"
+        ]
+      }
+    ],
+    "conclusion": "No exact title match among top three Crossref results; no formal version verified in this bounded check."
+  },
+  {
+    "arxiv_id": "2610.24504v1",
+    "query_title": "Micrometer-thin liquid sheets from single-jet impact on a sharp edge for multi-kHz laser-plasma experiments",
+    "candidates": [
+      {
+        "doi": "10.1117/12.2665607",
+        "title": [
+          "Liquid jet target system for laser-plasma interactions at kHz repetition rate"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              6,
+              9
+            ]
+          ]
+        },
+        "authors": [
+          "Nina Gamaiunova",
+          "Maksym Tryus",
+          "Filip Grepl",
+          "Andriy Velyhan",
+          "Stanislav Stancek",
+          "Vasiliki Kantarelou",
+          "Pablo Cirrone",
+          "Daniele Margarone",
+          "Lorenzo Giuffrida",
+          "Timofej Chagovets"
+        ]
+      },
+      {
+        "doi": "10.1109/jqe.1981.1070907",
+        "title": [
+          "Gas-jet laser-plasma interaction experiments"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1981,
+              12
+            ]
+          ]
+        },
+        "authors": [
+          "F. Mayer",
+          "M. Buoniconto",
+          "G. Busch",
+          "G. Catella",
+          "G. Charatis",
+          "D. Jarrell",
+          "R. Schroeder",
+          "J. Simpson",
+          "D. Slater",
+          "D. Sullivan",
+          "J. Tarvin",
+          "C. Thomas",
+          "D. Matthews",
+          "M. Herbst",
+          "B. Ripin"
+        ]
+      },
+      {
+        "doi": "10.1364/cleo.1981.wt1",
+        "title": [
+          "Gas-jet laser-plasma interaction experiments"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1981
+            ]
+          ]
+        },
+        "authors": [
+          "Frederick J. Mayer",
+          "Mark A. Buoniconto",
+          "Garland E. Busch",
+          "Gary C. Catella",
+          "George Charatis",
+          "Daniel K. Jarrell",
+          "Robert J. Schroeder",
+          "John D. Simpson",
+          "Donald C. Slater",
+          "David Sullivan",
+          "Jeffrey A. Tarvin",
+          "C. E. Thomas",
+          "Dennis L. Matthews",
+          "Mark J . Herbst",
+          "Barrett H. Ripin"
+        ]
+      }
+    ],
+    "conclusion": "No exact title match among top three Crossref results; no formal version verified in this bounded check."
+  }
+]

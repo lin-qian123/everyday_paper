@@ -2,11 +2,14 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：149 篇
-- 索引更新时间：2026-10-20
+- 当前收录：152 篇
+- 索引更新时间：2026-10-21
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-21 | [Tolerances to driver-witness misalignment in a quasilinear plasma wakefield accelerator](../papers/10-1103-47mg-t29q/README.md) | Physical Review Accelerators and Beams 29, 103602 | [笔记](../daily/2026-10-21/notes/Wilson et al. - 2026 - Quasilinear PWFA misalignment tolerances.md) |
+| 2026-10-21 | [Construction of crystal-based light sources with LWFA electron beams](../papers/arxiv-2610-25336/README.md) | arXiv preprint | [笔记](../daily/2026-10-21/notes/Zymak et al. - 2026 - LWFA crystal gamma source.md) |
+| 2026-10-21 | [Micrometer-thin liquid sheets from single-jet impact on a sharp edge for multi-kHz laser-plasma experiments](../papers/arxiv-2610-24504/README.md) | arXiv preprint | [笔记](../daily/2026-10-21/notes/Kumar et al. - 2026 - Multi kHz thin liquid sheets.md) |
 | 2026-10-20 | [High average flux positron sources driven by a mJ-class laser](../papers/arxiv-2610-23243/README.md) | arXiv preprint | [笔记](../daily/2026-10-20/notes/Foster et al. - 2026 - mJ laser positron source.md) |
 | 2026-10-18 | [First observation of dispersive shock waves in an electron beam](../papers/10-1103-2hhy-jfcd/README.md) | Physical Review Accelerators and Beams (accepted paper) | [笔记](../daily/2026-10-18/notes/McCright et al. - 2026 - Electron beam dispersive shock waves.md) |
 | 2026-10-17 | [Generation of a polarized pair-photon fireball via a laser-driven nonlinear-linear QED cascade](../papers/10-1103-xvmh-mcg7/README.md) | Physical Review E | [笔记](../daily/2026-10-17/notes/Dou et al. - 2026 - Polarized pair photon fireball.md) |

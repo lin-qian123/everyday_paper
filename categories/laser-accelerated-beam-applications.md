@@ -2,11 +2,13 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：116 篇
-- 索引更新时间：2026-10-20
+- 当前收录：118 篇
+- 索引更新时间：2026-10-21
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-21 | [Experimental demonstration of an L-shaped corrugated wakefield structure for beam shaping at a high-repetition-rate free-electron laser](../papers/10-1103-r4nx-blvw/README.md) | Physical Review Accelerators and Beams 29, 103405 | [笔记](../daily/2026-10-21/notes/Qin et al. - 2026 - L shaped corrugated XFEL shaping.md) |
+| 2026-10-21 | [Construction of crystal-based light sources with LWFA electron beams](../papers/arxiv-2610-25336/README.md) | arXiv preprint | [笔记](../daily/2026-10-21/notes/Zymak et al. - 2026 - LWFA crystal gamma source.md) |
 | 2026-10-20 | [On the Monte Carlo Calculation of the Air-Kerma Strength for Brachytherapy Sources](../papers/10-3390-radiation6040041/README.md) | Radiation 6(4), 41 | [笔记](../daily/2026-10-20/notes/Guerrero et al. - 2026 - Monte Carlo air kerma strength.md) |
 | 2026-10-20 | [High average flux positron sources driven by a mJ-class laser](../papers/arxiv-2610-23243/README.md) | arXiv preprint | [笔记](../daily/2026-10-20/notes/Foster et al. - 2026 - mJ laser positron source.md) |
 | 2026-10-19 | [Generation of mode-locked EUV and soft X-ray radiation via coherent Thomson scattering from a density-modulated electron bunch](../papers/10-1007-s41365-026-02075-1/README.md) | Nuclear Science and Techniques 37, 250 | [笔记](../daily/2026-10-19/notes/Wang et al. - 2026 - Mode locked coherent Thomson radiation.md) |

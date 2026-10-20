@@ -1,0 +1,212 @@
+[
+  {
+    "key": "wilson-pwfa",
+    "figure": "figure-4-offset-emittance",
+    "source_pdf": "daily/2026-10-21/pdfs/Wilson et al. - 2026 - Quasilinear PWFA misalignment tolerances.pdf",
+    "source_pdf_sha256": "a74e7a0d116803a9744692929f7005c42c60daadd62f1056b4fd571b02cd94d6",
+    "source_page_1based": 5,
+    "crop_pdf_points": [
+      310,
+      44,
+      566,
+      321
+    ],
+    "scale": 2.2,
+    "path": "daily/2026-10-21/images/wilson-pwfa/figure-4-offset-emittance.png",
+    "sha256": "5096c5d6a3457fa5d40d7400cbb0be1bf7e518fe057f3df29593483a6b63e840",
+    "pixels": [
+      564,
+      611
+    ],
+    "note": "Unaltered original PDF excerpt, rasterized; axes and caption checked visually."
+  },
+  {
+    "key": "wilson-pwfa",
+    "figure": "figure-5-effective-density",
+    "source_pdf": "daily/2026-10-21/pdfs/Wilson et al. - 2026 - Quasilinear PWFA misalignment tolerances.pdf",
+    "source_pdf_sha256": "a74e7a0d116803a9744692929f7005c42c60daadd62f1056b4fd571b02cd94d6",
+    "source_page_1based": 6,
+    "crop_pdf_points": [
+      47,
+      44,
+      302,
+      247
+    ],
+    "scale": 2.2,
+    "path": "daily/2026-10-21/images/wilson-pwfa/figure-5-effective-density.png",
+    "sha256": "0093d3787378a09c505072728424db94bfe77ce175ae767f8cab045de94e9f20",
+    "pixels": [
+      562,
+      448
+    ],
+    "note": "Unaltered original PDF excerpt, rasterized; axes and caption checked visually."
+  },
+  {
+    "key": "qin-xfel",
+    "figure": "figure-4-spectral-reconstruction",
+    "source_pdf": "daily/2026-10-21/pdfs/Qin et al. - 2026 - L shaped corrugated XFEL shaping.pdf",
+    "source_pdf_sha256": "3d203b6e20698de7c5cb483dc2109385d542a1c7d34f46971ad5cadfc13ea13a",
+    "source_page_1based": 4,
+    "crop_pdf_points": [
+      310,
+      370,
+      566,
+      723
+    ],
+    "scale": 2.2,
+    "path": "daily/2026-10-21/images/qin-xfel/figure-4-spectral-reconstruction.png",
+    "sha256": "2472509b7af991c0957e03552184e8c6f7d97a6527d594d46614994f46159238",
+    "pixels": [
+      564,
+      777
+    ],
+    "note": "Unaltered original PDF excerpt, rasterized; axes and caption checked visually."
+  },
+  {
+    "key": "qin-xfel",
+    "figure": "figure-6-neutron-dose",
+    "source_pdf": "daily/2026-10-21/pdfs/Qin et al. - 2026 - L shaped corrugated XFEL shaping.pdf",
+    "source_pdf_sha256": "3d203b6e20698de7c5cb483dc2109385d542a1c7d34f46971ad5cadfc13ea13a",
+    "source_page_1based": 6,
+    "crop_pdf_points": [
+      47,
+      44,
+      302,
+      290
+    ],
+    "scale": 2.2,
+    "path": "daily/2026-10-21/images/qin-xfel/figure-6-neutron-dose.png",
+    "sha256": "4b6f8fe3e63634ae6be141441801bc7f50da828e61134eec82cd1e30d7009b83",
+    "pixels": [
+      562,
+      542
+    ],
+    "note": "Unaltered original PDF excerpt, rasterized; axes and caption checked visually."
+  },
+  {
+    "key": "hammer-kinetic",
+    "figure": "table-2-neutron-yield-burn",
+    "source_pdf": "daily/2026-10-21/pdfs/Hammer et al. - 2026 - Kinetic radiation NIF capsule.pdf",
+    "source_pdf_sha256": "eb884219196d417cc02b7644b81cd382fbed154fdc6d55e9e315afaa924d2ec5",
+    "source_page_1based": 17,
+    "crop_pdf_points": [
+      160,
+      250,
+      452,
+      323
+    ],
+    "scale": 2.2,
+    "path": "daily/2026-10-21/images/hammer-kinetic/table-2-neutron-yield-burn.png",
+    "sha256": "d7ffabfa6efb16792fa9ebdd200a4a76419179ff2c2b282db6f20dbff5a18dc0",
+    "pixels": [
+      643,
+      161
+    ],
+    "note": "Unaltered original PDF excerpt, rasterized; axes and caption checked visually."
+  },
+  {
+    "key": "hammer-kinetic",
+    "figure": "figure-13-ballistic-ions",
+    "source_pdf": "daily/2026-10-21/pdfs/Hammer et al. - 2026 - Kinetic radiation NIF capsule.pdf",
+    "source_pdf_sha256": "eb884219196d417cc02b7644b81cd382fbed154fdc6d55e9e315afaa924d2ec5",
+    "source_page_1based": 19,
+    "crop_pdf_points": [
+      48,
+      44,
+      568,
+      329
+    ],
+    "scale": 2.2,
+    "path": "daily/2026-10-21/images/hammer-kinetic/figure-13-ballistic-ions.png",
+    "sha256": "8326167c6a4fde290cad6e5645e6f97680812affb1025150f25f6f99ac0d8cd4",
+    "pixels": [
+      1145,
+      628
+    ],
+    "note": "Unaltered original PDF excerpt, rasterized; axes and caption checked visually."
+  },
+  {
+    "key": "zymak-crystal",
+    "figure": "figure-4-electron-spectra",
+    "source_pdf": "daily/2026-10-21/pdfs/Zymak et al. - 2026 - LWFA crystal gamma source.pdf",
+    "source_pdf_sha256": "da2befd532e7c733f7446c9e57c2636d6b981972ee729e7045f2b85eea8f7f8d",
+    "source_page_1based": 13,
+    "crop_pdf_points": [
+      65,
+      264,
+      548,
+      640
+    ],
+    "scale": 2.2,
+    "path": "daily/2026-10-21/images/zymak-crystal/figure-4-electron-spectra.png",
+    "sha256": "11937c2a4da1e468328a6725e6a838949a9112ea2afd6422ea8bf8542d00c3c5",
+    "pixels": [
+      1063,
+      828
+    ],
+    "note": "Unaltered original PDF excerpt, rasterized; axes and caption checked visually."
+  },
+  {
+    "key": "zymak-crystal",
+    "figure": "figure-7-positron-spectra",
+    "source_pdf": "daily/2026-10-21/pdfs/Zymak et al. - 2026 - LWFA crystal gamma source.pdf",
+    "source_pdf_sha256": "da2befd532e7c733f7446c9e57c2636d6b981972ee729e7045f2b85eea8f7f8d",
+    "source_page_1based": 17,
+    "crop_pdf_points": [
+      65,
+      60,
+      548,
+      405
+    ],
+    "scale": 2.2,
+    "path": "daily/2026-10-21/images/zymak-crystal/figure-7-positron-spectra.png",
+    "sha256": "50478e1a559d316fefcd42fdd98aaaeb9c92032835caed806f8dea2d951a6aff",
+    "pixels": [
+      1063,
+      759
+    ],
+    "note": "Unaltered original PDF excerpt, rasterized; axes and caption checked visually."
+  },
+  {
+    "key": "kumar-sheets",
+    "figure": "figure-5-reflectivity",
+    "source_pdf": "daily/2026-10-21/pdfs/Kumar et al. - 2026 - Multi kHz thin liquid sheets.pdf",
+    "source_pdf_sha256": "b38725e1015ce86897f402a93923724bc9eda45931d522cd4bf9365194c9bd28",
+    "source_page_1based": 18,
+    "crop_pdf_points": [
+      66,
+      58,
+      544,
+      565
+    ],
+    "scale": 2.2,
+    "path": "daily/2026-10-21/images/kumar-sheets/figure-5-reflectivity.png",
+    "sha256": "3ba6468cf7fa43bb7413a60a70154a13da8f3672d1b78838f59f504b648dec45",
+    "pixels": [
+      1052,
+      1116
+    ],
+    "note": "Unaltered original PDF excerpt, rasterized; axes and caption checked visually."
+  },
+  {
+    "key": "kumar-sheets",
+    "figure": "figure-6-frame-stability",
+    "source_pdf": "daily/2026-10-21/pdfs/Kumar et al. - 2026 - Multi kHz thin liquid sheets.pdf",
+    "source_pdf_sha256": "b38725e1015ce86897f402a93923724bc9eda45931d522cd4bf9365194c9bd28",
+    "source_page_1based": 20,
+    "crop_pdf_points": [
+      66,
+      178,
+      544,
+      726
+    ],
+    "scale": 2.2,
+    "path": "daily/2026-10-21/images/kumar-sheets/figure-6-frame-stability.png",
+    "sha256": "984e3140ec019b29671464ea3d9f2d12f32e8689835f5ee9ba3fb2a6b01b9ef9",
+    "pixels": [
+      1052,
+      1207
+    ],
+    "note": "Unaltered original PDF excerpt, rasterized; axes and caption checked visually."
+  }
+]

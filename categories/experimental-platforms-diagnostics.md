@@ -2,11 +2,13 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：155 篇
-- 索引更新时间：2026-10-20
+- 当前收录：157 篇
+- 索引更新时间：2026-10-21
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-21 | [Experimental demonstration of an L-shaped corrugated wakefield structure for beam shaping at a high-repetition-rate free-electron laser](../papers/10-1103-r4nx-blvw/README.md) | Physical Review Accelerators and Beams 29, 103405 | [笔记](../daily/2026-10-21/notes/Qin et al. - 2026 - L shaped corrugated XFEL shaping.md) |
+| 2026-10-21 | [Micrometer-thin liquid sheets from single-jet impact on a sharp edge for multi-kHz laser-plasma experiments](../papers/arxiv-2610-24504/README.md) | arXiv preprint | [笔记](../daily/2026-10-21/notes/Kumar et al. - 2026 - Multi kHz thin liquid sheets.md) |
 | 2026-10-20 | [High average flux positron sources driven by a mJ-class laser](../papers/arxiv-2610-23243/README.md) | arXiv preprint | [笔记](../daily/2026-10-20/notes/Foster et al. - 2026 - mJ laser positron source.md) |
 | 2026-10-20 | [Measuring electron density and electromagnetic fields in low-density laser-driven plasmas using proton radiography](../papers/arxiv-2610-22605/README.md) | arXiv preprint | [笔记](../daily/2026-10-20/notes/Chu et al. - 2026 - Proton radiography electron density.md) |
 | 2026-10-19 | [Generation of mode-locked EUV and soft X-ray radiation via coherent Thomson scattering from a density-modulated electron bunch](../papers/10-1007-s41365-026-02075-1/README.md) | Nuclear Science and Techniques 37, 250 | [笔记](../daily/2026-10-19/notes/Wang et al. - 2026 - Mode locked coherent Thomson radiation.md) |

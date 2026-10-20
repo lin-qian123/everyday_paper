@@ -1,10 +1,15 @@
 # 论文总索引
 
-- 当前入库论文：477 篇
-- 索引更新时间：2026-10-20
+- 当前入库论文：482 篇
+- 索引更新时间：2026-10-21
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-10-21 | [Tolerances to driver-witness misalignment in a quasilinear plasma wakefield accelerator](./10-1103-47mg-t29q/README.md) | Physical Review Accelerators and Beams 29, 103602 | [10.1103/47mg-t29q](https://doi.org/10.1103/47mg-t29q) |
+| 2026-10-21 | [Experimental demonstration of an L-shaped corrugated wakefield structure for beam shaping at a high-repetition-rate free-electron laser](./10-1103-r4nx-blvw/README.md) | Physical Review Accelerators and Beams 29, 103405 | [10.1103/r4nx-blvw](https://doi.org/10.1103/r4nx-blvw) |
+| 2026-10-21 | [Beyond Radiation Hydrodynamics: A Coupled Kinetic Plasma and Radiation Modeling of NIF Polar Direct Drive Capsule](./arxiv-2610-26537/README.md) | arXiv preprint | [10.48550/arXiv.2610.26537](https://doi.org/10.48550/arXiv.2610.26537) |
+| 2026-10-21 | [Construction of crystal-based light sources with LWFA electron beams](./arxiv-2610-25336/README.md) | arXiv preprint | [10.48550/arXiv.2610.25336](https://doi.org/10.48550/arXiv.2610.25336) |
+| 2026-10-21 | [Micrometer-thin liquid sheets from single-jet impact on a sharp edge for multi-kHz laser-plasma experiments](./arxiv-2610-24504/README.md) | arXiv preprint | [10.48550/arXiv.2610.24504](https://doi.org/10.48550/arXiv.2610.24504) |
 | 2026-10-20 | [On the Monte Carlo Calculation of the Air-Kerma Strength for Brachytherapy Sources](./10-3390-radiation6040041/README.md) | Radiation 6(4), 41 | [10.3390/radiation6040041](https://doi.org/10.3390/radiation6040041) |
 | 2026-10-20 | [High average flux positron sources driven by a mJ-class laser](./arxiv-2610-23243/README.md) | arXiv preprint | [10.48550/arXiv.2610.23243](https://doi.org/10.48550/arXiv.2610.23243) |
 | 2026-10-20 | [Properties and challenges of machine learning closures for ten-moment fluid models in the case of Landau damping](./arxiv-2610-23080/README.md) | arXiv preprint | [10.48550/arXiv.2610.23080](https://doi.org/10.48550/arXiv.2610.23080) |

@@ -1,0 +1,99 @@
+[
+  {
+    "title": "Tolerances to driver-witness misalignment in a quasilinear plasma wakefield accelerator",
+    "doi": "10.1103/47mg-t29q",
+    "journal": "Physical Review Accelerators and Beams 29, 103602",
+    "publication_date": "2026-10-20",
+    "source_url": "https://journals.aps.org/prab/abstract/10.1103/47mg-t29q",
+    "pdf_url": "https://harvest.aps.org/v2/journals/articles/10.1103/47mg-t29q/fulltext",
+    "fulltext_version": "formal VOR",
+    "categories": [
+      "laser-plasma-acceleration",
+      "pic-and-plasma-simulation"
+    ],
+    "processed_date": "2026-10-21",
+    "pdf_path": "daily/2026-10-21/pdfs/Wilson et al. - 2026 - Quasilinear PWFA misalignment tolerances.pdf",
+    "note_path": "daily/2026-10-21/notes/Wilson et al. - 2026 - Quasilinear PWFA misalignment tolerances.md",
+    "normalized_title": "tolerances to driver witness misalignment in a quasilinear plasma wakefield accelerator",
+    "pdf_sha256": "a74e7a0d116803a9744692929f7005c42c60daadd62f1056b4fd571b02cd94d6"
+  },
+  {
+    "title": "Experimental demonstration of an L-shaped corrugated wakefield structure for beam shaping at a high-repetition-rate free-electron laser",
+    "doi": "10.1103/r4nx-blvw",
+    "journal": "Physical Review Accelerators and Beams 29, 103405",
+    "publication_date": "2026-10-20",
+    "source_url": "https://journals.aps.org/prab/abstract/10.1103/r4nx-blvw",
+    "pdf_url": "https://harvest.aps.org/v2/journals/articles/10.1103/r4nx-blvw/fulltext",
+    "fulltext_version": "formal VOR",
+    "categories": [
+      "experimental-platforms-diagnostics",
+      "laser-accelerated-beam-applications"
+    ],
+    "processed_date": "2026-10-21",
+    "pdf_path": "daily/2026-10-21/pdfs/Qin et al. - 2026 - L shaped corrugated XFEL shaping.pdf",
+    "note_path": "daily/2026-10-21/notes/Qin et al. - 2026 - L shaped corrugated XFEL shaping.md",
+    "normalized_title": "experimental demonstration of an l shaped corrugated wakefield structure for beam shaping at a high repetition rate free electron laser",
+    "pdf_sha256": "3d203b6e20698de7c5cb483dc2109385d542a1c7d34f46971ad5cadfc13ea13a"
+  },
+  {
+    "title": "Construction of crystal-based light sources with LWFA electron beams",
+    "doi": "10.48550/arXiv.2610.25336",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-18",
+    "source_url": "https://arxiv.org/abs/2610.25336",
+    "pdf_url": "https://arxiv.org/pdf/2610.25336v1",
+    "fulltext_version": "official arXiv v1 author preprint",
+    "categories": [
+      "laser-plasma-acceleration",
+      "laser-accelerated-beam-applications",
+      "pic-and-plasma-simulation"
+    ],
+    "processed_date": "2026-10-21",
+    "pdf_path": "daily/2026-10-21/pdfs/Zymak et al. - 2026 - LWFA crystal gamma source.pdf",
+    "note_path": "daily/2026-10-21/notes/Zymak et al. - 2026 - LWFA crystal gamma source.md",
+    "normalized_title": "construction of crystal based light sources with lwfa electron beams",
+    "pdf_sha256": "da2befd532e7c733f7446c9e57c2636d6b981972ee729e7045f2b85eea8f7f8d",
+    "arxiv_id": "2610.25336",
+    "arxiv_version": "2610.25336v1"
+  },
+  {
+    "title": "Beyond Radiation Hydrodynamics: A Coupled Kinetic Plasma and Radiation Modeling of NIF Polar Direct Drive Capsule",
+    "doi": "10.48550/arXiv.2610.26537",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-19",
+    "source_url": "https://arxiv.org/abs/2610.26537",
+    "pdf_url": "https://arxiv.org/pdf/2610.26537v1",
+    "fulltext_version": "official arXiv v1 author preprint",
+    "categories": [
+      "hedp-icf-laboratory-astrophysics",
+      "pic-and-plasma-simulation"
+    ],
+    "processed_date": "2026-10-21",
+    "pdf_path": "daily/2026-10-21/pdfs/Hammer et al. - 2026 - Kinetic radiation NIF capsule.pdf",
+    "note_path": "daily/2026-10-21/notes/Hammer et al. - 2026 - Kinetic radiation NIF capsule.md",
+    "normalized_title": "beyond radiation hydrodynamics a coupled kinetic plasma and radiation modeling of nif polar direct drive capsule",
+    "pdf_sha256": "eb884219196d417cc02b7644b81cd382fbed154fdc6d55e9e315afaa924d2ec5",
+    "arxiv_id": "2610.26537",
+    "arxiv_version": "2610.26537v1"
+  },
+  {
+    "title": "Micrometer-thin liquid sheets from single-jet impact on a sharp edge for multi-kHz laser-plasma experiments",
+    "doi": "10.48550/arXiv.2610.24504",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-17",
+    "source_url": "https://arxiv.org/abs/2610.24504",
+    "pdf_url": "https://arxiv.org/pdf/2610.24504v1",
+    "fulltext_version": "official arXiv v1 author preprint",
+    "categories": [
+      "experimental-platforms-diagnostics",
+      "laser-plasma-acceleration"
+    ],
+    "processed_date": "2026-10-21",
+    "pdf_path": "daily/2026-10-21/pdfs/Kumar et al. - 2026 - Multi kHz thin liquid sheets.pdf",
+    "note_path": "daily/2026-10-21/notes/Kumar et al. - 2026 - Multi kHz thin liquid sheets.md",
+    "normalized_title": "micrometer thin liquid sheets from single jet impact on a sharp edge for multi khz laser plasma experiments",
+    "pdf_sha256": "b38725e1015ce86897f402a93923724bc9eda45931d522cd4bf9365194c9bd28",
+    "arxiv_id": "2610.24504",
+    "arxiv_version": "2610.24504v1"
+  }
+]

@@ -1,0 +1,283 @@
+{
+  "run_date": "2026-10-21",
+  "searched_at": "2026-10-21T07:05:43.333418+08:00",
+  "search_layer": {
+    "queries": [
+      "laser plasma photonuclear neutron gamma October 2026"
+    ],
+    "returned_results": 0,
+    "status": "No results; fallback to live Crossref/arXiv and web primary sources, not evidence that literature is absent."
+  },
+  "web_search": {
+    "queries": [
+      "laser plasma photonuclear neutron gamma source October 20 2026",
+      "\"plasma\" \"2026-10-20\" \"laser\"",
+      "\"strong field QED\" October 2026 paper",
+      "\"Tolerances to driver-witness misalignment\"",
+      "\"Fluctuation dissipation physics\" \"Zheltikov\"",
+      "\"Experimental demonstration of an L-shaped corrugated\"",
+      "\"Temporal Weight-Position Mapping\""
+    ],
+    "role": "Discovery/identity leads; selected papers verified from official APIs and full PDFs. APS/Optica web opens unavailable; APS harvest succeeded."
+  },
+  "crossref": {
+    "endpoint": "https://api.crossref.org/works",
+    "window": "2026-10-20 to 2026-10-21 inclusive",
+    "type": "journal-article",
+    "sort": "published descending",
+    "rows_per_query_cap": 75,
+    "requests": [
+      {
+        "query": "laser plasma acceleration",
+        "returned": 75,
+        "status": 200,
+        "url": "https://api.crossref.org/works?query=laser+plasma+acceleration&filter=from-pub-date%3A2026-10-20%2Cuntil-pub-date%3A2026-10-21%2Ctype%3Ajournal-article&sort=published&order=desc&rows=75",
+        "error": null
+      },
+      {
+        "query": "strong field QED",
+        "returned": 75,
+        "status": 200,
+        "url": "https://api.crossref.org/works?query=strong+field+QED&filter=from-pub-date%3A2026-10-20%2Cuntil-pub-date%3A2026-10-21%2Ctype%3Ajournal-article&sort=published&order=desc&rows=75",
+        "error": null
+      },
+      {
+        "query": "high energy density inertial confinement",
+        "returned": 75,
+        "status": 200,
+        "url": "https://api.crossref.org/works?query=high+energy+density+inertial+confinement&filter=from-pub-date%3A2026-10-20%2Cuntil-pub-date%3A2026-10-21%2Ctype%3Ajournal-article&sort=published&order=desc&rows=75",
+        "error": null
+      },
+      {
+        "query": "particle in cell plasma",
+        "returned": 75,
+        "status": 200,
+        "url": "https://api.crossref.org/works?query=particle+in+cell+plasma&filter=from-pub-date%3A2026-10-20%2Cuntil-pub-date%3A2026-10-21%2Ctype%3Ajournal-article&sort=published&order=desc&rows=75",
+        "error": null
+      },
+      {
+        "query": "machine learning plasma",
+        "returned": 75,
+        "status": 200,
+        "url": "https://api.crossref.org/works?query=machine+learning+plasma&filter=from-pub-date%3A2026-10-20%2Cuntil-pub-date%3A2026-10-21%2Ctype%3Ajournal-article&sort=published&order=desc&rows=75",
+        "error": null
+      },
+      {
+        "query": "laser electron bremsstrahlung converter gamma",
+        "returned": 75,
+        "status": 200,
+        "url": "https://api.crossref.org/works?query=laser+electron+bremsstrahlung+converter+gamma&filter=from-pub-date%3A2026-10-20%2Cuntil-pub-date%3A2026-10-21%2Ctype%3Ajournal-article&sort=published&order=desc&rows=75",
+        "error": null
+      },
+      {
+        "query": "laser photonuclear neutron isotope",
+        "returned": 54,
+        "status": 200,
+        "url": "https://api.crossref.org/works?query=laser+photonuclear+neutron+isotope&filter=from-pub-date%3A2026-10-20%2Cuntil-pub-date%3A2026-10-21%2Ctype%3Ajournal-article&sort=published&order=desc&rows=75",
+        "error": null
+      },
+      {
+        "query": "laser ion proton beam target",
+        "returned": 75,
+        "status": 200,
+        "url": "https://api.crossref.org/works?query=laser+ion+proton+beam+target&filter=from-pub-date%3A2026-10-20%2Cuntil-pub-date%3A2026-10-21%2Ctype%3Ajournal-article&sort=published&order=desc&rows=75",
+        "error": null
+      },
+      {
+        "query": "radiation dosimetry shielding diagnostic",
+        "returned": 75,
+        "status": 200,
+        "url": "https://api.crossref.org/works?query=radiation+dosimetry+shielding+diagnostic&filter=from-pub-date%3A2026-10-20%2Cuntil-pub-date%3A2026-10-21%2Ctype%3Ajournal-article&sort=published&order=desc&rows=75",
+        "error": null
+      },
+      {
+        "query": "plasma nuclear reaction material",
+        "returned": 75,
+        "status": 200,
+        "url": "https://api.crossref.org/works?query=plasma+nuclear+reaction+material&filter=from-pub-date%3A2026-10-20%2Cuntil-pub-date%3A2026-10-21%2Ctype%3Ajournal-article&sort=published&order=desc&rows=75",
+        "error": null
+      }
+    ],
+    "returned_rows": 729,
+    "unique_dois": 551,
+    "errors": 0,
+    "coverage_limit": "Broad query terms have many off-topic hits; per-query cap, not exhaustive."
+  },
+  "arxiv": {
+    "endpoint": "https://export.arxiv.org/api/query",
+    "categories": [
+      "physics.plasm-ph",
+      "physics.acc-ph",
+      "physics.comp-ph",
+      "nucl-ex",
+      "physics.ins-det"
+    ],
+    "returned": 300,
+    "sort": "submittedDate descending",
+    "latest_visible_submission": "2026-10-19T17:40:03Z"
+  },
+  "dedup": {
+    "baseline_completed": 477,
+    "baseline_retry": 42,
+    "methods": [
+      "case-insensitive non-null DOI",
+      "arXiv identifier/version aliases across records",
+      "normalized titles",
+      "nearest titles across all 477 records",
+      "authors, abstract and physical scenario"
+    ],
+    "nearest_title_checks": [
+      {
+        "identifier": "10.1103/47mg-t29q",
+        "nearest_existing_titles": [
+          {
+            "score": 0.597,
+            "title": "Recovery time of a plasma-wakefield accelerator",
+            "doi": "10.1038/s41586-021-04348-8"
+          },
+          {
+            "score": 0.5882,
+            "title": "Multi-messenger dynamic imaging of laser-driven shocks in water using a plasma wakefield accelerator",
+            "doi": "10.1038/s41467-025-67224-3"
+          },
+          {
+            "score": 0.5578,
+            "title": "Multi-GeV Electron Combs from a Plasma Wakefield Accelerator",
+            "doi": "10.48550/arXiv.2607.08069"
+          }
+        ],
+        "exact_identifier_and_title_absent": true
+      },
+      {
+        "identifier": "10.1103/r4nx-blvw",
+        "nearest_existing_titles": [
+          {
+            "score": 0.5135,
+            "title": "Experimental demonstration of broadband-laser suppression of cross-beam energy transfer",
+            "doi": "10.48550/arXiv.2609.36528"
+          },
+          {
+            "score": 0.5089,
+            "title": "Experimental Demonstration of Beam-Driven Wakefield Acceleration in Laser-Plasma Filament",
+            "doi": "10.1103/qjd9-p6dy"
+          },
+          {
+            "score": 0.4769,
+            "title": "Demonstration of ultra-low emittance beams in a kHz laser wakefield accelerator and their application to electron diffraction",
+            "doi": "10.48550/arXiv.2602.12765"
+          }
+        ],
+        "exact_identifier_and_title_absent": true
+      },
+      {
+        "identifier": "10.48550/arXiv.2610.25336",
+        "nearest_existing_titles": [
+          {
+            "score": 0.5802,
+            "title": "First observation of dispersive shock waves in an electron beam",
+            "doi": "10.1103/2hhy-jfcd"
+          },
+          {
+            "score": 0.5096,
+            "title": "Demonstration of a compact plasma accelerator powered by laser-accelerated electron beams",
+            "doi": "10.1038/s41467-021-23000-7"
+          },
+          {
+            "score": 0.4839,
+            "title": "Reconstructive AI Spectroscopy of Charged Particle Beams",
+            "doi": "10.48550/arXiv.2608.11628"
+          }
+        ],
+        "exact_identifier_and_title_absent": true
+      },
+      {
+        "identifier": "10.48550/arXiv.2610.26537",
+        "nearest_existing_titles": [
+          {
+            "score": 0.4909,
+            "title": "SPRAY: A smoothed particle radiation hydrodynamics code for modeling high intensity laser-plasma interactions",
+            "doi": "10.48550/arXiv.2604.20124"
+          },
+          {
+            "score": 0.4174,
+            "title": "Electromagnetic drift-kinetic particle-in-cell model with energy and charge conservation for studying finite-β plasmas",
+            "doi": "10.48550/arXiv.2610.01429"
+          },
+          {
+            "score": 0.4151,
+            "title": "Informing spectral models for dense plasmas with K-edge absorption measurements of warm dense copper",
+            "doi": "10.48550/arXiv.2608.19382"
+          }
+        ],
+        "exact_identifier_and_title_absent": true
+      },
+      {
+        "identifier": "10.48550/arXiv.2610.24504",
+        "nearest_existing_titles": [
+          {
+            "score": 0.4808,
+            "title": "SPIRE: Spin-Resolved Particle-in-Cell with Radiative Corrections for Extreme Laser--Plasma Interactions",
+            "doi": "10.48550/arXiv.2610.14664"
+          },
+          {
+            "score": 0.4585,
+            "title": "Supersonic gas jet catcher system for differential pumping in laser plasma interaction experiments",
+            "doi": "10.1017/hpl.2026.10148"
+          },
+          {
+            "score": 0.4566,
+            "title": "Short overview of solid, gas, cryogenic and liquid target fabrication for single-beam high-power laser experiments",
+            "doi": "10.1017/hpl.2026.10132"
+          }
+        ],
+        "exact_identifier_and_title_absent": true
+      }
+    ],
+    "scenario_review": [
+      "Zymak Si(110) 1/4GeV planar channeling MBN trajectories differs from Sytov 2609.40005 3GeV W<111> 5mm FBPIC/Wake-T/Geant4 cascade; Zymak cites it as related work.",
+      "Wilson has no existing formal/preprint identifier or same-title record; not an upgrade of an existing item. Qin authors and new VOR homepage verified from PDF.",
+      "arXiv 2610.23431 matches existing formal DOI 10.1103/8jqr-lcb3; skipped as previous-day known duplicate."
+    ]
+  },
+  "selection": {
+    "ingested": [
+      "10.1103/47mg-t29q",
+      "10.1103/r4nx-blvw",
+      "10.48550/arXiv.2610.25336",
+      "10.48550/arXiv.2610.26537",
+      "10.48550/arXiv.2610.24504"
+    ],
+    "retry_added": [],
+    "retry_rechecked": [],
+    "existing_retries": "42 unchanged; no fresh fulltext availability signal justified repeating known access/embargo blocks.",
+    "lower_priority_not_ingested": [
+      {
+        "id": "10.3389/fonc.2026.1949825",
+        "title": "Design, implementation, and assessment of an independent second-check system for proton and carbon-ion pencil-beam scanning: delivery-aware Monte Carlo and microdosimetric RBE-weighted dose",
+        "reason": "Metadata-only delivery-aware commissioning prototype; lower priority than direct target and radiation-source selections. No PDF attempt and no note."
+      },
+      {
+        "id": "10.1364/oe.613635",
+        "title": "Temporal Weight-Position Mapping: time-resolved parameter dominance of electron dynamics in nonlinear Thomson scattering",
+        "reason": "Metadata-only lead, no verified fulltext/version in bounded search; no note or ingestion."
+      },
+      {
+        "id": "10.1103/cc4l-7r75",
+        "title": "Fluctuation dissipation physics of stimulated light scattering from laser-driven density gratings",
+        "related_author_preprint": "2607.02863",
+        "reason": "Lower present priority: density-grating scattering theory/gas benchmark; metadata and preprint lead only, not read or ingested."
+      },
+      {
+        "id": "arXiv:2610.26121",
+        "title": "Experimental verification of the PRIORA Monte Carlo code for proton radiography",
+        "reason": "Relevant lower-priority new diagnostic lead, not fulltext-reviewed."
+      },
+      {
+        "id": "arXiv:2610.26138",
+        "title": "Reinforcement Learning Controllers for Fusion Scenario Development",
+        "reason": "Related ML control lead, lower laser/source priority; not fulltext-reviewed."
+      }
+    ],
+    "coverage_limit": "No newly selected strong-field-QED, photonuclear neutron/isotope, or clinical end-to-end experiment. NIF paper compares existing DT fusion neutron experiment; distinct from photoneutron generation."
+  }
+}

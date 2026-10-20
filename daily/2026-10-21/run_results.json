@@ -1,0 +1,77 @@
+{
+  "run_date": "2026-10-21",
+  "status": "local_validation_passed",
+  "completed_before": 477,
+  "completed_after": 482,
+  "retry_before": 42,
+  "retry_after": 42,
+  "new_identifiers": [
+    "10.1103/47mg-t29q",
+    "10.1103/r4nx-blvw",
+    "10.48550/arXiv.2610.25336",
+    "10.48550/arXiv.2610.26537",
+    "10.48550/arXiv.2610.24504"
+  ],
+  "retry_added": [],
+  "retry_rechecked": [],
+  "fulltext": {
+    "valid_documents": 5,
+    "publisher_vors": 2,
+    "recent_author_preprints": 3,
+    "pages": 97,
+    "pdf_bytes": 23706118,
+    "layout_text_bytes": 362893,
+    "mineru_pipeline_completed": 5,
+    "mineru_failed_with_validated_local_fallback": 0,
+    "visually_checked_pages": 29,
+    "retained_original_figure_excerpts": 10
+  },
+  "evidence_boundaries": [
+    "Wilson: 3D quasistatic PIC and analytic quasilinear model with fixed driver; figure 4 geometric-mean projected emittance differs from x-plane emittance. Published k_beta approx86 micrometer^-1 contradicts20micrometer to1.7mrad conversion;86meter^-1 is a dimensional inference, not confirmed erratum.",
+    "Qin:7keV rms pulse27.2to6.3fs reconstructed from spectral correlations, not directly time-resolved;1.125MHz intratrain at10Hz macro rate differs from continuous MHz.200-bunch neutron dose test is not personnel/facility shielding certification.",
+    "Zymak:Si(110) Rel-MD photon rates conditional on average current,1percent BW and cone;future4GeV positron1nA input not demonstrated converter collection.Using peak current alone does not convert photon rate into per-bunch number.",
+    "Hammer:existing NIF DT experiment comparison;kinetic-radiation yield2.50e16 vs1.19e16, burn238vs421ps; calibrated xRAGE boundary,grey P1 and incomplete physics. No new photonuclear data.",
+    "Kumar:77percent reflection at25fs1kHz distinct from10kHz mirror operation;598camera frames/40s do not establish independent10kHz shot jitter.Optical contamination limits sustained operation.",
+    "No author physics solver, transport, fitting, training or experimental data replay was rerun."
+  ],
+  "validation": {
+    "index_builder": "Indexed 482 papers across 9 categories. Rebuilt after daily index and run_results existed, verifying both daily navigation links.",
+    "pytest": "PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q: 7 passed in 4.60s",
+    "artifact_audit": {
+      "ledger": 482,
+      "retry": 42,
+      "prior_completed_records_unchanged": true,
+      "prior_retry_records_unchanged": true,
+      "unique_nonnull_identifiers": 478,
+      "unique_normalized_titles": 482,
+      "legacy_processed_retry_overlap": [
+        "10.1016/j.jcp.2026.114707"
+      ],
+      "new_pdfs": 5,
+      "pages": 97,
+      "pdf_bytes": 23706118,
+      "layout_text_bytes": 362893,
+      "mineru_successes": 5,
+      "mineru_fallbacks": 0,
+      "visually_checked_pages": 29,
+      "images": 10,
+      "scoped_markdown_files": 26,
+      "scoped_local_links": 2995,
+      "json_or_jsonl_files": 13,
+      "ignored_pdf_text_artifacts": 15,
+      "note_files": 5,
+      "preexisting_agents_preserved": true
+    },
+    "diff_check": "git diff --check and git diff --cached --check passed",
+    "temporary_assets": "Parser caches, discovery intermediates and full-page renders are temporary; validated PDF/layout/MinerU texts remain local and ignored, 10 selected original excerpts tracked.",
+    "staging": "50 scoped files; pre-existing AGENTS.md excluded; 15 local PDF/layout/MinerU text artifacts ignored."
+  },
+  "publication": {
+    "branch": "master",
+    "remote": "origin",
+    "target": "refs/heads/master",
+    "parent_commit": "02da7dee76c6efacef25fb46d592560e5aa8562b",
+    "status": "Commit and push follow successful local validation; final remote parity is recorded in automation memory and final response."
+  },
+  "validated_at": "2026-10-21T07:08:27.758257+08:00"
+}

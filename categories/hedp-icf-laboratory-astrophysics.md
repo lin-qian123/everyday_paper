@@ -2,11 +2,12 @@
 
 HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。
 
-- 当前收录：126 篇
-- 索引更新时间：2026-10-20
+- 当前收录：127 篇
+- 索引更新时间：2026-10-21
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-21 | [Beyond Radiation Hydrodynamics: A Coupled Kinetic Plasma and Radiation Modeling of NIF Polar Direct Drive Capsule](../papers/arxiv-2610-26537/README.md) | arXiv preprint | [笔记](../daily/2026-10-21/notes/Hammer et al. - 2026 - Kinetic radiation NIF capsule.md) |
 | 2026-10-20 | [Measuring electron density and electromagnetic fields in low-density laser-driven plasmas using proton radiography](../papers/arxiv-2610-22605/README.md) | arXiv preprint | [笔记](../daily/2026-10-20/notes/Chu et al. - 2026 - Proton radiography electron density.md) |
 | 2026-10-18 | [First-principles electronic transport properties of Ti and Ti-6Al-4V for modeling ultrashort-pulse laser ablation](../papers/10-1103-6sn3-ltl4/README.md) | Physical Review Materials | [笔记](../daily/2026-10-18/notes/Hobmaier et al. - 2026 - Titanium alloy electronic transport.md) |
 | 2026-10-18 | [Aluminum wide-range EOS sensitivity in Z-pinch dynamic-hohlraum liner-foam impact and outgoing radiation](../papers/arxiv-2610-21107/README.md) | arXiv preprint | [笔记](../daily/2026-10-18/notes/Wang et al. - 2026 - Aluminum EOS dynamic hohlraum sensitivity.md) |
