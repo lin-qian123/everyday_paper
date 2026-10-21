@@ -1,0 +1,566 @@
+[
+  {
+    "id": "2610.26121",
+    "query": "Experimental verification of the PRIORA Monte Carlo code for proton radiography",
+    "url": "https://api.crossref.org/works?query.title=Experimental+verification+of+the+PRIORA+Monte+Carlo+code+for+proton+radiography&rows=3",
+    "status": 200,
+    "matches": [
+      {
+        "doi": "10.1016/j.nima.2005.01.106",
+        "title": [
+          "Monte Carlo code for neutron radiography"
+        ],
+        "authors": [
+          {
+            "given": "Jacek J.",
+            "family": "Milczarek",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Andrzej",
+            "family": "Trzciński",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Abd",
+            "family": "El-Ghany El Abd",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Andrzej",
+            "family": "Czachor",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2005,
+              4
+            ]
+          ]
+        }
+      },
+      {
+        "doi": "10.1088/1361-6560/aafab4",
+        "title": [
+          "Proton beam electron return effect: Monte Carlo simulations and experimental verification"
+        ],
+        "authors": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-9450-6859",
+            "authenticated-orcid": false,
+            "given": "A",
+            "family": "Lühr",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "L N",
+            "family": "Burigo",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "S",
+            "family": "Gantz",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-9742-8518",
+            "authenticated-orcid": false,
+            "given": "S M",
+            "family": "Schellhammer",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "A L",
+            "family": "Hoffmann",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              1,
+              29
+            ]
+          ]
+        }
+      },
+      {
+        "doi": "10.2298/ntrp1204355i",
+        "title": [
+          "Proton therapy Monte Carlo SRNA-VOX code"
+        ],
+        "authors": [
+          {
+            "suffix": "D.",
+            "given": "Radovan",
+            "family": "Ilic",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Vinča Institute of Nuclear Sciences, Belgrade"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2012
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "2610.27317",
+    "query": "Machine-learned spectral PDE solvers for fluids and plasmas",
+    "url": "https://api.crossref.org/works?query.title=Machine-learned+spectral+PDE+solvers+for+fluids+and+plasmas&rows=3",
+    "status": 200,
+    "matches": [
+      {
+        "doi": "10.1073/pnas.2530440123",
+        "title": [
+          "Fast automated adjoints for spectral PDE solvers"
+        ],
+        "authors": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-0994-2013",
+            "authenticated-orcid": false,
+            "given": "Calum S.",
+            "family": "Skene",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Department of Applied Mathematics",
+                "place": [
+                  "Leeds, United Kingdom"
+                ]
+              },
+              {
+                "name": "University of Leeds",
+                "place": [
+                  "Leeds, United Kingdom"
+                ]
+              },
+              {
+                "name": "School of Physics and Astronomy",
+                "place": [
+                  "Edinburgh, United Kingdom"
+                ]
+              },
+              {
+                "name": "The University of Edinburgh",
+                "place": [
+                  "Edinburgh, United Kingdom"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-4761-4766",
+            "authenticated-orcid": false,
+            "given": "Keaton J.",
+            "family": "Burns",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Mathematics",
+                "place": [
+                  "Cambridge"
+                ]
+              },
+              {
+                "name": "Massachusetts Institute of Technology",
+                "place": [
+                  "Cambridge"
+                ]
+              },
+              {
+                "name": "Center for Computational Astrophysics",
+                "place": [
+                  "New York"
+                ]
+              },
+              {
+                "name": "Flatiron Institute",
+                "place": [
+                  "New York"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "doi": "10.1038/s42256-024-00962-z",
+        "title": [
+          "Envisioning better benchmarks for machine learning PDE solvers"
+        ],
+        "authors": [
+          {
+            "given": "Johannes",
+            "family": "Brandstetter",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              12,
+              13
+            ]
+          ]
+        }
+      },
+      {
+        "doi": "10.1016/0168-9274(92)90045-f",
+        "title": [
+          "Collaborating PDE solvers"
+        ],
+        "authors": [
+          {
+            "given": "H.S.",
+            "family": "McFaddin",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "J.R.",
+            "family": "Rice",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1992,
+              9
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "2610.26731",
+    "query": "Ion Heating in Pair-loaded Relativistic Turbulence",
+    "url": "https://api.crossref.org/works?query.title=Ion+Heating+in+Pair-loaded+Relativistic+Turbulence&rows=3",
+    "status": 200,
+    "matches": [
+      {
+        "doi": "10.1143/jpsj.41.1813",
+        "title": [
+          "Ion Heating by IonAcoustic Turbulence"
+        ],
+        "authors": [
+          {
+            "given": "Toshisuke",
+            "family": "Tsuru",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Department of Physics, Faculty of Science, Tokyo University of Education"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Nobuyuki",
+            "family": "Nemoto",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Physics, Faculty of Science, Tokyo University of Education"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Shoji",
+            "family": "Kojima",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Physics, Faculty of Science, Tokyo University of Education"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1976,
+              11
+            ]
+          ]
+        }
+      },
+      {
+        "doi": "10.1143/jpsj.33.1498",
+        "title": [
+          "Stochastic Ion Heating by Ion-Acoustic Turbulence"
+        ],
+        "authors": [
+          {
+            "given": "Takaichi",
+            "family": "Kawamura",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Institute of Plasma Physics, Nagoya University"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Hiroyuki",
+            "family": "Ikezi",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Institute of Plasma Physics, Nagoya University"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1972,
+              11
+            ]
+          ]
+        }
+      },
+      {
+        "doi": "10.1093/mnras/stx2883",
+        "title": [
+          "Numerical investigation of kinetic turbulence in relativistic pair plasmas – I. Turbulence statistics"
+        ],
+        "authors": [
+          {
+            "given": "Vladimir",
+            "family": "Zhdankin",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "JILA, NIST and University of Colorado, 440 UCB, Boulder, CO 80309, USA"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Dmitri A",
+            "family": "Uzdensky",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Center for Integrated Plasma Studies, Department of Physics, 390 UCB, University of Colorado, Boulder, CO 80309, USA"
+              },
+              {
+                "name": "Institute for Advanced Study, 1 Einstein Dr., Princeton, NJ 08540, USA"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Gregory R",
+            "family": "Werner",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Center for Integrated Plasma Studies, Department of Physics, 390 UCB, University of Colorado, Boulder, CO 80309, USA"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Mitchell C",
+            "family": "Begelman",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "JILA, NIST and University of Colorado, 440 UCB, Boulder, CO 80309, USA"
+              },
+              {
+                "name": "Department of Astrophysical and Planetary Sciences, 391 UCB, Boulder, CO 80309, USA"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2017,
+              11,
+              7
+            ]
+          ]
+        }
+      }
+    ]
+  }
+]

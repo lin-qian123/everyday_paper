@@ -1,0 +1,170 @@
+[
+  {
+    "key": "priora",
+    "source_pdf": "daily/2026-10-22/pdfs/Varentsov et al. - 2026 - PRIORA proton radiography verification.pdf",
+    "page": 3,
+    "crop_rect_points": [
+      313,
+      42,
+      566,
+      478
+    ],
+    "path": "daily/2026-10-22/images/priora/figure-3-profile-reconstruction.png",
+    "sha256": "7a25dff9394004548f71abdbff839c00dbd40da0278594c671615a808cb25562",
+    "operation": "original PDF crop; no data alteration",
+    "visually_checked": true,
+    "source_pdf_sha256": "7cf9c42d658929cf83c9ff79a0c74359b6f186f8cf714e465e66cdb937424140",
+    "scale": 2,
+    "pixels": [
+      506,
+      872
+    ]
+  },
+  {
+    "key": "priora",
+    "source_pdf": "daily/2026-10-22/pdfs/Varentsov et al. - 2026 - PRIORA proton radiography verification.pdf",
+    "page": 4,
+    "crop_rect_points": [
+      42,
+      45,
+      568,
+      369
+    ],
+    "path": "daily/2026-10-22/images/priora/figure-4-radiograph.png",
+    "sha256": "517de5596bf13faf8b46c2885f1251790c0d1eb2e58bc592422e73f653d8c9d1",
+    "operation": "original PDF crop; no data alteration",
+    "visually_checked": true,
+    "source_pdf_sha256": "7cf9c42d658929cf83c9ff79a0c74359b6f186f8cf714e465e66cdb937424140",
+    "scale": 2,
+    "pixels": [
+      1052,
+      648
+    ]
+  },
+  {
+    "key": "xfel",
+    "source_pdf": "daily/2026-10-22/pdfs/Xu et al. - 2026 - High power attosecond XFEL.pdf",
+    "page": 4,
+    "crop_rect_points": [
+      312,
+      40,
+      568,
+      385
+    ],
+    "path": "daily/2026-10-22/images/xfel/figure-2-bunch-length-tradeoff.png",
+    "sha256": "7ce139e5a36dfbf1119026b6bb73103b06c2b9f24ba65472ecd1c0e1e3a6082f",
+    "operation": "original PDF crop; no data alteration",
+    "visually_checked": true,
+    "source_pdf_sha256": "fb8d0777564abf65628b6afb3894ea48a957219cb72e352024a46e83710b5685",
+    "scale": 2,
+    "pixels": [
+      512,
+      690
+    ]
+  },
+  {
+    "key": "xfel",
+    "source_pdf": "daily/2026-10-22/pdfs/Xu et al. - 2026 - High power attosecond XFEL.pdf",
+    "page": 5,
+    "crop_rect_points": [
+      312,
+      40,
+      568,
+      488
+    ],
+    "path": "daily/2026-10-22/images/xfel/figure-4-single-multiple-spike.png",
+    "sha256": "bbce07ce2e851212008f00ae35ed995a67d589851f5554e15caf6f143aa5b776",
+    "operation": "original PDF crop; no data alteration",
+    "visually_checked": true,
+    "source_pdf_sha256": "fb8d0777564abf65628b6afb3894ea48a957219cb72e352024a46e83710b5685",
+    "scale": 2,
+    "pixels": [
+      512,
+      896
+    ]
+  },
+  {
+    "key": "warp",
+    "source_pdf": "daily/2026-10-22/pdfs/Chen et al. - 2026 - WARP spectral PDE solvers.pdf",
+    "page": 14,
+    "crop_rect_points": [
+      42,
+      254,
+      555,
+      628
+    ],
+    "scale": 2,
+    "path": "daily/2026-10-22/images/warp/figure-19-hw-fresh-ic-statistics.png",
+    "sha256": "6bba8de4c3d7201bb39216b61d35925b30d919065c126cccd63954245cec867a",
+    "operation": "original PDF crop; no data alteration",
+    "visually_checked": true,
+    "source_pdf_sha256": "7d0a8811605e34de7e54e694161fd39e078778998d8a884c02e5496a1c602fab",
+    "pixels": [
+      1026,
+      748
+    ]
+  },
+  {
+    "key": "warp",
+    "source_pdf": "daily/2026-10-22/pdfs/Chen et al. - 2026 - WARP spectral PDE solvers.pdf",
+    "page": 19,
+    "crop_rect_points": [
+      45,
+      570,
+      555,
+      795
+    ],
+    "scale": 2,
+    "path": "daily/2026-10-22/images/warp/figure-30-orszag-tang-event-errors.png",
+    "sha256": "0f75465e0d4c0a7367afd0cb259f1442d1e95001f781bd205c6095aae015e177",
+    "operation": "original PDF crop; no data alteration",
+    "visually_checked": true,
+    "source_pdf_sha256": "7d0a8811605e34de7e54e694161fd39e078778998d8a884c02e5496a1c602fab",
+    "pixels": [
+      1020,
+      450
+    ]
+  },
+  {
+    "key": "pair",
+    "source_pdf": "daily/2026-10-22/pdfs/Wang et al. - 2026 - Radiative pair loaded PIC ion heating.pdf",
+    "page": 7,
+    "crop_rect_points": [
+      65,
+      60,
+      555,
+      226
+    ],
+    "scale": 3,
+    "path": "daily/2026-10-22/images/pair/fig2-clump-volume-lifetime.png",
+    "sha256": "99578937a6c7ba8ebca2bb7be492ebffecb7dc034c5597f236ef1cb66b127d66",
+    "operation": "original PDF crop; no data alteration",
+    "visually_checked": true,
+    "source_pdf_sha256": "018b55a69b1a4bb2644bd264766963110d02ca33de54becff53e286e75e4e3b7",
+    "pixels": [
+      1470,
+      498
+    ]
+  },
+  {
+    "key": "pair",
+    "source_pdf": "daily/2026-10-22/pdfs/Wang et al. - 2026 - Radiative pair loaded PIC ion heating.pdf",
+    "page": 10,
+    "crop_rect_points": [
+      160,
+      63,
+      455,
+      486
+    ],
+    "scale": 3,
+    "path": "daily/2026-10-22/images/pair/fig4-ion-heating.png",
+    "sha256": "8e20fcba5eb8d8bcd9fc572c1c9eee974c4be5020d6a78f4e361df13d8b61f06",
+    "operation": "original PDF crop; no data alteration",
+    "visually_checked": true,
+    "source_pdf_sha256": "018b55a69b1a4bb2644bd264766963110d02ca33de54becff53e286e75e4e3b7",
+    "pixels": [
+      885,
+      1269
+    ]
+  }
+]

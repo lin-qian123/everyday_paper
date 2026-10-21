@@ -1,0 +1,246 @@
+{
+  "run_date": "2026-10-22",
+  "searched_at": "2026-10-22T07:09:28.161138+08:00",
+  "crossref": {
+    "window": "2026-10-21 to 2026-10-22 inclusive",
+    "endpoint": "https://api.crossref.org/works",
+    "type": "journal-article",
+    "sort": "published descending",
+    "rows_per_query_cap": 75,
+    "requests": [
+      {
+        "query": "laser plasma acceleration",
+        "url": "https://api.crossref.org/works?query=laser+plasma+acceleration&filter=from-pub-date%3A2026-10-21%2Cuntil-pub-date%3A2026-10-22%2Ctype%3Ajournal-article&sort=published&order=desc&rows=75",
+        "status": 200,
+        "returned": 64
+      },
+      {
+        "query": "strong field QED",
+        "url": "https://api.crossref.org/works?query=strong+field+QED&filter=from-pub-date%3A2026-10-21%2Cuntil-pub-date%3A2026-10-22%2Ctype%3Ajournal-article&sort=published&order=desc&rows=75",
+        "status": 200,
+        "returned": 75
+      },
+      {
+        "query": "high energy density physics",
+        "url": "https://api.crossref.org/works?query=high+energy+density+physics&filter=from-pub-date%3A2026-10-21%2Cuntil-pub-date%3A2026-10-22%2Ctype%3Ajournal-article&sort=published&order=desc&rows=75",
+        "status": 200,
+        "returned": 75
+      },
+      {
+        "query": "particle in cell machine learning plasma",
+        "url": "https://api.crossref.org/works?query=particle+in+cell+machine+learning+plasma&filter=from-pub-date%3A2026-10-21%2Cuntil-pub-date%3A2026-10-22%2Ctype%3Ajournal-article&sort=published&order=desc&rows=75",
+        "status": 200,
+        "returned": 75
+      },
+      {
+        "query": "laser electron bremsstrahlung converter gamma",
+        "url": "https://api.crossref.org/works?query=laser+electron+bremsstrahlung+converter+gamma&filter=from-pub-date%3A2026-10-21%2Cuntil-pub-date%3A2026-10-22%2Ctype%3Ajournal-article&sort=published&order=desc&rows=75",
+        "status": 200,
+        "returned": 75
+      },
+      {
+        "query": "laser photonuclear neutron isotope",
+        "url": "https://api.crossref.org/works?query=laser+photonuclear+neutron+isotope&filter=from-pub-date%3A2026-10-21%2Cuntil-pub-date%3A2026-10-22%2Ctype%3Ajournal-article&sort=published&order=desc&rows=75",
+        "retry_status": 200,
+        "initial_error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query=laser+photonuclear+neutron+isotope&filter=from-pub-date%3A2026-10-21%2Cuntil-pub-date%3A2026-10-22%2Ctype%3Ajournal-article&sort=published&order=desc&rows=75",
+        "returned": 41
+      },
+      {
+        "query": "laser ion proton beam target",
+        "url": "https://api.crossref.org/works?query=laser+ion+proton+beam+target&filter=from-pub-date%3A2026-10-21%2Cuntil-pub-date%3A2026-10-22%2Ctype%3Ajournal-article&sort=published&order=desc&rows=75",
+        "status": 200,
+        "returned": 75
+      },
+      {
+        "query": "radiation dosimetry shielding diagnostic",
+        "url": "https://api.crossref.org/works?query=radiation+dosimetry+shielding+diagnostic&filter=from-pub-date%3A2026-10-21%2Cuntil-pub-date%3A2026-10-22%2Ctype%3Ajournal-article&sort=published&order=desc&rows=75",
+        "retry_status": 200,
+        "initial_error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query=radiation+dosimetry+shielding+diagnostic&filter=from-pub-date%3A2026-10-21%2Cuntil-pub-date%3A2026-10-22%2Ctype%3Ajournal-article&sort=published&order=desc&rows=75",
+        "returned": 75
+      },
+      {
+        "query": "plasma nuclear reaction material",
+        "url": "https://api.crossref.org/works?query=plasma+nuclear+reaction+material&filter=from-pub-date%3A2026-10-21%2Cuntil-pub-date%3A2026-10-22%2Ctype%3Ajournal-article&sort=published&order=desc&rows=75",
+        "status": 200,
+        "returned": 75
+      },
+      {
+        "query": "laser plasma target diagnostic",
+        "url": "https://api.crossref.org/works?query=laser+plasma+target+diagnostic&filter=from-pub-date%3A2026-10-21%2Cuntil-pub-date%3A2026-10-22%2Ctype%3Ajournal-article&sort=published&order=desc&rows=75",
+        "status": 200,
+        "returned": 75
+      }
+    ],
+    "returned_rows": 705,
+    "unique_dois": 490,
+    "initial_http_429_queries": 2,
+    "errors_after_sequential_retry": 0,
+    "coverage_limit": "Bounded theme queries; many off-topic results; not exhaustive."
+  },
+  "arxiv": {
+    "categories": [
+      "physics.plasm-ph",
+      "physics.acc-ph",
+      "physics.comp-ph",
+      "nucl-ex",
+      "physics.ins-det"
+    ],
+    "returned": 300,
+    "latest_visible_submission": "2026-10-20T16:46:32Z",
+    "sort": "submittedDate descending",
+    "endpoint": "https://export.arxiv.org/api/query"
+  },
+  "web": {
+    "role": "Primary-source discovery supplement; exact DOI/title and PDF identity independently verified. Optica/APS web opens unavailable, APS harvest PDF succeeded.",
+    "queries": [
+      "laser plasma photonuclear neutron gamma October 21 2026",
+      "plasma 2026-10-21 laser",
+      "strong field QED October 2026",
+      "site.aps.org Oct 21 2026 plasma",
+      "site.cambridge.org 2026 October laser High Power Laser",
+      "site.arxiv.org/abs/2610 photonuclear neutron",
+      "Enhanced Shock Pressure Teflon",
+      "Experimental verification of the PRIORA",
+      "Interpretable AI reveals hidden structure in nuclear masses"
+    ]
+  },
+  "dedup": {
+    "baseline_completed": 482,
+    "baseline_retry": 42,
+    "methods": [
+      "case-insensitive DOI/arXiv aliases",
+      "normalized title",
+      "nearest title across ledger",
+      "authors/abstract/physical scenario"
+    ],
+    "nearest_titles": {
+      "10.48550/arXiv.2610.26121": [
+        {
+          "score": 0.515,
+          "title": "Characterization and optimization of a laser-produced x-ray source for x-ray radiography",
+          "doi": "10.1063/5.0323034"
+        },
+        {
+          "score": 0.5028,
+          "title": "Experimental determination of the Dalitz plot for positronium decay using the J-PET detection system",
+          "doi": "10.48550/arXiv.2607.19495"
+        },
+        {
+          "score": 0.4966,
+          "title": "Experimental demonstration of Flying-Focus enhanced Thomson scattering",
+          "doi": "10.48550/arXiv.2607.15805"
+        }
+      ],
+      "10.48550/arXiv.2610.27317": [
+        {
+          "score": 0.5469,
+          "title": "Mixed Hermite-Legendre spectral method for kinetic plasma simulations",
+          "doi": "10.48550/arXiv.2606.12322"
+        },
+        {
+          "score": 0.4912,
+          "title": "On modeling energetic electrons in laser fusion plasmas",
+          "doi": "10.48550/arXiv.2606.16066"
+        },
+        {
+          "score": 0.4755,
+          "title": "Machine Learning Based ROI Segmentation for Beam Imaging Diagnostics at Accelerators",
+          "doi": "10.48550/arXiv.2608.26826"
+        }
+      ],
+      "10.48550/arXiv.2610.26731": [
+        {
+          "score": 0.5522,
+          "title": "Radiation-induced electron spin polarization in ultrarelativistic kinetic turbulence",
+          "doi": "10.48550/arXiv.2606.04332"
+        },
+        {
+          "score": 0.5098,
+          "title": "Anisotropy and energy distribution of leptons and photons in radiative relativistic Alfvénic turbulence",
+          "doi": "10.1103/f9xt-jpd1"
+        },
+        {
+          "score": 0.4662,
+          "title": "Radiation Reaction in Relativistic Magnetized Shocks of Neutron Star Magnetospheres",
+          "doi": "10.48550/arXiv.2610.05386"
+        }
+      ],
+      "10.1103/hqjn-r9k9": [
+        {
+          "score": 0.4762,
+          "title": "Direct observation of electron shedding from a laser-plasma accelerator",
+          "doi": "10.48550/arXiv.2609.15968"
+        },
+        {
+          "score": 0.4686,
+          "title": "Start-to-end optimization framework for free-electron lasers driven by laser wakefield accelerators",
+          "doi": "10.1017/hpl.2026.10191"
+        },
+        {
+          "score": 0.4686,
+          "title": "High-energy high-density attosecond electron bunch from short-wavelength laser–nanofoil interaction",
+          "doi": "10.1364/OE.612056"
+        }
+      ],
+      "10.1364/ome.606574": [
+        {
+          "score": 0.4876,
+          "title": "Bayesian optimization of stellarator alpha-particle confinement using data-informed parameter spaces and dimensionality reduction",
+          "doi": "10.48550/arXiv.2606.19523"
+        },
+        {
+          "score": 0.4673,
+          "title": "Impact of Residual Angular Chirp in a Petawatt-class Laser System on Laser-driven Proton Acceleration",
+          "doi": "10.48550/arXiv.2607.12451"
+        },
+        {
+          "score": 0.4607,
+          "title": "Preservation of 3He ion polarization after laser-driven acceleration in plasma",
+          "doi": "10.1017/hpl.2026.10140"
+        }
+      ]
+    },
+    "scenario_review": [
+      "PRIORA is GeV proton ion-optical matter radiography, distinct from Chu laser proton electromagnetic-field/density radiography.",
+      "Pair-loaded turbulence concerns pair feedback and ion heating; distinct from earlier electron spin-polarization and lepton/photon anisotropy papers.",
+      "Xu generic postsaturation XFEL scan differs from Qin measured corrugated beam shaping and prior LWFA FEL transport design.",
+      "WARP operator coefficient identification/anchored rollout differs from kinetic Hermite-Legendre discretization and beam imaging ML."
+    ]
+  },
+  "selection": {
+    "ingested": [
+      "10.1103/hqjn-r9k9",
+      "10.48550/arXiv.2610.26121",
+      "10.48550/arXiv.2610.27317",
+      "10.48550/arXiv.2610.26731"
+    ],
+    "retry_added": [
+      "10.1364/ome.606574"
+    ],
+    "retry_rechecked": [],
+    "existing_retries": "42 unchanged; no fresh fulltext availability signal for known restricted/embargoed records.",
+    "lower_priority_not_ingested": [
+      {
+        "id": "10.1038/s44488-026-00017-9",
+        "title": "Interpretable AI reveals hidden structure in nuclear masses",
+        "reason": "Nuclear structure ML adjacent to reaction work; lower present priority than diagnostics and plasma solvers; metadata only."
+      },
+      {
+        "id": "arXiv:2610.28250",
+        "title": "Physics-constrained graph closures and working-point conditioning for a fast surrogate of linac beam dynamics",
+        "reason": "Relevant surrogate lead; lower present priority, no fulltext review."
+      },
+      {
+        "id": "arXiv:2610.28034",
+        "title": "Rapid Variability of Radiative Signatures from Driven Relativistic Reconnection",
+        "reason": "Astrophysical reconnection lead; one radiative PIC work selected; no fulltext review."
+      },
+      {
+        "id": "arXiv:2610.26138",
+        "title": "Reinforcement Learning Controllers for Fusion Scenario Development",
+        "reason": "Simulator-trained EAST scenario control; lower present laser/source priority; no fulltext review."
+      }
+    ],
+    "coverage_limit": "No selected new end-to-end laser-converter/photonuclear-neutron/isotope experiment or strong external-field QED observation."
+  }
+}

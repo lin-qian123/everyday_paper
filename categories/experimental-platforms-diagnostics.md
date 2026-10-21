@@ -2,11 +2,13 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：157 篇
-- 索引更新时间：2026-10-21
+- 当前收录：159 篇
+- 索引更新时间：2026-10-22
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-22 | [High-power attosecond x-ray free-electron lasers: Physics and design strategy](../papers/10-1103-hqjn-r9k9/README.md) | Physical Review Accelerators and Beams | [笔记](../daily/2026-10-22/notes/Xu et al. - 2026 - High power attosecond XFEL.md) |
+| 2026-10-22 | [Experimental verification of the PRIORA Monte Carlo code for proton radiography](../papers/arxiv-2610-26121/README.md) | arXiv preprint | [笔记](../daily/2026-10-22/notes/Varentsov et al. - 2026 - PRIORA proton radiography verification.md) |
 | 2026-10-21 | [Experimental demonstration of an L-shaped corrugated wakefield structure for beam shaping at a high-repetition-rate free-electron laser](../papers/10-1103-r4nx-blvw/README.md) | Physical Review Accelerators and Beams 29, 103405 | [笔记](../daily/2026-10-21/notes/Qin et al. - 2026 - L shaped corrugated XFEL shaping.md) |
 | 2026-10-21 | [Micrometer-thin liquid sheets from single-jet impact on a sharp edge for multi-kHz laser-plasma experiments](../papers/arxiv-2610-24504/README.md) | arXiv preprint | [笔记](../daily/2026-10-21/notes/Kumar et al. - 2026 - Multi kHz thin liquid sheets.md) |
 | 2026-10-20 | [High average flux positron sources driven by a mJ-class laser](../papers/arxiv-2610-23243/README.md) | arXiv preprint | [笔记](../daily/2026-10-20/notes/Foster et al. - 2026 - mJ laser positron source.md) |

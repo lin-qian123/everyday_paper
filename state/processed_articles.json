@@ -6178,5 +6178,83 @@
     "pdf_sha256": "b38725e1015ce86897f402a93923724bc9eda45931d522cd4bf9365194c9bd28",
     "arxiv_id": "2610.24504",
     "arxiv_version": "2610.24504v1"
+  },
+  {
+    "title": "High-power attosecond x-ray free-electron lasers: Physics and design strategy",
+    "doi": "10.1103/hqjn-r9k9",
+    "journal": "Physical Review Accelerators and Beams",
+    "publication_date": "2026-10-21",
+    "source_url": "https://link.aps.org/doi/10.1103/hqjn-r9k9",
+    "pdf_url": "https://harvest.aps.org/v2/journals/articles/10.1103/hqjn-r9k9/fulltext",
+    "fulltext_version": "publisher version of record",
+    "categories": [
+      "experimental-platforms-diagnostics",
+      "laser-accelerated-beam-applications"
+    ],
+    "processed_date": "2026-10-22",
+    "pdf_path": "daily/2026-10-22/pdfs/Xu et al. - 2026 - High power attosecond XFEL.pdf",
+    "note_path": "daily/2026-10-22/notes/Xu et al. - 2026 - High power attosecond XFEL.md",
+    "normalized_title": "high power attosecond x ray free electron lasers physics and design strategy",
+    "pdf_sha256": "fb8d0777564abf65628b6afb3894ea48a957219cb72e352024a46e83710b5685"
+  },
+  {
+    "title": "Experimental verification of the PRIORA Monte Carlo code for proton radiography",
+    "doi": "10.48550/arXiv.2610.26121",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-19",
+    "source_url": "https://arxiv.org/abs/2610.26121v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.26121v1",
+    "fulltext_version": "official arXiv v1 author preprint",
+    "categories": [
+      "experimental-platforms-diagnostics",
+      "laser-accelerated-beam-applications"
+    ],
+    "processed_date": "2026-10-22",
+    "pdf_path": "daily/2026-10-22/pdfs/Varentsov et al. - 2026 - PRIORA proton radiography verification.pdf",
+    "note_path": "daily/2026-10-22/notes/Varentsov et al. - 2026 - PRIORA proton radiography verification.md",
+    "normalized_title": "experimental verification of the priora monte carlo code for proton radiography",
+    "pdf_sha256": "7cf9c42d658929cf83c9ff79a0c74359b6f186f8cf714e465e66cdb937424140",
+    "arxiv_id": "2610.26121",
+    "arxiv_version": "2610.26121v1"
+  },
+  {
+    "title": "Machine-learned spectral PDE solvers for fluids and plasmas",
+    "doi": "10.48550/arXiv.2610.27317",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-19",
+    "source_url": "https://arxiv.org/abs/2610.27317v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.27317v1",
+    "fulltext_version": "official arXiv v1 author preprint",
+    "categories": [
+      "pic-and-plasma-simulation",
+      "ai-ml-plasma-physics"
+    ],
+    "processed_date": "2026-10-22",
+    "pdf_path": "daily/2026-10-22/pdfs/Chen et al. - 2026 - WARP spectral PDE solvers.pdf",
+    "note_path": "daily/2026-10-22/notes/Chen et al. - 2026 - WARP spectral PDE solvers.md",
+    "normalized_title": "machine learned spectral pde solvers for fluids and plasmas",
+    "pdf_sha256": "7d0a8811605e34de7e54e694161fd39e078778998d8a884c02e5496a1c602fab",
+    "arxiv_id": "2610.27317",
+    "arxiv_version": "2610.27317v1"
+  },
+  {
+    "title": "Ion Heating in Pair-loaded Relativistic Turbulence",
+    "doi": "10.48550/arXiv.2610.26731",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-19",
+    "source_url": "https://arxiv.org/abs/2610.26731v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.26731v1",
+    "fulltext_version": "official arXiv v1 author preprint",
+    "categories": [
+      "pic-and-plasma-simulation",
+      "hedp-icf-laboratory-astrophysics"
+    ],
+    "processed_date": "2026-10-22",
+    "pdf_path": "daily/2026-10-22/pdfs/Wang et al. - 2026 - Radiative pair loaded PIC ion heating.pdf",
+    "note_path": "daily/2026-10-22/notes/Wang et al. - 2026 - Radiative pair loaded PIC ion heating.md",
+    "normalized_title": "ion heating in pair loaded relativistic turbulence",
+    "pdf_sha256": "018b55a69b1a4bb2644bd264766963110d02ca33de54becff53e286e75e4e3b7",
+    "arxiv_id": "2610.26731",
+    "arxiv_version": "2610.26731v1"
   }
 ]

@@ -1,0 +1,13 @@
+{
+  "ok": false,
+  "output": "daily/2026-10-22/pdfs/Jin et al. - 2026 - Teflon tape laser shock confinement.pdf",
+  "attempts": [
+    "[env-proxy] https://opg.optica.org/ome/abstract.cfm?doi=10.1364/OME.606574 -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[direct] https://opg.optica.org/ome/abstract.cfm?doi=10.1364/OME.606574 -> not pdf (content-type=text/html)",
+    "[env-proxy] https://doi.org/10.1364/ome.606574 -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[direct] https://doi.org/10.1364/ome.606574 -> not pdf (content-type=text/html; charset=UTF-8)",
+    "[env-proxy] https://osamaintenance.azurewebsites.net/?doi=10.1364/OME.606574 -> not pdf (content-type=text/html)",
+    "[direct] https://osamaintenance.azurewebsites.net/?doi=10.1364/OME.606574 -> not pdf (content-type=text/html)"
+  ],
+  "failure_class": "html_instead_of_pdf"
+}

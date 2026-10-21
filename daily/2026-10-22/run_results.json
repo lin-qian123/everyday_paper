@@ -1,0 +1,77 @@
+{
+  "run_date": "2026-10-22",
+  "status": "local_validation_passed",
+  "completed_before": 482,
+  "completed_after": 486,
+  "retry_before": 42,
+  "retry_after": 43,
+  "new_identifiers": [
+    "10.1103/hqjn-r9k9",
+    "10.48550/arXiv.2610.26121",
+    "10.48550/arXiv.2610.27317",
+    "10.48550/arXiv.2610.26731"
+  ],
+  "retry_added": [
+    "10.1364/ome.606574"
+  ],
+  "retry_rechecked": [],
+  "fulltext": {
+    "valid_documents": 4,
+    "publisher_vors": 1,
+    "recent_author_preprints": 3,
+    "pages": 72,
+    "pdf_bytes": 47134658,
+    "layout_text_bytes": 337889,
+    "mineru_pipeline_completed": 4,
+    "mineru_failed_with_validated_local_fallback": 0,
+    "visually_checked_pages": 19,
+    "retained_original_figure_excerpts": 8
+  },
+  "evidence_boundaries": [
+    "Xu GENESIS design scans; all-shot means differ from selected temporal single-spike shots; cw concept unbuilt.",
+    "PRIORA GSI 2/4GeV experiment verification; fitted effective response and optics not independently unique in all cases.",
+    "WARP known operator-library, synthetic spectral benchmark learning; FD baseline has low-noise counterexamples.",
+    "Pair-loaded radiative PIC is astrophysical numerical evidence, not external-field QED or laser nuclear application observation.",
+    "No author solver, transport, fitting or training rerun."
+  ],
+  "validation": {
+    "index_builder": "Indexed 486 papers across 9 categories; current daily index and run_results navigation verified.",
+    "pytest": "PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q: 7 passed in 0.81s",
+    "artifact_audit": {
+      "ledger": 486,
+      "retry": 43,
+      "prior_completed_records_unchanged": true,
+      "prior_retry_records_unchanged": true,
+      "unique_nonnull_identifiers": 482,
+      "unique_normalized_titles": 486,
+      "legacy_processed_retry_overlap": [
+        "10.1016/j.jcp.2026.114707"
+      ],
+      "new_pdfs": 4,
+      "pages": 72,
+      "pdf_bytes": 47134658,
+      "layout_text_bytes": 337889,
+      "mineru_successes": 4,
+      "mineru_fallbacks": 0,
+      "visually_checked_pages": 19,
+      "images": 8,
+      "scoped_markdown_files": 24,
+      "scoped_local_links": 2997,
+      "json_or_jsonl_files": 13,
+      "ignored_pdf_text_artifacts": 12,
+      "note_files": 4,
+      "preexisting_agents_preserved": true
+    },
+    "diff_check": "git diff --check and git diff --cached --check passed",
+    "temporary_assets": "Validated PDFs, layout and MinerU texts remain local and ignored. Selected original excerpts tracked. Temporary discovery/parser/cache and full-page renders removed after retaining portable provenance.",
+    "staging": "47 scoped files; AGENTS.md excluded; 12 local PDF/text artifacts ignored."
+  },
+  "publication": {
+    "branch": "master",
+    "remote": "origin",
+    "target": "refs/heads/master",
+    "parent_commit": "58784929676059a004315f5716f2b83f2f38e8fe",
+    "status": "Commit and push follow successful local validation; final remote parity recorded in automation memory and final response."
+  },
+  "validated_at": "2026-10-22T07:13:00.826906+08:00"
+}

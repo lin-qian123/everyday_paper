@@ -1,10 +1,14 @@
 # 论文总索引
 
-- 当前入库论文：482 篇
-- 索引更新时间：2026-10-21
+- 当前入库论文：486 篇
+- 索引更新时间：2026-10-22
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-10-22 | [High-power attosecond x-ray free-electron lasers: Physics and design strategy](./10-1103-hqjn-r9k9/README.md) | Physical Review Accelerators and Beams | [10.1103/hqjn-r9k9](https://doi.org/10.1103/hqjn-r9k9) |
+| 2026-10-22 | [Experimental verification of the PRIORA Monte Carlo code for proton radiography](./arxiv-2610-26121/README.md) | arXiv preprint | [10.48550/arXiv.2610.26121](https://doi.org/10.48550/arXiv.2610.26121) |
+| 2026-10-22 | [Machine-learned spectral PDE solvers for fluids and plasmas](./arxiv-2610-27317/README.md) | arXiv preprint | [10.48550/arXiv.2610.27317](https://doi.org/10.48550/arXiv.2610.27317) |
+| 2026-10-22 | [Ion Heating in Pair-loaded Relativistic Turbulence](./arxiv-2610-26731/README.md) | arXiv preprint | [10.48550/arXiv.2610.26731](https://doi.org/10.48550/arXiv.2610.26731) |
 | 2026-10-21 | [Tolerances to driver-witness misalignment in a quasilinear plasma wakefield accelerator](./10-1103-47mg-t29q/README.md) | Physical Review Accelerators and Beams 29, 103602 | [10.1103/47mg-t29q](https://doi.org/10.1103/47mg-t29q) |
 | 2026-10-21 | [Experimental demonstration of an L-shaped corrugated wakefield structure for beam shaping at a high-repetition-rate free-electron laser](./10-1103-r4nx-blvw/README.md) | Physical Review Accelerators and Beams 29, 103405 | [10.1103/r4nx-blvw](https://doi.org/10.1103/r4nx-blvw) |
 | 2026-10-21 | [Beyond Radiation Hydrodynamics: A Coupled Kinetic Plasma and Radiation Modeling of NIF Polar Direct Drive Capsule](./arxiv-2610-26537/README.md) | arXiv preprint | [10.48550/arXiv.2610.26537](https://doi.org/10.48550/arXiv.2610.26537) |

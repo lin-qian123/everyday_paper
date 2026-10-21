@@ -853,5 +853,28 @@
     "download_reports": [
       "daily/2026-10-19/pdfs/download-reports/rajai-pseudo.json"
     ]
+  },
+  {
+    "doi": "10.1364/ome.606574",
+    "title": "Enhanced Shock Pressure via Teflon Tape Confinement: A Soft Conformable Tamper for Laser-Driven Shock Applications",
+    "source_url": "https://opg.optica.org/ome/abstract.cfm?doi=10.1364/OME.606574",
+    "publication_date": "2026-10-21",
+    "journal": "Optical Materials Express",
+    "topic": "Laser-driven shock / PTFE tamper / target confinement",
+    "run_date": "2026-10-22",
+    "status": "download_failed",
+    "attempt_cmd": "python scripts/safe_pdf_download.py --url https://opg.optica.org/ome/abstract.cfm?doi=10.1364/OME.606574 --doi 10.1364/ome.606574 --output \"daily/2026-10-22/pdfs/Jin et al. - 2026 - Teflon tape laser shock confinement.pdf\" --report-json daily/2026-10-22/pdfs/download-reports/shock.json",
+    "stderr": "Official Optica page and DOI resolver returned HTML Site Maintenance, redirecting to osamaintenance.azurewebsites.net; both proxy and direct modes failed PDF validation. No PDF link exposed by the maintenance page. Exact-title arXiv API returned no entries; bounded web search found no matching lawful author manuscript. No abstract-only note.",
+    "stdout": "",
+    "output_pdf": "daily/2026-10-22/pdfs/Jin et al. - 2026 - Teflon tape laser shock confinement.pdf",
+    "attempted_at": "2026-10-22T07:09:28.161138+08:00",
+    "last_retry_at": null,
+    "retry_count": 0,
+    "failure_count": 1,
+    "last_failure_class": "publisher_maintenance_html",
+    "source_family": "optica",
+    "download_reports": [
+      "daily/2026-10-22/pdfs/download-reports/shock.json"
+    ]
   }
 ]

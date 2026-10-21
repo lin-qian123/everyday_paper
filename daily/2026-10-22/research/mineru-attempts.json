@@ -1,0 +1,50 @@
+[
+  {
+    "key": "priora",
+    "source": "https://arxiv.org/pdf/2610.26121v1",
+    "task_id": "cb9e9d5a-1469-469c-ac8d-a9be61d4c3f0",
+    "state": "done",
+    "model_version": "pipeline",
+    "status": "success",
+    "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-10-22/cb9e9d5a-1469-469c-ac8d-a9be61d4c3f0.zip",
+    "retained_text": "daily/2026-10-22/pdfs/priora-mineru.txt",
+    "text_bytes": 18975,
+    "manual_identity_check": "PDF identity and substantive body verified separately."
+  },
+  {
+    "key": "warp",
+    "source": "https://arxiv.org/pdf/2610.27317v1",
+    "task_id": "bbb7f617-6265-4743-b4ff-ffb8fc852407",
+    "state": "done",
+    "model_version": "pipeline",
+    "status": "success",
+    "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-10-22/bbb7f617-6265-4743-b4ff-ffb8fc852407.zip",
+    "retained_text": "daily/2026-10-22/pdfs/warp-mineru.txt",
+    "text_bytes": 108746,
+    "manual_identity_check": "PDF identity and substantive body verified separately."
+  },
+  {
+    "key": "pair",
+    "source": "https://arxiv.org/pdf/2610.26731v1",
+    "task_id": "ec759640-1b3f-4027-8bf6-7cc86297d02f",
+    "state": "done",
+    "model_version": "pipeline",
+    "status": "success",
+    "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-10-22/ec759640-1b3f-4027-8bf6-7cc86297d02f.zip",
+    "retained_text": "daily/2026-10-22/pdfs/pair-mineru.txt",
+    "text_bytes": 41794,
+    "manual_identity_check": "PDF identity and substantive body verified separately."
+  },
+  {
+    "key": "xfel",
+    "source": "https://harvest.aps.org/v2/journals/articles/10.1103/hqjn-r9k9/fulltext",
+    "task_id": "431e6f7d-da55-48b6-8ee1-a02fe8169d66",
+    "state": "done",
+    "model_version": "pipeline",
+    "status": "success",
+    "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-10-22/431e6f7d-da55-48b6-8ee1-a02fe8169d66.zip",
+    "retained_text": "daily/2026-10-22/pdfs/xfel-mineru.txt",
+    "text_bytes": 92507,
+    "manual_identity_check": "Full PDF and extracted body match title and content; Xu parser missed author Tianyun Long, corrected from VOR."
+  }
+]
