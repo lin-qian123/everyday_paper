@@ -2,11 +2,12 @@
 
 强场量子效应、辐射反作用、非线性 Compton、pair production 与极端场实验。
 
-- 当前收录：74 篇
-- 索引更新时间：2026-10-22
+- 当前收录：75 篇
+- 索引更新时间：2026-10-23
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-23 | [Ultrastrong quantum squeezing mediated by plasma waves](../papers/10-1103-c4r9-jsw7/README.md) | Physical Review E | [笔记](../daily/2026-10-23/notes/Qu et al. - 2026 - Plasma wave quantum squeezing.md) |
 | 2026-10-17 | [Generation of a polarized pair-photon fireball via a laser-driven nonlinear-linear QED cascade](../papers/10-1103-xvmh-mcg7/README.md) | Physical Review E | [笔记](../daily/2026-10-17/notes/Dou et al. - 2026 - Polarized pair photon fireball.md) |
 | 2026-10-16 | [A modern particle-in-cell code for beam-beam simulations of future colliders](../papers/arxiv-2610-17557/README.md) | arXiv preprint | [笔记](../daily/2026-10-16/notes/Formenti et al. - 2026 - WarpX beam beam benchmark.md) |
 | 2026-10-15 | [SPIRE: Spin-Resolved Particle-in-Cell with Radiative Corrections for Extreme Laser--Plasma Interactions](../papers/arxiv-2610-14664/README.md) | arXiv preprint | [笔记](../daily/2026-10-15/notes/Wu et al. - 2026 - SPIRE spin-resolved QED PIC.md) |

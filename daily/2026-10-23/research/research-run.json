@@ -1,0 +1,227 @@
+{
+  "run_date": "2026-10-23",
+  "queried_at": "2026-10-23T07:14:16.705112+08:00",
+  "crossref": {
+    "date_window": [
+      "2026-10-22",
+      "2026-10-23"
+    ],
+    "queries": [
+      {
+        "query": "laser plasma acceleration",
+        "url": "https://api.crossref.org/works?query=laser+plasma+acceleration&filter=from-pub-date%3A2026-10-22%2Cuntil-pub-date%3A2026-10-23%2Ctype%3Ajournal-article&sort=published&order=desc&rows=75",
+        "returned": 74,
+        "attempt": 1
+      },
+      {
+        "query": "strong field QED radiation",
+        "url": "https://api.crossref.org/works?query=strong+field+QED+radiation&filter=from-pub-date%3A2026-10-22%2Cuntil-pub-date%3A2026-10-23%2Ctype%3Ajournal-article&sort=published&order=desc&rows=75",
+        "returned": 75,
+        "attempt": 1
+      },
+      {
+        "query": "high energy density inertial fusion",
+        "url": "https://api.crossref.org/works?query=high+energy+density+inertial+fusion&filter=from-pub-date%3A2026-10-22%2Cuntil-pub-date%3A2026-10-23%2Ctype%3Ajournal-article&sort=published&order=desc&rows=75",
+        "returned": 75,
+        "attempt": 1
+      },
+      {
+        "query": "particle in cell machine learning plasma",
+        "url": "https://api.crossref.org/works?query=particle+in+cell+machine+learning+plasma&filter=from-pub-date%3A2026-10-22%2Cuntil-pub-date%3A2026-10-23%2Ctype%3Ajournal-article&sort=published&order=desc&rows=75",
+        "returned": 75,
+        "attempt": 1
+      },
+      {
+        "query": "bremsstrahlung gamma converter target",
+        "url": "https://api.crossref.org/works?query=bremsstrahlung+gamma+converter+target&filter=from-pub-date%3A2026-10-22%2Cuntil-pub-date%3A2026-10-23%2Ctype%3Ajournal-article&sort=published&order=desc&rows=75",
+        "returned": 30,
+        "attempt": 1
+      },
+      {
+        "query": "laser photonuclear neutron isotope",
+        "url": "https://api.crossref.org/works?query=laser+photonuclear+neutron+isotope&filter=from-pub-date%3A2026-10-22%2Cuntil-pub-date%3A2026-10-23%2Ctype%3Ajournal-article&sort=published&order=desc&rows=75",
+        "returned": 48,
+        "attempt": 1
+      },
+      {
+        "query": "laser ion proton beam target",
+        "url": "https://api.crossref.org/works?query=laser+ion+proton+beam+target&filter=from-pub-date%3A2026-10-22%2Cuntil-pub-date%3A2026-10-23%2Ctype%3Ajournal-article&sort=published&order=desc&rows=75",
+        "returned": 75,
+        "attempt": 1
+      },
+      {
+        "query": "radiation dosimetry shielding diagnostic",
+        "url": "https://api.crossref.org/works?query=radiation+dosimetry+shielding+diagnostic&filter=from-pub-date%3A2026-10-22%2Cuntil-pub-date%3A2026-10-23%2Ctype%3Ajournal-article&sort=published&order=desc&rows=75",
+        "returned": 75,
+        "attempt": 1
+      },
+      {
+        "query": "plasma nuclear reaction material",
+        "url": "https://api.crossref.org/works?query=plasma+nuclear+reaction+material&filter=from-pub-date%3A2026-10-22%2Cuntil-pub-date%3A2026-10-23%2Ctype%3Ajournal-article&sort=published&order=desc&rows=75",
+        "returned": 75,
+        "attempt": 1
+      },
+      {
+        "query": "laser plasma target diagnostic",
+        "url": "https://api.crossref.org/works?query=laser+plasma+target+diagnostic&filter=from-pub-date%3A2026-10-22%2Cuntil-pub-date%3A2026-10-23%2Ctype%3Ajournal-article&sort=published&order=desc&rows=75",
+        "returned": 75,
+        "attempt": 1
+      }
+    ],
+    "returned_rows": 677,
+    "unique_dois": 458,
+    "errors": 0,
+    "coverage_limit": "10 bounded theme queries, at most 75 rows each; many lexical off-topic matches; not exhaustive"
+  },
+  "arxiv": {
+    "endpoint": "https://export.arxiv.org/api/query?search_query=cat%3Aphysics.plasm-ph+OR+cat%3Aphysics.acc-ph+OR+cat%3Aphysics.comp-ph+OR+cat%3Anucl-ex+OR+cat%3Aphysics.ins-det&sortBy=submittedDate&sortOrder=descending&max_results=300",
+    "categories": [
+      "physics.plasm-ph",
+      "physics.acc-ph",
+      "physics.comp-ph",
+      "nucl-ex",
+      "physics.ins-det"
+    ],
+    "returned": 300,
+    "latest_visible_submission": "2026-10-21T17:33:40Z"
+  },
+  "web": {
+    "purpose": "Primary discovery supplement, exact title and author-manuscript identity checks",
+    "queries": [
+      "laser plasma photonuclear neutron gamma October 22 2026",
+      "plasma 2026-10-22",
+      "laser 2026-10-21 paper",
+      "photonuclear 2026 October target",
+      "strong-field October 2026",
+      "Synchronized laser-driven ion surfing acceleration",
+      "Formation and persistence ponderomotive plasma gratings",
+      "Ultrastrong quantum squeezing mediated by plasma waves",
+      "Optimization of room-temperature targets fusion Du"
+    ],
+    "limit": "Broad queries returned many older/unrelated results; no exhaustive claim"
+  },
+  "dedup": {
+    "baseline_completed": 486,
+    "baseline_retry": 43,
+    "methods": [
+      "case-insensitive DOI/arXiv aliases",
+      "normalized title",
+      "nearest ledger titles",
+      "authors and physical scenario"
+    ],
+    "nearest_titles": {
+      "10.1088/1741-4326/aeb1db": [
+        {
+          "score": 0.4734,
+          "title": "Multi-objective Bayesian optimisation of a double-layer target for quasi-monoenergetic TNSA protons",
+          "doi": "10.48550/arXiv.2606.23224"
+        },
+        {
+          "score": 0.4722,
+          "title": "Validation of hybrid-PIC Simulations for Advanced Beam-Driven FRC Modeling",
+          "doi": "10.1088/1741-4326/ae96c0"
+        },
+        {
+          "score": 0.4699,
+          "title": "Capabilities and Limitations of Non-Redundant Aperture Interferometry for Beam Size Measurements",
+          "doi": "10.48550/arXiv.2607.19976"
+        }
+      ],
+      "10.21105/joss.11132": [
+        {
+          "score": 0.463,
+          "title": "High average-flux laser-driven neutron source",
+          "doi": "10.1038/s41467-025-66535-9"
+        },
+        {
+          "score": 0.4143,
+          "title": "Coupling periodic-cell and finite-bunch dynamics for structured photocathodes",
+          "doi": "10.48550/arXiv.2609.11844"
+        },
+        {
+          "score": 0.4103,
+          "title": "High-Performance Resilient Multi-GPU Hybrid Particle-in-Cell Monte Carlo Simulations at Scale",
+          "doi": "10.48550/arXiv.2606.28534"
+        }
+      ],
+      "10.1103/c4r9-jsw7": [
+        {
+          "score": 0.5273,
+          "title": "Electron Rephasing in a Truncated Tunable Plasma Channel",
+          "doi": "10.48550/arXiv.2609.36964"
+        },
+        {
+          "score": 0.4793,
+          "title": "Relativistically strong electromagnetic waves in magnetised plasmas",
+          "doi": "10.1017/S0022377826101342"
+        },
+        {
+          "score": 0.4779,
+          "title": "Effect of transition layer on wakefield in plasma waveguide",
+          "doi": "10.48550/arXiv.2610.06396"
+        }
+      ],
+      "10.48550/arXiv.2610.28250": [
+        {
+          "score": 0.4851,
+          "title": "Physics-Informed Neural Networks to Infer the Perpendicular Energy Conductivity in the Scrape-Off Layer of Stellarator Devices",
+          "doi": "10.48550/arXiv.2609.11628"
+        },
+        {
+          "score": 0.4608,
+          "title": "Physical-state supervision for design-only Gaussian process surrogates of implosion simulations",
+          "doi": "10.48550/arXiv.2610.13822"
+        },
+        {
+          "score": 0.4421,
+          "title": "Cycle-Consistent and Uncertainty-Aware Neural Surrogates for Tokamak Edge Plasmas",
+          "doi": "10.48550/arXiv.2607.21407"
+        }
+      ]
+    },
+    "scenario_review": [
+      "Room-temperature target was prior retry, not completed; now recovered, one new work only.",
+      "Qu 2025 arXiv author/title matches new 2026 formal DOI; one work with version boundary, not two records.",
+      "Graph closures concern beam dynamics and machine setting conditioning, distinct from WARP spectral PDE identification.",
+      "BM3DORNL sinogram preprocessing differs from neutron source and detector-metrology works."
+    ]
+  },
+  "selection": {
+    "ingested": [
+      "10.1088/1741-4326/aeb1db",
+      "10.21105/joss.11132",
+      "10.1103/c4r9-jsw7",
+      "10.48550/arXiv.2610.28250"
+    ],
+    "publisher_vors": 2,
+    "formal_records_read_as_author_preprint": 1,
+    "recent_preprints": 1,
+    "retry_resolved": [
+      "10.1088/1741-4326/aeb1db"
+    ],
+    "retry_added": [
+      "10.1103/79kq-8mpn",
+      "10.1103/9237-5stj"
+    ],
+    "old_retry_records_unchanged_except_resolved": 42,
+    "lower_priority_arxiv": [
+      {
+        "id": "http://arxiv.org/abs/2610.29709v1",
+        "title": "Kinetic Fluctuation-Dissipation Relation in collisionless plasmas: a correlated noise source"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.28034v1",
+        "title": "Rapid Variability of Radiative Signatures from Driven Relativistic Reconnection"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.27535v1",
+        "title": "Ultra-Fast 4H-SiC AC-LGAD for 4D Tracking Applications"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.26138v1",
+        "title": "Reinforcement Learning Controllers for Fusion Scenario Development"
+      }
+    ],
+    "coverage_limit": "No newly ingested end-to-end laser-converter/photonuclear-neutron/isotope experiment; all selected quantitative performance is numerical/software/design evidence."
+  }
+}

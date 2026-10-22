@@ -1,0 +1,22 @@
+{
+  "key": "squeeze",
+  "doi": "10.1103/c4r9-jsw7",
+  "attempts": [
+    {
+      "url": "https://journals.aps.org/pre/pdf/10.1103/c4r9-jsw7",
+      "trust_env": true,
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "prefix": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Typ"
+    },
+    {
+      "url": "https://journals.aps.org/pre/pdf/10.1103/c4r9-jsw7",
+      "trust_env": false,
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "prefix": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Typ"
+    }
+  ],
+  "arxiv_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Ultrastrong+quantum+squeezing+mediated+by+plasma+waves%22&max_results=5",
+  "arxiv_entries": []
+}

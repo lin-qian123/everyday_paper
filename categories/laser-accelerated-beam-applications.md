@@ -2,11 +2,12 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：120 篇
-- 索引更新时间：2026-10-22
+- 当前收录：121 篇
+- 索引更新时间：2026-10-23
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-23 | [BM3DORNL: High-Performance BM3D Denoising for Neutron Tomography](../papers/10-21105-joss-11132/README.md) | Journal of Open Source Software | [笔记](../daily/2026-10-23/notes/Zhang et al. - 2026 - BM3DORNL neutron tomography.md) |
 | 2026-10-22 | [High-power attosecond x-ray free-electron lasers: Physics and design strategy](../papers/10-1103-hqjn-r9k9/README.md) | Physical Review Accelerators and Beams | [笔记](../daily/2026-10-22/notes/Xu et al. - 2026 - High power attosecond XFEL.md) |
 | 2026-10-22 | [Experimental verification of the PRIORA Monte Carlo code for proton radiography](../papers/arxiv-2610-26121/README.md) | arXiv preprint | [笔记](../daily/2026-10-22/notes/Varentsov et al. - 2026 - PRIORA proton radiography verification.md) |
 | 2026-10-21 | [Experimental demonstration of an L-shaped corrugated wakefield structure for beam shaping at a high-repetition-rate free-electron laser](../papers/10-1103-r4nx-blvw/README.md) | Physical Review Accelerators and Beams 29, 103405 | [笔记](../daily/2026-10-21/notes/Qin et al. - 2026 - L shaped corrugated XFEL shaping.md) |

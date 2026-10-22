@@ -2,11 +2,12 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：152 篇
-- 索引更新时间：2026-10-22
+- 当前收录：153 篇
+- 索引更新时间：2026-10-23
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-23 | [Physics-constrained graph closures and working-point conditioning for a fast surrogate of linac beam dynamics](../papers/arxiv-2610-28250/README.md) | arXiv preprint | [笔记](../daily/2026-10-23/notes/Zhang et al. - 2026 - Physics constrained graph linac surrogate.md) |
 | 2026-10-21 | [Tolerances to driver-witness misalignment in a quasilinear plasma wakefield accelerator](../papers/10-1103-47mg-t29q/README.md) | Physical Review Accelerators and Beams 29, 103602 | [笔记](../daily/2026-10-21/notes/Wilson et al. - 2026 - Quasilinear PWFA misalignment tolerances.md) |
 | 2026-10-21 | [Construction of crystal-based light sources with LWFA electron beams](../papers/arxiv-2610-25336/README.md) | arXiv preprint | [笔记](../daily/2026-10-21/notes/Zymak et al. - 2026 - LWFA crystal gamma source.md) |
 | 2026-10-21 | [Micrometer-thin liquid sheets from single-jet impact on a sharp edge for multi-kHz laser-plasma experiments](../papers/arxiv-2610-24504/README.md) | arXiv preprint | [笔记](../daily/2026-10-21/notes/Kumar et al. - 2026 - Multi kHz thin liquid sheets.md) |

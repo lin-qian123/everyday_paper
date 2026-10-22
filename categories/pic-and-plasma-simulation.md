@@ -2,11 +2,12 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：207 篇
-- 索引更新时间：2026-10-22
+- 当前收录：208 篇
+- 索引更新时间：2026-10-23
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-23 | [Physics-constrained graph closures and working-point conditioning for a fast surrogate of linac beam dynamics](../papers/arxiv-2610-28250/README.md) | arXiv preprint | [笔记](../daily/2026-10-23/notes/Zhang et al. - 2026 - Physics constrained graph linac surrogate.md) |
 | 2026-10-22 | [Machine-learned spectral PDE solvers for fluids and plasmas](../papers/arxiv-2610-27317/README.md) | arXiv preprint | [笔记](../daily/2026-10-22/notes/Chen et al. - 2026 - WARP spectral PDE solvers.md) |
 | 2026-10-22 | [Ion Heating in Pair-loaded Relativistic Turbulence](../papers/arxiv-2610-26731/README.md) | arXiv preprint | [笔记](../daily/2026-10-22/notes/Wang et al. - 2026 - Radiative pair loaded PIC ion heating.md) |
 | 2026-10-21 | [Tolerances to driver-witness misalignment in a quasilinear plasma wakefield accelerator](../papers/10-1103-47mg-t29q/README.md) | Physical Review Accelerators and Beams 29, 103602 | [笔记](../daily/2026-10-21/notes/Wilson et al. - 2026 - Quasilinear PWFA misalignment tolerances.md) |

@@ -1,0 +1,65 @@
+[
+  {
+    "report_name": "graph-download.json",
+    "ok": true,
+    "output": "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-10-23/pdfs/Zhang et al. - 2026 - Physics constrained graph linac surrogate.pdf",
+    "source_url": "https://arxiv.org/pdf/2610.28250v1",
+    "mode": "env-proxy",
+    "attempts": []
+  },
+  {
+    "report_name": "squeeze-author-download.json",
+    "ok": true,
+    "output": "daily/2026-10-23/pdfs/Qu et al. - 2026 - Plasma wave quantum squeezing.pdf",
+    "source_url": "https://arxiv.org/pdf/2507.12288v1",
+    "mode": "env-proxy",
+    "attempts": []
+  },
+  {
+    "report_name": "squeeze-download.json",
+    "ok": false,
+    "output": "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-10-23/pdfs/Qu et al. - 2026 - Plasma wave quantum squeezing.pdf",
+    "attempts": [
+      "[env-proxy] https://harvest.aps.org/v2/journals/articles/10.1103/c4r9-jsw7/fulltext -> HTTP 404",
+      "[direct] https://harvest.aps.org/v2/journals/articles/10.1103/c4r9-jsw7/fulltext -> HTTP 404"
+    ],
+    "failure_class": "unknown"
+  },
+  {
+    "report_name": "surf-download.json",
+    "ok": false,
+    "output": "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-10-23/pdfs/Kehoe et al. - 2026 - Synchronized ion surfing acceleration.pdf",
+    "attempts": [
+      "[env-proxy] https://harvest.aps.org/v2/journals/articles/10.1103/79kq-8mpn/fulltext -> HTTP 404",
+      "[direct] https://harvest.aps.org/v2/journals/articles/10.1103/79kq-8mpn/fulltext -> HTTP 404"
+    ],
+    "failure_class": "unknown"
+  },
+  {
+    "report_name": "bm3d-download.json",
+    "ok": true,
+    "output": "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-10-23/pdfs/Zhang et al. - 2026 - BM3DORNL neutron tomography.pdf",
+    "source_url": "https://joss.theoj.org/papers/10.21105/joss.11132.pdf",
+    "mode": "env-proxy",
+    "attempts": []
+  },
+  {
+    "report_name": "grating-download.json",
+    "ok": false,
+    "output": "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-10-23/pdfs/Lehmann et al. - 2026 - Finite duration ponderomotive plasma gratings.pdf",
+    "attempts": [
+      "[env-proxy] https://harvest.aps.org/v2/journals/articles/10.1103/9237-5stj/fulltext -> HTTP 404",
+      "[direct] https://harvest.aps.org/v2/journals/articles/10.1103/9237-5stj/fulltext -> HTTP 404"
+    ],
+    "failure_class": "unknown"
+  },
+  {
+    "report_name": "iop-recheck.json",
+    "ok": true,
+    "output": "daily/2026-10-23/pdfs/Du et al. - 2026 - Room temperature direct drive fusion targets.pdf",
+    "source_url": "https://iopscience.iop.org/article/10.1088/1741-4326/aeb1db/pdf",
+    "mode": "env-proxy",
+    "attempts": [],
+    "transfer_note": "Downloaded to temporary run directory, then copied byte-for-byte to this validated retained path."
+  }
+]

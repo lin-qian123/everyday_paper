@@ -1,0 +1,138 @@
+[
+  {
+    "key": "bm3d",
+    "label": "Figure 2",
+    "pdf": "daily/2026-10-23/pdfs/Zhang et al. - 2026 - BM3DORNL neutron tomography.pdf",
+    "pdf_sha256": "473fb24d670e32ee7068c150469a89b74d438eed5eaf2d68073d6f4da9d2dd39",
+    "page_one_based": 3,
+    "clip_points": [
+      163.7009002685547,
+      370.4316064453125,
+      556.583060913086,
+      479.87730834960934
+    ],
+    "image": "daily/2026-10-23/images/bm3d/figure-2-method-residuals.png",
+    "sha256": "3c91e42f7c5b7e3ffe51b3259b44519a6897ad5eb057a2007788a87021f55ae9",
+    "transform": "Cropped original PDF only; 180 dpi; no data modification",
+    "source": "https://joss.theoj.org/papers/10.21105/joss.11132.pdf"
+  },
+  {
+    "key": "bm3d",
+    "label": "Figure 3",
+    "pdf": "daily/2026-10-23/pdfs/Zhang et al. - 2026 - BM3DORNL neutron tomography.pdf",
+    "pdf_sha256": "473fb24d670e32ee7068c150469a89b74d438eed5eaf2d68073d6f4da9d2dd39",
+    "page_one_based": 4,
+    "clip_points": [
+      160.72452026367188,
+      84.18900146484376,
+      556.583060913086,
+      260.9859045410156
+    ],
+    "image": "daily/2026-10-23/images/bm3d/figure-3-speed-quality.png",
+    "sha256": "246f514b7a8ebe1932eb8a343949887d80220e72e5d08b63fd5f8684b2751486",
+    "transform": "Cropped original PDF only; 180 dpi; no data modification",
+    "source": "https://joss.theoj.org/papers/10.21105/joss.11132.pdf"
+  },
+  {
+    "key": "room",
+    "label": "Figure 2",
+    "pdf": "daily/2026-10-23/pdfs/Du et al. - 2026 - Room temperature direct drive fusion targets.pdf",
+    "pdf_sha256": "4889bfe58fd8fcf919b944f7752fa6e2ec7b7157fe461cdd9476dd271240e0ad",
+    "page_one_based": 7,
+    "clip_points": [
+      35.7168017578125,
+      255.09267443847656,
+      571.468828125,
+      408.31665710449215
+    ],
+    "image": "daily/2026-10-23/images/room/figure-2-areal-density.png",
+    "sha256": "2bb003a86d0fed528b19c0b7a2c879292b58ebac846283acc4c73344b868e7b0",
+    "transform": "Cropped original PDF only; 180 dpi; no data modification",
+    "source": "https://iopscience.iop.org/article/10.1088/1741-4326/aeb1db/pdf"
+  },
+  {
+    "key": "room",
+    "label": "Figure 6",
+    "pdf": "daily/2026-10-23/pdfs/Du et al. - 2026 - Room temperature direct drive fusion targets.pdf",
+    "pdf_sha256": "4889bfe58fd8fcf919b944f7752fa6e2ec7b7157fe461cdd9476dd271240e0ad",
+    "page_one_based": 9,
+    "clip_points": [
+      59.5280029296875,
+      332.54655578613284,
+      500.035224609375,
+      517.7623590087891
+    ],
+    "image": "daily/2026-10-23/images/room/figure-6-high-energy-design.png",
+    "sha256": "460f23bbe277cd244da5f65ec8bfc178cc10a47f31bb2bb6db347cf0df1f9edc",
+    "transform": "Cropped original PDF only; 180 dpi; no data modification",
+    "source": "https://iopscience.iop.org/article/10.1088/1741-4326/aeb1db/pdf"
+  },
+  {
+    "key": "graph",
+    "label": "Table IV",
+    "pdf": "daily/2026-10-23/pdfs/Zhang et al. - 2026 - Physics constrained graph linac surrogate.pdf",
+    "pdf_sha256": "d7d39899956cdffe3864d7cb8fa61b80240a6c0213ac4b1487d4ef3948705bcc",
+    "page_one_based": 8,
+    "clip_points": [
+      52.02,
+      51.480000000000004,
+      566.1,
+      277.2
+    ],
+    "image": "daily/2026-10-23/images/graph/table-4-ablation.png",
+    "sha256": "694795a5c76284f0e6cc4769798e81277e2b7ebc801d35fbe4dc6583abb044a1",
+    "transform": "Cropped original PDF only; 180 dpi; no data modification",
+    "source": "https://arxiv.org/pdf/2610.28250v1"
+  },
+  {
+    "key": "graph",
+    "label": "Figure 5",
+    "pdf": "daily/2026-10-23/pdfs/Zhang et al. - 2026 - Physics constrained graph linac surrogate.pdf",
+    "pdf_sha256": "d7d39899956cdffe3864d7cb8fa61b80240a6c0213ac4b1487d4ef3948705bcc",
+    "page_one_based": 10,
+    "clip_points": [
+      61.2,
+      52.272000000000006,
+      299.88,
+      294.624
+    ],
+    "image": "daily/2026-10-23/images/graph/figure-5-normalization.png",
+    "sha256": "903de0526895cb3cd86d65453065e935b735ce55b2f8e73ec76e83d3e2107989",
+    "transform": "Cropped original PDF only; 180 dpi; no data modification",
+    "source": "https://arxiv.org/pdf/2610.28250v1"
+  },
+  {
+    "key": "graph",
+    "label": "Figure 7",
+    "pdf": "daily/2026-10-23/pdfs/Zhang et al. - 2026 - Physics constrained graph linac surrogate.pdf",
+    "pdf_sha256": "d7d39899956cdffe3864d7cb8fa61b80240a6c0213ac4b1487d4ef3948705bcc",
+    "page_one_based": 11,
+    "clip_points": [
+      58.14,
+      221.76000000000002,
+      299.88,
+      419.76000000000005
+    ],
+    "image": "daily/2026-10-23/images/graph/figure-7-data-efficiency.png",
+    "sha256": "48ea0730ee7610327ffdbf4441aa3b2068f85d70dcee672a0d512e8dcaf131b0",
+    "transform": "Cropped original PDF only; 180 dpi; no data modification",
+    "source": "https://arxiv.org/pdf/2610.28250v1"
+  },
+  {
+    "key": "squeeze",
+    "label": "Figure 2",
+    "pdf": "daily/2026-10-23/pdfs/Qu et al. - 2026 - Plasma wave quantum squeezing.pdf",
+    "pdf_sha256": "80517a5e0c2ef9a9117b084eefcd927a4e7423c8a101e0845a4ddd6f683d9388",
+    "page_one_based": 3,
+    "clip_points": [
+      55.08,
+      388.08,
+      302.94,
+      595.584
+    ],
+    "image": "daily/2026-10-23/images/squeeze/figure-2-squeezing.png",
+    "sha256": "829ea37d0498502ef79cc55f376d50f5f51f0995d19f17803ea3e60aaa07b626",
+    "transform": "Cropped original PDF only; 180 dpi; no data modification",
+    "source": "https://arxiv.org/pdf/2507.12288v1"
+  }
+]

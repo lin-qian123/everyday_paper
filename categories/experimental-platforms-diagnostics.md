@@ -2,11 +2,14 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：159 篇
-- 索引更新时间：2026-10-22
+- 当前收录：162 篇
+- 索引更新时间：2026-10-23
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-23 | [Optimization of room-temperature targets for laser direct-drive fusion](../papers/10-1088-1741-4326-aeb1db/README.md) | Nuclear Fusion 67 (2027), 016007 | [笔记](../daily/2026-10-23/notes/Du et al. - 2026 - Room temperature direct drive fusion targets.md) |
+| 2026-10-23 | [BM3DORNL: High-Performance BM3D Denoising for Neutron Tomography](../papers/10-21105-joss-11132/README.md) | Journal of Open Source Software | [笔记](../daily/2026-10-23/notes/Zhang et al. - 2026 - BM3DORNL neutron tomography.md) |
+| 2026-10-23 | [Ultrastrong quantum squeezing mediated by plasma waves](../papers/10-1103-c4r9-jsw7/README.md) | Physical Review E | [笔记](../daily/2026-10-23/notes/Qu et al. - 2026 - Plasma wave quantum squeezing.md) |
 | 2026-10-22 | [High-power attosecond x-ray free-electron lasers: Physics and design strategy](../papers/10-1103-hqjn-r9k9/README.md) | Physical Review Accelerators and Beams | [笔记](../daily/2026-10-22/notes/Xu et al. - 2026 - High power attosecond XFEL.md) |
 | 2026-10-22 | [Experimental verification of the PRIORA Monte Carlo code for proton radiography](../papers/arxiv-2610-26121/README.md) | arXiv preprint | [笔记](../daily/2026-10-22/notes/Varentsov et al. - 2026 - PRIORA proton radiography verification.md) |
 | 2026-10-21 | [Experimental demonstration of an L-shaped corrugated wakefield structure for beam shaping at a high-repetition-rate free-electron laser](../papers/10-1103-r4nx-blvw/README.md) | Physical Review Accelerators and Beams 29, 103405 | [笔记](../daily/2026-10-21/notes/Qin et al. - 2026 - L shaped corrugated XFEL shaping.md) |

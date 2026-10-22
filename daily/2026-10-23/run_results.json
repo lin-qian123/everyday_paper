@@ -1,0 +1,83 @@
+{
+  "run_date": "2026-10-23",
+  "status": "local_validation_passed",
+  "completed_before": 486,
+  "completed_after": 490,
+  "retry_before": 43,
+  "retry_after": 44,
+  "new_identifiers": [
+    "10.1103/c4r9-jsw7",
+    "10.21105/joss.11132",
+    "10.48550/arXiv.2610.28250",
+    "10.1088/1741-4326/aeb1db"
+  ],
+  "retry_added": [
+    "10.1103/79kq-8mpn",
+    "10.1103/9237-5stj"
+  ],
+  "retry_resolved": [
+    "10.1088/1741-4326/aeb1db"
+  ],
+  "fulltext": {
+    "valid_documents": 4,
+    "publisher_vors": 2,
+    "formal_record_author_manuscript": 1,
+    "recent_author_preprints": 1,
+    "pages": 42,
+    "pdf_bytes": 11643290,
+    "layout_text_bytes": 266873,
+    "mineru_pipeline_completed": 3,
+    "mineru_failed_with_validated_local_fallback": 1,
+    "visually_checked_pages": 14,
+    "retained_original_excerpts": 8
+  },
+  "evidence_boundaries": [
+    "Du: 1D radiation hydrodynamics and GA designs, 2027 issue/2026 online date; target gain not wall-plug gain; IFAR not multidimensional stability verification.",
+    "BM3DORNL: synthetic 720x725 sinogram; hardware/timing and quality metrics have distinct boundaries; no material-quantification or dose validation.",
+    "Qu: new formal DOI read through 2025 arXiv v1; VOR not compared; factor-two noise normalization, photon-number and slippage inconsistencies explicitly retained.",
+    "Graph: Pelegant synthetic reference omits transverse space charge; structural identities differ from learned accuracy; no measured physics-component gain in weak collective regime.",
+    "No author physics solver, transport, optimization, training, benchmark or experiment rerun."
+  ],
+  "validation": {
+    "index_builder": "Indexed 490 papers across 9 categories; current-day index and run_results navigation verified.",
+    "pytest": "PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q: 7 passed in 5.19s",
+    "artifact_audit": {
+      "ledger": 490,
+      "retry": 44,
+      "prior_completed_records_unchanged": true,
+      "prior_remaining_retry_records_unchanged": true,
+      "retry_resolved": 1,
+      "retry_added": 2,
+      "unique_nonnull_identifiers": 486,
+      "unique_normalized_titles": 490,
+      "legacy_processed_retry_overlap": [
+        "10.1016/j.jcp.2026.114707"
+      ],
+      "new_pdfs": 4,
+      "pages": 42,
+      "pdf_bytes": 11643290,
+      "layout_text_bytes": 266873,
+      "mineru_successes": 3,
+      "mineru_fallbacks": 1,
+      "visually_checked_pages": 14,
+      "images": 8,
+      "scoped_markdown_files": 24,
+      "scoped_local_links": 3035,
+      "json_or_jsonl_files": 14,
+      "ignored_pdf_text_artifacts": 11,
+      "note_files": 4,
+      "preexisting_agents_preserved": true
+    },
+    "diff_check": "git diff --check and git diff --cached --check passed",
+    "temporary_assets": "Full-page renders, parser ZIP/cache, and raw discovery intermediates removed after provenance preservation. Four PDFs, four layout texts and three MinerU texts retained locally and Git-ignored.",
+    "staging": "48 scoped files; pre-existing AGENTS.md excluded; 11 local PDF/text artifacts ignored."
+  },
+  "publication": {
+    "branch": "master",
+    "remote": "origin",
+    "target": "refs/heads/master",
+    "parent_commit": "387fea8f2d075fef413e1caa14306b8217e62c53",
+    "status": "Commit and push follow local validation; final remote parity recorded in automation memory and final response."
+  },
+  "validated_at": "2026-10-23T07:18:04.898858+08:00"
+}

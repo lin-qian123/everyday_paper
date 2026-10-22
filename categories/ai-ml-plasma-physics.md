@@ -2,11 +2,13 @@
 
 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。
 
-- 当前收录：82 篇
-- 索引更新时间：2026-10-22
+- 当前收录：84 篇
+- 索引更新时间：2026-10-23
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-23 | [Optimization of room-temperature targets for laser direct-drive fusion](../papers/10-1088-1741-4326-aeb1db/README.md) | Nuclear Fusion 67 (2027), 016007 | [笔记](../daily/2026-10-23/notes/Du et al. - 2026 - Room temperature direct drive fusion targets.md) |
+| 2026-10-23 | [Physics-constrained graph closures and working-point conditioning for a fast surrogate of linac beam dynamics](../papers/arxiv-2610-28250/README.md) | arXiv preprint | [笔记](../daily/2026-10-23/notes/Zhang et al. - 2026 - Physics constrained graph linac surrogate.md) |
 | 2026-10-22 | [Machine-learned spectral PDE solvers for fluids and plasmas](../papers/arxiv-2610-27317/README.md) | arXiv preprint | [笔记](../daily/2026-10-22/notes/Chen et al. - 2026 - WARP spectral PDE solvers.md) |
 | 2026-10-20 | [Properties and challenges of machine learning closures for ten-moment fluid models in the case of Landau damping](../papers/arxiv-2610-23080/README.md) | arXiv preprint | [笔记](../daily/2026-10-20/notes/Jess et al. - 2026 - Machine learning ten moment closures.md) |
 | 2026-10-18 | [The importance of tensor handling and implementation of physics-informed DeepONets](../papers/arxiv-2610-22157/README.md) | arXiv preprint | [笔记](../daily/2026-10-18/notes/Banks et al. - 2026 - Efficient physics informed DeepONet tensors.md) |

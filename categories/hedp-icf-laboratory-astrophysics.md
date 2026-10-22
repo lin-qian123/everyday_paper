@@ -2,11 +2,12 @@
 
 HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。
 
-- 当前收录：128 篇
-- 索引更新时间：2026-10-22
+- 当前收录：129 篇
+- 索引更新时间：2026-10-23
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-23 | [Optimization of room-temperature targets for laser direct-drive fusion](../papers/10-1088-1741-4326-aeb1db/README.md) | Nuclear Fusion 67 (2027), 016007 | [笔记](../daily/2026-10-23/notes/Du et al. - 2026 - Room temperature direct drive fusion targets.md) |
 | 2026-10-22 | [Ion Heating in Pair-loaded Relativistic Turbulence](../papers/arxiv-2610-26731/README.md) | arXiv preprint | [笔记](../daily/2026-10-22/notes/Wang et al. - 2026 - Radiative pair loaded PIC ion heating.md) |
 | 2026-10-21 | [Beyond Radiation Hydrodynamics: A Coupled Kinetic Plasma and Radiation Modeling of NIF Polar Direct Drive Capsule](../papers/arxiv-2610-26537/README.md) | arXiv preprint | [笔记](../daily/2026-10-21/notes/Hammer et al. - 2026 - Kinetic radiation NIF capsule.md) |
 | 2026-10-20 | [Measuring electron density and electromagnetic fields in low-density laser-driven plasmas using proton radiography](../papers/arxiv-2610-22605/README.md) | arXiv preprint | [笔记](../daily/2026-10-20/notes/Chu et al. - 2026 - Proton radiography electron density.md) |

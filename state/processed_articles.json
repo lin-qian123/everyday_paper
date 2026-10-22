@@ -6256,5 +6256,84 @@
     "pdf_sha256": "018b55a69b1a4bb2644bd264766963110d02ca33de54becff53e286e75e4e3b7",
     "arxiv_id": "2610.26731",
     "arxiv_version": "2610.26731v1"
+  },
+  {
+    "title": "Optimization of room-temperature targets for laser direct-drive fusion",
+    "doi": "10.1088/1741-4326/aeb1db",
+    "journal": "Nuclear Fusion 67 (2027), 016007",
+    "publication_date": "2026-10-22",
+    "source_url": "https://doi.org/10.1088/1741-4326/aeb1db",
+    "pdf_url": "https://iopscience.iop.org/article/10.1088/1741-4326/aeb1db/pdf",
+    "fulltext_version": "publisher version of record",
+    "categories": [
+      "hedp-icf-laboratory-astrophysics",
+      "ai-ml-plasma-physics",
+      "experimental-platforms-diagnostics"
+    ],
+    "processed_date": "2026-10-23",
+    "pdf_path": "daily/2026-10-23/pdfs/Du et al. - 2026 - Room temperature direct drive fusion targets.pdf",
+    "note_path": "daily/2026-10-23/notes/Du et al. - 2026 - Room temperature direct drive fusion targets.md",
+    "normalized_title": "optimization of room temperature targets for laser direct drive fusion",
+    "pdf_sha256": "4889bfe58fd8fcf919b944f7752fa6e2ec7b7157fe461cdd9476dd271240e0ad",
+    "publication_note": "Published online 2026-10-22; issue year 2027; recovered prior fulltext retry"
+  },
+  {
+    "title": "BM3DORNL: High-Performance BM3D Denoising for Neutron Tomography",
+    "doi": "10.21105/joss.11132",
+    "journal": "Journal of Open Source Software",
+    "publication_date": "2026-10-22",
+    "source_url": "https://doi.org/10.21105/joss.11132",
+    "pdf_url": "https://joss.theoj.org/papers/10.21105/joss.11132.pdf",
+    "fulltext_version": "publisher version of record",
+    "categories": [
+      "experimental-platforms-diagnostics",
+      "laser-accelerated-beam-applications"
+    ],
+    "processed_date": "2026-10-23",
+    "pdf_path": "daily/2026-10-23/pdfs/Zhang et al. - 2026 - BM3DORNL neutron tomography.pdf",
+    "note_path": "daily/2026-10-23/notes/Zhang et al. - 2026 - BM3DORNL neutron tomography.md",
+    "normalized_title": "bm3dornl high performance bm3d denoising for neutron tomography",
+    "pdf_sha256": "473fb24d670e32ee7068c150469a89b74d438eed5eaf2d68073d6f4da9d2dd39"
+  },
+  {
+    "title": "Ultrastrong quantum squeezing mediated by plasma waves",
+    "doi": "10.1103/c4r9-jsw7",
+    "journal": "Physical Review E",
+    "publication_date": "2026-10-22",
+    "source_url": "https://doi.org/10.1103/c4r9-jsw7",
+    "pdf_url": "https://arxiv.org/pdf/2507.12288v1",
+    "fulltext_version": "official arXiv v1 author preprint (2025-07-16), matched to 2026-10-22 formal DOI; VOR inaccessible",
+    "categories": [
+      "strong-field-qed-radiation",
+      "experimental-platforms-diagnostics"
+    ],
+    "processed_date": "2026-10-23",
+    "pdf_path": "daily/2026-10-23/pdfs/Qu et al. - 2026 - Plasma wave quantum squeezing.pdf",
+    "note_path": "daily/2026-10-23/notes/Qu et al. - 2026 - Plasma wave quantum squeezing.md",
+    "normalized_title": "ultrastrong quantum squeezing mediated by plasma waves",
+    "pdf_sha256": "80517a5e0c2ef9a9117b084eefcd927a4e7423c8a101e0845a4ddd6f683d9388",
+    "arxiv_id": "2507.12288",
+    "arxiv_version": "2507.12288v1"
+  },
+  {
+    "title": "Physics-constrained graph closures and working-point conditioning for a fast surrogate of linac beam dynamics",
+    "doi": "10.48550/arXiv.2610.28250",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-20",
+    "source_url": "https://arxiv.org/abs/2610.28250v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.28250v1",
+    "fulltext_version": "official arXiv v1 author preprint",
+    "categories": [
+      "laser-plasma-acceleration",
+      "ai-ml-plasma-physics",
+      "pic-and-plasma-simulation"
+    ],
+    "processed_date": "2026-10-23",
+    "pdf_path": "daily/2026-10-23/pdfs/Zhang et al. - 2026 - Physics constrained graph linac surrogate.pdf",
+    "note_path": "daily/2026-10-23/notes/Zhang et al. - 2026 - Physics constrained graph linac surrogate.md",
+    "normalized_title": "physics constrained graph closures and working point conditioning for a fast surrogate of linac beam dynamics",
+    "pdf_sha256": "d7d39899956cdffe3864d7cb8fa61b80240a6c0213ac4b1487d4ef3948705bcc",
+    "arxiv_id": "2610.28250",
+    "arxiv_version": "2610.28250v1"
   }
 ]

@@ -540,26 +540,6 @@
     "failure_count": 1
   },
   {
-    "doi": "10.1088/1741-4326/aeb1db",
-    "title": "Optimization of room-temperature targets for laser direct-drive fusion",
-    "source_url": "https://doi.org/10.1088/1741-4326/aeb1db",
-    "publication_date": "2026-10-08",
-    "journal": "Nuclear Fusion（正式期刊；IOP 全文验证页受阻）",
-    "topic": "激光直接驱动聚变 + 室温靶优化 + 靶设计 + 流体不稳定性与能量耦合",
-    "run_date": "2026-10-09",
-    "status": "download_failed",
-    "attempt_cmd": "python scripts/safe_pdf_download.py --url https://iopscience.iop.org/article/10.1088/1741-4326/aeb1db/pdf --doi 10.1088/1741-4326/aeb1db --output 'daily/2026-10-09/pdfs/Du et al. - 2026 - Room-temperature targets for laser direct-drive fusion.pdf' --report-json daily/2026-10-09/pdfs/download-reports/10.1088-1741-4326-aeb1db.json",
-    "stderr": "IOP PDF, DOI and article routes all returned HTML verification pages rather than PDF; no lawful full-text or matching author preprint was found during the 2026-10-09 search.",
-    "stdout": "",
-    "output_pdf": "daily/2026-10-09/pdfs/Du et al. - 2026 - Room-temperature targets for laser direct-drive fusion.pdf",
-    "attempted_at": "2026-10-09T07:12:20+08:00",
-    "last_retry_at": null,
-    "retry_count": 0,
-    "last_failure_class": "html_instead_of_pdf",
-    "source_family": "iop",
-    "failure_count": 1
-  },
-  {
     "doi": "10.1088/1361-6587/aeb280",
     "title": "Synthetic diagnostics and integrated modeling: Bridging the gap between measurement and interpretation in magnetic confinement fusion",
     "source_url": "https://doi.org/10.1088/1361-6587/aeb280",
@@ -876,5 +856,41 @@
     "download_reports": [
       "daily/2026-10-22/pdfs/download-reports/shock.json"
     ]
+  },
+  {
+    "doi": "10.1103/79kq-8mpn",
+    "title": "Synchronized laser-driven ion surfing acceleration in a tailored density profile",
+    "source_url": "https://doi.org/10.1103/79kq-8mpn",
+    "publication_date": "2026-10-22",
+    "journal": "Physical Review E",
+    "topic": "激光离子加速与密度靶设计",
+    "run_date": "2026-10-23",
+    "status": "download_failed",
+    "attempted_at": "2026-10-23T07:14:16.705112+08:00",
+    "last_retry_at": null,
+    "retry_count": 0,
+    "failure_count": 1,
+    "source_family": "aps",
+    "last_failure_class": "http_404_and_html_verification",
+    "stderr": "Official APS harvest fulltext returned HTTP 404 via proxy and direct; journals.aps.org/pre/pdf returned HTTP 403 Just a moment HTML via both modes. No PDF ingested. Exact-title/bounded author-title arXiv and primary web search did not verify a matching author manuscript.",
+    "evidence_path": "daily/2026-10-23/research/surf-fallback.json"
+  },
+  {
+    "doi": "10.1103/9237-5stj",
+    "title": "Formation and persistence of ponderomotive plasma gratings created by finite-duration laser pulses",
+    "source_url": "https://doi.org/10.1103/9237-5stj",
+    "publication_date": "2026-10-22",
+    "journal": "Physical Review E",
+    "topic": "激光等离子体光栅与有限脉冲动力学",
+    "run_date": "2026-10-23",
+    "status": "download_failed",
+    "attempted_at": "2026-10-23T07:14:16.705112+08:00",
+    "last_retry_at": null,
+    "retry_count": 0,
+    "failure_count": 1,
+    "source_family": "aps",
+    "last_failure_class": "http_404_and_html_verification",
+    "stderr": "Official APS harvest fulltext returned HTTP 404 via proxy and direct; journals.aps.org/pre/pdf returned HTTP 403 Just a moment HTML via both modes. No PDF ingested. Exact-title/bounded author-title arXiv and primary web search did not verify a matching author manuscript.",
+    "evidence_path": "daily/2026-10-23/research/grating-fallback.json"
   }
 ]

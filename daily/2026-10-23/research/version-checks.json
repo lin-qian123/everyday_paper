@@ -1,0 +1,259 @@
+{
+  "query_url": "https://api.crossref.org/works?query.title=Physics-constrained+graph+closures+and+working-point+conditioning+for+a+fast+surrogate+of+linac+beam+dynamics&rows=3",
+  "items": [
+    {
+      "DOI": "10.2118/223926-ms",
+      "title": [
+        "Embedded Graph Surrogate Model for Fast Full Physics Numerical Simulations"
+      ],
+      "author": [
+        {
+          "given": "Q. Barros",
+          "family": "Wagner",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "SLB"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "M. Sheth",
+          "family": "Soham",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "SLB"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            3,
+            18
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.2118/223926-ms"
+    },
+    {
+      "DOI": "10.1016/j.egyai.2024.100346",
+      "title": [
+        "Physics-constrained graph modeling for building thermal dynamics"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0002-7158-1765",
+          "authenticated-orcid": false,
+          "given": "Ziyao",
+          "family": "Yang",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Amol D.",
+          "family": "Gaidhane",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ján",
+          "family": "Drgoňa",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Vikas",
+          "family": "Chandan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Mahantesh M.",
+          "family": "Halappanavar",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Frank",
+          "family": "Liu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yu",
+          "family": "Cao",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            5
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1016/j.egyai.2024.100346"
+    },
+    {
+      "DOI": "10.2139/ssrn.4412702",
+      "title": [
+        "Physics-Constrained Graph Modeling for Building Thermal Dynamics"
+      ],
+      "author": [
+        {
+          "given": "Ziyao",
+          "family": "Yang",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Amol D.",
+          "family": "Gaidhane",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "J&apos;an",
+          "family": "Drgona",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Vikas",
+          "family": "Chandan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Mahantesh M.",
+          "family": "Halappanavar",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Frank",
+          "family": "Liu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Yu",
+          "family": "Cao",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2023
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.2139/ssrn.4412702"
+    }
+  ],
+  "decision": "No title/author identity match among top three; does not prove absence of formal version"
+}

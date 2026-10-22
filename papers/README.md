@@ -1,10 +1,14 @@
 # 论文总索引
 
-- 当前入库论文：486 篇
-- 索引更新时间：2026-10-22
+- 当前入库论文：490 篇
+- 索引更新时间：2026-10-23
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-10-23 | [Optimization of room-temperature targets for laser direct-drive fusion](./10-1088-1741-4326-aeb1db/README.md) | Nuclear Fusion 67 (2027), 016007 | [10.1088/1741-4326/aeb1db](https://doi.org/10.1088/1741-4326/aeb1db) |
+| 2026-10-23 | [BM3DORNL: High-Performance BM3D Denoising for Neutron Tomography](./10-21105-joss-11132/README.md) | Journal of Open Source Software | [10.21105/joss.11132](https://doi.org/10.21105/joss.11132) |
+| 2026-10-23 | [Ultrastrong quantum squeezing mediated by plasma waves](./10-1103-c4r9-jsw7/README.md) | Physical Review E | [10.1103/c4r9-jsw7](https://doi.org/10.1103/c4r9-jsw7) |
+| 2026-10-23 | [Physics-constrained graph closures and working-point conditioning for a fast surrogate of linac beam dynamics](./arxiv-2610-28250/README.md) | arXiv preprint | [10.48550/arXiv.2610.28250](https://doi.org/10.48550/arXiv.2610.28250) |
 | 2026-10-22 | [High-power attosecond x-ray free-electron lasers: Physics and design strategy](./10-1103-hqjn-r9k9/README.md) | Physical Review Accelerators and Beams | [10.1103/hqjn-r9k9](https://doi.org/10.1103/hqjn-r9k9) |
 | 2026-10-22 | [Experimental verification of the PRIORA Monte Carlo code for proton radiography](./arxiv-2610-26121/README.md) | arXiv preprint | [10.48550/arXiv.2610.26121](https://doi.org/10.48550/arXiv.2610.26121) |
 | 2026-10-22 | [Machine-learned spectral PDE solvers for fluids and plasmas](./arxiv-2610-27317/README.md) | arXiv preprint | [10.48550/arXiv.2610.27317](https://doi.org/10.48550/arXiv.2610.27317) |

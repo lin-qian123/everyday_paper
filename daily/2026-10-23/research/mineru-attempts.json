@@ -1,0 +1,46 @@
+[
+  {
+    "source": "https://joss.theoj.org/papers/10.21105/joss.11132.pdf",
+    "task_id": "a0f2e21b-14c6-4934-bb9b-3fe9df0b9e24",
+    "state": "done",
+    "model_version": "pipeline",
+    "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-10-23/a0f2e21b-14c6-4934-bb9b-3fe9df0b9e24.zip",
+    "key": "bm3d",
+    "status": "success",
+    "retained_text": "daily/2026-10-23/pdfs/bm3d-mineru.txt",
+    "text_bytes": 15943
+  },
+  {
+    "source": "https://arxiv.org/pdf/2610.28250v1",
+    "task_id": "32325d10-212a-4252-9e72-f36848f8a4db",
+    "state": "done",
+    "model_version": "pipeline",
+    "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-10-23/32325d10-212a-4252-9e72-f36848f8a4db.zip",
+    "key": "graph",
+    "status": "success",
+    "retained_text": "daily/2026-10-23/pdfs/graph-mineru.txt",
+    "text_bytes": 97932
+  },
+  {
+    "key": "room",
+    "status": "failed_with_validated_local_fallback",
+    "errors": [
+      {
+        "source": "https://iopscience.iop.org/article/10.1088/1741-4326/aeb1db/pdf",
+        "error": "MinerU task failed: failed to read file, please check if the file is corrupted and try uploading again",
+        "next_step": "If this is a protected page, try another accessible mirror URL."
+      }
+    ]
+  },
+  {
+    "source": "https://arxiv.org/pdf/2507.12288v1",
+    "task_id": "a337b73d-55f5-4524-9007-5489469275b5",
+    "state": "done",
+    "model_version": "pipeline",
+    "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-10-23/a337b73d-55f5-4524-9007-5489469275b5.zip",
+    "key": "squeeze",
+    "status": "success",
+    "retained_text": "daily/2026-10-23/pdfs/squeeze-mineru.txt",
+    "text_bytes": 44753
+  }
+]
