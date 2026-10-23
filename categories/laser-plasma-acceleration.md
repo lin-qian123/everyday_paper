@@ -2,11 +2,13 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：153 篇
-- 索引更新时间：2026-10-23
+- 当前收录：155 篇
+- 索引更新时间：2026-10-24
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-24 | [Improved electron beam stability in laser wakefield acceleration through control of laser angular chirp and wavefront stability](../papers/10-1103-rsvg-r3bg/README.md) | Physical Review Research 8, 043090 | [笔记](../daily/2026-10-24/notes/Jin et al. - 2026 - LWFA angular chirp and wavefront stability.md) |
+| 2026-10-24 | [GEM-PIC-RZ: a Galilean electromagnetic particle-in-cell code in quasi-cylindrical geometry with nonuniform grids](../papers/arxiv-2610-31622/README.md) | arXiv preprint | [笔记](../daily/2026-10-24/notes/Pukhov - 2026 - GEM-PIC-RZ nonuniform Galilean PIC.md) |
 | 2026-10-23 | [Physics-constrained graph closures and working-point conditioning for a fast surrogate of linac beam dynamics](../papers/arxiv-2610-28250/README.md) | arXiv preprint | [笔记](../daily/2026-10-23/notes/Zhang et al. - 2026 - Physics constrained graph linac surrogate.md) |
 | 2026-10-21 | [Tolerances to driver-witness misalignment in a quasilinear plasma wakefield accelerator](../papers/10-1103-47mg-t29q/README.md) | Physical Review Accelerators and Beams 29, 103602 | [笔记](../daily/2026-10-21/notes/Wilson et al. - 2026 - Quasilinear PWFA misalignment tolerances.md) |
 | 2026-10-21 | [Construction of crystal-based light sources with LWFA electron beams](../papers/arxiv-2610-25336/README.md) | arXiv preprint | [笔记](../daily/2026-10-21/notes/Zymak et al. - 2026 - LWFA crystal gamma source.md) |

@@ -1,0 +1,384 @@
+{
+  "preprint_formal_version_checks": [
+    {
+      "arxiv": "2610.31622",
+      "query_title": "GEM-PIC-RZ: a Galilean electromagnetic particle-in-cell code in quasi-cylindrical geometry with nonuniform grids",
+      "url": "https://api.crossref.org/works?query.title=GEM-PIC-RZ%3A+a+Galilean+electromagnetic+particle-in-cell+code+in+quasi-cylindrical+geometry+with+nonuniform+grids&rows=3",
+      "results": [
+        {
+          "title": [
+            "Galilean electromagnetic particle-in-cell code"
+          ],
+          "doi": "10.1016/j.jcp.2026.115331",
+          "author": [
+            {
+              "given": "Alexander",
+              "family": "Pukhov",
+              "sequence": "first",
+              "affiliation": [],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "given": "Nina",
+              "family": "Elkina",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "given": "Thomas",
+              "family": "Wilson",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            }
+          ],
+          "published": {
+            "date-parts": [
+              [
+                2026,
+                12
+              ]
+            ]
+          }
+        },
+        {
+          "title": [
+            "Mini-PIC &amp;#x2014; A Particle-In-Cell (PIC) code on unstructured grids for next generation platforms"
+          ],
+          "doi": "10.1109/plasma.2015.7179919",
+          "author": [
+            {
+              "given": "M. T.",
+              "family": "Bettencourt",
+              "sequence": "first",
+              "affiliation": [],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            }
+          ],
+          "published": {
+            "date-parts": [
+              [
+                2015,
+                5
+              ]
+            ]
+          }
+        },
+        {
+          "title": [
+            "Galilean Electromagnetic Particle-in-Cell Code for Efficient Simulation of Laser Wake-Field Acceleration"
+          ],
+          "doi": "10.1088/1742-6596/3266/1/012010",
+          "author": [
+            {
+              "given": "Alexander",
+              "family": "Pukhov",
+              "sequence": "first",
+              "affiliation": [
+                {
+                  "name": "Institut für Theoretische Physik I"
+                }
+              ],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "given": "Nina",
+              "family": "Elkina",
+              "sequence": "additional",
+              "affiliation": [
+                {
+                  "name": "Institut für Theoretische Physik I"
+                }
+              ],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "given": "Thomas",
+              "family": "Wilson",
+              "sequence": "additional",
+              "affiliation": [
+                {
+                  "name": "Institut für Theoretische Physik I"
+                }
+              ],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            }
+          ],
+          "published": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                1
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "arxiv": "2610.31340",
+      "query_title": "Direct Production of Ultra-High Radioisotopic Pure $^{64}$Cu from Natural Zinc Metal via D-D Fusion Narrowband Fast Neutron Source Irradiation",
+      "url": "https://api.crossref.org/works?query.title=Direct+Production+of+Ultra-High+Radioisotopic+Pure+%24%5E%7B64%7D%24Cu+from+Natural+Zinc+Metal+via+D-D+Fusion+Narrowband+Fast+Neutron+Source+Irradiation&rows=3",
+      "results": [
+        {
+          "title": [
+            "Novel separation process for ultra pure and high specific activity Cu-64"
+          ],
+          "doi": "10.1016/s0162-0134(03)80773-0",
+          "author": [
+            {
+              "given": "Suzanne V.",
+              "family": "Smith",
+              "sequence": "first",
+              "affiliation": [],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            },
+            {
+              "given": "David J.",
+              "family": "Waters",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            },
+            {
+              "given": "Nadine M.",
+              "family": "Di Bartolo",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            },
+            {
+              "given": "Rosalie",
+              "family": "Hockings",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            }
+          ],
+          "published": {
+            "date-parts": [
+              [
+                2003,
+                7
+              ]
+            ]
+          }
+        },
+        {
+          "title": [
+            "On the study of Cu-64 production from 18 MeV proton-induced secondary fast neutron bombardment"
+          ],
+          "doi": "10.1007/s40042-022-00697-3",
+          "author": [
+            {
+              "ORCID": "https://orcid.org/0000-0001-6882-6050",
+              "authenticated-orcid": false,
+              "given": "Imam",
+              "family": "Kambali",
+              "sequence": "first",
+              "affiliation": [],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            },
+            {
+              "given": "Isdandy Rezky",
+              "family": "Febrianto",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            },
+            {
+              "given": "Rien",
+              "family": "Ritawidya",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            },
+            {
+              "given": "Ratna Dini",
+              "family": "Haryuni",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            },
+            {
+              "family": "Marlina",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            },
+            {
+              "family": "Nurhuda",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            }
+          ],
+          "published": {
+            "date-parts": [
+              [
+                2022,
+                12,
+                21
+              ]
+            ]
+          }
+        },
+        {
+          "title": [
+            "Magnetic Viscosity Induced by Fast Neutron Irradiation in High Permeability Pure Iron"
+          ],
+          "doi": "10.1007/978-1-4899-5549-4_30",
+          "author": [
+            {
+              "given": "A.",
+              "family": "Ferro",
+              "sequence": "first",
+              "affiliation": [],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            },
+            {
+              "given": "G.",
+              "family": "Montalenti",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            },
+            {
+              "given": "G. P.",
+              "family": "Soardo",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            }
+          ],
+          "published": {
+            "date-parts": [
+              [
+                1967
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "blocked_formal_author_searches": [
+    {
+      "title": "Identification of rippling interface between laser-ablated plasma and ambient uniform plasma at rest",
+      "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Identification+of+rippling+interface+between+laser-ablated+plasma+and+ambient+uniform+plasma+at+rest%22&max_results=4",
+      "items": []
+    },
+    {
+      "title": "Superradiant terahertz free electron laser driven by wakefield modulated electron bunches",
+      "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Superradiant+terahertz+free+electron+laser+driven+by+wakefield+modulated+electron+bunches%22&max_results=4",
+      "items": []
+    }
+  ],
+  "interpretation": [
+    "No matching formal version established for the two newly ingested preprints.",
+    "JCP 10.1016/j.jcp.2026.115331 is GEM-PIC-RZ Ref.16, a three-author precursor; not the single-author RZ work.",
+    "Jin formal VOR extends prior platform studies with fluctuation-transfer/stabilization results; baseline Ref.12 is not a new independent repeat."
+  ]
+}

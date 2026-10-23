@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：490 篇
-- 索引更新时间：2026-10-23
+- 当前入库论文：493 篇
+- 索引更新时间：2026-10-24
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-10-24 | [Improved electron beam stability in laser wakefield acceleration through control of laser angular chirp and wavefront stability](./10-1103-rsvg-r3bg/README.md) | Physical Review Research 8, 043090 | [10.1103/rsvg-r3bg](https://doi.org/10.1103/rsvg-r3bg) |
+| 2026-10-24 | [GEM-PIC-RZ: a Galilean electromagnetic particle-in-cell code in quasi-cylindrical geometry with nonuniform grids](./arxiv-2610-31622/README.md) | arXiv preprint | [10.48550/arXiv.2610.31622](https://doi.org/10.48550/arXiv.2610.31622) |
+| 2026-10-24 | [Direct Production of Ultra-High Radioisotopic Pure $^{64}$Cu from Natural Zinc Metal via D-D Fusion Narrowband Fast Neutron Source Irradiation](./arxiv-2610-31340/README.md) | arXiv preprint | [10.48550/arXiv.2610.31340](https://doi.org/10.48550/arXiv.2610.31340) |
 | 2026-10-23 | [Optimization of room-temperature targets for laser direct-drive fusion](./10-1088-1741-4326-aeb1db/README.md) | Nuclear Fusion 67 (2027), 016007 | [10.1088/1741-4326/aeb1db](https://doi.org/10.1088/1741-4326/aeb1db) |
 | 2026-10-23 | [BM3DORNL: High-Performance BM3D Denoising for Neutron Tomography](./10-21105-joss-11132/README.md) | Journal of Open Source Software | [10.21105/joss.11132](https://doi.org/10.21105/joss.11132) |
 | 2026-10-23 | [Ultrastrong quantum squeezing mediated by plasma waves](./10-1103-c4r9-jsw7/README.md) | Physical Review E | [10.1103/c4r9-jsw7](https://doi.org/10.1103/c4r9-jsw7) |

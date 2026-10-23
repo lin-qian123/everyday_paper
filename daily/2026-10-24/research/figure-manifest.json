@@ -1,0 +1,104 @@
+[
+  {
+    "doi": "10.1103/rsvg-r3bg",
+    "source_pdf": "daily/2026-10-24/pdfs/Jin et al. - 2026 - LWFA angular chirp and wavefront stability.pdf",
+    "source_pdf_sha256": "2ffc9986d133a0cabb9cc069b4ae7aee390f96a8e0553fdebdd5e0d139aed039",
+    "pdf_page": 5,
+    "label": "table-2-stability",
+    "clip_pdf_points": [
+      24.3014404296875,
+      36.449999999999996,
+      306.80568542480466,
+      247.04999999999998
+    ],
+    "render_scale": 2.3,
+    "image": "daily/2026-10-24/images/lwfa-stability/table-2-stability.png",
+    "sha256": "d77947b2dc293244ddd543b26d48bab0b5bc5307a3c015dceb513de091c5790c",
+    "provenance": "Unmodified original PDF figure/table excerpt; cropped, no data redrawn"
+  },
+  {
+    "doi": "10.1103/rsvg-r3bg",
+    "source_pdf": "daily/2026-10-24/pdfs/Jin et al. - 2026 - LWFA angular chirp and wavefront stability.pdf",
+    "source_pdf_sha256": "2ffc9986d133a0cabb9cc069b4ae7aee390f96a8e0553fdebdd5e0d139aed039",
+    "pdf_page": 7,
+    "label": "figure-9-shots",
+    "clip_pdf_points": [
+      24.3014404296875,
+      421.2,
+      583.2345703125,
+      773.55
+    ],
+    "render_scale": 2.3,
+    "image": "daily/2026-10-24/images/lwfa-stability/figure-9-shots.png",
+    "sha256": "ed8a89a497df8ee2c5141d7ac1c47bc39cc3adff5ceecb97736e179d48e16bfb",
+    "provenance": "Unmodified original PDF figure/table excerpt; cropped, no data redrawn"
+  },
+  {
+    "doi": "10.48550/arXiv.2610.31622",
+    "source_pdf": "daily/2026-10-24/pdfs/Pukhov - 2026 - GEM-PIC-RZ nonuniform Galilean PIC.pdf",
+    "source_pdf_sha256": "185098995a99c6a2b9bd53d0a8c91cc1c9e9becb49da24cea8eecb71c5a44de8",
+    "pdf_page": 13,
+    "label": "figure-3-few-cycle",
+    "clip_pdf_points": [
+      24.48,
+      31.68,
+      336.6,
+      780.12
+    ],
+    "render_scale": 2.3,
+    "image": "daily/2026-10-24/images/gempic/figure-3-few-cycle.png",
+    "sha256": "65b25dd5e1b78cf72ace324f09d2250982f78e1f952e5eacacbc77f7a0807db9",
+    "provenance": "Unmodified original PDF figure/table excerpt; cropped, no data redrawn"
+  },
+  {
+    "doi": "10.48550/arXiv.2610.31622",
+    "source_pdf": "daily/2026-10-24/pdfs/Pukhov - 2026 - GEM-PIC-RZ nonuniform Galilean PIC.pdf",
+    "source_pdf_sha256": "185098995a99c6a2b9bd53d0a8c91cc1c9e9becb49da24cea8eecb71c5a44de8",
+    "pdf_page": 9,
+    "label": "table-3-downramp",
+    "clip_pdf_points": [
+      24.48,
+      225.71999999999997,
+      318.24,
+      407.88
+    ],
+    "render_scale": 2.3,
+    "image": "daily/2026-10-24/images/gempic/table-3-downramp.png",
+    "sha256": "58242366f82ea9fbd9115d396cff1f1923a1c518828f29abf68199b814adfd6a",
+    "provenance": "Unmodified original PDF figure/table excerpt; cropped, no data redrawn"
+  },
+  {
+    "doi": "10.48550/arXiv.2610.31340",
+    "source_pdf": "daily/2026-10-24/pdfs/Brown et al. - 2026 - Laser DD neutrons Cu64 from natural zinc.pdf",
+    "source_pdf_sha256": "5e0af5bd1f9585b296675def53c9fa3122b162554b03d9cebb2c84961da1cf68",
+    "pdf_page": 2,
+    "label": "figure-1-source",
+    "clip_pdf_points": [
+      24.48,
+      225.71999999999997,
+      312.12,
+      764.28
+    ],
+    "render_scale": 2.3,
+    "image": "daily/2026-10-24/images/cu64/figure-1-source.png",
+    "sha256": "fa38bc72f4006d0b6e6a810e6521b7cc704edb22bda4322e2a0e3c8102d492ad",
+    "provenance": "Unmodified original PDF figure/table excerpt; cropped, no data redrawn"
+  },
+  {
+    "doi": "10.48550/arXiv.2610.31340",
+    "source_pdf": "daily/2026-10-24/pdfs/Brown et al. - 2026 - Laser DD neutrons Cu64 from natural zinc.pdf",
+    "source_pdf_sha256": "5e0af5bd1f9585b296675def53c9fa3122b162554b03d9cebb2c84961da1cf68",
+    "pdf_page": 4,
+    "label": "figure-3-gamma",
+    "clip_pdf_points": [
+      24.48,
+      31.68,
+      312.12,
+      526.6800000000001
+    ],
+    "render_scale": 2.3,
+    "image": "daily/2026-10-24/images/cu64/figure-3-gamma.png",
+    "sha256": "a2b8ea69807de050c1801d66c57dea8957fec62e5dc0f42aed8b649bb8e41d9d",
+    "provenance": "Unmodified original PDF figure/table excerpt; cropped, no data redrawn"
+  }
+]

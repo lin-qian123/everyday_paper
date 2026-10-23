@@ -1,0 +1,58 @@
+[
+  {
+    "ok": true,
+    "output": "daily/2026-10-24/pdfs/Jin et al. - 2026 - LWFA angular chirp and wavefront stability.pdf",
+    "source_url": "https://harvest.aps.org/v2/journals/articles/10.1103/rsvg-r3bg/fulltext",
+    "mode": "env-proxy",
+    "attempts": [],
+    "doi": "10.1103/rsvg-r3bg"
+  },
+  {
+    "ok": true,
+    "output": "daily/2026-10-24/pdfs/Pukhov - 2026 - GEM-PIC-RZ nonuniform Galilean PIC.pdf",
+    "source_url": "https://arxiv.org/pdf/2610.31622v1",
+    "mode": "env-proxy",
+    "attempts": [],
+    "doi": "10.48550/arXiv.2610.31622"
+  },
+  {
+    "ok": true,
+    "output": "daily/2026-10-24/pdfs/Brown et al. - 2026 - Laser DD neutrons Cu64 from natural zinc.pdf",
+    "source_url": "https://arxiv.org/pdf/2610.31340v1",
+    "mode": "env-proxy",
+    "attempts": [],
+    "doi": "10.48550/arXiv.2610.31340"
+  },
+  {
+    "doi": "10.1103/mhz4-f54x",
+    "ok": false,
+    "output": "daily/2026-10-24/pdfs/interface.pdf",
+    "attempts": [
+      "[env-proxy] https://harvest.aps.org/v2/journals/articles/10.1103/mhz4-f54x/fulltext -> HTTP 404",
+      "[direct] https://harvest.aps.org/v2/journals/articles/10.1103/mhz4-f54x/fulltext -> HTTP 404",
+      "[env-proxy] https://journals.aps.org/pre/pdf/10.1103/mhz4-f54x -> HTTP 403",
+      "[direct] https://journals.aps.org/pre/pdf/10.1103/mhz4-f54x -> HTTP 404",
+      "[env-proxy] https://doi.org/10.1103/mhz4-f54x -> HTTP 403",
+      "[direct] https://doi.org/10.1103/mhz4-f54x -> not pdf (content-type=text/html;charset=utf-8)",
+      "[env-proxy] https://journals.aps.org/pre/accepted/10.1103/mhz4-f54x -> HTTP 403",
+      "[direct] https://journals.aps.org/pre/accepted/10.1103/mhz4-f54x -> not pdf (content-type=text/html;charset=utf-8)"
+    ],
+    "failure_class": "publisher_http_404_403_and_non_pdf_html"
+  },
+  {
+    "doi": "10.1103/h5kg-lvr7",
+    "ok": false,
+    "output": "daily/2026-10-24/pdfs/thz.pdf",
+    "attempts": [
+      "[env-proxy] https://harvest.aps.org/v2/journals/articles/10.1103/h5kg-lvr7/fulltext -> HTTP 404",
+      "[direct] https://harvest.aps.org/v2/journals/articles/10.1103/h5kg-lvr7/fulltext -> HTTP 404",
+      "[env-proxy] https://journals.aps.org/prab/pdf/10.1103/h5kg-lvr7 -> HTTP 403",
+      "[direct] https://journals.aps.org/prab/pdf/10.1103/h5kg-lvr7 -> HTTP 404",
+      "[env-proxy] https://doi.org/10.1103/h5kg-lvr7 -> HTTP 403",
+      "[direct] https://doi.org/10.1103/h5kg-lvr7 -> not pdf (content-type=text/html;charset=utf-8)",
+      "[env-proxy] https://journals.aps.org/prab/accepted/10.1103/h5kg-lvr7 -> HTTP 403",
+      "[direct] https://journals.aps.org/prab/accepted/10.1103/h5kg-lvr7 -> not pdf (content-type=text/html;charset=utf-8)"
+    ],
+    "failure_class": "publisher_http_404_403_and_non_pdf_html"
+  }
+]

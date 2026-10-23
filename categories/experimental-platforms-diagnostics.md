@@ -2,11 +2,13 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：162 篇
-- 索引更新时间：2026-10-23
+- 当前收录：164 篇
+- 索引更新时间：2026-10-24
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-24 | [Improved electron beam stability in laser wakefield acceleration through control of laser angular chirp and wavefront stability](../papers/10-1103-rsvg-r3bg/README.md) | Physical Review Research 8, 043090 | [笔记](../daily/2026-10-24/notes/Jin et al. - 2026 - LWFA angular chirp and wavefront stability.md) |
+| 2026-10-24 | [Direct Production of Ultra-High Radioisotopic Pure $^{64}$Cu from Natural Zinc Metal via D-D Fusion Narrowband Fast Neutron Source Irradiation](../papers/arxiv-2610-31340/README.md) | arXiv preprint | [笔记](../daily/2026-10-24/notes/Brown et al. - 2026 - Laser DD neutrons Cu64 from natural zinc.md) |
 | 2026-10-23 | [Optimization of room-temperature targets for laser direct-drive fusion](../papers/10-1088-1741-4326-aeb1db/README.md) | Nuclear Fusion 67 (2027), 016007 | [笔记](../daily/2026-10-23/notes/Du et al. - 2026 - Room temperature direct drive fusion targets.md) |
 | 2026-10-23 | [BM3DORNL: High-Performance BM3D Denoising for Neutron Tomography](../papers/10-21105-joss-11132/README.md) | Journal of Open Source Software | [笔记](../daily/2026-10-23/notes/Zhang et al. - 2026 - BM3DORNL neutron tomography.md) |
 | 2026-10-23 | [Ultrastrong quantum squeezing mediated by plasma waves](../papers/10-1103-c4r9-jsw7/README.md) | Physical Review E | [笔记](../daily/2026-10-23/notes/Qu et al. - 2026 - Plasma wave quantum squeezing.md) |

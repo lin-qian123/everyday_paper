@@ -1,0 +1,75 @@
+{
+  "run_date": "2026-10-24",
+  "status": "local validation passed; scoped commit and push follow",
+  "processed_before": 490,
+  "processed_after": 493,
+  "retry_before": 44,
+  "retry_after": 46,
+  "new_papers": [
+    "10.1103/rsvg-r3bg",
+    "10.48550/arXiv.2610.31622",
+    "10.48550/arXiv.2610.31340"
+  ],
+  "new_retry": [
+    "10.1103/mhz4-f54x",
+    "10.1103/h5kg-lvr7"
+  ],
+  "fulltext": {
+    "valid_documents": 3,
+    "formal_vor": 1,
+    "author_preprints": 2,
+    "pages": 34,
+    "pdf_bytes": 7775630,
+    "layout_text_bytes": 203484,
+    "mineru_pipeline_completed": 3,
+    "visually_checked_pages": 16,
+    "retained_original_excerpts": 6
+  },
+  "evidence_boundaries": [
+    "Jin direct LWFA measurements plus optical/PIC support; N20 historical vs N50 stabilized statistics; covariance decomposition not causal attribution; Fig9 5.6percent mismatch retained.",
+    "GEM-PIC-RZ reduced forward Maxwell model; sharp downramp self-injection fails; regularization-sensitive charge and core-time/walltime distinctions retained.",
+    "Brown laser-ion/catcher/neutron/zinc activation experiment; low activity and six delayed spectra; 99.97percent purity model/MDA corrected with 1.54percentage-point uncertainty, no threshold certification; chemical/clinical/shielding gaps retained.",
+    "No author physics solver, regression, transport, activation model or experiment rerun."
+  ],
+  "validation": {
+    "index_builder": "Indexed 493 papers across 9 categories; current-day index/run_results navigation verified",
+    "pytest": "PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q: 7 passed in 4.79s",
+    "artifact_audit": {
+      "ledger": 493,
+      "retry": 46,
+      "unique_nonnull_identifiers": 489,
+      "unique_normalized_titles": 493,
+      "prior_490_completed_records_unchanged": true,
+      "prior_44_retry_records_unchanged": true,
+      "legacy_processed_retry_overlap": [
+        "10.1016/j.jcp.2026.114707"
+      ],
+      "new_pdfs": 3,
+      "pages": 34,
+      "pdf_bytes": 7775630,
+      "layout_text_bytes": 203484,
+      "mineru_successes": 3,
+      "visually_checked_pages": 16,
+      "images": 6,
+      "scoped_markdown_files": 22,
+      "scoped_local_links": 3038,
+      "json_or_jsonl_files": 10,
+      "ignored_pdf_text_artifacts": 9,
+      "note_files": 3,
+      "preexisting_agents_preserved": true,
+      "scoped_file_count": 38
+    },
+    "diff_check": "git diff --check passed; staged diff check follows",
+    "temporary_assets": "Temporary parser ZIP/cache, raw discovery responses and full-page contact sheets removed after publication; three PDFs, three layout texts and three MinerU texts retained locally and Git-ignored.",
+    "staging": "38 scoped files; pre-existing AGENTS.md excluded; nine PDF/text artifacts remain local"
+  },
+  "publication": {
+    "branch": "master",
+    "remote": "origin",
+    "target": "refs/heads/master",
+    "status": "Commit and push follow successful local validation; final parity recorded in automation memory and final response.",
+    "parent_commit": "23a8e9ae3cdd33ca150e22108f4e6a2c175a1298"
+  },
+  "prepared_at": "2026-10-24T07:14:07.024632+08:00",
+  "validated_at": "2026-10-24T07:15:12.457825+08:00"
+}

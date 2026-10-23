@@ -892,5 +892,61 @@
     "last_failure_class": "http_404_and_html_verification",
     "stderr": "Official APS harvest fulltext returned HTTP 404 via proxy and direct; journals.aps.org/pre/pdf returned HTTP 403 Just a moment HTML via both modes. No PDF ingested. Exact-title/bounded author-title arXiv and primary web search did not verify a matching author manuscript.",
     "evidence_path": "daily/2026-10-23/research/grating-fallback.json"
+  },
+  {
+    "title": "Identification of rippling interface between laser-ablated plasma and ambient uniform plasma at rest",
+    "doi": "10.1103/mhz4-f54x",
+    "journal": "Physical Review E",
+    "publication_date": "2026-10-23",
+    "source_url": "https://doi.org/10.1103/mhz4-f54x",
+    "pdf_hint_url": "https://harvest.aps.org/v2/journals/articles/10.1103/mhz4-f54x/fulltext",
+    "output_pdf": "daily/2026-10-24/pdfs/interface.pdf",
+    "first_seen_date": "2026-10-24",
+    "last_retry_at": "2026-10-24T07:13:03.115197+08:00",
+    "retry_count": 1,
+    "failure_count": 1,
+    "reason": "publisher_http_404_403_and_non_pdf_html",
+    "last_failure_class": "publisher_http_403",
+    "source_family": "other",
+    "attempts": [
+      "[env-proxy] https://harvest.aps.org/v2/journals/articles/10.1103/mhz4-f54x/fulltext -> HTTP 404",
+      "[direct] https://harvest.aps.org/v2/journals/articles/10.1103/mhz4-f54x/fulltext -> HTTP 404",
+      "[env-proxy] https://journals.aps.org/pre/pdf/10.1103/mhz4-f54x -> HTTP 403",
+      "[direct] https://journals.aps.org/pre/pdf/10.1103/mhz4-f54x -> HTTP 404",
+      "[env-proxy] https://doi.org/10.1103/mhz4-f54x -> HTTP 403",
+      "[direct] https://doi.org/10.1103/mhz4-f54x -> not pdf (content-type=text/html;charset=utf-8)",
+      "[env-proxy] https://journals.aps.org/pre/accepted/10.1103/mhz4-f54x -> HTTP 403",
+      "[direct] https://journals.aps.org/pre/accepted/10.1103/mhz4-f54x -> not pdf (content-type=text/html;charset=utf-8)"
+    ],
+    "author_manuscript_search": "Exact-title official arXiv query returned zero entries; bounded web lookup did not verify a matching lawful author manuscript.",
+    "status": "retry_fulltext_required_no_abstract_only_note"
+  },
+  {
+    "title": "Superradiant terahertz free electron laser driven by wakefield modulated electron bunches",
+    "doi": "10.1103/h5kg-lvr7",
+    "journal": "Physical Review Accelerators and Beams",
+    "publication_date": "2026-10-23",
+    "source_url": "https://doi.org/10.1103/h5kg-lvr7",
+    "pdf_hint_url": "https://harvest.aps.org/v2/journals/articles/10.1103/h5kg-lvr7/fulltext",
+    "output_pdf": "daily/2026-10-24/pdfs/thz.pdf",
+    "first_seen_date": "2026-10-24",
+    "last_retry_at": "2026-10-24T07:13:03.115197+08:00",
+    "retry_count": 1,
+    "failure_count": 1,
+    "reason": "publisher_http_404_403_and_non_pdf_html",
+    "last_failure_class": "publisher_http_403",
+    "source_family": "other",
+    "attempts": [
+      "[env-proxy] https://harvest.aps.org/v2/journals/articles/10.1103/h5kg-lvr7/fulltext -> HTTP 404",
+      "[direct] https://harvest.aps.org/v2/journals/articles/10.1103/h5kg-lvr7/fulltext -> HTTP 404",
+      "[env-proxy] https://journals.aps.org/prab/pdf/10.1103/h5kg-lvr7 -> HTTP 403",
+      "[direct] https://journals.aps.org/prab/pdf/10.1103/h5kg-lvr7 -> HTTP 404",
+      "[env-proxy] https://doi.org/10.1103/h5kg-lvr7 -> HTTP 403",
+      "[direct] https://doi.org/10.1103/h5kg-lvr7 -> not pdf (content-type=text/html;charset=utf-8)",
+      "[env-proxy] https://journals.aps.org/prab/accepted/10.1103/h5kg-lvr7 -> HTTP 403",
+      "[direct] https://journals.aps.org/prab/accepted/10.1103/h5kg-lvr7 -> not pdf (content-type=text/html;charset=utf-8)"
+    ],
+    "author_manuscript_search": "Exact-title official arXiv query returned zero entries; bounded web lookup did not verify a matching lawful author manuscript.",
+    "status": "retry_fulltext_required_no_abstract_only_note"
   }
 ]

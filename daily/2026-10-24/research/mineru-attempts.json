@@ -1,0 +1,42 @@
+{
+  "ok": true,
+  "items": [
+    {
+      "ok": true,
+      "source": "https://harvest.aps.org/v2/journals/articles/10.1103/rsvg-r3bg/fulltext",
+      "task_id": "45f92632-5082-4e94-ad36-c70adddc8d99",
+      "state": "done",
+      "model_version": "pipeline",
+      "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-10-24/45f92632-5082-4e94-ad36-c70adddc8d99.zip",
+      "fetched_at": 1792796791,
+      "local_extracted_text": "daily/2026-10-24/pdfs/Jin et al. - 2026 - LWFA angular chirp and wavefront stability.mineru.txt",
+      "characters": 63058,
+      "content_verified": "Compared identity, methods, quantitative results and selected figure/table captions against validated local PDF and layout text"
+    },
+    {
+      "ok": true,
+      "source": "https://arxiv.org/pdf/2610.31622v1",
+      "task_id": "9caedb79-2536-4621-ab1e-dc1963b125a8",
+      "state": "done",
+      "model_version": "pipeline",
+      "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-10-24/9caedb79-2536-4621-ab1e-dc1963b125a8.zip",
+      "fetched_at": 1792796810,
+      "local_extracted_text": "daily/2026-10-24/pdfs/Pukhov - 2026 - GEM-PIC-RZ nonuniform Galilean PIC.mineru.txt",
+      "characters": 69870,
+      "content_verified": "Compared identity, methods, quantitative results and selected figure/table captions against validated local PDF and layout text"
+    },
+    {
+      "ok": true,
+      "source": "https://arxiv.org/pdf/2610.31340v1",
+      "task_id": "7b9e342a-172a-43a7-911a-a353c3312a83",
+      "state": "done",
+      "model_version": "pipeline",
+      "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-10-24/7b9e342a-172a-43a7-911a-a353c3312a83.zip",
+      "fetched_at": 1792796822,
+      "local_extracted_text": "daily/2026-10-24/pdfs/Brown et al. - 2026 - Laser DD neutrons Cu64 from natural zinc.mineru.txt",
+      "characters": 24751,
+      "content_verified": "Compared identity, methods, quantitative results and selected figure/table captions against validated local PDF and layout text"
+    }
+  ],
+  "errors": []
+}

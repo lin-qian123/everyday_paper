@@ -6335,5 +6335,63 @@
     "pdf_sha256": "d7d39899956cdffe3864d7cb8fa61b80240a6c0213ac4b1487d4ef3948705bcc",
     "arxiv_id": "2610.28250",
     "arxiv_version": "2610.28250v1"
+  },
+  {
+    "doi": "10.1103/rsvg-r3bg",
+    "title": "Improved electron beam stability in laser wakefield acceleration through control of laser angular chirp and wavefront stability",
+    "journal": "Physical Review Research 8, 043090",
+    "publication_date": "2026-10-23",
+    "source_url": "https://doi.org/10.1103/rsvg-r3bg",
+    "pdf_url": "https://harvest.aps.org/v2/journals/articles/10.1103/rsvg-r3bg/fulltext",
+    "fulltext_version": "publisher version of record",
+    "categories": [
+      "laser-plasma-acceleration",
+      "experimental-platforms-diagnostics"
+    ],
+    "processed_date": "2026-10-24",
+    "pdf_path": "daily/2026-10-24/pdfs/Jin et al. - 2026 - LWFA angular chirp and wavefront stability.pdf",
+    "note_path": "daily/2026-10-24/notes/Jin et al. - 2026 - LWFA angular chirp and wavefront stability.md",
+    "normalized_title": "improved electron beam stability in laser wakefield acceleration through control of laser angular chirp and wavefront stability",
+    "pdf_sha256": "2ffc9986d133a0cabb9cc069b4ae7aee390f96a8e0553fdebdd5e0d139aed039"
+  },
+  {
+    "doi": "10.48550/arXiv.2610.31622",
+    "arxiv_id": "2610.31622",
+    "arxiv_version": "2610.31622v1",
+    "title": "GEM-PIC-RZ: a Galilean electromagnetic particle-in-cell code in quasi-cylindrical geometry with nonuniform grids",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-22",
+    "source_url": "https://arxiv.org/abs/2610.31622v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.31622v1",
+    "fulltext_version": "official arXiv v1 author preprint",
+    "categories": [
+      "pic-and-plasma-simulation",
+      "laser-plasma-acceleration"
+    ],
+    "processed_date": "2026-10-24",
+    "pdf_path": "daily/2026-10-24/pdfs/Pukhov - 2026 - GEM-PIC-RZ nonuniform Galilean PIC.pdf",
+    "note_path": "daily/2026-10-24/notes/Pukhov - 2026 - GEM-PIC-RZ nonuniform Galilean PIC.md",
+    "normalized_title": "gem pic rz a galilean electromagnetic particle in cell code in quasi cylindrical geometry with nonuniform grids",
+    "pdf_sha256": "185098995a99c6a2b9bd53d0a8c91cc1c9e9becb49da24cea8eecb71c5a44de8"
+  },
+  {
+    "doi": "10.48550/arXiv.2610.31340",
+    "arxiv_id": "2610.31340",
+    "arxiv_version": "2610.31340v1",
+    "title": "Direct Production of Ultra-High Radioisotopic Pure $^{64}$Cu from Natural Zinc Metal via D-D Fusion Narrowband Fast Neutron Source Irradiation",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-22",
+    "source_url": "https://arxiv.org/abs/2610.31340v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.31340v1",
+    "fulltext_version": "official arXiv v1 author preprint",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "experimental-platforms-diagnostics"
+    ],
+    "processed_date": "2026-10-24",
+    "pdf_path": "daily/2026-10-24/pdfs/Brown et al. - 2026 - Laser DD neutrons Cu64 from natural zinc.pdf",
+    "note_path": "daily/2026-10-24/notes/Brown et al. - 2026 - Laser DD neutrons Cu64 from natural zinc.md",
+    "normalized_title": "direct production of ultra high radioisotopic pure 64 cu from natural zinc metal via d d fusion narrowband fast neutron source irradiation",
+    "pdf_sha256": "5e0af5bd1f9585b296675def53c9fa3122b162554b03d9cebb2c84961da1cf68"
   }
 ]

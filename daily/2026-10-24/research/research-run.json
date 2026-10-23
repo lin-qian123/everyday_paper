@@ -1,0 +1,221 @@
+{
+  "run_date": "2026-10-24",
+  "queried_at": "2026-10-24T07:13:03.115197+08:00",
+  "crossref": {
+    "date_window": [
+      "2026-10-23",
+      "2026-10-24"
+    ],
+    "queries": [
+      {
+        "query": "laser plasma acceleration",
+        "url": "https://api.crossref.org/works?query=laser+plasma+acceleration&filter=from-pub-date%3A2026-10-23%2Cuntil-pub-date%3A2026-10-24&sort=published&order=desc&rows=75",
+        "returned": 75,
+        "error": null
+      },
+      {
+        "query": "strong field QED radiation reaction",
+        "url": "https://api.crossref.org/works?query=strong+field+QED+radiation+reaction&filter=from-pub-date%3A2026-10-23%2Cuntil-pub-date%3A2026-10-24&sort=published&order=desc&rows=75",
+        "returned": 75,
+        "error": null
+      },
+      {
+        "query": "high energy density inertial confinement fusion",
+        "url": "https://api.crossref.org/works?query=high+energy+density+inertial+confinement+fusion&filter=from-pub-date%3A2026-10-23%2Cuntil-pub-date%3A2026-10-24&sort=published&order=desc&rows=75",
+        "returned": 75,
+        "error": null
+      },
+      {
+        "query": "particle in cell plasma simulation",
+        "url": "https://api.crossref.org/works?query=particle+in+cell+plasma+simulation&filter=from-pub-date%3A2026-10-23%2Cuntil-pub-date%3A2026-10-24&sort=published&order=desc&rows=75",
+        "returned": 75,
+        "error": null
+      },
+      {
+        "query": "machine learning plasma physics",
+        "url": "https://api.crossref.org/works?query=machine+learning+plasma+physics&filter=from-pub-date%3A2026-10-23%2Cuntil-pub-date%3A2026-10-24&sort=published&order=desc&rows=75",
+        "returned": 75,
+        "error": null
+      },
+      {
+        "query": "laser electron bremsstrahlung gamma converter",
+        "url": "https://api.crossref.org/works?query=laser+electron+bremsstrahlung+gamma+converter&filter=from-pub-date%3A2026-10-23%2Cuntil-pub-date%3A2026-10-24&sort=published&order=desc&rows=75",
+        "returned": 75,
+        "error": null
+      },
+      {
+        "query": "laser proton ion neutron isotope photonuclear",
+        "url": "https://api.crossref.org/works?query=laser+proton+ion+neutron+isotope+photonuclear&filter=from-pub-date%3A2026-10-23%2Cuntil-pub-date%3A2026-10-24&sort=published&order=desc&rows=75",
+        "returned": 75,
+        "error": null
+      },
+      {
+        "query": "laser beam radiotherapy dosimetry shielding",
+        "url": "https://api.crossref.org/works?query=laser+beam+radiotherapy+dosimetry+shielding&filter=from-pub-date%3A2026-10-23%2Cuntil-pub-date%3A2026-10-24&sort=published&order=desc&rows=75",
+        "returned": 75,
+        "error": null
+      },
+      {
+        "query": "plasma target design beam diagnostics",
+        "url": "https://api.crossref.org/works?query=plasma+target+design+beam+diagnostics&filter=from-pub-date%3A2026-10-23%2Cuntil-pub-date%3A2026-10-24&sort=published&order=desc&rows=75",
+        "returned": 75,
+        "error": null
+      },
+      {
+        "query": "nuclear reaction laser irradiation material",
+        "url": "https://api.crossref.org/works?query=nuclear+reaction+laser+irradiation+material&filter=from-pub-date%3A2026-10-23%2Cuntil-pub-date%3A2026-10-24&sort=published&order=desc&rows=75",
+        "returned": 75,
+        "error": null
+      }
+    ],
+    "returned_rows": 750,
+    "unique_dois": 559,
+    "errors": 0,
+    "coverage_limit": "Ten theme queries capped at 75 rows each, sorted by publication date; includes non-journal and lexical off-topic records. Bounded discovery, not exhaustive."
+  },
+  "arxiv": {
+    "query_batches": [
+      {
+        "categories": [
+          "physics.plasm-ph",
+          "physics.acc-ph",
+          "physics.comp-ph",
+          "physics.med-ph",
+          "hep-ph"
+        ],
+        "returned": 300,
+        "latest_visible_submission": "2026-10-22T17:59:46Z"
+      },
+      {
+        "categories": [
+          "physics.plasm-ph",
+          "physics.acc-ph",
+          "physics.comp-ph",
+          "nucl-ex",
+          "physics.ins-det"
+        ],
+        "returned": 300,
+        "latest_visible_submission": "2026-10-22T17:42:58Z"
+      }
+    ],
+    "union_unique_entries": 515,
+    "coverage_limit": "Overlapping 300-row recent windows; no claim to cover all categories or all 2026 works."
+  },
+  "web": {
+    "queries": [
+      "laser plasma October 23 2026 neutron gamma electron acceleration",
+      "strong field QED October 2026 published plasma machine learning",
+      "site.arxiv.org/abs/2610 laser plasma neutron",
+      "site.journals.aps.org 2026 October 23 plasma",
+      "site.cambridge.org/core 2026 laser October",
+      "site.arxiv.org 2610 laser gamma",
+      "site.arxiv.org 2610 plasma machine learning",
+      "Identification of rippling interface Yamazaki",
+      "Superradiant terahertz free electron laser Luo",
+      "Direct Production 64 Brown Zinc 2026",
+      "GEM-PIC-RZ"
+    ],
+    "purpose": "Primary-source discovery/identity supplement; many older or irrelevant results; no facts adopted from secondary summaries."
+  },
+  "dedup": {
+    "baseline_completed": 490,
+    "baseline_retry": 44,
+    "methods": [
+      "case-insensitive identifiers and arXiv aliases in DOI/source/PDF URLs",
+      "normalized titles",
+      "source URLs",
+      "authors and physical scenario / prior-work relation"
+    ],
+    "nearest_titles": {
+      "10.1103/rsvg-r3bg": [
+        {
+          "similarity": 0.5093,
+          "doi": "10.1103/qjd9-p6dy",
+          "title": "Experimental Demonstration of Beam-Driven Wakefield Acceleration in Laser-Plasma Filament"
+        },
+        {
+          "similarity": 0.4961,
+          "doi": "10.48550/arXiv.2608.17119",
+          "title": "Bayesian Optimization of Molybdenum-99 Production by Laser Wakefield Acceleration Using Coupled PIC and Monte Carlo Simulations"
+        },
+        {
+          "similarity": 0.4904,
+          "doi": "10.1038/s41598-026-41795-7",
+          "title": "Electron bunch optimization in laser wakefield acceleration through temporally asymmetric pulse shaping in ionization injection regime"
+        }
+      ],
+      "10.48550/arXiv.2610.31622": [
+        {
+          "similarity": 0.549,
+          "doi": "10.48550/arXiv.2605.12132",
+          "title": "High-order exponential solver method for particle-in-cell simulations in cylindrical geometry"
+        },
+        {
+          "similarity": 0.5366,
+          "doi": "10.48550/arXiv.2610.16910",
+          "title": "QUARZ: a quasi-static particle-in-cell code with non-uniform radial grids for plasma wakefields"
+        },
+        {
+          "similarity": 0.5291,
+          "doi": "10.48550/arXiv.2609.16575",
+          "title": "KEMPIC-3D: A transparent and extensible electromagnetic Particle-in-Cell framework for kinetic plasma simulations"
+        }
+      ],
+      "10.48550/arXiv.2610.31340": [
+        {
+          "similarity": 0.4348,
+          "doi": "10.48550/arXiv.2607.25856",
+          "title": "Calibration of scintillator-based X-ray detectors for broadband laser-driven X-ray radiation"
+        },
+        {
+          "similarity": 0.4019,
+          "doi": "10.1017/hpl.2026.10117",
+          "title": "Generation of X-ray Spatiotemporal Vortices via Nonlinear Thomson Scattering"
+        },
+        {
+          "similarity": 0.3891,
+          "doi": "10.48550/arXiv.2610.05386",
+          "title": "Radiation Reaction in Relativistic Magnetized Shocks of Neutron Star Magnetospheres"
+        }
+      ]
+    },
+    "scenario_decisions": [
+      "Jin angular-chirp/wavefront fluctuation study differs from existing proton angular chirp and older LWFA platform/FEL reports; historical baseline explicitly identified.",
+      "GEM-PIC-RZ carrier-resolving reduced Maxwell implementation differs from existing QUARZ quasi-static code; JCP GEM-PIC is cited precursor.",
+      "Brown natural-zinc activation/HPGe study differs from existing neutron-source publications and simulated photonuclear/neutron capture; shared facility does not make it the same work."
+    ]
+  },
+  "selection": {
+    "ingested": [
+      "10.1103/rsvg-r3bg",
+      "10.48550/arXiv.2610.31622",
+      "10.48550/arXiv.2610.31340"
+    ],
+    "formal_vor": 1,
+    "recent_preprints": 2,
+    "retry_added": [
+      "10.1103/mhz4-f54x",
+      "10.1103/h5kg-lvr7"
+    ],
+    "old_retry_records_unchanged": 44,
+    "no_unchanged_source_reprobe": "No new availability signal for 44 old blocked/embargoed retries; avoided repeated identical probes.",
+    "lower_priority": [
+      {
+        "doi": "10.1007/s40192-026-00482-1",
+        "title": "A Closed-Loop Automation Framework for High-Throughput Laser-Driven Micro-flyer Impact Experiments",
+        "status": "metadata lead only, not full-text read or ingested"
+      },
+      {
+        "arxiv": "2610.31021",
+        "title": "On Spurious Mesh-Scale Oscillations Associated with Resonance-Cone Regimes in Wave-Plasma Simulations",
+        "status": "lower priority method lead, not ingested"
+      },
+      {
+        "arxiv": "2610.31324",
+        "title": "Multigroup Radiation Diffusion with Compton Scattering on a Moving Mesh",
+        "status": "tidal-disruption application, lower priority, not ingested"
+      }
+    ],
+    "evidence_limit": "Brown adds laser-ion/catcher/neutron/activation experiment; purity has model/MDA/uncertainty limits. No new clinical, shielding acceptance, photonuclear or strong-external-field QED observation."
+  }
+}
