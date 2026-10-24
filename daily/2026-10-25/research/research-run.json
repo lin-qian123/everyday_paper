@@ -1,0 +1,162 @@
+{
+  "run_date": "2026-10-25",
+  "queried_at": "2026-10-25T07:08:47.642099+08:00",
+  "crossref": {
+    "date_window": [
+      "2026-10-24",
+      "2026-10-25"
+    ],
+    "queries": [
+      {
+        "query": "laser plasma acceleration",
+        "url": "https://api.crossref.org/works?query=laser+plasma+acceleration&filter=from-pub-date%3A2026-10-24%2Cuntil-pub-date%3A2026-10-25&sort=published&order=desc&rows=75",
+        "returned": 72,
+        "error": null
+      },
+      {
+        "query": "strong field QED radiation reaction",
+        "url": "https://api.crossref.org/works?query=strong+field+QED+radiation+reaction&filter=from-pub-date%3A2026-10-24%2Cuntil-pub-date%3A2026-10-25&sort=published&order=desc&rows=75",
+        "returned": 53,
+        "error": null
+      },
+      {
+        "query": "high energy density inertial confinement fusion",
+        "url": "https://api.crossref.org/works?query=high+energy+density+inertial+confinement+fusion&filter=from-pub-date%3A2026-10-24%2Cuntil-pub-date%3A2026-10-25&sort=published&order=desc&rows=75",
+        "returned": 75,
+        "error": null
+      },
+      {
+        "query": "particle in cell plasma simulation",
+        "url": "https://api.crossref.org/works?query=particle+in+cell+plasma+simulation&filter=from-pub-date%3A2026-10-24%2Cuntil-pub-date%3A2026-10-25&sort=published&order=desc&rows=75",
+        "returned": 75,
+        "error": null
+      },
+      {
+        "query": "machine learning plasma physics",
+        "url": "https://api.crossref.org/works?query=machine+learning+plasma+physics&filter=from-pub-date%3A2026-10-24%2Cuntil-pub-date%3A2026-10-25&sort=published&order=desc&rows=75",
+        "returned": 75,
+        "error": null
+      },
+      {
+        "query": "laser electron bremsstrahlung gamma converter",
+        "url": "https://api.crossref.org/works?query=laser+electron+bremsstrahlung+gamma+converter&filter=from-pub-date%3A2026-10-24%2Cuntil-pub-date%3A2026-10-25&sort=published&order=desc&rows=75",
+        "returned": 75,
+        "error": null
+      },
+      {
+        "query": "laser proton ion neutron isotope photonuclear",
+        "url": "https://api.crossref.org/works?query=laser+proton+ion+neutron+isotope+photonuclear&filter=from-pub-date%3A2026-10-24%2Cuntil-pub-date%3A2026-10-25&sort=published&order=desc&rows=75",
+        "returned": 71,
+        "error": null
+      },
+      {
+        "query": "laser beam radiotherapy dosimetry shielding",
+        "url": "https://api.crossref.org/works?query=laser+beam+radiotherapy+dosimetry+shielding&filter=from-pub-date%3A2026-10-24%2Cuntil-pub-date%3A2026-10-25&sort=published&order=desc&rows=75",
+        "returned": 69,
+        "error": null
+      },
+      {
+        "query": "plasma target design beam diagnostics",
+        "url": "https://api.crossref.org/works?query=plasma+target+design+beam+diagnostics&filter=from-pub-date%3A2026-10-24%2Cuntil-pub-date%3A2026-10-25&sort=published&order=desc&rows=75",
+        "returned": 75,
+        "error": null
+      },
+      {
+        "query": "nuclear reaction laser irradiation material",
+        "url": "https://api.crossref.org/works?query=nuclear+reaction+laser+irradiation+material&filter=from-pub-date%3A2026-10-24%2Cuntil-pub-date%3A2026-10-25&sort=published&order=desc&rows=75",
+        "returned": 75,
+        "error": null
+      }
+    ],
+    "returned_rows": 715,
+    "unique_dois": 423,
+    "errors": 0,
+    "coverage_limit": "Ten bounded topic queries, at most 75 rows each, sorted by publication date. Includes lexical off-topic records and book chapters; not exhaustive."
+  },
+  "arxiv": {
+    "query_batches": [
+      {
+        "categories": [
+          "physics.plasm-ph",
+          "physics.acc-ph",
+          "physics.comp-ph",
+          "physics.med-ph",
+          "hep-ph"
+        ],
+        "url": "https://export.arxiv.org/api/query?search_query=cat%3Aphysics.plasm-ph+OR+cat%3Aphysics.acc-ph+OR+cat%3Aphysics.comp-ph+OR+cat%3Aphysics.med-ph+OR+cat%3Ahep-ph&sortBy=submittedDate&sortOrder=descending&max_results=300",
+        "returned": 300,
+        "latest_visible_submission": "2026-10-22T17:59:46Z",
+        "error": null
+      },
+      {
+        "categories": [
+          "physics.plasm-ph",
+          "physics.acc-ph",
+          "physics.comp-ph",
+          "nucl-ex",
+          "physics.ins-det"
+        ],
+        "url": "https://export.arxiv.org/api/query?search_query=cat%3Aphysics.plasm-ph+OR+cat%3Aphysics.acc-ph+OR+cat%3Aphysics.comp-ph+OR+cat%3Anucl-ex+OR+cat%3Aphysics.ins-det&sortBy=submittedDate&sortOrder=descending&max_results=300",
+        "returned": 300,
+        "latest_visible_submission": "2026-10-22T17:42:58Z",
+        "error": null
+      }
+    ],
+    "union_unique_entries": 515,
+    "decision": "Latest visible submissions unchanged from last run, 2026-10-22. No preprint needed after selecting two formal full-text papers; lower-priority unprocessed leads retained below."
+  },
+  "primary_web_supplement": [
+    {
+      "url": "https://journals.aps.org/pre/abstract/10.1103/yrts-62hs",
+      "finding": "Official VOR published 2026-10-23; 2026-10-06 was acceptance date in old retry, not final publication date."
+    },
+    {
+      "url": "https://www.nature.com/articles/s42005-026-02872-5",
+      "finding": "2026-10-24 news is about 2026-10-16 formal SAXS paper, already ingested 2026-10-17; skipped."
+    }
+  ],
+  "selected": [
+    {
+      "doi": "10.1103/yrts-62hs",
+      "decision": "Recover old full-text retry after new formal-publication signal; official APS harvest VOR."
+    },
+    {
+      "doi": "10.1007/s41365-026-02073-3",
+      "decision": "New 2026-10-24 formal VOR; official Springer PDF works direct after proxy HTML."
+    }
+  ],
+  "deferred_metadata_only": [
+    {
+      "id": "2610.31021",
+      "title": "On Spurious Mesh-Scale Oscillations Associated with Resonance-Cone Regimes in Wave-Plasma Simulations",
+      "reason": "General cold-plasma FEM verification; lower priority than new formal beam-source and converter/dosimetry papers. No full-text ingestion claim."
+    },
+    {
+      "id": "2610.31367",
+      "title": "Synthetic 2D magnetic turbulence with controlled island structuring",
+      "reason": "Synthetic turbulence, lower direct relevance; no full-text reading claim."
+    },
+    {
+      "doi": "10.1007/s10967-026-11251-x",
+      "title": "Calibration of a survey meter for gamma radiation in neutron activation analysis: a case study on metrological traceability and uncertainty evaluation",
+      "reason": "Lower priority general calibration; metadata only."
+    }
+  ],
+  "deduplication": {
+    "baseline_records": 493,
+    "baseline_retry": 46,
+    "keys": [
+      "case-folded DOI",
+      "arXiv aliases",
+      "normalized title",
+      "source URLs",
+      "authors and physical scenario"
+    ],
+    "examples": [
+      "Ota SAXS same DOI/title already ingested; skip",
+      "Biagioni capillary is existing retry, not existing completed paper; recover and remove retry after verified ingestion",
+      "FLASH compact RF LINAC source is distinct from prior kerma/dosimetry studies; compare source, field and title"
+    ]
+  },
+  "search_limit": "Bounded discovery; no claim of exhaustive literature coverage. No new selected strong-field QED or laser-converter/photonuclear-neutron end-to-end experiment."
+}

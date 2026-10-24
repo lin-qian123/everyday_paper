@@ -2,11 +2,13 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：164 篇
-- 索引更新时间：2026-10-24
+- 当前收录：166 篇
+- 索引更新时间：2026-10-25
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-25 | [FLASH radiotherapy using high-energy X-rays: critical dosimetry design and characteristics of FLASH radiation platform based on compact LINAC](../papers/10-1007-s41365-026-02073-3/README.md) | Nuclear Science and Techniques | [笔记](../daily/2026-10-25/notes/Zhang et al. - 2026 - Compact LINAC X ray FLASH dosimetry.md) |
+| 2026-10-25 | [Plasma density manipulation in staged discharge capillaries for plasma-based accelerators](../papers/10-1103-yrts-62hs/README.md) | Physical Review E | [笔记](../daily/2026-10-25/notes/Biagioni et al. - 2026 - Staged discharge capillary density control.md) |
 | 2026-10-24 | [Improved electron beam stability in laser wakefield acceleration through control of laser angular chirp and wavefront stability](../papers/10-1103-rsvg-r3bg/README.md) | Physical Review Research 8, 043090 | [笔记](../daily/2026-10-24/notes/Jin et al. - 2026 - LWFA angular chirp and wavefront stability.md) |
 | 2026-10-24 | [Direct Production of Ultra-High Radioisotopic Pure $^{64}$Cu from Natural Zinc Metal via D-D Fusion Narrowband Fast Neutron Source Irradiation](../papers/arxiv-2610-31340/README.md) | arXiv preprint | [笔记](../daily/2026-10-24/notes/Brown et al. - 2026 - Laser DD neutrons Cu64 from natural zinc.md) |
 | 2026-10-23 | [Optimization of room-temperature targets for laser direct-drive fusion](../papers/10-1088-1741-4326-aeb1db/README.md) | Nuclear Fusion 67 (2027), 016007 | [笔记](../daily/2026-10-23/notes/Du et al. - 2026 - Room temperature direct drive fusion targets.md) |

@@ -1,0 +1,44 @@
+{
+  "checked_at": "2026-10-25T07:08:47.642099+08:00",
+  "selected": [
+    {
+      "doi": "10.1103/yrts-62hs",
+      "formal_publication_date": "2026-10-23",
+      "accepted_date": "2026-10-06",
+      "read_version": "APS VOR 114,045210",
+      "same_work_retry_removed_on_ingestion": true
+    },
+    {
+      "doi": "10.1007/s41365-026-02073-3",
+      "formal_publication_date": "2026-10-24",
+      "accepted_date": "2025-10-10",
+      "read_version": "Springer VOR 37,254",
+      "note": "Keep accepted year separate from online-publication year; printed PDF footer confirms 2026-10-24."
+    }
+  ],
+  "no_preprint_selected": true,
+  "retry_recovery": {
+    "previous_record": {
+      "doi": "10.1103/yrts-62hs",
+      "title": "Plasma density manipulation in staged discharge capillaries for plasma-based accelerators",
+      "source_url": "https://doi.org/10.1103/yrts-62hs",
+      "publication_date": "2026-10-06",
+      "journal": "Physical Review E（正式论文元数据；全文端点尚不可达）",
+      "topic": "分段放电毛细管 + 纵向等离子体密度调控 + 等离子体加速器实验/诊断",
+      "run_date": "2026-10-07",
+      "status": "download_failed",
+      "attempt_cmd": "python scripts/safe_pdf_download.py --url https://harvest.aps.org/v2/journals/articles/10.1103/yrts-62hs/fulltext --doi 10.1103/yrts-62hs --output daily/2026-10-07/pdfs/blocked-capillary.pdf --report-json daily/2026-10-07/pdfs/download-reports/10.1103-yrts-62hs.json",
+      "stderr": "APS harvest endpoint returned HTTP 404; DOI and accepted-paper routes returned HTTP 403 or HTML rather than PDF. No matching arXiv preprint or lawful open author manuscript was found during the 2026-10-07 search.",
+      "stdout": "",
+      "output_pdf": "daily/2026-10-07/pdfs/blocked-capillary.pdf",
+      "attempted_at": "2026-10-07T07:04:42+08:00",
+      "last_retry_at": null,
+      "retry_count": 0,
+      "last_failure_class": "publisher_http_403",
+      "source_family": "other",
+      "failure_count": 1
+    },
+    "signal": "Official APS VOR page reports 2026-10-23 publication; newly available official harvest PDF validates as VOR",
+    "resolution": "First completed full-text ingestion on 2026-10-25; remove same DOI from retry after verified notes."
+  }
+}

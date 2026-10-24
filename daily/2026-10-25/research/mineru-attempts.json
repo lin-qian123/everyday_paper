@@ -1,0 +1,28 @@
+[
+  {
+    "key": "capillary",
+    "ok": true,
+    "errors": [],
+    "model_version": "pipeline",
+    "source": "https://harvest.aps.org/v2/journals/articles/10.1103/yrts-62hs/fulltext",
+    "task_id": "21a352b2-3c2b-4165-92d4-e3c01fc1d3a3",
+    "state": "done",
+    "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-10-25/21a352b2-3c2b-4165-92d4-e3c01fc1d3a3.zip",
+    "fulltext_path": "daily/2026-10-25/pdfs/Biagioni et al. - 2026 - Staged discharge capillary density control.mineru.txt",
+    "fulltext_bytes": 47939,
+    "body_checked": true
+  },
+  {
+    "key": "flash",
+    "ok": false,
+    "errors": [
+      {
+        "source": "https://link.springer.com/content/pdf/10.1007/s41365-026-02073-3.pdf",
+        "error": "MinerU task failed: parsing failed, please try again later",
+        "next_step": "If this is a protected page, try another accessible mirror URL."
+      }
+    ],
+    "model_version": "pipeline",
+    "fallback": "Validated local formal VOR, pdftotext -layout, all-page readability, and rendered page/figure inspection; service parsing failed. No MinerU full-text success claimed."
+  }
+]

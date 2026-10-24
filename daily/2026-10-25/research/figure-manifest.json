@@ -1,0 +1,82 @@
+[
+  {
+    "key": "capillary",
+    "pdf_page": 4,
+    "clip_points": [
+      36.45216064453125,
+      64.8,
+      583.2345703125,
+      303.75
+    ],
+    "path": "daily/2026-10-25/images/capillary/figure-3-density.png",
+    "source_pdf_sha256": "70ce617bf158370f99aab3c41afe8269b1e0847d2c7ef36e1e04813d24929afc",
+    "sha256": "fbb8bc0c4bb14c5703b4bcd38300f09874cf1a009827a223d57a350a633e8fe6",
+    "description": "Figure 3, asymmetric discharge density and current",
+    "transformation": "PDF page excerpt rendered at 2.4x; no scientific content altered",
+    "visually_checked": true
+  },
+  {
+    "key": "capillary",
+    "pdf_page": 7,
+    "clip_points": [
+      309.84336547851564,
+      64.8,
+      583.2345703125,
+      348.3
+    ],
+    "path": "daily/2026-10-25/images/capillary/figure-7-synchronization.png",
+    "source_pdf_sha256": "70ce617bf158370f99aab3c41afe8269b1e0847d2c7ef36e1e04813d24929afc",
+    "sha256": "796a7ab2a3fa7fbafcc136e641bb8f51defd6049886b72ed5ed0881ea44bcfe8",
+    "description": "Figure 7, three-stage timing and density",
+    "transformation": "PDF page excerpt rendered at 2.4x; no scientific content altered",
+    "visually_checked": true
+  },
+  {
+    "key": "flash",
+    "pdf_page": 4,
+    "clip_points": [
+      303.5907604980469,
+      528.2985065917969,
+      571.4649609375,
+      731.551075744629
+    ],
+    "path": "daily/2026-10-25/images/flash/table-1-target-scan.png",
+    "source_pdf_sha256": "e6fbe3e015c72595c239db8913fd7ff8158b073286bfb2b8dd46765d8b25435d",
+    "sha256": "31f36526740a269e506a2c053ee4e76a1ca4b3cea7d92cae8b873d8c8aba098b",
+    "description": "Table 1, two families of converter thickness scans",
+    "transformation": "PDF page excerpt rendered at 2.4x; no scientific content altered",
+    "visually_checked": true
+  },
+  {
+    "key": "flash",
+    "pdf_page": 5,
+    "clip_points": [
+      41.669320068359376,
+      608.9668414306641,
+      571.4649609375,
+      735.5054058837891
+    ],
+    "path": "daily/2026-10-25/images/flash/table-2-dose-rate.png",
+    "source_pdf_sha256": "e6fbe3e015c72595c239db8913fd7ff8158b073286bfb2b8dd46765d8b25435d",
+    "sha256": "8df680e56f25e85ba6d642418a0cef081d6e29d405e5fd4f5e9d3f37e98f3755",
+    "description": "Table 2, measured film dose and derived dose rates",
+    "transformation": "PDF page excerpt rendered at 2.4x; no scientific content altered",
+    "visually_checked": true
+  },
+  {
+    "key": "flash",
+    "pdf_page": 7,
+    "clip_points": [
+      29.763800048828127,
+      284.71177001953123,
+      571.4649609375,
+      743.4140661621093
+    ],
+    "path": "daily/2026-10-25/images/flash/figure-5-dose-comparison.png",
+    "source_pdf_sha256": "e6fbe3e015c72595c239db8913fd7ff8158b073286bfb2b8dd46765d8b25435d",
+    "sha256": "edcba6d73b33f71fd730ad4859842473db035852f6b1eac0483585ed2630675a",
+    "description": "Figure 5, film versus MC depth and transverse dose",
+    "transformation": "PDF page excerpt rendered at 2.4x; no scientific content altered",
+    "visually_checked": true
+  }
+]

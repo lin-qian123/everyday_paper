@@ -1,0 +1,96 @@
+{
+  "run_date": "2026-10-25",
+  "status": "fulltext_ingested_local_validation_passed",
+  "processed_before": 493,
+  "processed_after": 495,
+  "retry_before": 46,
+  "retry_after": 45,
+  "added_dois": [
+    "10.1103/yrts-62hs",
+    "10.1007/s41365-026-02073-3"
+  ],
+  "recovered_retry": "10.1103/yrts-62hs",
+  "fulltext_versions": [
+    "APS VOR",
+    "Springer VOR"
+  ],
+  "pdfs": 2,
+  "pages": 22,
+  "pdf_bytes": 6037153,
+  "layout_text_bytes": 130355,
+  "mineru": {
+    "success": 1,
+    "failed_with_explicit_local_fallback": 1
+  },
+  "visual_inspection": {
+    "capillary_pdf_pages": [
+      1,
+      3,
+      4,
+      5,
+      7,
+      8
+    ],
+    "flash_pdf_pages": [
+      1,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "retained_original_excerpts": 5,
+    "crop_labels_axes_and_captions_checked": true
+  },
+  "scientific_boundaries": [
+    "Capillary discharge and Stark-based density diagnostics are experimental; neutral gas is OpenFOAM, meter-scale extension and beam acceptance are not newly demonstrated.",
+    "FLASH is actual RF LINAC film dosimetry plus MCNP6; no new laser source, biological FLASH endpoint, photoneutron or shielding certification.",
+    "12.7percent is scan-family mean ratio; source-particle doses are not pulse doses; pulse timing numbers are algebraic inferences.",
+    "Printed phantom/voxel units, low-density diagnostic range, tail/penumbra and normalization gaps explicitly retained.",
+    "No physics solver, dose calibration, beam, animal or clinical experiment rerun."
+  ],
+  "validation": {
+    "index_builder": "python scripts/build_indexes.py: Indexed 495 papers across 9 categories; current-day navigation checked",
+    "pytest": "PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q: 7 passed in 22.64s",
+    "temporary_assets": "Parser ZIP/cache, full-page renders, duplicate raw PDFs and merged reviewer scratch removed; two PDFs, two layout texts and one MinerU text retained locally and Git-ignored.",
+    "artifact_audit": {
+      "ledger": 495,
+      "retry": 45,
+      "unique_nonnull_identifiers": 491,
+      "unique_normalized_titles": 495,
+      "prior_493_completed_records_unchanged": true,
+      "remaining_45_retry_records_unchanged": true,
+      "legacy_processed_retry_overlap": [
+        "10.1016/j.jcp.2026.114707"
+      ],
+      "new_pdfs": 2,
+      "pages": 22,
+      "pdf_bytes": 6037153,
+      "layout_text_bytes": 130355,
+      "mineru_successes": 1,
+      "mineru_failures_with_local_fallback": 1,
+      "visually_checked_pages": 14,
+      "images": 5,
+      "scoped_markdown_files": 20,
+      "scoped_local_links": 3042,
+      "json_or_jsonl_files": 10,
+      "ignored_pdf_text_artifacts": 5,
+      "note_files": 2,
+      "preexisting_agents_preserved": true,
+      "scoped_file_count": 35
+    },
+    "diff_check": "git diff --check passed",
+    "staging": "35 scoped files; pre-existing AGENTS.md excluded; five PDF/text artifacts remain local and ignored"
+  },
+  "publication": {
+    "branch": "master",
+    "remote": "origin",
+    "target": "refs/heads/master",
+    "parent_commit": "3a7b48f4cee2034100572d478ed85a874266fb07",
+    "status": "Commit and push follow successful local validation; final remote parity recorded in automation memory."
+  },
+  "prepared_at": "2026-10-25T07:11:57.109042+08:00",
+  "validated_at": "2026-10-25T07:17:41.147987+08:00"
+}

@@ -1,10 +1,12 @@
 # 论文总索引
 
-- 当前入库论文：493 篇
-- 索引更新时间：2026-10-24
+- 当前入库论文：495 篇
+- 索引更新时间：2026-10-25
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-10-25 | [FLASH radiotherapy using high-energy X-rays: critical dosimetry design and characteristics of FLASH radiation platform based on compact LINAC](./10-1007-s41365-026-02073-3/README.md) | Nuclear Science and Techniques | [10.1007/s41365-026-02073-3](https://doi.org/10.1007/s41365-026-02073-3) |
+| 2026-10-25 | [Plasma density manipulation in staged discharge capillaries for plasma-based accelerators](./10-1103-yrts-62hs/README.md) | Physical Review E | [10.1103/yrts-62hs](https://doi.org/10.1103/yrts-62hs) |
 | 2026-10-24 | [Improved electron beam stability in laser wakefield acceleration through control of laser angular chirp and wavefront stability](./10-1103-rsvg-r3bg/README.md) | Physical Review Research 8, 043090 | [10.1103/rsvg-r3bg](https://doi.org/10.1103/rsvg-r3bg) |
 | 2026-10-24 | [GEM-PIC-RZ: a Galilean electromagnetic particle-in-cell code in quasi-cylindrical geometry with nonuniform grids](./arxiv-2610-31622/README.md) | arXiv preprint | [10.48550/arXiv.2610.31622](https://doi.org/10.48550/arXiv.2610.31622) |
 | 2026-10-24 | [Direct Production of Ultra-High Radioisotopic Pure $^{64}$Cu from Natural Zinc Metal via D-D Fusion Narrowband Fast Neutron Source Irradiation](./arxiv-2610-31340/README.md) | arXiv preprint | [10.48550/arXiv.2610.31340](https://doi.org/10.48550/arXiv.2610.31340) |

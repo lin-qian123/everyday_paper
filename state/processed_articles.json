@@ -6393,5 +6393,62 @@
     "note_path": "daily/2026-10-24/notes/Brown et al. - 2026 - Laser DD neutrons Cu64 from natural zinc.md",
     "normalized_title": "direct production of ultra high radioisotopic pure 64 cu from natural zinc metal via d d fusion narrowband fast neutron source irradiation",
     "pdf_sha256": "5e0af5bd1f9585b296675def53c9fa3122b162554b03d9cebb2c84961da1cf68"
+  },
+  {
+    "doi": "10.1103/yrts-62hs",
+    "title": "Plasma density manipulation in staged discharge capillaries for plasma-based accelerators",
+    "authors": [
+      "Angelo Biagioni",
+      "Lucio Crincoli",
+      "Romain Demitra",
+      "Mario Galletti",
+      "Valerio Lollo",
+      "Donato Pellegrini",
+      "Riccardo Pompili",
+      "Massimo Ferrario",
+      "Arie Zigler"
+    ],
+    "journal": "Physical Review E",
+    "publication_date": "2026-10-23",
+    "source_url": "https://doi.org/10.1103/yrts-62hs",
+    "pdf_url": "https://harvest.aps.org/v2/journals/articles/10.1103/yrts-62hs/fulltext",
+    "fulltext_version": "formal VOR",
+    "categories": [
+      "laser-plasma-acceleration",
+      "experimental-platforms-diagnostics"
+    ],
+    "processed_date": "2026-10-25",
+    "pdf_path": "daily/2026-10-25/pdfs/Biagioni et al. - 2026 - Staged discharge capillary density control.pdf",
+    "note_path": "daily/2026-10-25/notes/Biagioni et al. - 2026 - Staged discharge capillary density control.md",
+    "normalized_title": "plasma density manipulation in staged discharge capillaries for plasma based accelerators",
+    "pdf_sha256": "70ce617bf158370f99aab3c41afe8269b1e0847d2c7ef36e1e04813d24929afc"
+  },
+  {
+    "doi": "10.1007/s41365-026-02073-3",
+    "title": "FLASH radiotherapy using high-energy X-rays: critical dosimetry design and characteristics of FLASH radiation platform based on compact LINAC",
+    "authors": [
+      "Yi Zhang",
+      "Chang-Lin Lan",
+      "Yi-Wei Yang",
+      "Feng Gao",
+      "Ying-Hong Tang",
+      "Ji-Rong Zhao",
+      "Shi-Lan Wang",
+      "Jun-Tao Liu"
+    ],
+    "journal": "Nuclear Science and Techniques",
+    "publication_date": "2026-10-24",
+    "source_url": "https://doi.org/10.1007/s41365-026-02073-3",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s41365-026-02073-3.pdf",
+    "fulltext_version": "formal VOR",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "experimental-platforms-diagnostics"
+    ],
+    "processed_date": "2026-10-25",
+    "pdf_path": "daily/2026-10-25/pdfs/Zhang et al. - 2026 - Compact LINAC X ray FLASH dosimetry.pdf",
+    "note_path": "daily/2026-10-25/notes/Zhang et al. - 2026 - Compact LINAC X ray FLASH dosimetry.md",
+    "normalized_title": "flash radiotherapy using high energy x rays critical dosimetry design and characteristics of flash radiation platform based on compact linac",
+    "pdf_sha256": "e6fbe3e015c72595c239db8913fd7ff8158b073286bfb2b8dd46765d8b25435d"
   }
 ]

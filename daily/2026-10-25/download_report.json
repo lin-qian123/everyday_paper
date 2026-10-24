@@ -1,0 +1,22 @@
+[
+  {
+    "ok": true,
+    "output": "daily/2026-10-25/pdfs/Biagioni et al. - 2026 - Staged discharge capillary density control.pdf",
+    "source_url": "https://harvest.aps.org/v2/journals/articles/10.1103/yrts-62hs/fulltext",
+    "mode": "env-proxy",
+    "attempts": [],
+    "key": "capillary",
+    "doi": "10.1103/yrts-62hs"
+  },
+  {
+    "ok": true,
+    "output": "daily/2026-10-25/pdfs/Zhang et al. - 2026 - Compact LINAC X ray FLASH dosimetry.pdf",
+    "source_url": "https://link.springer.com/content/pdf/10.1007/s41365-026-02073-3.pdf",
+    "mode": "direct",
+    "attempts": [
+      "[env-proxy] https://link.springer.com/content/pdf/10.1007/s41365-026-02073-3.pdf -> not pdf (content-type=text/html; charset=utf-8)"
+    ],
+    "key": "flash",
+    "doi": "10.1007/s41365-026-02073-3"
+  }
+]
