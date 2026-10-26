@@ -2,11 +2,12 @@
 
 强场量子效应、辐射反作用、非线性 Compton、pair production 与极端场实验。
 
-- 当前收录：75 篇
-- 索引更新时间：2026-10-25
+- 当前收录：76 篇
+- 索引更新时间：2026-10-27
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-27 | [Coherent axion electrodynamics in OSIRIS: a counter-propagating axion-photon parametric instability](../papers/arxiv-2610-32091/README.md) | arXiv preprint | [笔记](../daily/2026-10-27/notes/Radford et al. - 2026 - Coherent axion electrodynamics OSIRIS.md) |
 | 2026-10-23 | [Ultrastrong quantum squeezing mediated by plasma waves](../papers/10-1103-c4r9-jsw7/README.md) | Physical Review E | [笔记](../daily/2026-10-23/notes/Qu et al. - 2026 - Plasma wave quantum squeezing.md) |
 | 2026-10-17 | [Generation of a polarized pair-photon fireball via a laser-driven nonlinear-linear QED cascade](../papers/10-1103-xvmh-mcg7/README.md) | Physical Review E | [笔记](../daily/2026-10-17/notes/Dou et al. - 2026 - Polarized pair photon fireball.md) |
 | 2026-10-16 | [A modern particle-in-cell code for beam-beam simulations of future colliders](../papers/arxiv-2610-17557/README.md) | arXiv preprint | [笔记](../daily/2026-10-16/notes/Formenti et al. - 2026 - WarpX beam beam benchmark.md) |

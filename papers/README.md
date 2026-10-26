@@ -1,10 +1,15 @@
 # 论文总索引
 
-- 当前入库论文：495 篇
-- 索引更新时间：2026-10-25
+- 当前入库论文：500 篇
+- 索引更新时间：2026-10-27
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-10-27 | [Self-Synchronized Soft X-Ray and Infrared Free-Electron Lasers from a Single Prebunched Electron Beam](./10-1103-3kmz-18bp/README.md) | Physical Review Letters | [10.1103/3kmz-18bp](https://doi.org/10.1103/3kmz-18bp) |
+| 2026-10-27 | [Coherent axion electrodynamics in OSIRIS: a counter-propagating axion-photon parametric instability](./arxiv-2610-32091/README.md) | arXiv preprint | [10.48550/arXiv.2610.32091](https://doi.org/10.48550/arXiv.2610.32091) |
+| 2026-10-27 | [Plasma transport by carrier electrons: delocalization length for heat-flux](./arxiv-2610-32085/README.md) | arXiv preprint | [10.48550/arXiv.2610.32085](https://doi.org/10.48550/arXiv.2610.32085) |
+| 2026-10-27 | [Two-component Bayesian modeling in the data analysis of collective Thomson scattering](./arxiv-2610-32033/README.md) | arXiv preprint | [10.48550/arXiv.2610.32033](https://doi.org/10.48550/arXiv.2610.32033) |
+| 2026-10-27 | [Maximization of nuclear fusion reactivity via optimal energy distributions](./10-1103-xhzy-hxdw/README.md) | Physical Review E | [10.1103/xhzy-hxdw](https://doi.org/10.1103/xhzy-hxdw) |
 | 2026-10-25 | [FLASH radiotherapy using high-energy X-rays: critical dosimetry design and characteristics of FLASH radiation platform based on compact LINAC](./10-1007-s41365-026-02073-3/README.md) | Nuclear Science and Techniques | [10.1007/s41365-026-02073-3](https://doi.org/10.1007/s41365-026-02073-3) |
 | 2026-10-25 | [Plasma density manipulation in staged discharge capillaries for plasma-based accelerators](./10-1103-yrts-62hs/README.md) | Physical Review E | [10.1103/yrts-62hs](https://doi.org/10.1103/yrts-62hs) |
 | 2026-10-24 | [Improved electron beam stability in laser wakefield acceleration through control of laser angular chirp and wavefront stability](./10-1103-rsvg-r3bg/README.md) | Physical Review Research 8, 043090 | [10.1103/rsvg-r3bg](https://doi.org/10.1103/rsvg-r3bg) |
@@ -75,8 +80,8 @@
 | 2026-10-09 | [Omnidirectional Radiation Detector with Perpendicular Dual Silicon Photomultiplier Readout - Directional Sensitivity and Machine Learning Source Positioning](./arxiv-2610-08195/README.md) | arXiv preprint | [10.48550/arXiv.2610.08195](https://doi.org/10.48550/arXiv.2610.08195) |
 | 2026-10-09 | [A Differentiable Surrogate for Loss-Dominated Ion Beam Transport](./arxiv-2610-08877/README.md) | arXiv preprint | [10.48550/arXiv.2610.08877](https://doi.org/10.48550/arXiv.2610.08877) |
 | 2026-10-09 | [Novel radiative trapping mechanism in ultra-intense laser–plasma interactions](./10-1063-5-0341085/README.md) | Matter and Radiation at Extremes 11, 065201 (formal version of record, CC BY) | [10.1063/5.0341085](https://doi.org/10.1063/5.0341085) |
+| 2026-10-08 | [Experimental observation of drift acoustic cnoidal waves in a magnetized plasma](./10-1103-mmzz-gq7q/README.md) | Physical Review E 114, 045211 (local full text: arXiv:2604.19927v1 author preprint; not VOR) | [10.1103/mmzz-gq7q](https://doi.org/10.1103/mmzz-gq7q) |
 | 2026-10-08 | [Evolution of transversely asymmetric electron beams in hollow plasma channels](./10-1103-13fz-y5wy/README.md) | Physical Review Accelerators and Beams (formal version of record) | [10.1103/13fz-y5wy](https://doi.org/10.1103/13fz-y5wy) |
-| 2026-10-08 | [Experimental observation of drift acoustic cnoidal waves in a magnetized plasma](./10-1103-mmzz-gq7q/README.md) | Physical Review E formal metadata (local full text: corresponding arXiv:2604.19927v1 author preprint; not VOR) | [10.1103/mmzz-gq7q](https://doi.org/10.1103/mmzz-gq7q) |
 | 2026-10-08 | [Experimental observations of microturbulence-suppressed parallel heat conduction in a weakly collisional, high-β plasma](./arxiv-2610-08530/README.md) | arXiv preprint | [10.48550/arXiv.2610.08530](https://doi.org/10.48550/arXiv.2610.08530) |
 | 2026-10-08 | [Proton probing measurements of filamentary electromagnetic structure in laser ablation of solids](./10-1063-5-0342431/README.md) | Physics of Plasmas (formal version of record) | [10.1063/5.0342431](https://doi.org/10.1063/5.0342431) |
 | 2026-10-08 | [Experimental Demonstration of Beam-Driven Wakefield Acceleration in Laser-Plasma Filament](./10-1103-qjd9-p6dy/README.md) | Physical Review E Accepted Paper (local full text: corresponding arXiv:2602.22841v1 author preprint; not VOR) | [10.1103/qjd9-p6dy](https://doi.org/10.1103/qjd9-p6dy) |

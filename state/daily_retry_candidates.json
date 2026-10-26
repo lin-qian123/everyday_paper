@@ -928,5 +928,22 @@
     ],
     "author_manuscript_search": "Exact-title official arXiv query returned zero entries; bounded web lookup did not verify a matching lawful author manuscript.",
     "status": "retry_fulltext_required_no_abstract_only_note"
+  },
+  {
+    "doi": "10.1103/tmll-l58c",
+    "title": "Laboratory Demonstration of Coronal Heating via Magnetic Reconnection during Nanoflares",
+    "source_url": "https://journals.aps.org/prl/abstract/10.1103/tmll-l58c",
+    "publication_date": "2026-10-20",
+    "journal": "Physical Review Letters 137, 175101",
+    "topic": "激光等离子体、RTI、磁重联与实验室天体物理",
+    "run_date": "2026-10-27",
+    "status": "retry_fulltext_required_no_abstract_only_note",
+    "attempted_at": "2026-10-27T07:16:58.690235+08:00",
+    "retry_count": 0,
+    "failure_count": 1,
+    "source_family": "aps",
+    "last_failure_class": "publisher_http_401_authorization_required",
+    "stderr": "Official APS harvest fulltext returned HTTP 401 via environment proxy and direct. Exact-title official arXiv query returned zero entries. Bounded author/title search found no verified lawful author fulltext. No PDF or abstract-only note ingested.",
+    "evidence_path": "daily/2026-10-27/research/corona-fallback.json"
   }
 ]

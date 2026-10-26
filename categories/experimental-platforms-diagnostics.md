@@ -2,11 +2,13 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：166 篇
-- 索引更新时间：2026-10-25
+- 当前收录：168 篇
+- 索引更新时间：2026-10-27
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-27 | [Self-Synchronized Soft X-Ray and Infrared Free-Electron Lasers from a Single Prebunched Electron Beam](../papers/10-1103-3kmz-18bp/README.md) | Physical Review Letters | [笔记](../daily/2026-10-27/notes/Kang et al. - 2026 - Self synchronized soft X ray infrared FEL.md) |
+| 2026-10-27 | [Two-component Bayesian modeling in the data analysis of collective Thomson scattering](../papers/arxiv-2610-32033/README.md) | arXiv preprint | [笔记](../daily/2026-10-27/notes/Nakano et al. - 2026 - Two component Bayesian Thomson scattering.md) |
 | 2026-10-25 | [FLASH radiotherapy using high-energy X-rays: critical dosimetry design and characteristics of FLASH radiation platform based on compact LINAC](../papers/10-1007-s41365-026-02073-3/README.md) | Nuclear Science and Techniques | [笔记](../daily/2026-10-25/notes/Zhang et al. - 2026 - Compact LINAC X ray FLASH dosimetry.md) |
 | 2026-10-25 | [Plasma density manipulation in staged discharge capillaries for plasma-based accelerators](../papers/10-1103-yrts-62hs/README.md) | Physical Review E | [笔记](../daily/2026-10-25/notes/Biagioni et al. - 2026 - Staged discharge capillary density control.md) |
 | 2026-10-24 | [Improved electron beam stability in laser wakefield acceleration through control of laser angular chirp and wavefront stability](../papers/10-1103-rsvg-r3bg/README.md) | Physical Review Research 8, 043090 | [笔记](../daily/2026-10-24/notes/Jin et al. - 2026 - LWFA angular chirp and wavefront stability.md) |
@@ -42,7 +44,7 @@
 | 2026-10-12 | [Imaging ablator-fuel mix of hot spot in inertial confinement fusion via resonant X-ray absorption using an X-ray free electron laser](../papers/arxiv-2610-11603/README.md) | arXiv preprint | [笔记](../daily/2026-10-12/notes/Huang et al. - 2026 - Resonant X-ray imaging of ICF mix.md) |
 | 2026-10-09 | [High-order harmonic generation in ion- and nanoparticle-containing aluminum laser-induced plasma](../papers/10-1063-5-0350047/README.md) | Physics of Plasmas 33, 103302 (formal version of record) | [笔记](../daily/2026-10-09/notes/Ganeev - 2026 - High-order harmonic generation in aluminum plasma.md) |
 | 2026-10-09 | [Omnidirectional Radiation Detector with Perpendicular Dual Silicon Photomultiplier Readout - Directional Sensitivity and Machine Learning Source Positioning](../papers/arxiv-2610-08195/README.md) | arXiv preprint | [笔记](../daily/2026-10-09/notes/Kozuljevic et al. - 2026 - Omnidirectional gamma detector with ML positioning.md) |
-| 2026-10-08 | [Experimental observation of drift acoustic cnoidal waves in a magnetized plasma](../papers/10-1103-mmzz-gq7q/README.md) | Physical Review E formal metadata (local full text: corresponding arXiv:2604.19927v1 author preprint; not VOR) | [笔记](../daily/2026-10-08/notes/Karmakar et al. - 2026 - Drift acoustic cnoidal waves.md) |
+| 2026-10-08 | [Experimental observation of drift acoustic cnoidal waves in a magnetized plasma](../papers/10-1103-mmzz-gq7q/README.md) | Physical Review E 114, 045211 (local full text: arXiv:2604.19927v1 author preprint; not VOR) | [笔记](../daily/2026-10-08/notes/Karmakar et al. - 2026 - Drift acoustic cnoidal waves.md) |
 | 2026-10-08 | [Experimental observations of microturbulence-suppressed parallel heat conduction in a weakly collisional, high-β plasma](../papers/arxiv-2610-08530/README.md) | arXiv preprint | [笔记](../daily/2026-10-08/notes/Vincent et al. - 2026 - Microturbulence suppressed heat conduction.md) |
 | 2026-10-08 | [Proton probing measurements of filamentary electromagnetic structure in laser ablation of solids](../papers/10-1063-5-0342431/README.md) | Physics of Plasmas (formal version of record) | [笔记](../daily/2026-10-08/notes/Peebles et al. - 2026 - Proton probing laser ablation filaments.md) |
 | 2026-10-08 | [Experimental Demonstration of Beam-Driven Wakefield Acceleration in Laser-Plasma Filament](../papers/10-1103-qjd9-p6dy/README.md) | Physical Review E Accepted Paper (local full text: corresponding arXiv:2602.22841v1 author preprint; not VOR) | [笔记](../daily/2026-10-08/notes/Galletti et al. - 2026 - Beam-driven acceleration in laser-plasma filament.md) |

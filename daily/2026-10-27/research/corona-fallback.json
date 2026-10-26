@@ -1,0 +1,20 @@
+{
+  "doi": "10.1103/tmll-l58c",
+  "formal_title": "Laboratory Demonstration of Coronal Heating via Magnetic Reconnection during Nanoflares",
+  "formal_publication_date": "2026-10-20",
+  "formal_citation": "PRL 137, 175101",
+  "download_report": {
+    "ok": false,
+    "output": "/tmp/everyday-paper-2026-10-27/corona.pdf",
+    "attempts": [
+      "[env-proxy] https://harvest.aps.org/v2/journals/articles/10.1103/tmll-l58c/fulltext -> HTTP 401",
+      "[direct] https://harvest.aps.org/v2/journals/articles/10.1103/tmll-l58c/fulltext -> HTTP 401"
+    ],
+    "failure_class": "publisher_access_limited"
+  },
+  "exact_title_arxiv_query": "zero entries",
+  "bounded_author_title_web_search": "APS formal/accepted/issue metadata found; no verified lawful same-work author manuscript",
+  "primary_url": "https://journals.aps.org/prl/abstract/10.1103/tmll-l58c",
+  "discovery_context": "2026-10-26 secondary news is not the publication date; primary metadata verified",
+  "status": "retry_fulltext_required_no_abstract_only_note"
+}

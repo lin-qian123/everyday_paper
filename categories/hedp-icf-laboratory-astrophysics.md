@@ -2,11 +2,13 @@
 
 HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。
 
-- 当前收录：129 篇
-- 索引更新时间：2026-10-25
+- 当前收录：131 篇
+- 索引更新时间：2026-10-27
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-27 | [Plasma transport by carrier electrons: delocalization length for heat-flux](../papers/arxiv-2610-32085/README.md) | arXiv preprint | [笔记](../daily/2026-10-27/notes/Walsh - 2026 - Carrier electron heat flux nonlocality.md) |
+| 2026-10-27 | [Two-component Bayesian modeling in the data analysis of collective Thomson scattering](../papers/arxiv-2610-32033/README.md) | arXiv preprint | [笔记](../daily/2026-10-27/notes/Nakano et al. - 2026 - Two component Bayesian Thomson scattering.md) |
 | 2026-10-23 | [Optimization of room-temperature targets for laser direct-drive fusion](../papers/10-1088-1741-4326-aeb1db/README.md) | Nuclear Fusion 67 (2027), 016007 | [笔记](../daily/2026-10-23/notes/Du et al. - 2026 - Room temperature direct drive fusion targets.md) |
 | 2026-10-22 | [Ion Heating in Pair-loaded Relativistic Turbulence](../papers/arxiv-2610-26731/README.md) | arXiv preprint | [笔记](../daily/2026-10-22/notes/Wang et al. - 2026 - Radiative pair loaded PIC ion heating.md) |
 | 2026-10-21 | [Beyond Radiation Hydrodynamics: A Coupled Kinetic Plasma and Radiation Modeling of NIF Polar Direct Drive Capsule](../papers/arxiv-2610-26537/README.md) | arXiv preprint | [笔记](../daily/2026-10-21/notes/Hammer et al. - 2026 - Kinetic radiation NIF capsule.md) |

@@ -1,0 +1,203 @@
+{
+  "run_date": "2026-10-27",
+  "queried_at": "2026-10-27T07:02:14.785454+08:00",
+  "crossref": {
+    "date_window": [
+      "2026-10-25",
+      "2026-10-27"
+    ],
+    "queries": [
+      {
+        "query": "laser plasma acceleration",
+        "url": "https://api.crossref.org/works?query=laser+plasma+acceleration&filter=from-pub-date%3A2026-10-25%2Cuntil-pub-date%3A2026-10-27&sort=published&order=desc&rows=75",
+        "returned": 75,
+        "error": null
+      },
+      {
+        "query": "strong field QED radiation reaction",
+        "url": "https://api.crossref.org/works?query=strong+field+QED+radiation+reaction&filter=from-pub-date%3A2026-10-25%2Cuntil-pub-date%3A2026-10-27&sort=published&order=desc&rows=75",
+        "returned": 75,
+        "error": null
+      },
+      {
+        "query": "high energy density inertial confinement fusion",
+        "url": "https://api.crossref.org/works?query=high+energy+density+inertial+confinement+fusion&filter=from-pub-date%3A2026-10-25%2Cuntil-pub-date%3A2026-10-27&sort=published&order=desc&rows=75",
+        "returned": 75,
+        "error": null
+      },
+      {
+        "query": "particle in cell plasma simulation",
+        "url": "https://api.crossref.org/works?query=particle+in+cell+plasma+simulation&filter=from-pub-date%3A2026-10-25%2Cuntil-pub-date%3A2026-10-27&sort=published&order=desc&rows=75",
+        "returned": 75,
+        "error": null
+      },
+      {
+        "query": "machine learning plasma physics",
+        "url": "https://api.crossref.org/works?query=machine+learning+plasma+physics&filter=from-pub-date%3A2026-10-25%2Cuntil-pub-date%3A2026-10-27&sort=published&order=desc&rows=75",
+        "returned": 75,
+        "error": null
+      },
+      {
+        "query": "laser electron bremsstrahlung gamma converter",
+        "url": "https://api.crossref.org/works?query=laser+electron+bremsstrahlung+gamma+converter&filter=from-pub-date%3A2026-10-25%2Cuntil-pub-date%3A2026-10-27&sort=published&order=desc&rows=75",
+        "returned": 75,
+        "error": null
+      },
+      {
+        "query": "laser proton ion neutron isotope photonuclear",
+        "url": "https://api.crossref.org/works?query=laser+proton+ion+neutron+isotope+photonuclear&filter=from-pub-date%3A2026-10-25%2Cuntil-pub-date%3A2026-10-27&sort=published&order=desc&rows=75",
+        "returned": 75,
+        "error": null
+      },
+      {
+        "query": "laser beam radiotherapy dosimetry shielding",
+        "url": "https://api.crossref.org/works?query=laser+beam+radiotherapy+dosimetry+shielding&filter=from-pub-date%3A2026-10-25%2Cuntil-pub-date%3A2026-10-27&sort=published&order=desc&rows=75",
+        "returned": 75,
+        "error": null
+      },
+      {
+        "query": "plasma target design beam diagnostics",
+        "url": "https://api.crossref.org/works?query=plasma+target+design+beam+diagnostics&filter=from-pub-date%3A2026-10-25%2Cuntil-pub-date%3A2026-10-27&sort=published&order=desc&rows=75",
+        "returned": 75,
+        "error": null
+      },
+      {
+        "query": "nuclear reaction laser irradiation material",
+        "url": "https://api.crossref.org/works?query=nuclear+reaction+laser+irradiation+material&filter=from-pub-date%3A2026-10-25%2Cuntil-pub-date%3A2026-10-27&sort=published&order=desc&rows=75",
+        "returned": 75,
+        "error": null
+      }
+    ],
+    "returned_rows": 750,
+    "unique_dois": 552,
+    "coverage_limit": "Ten bounded queries, 75 rows each; includes lexical off-topic results and future issue dates; not exhaustive."
+  },
+  "arxiv": {
+    "query_batches": [
+      {
+        "categories": [
+          "physics.plasm-ph",
+          "physics.acc-ph",
+          "physics.comp-ph",
+          "physics.med-ph",
+          "hep-ph"
+        ],
+        "url": "https://export.arxiv.org/api/query?search_query=cat%3Aphysics.plasm-ph+OR+cat%3Aphysics.acc-ph+OR+cat%3Aphysics.comp-ph+OR+cat%3Aphysics.med-ph+OR+cat%3Ahep-ph&sortBy=submittedDate&sortOrder=descending&max_results=300",
+        "returned": 300,
+        "latest_visible_submission": "2026-10-23T17:40:04Z",
+        "error": null
+      },
+      {
+        "categories": [
+          "physics.plasm-ph",
+          "physics.acc-ph",
+          "physics.comp-ph",
+          "nucl-ex",
+          "physics.ins-det"
+        ],
+        "url": "https://export.arxiv.org/api/query?search_query=cat%3Aphysics.plasm-ph+OR+cat%3Aphysics.acc-ph+OR+cat%3Aphysics.comp-ph+OR+cat%3Anucl-ex+OR+cat%3Aphysics.ins-det&sortBy=submittedDate&sortOrder=descending&max_results=300",
+        "returned": 300,
+        "latest_visible_submission": "2026-10-23T17:40:04Z",
+        "error": null
+      }
+    ],
+    "unique_entries": 516
+  },
+  "primary_source_supplement": [
+    "https://journals.aps.org/pre/recent",
+    "https://journals.aps.org/prl/recent",
+    "https://journals.aps.org/prab/recent"
+  ],
+  "deduplication": {
+    "before": 495,
+    "after": 500,
+    "keys": [
+      "DOI",
+      "arXiv aliases",
+      "normalized title",
+      "source URL",
+      "authors",
+      "physical scenario"
+    ],
+    "existing_work_metadata_corrected": {
+      "doi": "10.1103/mmzz-gq7q",
+      "old_date": "2026-10-07 accepted",
+      "publication_date": "2026-10-26",
+      "counted_as_new": false
+    },
+    "related_distinct_works": {
+      "axion": "OSIRIS standing-wave coherent field versus existing EPOCH QDS cylindrical solver 2609.03550 and earlier incoherent axion Monte Carlo",
+      "cts": "Measured six-parameter IAW/EPW joint posterior versus existing non-Maxwellian CTS 2609.31020",
+      "transport": "Second paper of Walsh carrier series; 2610.30303 is first classical-coefficient paper, not this nonlocality work"
+    },
+    "fel_alias": "2608.15106v1 author/title/30-author group/SXFEL setup matches new 10.1103/3kmz-18bp work; no duplicate prior ledger entry; VOR inaccessible and content equality not claimed"
+  },
+  "selected": [
+    {
+      "key": "axion",
+      "doi": "10.48550/arXiv.2610.32091",
+      "title": "Coherent axion electrodynamics in OSIRIS: a counter-propagating axion-photon parametric instability",
+      "source_url": "https://arxiv.org/pdf/2610.32091v1"
+    },
+    {
+      "key": "transport",
+      "doi": "10.48550/arXiv.2610.32085",
+      "title": "Plasma transport by carrier electrons: delocalization length for heat-flux",
+      "source_url": "https://arxiv.org/pdf/2610.32085v1"
+    },
+    {
+      "key": "cts",
+      "doi": "10.48550/arXiv.2610.32033",
+      "title": "Two-component Bayesian modeling in the data analysis of collective Thomson scattering",
+      "source_url": "https://arxiv.org/pdf/2610.32033v1"
+    },
+    {
+      "key": "reactivity",
+      "doi": "10.1103/xhzy-hxdw",
+      "title": "Maximization of nuclear fusion reactivity via optimal energy distributions",
+      "source_url": "https://harvest.aps.org/v2/journals/articles/10.1103/xhzy-hxdw/fulltext"
+    },
+    {
+      "key": "fel",
+      "doi": "10.1103/3kmz-18bp",
+      "title": "Self-Synchronized Soft X-Ray and Infrared Free-Electron Lasers from a Single Prebunched Electron Beam",
+      "source_url": "https://arxiv.org/pdf/2608.15106v1"
+    }
+  ],
+  "lower_priority_metadata_only": [
+    "Tokamak-SI 2610.32264",
+    "Gkeyll negative triangularity 2610.32100",
+    "DoseRAD2026 10.1002/mp.70714",
+    "DeepONet deterministic neutron preprint 10.31224/8581"
+  ],
+  "retry": {
+    "before": 45,
+    "after": 46,
+    "all_records_unchanged": false,
+    "legacy_overlap": "10.1016/j.jcp.2026.114707 has null processed PDF; keep unresolved fulltext retry",
+    "repeat_probes": "No new availability signal for remaining publisher/embargo restrictions; not repeatedly probed this run",
+    "all_prior_45_records_unchanged": true,
+    "new_retry_doi": "10.1103/tmll-l58c"
+  },
+  "scope_limit": "Bounded discovery, not an exhaustive survey. Preprints supplement selected formal work; no new end-to-end laser converter photonuclear/neutron/isotope measurement selected.",
+  "corona_formal_supplement": {
+    "doi": "10.1103/tmll-l58c",
+    "formal_title": "Laboratory Demonstration of Coronal Heating via Magnetic Reconnection during Nanoflares",
+    "formal_publication_date": "2026-10-20",
+    "formal_citation": "PRL 137, 175101",
+    "download_report": {
+      "ok": false,
+      "output": "/tmp/everyday-paper-2026-10-27/corona.pdf",
+      "attempts": [
+        "[env-proxy] https://harvest.aps.org/v2/journals/articles/10.1103/tmll-l58c/fulltext -> HTTP 401",
+        "[direct] https://harvest.aps.org/v2/journals/articles/10.1103/tmll-l58c/fulltext -> HTTP 401"
+      ],
+      "failure_class": "publisher_access_limited"
+    },
+    "exact_title_arxiv_query": "zero entries",
+    "bounded_author_title_web_search": "APS formal/accepted/issue metadata found; no verified lawful same-work author manuscript",
+    "primary_url": "https://journals.aps.org/prl/abstract/10.1103/tmll-l58c",
+    "discovery_context": "2026-10-26 secondary news is not the publication date; primary metadata verified",
+    "status": "retry_fulltext_required_no_abstract_only_note"
+  }
+}

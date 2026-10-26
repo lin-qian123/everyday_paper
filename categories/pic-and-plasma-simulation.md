@@ -2,11 +2,13 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：209 篇
-- 索引更新时间：2026-10-25
+- 当前收录：211 篇
+- 索引更新时间：2026-10-27
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-27 | [Coherent axion electrodynamics in OSIRIS: a counter-propagating axion-photon parametric instability](../papers/arxiv-2610-32091/README.md) | arXiv preprint | [笔记](../daily/2026-10-27/notes/Radford et al. - 2026 - Coherent axion electrodynamics OSIRIS.md) |
+| 2026-10-27 | [Plasma transport by carrier electrons: delocalization length for heat-flux](../papers/arxiv-2610-32085/README.md) | arXiv preprint | [笔记](../daily/2026-10-27/notes/Walsh - 2026 - Carrier electron heat flux nonlocality.md) |
 | 2026-10-24 | [GEM-PIC-RZ: a Galilean electromagnetic particle-in-cell code in quasi-cylindrical geometry with nonuniform grids](../papers/arxiv-2610-31622/README.md) | arXiv preprint | [笔记](../daily/2026-10-24/notes/Pukhov - 2026 - GEM-PIC-RZ nonuniform Galilean PIC.md) |
 | 2026-10-23 | [Physics-constrained graph closures and working-point conditioning for a fast surrogate of linac beam dynamics](../papers/arxiv-2610-28250/README.md) | arXiv preprint | [笔记](../daily/2026-10-23/notes/Zhang et al. - 2026 - Physics constrained graph linac surrogate.md) |
 | 2026-10-22 | [Machine-learned spectral PDE solvers for fluids and plasmas](../papers/arxiv-2610-27317/README.md) | arXiv preprint | [笔记](../daily/2026-10-22/notes/Chen et al. - 2026 - WARP spectral PDE solvers.md) |

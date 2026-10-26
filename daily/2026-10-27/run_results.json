@@ -1,0 +1,123 @@
+{
+  "run_date": "2026-10-27",
+  "status": "fulltext_ingested_local_validation_passed",
+  "processed_before": 495,
+  "processed_after": 500,
+  "retry_before": 45,
+  "retry_after": 46,
+  "added_dois": [
+    "10.48550/arXiv.2610.32091",
+    "10.48550/arXiv.2610.32085",
+    "10.48550/arXiv.2610.32033",
+    "10.1103/xhzy-hxdw",
+    "10.1103/3kmz-18bp"
+  ],
+  "existing_metadata_corrected": [
+    "10.1103/mmzz-gq7q"
+  ],
+  "fulltext_versions": [
+    "APS VOR",
+    "three official arXiv v1 preprints",
+    "PRL formal metadata with corresponding 2026-08-15 arXiv v1 fulltext"
+  ],
+  "pdfs": 5,
+  "pages": 59,
+  "pdf_bytes": 8444702,
+  "layout_text_bytes": 390338,
+  "mineru": {
+    "success": 5,
+    "failed": 0
+  },
+  "visual_inspection": {
+    "pdf_pages": {
+      "axion": [
+        1,
+        9,
+        11,
+        12
+      ],
+      "transport": [
+        1,
+        5,
+        8,
+        9,
+        12
+      ],
+      "cts": [
+        1,
+        3,
+        6,
+        7,
+        10
+      ],
+      "reactivity": [
+        1,
+        4,
+        10,
+        11
+      ],
+      "fel": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "total_unique_key_pages": 22,
+    "retained_original_excerpts": 9,
+    "crop_labels_axes_and_captions_checked": true
+  },
+  "scientific_boundaries": [
+    "No author solver, inference, fusion integral or experiment rerun",
+    "No new end-to-end laser converter photonuclear/neutron/isotope or clinical/shielding measurement selected",
+    "FEL quantitative details read in older author manuscript, not VOR",
+    "Axion kinetic particle/current path not verified by vacuum field benchmark",
+    "Thermal linear mode closure and CTS effective noise/Maxwellian assumptions retained"
+  ],
+  "validation": {
+    "retry": "Prior 45 objects unchanged; one newly verified formal candidate lacks full text after 401 and lawful-author search",
+    "pytest": "PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q: 7 passed in 161.72s",
+    "index_builder": "python scripts/build_indexes.py: Indexed 500 papers across 9 categories",
+    "diff_check": "git diff --check passed for affected docs/state/indexes",
+    "temporary_assets": "Only five validated PDFs, five layout texts, five MinerU fulltexts and nine selected original figure excerpts retained; parser/cache/contact-sheet scratch removed before return.",
+    "artifact_audit": {
+      "ledger": 500,
+      "retry": 46,
+      "unique_nonnull_identifiers": 496,
+      "unique_normalized_titles": 500,
+      "prior_completed_records_unchanged_except_metadata": [
+        "10.1103/mmzz-gq7q"
+      ],
+      "prior_45_retry_records_unchanged": true,
+      "legacy_processed_retry_pdf_missing_overlap": [
+        "10.1016/j.jcp.2026.114707"
+      ],
+      "pdfs": 5,
+      "pages": 59,
+      "pdf_bytes": 8444702,
+      "layout_text_bytes": 390338,
+      "mineru_successes": 5,
+      "visually_checked_key_pages": 22,
+      "decoded_hashmatched_images": 9,
+      "scoped_files": 48,
+      "scoped_markdown_files": 28,
+      "scoped_local_links": 3113,
+      "json_or_jsonl_files": 11,
+      "ignored_pdf_text_artifacts": 15,
+      "preexisting_agents_preserved": true
+    },
+    "staging": "48 scoped files; existing AGENTS.md excluded; 15 validated PDF/text artifacts remain local and ignored"
+  },
+  "publication": {
+    "branch": "master",
+    "remote": "origin",
+    "target": "refs/heads/master",
+    "parent_commit": "34c5016a8c6ddf0835149524596d7649a091a242",
+    "status": "Commit/push follow successful verification; final remote parity recorded in automation memory."
+  },
+  "prepared_at": "2026-10-27T07:15:17.229909+08:00",
+  "new_retry_dois": [
+    "10.1103/tmll-l58c"
+  ],
+  "validated_at": "2026-10-27T07:21:51.934092+08:00"
+}

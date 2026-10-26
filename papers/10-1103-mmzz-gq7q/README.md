@@ -3,8 +3,8 @@
 ## 基本信息
 
 - 分类：[实验平台、靶设计与诊断](../../categories/experimental-platforms-diagnostics.md), [综合等离子体与交叉方法](../../categories/general-plasma-and-methods.md)
-- 期刊/平台：Physical Review E formal metadata (local full text: corresponding arXiv:2604.19927v1 author preprint; not VOR)
-- 发表日期：2026-10-07
+- 期刊/平台：Physical Review E 114, 045211 (local full text: arXiv:2604.19927v1 author preprint; not VOR)
+- 发表日期：2026-10-26
 - 入库日期：2026-10-08
 - DOI：[10.1103/mmzz-gq7q](https://doi.org/10.1103/mmzz-gq7q)
 - 来源：[https://doi.org/10.1103/mmzz-gq7q](https://doi.org/10.1103/mmzz-gq7q)

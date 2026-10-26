@@ -1,0 +1,81 @@
+[
+  {
+    "key": "axion",
+    "exit_code": 0,
+    "stdout": "Downloaded: daily/2026-10-27/pdfs/Radford et al. - 2026 - Coherent axion electrodynamics OSIRIS.pdf (710716 bytes) from https://arxiv.org/pdf/2610.32091v1 via env-proxy\n",
+    "stderr": "",
+    "report": {
+      "ok": true,
+      "output": "daily/2026-10-27/pdfs/Radford et al. - 2026 - Coherent axion electrodynamics OSIRIS.pdf",
+      "source_url": "https://arxiv.org/pdf/2610.32091v1",
+      "mode": "env-proxy",
+      "attempts": []
+    }
+  },
+  {
+    "key": "transport",
+    "exit_code": 0,
+    "stdout": "Downloaded: daily/2026-10-27/pdfs/Walsh - 2026 - Carrier electron heat flux nonlocality.pdf (583776 bytes) from https://arxiv.org/pdf/2610.32085v1 via env-proxy\n",
+    "stderr": "",
+    "report": {
+      "ok": true,
+      "output": "daily/2026-10-27/pdfs/Walsh - 2026 - Carrier electron heat flux nonlocality.pdf",
+      "source_url": "https://arxiv.org/pdf/2610.32085v1",
+      "mode": "env-proxy",
+      "attempts": []
+    }
+  },
+  {
+    "key": "cts",
+    "exit_code": 0,
+    "stdout": "Downloaded: daily/2026-10-27/pdfs/Nakano et al. - 2026 - Two component Bayesian Thomson scattering.pdf (4834212 bytes) from https://arxiv.org/pdf/2610.32033v1 via env-proxy\n",
+    "stderr": "",
+    "report": {
+      "ok": true,
+      "output": "daily/2026-10-27/pdfs/Nakano et al. - 2026 - Two component Bayesian Thomson scattering.pdf",
+      "source_url": "https://arxiv.org/pdf/2610.32033v1",
+      "mode": "env-proxy",
+      "attempts": []
+    }
+  },
+  {
+    "key": "reactivity",
+    "exit_code": 0,
+    "stdout": "Downloaded: daily/2026-10-27/pdfs/Onofrio et al. - 2026 - Optimal energy distributions fusion reactivity.pdf (820521 bytes) from https://harvest.aps.org/v2/journals/articles/10.1103/xhzy-hxdw/fulltext via env-proxy\n",
+    "stderr": "",
+    "report": {
+      "ok": true,
+      "output": "daily/2026-10-27/pdfs/Onofrio et al. - 2026 - Optimal energy distributions fusion reactivity.pdf",
+      "source_url": "https://harvest.aps.org/v2/journals/articles/10.1103/xhzy-hxdw/fulltext",
+      "mode": "env-proxy",
+      "attempts": []
+    }
+  },
+  {
+    "key": "fel",
+    "exit_code": 1,
+    "stdout": "",
+    "stderr": "Failed to download PDF. Attempts:\n- [env-proxy] https://harvest.aps.org/v2/journals/articles/10.1103/3kmz-18bp/fulltext -> HTTP 401\n- [direct] https://harvest.aps.org/v2/journals/articles/10.1103/3kmz-18bp/fulltext -> HTTP 401\n",
+    "report": {
+      "ok": false,
+      "output": "daily/2026-10-27/pdfs/Kang et al. - 2026 - Self synchronized soft X ray infrared FEL.pdf",
+      "attempts": [
+        "[env-proxy] https://harvest.aps.org/v2/journals/articles/10.1103/3kmz-18bp/fulltext -> HTTP 401",
+        "[direct] https://harvest.aps.org/v2/journals/articles/10.1103/3kmz-18bp/fulltext -> HTTP 401"
+      ],
+      "failure_class": "publisher_access_limited"
+    }
+  },
+  {
+    "key": "fel-author-fallback",
+    "exit_code": 0,
+    "report": {
+      "ok": true,
+      "output": "daily/2026-10-27/pdfs/Kang et al. - 2026 - Self synchronized soft X ray infrared FEL.pdf",
+      "source_url": "https://arxiv.org/pdf/2608.15106v1",
+      "mode": "env-proxy",
+      "attempts": []
+    },
+    "status": "same-work author manuscript validated; no no-fulltext retry created"
+  }
+]

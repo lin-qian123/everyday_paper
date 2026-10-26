@@ -5111,8 +5111,8 @@
   {
     "title": "Experimental observation of drift acoustic cnoidal waves in a magnetized plasma",
     "doi": "10.1103/mmzz-gq7q",
-    "journal": "Physical Review E formal metadata (local full text: corresponding arXiv:2604.19927v1 author preprint; not VOR)",
-    "publication_date": "2026-10-07",
+    "journal": "Physical Review E 114, 045211 (local full text: arXiv:2604.19927v1 author preprint; not VOR)",
+    "publication_date": "2026-10-26",
     "processed_date": "2026-10-08",
     "source_url": "https://doi.org/10.1103/mmzz-gq7q",
     "pdf_url": "https://arxiv.org/pdf/2604.19927",
@@ -5122,7 +5122,9 @@
       "experimental-platforms-diagnostics",
       "general-plasma-and-methods"
     ],
-    "normalized_title": "experimental observation of drift acoustic cnoidal waves in a magnetized plasma"
+    "normalized_title": "experimental observation of drift acoustic cnoidal waves in a magnetized plasma",
+    "acceptance_date": "2026-10-07",
+    "publication_metadata_checked_date": "2026-10-27"
   },
   {
     "title": "Experimental observations of microturbulence-suppressed parallel heat conduction in a weakly collisional, high-β plasma",
@@ -6450,5 +6452,162 @@
     "note_path": "daily/2026-10-25/notes/Zhang et al. - 2026 - Compact LINAC X ray FLASH dosimetry.md",
     "normalized_title": "flash radiotherapy using high energy x rays critical dosimetry design and characteristics of flash radiation platform based on compact linac",
     "pdf_sha256": "e6fbe3e015c72595c239db8913fd7ff8158b073286bfb2b8dd46765d8b25435d"
+  },
+  {
+    "title": "Coherent axion electrodynamics in OSIRIS: a counter-propagating axion-photon parametric instability",
+    "normalized_title": "coherent axion electrodynamics in osiris a counter propagating axion photon parametric instability",
+    "doi": "10.48550/arXiv.2610.32091",
+    "authors": [
+      "Miles Radford",
+      "Pablo Bilbao",
+      "Thomas Grismayer",
+      "Luis Silva",
+      "Robert Bingham",
+      "Subir Sarkar",
+      "Gianluca Gregori"
+    ],
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-23",
+    "processed_date": "2026-10-27",
+    "source_url": "https://arxiv.org/abs/2610.32091v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.32091v1",
+    "pdf_path": "daily/2026-10-27/pdfs/Radford et al. - 2026 - Coherent axion electrodynamics OSIRIS.pdf",
+    "note_path": "daily/2026-10-27/notes/Radford et al. - 2026 - Coherent axion electrodynamics OSIRIS.md",
+    "pdf_sha256": "8fa6b7d3ab43087202026fd189a296ebfccec5196cff8475fefdb4268b92ae31",
+    "fulltext_version": "official arXiv v1 author preprint",
+    "categories": [
+      "pic-and-plasma-simulation",
+      "strong-field-qed-radiation"
+    ],
+    "arxiv_id": "2610.32091",
+    "arxiv_version": "2610.32091v1"
+  },
+  {
+    "title": "Plasma transport by carrier electrons: delocalization length for heat-flux",
+    "normalized_title": "plasma transport by carrier electrons delocalization length for heat flux",
+    "doi": "10.48550/arXiv.2610.32085",
+    "authors": [
+      "C. A. Walsh"
+    ],
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-23",
+    "processed_date": "2026-10-27",
+    "source_url": "https://arxiv.org/abs/2610.32085v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.32085v1",
+    "pdf_path": "daily/2026-10-27/pdfs/Walsh - 2026 - Carrier electron heat flux nonlocality.pdf",
+    "note_path": "daily/2026-10-27/notes/Walsh - 2026 - Carrier electron heat flux nonlocality.md",
+    "pdf_sha256": "f5435dcdfef3ecba40def15b86c02a38ca81bf569a892869c4659ba2a54cdbf4",
+    "fulltext_version": "official arXiv v1 author preprint",
+    "categories": [
+      "hedp-icf-laboratory-astrophysics",
+      "pic-and-plasma-simulation"
+    ],
+    "arxiv_id": "2610.32085",
+    "arxiv_version": "2610.32085v1"
+  },
+  {
+    "title": "Two-component Bayesian modeling in the data analysis of collective Thomson scattering",
+    "normalized_title": "two component bayesian modeling in the data analysis of collective thomson scattering",
+    "doi": "10.48550/arXiv.2610.32033",
+    "authors": [
+      "Akito Nakano",
+      "Kentaro Sakai",
+      "Hantao Ji",
+      "Lan Gao",
+      "Brandon K. Russell",
+      "Takeo Hoshi"
+    ],
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-23",
+    "processed_date": "2026-10-27",
+    "source_url": "https://arxiv.org/abs/2610.32033v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.32033v1",
+    "pdf_path": "daily/2026-10-27/pdfs/Nakano et al. - 2026 - Two component Bayesian Thomson scattering.pdf",
+    "note_path": "daily/2026-10-27/notes/Nakano et al. - 2026 - Two component Bayesian Thomson scattering.md",
+    "pdf_sha256": "8b7a34de36563b181cf437691d971c3976582b61fa39c48031b885243b8496a3",
+    "fulltext_version": "official arXiv v1 author preprint",
+    "categories": [
+      "experimental-platforms-diagnostics",
+      "hedp-icf-laboratory-astrophysics"
+    ],
+    "arxiv_id": "2610.32033",
+    "arxiv_version": "2610.32033v1",
+    "publication_status": "PFR accepted 2026-10-16 per arXiv comments; no formal DOI/volume verified"
+  },
+  {
+    "title": "Maximization of nuclear fusion reactivity via optimal energy distributions",
+    "normalized_title": "maximization of nuclear fusion reactivity via optimal energy distributions",
+    "doi": "10.1103/xhzy-hxdw",
+    "authors": [
+      "Roberto Onofrio",
+      "Kamel Ourabah",
+      "Carlo Presilla"
+    ],
+    "journal": "Physical Review E",
+    "publication_date": "2026-10-23",
+    "processed_date": "2026-10-27",
+    "source_url": "https://doi.org/10.1103/xhzy-hxdw",
+    "pdf_url": "https://harvest.aps.org/v2/journals/articles/10.1103/xhzy-hxdw/fulltext",
+    "pdf_path": "daily/2026-10-27/pdfs/Onofrio et al. - 2026 - Optimal energy distributions fusion reactivity.pdf",
+    "note_path": "daily/2026-10-27/notes/Onofrio et al. - 2026 - Optimal energy distributions fusion reactivity.md",
+    "pdf_sha256": "285081baed7f1c3303f33dd540589e976b931bf7b5a70d52b0c5721d7795783b",
+    "fulltext_version": "formal VOR",
+    "categories": [
+      "magnetic-fusion-and-alpha-particles",
+      "laser-accelerated-beam-applications"
+    ]
+  },
+  {
+    "title": "Self-Synchronized Soft X-Ray and Infrared Free-Electron Lasers from a Single Prebunched Electron Beam",
+    "normalized_title": "self synchronized soft x ray and infrared free electron lasers from a single prebunched electron beam",
+    "doi": "10.1103/3kmz-18bp",
+    "authors": [
+      "Yin Kang",
+      "Kaiqing Zhang",
+      "Zhen Wang",
+      "Cheng Yu",
+      "Zhangfeng Gao",
+      "Wencai Cheng",
+      "Hang Luo",
+      "Yue Wang",
+      "Hanghua Xu",
+      "Xiaoqing Liu",
+      "Jinguo Wang",
+      "Huan Zhao",
+      "Yanyan Zhu",
+      "Yongmei Wen",
+      "Fei Gao",
+      "Yangyang Lei",
+      "Chengcheng Xiao",
+      "Liping Sun",
+      "Yongfang Liu",
+      "Jiaqiang Xu",
+      "Weiyi Yin",
+      "Xingtao Wang",
+      "Taihe Lan",
+      "Zheng Qi",
+      "Tao Liu",
+      "Bin Li",
+      "Zhi Guo",
+      "Chao Feng",
+      "Bo Liu",
+      "Zhentang Zhao"
+    ],
+    "journal": "Physical Review Letters",
+    "publication_date": "2026-10-26",
+    "processed_date": "2026-10-27",
+    "source_url": "https://doi.org/10.1103/3kmz-18bp",
+    "pdf_url": "https://arxiv.org/pdf/2608.15106v1",
+    "pdf_path": "daily/2026-10-27/pdfs/Kang et al. - 2026 - Self synchronized soft X ray infrared FEL.pdf",
+    "note_path": "daily/2026-10-27/notes/Kang et al. - 2026 - Self synchronized soft X ray infrared FEL.md",
+    "pdf_sha256": "49aaf60b7dab796359c00422efd219af47c935d1ac23b3f24c6f78fba2430fd2",
+    "fulltext_version": "official arXiv 2608.15106v1 author manuscript, not PRL VOR",
+    "categories": [
+      "experimental-platforms-diagnostics",
+      "laser-plasma-acceleration"
+    ],
+    "arxiv_id": "2608.15106",
+    "arxiv_version": "2608.15106v1",
+    "author_manuscript_title": "Self-Synchronized Terahertz and X-Ray Free-Electron Lasers from a Single Pre-Bunched Electron Beam"
   }
 ]

@@ -1,0 +1,146 @@
+[
+  {
+    "key": "axion",
+    "pdf_page": 11,
+    "clip_points": [
+      45,
+      50,
+      570,
+      375
+    ],
+    "path": "daily/2026-10-27/images/axion/figure-2-growth.png",
+    "source_pdf_sha256": "8fa6b7d3ab43087202026fd189a296ebfccec5196cff8475fefdb4268b92ae31",
+    "sha256": "f087ec4c2048040bdf29de8cac264cf23d4ed7787d998db23d26f218d44cb8b5",
+    "description": "Figure 2: absolute growth rate by envelope mode",
+    "transformation": "Original PDF page excerpt rendered at 2.4x; no scientific content altered",
+    "visually_checked": true
+  },
+  {
+    "key": "axion",
+    "pdf_page": 12,
+    "clip_points": [
+      45,
+      50,
+      570,
+      333
+    ],
+    "path": "daily/2026-10-27/images/axion/figure-4-sidebands.png",
+    "source_pdf_sha256": "8fa6b7d3ab43087202026fd189a296ebfccec5196cff8475fefdb4268b92ae31",
+    "sha256": "6f3b79de85d89c7057d164f0816f04783977f44611eb441f502eb95aa0fc554c",
+    "description": "Figure 4: electromagnetic sideband eigenvector check",
+    "transformation": "Original PDF page excerpt rendered at 2.4x; no scientific content altered",
+    "visually_checked": true
+  },
+  {
+    "key": "transport",
+    "pdf_page": 5,
+    "clip_points": [
+      45,
+      45,
+      567,
+      554
+    ],
+    "path": "daily/2026-10-27/images/transport/figure-3-collapse.png",
+    "source_pdf_sha256": "f5435dcdfef3ecba40def15b86c02a38ca81bf569a892869c4659ba2a54cdbf4",
+    "sha256": "3c2d9b97df8c1a459fe8a0d3be191b6d0da851160ace41d86dbb9359d8660dad",
+    "description": "Figure 3: unmagnetized nonlocality length comparison",
+    "transformation": "Original PDF page excerpt rendered at 2.4x; no scientific content altered",
+    "visually_checked": true
+  },
+  {
+    "key": "transport",
+    "pdf_page": 9,
+    "clip_points": [
+      307,
+      50,
+      565,
+      530
+    ],
+    "path": "daily/2026-10-27/images/transport/figure-8-locality.png",
+    "source_pdf_sha256": "f5435dcdfef3ecba40def15b86c02a38ca81bf569a892869c4659ba2a54cdbf4",
+    "sha256": "916a272fe50134eab1288cf045f78b24ddd8eaf89323dd2ad3f1b3cc3495e03d",
+    "description": "Figure 8: global versus local scale",
+    "transformation": "Original PDF page excerpt rendered at 2.4x; no scientific content altered",
+    "visually_checked": true
+  },
+  {
+    "key": "cts",
+    "pdf_page": 6,
+    "clip_points": [
+      300,
+      55,
+      565,
+      585
+    ],
+    "path": "daily/2026-10-27/images/cts/figure-5-combined.png",
+    "source_pdf_sha256": "8b7a34de36563b181cf437691d971c3976582b61fa39c48031b885243b8496a3",
+    "sha256": "584d01b8ca3731481ab918630ab86fc7153c31aa365c8e8fa30ad9fbf693f13d",
+    "description": "Figure 5: combined posteriors and spectra",
+    "transformation": "Original PDF page excerpt rendered at 2.4x; no scientific content altered",
+    "visually_checked": true
+  },
+  {
+    "key": "cts",
+    "pdf_page": 7,
+    "clip_points": [
+      300,
+      55,
+      565,
+      455
+    ],
+    "path": "daily/2026-10-27/images/cts/figure-7-degeneracy.png",
+    "source_pdf_sha256": "8b7a34de36563b181cf437691d971c3976582b61fa39c48031b885243b8496a3",
+    "sha256": "d79ac18130ca4860c6e6c49e50c70632413ad610cab99205774f1f49f924f3a2",
+    "description": "Figure 7: three-dimensional posterior degeneracy",
+    "transformation": "Original PDF page excerpt rendered at 2.4x; no scientific content altered",
+    "visually_checked": true
+  },
+  {
+    "key": "reactivity",
+    "pdf_page": 10,
+    "clip_points": [
+      40,
+      45,
+      565,
+      492
+    ],
+    "path": "daily/2026-10-27/images/reactivity/figure-4-envelope.png",
+    "source_pdf_sha256": "285081baed7f1c3303f33dd540589e976b931bf7b5a70d52b0c5721d7795783b",
+    "sha256": "e0111a85c417c03511d70a7fff946df113ef757aa8d453312f63c48290146cc5",
+    "description": "Figure 4: concave envelope and peak-normalized increment",
+    "transformation": "Original PDF page excerpt rendered at 2.4x; no scientific content altered",
+    "visually_checked": true
+  },
+  {
+    "key": "fel",
+    "pdf_page": 4,
+    "clip_points": [
+      45,
+      42,
+      570,
+      247
+    ],
+    "path": "daily/2026-10-27/images/fel/figure-3-xray.png",
+    "source_pdf_sha256": "49aaf60b7dab796359c00422efd219af47c935d1ac23b3f24c6f78fba2430fd2",
+    "sha256": "60bfdb1dea0a56452e9efd12c0fbabd3503310c833f03de8cb393840a7a2a933",
+    "description": "Figure 3: 400-shot X-ray energy and spectra",
+    "transformation": "Original PDF page excerpt rendered at 2.4x; no scientific content altered",
+    "visually_checked": true
+  },
+  {
+    "key": "fel",
+    "pdf_page": 4,
+    "clip_points": [
+      45,
+      245,
+      570,
+      445
+    ],
+    "path": "daily/2026-10-27/images/fel/figure-4-tunability.png",
+    "source_pdf_sha256": "49aaf60b7dab796359c00422efd219af47c935d1ac23b3f24c6f78fba2430fd2",
+    "sha256": "c092124159b277e49f47e6482da1608979b4bebdcaf87c774915955913522cee",
+    "description": "Figure 4: tunability and lasing on/off",
+    "transformation": "Original PDF page excerpt rendered at 2.4x; no scientific content altered",
+    "visually_checked": true
+  }
+]

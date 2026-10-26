@@ -1,0 +1,746 @@
+[
+  {
+    "key": "axion",
+    "query_url": "https://api.crossref.org/works?query.title=Coherent+axion+electrodynamics+in+OSIRIS%3A+a+counter-propagating+axion-photon+parametric+instability&rows=3",
+    "top_three": [
+      {
+        "doi": "10.1016/j.physletb.2023.137759",
+        "title": [
+          "Parametric co-linear axion photon instability"
+        ],
+        "authors": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-4241-9219",
+            "authenticated-orcid": false,
+            "given": "K.A.",
+            "family": "Beyer",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "G.",
+            "family": "Marocco",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "C.",
+            "family": "Danson",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "R.",
+            "family": "Bingham",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "G.",
+            "family": "Gregori",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              4
+            ]
+          ]
+        }
+      },
+      {
+        "doi": "10.1103/physrevd.76.087505",
+        "title": [
+          "Photon propagator for axion electrodynamics"
+        ],
+        "authors": [
+          {
+            "given": "Yakov",
+            "family": "Itin",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2007,
+              10,
+              25
+            ]
+          ]
+        }
+      },
+      {
+        "doi": "10.1103/pjhp-hdxd",
+        "title": [
+          "Plasma instability splits axion-photon conversion lines"
+        ],
+        "authors": [
+          {
+            "family": "Anonymous",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              21
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "key": "transport",
+    "query_url": "https://api.crossref.org/works?query.title=Plasma+transport+by+carrier+electrons%3A+delocalization+length+for+heat-flux&rows=3",
+    "top_three": [
+      {
+        "doi": "10.1063/1.1692279",
+        "title": [
+          "Plasma Flux Transport"
+        ],
+        "authors": [
+          {
+            "given": "C. W.",
+            "family": "Parkin",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Physics Department, Vanderbilt University Nashville, Tennessee"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "J. P.",
+            "family": "Barach",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Physics Department, Vanderbilt University Nashville, Tennessee"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1969,
+              1,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "doi": "10.1351/goldbook.08789",
+        "title": [
+          "delocalization of electrons"
+        ],
+        "authors": null,
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              25
+            ]
+          ]
+        }
+      },
+      {
+        "doi": "10.1515/iupac.94.0032",
+        "title": [
+          "Delocalization of Electrons"
+        ],
+        "authors": [
+          {
+            "given": "Jiří",
+            "family": "Vohlídal",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Carlos F. O.",
+            "family": "Graeff",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Roger C.",
+            "family": "Hiorns",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Richard G.",
+            "family": "Jones",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Christine",
+            "family": "Luscombe",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "François",
+            "family": "Schué",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Natalie",
+            "family": "Stingelin",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Michael G.",
+            "family": "Walter",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": null
+      }
+    ]
+  },
+  {
+    "key": "cts",
+    "query_url": "https://api.crossref.org/works?query.title=Two-component+Bayesian+modeling+in+the+data+analysis+of+collective+Thomson+scattering&rows=3",
+    "top_three": [
+      {
+        "doi": "10.1088/1748-0221/12/08/c08015",
+        "title": [
+          "Collective Thomson scattering data analysis for Wendelstein 7-X"
+        ],
+        "authors": [
+          {
+            "given": "I.",
+            "family": "Abramovic",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "A.",
+            "family": "Pavone",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "J.",
+            "family": "Svensson",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "D.",
+            "family": "Moseev",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "M.",
+            "family": "Salewski",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "H.P.",
+            "family": "Laqua",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "N.J. Lopes",
+            "family": "Cardozo",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "R.C.",
+            "family": "Wolf",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2017,
+              8,
+              16
+            ]
+          ]
+        }
+      },
+      {
+        "doi": "10.1088/0741-3335/44/8/306",
+        "title": [
+          "Thomson scattering analysis with the Bayesian probability theory"
+        ],
+        "authors": [
+          {
+            "given": "R",
+            "family": "Fischer",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "C",
+            "family": "Wendland",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "A",
+            "family": "Dinklage",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "S",
+            "family": "Gori",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "V",
+            "family": "Dose",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "the W7-AS",
+            "family": "team",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2002,
+              7,
+              18
+            ]
+          ]
+        }
+      },
+      {
+        "doi": "10.1016/j.fusengdes.2018.06.008",
+        "title": [
+          "Neutronics analysis of the ITER Collective Thomson Scattering system"
+        ],
+        "authors": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-4469-1790",
+            "authenticated-orcid": false,
+            "given": "A.",
+            "family": "Lopes",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "R.",
+            "family": "Luís",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-1908-5644",
+            "authenticated-orcid": false,
+            "given": "E.",
+            "family": "Klinkby",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "E.",
+            "family": "Nonbøl",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "M.",
+            "family": "Jessen",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "R.",
+            "family": "Moutinho",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "M.",
+            "family": "Salewski",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-3947-1518",
+            "authenticated-orcid": false,
+            "given": "J.",
+            "family": "Rasmussen",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "B.",
+            "family": "Gonçalves",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "B.",
+            "family": "Lauritzen",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "S.B.",
+            "family": "Korsholm",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "A.W.",
+            "family": "Larsen",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-7622-847X",
+            "authenticated-orcid": false,
+            "given": "C.",
+            "family": "Vidal",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              9
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "key": "reactivity",
+    "version_read": "APS VOR",
+    "received": "2026-06-18",
+    "accepted": "2026-10-02",
+    "published": "2026-10-23",
+    "source": "https://harvest.aps.org/v2/journals/articles/10.1103/xhzy-hxdw/fulltext"
+  },
+  {
+    "key": "fel",
+    "formal_title": "Self-Synchronized Soft X-Ray and Infrared Free-Electron Lasers from a Single Prebunched Electron Beam",
+    "formal_date": "2026-10-26",
+    "formal_volume_page": "PRL 137, 185001",
+    "harvest_failure": "HTTP 401 via proxy and direct",
+    "exact_current_title_arxiv_query": "zero entries",
+    "fallback_search": "author plus old title; 30-author group and SXFEL physical scenario matched",
+    "author_manuscript": "2608.15106v1, submitted 2026-08-15",
+    "author_manuscript_title": "Self-Synchronized Terahertz and X-Ray Free-Electron Lasers from a Single Pre-Bunched Electron Beam",
+    "comparison_limit": "No fulltext VOR comparison; old THz versus new MIR/SXR wording and detailed results may differ"
+  },
+  {
+    "key": "cts",
+    "status": "PFR accepted 2026-10-16 per official arXiv comments; no matching exact title in Crossref top3; formal volume DOI not verified"
+  },
+  {
+    "key": "axion-and-transport-date",
+    "arxiv_v1_submission": "2026-10-23",
+    "PDF_printed_date": "2026-10-26",
+    "action": "Both dates retained; exact v1 URL and SHA recorded, no invented new publication date"
+  },
+  {
+    "key": "existing-cnoidal",
+    "accepted": "2026-10-07",
+    "published": "2026-10-26",
+    "citation": "PRE 114, 045211",
+    "accepted_page": "https://journals.aps.org/pre/accepted/10.1103/mmzz-gq7q",
+    "formal_listing": "https://journals.aps.org/pre/recent",
+    "content_scope": "metadata correction only"
+  }
+]

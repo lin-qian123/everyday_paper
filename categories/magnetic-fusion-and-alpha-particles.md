@@ -2,11 +2,12 @@
 
 stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。
 
-- 当前收录：61 篇
-- 索引更新时间：2026-10-25
+- 当前收录：62 篇
+- 索引更新时间：2026-10-27
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-27 | [Maximization of nuclear fusion reactivity via optimal energy distributions](../papers/10-1103-xhzy-hxdw/README.md) | Physical Review E | [笔记](../daily/2026-10-27/notes/Onofrio et al. - 2026 - Optimal energy distributions fusion reactivity.md) |
 | 2026-10-19 | [Validation of geometric proxies using negative and positive triangularity plasmas with varying elongation on TCV and multi-machine gyrokinetic simulations](../papers/arxiv-2610-17974/README.md) | arXiv preprint | [笔记](../daily/2026-10-19/notes/Balestri et al. - 2026 - Geometric proxies for negative triangularity.md) |
 | 2026-10-19 | [Implicit PIC Simulations of Hydrogen Plasmas with Intense Negative Ion Production](../papers/arxiv-2610-16257/README.md) | arXiv preprint | [笔记](../daily/2026-10-19/notes/Eremin - 2026 - Implicit PIC hydrogen negative ions.md) |
 | 2026-10-17 | [Visual tools for 3D plasma simulation: GPU-based isosurface extraction and particle-based rendering](../papers/10-1371-journal-pone-0359294/README.md) | PLOS One | [笔记](../daily/2026-10-17/notes/Kim et al. - 2026 - GPU plasma visualization.md) |

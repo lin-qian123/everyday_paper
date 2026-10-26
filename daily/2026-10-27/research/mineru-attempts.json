@@ -1,0 +1,62 @@
+[
+  {
+    "source": "https://arxiv.org/pdf/2610.32091v1",
+    "ok": true,
+    "state": "done",
+    "model_version": "pipeline",
+    "task_id": "f41ea442-7e45-4f79-be71-faa2e30c6d1c",
+    "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-10-27/f41ea442-7e45-4f79-be71-faa2e30c6d1c.zip",
+    "key": "axion",
+    "fulltext_path": "daily/2026-10-27/pdfs/Radford et al. - 2026 - Coherent axion electrodynamics OSIRIS.mineru.txt",
+    "fulltext_bytes": 69133,
+    "body_checked": true
+  },
+  {
+    "source": "https://arxiv.org/pdf/2610.32085v1",
+    "ok": true,
+    "state": "done",
+    "model_version": "pipeline",
+    "task_id": "d29394c1-fdf7-4f7b-9e52-06a8d976cae4",
+    "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-10-27/d29394c1-fdf7-4f7b-9e52-06a8d976cae4.zip",
+    "key": "transport",
+    "fulltext_path": "daily/2026-10-27/pdfs/Walsh - 2026 - Carrier electron heat flux nonlocality.mineru.txt",
+    "fulltext_bytes": 73697,
+    "body_checked": true
+  },
+  {
+    "source": "https://arxiv.org/pdf/2610.32033v1",
+    "ok": true,
+    "state": "done",
+    "model_version": "pipeline",
+    "task_id": "95768444-c8c1-4f4a-b427-f821b806345b",
+    "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-10-27/95768444-c8c1-4f4a-b427-f821b806345b.zip",
+    "key": "cts",
+    "fulltext_path": "daily/2026-10-27/pdfs/Nakano et al. - 2026 - Two component Bayesian Thomson scattering.mineru.txt",
+    "fulltext_bytes": 56012,
+    "body_checked": true
+  },
+  {
+    "source": "https://harvest.aps.org/v2/journals/articles/10.1103/xhzy-hxdw/fulltext",
+    "ok": true,
+    "state": "done",
+    "model_version": "pipeline",
+    "task_id": "14fe9d97-1330-4a9f-aa18-5737b5403e83",
+    "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-10-27/14fe9d97-1330-4a9f-aa18-5737b5403e83.zip",
+    "key": "reactivity",
+    "fulltext_path": "daily/2026-10-27/pdfs/Onofrio et al. - 2026 - Optimal energy distributions fusion reactivity.mineru.txt",
+    "fulltext_bytes": 76458,
+    "body_checked": true
+  },
+  {
+    "source": "https://arxiv.org/pdf/2608.15106v1",
+    "ok": true,
+    "state": "done",
+    "model_version": "pipeline",
+    "task_id": "62696245-3fa2-41b4-9575-d41d6bdf94a0",
+    "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-10-27/62696245-3fa2-41b4-9575-d41d6bdf94a0.zip",
+    "key": "fel",
+    "fulltext_path": "daily/2026-10-27/pdfs/Kang et al. - 2026 - Self synchronized soft X ray infrared FEL.mineru.txt",
+    "fulltext_bytes": 29755,
+    "body_checked": true
+  }
+]

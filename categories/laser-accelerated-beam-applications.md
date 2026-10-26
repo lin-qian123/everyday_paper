@@ -2,11 +2,12 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：123 篇
-- 索引更新时间：2026-10-25
+- 当前收录：124 篇
+- 索引更新时间：2026-10-27
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-27 | [Maximization of nuclear fusion reactivity via optimal energy distributions](../papers/10-1103-xhzy-hxdw/README.md) | Physical Review E | [笔记](../daily/2026-10-27/notes/Onofrio et al. - 2026 - Optimal energy distributions fusion reactivity.md) |
 | 2026-10-25 | [FLASH radiotherapy using high-energy X-rays: critical dosimetry design and characteristics of FLASH radiation platform based on compact LINAC](../papers/10-1007-s41365-026-02073-3/README.md) | Nuclear Science and Techniques | [笔记](../daily/2026-10-25/notes/Zhang et al. - 2026 - Compact LINAC X ray FLASH dosimetry.md) |
 | 2026-10-24 | [Direct Production of Ultra-High Radioisotopic Pure $^{64}$Cu from Natural Zinc Metal via D-D Fusion Narrowband Fast Neutron Source Irradiation](../papers/arxiv-2610-31340/README.md) | arXiv preprint | [笔记](../daily/2026-10-24/notes/Brown et al. - 2026 - Laser DD neutrons Cu64 from natural zinc.md) |
 | 2026-10-23 | [BM3DORNL: High-Performance BM3D Denoising for Neutron Tomography](../papers/10-21105-joss-11132/README.md) | Journal of Open Source Software | [笔记](../daily/2026-10-23/notes/Zhang et al. - 2026 - BM3DORNL neutron tomography.md) |

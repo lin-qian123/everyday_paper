@@ -3,7 +3,7 @@
 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。
 
 - 当前收录：114 篇
-- 索引更新时间：2026-10-25
+- 索引更新时间：2026-10-27
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
@@ -22,8 +22,8 @@
 | 2026-10-09 | [Real-time Tokamak Equilibrium Reconstruction Under Limited Experimental Data via Physics-Grounded Synthetic Pre-training](../papers/arxiv-2610-09674/README.md) | arXiv preprint | [笔记](../daily/2026-10-09/notes/He et al. - 2026 - Tokamak equilibrium reconstruction via synthetic pretraining.md) |
 | 2026-10-09 | [High-order harmonic generation in ion- and nanoparticle-containing aluminum laser-induced plasma](../papers/10-1063-5-0350047/README.md) | Physics of Plasmas 33, 103302 (formal version of record) | [笔记](../daily/2026-10-09/notes/Ganeev - 2026 - High-order harmonic generation in aluminum plasma.md) |
 | 2026-10-09 | [A Differentiable Surrogate for Loss-Dominated Ion Beam Transport](../papers/arxiv-2610-08877/README.md) | arXiv preprint | [笔记](../daily/2026-10-09/notes/Munoz-Arias et al. - 2026 - Differentiable ion beam transport surrogate.md) |
+| 2026-10-08 | [Experimental observation of drift acoustic cnoidal waves in a magnetized plasma](../papers/10-1103-mmzz-gq7q/README.md) | Physical Review E 114, 045211 (local full text: arXiv:2604.19927v1 author preprint; not VOR) | [笔记](../daily/2026-10-08/notes/Karmakar et al. - 2026 - Drift acoustic cnoidal waves.md) |
 | 2026-10-08 | [Evolution of transversely asymmetric electron beams in hollow plasma channels](../papers/10-1103-13fz-y5wy/README.md) | Physical Review Accelerators and Beams (formal version of record) | [笔记](../daily/2026-10-08/notes/Ding et al. - 2026 - Asymmetric beams in hollow plasma channels.md) |
-| 2026-10-08 | [Experimental observation of drift acoustic cnoidal waves in a magnetized plasma](../papers/10-1103-mmzz-gq7q/README.md) | Physical Review E formal metadata (local full text: corresponding arXiv:2604.19927v1 author preprint; not VOR) | [笔记](../daily/2026-10-08/notes/Karmakar et al. - 2026 - Drift acoustic cnoidal waves.md) |
 | 2026-10-08 | [Experimental observations of microturbulence-suppressed parallel heat conduction in a weakly collisional, high-β plasma](../papers/arxiv-2610-08530/README.md) | arXiv preprint | [笔记](../daily/2026-10-08/notes/Vincent et al. - 2026 - Microturbulence suppressed heat conduction.md) |
 | 2026-10-08 | [Proton probing measurements of filamentary electromagnetic structure in laser ablation of solids](../papers/10-1063-5-0342431/README.md) | Physics of Plasmas (formal version of record) | [笔记](../daily/2026-10-08/notes/Peebles et al. - 2026 - Proton probing laser ablation filaments.md) |
 | 2026-10-08 | [Experimental Demonstration of Beam-Driven Wakefield Acceleration in Laser-Plasma Filament](../papers/10-1103-qjd9-p6dy/README.md) | Physical Review E Accepted Paper (local full text: corresponding arXiv:2602.22841v1 author preprint; not VOR) | [笔记](../daily/2026-10-08/notes/Galletti et al. - 2026 - Beam-driven acceleration in laser-plasma filament.md) |
