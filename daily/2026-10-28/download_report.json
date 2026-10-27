@@ -1,0 +1,106 @@
+[
+  {
+    "key": "energy",
+    "exit_code": 0,
+    "stdout": "Downloaded: daily/2026-10-28/pdfs/Fan and Zhou - 2026 - Available energy convective instabilities.pdf (626606 bytes) from https://arxiv.org/pdf/2602.23983v1 via env-proxy\n",
+    "stderr": "",
+    "report": {
+      "ok": true,
+      "output": "daily/2026-10-28/pdfs/Fan and Zhou - 2026 - Available energy convective instabilities.pdf",
+      "source_url": "https://arxiv.org/pdf/2602.23983v1",
+      "mode": "env-proxy",
+      "attempts": []
+    }
+  },
+  {
+    "key": "modes",
+    "exit_code": 1,
+    "stdout": "",
+    "stderr": "Failed to download PDF. Attempts:\n- [env-proxy] https://www.mdpi.com/2075-1680/15/11/800/pdf -> HTTP 403\n- [direct] https://www.mdpi.com/2075-1680/15/11/800/pdf -> HTTP 403\n",
+    "report": {
+      "ok": false,
+      "output": "daily/2026-10-28/pdfs/Behtouei et al. - 2026 - Operator laser plasma mode coupling.pdf",
+      "attempts": [
+        "[env-proxy] https://www.mdpi.com/2075-1680/15/11/800/pdf -> HTTP 403",
+        "[direct] https://www.mdpi.com/2075-1680/15/11/800/pdf -> HTTP 403"
+      ],
+      "failure_class": "publisher_http_403"
+    }
+  },
+  {
+    "key": "interface",
+    "exit_code": 0,
+    "stdout": "Downloaded: daily/2026-10-28/pdfs/Yamazaki et al. - 2026 - Rippling laser ablated plasma interface.pdf (7537419 bytes) from https://arxiv.org/pdf/2610.34057v1 via env-proxy\n",
+    "stderr": "",
+    "report": {
+      "ok": true,
+      "output": "daily/2026-10-28/pdfs/Yamazaki et al. - 2026 - Rippling laser ablated plasma interface.pdf",
+      "source_url": "https://arxiv.org/pdf/2610.34057v1",
+      "mode": "env-proxy",
+      "attempts": []
+    }
+  },
+  {
+    "key": "compton",
+    "exit_code": 0,
+    "stdout": "Downloaded: daily/2026-10-28/pdfs/Chekmareva and Korzhimanov - 2026 - Transparent foil Compton source.pdf (3897966 bytes) from https://arxiv.org/pdf/2610.35039v1 via env-proxy\n",
+    "stderr": "",
+    "report": {
+      "ok": true,
+      "output": "daily/2026-10-28/pdfs/Chekmareva and Korzhimanov - 2026 - Transparent foil Compton source.pdf",
+      "source_url": "https://arxiv.org/pdf/2610.35039v1",
+      "mode": "env-proxy",
+      "attempts": []
+    }
+  },
+  {
+    "key": "wire",
+    "exit_code": 0,
+    "stdout": "Downloaded: daily/2026-10-28/pdfs/Wang et al. - 2026 - Exploded aluminum wire wakefield X rays.pdf (6703104 bytes) from https://arxiv.org/pdf/2610.34859v1 via env-proxy\n",
+    "stderr": "",
+    "report": {
+      "ok": true,
+      "output": "daily/2026-10-28/pdfs/Wang et al. - 2026 - Exploded aluminum wire wakefield X rays.pdf",
+      "source_url": "https://arxiv.org/pdf/2610.34859v1",
+      "mode": "env-proxy",
+      "attempts": []
+    }
+  },
+  {
+    "key": "igene",
+    "exit_code": 0,
+    "stdout": "Downloaded: daily/2026-10-28/pdfs/Merlo et al. - 2026 - iGENE JAX gyrokinetic acceleration.pdf (6402931 bytes) from https://arxiv.org/pdf/2610.33561v1 via env-proxy\n",
+    "stderr": "",
+    "report": {
+      "ok": true,
+      "output": "daily/2026-10-28/pdfs/Merlo et al. - 2026 - iGENE JAX gyrokinetic acceleration.pdf",
+      "source_url": "https://arxiv.org/pdf/2610.33561v1",
+      "mode": "env-proxy",
+      "attempts": []
+    }
+  },
+  {
+    "key": "modes",
+    "route": "official_open_access_cdn",
+    "report": {
+      "ok": true,
+      "output": "/tmp/everyday-paper-20261028/modes-cdn.pdf",
+      "source_url": "https://mdpi-res.com/d_attachment/axioms/axioms-15-00800/article_deploy/axioms-15-00800.pdf",
+      "mode": "env-proxy",
+      "attempts": []
+    }
+  },
+  {
+    "key": "energy",
+    "route": "publisher_vor_unavailable_author_manuscript_used",
+    "report": {
+      "ok": false,
+      "output": "/tmp/everyday-paper-20261028/fan.pdf",
+      "attempts": [
+        "[env-proxy] https://harvest.aps.org/v2/journals/articles/10.1103/bp24-s332/fulltext -> HTTP 401",
+        "[direct] https://harvest.aps.org/v2/journals/articles/10.1103/bp24-s332/fulltext -> HTTP 401"
+      ],
+      "failure_class": "publisher_access_limited"
+    }
+  }
+]

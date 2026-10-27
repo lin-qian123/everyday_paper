@@ -2,11 +2,12 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：168 篇
-- 索引更新时间：2026-10-27
+- 当前收录：169 篇
+- 索引更新时间：2026-10-28
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-28 | [Identification of rippling interface between laser-ablated plasma and ambient uniform plasma at rest](../papers/10-1103-mhz4-f54x/README.md) | Physical Review E (accepted); arXiv author manuscript | [笔记](../daily/2026-10-28/notes/Yamazaki et al. - 2026 - Rippling laser ablated plasma interface.md) |
 | 2026-10-27 | [Self-Synchronized Soft X-Ray and Infrared Free-Electron Lasers from a Single Prebunched Electron Beam](../papers/10-1103-3kmz-18bp/README.md) | Physical Review Letters | [笔记](../daily/2026-10-27/notes/Kang et al. - 2026 - Self synchronized soft X ray infrared FEL.md) |
 | 2026-10-27 | [Two-component Bayesian modeling in the data analysis of collective Thomson scattering](../papers/arxiv-2610-32033/README.md) | arXiv preprint | [笔记](../daily/2026-10-27/notes/Nakano et al. - 2026 - Two component Bayesian Thomson scattering.md) |
 | 2026-10-25 | [FLASH radiotherapy using high-energy X-rays: critical dosimetry design and characteristics of FLASH radiation platform based on compact LINAC](../papers/10-1007-s41365-026-02073-3/README.md) | Nuclear Science and Techniques | [笔记](../daily/2026-10-25/notes/Zhang et al. - 2026 - Compact LINAC X ray FLASH dosimetry.md) |

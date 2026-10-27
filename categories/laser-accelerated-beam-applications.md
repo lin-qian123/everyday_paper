@@ -2,11 +2,13 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：124 篇
-- 索引更新时间：2026-10-27
+- 当前收录：126 篇
+- 索引更新时间：2026-10-28
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-28 | [Bright Compton source based on the interaction of an ultraintense laser pulse with a relativistically transparent foil and a plasma mirror](../papers/arxiv-2610-35039/README.md) | arXiv preprint | [笔记](../daily/2026-10-28/notes/Chekmareva and Korzhimanov - 2026 - Transparent foil Compton source.md) |
+| 2026-10-28 | [Laser wakefield acceleration and x-ray emission in plasma produced by the electrical explosion of an aluminum wire](../papers/arxiv-2610-34859/README.md) | arXiv preprint | [笔记](../daily/2026-10-28/notes/Wang et al. - 2026 - Exploded aluminum wire wakefield X rays.md) |
 | 2026-10-27 | [Maximization of nuclear fusion reactivity via optimal energy distributions](../papers/10-1103-xhzy-hxdw/README.md) | Physical Review E | [笔记](../daily/2026-10-27/notes/Onofrio et al. - 2026 - Optimal energy distributions fusion reactivity.md) |
 | 2026-10-25 | [FLASH radiotherapy using high-energy X-rays: critical dosimetry design and characteristics of FLASH radiation platform based on compact LINAC](../papers/10-1007-s41365-026-02073-3/README.md) | Nuclear Science and Techniques | [笔记](../daily/2026-10-25/notes/Zhang et al. - 2026 - Compact LINAC X ray FLASH dosimetry.md) |
 | 2026-10-24 | [Direct Production of Ultra-High Radioisotopic Pure $^{64}$Cu from Natural Zinc Metal via D-D Fusion Narrowband Fast Neutron Source Irradiation](../papers/arxiv-2610-31340/README.md) | arXiv preprint | [笔记](../daily/2026-10-24/notes/Brown et al. - 2026 - Laser DD neutrons Cu64 from natural zinc.md) |

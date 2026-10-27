@@ -2,11 +2,16 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：211 篇
-- 索引更新时间：2026-10-27
+- 当前收录：216 篇
+- 索引更新时间：2026-10-28
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-28 | [Available Energy and Ground States of Convective Hydrodynamic and Hydromagnetic Instabilities](../papers/10-1103-bp24-s332/README.md) | Physical Review Letters 137, 185101 | [笔记](../daily/2026-10-28/notes/Fan and Zhou - 2026 - Available energy convective instabilities.md) |
+| 2026-10-28 | [Operator Formalism for Laser–Plasma Mode Coupling](../papers/10-3390-axioms15110800/README.md) | Axioms 15(11), 800 | [笔记](../daily/2026-10-28/notes/Behtouei et al. - 2026 - Operator laser plasma mode coupling.md) |
+| 2026-10-28 | [Bright Compton source based on the interaction of an ultraintense laser pulse with a relativistically transparent foil and a plasma mirror](../papers/arxiv-2610-35039/README.md) | arXiv preprint | [笔记](../daily/2026-10-28/notes/Chekmareva and Korzhimanov - 2026 - Transparent foil Compton source.md) |
+| 2026-10-28 | [Laser wakefield acceleration and x-ray emission in plasma produced by the electrical explosion of an aluminum wire](../papers/arxiv-2610-34859/README.md) | arXiv preprint | [笔记](../daily/2026-10-28/notes/Wang et al. - 2026 - Exploded aluminum wire wakefield X rays.md) |
+| 2026-10-28 | [Accelerating high-fidelity gyrokinetic fusion simulations with iGENE](../papers/arxiv-2610-33561/README.md) | arXiv preprint | [笔记](../daily/2026-10-28/notes/Merlo et al. - 2026 - iGENE JAX gyrokinetic acceleration.md) |
 | 2026-10-27 | [Coherent axion electrodynamics in OSIRIS: a counter-propagating axion-photon parametric instability](../papers/arxiv-2610-32091/README.md) | arXiv preprint | [笔记](../daily/2026-10-27/notes/Radford et al. - 2026 - Coherent axion electrodynamics OSIRIS.md) |
 | 2026-10-27 | [Plasma transport by carrier electrons: delocalization length for heat-flux](../papers/arxiv-2610-32085/README.md) | arXiv preprint | [笔记](../daily/2026-10-27/notes/Walsh - 2026 - Carrier electron heat flux nonlocality.md) |
 | 2026-10-24 | [GEM-PIC-RZ: a Galilean electromagnetic particle-in-cell code in quasi-cylindrical geometry with nonuniform grids](../papers/arxiv-2610-31622/README.md) | arXiv preprint | [笔记](../daily/2026-10-24/notes/Pukhov - 2026 - GEM-PIC-RZ nonuniform Galilean PIC.md) |

@@ -1,0 +1,1839 @@
+[
+  {
+    "key": "energy",
+    "kind": "formal_DOI",
+    "url": "https://api.crossref.org/works/10.1103/bp24-s332",
+    "metadata": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            27
+          ]
+        ],
+        "date-time": "2026-10-27T15:35:23Z",
+        "timestamp": 1793115323778,
+        "version": "4.5.0"
+      },
+      "reference-count": 50,
+      "publisher": "American Physical Society (APS)",
+      "issue": "18",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                27
+              ]
+            ],
+            "date-time": "2026-10-27T00:00:00Z",
+            "timestamp": 1793059200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://link.aps.org/licenses/aps-default-license"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/501100001809",
+          "name": "National Natural Science Foundation of China",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "12305246"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "12305246"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100001809",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/501100012226",
+          "name": "Fundamental Research Funds for the Central Universities",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/501100012226",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "name": "National MCF R&D Program",
+          "award": [
+            "2024YFE03230400"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "2024YFE03230400"
+              ]
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "journals.aps.org"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Phys. Rev. Lett."
+      ],
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            7
+          ]
+        ]
+      },
+      "DOI": "10.1103/bp24-s332",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            7
+          ]
+        ],
+        "date-time": "2026-10-07T14:32:34Z",
+        "timestamp": 1791383554000
+      },
+      "update-policy": "https://doi.org/10.1103/crossmark-policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Available Energy and Ground States of Convective Hydrodynamic and Hydromagnetic Instabilities"
+      ],
+      "prefix": "10.1103",
+      "volume": "137",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-2751-8809",
+          "authenticated-orcid": true,
+          "given": "Kaixuan",
+          "family": "Fan",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/0220qvk04",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Shanghai Jiao Tong University"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-3616-2912",
+          "authenticated-orcid": true,
+          "given": "Yao",
+          "family": "Zhou",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/0220qvk04",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Shanghai Jiao Tong University"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "16",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            27
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "bp24-s332Cc1R1",
+          "volume-title": "Hydrodynamic and Hydromagnetic Stability",
+          "author": "S. Chandrasekhar",
+          "year": "1961",
+          "type": "book"
+        },
+        {
+          "key": "bp24-s332Cc2R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.physrep.2017.07.005",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc3R1",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1017/CBO9780511795046",
+          "type": "book",
+          "volume-title": "Ideal MHD",
+          "author": "J. P. Freidberg",
+          "year": "2014"
+        },
+        {
+          "key": "bp24-s332Cc4R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1098/rspa.1958.0023",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc5R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1088/0741-3335/28/1A/022",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc6R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/PhysRevLett.97.095002",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc7R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/PhysRevLett.115.215001",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc8R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/1.5140968",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc9R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1088/0741-3335/38/2/001",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc10R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/PhysRevLett.96.185001",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc11R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/PhysRevLett.122.255001",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc12R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.13182/FST06-A1231",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc13R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1088/1741-4326/aa6c1e",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc14R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/PhysRevLett.133.135102",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc15R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/PhysRevLett.92.175006",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc16R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/PhysRevLett.102.235003",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc17R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/PhysRevLett.112.085001",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc18R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/PhysRevLett.116.235001",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc19R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1088/1741-4326/ae7983",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc20R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/1.1706823",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc21R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.physleta.2005.04.078",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc22R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1017/S0022377817000496",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc23R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1017/S0022377820000057",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc24R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/PhysRevLett.128.175001",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc25R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/5.0231643",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc26R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1017/S0022377825100846",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc27R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1017/S0022377826101767",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc28R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/5.0202456",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc29R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/PhysRevE.111.025205",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc30R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1209/0295-5075/ae652c",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc32R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00222-011-0332-9",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc33R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/mnras/232.3.623",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc34R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3402/tellusa.v7i2.8796",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc35R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.2153-3490.1979.tb00901.x",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc36R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1175/JPO-D-14-0174.1",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc37R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/qj.2921",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc38R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/qj.3297",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc39R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1017/S0022377824001521",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc40R1",
+          "first-page": "451",
+          "type": "journal-article",
+          "volume": "2",
+          "author": "W. A. Newcomb",
+          "year": "1962",
+          "journal-title": "Nucl. Fusion Suppl.",
+          "ISSN": "https://id.crossref.org/issn/0029-5515",
+          "issn-type": "print"
+        },
+        {
+          "key": "bp24-s332Cc41R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1086/164785",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc42R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1137/140967404",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc43R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/1.4897372",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc45R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1017/S0022112081001742",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc46R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1017/S002211209500125X",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc47R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0370-1573(91)90153-D",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc48R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/PhysRevResearch.2.023068",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc49R1",
+          "first-page": "153",
+          "type": "journal-article",
+          "volume": "2",
+          "author": "B. Kadomtsev",
+          "year": "1966",
+          "journal-title": "Rev. Plasma Phys.",
+          "ISSN": "https://id.crossref.org/issn/0080-2050",
+          "issn-type": "print"
+        },
+        {
+          "key": "bp24-s332Cc50R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/1.1706024",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc51R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/nav.3800020109",
+          "type": "journal-article"
+        },
+        {
+          "key": "bp24-s332Cc52R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1137/0105003",
+          "type": "journal-article"
+        }
+      ],
+      "container-title": [
+        "Physical Review Letters"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://link.aps.org/article/10.1103/bp24-s332",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "syndication"
+        },
+        {
+          "URL": "http://harvest.aps.org/v2/journals/articles/10.1103/bp24-s332/fulltext",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            27
+          ]
+        ],
+        "date-time": "2026-10-27T15:15:59Z",
+        "timestamp": 1793114159000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://link.aps.org/doi/10.1103/bp24-s332"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            27
+          ]
+        ]
+      },
+      "references-count": 50,
+      "journal-issue": {
+        "issue": "18",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1103/bp24-s332",
+      "relation": {},
+      "ISSN": [
+        "0031-9007",
+        "1079-7114"
+      ],
+      "issn-type": [
+        {
+          "value": "0031-9007",
+          "type": "print"
+        },
+        {
+          "value": "1079-7114",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            27
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "2026-02-27",
+          "name": "date_received",
+          "label": "Date Received",
+          "group": {
+            "name": "publication_dates",
+            "label": "Publication dates"
+          }
+        },
+        {
+          "value": "© 2026 American Physical Society. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+          "name": "copyright_statement",
+          "label": "Copyright statement",
+          "group": {
+            "name": "copyright",
+            "label": "copyright"
+          }
+        },
+        {
+          "value": "2026",
+          "name": "copyright_year",
+          "label": "Copyright year",
+          "group": {
+            "name": "copyright",
+            "label": "copyright"
+          }
+        },
+        {
+          "value": "American Physical Society",
+          "name": "copyright_holder",
+          "label": "Copyright holder",
+          "group": {
+            "name": "copyright",
+            "label": "copyright"
+          }
+        }
+      ],
+      "article-number": "185101"
+    }
+  },
+  {
+    "key": "interface",
+    "kind": "formal_DOI",
+    "url": "https://api.crossref.org/works/10.1103/mhz4-f54x",
+    "metadata": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            23
+          ]
+        ],
+        "date-time": "2026-10-23T19:49:23Z",
+        "timestamp": 1792784963786,
+        "version": "4.5.0"
+      },
+      "reference-count": 0,
+      "publisher": "American Physical Society (APS)",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                23
+              ]
+            ],
+            "date-time": "2026-10-23T00:00:00Z",
+            "timestamp": 1792713600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://link.aps.org/licenses/aps-default-license"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "journals.aps.org"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Phys. Rev. E"
+      ],
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            23
+          ]
+        ]
+      },
+      "DOI": "10.1103/mhz4-f54x",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            23
+          ]
+        ],
+        "date-time": "2026-10-23T19:26:53Z",
+        "timestamp": 1792783613000
+      },
+      "update-policy": "https://doi.org/10.1103/crossmark-policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Identification of rippling interface between laser-ablated plasma and ambient uniform plasma at rest"
+      ],
+      "prefix": "10.1103",
+      "author": [
+        {
+          "given": "R.",
+          "family": "Yamazaki",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "S.",
+          "family": "Tomita",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "T.",
+          "family": "Takezaki",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "T.",
+          "family": "Morita",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "S. J.",
+          "family": "Tanaka",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Y.",
+          "family": "Ohira",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "T.",
+          "family": "Umeda",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "K.",
+          "family": "Aihara",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "S.",
+          "family": "Kambayashi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "R.",
+          "family": "Kawamura",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "K.",
+          "family": "Obayashi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "M.",
+          "family": "Murakoshi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Y.",
+          "family": "Sato",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "R.",
+          "family": "Shiina",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "A.",
+          "family": "Takata",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "K.",
+          "family": "Matsui",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "S.",
+          "family": "Ueno",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Y.",
+          "family": "Kidokoro",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "S.",
+          "family": "Yakura",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Y.",
+          "family": "Okada",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "S.",
+          "family": "Suzuki",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "H.",
+          "family": "Kondo",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "N.",
+          "family": "Shimoda",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "J.",
+          "family": "Shiota",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Y.",
+          "family": "Sudo",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "D.",
+          "family": "Suzuki",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "K.",
+          "family": "Sugiyama",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "A.",
+          "family": "Morita",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "H.",
+          "family": "Kawakatsu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "A.",
+          "family": "Kashima",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Y.",
+          "family": "Ishimura",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "K.",
+          "family": "Umehara",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "S.",
+          "family": "Egashira",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "H.",
+          "family": "Ishihara",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "O.",
+          "family": "Kuramoto",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Y.",
+          "family": "Matsumoto",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "K.",
+          "family": "Maeda",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Y.",
+          "family": "Suzuki",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "M.",
+          "family": "Hanano",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Y.",
+          "family": "Toyoda",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "K.",
+          "family": "Kuramoto",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "F.",
+          "family": "Nikaido",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "K.",
+          "family": "Iida",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Y.",
+          "family": "Naito",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Y.",
+          "family": "Sato",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "K.",
+          "family": "Takahashi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "K.",
+          "family": "Nakahara",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "M.",
+          "family": "Iwamoto",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Y.",
+          "family": "Maenosono",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Y.",
+          "family": "Muramoto",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Y.",
+          "family": "Kanesada",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "K.",
+          "family": "Koba",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "T.",
+          "family": "Ogawa",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Y.",
+          "family": "Shiiba",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "T.",
+          "family": "Oguchi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "M.",
+          "family": "Edamoto",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "M.",
+          "family": "Hoshino",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "T.",
+          "family": "Inoue",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "S.",
+          "family": "Isayama",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "A. T.",
+          "family": "Ishii",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Y.",
+          "family": "Kuramitsu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "S.",
+          "family": "Matsukiyo",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "N.",
+          "family": "Ohnishi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "K.",
+          "family": "Sakai",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "T.",
+          "family": "Sano",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "K.",
+          "family": "Tomita",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Y.",
+          "family": "Sakawa",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "16",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            23
+          ]
+        ]
+      },
+      "container-title": [
+        "Physical Review E"
+      ],
+      "original-title": [],
+      "language": "en",
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            23
+          ]
+        ],
+        "date-time": "2026-10-23T19:26:53Z",
+        "timestamp": 1792783613000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://link.aps.org/doi/10.1103/mhz4-f54x"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            23
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.1103/mhz4-f54x",
+      "relation": {},
+      "ISSN": [
+        "2470-0045",
+        "2470-0053"
+      ],
+      "issn-type": [
+        {
+          "value": "2470-0045",
+          "type": "print"
+        },
+        {
+          "value": "2470-0053",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            23
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "2026-03-31",
+          "name": "date_received",
+          "label": "Date Received",
+          "group": {
+            "name": "publication_dates",
+            "label": "Publication dates"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "key": "compton",
+    "kind": "exact_title_top3_formal_version_check",
+    "url": "https://api.crossref.org/works?query.title=Bright+Compton+source+based+on+the+interaction+of+an+ultraintense+laser+pulse+with+a+relativistically+transparent+foil+and+a+plasma+mirror&rows=3",
+    "matches": [
+      {
+        "doi": "10.1063/1.5008843",
+        "title": [
+          "Plasma optical shutter in ultraintense laser-foil interaction"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2017,
+              11,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "doi": "10.1103/physreve.99.033205",
+        "title": [
+          "Nonlinear Compton scattering of an ultraintense laser pulse in a plasma"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              3,
+              26
+            ]
+          ]
+        }
+      },
+      {
+        "doi": "10.1088/1361-6587/aaf378",
+        "title": [
+          "Ultraintense attosecond pulse emission from relativistic laser-plasma interaction"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              1,
+              7
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "key": "wire",
+    "kind": "exact_title_top3_formal_version_check",
+    "url": "https://api.crossref.org/works?query.title=Laser+wakefield+acceleration+and+x-ray+emission+in+plasma+produced+by+the+electrical+explosion+of+an+aluminum+wire&rows=3",
+    "matches": [
+      {
+        "doi": "10.1103/physrevstab.16.011301",
+        "title": [
+          "Laser wakefield acceleration using wire produced double density ramps"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2013,
+              1,
+              8
+            ]
+          ]
+        }
+      },
+      {
+        "doi": "10.1063/1.3520370",
+        "title": [
+          "Hybrid Laser-Plasma Wakefield Acceleration"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2010
+            ]
+          ]
+        }
+      },
+      {
+        "doi": "10.1109/plasma.2012.6383925",
+        "title": [
+          "Characteristics of plasma in electrical explosion of aluminum wire"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2012,
+              7
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "key": "igene",
+    "kind": "exact_title_top3_formal_version_check",
+    "url": "https://api.crossref.org/works?query.title=Accelerating+high-fidelity+gyrokinetic+fusion+simulations+with+iGENE&rows=3",
+    "matches": [
+      {
+        "doi": "10.1007/978-3-540-69182-2_22",
+        "title": [
+          "Gyrokinetic Turbulence Simulations for Fusion Plasmas"
+        ],
+        "published": null
+      },
+      {
+        "doi": "10.1063/5.0339939",
+        "title": [
+          "iGENE: A differentiable flux-tube gyrokinetic code in TensorFlow"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "doi": "10.2172/1081320",
+        "title": [
+          "Gyrokinetic simulations of turbulent transport in fusion plasmas"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2013,
+              5,
+              30
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "kind": "dedup",
+    "known_count": 500,
+    "normalized_title_nearest": {
+      "energy": [
+        {
+          "title": "Quasistatic modeling of ultrarelativistic beam-plasma instabilities",
+          "doi": "10.48550/arXiv.2607.24234",
+          "similarity": 0.45
+        },
+        {
+          "title": "Physics-Informed Neural Operator Surrogate for 2D Magnetohydrodynamic Reconnection",
+          "doi": "10.48550/arXiv.2609.29514",
+          "similarity": 0.423
+        }
+      ],
+      "modes": [
+        {
+          "title": "Physics-Informed Drift Diagnosis for Laser-Plasma Accelerator Operations",
+          "doi": "10.48550/arXiv.2609.11874",
+          "similarity": 0.512
+        },
+        {
+          "title": "Novel radiative trapping mechanism in ultra-intense laser–plasma interactions",
+          "doi": "10.1063/5.0341085",
+          "similarity": 0.476
+        }
+      ],
+      "interface": [
+        {
+          "title": "Investigation of transverse instability in efficient plasma-based accelerators",
+          "doi": "10.48550/arXiv.2607.10497",
+          "similarity": 0.472
+        },
+        {
+          "title": "Photon Acceleration in Magnetized Plasma: A Mechanism for Fast Radio Bursts",
+          "doi": "10.48550/arXiv.2607.08464",
+          "similarity": 0.448
+        }
+      ],
+      "compton": [
+        {
+          "title": "Wavefront-Guided Electron Injection for Direct Laser Acceleration in Relativistic Laser-Driven Plasma Channel",
+          "doi": "10.48550/arXiv.2608.22211",
+          "similarity": 0.462
+        },
+        {
+          "title": "Enhanced fast-electron generation by optimizing the crossing point of two picosecond laser pulses with large angles",
+          "doi": "10.1017/hpl.2026.10180",
+          "similarity": 0.451
+        }
+      ],
+      "wire": [
+        {
+          "title": "Dephasingless laser wakefield acceleration in a plasma waveguide",
+          "doi": "10.48550/arXiv.2606.20298",
+          "similarity": 0.472
+        },
+        {
+          "title": "Plasma-wakefield accelerator simultaneously boosts electron beam energy and brightness",
+          "doi": "10.1038/s41467-025-65742-8",
+          "similarity": 0.47
+        }
+      ],
+      "igene": [
+        {
+          "title": "Minute-Scale High-Fidelity Gyrokinetic Simulations with Portability from Laptop to Supercomputer",
+          "doi": "10.48550/arXiv.2609.03354",
+          "similarity": 0.61
+        },
+        {
+          "title": "Accelerating atomic fine structure determination with graph reinforcement learning",
+          "doi": "10.1038/s42005-026-02582-y",
+          "similarity": 0.52
+        }
+      ]
+    },
+    "aliases_checked": [
+      "2602.23983",
+      "2512.04982",
+      "2610.34057",
+      "2610.35039",
+      "2610.34859",
+      "2610.33561"
+    ],
+    "decision": "new independent works; interface recovers prior retry; Onofrio 2610.35507 is existing formal work and is not an addition"
+  },
+  {
+    "key": "interface",
+    "primary_status_url": "https://journals.aps.org/pre/accepted/10.1103/mhz4-f54x",
+    "verified_primary_label": "Phys. Rev. E - Accepted 23 October, 2026",
+    "accepted_date": "2026-10-23",
+    "arxiv_submission": "2026-10-25",
+    "pdf_printed_date": "2026-10-27",
+    "decision": "Use formal DOI for work identity; do not call10-23 a VOR publication; actual readsource arXiv2610.34057v1",
+    "recovered_from_retry": true,
+    "previous_failure_report": "daily/2026-10-24/download_report.json"
+  }
+]

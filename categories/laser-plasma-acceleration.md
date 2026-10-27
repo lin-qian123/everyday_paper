@@ -2,11 +2,14 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：157 篇
-- 索引更新时间：2026-10-27
+- 当前收录：160 篇
+- 索引更新时间：2026-10-28
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-28 | [Operator Formalism for Laser–Plasma Mode Coupling](../papers/10-3390-axioms15110800/README.md) | Axioms 15(11), 800 | [笔记](../daily/2026-10-28/notes/Behtouei et al. - 2026 - Operator laser plasma mode coupling.md) |
+| 2026-10-28 | [Bright Compton source based on the interaction of an ultraintense laser pulse with a relativistically transparent foil and a plasma mirror](../papers/arxiv-2610-35039/README.md) | arXiv preprint | [笔记](../daily/2026-10-28/notes/Chekmareva and Korzhimanov - 2026 - Transparent foil Compton source.md) |
+| 2026-10-28 | [Laser wakefield acceleration and x-ray emission in plasma produced by the electrical explosion of an aluminum wire](../papers/arxiv-2610-34859/README.md) | arXiv preprint | [笔记](../daily/2026-10-28/notes/Wang et al. - 2026 - Exploded aluminum wire wakefield X rays.md) |
 | 2026-10-27 | [Self-Synchronized Soft X-Ray and Infrared Free-Electron Lasers from a Single Prebunched Electron Beam](../papers/10-1103-3kmz-18bp/README.md) | Physical Review Letters | [笔记](../daily/2026-10-27/notes/Kang et al. - 2026 - Self synchronized soft X ray infrared FEL.md) |
 | 2026-10-25 | [Plasma density manipulation in staged discharge capillaries for plasma-based accelerators](../papers/10-1103-yrts-62hs/README.md) | Physical Review E | [笔记](../daily/2026-10-25/notes/Biagioni et al. - 2026 - Staged discharge capillary density control.md) |
 | 2026-10-24 | [Improved electron beam stability in laser wakefield acceleration through control of laser angular chirp and wavefront stability](../papers/10-1103-rsvg-r3bg/README.md) | Physical Review Research 8, 043090 | [笔记](../daily/2026-10-24/notes/Jin et al. - 2026 - LWFA angular chirp and wavefront stability.md) |

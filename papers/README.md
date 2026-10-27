@@ -1,10 +1,16 @@
 # 论文总索引
 
-- 当前入库论文：500 篇
-- 索引更新时间：2026-10-27
+- 当前入库论文：506 篇
+- 索引更新时间：2026-10-28
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-10-28 | [Available Energy and Ground States of Convective Hydrodynamic and Hydromagnetic Instabilities](./10-1103-bp24-s332/README.md) | Physical Review Letters 137, 185101 | [10.1103/bp24-s332](https://doi.org/10.1103/bp24-s332) |
+| 2026-10-28 | [Operator Formalism for Laser–Plasma Mode Coupling](./10-3390-axioms15110800/README.md) | Axioms 15(11), 800 | [10.3390/axioms15110800](https://doi.org/10.3390/axioms15110800) |
+| 2026-10-28 | [Bright Compton source based on the interaction of an ultraintense laser pulse with a relativistically transparent foil and a plasma mirror](./arxiv-2610-35039/README.md) | arXiv preprint | [10.48550/arXiv.2610.35039](https://doi.org/10.48550/arXiv.2610.35039) |
+| 2026-10-28 | [Laser wakefield acceleration and x-ray emission in plasma produced by the electrical explosion of an aluminum wire](./arxiv-2610-34859/README.md) | arXiv preprint | [10.48550/arXiv.2610.34859](https://doi.org/10.48550/arXiv.2610.34859) |
+| 2026-10-28 | [Identification of rippling interface between laser-ablated plasma and ambient uniform plasma at rest](./10-1103-mhz4-f54x/README.md) | Physical Review E (accepted); arXiv author manuscript | [10.1103/mhz4-f54x](https://doi.org/10.1103/mhz4-f54x) |
+| 2026-10-28 | [Accelerating high-fidelity gyrokinetic fusion simulations with iGENE](./arxiv-2610-33561/README.md) | arXiv preprint | [10.48550/arXiv.2610.33561](https://doi.org/10.48550/arXiv.2610.33561) |
 | 2026-10-27 | [Self-Synchronized Soft X-Ray and Infrared Free-Electron Lasers from a Single Prebunched Electron Beam](./10-1103-3kmz-18bp/README.md) | Physical Review Letters | [10.1103/3kmz-18bp](https://doi.org/10.1103/3kmz-18bp) |
 | 2026-10-27 | [Coherent axion electrodynamics in OSIRIS: a counter-propagating axion-photon parametric instability](./arxiv-2610-32091/README.md) | arXiv preprint | [10.48550/arXiv.2610.32091](https://doi.org/10.48550/arXiv.2610.32091) |
 | 2026-10-27 | [Plasma transport by carrier electrons: delocalization length for heat-flux](./arxiv-2610-32085/README.md) | arXiv preprint | [10.48550/arXiv.2610.32085](https://doi.org/10.48550/arXiv.2610.32085) |

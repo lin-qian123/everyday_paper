@@ -1,0 +1,128 @@
+{
+  "run_date": "2026-10-28",
+  "status": "fulltext_ingested_local_validation_passed",
+  "processed_before": 500,
+  "processed_after": 506,
+  "retry_before": 46,
+  "retry_after": 45,
+  "added_dois": [
+    "10.1103/bp24-s332",
+    "10.3390/axioms15110800",
+    "10.1103/mhz4-f54x",
+    "10.48550/arXiv.2610.35039",
+    "10.48550/arXiv.2610.34859",
+    "10.48550/arXiv.2610.33561"
+  ],
+  "existing_metadata_updated": [
+    "10.1103/xhzy-hxdw arXiv alias only"
+  ],
+  "recovered_retry": [
+    "10.1103/mhz4-f54x"
+  ],
+  "pdfs": 6,
+  "pages": 96,
+  "pdf_bytes": 27304912,
+  "layout_text_bytes": 530304,
+  "mineru": {
+    "success": 6,
+    "failed": 0
+  },
+  "visual_inspection": {
+    "pdf_pages": {
+      "energy": [
+        1,
+        2,
+        4
+      ],
+      "compton": [
+        1,
+        3,
+        5,
+        6,
+        10,
+        12
+      ],
+      "wire": [
+        1,
+        3,
+        5,
+        6,
+        7
+      ],
+      "igene": [
+        1,
+        8,
+        10,
+        12,
+        14,
+        15,
+        19,
+        20,
+        22
+      ],
+      "modes": [
+        1,
+        5,
+        16,
+        26,
+        27
+      ],
+      "interface": [
+        1,
+        6,
+        8,
+        10,
+        14
+      ]
+    },
+    "total_unique_key_pages": 33,
+    "retained_original_excerpts": 11,
+    "crop_labels_axes_and_captions_checked": true
+  },
+  "scientific_boundaries": [
+    "No author solver, inference, training or experiment rerun",
+    "No new end-to-end laser converter photonuclear/neutron/isotope or clinical/shielding measurement",
+    "Fan actual readsource old author manuscript, not VOR",
+    "Interface accepted10-23, arXiv10-25, printed10-27; no verified VOR publication",
+    "Quantitative and model limitations stated in each note"
+  ],
+  "validation": {
+    "index_builder": "python scripts/build_indexes.py: Indexed506papers across9categories",
+    "pytest": "PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q: 7 passed in18.06s",
+    "artifact_audit": {
+      "ledger": 506,
+      "retry": 45,
+      "unique_nonnull_identifiers": 502,
+      "unique_normalized_titles": 506,
+      "unique_arxiv_aliases": 34,
+      "prior_completed_unchanged_except": "10.1103/xhzy-hxdw arXiv alias only",
+      "prior_remaining_45_retry_objects_unchanged": true,
+      "legacy_processed_retry_pdf_missing_overlap": [
+        "10.1016/j.jcp.2026.114707"
+      ],
+      "pdfs": 6,
+      "pages": 96,
+      "pdf_bytes": 27304912,
+      "layout_text_bytes": 530304,
+      "mineru_successes": 6,
+      "visually_checked_key_pages": 33,
+      "decoded_hashmatched_pngs": 11,
+      "local_ignored_fulltext_assets": 18,
+      "audited_scope_files": 49,
+      "markdown_files": 28,
+      "resolved_local_links": 3156,
+      "json_jsonl_files": 10,
+      "user_AGENTS_hash_unchanged": true,
+      "new_paper_pages": 6,
+      "paper_index_rows": 506,
+      "root_recent_paper_rows": 12,
+      "errors": []
+    },
+    "user_change": "pre-existing AGENTS.md preserved and excluded",
+    "diff_check": "git diff --check passed",
+    "ignored_assets": "Six PDFs, six layout texts and six MinerU fulltexts retained locally and Git ignored",
+    "audit_script_correction": "Temporary audit initially expected506works in rootINDEX latest12list; corrected to validate506rows in papers/README and12latest rows in rootINDEX; corrected audit passed",
+    "temporary_assets": "Parser/cache/ZIP/raw duplicate PDF/contact-sheet scratch removed; retained only selected original excerpts and validated fulltext assets"
+  },
+  "publication_evidence_policy": "Commit/push and fresh remote parity are checked after committing; their immutable identifiers are recorded in automation memory, not self-referentially in this file."
+}

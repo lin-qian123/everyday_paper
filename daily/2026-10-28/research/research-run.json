@@ -1,0 +1,129 @@
+{
+  "run_date": "2026-10-28",
+  "queried_at": "2026-10-28T07:06:16.854445+08:00",
+  "crossref": {
+    "window": [
+      "2026-10-26",
+      "2026-10-28"
+    ],
+    "queries": [
+      {
+        "query": "high energy density inertial confinement fusion",
+        "url": "https://api.crossref.org/works?query=high+energy+density+inertial+confinement+fusion&filter=from-pub-date%3A2026-10-26%2Cuntil-pub-date%3A2026-10-28&sort=published&order=desc&rows=75",
+        "returned": 75
+      },
+      {
+        "query": "particle in cell plasma simulation",
+        "url": "https://api.crossref.org/works?query=particle+in+cell+plasma+simulation&filter=from-pub-date%3A2026-10-26%2Cuntil-pub-date%3A2026-10-28&sort=published&order=desc&rows=75",
+        "returned": 75
+      },
+      {
+        "query": "laser electron bremsstrahlung gamma converter",
+        "url": "https://api.crossref.org/works?query=laser+electron+bremsstrahlung+gamma+converter&filter=from-pub-date%3A2026-10-26%2Cuntil-pub-date%3A2026-10-28&sort=published&order=desc&rows=75",
+        "returned": 75
+      },
+      {
+        "query": "plasma target design beam diagnostics",
+        "url": "https://api.crossref.org/works?query=plasma+target+design+beam+diagnostics&filter=from-pub-date%3A2026-10-26%2Cuntil-pub-date%3A2026-10-28&sort=published&order=desc&rows=75",
+        "returned": 75
+      },
+      {
+        "query": "neutron nuclear reaction materials irradiation",
+        "url": "https://api.crossref.org/works?query=neutron+nuclear+reaction+materials+irradiation&filter=from-pub-date%3A2026-10-26%2Cuntil-pub-date%3A2026-10-28&sort=published&order=desc&rows=75",
+        "returned": 75
+      },
+      {
+        "query": "laser plasma acceleration",
+        "url": "https://api.crossref.org/works?query=laser+plasma+acceleration&filter=from-pub-date%3A2026-10-26%2Cuntil-pub-date%3A2026-10-28&sort=published&order=desc&rows=75",
+        "returned": 75,
+        "recovered_after_initial_error": true
+      },
+      {
+        "query": "strong field QED radiation reaction",
+        "url": "https://api.crossref.org/works?query=strong+field+QED+radiation+reaction&filter=from-pub-date%3A2026-10-26%2Cuntil-pub-date%3A2026-10-28&sort=published&order=desc&rows=75",
+        "returned": 75,
+        "recovered_after_initial_error": true
+      },
+      {
+        "query": "machine learning plasma physics",
+        "url": "https://api.crossref.org/works?query=machine+learning+plasma+physics&filter=from-pub-date%3A2026-10-26%2Cuntil-pub-date%3A2026-10-28&sort=published&order=desc&rows=75",
+        "returned": 75,
+        "recovered_after_initial_error": true
+      },
+      {
+        "query": "laser proton ion neutron isotope photonuclear",
+        "url": "https://api.crossref.org/works?query=laser+proton+ion+neutron+isotope+photonuclear&filter=from-pub-date%3A2026-10-26%2Cuntil-pub-date%3A2026-10-28&sort=published&order=desc&rows=75",
+        "returned": 75,
+        "recovered_after_initial_error": true
+      },
+      {
+        "query": "laser beam radiotherapy dosimetry shielding",
+        "url": "https://api.crossref.org/works?query=laser+beam+radiotherapy+dosimetry+shielding&filter=from-pub-date%3A2026-10-26%2Cuntil-pub-date%3A2026-10-28&sort=published&order=desc&rows=75",
+        "returned": 75,
+        "recovered_after_initial_error": true
+      }
+    ],
+    "rows": 750,
+    "unique_dois": 536,
+    "initial_errors": [
+      {
+        "error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query=laser+plasma+acceleration&filter=from-pub-date%3A2026-10-26%2Cuntil-pub-date%3A2026-10-28&sort=published&order=desc&rows=75"
+      },
+      {
+        "error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query=strong+field+QED+radiation+reaction&filter=from-pub-date%3A2026-10-26%2Cuntil-pub-date%3A2026-10-28&sort=published&order=desc&rows=75"
+      },
+      {
+        "error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query=machine+learning+plasma+physics&filter=from-pub-date%3A2026-10-26%2Cuntil-pub-date%3A2026-10-28&sort=published&order=desc&rows=75"
+      },
+      {
+        "error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query=laser+proton+ion+neutron+isotope+photonuclear&filter=from-pub-date%3A2026-10-26%2Cuntil-pub-date%3A2026-10-28&sort=published&order=desc&rows=75"
+      },
+      {
+        "error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query=laser+beam+radiotherapy+dosimetry+shielding&filter=from-pub-date%3A2026-10-26%2Cuntil-pub-date%3A2026-10-28&sort=published&order=desc&rows=75"
+      }
+    ]
+  },
+  "arxiv": {
+    "queries": [
+      {
+        "url": "https://export.arxiv.org/api/query?search_query=cat%3Aphysics.plasm-ph+OR+cat%3Aphysics.acc-ph+OR+cat%3Aphysics.comp-ph+OR+cat%3Anucl-ex+OR+cat%3Aphysics.ins-det&start=0&max_results=300&sortBy=submittedDate&sortOrder=descending",
+        "returned": 300
+      },
+      {
+        "url": "https://export.arxiv.org/api/query?search_query=cat%3Ahep-ph+OR+cat%3Aphysics.med-ph+OR+cat%3Anucl-th+OR+cat%3Aphysics.optics+OR+cat%3Aphysics.app-ph&start=0&max_results=300&sortBy=submittedDate&sortOrder=descending",
+        "returned": 300
+      }
+    ],
+    "unique_entries": 575,
+    "latest_submission": "2026-10-26T17:59:02Z"
+  },
+  "primary_supplement": [
+    {
+      "url": "https://journals.aps.org/prl/recent",
+      "result": "Fan and Zhou, PRL137185101, published2026-10-27; not in bounded Crossref thematic top75 results"
+    },
+    {
+      "url": "https://journals.aps.org/pre/accepted/10.1103/mhz4-f54x",
+      "result": "Explicit Accepted23October2026; no verified VOR publication; matching officialarxivv1 now public"
+    },
+    {
+      "url": "https://arxiv.org/abs/2512.04982",
+      "result": "Earlier title/author alias for same operator work; VOR title changed, no duplicate"
+    }
+  ],
+  "selection": {
+    "added_independent_works": 6,
+    "formal_vor_read": 1,
+    "published_record_author_manuscript_read": 1,
+    "accepted_record_author_manuscript_read": 1,
+    "new_preprints": 3,
+    "duplicate_existing": [
+      "10.1103/xhzy-hxdw = arXiv2610.35507; add alias only"
+    ],
+    "recovered_retry": [
+      "10.1103/mhz4-f54x"
+    ],
+    "other_candidates": "non-ideal relativistic mirrors, wideband neutron indexing, thermal-hydraulic neutron histories, air-plasma even harmonics and drift-kinetic studies retained as lower-priority metadata leads, not full-text ingestion or new retries",
+    "scope_limit": "bounded theme queries and source snapshots; no claim of exhaustive coverage"
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "viewed_pdf_pages": {
+    "energy": [
+      1,
+      2,
+      4
+    ],
+    "compton": [
+      1,
+      3,
+      5,
+      6,
+      10,
+      12
+    ],
+    "wire": [
+      1,
+      3,
+      5,
+      6,
+      7
+    ],
+    "igene": [
+      1,
+      8,
+      10,
+      12,
+      14,
+      15,
+      19,
+      20,
+      22
+    ],
+    "modes": [
+      1,
+      5,
+      16,
+      26,
+      27
+    ],
+    "interface": [
+      1,
+      6,
+      8,
+      10,
+      14
+    ]
+  },
+  "unique_key_pages": 33,
+  "retained_excerpts": 11,
+  "figures": [
+    {
+      "key": "energy",
+      "figure": "figure-3-energy",
+      "pdf_path": "daily/2026-10-28/pdfs/Fan and Zhou - 2026 - Available energy convective instabilities.pdf",
+      "pdf_sha256": "7f1224ce8004bb34a84614724c8dc172427ec32c3324e47270b6f87867a17edd",
+      "pdf_page": 4,
+      "crop_pdf_points": [
+        45,
+        37,
+        570,
+        431
+      ],
+      "image_path": "daily/2026-10-28/images/energy/figure-3-energy.png",
+      "sha256": "a7023779a451823c48f095be648a1597c89dd79aa3a835f53931b5eae98a0fb3",
+      "original_excerpt": true,
+      "axes_labels_caption_visually_checked": true
+    },
+    {
+      "key": "compton",
+      "figure": "figure-3-electrons",
+      "pdf_path": "daily/2026-10-28/pdfs/Chekmareva and Korzhimanov - 2026 - Transparent foil Compton source.pdf",
+      "pdf_sha256": "a051181f622aecd47777882cae6a9e844285160647ee16c982cae7a817ca3349",
+      "pdf_page": 5,
+      "crop_pdf_points": [
+        45,
+        37,
+        570,
+        406
+      ],
+      "image_path": "daily/2026-10-28/images/compton/figure-3-electrons.png",
+      "sha256": "8e73475a8b390410bd1bd896cc865f2725571ffe103cdbaf99ea622912acff4b",
+      "original_excerpt": true,
+      "axes_labels_caption_visually_checked": true
+    },
+    {
+      "key": "compton",
+      "figure": "figure-4-photons",
+      "pdf_path": "daily/2026-10-28/pdfs/Chekmareva and Korzhimanov - 2026 - Transparent foil Compton source.pdf",
+      "pdf_sha256": "a051181f622aecd47777882cae6a9e844285160647ee16c982cae7a817ca3349",
+      "pdf_page": 6,
+      "crop_pdf_points": [
+        45,
+        37,
+        570,
+        450
+      ],
+      "image_path": "daily/2026-10-28/images/compton/figure-4-photons.png",
+      "sha256": "9e7d8b93937671b1b3155afefe073c6b59d4de223d57f29d4957dc0f6e793303",
+      "original_excerpt": true,
+      "axes_labels_caption_visually_checked": true
+    },
+    {
+      "key": "wire",
+      "figure": "figure-3-photons",
+      "pdf_path": "daily/2026-10-28/pdfs/Wang et al. - 2026 - Exploded aluminum wire wakefield X rays.pdf",
+      "pdf_sha256": "6dee2666709aab666295e753fc20561844d6de437fe2489b5143f5560c52ceaa",
+      "pdf_page": 5,
+      "crop_pdf_points": [
+        45,
+        40,
+        570,
+        224
+      ],
+      "image_path": "daily/2026-10-28/images/wire/figure-3-photons.png",
+      "sha256": "9e27fc0c2c88d8e201872884f73ca1a86cff3812293ad9d1fe836ac68dc37b2a",
+      "original_excerpt": true,
+      "axes_labels_caption_visually_checked": true
+    },
+    {
+      "key": "wire",
+      "figure": "figure-6-sensitivity",
+      "pdf_path": "daily/2026-10-28/pdfs/Wang et al. - 2026 - Exploded aluminum wire wakefield X rays.pdf",
+      "pdf_sha256": "6dee2666709aab666295e753fc20561844d6de437fe2489b5143f5560c52ceaa",
+      "pdf_page": 7,
+      "crop_pdf_points": [
+        45,
+        42,
+        570,
+        379
+      ],
+      "image_path": "daily/2026-10-28/images/wire/figure-6-sensitivity.png",
+      "sha256": "b70be7cb1d19347043d28a70179630ef4162bd82ddff1bc72b0470706d0977ac",
+      "original_excerpt": true,
+      "axes_labels_caption_visually_checked": true
+    },
+    {
+      "key": "igene",
+      "figure": "7",
+      "pdf_path": "daily/2026-10-28/pdfs/Merlo et al. - 2026 - iGENE JAX gyrokinetic acceleration.pdf",
+      "pdf_sha256": "22631c10c08ee1f4db5c583f99cfb60e651a89bf9196f107b406530507983a7e",
+      "pdf_page": 10,
+      "crop_pdf_points": [
+        98,
+        58,
+        542,
+        311
+      ],
+      "image_path": "daily/2026-10-28/images/igene/figure-7-strong-scaling.png",
+      "sha256": "59cc5b206d519946b04286b2da7d2aaf0354cecc455816ca0a941be568e0b92c",
+      "original_excerpt": true,
+      "axes_labels_caption_visually_checked": true
+    },
+    {
+      "key": "igene",
+      "figure": "13",
+      "pdf_path": "daily/2026-10-28/pdfs/Merlo et al. - 2026 - iGENE JAX gyrokinetic acceleration.pdf",
+      "pdf_sha256": "22631c10c08ee1f4db5c583f99cfb60e651a89bf9196f107b406530507983a7e",
+      "pdf_page": 19,
+      "crop_pdf_points": [
+        98,
+        475,
+        542,
+        735
+      ],
+      "image_path": "daily/2026-10-28/images/igene/figure-13-fidelity-cost.png",
+      "sha256": "5bbc5d04df4e19c57cd3be6f49fc6cb119e1f94f8027e95a43989fd3547674cd",
+      "original_excerpt": true,
+      "axes_labels_caption_visually_checked": true
+    },
+    {
+      "key": "modes",
+      "figure": "Fig. 1",
+      "pdf_path": "daily/2026-10-28/pdfs/Behtouei et al. - 2026 - Operator laser plasma mode coupling.pdf",
+      "pdf_sha256": "0684fae9dce834baf230f60e460d54eea873a895efe25137d2d336d834b4d276",
+      "pdf_page": 16,
+      "crop_pdf_points": [
+        164,
+        326,
+        563,
+        590
+      ],
+      "image_path": "daily/2026-10-28/images/modes/figure-1-resonant-conversion.png",
+      "sha256": "a260e4ae7cd0af7d538df2ea6454cabf83645531e06991ea58d81909c5910222",
+      "original_excerpt": true,
+      "axes_labels_caption_visually_checked": true
+    },
+    {
+      "key": "modes",
+      "figure": "Figs. 2 and 3",
+      "pdf_path": "daily/2026-10-28/pdfs/Behtouei et al. - 2026 - Operator laser plasma mode coupling.pdf",
+      "pdf_sha256": "0684fae9dce834baf230f60e460d54eea873a895efe25137d2d336d834b4d276",
+      "pdf_page": 27,
+      "crop_pdf_points": [
+        162,
+        65,
+        565,
+        487
+      ],
+      "image_path": "daily/2026-10-28/images/modes/figures-2-3-nonlinearity-cost.png",
+      "sha256": "e48fdf4e63bbb4844feaa8d42bcfd30cf23af8797c7aae01e1d06d3856c8f13a",
+      "original_excerpt": true,
+      "axes_labels_caption_visually_checked": true
+    },
+    {
+      "key": "interface",
+      "figure": 3,
+      "pdf_path": "daily/2026-10-28/pdfs/Yamazaki et al. - 2026 - Rippling laser ablated plasma interface.pdf",
+      "pdf_sha256": "9e1e70b45b536b87319021334b6db8e7c85b988a8b62c911f7d5f925afbb4092",
+      "pdf_page": 6,
+      "crop_pdf_points": [
+        48,
+        45,
+        569,
+        250
+      ],
+      "image_path": "daily/2026-10-28/images/interface/figure-3-field-reversal.png",
+      "sha256": "cf11d9af1860069257ebfdd8a844ce0d42a7411cb0b71ae97b44fa290faa9e1d",
+      "original_excerpt": true,
+      "axes_labels_caption_visually_checked": true
+    },
+    {
+      "key": "interface",
+      "figure": 8,
+      "pdf_path": "daily/2026-10-28/pdfs/Yamazaki et al. - 2026 - Rippling laser ablated plasma interface.pdf",
+      "pdf_sha256": "9e1e70b45b536b87319021334b6db8e7c85b988a8b62c911f7d5f925afbb4092",
+      "pdf_page": 10,
+      "crop_pdf_points": [
+        48,
+        46,
+        305,
+        493
+      ],
+      "image_path": "daily/2026-10-28/images/interface/figure-8-mhd-interface.png",
+      "sha256": "c9edc2227d67f7bcbbe5bcb1ed3d2f871d06a8b3d065af7632b1011142b67546",
+      "original_excerpt": true,
+      "axes_labels_caption_visually_checked": true
+    }
+  ]
+}
