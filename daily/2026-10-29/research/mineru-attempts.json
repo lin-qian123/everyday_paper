@@ -1,0 +1,51 @@
+{
+  "ok": true,
+  "items": [
+    {
+      "source": "https://harvest.aps.org/v2/journals/articles/10.1103/2dby-29s7/fulltext",
+      "task_id": "1b0d56db-b1fc-4f65-8def-feafaf1bbcbd",
+      "state": "done",
+      "model_version": "pipeline",
+      "language": "en",
+      "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-10-29/1b0d56db-b1fc-4f65-8def-feafaf1bbcbd.zip",
+      "fetched_at": 1793228592,
+      "key": "solenoid",
+      "ok": true,
+      "body_readable": true,
+      "fulltext_path": "daily/2026-10-29/pdfs/Ambat et al. - 2026 - Solenoid spatiospectral electron beam conditioning.mineru.txt",
+      "bytes": 73666,
+      "sha256": "a40615df2c36dd5be1fa52d8611271821a26a468cf2a926fdd1a404bcba2e9cd"
+    },
+    {
+      "source": "https://mdpi-res.com/d_attachment/materials/materials-19-04540/article_deploy/materials-19-04540.pdf",
+      "task_id": "1781b505-c6b2-4bd5-a912-ad77bb1f7494",
+      "state": "done",
+      "model_version": "pipeline",
+      "language": "en",
+      "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-10-29/1781b505-c6b2-4bd5-a912-ad77bb1f7494.zip",
+      "fetched_at": 1793228618,
+      "key": "tungsten",
+      "ok": true,
+      "body_readable": true,
+      "fulltext_path": "daily/2026-10-29/pdfs/Rakhadilov et al. - 2026 - Fe irradiation tungsten damage mechanics.mineru.txt",
+      "bytes": 50163,
+      "sha256": "baf428201d20e2a9adaf6fa54b8bfa57acdc0ce2f4109dbc9ee0d9629c457219"
+    },
+    {
+      "source": "https://arxiv.org/pdf/2610.37516v1",
+      "task_id": "f0b97770-c372-41f0-a5b2-785318159e75",
+      "state": "done",
+      "model_version": "pipeline",
+      "language": "en",
+      "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-10-29/f0b97770-c372-41f0-a5b2-785318159e75.zip",
+      "fetched_at": 1793228637,
+      "key": "cts",
+      "ok": true,
+      "body_readable": true,
+      "fulltext_path": "daily/2026-10-29/pdfs/Baker et al. - 2026 - Non Maxwellian Thomson VDF reconstruction.mineru.txt",
+      "bytes": 74147,
+      "sha256": "fb49d3c3496d33538664e2e99cb1cc7c35d74aae439fe4fb6448db1a539e36fc"
+    }
+  ],
+  "errors": []
+}

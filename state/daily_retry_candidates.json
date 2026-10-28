@@ -500,26 +500,6 @@
     "failure_count": 1
   },
   {
-    "doi": "10.1103/2dby-29s7",
-    "title": "Spatiospectral conditioning of laser-plasma-accelerated electron beams using electromagnetic solenoids",
-    "source_url": "https://doi.org/10.1103/2dby-29s7",
-    "publication_date": "2026-09-28",
-    "journal": "Physical Review Accelerators and Beams（APS accepted paper；全文端点尚不可达）",
-    "topic": "激光等离子体电子束 + 电磁螺线管 + 时空/能谱调质 + 束流品质与输运实验",
-    "run_date": "2026-10-08",
-    "status": "download_failed",
-    "attempt_cmd": "python scripts/safe_pdf_download.py --url https://harvest.aps.org/v2/journals/articles/10.1103/2dby-29s7/fulltext --doi 10.1103/2dby-29s7 --output daily/2026-10-08/pdfs/blocked-2dby-29s7.pdf --report-json daily/2026-10-08/pdfs/download-reports/10.1103-2dby-29s7.json",
-    "stderr": "APS harvest endpoint returned HTTP 404; DOI and accepted-paper routes returned HTTP 403 or HTML rather than PDF. No matching lawful open author manuscript was found during the 2026-10-08 search.",
-    "stdout": "",
-    "output_pdf": "daily/2026-10-08/pdfs/blocked-2dby-29s7.pdf",
-    "attempted_at": "2026-10-08T07:11:00+08:00",
-    "last_retry_at": null,
-    "retry_count": 0,
-    "last_failure_class": "publisher_http_403",
-    "source_family": "other",
-    "failure_count": 1
-  },
-  {
     "doi": "10.1088/1361-6587/aeb280",
     "title": "Synthetic diagnostics and integrated modeling: Bridging the gap between measurement and interpretation in magnetic confinement fusion",
     "source_url": "https://doi.org/10.1088/1361-6587/aeb280",
@@ -917,5 +897,31 @@
     "last_failure_class": "publisher_http_401_authorization_required",
     "stderr": "Official APS harvest fulltext returned HTTP 401 via environment proxy and direct. Exact-title official arXiv query returned zero entries. Bounded author/title search found no verified lawful author fulltext. No PDF or abstract-only note ingested.",
     "evidence_path": "daily/2026-10-27/research/corona-fallback.json"
+  },
+  {
+    "doi": "10.1103/bqll-w87s",
+    "title": "Automated optimization of microbunching for seeded free-electron laser schemes",
+    "authors": [
+      "Zihan Wang",
+      "Zhenghe Bai",
+      "Qika Jia",
+      "Zhouyu Zhao",
+      "Guangyao Feng"
+    ],
+    "source_url": "https://journals.aps.org/prab/abstract/10.1103/bqll-w87s",
+    "publication_date": "2026-10-28",
+    "publication_date_type": "crossref_published_online_unverified_on_publisher",
+    "journal": "Physical Review Accelerators and Beams (Crossref record; publisher fulltext unavailable)",
+    "topic": "种子FEL微聚束与自动优化",
+    "run_date": "2026-10-29",
+    "status": "retry_fulltext_required_no_abstract_only_note",
+    "attempted_at": "2026-10-29T07:08:09.613440+08:00",
+    "retry_count": 0,
+    "failure_count": 1,
+    "source_family": "aps",
+    "last_failure_class": "official_harvest_404_publisher_403_404",
+    "stderr": "Official harvest returned404 via proxy and direct; publisher PDF403 via proxy and404 direct. Exact-title/author web search found no verified lawful author manuscript. Crossref date alone is not publisher VOR verification. No fulltext or abstract-only note ingested.",
+    "evidence_path": "daily/2026-10-29/download_report.json",
+    "output_pdf": "daily/2026-10-29/pdfs/Wang et al. - 2026 - Automated seeded FEL microbunching.pdf"
   }
 ]

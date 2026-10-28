@@ -1,0 +1,48 @@
+{
+  "successes": [
+    {
+      "ok": true,
+      "output": "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-10-29/pdfs/Ambat et al. - 2026 - Solenoid spatiospectral electron beam conditioning.pdf",
+      "source_url": "https://harvest.aps.org/v2/journals/articles/10.1103/2dby-29s7/fulltext",
+      "mode": "env-proxy",
+      "attempts": [],
+      "key": "solenoid"
+    },
+    {
+      "ok": true,
+      "output": "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-10-29/pdfs/Rakhadilov et al. - 2026 - Fe irradiation tungsten damage mechanics.pdf",
+      "source_url": "https://mdpi-res.com/d_attachment/materials/materials-19-04540/article_deploy/materials-19-04540.pdf",
+      "mode": "env-proxy",
+      "attempts": [],
+      "key": "tungsten"
+    },
+    {
+      "ok": true,
+      "output": "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-10-29/pdfs/Baker et al. - 2026 - Non Maxwellian Thomson VDF reconstruction.pdf",
+      "source_url": "https://arxiv.org/pdf/2610.37516v1",
+      "mode": "env-proxy",
+      "attempts": [],
+      "key": "cts"
+    }
+  ],
+  "failed_candidates": [
+    {
+      "ok": false,
+      "output": "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-10-29/pdfs/Optimization - 2026 - Automated seeded FEL microbunching.pdf",
+      "attempts": [
+        "[env-proxy] https://harvest.aps.org/v2/journals/articles/10.1103/bqll-w87s/fulltext -> HTTP 404",
+        "[direct] https://harvest.aps.org/v2/journals/articles/10.1103/bqll-w87s/fulltext -> HTTP 404"
+      ],
+      "failure_class": "unknown"
+    },
+    {
+      "ok": false,
+      "output": "daily/2026-10-29/pdfs/Optimization - 2026 - Automated seeded FEL microbunching.pdf",
+      "attempts": [
+        "[env-proxy] https://journals.aps.org/prab/pdf/10.1103/bqll-w87s -> HTTP 403",
+        "[direct] https://journals.aps.org/prab/pdf/10.1103/bqll-w87s -> HTTP 404"
+      ],
+      "failure_class": "publisher_http_403"
+    }
+  ]
+}

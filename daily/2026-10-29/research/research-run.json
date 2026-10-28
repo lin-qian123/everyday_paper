@@ -1,0 +1,205 @@
+{
+  "run_date": "2026-10-29",
+  "queried_at": "2026-10-29T07:03:07.296607+08:00",
+  "crossref": {
+    "window": [
+      "2026-10-27",
+      "2026-10-29"
+    ],
+    "queries": [
+      {
+        "query": "laser plasma acceleration",
+        "url": "https://api.crossref.org/works?query=laser+plasma+acceleration&filter=from-pub-date%3A2026-10-27%2Cuntil-pub-date%3A2026-10-29&sort=published&order=desc&rows=75",
+        "returned": 75
+      },
+      {
+        "query": "strong field QED radiation reaction",
+        "returned": 75,
+        "initial_error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query=strong+field+QED+radiation+reaction&filter=from-pub-date%3A2026-10-27%2Cuntil-pub-date%3A2026-10-29&sort=published&order=desc&rows=75",
+        "url": "https://api.crossref.org/works?query=strong+field+QED+radiation+reaction&filter=from-pub-date%3A2026-10-27%2Cuntil-pub-date%3A2026-10-29&sort=published&order=desc&rows=75",
+        "recovered": true
+      },
+      {
+        "query": "high energy density inertial confinement fusion",
+        "url": "https://api.crossref.org/works?query=high+energy+density+inertial+confinement+fusion&filter=from-pub-date%3A2026-10-27%2Cuntil-pub-date%3A2026-10-29&sort=published&order=desc&rows=75",
+        "returned": 75
+      },
+      {
+        "query": "particle in cell plasma simulation",
+        "url": "https://api.crossref.org/works?query=particle+in+cell+plasma+simulation&filter=from-pub-date%3A2026-10-27%2Cuntil-pub-date%3A2026-10-29&sort=published&order=desc&rows=75",
+        "returned": 75
+      },
+      {
+        "query": "machine learning plasma physics",
+        "url": "https://api.crossref.org/works?query=machine+learning+plasma+physics&filter=from-pub-date%3A2026-10-27%2Cuntil-pub-date%3A2026-10-29&sort=published&order=desc&rows=75",
+        "returned": 75
+      },
+      {
+        "query": "laser proton ion neutron isotope photonuclear",
+        "url": "https://api.crossref.org/works?query=laser+proton+ion+neutron+isotope+photonuclear&filter=from-pub-date%3A2026-10-27%2Cuntil-pub-date%3A2026-10-29&sort=published&order=desc&rows=75",
+        "returned": 75
+      },
+      {
+        "query": "laser electron bremsstrahlung gamma converter",
+        "url": "https://api.crossref.org/works?query=laser+electron+bremsstrahlung+gamma+converter&filter=from-pub-date%3A2026-10-27%2Cuntil-pub-date%3A2026-10-29&sort=published&order=desc&rows=75",
+        "returned": 75
+      },
+      {
+        "query": "laser beam radiotherapy dosimetry shielding",
+        "url": "https://api.crossref.org/works?query=laser+beam+radiotherapy+dosimetry+shielding&filter=from-pub-date%3A2026-10-27%2Cuntil-pub-date%3A2026-10-29&sort=published&order=desc&rows=75",
+        "returned": 75
+      },
+      {
+        "query": "neutron nuclear reaction materials irradiation",
+        "url": "https://api.crossref.org/works?query=neutron+nuclear+reaction+materials+irradiation&filter=from-pub-date%3A2026-10-27%2Cuntil-pub-date%3A2026-10-29&sort=published&order=desc&rows=75",
+        "returned": 75
+      },
+      {
+        "query": "plasma target design beam diagnostics",
+        "url": "https://api.crossref.org/works?query=plasma+target+design+beam+diagnostics&filter=from-pub-date%3A2026-10-27%2Cuntil-pub-date%3A2026-10-29&sort=published&order=desc&rows=75",
+        "returned": 75
+      }
+    ],
+    "rows": 750,
+    "unique_dois": 592
+  },
+  "arxiv": {
+    "queries": [
+      {
+        "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=cat%3Aphysics.plasm-ph+OR+cat%3Aphysics.acc-ph+OR+cat%3Aphysics.comp-ph+OR+cat%3Anucl-ex+OR+cat%3Aphysics.ins-det&start=0&max_results=300&sortBy=submittedDate&sortOrder=descending"
+      },
+      {
+        "error": "503 Server Error: Service Unavailable for url: https://export.arxiv.org/api/query?search_query=cat%3Ahep-ph+OR+cat%3Aphysics.med-ph+OR+cat%3Anucl-th+OR+cat%3Aphysics.optics+OR+cat%3Aphysics.app-ph&start=0&max_results=300&sortBy=submittedDate&sortOrder=descending"
+      }
+    ],
+    "unique_entries": 0,
+    "latest_submission": null,
+    "html_fallback": [
+      {
+        "url": "https://arxiv.org/list/physics.plasm-ph/recent?skip=0&show=100",
+        "category": "physics.plasm-ph",
+        "returned": 8,
+        "headings": [
+          "Wed, 28 Oct 2026 (showing 8 of 8 entries )",
+          "Tue, 27 Oct 2026 (showing 25 of 25 entries )",
+          "Mon, 26 Oct 2026 (showing 7 of 7 entries )"
+        ]
+      },
+      {
+        "url": "https://arxiv.org/list/physics.acc-ph/recent?skip=0&show=100",
+        "category": "physics.acc-ph",
+        "returned": 2,
+        "headings": [
+          "Wed, 28 Oct 2026 (showing 2 of 2 entries )",
+          "Tue, 27 Oct 2026 (showing 3 of 3 entries )",
+          "Mon, 26 Oct 2026"
+        ]
+      },
+      {
+        "url": "https://arxiv.org/list/physics.comp-ph/recent?skip=0&show=100",
+        "category": "physics.comp-ph",
+        "returned": 16,
+        "headings": [
+          "Wed, 28 Oct 2026 (showing 16 of 16 entries )",
+          "Tue, 27 Oct 2026 (showing 11 of 11 entries )",
+          "Mon, 26 Oct 2026 (showing 5 of 5 entries )"
+        ]
+      },
+      {
+        "url": "https://arxiv.org/list/nucl-ex/recent?skip=0&show=100",
+        "category": "nucl-ex",
+        "returned": 11,
+        "headings": [
+          "Wed, 28 Oct 2026 (showing 11 of 11 entries )",
+          "Tue, 27 Oct 2026 (showing 12 of 12 entries )",
+          "Mon, 26 Oct 2026 (showing 7 of 7 entries )"
+        ]
+      },
+      {
+        "url": "https://arxiv.org/list/physics.ins-det/recent?skip=0&show=100",
+        "category": "physics.ins-det",
+        "returned": 5,
+        "headings": [
+          "Wed, 28 Oct 2026 (showing 5 of 5 entries )",
+          "Tue, 27 Oct 2026 (showing 6 of 6 entries )",
+          "Mon, 26 Oct 2026 (showing 7 of 7 entries )"
+        ]
+      },
+      {
+        "url": "https://arxiv.org/list/hep-ph/recent?skip=0&show=100",
+        "category": "hep-ph",
+        "returned": 59,
+        "headings": [
+          "Wed, 28 Oct 2026 (showing 59 of 59 entries )",
+          "Tue, 27 Oct 2026 (showing first 41 of 52 entries )"
+        ]
+      },
+      {
+        "url": "https://arxiv.org/list/physics.med-ph/recent?skip=0&show=100",
+        "category": "physics.med-ph",
+        "returned": 6,
+        "headings": [
+          "Wed, 28 Oct 2026 (showing 6 of 6 entries )",
+          "Tue, 27 Oct 2026 (showing 9 of 9 entries )",
+          "Mon, 26 Oct 2026 (showing 4 of 4 entries )"
+        ]
+      },
+      {
+        "url": "https://arxiv.org/list/nucl-th/recent?skip=0&show=100",
+        "category": "nucl-th",
+        "returned": 20,
+        "headings": [
+          "Wed, 28 Oct 2026 (showing 20 of 20 entries )",
+          "Tue, 27 Oct 2026 (showing 23 of 23 entries )",
+          "Mon, 26 Oct 2026 (showing 10 of 10 entries )"
+        ]
+      },
+      {
+        "url": "https://arxiv.org/list/physics.optics/recent?skip=0&show=100",
+        "category": "physics.optics",
+        "returned": 19,
+        "headings": [
+          "Wed, 28 Oct 2026 (showing 19 of 19 entries )",
+          "Tue, 27 Oct 2026 (showing 36 of 36 entries )",
+          "Mon, 26 Oct 2026 (showing 22 of 22 entries )"
+        ]
+      },
+      {
+        "url": "https://arxiv.org/list/physics.app-ph/recent?skip=0&show=100",
+        "category": "physics.app-ph",
+        "returned": 11,
+        "headings": [
+          "Wed, 28 Oct 2026 (showing 11 of 11 entries )",
+          "Tue, 27 Oct 2026 (showing 13 of 13 entries )",
+          "Mon, 26 Oct 2026 (showing 9 of 9 entries )"
+        ]
+      }
+    ],
+    "html_unique": 137,
+    "html_fallback_scope": "First dated submission block only in each official recent-category page (28Oct2026); not all100 requested rows and not an exhaustive archive search."
+  },
+  "primary_supplement": [
+    "https://journals.aps.org/prl/recent",
+    "https://journals.aps.org/pre/recent",
+    "https://journals.aps.org/prab/recent",
+    "https://arxiv.org/abs/2610.37516"
+  ],
+  "selection": {
+    "added_independent_works": 3,
+    "vor_read": 2,
+    "new_preprints": 1,
+    "recovered_retry": [
+      "10.1103/2dby-29s7"
+    ],
+    "new_retry": [
+      "10.1103/bqll-w87s"
+    ],
+    "deduplication": "DOI/arXiv aliases, normalized title, source URL, authors and physical scenario checked against506ledger rows,45retries and historical notes. Baker differs from Sakai2609.31020 and Nakano2610.32033 in authors, simulated H/Cshock truth, bases and initialization-MC; older Foo2023 paper is related priorwork, not this manuscript.",
+    "unselected_metadata_leads": [
+      "2610.37047 HiPER wall thermal modeling",
+      "2610.36310 polarized nonthermal D-He3",
+      "lower-priority hollow-cathode/laser-technology and neutron-structure records"
+    ],
+    "limits": "Bounded ten-theme Crossref top75 results and first-date arXiv HTML fallback; no exhaustive coverage or fulltext claim for unselected metadata."
+  }
+}

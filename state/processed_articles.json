@@ -6836,5 +6836,99 @@
     "source_url": "https://arxiv.org/abs/2610.33561",
     "pdf_sha256": "22631c10c08ee1f4db5c583f99cfb60e651a89bf9196f107b406530507983a7e",
     "arxiv_version": "2610.33561v1"
+  },
+  {
+    "title": "Spatiospectral conditioning of laser-plasma-accelerated electron beams using electromagnetic solenoids",
+    "doi": "10.1103/2dby-29s7",
+    "authors": [
+      "M. V. Ambat",
+      "H. G. Rinderknecht",
+      "J. Peebles",
+      "D. Fess",
+      "R. McEvoy",
+      "C. D. Arrowsmith",
+      "G. Bruhaug",
+      "I. A. LaBelle",
+      "M. A. VanDusen-Gross",
+      "D. H. Froula",
+      "J. L. Shaw"
+    ],
+    "journal": "Physical Review Accelerators and Beams 29, 104602",
+    "publication_date": "2026-10-28",
+    "source_url": "https://doi.org/10.1103/2dby-29s7",
+    "pdf_path": "daily/2026-10-29/pdfs/Ambat et al. - 2026 - Solenoid spatiospectral electron beam conditioning.pdf",
+    "pdf_sha256": "70fb254bf96dba178d43bbdfd877a397c01e19116d8a37df5606039173e89d6b",
+    "normalized_title": "spatiospectral conditioning of laser plasma accelerated electron beams using electromagnetic solenoids",
+    "processed_date": "2026-10-29",
+    "pdf_url": "https://harvest.aps.org/v2/journals/articles/10.1103/2dby-29s7/fulltext",
+    "note_path": "daily/2026-10-29/notes/Ambat et al. - 2026 - Solenoid spatiospectral electron beam conditioning.md",
+    "categories": [
+      "laser-plasma-acceleration",
+      "laser-accelerated-beam-applications",
+      "experimental-platforms-diagnostics"
+    ],
+    "fulltext_version": "publisher version of record",
+    "accepted_date": "2026-09-28",
+    "publication_date_type": "vor_published"
+  },
+  {
+    "title": "Correlation Between Radiation Damage Evolution and Mechanical Properties of Fe-Irradiated Tungsten",
+    "doi": "10.3390/ma19214540",
+    "authors": [
+      "Bauyrzhan Rakhadilov",
+      "Moldir Bayandinova",
+      "Riza Abilkalykova",
+      "Zarina Satbayeva",
+      "Lazat Baimoldanova"
+    ],
+    "journal": "Materials 19, 4540",
+    "publication_date": "2026-10-28",
+    "source_url": "https://doi.org/10.3390/ma19214540",
+    "pdf_path": "daily/2026-10-29/pdfs/Rakhadilov et al. - 2026 - Fe irradiation tungsten damage mechanics.pdf",
+    "pdf_sha256": "1a9892c76b322415fed53b64db17c1d4e3ec7e2ec808f2bc37b5a892faebbb8d",
+    "normalized_title": "correlation between radiation damage evolution and mechanical properties of fe irradiated tungsten",
+    "processed_date": "2026-10-29",
+    "pdf_url": "https://mdpi-res.com/d_attachment/materials/materials-19-04540/article_deploy/materials-19-04540.pdf",
+    "note_path": "daily/2026-10-29/notes/Rakhadilov et al. - 2026 - Fe irradiation tungsten damage mechanics.md",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "experimental-platforms-diagnostics"
+    ],
+    "fulltext_version": "publisher version of record",
+    "accepted_date": "2026-10-24",
+    "publication_date_type": "vor_published"
+  },
+  {
+    "title": "Recovering Non-Maxwellian Velocity Distribution Functions from Collective Thomson Scattering Spectra Using Generalized Basis Representations",
+    "doi": "10.48550/arXiv.2610.37516",
+    "authors": [
+      "Greg A. Baker",
+      "Bradyn Klein",
+      "Kristopher Wright",
+      "Vedang Bhelande",
+      "Zhaoyan Sun",
+      "Rayner Sutardja",
+      "Samuel R. Totorica",
+      "Derek B. Schaeffer"
+    ],
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-27",
+    "source_url": "https://arxiv.org/abs/2610.37516",
+    "pdf_path": "daily/2026-10-29/pdfs/Baker et al. - 2026 - Non Maxwellian Thomson VDF reconstruction.pdf",
+    "pdf_sha256": "570c074f0c4e91c75834c0a6c9f17a97f35247f8f32ccfca521906ed491d1ce9",
+    "normalized_title": "recovering non maxwellian velocity distribution functions from collective thomson scattering spectra using generalized basis representations",
+    "processed_date": "2026-10-29",
+    "pdf_url": "https://arxiv.org/pdf/2610.37516v1",
+    "note_path": "daily/2026-10-29/notes/Baker et al. - 2026 - Non Maxwellian Thomson VDF reconstruction.md",
+    "categories": [
+      "experimental-platforms-diagnostics",
+      "hedp-icf-laboratory-astrophysics",
+      "pic-and-plasma-simulation",
+      "ai-ml-plasma-physics"
+    ],
+    "fulltext_version": "official arXiv v1 author preprint",
+    "arxiv_id": "2610.37516",
+    "arxiv_version": "2610.37516v1",
+    "publication_status": "Submitted to Physics of Plasmas; no VOR verified"
   }
 ]

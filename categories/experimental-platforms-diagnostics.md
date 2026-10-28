@@ -2,11 +2,14 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：169 篇
-- 索引更新时间：2026-10-28
+- 当前收录：172 篇
+- 索引更新时间：2026-10-29
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-29 | [Spatiospectral conditioning of laser-plasma-accelerated electron beams using electromagnetic solenoids](../papers/10-1103-2dby-29s7/README.md) | Physical Review Accelerators and Beams 29, 104602 | [笔记](../daily/2026-10-29/notes/Ambat et al. - 2026 - Solenoid spatiospectral electron beam conditioning.md) |
+| 2026-10-29 | [Correlation Between Radiation Damage Evolution and Mechanical Properties of Fe-Irradiated Tungsten](../papers/10-3390-ma19214540/README.md) | Materials 19, 4540 | [笔记](../daily/2026-10-29/notes/Rakhadilov et al. - 2026 - Fe irradiation tungsten damage mechanics.md) |
+| 2026-10-29 | [Recovering Non-Maxwellian Velocity Distribution Functions from Collective Thomson Scattering Spectra Using Generalized Basis Representations](../papers/arxiv-2610-37516/README.md) | arXiv preprint | [笔记](../daily/2026-10-29/notes/Baker et al. - 2026 - Non Maxwellian Thomson VDF reconstruction.md) |
 | 2026-10-28 | [Identification of rippling interface between laser-ablated plasma and ambient uniform plasma at rest](../papers/10-1103-mhz4-f54x/README.md) | Physical Review E (accepted); arXiv author manuscript | [笔记](../daily/2026-10-28/notes/Yamazaki et al. - 2026 - Rippling laser ablated plasma interface.md) |
 | 2026-10-27 | [Self-Synchronized Soft X-Ray and Infrared Free-Electron Lasers from a Single Prebunched Electron Beam](../papers/10-1103-3kmz-18bp/README.md) | Physical Review Letters | [笔记](../daily/2026-10-27/notes/Kang et al. - 2026 - Self synchronized soft X ray infrared FEL.md) |
 | 2026-10-27 | [Two-component Bayesian modeling in the data analysis of collective Thomson scattering](../papers/arxiv-2610-32033/README.md) | arXiv preprint | [笔记](../daily/2026-10-27/notes/Nakano et al. - 2026 - Two component Bayesian Thomson scattering.md) |

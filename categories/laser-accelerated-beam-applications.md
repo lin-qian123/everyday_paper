@@ -2,11 +2,13 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：126 篇
-- 索引更新时间：2026-10-28
+- 当前收录：128 篇
+- 索引更新时间：2026-10-29
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-29 | [Spatiospectral conditioning of laser-plasma-accelerated electron beams using electromagnetic solenoids](../papers/10-1103-2dby-29s7/README.md) | Physical Review Accelerators and Beams 29, 104602 | [笔记](../daily/2026-10-29/notes/Ambat et al. - 2026 - Solenoid spatiospectral electron beam conditioning.md) |
+| 2026-10-29 | [Correlation Between Radiation Damage Evolution and Mechanical Properties of Fe-Irradiated Tungsten](../papers/10-3390-ma19214540/README.md) | Materials 19, 4540 | [笔记](../daily/2026-10-29/notes/Rakhadilov et al. - 2026 - Fe irradiation tungsten damage mechanics.md) |
 | 2026-10-28 | [Bright Compton source based on the interaction of an ultraintense laser pulse with a relativistically transparent foil and a plasma mirror](../papers/arxiv-2610-35039/README.md) | arXiv preprint | [笔记](../daily/2026-10-28/notes/Chekmareva and Korzhimanov - 2026 - Transparent foil Compton source.md) |
 | 2026-10-28 | [Laser wakefield acceleration and x-ray emission in plasma produced by the electrical explosion of an aluminum wire](../papers/arxiv-2610-34859/README.md) | arXiv preprint | [笔记](../daily/2026-10-28/notes/Wang et al. - 2026 - Exploded aluminum wire wakefield X rays.md) |
 | 2026-10-27 | [Maximization of nuclear fusion reactivity via optimal energy distributions](../papers/10-1103-xhzy-hxdw/README.md) | Physical Review E | [笔记](../daily/2026-10-27/notes/Onofrio et al. - 2026 - Optimal energy distributions fusion reactivity.md) |

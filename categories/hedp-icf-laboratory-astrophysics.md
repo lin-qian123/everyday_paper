@@ -2,11 +2,12 @@
 
 HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。
 
-- 当前收录：133 篇
-- 索引更新时间：2026-10-28
+- 当前收录：134 篇
+- 索引更新时间：2026-10-29
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-29 | [Recovering Non-Maxwellian Velocity Distribution Functions from Collective Thomson Scattering Spectra Using Generalized Basis Representations](../papers/arxiv-2610-37516/README.md) | arXiv preprint | [笔记](../daily/2026-10-29/notes/Baker et al. - 2026 - Non Maxwellian Thomson VDF reconstruction.md) |
 | 2026-10-28 | [Available Energy and Ground States of Convective Hydrodynamic and Hydromagnetic Instabilities](../papers/10-1103-bp24-s332/README.md) | Physical Review Letters 137, 185101 | [笔记](../daily/2026-10-28/notes/Fan and Zhou - 2026 - Available energy convective instabilities.md) |
 | 2026-10-28 | [Identification of rippling interface between laser-ablated plasma and ambient uniform plasma at rest](../papers/10-1103-mhz4-f54x/README.md) | Physical Review E (accepted); arXiv author manuscript | [笔记](../daily/2026-10-28/notes/Yamazaki et al. - 2026 - Rippling laser ablated plasma interface.md) |
 | 2026-10-27 | [Plasma transport by carrier electrons: delocalization length for heat-flux](../papers/arxiv-2610-32085/README.md) | arXiv preprint | [笔记](../daily/2026-10-27/notes/Walsh - 2026 - Carrier electron heat flux nonlocality.md) |

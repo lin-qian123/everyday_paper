@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：506 篇
-- 索引更新时间：2026-10-28
+- 当前入库论文：509 篇
+- 索引更新时间：2026-10-29
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-10-29 | [Spatiospectral conditioning of laser-plasma-accelerated electron beams using electromagnetic solenoids](./10-1103-2dby-29s7/README.md) | Physical Review Accelerators and Beams 29, 104602 | [10.1103/2dby-29s7](https://doi.org/10.1103/2dby-29s7) |
+| 2026-10-29 | [Correlation Between Radiation Damage Evolution and Mechanical Properties of Fe-Irradiated Tungsten](./10-3390-ma19214540/README.md) | Materials 19, 4540 | [10.3390/ma19214540](https://doi.org/10.3390/ma19214540) |
+| 2026-10-29 | [Recovering Non-Maxwellian Velocity Distribution Functions from Collective Thomson Scattering Spectra Using Generalized Basis Representations](./arxiv-2610-37516/README.md) | arXiv preprint | [10.48550/arXiv.2610.37516](https://doi.org/10.48550/arXiv.2610.37516) |
 | 2026-10-28 | [Available Energy and Ground States of Convective Hydrodynamic and Hydromagnetic Instabilities](./10-1103-bp24-s332/README.md) | Physical Review Letters 137, 185101 | [10.1103/bp24-s332](https://doi.org/10.1103/bp24-s332) |
 | 2026-10-28 | [Operator Formalism for Laser–Plasma Mode Coupling](./10-3390-axioms15110800/README.md) | Axioms 15(11), 800 | [10.3390/axioms15110800](https://doi.org/10.3390/axioms15110800) |
 | 2026-10-28 | [Bright Compton source based on the interaction of an ultraintense laser pulse with a relativistically transparent foil and a plasma mirror](./arxiv-2610-35039/README.md) | arXiv preprint | [10.48550/arXiv.2610.35039](https://doi.org/10.48550/arXiv.2610.35039) |

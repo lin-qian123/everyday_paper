@@ -2,11 +2,12 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：216 篇
-- 索引更新时间：2026-10-28
+- 当前收录：217 篇
+- 索引更新时间：2026-10-29
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-29 | [Recovering Non-Maxwellian Velocity Distribution Functions from Collective Thomson Scattering Spectra Using Generalized Basis Representations](../papers/arxiv-2610-37516/README.md) | arXiv preprint | [笔记](../daily/2026-10-29/notes/Baker et al. - 2026 - Non Maxwellian Thomson VDF reconstruction.md) |
 | 2026-10-28 | [Available Energy and Ground States of Convective Hydrodynamic and Hydromagnetic Instabilities](../papers/10-1103-bp24-s332/README.md) | Physical Review Letters 137, 185101 | [笔记](../daily/2026-10-28/notes/Fan and Zhou - 2026 - Available energy convective instabilities.md) |
 | 2026-10-28 | [Operator Formalism for Laser–Plasma Mode Coupling](../papers/10-3390-axioms15110800/README.md) | Axioms 15(11), 800 | [笔记](../daily/2026-10-28/notes/Behtouei et al. - 2026 - Operator laser plasma mode coupling.md) |
 | 2026-10-28 | [Bright Compton source based on the interaction of an ultraintense laser pulse with a relativistically transparent foil and a plasma mirror](../papers/arxiv-2610-35039/README.md) | arXiv preprint | [笔记](../daily/2026-10-28/notes/Chekmareva and Korzhimanov - 2026 - Transparent foil Compton source.md) |
