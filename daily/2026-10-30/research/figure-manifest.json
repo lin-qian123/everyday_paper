@@ -1,0 +1,539 @@
+{
+  "created_at": "2026-10-30T07:09:58.219584+08:00",
+  "total_key_pages": 38,
+  "original_excerpts": 13,
+  "figures": [
+    {
+      "key": "circular",
+      "path": "daily/2026-10-30/images/circular/figure-2-six-projections.png",
+      "source_pdf": "daily/2026-10-30/pdfs/Gilanliogullari et al. - 2026 - Circular mode beam optics.pdf",
+      "pdf_page": 5,
+      "bbox_points": [
+        48,
+        315,
+        565,
+        723
+      ],
+      "sha256": "da060eb460d06029a1724ced7db1f19c0bee81efa8d299aa784220faf33c295f",
+      "figure": "2",
+      "visually_reviewed": true
+    },
+    {
+      "key": "circular",
+      "path": "daily/2026-10-30/images/circular/figure-20-current-flatness.png",
+      "source_pdf": "daily/2026-10-30/pdfs/Gilanliogullari et al. - 2026 - Circular mode beam optics.pdf",
+      "pdf_page": 21,
+      "bbox_points": [
+        48,
+        548,
+        565,
+        723
+      ],
+      "sha256": "e7b01ab57c8affa8442239cdf410c8ace33b11ec9ca9377bf4e36d5fc28a176a",
+      "figure": "20",
+      "visually_reviewed": true
+    },
+    {
+      "key": "circular",
+      "path": "daily/2026-10-30/images/circular/figure-26-synchrotron.png",
+      "source_pdf": "daily/2026-10-30/pdfs/Gilanliogullari et al. - 2026 - Circular mode beam optics.pdf",
+      "pdf_page": 26,
+      "bbox_points": [
+        48,
+        38,
+        565,
+        538
+      ],
+      "sha256": "bf0d6ff5044663a5e9019b511a533e06601e855204446b9e2f5557d3a8cf322b",
+      "figure": "26",
+      "visually_reviewed": true
+    },
+    {
+      "key": "shield",
+      "path": "daily/2026-10-30/images/shield/table2-figures1-2.png",
+      "source_pdf": "daily/2026-10-30/pdfs/Alharbi - 2026 - Biochar epoxy uncollided neutron transmission.pdf",
+      "pdf_page": 6,
+      "bbox_points": [
+        30,
+        70,
+        565,
+        765
+      ],
+      "sha256": "0760debc2e92bd991a04af08cdacddbccab3fbf9898729d8120626b9ee66c259",
+      "figure": "Table2 and Figures1-2",
+      "visually_reviewed": true
+    },
+    {
+      "key": "shield",
+      "path": "daily/2026-10-30/images/shield/figure3-components.png",
+      "source_pdf": "daily/2026-10-30/pdfs/Alharbi - 2026 - Biochar epoxy uncollided neutron transmission.pdf",
+      "pdf_page": 7,
+      "bbox_points": [
+        160,
+        315,
+        565,
+        570
+      ],
+      "sha256": "5c3338a793409ffcde298d52d0ecba311325e426b37e2c22fc667c28451a5a32",
+      "figure": "Figure3",
+      "visually_reviewed": true
+    },
+    {
+      "key": "shield",
+      "path": "daily/2026-10-30/images/shield/figure4-geometry.png",
+      "source_pdf": "daily/2026-10-30/pdfs/Alharbi - 2026 - Biochar epoxy uncollided neutron transmission.pdf",
+      "pdf_page": 8,
+      "bbox_points": [
+        160,
+        290,
+        565,
+        550
+      ],
+      "sha256": "e95027a72857ce3eb58012fbe84159e88bf7b8594485cc16c6305ca1cb922b7e",
+      "figure": "Figure4",
+      "visually_reviewed": true
+    },
+    {
+      "key": "shield",
+      "path": "daily/2026-10-30/images/shield/figure5-sensitivities.png",
+      "source_pdf": "daily/2026-10-30/pdfs/Alharbi - 2026 - Biochar epoxy uncollided neutron transmission.pdf",
+      "pdf_page": 9,
+      "bbox_points": [
+        160,
+        65,
+        565,
+        333
+      ],
+      "sha256": "a3d6c488314bc9064f632a7d133562812fddf6a5de3ac2eef4d412d7cfb79dc3",
+      "figure": "Figure5",
+      "visually_reviewed": true
+    },
+    {
+      "key": "tc",
+      "path": "daily/2026-10-30/images/tc/figure-25-cross-sections.png",
+      "source_pdf": "daily/2026-10-30/pdfs/Dellepiane et al. - 2026 - Proton induced technetium production.pdf",
+      "pdf_page": 36,
+      "bbox_points": [
+        132,
+        133,
+        480,
+        382
+      ],
+      "sha256": "21484521d692c0461e68e1d9d7170f3d609ef415d81f1df809ab4aba763916ee",
+      "figure": "Figure 25",
+      "visually_reviewed": true
+    },
+    {
+      "key": "tc",
+      "path": "daily/2026-10-30/images/tc/figure-33-thickness-yield.png",
+      "source_pdf": "daily/2026-10-30/pdfs/Dellepiane et al. - 2026 - Proton induced technetium production.pdf",
+      "pdf_page": 42,
+      "bbox_points": [
+        132,
+        116,
+        480,
+        347
+      ],
+      "sha256": "bd4f3bff5999fdd13aa22cb7651144bc3e272e19c3fea5b27d161ecfc9bac83d",
+      "figure": "Figure 33",
+      "visually_reviewed": true
+    },
+    {
+      "key": "tc",
+      "path": "daily/2026-10-30/images/tc/figure-35-production-tests.png",
+      "source_pdf": "daily/2026-10-30/pdfs/Dellepiane et al. - 2026 - Proton induced technetium production.pdf",
+      "pdf_page": 45,
+      "bbox_points": [
+        132,
+        127,
+        480,
+        642
+      ],
+      "sha256": "e6e17bae8018c8e340bf782127cccac81e00abc932a01cd1f5e1149a31327e96",
+      "figure": "Figure 35",
+      "visually_reviewed": true
+    },
+    {
+      "key": "dhcnn",
+      "path": "daily/2026-10-30/images/dhcnn/figure-5-temporal-partition.png",
+      "source_pdf": "daily/2026-10-30/pdfs/Yin et al. - 2026 - DHCNN reconnection identification.pdf",
+      "pdf_page": 6,
+      "bbox_points": [
+        38,
+        43,
+        574,
+        356
+      ],
+      "sha256": "70831c9e6272d78a041dbb65e3752f9903e5e91153ada43e653b39cbedf034fe",
+      "figure": 5,
+      "visually_reviewed": true
+    },
+    {
+      "key": "dhcnn",
+      "path": "daily/2026-10-30/images/dhcnn/figure-7-dual-branch-architecture.png",
+      "source_pdf": "daily/2026-10-30/pdfs/Yin et al. - 2026 - DHCNN reconnection identification.pdf",
+      "pdf_page": 7,
+      "bbox_points": [
+        40,
+        49,
+        574,
+        264
+      ],
+      "sha256": "8c829d106b932e4ff06ac02abcb615bbd3eaee8f297d9de593e97368022c7d99",
+      "figure": 7,
+      "visually_reviewed": true
+    },
+    {
+      "key": "dhcnn",
+      "path": "daily/2026-10-30/images/dhcnn/figure-9-independent-simulation-metrics.png",
+      "source_pdf": "daily/2026-10-30/pdfs/Yin et al. - 2026 - DHCNN reconnection identification.pdf",
+      "pdf_page": 8,
+      "bbox_points": [
+        40,
+        313,
+        574,
+        598
+      ],
+      "sha256": "4e5bcdac32dc1c83a7aef9dc7ead2078c050eb69752251f8146ea4e076fb21c1",
+      "figure": 9,
+      "visually_reviewed": true
+    }
+  ],
+  "reviews": [
+    {
+      "key": "circular",
+      "visually_reviewed_pdf_pages": [
+        1,
+        5,
+        17,
+        19,
+        21,
+        22,
+        23,
+        25,
+        26,
+        30
+      ],
+      "figures": [
+        {
+          "file": "daily/2026-10-30/images/circular/figure-2-six-projections.png",
+          "source_pdf": "daily/2026-10-30/pdfs/Gilanliogullari et al. - 2026 - Circular mode beam optics.pdf",
+          "pdf_page": 5,
+          "figure": "2",
+          "clip_points": [
+            48,
+            315,
+            565,
+            723
+          ],
+          "sha256": "da060eb460d06029a1724ced7db1f19c0bee81efa8d299aa784220faf33c295f",
+          "source_doi": "10.1103/1drd-x8kp",
+          "license": "CC BY 4.0, original figure excerpt, Gilanliogullari et al. 2026 APS"
+        },
+        {
+          "file": "daily/2026-10-30/images/circular/figure-20-current-flatness.png",
+          "source_pdf": "daily/2026-10-30/pdfs/Gilanliogullari et al. - 2026 - Circular mode beam optics.pdf",
+          "pdf_page": 21,
+          "figure": "20",
+          "clip_points": [
+            48,
+            548,
+            565,
+            723
+          ],
+          "sha256": "e7b01ab57c8affa8442239cdf410c8ace33b11ec9ca9377bf4e36d5fc28a176a",
+          "source_doi": "10.1103/1drd-x8kp",
+          "license": "CC BY 4.0, original figure excerpt, Gilanliogullari et al. 2026 APS"
+        },
+        {
+          "file": "daily/2026-10-30/images/circular/figure-26-synchrotron.png",
+          "source_pdf": "daily/2026-10-30/pdfs/Gilanliogullari et al. - 2026 - Circular mode beam optics.pdf",
+          "pdf_page": 26,
+          "figure": "26",
+          "clip_points": [
+            48,
+            38,
+            565,
+            538
+          ],
+          "sha256": "bf0d6ff5044663a5e9019b511a533e06601e855204446b9e2f5557d3a8cf322b",
+          "source_doi": "10.1103/1drd-x8kp",
+          "license": "CC BY 4.0, original figure excerpt, Gilanliogullari et al. 2026 APS"
+        }
+      ],
+      "source_issues": [
+        "Fig20 relative versus absolute growth-rate axis",
+        "Eq47 following Lz >> eps4D dimensional inconsistency",
+        "EqD2 covariance discriminant minus sign",
+        "EqC3 normalized coordinate definition inconsistent with substitution",
+        "Synchrotron input flatness500 is assumed independently of quadrupole-booster output200",
+        "Fig13正文R90与图注100不同"
+      ],
+      "not_run": [
+        "TRACK",
+        "ImpactX",
+        "space-charge simulation",
+        "NAFF",
+        "author code"
+      ],
+      "mineru_crosschecked": true,
+      "mineru_source": "daily/2026-10-30/pdfs/Gilanliogullari et al. - 2026 - Circular mode beam optics.mineru.txt",
+      "note_path": "daily/2026-10-30/notes/Gilanliogullari et al. - 2026 - Circular mode beam optics.md"
+    },
+    {
+      "key": "shield",
+      "viewed_pages": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "figures": [
+        {
+          "path": "daily/2026-10-30/images/shield/table2-figures1-2.png",
+          "source_pdf": "daily/2026-10-30/pdfs/Alharbi - 2026 - Biochar epoxy uncollided neutron transmission.pdf",
+          "page": 6,
+          "bbox_pt": [
+            30,
+            70,
+            565,
+            765
+          ],
+          "label": "Table2 and Figures1-2",
+          "sha256": "0760debc2e92bd991a04af08cdacddbccab3fbf9898729d8120626b9ee66c259",
+          "visual_reviewed": true
+        },
+        {
+          "path": "daily/2026-10-30/images/shield/figure3-components.png",
+          "source_pdf": "daily/2026-10-30/pdfs/Alharbi - 2026 - Biochar epoxy uncollided neutron transmission.pdf",
+          "page": 7,
+          "bbox_pt": [
+            160,
+            315,
+            565,
+            570
+          ],
+          "label": "Figure3",
+          "sha256": "5c3338a793409ffcde298d52d0ecba311325e426b37e2c22fc667c28451a5a32",
+          "visual_reviewed": true
+        },
+        {
+          "path": "daily/2026-10-30/images/shield/figure4-geometry.png",
+          "source_pdf": "daily/2026-10-30/pdfs/Alharbi - 2026 - Biochar epoxy uncollided neutron transmission.pdf",
+          "page": 8,
+          "bbox_pt": [
+            160,
+            290,
+            565,
+            550
+          ],
+          "label": "Figure4",
+          "sha256": "e95027a72857ce3eb58012fbe84159e88bf7b8594485cc16c6305ca1cb922b7e",
+          "visual_reviewed": true
+        },
+        {
+          "path": "daily/2026-10-30/images/shield/figure5-sensitivities.png",
+          "source_pdf": "daily/2026-10-30/pdfs/Alharbi - 2026 - Biochar epoxy uncollided neutron transmission.pdf",
+          "page": 9,
+          "bbox_pt": [
+            160,
+            65,
+            565,
+            333
+          ],
+          "label": "Figure5",
+          "sha256": "a3d6c488314bc9064f632a7d133562812fddf6a5de3ac2eef4d412d7cfb79dc3",
+          "visual_reviewed": true
+        }
+      ],
+      "notes": [
+        "forward track length fluence and H*(10)-weighted response per generated neutron",
+        "equal density chemistry screen; no actual specimen experiment",
+        "0.43-0.51percent systematic evaluated-data discrepancy unresolved"
+      ]
+    },
+    {
+      "key": "tc",
+      "pdf": "daily/2026-10-30/pdfs/Dellepiane et al. - 2026 - Proton induced technetium production.pdf",
+      "pdf_sha256": "cdd28d4323610648fb38032ab443a085302b3559e253844509943907dc752d5a",
+      "note": "daily/2026-10-30/notes/Dellepiane et al. - 2026 - Proton induced technetium production.md",
+      "reviewed_pdf_pages": [
+        1,
+        7,
+        8,
+        9,
+        12,
+        36,
+        42,
+        43,
+        45,
+        46,
+        53
+      ],
+      "reviewed_original_excerpts": [
+        "daily/2026-10-30/images/tc/figure-25-cross-sections.png",
+        "daily/2026-10-30/images/tc/figure-33-thickness-yield.png",
+        "daily/2026-10-30/images/tc/figure-35-production-tests.png"
+      ],
+      "figures": [
+        {
+          "key": "tc",
+          "figure": "Figure 25",
+          "source_pdf": "daily/2026-10-30/pdfs/Dellepiane et al. - 2026 - Proton induced technetium production.pdf",
+          "source_pdf_sha256": "cdd28d4323610648fb38032ab443a085302b3559e253844509943907dc752d5a",
+          "pdf_page": 36,
+          "bbox_points": [
+            132,
+            133,
+            480,
+            382
+          ],
+          "render_scale": 3,
+          "path": "daily/2026-10-30/images/tc/figure-25-cross-sections.png",
+          "sha256": "21484521d692c0461e68e1d9d7170f3d609ef415d81f1df809ab4aba763916ee",
+          "description": "Original-paper crop; labels, axes and caption retained"
+        },
+        {
+          "key": "tc",
+          "figure": "Figure 33",
+          "source_pdf": "daily/2026-10-30/pdfs/Dellepiane et al. - 2026 - Proton induced technetium production.pdf",
+          "source_pdf_sha256": "cdd28d4323610648fb38032ab443a085302b3559e253844509943907dc752d5a",
+          "pdf_page": 42,
+          "bbox_points": [
+            132,
+            116,
+            480,
+            347
+          ],
+          "render_scale": 3,
+          "path": "daily/2026-10-30/images/tc/figure-33-thickness-yield.png",
+          "sha256": "bd4f3bff5999fdd13aa22cb7651144bc3e272e19c3fea5b27d161ecfc9bac83d",
+          "description": "Original-paper crop; labels, axes and caption retained"
+        },
+        {
+          "key": "tc",
+          "figure": "Figure 35",
+          "source_pdf": "daily/2026-10-30/pdfs/Dellepiane et al. - 2026 - Proton induced technetium production.pdf",
+          "source_pdf_sha256": "cdd28d4323610648fb38032ab443a085302b3559e253844509943907dc752d5a",
+          "pdf_page": 45,
+          "bbox_points": [
+            132,
+            127,
+            480,
+            642
+          ],
+          "render_scale": 3,
+          "path": "daily/2026-10-30/images/tc/figure-35-production-tests.png",
+          "sha256": "e6e17bae8018c8e340bf782127cccac81e00abc932a01cd1f5e1149a31327e96",
+          "description": "Original-paper crop; labels, axes and caption retained"
+        }
+      ],
+      "mineru_crosscheck": "Read full.md key normalization, production, Table3 and purity passages; consistent with pypdf/layout and rendered originals.",
+      "evidence_boundaries": [
+        "16MeV,0.5mm,10h 1.66~1.7GBq/uA is calculated EOB activity/current, not production-test activity",
+        "Test2 is 16.1(4)MeV,0.48mm,99.73%,3.83min,3.82nA; EOB66.1(8)kBq;271(14)MBq/uAh; purity2h99.941(4)%",
+        "Table3 calculation purity99.908(2)% differs by0.033percentage points, about7.4combined stated standard errors under independence; cannot claim within quoted error",
+        "Printed Eq1 with current density and fC Eq3 lacks inverse lambda*T relative to standard activation; Eq5 time/yield normalization also requires clarification; Eq11 omits explicit branch ratio. Static source questions, no code-error claim.",
+        "No high-current10h,chemical separation,recycling,pharmaceutical or clinical validation; no laser-driven production experiment"
+      ],
+      "temporary_render_cleanup": "Removed only tc-p*.png created for this review after visual check."
+    },
+    {
+      "key": "dhcnn",
+      "note": "daily/2026-10-30/notes/Yin et al. - 2026 - DHCNN reconnection identification.md",
+      "pdf": "daily/2026-10-30/pdfs/Yin et al. - 2026 - DHCNN reconnection identification.pdf",
+      "pdf_sha256": "2b92b524fd00f692ef95bbde7c73782370f3a1155cde3bf6c96995c88586481c",
+      "version": "publisher VOR",
+      "journal": "The Astrophysical Journal Supplement Series 287:26 (11pp)",
+      "published": "2026-10-29",
+      "accepted": "2026-09-17",
+      "visual_pages_1based": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "rendered_pages_1based": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "figures": [
+        {
+          "path": "daily/2026-10-30/images/dhcnn/figure-5-temporal-partition.png",
+          "figure": 5,
+          "pdf_page": 6,
+          "bbox_pdf_points": [
+            38,
+            43,
+            574,
+            356
+          ],
+          "sha256": "70831c9e6272d78a041dbb65e3752f9903e5e91153ada43e653b39cbedf034fe",
+          "source": "https://iopscience.iop.org/article/10.3847/1538-4365/aeaa32/pdf",
+          "license": "CC BY 4.0; Yin et al., ApJS 287:26, DOI10.3847/1538-4365/aeaa32; original figure excerpt"
+        },
+        {
+          "path": "daily/2026-10-30/images/dhcnn/figure-7-dual-branch-architecture.png",
+          "figure": 7,
+          "pdf_page": 7,
+          "bbox_pdf_points": [
+            40,
+            49,
+            574,
+            264
+          ],
+          "sha256": "8c829d106b932e4ff06ac02abcb615bbd3eaee8f297d9de593e97368022c7d99",
+          "source": "https://iopscience.iop.org/article/10.3847/1538-4365/aeaa32/pdf",
+          "license": "CC BY 4.0; Yin et al., ApJS 287:26, DOI10.3847/1538-4365/aeaa32; original figure excerpt"
+        },
+        {
+          "path": "daily/2026-10-30/images/dhcnn/figure-9-independent-simulation-metrics.png",
+          "figure": 9,
+          "pdf_page": 8,
+          "bbox_pdf_points": [
+            40,
+            313,
+            574,
+            598
+          ],
+          "sha256": "4e5bcdac32dc1c83a7aef9dc7ead2078c050eb69752251f8146ea4e076fb21c1",
+          "source": "https://iopscience.iop.org/article/10.3847/1538-4365/aeaa32/pdf",
+          "license": "CC BY 4.0; Yin et al., ApJS 287:26, DOI10.3847/1538-4365/aeaa32; original figure excerpt"
+        }
+      ],
+      "mineru_body_checked": "daily/2026-10-30/pdfs/Yin et al. - 2026 - DHCNN reconnection identification.mineru.txt",
+      "findings": [
+        "Independent SIM2 run at1024^2, differentseed/initialconditions; SIM1 temporal buffer is a separatevalidation layer.",
+        "Eq5 as printed maps negative endpoints to1,0,contrary stated[-1,0]; notverifiedcodebug.",
+        "Single-axis flips ofpositive sample relabelednegative; vectortransformation/labelrule requirescode,notprovenincorrect.",
+        "Feature selection repeatedlyqueriesSIM2,sofinalminimalfeaturemodelneedsanotheruntouchedtest.",
+        "M=.673 mainresults/.674 conclusion;T=.67abstract/.680 detailed;preserved.",
+        "15retrainingsreuse285SIM2samples,not15independentphysicalexperiments."
+      ],
+      "boundaries": [
+        "2D reducedmassratio25PIC",
+        "prefilteredcandidateclassification",
+        "manualphysicslabels",
+        "no3D/satellite/laser/QEDdeployment",
+        "noauthortrainingorPICrerun"
+      ],
+      "checked_at": "2026-10-30T07:08:46.843556+08:00"
+    }
+  ]
+}

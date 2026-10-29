@@ -2,11 +2,13 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：172 篇
-- 索引更新时间：2026-10-29
+- 当前收录：174 篇
+- 索引更新时间：2026-10-30
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-30 | [Circular-mode optics for high-intensity beams and high-luminosity colliders](../papers/10-1103-1drd-x8kp/README.md) | Physical Review Accelerators and Beams 29, 103202 | [笔记](../daily/2026-10-30/notes/Gilanliogullari et al. - 2026 - Circular mode beam optics.md) |
+| 2026-10-30 | [Optimization of 99mTc proton-induced production by means of cross-section measurements of technetium radioisotopes from molybdenum targets](../papers/arxiv-2610-36949/README.md) | arXiv preprint | [笔记](../daily/2026-10-30/notes/Dellepiane et al. - 2026 - Proton induced technetium production.md) |
 | 2026-10-29 | [Spatiospectral conditioning of laser-plasma-accelerated electron beams using electromagnetic solenoids](../papers/10-1103-2dby-29s7/README.md) | Physical Review Accelerators and Beams 29, 104602 | [笔记](../daily/2026-10-29/notes/Ambat et al. - 2026 - Solenoid spatiospectral electron beam conditioning.md) |
 | 2026-10-29 | [Correlation Between Radiation Damage Evolution and Mechanical Properties of Fe-Irradiated Tungsten](../papers/10-3390-ma19214540/README.md) | Materials 19, 4540 | [笔记](../daily/2026-10-29/notes/Rakhadilov et al. - 2026 - Fe irradiation tungsten damage mechanics.md) |
 | 2026-10-29 | [Recovering Non-Maxwellian Velocity Distribution Functions from Collective Thomson Scattering Spectra Using Generalized Basis Representations](../papers/arxiv-2610-37516/README.md) | arXiv preprint | [笔记](../daily/2026-10-29/notes/Baker et al. - 2026 - Non Maxwellian Thomson VDF reconstruction.md) |

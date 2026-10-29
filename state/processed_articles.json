@@ -6930,5 +6930,121 @@
     "arxiv_id": "2610.37516",
     "arxiv_version": "2610.37516v1",
     "publication_status": "Submitted to Physics of Plasmas; no VOR verified"
+  },
+  {
+    "title": "Circular-mode optics for high-intensity beams and high-luminosity colliders",
+    "doi": "10.1103/1drd-x8kp",
+    "authors": [
+      "Onur Gilanliogullari",
+      "Brahim Mustapha",
+      "Pavel Snopok"
+    ],
+    "journal": "Physical Review Accelerators and Beams 29, 103202",
+    "publication_date": "2026-10-28",
+    "source_url": "https://doi.org/10.1103/1drd-x8kp",
+    "pdf_path": "daily/2026-10-30/pdfs/Gilanliogullari et al. - 2026 - Circular mode beam optics.pdf",
+    "pdf_sha256": "17b95b55a04bc67207a28b7de22c76b0f17801e80e98f2f9c787678be1df7190",
+    "normalized_title": "circular mode optics for high intensity beams and high luminosity colliders",
+    "processed_date": "2026-10-30",
+    "pdf_url": "https://harvest.aps.org/v2/journals/articles/10.1103/1drd-x8kp/fulltext",
+    "note_path": "daily/2026-10-30/notes/Gilanliogullari et al. - 2026 - Circular mode beam optics.md",
+    "categories": [
+      "pic-and-plasma-simulation",
+      "experimental-platforms-diagnostics"
+    ],
+    "fulltext_version": "publisher version of record",
+    "publication_date_type": "vor_published",
+    "accepted_date": "2026-10-05",
+    "arxiv_id": "2609.33840"
+  },
+  {
+    "title": "Pyrolysis-Dependent Uncollided Neutron Transmission in Date-Palm Biochar/Epoxy Composites: A GEANT4 Study with 2 MeV and Cf-252 Neutrons",
+    "doi": "10.3390/polym18212687",
+    "authors": [
+      "Ahmed Alharbi"
+    ],
+    "journal": "Polymers 18, 2687",
+    "publication_date": "2026-10-29",
+    "source_url": "https://doi.org/10.3390/polym18212687",
+    "pdf_path": "daily/2026-10-30/pdfs/Alharbi - 2026 - Biochar epoxy uncollided neutron transmission.pdf",
+    "pdf_sha256": "9c4fd9fac5f0d3175ddfb7ff484ae4b95f3f6ea499432e3353672ffa88bdadf0",
+    "normalized_title": "pyrolysis dependent uncollided neutron transmission in date palm biochar epoxy composites a geant4 study with 2 mev and cf 252 neutrons",
+    "processed_date": "2026-10-30",
+    "pdf_url": "https://mdpi-res.com/d_attachment/polymers/polymers-18-02687/article_deploy/polymers-18-02687.pdf",
+    "note_path": "daily/2026-10-30/notes/Alharbi - 2026 - Biochar epoxy uncollided neutron transmission.md",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "pic-and-plasma-simulation"
+    ],
+    "fulltext_version": "publisher version of record",
+    "publication_date_type": "vor_published",
+    "accepted_date": "2026-10-25"
+  },
+  {
+    "title": "Optimization of 99mTc proton-induced production by means of cross-section measurements of technetium radioisotopes from molybdenum targets",
+    "doi": "10.48550/arXiv.2610.36949",
+    "authors": [
+      "Gaia Dellepiane",
+      "Sofia D’Uva",
+      "Lars Eggimann",
+      "Alexander Gottstein",
+      "Samuel Juillerat",
+      "Eva Kasanda",
+      "Isidre Mateu",
+      "Paola Scampoli",
+      "Ihor Kadenko",
+      "Saverio Braccini"
+    ],
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-27",
+    "source_url": "https://arxiv.org/abs/2610.36949",
+    "pdf_path": "daily/2026-10-30/pdfs/Dellepiane et al. - 2026 - Proton induced technetium production.pdf",
+    "pdf_sha256": "cdd28d4323610648fb38032ab443a085302b3559e253844509943907dc752d5a",
+    "normalized_title": "optimization of 99mtc proton induced production by means of cross section measurements of technetium radioisotopes from molybdenum targets",
+    "processed_date": "2026-10-30",
+    "pdf_url": "https://arxiv.org/pdf/2610.36949v1",
+    "note_path": "daily/2026-10-30/notes/Dellepiane et al. - 2026 - Proton induced technetium production.md",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "experimental-platforms-diagnostics"
+    ],
+    "fulltext_version": "official arXiv v1 author preprint",
+    "publication_date_type": "arxiv_submission",
+    "arxiv_id": "2610.36949",
+    "arxiv_version": "2610.36949v1",
+    "publication_status": "author preprint; no VOR verified"
+  },
+  {
+    "title": "Identification of Magnetic Reconnection in Plasma Turbulence Using a Dual-branch Lightweight Hybrid Convolutional Neural Network",
+    "doi": "10.3847/1538-4365/aeaa32",
+    "authors": [
+      "Y. Yin",
+      "S. Y. Huang",
+      "Q. Y. Xiong",
+      "H. Zhang",
+      "Z. G. Yuan",
+      "K. Jiang",
+      "H. H. Wu",
+      "H. W. Zhan",
+      "Y. T. Tang",
+      "H. Bai"
+    ],
+    "journal": "The Astrophysical Journal Supplement Series 287, 26",
+    "publication_date": "2026-10-29",
+    "source_url": "https://doi.org/10.3847/1538-4365/aeaa32",
+    "pdf_path": "daily/2026-10-30/pdfs/Yin et al. - 2026 - DHCNN reconnection identification.pdf",
+    "pdf_sha256": "2b92b524fd00f692ef95bbde7c73782370f3a1155cde3bf6c96995c88586481c",
+    "normalized_title": "identification of magnetic reconnection in plasma turbulence using a dual branch lightweight hybrid convolutional neural network",
+    "processed_date": "2026-10-30",
+    "pdf_url": "https://iopscience.iop.org/article/10.3847/1538-4365/aeaa32/pdf",
+    "note_path": "daily/2026-10-30/notes/Yin et al. - 2026 - DHCNN reconnection identification.md",
+    "categories": [
+      "ai-ml-plasma-physics",
+      "pic-and-plasma-simulation",
+      "hedp-icf-laboratory-astrophysics"
+    ],
+    "fulltext_version": "publisher version of record",
+    "publication_date_type": "vor_published",
+    "accepted_date": "2026-09-17"
   }
 ]

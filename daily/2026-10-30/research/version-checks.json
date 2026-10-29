@@ -1,0 +1,723 @@
+{
+  "checked_at": "2026-10-30T07:09:58.219584+08:00",
+  "crossref_exact_title": [
+    {
+      "query": "Circular-mode optics for high-intensity beams and high-luminosity colliders",
+      "url": "https://api.crossref.org/works?query.title=Circular-mode+optics+for+high-intensity+beams+and+high-luminosity+colliders&rows=3",
+      "results": [
+        {
+          "DOI": "10.1103/1drd-x8kp",
+          "title": [
+            "Circular-mode optics for high-intensity beams and high-luminosity colliders"
+          ],
+          "author": [
+            {
+              "ORCID": "https://orcid.org/0009-0008-0050-1143",
+              "authenticated-orcid": true,
+              "given": "Onur",
+              "family": "Gilanliogullari",
+              "sequence": "first",
+              "affiliation": [
+                {
+                  "id": [
+                    {
+                      "id": "https://ror.org/037t3ry66",
+                      "id-type": "ROR",
+                      "asserted-by": "publisher"
+                    }
+                  ],
+                  "name": "Illinois Institute of Technology"
+                },
+                {
+                  "id": [
+                    {
+                      "id": "https://ror.org/05gvnxz63",
+                      "id-type": "ROR",
+                      "asserted-by": "publisher"
+                    }
+                  ],
+                  "name": "Argonne National Laboratory"
+                }
+              ],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "ORCID": "https://orcid.org/0000-0002-9892-0029",
+              "authenticated-orcid": true,
+              "given": "Brahim",
+              "family": "Mustapha",
+              "sequence": "additional",
+              "affiliation": [
+                {
+                  "id": [
+                    {
+                      "id": "https://ror.org/05gvnxz63",
+                      "id-type": "ROR",
+                      "asserted-by": "publisher"
+                    }
+                  ],
+                  "name": "Argonne National Laboratory"
+                }
+              ],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "ORCID": "https://orcid.org/0000-0003-4174-1633",
+              "authenticated-orcid": true,
+              "given": "Pavel",
+              "family": "Snopok",
+              "sequence": "additional",
+              "affiliation": [
+                {
+                  "id": [
+                    {
+                      "id": "https://ror.org/037t3ry66",
+                      "id-type": "ROR",
+                      "asserted-by": "publisher"
+                    }
+                  ],
+                  "name": "Illinois Institute of Technology"
+                }
+              ],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            }
+          ],
+          "container-title": [
+            "Physical Review Accelerators and Beams"
+          ],
+          "published": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                28
+              ]
+            ]
+          },
+          "published-online": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                28
+              ]
+            ]
+          },
+          "accepted": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                5
+              ]
+            ]
+          },
+          "URL": "https://doi.org/10.1103/1drd-x8kp",
+          "link": [
+            {
+              "URL": "https://link.aps.org/article/10.1103/1drd-x8kp",
+              "content-type": "unspecified",
+              "content-version": "vor",
+              "intended-application": "syndication"
+            },
+            {
+              "URL": "http://harvest.aps.org/v2/journals/articles/10.1103/1drd-x8kp/fulltext",
+              "content-type": "unspecified",
+              "content-version": "vor",
+              "intended-application": "similarity-checking"
+            }
+          ]
+        },
+        {
+          "DOI": "10.1140/epjp/s13360-022-02583-0",
+          "title": [
+            "Combined-function optics for circular high-energy hadron colliders"
+          ],
+          "author": [
+            {
+              "ORCID": "https://orcid.org/0000-0002-2093-9395",
+              "authenticated-orcid": false,
+              "given": "M.",
+              "family": "Giovannozzi",
+              "sequence": "first",
+              "affiliation": [],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            },
+            {
+              "given": "E.",
+              "family": "Todesco",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            }
+          ],
+          "container-title": [
+            "The European Physical Journal Plus"
+          ],
+          "published": {
+            "date-parts": [
+              [
+                2022,
+                3
+              ]
+            ]
+          },
+          "published-online": {
+            "date-parts": [
+              [
+                2022,
+                3,
+                18
+              ]
+            ]
+          },
+          "URL": "https://doi.org/10.1140/epjp/s13360-022-02583-0",
+          "link": [
+            {
+              "URL": "https://link.springer.com/content/pdf/10.1140/epjp/s13360-022-02583-0.pdf",
+              "content-type": "application/pdf",
+              "content-version": "vor",
+              "intended-application": "text-mining"
+            },
+            {
+              "URL": "https://link.springer.com/article/10.1140/epjp/s13360-022-02583-0/fulltext.html",
+              "content-type": "text/html",
+              "content-version": "vor",
+              "intended-application": "text-mining"
+            },
+            {
+              "URL": "https://link.springer.com/content/pdf/10.1140/epjp/s13360-022-02583-0.pdf",
+              "content-type": "application/pdf",
+              "content-version": "vor",
+              "intended-application": "similarity-checking"
+            }
+          ]
+        },
+        {
+          "DOI": "10.1088/1367-2630/9/9/334",
+          "title": [
+            "Triggering at high luminosity colliders"
+          ],
+          "author": [
+            {
+              "given": "Hans Peter",
+              "family": "Beck",
+              "sequence": "first",
+              "affiliation": [],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            }
+          ],
+          "container-title": [
+            "New Journal of Physics"
+          ],
+          "published": {
+            "date-parts": [
+              [
+                2007,
+                9,
+                19
+              ]
+            ]
+          },
+          "published-online": {
+            "date-parts": [
+              [
+                2007,
+                9,
+                19
+              ]
+            ]
+          },
+          "URL": "https://doi.org/10.1088/1367-2630/9/9/334"
+        }
+      ]
+    },
+    {
+      "query": "Optimization of 99mTc proton-induced production by means of cross-section measurements of technetium radioisotopes from molybdenum targets",
+      "url": "https://api.crossref.org/works?query.title=Optimization+of+99mTc+proton-induced+production+by+means+of+cross-section+measurements+of+technetium+radioisotopes+from+molybdenum+targets&rows=3",
+      "results": [
+        {
+          "DOI": "10.1051/epjconf/202328504002",
+          "title": [
+            "Production of powder targets for neutron-induced cross section measurements"
+          ],
+          "author": [
+            {
+              "given": "André",
+              "family": "Moens",
+              "sequence": "first",
+              "affiliation": [],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            },
+            {
+              "given": "Pedro",
+              "family": "Amador Celdran",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            },
+            {
+              "given": "Herwin",
+              "family": "Hein",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            },
+            {
+              "given": "Goedele",
+              "family": "Sibbens",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            },
+            {
+              "given": "David",
+              "family": "Vanleeuw",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            },
+            {
+              "given": "Stefaan",
+              "family": "Van Winckel",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            }
+          ],
+          "container-title": [
+            "EPJ Web of Conferences"
+          ],
+          "published": {
+            "date-parts": [
+              [
+                2023
+              ]
+            ]
+          },
+          "published-online": {
+            "date-parts": [
+              [
+                2023,
+                6,
+                22
+              ]
+            ]
+          },
+          "URL": "https://doi.org/10.1051/epjconf/202328504002",
+          "link": [
+            {
+              "URL": "https://www.epj-conferences.org/10.1051/epjconf/202328504002/pdf",
+              "content-type": "unspecified",
+              "content-version": "vor",
+              "intended-application": "similarity-checking"
+            }
+          ]
+        },
+        {
+          "DOI": "10.1007/s10967-024-09378-w",
+          "title": [
+            "Proton-induced reactions for 47Sc (and 46Sc) production: new nuclear cross section measurements on enriched titanium targets"
+          ],
+          "author": [
+            {
+              "ORCID": "https://orcid.org/0000-0001-8731-7059",
+              "authenticated-orcid": false,
+              "given": "Gaia",
+              "family": "Pupillo",
+              "sequence": "first",
+              "affiliation": [],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "ORCID": "https://orcid.org/0000-0001-9616-7128",
+              "authenticated-orcid": false,
+              "given": "Lucia",
+              "family": "De Dominicis",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "ORCID": "https://orcid.org/0000-0003-1201-3119",
+              "authenticated-orcid": false,
+              "given": "Sara",
+              "family": "Cisternino",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "ORCID": "https://orcid.org/0000-0002-6443-7039",
+              "authenticated-orcid": false,
+              "given": "Juan",
+              "family": "Esposito",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "ORCID": "https://orcid.org/0000-0001-8902-6618",
+              "authenticated-orcid": false,
+              "given": "Matteo",
+              "family": "Campostrini",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "ORCID": "https://orcid.org/0000-0003-0671-7750",
+              "authenticated-orcid": false,
+              "given": "Valentino",
+              "family": "Rigato",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "ORCID": "https://orcid.org/0000-0001-6971-5969",
+              "authenticated-orcid": false,
+              "given": "Ferid",
+              "family": "Haddad",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "ORCID": "https://orcid.org/0000-0002-8265-8337",
+              "authenticated-orcid": false,
+              "given": "Etienne",
+              "family": "Nigron",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "ORCID": "https://orcid.org/0000-0002-4844-5231",
+              "authenticated-orcid": false,
+              "given": "Liliana",
+              "family": "Mou",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            }
+          ],
+          "container-title": [
+            "Journal of Radioanalytical and Nuclear Chemistry"
+          ],
+          "published": {
+            "date-parts": [
+              [
+                2024,
+                4,
+                18
+              ]
+            ]
+          },
+          "published-online": {
+            "date-parts": [
+              [
+                2024,
+                4,
+                18
+              ]
+            ]
+          },
+          "URL": "https://doi.org/10.1007/s10967-024-09378-w",
+          "link": [
+            {
+              "URL": "https://link.springer.com/content/pdf/10.1007/s10967-024-09378-w.pdf",
+              "content-type": "application/pdf",
+              "content-version": "vor",
+              "intended-application": "text-mining"
+            },
+            {
+              "URL": "https://link.springer.com/article/10.1007/s10967-024-09378-w/fulltext.html",
+              "content-type": "text/html",
+              "content-version": "vor",
+              "intended-application": "text-mining"
+            },
+            {
+              "URL": "https://link.springer.com/content/pdf/10.1007/s10967-024-09378-w.pdf",
+              "content-type": "application/pdf",
+              "content-version": "vor",
+              "intended-application": "similarity-checking"
+            }
+          ]
+        },
+        {
+          "DOI": "10.1515/ract-2018-3091",
+          "title": [
+            "Study of proton induced nuclear reactions on molybdenum: cross section measurements and theoretical calculations"
+          ],
+          "author": [
+            {
+              "given": "Alaa",
+              "family": "Elbinawi",
+              "sequence": "first",
+              "affiliation": [
+                {
+                  "name": "Department of Physics , Cyclotron Facility, Nuclear Research Centre, Atomic Energy Authority , 13759 Cairo , Egypt"
+                }
+              ],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            },
+            {
+              "given": "Mogahed",
+              "family": "Al-abyad",
+              "sequence": "additional",
+              "affiliation": [
+                {
+                  "name": "Department of Physics , Cyclotron Facility, Nuclear Research Centre, Atomic Energy Authority , 13759 Cairo , Egypt"
+                }
+              ],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            },
+            {
+              "given": "Ibrahim",
+              "family": "Bashter",
+              "sequence": "additional",
+              "affiliation": [
+                {
+                  "name": "Department of Physics , Faculty of Science , Zagazig University , Egypt"
+                }
+              ],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            },
+            {
+              "given": "Usama",
+              "family": "Seddik",
+              "sequence": "additional",
+              "affiliation": [
+                {
+                  "name": "Department of Physics , Cyclotron Facility, Nuclear Research Centre, Atomic Energy Authority , 13759 Cairo , Egypt"
+                }
+              ],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            },
+            {
+              "given": "Ferenc",
+              "family": "Ditrói",
+              "sequence": "additional",
+              "affiliation": [
+                {
+                  "name": "Institute for Nuclear Research, Hungarian Academy of Sciences , Debrecen , Hungary"
+                }
+              ],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            }
+          ],
+          "container-title": [
+            "Radiochimica Acta"
+          ],
+          "published": {
+            "date-parts": [
+              [
+                2019,
+                6,
+                19
+              ]
+            ]
+          },
+          "published-online": {
+            "date-parts": [
+              [
+                2019,
+                6,
+                19
+              ]
+            ]
+          },
+          "URL": "https://doi.org/10.1515/ract-2018-3091",
+          "link": [
+            {
+              "URL": "http://www.degruyter.com/view/j/ract.2020.108.issue-1/ract-2018-3091/ract-2018-3091.xml",
+              "content-type": "text/html",
+              "content-version": "vor",
+              "intended-application": "text-mining"
+            },
+            {
+              "URL": "https://www.degruyter.com/document/doi/10.1515/ract-2018-3091/xml",
+              "content-type": "application/xml",
+              "content-version": "vor",
+              "intended-application": "text-mining"
+            },
+            {
+              "URL": "https://www.degruyter.com/document/doi/10.1515/ract-2018-3091/pdf",
+              "content-type": "unspecified",
+              "content-version": "vor",
+              "intended-application": "similarity-checking"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "initial_batch_error": "Tc exact-title request HTTP429 aborted helper batch; sequential requery of both titles succeeded",
+  "circular_alias": {
+    "url": "https://arxiv.org/abs/2609.33840",
+    "metadata": {
+      "citation_title": [
+        "Circular-Mode Optics for High-Intensity Beams and High-Luminosity Colliders"
+      ],
+      "citation_author": [
+        "Gilanliogullari, Onur",
+        "Mustapha, Brahim",
+        "Snopok, Pavel"
+      ],
+      "citation_date": [
+        "2026/09/27"
+      ],
+      "citation_online_date": [
+        "2026/09/27"
+      ],
+      "citation_pdf_url": [
+        "https://arxiv.org/pdf/2609.33840"
+      ],
+      "citation_arxiv_id": [
+        "2609.33840"
+      ],
+      "citation_abstract": [
+        "We study circular-mode optics as a framework for transporting and accelerating intrinsically flat beams while maintaining a round transverse projection in physical space. Motivated by the strong degradation of flat beams under low-energy space-charge forces, we develop a coupled-optics description of circular modes, analyze their formation and preservation, and derive lattice design conditions for conserving canonical angular momentum and coupling phase. These conditions motivate rotationally invariant transport and ring cells based on solenoids, symmetric alternating-gradient structures, and indexed dipoles. We further derive space-charge tune-shift and tune-spread expressions for circular-mode beams in uncoupled and coupled lattices, showing that they preserve the leading-order space-charge behavior of round beams while retaining intrinsic eigenemittance flatness. Particle-in-cell simulations with TRACK and ImpactX confirm the generation, transport, and acceleration of circular-mode beams in representative lattices, including regimes with strong space charge. Circular-mode optics therefore provides a promising route toward high-intensity hadron beams and high-luminosity collider applications."
+      ]
+    },
+    "history": "Submission history From: Onur Gilanliogullari [ view email ] [v1] Sun, 27 Sep 2026 18:46:29 UTC (20,443 KB)"
+  },
+  "tc_status": "Top3 exact-title Crossref results did not verify same-work VOR; retain arXiv submission date",
+  "dedup_scenarios": [
+    "Circular mode lattice/PIC differs from Ambat LPA solenoid experiment",
+    "Tc cyclotron reaction cross sections differ from Brown laser-DD-neutron Zn activation",
+    "Biochar neutron materials differ from photon air-kerma source method",
+    "DHCNN supervised candidate recognition differs from transport/generative turbulence models"
+  ]
+}

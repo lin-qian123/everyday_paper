@@ -1,0 +1,321 @@
+{
+  "run_date": "2026-10-30",
+  "queried_at": "2026-10-30T07:09:58.219584+08:00",
+  "crossref": {
+    "window": [
+      "2026-10-28",
+      "2026-10-30"
+    ],
+    "rows_per_query": 60,
+    "strategies": [
+      "10 themes published descending",
+      "10 same themes relevance;3 HTTP429 recovered sequentially"
+    ],
+    "successful_returned_rows": 1200,
+    "unique_dois": 847,
+    "queries": [
+      {
+        "query": "laser plasma acceleration",
+        "batch": "crossref",
+        "returned": 60,
+        "url": "https://api.crossref.org/works?query=laser+plasma+acceleration&filter=from-pub-date%3A2026-10-28%2Cuntil-pub-date%3A2026-10-30&rows=60&sort=published&order=desc",
+        "error": null,
+        "recovered": false
+      },
+      {
+        "query": "strong field QED radiation reaction",
+        "batch": "crossref",
+        "returned": 60,
+        "url": "https://api.crossref.org/works?query=strong+field+QED+radiation+reaction&filter=from-pub-date%3A2026-10-28%2Cuntil-pub-date%3A2026-10-30&rows=60&sort=published&order=desc",
+        "error": null,
+        "recovered": false
+      },
+      {
+        "query": "high energy density inertial fusion",
+        "batch": "crossref",
+        "returned": 60,
+        "url": "https://api.crossref.org/works?query=high+energy+density+inertial+fusion&filter=from-pub-date%3A2026-10-28%2Cuntil-pub-date%3A2026-10-30&rows=60&sort=published&order=desc",
+        "error": null,
+        "recovered": false
+      },
+      {
+        "query": "particle in cell plasma simulation",
+        "batch": "crossref",
+        "returned": 60,
+        "url": "https://api.crossref.org/works?query=particle+in+cell+plasma+simulation&filter=from-pub-date%3A2026-10-28%2Cuntil-pub-date%3A2026-10-30&rows=60&sort=published&order=desc",
+        "error": null,
+        "recovered": false
+      },
+      {
+        "query": "machine learning plasma physics",
+        "batch": "crossref",
+        "returned": 60,
+        "url": "https://api.crossref.org/works?query=machine+learning+plasma+physics&filter=from-pub-date%3A2026-10-28%2Cuntil-pub-date%3A2026-10-30&rows=60&sort=published&order=desc",
+        "error": null,
+        "recovered": false
+      },
+      {
+        "query": "laser bremsstrahlung gamma converter",
+        "batch": "crossref",
+        "returned": 60,
+        "url": "https://api.crossref.org/works?query=laser+bremsstrahlung+gamma+converter&filter=from-pub-date%3A2026-10-28%2Cuntil-pub-date%3A2026-10-30&rows=60&sort=published&order=desc",
+        "error": null,
+        "recovered": false
+      },
+      {
+        "query": "laser photonuclear neutron isotope",
+        "batch": "crossref",
+        "returned": 60,
+        "url": "https://api.crossref.org/works?query=laser+photonuclear+neutron+isotope&filter=from-pub-date%3A2026-10-28%2Cuntil-pub-date%3A2026-10-30&rows=60&sort=published&order=desc",
+        "error": null,
+        "recovered": false
+      },
+      {
+        "query": "electron ion beam radiotherapy irradiation",
+        "batch": "crossref",
+        "returned": 60,
+        "url": "https://api.crossref.org/works?query=electron+ion+beam+radiotherapy+irradiation&filter=from-pub-date%3A2026-10-28%2Cuntil-pub-date%3A2026-10-30&rows=60&sort=published&order=desc",
+        "error": null,
+        "recovered": false
+      },
+      {
+        "query": "laser target beam diagnostics",
+        "batch": "crossref",
+        "returned": 60,
+        "url": "https://api.crossref.org/works?query=laser+target+beam+diagnostics&filter=from-pub-date%3A2026-10-28%2Cuntil-pub-date%3A2026-10-30&rows=60&sort=published&order=desc",
+        "error": null,
+        "recovered": false
+      },
+      {
+        "query": "radiation shielding nuclear materials",
+        "batch": "crossref",
+        "returned": 60,
+        "url": "https://api.crossref.org/works?query=radiation+shielding+nuclear+materials&filter=from-pub-date%3A2026-10-28%2Cuntil-pub-date%3A2026-10-30&rows=60&sort=published&order=desc",
+        "error": null,
+        "recovered": false
+      },
+      {
+        "query": "laser plasma acceleration",
+        "batch": "crossref-relevance",
+        "returned": 60,
+        "url": "https://api.crossref.org/works?query=laser+plasma+acceleration&filter=from-pub-date%3A2026-10-28%2Cuntil-pub-date%3A2026-10-30&rows=60&sort=relevance",
+        "error": null,
+        "recovered": false
+      },
+      {
+        "query": "strong field QED radiation reaction",
+        "batch": "crossref-relevance",
+        "returned": 0,
+        "url": null,
+        "error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query=strong+field+QED+radiation+reaction&filter=from-pub-date%3A2026-10-28%2Cuntil-pub-date%3A2026-10-30&rows=60&sort=relevance",
+        "recovered": false
+      },
+      {
+        "query": "high energy density inertial fusion",
+        "batch": "crossref-relevance",
+        "returned": 0,
+        "url": null,
+        "error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query=high+energy+density+inertial+fusion&filter=from-pub-date%3A2026-10-28%2Cuntil-pub-date%3A2026-10-30&rows=60&sort=relevance",
+        "recovered": false
+      },
+      {
+        "query": "particle in cell plasma simulation",
+        "batch": "crossref-relevance",
+        "returned": 60,
+        "url": "https://api.crossref.org/works?query=particle+in+cell+plasma+simulation&filter=from-pub-date%3A2026-10-28%2Cuntil-pub-date%3A2026-10-30&rows=60&sort=relevance",
+        "error": null,
+        "recovered": false
+      },
+      {
+        "query": "machine learning plasma physics",
+        "batch": "crossref-relevance",
+        "returned": 60,
+        "url": "https://api.crossref.org/works?query=machine+learning+plasma+physics&filter=from-pub-date%3A2026-10-28%2Cuntil-pub-date%3A2026-10-30&rows=60&sort=relevance",
+        "error": null,
+        "recovered": false
+      },
+      {
+        "query": "laser bremsstrahlung gamma converter",
+        "batch": "crossref-relevance",
+        "returned": 60,
+        "url": "https://api.crossref.org/works?query=laser+bremsstrahlung+gamma+converter&filter=from-pub-date%3A2026-10-28%2Cuntil-pub-date%3A2026-10-30&rows=60&sort=relevance",
+        "error": null,
+        "recovered": false
+      },
+      {
+        "query": "laser photonuclear neutron isotope",
+        "batch": "crossref-relevance",
+        "returned": 60,
+        "url": "https://api.crossref.org/works?query=laser+photonuclear+neutron+isotope&filter=from-pub-date%3A2026-10-28%2Cuntil-pub-date%3A2026-10-30&rows=60&sort=relevance",
+        "error": null,
+        "recovered": false
+      },
+      {
+        "query": "electron ion beam radiotherapy irradiation",
+        "batch": "crossref-relevance",
+        "returned": 60,
+        "url": "https://api.crossref.org/works?query=electron+ion+beam+radiotherapy+irradiation&filter=from-pub-date%3A2026-10-28%2Cuntil-pub-date%3A2026-10-30&rows=60&sort=relevance",
+        "error": null,
+        "recovered": false
+      },
+      {
+        "query": "laser target beam diagnostics",
+        "batch": "crossref-relevance",
+        "returned": 60,
+        "url": "https://api.crossref.org/works?query=laser+target+beam+diagnostics&filter=from-pub-date%3A2026-10-28%2Cuntil-pub-date%3A2026-10-30&rows=60&sort=relevance",
+        "error": null,
+        "recovered": false
+      },
+      {
+        "query": "radiation shielding nuclear materials",
+        "batch": "crossref-relevance",
+        "returned": 0,
+        "url": null,
+        "error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query=radiation+shielding+nuclear+materials&filter=from-pub-date%3A2026-10-28%2Cuntil-pub-date%3A2026-10-30&rows=60&sort=relevance",
+        "recovered": false
+      },
+      {
+        "query": "strong field QED radiation reaction",
+        "batch": "crossref-recovered",
+        "returned": 60,
+        "url": "https://api.crossref.org/works?query=strong+field+QED+radiation+reaction&filter=from-pub-date%3A2026-10-28%2Cuntil-pub-date%3A2026-10-30&rows=60&sort=relevance",
+        "error": null,
+        "recovered": true
+      },
+      {
+        "query": "high energy density inertial fusion",
+        "batch": "crossref-recovered",
+        "returned": 60,
+        "url": "https://api.crossref.org/works?query=high+energy+density+inertial+fusion&filter=from-pub-date%3A2026-10-28%2Cuntil-pub-date%3A2026-10-30&rows=60&sort=relevance",
+        "error": null,
+        "recovered": true
+      },
+      {
+        "query": "radiation shielding nuclear materials",
+        "batch": "crossref-recovered",
+        "returned": 60,
+        "url": "https://api.crossref.org/works?query=radiation+shielding+nuclear+materials&filter=from-pub-date%3A2026-10-28%2Cuntil-pub-date%3A2026-10-30&rows=60&sort=relevance",
+        "error": null,
+        "recovered": true
+      }
+    ],
+    "scope": "Bounded thematic queries, not exhaustive; returned rows include duplicates and off-topic metadata"
+  },
+  "arxiv": {
+    "api": {
+      "url": "https://export.arxiv.org/api/query?search_query=cat:physics.plasm-ph&start=0&max_results=40&sortBy=submittedDate&sortOrder=descending",
+      "http_status": 200,
+      "returned": 40,
+      "latest_submission": "2026-10-27T16:37:30Z"
+    },
+    "html": {
+      "categories": [
+        {
+          "category": "physics.plasm-ph",
+          "url": "https://arxiv.org/list/physics.plasm-ph/recent?show=100",
+          "heading": "Wed, 28 Oct 2026 (showing 8 of 8 entries )",
+          "returned": 8
+        },
+        {
+          "category": "physics.acc-ph",
+          "url": "https://arxiv.org/list/physics.acc-ph/recent?show=100",
+          "heading": "Wed, 28 Oct 2026 (showing 2 of 2 entries )",
+          "returned": 2
+        },
+        {
+          "category": "physics.comp-ph",
+          "url": "https://arxiv.org/list/physics.comp-ph/recent?show=100",
+          "heading": "Wed, 28 Oct 2026 (showing 16 of 16 entries )",
+          "returned": 16
+        },
+        {
+          "category": "physics.ins-det",
+          "url": "https://arxiv.org/list/physics.ins-det/recent?show=100",
+          "heading": "Wed, 28 Oct 2026 (showing 5 of 5 entries )",
+          "returned": 5
+        },
+        {
+          "category": "nucl-ex",
+          "url": "https://arxiv.org/list/nucl-ex/recent?show=100",
+          "heading": "Wed, 28 Oct 2026 (showing 11 of 11 entries )",
+          "returned": 11
+        },
+        {
+          "category": "nucl-th",
+          "url": "https://arxiv.org/list/nucl-th/recent?show=100",
+          "heading": "Wed, 28 Oct 2026 (showing 20 of 20 entries )",
+          "returned": 20
+        },
+        {
+          "category": "hep-ph",
+          "url": "https://arxiv.org/list/hep-ph/recent?show=100",
+          "heading": "Wed, 28 Oct 2026 (showing 59 of 59 entries )",
+          "returned": 59
+        },
+        {
+          "category": "physics.med-ph",
+          "url": "https://arxiv.org/list/physics.med-ph/recent?show=100",
+          "heading": "Wed, 28 Oct 2026 (showing 6 of 6 entries )",
+          "returned": 6
+        },
+        {
+          "category": "physics.optics",
+          "url": "https://arxiv.org/list/physics.optics/recent?show=100",
+          "heading": "Wed, 28 Oct 2026 (showing 19 of 19 entries )",
+          "returned": 19
+        },
+        {
+          "category": "cs.LG",
+          "url": "https://arxiv.org/list/cs.LG/recent?show=100",
+          "heading": "Wed, 28 Oct 2026 (showing first 100 of 237 entries )",
+          "returned": 100
+        }
+      ],
+      "returned_rows": 246,
+      "unique_ids": 228,
+      "scope": "Only first dated dl block read per category;cs.LG first100of237;latest served block2026-10-28,not full archive"
+    },
+    "local_parser_recovery": "Initial helper incorrectly looked for heading before dl; corrected to child h3; only corrected responses counted"
+  },
+  "primary_supplement": [
+    "https://journals.aps.org/prab/recent",
+    "https://journals.aps.org/prl/recent",
+    "https://journals.aps.org/pre/recent?page=1&toc_section%5B%5D=plasma-physics",
+    "https://arxiv.org/list/physics.plasm-ph/new"
+  ],
+  "dedup": {
+    "before": 509,
+    "retry": 45,
+    "after": 513,
+    "keys": [
+      "DOI",
+      "normalized title",
+      "arXiv aliases",
+      "source URL",
+      "authors",
+      "physical scenario"
+    ],
+    "prior_objects_unchanged": true,
+    "retry_unchanged": true
+  },
+  "unread_metadata_leads": [
+    {
+      "doi": "10.1088/1741-4326/aeba9c",
+      "title": "Kinetic modifications to parallel transport in a low recycling scrape-off layer: A one dimensional gyrokinetic study"
+    },
+    {
+      "doi": "10.1088/1741-4326/aeb275",
+      "title": "Runaway electron induced explosions of graphite; modeling versus controlled DIII-D experiments"
+    },
+    {
+      "doi": "10.1088/1741-4326/aeba9a",
+      "title": "Neutronics characterisation of the radiation environment for the qualification of magnetic sensors on DEMO"
+    }
+  ],
+  "other_unread_arxiv": [
+    "2610.37047 HiPER wall",
+    "2610.36155 generative plasma turbulence",
+    "2610.36310 nonthermal polarized fusion"
+  ],
+  "no_fulltext_claim_for_unread_leads": true
+}

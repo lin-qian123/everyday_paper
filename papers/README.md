@@ -1,10 +1,14 @@
 # 论文总索引
 
-- 当前入库论文：509 篇
-- 索引更新时间：2026-10-29
+- 当前入库论文：513 篇
+- 索引更新时间：2026-10-30
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-10-30 | [Pyrolysis-Dependent Uncollided Neutron Transmission in Date-Palm Biochar/Epoxy Composites: A GEANT4 Study with 2 MeV and Cf-252 Neutrons](./10-3390-polym18212687/README.md) | Polymers 18, 2687 | [10.3390/polym18212687](https://doi.org/10.3390/polym18212687) |
+| 2026-10-30 | [Identification of Magnetic Reconnection in Plasma Turbulence Using a Dual-branch Lightweight Hybrid Convolutional Neural Network](./10-3847-1538-4365-aeaa32/README.md) | The Astrophysical Journal Supplement Series 287, 26 | [10.3847/1538-4365/aeaa32](https://doi.org/10.3847/1538-4365/aeaa32) |
+| 2026-10-30 | [Circular-mode optics for high-intensity beams and high-luminosity colliders](./10-1103-1drd-x8kp/README.md) | Physical Review Accelerators and Beams 29, 103202 | [10.1103/1drd-x8kp](https://doi.org/10.1103/1drd-x8kp) |
+| 2026-10-30 | [Optimization of 99mTc proton-induced production by means of cross-section measurements of technetium radioisotopes from molybdenum targets](./arxiv-2610-36949/README.md) | arXiv preprint | [10.48550/arXiv.2610.36949](https://doi.org/10.48550/arXiv.2610.36949) |
 | 2026-10-29 | [Spatiospectral conditioning of laser-plasma-accelerated electron beams using electromagnetic solenoids](./10-1103-2dby-29s7/README.md) | Physical Review Accelerators and Beams 29, 104602 | [10.1103/2dby-29s7](https://doi.org/10.1103/2dby-29s7) |
 | 2026-10-29 | [Correlation Between Radiation Damage Evolution and Mechanical Properties of Fe-Irradiated Tungsten](./10-3390-ma19214540/README.md) | Materials 19, 4540 | [10.3390/ma19214540](https://doi.org/10.3390/ma19214540) |
 | 2026-10-29 | [Recovering Non-Maxwellian Velocity Distribution Functions from Collective Thomson Scattering Spectra Using Generalized Basis Representations](./arxiv-2610-37516/README.md) | arXiv preprint | [10.48550/arXiv.2610.37516](https://doi.org/10.48550/arXiv.2610.37516) |

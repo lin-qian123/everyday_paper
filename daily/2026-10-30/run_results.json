@@ -1,0 +1,66 @@
+{
+  "run_date": "2026-10-30",
+  "status": "fulltext_ingested_local_validation_passed",
+  "processed_before": 509,
+  "processed_after": 513,
+  "retry_before": 45,
+  "retry_after": 45,
+  "added_dois": [
+    "10.1103/1drd-x8kp",
+    "10.3390/polym18212687",
+    "10.48550/arXiv.2610.36949",
+    "10.3847/1538-4365/aeaa32"
+  ],
+  "recovered_retry": [],
+  "new_retry": [],
+  "pdfs": 4,
+  "pages": 117,
+  "pdf_bytes": 15224615,
+  "layout_text_bytes": 374210,
+  "mineru": {
+    "success": 4,
+    "failed": 0
+  },
+  "visual_inspection": {
+    "total_key_pages": 38,
+    "retained_original_excerpts": 13,
+    "manifest": "research/figure-manifest.json"
+  },
+  "prior_processed_objects_unchanged": true,
+  "retry_objects_unchanged": true,
+  "scientific_boundaries": [
+    "No author solver,transport,training or experiment rerun",
+    "Circular-mode theory/PIC and assumed synchrotron input do not establish end-to-end experimental collider performance",
+    "Biochar response per primary is an equal-density neutron model,not measured protection",
+    "Tc10h~1.7GBq/uA is calculated;Test2 actual66.1kBq and purity discrepancy retained",
+    "DHCNN independent SIM2 within same2D parameter family;feature selection reuses SIM2;classification not causal mechanism discovery"
+  ],
+  "created_at": "2026-10-30T07:09:58.219584+08:00",
+  "validation": {
+    "index_builder": "Indexed513papers across9categories",
+    "tests": "PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q:7passed in14.23s",
+    "user_change": "pre-existing AGENTS.md preserved and excluded",
+    "ignored_assets": "FourPDF,fourlayout,fourMinerU fulltexts retained locally andGitignored",
+    "diff_check": "git diff --check passed",
+    "scoped_audit": {
+      "audited_at": "2026-10-30T07:13:05.108006+08:00",
+      "scope_files": 46,
+      "markdown_files": 24,
+      "local_links_resolved": 3168,
+      "json_jsonl_files": 9,
+      "ledger": 513,
+      "retry": 45,
+      "unique_nonempty_dois": 509,
+      "unique_titles": 513,
+      "unique_arxiv_ids_across_identifiers": 331,
+      "prior509_objects_unchanged": true,
+      "all45retry_objects_unchanged": true,
+      "decoded_hashmatched_pngs": 13,
+      "local_ignored_fulltext_assets": 12,
+      "paper_index_rows": 513,
+      "errors": []
+    }
+  },
+  "publication_evidence_policy": "Commit/push and fresh remote parity checked after commit; immutable commit identifiers recorded in automation memory,not self-referentially in this file.",
+  "validated_at": "2026-10-30T07:12:08.155944+08:00"
+}

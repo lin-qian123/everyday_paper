@@ -1,0 +1,42 @@
+{
+  "created_at": "2026-10-30T07:09:58.219584+08:00",
+  "items": [
+    {
+      "key": "circular",
+      "doi": "10.1103/1drd-x8kp",
+      "ok": true,
+      "output": "daily/2026-10-30/pdfs/Gilanliogullari et al. - 2026 - Circular mode beam optics.pdf",
+      "source_url": "https://harvest.aps.org/v2/journals/articles/10.1103/1drd-x8kp/fulltext",
+      "mode": "env-proxy",
+      "attempts": []
+    },
+    {
+      "key": "shield",
+      "doi": "10.3390/polym18212687",
+      "ok": true,
+      "output": "daily/2026-10-30/pdfs/Alharbi - 2026 - Biochar epoxy uncollided neutron transmission.pdf",
+      "source_url": "https://mdpi-res.com/d_attachment/polymers/polymers-18-02687/article_deploy/polymers-18-02687.pdf",
+      "mode": "env-proxy",
+      "attempts": []
+    },
+    {
+      "key": "tc",
+      "doi": "10.48550/arXiv.2610.36949",
+      "ok": true,
+      "output": "daily/2026-10-30/pdfs/Dellepiane et al. - 2026 - Proton induced technetium production.pdf",
+      "source_url": "https://arxiv.org/pdf/2610.36949v1",
+      "mode": "env-proxy",
+      "attempts": []
+    },
+    {
+      "key": "dhcnn",
+      "doi": "10.3847/1538-4365/aeaa32",
+      "ok": true,
+      "output": "daily/2026-10-30/pdfs/Yin et al. - 2026 - DHCNN reconnection identification.pdf",
+      "source_url": "https://iopscience.iop.org/article/10.3847/1538-4365/aeaa32/pdf",
+      "mode": "env-proxy",
+      "attempts": []
+    }
+  ],
+  "failed": []
+}
