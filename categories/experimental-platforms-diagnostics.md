@@ -2,11 +2,14 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：174 篇
-- 索引更新时间：2026-10-30
+- 当前收录：177 篇
+- 索引更新时间：2026-10-31
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-31 | [Differentiable control of laser–plasma experiments with conditional diffusion models](../papers/10-1088-2632-2153-aeb79a/README.md) | Machine Learning: Science and Technology 7, 065001 | [笔记](../daily/2026-10-31/notes/Mracek et al. - 2026 - Differentiable laser plasma control.md) |
+| 2026-10-31 | [Generation of attosecond electron bunches via high-gradient acceleration in periodic structures driven by a pulse-front-tilted laser](../papers/10-1103-q1y7-w87y/README.md) | Physical Review Applied 26, 044091 | [笔记](../daily/2026-10-31/notes/Ding et al. - 2026 - Periodic structure attosecond electrons.md) |
+| 2026-10-31 | [High-Repetition-Rate Laser-Driven Fast Neutron Generation from Planar Liquid Heavy Water Jets](../papers/arxiv-2610-38931/README.md) | arXiv preprint | [笔记](../daily/2026-10-31/notes/Treffert et al. - 2026 - Liquid heavy water fast neutrons.md) |
 | 2026-10-30 | [Circular-mode optics for high-intensity beams and high-luminosity colliders](../papers/10-1103-1drd-x8kp/README.md) | Physical Review Accelerators and Beams 29, 103202 | [笔记](../daily/2026-10-30/notes/Gilanliogullari et al. - 2026 - Circular mode beam optics.md) |
 | 2026-10-30 | [Optimization of 99mTc proton-induced production by means of cross-section measurements of technetium radioisotopes from molybdenum targets](../papers/arxiv-2610-36949/README.md) | arXiv preprint | [笔记](../daily/2026-10-30/notes/Dellepiane et al. - 2026 - Proton induced technetium production.md) |
 | 2026-10-29 | [Spatiospectral conditioning of laser-plasma-accelerated electron beams using electromagnetic solenoids](../papers/10-1103-2dby-29s7/README.md) | Physical Review Accelerators and Beams 29, 104602 | [笔记](../daily/2026-10-29/notes/Ambat et al. - 2026 - Solenoid spatiospectral electron beam conditioning.md) |

@@ -2,11 +2,13 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：220 篇
-- 索引更新时间：2026-10-30
+- 当前收录：222 篇
+- 索引更新时间：2026-10-31
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-31 | [Generation of attosecond electron bunches via high-gradient acceleration in periodic structures driven by a pulse-front-tilted laser](../papers/10-1103-q1y7-w87y/README.md) | Physical Review Applied 26, 044091 | [笔记](../daily/2026-10-31/notes/Ding et al. - 2026 - Periodic structure attosecond electrons.md) |
+| 2026-10-31 | [NEOPIC: A Neural Operator Framework for Particle-based Kinetic Plasma Simulations](../papers/arxiv-2610-40528/README.md) | arXiv preprint | [笔记](../daily/2026-10-31/notes/Muralikrishnan et al. - 2026 - NEOPIC particle field operator.md) |
 | 2026-10-30 | [Pyrolysis-Dependent Uncollided Neutron Transmission in Date-Palm Biochar/Epoxy Composites: A GEANT4 Study with 2 MeV and Cf-252 Neutrons](../papers/10-3390-polym18212687/README.md) | Polymers 18, 2687 | [笔记](../daily/2026-10-30/notes/Alharbi - 2026 - Biochar epoxy uncollided neutron transmission.md) |
 | 2026-10-30 | [Identification of Magnetic Reconnection in Plasma Turbulence Using a Dual-branch Lightweight Hybrid Convolutional Neural Network](../papers/10-3847-1538-4365-aeaa32/README.md) | The Astrophysical Journal Supplement Series 287, 26 | [笔记](../daily/2026-10-30/notes/Yin et al. - 2026 - DHCNN reconnection identification.md) |
 | 2026-10-30 | [Circular-mode optics for high-intensity beams and high-luminosity colliders](../papers/10-1103-1drd-x8kp/README.md) | Physical Review Accelerators and Beams 29, 103202 | [笔记](../daily/2026-10-30/notes/Gilanliogullari et al. - 2026 - Circular mode beam optics.md) |

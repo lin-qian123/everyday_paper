@@ -1,0 +1,220 @@
+{
+  "run_date": "2026-10-31",
+  "queried_at": "2026-10-31T07:12:54.201573+08:00",
+  "crossref": {
+    "window": [
+      "2026-10-29",
+      "2026-10-31"
+    ],
+    "strategy": "10 relevance-sorted thematic queries,60 rows each",
+    "queries": [
+      {
+        "query": "laser plasma acceleration",
+        "url": "https://api.crossref.org/works?query=laser+plasma+acceleration&filter=from-pub-date%3A2026-10-29%2Cuntil-pub-date%3A2026-10-31&rows=60&sort=relevance",
+        "error": null,
+        "returned": 60
+      },
+      {
+        "query": "strong field QED radiation reaction",
+        "url": "https://api.crossref.org/works?query=strong+field+QED+radiation+reaction&filter=from-pub-date%3A2026-10-29%2Cuntil-pub-date%3A2026-10-31&rows=60&sort=relevance",
+        "error": null,
+        "returned": 60
+      },
+      {
+        "query": "high energy density inertial fusion",
+        "url": "https://api.crossref.org/works?query=high+energy+density+inertial+fusion&filter=from-pub-date%3A2026-10-29%2Cuntil-pub-date%3A2026-10-31&rows=60&sort=relevance",
+        "error": null,
+        "returned": 60
+      },
+      {
+        "query": "particle in cell plasma simulation",
+        "url": "https://api.crossref.org/works?query=particle+in+cell+plasma+simulation&filter=from-pub-date%3A2026-10-29%2Cuntil-pub-date%3A2026-10-31&rows=60&sort=relevance",
+        "error": null,
+        "returned": 60
+      },
+      {
+        "query": "machine learning plasma physics",
+        "url": "https://api.crossref.org/works?query=machine+learning+plasma+physics&filter=from-pub-date%3A2026-10-29%2Cuntil-pub-date%3A2026-10-31&rows=60&sort=relevance",
+        "error": null,
+        "returned": 60
+      },
+      {
+        "query": "laser bremsstrahlung gamma converter",
+        "url": "https://api.crossref.org/works?query=laser+bremsstrahlung+gamma+converter&filter=from-pub-date%3A2026-10-29%2Cuntil-pub-date%3A2026-10-31&rows=60&sort=relevance",
+        "error": null,
+        "returned": 60
+      },
+      {
+        "query": "laser photonuclear neutron isotope",
+        "url": "https://api.crossref.org/works?query=laser+photonuclear+neutron+isotope&filter=from-pub-date%3A2026-10-29%2Cuntil-pub-date%3A2026-10-31&rows=60&sort=relevance",
+        "error": null,
+        "returned": 60
+      },
+      {
+        "query": "electron ion beam radiotherapy irradiation",
+        "error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query=electron+ion+beam+radiotherapy+irradiation&filter=from-pub-date%3A2026-10-29%2Cuntil-pub-date%3A2026-10-31&rows=60&sort=relevance",
+        "returned": 0
+      },
+      {
+        "query": "laser target beam diagnostics",
+        "url": "https://api.crossref.org/works?query=laser+target+beam+diagnostics&filter=from-pub-date%3A2026-10-29%2Cuntil-pub-date%3A2026-10-31&rows=60&sort=relevance",
+        "error": null,
+        "returned": 60
+      },
+      {
+        "query": "radiation shielding nuclear materials",
+        "url": "https://api.crossref.org/works?query=radiation+shielding+nuclear+materials&filter=from-pub-date%3A2026-10-29%2Cuntil-pub-date%3A2026-10-31&rows=60&sort=relevance",
+        "error": null,
+        "returned": 60
+      },
+      {
+        "query": "electron ion beam radiotherapy irradiation",
+        "url": "https://api.crossref.org/works?query=electron+ion+beam+radiotherapy+irradiation&filter=from-pub-date%3A2026-10-29%2Cuntil-pub-date%3A2026-10-31&rows=60&sort=relevance",
+        "error": null,
+        "returned": 60,
+        "recovery_for": "one initial HTTP429"
+      }
+    ],
+    "successful_returned_rows": 600,
+    "unique_dois": 496,
+    "scope": "bounded metadata queries,includes duplicates and off-topic matches,not exhaustive"
+  },
+  "arxiv": {
+    "api": {
+      "url": "https://export.arxiv.org/api/query",
+      "category_groups": [
+        [
+          "physics.plasm-ph",
+          "physics.acc-ph",
+          "physics.comp-ph",
+          "physics.ins-det",
+          "physics.med-ph"
+        ],
+        [
+          "hep-ph",
+          "nucl-ex",
+          "nucl-th",
+          "physics.optics",
+          "cs.LG"
+        ]
+      ],
+      "sortBy": "submittedDate",
+      "sortOrder": "descending",
+      "rows_per_group": 250,
+      "returned_rows": 500,
+      "unique_versioned_ids": 491,
+      "latest_returned_submission": "2026-10-29T17:59:49Z"
+    },
+    "html": {
+      "categories": [
+        {
+          "category": "physics.plasm-ph",
+          "url": "https://arxiv.org/list/physics.plasm-ph/recent?show=100",
+          "heading": "Fri, 30 Oct 2026 (showing 18 of 18 entries )",
+          "returned": 18
+        },
+        {
+          "category": "physics.acc-ph",
+          "url": "https://arxiv.org/list/physics.acc-ph/recent?show=100",
+          "heading": "Fri, 30 Oct 2026 (showing 3 of 3 entries )",
+          "returned": 3
+        },
+        {
+          "category": "physics.comp-ph",
+          "url": "https://arxiv.org/list/physics.comp-ph/recent?show=100",
+          "heading": "Fri, 30 Oct 2026 (showing 26 of 26 entries )",
+          "returned": 26
+        },
+        {
+          "category": "physics.ins-det",
+          "url": "https://arxiv.org/list/physics.ins-det/recent?show=100",
+          "heading": "Fri, 30 Oct 2026 (showing 15 of 15 entries )",
+          "returned": 15
+        },
+        {
+          "category": "physics.med-ph",
+          "url": "https://arxiv.org/list/physics.med-ph/recent?show=100",
+          "heading": "Fri, 30 Oct 2026 (showing 9 of 9 entries )",
+          "returned": 9
+        },
+        {
+          "category": "nucl-ex",
+          "url": "https://arxiv.org/list/nucl-ex/recent?show=100",
+          "heading": "Fri, 30 Oct 2026 (showing 13 of 13 entries )",
+          "returned": 13
+        },
+        {
+          "category": "nucl-th",
+          "url": "https://arxiv.org/list/nucl-th/recent?show=100",
+          "heading": "Fri, 30 Oct 2026 (showing 31 of 31 entries )",
+          "returned": 31
+        },
+        {
+          "category": "hep-ph",
+          "url": "https://arxiv.org/list/hep-ph/recent?show=100",
+          "heading": "Fri, 30 Oct 2026 (showing 92 of 92 entries )",
+          "returned": 92
+        },
+        {
+          "category": "physics.optics",
+          "url": "https://arxiv.org/list/physics.optics/recent?show=100",
+          "heading": "Fri, 30 Oct 2026 (showing 41 of 41 entries )",
+          "returned": 41
+        },
+        {
+          "category": "cs.LG",
+          "url": "https://arxiv.org/list/cs.LG/recent?show=100",
+          "heading": "Fri, 30 Oct 2026 (showing first 100 of 372 entries )",
+          "returned": 100
+        }
+      ],
+      "returned_rows": 348,
+      "unique_ids": 311,
+      "scope": "First dated block only,30Oct2026;csLG first100of372,not full archive"
+    }
+  },
+  "dedup": {
+    "processed_before": 513,
+    "retry_before": 45,
+    "processed_after": 517,
+    "retry_after": 45,
+    "keys": [
+      "DOI",
+      "normalized title",
+      "arxiv alias",
+      "source URL",
+      "authors",
+      "physical scenario"
+    ],
+    "prior513_objects_unchanged": true,
+    "all45_retry_objects_unchanged": true,
+    "comparisons": [
+      "ALEPH liquidD2O-Be ion neutron source differs from CoReLS CD2-Cu and ALLS LWFA-W works",
+      "NEOPIC particle-measure electrostatic operator differs from Lyu grid latent FNO and iGENEJAX",
+      "ALFA inverse EDM model differs from Reichherzer transport variance diffusion",
+      "PFT solid-grating SEA differs from density-grating retry9237-5stj"
+    ]
+  },
+  "unread_metadata_leads": [
+    {
+      "doi": "10.1088/1361-6587/aebb60",
+      "title": "Scaling laws of laser ponderomotive electron acceleration for characterizing ultra-intense laser focal parameters"
+    },
+    {
+      "doi": "10.1088/1741-4326/aebb4b",
+      "title": "Investigation of the Inverse Plasma Sheath via BIT1 PIC modelling"
+    },
+    {
+      "doi": "10.1088/1741-4326/ae8e8d",
+      "title": "Inertial Fusion Energy (IFE) at the 2025 IAEA Fusion Energy Conference"
+    }
+  ],
+  "other_unread_arxiv": [
+    "2610.38063 CR39 scintillator calibration",
+    "2610.38089 CR39 automated pit detection",
+    "2610.39808 magnetic laser jet shocks",
+    "2610.40206 unified gas kinetic wave particle"
+  ],
+  "no_fulltext_claim_for_unread_leads": true,
+  "retry_policy": "Old45 known restricted records reviewed;no full-queue identical-endpoint rerun;no new unresolved selected fulltext,no abstract-only notes"
+}

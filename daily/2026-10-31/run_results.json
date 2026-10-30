@@ -1,0 +1,69 @@
+{
+  "run_date": "2026-10-31",
+  "status": "fulltext_ingested_local_validation_passed",
+  "processed_before": 513,
+  "processed_after": 517,
+  "retry_before": 45,
+  "retry_after": 45,
+  "added_dois": [
+    "10.1088/2632-2153/aeb79a",
+    "10.1103/q1y7-w87y",
+    "10.48550/arXiv.2610.38931",
+    "10.48550/arXiv.2610.40528"
+  ],
+  "recovered_retry": [],
+  "new_retry": [],
+  "pdfs": 4,
+  "pages": 127,
+  "pdf_bytes": 12883249,
+  "layout_text_bytes": 525028,
+  "mineru": {
+    "success": 3,
+    "failed": 1
+  },
+  "visual_inspection": {
+    "total_key_pages": 40,
+    "retained_original_excerpts": 12,
+    "manifest": "research/figure-manifest.json"
+  },
+  "prior_processed_objects_unchanged": true,
+  "retry_objects_unchanged": true,
+  "scientific_boundaries": [
+    "No author experiments/solver/training/inference rerun",
+    "New0.5Hz laser-ion-Be neutron experimental chain;4pi yields and conversion estimates conditional,not photonuclear or application acceptance",
+    "EDM inverse target self-generated at45mJ outside12-26mJ training;not machine control",
+    "NEOPIC electrostatic,representation equivalence distinct from continuum accuracy;current120-200xPIC cost at equalNp",
+    "SEA61J10GeVmain2D;2J3Ddifferentdensity;1kJ200GeVideal extrapolation"
+  ],
+  "created_at": "2026-10-31T07:12:54.201573+08:00",
+  "publication_evidence_policy": "After commit, audit actual committed scope and blob bytes then push/check fresh HEAD==origin/master==ls-remote;immutableSHA recorded in automation memory",
+  "validated_at": "2026-10-31T07:14:56.339931+08:00",
+  "validation": {
+    "index_builder": "Indexed517papers across9categories",
+    "tests": "PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q:7passed in4.60s",
+    "scoped_audit": {
+      "audited_at": "2026-10-31T07:14:33.987066+08:00",
+      "mode": "working",
+      "scope_files": 45,
+      "markdown_files": 24,
+      "local_links_resolved": 3193,
+      "json_jsonl_files": 9,
+      "ledger": 517,
+      "retry": 45,
+      "unique_nonempty_dois": 513,
+      "unique_normalized_titles": 517,
+      "unique_arxiv_ids_across_identifiers": 340,
+      "prior513_objects_unchanged": true,
+      "all45_retry_objects_unchanged": true,
+      "decoded_hashmatched_pngs": 12,
+      "local_ignored_fulltext_assets": 11,
+      "paper_index_rows": 517,
+      "preexisting_AGENTS_preserved_excluded": true,
+      "errors": []
+    },
+    "user_change": "pre-existing AGENTS.md byte-identical and excluded",
+    "ignored_assets": "FourPDFs,fourlayout texts,threeMinerU bodies retained locally/Gitignored",
+    "diff_check": "git diff --check and git diff --cached --check passed",
+    "audit_note": "Initial local-link regex falsely parsed a displayed math operator [mu](x_p) as a Markdown link;exclude display-math blocks and rerun;no source file correction required"
+  }
+}

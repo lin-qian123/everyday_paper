@@ -1,0 +1,49 @@
+{
+  "downloaded_at": "2026-10-31T07:12:54.201573+08:00",
+  "items": [
+    {
+      "ok": true,
+      "output": "daily/2026-10-31/pdfs/Mracek et al. - 2026 - Differentiable laser plasma control.pdf",
+      "source_url": "https://iopscience.iop.org/article/10.1088/2632-2153/aeb79a/pdf",
+      "mode": "env-proxy",
+      "attempts": [],
+      "key": "diffusion"
+    },
+    {
+      "ok": true,
+      "output": "daily/2026-10-31/pdfs/Treffert et al. - 2026 - Liquid heavy water fast neutrons.pdf",
+      "source_url": "https://arxiv.org/pdf/2610.38931v1",
+      "mode": "env-proxy",
+      "attempts": [],
+      "key": "neutron"
+    },
+    {
+      "ok": true,
+      "output": "daily/2026-10-31/pdfs/Muralikrishnan et al. - 2026 - NEOPIC particle field operator.pdf",
+      "source_url": "https://arxiv.org/pdf/2610.40528v1",
+      "mode": "env-proxy",
+      "attempts": [],
+      "key": "neopic"
+    },
+    {
+      "ok": true,
+      "output": "daily/2026-10-31/pdfs/Ding et al. - 2026 - Periodic structure attosecond electrons.pdf",
+      "source_url": "https://journals.aps.org/prapplied/pdf/10.1103/q1y7-w87y",
+      "mode": "direct",
+      "attempts": [
+        "[env-proxy] https://journals.aps.org/prapplied/pdf/10.1103/q1y7-w87y -> HTTP 403"
+      ],
+      "key": "attosecond",
+      "prior_attempt": {
+        "ok": false,
+        "output": "daily/2026-10-31/pdfs/Ding et al. - 2026 - Periodic structure attosecond electrons.pdf",
+        "attempts": [
+          "[env-proxy] https://harvest.aps.org/v2/journals/articles/10.1103/q1y7-w87y/fulltext -> HTTP 401",
+          "[direct] https://harvest.aps.org/v2/journals/articles/10.1103/q1y7-w87y/fulltext -> HTTP 401"
+        ],
+        "failure_class": "publisher_access_limited"
+      }
+    }
+  ],
+  "all_selected_fulltexts_recovered": true
+}

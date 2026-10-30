@@ -1,0 +1,55 @@
+{
+  "success": 3,
+  "failed": 1,
+  "items": [
+    {
+      "source": "https://iopscience.iop.org/article/10.1088/2632-2153/aeb79a/pdf",
+      "task_id": "0671d12f-5179-4245-8dab-ec0f7d4a2325",
+      "state": "done",
+      "model_version": "pipeline",
+      "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-10-31/0671d12f-5179-4245-8dab-ec0f7d4a2325.zip",
+      "fetched_at": 1793401559,
+      "key": "diffusion",
+      "local_text": "daily/2026-10-31/pdfs/Mracek et al. - 2026 - Differentiable laser plasma control.mineru.txt",
+      "bytes": 74357,
+      "sha256": "0b2a1152bd7a722a1c07c4d2f37b2f9ec4215fed7a6a39271bfaf30bbd148d77",
+      "body_crosscheck": "title and key numerical sections compared with independent validated PDF/layout"
+    },
+    {
+      "source": "https://arxiv.org/pdf/2610.38931v1",
+      "task_id": "388745a1-0d79-423f-a848-fa0dbcc4023e",
+      "state": "done",
+      "model_version": "pipeline",
+      "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-10-31/388745a1-0d79-423f-a848-fa0dbcc4023e.zip",
+      "fetched_at": 1793401582,
+      "key": "neutron",
+      "local_text": "daily/2026-10-31/pdfs/Treffert et al. - 2026 - Liquid heavy water fast neutrons.mineru.txt",
+      "bytes": 66995,
+      "sha256": "982a2c18676384d0f1f8f63b63f8e26b5c481aa27a4f91276240b8aa260acbac",
+      "body_crosscheck": "title and key numerical sections compared with independent validated PDF/layout"
+    },
+    {
+      "source": "https://arxiv.org/pdf/2610.40528v1",
+      "task_id": "6aa320ae-9e2b-42b7-8dc6-609a353bb1b2",
+      "state": "done",
+      "model_version": "pipeline",
+      "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-10-31/6aa320ae-9e2b-42b7-8dc6-609a353bb1b2.zip",
+      "fetched_at": 1793401653,
+      "key": "neopic",
+      "local_text": "daily/2026-10-31/pdfs/Muralikrishnan et al. - 2026 - NEOPIC particle field operator.mineru.txt",
+      "bytes": 289720,
+      "sha256": "09d2a7aaa004ce0eeae547d6b271597850f7415dcb37c3d79bc86a92352d93b0",
+      "body_crosscheck": "title and key numerical sections compared with independent validated PDF/layout"
+    }
+  ],
+  "errors": [
+    {
+      "source": "https://journals.aps.org/prapplied/pdf/10.1103/q1y7-w87y",
+      "error": "MinerU task failed: failed to read file, please check if the file is corrupted and try uploading again",
+      "next_step": "If this is a protected page, try another accessible mirror URL."
+    }
+  ],
+  "fallback": {
+    "attosecond": "MinerU source fetch failed; independently validated official direct PDF, pdftotext layout, all-page text, rendered keypages and original excerpts used. No parser success claimed."
+  }
+}

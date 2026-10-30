@@ -7046,5 +7046,129 @@
     "fulltext_version": "publisher version of record",
     "publication_date_type": "vor_published",
     "accepted_date": "2026-09-17"
+  },
+  {
+    "title": "Differentiable control of laser–plasma experiments with conditional diffusion models",
+    "doi": "10.1088/2632-2153/aeb79a",
+    "authors": [
+      "Matěj Mráček",
+      "Gabriele Maria Grittani",
+      "Carlo Maria Lazzarini",
+      "Alexander Kovalenko"
+    ],
+    "journal": "Machine Learning: Science and Technology 7, 065001",
+    "publication_date": "2026-10-30",
+    "source_url": "https://doi.org/10.1088/2632-2153/aeb79a",
+    "pdf_path": "daily/2026-10-31/pdfs/Mracek et al. - 2026 - Differentiable laser plasma control.pdf",
+    "pdf_sha256": "27979ae448b11be8c8ef1ed0c921b96ef7bb7da561944c29ae54971ef2f11f6c",
+    "normalized_title": "differentiable control of laser plasma experiments with conditional diffusion models",
+    "processed_date": "2026-10-31",
+    "pdf_url": "https://iopscience.iop.org/article/10.1088/2632-2153/aeb79a/pdf",
+    "note_path": "daily/2026-10-31/notes/Mracek et al. - 2026 - Differentiable laser plasma control.md",
+    "categories": [
+      "ai-ml-plasma-physics",
+      "laser-plasma-acceleration",
+      "experimental-platforms-diagnostics"
+    ],
+    "fulltext_version": "publisher version of record",
+    "publication_date_type": "vor_published",
+    "accepted_date": "2026-10-21"
+  },
+  {
+    "title": "Generation of attosecond electron bunches via high-gradient acceleration in periodic structures driven by a pulse-front-tilted laser",
+    "doi": "10.1103/q1y7-w87y",
+    "authors": [
+      "Chaolu Ding",
+      "Xuesong Geng",
+      "Liangliang Ji"
+    ],
+    "journal": "Physical Review Applied 26, 044091",
+    "publication_date": "2026-10-29",
+    "source_url": "https://doi.org/10.1103/q1y7-w87y",
+    "pdf_path": "daily/2026-10-31/pdfs/Ding et al. - 2026 - Periodic structure attosecond electrons.pdf",
+    "pdf_sha256": "77ef6a4fe7a83f9aadce337e1df48d32268ce2407e9c668452643f914b3b220b",
+    "normalized_title": "generation of attosecond electron bunches via high gradient acceleration in periodic structures driven by a pulse front tilted laser",
+    "processed_date": "2026-10-31",
+    "pdf_url": "https://journals.aps.org/prapplied/pdf/10.1103/q1y7-w87y",
+    "note_path": "daily/2026-10-31/notes/Ding et al. - 2026 - Periodic structure attosecond electrons.md",
+    "categories": [
+      "laser-plasma-acceleration",
+      "pic-and-plasma-simulation",
+      "experimental-platforms-diagnostics"
+    ],
+    "fulltext_version": "publisher version of record",
+    "publication_date_type": "vor_published",
+    "accepted_date": "2026-09-21"
+  },
+  {
+    "title": "High-Repetition-Rate Laser-Driven Fast Neutron Generation from Planar Liquid Heavy Water Jets",
+    "doi": "10.48550/arXiv.2610.38931",
+    "authors": [
+      "F. Treffert",
+      "G. D. Glenn",
+      "C. B. Curry",
+      "D. P. DePonte",
+      "R. C. Hollinger",
+      "G. Jain",
+      "S. Popa",
+      "M. Ricks",
+      "J. J. Rocca",
+      "B. Sullivan",
+      "D. Ursescu",
+      "S. Wang",
+      "G. J. Williams",
+      "S. Zahedpour",
+      "S. H. Glenzer",
+      "M. Gauthier"
+    ],
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-28",
+    "source_url": "https://arxiv.org/abs/2610.38931",
+    "pdf_path": "daily/2026-10-31/pdfs/Treffert et al. - 2026 - Liquid heavy water fast neutrons.pdf",
+    "pdf_sha256": "ea997194bb3e2ba3326350a5adf1e2425238e451fe90499e12cf6b80ab93d0ef",
+    "normalized_title": "high repetition rate laser driven fast neutron generation from planar liquid heavy water jets",
+    "processed_date": "2026-10-31",
+    "pdf_url": "https://arxiv.org/pdf/2610.38931v1",
+    "note_path": "daily/2026-10-31/notes/Treffert et al. - 2026 - Liquid heavy water fast neutrons.md",
+    "categories": [
+      "laser-plasma-acceleration",
+      "laser-accelerated-beam-applications",
+      "experimental-platforms-diagnostics"
+    ],
+    "fulltext_version": "official arXiv v1 author preprint",
+    "publication_date_type": "arxiv_submission",
+    "arxiv_id": "2610.38931",
+    "arxiv_version": "2610.38931v1",
+    "publication_status": "author preprint; no VOR verified"
+  },
+  {
+    "title": "NEOPIC: A Neural Operator Framework for Particle-based Kinetic Plasma Simulations",
+    "doi": "10.48550/arXiv.2610.40528",
+    "authors": [
+      "Sriramkrishnan Muralikrishnan",
+      "Chelsea Maria John",
+      "Jeffrey Kelling",
+      "Michael Bussmann",
+      "Robert Speck",
+      "Paul Gibbon"
+    ],
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-29",
+    "source_url": "https://arxiv.org/abs/2610.40528",
+    "pdf_path": "daily/2026-10-31/pdfs/Muralikrishnan et al. - 2026 - NEOPIC particle field operator.pdf",
+    "pdf_sha256": "6caf7f847d56d0ddf889cd66f3b11a2fb64da886ff924ecfb53e4dadc22f2ab9",
+    "normalized_title": "neopic a neural operator framework for particle based kinetic plasma simulations",
+    "processed_date": "2026-10-31",
+    "pdf_url": "https://arxiv.org/pdf/2610.40528v1",
+    "note_path": "daily/2026-10-31/notes/Muralikrishnan et al. - 2026 - NEOPIC particle field operator.md",
+    "categories": [
+      "pic-and-plasma-simulation",
+      "ai-ml-plasma-physics"
+    ],
+    "fulltext_version": "official arXiv v1 author preprint",
+    "publication_date_type": "arxiv_submission",
+    "arxiv_id": "2610.40528",
+    "arxiv_version": "2610.40528v1",
+    "publication_status": "author preprint; no VOR verified"
   }
 ]

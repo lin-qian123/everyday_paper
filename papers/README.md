@@ -1,10 +1,14 @@
 # 论文总索引
 
-- 当前入库论文：513 篇
-- 索引更新时间：2026-10-30
+- 当前入库论文：517 篇
+- 索引更新时间：2026-10-31
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-10-31 | [Differentiable control of laser–plasma experiments with conditional diffusion models](./10-1088-2632-2153-aeb79a/README.md) | Machine Learning: Science and Technology 7, 065001 | [10.1088/2632-2153/aeb79a](https://doi.org/10.1088/2632-2153/aeb79a) |
+| 2026-10-31 | [Generation of attosecond electron bunches via high-gradient acceleration in periodic structures driven by a pulse-front-tilted laser](./10-1103-q1y7-w87y/README.md) | Physical Review Applied 26, 044091 | [10.1103/q1y7-w87y](https://doi.org/10.1103/q1y7-w87y) |
+| 2026-10-31 | [NEOPIC: A Neural Operator Framework for Particle-based Kinetic Plasma Simulations](./arxiv-2610-40528/README.md) | arXiv preprint | [10.48550/arXiv.2610.40528](https://doi.org/10.48550/arXiv.2610.40528) |
+| 2026-10-31 | [High-Repetition-Rate Laser-Driven Fast Neutron Generation from Planar Liquid Heavy Water Jets](./arxiv-2610-38931/README.md) | arXiv preprint | [10.48550/arXiv.2610.38931](https://doi.org/10.48550/arXiv.2610.38931) |
 | 2026-10-30 | [Pyrolysis-Dependent Uncollided Neutron Transmission in Date-Palm Biochar/Epoxy Composites: A GEANT4 Study with 2 MeV and Cf-252 Neutrons](./10-3390-polym18212687/README.md) | Polymers 18, 2687 | [10.3390/polym18212687](https://doi.org/10.3390/polym18212687) |
 | 2026-10-30 | [Identification of Magnetic Reconnection in Plasma Turbulence Using a Dual-branch Lightweight Hybrid Convolutional Neural Network](./10-3847-1538-4365-aeaa32/README.md) | The Astrophysical Journal Supplement Series 287, 26 | [10.3847/1538-4365/aeaa32](https://doi.org/10.3847/1538-4365/aeaa32) |
 | 2026-10-30 | [Circular-mode optics for high-intensity beams and high-luminosity colliders](./10-1103-1drd-x8kp/README.md) | Physical Review Accelerators and Beams 29, 103202 | [10.1103/1drd-x8kp](https://doi.org/10.1103/1drd-x8kp) |

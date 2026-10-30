@@ -2,11 +2,14 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：161 篇
-- 索引更新时间：2026-10-30
+- 当前收录：164 篇
+- 索引更新时间：2026-10-31
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-31 | [Differentiable control of laser–plasma experiments with conditional diffusion models](../papers/10-1088-2632-2153-aeb79a/README.md) | Machine Learning: Science and Technology 7, 065001 | [笔记](../daily/2026-10-31/notes/Mracek et al. - 2026 - Differentiable laser plasma control.md) |
+| 2026-10-31 | [Generation of attosecond electron bunches via high-gradient acceleration in periodic structures driven by a pulse-front-tilted laser](../papers/10-1103-q1y7-w87y/README.md) | Physical Review Applied 26, 044091 | [笔记](../daily/2026-10-31/notes/Ding et al. - 2026 - Periodic structure attosecond electrons.md) |
+| 2026-10-31 | [High-Repetition-Rate Laser-Driven Fast Neutron Generation from Planar Liquid Heavy Water Jets](../papers/arxiv-2610-38931/README.md) | arXiv preprint | [笔记](../daily/2026-10-31/notes/Treffert et al. - 2026 - Liquid heavy water fast neutrons.md) |
 | 2026-10-29 | [Spatiospectral conditioning of laser-plasma-accelerated electron beams using electromagnetic solenoids](../papers/10-1103-2dby-29s7/README.md) | Physical Review Accelerators and Beams 29, 104602 | [笔记](../daily/2026-10-29/notes/Ambat et al. - 2026 - Solenoid spatiospectral electron beam conditioning.md) |
 | 2026-10-28 | [Operator Formalism for Laser–Plasma Mode Coupling](../papers/10-3390-axioms15110800/README.md) | Axioms 15(11), 800 | [笔记](../daily/2026-10-28/notes/Behtouei et al. - 2026 - Operator laser plasma mode coupling.md) |
 | 2026-10-28 | [Bright Compton source based on the interaction of an ultraintense laser pulse with a relativistically transparent foil and a plasma mirror](../papers/arxiv-2610-35039/README.md) | arXiv preprint | [笔记](../daily/2026-10-28/notes/Chekmareva and Korzhimanov - 2026 - Transparent foil Compton source.md) |

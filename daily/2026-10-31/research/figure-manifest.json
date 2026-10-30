@@ -1,0 +1,237 @@
+{
+  "total_key_pages": 40,
+  "reviewed_pdf_pages": {
+    "diffusion": [
+      2,
+      5,
+      8,
+      11,
+      12,
+      13,
+      14,
+      16
+    ],
+    "neutron": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "neopic": [
+      1,
+      13,
+      17,
+      22,
+      28,
+      47,
+      48,
+      51,
+      54,
+      58,
+      60,
+      61,
+      64,
+      68
+    ],
+    "attosecond": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  "original_excerpts": 12,
+  "figures": [
+    {
+      "key": "diffusion",
+      "path": "daily/2026-10-31/images/diffusion/figure-4-target-fit.png",
+      "source_pdf": "daily/2026-10-31/pdfs/Mracek et al. - 2026 - Differentiable laser plasma control.pdf",
+      "pdf_page": 12,
+      "bbox_points": [
+        115,
+        58,
+        550,
+        305
+      ],
+      "figure": "4",
+      "sha256": "ed5167ff25231b565bc4213fc9e51bb1adc66752032ef26383ebfaca7bb447bd",
+      "visually_reviewed": true
+    },
+    {
+      "key": "diffusion",
+      "path": "daily/2026-10-31/images/diffusion/table-3-optimizer-comparison.png",
+      "source_pdf": "daily/2026-10-31/pdfs/Mracek et al. - 2026 - Differentiable laser plasma control.pdf",
+      "pdf_page": 13,
+      "bbox_points": [
+        115,
+        55,
+        553,
+        318
+      ],
+      "figure": "Table3",
+      "sha256": "6fae7c37f98f49258e744faf4f7245e9175c30f047bcb958aabe31be6ec77d3b",
+      "visually_reviewed": true
+    },
+    {
+      "key": "diffusion",
+      "path": "daily/2026-10-31/images/diffusion/figure-6-loss-landscape.png",
+      "source_pdf": "daily/2026-10-31/pdfs/Mracek et al. - 2026 - Differentiable laser plasma control.pdf",
+      "pdf_page": 14,
+      "bbox_points": [
+        120,
+        55,
+        550,
+        378
+      ],
+      "figure": "6",
+      "sha256": "fcc04c2c457d9fee4a7875ce04d93d68a9e998ca47e3812a19c399bb2744db8d",
+      "visually_reviewed": true
+    },
+    {
+      "key": "neutron",
+      "path": "daily/2026-10-31/images/neutron/figure-4-source-angular-distance.png",
+      "source_pdf": "daily/2026-10-31/pdfs/Treffert et al. - 2026 - Liquid heavy water fast neutrons.pdf",
+      "pdf_page": 7,
+      "bbox_points": [
+        45,
+        50,
+        570,
+        466
+      ],
+      "figure": "4",
+      "sha256": "9daa3b76292abc40833aadbd31273423df519bfc3a601788a0611d91c41df2ef",
+      "visually_reviewed": true
+    },
+    {
+      "key": "neutron",
+      "path": "daily/2026-10-31/images/neutron/figure-5-simultaneous-spectra.png",
+      "source_pdf": "daily/2026-10-31/pdfs/Treffert et al. - 2026 - Liquid heavy water fast neutrons.pdf",
+      "pdf_page": 8,
+      "bbox_points": [
+        48,
+        48,
+        306,
+        499
+      ],
+      "figure": "5",
+      "sha256": "4d23c069f21c429dd970a195aa697e55971ef67caa1191d259c380223f121345",
+      "visually_reviewed": true
+    },
+    {
+      "key": "neutron",
+      "path": "daily/2026-10-31/images/neutron/table-2-conversion-estimates.png",
+      "source_pdf": "daily/2026-10-31/pdfs/Treffert et al. - 2026 - Liquid heavy water fast neutrons.pdf",
+      "pdf_page": 9,
+      "bbox_points": [
+        310,
+        55,
+        568,
+        213
+      ],
+      "figure": "TableII",
+      "sha256": "61f1463cd9d0aba062567f0339b57bc91e05dd371626fdde030c85d915e6ee75",
+      "visually_reviewed": true
+    },
+    {
+      "key": "neopic",
+      "path": "daily/2026-10-31/images/neopic/figure-2-particle-operator.png",
+      "source_pdf": "daily/2026-10-31/pdfs/Muralikrishnan et al. - 2026 - NEOPIC particle field operator.pdf",
+      "pdf_page": 17,
+      "bbox_points": [
+        125,
+        155,
+        485,
+        631
+      ],
+      "figure": "2",
+      "sha256": "b9834a06400ea2b495a0834b873754893dd7dcc1285baeb48b53798837a80374",
+      "visually_reviewed": true
+    },
+    {
+      "key": "neopic",
+      "path": "daily/2026-10-31/images/neopic/figure-3-particle-number-error.png",
+      "source_pdf": "daily/2026-10-31/pdfs/Muralikrishnan et al. - 2026 - NEOPIC particle field operator.pdf",
+      "pdf_page": 47,
+      "bbox_points": [
+        126,
+        275,
+        485,
+        492
+      ],
+      "figure": "3",
+      "sha256": "8ea4f0d40da1a76ec26110678ffbdb3a6e03aaae9a61e7348298277ddfdc0aa6",
+      "visually_reviewed": true
+    },
+    {
+      "key": "neopic",
+      "path": "daily/2026-10-31/images/neopic/figure-16-computational-cost.png",
+      "source_pdf": "daily/2026-10-31/pdfs/Muralikrishnan et al. - 2026 - NEOPIC particle field operator.pdf",
+      "pdf_page": 61,
+      "bbox_points": [
+        126,
+        400,
+        485,
+        665
+      ],
+      "figure": "16",
+      "sha256": "a48fbda701be8d4eabbbfcdfe5645b64533c17978cf256bb1897839b0895d70e",
+      "visually_reviewed": true
+    },
+    {
+      "key": "attosecond",
+      "path": "daily/2026-10-31/images/attosecond/figure-2-2d-electron-performance.png",
+      "source_pdf": "daily/2026-10-31/pdfs/Ding et al. - 2026 - Periodic structure attosecond electrons.pdf",
+      "pdf_page": 4,
+      "bbox_points": [
+        46,
+        48,
+        303,
+        223
+      ],
+      "figure": "2",
+      "sha256": "aa55ccee5a95c552deddfc137d91241ecef65657e35dd1c2ad98fbca38671d94",
+      "visually_reviewed": true
+    },
+    {
+      "key": "attosecond",
+      "path": "daily/2026-10-31/images/attosecond/figures-10-11-3d-comparison.png",
+      "source_pdf": "daily/2026-10-31/pdfs/Ding et al. - 2026 - Periodic structure attosecond electrons.pdf",
+      "pdf_page": 8,
+      "bbox_points": [
+        308,
+        48,
+        566,
+        517
+      ],
+      "figure": "10,11",
+      "sha256": "7f3484e06801c9bc78e78ef348a35877862b0093d473d8524a7efddf89dde21d",
+      "visually_reviewed": true
+    },
+    {
+      "key": "attosecond",
+      "path": "daily/2026-10-31/images/attosecond/figure-12-preplasma.png",
+      "source_pdf": "daily/2026-10-31/pdfs/Ding et al. - 2026 - Periodic structure attosecond electrons.pdf",
+      "pdf_page": 9,
+      "bbox_points": [
+        46,
+        48,
+        303,
+        220
+      ],
+      "figure": "12",
+      "sha256": "23844c68bb309d81d525344c22cec99db5baeb82a4e595bbdb2727c5f7fda50c",
+      "visually_reviewed": true
+    }
+  ],
+  "review_status": "All40 listed keypages and12 retained crops visually reviewed;cropped labels/captions corrected and rechecked"
+}

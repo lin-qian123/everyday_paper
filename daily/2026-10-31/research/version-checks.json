@@ -1,0 +1,130 @@
+{
+  "queried_at": "2026-10-31T07:12:54.201573+08:00",
+  "checks": [
+    {
+      "arxiv_id": "2610.38931",
+      "official_submission": "2026-10-28T21:19:05Z",
+      "official_journal_reference": null,
+      "exact_title_crossref_top3": [
+        {
+          "doi": "10.1088/1742-6596/688/1/012125",
+          "title": [
+            "Efficient neutron generation from solid-nanoparticle explosions driven by DPSSL-pumped high-repetition rate femtosecond laser pulse"
+          ],
+          "published": {
+            "date-parts": [
+              [
+                2016,
+                3
+              ]
+            ]
+          }
+        },
+        {
+          "doi": "10.1088/1361-6587/aab327",
+          "title": [
+            "Characterization of a high repetition-rate laser-driven short-pulsed neutron source"
+          ],
+          "published": {
+            "date-parts": [
+              [
+                2018,
+                3,
+                22
+              ]
+            ]
+          }
+        },
+        {
+          "doi": "10.3791/61130",
+          "title": [
+            "Cryogenic Liquid Jets for High Repetition Rate Discovery Science"
+          ],
+          "published": {
+            "date-parts": [
+              [
+                2020,
+                5,
+                9
+              ]
+            ]
+          }
+        }
+      ],
+      "conclusion": "No matching VOR verified; bounded query, not proof of global absence"
+    },
+    {
+      "arxiv_id": "2610.40528",
+      "official_submission": "2026-10-29T17:33:20Z",
+      "official_journal_reference": null,
+      "exact_title_crossref_top3": [
+        {
+          "doi": "10.1016/j.cpc.2025.109899",
+          "title": [
+            "Particle collisionality in scaled kinetic plasma simulations"
+          ],
+          "published": {
+            "date-parts": [
+              [
+                2026,
+                2
+              ]
+            ]
+          }
+        },
+        {
+          "doi": "10.2172/2005481",
+          "title": [
+            "Meshfree particle model for kinetic plasma simulations."
+          ],
+          "published": {
+            "date-parts": [
+              [
+                2022,
+                10,
+                1
+              ]
+            ]
+          }
+        },
+        {
+          "doi": "10.4208/cicp.090410.260410a",
+          "title": [
+            "Improved Unlike-Particle Collision Operator for delta-f Drift-Kinetic Particle Simulations"
+          ],
+          "published": {
+            "date-parts": [
+              [
+                2011
+              ]
+            ]
+          }
+        }
+      ],
+      "conclusion": "No matching VOR verified; bounded query, not proof of global absence"
+    },
+    {
+      "doi": "10.1088/2632-2153/aeb79a",
+      "publisher_pdf_page": 2,
+      "accepted_date": "2026-10-21",
+      "vor_published": "2026-10-30",
+      "journal": "Machine Learning: Science and Technology 7 065001",
+      "conclusion": "Official VOR confirmed in validated PDF, not Crossref date alone"
+    },
+    {
+      "doi": "10.1103/q1y7-w87y",
+      "publisher_pdf_page": 1,
+      "accepted_date": "2026-09-21",
+      "vor_published": "2026-10-29",
+      "journal": "Physical Review Applied 26 044091",
+      "conclusion": "Harvest401 recovered by correct official prapplied PDF via direct; no retry needed",
+      "rejected_helper_url": "https://journals.aps.org/prab/abstract/10.1103/q1y7-w87y",
+      "rejected_reason": "wrong journal path, no version claim based on it",
+      "arxiv_title_query": {
+        "matched_id": "2012.06408v1",
+        "same_work": false,
+        "reason": "Ferri/Horny/Fulop2020 different authors and wakefield scenario"
+      }
+    }
+  ]
+}

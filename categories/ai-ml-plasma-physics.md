@@ -2,11 +2,13 @@
 
 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。
 
-- 当前收录：87 篇
-- 索引更新时间：2026-10-30
+- 当前收录：89 篇
+- 索引更新时间：2026-10-31
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-10-31 | [Differentiable control of laser–plasma experiments with conditional diffusion models](../papers/10-1088-2632-2153-aeb79a/README.md) | Machine Learning: Science and Technology 7, 065001 | [笔记](../daily/2026-10-31/notes/Mracek et al. - 2026 - Differentiable laser plasma control.md) |
+| 2026-10-31 | [NEOPIC: A Neural Operator Framework for Particle-based Kinetic Plasma Simulations](../papers/arxiv-2610-40528/README.md) | arXiv preprint | [笔记](../daily/2026-10-31/notes/Muralikrishnan et al. - 2026 - NEOPIC particle field operator.md) |
 | 2026-10-30 | [Identification of Magnetic Reconnection in Plasma Turbulence Using a Dual-branch Lightweight Hybrid Convolutional Neural Network](../papers/10-3847-1538-4365-aeaa32/README.md) | The Astrophysical Journal Supplement Series 287, 26 | [笔记](../daily/2026-10-30/notes/Yin et al. - 2026 - DHCNN reconnection identification.md) |
 | 2026-10-29 | [Recovering Non-Maxwellian Velocity Distribution Functions from Collective Thomson Scattering Spectra Using Generalized Basis Representations](../papers/arxiv-2610-37516/README.md) | arXiv preprint | [笔记](../daily/2026-10-29/notes/Baker et al. - 2026 - Non Maxwellian Thomson VDF reconstruction.md) |
 | 2026-10-28 | [Accelerating high-fidelity gyrokinetic fusion simulations with iGENE](../papers/arxiv-2610-33561/README.md) | arXiv preprint | [笔记](../daily/2026-10-28/notes/Merlo et al. - 2026 - iGENE JAX gyrokinetic acceleration.md) |
