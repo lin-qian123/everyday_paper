@@ -1,0 +1,73 @@
+{
+  "successful_parses": [
+    {
+      "ok": true,
+      "source": "https://www.nature.com/articles/s41598-026-77789-8.pdf",
+      "task_id": "fdb7439e-f5e7-4cf9-ae00-6aea8deb55d7",
+      "state": "done",
+      "model_version": "pipeline",
+      "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-11-01/fdb7439e-f5e7-4cf9-ae00-6aea8deb55d7.zip",
+      "key": "scattering",
+      "local_markdown": "daily/2026-11-01/pdfs/Sans-Planell et al. - 2026 - Calibration independent neutron imaging.mineru.txt",
+      "bytes": 30273,
+      "sha256": "60ce59cc14482d100fe79951a79e0f73b00f223a58bda7840d03d1a2b7b03a06",
+      "source_matches_primary_pdf": true,
+      "verification": "title and results crosschecked against local validated primary PDF; pits parser source is corresponding author arXiv, not VOR"
+    },
+    {
+      "ok": true,
+      "source": "https://arxiv.org/pdf/2610.38089v1",
+      "task_id": "5bd33047-a35e-418e-b21d-6ef87f3741dc",
+      "state": "done",
+      "model_version": "pipeline",
+      "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-11-01/5bd33047-a35e-418e-b21d-6ef87f3741dc.zip",
+      "key": "pits",
+      "local_markdown": "daily/2026-11-01/pdfs/Lin et al. - 2026 - Automated CR39 pit detection.author-arxiv-mineru.txt",
+      "bytes": 35141,
+      "sha256": "cecda326df06c9c2f0602cacbd24f930948d51489e55ada45f71a5edade28474",
+      "source_matches_primary_pdf": false,
+      "verification": "title and results crosschecked against local validated primary PDF; pits parser source is corresponding author arXiv, not VOR"
+    },
+    {
+      "ok": true,
+      "source": "https://arxiv.org/pdf/2610.38063v1",
+      "task_id": "3fa2e62b-8baf-414a-abb0-722e9a9d4415",
+      "state": "done",
+      "model_version": "pipeline",
+      "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-11-01/3fa2e62b-8baf-414a-abb0-722e9a9d4415.zip",
+      "key": "calibration",
+      "local_markdown": "daily/2026-11-01/pdfs/Lin et al. - 2026 - In situ scintillator absolute calibration.mineru.txt",
+      "bytes": 25804,
+      "sha256": "4310199e5c804f976b3a8dc569da76723517ea9e4dc329274496d37c47275ada",
+      "source_matches_primary_pdf": true,
+      "verification": "title and results crosschecked against local validated primary PDF; pits parser source is corresponding author arXiv, not VOR"
+    },
+    {
+      "ok": true,
+      "source": "https://arxiv.org/pdf/2610.39763v1",
+      "task_id": "3d65b85e-eafc-4d83-8ebf-30225275fbe9",
+      "state": "done",
+      "model_version": "pipeline",
+      "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-11-01/3d65b85e-eafc-4d83-8ebf-30225275fbe9.zip",
+      "key": "spectrometer",
+      "local_markdown": "daily/2026-11-01/pdfs/Myllymaki et al. - 2026 - NCT WES neutron spectrometry.mineru.txt",
+      "bytes": 47827,
+      "sha256": "a736586fcae7517738d66a41609223ff195173844fa620f0fca4e653e4be9692",
+      "source_matches_primary_pdf": true,
+      "verification": "title and results crosschecked against local validated primary PDF; pits parser source is corresponding author arXiv, not VOR"
+    }
+  ],
+  "aip_vor_attempt": {
+    "ok": false,
+    "items": [],
+    "errors": [
+      {
+        "source": "https://pubs.aip.org/aip/adv/article-pdf/doi/10.1063/5.0338529/21087768/075051_1_5.0338529.pdf",
+        "error": "MinerU task failed: failed to read file, please check if the file is corrupted and try uploading again",
+        "next_step": "If this is a protected page, try another accessible mirror URL."
+      }
+    ]
+  },
+  "fallback": "AIP VOR read through independent local layout text and rendering; alternate arXiv parse is auxiliary only",
+  "supplement": "local layout and rendering only, no MinerU attempt"
+}

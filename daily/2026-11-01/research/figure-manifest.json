@@ -1,0 +1,164 @@
+{
+  "reviewed_pdf_pages": {
+    "scattering": [
+      1,
+      3,
+      4,
+      5,
+      6
+    ],
+    "pits": [
+      2,
+      6,
+      7,
+      8
+    ],
+    "calibration": [
+      1,
+      4
+    ],
+    "spectrometer": [
+      1,
+      7,
+      8,
+      9,
+      12
+    ],
+    "pits-supplement": [
+      1,
+      2
+    ]
+  },
+  "total_key_pages": 18,
+  "original_excerpts": 8,
+  "figures": [
+    {
+      "key": "scattering",
+      "path": "daily/2026-11-01/images/scattering/figure-2-correction-flow.png",
+      "source_pdf": "daily/2026-11-01/pdfs/Sans-Planell et al. - 2026 - Calibration independent neutron imaging.pdf",
+      "pdf_page": 3,
+      "bbox_points": [
+        153,
+        466,
+        556,
+        741
+      ],
+      "figure": "Fig.2",
+      "sha256": "2f3dd188e6f5664478d351a1279dd2bbaf0daca1cc56714fb2a9cbff16c8f1ef",
+      "transformation": "original PDF crop, no plot content modified",
+      "visually_reviewed": true
+    },
+    {
+      "key": "scattering",
+      "path": "daily/2026-11-01/images/scattering/figure-4-mixture-quantification.png",
+      "source_pdf": "daily/2026-11-01/pdfs/Sans-Planell et al. - 2026 - Calibration independent neutron imaging.pdf",
+      "pdf_page": 5,
+      "bbox_points": [
+        72,
+        451,
+        555,
+        700
+      ],
+      "figure": "Fig.4",
+      "sha256": "a9b1951cdb668ce468d73d13837897640c9281c3a61fc298af9f0d3ad2937f4d",
+      "transformation": "original PDF crop, no plot content modified",
+      "visually_reviewed": true
+    },
+    {
+      "key": "pits",
+      "path": "daily/2026-11-01/images/pits/figure-6-manual-algorithm.png",
+      "source_pdf": "daily/2026-11-01/pdfs/Lin et al. - 2026 - Automated CR39 pit detection.pdf",
+      "pdf_page": 6,
+      "bbox_points": [
+        40,
+        370,
+        554,
+        694
+      ],
+      "figure": "Fig.6",
+      "sha256": "455845ba74ea0c38d789283a8406ca10d7280016f9b58b70411242968c05ec77",
+      "transformation": "original PDF crop, no plot content modified",
+      "visually_reviewed": true
+    },
+    {
+      "key": "pits",
+      "path": "daily/2026-11-01/images/pits/figure-7-energy-calibration.png",
+      "source_pdf": "daily/2026-11-01/pdfs/Lin et al. - 2026 - Automated CR39 pit detection.pdf",
+      "pdf_page": 7,
+      "bbox_points": [
+        306,
+        80,
+        554,
+        550
+      ],
+      "figure": "Fig.7",
+      "sha256": "e3966af43ee2d0fa18f82fc310949b2fbe36786f1ab08089d8428f63ce2c5bb5",
+      "transformation": "original PDF crop, no plot content modified",
+      "visually_reviewed": true
+    },
+    {
+      "key": "calibration",
+      "path": "daily/2026-11-01/images/calibration/figure-3-proton-photon-density.png",
+      "source_pdf": "daily/2026-11-01/pdfs/Lin et al. - 2026 - In situ scintillator absolute calibration.pdf",
+      "pdf_page": 4,
+      "bbox_points": [
+        47,
+        49,
+        306,
+        501
+      ],
+      "figure": "Fig.3",
+      "sha256": "a9ec67299e63b5a07c8a80493e82f9f7e6f98f8539ebbc92effca1b1ea975cdf",
+      "transformation": "original PDF crop, no plot content modified",
+      "visually_reviewed": true
+    },
+    {
+      "key": "calibration",
+      "path": "daily/2026-11-01/images/calibration/figure-4-response-residual.png",
+      "source_pdf": "daily/2026-11-01/pdfs/Lin et al. - 2026 - In situ scintillator absolute calibration.pdf",
+      "pdf_page": 4,
+      "bbox_points": [
+        313,
+        49,
+        570,
+        533
+      ],
+      "figure": "Fig.4",
+      "sha256": "97549178962594daa3721b63c7b7a26f2124b662aeab690bb3c66d7101629c72",
+      "transformation": "original PDF crop, no plot content modified",
+      "visually_reviewed": true
+    },
+    {
+      "key": "spectrometer",
+      "path": "daily/2026-11-01/images/spectrometer/figure-7-fluence-comparison.png",
+      "source_pdf": "daily/2026-11-01/pdfs/Myllymaki et al. - 2026 - NCT WES neutron spectrometry.pdf",
+      "pdf_page": 9,
+      "bbox_points": [
+        94,
+        218,
+        501,
+        469
+      ],
+      "figure": "Fig.7",
+      "sha256": "3ccb5235a194b6d648720a44f433cdf893a54b5b74b1964b0186cb62ab61a8ce",
+      "transformation": "original PDF crop, no plot content modified",
+      "visually_reviewed": true
+    },
+    {
+      "key": "spectrometer",
+      "path": "daily/2026-11-01/images/spectrometer/figure-A10-prior-dependence.png",
+      "source_pdf": "daily/2026-11-01/pdfs/Myllymaki et al. - 2026 - NCT WES neutron spectrometry.pdf",
+      "pdf_page": 12,
+      "bbox_points": [
+        60,
+        496,
+        537,
+        663
+      ],
+      "figure": "Fig.A.10",
+      "sha256": "10c742a0851a47d3597feca0bdf7da9dd7359b77692d009755e0e678375878df",
+      "transformation": "original PDF crop, no plot content modified",
+      "visually_reviewed": true
+    }
+  ]
+}

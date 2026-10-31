@@ -1,10 +1,14 @@
 # 论文总索引
 
-- 当前入库论文：517 篇
-- 索引更新时间：2026-10-31
+- 当前入库论文：521 篇
+- 索引更新时间：2026-11-01
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-11-01 | [Material calibration-independent neutron scattering corrections for quantitative imaging](./10-1038-s41598-026-77789-8/README.md) | Scientific Reports | [10.1038/s41598-026-77789-8](https://doi.org/10.1038/s41598-026-77789-8) |
+| 2026-11-01 | [Neutron spectrometry of (p,n) based neutron fields at the University of Helsinki using the NCT-WES single-moderator directional spectrometer](./arxiv-2610-39763/README.md) | arXiv preprint | [10.48550/arXiv.2610.39763](https://doi.org/10.48550/arXiv.2610.39763) |
+| 2026-11-01 | [Absolute calibration of scintillators for laser-driven ion spectroscopy using in situ CR-39 sampling detectors](./arxiv-2610-38063/README.md) | arXiv preprint | [10.48550/arXiv.2610.38063](https://doi.org/10.48550/arXiv.2610.38063) |
+| 2026-11-01 | [Automated CR-39 pit detection for energy and angular characterization of laser-driven ion beams](./10-1063-5-0338529/README.md) | AIP Advances | [10.1063/5.0338529](https://doi.org/10.1063/5.0338529) |
 | 2026-10-31 | [Differentiable control of laser–plasma experiments with conditional diffusion models](./10-1088-2632-2153-aeb79a/README.md) | Machine Learning: Science and Technology 7, 065001 | [10.1088/2632-2153/aeb79a](https://doi.org/10.1088/2632-2153/aeb79a) |
 | 2026-10-31 | [Generation of attosecond electron bunches via high-gradient acceleration in periodic structures driven by a pulse-front-tilted laser](./10-1103-q1y7-w87y/README.md) | Physical Review Applied 26, 044091 | [10.1103/q1y7-w87y](https://doi.org/10.1103/q1y7-w87y) |
 | 2026-10-31 | [NEOPIC: A Neural Operator Framework for Particle-based Kinetic Plasma Simulations](./arxiv-2610-40528/README.md) | arXiv preprint | [10.48550/arXiv.2610.40528](https://doi.org/10.48550/arXiv.2610.40528) |

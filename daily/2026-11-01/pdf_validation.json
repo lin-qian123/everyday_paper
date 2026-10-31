@@ -1,0 +1,117 @@
+{
+  "validated_at": "2026-11-01T07:02:10.168351+08:00",
+  "pdfs": [
+    {
+      "key": "scattering",
+      "path": "daily/2026-11-01/pdfs/Sans-Planell et al. - 2026 - Calibration independent neutron imaging.pdf",
+      "sha256": "181aee868d4a8cc017c620478f5729497cf5d86cc9debef6d76af88238759862",
+      "bytes": 1930786,
+      "pages": 7,
+      "per_page_text_chars": [
+        4561,
+        3132,
+        4554,
+        5959,
+        1210,
+        4834,
+        4593
+      ],
+      "layout_path": "daily/2026-11-01/pdfs/Sans-Planell et al. - 2026 - Calibration independent neutron imaging.txt",
+      "layout_bytes": 41157,
+      "file_type": "PDF document, version 1.7",
+      "pdfinfo": "Creator:         Adobe InDesign 18.3 (Windows)\nProducer:        Adobe PDF Library 17.0; modified using iText® 5.5.13.4 ©2000-2024 iText Group NV (SPRINGER SBM; licensed version)\nCreationDate:    Fri Oct 30 23:19:04 2026 CST\nModDate:         Sat Oct 31 00:23:20 2026 CST\nCustom Metadata: yes\nMetadata Stream: yes\nTagged:          yes\nUserProperties:  no\nSuspects:        no\nForm:            none\nJavaScript:      no\nPages:           7\nEncrypted:       no\nPage size:       595.276 x 782.362 pts\nPage rot:        0\nFile size:       1930786 bytes\nOptimized:       no\nPDF version:     1.7\n"
+    },
+    {
+      "key": "pits",
+      "path": "daily/2026-11-01/pdfs/Lin et al. - 2026 - Automated CR39 pit detection.pdf",
+      "sha256": "25567629002ea33db5478690565e367199b95ecdb88ea6eb97b803063c8e1914",
+      "bytes": 10987626,
+      "pages": 9,
+      "per_page_text_chars": [
+        856,
+        4172,
+        6361,
+        3755,
+        3459,
+        1144,
+        4798,
+        3542,
+        5197
+      ],
+      "layout_path": "daily/2026-11-01/pdfs/Lin et al. - 2026 - Automated CR39 pit detection.txt",
+      "layout_bytes": 52248,
+      "file_type": "PDF document, version 1.5",
+      "pdfinfo": "Creator:         LaTeX with hyperref package\nProducer:        pdfTeX; modified using iTextSharp.LGPLv2.Core 3.7.4.0\nCreationDate:    Mon Jul 27 21:51:36 2026 CST\nModDate:         Sun Nov  1 07:01:43 2026 CST\nCustom Metadata: yes\nMetadata Stream: yes\nTagged:          yes\nUserProperties:  no\nSuspects:        no\nForm:            none\nJavaScript:      no\nPages:           9\nEncrypted:       no\nPage size:       594 x 792 pts\nPage rot:        0\nFile size:       10987626 bytes\nOptimized:       no\nPDF version:     1.5\nPDF subtype:    PDF/A-1b:2005\n    Title:         ISO 19005 - Electronic document file format for long-term preservation (PDF/A)\n    Abbreviation:  PDF/A-1\n    Subtitle:      Part 1: Use of PDF 1.4\n    Standard:      ISO 19005-1\n    Conformance:   Level B, Basic\n"
+    },
+    {
+      "key": "calibration",
+      "path": "daily/2026-11-01/pdfs/Lin et al. - 2026 - In situ scintillator absolute calibration.pdf",
+      "sha256": "3113cab51f328cd73047e08b882677b0a7bff3a9b084b85a71e26ee05e76392f",
+      "bytes": 1694777,
+      "pages": 5,
+      "per_page_text_chars": [
+        5924,
+        5286,
+        5403,
+        3074,
+        4085
+      ],
+      "layout_path": "daily/2026-11-01/pdfs/Lin et al. - 2026 - In situ scintillator absolute calibration.txt",
+      "layout_bytes": 34602,
+      "file_type": "PDF document, version 1.7",
+      "pdfinfo": "Title:           Absolute calibration of scintillators for laser-driven ion spectroscopy using in situ CR-39 sampling detectors\nAuthor:          Wei Lin; Tzu-Yao Huang; Shih-Fan Yang; Shih-Wei Wang; Kuo-Yu Hsiao; Chun-Han Chen; Yan-Syu Liu; Jun-Yi Chen; Ya-Po Yang; Chen-Kang Huang; Hsu-hsin Chu; Chih-Hao Pai\nCreator:         arXiv GenPDF (tex2pdf:07e334b)\nProducer:        pikepdf 8.15.1\nCustom Metadata: yes\nMetadata Stream: yes\nTagged:          no\nUserProperties:  no\nSuspects:        no\nForm:            none\nJavaScript:      no\nPages:           5\nEncrypted:       no\nPage size:       612 x 792 pts (letter)\nPage rot:        0\nFile size:       1694777 bytes\nOptimized:       no\nPDF version:     1.7\n"
+    },
+    {
+      "key": "spectrometer",
+      "path": "daily/2026-11-01/pdfs/Myllymaki et al. - 2026 - NCT WES neutron spectrometry.pdf",
+      "sha256": "966806a1194dfcbbdd9d2cb65259e72cf8850eef0d1b257fc4db2d6823e7b35f",
+      "bytes": 7499436,
+      "pages": 12,
+      "per_page_text_chars": [
+        3974,
+        5400,
+        4037,
+        4698,
+        2731,
+        3911,
+        4011,
+        2987,
+        2237,
+        4210,
+        4069,
+        692
+      ],
+      "layout_path": "daily/2026-11-01/pdfs/Myllymaki et al. - 2026 - NCT WES neutron spectrometry.txt",
+      "layout_bytes": 63116,
+      "file_type": "PDF document, version 1.7",
+      "pdfinfo": "Title:           Neutron spectrometry of (p,n) based neutron fields at the University of Helsinki using the NCT-WES single-moderator directional spectrometer\nAuthor:          M. Myllymäki; S. Saariokari; A. Perkkiö; H. Badran; R. Bedogni; E. Brücken; A. I. Castro Campoy; L. Russo; F. L. Frigi; J. M. Gomez-Ros; K. Helariutta; T. Hildén; J. Huikari; J. Lapa; A. Pietropaolo; M. Väänänen; T. Siiskonen\nCreator:         arXiv GenPDF (tex2pdf:07e334b)\nProducer:        pikepdf 8.15.1\nCustom Metadata: yes\nMetadata Stream: yes\nTagged:          no\nUserProperties:  no\nSuspects:        no\nForm:            none\nJavaScript:      no\nPages:           12\nEncrypted:       no\nPage size:       595.276 x 841.89 pts (A4)\nPage rot:        0\nFile size:       7499436 bytes\nOptimized:       no\nPDF version:     1.7\n"
+    },
+    {
+      "key": "pits-supplement",
+      "path": "daily/2026-11-01/pdfs/Lin et al. - 2026 - Automated CR39 supplementary material.pdf",
+      "sha256": "6dfd341888c2a08d9c983a44c0e6acd59233b02a7ef80a64eb284967d5d30610",
+      "bytes": 290723,
+      "pages": 3,
+      "per_page_text_chars": [
+        3622,
+        4018,
+        446
+      ],
+      "layout_path": "daily/2026-11-01/pdfs/Lin et al. - 2026 - Automated CR39 supplementary material.txt",
+      "layout_bytes": 13674,
+      "file_type": "PDF document, version 1.7",
+      "pdfinfo": "Creator:         TeX\nProducer:        pdfTeX-1.40.28\nCreationDate:    Mon Jul 13 06:33:44 2026 CST\nModDate:         Mon Jul 13 06:33:44 2026 CST\nCustom Metadata: yes\nMetadata Stream: no\nTagged:          no\nUserProperties:  no\nSuspects:        no\nForm:            none\nJavaScript:      no\nPages:           3\nEncrypted:       no\nPage size:       612 x 792 pts (letter)\nPage rot:        0\nFile size:       290723 bytes\nOptimized:       no\nPDF version:     1.7\n"
+    }
+  ],
+  "total_pdfs": 5,
+  "total_pages": 36,
+  "total_bytes": 22403348,
+  "total_layout_bytes": 204797,
+  "checks": [
+    "PDF magic",
+    "file type",
+    "SHA256",
+    "pdfinfo pypdf pymupdf page agreement",
+    "all page readable text"
+  ]
+}

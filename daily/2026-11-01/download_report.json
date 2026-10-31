@@ -1,0 +1,49 @@
+{
+  "downloaded_at": "2026-11-01T07:01:48.591017+08:00",
+  "items": [
+    {
+      "key": "scattering",
+      "ok": true,
+      "output": "daily/2026-11-01/pdfs/Sans-Planell et al. - 2026 - Calibration independent neutron imaging.pdf",
+      "source_url": "https://www.nature.com/articles/s41598-026-77789-8.pdf",
+      "mode": "direct",
+      "attempts": [
+        "[env-proxy] https://www.nature.com/articles/s41598-026-77789-8.pdf -> not pdf (content-type=text/html; charset=utf-8)"
+      ]
+    },
+    {
+      "key": "pits",
+      "ok": true,
+      "output": "daily/2026-11-01/pdfs/Lin et al. - 2026 - Automated CR39 pit detection.pdf",
+      "source_url": "https://pubs.aip.org/aip/adv/article-pdf/doi/10.1063/5.0338529/21087768/075051_1_5.0338529.pdf",
+      "mode": "direct",
+      "attempts": [
+        "[env-proxy] https://pubs.aip.org/aip/adv/article-pdf/doi/10.1063/5.0338529/21087768/075051_1_5.0338529.pdf -> HTTP 403"
+      ]
+    },
+    {
+      "key": "calibration",
+      "ok": true,
+      "output": "daily/2026-11-01/pdfs/Lin et al. - 2026 - In situ scintillator absolute calibration.pdf",
+      "source_url": "https://arxiv.org/pdf/2610.38063v1",
+      "mode": "env-proxy",
+      "attempts": []
+    },
+    {
+      "key": "spectrometer",
+      "ok": true,
+      "output": "daily/2026-11-01/pdfs/Myllymaki et al. - 2026 - NCT WES neutron spectrometry.pdf",
+      "source_url": "https://arxiv.org/pdf/2610.39763v1",
+      "mode": "env-proxy",
+      "attempts": []
+    },
+    {
+      "key": "pits-supplement",
+      "ok": true,
+      "output": "daily/2026-11-01/pdfs/Lin et al. - 2026 - Automated CR39 supplementary material.pdf",
+      "source_url": "https://arxiv.org/src/2610.38089v1/anc/supplementary-material.pdf",
+      "mode": "env-proxy",
+      "attempts": []
+    }
+  ]
+}

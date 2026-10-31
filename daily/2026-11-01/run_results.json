@@ -1,0 +1,75 @@
+{
+  "run_date": "2026-11-01",
+  "created_at": "2026-11-01T07:13:19.763341+08:00",
+  "status": "fulltext_ingested_local_validation_passed",
+  "processed_before": 517,
+  "processed_after": 521,
+  "retry_before": 45,
+  "retry_after": 45,
+  "added_dois": [
+    "10.1038/s41598-026-77789-8",
+    "10.1063/5.0338529",
+    "10.48550/arXiv.2610.38063",
+    "10.48550/arXiv.2610.39763"
+  ],
+  "new_retry": [],
+  "recovered_retry": [],
+  "main_pdfs": 4,
+  "main_pages": 33,
+  "supplement_pdfs": 1,
+  "supplement_pages": 3,
+  "pdfs": 5,
+  "pages": 36,
+  "pdf_bytes": 22403348,
+  "layout_text_bytes": 204797,
+  "visual_inspection": {
+    "total_key_pages": 18,
+    "retained_original_excerpts": 8,
+    "manifest": "research/figure-manifest.json"
+  },
+  "mineru": {
+    "main_primary_sources_success": 3,
+    "alternate_author_arxiv_success": 1,
+    "AIP_VOR_failure": 1,
+    "supplement": "not attempted"
+  },
+  "prior_processed_objects_unchanged": true,
+  "retry_objects_unchanged": true,
+  "scientific_boundaries": [
+    "No author simulations, inverse analysis, code or experiment rerun",
+    "July28 formal CR39 work is not an October publication; two Lin works share team and method chain",
+    "Neutron imaging residual far-detector scatter and geometric calibration retained",
+    "Scintillator fit errors omit optical conversion scale error; CsI measured range only about2.1MeV",
+    "NCTWES/LB6411 low-energy absolute fluence disagreement, unit convention and prior sensitivity unresolved",
+    "No new laser converter photonuclear isotope end-to-end or clinical/shielding acceptance"
+  ],
+  "publication_evidence_policy": "After final checks commit audited scope; compare committed blobs then push and verify fresh HEAD==origin/master==ls-remote. Immutable SHA recorded in automation memory.",
+  "validated_at": "2026-11-01T07:15:19.197628+08:00",
+  "validation": {
+    "index_builder": "python scripts/build_indexes.py: Indexed521papers across9categories",
+    "tests": "PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q: 7passed in4.96s",
+    "scoped_audit": {
+      "audited_at": "2026-11-01T07:14:37.010795+08:00",
+      "mode": "working",
+      "scope_files": 42,
+      "markdown_files": 24,
+      "local_links_resolved": 3225,
+      "json_jsonl_files": 10,
+      "ledger": 521,
+      "retry": 45,
+      "unique_nonempty_dois": 517,
+      "unique_normalized_titles": 521,
+      "unique_arxiv_ids": 346,
+      "prior517_objects_unchanged": true,
+      "all45_retry_objects_unchanged": true,
+      "decoded_hashmatched_pngs": 8,
+      "local_ignored_fulltext_assets": 14,
+      "preexisting_AGENTS_preserved_excluded": true,
+      "errors": []
+    },
+    "diff_check": "git diff --check and git diff --cached --check passed",
+    "user_change": "pre-existing AGENTS.md byte-identical and excluded",
+    "ignored_assets": "5 PDFs,5 layout texts,4 MinerU bodies retained locally/Gitignored",
+    "audit_note": "Four original excerpt caption bounds were enlarged after initial inspection; final8crops visually checked and hashmatched."
+  }
+}
