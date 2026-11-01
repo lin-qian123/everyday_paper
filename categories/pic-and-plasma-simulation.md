@@ -2,11 +2,13 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：222 篇
-- 索引更新时间：2026-11-01
+- 当前收录：224 篇
+- 索引更新时间：2026-11-02
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-02 | [A semi-implicit unified gas-kinetic wave-particle method with energy-conserving electromagnetic coupling for multiscale plasmas](../papers/arxiv-2610-40206/README.md) | arXiv preprint | [笔记](../daily/2026-11-02/notes/Wang et al. - 2026 - Semi implicit UGKWP multiscale plasmas.md) |
+| 2026-11-02 | [Bayesian optimization of longitudinally aligned CNT targets for 800 nm laser wakefield acceleration in the bubble regime](../papers/arxiv-2610-38810/README.md) | arXiv preprint | [笔记](../daily/2026-11-02/notes/Nunes et al. - 2026 - Bayesian optimized CNT targets.md) |
 | 2026-10-31 | [Generation of attosecond electron bunches via high-gradient acceleration in periodic structures driven by a pulse-front-tilted laser](../papers/10-1103-q1y7-w87y/README.md) | Physical Review Applied 26, 044091 | [笔记](../daily/2026-10-31/notes/Ding et al. - 2026 - Periodic structure attosecond electrons.md) |
 | 2026-10-31 | [NEOPIC: A Neural Operator Framework for Particle-based Kinetic Plasma Simulations](../papers/arxiv-2610-40528/README.md) | arXiv preprint | [笔记](../daily/2026-10-31/notes/Muralikrishnan et al. - 2026 - NEOPIC particle field operator.md) |
 | 2026-10-30 | [Pyrolysis-Dependent Uncollided Neutron Transmission in Date-Palm Biochar/Epoxy Composites: A GEANT4 Study with 2 MeV and Cf-252 Neutrons](../papers/10-3390-polym18212687/README.md) | Polymers 18, 2687 | [笔记](../daily/2026-10-30/notes/Alharbi - 2026 - Biochar epoxy uncollided neutron transmission.md) |
@@ -131,7 +133,7 @@ PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性�
 | 2026-08-10 | [SafeDivertor: Faithful Divertor Heat Flux Reconstruction from Macroscopic Plasma State Signals via Time-Frequency Prior Exploitation](../papers/arxiv-2608-05669/README.md) | arXiv preprint | [笔记](../daily/2026-08-10/notes/Si et al. - 2026 - SafeDivertor heat flux reconstruction.md) |
 | 2026-08-10 | [Millisecond-Scale Neural Operator Surrogates for Double-Null Free-Boundary Grad-Shafranov Equilibria](../papers/arxiv-2608-05555/README.md) | arXiv preprint | [笔记](../daily/2026-08-10/notes/Krastev - 2026 - Neural operator Grad Shafranov equilibria.md) |
 | 2026-08-06 | [Development of Thomson parabola spectrometer for diagnostics of ions driven by ultrahigh intensity laser: Simulations and numerical analysis](../papers/arxiv-2608-03969/README.md) | arXiv preprint | [笔记](../daily/2026-08-06/notes/Mehta et al. - 2026 - Thomson parabola laser ion diagnostics.md) |
-| 2026-08-04 | [A Neural Operator Closure for Landau Damping in Electrostatic Plasma](../papers/arxiv-2607-29364/README.md) | arXiv preprint (under consideration for Journal of Plasma Physics) | [笔记](../daily/2026-08-04/notes/Burles et al. - 2026 - Neural operator Landau damping closure.md) |
+| 2026-08-04 | [A Neural Operator Closure for Landau Damping in Electrostatic Plasma](../papers/10-1017-s0022377826102517/README.md) | Journal of Plasma Physics 92, E149 | [笔记](../daily/2026-08-04/notes/Burles et al. - 2026 - Neural operator Landau damping closure.md) |
 | 2026-08-02 | [Quasi-static transverse electric field driven electron acceleration in relativistic laser matter interaction](../papers/arxiv-2607-26252/README.md) | arXiv preprint | [笔记](../daily/2026-08-02/notes/Parab et al. - 2026 - Transverse field electron acceleration.md) |
 | 2026-08-01 | [Variational Formulation of a Hybrid Kinetic and Gyrokinetic Model for Astrophysical and Laboratory Plasmas](../papers/arxiv-2607-28305/README.md) | arXiv preprint | [笔记](../daily/2026-08-01/notes/deOliveira-Lopes et al. - 2026 - Hybrid kinetic gyrokinetic model.md) |
 | 2026-08-01 | [LoKI-GM: a global model framework for plasma chemistry studies](../papers/arxiv-2607-27234/README.md) | arXiv preprint (submitted to Plasma Sources Science and Technology) | [笔记](../daily/2026-08-01/notes/Alves et al. - 2026 - LoKI-GM plasma chemistry.md) |

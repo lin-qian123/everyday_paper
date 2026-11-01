@@ -1,0 +1,191 @@
+{
+  "run_date": "2026-11-02",
+  "searched_at": "2026-11-02T07:09:36.048679+08:00",
+  "crossref": {
+    "window": "2026-10-31 through 2026-11-02, publication-date filter; month-only dates not new-online evidence",
+    "queries": [
+      {
+        "query": "laser plasma acceleration",
+        "url": "https://api.crossref.org/works?query=laser+plasma+acceleration&filter=from-pub-date%3A2026-10-31%2Cuntil-pub-date%3A2026-11-02&rows=50&sort=relevance",
+        "error": null,
+        "returned": 50
+      },
+      {
+        "query": "strong field QED radiation reaction",
+        "url": "https://api.crossref.org/works?query=strong+field+QED+radiation+reaction&filter=from-pub-date%3A2026-10-31%2Cuntil-pub-date%3A2026-11-02&rows=50&sort=relevance",
+        "error": null,
+        "returned": 50
+      },
+      {
+        "query": "high energy density inertial confinement fusion",
+        "url": "https://api.crossref.org/works?query=high+energy+density+inertial+confinement+fusion&filter=from-pub-date%3A2026-10-31%2Cuntil-pub-date%3A2026-11-02&rows=50&sort=relevance",
+        "error": null,
+        "returned": 50
+      },
+      {
+        "query": "particle in cell machine learning plasma",
+        "url": "https://api.crossref.org/works?query=particle+in+cell+machine+learning+plasma&filter=from-pub-date%3A2026-10-31%2Cuntil-pub-date%3A2026-11-02&rows=50&sort=relevance",
+        "error": null,
+        "returned": 50
+      },
+      {
+        "query": "laser electron bremsstrahlung gamma converter",
+        "url": "https://api.crossref.org/works?query=laser+electron+bremsstrahlung+gamma+converter&filter=from-pub-date%3A2026-10-31%2Cuntil-pub-date%3A2026-11-02&rows=50&sort=relevance",
+        "error": null,
+        "returned": 50
+      },
+      {
+        "query": "laser photonuclear neutron isotope production",
+        "url": "https://api.crossref.org/works?query=laser+photonuclear+neutron+isotope+production&filter=from-pub-date%3A2026-10-31%2Cuntil-pub-date%3A2026-11-02&rows=50&sort=relevance",
+        "error": null,
+        "returned": 50
+      },
+      {
+        "query": "electron proton radiotherapy dosimetry",
+        "url": "https://api.crossref.org/works?query=electron+proton+radiotherapy+dosimetry&filter=from-pub-date%3A2026-10-31%2Cuntil-pub-date%3A2026-11-02&rows=50&sort=relevance",
+        "error": null,
+        "returned": 50
+      },
+      {
+        "query": "neutron shielding material irradiation",
+        "url": "https://api.crossref.org/works?query=neutron+shielding+material+irradiation&filter=from-pub-date%3A2026-10-31%2Cuntil-pub-date%3A2026-11-02&rows=50&sort=relevance",
+        "error": null,
+        "returned": 50
+      },
+      {
+        "query": "laser plasma diagnostics target design",
+        "url": "https://api.crossref.org/works?query=laser+plasma+diagnostics+target+design&filter=from-pub-date%3A2026-10-31%2Cuntil-pub-date%3A2026-11-02&rows=50&sort=relevance",
+        "error": null,
+        "returned": 50
+      },
+      {
+        "query": "nuclear reaction cross section isotope",
+        "error": null,
+        "initial_error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query=nuclear+reaction+cross+section+isotope&filter=from-pub-date%3A2026-10-31%2Cuntil-pub-date%3A2026-11-02&rows=50&sort=relevance",
+        "url": "https://api.crossref.org/works?query=nuclear+reaction+cross+section+isotope&filter=from-pub-date%3A2026-10-31%2Cuntil-pub-date%3A2026-11-02&rows=50&sort=relevance",
+        "returned": 50
+      }
+    ],
+    "successful_rows": 500,
+    "unique_dois": 430
+  },
+  "crossref_online_supplement": {
+    "window": "2026-10-30 through 2026-11-02, online-date filter",
+    "queries": [
+      {
+        "query": "laser plasma",
+        "initial_error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query=laser+plasma&filter=from-online-pub-date%3A2026-10-30%2Cuntil-online-pub-date%3A2026-11-02&rows=40&sort=published&order=desc",
+        "url": "https://api.crossref.org/works?query=laser+plasma&filter=from-online-pub-date%3A2026-10-30%2Cuntil-online-pub-date%3A2026-11-02&rows=40&sort=relevance",
+        "returned": 40
+      },
+      {
+        "query": "particle in cell plasma",
+        "url": "https://api.crossref.org/works?query=particle+in+cell+plasma&filter=from-online-pub-date%3A2026-10-30%2Cuntil-online-pub-date%3A2026-11-02&rows=40&sort=published&order=desc",
+        "returned": 40
+      },
+      {
+        "query": "neutron isotope bremsstrahlung",
+        "url": "https://api.crossref.org/works?query=neutron+isotope+bremsstrahlung&filter=from-online-pub-date%3A2026-10-30%2Cuntil-online-pub-date%3A2026-11-02&rows=40&sort=published&order=desc",
+        "returned": 24
+      },
+      {
+        "query": "strong field quantum electrodynamics",
+        "initial_error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query=strong+field+quantum+electrodynamics&filter=from-online-pub-date%3A2026-10-30%2Cuntil-online-pub-date%3A2026-11-02&rows=40&sort=published&order=desc",
+        "url": "https://api.crossref.org/works?query=strong+field+quantum+electrodynamics&filter=from-online-pub-date%3A2026-10-30%2Cuntil-online-pub-date%3A2026-11-02&rows=40&sort=relevance",
+        "returned": 40
+      }
+    ],
+    "successful_rows": 144,
+    "unique_dois": 144
+  },
+  "arxiv": {
+    "strategy": "10 official recent HTML pages, first dated block only; show=100",
+    "queries": [
+      {
+        "category": "physics.plasm-ph",
+        "url": "https://arxiv.org/list/physics.plasm-ph/recent?show=100",
+        "date": "Fri, 30 Oct 2026 (showing 18 of 18 entries )",
+        "error": null,
+        "returned": 18
+      },
+      {
+        "category": "physics.acc-ph",
+        "url": "https://arxiv.org/list/physics.acc-ph/recent?show=100",
+        "date": "Fri, 30 Oct 2026 (showing 3 of 3 entries )",
+        "error": null,
+        "returned": 3
+      },
+      {
+        "category": "physics.comp-ph",
+        "url": "https://arxiv.org/list/physics.comp-ph/recent?show=100",
+        "date": "Fri, 30 Oct 2026 (showing 26 of 26 entries )",
+        "error": null,
+        "returned": 26
+      },
+      {
+        "category": "nucl-ex",
+        "url": "https://arxiv.org/list/nucl-ex/recent?show=100",
+        "date": "Fri, 30 Oct 2026 (showing 13 of 13 entries )",
+        "error": null,
+        "returned": 13
+      },
+      {
+        "category": "physics.ins-det",
+        "url": "https://arxiv.org/list/physics.ins-det/recent?show=100",
+        "date": "Fri, 30 Oct 2026 (showing 15 of 15 entries )",
+        "error": null,
+        "returned": 15
+      },
+      {
+        "category": "hep-ph",
+        "url": "https://arxiv.org/list/hep-ph/recent?show=100",
+        "date": "Fri, 30 Oct 2026 (showing 92 of 92 entries )",
+        "error": null,
+        "returned": 92
+      },
+      {
+        "category": "physics.optics",
+        "url": "https://arxiv.org/list/physics.optics/recent?show=100",
+        "date": "Fri, 30 Oct 2026 (showing 41 of 41 entries )",
+        "error": null,
+        "returned": 41
+      },
+      {
+        "category": "nucl-th",
+        "url": "https://arxiv.org/list/nucl-th/recent?show=100",
+        "date": "Fri, 30 Oct 2026 (showing 31 of 31 entries )",
+        "error": null,
+        "returned": 31
+      },
+      {
+        "category": "cs.LG",
+        "url": "https://arxiv.org/list/cs.LG/recent?show=100",
+        "date": "Fri, 30 Oct 2026 (showing first 100 of 372 entries )",
+        "error": null,
+        "returned": 100
+      },
+      {
+        "category": "physics.med-ph",
+        "url": "https://arxiv.org/list/physics.med-ph/recent?show=100",
+        "date": "Fri, 30 Oct 2026 (showing 9 of 9 entries )",
+        "error": null,
+        "returned": 9
+      }
+    ],
+    "rows": 348,
+    "unique_ids": 311,
+    "coverage_limit": "All served first date blocks 2026-10-30; cs.LG first100 of372. No Atom API or full-archive claim."
+  },
+  "deduplication": [
+    "DOI and normalized title against 521 ledger +45 retries",
+    "arXiv identifiers/aliases, authors, abstract and physical task for selected works",
+    "Burles matched existing 2607.29364, upgraded in place; no extra work count"
+  ],
+  "retry_policy": "Old45 blocked objects preserved; no repeated full queue probing. Two new failures appended, no abstract-only notes.",
+  "author_source_check": {
+    "url": "https://api.github.com/repos/lifangchen2021/SpecKit/git/trees/main?recursive=1",
+    "status": 200,
+    "pdf_paths": []
+  },
+  "not_exhaustive": true
+}

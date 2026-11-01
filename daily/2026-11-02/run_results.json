@@ -1,0 +1,110 @@
+{
+  "run_date": "2026-11-02",
+  "created_at": "2026-11-02T07:09:36.048679+08:00",
+  "status": "fulltext_ingested_local_validation_passed",
+  "processed_before": 521,
+  "processed_after": 524,
+  "retry_before": 45,
+  "retry_after": 47,
+  "added_dois": [
+    "10.1088/1361-6498/aeb271",
+    "10.48550/arXiv.2610.40206",
+    "10.48550/arXiv.2610.38810"
+  ],
+  "upgraded_dois": [
+    "10.1017/s0022377826102517"
+  ],
+  "new_retry": [
+    "10.1515/kern-2026-0026",
+    "10.1007/s10812-026-02181-3"
+  ],
+  "recovered_retry": [],
+  "pdfs": 4,
+  "pages": 101,
+  "pdf_bytes": 25927668,
+  "layout_text_bytes": 449689,
+  "visual_inspection": {
+    "total_key_pages": 27,
+    "pages_by_key": {
+      "cr39": [
+        2,
+        5,
+        7,
+        9,
+        10
+      ],
+      "ugkwp": [
+        1,
+        7,
+        11,
+        13,
+        24,
+        25,
+        27,
+        29
+      ],
+      "cnt": [
+        1,
+        4,
+        7,
+        9,
+        13,
+        14
+      ],
+      "neural": [
+        1,
+        19,
+        20,
+        25,
+        26,
+        28,
+        35,
+        36
+      ]
+    },
+    "retained_original_excerpts": 8,
+    "manifest": "research/figure-manifest.json"
+  },
+  "mineru": {
+    "primary_sources_success": 4,
+    "failure": 0
+  },
+  "prior_processed_objects_unchanged": 520,
+  "prior_processed_object_upgrades": 1,
+  "prior_retry_objects_unchanged": true,
+  "scientific_boundaries": [
+    "No author physics/transport/ML code or experiments rerun",
+    "CR39 angular response is relative, with limited rotation data and source-energy-unit discrepancy",
+    "UGKWP exact conservation applies to field step; Gauss correction changes total field energy",
+    "CNT25.8% is finite-search maximum requiring one removed bundle; no-aperture subset mean24.1%",
+    "Burles VOR is one previously ingested work; temporal extrapolation and amplitude interpolation distinguished",
+    "No laser converter photonuclear/isotope end-to-end, clinical or shielding acceptance"
+  ],
+  "publication_evidence_policy": "Commit audited run scope only, compare committed blobs, push origin/master and verify fresh HEAD==origin/master==ls-remote; immutable SHA in automation memory.",
+  "validated_at": "2026-11-02T07:12:13.258058+08:00",
+  "validation": {
+    "index_builder": "Indexed 524 papers across 9 categories",
+    "pytest": {
+      "command": "PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q",
+      "passed": 7,
+      "seconds": 2.78
+    },
+    "scope_audit": {
+      "checked_at": "2026-11-02T07:11:43.047571+08:00",
+      "files": 45,
+      "markdown_files": 26,
+      "local_links": 3246,
+      "json_jsonl_files": 11,
+      "decoded_hashmatched_figures": 8,
+      "ignored_fulltext_assets": 12,
+      "unique_nonempty_dois": 520,
+      "unique_titles": 524,
+      "unique_arxiv_ids": 345,
+      "prior_ledger_objects_unchanged": 520,
+      "prior_object_upgrades": 1,
+      "old_retries_unchanged": true,
+      "preexisting_AGENTS_unchanged_excluded": true,
+      "errors": []
+    }
+  }
+}

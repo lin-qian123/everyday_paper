@@ -1,0 +1,63 @@
+{
+  "successful_parses": [
+    {
+      "ok": true,
+      "source": "https://arxiv.org/pdf/2610.40206v1",
+      "task_id": "45e33441-b44d-48b7-b5ce-4e6155f8d34a",
+      "state": "done",
+      "model_version": "pipeline",
+      "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-11-02/45e33441-b44d-48b7-b5ce-4e6155f8d34a.zip",
+      "key": "ugkwp",
+      "local_markdown": "daily/2026-11-02/pdfs/ugkwp-mineru.txt",
+      "bytes": 126987,
+      "sha256": "13abb65b9dcc9676cb2f2a34e7edb59f293495b2cbdfc8c456fc05c364f0f464",
+      "source_matches_primary_pdf": true,
+      "verification": "title, methods, numerical results and figure/table identities crosschecked with independently validated local primary PDF and layout text"
+    },
+    {
+      "ok": true,
+      "source": "https://arxiv.org/pdf/2610.38810v1",
+      "task_id": "1cf9a37e-fd25-4eb6-bbd0-344ef8db4ae5",
+      "state": "done",
+      "model_version": "pipeline",
+      "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-11-02/1cf9a37e-fd25-4eb6-bbd0-344ef8db4ae5.zip",
+      "key": "cnt",
+      "local_markdown": "daily/2026-11-02/pdfs/cnt-mineru.txt",
+      "bytes": 86300,
+      "sha256": "648fe3b0ebc55bd9ef800c97eec6fc77cc6ff7272963afa01c9fc569a16269d2",
+      "source_matches_primary_pdf": true,
+      "verification": "title, methods, numerical results and figure/table identities crosschecked with independently validated local primary PDF and layout text"
+    },
+    {
+      "ok": true,
+      "source": "https://iopscience.iop.org/article/10.1088/1361-6498/aeb271/pdf",
+      "task_id": "ed7e3d18-f016-4a6e-a013-0ce9711cc7c4",
+      "state": "done",
+      "model_version": "pipeline",
+      "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-11-02/ed7e3d18-f016-4a6e-a013-0ce9711cc7c4.zip",
+      "key": "cr39",
+      "local_markdown": "daily/2026-11-02/pdfs/cr39-mineru.txt",
+      "bytes": 36568,
+      "sha256": "e01d19f1706f6fd5b7e00c8956f5f3f0100025eaedb5dbbd9126ef280cb495b8",
+      "source_matches_primary_pdf": true,
+      "verification": "title, methods, numerical results and figure/table identities crosschecked with independently validated local primary PDF and layout text"
+    },
+    {
+      "ok": true,
+      "source": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/80ADFCACF5B83E1AC270C5D1ECFA2EF0/S0022377826102517a.pdf/a-neural-operator-closure-for-landau-damping-in-electrostatic-plasma.pdf",
+      "task_id": "14b1bd2a-a52b-402c-943a-db831c6887ce",
+      "state": "done",
+      "model_version": "pipeline",
+      "full_zip_url": "https://cdn-mineru.openxlab.org.cn/pdf/2026-11-02/14b1bd2a-a52b-402c-943a-db831c6887ce.zip",
+      "key": "neural",
+      "local_markdown": "daily/2026-11-02/pdfs/neural-mineru.txt",
+      "bytes": 129292,
+      "sha256": "cd35c739fe97c1104830bd75ddf410ea1e2eefe31245b2f78ea3e4fc82ee1db9",
+      "source_matches_primary_pdf": true,
+      "verification": "title, methods, numerical results and figure/table identities crosschecked with independently validated local primary PDF and layout text"
+    }
+  ],
+  "failed_parses": [],
+  "fallback": null,
+  "no_physics_or_ML_code_executed": true
+}

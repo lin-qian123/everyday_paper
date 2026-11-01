@@ -2,11 +2,12 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：166 篇
-- 索引更新时间：2026-11-01
+- 当前收录：167 篇
+- 索引更新时间：2026-11-02
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-02 | [Bayesian optimization of longitudinally aligned CNT targets for 800 nm laser wakefield acceleration in the bubble regime](../papers/arxiv-2610-38810/README.md) | arXiv preprint | [笔记](../daily/2026-11-02/notes/Nunes et al. - 2026 - Bayesian optimized CNT targets.md) |
 | 2026-11-01 | [Absolute calibration of scintillators for laser-driven ion spectroscopy using in situ CR-39 sampling detectors](../papers/arxiv-2610-38063/README.md) | arXiv preprint | [笔记](../daily/2026-11-01/notes/Lin et al. - 2026 - In situ scintillator absolute calibration.md) |
 | 2026-11-01 | [Automated CR-39 pit detection for energy and angular characterization of laser-driven ion beams](../papers/10-1063-5-0338529/README.md) | AIP Advances | [笔记](../daily/2026-11-01/notes/Lin et al. - 2026 - Automated CR39 pit detection.md) |
 | 2026-10-31 | [Differentiable control of laser–plasma experiments with conditional diffusion models](../papers/10-1088-2632-2153-aeb79a/README.md) | Machine Learning: Science and Technology 7, 065001 | [笔记](../daily/2026-10-31/notes/Mracek et al. - 2026 - Differentiable laser plasma control.md) |

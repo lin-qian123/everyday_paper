@@ -923,5 +923,58 @@
     "stderr": "Official harvest returned404 via proxy and direct; publisher PDF403 via proxy and404 direct. Exact-title/author web search found no verified lawful author manuscript. Crossref date alone is not publisher VOR verification. No fulltext or abstract-only note ingested.",
     "evidence_path": "daily/2026-10-29/download_report.json",
     "output_pdf": "daily/2026-10-29/pdfs/Wang et al. - 2026 - Automated seeded FEL microbunching.pdf"
+  },
+  {
+    "doi": "10.1515/kern-2026-0026",
+    "title": "Effects of energy-group resolution on SpecKit-based neutron spectrum unfolding",
+    "authors": [
+      "Li-Fang Chen",
+      "Yu-Lim Chen"
+    ],
+    "source_url": "https://www.degruyterbrill.com/document/doi/10.1515/kern-2026-0026/html",
+    "publication_date": "2026-11-02",
+    "publication_date_type": "publisher_ahead_of_publication_date",
+    "journal": "Kerntechnik",
+    "topic": "中子谱展开能群与响应可辨识性",
+    "run_date": "2026-11-02",
+    "status": "retry_fulltext_required_no_abstract_only_note",
+    "attempted_at": "2026-11-02T07:09:36.048679+08:00",
+    "retry_count": 0,
+    "failure_count": 1,
+    "source_family": "degruyter",
+    "last_failure_class": "publisher_pdf_returns_html_proxy_and_direct",
+    "stderr": "[{\"mode\": \"env-proxy\", \"url\": \"https://www.degruyterbrill.com/document/doi/10.1515/kern-2026-0026/pdf\", \"final_url\": \"https://www.degruyterbrill.com/document/doi/10.1515/kern-2026-0026/pdf\", \"error\": null, \"content_type\": \"text/html; charset=UTF-8\", \"pdf_header\": false}, {\"mode\": \"direct\", \"url\": \"https://www.degruyterbrill.com/document/doi/10.1515/kern-2026-0026/pdf\", \"final_url\": \"https://www.degruyterbrill.com/document/doi/10.1515/kern-2026-0026/pdf\", \"error\": null, \"content_type\": \"text/html; charset=UTF-8\", \"pdf_header\": false}]; No lawful author fulltext verified by exact-title web search. SpecKit author GitHub main tree has no PDF.",
+    "evidence_path": "daily/2026-11-02/download_report.json",
+    "output_pdf": "daily/2026-11-02/pdfs/Chen et al. - 2026 - Energy groups neutron spectrum unfolding.pdf"
+  },
+  {
+    "doi": "10.1007/s10812-026-02181-3",
+    "title": "Improvement in Neutron Detector Selectivity by Utilizing Multiple Gamma-Ray Production in Gadolinium-Containing Inorganic Scintillators",
+    "authors": [
+      "K. E. Okhotnikova",
+      "V. A. Mechinsky",
+      "M. V. Korjik",
+      "V. V. Dubov",
+      "P. V. Karpyuk",
+      "I. Yu. Komendo",
+      "V. G. Smyslova",
+      "A. A. Fedorov",
+      "A. I. Timoshchenko"
+    ],
+    "source_url": "https://link.springer.com/article/10.1007/s10812-026-02181-3",
+    "publication_date": "2026-10-31",
+    "publication_date_type": "crossref_online_date_unverified_on_fulltext",
+    "journal": "Journal of Applied Spectroscopy",
+    "topic": "Gd闪烁体中子／伽马甄别",
+    "run_date": "2026-11-02",
+    "status": "retry_fulltext_required_no_abstract_only_note",
+    "attempted_at": "2026-11-02T07:09:36.048679+08:00",
+    "retry_count": 0,
+    "failure_count": 1,
+    "source_family": "springer",
+    "last_failure_class": "publisher_pdf_html_cookie_redirect",
+    "stderr": "[{\"mode\": \"env-proxy\", \"url\": \"https://link.springer.com/content/pdf/10.1007/s10812-026-02181-3.pdf\", \"final_url\": \"https://link.springer.com/content/pdf/10.1007/s10812-026-02181-3.pdf\", \"error\": null, \"content_type\": \"text/html; charset=utf-8\", \"pdf_header\": false}, {\"mode\": \"direct\", \"url\": \"https://link.springer.com/content/pdf/10.1007/s10812-026-02181-3.pdf\", \"final_url\": \"https://link.springer.com/article/10.1007/s10812-026-02181-3?error=cookies_not_supported&code=ed3111c8-6c38-467b-be79-715e0afa3293\", \"error\": null, \"content_type\": \"text/html; charset=utf-8\", \"pdf_header\": false}]; Exact-title web search did not verify an author fulltext. No abstract-only note created.",
+    "evidence_path": "daily/2026-11-02/download_report.json",
+    "output_pdf": "daily/2026-11-02/pdfs/Okhotnikova et al. - 2026 - Gadolinium neutron detector selectivity.pdf"
   }
 ]

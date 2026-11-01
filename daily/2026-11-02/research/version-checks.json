@@ -1,0 +1,819 @@
+{
+  "checked_at": "2026-11-02T07:09:36.048679+08:00",
+  "preprint_exact_title_queries": [
+    {
+      "arxiv_id": "2610.40206",
+      "query": "A semi-implicit unified gas-kinetic wave-particle method with energy-conserving electromagnetic coupling for multiscale plasmas",
+      "rows": 3,
+      "top3": [
+        {
+          "DOI": "10.1103/hz9s-5qbm",
+          "title": [
+            "Unified gas-kinetic wave-particle method for multiscale phonon transport"
+          ],
+          "published-online": {
+            "date-parts": [
+              [
+                2025,
+                12,
+                1
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2025,
+                12,
+                1
+              ]
+            ]
+          },
+          "link": [
+            {
+              "URL": "https://link.aps.org/article/10.1103/hz9s-5qbm",
+              "content-type": "unspecified",
+              "content-version": "vor",
+              "intended-application": "syndication"
+            },
+            {
+              "URL": "http://harvest.aps.org/v2/journals/articles/10.1103/hz9s-5qbm/fulltext",
+              "content-type": "unspecified",
+              "content-version": "vor",
+              "intended-application": "similarity-checking"
+            }
+          ],
+          "resource": {
+            "primary": {
+              "URL": "https://link.aps.org/doi/10.1103/hz9s-5qbm"
+            }
+          },
+          "abstract": null,
+          "container-title": [
+            "Physical Review E"
+          ]
+        },
+        {
+          "DOI": "10.1063/5.0174774",
+          "title": [
+            "An implicit unified gas-kinetic wave–particle method for radiative transport process"
+          ],
+          "published-online": {
+            "date-parts": [
+              [
+                2023,
+                11,
+                29
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2023,
+                11,
+                1
+              ]
+            ]
+          },
+          "link": [
+            {
+              "URL": "https://pubs.aip.org/aip/pof/article-pdf/doi/10.1063/5.0174774/18232006/112013_1_5.0174774.pdf",
+              "content-type": "application/pdf",
+              "content-version": "vor",
+              "intended-application": "syndication"
+            },
+            {
+              "URL": "https://pubs.aip.org/aip/pof/article-pdf/doi/10.1063/5.0174774/18232006/112013_1_5.0174774.pdf",
+              "content-type": "unspecified",
+              "content-version": "vor",
+              "intended-application": "similarity-checking"
+            }
+          ],
+          "resource": {
+            "primary": {
+              "URL": "https://pubs.aip.org/pof/article/35/11/112013/2925214/An-implicit-unified-gas-kinetic-wave-particle"
+            }
+          },
+          "abstract": "<jats:p>The unified gas-kinetic wave–particle method (UGKWP) has been developed for the multiscale gas, plasma, and multiphase flow transport processes for the past years. In this work, we propose an implicit UGKWP (IUGKWP) method to remove the Courant–Friedrichs–Lewy time step constraint. Based on the local integral solution of the radiative transfer equation (RTE), the particle transport processes are categorized into the long-λ streaming process and the short-λ streaming process compared to a local physical characteristic time tp. In the construction of the IUGKWP method, the long-λ streaming process is tracked by the implicit Monte Carlo method; the short-λ streaming process is evolved by solving the implicit moment equations; and the photon distribution is closed by a local integral solution of RTE. In the IUGKWP method, the multiscale flux of radiation energy and the multiscale closure of photon distribution are constructed based on the local integral solution. The IUGKWP method preserves the second-order asymptotic expansion of RTE in the optically thick regime and adapts its computational complexity to the flow regime. The numerical dissipation is well controlled, and the teleportation error is significantly reduced in the optically thick regime. The computational complexity of the IUGKWP method decreases exponentially as the Knudsen number approaches zero, and the computational efficiency is remarkably improved in the optically thick regime. The IUGKWP is formulated on a generalized unstructured mesh, and multidimensional 2D and 3D algorithms are developed. Numerical tests are presented to validate the capability of IUGKWP in capturing the multiscale photon transport process. The algorithm and code will apply in the engineering applications of inertial confinement fusion.</jats:p>",
+          "container-title": [
+            "Physics of Fluids"
+          ]
+        },
+        {
+          "DOI": "10.14711/thesis-991013039228203412",
+          "title": [
+            "Unified gas-kinetic wave-particle method for multiscale flow modeling and computation"
+          ],
+          "published-online": null,
+          "published": null,
+          "link": null,
+          "resource": {
+            "primary": {
+              "URL": "https://hdl.handle.net/1783.1/116573"
+            }
+          },
+          "abstract": null,
+          "container-title": null
+        }
+      ],
+      "result": "no same-work VOR verified in returned results"
+    },
+    {
+      "arxiv_id": "2610.38810",
+      "query": "Bayesian optimization of longitudinally aligned CNT targets for 800 nm laser wakefield acceleration in the bubble regime",
+      "rows": 3,
+      "top3": [
+        {
+          "DOI": "10.21203/rs.3.rs-6973671/v1",
+          "title": [
+            "Numerical study of electron acceleration in structured CNT targets via self-injection in a wakefield bubble driven by an 800 nm laser"
+          ],
+          "published-online": null,
+          "published": {
+            "date-parts": [
+              [
+                2025,
+                7,
+                24
+              ]
+            ]
+          },
+          "link": [
+            {
+              "URL": "https://www.researchsquare.com/article/rs-6973671/v1",
+              "content-type": "text/html",
+              "content-version": "vor",
+              "intended-application": "text-mining"
+            },
+            {
+              "URL": "https://www.researchsquare.com/article/rs-6973671/v1.html",
+              "content-type": "unspecified",
+              "content-version": "vor",
+              "intended-application": "similarity-checking"
+            }
+          ],
+          "resource": {
+            "primary": {
+              "URL": "https://www.researchsquare.com/article/rs-6973671/v1"
+            }
+          },
+          "abstract": "<title>Abstract</title>\n                <p>Laser wakefield acceleration (LWFA) may achieve TeV/m gradients using high-density solid-state plasmas as accelerating\nmedia. However, the application of bulk solid materials requires attosecond laser pulses, such as X-ray lasers, to drive\nwakefields at these high densities. Additionally, the short wakefield wavelengths associated with solid-state plasmas greatly limit the accelerating length. An alternative approach employs 2D carbon-based nanomaterials, like graphene or carbon nanotubes (CNTs), configured into structured targets. These nanostructures are designed with voids or low-density regions to effectively reduce the overall plasma density. This reduction enables the use of longer-wavelength lasers and also extends the plasma wavelength and the acceleration length. In this study, we present, to our knowledge, the first numerical demonstration of electron acceleration via self-injection into a wakefield bubble driven by an infrared laser pulse in structured CNT targets, similar to the behavior observed in gaseous plasmas for LWFA in the nonlinear (or bubble) regime. Using the PIConGPU code, bundles of CNTs are modeled in a 3D geometry as 25 nm-thick carbon tubes with an initial density of 1022 cm−3. The carbon plasma is ionized by a three-cycle, 800 nm wavelength laser pulse with a peak intensity of 1021W cm−2, achieving an effective plasma density of 1020 cm−3. The same laser also drives the wakefield bubble, responsible for the electron self-injection and acceleration. Simulation results indicate that fs-long electron bunches with hundreds of pC charge can be self-injected and accelerated at gradients exceeding 1 TeV/m. Both charge and accelerating gradient figures are unprecedented when compared with LWFA in gaseous plasma.</p>",
+          "container-title": null
+        },
+        {
+          "DOI": "10.1063/1.4965623",
+          "title": [
+            "Direct laser acceleration in the bubble regime of laser wakefield acceleration"
+          ],
+          "published-online": null,
+          "published": {
+            "date-parts": [
+              [
+                2016
+              ]
+            ]
+          },
+          "link": null,
+          "resource": {
+            "primary": {
+              "URL": "https://pubs.aip.org/aip/acp/article/586983"
+            }
+          },
+          "abstract": null,
+          "container-title": [
+            "AIP Conference Proceedings"
+          ]
+        },
+        {
+          "DOI": "10.1038/s41598-023-48249-4",
+          "title": [
+            "Dephasingless laser wakefield acceleration in the bubble regime"
+          ],
+          "published-online": {
+            "date-parts": [
+              [
+                2023,
+                12,
+                2
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2023,
+                12,
+                2
+              ]
+            ]
+          },
+          "link": [
+            {
+              "URL": "https://www.nature.com/articles/s41598-023-48249-4.pdf",
+              "content-type": "application/pdf",
+              "content-version": "vor",
+              "intended-application": "text-mining"
+            },
+            {
+              "URL": "https://www.nature.com/articles/s41598-023-48249-4",
+              "content-type": "text/html",
+              "content-version": "vor",
+              "intended-application": "text-mining"
+            },
+            {
+              "URL": "https://www.nature.com/articles/s41598-023-48249-4.pdf",
+              "content-type": "application/pdf",
+              "content-version": "vor",
+              "intended-application": "similarity-checking"
+            }
+          ],
+          "resource": {
+            "primary": {
+              "URL": "https://www.nature.com/articles/s41598-023-48249-4"
+            }
+          },
+          "abstract": "<jats:title>Abstract</jats:title><jats:p>Laser wakefield accelerators (LWFAs) have electric fields that are orders of magnitude larger than those of conventional accelerators, promising an attractive, small-scale alternative for next-generation light sources and lepton colliders. The maximum energy gain in a single-stage LWFA is limited by dephasing, which occurs when the trapped particles outrun the accelerating phase of the wakefield. Here, we demonstrate that a single space–time structured laser pulse can be used for ionization injection and electron acceleration over many dephasing lengths in the bubble regime. Simulations of a dephasingless laser wakefield accelerator driven by a 6.2-J laser pulse show 25 pC of injected charge accelerated over 20 dephasing lengths (1.3 cm) to a maximum energy of 2.1 GeV. The space–time structured laser pulse features an ultrashort, programmable-trajectory focus. Accelerating the focus, reducing the focused spot-size variation, and mitigating unwanted self-focusing stabilize the electron acceleration, which improves beam quality and leads to projected energy gains of 125 GeV in a single, sub-meter stage driven by a 500-J pulse.</jats:p>",
+          "container-title": [
+            "Scientific Reports"
+          ]
+        }
+      ],
+      "result": "no same-work VOR verified in returned results"
+    }
+  ],
+  "formal_upgrade": {
+    "old_doi": "10.48550/arXiv.2607.29364",
+    "doi": "10.1017/s0022377826102517",
+    "note_updated_in_place": "daily/2026-08-04/notes/Burles et al. - 2026 - Neural operator Landau damping closure.md",
+    "initial_processed_date": "2026-08-04",
+    "published_online": "2026-10-30",
+    "accepted": "2026-09-10",
+    "publisher_url": "https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/neural-operator-closure-for-landau-damping-in-electrostatic-plasma/80ADFCACF5B83E1AC270C5D1ECFA2EF0",
+    "new_work_count": 0,
+    "source": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            30
+          ]
+        ],
+        "date-time": "2026-10-30T08:30:58Z",
+        "timestamp": 1793349058999,
+        "version": "4.5.0"
+      },
+      "reference-count": 55,
+      "publisher": "Cambridge University Press (CUP)",
+      "issue": "5",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                30
+              ]
+            ],
+            "date-time": "2026-10-30T00:00:00Z",
+            "timestamp": 1793318400000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 29,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                30
+              ]
+            ],
+            "date-time": "2026-10-30T00:00:00Z",
+            "timestamp": 1793318400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 29,
+          "URL": "https://www.cambridge.org/tdm/tdmrep-policy.json"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "cambridge.org"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "J. Plasma Phys."
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            10
+          ]
+        ]
+      },
+      "abstract": "<jats:p>We present a data-driven plasma fluid closure for both linear and nonlinear electrostatic Landau damping in one dimension. A Fourier neural operator (FNO) is trained online within a differentiable fluid solver, with the loss computed on trajectories produced by the closed fluid simulation rather than on individual kinetic snapshots. The closure is non-Markovian, acting on a trailing window of the resolved-moment history so as to represent the memory of the unresolved dynamics. We demonstrate that a single FNO trained in this way reproduces both linear and nonlinear Landau damping, generalises to unseen initial perturbation amplitudes lying between those used in training, and remains numerically stable when deployed in independent fluid simulations. In the nonlinear regime the learned heat flux reproduces the resolved-moment dynamics without matching the kinetic heat flux pointwise, behaving as an effective closure that carries the influence of the unresolved dynamics through the resolved-field history, though the learned specific flux is expected to depend on the numerical scheme and training data. A sensitivity analysis of the trained model shows that it computes a genuine moment-to-flux relation whose reliance on the memory window is structured rather than uniform, concentrating at lags spaced by the oscillation period.</jats:p>",
+      "DOI": "10.1017/s0022377826102517",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            30
+          ]
+        ],
+        "date-time": "2026-10-30T07:44:10Z",
+        "timestamp": 1793346250000
+      },
+      "update-policy": "https://doi.org/10.1017/policypage",
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "A neural operator closure for Landau damping in electrostatic plasma"
+      ],
+      "prefix": "10.1017",
+      "volume": "92",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0005-4523-3099",
+          "authenticated-orcid": false,
+          "given": "Samuel",
+          "family": "Burles",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Queen Mary University of London"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Enrico",
+          "family": "Camporeale",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Queen Mary University of London"
+            },
+            {
+              "name": "University of Colorado"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7638-1706",
+          "authenticated-orcid": false,
+          "given": "Oreste",
+          "family": "Pezzi",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute for Plasma Science and Technology"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "56",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            30
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "S0022377826102517_ref10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1098/rspa.2017.0385"
+        },
+        {
+          "key": "S0022377826102517_ref8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/2022MS003124"
+        },
+        {
+          "key": "S0022377826102517_ref2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1017/S0022377826102013"
+        },
+        {
+          "key": "S0022377826102517_ref20",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1029/2021JA030241"
+        },
+        {
+          "key": "S0022377826102517_ref51",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1088/0741-3335/45/6/701"
+        },
+        {
+          "key": "S0022377826102517_ref54",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Wei, S. , Liu, Y. , Fu, H. , Dong, C. & Wang, L. 2023 Data-driven modeling of Landau damping by Fourier neural operator. In 2023 International Applied Computational Electromagnetics Society Symposium (ACES-China), pp. 01–03.",
+          "DOI": "10.23919/ACES-China60289.2023.10249492"
+        },
+        {
+          "key": "S0022377826102517_ref25",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s42256-024-00810-0"
+        },
+        {
+          "key": "S0022377826102517_ref17",
+          "first-page": "035049",
+          "article-title": "Machine learning of hidden variables in multiscale fluid simulation",
+          "volume": "4",
+          "author": "Joglekar",
+          "year": "2023",
+          "journal-title": "Mach. Learn."
+        },
+        {
+          "key": "S0022377826102517_ref22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3389/fphy.2018.00113"
+        },
+        {
+          "key": "S0022377826102517_ref52",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/1.4906063"
+        },
+        {
+          "key": "S0022377826102517_ref39",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/PhysRevFluids.2.014604"
+        },
+        {
+          "key": "S0022377826102517_ref30",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/PhysRevFluids.6.050502"
+        },
+        {
+          "key": "S0022377826102517_ref24",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/PhysRevLett.102.085001"
+        },
+        {
+          "key": "S0022377826102517_ref53",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jcp.2020.109402"
+        },
+        {
+          "key": "S0022377826102517_ref48",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1017/S0022377822000095"
+        },
+        {
+          "key": "S0022377826102517_ref36",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/5.0012067"
+        },
+        {
+          "key": "S0022377826102517_ref34",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5194/egusphere-egu26-12428"
+        },
+        {
+          "key": "S0022377826102517_ref43",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1017/S0022377819000631"
+        },
+        {
+          "key": "S0022377826102517_ref55",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/PhysRev.124.983"
+        },
+        {
+          "key": "S0022377826102517_ref42",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/1.4940963"
+        },
+        {
+          "key": "S0022377826102517_ref9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/1.2096582"
+        },
+        {
+          "key": "S0022377826102517_ref21",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/5.0066397"
+        },
+        {
+          "key": "S0022377826102517_ref32",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/5.0006457"
+        },
+        {
+          "key": "S0022377826102517_ref37",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/PhysRevLett.109.115004"
+        },
+        {
+          "key": "S0022377826102517_ref7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1006/jcph.2002.7010"
+        },
+        {
+          "key": "S0022377826102517_ref11",
+          "first-page": "63",
+          "volume-title": "Algorithmic Learning Theory (ALT 2005), Lecture Notes in Computer Science",
+          "author": "Gretton",
+          "year": "2005"
+        },
+        {
+          "key": "S0022377826102517_ref16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/PhysRevLett.121.135101"
+        },
+        {
+          "key": "S0022377826102517_ref3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/5.0160549"
+        },
+        {
+          "key": "S0022377826102517_ref5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1098/rspa.1956.0116"
+        },
+        {
+          "key": "S0022377826102517_ref4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0021-9991(76)90053-X"
+        },
+        {
+          "key": "S0022377826102517_ref31",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1006/jcph.2002.7071"
+        },
+        {
+          "key": "S0022377826102517_ref14",
+          "article-title": "Machine-learning heat flux closure for multi-moment fluid modeling of nonlinear Landau damping",
+          "volume": "122",
+          "author": "Huang",
+          "year": "2025",
+          "journal-title": "Proc. Natl Acad. Sci."
+        },
+        {
+          "key": "S0022377826102517_ref15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1017/S0022377819000850"
+        },
+        {
+          "key": "S0022377826102517_ref45",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/PhysRevResearch.5.033079"
+        },
+        {
+          "key": "S0022377826102517_ref27",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Liu, K. , Cheng, W. , Fu, H. , Jiang, M. , Ma, J. & Qin, Y. 2022 Data-driven Modeling of Plasma Fluid Closure and Parameter Prediction. In 2022 International Applied Computational Electromagnetics Society Symposium (ACES-China), pp. 1–3.",
+          "DOI": "10.1109/ACES-China56081.2022.10065169"
+        },
+        {
+          "key": "S0022377826102517_ref46",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3934/fods.2024043"
+        },
+        {
+          "key": "S0022377826102517_ref6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.97.7.2968"
+        },
+        {
+          "key": "S0022377826102517_ref1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1146/annurev-fluid-010719-060214"
+        },
+        {
+          "key": "S0022377826102517_ref12",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41598-023-35319-w"
+        },
+        {
+          "key": "S0022377826102517_ref28",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s42256-021-00302-5"
+        },
+        {
+          "key": "S0022377826102517_ref18",
+          "unstructured": "Kossaifi, J. , Kovachki, N. , Li, Z. , Pitt, D. , Liu-Schiaffini, M. , George, R.J. , Bonev, B. , Azizzadenesheli, K. , Berner, J. & Anandkumar, A. 2024 A library for learning neural operators. arXiv:2412.10354."
+        },
+        {
+          "key": "S0022377826102517_ref19",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1119/1.1987587"
+        },
+        {
+          "key": "S0022377826102517_ref47",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Shankar, V. , Chakraborty, D. , Viswanathan, V. & Maulik, R. 2024 Differentiable turbulence: closure as a partial differential equation constrained optimization, arXiv:2307.03683.",
+          "DOI": "10.1103/PhysRevFluids.10.024605"
+        },
+        {
+          "key": "S0022377826102517_ref49",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/1.872517"
+        },
+        {
+          "key": "S0022377826102517_ref26",
+          "unstructured": "Li, Z. , Kovachki, N. , Azizzadenesheli, K. , Liu, B. , Bhattacharya, K. , Stuart, A. & Anandkumar, A. 2021 Fourier neural operator for parametric partial differential equations. arXiv:2010.08895."
+        },
+        {
+          "key": "S0022377826102517_ref50",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1017/S0022377814000671"
+        },
+        {
+          "key": "S0022377826102517_ref29",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/1.5129158"
+        },
+        {
+          "key": "S0022377826102517_ref23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/1.4943893"
+        },
+        {
+          "key": "S0022377826102517_ref13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/PhysRevLett.64.3019"
+        },
+        {
+          "key": "S0022377826102517_ref35",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1143/PTP.33.423"
+        },
+        {
+          "key": "S0022377826102517_ref38",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/1.1761193"
+        },
+        {
+          "key": "S0022377826102517_ref40",
+          "first-page": "A04203",
+          "article-title": "A fluid model with finite Larmor radius effects for mirror mode dynamics",
+          "volume": "111",
+          "author": "Passot",
+          "year": "2006",
+          "journal-title": "J. Geophys. Res.: Space Phys"
+        },
+        {
+          "key": "S0022377826102517_ref41",
+          "first-page": "8024",
+          "article-title": "PyTorch: an imperative style, high-performance deep learning library",
+          "volume": "32",
+          "author": "Paszke",
+          "year": "2019",
+          "journal-title": "Adv. Neural Inform. Process. Syst."
+        },
+        {
+          "key": "S0022377826102517_ref33",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/9fq1-vpqz"
+        },
+        {
+          "key": "S0022377826102517_ref44",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/1.4821613"
+        }
+      ],
+      "container-title": [
+        "Journal of Plasma Physics"
+      ],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S0022377826102517",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S0022377826102517",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            30
+          ]
+        ],
+        "date-time": "2026-10-30T07:44:13Z",
+        "timestamp": 1793346253000
+      },
+      "score": 8.940792,
+      "resource": {
+        "primary": {
+          "URL": "https://www.cambridge.org/core/product/identifier/S0022377826102517/type/journal_article"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10
+          ]
+        ]
+      },
+      "references-count": 55,
+      "journal-issue": {
+        "issue": "5",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S0022377826102517"
+      ],
+      "URL": "https://doi.org/10.1017/s0022377826102517",
+      "ISSN": [
+        "0022-3778",
+        "1469-7807"
+      ],
+      "issn-type": [
+        {
+          "value": "0022-3778",
+          "type": "print"
+        },
+        {
+          "value": "1469-7807",
+          "type": "electronic"
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "© The Author(s), 2026. Published by Cambridge University Press",
+          "name": "copyright",
+          "label": "Copyright",
+          "group": {
+            "name": "copyright_and_licensing",
+            "label": "Copyright and Licensing"
+          }
+        },
+        {
+          "value": "This is an Open Access article, distributed under the terms of the Creative Commons Attribution licence (https://creativecommons.org/licenses/by/4.0/), which permits unrestricted re-use, distribution and reproduction, provided the original article is properly cited.",
+          "name": "license",
+          "label": "License",
+          "group": {
+            "name": "copyright_and_licensing",
+            "label": "Copyright and Licensing"
+          }
+        },
+        {
+          "value": "This content has been made available to all.",
+          "name": "free",
+          "label": "Free to read"
+        }
+      ],
+      "article-number": "E149"
+    }
+  },
+  "cr39_dates": {
+    "published": "2026-10-30",
+    "accepted": "2026-10-09",
+    "note": "PDF explicitly distinguishes dates; PubMed ahead-of-print Oct09 not used as VOR date"
+  }
+}

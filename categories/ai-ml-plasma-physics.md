@@ -2,11 +2,12 @@
 
 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。
 
-- 当前收录：89 篇
-- 索引更新时间：2026-11-01
+- 当前收录：90 篇
+- 索引更新时间：2026-11-02
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-02 | [Bayesian optimization of longitudinally aligned CNT targets for 800 nm laser wakefield acceleration in the bubble regime](../papers/arxiv-2610-38810/README.md) | arXiv preprint | [笔记](../daily/2026-11-02/notes/Nunes et al. - 2026 - Bayesian optimized CNT targets.md) |
 | 2026-10-31 | [Differentiable control of laser–plasma experiments with conditional diffusion models](../papers/10-1088-2632-2153-aeb79a/README.md) | Machine Learning: Science and Technology 7, 065001 | [笔记](../daily/2026-10-31/notes/Mracek et al. - 2026 - Differentiable laser plasma control.md) |
 | 2026-10-31 | [NEOPIC: A Neural Operator Framework for Particle-based Kinetic Plasma Simulations](../papers/arxiv-2610-40528/README.md) | arXiv preprint | [笔记](../daily/2026-10-31/notes/Muralikrishnan et al. - 2026 - NEOPIC particle field operator.md) |
 | 2026-10-30 | [Identification of Magnetic Reconnection in Plasma Turbulence Using a Dual-branch Lightweight Hybrid Convolutional Neural Network](../papers/10-3847-1538-4365-aeaa32/README.md) | The Astrophysical Journal Supplement Series 287, 26 | [笔记](../daily/2026-10-30/notes/Yin et al. - 2026 - DHCNN reconnection identification.md) |
@@ -63,7 +64,7 @@
 | 2026-08-10 | [Millisecond-Scale Neural Operator Surrogates for Double-Null Free-Boundary Grad-Shafranov Equilibria](../papers/arxiv-2608-05555/README.md) | arXiv preprint | [笔记](../daily/2026-08-10/notes/Krastev - 2026 - Neural operator Grad Shafranov equilibria.md) |
 | 2026-08-09 | [Polarization-Conditioned Fourier-enhanced DeepONet for Electric Field Reconstruction from EFISH Measurements](../papers/arxiv-2608-05937/README.md) | arXiv preprint | [笔记](../daily/2026-08-09/notes/Yang et al. - 2026 - Fourier DeepONet EFISH electric field reconstruction.md) |
 | 2026-08-09 | [Building a Start-to-End Model of the CESR Injector Linac](../papers/arxiv-2608-05094/README.md) | arXiv preprint | [笔记](../daily/2026-08-09/notes/Goldman et al. - 2026 - CESR injector linac start to end model.md) |
-| 2026-08-04 | [A Neural Operator Closure for Landau Damping in Electrostatic Plasma](../papers/arxiv-2607-29364/README.md) | arXiv preprint (under consideration for Journal of Plasma Physics) | [笔记](../daily/2026-08-04/notes/Burles et al. - 2026 - Neural operator Landau damping closure.md) |
+| 2026-08-04 | [A Neural Operator Closure for Landau Damping in Electrostatic Plasma](../papers/10-1017-s0022377826102517/README.md) | Journal of Plasma Physics 92, E149 | [笔记](../daily/2026-08-04/notes/Burles et al. - 2026 - Neural operator Landau damping closure.md) |
 | 2026-08-03 | [Measurement of multiple mechanical properties from multi-dimensional signals in nanosecond laser ablation via PINN](../papers/arxiv-2607-26965/README.md) | arXiv preprint | [笔记](../daily/2026-08-03/notes/Zhou et al. - 2026 - Laser ablation PINN mechanical inversion.md) |
 | 2026-07-25 | [Cycle-Consistent and Uncertainty-Aware Neural Surrogates for Tokamak Edge Plasmas](../papers/arxiv-2607-21407/README.md) | arXiv preprint | [笔记](../daily/2026-07-25/notes/Diaw et al. - 2026 - Uncertainty-aware neural surrogates tokamak edge.md) |
 | 2026-07-23 | [Reduced-order non-self-consistent Monte Carlo simulation of a planar magnetron discharge: electron heating, recapture and racetrack formation](../papers/arxiv-2607-19930/README.md) | arXiv preprint | [笔记](../daily/2026-07-23/notes/Franz F Locker et al. - 2026 - Magnetron reduced-order Monte Carlo.md) |

@@ -1,0 +1,142 @@
+{
+  "created_at": "2026-11-02T07:07:20.529299+08:00",
+  "figures": [
+    {
+      "paper": "neural",
+      "source_pdf": "daily/2026-11-02/pdfs/Burles et al. - 2026 - Neural operator Landau damping VOR.pdf",
+      "pdf_sha256": "782ef52550e7f45194b936e2469faae23f780f80d187593d59f55a1f3fe10261",
+      "page_1based": 20,
+      "figure": "Table 5",
+      "clip_pdf_points": [
+        59.184001464843746,
+        63.015661010742186,
+        453.74401123046874,
+        238.0591638183594
+      ],
+      "path": "daily/2026-11-02/images/neural/table-5-time-extrapolation-errors.png",
+      "sha256": "57260d1b986e408a725fac8833ad24382558eb046c2b35d290f0e7143f3c9e0f",
+      "transformation": "Original PDF rectangular crop at 2x; no curve redrawing",
+      "visually_checked": true
+    },
+    {
+      "paper": "neural",
+      "source_pdf": "daily/2026-11-02/pdfs/Burles et al. - 2026 - Neural operator Landau damping VOR.pdf",
+      "pdf_sha256": "782ef52550e7f45194b936e2469faae23f780f80d187593d59f55a1f3fe10261",
+      "page_1based": 26,
+      "figure": "Figure 5",
+      "clip_pdf_points": [
+        39.4560009765625,
+        56.013920898437505,
+        458.6760113525391,
+        385.09570617675786
+      ],
+      "path": "daily/2026-11-02/images/neural/figure-5-amplitude-generalization.png",
+      "sha256": "d7e477988600d5036bb8db090584c6f0faa28bdf314bbcdc596dc6d7ec8fbeaf",
+      "transformation": "Original PDF rectangular crop at 2x; no curve redrawing",
+      "visually_checked": true
+    },
+    {
+      "paper": "cr39",
+      "source_pdf": "daily/2026-11-02/pdfs/Cui et al. - 2026 - Angle independent CR39 neutron detector.pdf",
+      "pdf_sha256": "8fbd22da6c7e8711ce04d9629417910900dcf2e91536bc094fc09e1b84ed6cbe",
+      "page_1based": 9,
+      "figure": "Figure 9",
+      "clip_pdf_points": [
+        107.1504052734375,
+        63.14175109863281,
+        559.5632275390625,
+        336.756005859375
+      ],
+      "path": "daily/2026-11-02/images/cr39/figure-9-fast-neutron-relative-response.png",
+      "sha256": "bcab405b1f88feb281927589f73bb5ceb9cccda4ba322fdff519f9fa7a233bef",
+      "transformation": "Original PDF rectangular crop at 2x; no curve redrawing",
+      "visually_checked": true
+    },
+    {
+      "paper": "cr39",
+      "source_pdf": "daily/2026-11-02/pdfs/Cui et al. - 2026 - Angle independent CR39 neutron detector.pdf",
+      "pdf_sha256": "8fbd22da6c7e8711ce04d9629417910900dcf2e91536bc094fc09e1b84ed6cbe",
+      "page_1based": 10,
+      "figure": "Figure 11",
+      "clip_pdf_points": [
+        107.1504052734375,
+        63.14175109863281,
+        559.5632275390625,
+        269.4048046875
+      ],
+      "path": "daily/2026-11-02/images/cr39/figure-11-energy-response.png",
+      "sha256": "dffd869c9fd71011a68a84b8756a940bd54fab2ef8eb5a3dbe0e5604bbb5506a",
+      "transformation": "Original PDF rectangular crop at 2x; no curve redrawing",
+      "visually_checked": true
+    },
+    {
+      "paper": "cnt",
+      "source_pdf": "daily/2026-11-02/pdfs/Nunes et al. - 2026 - Bayesian optimized CNT targets.pdf",
+      "pdf_sha256": "4c31d7d75772b59e62e93063c44f45b676bd2ec97e496938ddc5d970f0c53205",
+      "page_1based": 13,
+      "figure": "Figure 11",
+      "clip_pdf_points": [
+        312.12,
+        43.56,
+        593.64,
+        506.88
+      ],
+      "path": "daily/2026-11-02/images/cnt/figure-11-quality-tradeoff.png",
+      "sha256": "5e393e2ec204c94a533f19714e73493b896de8cace474262b388269d3d07a9ac",
+      "transformation": "Original PDF rectangular crop at 2x; no curve redrawing",
+      "visually_checked": true
+    },
+    {
+      "paper": "cnt",
+      "source_pdf": "daily/2026-11-02/pdfs/Nunes et al. - 2026 - Bayesian optimized CNT targets.pdf",
+      "pdf_sha256": "4c31d7d75772b59e62e93063c44f45b676bd2ec97e496938ddc5d970f0c53205",
+      "page_1based": 14,
+      "figure": "Figure 12",
+      "clip_pdf_points": [
+        30.6,
+        47.519999999999996,
+        306.0,
+        269.28000000000003
+      ],
+      "path": "daily/2026-11-02/images/cnt/figure-12-spectra-reference.png",
+      "sha256": "d6f33fcf56ea2ea85c2e1b15ecee687fa509e55f51c677cfc9f6a40cba47b89c",
+      "transformation": "Original PDF rectangular crop at 2x; no curve redrawing",
+      "visually_checked": true
+    },
+    {
+      "paper": "ugkwp",
+      "source_pdf": "daily/2026-11-02/pdfs/Wang et al. - 2026 - Semi implicit UGKWP multiscale plasmas.pdf",
+      "pdf_sha256": "8811d713ce5c128ef1297b74404fd4dd49564e1bc48a52106577923984b60a38",
+      "page_1based": 27,
+      "figure": "Figure 13",
+      "clip_pdf_points": [
+        68.45674011230469,
+        63.14175109863281,
+        565.5122009277344,
+        471.45840820312503
+      ],
+      "path": "daily/2026-11-02/images/ugkwp/figure-13-gauss-energy.png",
+      "sha256": "ee3e196bd3cdbaca14f432270d43bfc6ffadd36fd7675bd4bdfb81ef794c4d9b",
+      "transformation": "Original PDF rectangular crop at 2x; no curve redrawing",
+      "visually_checked": true
+    },
+    {
+      "paper": "ugkwp",
+      "source_pdf": "daily/2026-11-02/pdfs/Wang et al. - 2026 - Semi implicit UGKWP multiscale plasmas.pdf",
+      "pdf_sha256": "8811d713ce5c128ef1297b74404fd4dd49564e1bc48a52106577923984b60a38",
+      "page_1based": 25,
+      "figure": "Table 3",
+      "clip_pdf_points": [
+        68.45674011230469,
+        454.62060791015625,
+        565.5122009277344,
+        606.1608105468749
+      ],
+      "path": "daily/2026-11-02/images/ugkwp/table-3-gem-comparison.png",
+      "sha256": "8ba52b8a19e3658ee631e37b55e46c552f6b9400237b6af48ae725245bf8477a",
+      "transformation": "Original PDF rectangular crop at 2x; no curve redrawing",
+      "visually_checked": true
+    }
+  ],
+  "visually_reviewed_at": "2026-11-02T07:09:36.048679+08:00"
+}

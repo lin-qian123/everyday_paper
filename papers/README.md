@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：521 篇
-- 索引更新时间：2026-11-01
+- 当前入库论文：524 篇
+- 索引更新时间：2026-11-02
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-11-02 | [A novel angle-independent neutron detector based on CR-39](./10-1088-1361-6498-aeb271/README.md) | Journal of Radiological Protection 46, 041509 | [10.1088/1361-6498/aeb271](https://doi.org/10.1088/1361-6498/aeb271) |
+| 2026-11-02 | [A semi-implicit unified gas-kinetic wave-particle method with energy-conserving electromagnetic coupling for multiscale plasmas](./arxiv-2610-40206/README.md) | arXiv preprint | [10.48550/arXiv.2610.40206](https://doi.org/10.48550/arXiv.2610.40206) |
+| 2026-11-02 | [Bayesian optimization of longitudinally aligned CNT targets for 800 nm laser wakefield acceleration in the bubble regime](./arxiv-2610-38810/README.md) | arXiv preprint | [10.48550/arXiv.2610.38810](https://doi.org/10.48550/arXiv.2610.38810) |
 | 2026-11-01 | [Material calibration-independent neutron scattering corrections for quantitative imaging](./10-1038-s41598-026-77789-8/README.md) | Scientific Reports | [10.1038/s41598-026-77789-8](https://doi.org/10.1038/s41598-026-77789-8) |
 | 2026-11-01 | [Neutron spectrometry of (p,n) based neutron fields at the University of Helsinki using the NCT-WES single-moderator directional spectrometer](./arxiv-2610-39763/README.md) | arXiv preprint | [10.48550/arXiv.2610.39763](https://doi.org/10.48550/arXiv.2610.39763) |
 | 2026-11-01 | [Absolute calibration of scintillators for laser-driven ion spectroscopy using in situ CR-39 sampling detectors](./arxiv-2610-38063/README.md) | arXiv preprint | [10.48550/arXiv.2610.38063](https://doi.org/10.48550/arXiv.2610.38063) |
@@ -278,7 +281,7 @@
 | 2026-08-06 | [Generation-Resolved Signatures in QED Cascades: Diagnostics for Ultraintense Laser Parameters](./arxiv-2608-03331/README.md) | arXiv preprint | [10.48550/arXiv.2608.03331](https://doi.org/10.48550/arXiv.2608.03331) |
 | 2026-08-06 | [Generation of dense relativistic electron beams via vortex laser-driven self-generated magnetic pinching](./arxiv-2608-03240/README.md) | arXiv preprint | [10.48550/arXiv.2608.03240](https://doi.org/10.48550/arXiv.2608.03240) |
 | 2026-08-05 | [Photon Orbital Angular Momentum Control by Electron Wavepackets in Nonlinear Compton Scattering](./arxiv-2608-01323/README.md) | arXiv preprint | [10.48550/arXiv.2608.01323](https://doi.org/10.48550/arXiv.2608.01323) |
-| 2026-08-04 | [A Neural Operator Closure for Landau Damping in Electrostatic Plasma](./arxiv-2607-29364/README.md) | arXiv preprint (under consideration for Journal of Plasma Physics) | [10.48550/arXiv.2607.29364](https://doi.org/10.48550/arXiv.2607.29364) |
+| 2026-08-04 | [A Neural Operator Closure for Landau Damping in Electrostatic Plasma](./10-1017-s0022377826102517/README.md) | Journal of Plasma Physics 92, E149 | [10.1017/s0022377826102517](https://doi.org/10.1017/s0022377826102517) |
 | 2026-08-03 | [Measurement of multiple mechanical properties from multi-dimensional signals in nanosecond laser ablation via PINN](./arxiv-2607-26965/README.md) | arXiv preprint | [10.48550/arXiv.2607.26965](https://doi.org/10.48550/arXiv.2607.26965) |
 | 2026-08-02 | [Phase control of multi-photon electron-positron pair creation from vacuum](./arxiv-2607-26408/README.md) | arXiv preprint | [10.48550/arXiv.2607.26408](https://doi.org/10.48550/arXiv.2607.26408) |
 | 2026-08-02 | [Quasi-static transverse electric field driven electron acceleration in relativistic laser matter interaction](./arxiv-2607-26252/README.md) | arXiv preprint | [10.48550/arXiv.2607.26252](https://doi.org/10.48550/arXiv.2607.26252) |

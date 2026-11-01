@@ -1,0 +1,114 @@
+{
+  "downloaded_at": "2026-11-02T07:09:36.048679+08:00",
+  "items": [
+    {
+      "key": "ugkwp",
+      "ok": true,
+      "path": "daily/2026-11-02/pdfs/Wang et al. - 2026 - Semi implicit UGKWP multiscale plasmas.pdf",
+      "url": "https://arxiv.org/pdf/2610.40206v1",
+      "attempts": [
+        {
+          "mode": "env-proxy",
+          "url": "https://arxiv.org/pdf/2610.40206v1",
+          "final_url": "https://arxiv.org/pdf/2610.40206v1",
+          "error": null,
+          "content_type": "application/pdf",
+          "pdf_header": true
+        }
+      ]
+    },
+    {
+      "key": "cnt",
+      "ok": true,
+      "path": "daily/2026-11-02/pdfs/Nunes et al. - 2026 - Bayesian optimized CNT targets.pdf",
+      "url": "https://arxiv.org/pdf/2610.38810v1",
+      "attempts": [
+        {
+          "mode": "env-proxy",
+          "url": "https://arxiv.org/pdf/2610.38810v1",
+          "final_url": "https://arxiv.org/pdf/2610.38810v1",
+          "error": null,
+          "content_type": "application/pdf",
+          "pdf_header": true
+        }
+      ]
+    },
+    {
+      "key": "selectivity",
+      "ok": false,
+      "url": "https://link.springer.com/content/pdf/10.1007/s10812-026-02181-3.pdf",
+      "attempts": [
+        {
+          "mode": "env-proxy",
+          "url": "https://link.springer.com/content/pdf/10.1007/s10812-026-02181-3.pdf",
+          "final_url": "https://link.springer.com/content/pdf/10.1007/s10812-026-02181-3.pdf",
+          "error": null,
+          "content_type": "text/html; charset=utf-8",
+          "pdf_header": false
+        },
+        {
+          "mode": "direct",
+          "url": "https://link.springer.com/content/pdf/10.1007/s10812-026-02181-3.pdf",
+          "final_url": "https://link.springer.com/article/10.1007/s10812-026-02181-3?error=cookies_not_supported&code=ed3111c8-6c38-467b-be79-715e0afa3293",
+          "error": null,
+          "content_type": "text/html; charset=utf-8",
+          "pdf_header": false
+        }
+      ]
+    },
+    {
+      "key": "speckit",
+      "ok": false,
+      "url": "https://www.degruyterbrill.com/document/doi/10.1515/kern-2026-0026/pdf",
+      "attempts": [
+        {
+          "mode": "env-proxy",
+          "url": "https://www.degruyterbrill.com/document/doi/10.1515/kern-2026-0026/pdf",
+          "final_url": "https://www.degruyterbrill.com/document/doi/10.1515/kern-2026-0026/pdf",
+          "error": null,
+          "content_type": "text/html; charset=UTF-8",
+          "pdf_header": false
+        },
+        {
+          "mode": "direct",
+          "url": "https://www.degruyterbrill.com/document/doi/10.1515/kern-2026-0026/pdf",
+          "final_url": "https://www.degruyterbrill.com/document/doi/10.1515/kern-2026-0026/pdf",
+          "error": null,
+          "content_type": "text/html; charset=UTF-8",
+          "pdf_header": false
+        }
+      ]
+    },
+    {
+      "key": "cr39",
+      "ok": true,
+      "path": "daily/2026-11-02/pdfs/Cui et al. - 2026 - Angle independent CR39 neutron detector.pdf",
+      "url": "https://iopscience.iop.org/article/10.1088/1361-6498/aeb271/pdf",
+      "attempts": [
+        {
+          "mode": "env-proxy",
+          "url": "https://iopscience.iop.org/article/10.1088/1361-6498/aeb271/pdf",
+          "final_url": "https://iopscience.iop.org/article/10.1088/1361-6498/aeb271/pdf",
+          "error": null,
+          "content_type": "application/pdf;charset=UTF-8",
+          "pdf_header": true
+        }
+      ]
+    },
+    {
+      "key": "neural",
+      "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/80ADFCACF5B83E1AC270C5D1ECFA2EF0/S0022377826102517a.pdf/a-neural-operator-closure-for-landau-damping-in-electrostatic-plasma.pdf",
+      "path": "daily/2026-11-02/pdfs/Burles et al. - 2026 - Neural operator Landau damping VOR.pdf",
+      "ok": true,
+      "attempts": [
+        {
+          "mode": "curl env-proxy",
+          "returncode": 0,
+          "result": "200 application/pdf https://www.cambridge.org/core/services/aop-cambridge-core/content/view/80ADFCACF5B83E1AC270C5D1ECFA2EF0/S0022377826102517a.pdf/a-neural-operator-closure-for-landau-damping-in-electrostatic-plasma.pdf",
+          "stderr": ""
+        }
+      ]
+    }
+  ],
+  "rejected_nonpdfs_are_not_ingested": true
+}
