@@ -7425,5 +7425,86 @@
     "fulltext_version": "official arXiv v1 author preprint",
     "arxiv_id": "2610.38810",
     "arxiv_version": "2610.38810v1"
+  },
+  {
+    "title": "Thermonuclear reaction rate of the deuteron alpha capture reaction in cluster effective field theory",
+    "doi": "10.1038/s41598-026-78629-5",
+    "authors": [
+      "F. Nazari",
+      "M. Radin",
+      "M. Moeini Arani"
+    ],
+    "journal": "Scientific Reports",
+    "publication_date": "2026-11-02",
+    "publication_date_type": "publisher_online_date",
+    "publication_status": "peer-reviewed Article in Press, published online; not final edited VOR",
+    "source_url": "https://www.nature.com/articles/s41598-026-78629-5",
+    "pdf_path": "daily/2026-11-03/pdfs/Nazari et al. - 2026 - Deuteron alpha capture reaction rate.pdf",
+    "pdf_sha256": "ac622f7bab3675b5438dfb6e9a0becb596a7a3db725ca27cc6548db0483d5055",
+    "pdf_url": "https://www.nature.com/articles/s41598-026-78629-5_reference.pdf",
+    "note_path": "daily/2026-11-03/notes/Nazari et al. - 2026 - Deuteron alpha capture reaction rate.md",
+    "normalized_title": "thermonuclear reaction rate of the deuteron alpha capture reaction in cluster effective field theory",
+    "processed_date": "2026-11-03",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "general-plasma-and-methods"
+    ],
+    "fulltext_version": "publisher Article in Press accepted early version; final edited VOR pending",
+    "accepted_date": "2026-10-27",
+    "received_date": "2026-06-15",
+    "version_followup": "Await final edited VOR; printed Eq25 vs Table1 and Fig2 legend/caption discrepancies recorded in note"
+  },
+  {
+    "title": "An approximate separation of the electron and positron degrees of freedom in the Dirac-Heisenberg-Wigner formalism",
+    "doi": "10.48550/arXiv.2610.41623",
+    "authors": [
+      "Gert Brodin",
+      "Sebastian Lundström"
+    ],
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-30",
+    "publication_date_type": "arxiv_submission",
+    "publication_status": "author preprint; no same-work VOR verified in bounded exact-title search",
+    "source_url": "https://arxiv.org/abs/2610.41623",
+    "pdf_path": "daily/2026-11-03/pdfs/Brodin and Lundstrom - 2026 - Weakly coupled electron positron DHW.pdf",
+    "pdf_sha256": "c513faec5c1b9b617a02a2c805177b9d102db4f7afd4cd80431e9ca4fb3365a5",
+    "pdf_url": "https://arxiv.org/pdf/2610.41623v1",
+    "note_path": "daily/2026-11-03/notes/Brodin and Lundstrom - 2026 - Weakly coupled electron positron DHW.md",
+    "normalized_title": "an approximate separation of the electron and positron degrees of freedom in the dirac heisenberg wigner formalism",
+    "processed_date": "2026-11-03",
+    "categories": [
+      "strong-field-qed-radiation",
+      "pic-and-plasma-simulation"
+    ],
+    "fulltext_version": "official arXiv v1 author preprint",
+    "arxiv_id": "2610.41623",
+    "arxiv_version": "2610.41623v1"
+  },
+  {
+    "title": "Accelerating Computation and Resolving Extraneous Roots in the Kinetic Plasma Dispersion Relation Solver BO",
+    "doi": "10.48550/arXiv.2610.41450",
+    "authors": [
+      "Xizhi Tian",
+      "Huasheng Xie",
+      "Long Wei"
+    ],
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-30",
+    "publication_date_type": "arxiv_submission",
+    "publication_status": "author preprint; no same-work VOR verified in bounded exact-title search",
+    "source_url": "https://arxiv.org/abs/2610.41450",
+    "pdf_path": "daily/2026-11-03/pdfs/Tian et al. - 2026 - BO Tian kinetic dispersion solver.pdf",
+    "pdf_sha256": "a67311e12d9f396239fd2ef3215c685e650b8d9667c3470e07dbb031f0c337ce",
+    "pdf_url": "https://arxiv.org/pdf/2610.41450v1",
+    "note_path": "daily/2026-11-03/notes/Tian et al. - 2026 - BO Tian kinetic dispersion solver.md",
+    "normalized_title": "accelerating computation and resolving extraneous roots in the kinetic plasma dispersion relation solver bo",
+    "processed_date": "2026-11-03",
+    "categories": [
+      "pic-and-plasma-simulation",
+      "general-plasma-and-methods"
+    ],
+    "fulltext_version": "official arXiv v1 author preprint",
+    "arxiv_id": "2610.41450",
+    "arxiv_version": "2610.41450v1"
   }
 ]

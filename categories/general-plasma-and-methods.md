@@ -2,11 +2,13 @@
 
 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。
 
-- 当前收录：114 篇
-- 索引更新时间：2026-11-02
+- 当前收录：116 篇
+- 索引更新时间：2026-11-03
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-03 | [Thermonuclear reaction rate of the deuteron alpha capture reaction in cluster effective field theory](../papers/10-1038-s41598-026-78629-5/README.md) | Scientific Reports | [笔记](../daily/2026-11-03/notes/Nazari et al. - 2026 - Deuteron alpha capture reaction rate.md) |
+| 2026-11-03 | [Accelerating Computation and Resolving Extraneous Roots in the Kinetic Plasma Dispersion Relation Solver BO](../papers/arxiv-2610-41450/README.md) | arXiv preprint | [笔记](../daily/2026-11-03/notes/Tian et al. - 2026 - BO Tian kinetic dispersion solver.md) |
 | 2026-10-15 | [Low-energy electron collisions with BH+](../papers/10-1063-5-0354874/README.md) | The Journal of Chemical Physics (formal VOR) | [笔记](../daily/2026-10-15/notes/Mezlini et al. - 2026 - Low-energy electron collisions with BH plus.md) |
 | 2026-10-15 | [QUARZ: a quasi-static particle-in-cell code with non-uniform radial grids for plasma wakefields](../papers/arxiv-2610-16910/README.md) | arXiv preprint | [笔记](../daily/2026-10-15/notes/Pukhov and Wilson - 2026 - QUARZ plasma wakefields.md) |
 | 2026-10-14 | [Two-color dual-oscillator infrared free-electron laser](../papers/10-1103-b27b-9gg1/README.md) | Physical Review Accelerators and Beams (formal CC BY VOR) | [笔记](../daily/2026-10-14/notes/Schollkopf et al. - 2026 - Two-color dual-oscillator infrared FEL.md) |

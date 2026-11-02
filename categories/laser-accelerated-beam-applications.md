@@ -2,11 +2,12 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：135 篇
-- 索引更新时间：2026-11-02
+- 当前收录：136 篇
+- 索引更新时间：2026-11-03
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-03 | [Thermonuclear reaction rate of the deuteron alpha capture reaction in cluster effective field theory](../papers/10-1038-s41598-026-78629-5/README.md) | Scientific Reports | [笔记](../daily/2026-11-03/notes/Nazari et al. - 2026 - Deuteron alpha capture reaction rate.md) |
 | 2026-11-02 | [A novel angle-independent neutron detector based on CR-39](../papers/10-1088-1361-6498-aeb271/README.md) | Journal of Radiological Protection 46, 041509 | [笔记](../daily/2026-11-02/notes/Cui et al. - 2026 - Angle independent CR39 neutron detector.md) |
 | 2026-11-01 | [Material calibration-independent neutron scattering corrections for quantitative imaging](../papers/10-1038-s41598-026-77789-8/README.md) | Scientific Reports | [笔记](../daily/2026-11-01/notes/Sans-Planell et al. - 2026 - Calibration independent neutron imaging.md) |
 | 2026-11-01 | [Neutron spectrometry of (p,n) based neutron fields at the University of Helsinki using the NCT-WES single-moderator directional spectrometer](../papers/arxiv-2610-39763/README.md) | arXiv preprint | [笔记](../daily/2026-11-01/notes/Myllymaki et al. - 2026 - NCT WES neutron spectrometry.md) |

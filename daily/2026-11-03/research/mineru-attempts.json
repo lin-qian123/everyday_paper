@@ -1,0 +1,25 @@
+{
+  "attempted_at": "2026-11-03T07:10:31.686450+08:00",
+  "successful_parses": [],
+  "failed_parses": [
+    {
+      "source": "https://arxiv.org/pdf/2610.41623v1",
+      "error": "HTTP 401 for https://mineru.net/api/v4/extract/task: {\"traceId\":\"a949196e34fc\",\"msgCode\":\"A0211\",\"msg\":\"user token expired\",\"data\":null,\"success\":false,\"total\":0}",
+      "next_step": "If this is a protected page, try another accessible mirror URL."
+    },
+    {
+      "source": "https://arxiv.org/pdf/2610.41450v1",
+      "error": "HTTP 401 for https://mineru.net/api/v4/extract/task: {\"traceId\":\"2801e5230ea0\",\"msgCode\":\"A0211\",\"msg\":\"user token expired\",\"data\":null,\"success\":false,\"total\":0}",
+      "next_step": "If this is a protected page, try another accessible mirror URL."
+    },
+    {
+      "source": "https://www.nature.com/articles/s41598-026-78629-5_reference.pdf",
+      "error": "HTTP 401 for https://mineru.net/api/v4/extract/task: {\"traceId\":\"7e3a941da92e\",\"msgCode\":\"A0211\",\"msg\":\"user token expired\",\"data\":null,\"success\":false,\"total\":0}",
+      "next_step": "If this is a protected page, try another accessible mirror URL."
+    }
+  ],
+  "failure_class": "API authentication expired, not publisher/PDF format failure",
+  "fallback": "independently validated local PDF, pdftotext-layout, PyMuPDF text, 22 keypages and5 final original excerpts manually inspected",
+  "no_author_physics_or_ML_code_executed": true,
+  "limited_arithmetic_check": "check_printed_rate_fit.py evaluates only the four printed equation/table comparisons"
+}

@@ -1,0 +1,87 @@
+[
+  {
+    "key": "rate",
+    "label": "Table 1",
+    "source_pdf": "daily/2026-11-03/pdfs/Nazari et al. - 2026 - Deuteron alpha capture reaction rate.pdf",
+    "source_pdf_sha256": "ac622f7bab3675b5438dfb6e9a0becb596a7a3db725ca27cc6548db0483d5055",
+    "pdf_page_1based": 8,
+    "crop_points": [
+      48,
+      52,
+      595,
+      578
+    ],
+    "path": "daily/2026-11-03/images/rate/table-1-rate-uncertainties.png",
+    "sha256": "1c2e648ade8b53c78012a58f7632933ad37bd005811c9111b459b2989f584fa6",
+    "operation": "unmodified original excerpt; page crop and rasterization only",
+    "attribution": "Nazari et al. 2026, doi:10.1038/s41598-026-78629-5, CC BY-NC-ND 4.0"
+  },
+  {
+    "key": "rate",
+    "label": "Figure 2",
+    "source_pdf": "daily/2026-11-03/pdfs/Nazari et al. - 2026 - Deuteron alpha capture reaction rate.pdf",
+    "source_pdf_sha256": "ac622f7bab3675b5438dfb6e9a0becb596a7a3db725ca27cc6548db0483d5055",
+    "pdf_page_1based": 9,
+    "crop_points": [
+      48,
+      52,
+      550,
+      401
+    ],
+    "path": "daily/2026-11-03/images/rate/figure-2-normalized-rates.png",
+    "sha256": "d0ac68322feee5f512d2352713f50b768d62f6267e07f2ec7bfd4456fc9c3bd7",
+    "operation": "unmodified original excerpt; page crop and rasterization only",
+    "attribution": "Nazari et al. 2026, doi:10.1038/s41598-026-78629-5, CC BY-NC-ND 4.0"
+  },
+  {
+    "key": "rate",
+    "label": "Equation 25",
+    "source_pdf": "daily/2026-11-03/pdfs/Nazari et al. - 2026 - Deuteron alpha capture reaction rate.pdf",
+    "source_pdf_sha256": "ac622f7bab3675b5438dfb6e9a0becb596a7a3db725ca27cc6548db0483d5055",
+    "pdf_page_1based": 7,
+    "crop_points": [
+      51,
+      606,
+      550,
+      649
+    ],
+    "path": "daily/2026-11-03/images/rate/equation-25-published-fit.png",
+    "sha256": "782c883714d568fab89a128a798d7b2e6a918d2662dc9cd210abf48c5eac2211",
+    "operation": "unmodified original excerpt; page crop and rasterization only",
+    "attribution": "Nazari et al. 2026, doi:10.1038/s41598-026-78629-5, CC BY-NC-ND 4.0"
+  },
+  {
+    "key": "bo",
+    "label": "Table 1",
+    "source_pdf": "daily/2026-11-03/pdfs/Tian et al. - 2026 - BO Tian kinetic dispersion solver.pdf",
+    "source_pdf_sha256": "a67311e12d9f396239fd2ef3215c685e650b8d9667c3470e07dbb031f0c337ce",
+    "pdf_page_1based": 9,
+    "crop_points": [
+      68,
+      244,
+      530,
+      414
+    ],
+    "path": "daily/2026-11-03/images/bo/table-1-matrix-timing.png",
+    "sha256": "51bc5269f0d92139d86be7826d64e39d2947e3f3b7bad248a5e0fbe757675625",
+    "operation": "unmodified original excerpt; page crop and rasterization only",
+    "attribution": "Tian et al. 2026, arXiv:2610.41450v1, original scientific quotation"
+  },
+  {
+    "key": "bo",
+    "label": "Figure 5",
+    "source_pdf": "daily/2026-11-03/pdfs/Tian et al. - 2026 - BO Tian kinetic dispersion solver.pdf",
+    "source_pdf_sha256": "a67311e12d9f396239fd2ef3215c685e650b8d9667c3470e07dbb031f0c337ce",
+    "pdf_page_1based": 12,
+    "crop_points": [
+      68,
+      479,
+      529,
+      747
+    ],
+    "path": "daily/2026-11-03/images/bo/figure-5-firehose-branches.png",
+    "sha256": "55e0b9118904018d4e563a07aec9b47c365ef0697aa2c97d9145a2bafea3469f",
+    "operation": "unmodified original excerpt; page crop and rasterization only",
+    "attribution": "Tian et al. 2026, arXiv:2610.41450v1, original scientific quotation"
+  }
+]

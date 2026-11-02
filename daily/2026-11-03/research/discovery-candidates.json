@@ -1,0 +1,3588 @@
+{
+  "crossref_title_keyword_snapshot": [
+    {
+      "doi": "10.1016/j.applthermaleng.2026.133565",
+      "title": "Effect of the synergistic mechanism between projectile inertial confinement and radial expansion confinement on the internal ballistic energy conversion efficiency of supercritical CO₂",
+      "journal": [
+        "Applied Thermal Engineering"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.matlet.2026.141387",
+      "title": "Achieving exceptional strength-ductility synergy in laser powder bed fusion H13 steel via intrinsic heat treatment induced by high volumetric energy density",
+      "journal": [
+        "Materials Letters"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.matchar.2026.117239",
+      "title": "High-energy-density laser powder bed fusion enables melt-pool tailoring and strength-ductility synergy in Y2O3-modified GH4169 composites",
+      "journal": [
+        "Materials Characterization"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1088/2058-6272/aebc30",
+      "title": "Perturbation analysis of beta-induced Alfvén eigenmode in toroidally rotating tokamak plasmas",
+      "journal": [
+        "Plasma Science and Technology"
+      ],
+      "date": [
+        2026,
+        11,
+        2
+      ],
+      "date_precision": "day",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.55041/ijsrem68676",
+      "title": "Experimetal Plasma Confinement in Thermonuclear Fusion Reactors",
+      "journal": [
+        "International Journal of Scientific Research in Engineering and Management"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.matchar.2026.117270",
+      "title": "Achieving strength–ductility synergy in laser powder bed fusion Al-5Cu via ternary coupling of high volumetric energy density—TiB2-TiC-T6 post-build heat treatment",
+      "journal": [
+        "Materials Characterization"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1063/5.0349325",
+      "title": "A probabilistic model of laser drive asymmetries applied to an inertial fusion energy reactor design",
+      "journal": [
+        "Physics of Plasmas"
+      ],
+      "date": [
+        2026,
+        11,
+        2
+      ],
+      "date_precision": "day",
+      "status": "fulltext_retry"
+    },
+    {
+      "doi": "10.1016/j.actamat.2026.122703",
+      "title": "Irradiation-driven recrystallization in fusion-grade tungsten: A mesoscale, microstructure-aware model",
+      "journal": [
+        "Acta Materialia"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1063/5.0351973",
+      "title": "The role of electron–ion equilibration on the size scaling of laser direct-drive implosions",
+      "journal": [
+        "Physics of Plasmas"
+      ],
+      "date": [
+        2026,
+        11,
+        2
+      ],
+      "date_precision": "day",
+      "status": "fulltext_retry"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.116270",
+      "title": "Effect of laser energy density on melt pool size, morphology, and mechanism of Ti-6Al-4v in laser powder bed fusion via simulation and experiment",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.fusengdes.2026.116042",
+      "title": "Numerical investigation of thermo-fluid dynamics in a high-speed lithium jet under ion beam irradiation for fusion neutron sources",
+      "journal": [
+        "Fusion Engineering and Design"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.jnucmat.2026.156987",
+      "title": "Effect of thermal neutron shielding on the irradiation hardening and recrystallization of tungsten",
+      "journal": [
+        "Journal of Nuclear Materials"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.apradiso.2026.112848",
+      "title": "Computational investigation of energy-dependent gamma-ray attenuation and fast-neutron shielding properties of metal-Naphthalocyanines",
+      "journal": [
+        "Applied Radiation and Isotopes"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.115816",
+      "title": "Neutron irradiation effects on the FTIR vibrational response of nanocrystalline boron carbide (B4C)",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.apradiso.2026.112841",
+      "title": "Multifunctional polyurethane foam composites reinforced with B4C/PbO/CdO for enhanced gamma and neutron radiation shielding: Experimental and Monte Carlo investigation",
+      "journal": [
+        "Applied Radiation and Isotopes"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.physb.2026.419293",
+      "title": "Dynamics of radiation-induced defects and optical absorption in Y2SiO5:Ce3+ crystals under γ- and neutron irradiation",
+      "journal": [
+        "Physica B: Condensed Matter"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.59957/jctm.v61.i6.2026.19",
+      "title": "INFLUENCE OF NEUTRON IRRADIATION ON THE TEMPERATURE DEPENDENCE OF MAGNETIC SUSCEPTIBILITY IN Fe - Ni INVAR ALLOYS WITH VARYING NICKEL CONTENT",
+      "journal": [
+        "Journal of Chemical Technology and Metallurgy"
+      ],
+      "date": [
+        2026,
+        11,
+        1
+      ],
+      "date_precision": "day",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.materresbull.2026.114250",
+      "title": "Effect of TiC variation on the gamma-ray and neutron shielding properties of ZrB2-TiC-C ultra-high temperature ceramic",
+      "journal": [
+        "Materials Research Bulletin"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.ceramint.2026.08.296",
+      "title": "Fabrication and characterization of LiH ceramics for neutron shielding in space reactor systems",
+      "journal": [
+        "Ceramics International"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.net.2026.104518",
+      "title": "Quantitative analysis of signal response components in self-powered neutron detectors under in-core mixed neutron-gamma irradiation fields",
+      "journal": [
+        "Nuclear Engineering and Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.radphyschem.2026.114129",
+      "title": "Design and preparation of Al-based compositionally complex alloys containing Bi and Gd potentially used for shielding both γ-ray and thermal neutron",
+      "journal": [
+        "Radiation Physics and Chemistry"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.jmrt.2026.10.197",
+      "title": "Effects of neutron irradiation on micro-tensile characteristics of buffer, IPyC, and IPyC-buffer interlayer regions of TRISO particle fuels",
+      "journal": [
+        "Journal of Materials Research and Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.jmrt.2026.10.041",
+      "title": "Effect of the number of layers on the microstructure, mechanical properties, and neutron shielding performance of multilayer 316L/(316L-Gd) laminated metal composites",
+      "journal": [
+        "Journal of Materials Research and Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.polymertesting.2026.109381",
+      "title": "Multiscale Fingerprinting of a Disruption–Recombination Crossover in Cyanate Ester Networks under Extreme Neutron Irradiation",
+      "journal": [
+        "Polymer Testing"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.jmrt.2026.09.161",
+      "title": "Accelerated corrosion and irradiation-assisted degradation of cast Aluminum–B4C neutron absorbers in spent nuclear fuel wet storage environments",
+      "journal": [
+        "Journal of Materials Research and Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.nucengdes.2026.115164",
+      "title": "Design of a neutron irradiation campaign for electron beam welded reactor pressure vessel steel",
+      "journal": [
+        "Nuclear Engineering and Design"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.radphyschem.2026.114037",
+      "title": "Comparative neutron irradiation effects on structural (B/Ge) and rare-earth (Er/Yb) doped silica fibers: Photoluminescence and application specific performance analysis",
+      "journal": [
+        "Radiation Physics and Chemistry"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.msea.2026.151018",
+      "title": "Influence of severe plastic deformation processing on grain refinement and neutron irradiation response in FeCrAl alloys",
+      "journal": [
+        "Materials Science and Engineering: A"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.jnucmat.2026.157043",
+      "title": "Grain-interior and grain-boundary strength of tungsten under helium-ion and neutron irradiation revealed by micro-cantilever bending",
+      "journal": [
+        "Journal of Nuclear Materials"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.pnucene.2026.106580",
+      "title": "Formation and evolution of displacement cascades in the fuel element claddings made of austenic steel Cr16-Ni19 under neutron irradiation in the low enrichment zone of the BN-600 reactor",
+      "journal": [
+        "Progress in Nuclear Energy"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.physletb.2026.141063",
+      "title": "A search for non-Newtonian force in nm range from slow neutron scattering by noble gases and neutron diffraction on atom pairs",
+      "journal": [
+        "Physics Letters B"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.jnucmat.2026.156998",
+      "title": "Tensile and Charpy impact properties of EUROFER97-3 and three RAFM steels after neutron irradiation at 330 ºC and 540 ºC to damage doses of 19-24 dpa",
+      "journal": [
+        "Journal of Nuclear Materials"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.actamat.2026.122699",
+      "title": "Atomic-scale solute redistribution during high fluence neutron irradiation of a zirconium cladding alloy",
+      "journal": [
+        "Acta Materialia"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.115671",
+      "title": "Laser–material interaction mechanism of paint delamination on aluminum alloys under nanosecond laser irradiation: roles of recoil pressure and thermo-mechanical stress",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.matlet.2026.141284",
+      "title": "Neutron imaging analyses of thermal neutron transmission in borated stainless steels",
+      "journal": [
+        "Materials Letters"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.nima.2026.171689",
+      "title": "Neutron optics composed of focusing mirror and post-collimation for small-angle neutron scattering at compact neutron sources",
+      "journal": [
+        "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1103/4wg7-vjj3",
+      "title": "Non-Efimovian two-neutron halos with an\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\">\n                      <mml:mrow>\n                        <mml:mi>s</mml:mi>\n                        <mml:mo>−</mml:mo>\n                      </mml:mrow>\n                    </mml:math>\n                    wave core-neutron resonance",
+      "journal": [
+        "Physical Review Letters"
+      ],
+      "date": [
+        2026,
+        11,
+        2
+      ],
+      "date_precision": "day",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.26434/chemrxiv.15011435/v1",
+      "title": "A database-wide atlas of single-crystal filters for thermal neutron beams",
+      "journal": null,
+      "date": [
+        2026,
+        11,
+        1
+      ],
+      "date_precision": "day",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.nucengdes.2026.115103",
+      "title": "A simulation of the CAPRIX pin irradiation in comparison with experimental data: Illustration of the significance of accurate irradiation data",
+      "journal": [
+        "Nuclear Engineering and Design"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.matchar.2026.117228",
+      "title": "Reassessing irradiation response in multi-principal element alloys: Dose rate as an important factor behind perceived superior irradiation resistance",
+      "journal": [
+        "Materials Characterization"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.solener.2026.115100",
+      "title": "Irradiation damage effects and carrier collection characteristics of InGaAs/GaAsP multiple quantum well solar cells under 1 MeV electron irradiation",
+      "journal": [
+        "Solar Energy"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.apradiso.2026.112804",
+      "title": "Optimization of target materials for a 3 MeV proton-driven accelerator neutron source for boron neutron capture therapy",
+      "journal": [
+        "Applied Radiation and Isotopes"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.2118/236086-ms",
+      "title": "Irradiation-Enhanced PTFE Coating for Hydrogen Pipelines: Density, Wear Resistance, and Anti-Embrittlement",
+      "journal": [
+        "ADIPEC"
+      ],
+      "date": [
+        2026,
+        11,
+        2
+      ],
+      "date_precision": "day",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.vacuum.2026.115755",
+      "title": "Swift heavy ion track formation in SiC films under high-temperature irradiation",
+      "journal": [
+        "Vacuum"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optmat.2026.118312",
+      "title": "Engineering ZnO/g-C3N4 heterostructures for enhanced photocatalytic performance under solar irradiation",
+      "journal": [
+        "Optical Materials"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.apsusc.2026.167744",
+      "title": "Enhancing the material removal efficiency of SiC via atomic oxygen irradiation: Insights into polarity-dependent oxidation and nanomechanical degradation",
+      "journal": [
+        "Applied Surface Science"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.3389/fmats.2026.1986968",
+      "title": "Beyond single-property retention: how multifunctional composites lose serviceability under irradiation",
+      "journal": [
+        "Frontiers in Materials"
+      ],
+      "date": [
+        2026,
+        11,
+        2
+      ],
+      "date_precision": "day",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.apradiso.2026.112819",
+      "title": "Innovative optimization studies to advance the current state of isotope production target design at the high flux isotope reactor",
+      "journal": [
+        "Applied Radiation and Isotopes"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.116290",
+      "title": "Microstructure, mechanical property and corrosion resistance of B4C/Al neutron absorbing composites fabricated by laser directed energy deposition with various scanning speeds",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.115767",
+      "title": "High-precision atmospheric CO2 isotope sensor based on a novel triple enhanced multi-pass herriott cell",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.physletb.2026.141075",
+      "title": "Muon pair production in electron-positron collisions close to threshold in the presence of a strong laser field",
+      "journal": [
+        "Physics Letters B"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.aca.2026.346061",
+      "title": "Measurement of stable isotope ratios of halogenated organic compounds by liquid chromatographic, high-temperature combustion isotope ratio mass spectrometry",
+      "journal": [
+        "Analytica Chimica Acta"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.nucmedbio.2026.109683",
+      "title": "Production of no-carrier-added theranostic Au-199: A systematic evaluation of liquid-liquid extraction from dissolved neutron-irradiated platinum targets",
+      "journal": [
+        "Nuclear Medicine and Biology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.64898/2026.10.30.762321",
+      "title": "Validating static food web model diet matrices using stable isotope simulation",
+      "journal": null,
+      "date": [
+        2026,
+        11,
+        1
+      ],
+      "date_precision": "day",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.115453",
+      "title": "Laser ablation synthesis of Fe2O3-MnO2/PVDF nanocomposites: Structural, optical, thermal, and dielectric enhancement",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.115673",
+      "title": "Synergistic effect of picosecond laser texturing and pulsed laser deposition of bio-ceramics on Ti6Al4V performance",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.115245",
+      "title": "A simple mathematical model of fluence in laser wobble trajectory welding",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.115860",
+      "title": "Measurement of light-to-heat conversion efficiency of TGG crystal for high-power laser systems",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.115637",
+      "title": "Laser fabrication of diamond microchannels with Sub-100 nm cracks for high-efficiency thermal management",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.115796",
+      "title": "Analytical coupled numerical simulation approach to model laser assisted machining of hard-to-cut materials",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.115749",
+      "title": "Transient evolution mechanisms of femtosecond laser-induced plasma in ablating silicon wafer",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.115850",
+      "title": "Achieving laser heat conduction welding of CF/PPS through an optimized laser scanning strategy",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.116231",
+      "title": "Laser scribing of perovskite solar modules: Ablation mechanisms, damage evolution, and healing strategies",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.115866",
+      "title": "Aberration-Resilient modal decomposition of laser beam",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.115604",
+      "title": "Detection of processing depth and penetration based on recoil force induced by laser ablation",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.115554",
+      "title": "Improving laser weld qualities of aluminium to steel dissimilar joints by integrating beam shaping with wobble parameters",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.116271",
+      "title": "Laser metal powder bed fusion of pure copper with green and infrared wavelength for power electronics applications",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.116286",
+      "title": "Process-boundary identification and data-driven optimization for femtosecond laser thinning of 4H-SiC",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.115747",
+      "title": "High-strain-rate response analysis of composites under laser shock with tension-compression asymmetry model",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.116250",
+      "title": "Characteristics and mechanisms of picosecond laser machining of monolithic alumina",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.115763",
+      "title": "Thermal diffusivity-driven laser ablation of concrete composites under high-power QCW irradiation",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.115609",
+      "title": "Key technologies in repair of modern industrial high-end equipment based on selective laser melting: A review",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.115713",
+      "title": "Research on power amplification and spectral broadening of pulsed radially polarized fiber laser",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.115535",
+      "title": "A strategy for high-quality EBSD surface processing in femtosecond laser machining",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.116258",
+      "title": "Topology-preserving coarse-to-fine regression for annular laser stripe centerline extraction in deep-hole metrology",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.116243",
+      "title": "Optoelectronics on ferrule: Challenges and opportunities for fiber-to-laser coupling",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.115651",
+      "title": "The effects of laser power on the interfacial microstructure, plasma behaviors and joint properties of sapphire micro-welds by ultrafast laser direct joining",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.116330",
+      "title": "A numerical study on the effect of laser beam shaping on surface roughness and texture in laser powder bed fusion",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.115460",
+      "title": "Laser parameters and efficiency in thin-wall laser powder bed fusion: an enthalpy-based pulse spacing strategy",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.115541",
+      "title": "Mechanism-driven liquid-assisted laser micromachining: from cavitation dynamics to surface integrity",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.116261",
+      "title": "Homogeneous growth of self-assembled Si nanopillar array via an asymmetric overlap of a spot beam laser",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.115650",
+      "title": "Perceptually-driven cyan enhancement using a content-adaptive algorithm for RGBC four-primary laser displays",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.115694",
+      "title": "Coating removal during wet laser cleaning of multi-layer acrylic polyurethane coatings on Al 6061-T6",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.115834",
+      "title": "Automatic control of transverse modes in an off-axis pumped ultrafast solid-state laser",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.115832",
+      "title": "Direct generating LG1,l petal-like modes with l up to 9 in a Raman microchip laser",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.115852",
+      "title": "Effect of pulse duration and repetition rate of nanosecond laser on material removal under constant processing time and power consumption",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.115754",
+      "title": "Beam incidence angle–driven process–structure–function relationships in femtosecond laser–induced periodic surface structures",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.115491",
+      "title": "Photochemical removal of lubricant films from TC4 surfaces via 248 nm deep-ultraviolet nanosecond laser",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.115823",
+      "title": "Intrinsic strengthening mechanisms of particle-reinforced titanium matrix composites fabricated by laser melting deposition",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.115884",
+      "title": "In-situ camera-based condition monitoring for wear classification and quantification on scanner protective windows in laser powder bed fusion (PBF-LB/M)",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.115522",
+      "title": "Simultaneous generation of dual-periodic asymmetric ripples using an oblique s-polarized femtosecond laser",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1515/kern-2026-0026",
+      "title": "Effects of energy-group resolution on SpecKit-based neutron spectrum unfolding",
+      "journal": [
+        "Kerntechnik"
+      ],
+      "date": [
+        2026,
+        11,
+        2
+      ],
+      "date_precision": "day",
+      "status": "known_processed_or_retry"
+    },
+    {
+      "doi": "10.1016/j.radphyschem.2026.114033",
+      "title": "Evaluation and reconstruction of 18O(α, n)21Ne reaction partial cross sections for neutron spectrum calculation in 238PuO2",
+      "journal": [
+        "Radiation Physics and Chemistry"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.ijrobp.2026.10.021",
+      "title": "High-dose reirradiation of in-field recurrence lung cancer in the THOrax (RETHO): toxicity analysis of a prospective trial",
+      "journal": [
+        "International Journal of Radiation Oncology*Biology*Physics"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.ijrobp.2026.04.026",
+      "title": "Consolidative Camrelizumab Following Definitive Concurrent Chemoradiation Therapy With Involved-Field Irradiation in Locally Advanced Esophageal Squamous Cell Carcinoma: A Single-Arm Phase 2 Trial",
+      "journal": [
+        "International Journal of Radiation Oncology*Biology*Physics"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.radphyschem.2026.114084",
+      "title": "Dosimetric characterization of high-power radiation systems using benzene and cyclohexane",
+      "journal": [
+        "Radiation Physics and Chemistry"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.radphyschem.2026.114070",
+      "title": "Radiation-induced effects in polytetrafluoroethylene (PTFE): Dose-response linearity and low-dose skin dosimetry",
+      "journal": [
+        "Radiation Physics and Chemistry"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.prro.2026.04.017",
+      "title": "Clinical Implementation of Dual-Isocenter Magnetic Resonance-Guided Radiation Therapy for Large-Target Cervical Cancer: A Dosimetric and Workflow Analysis",
+      "journal": [
+        "Practical Radiation Oncology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1103/qjd9-p6dy",
+      "title": "Experimental demonstration of beam-driven wakefield acceleration in laser-plasma filament",
+      "journal": [
+        "Physical Review E"
+      ],
+      "date": [
+        2026,
+        11,
+        2
+      ],
+      "date_precision": "day",
+      "status": "known_processed_or_retry"
+    },
+    {
+      "doi": "10.1016/j.physrep.2026.07.008",
+      "title": "Particle-beam-driven plasma wakefield acceleration: Milestones, emerging trends and future directions",
+      "journal": [
+        "Physics Reports"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.115544",
+      "title": "Stabilization of laser-sustained plasma light sources via near-anode plasma confinement in the gravitational field",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.116279",
+      "title": "Region-specific laser-induced plasma acoustic correction for quantitative LIBS analysis of alloy elements",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.4018/979-8-2600-0423-4.ch002",
+      "title": "Laser-Driven Quasi-Static Magnetic Fields in Semiconducting Plasmas",
+      "journal": [
+        "Theory, Applications, and Impacts of Advanced Plasma Engineering"
+      ],
+      "date": [
+        2026,
+        11,
+        3
+      ],
+      "date_precision": "day",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.scriptamat.2026.117500",
+      "title": "Laser ablation particle acceleration and observation (LAPAO) system reveals the metal–ceramic adhesion mechanism under supersonic impacts",
+      "journal": [
+        "Scripta Materialia"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.matlet.2026.141304",
+      "title": "Pulsed laser deposition DC plasma-assisted of GaAsN thin films",
+      "journal": [
+        "Materials Letters"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.115857",
+      "title": "Plasma light source with enhanced ultraviolet brightness sustained by high-power orthogonal lasers",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1186/s12933-026-03388-6",
+      "title": "Biological age acceleration, plasma proteomics, and incident arrhythmias in type 2 diabetes",
+      "journal": [
+        "Cardiovascular Diabetology"
+      ],
+      "date": [
+        2026,
+        11,
+        2
+      ],
+      "date_precision": "day",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.powtec.2026.122863",
+      "title": "Comparative analysis of microstructure and mechanical properties of Inconel alloy 718 fabricated via laser powder bed fusion, laser metal deposition, and spark plasma sintering",
+      "journal": [
+        "Powder Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.sab.2026.107629",
+      "title": "Autler-Townes dressed states in Fraunhofer-type absorption of Pb laser-induced plasma",
+      "journal": [
+        "Spectrochimica Acta Part B: Atomic Spectroscopy"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.115389",
+      "title": "Improving the interfacial quality between epoxy and solder via atmospheric pressure plasma in electronic packaging",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.116386",
+      "title": "Physics-guided multimodal learning for robust vacuum-level assessment of switchgear using laser-induced plasma",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.115595",
+      "title": "Process boundaries of laser-based powder bed fusion and plasma electrolytic surface modification regarding filigree magnesium WE43 structures",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.trac.2026.119045",
+      "title": "Plasma homologous information for assisting laser-induced breakdown spectroscopy: Recent advances in spectral endogenous parameters, acoustic signals, and plasma images",
+      "journal": [
+        "TrAC Trends in Analytical Chemistry"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1080/14764172.2026.2753201",
+      "title": "Use of platelet-rich plasma to enhance wound healing after cesarean section: a systematic review and meta-analysis of randomized controlled trials",
+      "journal": [
+        "Journal of Cosmetic and Laser Therapy"
+      ],
+      "date": [
+        2026,
+        11,
+        1
+      ],
+      "date_precision": "day",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.physleta.2026.132105",
+      "title": "Amplification of mid-infrared radiation in a nonequilibrium plasma channel created by high-intensity laser radiation",
+      "journal": [
+        "Physics Letters A"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.measurement.2026.122956",
+      "title": "Spectral broadband characterization method for laser-produced plasma EUV source",
+      "journal": [
+        "Measurement"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optcom.2026.133494",
+      "title": "Research on the mechanism of magnetic field enhancement of nanosecond laser-induced plasma cleaning of 7075 aluminum alloy surface paint layer",
+      "journal": [
+        "Optics Communications"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.jmapro.2026.10.049",
+      "title": "Effect of laser enhancement on joint properties in plasma arc welded A5052 aluminum alloy",
+      "journal": [
+        "Journal of Manufacturing Processes"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.115583",
+      "title": "Charge separation by standing waves of strongly focused few-cycle laser pulses for particle acceleration",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.apsusc.2026.167406",
+      "title": "Laser-processed 3D graphene interfaces: from magnetron sputtered plasma-polymers to fluorine-modified electrochemical interfaces",
+      "journal": [
+        "Applied Surface Science"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1063/5.0359075",
+      "title": "Longitudinal-field particle acceleration in channels generated by strong electromagnetic waves in pair plasma",
+      "journal": [
+        "Physics of Plasmas"
+      ],
+      "date": [
+        2026,
+        11,
+        2
+      ],
+      "date_precision": "day",
+      "status": "fulltext_retry"
+    },
+    {
+      "doi": "10.4018/979-8-2600-0423-4.ch006",
+      "title": "Machine Learning for Plasma Applications",
+      "journal": [
+        "Theory, Applications, and Impacts of Advanced Plasma Engineering"
+      ],
+      "date": [
+        2026,
+        11,
+        3
+      ],
+      "date_precision": "day",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.2460/javma.26.02.0080",
+      "title": "The in vitro application of high-intensity laser therapy on equine platelet-rich plasma and autologous protein solution does not alter select cytokine and growth factor concentrations",
+      "journal": [
+        "Journal of the American Veterinary Medical Association"
+      ],
+      "date": [
+        2026,
+        11,
+        1
+      ],
+      "date_precision": "day",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.4018/979-8-2600-0423-4.ch011",
+      "title": "Plasma Applications for Material Processing",
+      "journal": [
+        "Theory, Applications, and Impacts of Advanced Plasma Engineering"
+      ],
+      "date": [
+        2026,
+        11,
+        3
+      ],
+      "date_precision": "day",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.physleta.2026.132086",
+      "title": "Influence of target geometry and laser polarization on aluminium plasma emission in atmospheric air pressure",
+      "journal": [
+        "Physics Letters A"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.115784",
+      "title": "Temperature prediction of quartz tube of inductively coupled plasma generator based on deep metric learning",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.surfcoat.2026.133883",
+      "title": "High-performance thermal control coating on CFRP surface fabricated by synergistic combination of laser surface texturing and supersonic atmospheric plasma spraying",
+      "journal": [
+        "Surface and Coatings Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.4018/979-8-2600-0423-4.ch007",
+      "title": "Machine Learning-Enabled Plasma Applications",
+      "journal": [
+        "Theory, Applications, and Impacts of Advanced Plasma Engineering"
+      ],
+      "date": [
+        2026,
+        11,
+        3
+      ],
+      "date_precision": "day",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.4018/979-8-2600-0423-4.ch005",
+      "title": "Hybrid Physics-Informed Machine Learning Models for Plasma Systems",
+      "journal": [
+        "Theory, Applications, and Impacts of Advanced Plasma Engineering"
+      ],
+      "date": [
+        2026,
+        11,
+        3
+      ],
+      "date_precision": "day",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.23876/j.krcp.26.161",
+      "title": "Identification of plasma biomarkers for chronic kidney disease by integrating proteomics and machine learning",
+      "journal": [
+        "Kidney Research and Clinical Practice"
+      ],
+      "date": [
+        2026,
+        11,
+        2
+      ],
+      "date_precision": "day",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.mssp.2026.110897",
+      "title": "Machine learning enhanced real-time temperature measurement for millisecond-scale plasma processing using optical-interference contactless thermometry (OICT)",
+      "journal": [
+        "Materials Science in Semiconductor Processing"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1007/s40964-026-02052-5",
+      "title": "Physics-informed machine learning of plasma arc directed energy deposited TiBw-reinforced titanium matrix composites",
+      "journal": [
+        "Progress in Additive Manufacturing"
+      ],
+      "date": [
+        2026,
+        11,
+        2
+      ],
+      "date_precision": "day",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.cpc.2026.110333",
+      "title": "A Monte Carlo particle merge method based on the charge for particle-in-cell simulations",
+      "journal": [
+        "Computer Physics Communications"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.craph.2026.100115",
+      "title": "A prediction model for late-onset urotoxicity following radiotherapy for cervical cancer based on bladder dosimetric parameters and clinical features: integrating machine learning interpretability and double machine learning analysis",
+      "journal": [
+        "Current Radiopharmaceuticals"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.apt.2026.105440",
+      "title": "A multiphase particle-in-cell method for simulating particle dispersion in fluidized beds",
+      "journal": [
+        "Advanced Powder Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1088/1748-0221/21/11/c11001",
+      "title": "Feasibility study of secondary-electron-bremsstrahlung imaging with a knife-edge slit camera for range verification in carbon-ion therapy",
+      "journal": [
+        "Journal of Instrumentation"
+      ],
+      "date": [
+        2026,
+        11,
+        2
+      ],
+      "date_precision": "day",
+      "status": "fulltext_retry"
+    },
+    {
+      "doi": "10.1016/j.apradiso.2026.112872",
+      "title": "Laser-excited photoluminescence of Cs-137 gamma-preconditioned ZnO on ex vivo chicken skin: Concentration-dependent optical enhancement and Biophotonic Implications",
+      "journal": [
+        "Applied Radiation and Isotopes"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1103/w4s8-cchh",
+      "title": "Harmonic modulation for ultrawide tuning range terahertz free-electron laser via frequency-beating laser modulation",
+      "journal": [
+        "Physical Review Accelerators and Beams"
+      ],
+      "date": [
+        2026,
+        11,
+        2
+      ],
+      "date_precision": "day",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.clon.2026.104311",
+      "title": "UK Photon Radiotherapy Practice for Oligodendroglioma –Data From the Analysis of Proton vs Photon Radiotherapy in Oligodendroglioma and Assessment of Cognitive Health Trial (ISRCTN:1339049) Radiotherapy Quality Assurance (RTQA) Programme",
+      "journal": [
+        "Clinical Oncology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.annonc.2026.07.231",
+      "title": "P017-2 Proton beam therapy vs radiotherapy in pediatric medulloblastoma: a systematic review of survival and cognitive outcomes",
+      "journal": [
+        "Annals of Oncology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.esmoop.2026.108602",
+      "title": "Comparison of intensity-modulated proton therapy (IMPT) and intensity-modulated radiotherapy (IMRT) for oropharyngeal cancer: efficacy and toxicity differ by outcome measure",
+      "journal": [
+        "ESMO Open"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.radphyschem.2026.114135",
+      "title": "Age-dependent organ dose redistribution and effective-dose burden from head-and-neck CT simulation in radiotherapy: A phantom-based assessment using OSL dosimetry",
+      "journal": [
+        "Radiation Physics and Chemistry"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.oooo.2026.05.105",
+      "title": "Letter to the Editor on “In vivo dosimetry in head and neck cancer radiotherapy patients using an intraoral stent: prospective cohort”",
+      "journal": [
+        "Oral Surgery, Oral Medicine, Oral Pathology and Oral Radiology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1088/1361-6560/aeb645",
+      "title": "A fast and reliable quality assurance framework for CBCT-based synthetic CTs for adaptive proton radiotherapy",
+      "journal": [
+        "Physics in Medicine &amp; Biology"
+      ],
+      "date": [
+        2026,
+        11,
+        2
+      ],
+      "date_precision": "day",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.radphyschem.2026.114098",
+      "title": "Experimental determination of scaling factor for poly-lactic acid plastic phantom made using FFF 3D printing in electron dosimetry",
+      "journal": [
+        "Radiation Physics and Chemistry"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.radonc.2026.111754",
+      "title": "When progression-free survival fails to inform: the need for event-level reporting in oligometastatic radiotherapy trials",
+      "journal": [
+        "Radiotherapy and Oncology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.phro.2026.101111",
+      "title": "Comparative evaluation of plan robustness in proton and photon radiotherapy in deep inspiration breath-hold for mediastinal lymphomas throughout the treatment course",
+      "journal": [
+        "Physics and Imaging in Radiation Oncology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.radonc.2026.111780",
+      "title": "Patient-clinician symptom agreement before and after radiotherapy for prostate cancer: results from the randomized HYPO-RT-PC study",
+      "journal": [
+        "Radiotherapy and Oncology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.radonc.2026.111770",
+      "title": "Spatial mapping of cardiac dose-survival associations in oesophageal radiotherapy",
+      "journal": [
+        "Radiotherapy and Oncology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.radonc.2026.111857",
+      "title": "Dosimetric impact of CBCT-guided online adaptive stereotactic body radiotherapy for prostate cancer: a 250-fraction retrospective analysis",
+      "journal": [
+        "Radiotherapy and Oncology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.radonc.2026.111777",
+      "title": "Testosterone monitoring and supplementation in patients with intermediate- or high-risk prostate cancer treated with 6–36 months of androgen deprivation therapy and radiotherapy: a systematic literature review",
+      "journal": [
+        "Radiotherapy and Oncology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.radonc.2026.111854",
+      "title": "A prospective randomized evaluation of AI assisted GTV contouring in head-and-neck radiotherapy",
+      "journal": [
+        "Radiotherapy and Oncology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optmat.2026.118382",
+      "title": "Structural, morphological and trap distribution analysis of K2ZnSiO4 nanomaterial for high dose dosimetry",
+      "journal": [
+        "Optical Materials"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.radonc.2026.111752",
+      "title": "Survival impact of pelvic radiotherapy plus chemotherapy in newly diagnosed stage IVB cervical cancer in Japan (JROSG22-1/JGOG1088S)",
+      "journal": [
+        "Radiotherapy and Oncology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.ijrobp.2025.12.051",
+      "title": "Proton Radiotherapy Offers Immune-Sparing Benefits in Glioblastoma Treatment",
+      "journal": [
+        "International Journal of Radiation Oncology*Biology*Physics"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.oooo.2026.06.028",
+      "title": "Reply to the Letter to the Editor on “In vivo dosimetry in patients undergoing radiotherapy for head and neck cancer using an intraoral stent: a prospective cohort”",
+      "journal": [
+        "Oral Surgery, Oral Medicine, Oral Pathology and Oral Radiology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.surfin.2026.111010",
+      "title": "Depth-localized proton transport and contrasting surface degradation of polyimide and polyethylene under low-energy proton irradiation",
+      "journal": [
+        "Surfaces and Interfaces"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.net.2026.104533",
+      "title": "A preliminary evaluation of aminomethanesulfonic acid as a new EPR dosimetry system",
+      "journal": [
+        "Nuclear Engineering and Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.radonc.2026.111747",
+      "title": "Combined ultra-high and conventional dose rate irradiation spares murine normal skin and intestine from radiation induced acute toxicity",
+      "journal": [
+        "Radiotherapy and Oncology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.radphyschem.2026.114077",
+      "title": "Luminescence properties of human kidney stones: A proof-of-concept study for retrospective dosimetry",
+      "journal": [
+        "Radiation Physics and Chemistry"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.matlet.2026.141929",
+      "title": "Enhanced photochromism in PVP-modified WO3-x nanodots for portable and reusable UV dosimetry",
+      "journal": [
+        "Materials Letters"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.brachy.2026.05.001",
+      "title": "Urethral dosimetry and urinary symptoms after prostate brachytherapy: Analyzing key predictive factors",
+      "journal": [
+        "Brachytherapy"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.matdes.2026.117128",
+      "title": "FDTD analysis of positive-index plasma–metamaterials combining overdense plasma and high–permittivity ceramic inclusions",
+      "journal": [
+        "Materials &amp; Design"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.jmrt.2026.10.133",
+      "title": "Quantitative structure-property mapping and target-driven design of Voronoi porous tantalum scaffolds fabricated by selective laser melting",
+      "journal": [
+        "Journal of Materials Research and Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.optlastec.2026.115851",
+      "title": "Influence of ultrashort laser-processing parameters and target material on the onset of hazardous X-rays",
+      "journal": [
+        "Optics &amp; Laser Technology"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.surfin.2026.110829",
+      "title": "Surface reactions and optical diagnostics of SiNx:H etching processes at cryogenic temperatures in CF4/H2 plasma mixtures",
+      "journal": [
+        "Surfaces and Interfaces"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.matdes.2026.117097",
+      "title": "Mechanical interlocking as a design-driven approach to strengthen multi-material laser powder bed fusion interface",
+      "journal": [
+        "Materials &amp; Design"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.jmoldx.2026.07.004",
+      "title": "Analytical Validation of a Plasma-Based Rapid Liquid Biopsy Assay Using Next-Generation Sequencing",
+      "journal": [
+        "The Journal of Molecular Diagnostics"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.matdes.2026.117216",
+      "title": "Direct aging of laser powder bed fusion 17-4 PH stainless steel: Nanoscale precipitation and grain boundary segregation",
+      "journal": [
+        "Materials &amp; Design"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.matdes.2026.117250",
+      "title": "Cold plasma-induced fragmentation and surface modification of polystyrene microplastics in aqueous systems",
+      "journal": [
+        "Materials &amp; Design"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.cherd.2026.10.032",
+      "title": "Plasma-modified Al–Fe MOF nanocomposites for adsorption of Pb(II) and Hg(II): Effects of boehmite, calcium bentonite, and activated carbon",
+      "journal": [
+        "Chemical Engineering Research and Design"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.matdes.2026.117041",
+      "title": "Design of stepwise gradient intermediate compositions in Ti2AlNb-GH4099 bimetallic structure manufactured via laser melting deposition",
+      "journal": [
+        "Materials &amp; Design"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.vacuum.2026.115645",
+      "title": "Plasma diagnostics and deposition of functional zirconia thin films by reactive magnetron sputtering",
+      "journal": [
+        "Vacuum"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.fusengdes.2026.116015",
+      "title": "Mechanical characterization of fine-grain dispersion-strengthened tungsten as a plasma facing material",
+      "journal": [
+        "Fusion Engineering and Design"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.apsusc.2026.168844",
+      "title": "Toward iron upcycling for green hydrogen: target engineering for powder-derived iron-based nanoparticles by laser ablation in water",
+      "journal": [
+        "Applied Surface Science"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.matdes.2026.117201",
+      "title": "Programmable plasma sprayed Hydroxyapatite surface to Regulate apatite formation and prevent bacterial Physical shielding for bone implants",
+      "journal": [
+        "Materials &amp; Design"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.matdes.2026.117289",
+      "title": "Synergistic strengthening mechanisms of in-situ rolling and heat treatment on Ti–6Al–4V titanium alloy prepared by laser directed energy deposition",
+      "journal": [
+        "Materials &amp; Design"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.matdes.2026.117024",
+      "title": "Process optimization of LIG preparation by CO2 and UV laser based on data-driven learning",
+      "journal": [
+        "Materials &amp; Design"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.matdes.2026.117205",
+      "title": "Synergistic enhancement of wear and corrosion resistance in laser-clad Ni60-Cr coatings via trace graphene-driven microstructural engineering",
+      "journal": [
+        "Materials &amp; Design"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.matdes.2026.117026",
+      "title": "In situ synchrotron investigation of the microstructural heterogeneity induced on alloy 718 by laser melting",
+      "journal": [
+        "Materials &amp; Design"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.matdes.2026.117070",
+      "title": "Laser induced self-propagating reaction of cobalt silicide formation from reactive multilayers",
+      "journal": [
+        "Materials &amp; Design"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.nimb.2026.166281",
+      "title": "Measurement and evaluation of the 191Ir(n,2n)190Ir reaction cross section induced by 14.89 MeV neutrons",
+      "journal": [
+        "Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.nuclphysa.2026.123473",
+      "title": "Neutron and photon-activation reaction cross sections of 85Rb and 87Rb with covariance analysis",
+      "journal": [
+        "Nuclear Physics A"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.intermet.2026.109482",
+      "title": "Machine learning and Calphad guided exploration of low-Neutron-cross-section refractory multi-principal element alloys",
+      "journal": [
+        "Intermetallics"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.nima.2026.171780",
+      "title": "Fast neutron characterization of a CLLBC detector",
+      "journal": [
+        "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.nima.2026.171695",
+      "title": "Resolution function for time-of-flight neutron scattering instruments",
+      "journal": [
+        "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.nimb.2026.166282",
+      "title": "Permanent magnet array bending system with advancing cable irradiation uniformity for electron beam accelerators",
+      "journal": [
+        "Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.nima.2026.171713",
+      "title": "ALPHANSO: Open-source modeling of (α, n) neutron source terms",
+      "journal": [
+        "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.nima.2026.171769",
+      "title": "Delayed Phase Neutron Energy (DAPHNE) analysis for discrimination of fissile and fertile uranium",
+      "journal": [
+        "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.nimb.2026.166258",
+      "title": "Development of a fast electrostatic beam chopper for a proton accelerator driven compact and short pulse neutron source",
+      "journal": [
+        "Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.nima.2026.171741",
+      "title": "Design and investigation of a plasma lens for focusing a proton beam at LIGHT",
+      "journal": [
+        "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.nimb.2026.166277",
+      "title": "Thermoluminescence and structural evolution of natural flake graphite under 6 MV photon irradiation",
+      "journal": [
+        "Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.nima.2026.171703",
+      "title": "Proton irradiation for quality assurance of ATLAS18 strip sensors using the Birmingham MC40 cyclotron",
+      "journal": [
+        "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.nima.2026.171735",
+      "title": "Pulsed proton injector for compact neutron source DARIA",
+      "journal": [
+        "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    },
+    {
+      "doi": "10.1016/j.nima.2026.171773",
+      "title": "A CLYC Scintillator-based prototype spectrometer for preliminary study of planetary water detection through active neutron measurements",
+      "journal": [
+        "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment"
+      ],
+      "date": [
+        2026,
+        11
+      ],
+      "date_precision": "month_or_less",
+      "status": "metadata_only_not_read_not_ingested"
+    }
+  ],
+  "arxiv_first_date_block_snapshot": [
+    {
+      "arxiv_id": "2610.41806",
+      "title": "Transverse Confinement in Cascaded Inverse-Cherenkov Acceleration via Phase-Trajectory Control and Injection Matching",
+      "authors": "Yuanhao Liu , Nanshun Huang , Xionghao Yuan , Xingheng Wang , Juhao Wu , Haixiao Deng"
+    },
+    {
+      "arxiv_id": "2610.42034",
+      "title": "A Momentum-weighted Interface Stabilization Approach for Fluid-Structure Interaction with Strong Added-Mass Effects",
+      "authors": "Nihar Bhardwaj Darbhamulla , Xiaoyu Mao , Aditya Narkhede , David Brown , Rajeev K. Jaiman"
+    },
+    {
+      "arxiv_id": "2610.41788",
+      "title": "Query-Efficient Quantum Multi-Objective Optimization for Materials Configuration Search via Bayesian Weight Selection",
+      "authors": "Onur Boyar , Seiji Takeda , Akihiro Kosugi , Indra Priyadarsini S , Lisa Hamada , Sina Klampt"
+    },
+    {
+      "arxiv_id": "2610.41778",
+      "title": "High-fidelity simulation and reduced-order modeling of optical pumping in quantum devices",
+      "authors": "Keyu Xu , Kezheng Yan , Jinbo Hu , Yanqing Shi , Xiaorui Xu , Nan Zhao , Qian Wang"
+    },
+    {
+      "arxiv_id": "2610.41662",
+      "title": "A variational phase-field theory of cohesive fracture at finite deformation",
+      "authors": "Ye Feng"
+    },
+    {
+      "arxiv_id": "2610.41544",
+      "title": "AMPERe: an exactly divergence-free quadrature-by-expansion evaluator for near-surface Biot--Savart and virtual-casing fields in fusion geometries",
+      "authors": "H. Betar , Y. Sarazin , V. Grandgirard , D. Zarzoso"
+    },
+    {
+      "arxiv_id": "2610.41500",
+      "title": "Characterization of Phase Transitions with the Annealed Importance Sampling Algorithm",
+      "authors": "A. Prat Pou , E. Romero , J. Marti , F. Mazzanti"
+    },
+    {
+      "arxiv_id": "2610.41305",
+      "title": "Feature-preserving interface reconstruction using piecewise circles and cusps",
+      "authors": "Jerry Liu , Kenneth Weiss , Jin Yao"
+    },
+    {
+      "arxiv_id": "2610.41152",
+      "title": "Machine Learning-Enabled Time-Skipping Method: Theory and Perturbation-Based Verification",
+      "authors": "Isaac C. Bannerman , Shaowu Pan , Lucy T. Zhang"
+    },
+    {
+      "arxiv_id": "2610.40851",
+      "title": "Benchmarking One-Dimensional Quantum Lattice Boltzmann Methods on Quantum Hardware",
+      "authors": "Melvina Quartey (1), Lucy T. Zhang (1) ((1) Rensselaer Polytechnic Institute)"
+    },
+    {
+      "arxiv_id": "2610.41523",
+      "title": "A Hybrid Message-Passing and Electric-Field Representation for Electrostatic QM/MM Embedding with Machine Learning Interatomic Potentials",
+      "authors": "Raphael T. Husistein , Shobhit S. Chaturvedi , Thomas Weymuth , Beatriz Piniello , Sélène Forget , Kresten Lindorff-Larsen , Gemma C. Solomon , Markus Reiher"
+    },
+    {
+      "arxiv_id": "2610.40794",
+      "title": "FLUCS: a modular GPU-native framework for fluid and plasma turbulence",
+      "authors": "T. Adkins , P. G. Ivanov"
+    },
+    {
+      "arxiv_id": "2610.41756",
+      "title": "Machine learning surrogates for multi-geometry EDGE2D-EIRENE studies of MAST Upgrade",
+      "authors": "George K. Holt , Lorenzo Zanisi , Romain Futtersack , James Simpson"
+    },
+    {
+      "arxiv_id": "2610.41748",
+      "title": "Stabilization of counter propagating currents by energy conservation in collisions",
+      "authors": "Thomas Kluge , Jannis Schulz , Arthur Hirsch-Passicos , Pawel Ordyna , Ulrich Schramm"
+    },
+    {
+      "arxiv_id": "2610.41623",
+      "title": "An approximate separation of the electron and positron degrees of freedom in the Dirac-Heisenberg-Wigner formalism",
+      "authors": "Gert Brodin , Sebastian Lundström"
+    },
+    {
+      "arxiv_id": "2610.41450",
+      "title": "Accelerating Computation and Resolving Extraneous Roots in the Kinetic Plasma Dispersion Relation Solver BO",
+      "authors": "Xizhi Tian , Huasheng Xie , Long Wei"
+    },
+    {
+      "arxiv_id": "2610.41241",
+      "title": "Plasmoid Instability in Inhomogeneous Current Sheets",
+      "authors": "Kazuma Ikeda , Ryusuke Numata"
+    },
+    {
+      "arxiv_id": "2610.41134",
+      "title": "Teacher-guided multi-task learning for integrated plasma monitoring on EAST",
+      "authors": "Yunhu Jia , Wenhui Hu , Bihao Guo , Qingquan Yang , Xin Lin , Haoyu Wang , Yao Huang , Yuehang Wang , Kai Wu , Zhengping Luo , Yanmin Duan , Jilei Hou , Ruirui Zhang , Jianqiu Zhu , Zijie Liu , Qiping Yuan , Bingjia Xiao"
+    },
+    {
+      "arxiv_id": "2610.40925",
+      "title": "Equipartition between Alfvénic turbulence and energetic ions as the origin of the -5 common spectrum in the heliosphere",
+      "authors": "Stanislav Boldyrev , Daniel Humphrey , Vadim Roytershteyn"
+    },
+    {
+      "arxiv_id": "2610.40892",
+      "title": "Stress-enhanced diffusion in Yukawa crystals",
+      "authors": "M. E. Caplan , A. I. Chugunov , R. F. Serrano"
+    },
+    {
+      "arxiv_id": "2610.41773",
+      "title": "Decay of space plasma turbulence downstream of bow shocks: MMS magnetosheath unbiased campaign observations",
+      "authors": "Victor Montagud-Camps , Petr Hellinger , Sergio Toledo-Redondo , Andrea Verdini , Luca Sorriso-Valvo , Francesco Pecora , Julia E. Stawarz , Alexandros Chasapis , Emanuele Papini , Inmaculada F. Albert , Aida Castilla"
+    },
+    {
+      "arxiv_id": "2610.41493",
+      "title": "As a matter of reconstruction -- varying the magnetic Prandtl number in implicit large eddy simulations",
+      "authors": "Vinay Kumar , Philipp Grete"
+    },
+    {
+      "arxiv_id": "2610.41343",
+      "title": "Spectroscopic observations of periodic bursty ejections during a dome-spire-shaped jet",
+      "authors": "Heesu Yang , Maria S. Madjarska , Kyoung-Sun Lee , Klaus Galsgaard"
+    },
+    {
+      "arxiv_id": "2610.41026",
+      "title": "Electron Scattering with ASTRA: Helium and Molecular Hydrogen",
+      "authors": "Siddhartha Chattopadhyay , Thomas C. Allison , Luca Argenti"
+    },
+    {
+      "arxiv_id": "2610.40880",
+      "title": "Subsonic terahertz plasmon instability in space-time plasmonic crystals",
+      "authors": "H. Terças , J. L. Figueiredo , P. Cosme"
+    },
+    {
+      "arxiv_id": "2610.41607",
+      "title": "Characterizing $\\pT$-differential Radial-Flow Fluctuations in Au+Au Collisions at FAIR with a Multi-Phase Transport Model",
+      "authors": "Sanchari Thakur , Partha Pratim Bhaduri"
+    },
+    {
+      "arxiv_id": "2610.42113",
+      "title": "Magnetic Johnson noise from arbitrarily shaped conductors: experimental validation of the fluctuation-dissipation finite-element method",
+      "authors": "S. M. Clayton , Y. J. Kim , T. E. Chupp , A. Epstein , J. M. Feltman , A. Fratangelo , T. M. Ito , I. J. Rhudy , F. H. Sottrel , W. A. Terrano , K. L. Wood"
+    },
+    {
+      "arxiv_id": "2610.42015",
+      "title": "Algebraic models of alpha-cluster nuclei",
+      "authors": "Roelof Bijker"
+    },
+    {
+      "arxiv_id": "2610.41767",
+      "title": "Color transparency effects on the deuteron spin observables in the hard $pd \\to ppn$ reaction",
+      "authors": "A.B. Larionov"
+    },
+    {
+      "arxiv_id": "2610.42064",
+      "title": "Soft X-Ray Detection Down to the Nitrogen K-Edge Using a Pixelated iLGAD Sensor",
+      "authors": "Shuqi Li , Anna Bergamaschi , Ashish Bisht , Maurizio Boscardin , Martin Brückner , Maria Carulla , Tomáš Celko , Roberto Dinapoli , Simon Ebner , Simone Emiliani , Khalil Ferjaoui , Erik Fröjdh , Viveka Gautam , Dominic Greiffenberg , Shqipe Hasanaj , Viktoria Hinger , Marius Hürst , Vadym Kedych , Thomas King , Antonio Liguori , Carlos Lopez-Cuenca , Leonid Lunin , Alice Mazzoleni , Davide Mezza , Scharon Moses , Konstantinos Moustakas , Aldo Mozzanica , Jonathan Mulvey , Martin Müller , Giovanni Paternoster , Christian Ruder , Bernd Schmitt , Saverio Silletta , Dhanya Thattil , Matteo Centis Vignali , Xiangyu Xie , Jiaguo Zhang , Sinuo Zhang"
+    },
+    {
+      "arxiv_id": "2610.41916",
+      "title": "Challenges in the verification of MOSAIX ASIC for ALICE ITS3",
+      "authors": "Simone Scarfi , Matteo Lupi , Adithya Pulli"
+    },
+    {
+      "arxiv_id": "2610.41894",
+      "title": "Calorimetry as inference: the information content of particle showers and the limits of energy measurement",
+      "authors": "Wonyong Chung"
+    },
+    {
+      "arxiv_id": "2610.41611",
+      "title": "Magnetic scattering experiments with an ultrashort pulsed soft X-ray source using iLGADs",
+      "authors": "L. Lunin , S. Li , A. Bergamaschi , P. Wernicke , D. Schick , M. Mattern , B. Pfau , A. Bisht , M. Boscardin , M. Brückner , M. Carulla , M. Centis Vignali , R. Dinapoli , S. Ebner , S. Emiliani , K. Ferjaoui , F. Ficorella , E. Fröjdh , V. Gautam , D. Greiffenberg , O. Hammad Ali , S. Hasanaj , V. Hinger , M. Hürst , V. Kedych , T. King , C. Lopez-Cuenca , A. Mazzoleni , D. Mezza , K. Moustakas , A. Mozzanica , J. Mulvey , M. Müller , G. Paternoster , S. Ronchin , C. Ruder , B. Schmitt , S. Silletta , D. Thattil , X. Xie , J. Zhang"
+    },
+    {
+      "arxiv_id": "2610.41412",
+      "title": "Conceptual Design of a Compact Magnetic Spectrometer for Space Radiation Measurement",
+      "authors": "Yiheng Zhu , Francesco Faldi , Vladimir Mikhailov , Zhaoyi Qu , Alexandr Stuzhin , Weiwei Xu"
+    },
+    {
+      "arxiv_id": "2610.41288",
+      "title": "Shielding design and construction for the XINGZHI cold neutron triple-axis spectrometer: integrating velocity selector, S-bender polarizer, and neutron guide",
+      "authors": "Hongxia Zhang , Daye Xu , Florian Grünauer , Jinchen Wang , Yuntao Liu , Juanjuan Liu , Peng Cheng , Wei Bao"
+    },
+    {
+      "arxiv_id": "2610.40923",
+      "title": "Construction and Commissioning of a Compact Xenon Gas Recycling System for a High-Harmonic Generation VUV Frequency Comb",
+      "authors": "G. Holthoff , J. Rebhan , T. Teuner , L. Guth , D. Moritz , T. Teschler , M. Wiesinger , J. R. Crespo López-Urrutia , P. G. Thirolf"
+    },
+    {
+      "arxiv_id": "2610.41261",
+      "title": "Non-contact temperature sensing and optical scatter in cryogenically-cooled crystalline silicon",
+      "authors": "Disha Pankaj Kapasi , Travis Counihan , Kevin Kimes , Alina Sendowsky , Alexandra Gruson , Daniel Martinez , Michael Rezac , Kevin Silverio , Sean Sorto , Joshua R. Smith"
+    },
+    {
+      "arxiv_id": "2610.41071",
+      "title": "An Assessment of Water Vapor Radiometry Landscape in ngVLA Context",
+      "authors": "T. K. Sridharan"
+    },
+    {
+      "arxiv_id": "2610.41052",
+      "title": "Machine Learning Sensor Fusion for Water Vapor Radiometry based Tropospheric Delay Calibration",
+      "authors": "T. K. Sridharan , Yoshiharu Asaki , Brian E. Svoboda"
+    },
+    {
+      "arxiv_id": "2603.19142",
+      "title": "High efficiency superconducting filterbank with impedance-defined resolution for millimeter-wave spectroscopy",
+      "authors": "Oliver Jeong , Michel Piat , Aritoki Suzuki"
+    },
+    {
+      "arxiv_id": "2610.42062",
+      "title": "Two-loop integrals for $t\\bar{t}γ$ production at hadron colliders in the leading-colour approximation",
+      "authors": "Souvik Bera , Colomba Brancaccio , Dhimiter Canko , Federico Ripani , Simone Zoia"
+    },
+    {
+      "arxiv_id": "2610.41953",
+      "title": "Topological Multi-Natural Inflation",
+      "authors": "Siao Yang Chai , Fuminobu Takahashi"
+    },
+    {
+      "arxiv_id": "2610.41872",
+      "title": "Numerical evaluation of one-loop integrals using quadrature rules",
+      "authors": "Jürgen Dölz , Claude Duhr , Bartul Kovačić , Cathrin Semper"
+    },
+    {
+      "arxiv_id": "2610.41575",
+      "title": "Phase transition dynamics of Abelian-Higgs vortices in the oscillating axion background",
+      "authors": "Naoya Kitajima , Shota Nakagawa"
+    },
+    {
+      "arxiv_id": "2610.41533",
+      "title": "Hadronic Molecules: Theory",
+      "authors": "C. Hanhart"
+    },
+    {
+      "arxiv_id": "2610.41504",
+      "title": "Quantum Popcorn: the shape of a phase transition bubble",
+      "authors": "Kfir Blum , Ipak Fadakar , Omri Rosner , Guilherme L. Pimentel"
+    },
+    {
+      "arxiv_id": "2610.41339",
+      "title": "Updated $Σ_{c}$ excitation spectrum including the $2P$- and $1F$-wave fine structures",
+      "authors": "Zhen-Yu Li , Guo-Liang Yu , Zhi-Gang Wang , Jian-Zhong Gu"
+    },
+    {
+      "arxiv_id": "2610.41208",
+      "title": "Nonthermal coalescence parameter of light nuclei production in pp collisions at LHC energies",
+      "authors": "M. Y. Gallegos Ruiz , D. Rosales Herrera , A. Fernández Téllez , J. R. Alvarado García , J. E. Ramírez"
+    },
+    {
+      "arxiv_id": "2610.41175",
+      "title": "Toward a Three-Body Holonomy Standard Model",
+      "authors": "Tadashi Yoshikawa"
+    },
+    {
+      "arxiv_id": "2610.41082",
+      "title": "Two-Fluid Radial Stability of Dark-Matter-Admixed Compact Objects: Dark Compact Planets, Dark White Dwarfs, Dark Neutron Stars, and Dark Oysters",
+      "authors": "José C. Jiménez , Oscar Pastor , Laura Tolos"
+    },
+    {
+      "arxiv_id": "2610.41078",
+      "title": "Pure annihilation decay $B_c^+ \\to ST$ with improved perturbative QCD formalism",
+      "authors": "Sheng-Yu Wang , Xin Liu , Zhen-Jun Xiao"
+    },
+    {
+      "arxiv_id": "2610.41066",
+      "title": "Deconfinement in weak electric and magnetic fields",
+      "authors": "Eduardo S. Fraga , Leticia F. Palhares"
+    },
+    {
+      "arxiv_id": "2610.41020",
+      "title": "Two gluon fusion into a $π^0$, $η$, or $η'$ in a relatively weak magnetic field",
+      "authors": "Fabio L. Braghin , Enrique Muñoz"
+    },
+    {
+      "arxiv_id": "2610.40967",
+      "title": "Separating Fermion and Gauge Resonances with Species-Dependent Lightcones in Warped Geometry",
+      "authors": "Lisa Randall , Marcos Riojas"
+    },
+    {
+      "arxiv_id": "2610.40895",
+      "title": "Stars Can Quench Superradiance Around Supermassive Black Holes",
+      "authors": "Yu Cheng , Andrea Caputo , Giovanni Maria Tomaselli , Samuel J. Witte"
+    },
+    {
+      "arxiv_id": "2610.40879",
+      "title": "Transverse momentum correlations and QED effects in TMD determinations",
+      "authors": "Laurent Favart , Francesco Hautmann , Aleksandra Lelek , Louis Moureaux"
+    },
+    {
+      "arxiv_id": "2610.40877",
+      "title": "A systematic study of hydrodynamic attractors in periodically driven systems at weak and strong couplings",
+      "authors": "Aleksas Mazeliauskas , Toshali Mitra , Sören Schlichting , Simon Schneider , Louis Nwakile Onwuka , Martin Vrdoljak"
+    },
+    {
+      "arxiv_id": "2610.40866",
+      "title": "Phenomenological Chiral Effective Field Theory for Neutrino Event Generators",
+      "authors": "Zara Graham-Jones , Mareen Hoppe , Joshua Isaacson , Shirley Weishi Li , Miša Toman"
+    },
+    {
+      "arxiv_id": "2610.40823",
+      "title": "The signature-changing soft-gluon term as a possible source of non-planar $ζ_2$ terms at small $x$ in the non-singlet quark-plus-antiquark splitting function",
+      "authors": "Olasantan Ebenezer Adelaja , Alex Prygarin , Claudelle Capasia Madjuogang Sandeu"
+    },
+    {
+      "arxiv_id": "2610.40821",
+      "title": "The Yottascale at Tera-$Z$: Petascale SUSY?",
+      "authors": "Lukas Allwicher , Francisco N. C. Dahab , Christophe Grojean , Gabriel M. Salla , Lucine Tabatt"
+    },
+    {
+      "arxiv_id": "2610.40793",
+      "title": "Layered Wire-Grid Haloscope for Millielectronvolt Axions and Dark Photons",
+      "authors": "Andrea Caputo"
+    },
+    {
+      "arxiv_id": "2610.40775",
+      "title": "On the Role of Gravity in Supercooled Phase Transitions",
+      "authors": "Filippo Cutrona , Alberto Salvio"
+    },
+    {
+      "arxiv_id": "2610.42143",
+      "title": "A first look at strange-quark polarization in top-quark decays with CMS Open Data",
+      "authors": "Yevgeny Kats"
+    },
+    {
+      "arxiv_id": "2610.42037",
+      "title": "Meson spectroscopy from lattice QCD",
+      "authors": "Andrew W. Jackura"
+    },
+    {
+      "arxiv_id": "2610.42020",
+      "title": "Bootstrapping a Higher-Derivative Cosmological Collider: Borel-Laplace Resummation and Stokes Phenomena",
+      "authors": "Matheus C. Ferreira , Felipe T. Falciano"
+    },
+    {
+      "arxiv_id": "2610.41960",
+      "title": "Neutrino Oscillation in a Static Dihole Geometry",
+      "authors": "Rogério Capobianco , Rafael C. R. de Lima"
+    },
+    {
+      "arxiv_id": "2610.41823",
+      "title": "Primordial black holes and gravitational waves from aligned axion inflation",
+      "authors": "Nadir Ijaz"
+    },
+    {
+      "arxiv_id": "2610.41473",
+      "title": "Probing dark sector with decihertz gravitational wave observations of compact binary inspirals in IndIGO-D",
+      "authors": "Divya Tahelyani , Abhishek Sharma , Anand S. Sengupta , Arpan Bhattacharyya"
+    },
+    {
+      "arxiv_id": "2610.40912",
+      "title": "Incorporating deep neural networks into lepton-nucleus interaction modeling",
+      "authors": "Hemant Prasad , Jan T. Sobczyk , Krzysztof M. Graczyk , Beata E. Kowal , Rwik Dharmapal Banerjee , J. Luis Bonilla"
+    },
+    {
+      "arxiv_id": "2610.40781",
+      "title": "Leaking Sound Waves: Gravitational Waves From Dark Sectors Weakly Coupled to the Standard Model",
+      "authors": "Marco Finetti , Helena Kolešová , Daniil Krichevskiy"
+    },
+    {
+      "arxiv_id": "2610.40779",
+      "title": "Monopole-Fermion Scattering from Twisted Conformal Boundary States",
+      "authors": "Clay Córdova , Diego García-Sepúlveda , Lian-Tao Wang , Yen-Chieh Wang"
+    },
+    {
+      "arxiv_id": "2610.40766",
+      "title": "Hints of self-interacting dark matter from strong gravitational lensing",
+      "authors": "Daniel Gilman , Kalliopi Petraki , Thomas Pignard , James Gurian , Alex Kusenko , Anna Nierenberg"
+    },
+    {
+      "arxiv_id": "2610.40749",
+      "title": "Combinatorial Residual Network: a decay-chain-aware classifier without explicit jet assignment",
+      "authors": "John Alison , Patrick Bryant , Alejandro Gomez Espinosa , Christian Guinto-Brody , Aniket Khanal , Chuyuan Liu , Sindhu Murthy , Guanglei Zhao"
+    },
+    {
+      "arxiv_id": "2610.40724",
+      "title": "Nuclear-geometry-tagging events in high-energy Ne--Ne collisions",
+      "authors": "Joachim Carlo Kristian Bjerg Hansen , Emil Gorm Dahlbæk Nielsen"
+    },
+    {
+      "arxiv_id": "2610.42098",
+      "title": "Field-resolved observation and quantification of the instantaneous Kerr response in semiconductors",
+      "authors": "Haifeng Lin , Hannes Kempf , Hinduja Bhuvanendran , Aitor De Andrés , Markus Ludwig , Nicolò Maccaferri"
+    },
+    {
+      "arxiv_id": "2610.42003",
+      "title": "Gearbox cavities: Ultrahigh wave confinement via broken rotational symmetry",
+      "authors": "Alessio Amaolo , Sean Molesky , Alejandro W. Rodriguez , George Shaker , Steven G. Johnson , Pengning Chao"
+    },
+    {
+      "arxiv_id": "2610.41917",
+      "title": "Focusing through coupled multimode fibers for miniaturized single-atom tweezer arrays",
+      "authors": "Benjamin P. Maddox , Daniel K. Ruttley"
+    },
+    {
+      "arxiv_id": "2610.41701",
+      "title": "Photonic Crystal Integrated Graphene-Silicon Schottky Diodes for Resonant Infrared Photodetection",
+      "authors": "Lorenzo Pettorosso , Michael Horodynski , Dmitry K. Polyushkin , Thomas Mueller"
+    },
+    {
+      "arxiv_id": "2610.41531",
+      "title": "The Generalized Twin Image: Understanding Regularized Phase Retrieval",
+      "authors": "Zhiyuan Hu , Michael Unser , Jonathan Dong"
+    },
+    {
+      "arxiv_id": "2610.41503",
+      "title": "Ultraviolet Raman spectroscopy using multimode aluminum oxide waveguides",
+      "authors": "Roman Zakoldaev , Nikhil Jayakumar , Elie Vennat-Bresson , Jean-Claude Tinguely , Firehun Tsige Dullo , Balpreet Singh Ahluwalia"
+    },
+    {
+      "arxiv_id": "2610.41392",
+      "title": "Reconfigurable Generation of Terahertz Spiral Vector Beams Based on All-Dielectric Cascaded Metasurfaces",
+      "authors": "Hongjun Chen , Yuxin Tang , Jianming Li , Jitao Li , Li Luo , Tingting Tang , Jie Li , Jianquan Yao"
+    },
+    {
+      "arxiv_id": "2610.41370",
+      "title": "Non-Hermitian Spectral Topology Shaped by Memory",
+      "authors": "Hao Pan , Bo Xue , Wanyue Xiao , Qiuyang Li , Yuqiong Cheng , Yumeng Wang , Kun Ding , Alex M. H. Wong , Shubo Wang"
+    },
+    {
+      "arxiv_id": "2610.41315",
+      "title": "Dual-rate optical frequency comb based on a cylindrical microresonator with a nanoscale radius variation",
+      "authors": "Alena Kolesnikova , Andrey Gelash , Ilya Vatnik"
+    },
+    {
+      "arxiv_id": "2610.41259",
+      "title": "Intensity-Domain Demultiplexing of Orbital Angular Momentum Channels for Optical Communication",
+      "authors": "Junsu Kim , Jiwon Jung , Hyunchae Chun , Seung Ryong Park"
+    },
+    {
+      "arxiv_id": "2610.41000",
+      "title": "From proof of concept to practice: the next decade of artificial intelligence in metasurface photonics",
+      "authors": "Sensong An , Haoyue Jiang"
+    },
+    {
+      "arxiv_id": "2610.40979",
+      "title": "Microscopic Theory of Spin-Orbit Interactions of Light",
+      "authors": "Saeed Rahmanian Koshkaki , Ding Xu , Michael Fowler , Milan Delor , Arkajit Mandal"
+    },
+    {
+      "arxiv_id": "2610.40969",
+      "title": "Comparison of melanin subtypes using pump-probe microscopy",
+      "authors": "Emma Bao , David Grass , Martin C. Fischer , Warren S. Warren"
+    },
+    {
+      "arxiv_id": "2610.40903",
+      "title": "Metadevices that compute: mathematical foundations and experimental implementations for neuromorphic nanophotonics",
+      "authors": "Xian Hadia , Odysseas Tsilipakos , Dimitrios C. Tzarouchis , Raphaël Pestourie"
+    },
+    {
+      "arxiv_id": "2610.41887",
+      "title": "Learning Nonlocal Interactions in Large-Scale Heterogeneous Metamaterials through Scientific Machine Learning",
+      "authors": "Dex Doksoo Lee , Jehyeon Shin , Yue Yu , Sunkyu Yu , Junsuk Rho , Wei Chen"
+    },
+    {
+      "arxiv_id": "2610.41730",
+      "title": "Dipolar Exciton Polarons in a van der Waals Homobilayer",
+      "authors": "Yuxin Duan , Hongming Zhang , Yaofeng Zhu , Hang Zhou , Xinyue Zhang , Yan Liu , Song Luo , Long Zhang , Zhanghai Chen"
+    },
+    {
+      "arxiv_id": "2610.41524",
+      "title": "High-efficiency photonic GHZ measurements with linear optics",
+      "authors": "Stefan N. van den Hoven , Love A. Pettersson , Anders S. Sørensen , Stefano Paesani"
+    },
+    {
+      "arxiv_id": "2610.41481",
+      "title": "Cryogenic Optical Characteristics of S-FPL51 and S-LAH71: Refractive index, Transmission and Thermal expansion",
+      "authors": "J.A. van den Born , E. Elswijk , E. Dijkstra , P. van Nijnatten , A.W. Janssen , R. Navarro"
+    },
+    {
+      "arxiv_id": "2610.41270",
+      "title": "Parametric Enhancement of an Optical Spring in a Dark Signal-Recycling Cavity",
+      "authors": "Kaido Suzuki , Ryo Iden , Ken-ichi Harada , Kentaro Somiya"
+    },
+    {
+      "arxiv_id": "2610.41198",
+      "title": "Quantum Advantage in Beam-Displacement Estimation for Inter-Satellite Quantum-Secure Time Transfer",
+      "authors": "Ziqing Wang , Robert Malaney"
+    },
+    {
+      "arxiv_id": "2610.41092",
+      "title": "Spectral Information Content of Diffraction-Limited Images",
+      "authors": "Milo Langker , Hayden Greer , Benjamin Pope , Peter Tuthill"
+    },
+    {
+      "arxiv_id": "2610.41061",
+      "title": "The spin-transfer inverse Faraday effect in Au/YIG thin film bilayers",
+      "authors": "Victor H. Ortiz , Daniel Russell , Fengyuan Yang , Roland K. Kawakami"
+    },
+    {
+      "arxiv_id": "2610.40952",
+      "title": "Characteristics of VHF and UHF band detection using Stark shifting in Rydberg-atom sensors",
+      "authors": "Rajavardhan Talashila , Noah Schlossberger , David S. La Mantia , Abby Halasi-Kun , Baran Kayim , Michael A. Viray , Robert Wyllie , Christopher L. Holloway , Nikunjkumar Prajapati"
+    },
+    {
+      "arxiv_id": "2610.40904",
+      "title": "Optical Quantum Memory Processing for Quantum Hashing",
+      "authors": "S. A. Moiseev , M. M. Minnegaliev"
+    },
+    {
+      "arxiv_id": "2610.41386",
+      "title": "The role of spin polarization in event-by-event fluctuations",
+      "authors": "Xiao-Ying He , Li-Juan Zhou , Li-Xin Yang , Qian-Qian Du , De-Xian Wei"
+    },
+    {
+      "arxiv_id": "2610.41293",
+      "title": "Is XTE J1814-338 a dark matter-admixed neutron star?",
+      "authors": "Hong-Ming Liu , Peng-Cheng Chu , He Liu , Zeng-Hua Li , Xiao-Hua Li"
+    },
+    {
+      "arxiv_id": "2610.40909",
+      "title": "Relativistic viscous hydrodynamics in the Density Frame for heavy-ion collisions",
+      "authors": "Jean-François Paquet , Mayank Singh , Derek Teaney"
+    },
+    {
+      "arxiv_id": "2610.40907",
+      "title": "The Importance of Curium-250 to the $γ$-Ray Signature of $r$-Process Remnants",
+      "authors": "Axel Gross , Samuel Cupp , G. Wendell Misch , Matthew R. Mumpower"
+    },
+    {
+      "arxiv_id": "2610.42139",
+      "title": "Counting on Dummies: Privacy Amplification with Observable Counts and Truncated Batches",
+      "authors": "Vitaly Feldman , Audra McMillan , Kunal Talwar"
+    },
+    {
+      "arxiv_id": "2610.42133",
+      "title": "Instance-dependent sequential limits as an exact information ledger",
+      "authors": "Akshay Balsubramani"
+    },
+    {
+      "arxiv_id": "2610.42126",
+      "title": "Physiological Trajectories and Observation Patterns in ICU Mortality Prediction: Transportability Under Changing Measurement Conditions",
+      "authors": "Benjamin T. Pike"
+    },
+    {
+      "arxiv_id": "2610.42118",
+      "title": "Gradient Descent on Two ReLU Neurons: Global Landscape and Bifurcation Dynamics",
+      "authors": "Binghua Li , Mengzhe Li , Denny Wu , Tianhao Wang"
+    },
+    {
+      "arxiv_id": "2610.42117",
+      "title": "Fast Privacy Loss Accounting for Random Allocation via Multiscale FFT",
+      "authors": "Vitaly Feldman , Moshe Shenfeld"
+    },
+    {
+      "arxiv_id": "2610.42104",
+      "title": "Hyperbolic Inverse Reinforcement Learning",
+      "authors": "Iulia Rusu , Anoop Praturu , Sergei Gepshtein , Tatyana Sharpee"
+    },
+    {
+      "arxiv_id": "2610.42100",
+      "title": "Towards Understanding the Impact of Plasticity Loss on Reinforcement Learning in Stochastic Environments",
+      "authors": "Philipp Bordne , André Biedenkapp"
+    },
+    {
+      "arxiv_id": "2610.42085",
+      "title": "Cost-Aware Stopping for Freeze-Thaw Bayesian Optimization: When Does One-Step Lookahead Suffice?",
+      "authors": "Long Vu , Jongseong Brad Choi , Binoy Ravindran , Zhoulai Fu"
+    },
+    {
+      "arxiv_id": "2610.42081",
+      "title": "Differentially Private Synthetic Data from Sliced Chebyshev Moments",
+      "authors": "Lucas Rosenblatt , R. Teal Witter , Christopher Musco"
+    },
+    {
+      "arxiv_id": "2610.42042",
+      "title": "A richness-sensitive Acoustic Biodiversity Index from species-level detections: classifier benchmarking, false-positive control and validation against standard soundscape indices in an African savanna and an urban zoo",
+      "authors": "Muhammad Saeed , Dmitry Mikhaylov , Mohamed H. Alhosani , Yasser F. Al Wahedi , Rory Pilossof , Ahmed Arabi , Walid Shaaba"
+    },
+    {
+      "arxiv_id": "2610.42030",
+      "title": "There Is No Free Loop: When Does Looping a Trained Model Pay for Its Inference Compute?",
+      "authors": "Rhea Sanjay Sukthanker , Pashmina Cameron"
+    },
+    {
+      "arxiv_id": "2610.42028",
+      "title": "CausalXRL: Explainable Reinforcement Learning through Causal Graph Reasoning",
+      "authors": "Yanming Zhang , Eric Papenhausen , Klaus Mueller"
+    },
+    {
+      "arxiv_id": "2610.42026",
+      "title": "GhostPrefix: Synchronization-Free Universal Prefix Attacks for ASR Manipulation",
+      "authors": "Shengding Liu , Ashwin Innuganti , Qiben Yan"
+    },
+    {
+      "arxiv_id": "2610.42024",
+      "title": "Know When the Equation Is Wrong: Structural Uncertainty for LLM-Guided Symbolic Regression under Extrapolation",
+      "authors": "Mostafa Cham , Bayu Adhi Tama , Jianwu Wang"
+    },
+    {
+      "arxiv_id": "2610.42013",
+      "title": "When Does Jacobian Fine-Tuning Stabilize Neural PDE Emulators?",
+      "authors": "Shreeyam Bangera , Manya Gupta"
+    },
+    {
+      "arxiv_id": "2610.42000",
+      "title": "Less Loss, Fixed Weights: Logit Corrections for Forgetting",
+      "authors": "Hanyu Yang"
+    },
+    {
+      "arxiv_id": "2610.41980",
+      "title": "New Lower Bounds for Private PAC Learning",
+      "authors": "Prathamesh Dharangutte , Amartya Sanyal"
+    },
+    {
+      "arxiv_id": "2610.41961",
+      "title": "Robust Learning of Multi-Index Models under Logconcave Distributions via Weak Partial Learners",
+      "authors": "Ilias Diakonikolas , Daniel M. Kane , Mingchen Ma"
+    },
+    {
+      "arxiv_id": "2610.41956",
+      "title": "Chronos-2: A foundation model for multivariate time series forecasting",
+      "authors": "Abdul Fatir Ansari , Oleksandr Shchur , Jaris Küken , Andreas Auer , Boran Han , Pedro Mercado , Syama Sundar Rangapuram , Huibin Shen , Lorenzo Stella , Xiyuan Zhang , Mononito Goswami , Shubham Kapoor , Danielle C. Maddix , Pablo Guerron , Florian Saupe , Markus Reichstein , Tony Hu , Junming Yin , Nick Erickson , Prateek Mutalik Desai , Hao Wang , Huzefa Rangwala , George Karypis , Yuyang Wang , Michael Bohlke-Schneider"
+    },
+    {
+      "arxiv_id": "2610.41939",
+      "title": "Observable-Specific Validity Tests for Scientific AI: Controlled Approximations and Intervention Response",
+      "authors": "Xiaoshn Nee , Haobo Zhong , Xiaomin Ni"
+    },
+    {
+      "arxiv_id": "2610.41933",
+      "title": "Binary Sparse Codes: Where are we on Energy Efficient Representations?",
+      "authors": "Jose Miguel Ramos , Luis SaCouto , Andreas Wichert"
+    },
+    {
+      "arxiv_id": "2610.41896",
+      "title": "On k-nearest-neighbor regression in metric spaces",
+      "authors": "László Györfi , Vladimir G. Pestov , Harro Walk , Roi Weiss"
+    },
+    {
+      "arxiv_id": "2610.41822",
+      "title": "Trainable Vector Quantization for Large Language Models",
+      "authors": "Anastasiia Prutianova , Alina Bogdanova , Mikhail Shutov , Dmitrii Poimanov , Anatoly Gorkov , Ilia Zharikov"
+    },
+    {
+      "arxiv_id": "2610.41819",
+      "title": "ElTab: Elastically Looped Tabular Transformers",
+      "authors": "Mieszko Komisarczyk , Saurabh Mathur , Maurice Kraus , Sriraam Natarajan , Kristian Kersting"
+    },
+    {
+      "arxiv_id": "2610.41818",
+      "title": "DIFFNAS: Predictor-Free Neural Architecture Search via Diffusion Model and Zero-Cost Evaluation",
+      "authors": "Yize Sun , Hanzhang Ma , Zixin Wu , Xuechun Li , Volker Tresp , Yunpu Ma"
+    },
+    {
+      "arxiv_id": "2610.41809",
+      "title": "Continual Reinforcement Learning Is an Integration Problem",
+      "authors": "Nis Meinert , Jakob Gawlikowski , Edward Grant , Max Cyprys , Nathan Schurr , Neil Boston , Alfredo Ibias , Milind Tambe , Janusz Marecki"
+    },
+    {
+      "arxiv_id": "2610.41807",
+      "title": "Exploring Bad Minima in Transfer Learning",
+      "authors": "Mina Remeli"
+    },
+    {
+      "arxiv_id": "2610.41805",
+      "title": "Backpropagation-free Deep Learning for Time-Series Classification",
+      "authors": "Miha Kapš , Blaž Bertalanič , Carolina Fortuna"
+    },
+    {
+      "arxiv_id": "2610.41801",
+      "title": "Towards Out-of-Distribution Uncertainty Quantification for Machine-Learned Interatomic Potentials via Pre-Training",
+      "authors": "Stefan P. Schmid , Tobias Setzer , Maximilian Scheurer"
+    },
+    {
+      "arxiv_id": "2610.41799",
+      "title": "On-device Detection of Wearer-induced NLOS on Chest-worn UWB Tags: Machine Learning, Link Indicators, or Both?",
+      "authors": "Markus Gallacher , Vu Anh Minh Le , Matteo Trobinger , Davide Vecchia , Carlo Alberto Boano , Gian Pietro Picco"
+    },
+    {
+      "arxiv_id": "2610.41795",
+      "title": "Accurate and Auditable ECG Classification via Visibility Graph Neural Networks",
+      "authors": "Artur Xavier , Guilherme Henrique Gomes Evangelista , Aitazaz Khan , Antonio Luiz Pinho Ribeiro , Mohammed J. Zaki , Srinivasan Parthasarathy , Wagner Meira Jr"
+    },
+    {
+      "arxiv_id": "2610.41792",
+      "title": "Implicit Assumptions About Tasks in Continual Learning",
+      "authors": "Kathrin Korte , Christian Metzner , Akshay Bedhotiya , Viet Anh Khoa Tran , Eleni Nisioti , Sebastian Risi"
+    },
+    {
+      "arxiv_id": "2610.41751",
+      "title": "Latent-Lens: Visual Perception in Small Language Models Through Latent Communication",
+      "authors": "Mo Shahdloo , Faegheh Sardari , Mathew Salvaris"
+    },
+    {
+      "arxiv_id": "2610.41745",
+      "title": "Do LLMs Know When They Are Wrong About Molecules? In-Context Property Prediction with Self-Reported Uncertainty",
+      "authors": "Matthias Busch , Marius Tacke , Tamadur Albaraghtheh , Sviatlana V. Lamaka , Mikhail L. Zheludkevich , Roland C. Aydin , Christian Feiler , Christian J. Cyron"
+    },
+    {
+      "arxiv_id": "2610.41743",
+      "title": "Task Vectors Can Be Linearly Decomposed into Interpretable and Controllable Components",
+      "authors": "Yukiya Horiba , Hakaze Cho , Takahiro Yakoh"
+    },
+    {
+      "arxiv_id": "2610.41736",
+      "title": "Locality-Controlled Out-of-Distribution Guidance for Robust Regulatory DNA Sequence Design",
+      "authors": "Dabin Jeong , Marwane Bourdim , Mo Lotfollahi"
+    },
+    {
+      "arxiv_id": "2610.41733",
+      "title": "Leakage-Controlled Structure-Preserving Augmentation and Template-Aware Evaluation for Bangla Symptom-Based Disease Prediction",
+      "authors": "Sabah Nushra , Shovan Samanta Turzo , Moinul Hossain , Md Kishor Morol"
+    },
+    {
+      "arxiv_id": "2610.41720",
+      "title": "UpLoop: Training Looped Transformers via Upcycling at No Extra Pretraining Compute",
+      "authors": "Cheng Liang , Tengfei Zhang , Ya Zhang , Yanfeng Wang , Zhouhan Lin"
+    },
+    {
+      "arxiv_id": "2610.41711",
+      "title": "Hierarchical Residuals: A Minimalist Decoupling of Residual Width from Compute Width",
+      "authors": "Ziteng Wang , Jianqiao Lu , Xinyu Ma , Jintao Zhang , Jun Zhu , Yiyuan Ma , Jianfei Chen"
+    },
+    {
+      "arxiv_id": "2610.41696",
+      "title": "From fleet trajectories to single-cell promises: hierarchically weighted conformal prediction for battery SOH monitoring",
+      "authors": "Xiangyu Liu"
+    },
+    {
+      "arxiv_id": "2610.41692",
+      "title": "From WSIs to Bulk, Spatial and Single-Cell Transcriptomics via Multi-Scale Graph Neural Networks",
+      "authors": "Miguel Andrade , José Almeida , Carlos Santiago , Catarina Barata"
+    },
+    {
+      "arxiv_id": "2610.41691",
+      "title": "Does Reasoning Make Language Models Agree?",
+      "authors": "Mila Gorecki , Moritz Hardt"
+    },
+    {
+      "arxiv_id": "2610.41648",
+      "title": "On the Generation Order in GFlowNets",
+      "authors": "Timofei Gritsaev , Evgeny Katasonov , Ildus Sadrtdinov , Esmeralda S. Whitammer , Dmitry Vetrov"
+    },
+    {
+      "arxiv_id": "2610.41641",
+      "title": "A Constructive Orbit-Based Theory of Learnability",
+      "authors": "Yunied Puig"
+    },
+    {
+      "arxiv_id": "2610.41563",
+      "title": "ORION: An Outcome-Driven LLM Advisor for RL-Based Multi-Domain 6G Slice Placement",
+      "authors": "Mahmoud S. Mayaleh , Fetia Bannour , Nour-El-Houda Yellas"
+    },
+    {
+      "arxiv_id": "2610.41540",
+      "title": "FOCUS: First-Order Control Using Optimal Transport Supervision for Imitation from Observations",
+      "authors": "João A. Cândido Ramos , Lionel Blondé , Hugues Vinzant , Jacopo Castellini , Alexandros Kalousis"
+    },
+    {
+      "arxiv_id": "2610.41518",
+      "title": "Enhancing Sentiment Classification on Small Datasets through Data Augmentation and Transfer Learning",
+      "authors": "Mahmoud S. Mayaleh , Samer A. Mayaleh"
+    },
+    {
+      "arxiv_id": "2610.41514",
+      "title": "Infinite ResNets are Gaussian Mean ODEs",
+      "authors": "Louis-Pierre Chaintron , Lénaïc Chizat , Javier Maass"
+    },
+    {
+      "arxiv_id": "2610.41506",
+      "title": "PCD: Predictive Coding Dynamics for Irregularly Sampled Time Series",
+      "authors": "Tianrui Gou , Jiayangmei Xu , Xingzhou Zhang , Lei Sha"
+    },
+    {
+      "arxiv_id": "2610.41478",
+      "title": "Spectral Haar Binarizer: Compact Boolean Contrast Representations for Hyperspectral Classification",
+      "authors": "Michał Romaszewski , Przemysław Głomb"
+    },
+    {
+      "arxiv_id": "2610.41464",
+      "title": "When Links Mislead: Label-Free Structural Polarity for Zero-Shot Classification of Web Pages",
+      "authors": "Hanshuai Cui , Zhiqing Tang , Zhi Yao , Weijia Jia , Jun Luo"
+    },
+    {
+      "arxiv_id": "2610.41460",
+      "title": "RetryRoute: Retry-Aware Model Routing for Agentic Image Editing Services",
+      "authors": "Hanshuai Cui , Zhiqing Tang , Zhi Yao , Jun Luo , Weijia Jia"
+    },
+    {
+      "arxiv_id": "2610.41459",
+      "title": "NormDetect: Anchored Calibration for Low-False-Positive Detection of Machine-Generated Web Text",
+      "authors": "Hanshuai Cui , Fanshuai Meng , Zhiqing Tang"
+    },
+    {
+      "arxiv_id": "2610.41455",
+      "title": "Improving the Optimization Landscape of Matrix Completion with $ε$-close Surrogates",
+      "authors": "Ziye Ma"
+    },
+    {
+      "arxiv_id": "2610.41454",
+      "title": "When Everyone Can Build a Model: Mechanistic Inference in the Age of AI",
+      "authors": "Marvin van Aalst (1), Adèle H. Ribeiro (2 and 3), Anna Matuszyńska (1 and 3) ((1) Computational Life Science, Faculty of Mathematics and Natural Sciences, RWTH Aachen University, Germany, (2) Causal and Explainable Artificial Intelligence in Life Sciences, Faculty of Mathematics and Natural Sciences, RWTH Aachen University, Germany, (3) Center for Computational Life Sciences, RWTH Aachen University, Germany)"
+    },
+    {
+      "arxiv_id": "2610.41445",
+      "title": "From Representation to Readout: Mechanistic Analysis of Membership Signals in Language Models",
+      "authors": "Wenxi Dai , Jingyu Hu , Yanting Yang , Mengnan Du"
+    },
+    {
+      "arxiv_id": "2610.41424",
+      "title": "A Unified XAI-NSAI Analytical Framework for Trustworthy IoT Anomaly Detection",
+      "authors": "Hugues Leger , Giovani R. Abuaitah"
+    },
+    {
+      "arxiv_id": "2610.41420",
+      "title": "SparseGDN: Chunk Sparse in Linear Attention",
+      "authors": "Jiedong Zhuang , Peng Zhao , Jialin Tang , Haoji Hu"
+    },
+    {
+      "arxiv_id": "2610.41410",
+      "title": "Certifying Retraining Regret through Residual Structure",
+      "authors": "Peida Li"
+    },
+    {
+      "arxiv_id": "2610.41387",
+      "title": "Anomalies as Residuals: Cauchy Displacement Networks",
+      "authors": "Yang Cao , Zihao Guo"
+    },
+    {
+      "arxiv_id": "2610.41366",
+      "title": "What We Keep of What We Forget: Replacement Operators and Routing Semantics in Training-Free MoE Expert Pruning",
+      "authors": "Ezza Ali , Sehrish Bibi , Momina Moetesum , Faisal Shafait"
+    },
+    {
+      "arxiv_id": "2610.41365",
+      "title": "Generated storm lifecycles fill the rare-event tail of short rainfall records",
+      "authors": "Valerie Tsao , Nathaniel W. Chaney , Manolis Veveakis , Marta Zaniolo"
+    },
+    {
+      "arxiv_id": "2610.41351",
+      "title": "Quantile Propagation Planning for Budgeted Tail-Risk Evaluation",
+      "authors": "Weijia Han , Zhi Huang , Lisha Qu , Yuanyuan Tan , Jiayue Meng"
+    },
+    {
+      "arxiv_id": "2610.41333",
+      "title": "StrictPRMBench: A Replayable Evaluation Benchmark for Auditing Fixed-Score PRM Aggregation",
+      "authors": "Pengfei Zheng"
+    },
+    {
+      "arxiv_id": "2610.41322",
+      "title": "Transferring Peptide-Target Interaction Patterns to Small Molecules by Joint Guidance for Diffusion and Flow Matching",
+      "authors": "Jian Lee , Changyun Cho , Sun Kim"
+    },
+    {
+      "arxiv_id": "2610.41303",
+      "title": "rl_rob: A transparent, from-scratch Python library for teaching reinforcement learning from tabular methods to deep policy gradients",
+      "authors": "Abdulrahman Altahhan"
+    },
+    {
+      "arxiv_id": "2610.41273",
+      "title": "SPT-Flow: One Integration, Many Futures in Continuous-Time World Models",
+      "authors": "Mingyang Lyu , Yinqian Sun , Gongce Cao , Yuhao Zhang , Lu Jia , Qian Zhang , Bo Wang , Pin Lyu"
+    },
+    {
+      "arxiv_id": "2610.41244",
+      "title": "A Unified Framework for Probability Estimation of Data-Dependent Events",
+      "authors": "Vitaly Feldman , Satyen Kale , Vinod Raman , Kunal Talwar , Ambuj Tewari"
+    },
+    {
+      "arxiv_id": "2610.41243",
+      "title": "Generative SDEs with Trainable Diffusion and Density-Based Losses",
+      "authors": "Angxiu Ni"
+    },
+    {
+      "arxiv_id": "2610.41222",
+      "title": "Corroborative Learning: Mutual Enhancement through Task-Response Reconstruction",
+      "authors": "Zexing Zhang , Jichao Li , Tianyang Lei , Yiyin Zhang , Kewei Yang"
+    },
+    {
+      "arxiv_id": "2610.41218",
+      "title": "A Positional Realizability Theory of Length Generalization in Single-Head Attention",
+      "authors": "Jiasong Han , Yunkai Chai , Jintao Wang"
+    },
+    {
+      "arxiv_id": "2610.41213",
+      "title": "Beyond Scarcity: When Encoder Adaptation Is Worthwhile",
+      "authors": "Zexing Zhang , Jichao Li , Tianyang Lei , Yiyin Zhang , Kewei Yang"
+    },
+    {
+      "arxiv_id": "2610.41193",
+      "title": "Role-Aware Server Optimization for Multimodal Federated Learning with Missing Modalities",
+      "authors": "Liuyin Shi , Wenbo He"
+    },
+    {
+      "arxiv_id": "2610.41179",
+      "title": "General Frequency Principle for Linear Approximation Classes",
+      "authors": "Yujun Wang , Yiqi Gu"
+    },
+    {
+      "arxiv_id": "2610.41173",
+      "title": "CAP: Learning to Optimize from Sparse Observations of Related Tasks",
+      "authors": "Lin Fu , Siwei Fu , Dong Ni"
+    },
+    {
+      "arxiv_id": "2610.41143",
+      "title": "TalentRL: Strategy-Guided Reinforcement Learning for Hierarchical Skill Routing",
+      "authors": "Huancheng Chen , Xiaodi Sun , Zhaoqiong Huang , Michelle Chang , Jingwen Lu"
+    },
+    {
+      "arxiv_id": "2610.41104",
+      "title": "MUON-RT Reusing the Teacher's Trajectory for Momentum-Free Muon for LLM Self-Distillation",
+      "authors": "Aryan Das , Vinay Kumar Verma , Aakansha Mishra"
+    },
+    {
+      "arxiv_id": "2610.41074",
+      "title": "Where, When, and How Many Bits? Scaling Laws for SGD with Stochastic Rounding",
+      "authors": "Zhichao Wang , Michael W. Mahoney"
+    },
+    {
+      "arxiv_id": "2610.41073",
+      "title": "bf16 Rounding Silently Discards Most RL Policy Updates: A Hidden Training-Inference Mismatch and an Unbiased One-Line Fix",
+      "authors": "Andrew Gao , William Gao"
+    },
+    {
+      "arxiv_id": "2610.41059",
+      "title": "Nonlinear Maps Between Irreducible Representations in Graph Neural Networks",
+      "authors": "Mani Shayestehfar"
+    },
+    {
+      "arxiv_id": "2610.41055",
+      "title": "Communication-Efficient Private Federated Reinforcement Learning with Post-Quantum Authentication for Vehicular Networks",
+      "authors": "Hojat Allah Salehi , Devrim Aras , Md Jueal Mia , M. Hadi Amini , Imtiaz Karim , Mashrur Chowdhury , Bhavani Thuraisingham"
+    },
+    {
+      "arxiv_id": "2610.41046",
+      "title": "Localizing predictive concepts encoded in neural representations via hierarchical testing",
+      "authors": "Viktoriia Huryn , Marco Simnacher , Jim Berend , Wojciech Samek , Christoph Lippert , Sonja Greven , Uwe Ohler"
+    },
+    {
+      "arxiv_id": "2610.41041",
+      "title": "Before We Adapt: The Zero-Shot Generalization Bottleneck in Continual World Models",
+      "authors": "Amir Mesbah , Di Wu"
+    },
+    {
+      "arxiv_id": "2610.41039",
+      "title": "Characterizing Recoverable Expert-Utilization Signatures in Fine-Tuned Mixture-of-Experts LLMs",
+      "authors": "Fei Wang , Baochun Li , Bo Li"
+    },
+    {
+      "arxiv_id": "2610.41038",
+      "title": "When can Optimally Trained Transformers Achieve Near-Lossless Token Prediction for non-Markovian Data?",
+      "authors": "Kağan Akman , Jake Feldman Starosta , Naci Saldi , Serdar Yüksel"
+    },
+    {
+      "arxiv_id": "2610.41023",
+      "title": "Omniprediction for All Mixable Proper Losses and Beyond",
+      "authors": "Junyan Liu , Haipeng Luo , Lillian J. Ratliff"
+    },
+    {
+      "arxiv_id": "2610.41022",
+      "title": "Density-Guided Bootstrap Boundaries for Latent World-Model Reinforcement Learning",
+      "authors": "Shashank Gupta , Pilhwa Lee"
+    },
+    {
+      "arxiv_id": "2610.41015",
+      "title": "Do Language Models Know What Compelling Scientific Evidence Looks Like?",
+      "authors": "Conor Igoe , Gabriel Grand , Zane Koch , Albert Bou , Eli Moss , Michaela M. Hinks , Samuel G. Rodriques , Andrew White , Siddharth Narayanan"
+    },
+    {
+      "arxiv_id": "2610.41014",
+      "title": "Towards Understanding Score-Seeking in LLMs",
+      "authors": "Aghyad Deeb , Ryan Greenblatt , Alex Mallen"
+    },
+    {
+      "arxiv_id": "2610.41004",
+      "title": "MOSAIC: Addressing Disproportionate Task-Modality Dependencies via Modality-Partitioned Gradient Routing",
+      "authors": "Aryan Chowdhury , Yizheng Sun , Thomas Carroll , Riza Batista-Navarro"
+    },
+    {
+      "arxiv_id": "2610.41001",
+      "title": "When Can Unlabeled Data Pools Replace Membership Queries?",
+      "authors": "Dravyansh Sharma"
+    },
+    {
+      "arxiv_id": "2610.40998",
+      "title": "Steering Vectors as a Training Signal in LLM Post-Training",
+      "authors": "Tiejin Chen , Maunil Vyas , Huaiyuan Yao , Hua Wei"
+    },
+    {
+      "arxiv_id": "2610.40984",
+      "title": "RC Prediction: A Python Package for Parameter-Aware Reservoir Computing",
+      "authors": "Jin-Cheng Rao , Zheng-Meng Zhai , Ying-Cheng Lai"
+    },
+    {
+      "arxiv_id": "2610.40956",
+      "title": "Monte Carlo Random Walk Kernel",
+      "authors": "Arslan Iamaletdinov , Elfat Sabitov , Konstantin Sorokin"
+    },
+    {
+      "arxiv_id": "2610.40954",
+      "title": "CAMEL: Cross-Architecture Masked Embedding Learning for Ultra-Lightweight Retinal Foundation Models",
+      "authors": "Andre Guarnier De Mitri , Giovani Decico Lucafo , Miller Matheus Lima Anacleto Rocha , Diego Furtado Silva"
+    },
+    {
+      "arxiv_id": "2610.40945",
+      "title": "On the Origin and Evolution of Training-Inference Mismatch in LLM Reinforcement Learning",
+      "authors": "Yu Li , Yufa Zhou , Tian Lan"
+    },
+    {
+      "arxiv_id": "2610.40943",
+      "title": "Kernel-based Interpolatory Methods for Context Compression of Attention Mechanisms",
+      "authors": "Michel Fabrice Serret , Laura Grigori"
+    },
+    {
+      "arxiv_id": "2610.40936",
+      "title": "Fair Recommender Systems for Intersecting Groups",
+      "authors": "Christine Ling , Juba Ziani"
+    },
+    {
+      "arxiv_id": "2610.40934",
+      "title": "A Theoretical Framework for Understanding and Building \"Any-task inference\" Capable Foundation Models",
+      "authors": "Matthew McDermott , Florent Pollet , Payal Chandak , Gregory Kondas , Liat Friedman Antwarg , Noa Dagan , Isaac Kohane"
+    },
+    {
+      "arxiv_id": "2610.40914",
+      "title": "No Channels Left Behind: Understanding Diffusion Acceleration through Residual Gates",
+      "authors": "Junha Park , Jaemyung Yu , Jaehui Hwang , Jong-Seok Lee , Dongyoon Han"
+    },
+    {
+      "arxiv_id": "2610.41897",
+      "title": "Quantitative Ultrasound Characterizes Perfusion Trajectories in Healthy and Inflamed Gingival Wound Healing",
+      "authors": "Haowei Tai , Oscar Duran-Garnica , Karen Villarreal , Hsun-Liang Chan , Oliver D. Kripfgans"
+    },
+    {
+      "arxiv_id": "2610.41583",
+      "title": "Roadmap: Image reconstruction in emission tomography for the era of fast Monte Carlo simulation",
+      "authors": "Georg Schramm , Benjamin Auer , Ane Etxebeste , Pablo Galve , Jens Henrik Göbbert , Johan Gustafsson , Željko Kereta , Nils Krah , Christoph Lerche , Chong Li , Joaquin L. Herraiz , David Sarrut , Jürgen J. Scheins , José Manuel Udías , Simon Arridge , Magdalena Rafecas , Kris Thielemans"
+    },
+    {
+      "arxiv_id": "2610.41093",
+      "title": "A General-Purpose Adaptable Foundation Model for Total-Body PET Kinetic Modelling",
+      "authors": "Yun Zhao , Qinlin Gu , Andrew J. Reader , Yanan Fan , Georgios I. Angelis , Katya Amadita , Kevin J. Chung , Xiaoyu Duan , Benjamin A. Spencer , Guobao Wang , Steven R. Meikle"
+    }
+  ],
+  "not_selected": "All unselected entries metadata only; relevance and physical-task review needed. FLUCS, EDGE2D-EIRENE and EAST ML remain unread leads."
+}

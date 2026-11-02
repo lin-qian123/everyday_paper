@@ -1,0 +1,34 @@
+{
+  "scope": "four printed Table1 points; no CEFT integral, fit, or author code rerun",
+  "units": "cm^3 s^-1 mol^-1",
+  "equation_source": "Nazari et al., Article in Press, PDF p7 Eq25",
+  "reference_source": "same PDF p8 Table1",
+  "paper_claimed_fit_max_relative_deviation_percent": 1.29,
+  "rows": [
+    {
+      "T9": 0.002,
+      "printed_eq25": 2.7617303603969895e-23,
+      "table1": 2.544e-23,
+      "relative_difference_percent": 8.558583348938264
+    },
+    {
+      "T9": 0.1,
+      "printed_eq25": 1.5093462699610447e-05,
+      "table1": 1.278e-05,
+      "relative_difference_percent": 18.102212047030108
+    },
+    {
+      "T9": 1.0,
+      "printed_eq25": 0.08733545408969004,
+      "table1": 0.04392,
+      "relative_difference_percent": 98.85121605120683
+    },
+    {
+      "T9": 10.0,
+      "printed_eq25": 11.740497077342589,
+      "table1": 7.279,
+      "relative_difference_percent": 61.29271984259637
+    }
+  ],
+  "interpretation": "Printed equation and table disagree at these samples; unresolved coefficient/typesetting/normalization issue. No corrected formula inferred."
+}

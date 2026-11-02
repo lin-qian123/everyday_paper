@@ -2,11 +2,13 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：224 篇
-- 索引更新时间：2026-11-02
+- 当前收录：226 篇
+- 索引更新时间：2026-11-03
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-03 | [An approximate separation of the electron and positron degrees of freedom in the Dirac-Heisenberg-Wigner formalism](../papers/arxiv-2610-41623/README.md) | arXiv preprint | [笔记](../daily/2026-11-03/notes/Brodin and Lundstrom - 2026 - Weakly coupled electron positron DHW.md) |
+| 2026-11-03 | [Accelerating Computation and Resolving Extraneous Roots in the Kinetic Plasma Dispersion Relation Solver BO](../papers/arxiv-2610-41450/README.md) | arXiv preprint | [笔记](../daily/2026-11-03/notes/Tian et al. - 2026 - BO Tian kinetic dispersion solver.md) |
 | 2026-11-02 | [A semi-implicit unified gas-kinetic wave-particle method with energy-conserving electromagnetic coupling for multiscale plasmas](../papers/arxiv-2610-40206/README.md) | arXiv preprint | [笔记](../daily/2026-11-02/notes/Wang et al. - 2026 - Semi implicit UGKWP multiscale plasmas.md) |
 | 2026-11-02 | [Bayesian optimization of longitudinally aligned CNT targets for 800 nm laser wakefield acceleration in the bubble regime](../papers/arxiv-2610-38810/README.md) | arXiv preprint | [笔记](../daily/2026-11-02/notes/Nunes et al. - 2026 - Bayesian optimized CNT targets.md) |
 | 2026-10-31 | [Generation of attosecond electron bunches via high-gradient acceleration in periodic structures driven by a pulse-front-tilted laser](../papers/10-1103-q1y7-w87y/README.md) | Physical Review Applied 26, 044091 | [笔记](../daily/2026-10-31/notes/Ding et al. - 2026 - Periodic structure attosecond electrons.md) |

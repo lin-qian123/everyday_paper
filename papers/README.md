@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：524 篇
-- 索引更新时间：2026-11-02
+- 当前入库论文：527 篇
+- 索引更新时间：2026-11-03
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-11-03 | [Thermonuclear reaction rate of the deuteron alpha capture reaction in cluster effective field theory](./10-1038-s41598-026-78629-5/README.md) | Scientific Reports | [10.1038/s41598-026-78629-5](https://doi.org/10.1038/s41598-026-78629-5) |
+| 2026-11-03 | [An approximate separation of the electron and positron degrees of freedom in the Dirac-Heisenberg-Wigner formalism](./arxiv-2610-41623/README.md) | arXiv preprint | [10.48550/arXiv.2610.41623](https://doi.org/10.48550/arXiv.2610.41623) |
+| 2026-11-03 | [Accelerating Computation and Resolving Extraneous Roots in the Kinetic Plasma Dispersion Relation Solver BO](./arxiv-2610-41450/README.md) | arXiv preprint | [10.48550/arXiv.2610.41450](https://doi.org/10.48550/arXiv.2610.41450) |
 | 2026-11-02 | [A novel angle-independent neutron detector based on CR-39](./10-1088-1361-6498-aeb271/README.md) | Journal of Radiological Protection 46, 041509 | [10.1088/1361-6498/aeb271](https://doi.org/10.1088/1361-6498/aeb271) |
 | 2026-11-02 | [A semi-implicit unified gas-kinetic wave-particle method with energy-conserving electromagnetic coupling for multiscale plasmas](./arxiv-2610-40206/README.md) | arXiv preprint | [10.48550/arXiv.2610.40206](https://doi.org/10.48550/arXiv.2610.40206) |
 | 2026-11-02 | [Bayesian optimization of longitudinally aligned CNT targets for 800 nm laser wakefield acceleration in the bubble regime](./arxiv-2610-38810/README.md) | arXiv preprint | [10.48550/arXiv.2610.38810](https://doi.org/10.48550/arXiv.2610.38810) |

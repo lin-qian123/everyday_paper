@@ -1,0 +1,154 @@
+{
+  "preprint_checks": [
+    {
+      "title": "An approximate separation of the electron and positron degrees of freedom in the Dirac-Heisenberg-Wigner formalism",
+      "purpose": "bounded exact-title Crossref top3 same-work VOR check",
+      "url": "https://api.crossref.org/works?query.title=An+approximate+separation+of+the+electron+and+positron+degrees+of+freedom+in+the+Dirac-Heisenberg-Wigner+formalism&rows=3",
+      "status": 200,
+      "results": [
+        {
+          "doi": "10.22323/1.314.0172",
+          "title": [
+            "Chiral Magnetic Effect in the Dirac-Heisenberg-Wigner formalism"
+          ],
+          "published": {
+            "date-parts": [
+              [
+                2018,
+                1,
+                15
+              ]
+            ]
+          },
+          "journal": [
+            "Proceedings of The European Physical Society Conference on High Energy Physics — PoS(EPS-HEP2017)"
+          ]
+        },
+        {
+          "doi": "10.1016/j.physletb.2018.05.012",
+          "title": [
+            "Chiral magnetic effect in the Dirac–Heisenberg–Wigner formalism"
+          ],
+          "published": {
+            "date-parts": [
+              [
+                2018,
+                7
+              ]
+            ]
+          },
+          "journal": [
+            "Physics Letters B"
+          ]
+        },
+        {
+          "doi": "10.1103/physreve.104.015207",
+          "title": [
+            "Plasma dynamics and vacuum pair creation using the Dirac-Heisenberg-Wigner formalism"
+          ],
+          "published": {
+            "date-parts": [
+              [
+                2021,
+                7,
+                15
+              ]
+            ]
+          },
+          "journal": [
+            "Physical Review E"
+          ]
+        }
+      ],
+      "assessment": "No same-work VOR verified among top3; returned works have different titles, years and physical tasks."
+    },
+    {
+      "title": "Accelerating Computation and Resolving Extraneous Roots in the Kinetic Plasma Dispersion Relation Solver BO",
+      "purpose": "bounded exact-title Crossref top3 same-work VOR check",
+      "url": "https://api.crossref.org/works?query.title=Accelerating+Computation+and+Resolving+Extraneous+Roots+in+the+Kinetic+Plasma+Dispersion+Relation+Solver+BO&rows=3",
+      "status": 200,
+      "results": [
+        {
+          "doi": "10.1088/1009-0630/18/2/01",
+          "title": [
+            "PDRK: A General Kinetic Dispersion Relation Solver for Magnetized Plasma"
+          ],
+          "published": {
+            "date-parts": [
+              [
+                2016,
+                2
+              ]
+            ]
+          },
+          "journal": [
+            "Plasma Science and Technology"
+          ]
+        },
+        {
+          "doi": "10.1016/j.cpc.2013.10.012",
+          "title": [
+            "PDRF: A general dispersion relation solver for magnetized multi-fluid plasma"
+          ],
+          "published": {
+            "date-parts": [
+              [
+                2014,
+                2
+              ]
+            ]
+          },
+          "journal": [
+            "Computer Physics Communications"
+          ]
+        },
+        {
+          "doi": "10.1134/s0040577922030096",
+          "title": [
+            "Dispersion relation in the kinetic model of collisionless  plasma"
+          ],
+          "published": {
+            "date-parts": [
+              [
+                2022,
+                3
+              ]
+            ]
+          },
+          "journal": [
+            "Theoretical and Mathematical Physics"
+          ]
+        }
+      ],
+      "assessment": "No same-work VOR verified among top3; returned works have different titles, years and physical tasks."
+    }
+  ],
+  "formal_author_searches": [
+    {
+      "key": "drive",
+      "query": "ti:\"probabilistic model of laser drive asymmetries\"",
+      "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22probabilistic+model+of+laser+drive+asymmetries%22&max_results=5",
+      "status": 200,
+      "total": "0",
+      "entries": []
+    },
+    {
+      "key": "equil",
+      "query": "ti:\"electron ion equilibration\" AND au:Patel",
+      "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22electron+ion+equilibration%22+AND+au%3APatel&max_results=5",
+      "status": 200,
+      "total": "0",
+      "entries": []
+    },
+    {
+      "key": "pair",
+      "query": "ti:\"Longitudinal-field particle acceleration\"",
+      "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Longitudinal-field+particle+acceleration%22&max_results=5",
+      "status": 200,
+      "total": "0",
+      "entries": []
+    }
+  ],
+  "discarded_search": "Initial unquoted arXiv ti: queries were parsed as broad OR searches; not evidence. Corrected quoted queries above returned0.",
+  "nature_version": "Article in Press explicitly stated on publisher page and PDF; not final edited VOR"
+}

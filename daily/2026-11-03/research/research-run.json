@@ -1,0 +1,145 @@
+{
+  "run_date": "2026-11-03",
+  "searched_at": "2026-11-03T07:10:31.686450+08:00",
+  "crossref": {
+    "window": "2026-11-01 through2026-11-03 publication-date filter; month-only November issue dates not fresh online evidence",
+    "queries": [
+      {
+        "query": "high energy density inertial confinement fusion",
+        "url": "https://api.crossref.org/works?query=high+energy+density+inertial+confinement+fusion&filter=from-pub-date%3A2026-11-01%2Cuntil-pub-date%3A2026-11-03&rows=60&sort=relevance",
+        "returned": 60
+      },
+      {
+        "query": "neutron shielding material irradiation",
+        "url": "https://api.crossref.org/works?query=neutron+shielding+material+irradiation&filter=from-pub-date%3A2026-11-01%2Cuntil-pub-date%3A2026-11-03&rows=60&sort=relevance",
+        "returned": 60
+      },
+      {
+        "query": "laser photonuclear neutron isotope production",
+        "url": "https://api.crossref.org/works?query=laser+photonuclear+neutron+isotope+production&filter=from-pub-date%3A2026-11-01%2Cuntil-pub-date%3A2026-11-03&rows=60&sort=relevance",
+        "returned": 60
+      },
+      {
+        "query": "strong field QED radiation reaction",
+        "url": "https://api.crossref.org/works?query=strong+field+QED+radiation+reaction&filter=from-pub-date%3A2026-11-01%2Cuntil-pub-date%3A2026-11-03&rows=60&sort=relevance",
+        "initial_error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query=strong+field+QED+radiation+reaction&filter=from-pub-date%3A2026-11-01%2Cuntil-pub-date%3A2026-11-03&rows=60&sort=relevance",
+        "returned": 60
+      },
+      {
+        "query": "laser plasma acceleration",
+        "url": "https://api.crossref.org/works?query=laser+plasma+acceleration&filter=from-pub-date%3A2026-11-01%2Cuntil-pub-date%3A2026-11-03&rows=60&sort=relevance",
+        "initial_error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query=laser+plasma+acceleration&filter=from-pub-date%3A2026-11-01%2Cuntil-pub-date%3A2026-11-03&rows=60&sort=relevance",
+        "returned": 60
+      },
+      {
+        "query": "particle in cell machine learning plasma",
+        "url": "https://api.crossref.org/works?query=particle+in+cell+machine+learning+plasma&filter=from-pub-date%3A2026-11-01%2Cuntil-pub-date%3A2026-11-03&rows=60&sort=relevance",
+        "initial_error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query=particle+in+cell+machine+learning+plasma&filter=from-pub-date%3A2026-11-01%2Cuntil-pub-date%3A2026-11-03&rows=60&sort=relevance",
+        "returned": 60
+      },
+      {
+        "query": "laser electron bremsstrahlung gamma converter",
+        "url": "https://api.crossref.org/works?query=laser+electron+bremsstrahlung+gamma+converter&filter=from-pub-date%3A2026-11-01%2Cuntil-pub-date%3A2026-11-03&rows=60&sort=relevance",
+        "initial_error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query=laser+electron+bremsstrahlung+gamma+converter&filter=from-pub-date%3A2026-11-01%2Cuntil-pub-date%3A2026-11-03&rows=60&sort=relevance",
+        "returned": 60
+      },
+      {
+        "query": "electron proton radiotherapy dosimetry",
+        "url": "https://api.crossref.org/works?query=electron+proton+radiotherapy+dosimetry&filter=from-pub-date%3A2026-11-01%2Cuntil-pub-date%3A2026-11-03&rows=60&sort=relevance",
+        "initial_error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query=electron+proton+radiotherapy+dosimetry&filter=from-pub-date%3A2026-11-01%2Cuntil-pub-date%3A2026-11-03&rows=60&sort=relevance",
+        "returned": 60
+      },
+      {
+        "query": "laser plasma diagnostics target design",
+        "url": "https://api.crossref.org/works?query=laser+plasma+diagnostics+target+design&filter=from-pub-date%3A2026-11-01%2Cuntil-pub-date%3A2026-11-03&rows=60&sort=relevance",
+        "initial_error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query=laser+plasma+diagnostics+target+design&filter=from-pub-date%3A2026-11-01%2Cuntil-pub-date%3A2026-11-03&rows=60&sort=relevance",
+        "returned": 60
+      },
+      {
+        "query": "nuclear reaction cross section isotope",
+        "url": "https://api.crossref.org/works?query=nuclear+reaction+cross+section+isotope&filter=from-pub-date%3A2026-11-01%2Cuntil-pub-date%3A2026-11-03&rows=60&sort=relevance",
+        "initial_error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query=nuclear+reaction+cross+section+isotope&filter=from-pub-date%3A2026-11-01%2Cuntil-pub-date%3A2026-11-03&rows=60&sort=relevance",
+        "returned": 60
+      }
+    ],
+    "successful_rows": 600,
+    "unique_dois": 517,
+    "initial_429_recovered": 7
+  },
+  "arxiv": {
+    "strategy": "10 official recent HTML pages, first dated block only, show100",
+    "queries": [
+      {
+        "category": "physics.acc-ph",
+        "url": "https://arxiv.org/list/physics.acc-ph/recent?show=100",
+        "date": "Mon, 2 Nov 2026 (showing 1 of 1 entries )",
+        "returned": 1
+      },
+      {
+        "category": "physics.comp-ph",
+        "url": "https://arxiv.org/list/physics.comp-ph/recent?show=100",
+        "date": "Mon, 2 Nov 2026 (showing 11 of 11 entries )",
+        "returned": 11
+      },
+      {
+        "category": "physics.plasm-ph",
+        "url": "https://arxiv.org/list/physics.plasm-ph/recent?show=100",
+        "date": "Mon, 2 Nov 2026 (showing 15 of 15 entries )",
+        "returned": 15
+      },
+      {
+        "category": "nucl-ex",
+        "url": "https://arxiv.org/list/nucl-ex/recent?show=100",
+        "date": "Mon, 2 Nov 2026 (showing 4 of 4 entries )",
+        "returned": 4
+      },
+      {
+        "category": "physics.ins-det",
+        "url": "https://arxiv.org/list/physics.ins-det/recent?show=100",
+        "date": "Mon, 2 Nov 2026 (showing 12 of 12 entries )",
+        "returned": 12
+      },
+      {
+        "category": "hep-ph",
+        "url": "https://arxiv.org/list/hep-ph/recent?show=100",
+        "date": "Mon, 2 Nov 2026 (showing 36 of 36 entries )",
+        "returned": 36
+      },
+      {
+        "category": "physics.optics",
+        "url": "https://arxiv.org/list/physics.optics/recent?show=100",
+        "date": "Mon, 2 Nov 2026 (showing 25 of 25 entries )",
+        "returned": 25
+      },
+      {
+        "category": "nucl-th",
+        "url": "https://arxiv.org/list/nucl-th/recent?show=100",
+        "date": "Mon, 2 Nov 2026 (showing 14 of 14 entries )",
+        "returned": 14
+      },
+      {
+        "category": "cs.LG",
+        "url": "https://arxiv.org/list/cs.LG/recent?show=100",
+        "date": "Mon, 2 Nov 2026 (showing first 100 of 198 entries )",
+        "returned": 100
+      },
+      {
+        "category": "physics.med-ph",
+        "url": "https://arxiv.org/list/physics.med-ph/recent?show=100",
+        "date": "Mon, 2 Nov 2026 (showing 4 of 4 entries )",
+        "returned": 4
+      }
+    ],
+    "rows": 222,
+    "unique_ids": 205,
+    "coverage_limit": "All first blocks Nov02; cs.LG first100 of198. Formal-author Atom queries separate from discovery. No complete archive claim."
+  },
+  "deduplication": [
+    "DOI, normalized titles and aliases against524 processed/47retry records",
+    "arxiv IDs/author/title/physical task manually checked for selected works; no same-work entries",
+    "Nature Article in Press not finalVOR; two arxiv submission dates Oct30 not Nov02 publication"
+  ],
+  "retry_policy": "Old47 objects unchanged; no unchanged fullqueue repeated probing. Four new selected formal fulltexts blocked; no abstract-only notes. Nature normal .pdf HTML recovered via actual publisher _reference.pdf Download PDF link.",
+  "errors_unresolved": [],
+  "not_exhaustive": true
+}
