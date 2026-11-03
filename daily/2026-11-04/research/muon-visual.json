@@ -1,0 +1,81 @@
+{
+  "paper": "Cimmino et al. 2026, publisher Accepted Manuscript review",
+  "pdf_sha256": "1abd199cbd252b1671ac13ea05ff913fe4ee4cc2184bcdbb0bad3d5706e6e8cf",
+  "full_pages_visually_inspected_1based": [
+    1,
+    3,
+    6,
+    7,
+    8,
+    9,
+    10,
+    13,
+    14
+  ],
+  "full_pages_displayed_as": "three full-page contact sheets, each three pages at 1.5x; retained final figures at 3x",
+  "final_crops_visually_inspected": true,
+  "figures": [
+    {
+      "figure": 4,
+      "page_1based": 6,
+      "crop_pt": [
+        35,
+        50,
+        286,
+        302
+      ],
+      "path": "daily/2026-11-04/images/muon/figure-4.png",
+      "sha256": "4ede47f19ffe74e189c3cc9bb2bb5c8c45a36bfd0d4815187acce8e436c125c0",
+      "source_url": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/laserdriven-multigev-muon-sources-production-and-applications/0F50BF6D035517FBF6B61568E20E9A55",
+      "doi": "10.1017/hpl.2026.10210",
+      "license": "CC BY 4.0; original review figure crop, no redraw",
+      "dpi": 216
+    },
+    {
+      "figure": 6,
+      "page_1based": 7,
+      "crop_pt": [
+        309,
+        60,
+        560,
+        286
+      ],
+      "path": "daily/2026-11-04/images/muon/figure-6.png",
+      "sha256": "c6002fba939b7abb8e5e71593a01f99af1e67f2faf1c8a7366b4e428775f2de2",
+      "source_url": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/laserdriven-multigev-muon-sources-production-and-applications/0F50BF6D035517FBF6B61568E20E9A55",
+      "doi": "10.1017/hpl.2026.10210",
+      "license": "CC BY 4.0; original review figure crop, no redraw",
+      "dpi": 216
+    },
+    {
+      "figure": 7,
+      "page_1based": 10,
+      "crop_pt": [
+        30,
+        209,
+        293,
+        491
+      ],
+      "path": "daily/2026-11-04/images/muon/figure-7.png",
+      "sha256": "3699d27c0d2b93b200bd9bb43adbb3bfa6158399fb949ed55a03862043e1a995",
+      "source_url": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/laserdriven-multigev-muon-sources-production-and-applications/0F50BF6D035517FBF6B61568E20E9A55",
+      "doi": "10.1017/hpl.2026.10210",
+      "license": "CC BY 4.0; original review figure crop, no redraw",
+      "dpi": 216
+    }
+  ],
+  "additional_visual_checks": [
+    "PDF p3 scaling-equation crop enlarged at 4x",
+    "Fig4 recropped to include complete caption and reopened",
+    "Fig6 recropped to include complete caption and reopened"
+  ],
+  "printed_source_issues": [
+    "p3 Eq2 and Eq4 at fixed a0 imply epsilon_m proportional to epsilon_las^-2; displayed summary instead says +2/3",
+    "p3 omega0 described as pulse waist within frequency ratio, later reused for waist",
+    "p5 correct microsecond lifetime followed by ms-timescale typo",
+    "Fig4 x-axis momentum GeV/c versus caption particle energy",
+    "Fig7 ordinate includes per-second and per-primary while caption supplies only per-primary normalization",
+    "Table2 Texas yield N.A. while prose reports inferred approximately1000/shot; mixed evidence cannot rank sources",
+    "ICMuS2 imaging paragraphs contain unresolved question-mark references and acknowledge limited particle discrimination"
+  ]
+}

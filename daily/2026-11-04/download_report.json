@@ -1,0 +1,62 @@
+{
+  "retrieved_at": "2026-11-04T07:05:49.063801+08:00",
+  "attempts": [
+    {
+      "key": "muon-pdf",
+      "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0F50BF6D035517FBF6B61568E20E9A55/S2095471926102102a.pdf/div-class-title-laser-driven-multi-gev-muon-sources-production-and-applications-div.pdf",
+      "resolved_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0F50BF6D035517FBF6B61568E20E9A55/S2095471926102102a.pdf/div-class-title-laser-driven-multi-gev-muon-sources-production-and-applications-div.pdf",
+      "status": 200,
+      "bytes": 3190253,
+      "type": "application/pdf",
+      "pdf": true
+    },
+    {
+      "key": "inverse-pdf",
+      "url": "https://arxiv.org/pdf/2611.00108v1",
+      "resolved_url": "https://arxiv.org/pdf/2611.00108v1",
+      "status": 200,
+      "bytes": 2440914,
+      "type": "application/pdf",
+      "pdf": true
+    },
+    {
+      "key": "fel-pdf",
+      "url": "https://arxiv.org/pdf/2611.01640v1",
+      "resolved_url": "https://arxiv.org/pdf/2611.01640v1",
+      "status": 200,
+      "bytes": 473805,
+      "type": "application/pdf",
+      "pdf": true
+    },
+    {
+      "key": "aps-page",
+      "url": "https://journals.aps.org/pre/abstract/10.1103/qjd9-p6dy",
+      "resolved_url": "https://journals.aps.org/pre/abstract/10.1103/qjd9-p6dy",
+      "status": 403,
+      "bytes": 5550,
+      "type": "text/html; charset=UTF-8",
+      "pdf": false
+    },
+    {
+      "key": "aps-pdf",
+      "url": "https://journals.aps.org/pre/pdf/10.1103/qjd9-p6dy",
+      "resolved_url": "https://journals.aps.org/pre/pdf/10.1103/qjd9-p6dy",
+      "status": 403,
+      "bytes": 5514,
+      "type": "text/html; charset=UTF-8",
+      "pdf": false
+    },
+    {
+      "key": "aps-harvest",
+      "url": "https://harvest.aps.org/v2/journals/articles/10.1103/qjd9-p6dy/fulltext",
+      "resolved_url": "https://harvest.aps.org/v2/journals/articles/10.1103/qjd9-p6dy/fulltext",
+      "status": 200,
+      "type": "application/pdf",
+      "bytes": 1768012,
+      "pdf": true
+    }
+  ],
+  "accepted_pdf_count": 4,
+  "all_accepted_header_pdf": true,
+  "aps_recovery": "official harvest APS API recovered VOR after ordinary APS403"
+}

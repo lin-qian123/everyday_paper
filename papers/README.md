@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：527 篇
-- 索引更新时间：2026-11-03
+- 当前入库论文：530 篇
+- 索引更新时间：2026-11-04
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-11-04 | [Laser-Driven Multi-GeV Muon Sources: Production and Applications](./10-1017-hpl-2026-10210/README.md) | High Power Laser Science and Engineering | [10.1017/hpl.2026.10210](https://doi.org/10.1017/hpl.2026.10210) |
+| 2026-11-04 | [First-principles simulation of free-electron lasers with the Galilean electromagnetic particle-in-cell method: even harmonics of planar undulators](./arxiv-2611-01640/README.md) | arXiv preprint | [10.48550/arXiv.2611.01640](https://doi.org/10.48550/arXiv.2611.01640) |
+| 2026-11-04 | [Inverse modelling of a laser-plasma accelerator](./arxiv-2611-00108/README.md) | arXiv preprint | [10.48550/arXiv.2611.00108](https://doi.org/10.48550/arXiv.2611.00108) |
 | 2026-11-03 | [Thermonuclear reaction rate of the deuteron alpha capture reaction in cluster effective field theory](./10-1038-s41598-026-78629-5/README.md) | Scientific Reports | [10.1038/s41598-026-78629-5](https://doi.org/10.1038/s41598-026-78629-5) |
 | 2026-11-03 | [An approximate separation of the electron and positron degrees of freedom in the Dirac-Heisenberg-Wigner formalism](./arxiv-2610-41623/README.md) | arXiv preprint | [10.48550/arXiv.2610.41623](https://doi.org/10.48550/arXiv.2610.41623) |
 | 2026-11-03 | [Accelerating Computation and Resolving Extraneous Roots in the Kinetic Plasma Dispersion Relation Solver BO](./arxiv-2610-41450/README.md) | arXiv preprint | [10.48550/arXiv.2610.41450](https://doi.org/10.48550/arXiv.2610.41450) |
@@ -107,11 +110,11 @@
 | 2026-10-09 | [Omnidirectional Radiation Detector with Perpendicular Dual Silicon Photomultiplier Readout - Directional Sensitivity and Machine Learning Source Positioning](./arxiv-2610-08195/README.md) | arXiv preprint | [10.48550/arXiv.2610.08195](https://doi.org/10.48550/arXiv.2610.08195) |
 | 2026-10-09 | [A Differentiable Surrogate for Loss-Dominated Ion Beam Transport](./arxiv-2610-08877/README.md) | arXiv preprint | [10.48550/arXiv.2610.08877](https://doi.org/10.48550/arXiv.2610.08877) |
 | 2026-10-09 | [Novel radiative trapping mechanism in ultra-intense laser–plasma interactions](./10-1063-5-0341085/README.md) | Matter and Radiation at Extremes 11, 065201 (formal version of record, CC BY) | [10.1063/5.0341085](https://doi.org/10.1063/5.0341085) |
+| 2026-10-08 | [Experimental Demonstration of Beam-Driven Wakefield Acceleration in Laser-Plasma Filament](./10-1103-qjd9-p6dy/README.md) | Physical Review E | [10.1103/qjd9-p6dy](https://doi.org/10.1103/qjd9-p6dy) |
 | 2026-10-08 | [Experimental observation of drift acoustic cnoidal waves in a magnetized plasma](./10-1103-mmzz-gq7q/README.md) | Physical Review E 114, 045211 (local full text: arXiv:2604.19927v1 author preprint; not VOR) | [10.1103/mmzz-gq7q](https://doi.org/10.1103/mmzz-gq7q) |
 | 2026-10-08 | [Evolution of transversely asymmetric electron beams in hollow plasma channels](./10-1103-13fz-y5wy/README.md) | Physical Review Accelerators and Beams (formal version of record) | [10.1103/13fz-y5wy](https://doi.org/10.1103/13fz-y5wy) |
 | 2026-10-08 | [Experimental observations of microturbulence-suppressed parallel heat conduction in a weakly collisional, high-β plasma](./arxiv-2610-08530/README.md) | arXiv preprint | [10.48550/arXiv.2610.08530](https://doi.org/10.48550/arXiv.2610.08530) |
 | 2026-10-08 | [Proton probing measurements of filamentary electromagnetic structure in laser ablation of solids](./10-1063-5-0342431/README.md) | Physics of Plasmas (formal version of record) | [10.1063/5.0342431](https://doi.org/10.1063/5.0342431) |
-| 2026-10-08 | [Experimental Demonstration of Beam-Driven Wakefield Acceleration in Laser-Plasma Filament](./10-1103-qjd9-p6dy/README.md) | Physical Review E Accepted Paper (local full text: corresponding arXiv:2602.22841v1 author preprint; not VOR) | [10.1103/qjd9-p6dy](https://doi.org/10.1103/qjd9-p6dy) |
 | 2026-10-07 | [Nonlinear excitations in a relativistic pair plasma with quantum corrections](./10-1140-epjp-s13360-026-08377-y/README.md) | The European Physical Journal Plus (formal version of record) | [10.1140/epjp/s13360-026-08377-y](https://doi.org/10.1140/epjp/s13360-026-08377-y) |
 | 2026-10-07 | [Design studies of a pulsed quasimonoenergetic 2-keV neutron source for calibration of low threshold dark matter detectors](./10-1103-fqgp-916r/README.md) | Physical Review D Accepted Paper (local full text: corresponding arXiv:2410.14722v1 author preprint; not VOR) | [10.1103/fqgp-916r](https://doi.org/10.1103/fqgp-916r) |
 | 2026-10-07 | [Effect of transition layer on wakefield in plasma waveguide](./arxiv-2610-06396/README.md) | arXiv preprint | [10.48550/arXiv.2610.06396](https://doi.org/10.48550/arXiv.2610.06396) |

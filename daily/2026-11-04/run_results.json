@@ -1,0 +1,104 @@
+{
+  "run_date": "2026-11-04",
+  "created_at": "2026-11-04T07:08:21.085155+08:00",
+  "status": "fulltext_ingested_local_validation_passed",
+  "processed_before": 527,
+  "processed_after": 530,
+  "retry_before": 51,
+  "retry_after": 51,
+  "added_dois": [
+    "10.1017/hpl.2026.10210",
+    "10.48550/arXiv.2611.00108",
+    "10.48550/arXiv.2611.01640"
+  ],
+  "upgraded_dois": [
+    "10.1103/qjd9-p6dy"
+  ],
+  "new_retry": [],
+  "recovered_retry": [],
+  "pdfs": 4,
+  "pages": 60,
+  "pdf_bytes": 7872984,
+  "layout_text_bytes": 424650,
+  "visual_inspection": {
+    "pages_1based": {
+      "muon": [
+        1,
+        3,
+        6,
+        7,
+        8,
+        9,
+        10,
+        13,
+        14
+      ],
+      "inverse": [
+        1,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "fel": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "filament": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    "total_key_pages": 38,
+    "final_original_excerpts": 11
+  },
+  "mineru": {
+    "api_requests": 1,
+    "success": 0,
+    "failure": "HTTP401/A0211 user token expired",
+    "other_papers_individually_submitted": false
+  },
+  "prior_processed_objects_unchanged": 526,
+  "upgraded_in_place_preserves_note_path_and_processed_date": true,
+  "prior_retry_objects_unchanged": 51,
+  "scientific_boundaries": [
+    "One publisher Accepted Manuscript Review, two preprints, and one existing work upgraded to VOR; review evidence is not a new independent experiment",
+    "Muon review printed scaling algebra, axis-caption and time-normalization conflicts retained; no corrected formula inferred",
+    "Inverse model paired-shot results from limited same-simulator low-pressure PIC data; no real-machine validation",
+    "FEL finite modes and forward-field model, harmonic radiation vs co-moving field and numerical artifacts separated; cost comparison scope retained",
+    "PWFA rf-linac drivers; 95percent success denominator and conditional energy-jitter histogram not conflated; measured laser loss not wall-deposition simulation",
+    "No author simulation, training, transport, fit or experiment rerun; only symbolic/elementary arithmetic explanation",
+    "No new converter-photonuclear neutron/isotope endtoend experiment, clinical or shielding acceptance"
+  ],
+  "verification": {
+    "indexes": "530 papers across 9 categories",
+    "tests": {
+      "command": "PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q",
+      "passed": 7,
+      "duration_seconds": 1.03
+    },
+    "scope_audit": "research/verification.json",
+    "git_diff_check": "passed before staging"
+  },
+  "publication": "This pre-commit report contains no publication claim; verify fresh HEAD/origin/master/ls-remote parity after pushing and record the result in automation memory"
+}

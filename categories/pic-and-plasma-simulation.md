@@ -2,11 +2,13 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：226 篇
-- 索引更新时间：2026-11-03
+- 当前收录：228 篇
+- 索引更新时间：2026-11-04
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-04 | [First-principles simulation of free-electron lasers with the Galilean electromagnetic particle-in-cell method: even harmonics of planar undulators](../papers/arxiv-2611-01640/README.md) | arXiv preprint | [笔记](../daily/2026-11-04/notes/Pukhov - 2026 - GEM PIC FEL even harmonics.md) |
+| 2026-11-04 | [Inverse modelling of a laser-plasma accelerator](../papers/arxiv-2611-00108/README.md) | arXiv preprint | [笔记](../daily/2026-11-04/notes/Lenivenko et al. - 2026 - Inverse modelling laser plasma accelerator.md) |
 | 2026-11-03 | [An approximate separation of the electron and positron degrees of freedom in the Dirac-Heisenberg-Wigner formalism](../papers/arxiv-2610-41623/README.md) | arXiv preprint | [笔记](../daily/2026-11-03/notes/Brodin and Lundstrom - 2026 - Weakly coupled electron positron DHW.md) |
 | 2026-11-03 | [Accelerating Computation and Resolving Extraneous Roots in the Kinetic Plasma Dispersion Relation Solver BO](../papers/arxiv-2610-41450/README.md) | arXiv preprint | [笔记](../daily/2026-11-03/notes/Tian et al. - 2026 - BO Tian kinetic dispersion solver.md) |
 | 2026-11-02 | [A semi-implicit unified gas-kinetic wave-particle method with energy-conserving electromagnetic coupling for multiscale plasmas](../papers/arxiv-2610-40206/README.md) | arXiv preprint | [笔记](../daily/2026-11-02/notes/Wang et al. - 2026 - Semi implicit UGKWP multiscale plasmas.md) |

@@ -3,13 +3,13 @@
 ## 基本信息
 
 - 分类：[激光等离子体与束流加速](../../categories/laser-plasma-acceleration.md), [实验平台、靶设计与诊断](../../categories/experimental-platforms-diagnostics.md), [综合等离子体与交叉方法](../../categories/general-plasma-and-methods.md)
-- 期刊/平台：Physical Review E Accepted Paper (local full text: corresponding arXiv:2602.22841v1 author preprint; not VOR)
-- 发表日期：2026-09-29
+- 期刊/平台：Physical Review E
+- 发表日期：2026-11-02
 - 入库日期：2026-10-08
 - DOI：[10.1103/qjd9-p6dy](https://doi.org/10.1103/qjd9-p6dy)
-- 来源：[https://doi.org/10.1103/qjd9-p6dy](https://doi.org/10.1103/qjd9-p6dy)
+- 来源：[https://journals.aps.org/pre/abstract/10.1103/qjd9-p6dy](https://journals.aps.org/pre/abstract/10.1103/qjd9-p6dy)
 - 中文笔记：[打开笔记](../../daily/2026-10-08/notes/Galletti et al. - 2026 - Beam-driven acceleration in laser-plasma filament.md)
-- 本地 PDF：[本地路径](../../daily/2026-10-08/pdfs/Galletti et al. - 2026 - Beam-driven acceleration in laser-plasma filament.pdf)
+- 本地 PDF：[本地路径](../../daily/2026-11-04/pdfs/Galletti et al. - 2026 - Beam driven wakefield filament VOR.pdf)
 
 ## 索引说明
 

@@ -1,0 +1,162 @@
+{
+  "new": {
+    "muon": {
+      "doi": "10.1017/hpl.2026.10210",
+      "title": "Laser-Driven Multi-GeV Muon Sources: Production and Applications",
+      "authors": [
+        "A. Cimmino",
+        "R. Versaci",
+        "A. Balaceanu",
+        "F. Bossi",
+        "S.V. Bulanov",
+        "L. Calvin",
+        "L. Chen",
+        "C. Daponta",
+        "T. Ditmire",
+        "M. Dobre",
+        "D. Doria",
+        "S. Eliezer",
+        "A. Erlandson",
+        "K. Fleck",
+        "T. Foster",
+        "E. Gerstmayr",
+        "P. Ghenuche",
+        "Y. Gu",
+        "Z. Henis",
+        "H. Maguire",
+        "D. Margarone",
+        "B. Miao",
+        "S.D. Moustaizis",
+        "M. Nevrkla",
+        "I. Ploumistakis",
+        "B. Reagan",
+        "E. Rockafellow",
+        "B. Rus",
+        "A. Saftoiu",
+        "G. Sarri",
+        "J.E. Shrock",
+        "J. Sisma",
+        "D. Terzani",
+        "M. Tytgat",
+        "P. Valenta",
+        "C. Vancea",
+        "W. Wang",
+        "J. Williams",
+        "F. Zhang",
+        "F. Zhou",
+        "G.M. Grittani"
+      ],
+      "url": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/laserdriven-multigev-muon-sources-production-and-applications/0F50BF6D035517FBF6B61568E20E9A55",
+      "pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0F50BF6D035517FBF6B61568E20E9A55/S2095471926102102a.pdf/div-class-title-laser-driven-multi-gev-muon-sources-production-and-applications-div.pdf",
+      "publication_date": "2026-11-03",
+      "fulltext_version": "publisher Accepted Manuscript, 24-page Review",
+      "retrieved_at": "2026-11-04T07:05:49.063801+08:00"
+    },
+    "inverse": {
+      "doi": "10.48550/arXiv.2611.00108",
+      "title": "Inverse modelling of a laser-plasma accelerator",
+      "authors": [
+        "Lenivenko, Mykyta",
+        "Beck, Arnaud",
+        "Guler, Hayg",
+        "Kane, Gueladio",
+        "Kazamias, Sophie",
+        "Kubytskyi, Viacheslav",
+        "Lucas, Bruno",
+        "Pintonato, Marceau",
+        "Serhal, Jana",
+        "Smartsev, Slava",
+        "Swain, Kalyani",
+        "Cassou, Kevin"
+      ],
+      "url": "https://arxiv.org/abs/2611.00108",
+      "pdf_url": "https://arxiv.org/pdf/2611.00108v1",
+      "publication_date": "2026-10-27",
+      "fulltext_version": "official arXiv v1 author preprint",
+      "retrieved_at": "2026-11-04T07:05:49.063801+08:00",
+      "submission_history": "Submission history From: Mykyta Lenivenko [ view email ] [via CCSD proxy] [v1] Tue, 27 Oct 2026 12:23:41 UTC (2,658 KB)"
+    },
+    "fel": {
+      "doi": "10.48550/arXiv.2611.01640",
+      "title": "First-principles simulation of free-electron lasers with the Galilean electromagnetic particle-in-cell method: even harmonics of planar undulators",
+      "authors": [
+        "Pukhov, Alexander"
+      ],
+      "url": "https://arxiv.org/abs/2611.01640",
+      "pdf_url": "https://arxiv.org/pdf/2611.01640v1",
+      "publication_date": "2026-11-01",
+      "fulltext_version": "official arXiv v1 author preprint",
+      "retrieved_at": "2026-11-04T07:05:49.063801+08:00",
+      "submission_history": "Submission history From: Alexander Pukhov [ view email ] [v1] Sun, 1 Nov 2026 06:42:53 UTC (119 KB)"
+    }
+  },
+  "upgraded": {
+    "before": {
+      "title": "Experimental Demonstration of Beam-Driven Wakefield Acceleration in Laser-Plasma Filament",
+      "doi": "10.1103/qjd9-p6dy",
+      "journal": "Physical Review E Accepted Paper (local full text: corresponding arXiv:2602.22841v1 author preprint; not VOR)",
+      "publication_date": "2026-09-29",
+      "processed_date": "2026-10-08",
+      "source_url": "https://doi.org/10.1103/qjd9-p6dy",
+      "pdf_url": "https://arxiv.org/pdf/2602.22841",
+      "pdf_path": "daily/2026-10-08/pdfs/Galletti et al. - 2026 - Beam-driven acceleration in laser-plasma filament.pdf",
+      "note_path": "daily/2026-10-08/notes/Galletti et al. - 2026 - Beam-driven acceleration in laser-plasma filament.md",
+      "categories": [
+        "laser-plasma-acceleration",
+        "experimental-platforms-diagnostics",
+        "general-plasma-and-methods"
+      ],
+      "normalized_title": "experimental demonstration of beam driven wakefield acceleration in laser plasma filament"
+    },
+    "after": {
+      "title": "Experimental Demonstration of Beam-Driven Wakefield Acceleration in Laser-Plasma Filament",
+      "doi": "10.1103/qjd9-p6dy",
+      "journal": "Physical Review E",
+      "publication_date": "2026-11-02",
+      "processed_date": "2026-10-08",
+      "source_url": "https://journals.aps.org/pre/abstract/10.1103/qjd9-p6dy",
+      "pdf_url": "https://harvest.aps.org/v2/journals/articles/10.1103/qjd9-p6dy/fulltext",
+      "pdf_path": "daily/2026-11-04/pdfs/Galletti et al. - 2026 - Beam driven wakefield filament VOR.pdf",
+      "note_path": "daily/2026-10-08/notes/Galletti et al. - 2026 - Beam-driven acceleration in laser-plasma filament.md",
+      "categories": [
+        "laser-plasma-acceleration",
+        "experimental-platforms-diagnostics",
+        "general-plasma-and-methods"
+      ],
+      "normalized_title": "experimental demonstration of beam driven wakefield acceleration in laser plasma filament",
+      "publication_date_type": "publisher_publication_date_verified_on_VOR",
+      "publication_status": "published Version of Record",
+      "accepted_date": "2026-09-29",
+      "received_date": "2026-05-26",
+      "volume": "114",
+      "issue": "5",
+      "article_number": "055201",
+      "pdf_sha256": "264c3c440373dd5482f410567bce825f95f8585b889ec08585eaf2c5de439aae",
+      "fulltext_version": "publisher Version of Record, PRE 114 055201 (2026)",
+      "arxiv_id": "2602.22841",
+      "arxiv_version": "2602.22841v1",
+      "doi_aliases": [
+        "10.48550/arXiv.2602.22841"
+      ],
+      "historical_preprint_pdf_path": "daily/2026-10-08/pdfs/Galletti et al. - 2026 - Beam-driven acceleration in laser-plasma filament.pdf",
+      "version_updated_date": "2026-11-04",
+      "version_note": "Former 2026-09-29 publication_date was acceptance date; corrected from VOR first page, first processed_date and note_path preserved",
+      "authors": [
+        "M. Galletti",
+        "L. Verra",
+        "A. Biagioni",
+        "M. Carillo",
+        "L. Crincoli",
+        "R. Demitra",
+        "G. Di Pirro",
+        "G. Parise",
+        "R. Pompili",
+        "F. Stocchi",
+        "F. Villa",
+        "A. Zigler",
+        "M. Ferrario"
+      ]
+    },
+    "verified_from": "VOR first page; Crossref query and official APS page"
+  }
+}

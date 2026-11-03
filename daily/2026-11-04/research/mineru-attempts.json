@@ -1,0 +1,30 @@
+{
+  "tested_at": "2026-11-04T07:05:49.063801+08:00",
+  "local_wrapper_attempt": {
+    "ok": false,
+    "items": [],
+    "errors": [
+      {
+        "source": "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-11-04/pdfs/Cimmino et al. - 2026 - Laser driven multi GeV muon sources.pdf",
+        "error": "Local file paths not supported in this workflow yet.",
+        "next_step": "Provide a public URL or ask to add MinerU batch upload support."
+      }
+    ]
+  },
+  "public_url_authentication_test": {
+    "ok": false,
+    "items": [],
+    "errors": [
+      {
+        "source": "https://arxiv.org/pdf/2611.01640v1",
+        "error": "HTTP 401 for https://mineru.net/api/v4/extract/task: {\"traceId\":\"8e35be54b9ef\",\"msgCode\":\"A0211\",\"msg\":\"user token expired\",\"data\":null,\"success\":false,\"total\":0}",
+        "next_step": "If this is a protected page, try another accessible mirror URL."
+      }
+    ]
+  },
+  "api_requests": 1,
+  "parser_success": 0,
+  "other_three_sources": "not individually submitted after shared credential rejection",
+  "fallback": "validated local PDF, pdftotext layout, pypdf/PyMuPDF all-page text and original-page rendering",
+  "next_step": "renew existing legitimate MinerU credentials before reuse; do not follow wrapper mirror suggestion for authentication errors"
+}

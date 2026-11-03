@@ -1,0 +1,42 @@
+{
+  "inspected_pages_1based": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "figures": [
+    {
+      "path": "daily/2026-11-04/images/filament/figure-2-length-scan.png",
+      "pdf_path": "daily/2026-11-04/pdfs/Galletti et al. - 2026 - Beam driven wakefield filament VOR.pdf",
+      "page_1based": 3,
+      "crop_points": [
+        42,
+        57,
+        299,
+        293
+      ],
+      "sha256": "9c13b95abc12c2d49329e90157cfaa9cfab86e257433ad2f649caf496b44bb2b",
+      "source": "M. Galletti et al., Physical Review E 114, 055201 (2026), DOI10.1103/qjd9-p6dy, CC BY 4.0; unchanged original excerpt"
+    },
+    {
+      "path": "daily/2026-11-04/images/filament/figure-5-repeatability.png",
+      "pdf_path": "daily/2026-11-04/pdfs/Galletti et al. - 2026 - Beam driven wakefield filament VOR.pdf",
+      "page_1based": 5,
+      "crop_points": [
+        42,
+        58,
+        300,
+        288
+      ],
+      "sha256": "e53a029d6b79b77ca10e5d4861225e870f2c1e47469b52dbdb40ef8441f090bc",
+      "source": "M. Galletti et al., Physical Review E 114, 055201 (2026), DOI10.1103/qjd9-p6dy, CC BY 4.0; unchanged original excerpt"
+    }
+  ],
+  "final_crops_visually_checked": true,
+  "version_comparison": "VOR10pages vs author arXiv2602.22841v1 21pages; same work, no new independent experiment",
+  "notes": "VOR PDF pages1-7 visually inspected; final Fig2 and Fig5 crops re-opened; first combined5/6 crop rejected due partial adjacent text and replaced by completeFig5. Historical arxiv21page text compared, including5.4mm PWFA domain and measured2.5mJ wording."
+}

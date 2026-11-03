@@ -1,0 +1,118 @@
+[
+  {
+    "key": "inverse",
+    "title": "Inverse modelling of a laser-plasma accelerator",
+    "query": "query.title exact-title comparison; top3, not an exhaustive VOR search",
+    "results": [
+      {
+        "title": [
+          "Modelling a laser plasma accelerator driven free electron laser"
+        ],
+        "DOI": "10.1088/2399-6528/ab291b",
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              6,
+              1
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Physics Communications"
+        ]
+      },
+      {
+        "title": [
+          "Feasibility of a plasma-filled inverse free electron laser accelerator"
+        ],
+        "DOI": "10.1109/27.774669",
+        "published": {
+          "date-parts": [
+            [
+              1999,
+              6
+            ]
+          ]
+        },
+        "container-title": [
+          "IEEE Transactions on Plasma Science"
+        ]
+      },
+      {
+        "title": [
+          "Inverse free electron laser accelerator"
+        ],
+        "DOI": "10.1063/1.44105",
+        "published": {
+          "date-parts": [
+            [
+              1992
+            ]
+          ]
+        },
+        "container-title": [
+          "AIP Conference Proceedings"
+        ]
+      }
+    ]
+  },
+  {
+    "key": "fel",
+    "title": "First-principles simulation of free-electron lasers with the Galilean electromagnetic particle-in-cell method: even harmonics of planar undulators",
+    "query": "query.title exact-title comparison; top3, not an exhaustive VOR search",
+    "results": [
+      {
+        "title": [
+          "On the Generation of Even Harmonics in Planar and Elliptical Undulators of Free Electron Lasers"
+        ],
+        "DOI": "10.3103/s0027134922010295",
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              2
+            ]
+          ]
+        },
+        "container-title": [
+          "Moscow University Physics Bulletin"
+        ]
+      },
+      {
+        "title": [
+          "On the physics of generation of even and odd harmonics in the undulators of free electron lasers"
+        ],
+        "DOI": "10.1016/j.radphyschem.2023.111158",
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              11
+            ]
+          ]
+        },
+        "container-title": [
+          "Radiation Physics and Chemistry"
+        ]
+      },
+      {
+        "title": [
+          "Undulators and ‘free-electron lasers’"
+        ],
+        "DOI": "10.1080/00107517908210921",
+        "published": {
+          "date-parts": [
+            [
+              1979,
+              9
+            ]
+          ]
+        },
+        "container-title": [
+          "Contemporary Physics"
+        ]
+      }
+    ]
+  }
+]

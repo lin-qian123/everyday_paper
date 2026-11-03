@@ -1,0 +1,52 @@
+{
+  "inspected_pages_1based": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "figures": [
+    {
+      "path": "daily/2026-11-04/images/fel/figure-1-emission-modes.png",
+      "pdf_path": "daily/2026-11-04/pdfs/Pukhov - 2026 - GEM PIC FEL even harmonics.pdf",
+      "page_1based": 3,
+      "crop_points": [
+        30,
+        40,
+        310,
+        307
+      ],
+      "sha256": "5a5daf3d89282968739ec70878be899b95ec8473dda09ca04f3a172e764c4570",
+      "source": "Alexander Pukhov, arXiv:2611.01640v1; limited original excerpts for scholarly analysis; arXiv nonexclusive distribution license, not CC BY"
+    },
+    {
+      "path": "daily/2026-11-04/images/fel/figure-2-power-bunching.png",
+      "pdf_path": "daily/2026-11-04/pdfs/Pukhov - 2026 - GEM PIC FEL even harmonics.pdf",
+      "page_1based": 5,
+      "crop_points": [
+        310,
+        45,
+        590,
+        523
+      ],
+      "sha256": "c2cdebe6838505a9696c6e8146dd0ea0e0b917ed9f0c30cb626ec0b5d3fe00f9",
+      "source": "Alexander Pukhov, arXiv:2611.01640v1; limited original excerpts for scholarly analysis; arXiv nonexclusive distribution license, not CC BY"
+    },
+    {
+      "path": "daily/2026-11-04/images/fel/figure-3-second-harmonic-map.png",
+      "pdf_path": "daily/2026-11-04/pdfs/Pukhov - 2026 - GEM PIC FEL even harmonics.pdf",
+      "page_1based": 6,
+      "crop_points": [
+        42,
+        46,
+        574,
+        294
+      ],
+      "sha256": "ab7556f0a7d0ebb52665bfead08e83cd5d1c17162a3cc4c9edbfc6987e384658",
+      "source": "Alexander Pukhov, arXiv:2611.01640v1; limited original excerpts for scholarly analysis; arXiv nonexclusive distribution license, not CC BY"
+    }
+  ],
+  "final_crops_visually_checked": true
+}

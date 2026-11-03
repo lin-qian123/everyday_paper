@@ -1,0 +1,241 @@
+{
+  "retrieved_at": "2026-11-04T07:05:49.063801+08:00",
+  "crossref": {
+    "window": [
+      "2026-11-02",
+      "2026-11-04"
+    ],
+    "type": "journal-article",
+    "sort": "relevance",
+    "rows_per_query": 40,
+    "queries": [
+      {
+        "query": "laser plasma acceleration",
+        "count": 40,
+        "total": 182,
+        "status": 200
+      },
+      {
+        "query": "strong field quantum electrodynamics",
+        "count": 40,
+        "total": 393,
+        "status": 200
+      },
+      {
+        "query": "high energy density inertial confinement fusion",
+        "count": 40,
+        "total": 1141,
+        "status": 200
+      },
+      {
+        "query": "particle in cell plasma simulation",
+        "count": 40,
+        "total": 654,
+        "status": 200
+      },
+      {
+        "query": "machine learning plasma physics",
+        "count": 40,
+        "total": 1163,
+        "status": 200
+      },
+      {
+        "query": "laser electron bremsstrahlung gamma converter",
+        "count": 40,
+        "total": 262,
+        "status": 200
+      },
+      {
+        "query": "photonuclear neutron isotope production",
+        "count": 40,
+        "total": 219,
+        "status": 200
+      },
+      {
+        "query": "laser ion beam radiation diagnostics",
+        "count": 40,
+        "total": 290,
+        "status": 200
+      },
+      {
+        "query": "neutron irradiation materials shielding",
+        "count": 40,
+        "total": 603,
+        "status": 200
+      },
+      {
+        "query": "very high energy electron radiotherapy",
+        "count": 40,
+        "total": 1140,
+        "status": 200
+      }
+    ],
+    "successful_rows": 400,
+    "unique_dois": 323,
+    "scope": "bounded first40 per theme, not exhaustive; month-only issue dates not fresh-online proof"
+  },
+  "arxiv": {
+    "scope": "recent HTML first date block from first100 page, not Atom API or exhaustive search",
+    "queries": [
+      {
+        "cat": "physics.plasm-ph",
+        "date": "Tue, 3 Nov 2026 (showing 12 of 12 entries )",
+        "rows": 12
+      },
+      {
+        "cat": "physics.acc-ph",
+        "date": "Tue, 3 Nov 2026 (showing 8 of 8 entries )",
+        "rows": 8
+      },
+      {
+        "cat": "physics.comp-ph",
+        "date": "Tue, 3 Nov 2026 (showing 21 of 21 entries )",
+        "rows": 21
+      },
+      {
+        "cat": "physics.ins-det",
+        "error": "429 Client Error: Unknown Error for url: https://arxiv.org/list/physics.ins-det/recent?skip=0&show=100"
+      },
+      {
+        "cat": "physics.med-ph",
+        "date": "Tue, 3 Nov 2026 (showing 22 of 22 entries )",
+        "rows": 22
+      },
+      {
+        "cat": "nucl-ex",
+        "date": "Tue, 3 Nov 2026 (showing 18 of 18 entries )",
+        "rows": 18
+      },
+      {
+        "cat": "nucl-th",
+        "date": "Tue, 3 Nov 2026 (showing 24 of 24 entries )",
+        "rows": 24
+      },
+      {
+        "cat": "hep-ph",
+        "date": "Tue, 3 Nov 2026 (showing 70 of 70 entries )",
+        "rows": 70
+      },
+      {
+        "cat": "physics.app-ph",
+        "date": "Tue, 3 Nov 2026 (showing 18 of 18 entries )",
+        "rows": 18
+      },
+      {
+        "cat": "cs.LG",
+        "date": "Tue, 3 Nov 2026 (showing first 100 of 570 entries )",
+        "rows": 100
+      }
+    ],
+    "successful_rows": 293,
+    "unique_ids": 271,
+    "recovery": {
+      "url": "https://arxiv.org/list/physics.ins-det/recent?skip=0&show=100",
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=25)"
+    },
+    "coverage_limit": "cs.LG first100 of570; physics.ins-det 429 then25s read timeout; earlier acc-ph/app-ph timeouts and med-ph429 recovered by repeat discovery invocation"
+  },
+  "unread_formal_metadata_leads": [
+    {
+      "doi": "10.1017/hpl.2026.10223",
+      "title": "Kinetic Evolution and Influencing Mechanisms of Spatter from Laser-Induced Fused Silica Damage",
+      "online_date": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            3
+          ]
+        ]
+      },
+      "status": "lower-priority unread metadata lead; fulltext not attempted, no note or processed entry"
+    },
+    {
+      "doi": "10.1017/hpl.2026.10224",
+      "title": "A Novel Backpropagation-Based Method for Assembly Preload Optimization in Stress-Induced Polarization Smoothing",
+      "online_date": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            3
+          ]
+        ]
+      },
+      "status": "lower-priority unread metadata lead; fulltext not attempted, no note or processed entry"
+    },
+    {
+      "doi": "10.1063/5.0335778",
+      "title": "Forward Raman plasma holography for waveform encoding and density-uniformity diagnostics",
+      "online_date": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            3
+          ]
+        ]
+      },
+      "status": "lower-priority unread metadata lead; fulltext not attempted, no note or processed entry"
+    },
+    {
+      "doi": "10.1088/1741-4326/aebc9d",
+      "title": "Deep learning models for ADITYA-U MHD equilibrium",
+      "online_date": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            2
+          ]
+        ]
+      },
+      "status": "lower-priority unread metadata lead; fulltext not attempted, no note or processed entry"
+    },
+    {
+      "doi": "10.35848/1347-4065/aeb3e0",
+      "title": "Designing and fabrication of 4H-SiC neutron sensors for boron neutron capture therapy",
+      "online_date": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            3
+          ]
+        ]
+      },
+      "status": "lower-priority unread metadata lead; fulltext not attempted, no note or processed entry"
+    },
+    {
+      "doi": "10.1007/s41365-026-02082-2",
+      "title": "A microminiature 2.45 GHz antenna-type ECR ion source for neutron tubes",
+      "online_date": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            3
+          ]
+        ]
+      },
+      "status": "lower-priority unread metadata lead; fulltext not attempted, no note or processed entry"
+    }
+  ],
+  "unread_arxiv_leads": [
+    {
+      "id": "2308.02629",
+      "title": "Photoneutron Yield for an Electron Beam on Tantalum and Erbium Deuteride",
+      "status": "older-ID item newly present in Nov03 listing; current version/formal relation/fulltext not read or verified"
+    },
+    {
+      "id": "2611.01356",
+      "title": "Learned Surrogates of Three-Dimensional Magnetohydrodynamic Turbulence",
+      "status": "abstract/metadata only; not ingested"
+    },
+    {
+      "id": "2611.00127",
+      "title": "A theta-implicit hybrid particle-in-cell algorithm for kinetic simulations of magnetized plasmas",
+      "status": "listing metadata only; not ingested"
+    }
+  ]
+}
