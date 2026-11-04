@@ -1,0 +1,712 @@
+{
+  "retrieved_at": "2026-11-05T07:17:11.967487+08:00",
+  "checks": [
+    {
+      "key": "hybrid-title",
+      "kind": "crossref",
+      "items": [
+        {
+          "DOI": "10.2139/ssrn.7346445",
+          "title": [
+            "A $\\theta$-implicit hybrid particle-in-cell algorithm for kinetic simulations of magnetized plasmas"
+          ],
+          "type": "posted-content",
+          "container-title": null,
+          "author": [
+            {
+              "given": "Prabhat",
+              "family": "Kumar",
+              "sequence": "first",
+              "affiliation": [],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "given": "William",
+              "family": "White",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "given": "Stephen",
+              "family": "Clark",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            }
+          ],
+          "published": {
+            "date-parts": [
+              [
+                2026
+              ]
+            ]
+          },
+          "URL": "https://doi.org/10.2139/ssrn.7346445"
+        },
+        {
+          "DOI": "10.2172/6831183",
+          "title": [
+            "Implicit-particle simulation of magnetized plasmas"
+          ],
+          "type": "report",
+          "container-title": null,
+          "author": [
+            {
+              "given": "D.C.",
+              "family": "Barnes",
+              "sequence": "first",
+              "affiliation": [],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            },
+            {
+              "given": "T.",
+              "family": "Kamimura",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            },
+            {
+              "given": "J.N.",
+              "family": "Leboeuf",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            },
+            {
+              "given": "T.",
+              "family": "Tajima",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            }
+          ],
+          "published": {
+            "date-parts": [
+              [
+                1982,
+                9,
+                1
+              ]
+            ]
+          },
+          "URL": "https://doi.org/10.2172/6831183"
+        },
+        {
+          "DOI": "10.1016/0021-9991(83)90004-9",
+          "title": [
+            "Implicit particle simulation of magnetized plasmas"
+          ],
+          "type": "journal-article",
+          "container-title": [
+            "Journal of Computational Physics"
+          ],
+          "author": [
+            {
+              "given": "D.C",
+              "family": "Barnes",
+              "sequence": "first",
+              "affiliation": [],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "given": "T",
+              "family": "Kamimura",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "given": "J.-N",
+              "family": "Leboeuf",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "given": "T",
+              "family": "Tajima",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            }
+          ],
+          "published": {
+            "date-parts": [
+              [
+                1983,
+                12
+              ]
+            ]
+          },
+          "URL": "https://doi.org/10.1016/0021-9991(83)90004-9"
+        }
+      ]
+    },
+    {
+      "key": "senso-title",
+      "kind": "crossref",
+      "error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query.title=SensOFormer%3A+Foundation+Models+for+Particle+Accelerators&rows=3"
+    },
+    {
+      "key": "senso-title-recovery",
+      "url": "https://api.crossref.org/works?query.title=SensOFormer%3A+Foundation+Models+for+Particle+Accelerators&rows=3",
+      "status": 200,
+      "items": [
+        {
+          "DOI": "10.1145/3637528.3671465",
+          "title": [
+            "Inference Optimization of Foundation Models on AI Accelerators"
+          ],
+          "type": "proceedings-article",
+          "container-title": [
+            "Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining"
+          ],
+          "author": [
+            {
+              "ORCID": "https://orcid.org/0000-0002-0970-9214",
+              "authenticated-orcid": false,
+              "given": "Youngsuk",
+              "family": "Park",
+              "sequence": "first",
+              "affiliation": [
+                {
+                  "name": "AWS AI, Santa Clara, CA, USA"
+                }
+              ],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "ORCID": "https://orcid.org/0000-0002-5255-8642",
+              "authenticated-orcid": false,
+              "given": "Kailash",
+              "family": "Budhathoki",
+              "sequence": "additional",
+              "affiliation": [
+                {
+                  "name": "AWS AI, Tübingen, Germany"
+                }
+              ],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "ORCID": "https://orcid.org/0000-0002-2175-7016",
+              "authenticated-orcid": false,
+              "given": "Liangfu",
+              "family": "Chen",
+              "sequence": "additional",
+              "affiliation": [
+                {
+                  "name": "AWS AI, Santa Clara, CA, USA"
+                }
+              ],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "ORCID": "https://orcid.org/0000-0002-8634-7990",
+              "authenticated-orcid": false,
+              "given": "Jonas M.",
+              "family": "Kübler",
+              "sequence": "additional",
+              "affiliation": [
+                {
+                  "name": "AWS AI, Tübingen, Germany"
+                }
+              ],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "ORCID": "https://orcid.org/0009-0006-4033-4795",
+              "authenticated-orcid": false,
+              "given": "Jiaji",
+              "family": "Huang",
+              "sequence": "additional",
+              "affiliation": [
+                {
+                  "name": "AWS AI, Santa Clara, CA, USA"
+                }
+              ],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "ORCID": "https://orcid.org/0000-0002-9907-4610",
+              "authenticated-orcid": false,
+              "given": "Matthäus",
+              "family": "Kleindessner",
+              "sequence": "additional",
+              "affiliation": [
+                {
+                  "name": "AWS AI, Tübingen, Germany"
+                }
+              ],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "ORCID": "https://orcid.org/0009-0007-6440-4732",
+              "authenticated-orcid": false,
+              "given": "Jun",
+              "family": "Huan",
+              "sequence": "additional",
+              "affiliation": [
+                {
+                  "name": "AWS AI, Santa Clara, CA, USA"
+                }
+              ],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "ORCID": "https://orcid.org/0000-0002-5004-201X",
+              "authenticated-orcid": false,
+              "given": "Volkan",
+              "family": "Cevher",
+              "sequence": "additional",
+              "affiliation": [
+                {
+                  "name": "AWS AI &amp; EPFL, Tübingen, Germany"
+                }
+              ],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "ORCID": "https://orcid.org/0000-0001-8165-840X",
+              "authenticated-orcid": false,
+              "given": "Yida",
+              "family": "Wang",
+              "sequence": "additional",
+              "affiliation": [
+                {
+                  "name": "AWS AI, Santa Clara, CA, USA"
+                }
+              ],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "ORCID": "https://orcid.org/0000-0003-2753-1437",
+              "authenticated-orcid": false,
+              "given": "George",
+              "family": "Karypis",
+              "sequence": "additional",
+              "affiliation": [
+                {
+                  "name": "AWS AI, Santa Clara, CA, USA"
+                }
+              ],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            }
+          ],
+          "URL": "https://doi.org/10.1145/3637528.3671465"
+        },
+        {
+          "DOI": "10.1016/0016-0032(62)90899-2",
+          "title": [
+            "Particle accelerators"
+          ],
+          "type": "journal-article",
+          "container-title": [
+            "Journal of the Franklin Institute"
+          ],
+          "author": null,
+          "URL": "https://doi.org/10.1016/0016-0032(62)90899-2"
+        },
+        {
+          "DOI": "10.1016/b978-0-08-042125-4.50019-4",
+          "title": [
+            "Particle Accelerators"
+          ],
+          "type": "book-chapter",
+          "container-title": [
+            "Nuclear Energy"
+          ],
+          "author": [
+            {
+              "given": "Raymond L.",
+              "family": "Murray",
+              "sequence": "first",
+              "affiliation": [],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            }
+          ],
+          "URL": "https://doi.org/10.1016/b978-0-08-042125-4.50019-4"
+        }
+      ]
+    },
+    {
+      "key": "mirror-title",
+      "url": "https://api.crossref.org/works?query.title=The+preplasma+origin+of+the+plasma-mirror+reflectivity+response&rows=3",
+      "status": 200,
+      "items": [
+        {
+          "DOI": "10.1016/s0925-3467(97)00041-4",
+          "title": [
+            "Interferometric variable reflectivity mirror"
+          ],
+          "type": "journal-article",
+          "container-title": [
+            "Optical Materials"
+          ],
+          "author": [
+            {
+              "given": "M.",
+              "family": "Keselbrener",
+              "sequence": "first",
+              "affiliation": [],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            },
+            {
+              "given": "S.",
+              "family": "Ruschin",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            }
+          ],
+          "URL": "https://doi.org/10.1016/s0925-3467(97)00041-4"
+        },
+        {
+          "DOI": "10.1063/1.3247865",
+          "title": [
+            "Time-resolved measurements on reflectivity of an ultrafast laser-induced plasma mirror"
+          ],
+          "type": "journal-article",
+          "container-title": [
+            "Physics of Plasmas"
+          ],
+          "author": [
+            {
+              "given": "Yi",
+              "family": "Cai",
+              "sequence": "first",
+              "affiliation": [
+                {
+                  "name": "Chinese Academy of Sciences State Key Laboratory of High Field Laser Physics, Shanghai Institute of Optics and Fine Mechanics, , P. O. Box 800-211, Shanghai 201800, China"
+                }
+              ],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            },
+            {
+              "given": "Wentao",
+              "family": "Wang",
+              "sequence": "additional",
+              "affiliation": [
+                {
+                  "name": "Chinese Academy of Sciences State Key Laboratory of High Field Laser Physics, Shanghai Institute of Optics and Fine Mechanics, , P. O. Box 800-211, Shanghai 201800, China"
+                }
+              ],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            },
+            {
+              "given": "Changquan",
+              "family": "Xia",
+              "sequence": "additional",
+              "affiliation": [
+                {
+                  "name": "Chinese Academy of Sciences State Key Laboratory of High Field Laser Physics, Shanghai Institute of Optics and Fine Mechanics, , P. O. Box 800-211, Shanghai 201800, China"
+                }
+              ],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            },
+            {
+              "given": "Jiansheng",
+              "family": "Liu",
+              "sequence": "additional",
+              "affiliation": [
+                {
+                  "name": "Chinese Academy of Sciences State Key Laboratory of High Field Laser Physics, Shanghai Institute of Optics and Fine Mechanics, , P. O. Box 800-211, Shanghai 201800, China"
+                }
+              ],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            },
+            {
+              "given": "Li",
+              "family": "Liu",
+              "sequence": "additional",
+              "affiliation": [
+                {
+                  "name": "Chinese Academy of Sciences State Key Laboratory of High Field Laser Physics, Shanghai Institute of Optics and Fine Mechanics, , P. O. Box 800-211, Shanghai 201800, China"
+                }
+              ],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            },
+            {
+              "given": "Cheng",
+              "family": "Wang",
+              "sequence": "additional",
+              "affiliation": [
+                {
+                  "name": "Chinese Academy of Sciences State Key Laboratory of High Field Laser Physics, Shanghai Institute of Optics and Fine Mechanics, , P. O. Box 800-211, Shanghai 201800, China"
+                }
+              ],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            },
+            {
+              "given": "Yi",
+              "family": "Xu",
+              "sequence": "additional",
+              "affiliation": [
+                {
+                  "name": "Chinese Academy of Sciences State Key Laboratory of High Field Laser Physics, Shanghai Institute of Optics and Fine Mechanics, , P. O. Box 800-211, Shanghai 201800, China"
+                }
+              ],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            },
+            {
+              "given": "Yuxin",
+              "family": "Leng",
+              "sequence": "additional",
+              "affiliation": [
+                {
+                  "name": "Chinese Academy of Sciences State Key Laboratory of High Field Laser Physics, Shanghai Institute of Optics and Fine Mechanics, , P. O. Box 800-211, Shanghai 201800, China"
+                }
+              ],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            },
+            {
+              "given": "Ruxin",
+              "family": "Li",
+              "sequence": "additional",
+              "affiliation": [
+                {
+                  "name": "Chinese Academy of Sciences State Key Laboratory of High Field Laser Physics, Shanghai Institute of Optics and Fine Mechanics, , P. O. Box 800-211, Shanghai 201800, China"
+                }
+              ],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            },
+            {
+              "given": "Zhizhan",
+              "family": "Xu",
+              "sequence": "additional",
+              "affiliation": [
+                {
+                  "name": "Chinese Academy of Sciences State Key Laboratory of High Field Laser Physics, Shanghai Institute of Optics and Fine Mechanics, , P. O. Box 800-211, Shanghai 201800, China"
+                }
+              ],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            }
+          ],
+          "URL": "https://doi.org/10.1063/1.3247865"
+        },
+        {
+          "DOI": "10.1117/12.2308443",
+          "title": [
+            "Graded reflectivity micro-mirror arrays"
+          ],
+          "type": "proceedings-article",
+          "container-title": [
+            "16th Congress of the International Commission for Optics: Optics as a Key to High Technology"
+          ],
+          "author": [
+            {
+              "given": "R.",
+              "family": "Grunwald",
+              "sequence": "first",
+              "affiliation": [],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            }
+          ],
+          "URL": "https://doi.org/10.1117/12.2308443"
+        }
+      ]
+    },
+    {
+      "key": "senso-conference",
+      "source": "https://mahindrautela.github.io/sensoformer/",
+      "observed": "author website claims Accepted at NeurIPS2026; OpenReview label has no external note URL; PDF has conference footer",
+      "verification": "No official OpenReview/proceedings record verified in exact-name web search. Ingested fulltext remains arXivv1; website claim is not a verified proceedings VOR."
+    },
+    {
+      "key": "old-photoneutron",
+      "source": "https://arxiv.org/abs/2308.02629",
+      "observed": "only v1 2023-08-04T16:12:09Z; official arXiv relatedDOI10.1016/j.net.2024.03.007; publisher NET56(8)3084-3089 August2024",
+      "decision": "old paper, not a fresh2026 result; not ingested this run; former lead closed as historical literature, may backfill separately"
+    },
+    {
+      "key": "hybrid-ssrn",
+      "doi": "10.2139/ssrn.7346445",
+      "type": "posted-content",
+      "decision": "same title/authors, treated as preprint alias; not journal VOR and not independent work"
+    },
+    {
+      "key": "neutron-vor",
+      "doi": "10.1103/vqvb-4vgw",
+      "arxiv_id": "2604.02541",
+      "observed": "VOR PDF page1 receivedApril07 acceptedOctober02 publishedNovember03; 11pages PRResearch8 043124",
+      "decision": "one work; arXiv is alias"
+    }
+  ],
+  "scope": "bounded exact-title Crossref top3 plus official pages; no same-work journal VOR verified for selected arXiv papers"
+}

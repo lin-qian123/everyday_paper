@@ -1,10 +1,14 @@
 # 论文总索引
 
-- 当前入库论文：530 篇
-- 索引更新时间：2026-11-04
+- 当前入库论文：534 篇
+- 索引更新时间：2026-11-05
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-11-05 | [Perfect crystal neutron loop cavity](./10-1103-vqvb-4vgw/README.md) | Physical Review Research 8, 043124 | [10.1103/vqvb-4vgw](https://doi.org/10.1103/vqvb-4vgw) |
+| 2026-11-05 | [The preplasma origin of the plasma-mirror reflectivity response](./arxiv-2611-04355/README.md) | arXiv preprint | [10.48550/arXiv.2611.04355](https://doi.org/10.48550/arXiv.2611.04355) |
+| 2026-11-05 | [SensOFormer: Foundation Models for Particle Accelerators](./arxiv-2611-02031/README.md) | arXiv preprint; author claims NeurIPS2026 acceptance, proceedings not independently verified | [10.48550/arXiv.2611.02031](https://doi.org/10.48550/arXiv.2611.02031) |
+| 2026-11-05 | [A θ-implicit hybrid particle-in-cell algorithm for kinetic simulations of magnetized plasmas](./arxiv-2611-00127/README.md) | arXiv preprint | [10.48550/arXiv.2611.00127](https://doi.org/10.48550/arXiv.2611.00127) |
 | 2026-11-04 | [Laser-Driven Multi-GeV Muon Sources: Production and Applications](./10-1017-hpl-2026-10210/README.md) | High Power Laser Science and Engineering | [10.1017/hpl.2026.10210](https://doi.org/10.1017/hpl.2026.10210) |
 | 2026-11-04 | [First-principles simulation of free-electron lasers with the Galilean electromagnetic particle-in-cell method: even harmonics of planar undulators](./arxiv-2611-01640/README.md) | arXiv preprint | [10.48550/arXiv.2611.01640](https://doi.org/10.48550/arXiv.2611.01640) |
 | 2026-11-04 | [Inverse modelling of a laser-plasma accelerator](./arxiv-2611-00108/README.md) | arXiv preprint | [10.48550/arXiv.2611.00108](https://doi.org/10.48550/arXiv.2611.00108) |

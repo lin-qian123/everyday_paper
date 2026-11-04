@@ -1,0 +1,66 @@
+{
+  "pdf": "daily/2026-11-05/pdfs/Lailey et al. - 2026 - Perfect crystal neutron loop cavity.pdf",
+  "visually_inspected_pages_1based": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "mode": "two full-page contact sheets plus four full-resolution original excerpts",
+  "excerpts": [
+    {
+      "path": "daily/2026-11-05/images/neutron/figure-1-cavity.png",
+      "page_1based": 2,
+      "clip_bbox_pdf_points": [
+        45,
+        62,
+        299,
+        304
+      ],
+      "sha256": "9fef70ff19679d13c3dcdfd822c4263265343efcfc14de594452423148906b31"
+    },
+    {
+      "path": "daily/2026-11-05/images/neutron/figure-3-confinement.png",
+      "page_1based": 3,
+      "clip_bbox_pdf_points": [
+        45,
+        524,
+        562,
+        757
+      ],
+      "sha256": "f4cc33667b84849b31a93b8f89172d0abf32f777e481a4d57459f1d6484bc60a"
+    },
+    {
+      "path": "daily/2026-11-05/images/neutron/figure-4-imperfections.png",
+      "page_1based": 5,
+      "clip_bbox_pdf_points": [
+        45,
+        64,
+        300,
+        472
+      ],
+      "sha256": "d139fadf7dbd871eb46ae1a927bf328b26d99d23db0f7854ed05b1dd64658a43"
+    },
+    {
+      "path": "daily/2026-11-05/images/neutron/table-1-edm.png",
+      "page_1based": 6,
+      "clip_bbox_pdf_points": [
+        307,
+        63,
+        562,
+        161
+      ],
+      "sha256": "b8ed9382ac266b1f340fbee478b5bd341b159404a0672ac20a55e1cd6db929c4"
+    }
+  ],
+  "verified_boundaries": [
+    "64percent QI unitary survival excludes absorption and guide losses",
+    "800 reflections in body vs 800 loop passes in conclusion",
+    "0.15ms per loop yields 6million loops not Bragg reflections in 15min",
+    "Table I E*T*sqrt(N) is about33x below UCN baseline"
+  ]
+}

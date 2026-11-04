@@ -1,0 +1,15 @@
+{
+  "attempted_at": "2026-11-05T07:17:11.967487+08:00",
+  "source": "https://arxiv.org/pdf/2611.00127v1",
+  "model_version": "pipeline",
+  "api_requests": 1,
+  "success": 0,
+  "errors": [
+    {
+      "source": "https://arxiv.org/pdf/2611.00127v1",
+      "error": "HTTP 401 for https://mineru.net/api/v4/extract/task: {\"traceId\":\"b592e87ecdb6\",\"msgCode\":\"A0211\",\"msg\":\"user token expired\",\"data\":null,\"success\":false,\"total\":0}"
+    }
+  ],
+  "other_papers_individually_submitted": false,
+  "decision": "shared authentication block; do not try mirrors to cure expired credentials; validated local text and rendering fallback"
+}

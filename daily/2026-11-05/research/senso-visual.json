@@ -1,0 +1,84 @@
+{
+  "pdf": "daily/2026-11-05/pdfs/Rautela and Scheinker - 2026 - SensOFormer accelerator telemetry.pdf",
+  "pdf_sha256": "4ec8761a12e34e5e5796e4328131699f9d60da6cfd2c517cf8041bcad2a92646",
+  "text_read": "all 30 pages, main text + references + appendices A-D",
+  "rendered_and_viewed_pages_1based": [
+    1,
+    4,
+    7,
+    8,
+    9,
+    10,
+    15,
+    16,
+    17,
+    19,
+    20,
+    23,
+    30
+  ],
+  "inspection": "Three contact sheets inspected for layout, source identity, table structure, formula signs and appendix examples; final figure crops inspected separately. Not a model rerun.",
+  "excerpts": [
+    {
+      "path": "daily/2026-11-05/images/senso/figure-1-architecture.png",
+      "page_1based": 4,
+      "clip_bbox_points": [
+        100,
+        114,
+        510,
+        675
+      ],
+      "sha256": "7c89a3fa23f36425b628b31157ef8bedf783693c88ce5ff658b18898955cc2f1"
+    },
+    {
+      "path": "daily/2026-11-05/images/senso/figure-2-label-efficiency.png",
+      "page_1based": 10,
+      "clip_bbox_points": [
+        317,
+        99,
+        501,
+        253
+      ],
+      "sha256": "1ce7b1f936a8c2a66a603ad55912614fb6dd96918e97260c02aba961d8dece2c"
+    },
+    {
+      "path": "daily/2026-11-05/images/senso/figure-3-scaling.png",
+      "page_1based": 19,
+      "clip_bbox_points": [
+        105,
+        422,
+        509,
+        724
+      ],
+      "sha256": "54e704b1d5a0c41c61b9685790fffb932f71de514a53bf9f632c4f151b4c2155"
+    },
+    {
+      "path": "daily/2026-11-05/images/senso/figure-13-unseen-facility.png",
+      "page_1based": 30,
+      "clip_bbox_points": [
+        103,
+        110,
+        510,
+        688
+      ],
+      "sha256": "fc9ae30adeba61fcba96eb71e7c43406f031fad85d69fc38a9442ee70441a366"
+    }
+  ],
+  "scientific_boundaries": [
+    "Five pretraining facilities; LANSCE-2025 and GMPS-Booster evaluation-only",
+    "Offline historical data only; no deployed control system or laser-plasma validation",
+    "21/21 means 21 induced early-fault files under rho<25percent and F1>0.8 criteria, not universal reliability",
+    "Frozen-backbone heads reuse facilities present in pretraining; exact unlabeled-data overlap with diagnostic test events unresolved",
+    "PDF split is 80/10/10 before windowing; long two-sequence LHC split implementation unresolved",
+    "Scaling law has reciprocal powers, not positive powers; empirical 5x4 grid, no extrapolation guarantee",
+    "Figure1 explicitly contains per-channel context embedding; text F=2 alone is incomplete. Its mapping to unseen channels/facilities is not specified",
+    "CEBAF feature index is not physical time; raw heterogeneous-channel MAE cannot compare physical precision across facilities"
+  ],
+  "mineru": {
+    "submitted_this_paper": false,
+    "shared_credential_probe": "Parent tested public hybrid PDF URL in this run: HTTP401 A0211 user token expired",
+    "fallback": "pdftotext layout and PyMuPDF original-page rendering"
+  },
+  "inspected_at": "2026-11-05T07:09:57.260001+08:00",
+  "excerpts_final_viewed": true
+}

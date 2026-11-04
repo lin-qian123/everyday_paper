@@ -1,0 +1,646 @@
+{
+  "retrieved_at": "2026-11-05T07:17:11.967487+08:00",
+  "articles": [
+    {
+      "title": "Perfect crystal neutron loop cavity",
+      "doi": "10.1103/vqvb-4vgw",
+      "authors": [
+        "Owen Lailey",
+        "Dusan Sarenac",
+        "David G. Cory",
+        "Michael G. Huber",
+        "Dmitry A. Pushin"
+      ],
+      "journal": "Physical Review Research 8, 043124",
+      "publication_date": "2026-11-03",
+      "publication_date_type": "publisher_online_vor",
+      "publication_status": "version of record",
+      "source_url": "https://doi.org/10.1103/vqvb-4vgw",
+      "pdf_url": "https://harvest.aps.org/v2/journals/articles/10.1103/vqvb-4vgw/fulltext",
+      "pdf_path": "daily/2026-11-05/pdfs/Lailey et al. - 2026 - Perfect crystal neutron loop cavity.pdf",
+      "pdf_sha256": "656cc7430ac05ba18ef7ee95cdf9edcfa00afbd99d38f39b2f23291e5bee2bba",
+      "note_path": "daily/2026-11-05/notes/Lailey et al. - 2026 - Perfect crystal neutron loop cavity.md",
+      "normalized_title": "perfect crystal neutron loop cavity",
+      "processed_date": "2026-11-05",
+      "categories": [
+        "experimental-platforms-diagnostics",
+        "laser-accelerated-beam-applications"
+      ],
+      "fulltext_version": "APS VOR",
+      "arxiv_id": "2604.02541",
+      "doi_aliases": [
+        "10.48550/arXiv.2604.02541"
+      ]
+    },
+    {
+      "title": "A θ-implicit hybrid particle-in-cell algorithm for kinetic simulations of magnetized plasmas",
+      "doi": "10.48550/arXiv.2611.00127",
+      "authors": [
+        "Prabhat Kumar",
+        "William J. White",
+        "Stephen E. Clark"
+      ],
+      "journal": "arXiv preprint",
+      "publication_date": "2026-10-29",
+      "publication_date_type": "arxiv_submission",
+      "publication_status": "author preprint; no same-work journal VOR verified in bounded exact-title search",
+      "source_url": "https://arxiv.org/abs/2611.00127v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.00127v1",
+      "pdf_path": "daily/2026-11-05/pdfs/Kumar et al. - 2026 - Theta implicit hybrid PIC.pdf",
+      "pdf_sha256": "469683ce0f982523177ae84d39f0c90ac846759d7af3d2a3bd9a3288dd124b9c",
+      "note_path": "daily/2026-11-05/notes/Kumar et al. - 2026 - Theta implicit hybrid PIC.md",
+      "normalized_title": "a implicit hybrid particle in cell algorithm for kinetic simulations of magnetized plasmas",
+      "processed_date": "2026-11-05",
+      "categories": [
+        "pic-and-plasma-simulation",
+        "magnetic-fusion-and-alpha-particles"
+      ],
+      "fulltext_version": "official arXiv v1 author preprint",
+      "arxiv_id": "2611.00127",
+      "arxiv_version": "2611.00127v1",
+      "doi_aliases": [
+        "10.2139/ssrn.7346445"
+      ]
+    },
+    {
+      "title": "SensOFormer: Foundation Models for Particle Accelerators",
+      "doi": "10.48550/arXiv.2611.02031",
+      "authors": [
+        "Mahindra Rautela",
+        "Alexander Scheinker"
+      ],
+      "journal": "arXiv preprint; author claims NeurIPS2026 acceptance, proceedings not independently verified",
+      "publication_date": "2026-11-01",
+      "publication_date_type": "arxiv_submission",
+      "publication_status": "author preprint; no same-work journal VOR verified in bounded exact-title search",
+      "source_url": "https://arxiv.org/abs/2611.02031v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.02031v1",
+      "pdf_path": "daily/2026-11-05/pdfs/Rautela and Scheinker - 2026 - SensOFormer accelerator telemetry.pdf",
+      "pdf_sha256": "4ec8761a12e34e5e5796e4328131699f9d60da6cfd2c517cf8041bcad2a92646",
+      "note_path": "daily/2026-11-05/notes/Rautela and Scheinker - 2026 - SensOFormer accelerator telemetry.md",
+      "normalized_title": "sensoformer foundation models for particle accelerators",
+      "processed_date": "2026-11-05",
+      "categories": [
+        "ai-ml-plasma-physics",
+        "experimental-platforms-diagnostics"
+      ],
+      "fulltext_version": "official arXiv v1 author preprint",
+      "arxiv_id": "2611.02031",
+      "arxiv_version": "2611.02031v1"
+    },
+    {
+      "title": "The preplasma origin of the plasma-mirror reflectivity response",
+      "doi": "10.48550/arXiv.2611.04355",
+      "authors": [
+        "Zhongwei Wang",
+        "Douglass Schumacher"
+      ],
+      "journal": "arXiv preprint",
+      "publication_date": "2026-11-03",
+      "publication_date_type": "arxiv_submission",
+      "publication_status": "author preprint; no same-work journal VOR verified in bounded exact-title search",
+      "source_url": "https://arxiv.org/abs/2611.04355v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.04355v1",
+      "pdf_path": "daily/2026-11-05/pdfs/Wang and Schumacher - 2026 - Preplasma plasma mirror reflectivity.pdf",
+      "pdf_sha256": "a276944c127a9d218fc6980a0daa1ab4c7969a5e49a19221f60165382869488f",
+      "note_path": "daily/2026-11-05/notes/Wang and Schumacher - 2026 - Preplasma plasma mirror reflectivity.md",
+      "normalized_title": "the preplasma origin of the plasma mirror reflectivity response",
+      "processed_date": "2026-11-05",
+      "categories": [
+        "laser-plasma-acceleration",
+        "experimental-platforms-diagnostics",
+        "pic-and-plasma-simulation"
+      ],
+      "fulltext_version": "official arXiv v1 author preprint",
+      "arxiv_id": "2611.04355",
+      "arxiv_version": "2611.04355v1"
+    }
+  ],
+  "crossref_selected_records": [
+    {
+      "DOI": "10.1103/vqvb-4vgw",
+      "title": [
+        "Perfect crystal neutron loop cavity"
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            3
+          ]
+        ]
+      },
+      "container-title": [
+        "Physical Review Research"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-1051-1683",
+          "authenticated-orcid": true,
+          "given": "Owen",
+          "family": "Lailey",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/01aff2v68",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Institute for Quantum Computing, University of Waterloo"
+            },
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/01aff2v68",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "University of Waterloo"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8575-3367",
+          "authenticated-orcid": true,
+          "given": "Dusan",
+          "family": "Sarenac",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/01y64my43",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "University at Buffalo, State University of New York"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-1270-6268",
+          "authenticated-orcid": true,
+          "given": "David G.",
+          "family": "Cory",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/01aff2v68",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Institute for Quantum Computing, University of Waterloo"
+            },
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/01aff2v68",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "University of Waterloo"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Michael G.",
+          "family": "Huber",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/05xpvk416",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "National Institute of Standards and Technology"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-4594-3403",
+          "authenticated-orcid": true,
+          "given": "Dmitry A.",
+          "family": "Pushin",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/01aff2v68",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Institute for Quantum Computing, University of Waterloo"
+            },
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/01aff2v68",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "University of Waterloo"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "link": [
+        {
+          "URL": "https://link.aps.org/article/10.1103/vqvb-4vgw",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "syndication"
+        },
+        {
+          "URL": "http://harvest.aps.org/v2/journals/articles/10.1103/vqvb-4vgw/fulltext",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ]
+    },
+    {
+      "DOI": "10.1088/1361-6587/aebd1b",
+      "title": [
+        "Improvement of the laser module in the quasi-static PIC code QuickPIC"
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            3
+          ]
+        ]
+      },
+      "container-title": [
+        "Plasma Physics and Controlled Fusion"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0000-2746-7039",
+          "authenticated-orcid": false,
+          "given": "Weiyu",
+          "family": "Meng",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Beijing Normal University"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-3829-3526",
+          "authenticated-orcid": false,
+          "given": "Weiming",
+          "family": "An",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Beijing Normal University"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Guangze",
+          "family": "Sun",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Peking University"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0007-6055-0943",
+          "authenticated-orcid": false,
+          "given": "Rong",
+          "family": "Tang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Beijing Normal University"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Hainan",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Beijing Normal University"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zhihao",
+          "family": "Xu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Beijing Normal University"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Fei",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Chinese Academy of Sciences"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Thamine",
+          "family": "Dalichaouch",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "UCLA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Viktor K",
+          "family": "Decyk",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "UCLA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Warren B",
+          "family": "Mori",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "UCLA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "link": [
+        {
+          "URL": "https://iopscience.iop.org/article/10.1088/1361-6587/aebd1b",
+          "content-type": "text/html",
+          "content-version": "am",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://iopscience.iop.org/article/10.1088/1361-6587/aebd1b/pdf",
+          "content-type": "application/pdf",
+          "content-version": "am",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://iopscience.iop.org/article/10.1088/1361-6587/aebd1b/pdf",
+          "content-type": "application/pdf",
+          "content-version": "am",
+          "intended-application": "syndication"
+        },
+        {
+          "URL": "https://iopscience.iop.org/article/10.1088/1361-6587/aebd1b/pdf",
+          "content-type": "application/pdf",
+          "content-version": "am",
+          "intended-application": "similarity-checking"
+        }
+      ]
+    },
+    {
+      "DOI": "10.1007/s41365-026-02082-2",
+      "title": [
+        "A microminiature 2.45 GHz antenna-type ECR ion source for neutron tubes"
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            3
+          ]
+        ]
+      },
+      "container-title": [
+        "Nuclear Science and Techniques"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-5809-9344",
+          "authenticated-orcid": false,
+          "given": "Bu-Jian",
+          "family": "Cui",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Shi-Xiang",
+          "family": "Peng",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Teng-Hao",
+          "family": "Ma",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Wen-Bin",
+          "family": "Wu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yi-Cheng",
+          "family": "Dong",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zhi-Yu",
+          "family": "Guo",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jia-Er",
+          "family": "Chen",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "link": [
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1007/s41365-026-02082-2.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://link.springer.com/article/10.1007/s41365-026-02082-2",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1007/s41365-026-02082-2.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ]
+    }
+  ]
+}

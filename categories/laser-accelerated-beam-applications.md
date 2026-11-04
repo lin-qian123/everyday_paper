@@ -2,11 +2,12 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：137 篇
-- 索引更新时间：2026-11-04
+- 当前收录：138 篇
+- 索引更新时间：2026-11-05
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-05 | [Perfect crystal neutron loop cavity](../papers/10-1103-vqvb-4vgw/README.md) | Physical Review Research 8, 043124 | [笔记](../daily/2026-11-05/notes/Lailey et al. - 2026 - Perfect crystal neutron loop cavity.md) |
 | 2026-11-04 | [Laser-Driven Multi-GeV Muon Sources: Production and Applications](../papers/10-1017-hpl-2026-10210/README.md) | High Power Laser Science and Engineering | [笔记](../daily/2026-11-04/notes/Cimmino et al. - 2026 - Laser driven multi GeV muon sources.md) |
 | 2026-11-03 | [Thermonuclear reaction rate of the deuteron alpha capture reaction in cluster effective field theory](../papers/10-1038-s41598-026-78629-5/README.md) | Scientific Reports | [笔记](../daily/2026-11-03/notes/Nazari et al. - 2026 - Deuteron alpha capture reaction rate.md) |
 | 2026-11-02 | [A novel angle-independent neutron detector based on CR-39](../papers/10-1088-1361-6498-aeb271/README.md) | Journal of Radiological Protection 46, 041509 | [笔记](../daily/2026-11-02/notes/Cui et al. - 2026 - Angle independent CR39 neutron detector.md) |

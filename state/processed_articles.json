@@ -7665,5 +7665,119 @@
     "fulltext_version": "official arXiv v1 author preprint",
     "arxiv_id": "2611.01640",
     "arxiv_version": "2611.01640v1"
+  },
+  {
+    "title": "Perfect crystal neutron loop cavity",
+    "doi": "10.1103/vqvb-4vgw",
+    "authors": [
+      "Owen Lailey",
+      "Dusan Sarenac",
+      "David G. Cory",
+      "Michael G. Huber",
+      "Dmitry A. Pushin"
+    ],
+    "journal": "Physical Review Research 8, 043124",
+    "publication_date": "2026-11-03",
+    "publication_date_type": "publisher_online_vor",
+    "publication_status": "version of record",
+    "source_url": "https://doi.org/10.1103/vqvb-4vgw",
+    "pdf_url": "https://harvest.aps.org/v2/journals/articles/10.1103/vqvb-4vgw/fulltext",
+    "pdf_path": "daily/2026-11-05/pdfs/Lailey et al. - 2026 - Perfect crystal neutron loop cavity.pdf",
+    "pdf_sha256": "656cc7430ac05ba18ef7ee95cdf9edcfa00afbd99d38f39b2f23291e5bee2bba",
+    "note_path": "daily/2026-11-05/notes/Lailey et al. - 2026 - Perfect crystal neutron loop cavity.md",
+    "normalized_title": "perfect crystal neutron loop cavity",
+    "processed_date": "2026-11-05",
+    "categories": [
+      "experimental-platforms-diagnostics",
+      "laser-accelerated-beam-applications"
+    ],
+    "fulltext_version": "APS VOR",
+    "arxiv_id": "2604.02541",
+    "doi_aliases": [
+      "10.48550/arXiv.2604.02541"
+    ]
+  },
+  {
+    "title": "A θ-implicit hybrid particle-in-cell algorithm for kinetic simulations of magnetized plasmas",
+    "doi": "10.48550/arXiv.2611.00127",
+    "authors": [
+      "Prabhat Kumar",
+      "William J. White",
+      "Stephen E. Clark"
+    ],
+    "journal": "arXiv preprint",
+    "publication_date": "2026-10-29",
+    "publication_date_type": "arxiv_submission",
+    "publication_status": "author preprint; no same-work journal VOR verified in bounded exact-title search",
+    "source_url": "https://arxiv.org/abs/2611.00127v1",
+    "pdf_url": "https://arxiv.org/pdf/2611.00127v1",
+    "pdf_path": "daily/2026-11-05/pdfs/Kumar et al. - 2026 - Theta implicit hybrid PIC.pdf",
+    "pdf_sha256": "469683ce0f982523177ae84d39f0c90ac846759d7af3d2a3bd9a3288dd124b9c",
+    "note_path": "daily/2026-11-05/notes/Kumar et al. - 2026 - Theta implicit hybrid PIC.md",
+    "normalized_title": "a implicit hybrid particle in cell algorithm for kinetic simulations of magnetized plasmas",
+    "processed_date": "2026-11-05",
+    "categories": [
+      "pic-and-plasma-simulation",
+      "magnetic-fusion-and-alpha-particles"
+    ],
+    "fulltext_version": "official arXiv v1 author preprint",
+    "arxiv_id": "2611.00127",
+    "arxiv_version": "2611.00127v1",
+    "doi_aliases": [
+      "10.2139/ssrn.7346445"
+    ]
+  },
+  {
+    "title": "SensOFormer: Foundation Models for Particle Accelerators",
+    "doi": "10.48550/arXiv.2611.02031",
+    "authors": [
+      "Mahindra Rautela",
+      "Alexander Scheinker"
+    ],
+    "journal": "arXiv preprint; author claims NeurIPS2026 acceptance, proceedings not independently verified",
+    "publication_date": "2026-11-01",
+    "publication_date_type": "arxiv_submission",
+    "publication_status": "author preprint; no same-work journal VOR verified in bounded exact-title search",
+    "source_url": "https://arxiv.org/abs/2611.02031v1",
+    "pdf_url": "https://arxiv.org/pdf/2611.02031v1",
+    "pdf_path": "daily/2026-11-05/pdfs/Rautela and Scheinker - 2026 - SensOFormer accelerator telemetry.pdf",
+    "pdf_sha256": "4ec8761a12e34e5e5796e4328131699f9d60da6cfd2c517cf8041bcad2a92646",
+    "note_path": "daily/2026-11-05/notes/Rautela and Scheinker - 2026 - SensOFormer accelerator telemetry.md",
+    "normalized_title": "sensoformer foundation models for particle accelerators",
+    "processed_date": "2026-11-05",
+    "categories": [
+      "ai-ml-plasma-physics",
+      "experimental-platforms-diagnostics"
+    ],
+    "fulltext_version": "official arXiv v1 author preprint",
+    "arxiv_id": "2611.02031",
+    "arxiv_version": "2611.02031v1"
+  },
+  {
+    "title": "The preplasma origin of the plasma-mirror reflectivity response",
+    "doi": "10.48550/arXiv.2611.04355",
+    "authors": [
+      "Zhongwei Wang",
+      "Douglass Schumacher"
+    ],
+    "journal": "arXiv preprint",
+    "publication_date": "2026-11-03",
+    "publication_date_type": "arxiv_submission",
+    "publication_status": "author preprint; no same-work journal VOR verified in bounded exact-title search",
+    "source_url": "https://arxiv.org/abs/2611.04355v1",
+    "pdf_url": "https://arxiv.org/pdf/2611.04355v1",
+    "pdf_path": "daily/2026-11-05/pdfs/Wang and Schumacher - 2026 - Preplasma plasma mirror reflectivity.pdf",
+    "pdf_sha256": "a276944c127a9d218fc6980a0daa1ab4c7969a5e49a19221f60165382869488f",
+    "note_path": "daily/2026-11-05/notes/Wang and Schumacher - 2026 - Preplasma plasma mirror reflectivity.md",
+    "normalized_title": "the preplasma origin of the plasma mirror reflectivity response",
+    "processed_date": "2026-11-05",
+    "categories": [
+      "laser-plasma-acceleration",
+      "experimental-platforms-diagnostics",
+      "pic-and-plasma-simulation"
+    ],
+    "fulltext_version": "official arXiv v1 author preprint",
+    "arxiv_id": "2611.04355",
+    "arxiv_version": "2611.04355v1"
   }
 ]

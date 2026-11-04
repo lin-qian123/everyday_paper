@@ -1,0 +1,86 @@
+{
+  "inspected_at": "2026-11-05T07:14:52.997465+08:00",
+  "source_pdf": "daily/2026-11-05/pdfs/Wang and Schumacher - 2026 - Preplasma plasma mirror reflectivity.pdf",
+  "source_sha256": "a276944c127a9d218fc6980a0daa1ab4c7969a5e49a19221f60165382869488f",
+  "text_read": "all 719 layout lines including references",
+  "pages_rendered_1based": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "pages_visually_inspected_1based": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "assets": [
+    {
+      "file": "daily/2026-11-05/images/mirror/figure-3-energy-channels.png",
+      "source_page_1based": 5,
+      "bbox_pdf_points": [
+        50,
+        45,
+        304,
+        483
+      ],
+      "sha256": "832208b069e396775f79b7800f6e55796dc7249065a9cc1a9ef69627bb76f51e"
+    },
+    {
+      "file": "daily/2026-11-05/images/mirror/figure-6-s-dpm-rollover.png",
+      "source_page_1based": 7,
+      "bbox_pdf_points": [
+        50,
+        45,
+        304,
+        483
+      ],
+      "sha256": "65235e29bf16071b369d70007f9f0071d81e2d86d1ca9a8febe3648af9a4c867"
+    },
+    {
+      "file": "daily/2026-11-05/images/mirror/figure-8-cycle-density.png",
+      "source_page_1based": 8,
+      "bbox_pdf_points": [
+        50,
+        45,
+        304,
+        389
+      ],
+      "sha256": "5af66dce9f1316a9c62e1dfe15afdba1c60b686b5c5e3d41ffa95bcf4483dfb5"
+    }
+  ],
+  "final_assets_visually_inspected": true,
+  "parser": "shared MinerU HTTP401/A0211 credential failure in this run; this paper not individually submitted; local layout/PyMuPDF fallback",
+  "scientific_boundaries": [
+    "new evidence is WarpX PIC simulations; measured prepulse/low-field and DPM curves are prior published experiments",
+    "independent 2D prepulse calculation followed by axisymmetric mapping to 3D main-pulse initial distributions, not arbitrary imposed density ramp",
+    "absorption from 1-Rnear-Tnear is an energy-accounting residual and not a direct unique mechanism decomposition",
+    "scattering is acceptance-dependent Rnear-Rfar with cone half-angle 2alpha, not universal hemispherical diffuse fraction",
+    "p polarization cycle-resolved density bunches support vacuum heating; no exclusive mechanism-resolved power deposition or local rerun",
+    "BELLA simulated maximum approximately75percent vs prior experiment above80percent; s high-fluence rollover above150J/cm2 unresolved",
+    "few 3D benchmark points support 2D spot weighting in stated geometry, not full convergence or arbitrary real beam/target nonuniformity"
+  ],
+  "source_issues": [
+    {
+      "page": 7,
+      "issue": "Fig6b displays a single simulated curve and no visible measurement markers/errorbars despite prose/caption describing agreement with experiment; quantitative residuals cannot be independently read from this figure"
+    },
+    {
+      "page": 3,
+      "issue": "generic production PIC waist5micron; BELLA focal-position mapping uses waist60micron; retain distinction and do not imply entire60micron beam was resolved in3D"
+    },
+    {
+      "page": 3,
+      "issue": "absorption1-Rnear-Tnear requires closed electromagnetic time/space windows and numerical energy balance; no separately tabulated residual error in the text"
+    }
+  ]
+}

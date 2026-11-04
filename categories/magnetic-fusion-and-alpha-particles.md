@@ -2,11 +2,12 @@
 
 stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。
 
-- 当前收录：62 篇
-- 索引更新时间：2026-11-04
+- 当前收录：63 篇
+- 索引更新时间：2026-11-05
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-05 | [A θ-implicit hybrid particle-in-cell algorithm for kinetic simulations of magnetized plasmas](../papers/arxiv-2611-00127/README.md) | arXiv preprint | [笔记](../daily/2026-11-05/notes/Kumar et al. - 2026 - Theta implicit hybrid PIC.md) |
 | 2026-10-27 | [Maximization of nuclear fusion reactivity via optimal energy distributions](../papers/10-1103-xhzy-hxdw/README.md) | Physical Review E | [笔记](../daily/2026-10-27/notes/Onofrio et al. - 2026 - Optimal energy distributions fusion reactivity.md) |
 | 2026-10-19 | [Validation of geometric proxies using negative and positive triangularity plasmas with varying elongation on TCV and multi-machine gyrokinetic simulations](../papers/arxiv-2610-17974/README.md) | arXiv preprint | [笔记](../daily/2026-10-19/notes/Balestri et al. - 2026 - Geometric proxies for negative triangularity.md) |
 | 2026-10-19 | [Implicit PIC Simulations of Hydrogen Plasmas with Intense Negative Ion Production](../papers/arxiv-2610-16257/README.md) | arXiv preprint | [笔记](../daily/2026-10-19/notes/Eremin - 2026 - Implicit PIC hydrogen negative ions.md) |

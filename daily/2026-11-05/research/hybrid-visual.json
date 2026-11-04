@@ -1,0 +1,103 @@
+{
+  "inspected_at": "2026-11-05T07:09:37.449551+08:00",
+  "source_pdf": "daily/2026-11-05/pdfs/Kumar et al. - 2026 - Theta implicit hybrid PIC.pdf",
+  "source_sha256": "469683ce0f982523177ae84d39f0c90ac846759d7af3d2a3bd9a3288dd124b9c",
+  "text_read": "all 915 layout lines including Appendix A and references",
+  "pages_rendered_1based": [
+    1,
+    3,
+    4,
+    5,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "pages_visually_inspected_1based": [
+    1,
+    3,
+    4,
+    5,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "assets": [
+    {
+      "file": "daily/2026-11-05/images/hybrid/figure-3-damping-phase.png",
+      "source_page_1based": 8,
+      "bbox_pdf_points": [
+        33,
+        76,
+        562,
+        389
+      ],
+      "sha256": "f3bfa21559ff01b91d5f6e84fe1d8092a4aaea731d5f8bd995868e385fc9859a"
+    },
+    {
+      "file": "daily/2026-11-05/images/hybrid/figure-4-cold-beam.png",
+      "source_page_1based": 9,
+      "bbox_pdf_points": [
+        33,
+        76,
+        562,
+        293
+      ],
+      "sha256": "b8fd6cbeb4aceb6289ea53bd09bc38a41c84fef18f90c8ebf05d88b730b47152"
+    },
+    {
+      "file": "daily/2026-11-05/images/hybrid/figure-7-frc-flux-tilt.png",
+      "source_page_1based": 11,
+      "bbox_pdf_points": [
+        33,
+        304,
+        562,
+        533
+      ],
+      "sha256": "b631ca82e89e8cfadedfadccedccd4528babbb5136fde7e642ebb4c44ffb6067"
+    },
+    {
+      "file": "daily/2026-11-05/images/hybrid/figure-8-cost.png",
+      "source_page_1based": 12,
+      "bbox_pdf_points": [
+        33,
+        76,
+        293,
+        380
+      ],
+      "sha256": "e27679e791787187650ad482b6cb8da42c20819e988b1be613ccdbfd602fadd6"
+    }
+  ],
+  "final_assets_visually_inspected": true,
+  "parser": "MinerU public URL HTTP401/A0211; local pdftotext/PyMuPDF rendering fallback",
+  "scientific_boundaries": [
+    "nonrelativistic kinetic ions, quasineutral inertialess scalar-pressure electrons; not full electromagnetic electron-scale PIC",
+    "theta=0.5 energy identity requires matched discrete products, Cartesian mimetic curls, closed budgets; RZ appendix states interpolation-order residual",
+    "energy conservation does not prove field accuracy or nonlinear convergence",
+    "3.7x is mass-matrix vs baseline implicit per-step speedup on one GPU, not explicit-vs-implicit or multi-GPU scaling",
+    "FRC growth-rate errors are fit-window sensitivity, not independent-run statistical uncertainties"
+  ],
+  "source_issues": [
+    {
+      "page": 1,
+      "issue": "factor-of-two grid refinement stated to cost factor eight in time steps, but displayed dt proportional dx squared implies factor four at fixed duration"
+    },
+    {
+      "page": 4,
+      "issue": "pressure-gradient curl-free statement requires barotropic/aligned gradients once 1/ne multiplies gradient Pe; not generic for evolved pressure"
+    },
+    {
+      "page": 7,
+      "issue": "caption relative energy change 19 corresponds final energy 20 times initial while prose says nineteen times initial; retain relative-change definition"
+    }
+  ]
+}

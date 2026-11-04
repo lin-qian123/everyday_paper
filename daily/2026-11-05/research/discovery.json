@@ -1,0 +1,1683 @@
+{
+  "retrieved_at": "2026-11-05T07:17:11.967487+08:00",
+  "crossref": {
+    "window": [
+      "2026-11-03",
+      "2026-11-05"
+    ],
+    "sort": "relevance",
+    "rows_per_query": 40,
+    "queries": [
+      {
+        "query": "laser plasma acceleration",
+        "url": "https://api.crossref.org/works?query=laser+plasma+acceleration&filter=from-pub-date%3A2026-11-03%2Cuntil-pub-date%3A2026-11-05%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "status": 200,
+        "total": 177,
+        "rows": 40
+      },
+      {
+        "query": "strong field quantum electrodynamics",
+        "url": "https://api.crossref.org/works?query=strong+field+quantum+electrodynamics&filter=from-pub-date%3A2026-11-03%2Cuntil-pub-date%3A2026-11-05%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "status": 200,
+        "total": 379,
+        "rows": 40
+      },
+      {
+        "query": "high energy density inertial confinement fusion",
+        "url": "https://api.crossref.org/works?query=high+energy+density+inertial+confinement+fusion&filter=from-pub-date%3A2026-11-03%2Cuntil-pub-date%3A2026-11-05%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "status": 200,
+        "total": 1127,
+        "rows": 40
+      },
+      {
+        "query": "particle in cell plasma simulation",
+        "url": "https://api.crossref.org/works?query=particle+in+cell+plasma+simulation&filter=from-pub-date%3A2026-11-03%2Cuntil-pub-date%3A2026-11-05%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "status": 200,
+        "total": 706,
+        "rows": 40
+      },
+      {
+        "query": "machine learning plasma physics",
+        "url": "https://api.crossref.org/works?query=machine+learning+plasma+physics&filter=from-pub-date%3A2026-11-03%2Cuntil-pub-date%3A2026-11-05%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "status": 200,
+        "total": 1134,
+        "rows": 40
+      },
+      {
+        "query": "laser electron bremsstrahlung gamma converter",
+        "error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query=laser+electron+bremsstrahlung+gamma+converter&filter=from-pub-date%3A2026-11-03%2Cuntil-pub-date%3A2026-11-05%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "total": 209,
+        "recovery": "sequential retry HTTP200",
+        "rows": 40
+      },
+      {
+        "query": "photonuclear neutron isotope production",
+        "url": "https://api.crossref.org/works?query=photonuclear+neutron+isotope+production&filter=from-pub-date%3A2026-11-03%2Cuntil-pub-date%3A2026-11-05%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "status": 200,
+        "total": 210,
+        "rows": 40
+      },
+      {
+        "query": "laser ion beam radiation diagnostics",
+        "url": "https://api.crossref.org/works?query=laser+ion+beam+radiation+diagnostics&filter=from-pub-date%3A2026-11-03%2Cuntil-pub-date%3A2026-11-05%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "status": 200,
+        "total": 300,
+        "rows": 40
+      },
+      {
+        "query": "neutron irradiation materials shielding",
+        "error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query=neutron+irradiation+materials+shielding&filter=from-pub-date%3A2026-11-03%2Cuntil-pub-date%3A2026-11-05%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "total": 597,
+        "recovery": "sequential retry HTTP200",
+        "rows": 40
+      },
+      {
+        "query": "very high energy electron radiotherapy",
+        "url": "https://api.crossref.org/works?query=very+high+energy+electron+radiotherapy&filter=from-pub-date%3A2026-11-03%2Cuntil-pub-date%3A2026-11-05%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "status": 200,
+        "total": 1106,
+        "rows": 40
+      }
+    ],
+    "successful_rows": 400,
+    "unique_dois": 335,
+    "scope": "bounded title/keyword screening; not exhaustive; issue dates not proof of new online publication"
+  },
+  "arxiv": {
+    "scope": "official recent HTML, first/latest date DL, first100 cap; h3.find_parent(dl) used to retain correct date association",
+    "initial_parser_correction": "Initial h3.find_next(dl) incorrectly read a following date block while retaining latest heading; corrected by h3.find_parent(dl) and reretrieved all10 categories. Initial discovery not used as latest-day coverage.",
+    "queries": [
+      {
+        "cat": "physics.plasm-ph",
+        "url": "https://arxiv.org/list/physics.plasm-ph/recent?skip=0&show=100",
+        "status": 200,
+        "date": "Wed, 4 Nov 2026 (showing 15 of 15 entries )",
+        "items": [
+          {
+            "id": "2611.04906",
+            "title": "Modeling runaway electron mitigation via passively driven plasma instabilities in a high-current tokamak",
+            "authors": "R Datta , C Clauser , G Hu , A Braun , N Ferraro , R Sweeney , A Tinguely and",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04651",
+            "title": "Eddy currents and error fields in the toroidally segmented shell configuration aka Armadillo",
+            "authors": "D. Abate , A. Corbioli , G. Marchiori",
+            "comments": "Comments: 15 pages, 9 figures",
+            "known": false
+          },
+          {
+            "id": "2611.04355",
+            "title": "The preplasma origin of the plasma-mirror reflectivity response",
+            "authors": "Zhongwei Wang , Douglass Schumacher",
+            "comments": "Comments: 10 pages, 8 figures",
+            "known": false
+          },
+          {
+            "id": "2611.04322",
+            "title": "Conceptual Design of Pumping Systems up to 1000 m3/s Based on Non-Evaporable Getters in a Gas-Dynamic Magnetic Trap",
+            "authors": "Alexey M. Semenov , Nataliy G. Vasilieva , Sergey V. Polosatkin",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04261",
+            "title": "High-Efficiency Wakefield Acceleration of Positrons via a Slit Plasma Channel",
+            "authors": "Yu-Jie Wang , Xing-Long Zhu , Hong-Kang Zuo , Zheng-Ming Sheng",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04194",
+            "title": "A Two-Dimensional Physics-Informed Neural Network Model of a Hall Effect Thruster Plasma: Self-Consistent Electrostatics and Physical-Consistency Diagnostics",
+            "authors": "Josh Adjedj , Subrata Roy",
+            "comments": "Comments: 38 pages, 16 figures, 9 tables",
+            "known": false
+          },
+          {
+            "id": "2611.04162",
+            "title": "Dynamics of Vortex Electrons in a Uniform Magnetic Field Across Nonrelativistic and Relativistic Regimes",
+            "authors": "Yujian Lin , Zhigang Bu , Shiyu Liu , Taoming Guo , Liangliang Ji",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.03720",
+            "title": "Stabilization of kinetic plasma instabilities via instantaneous external field control",
+            "authors": "Jiyoung Yoo , Jingwei Hu",
+            "comments": "Comments: 23 pages, 8 figures, 1 table",
+            "known": false
+          },
+          {
+            "id": "2611.03690",
+            "title": "From Forecasting to Feedback: Evaluating Learned Dynamics for Tokamak Control",
+            "authors": "Guoyang Shi , Siqi Ding , Xuanhe Wang , Pei Guo , Changquan Yu , Jiale Hu , Jiayi Zhi , Zhengyuan Chen , Jianguo Chen , Tianyuan Liu",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.03671",
+            "title": "Renormalisation of Hydrogen Partition Function and Saha Ionisation Equation",
+            "authors": "George Savvidy , Pengming Zhang",
+            "comments": "Comments: 17 pages, 1 figure",
+            "known": false
+          },
+          {
+            "id": "2611.03657",
+            "title": "Shock wave transmission across solid-water interfaces in underwater electrical foil explosions",
+            "authors": "Francesc Hernández Garcia , Brian Bertacco , Tobia De Benedictis , Sebastián Rojas Mata , Jergus Strucka , Michael Liverts",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.03972",
+            "title": "Hydrogen Electron Cyclotron Resonance Dissociator Demonstrator for the Project 8 Experiment",
+            "authors": "Manjinder Oueslati , Walter Pettus , Anna Reine , Hamish Robertson",
+            "comments": "Comments: ECRIS 2026 Conference Proceedings, 5 pages, 12 figures",
+            "known": false
+          },
+          {
+            "id": "2611.03864",
+            "title": "Interstellar and intergalactic medium in the ultraviolet band",
+            "authors": "M. S. Kirsanova , S. A. Balashev , M. V. Barkov , E. O. Vasiliev , D. S. Wiebe , I. I. Zinchenko , A. V. Moiseev , M. S. Murga , I. N. Nikonorov , M. E. Sachkov , I. S. Khrykin , B. M. Shustov , Yu. A. Schekinov , A. D. Yarovova",
+            "comments": "Comments: accepted to Astronomy Reports, vol 11, 2026",
+            "known": false
+          },
+          {
+            "id": "2611.03721",
+            "title": "Counterexample-driven autonomous research with application to excess radiated energy in a Z-pinch",
+            "authors": "Bowen Zhu , Jian Wu",
+            "comments": "Comments: 25 pages, 9 figures, 5 tables; code at this https URL",
+            "known": false
+          },
+          {
+            "id": "2611.02870",
+            "title": "Structure of energy flux densities in Earth's magnetotail reconnection regions: Bridging simulation and observation",
+            "authors": "Cara L. Waters , Jonathan P. Eastwood , Harry C. Lewis , Naïs Fargette , Marit Øieroset , Tai D. Phan , David L. Newman , Martin V. Goldman",
+            "comments": "Comments: 25 pages, 3 figures, submitted to Geophysical Research Letters 3rd September 2026, revisions submitted 29th October 2026",
+            "known": false
+          }
+        ]
+      },
+      {
+        "cat": "physics.acc-ph",
+        "url": "https://arxiv.org/list/physics.acc-ph/recent?skip=0&show=100",
+        "status": 200,
+        "date": "Wed, 4 Nov 2026 (showing 2 of 2 entries )",
+        "items": [
+          {
+            "id": "2611.04261",
+            "title": "High-Efficiency Wakefield Acceleration of Positrons via a Slit Plasma Channel",
+            "authors": "Yu-Jie Wang , Xing-Long Zhu , Hong-Kang Zuo , Zheng-Ming Sheng",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.03972",
+            "title": "Hydrogen Electron Cyclotron Resonance Dissociator Demonstrator for the Project 8 Experiment",
+            "authors": "Manjinder Oueslati , Walter Pettus , Anna Reine , Hamish Robertson",
+            "comments": "Comments: ECRIS 2026 Conference Proceedings, 5 pages, 12 figures",
+            "known": false
+          }
+        ]
+      },
+      {
+        "cat": "physics.comp-ph",
+        "url": "https://arxiv.org/list/physics.comp-ph/recent?skip=0&show=100",
+        "status": 200,
+        "date": "Wed, 4 Nov 2026 (showing 5 of 5 entries )",
+        "items": [
+          {
+            "id": "2611.05327",
+            "title": "Remap for ALE Hydrodynamics via Direct Interpolation and Constraint Optimization",
+            "authors": "Brendan Keith , Dohyun Kim , Boyan Lazarov , Ketan Mittal , Cosmin G. Petra , Mathias R. Schmidt , Vladimir Z. Tomov",
+            "comments": "Comments: 13 pages, 7 figures, 4 tables",
+            "known": false
+          },
+          {
+            "id": "2611.05020",
+            "title": "ConvexAD: differentiable phase retrieval with geometric regularization for high-strain, low-signal Bragg coherent diffraction imaging",
+            "authors": "Matteo Masto , Ewen Bellec , Etienne Polack , Jiangtao Zhao , Vincent Favre-Nicolin , Steven J. Leake , Tobias Schülli , Marie-Ingrid Richard",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04684",
+            "title": "On flow unsteadiness in strongly separated high-speed ramp flows using kinetic and data-driven methods",
+            "authors": "Irmak Taylan Karpuzcu , Mert Senkardesler , Deborah A. Levin",
+            "comments": "Comments: Accepted manuscript. Published in Phys. Fluids 37, 096136 (2025). 38 pages, 11 figures",
+            "known": false
+          },
+          {
+            "id": "2611.04603",
+            "title": "SCANO: Restoring Boundary-Condition Completeness in Sampled Meshes with a Sliced-Cross-Attention Neural Operator for 3D Thermal Fields",
+            "authors": "Tianyu Li , Zhiwei Cao , Qingang Zhang , Ruihang Wang , Binyang Song , Yonggang Wen",
+            "comments": "Comments: 88 pages (46 main text + 42 supplementary material)",
+            "known": false
+          },
+          {
+            "id": "2611.03687",
+            "title": "samQEq: universal charge equilibration for molecules and conductors",
+            "authors": "Nicholas Solan , David Sun , Tod A. Pascal",
+            "comments": "Comments: 34 pages, 5 figures, supplementary material included",
+            "known": false
+          }
+        ]
+      },
+      {
+        "cat": "physics.ins-det",
+        "url": "https://arxiv.org/list/physics.ins-det/recent?skip=0&show=100",
+        "status": 200,
+        "date": "Wed, 4 Nov 2026 (showing 3 of 3 entries )",
+        "items": [
+          {
+            "id": "2611.05159",
+            "title": "In-situ azimuthal sample rotation within a horizontal-field cryomagnet for small-angle neutron scattering",
+            "authors": "Matthew T. Littlehales , Andreas Bauer , Marek Bartkowiak , Markus Zolliker , Jonathan S. White , Christian Pfleiderer",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.03972",
+            "title": "Hydrogen Electron Cyclotron Resonance Dissociator Demonstrator for the Project 8 Experiment",
+            "authors": "Manjinder Oueslati , Walter Pettus , Anna Reine , Hamish Robertson",
+            "comments": "Comments: ECRIS 2026 Conference Proceedings, 5 pages, 12 figures",
+            "known": false
+          },
+          {
+            "id": "2611.03903",
+            "title": "On the Electrodynamics of a Non-Contact Inductive Sensor for High-Accuracy Tip Deflection Measurements of Piezoceramic Bending Actuators and its Application for Energy Harvesting Purposes",
+            "authors": "Ruediger G. Ballas",
+            "comments": "Comments: 21 pages, 15 figures",
+            "known": false
+          }
+        ]
+      },
+      {
+        "cat": "physics.med-ph",
+        "url": "https://arxiv.org/list/physics.med-ph/recent?skip=0&show=100",
+        "status": 200,
+        "date": "Wed, 4 Nov 2026 (showing 9 of 9 entries )",
+        "items": [
+          {
+            "id": "2611.05341",
+            "title": "Weight-space programming for auditing clinical decision networks",
+            "authors": "Humza Nusrat , Omar Nusrat",
+            "comments": "Comments: 13 pages, 3 figures, 3 tables. Code, networks and every model answer: this https URL . A reading guide for language models ( this http URL ), the paper in Markdown and the data behind each figure and table are in the ancillary files",
+            "known": false
+          },
+          {
+            "id": "2611.05340",
+            "title": "MedPhysBench: A Benchmark for Evaluating Language Models on Medical Physics Calculations and Error Detection",
+            "authors": "Omar Nusrat",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04875",
+            "title": "Influence of Geometry and Tissue Damage on the Mechanical Behaviour of Skin Meshing",
+            "authors": "Masoumeh Razaghi Pey Ghaleh , Denis O'Mahoney , Kevin Moerman",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04746",
+            "title": "Perioperative shear wave elastography for the evaluation of spinal cord release in pediatric dysraphism: first experience in 21 patients",
+            "authors": "Mathilde Gaume , Lou Richard , Claudio Vergari (IBHGC), Eleonore Blondiaux , Marius Buffard , Raphael Vialle (ISIR, SU FdS, AP-HP), Timoth{é}e de Saint-Denis (SU)",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04446",
+            "title": "Probabilistic Modeling of Photon Interaction Chains in a Silicon Detector",
+            "authors": "Per Lundhammar , Luca Terenzi , Mats Danielsson , Moa Yveborg Tamm , Mats Persson",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04170",
+            "title": "Dielectric characterisation of human adrenal glands and adrenal tumours for the development of microwave ablation technologies for hypertension treatment",
+            "authors": "Bilal Amin , Adnan Elahi , Grazia Cappiello , Niko Ištuk , Eoghan Dunne , Finn Krewer , Anne Marie Quinn , Aoife Lowery , Punit Prakash , Michael Conall Dennedy , Martin O'Halloran",
+            "comments": "Comments: 6 figures, 8 tables. Published in Scientific Reports",
+            "known": false
+          },
+          {
+            "id": "2611.04160",
+            "title": "Dielectric Models of Normal and Diseased Human Trabecular Bones at Microwave Frequencies",
+            "authors": "Bilal Amin , Amra Mehboob , Eoghan Dunne , Ana González-Suárez , Finn Krewer , Aoife Lowery , Martin O'Halloran , Adnan Elahi",
+            "comments": "Comments: 12 pages, 9 figures, 8 tables. Published in IEEE Open Journal of Antennas and Propagation (open access, CC BY 4.0)",
+            "known": false
+          },
+          {
+            "id": "2611.04563",
+            "title": "Optimized size, shape and orientation of rhombic transposition flaps and excisions by gradient-based methods",
+            "authors": "Niels Aage , Brandon Marshal Parks",
+            "comments": "Comments: 21 pages, 9 figures, 4 tables. Submitted to the Journal of the Mechanical Behavior of Biomedical Materials",
+            "known": false
+          },
+          {
+            "id": "2611.03987",
+            "title": "Adaptive Qubit Encoding for Continuous-Variable Quantum Optimization",
+            "authors": "Samuele Cavinato , Marco Tesoro , Gianluca Morettini , Marta Paiusco , Alessandro Scaggion , Simone Montangero , Ilaria Siloi",
+            "comments": "Comments: 14 pages, 11 figures, comments are welcome",
+            "known": false
+          }
+        ]
+      },
+      {
+        "cat": "nucl-ex",
+        "url": "https://arxiv.org/list/nucl-ex/recent?skip=0&show=100",
+        "status": 200,
+        "date": "Wed, 4 Nov 2026 (showing 8 of 8 entries )",
+        "items": [
+          {
+            "id": "2611.04854",
+            "title": "Cumulative protons and pions at the intermediate energies in the FRAGM experiment",
+            "authors": "M.A. Martemianov , B.M. Abramov , S.A. Bulychjov , I.A. Dukhovskoy , V.V. Kulikov , A.A. Kulikovskaya , M.A. Matsyuk",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04696",
+            "title": "Precise and accurate nuclear electric quadrupole moment of $^{223}$Ra from molecular spectroscopy",
+            "authors": "C. M. Fajardo-Zambrano , M. Athanasakis-Kaklamanakis , L. Lalanne , J. R. Reilly , O. Ahmad , M. Au , S. W. Bai , J. Berbalk , C. Bernerd , A. A. Breier , K. Chrysalidis , T. E. Cocolios , R. P. de Groote , K. T. Flanagan , S. Franchoo , R. F. Garcia Ruiz , R. Heinke , P. Imgram , Á. Koszorús , P. Lassègues , J. Lim , Y. C. Liu , K. M. Lynch , A. McGlone , W. C. Mei , G. Neyens , L. Nies , A. Raggio , S. Rothe , B. van den Borne , J. Warbinek , J. Wessolek , X. F. Yang",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.05239",
+            "title": "Elliptic and triangular flow responses in O+O and Ne+Ne collisions from hydrodynamics and kinetic theory",
+            "authors": "Victor E. Ambrus , Giuliano Giacalone , Clemens Werthmann , Fabian Zhou",
+            "comments": "Comments: 15+5 pages, 9+3 figures",
+            "known": false
+          },
+          {
+            "id": "2611.05028",
+            "title": "Observation of Scaling of Higher-Order Flow in a Unitary Fermi Gas",
+            "authors": "Shuxian Yu , Zhijie Zhang , Yunyi Zhao , Shujin Deng , Meng-Zi Huang , Haibin Wu , Yu-Gang Ma",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04991",
+            "title": "Pionization experiments in light nuclei",
+            "authors": "Slawomir Wycech , Guillaume Hupin , Jaume Carbonell",
+            "comments": "Comments: To appear in Phys Rev C",
+            "known": false
+          },
+          {
+            "id": "2611.04542",
+            "title": "Non-uniqueness of the amplitude reconstruction in the inverse scattering problem and a refinement of Hoehler's resonance clustering",
+            "authors": "A. Švarc",
+            "comments": "Comments: 28 pages; 4 figures",
+            "known": false
+          },
+          {
+            "id": "2611.03972",
+            "title": "Hydrogen Electron Cyclotron Resonance Dissociator Demonstrator for the Project 8 Experiment",
+            "authors": "Manjinder Oueslati , Walter Pettus , Anna Reine , Hamish Robertson",
+            "comments": "Comments: ECRIS 2026 Conference Proceedings, 5 pages, 12 figures",
+            "known": false
+          },
+          {
+            "id": "2611.03751",
+            "title": "Electroweak Constraints on Nuclear Neutron Distributions and the Low-Energy Weak Mixing Angle",
+            "authors": "Xu-Run Huang , Tong-Gang Yue , Zhen Zhang , Lie-Wen Chen",
+            "comments": "Comments: 4 pages, 2 figures. Supplemental material will be included in the published version. Comments are welcome",
+            "known": false
+          }
+        ]
+      },
+      {
+        "cat": "nucl-th",
+        "url": "https://arxiv.org/list/nucl-th/recent?skip=0&show=100",
+        "status": 200,
+        "date": "Wed, 4 Nov 2026 (showing 15 of 15 entries )",
+        "items": [
+          {
+            "id": "2611.05239",
+            "title": "Elliptic and triangular flow responses in O+O and Ne+Ne collisions from hydrodynamics and kinetic theory",
+            "authors": "Victor E. Ambrus , Giuliano Giacalone , Clemens Werthmann , Fabian Zhou",
+            "comments": "Comments: 15+5 pages, 9+3 figures",
+            "known": false
+          },
+          {
+            "id": "2611.05153",
+            "title": "Information content of the Gamow Teller Resonance: Bayesian inference with self-consistent Skyrme models",
+            "authors": "Zidu Lin , Gianluca Colò , Andrew W. Steiner , Amber Stinson",
+            "comments": "Comments: This paper has a joint article titled \"Bayesian Inference of the Landau Parameter $G'_0$ from Joint Gamow-Teller Measurements\"",
+            "known": false
+          },
+          {
+            "id": "2611.04991",
+            "title": "Pionization experiments in light nuclei",
+            "authors": "Slawomir Wycech , Guillaume Hupin , Jaume Carbonell",
+            "comments": "Comments: To appear in Phys Rev C",
+            "known": false
+          },
+          {
+            "id": "2611.04985",
+            "title": "Deep Learning for Longitudinal Asymmetry in Heavy-Ion Collisions at RHIC Energies",
+            "authors": "Anup Kumar Sikdar , Sanchari Thakur , Pingal Dasgupta , Rupa Chatterjee",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04542",
+            "title": "Non-uniqueness of the amplitude reconstruction in the inverse scattering problem and a refinement of Hoehler's resonance clustering",
+            "authors": "A. Švarc",
+            "comments": "Comments: 28 pages; 4 figures",
+            "known": false
+          },
+          {
+            "id": "2611.04430",
+            "title": "Modeling fragmentation of $^{20}$Ne nuclei at the LHC",
+            "authors": "Aleksandr Svetlichnyi (1 and 2), Savva Savenkov (1 and 2), Igor Pshenichnov (1 and 2) ((1) Institute for Nuclear Research, Russian Academy of Sciences, Moscow, Russia, (2) Moscow Institute of Physics and Technology, Dolgoprudny, Russia)",
+            "comments": "Comments: 34 pages, 14 figures, 4 tables",
+            "known": false
+          },
+          {
+            "id": "2611.03969",
+            "title": "Parametrization of unitary matrices, parametrizing the symmetric $S$ matrix and the $NN$ $S$ matrix above the inelastic threshold",
+            "authors": "N. A. Khokhlov",
+            "comments": "Comments: 6 pages",
+            "known": false
+          },
+          {
+            "id": "2611.03757",
+            "title": "Thermofractal Dynamics in the Multisource Thermal Model: A Unified Approach to Multiparticle Production",
+            "authors": "Airton Deppman , Trambak Bhattacharyya , Maciej Rybczyński , Grzegorz Wilk , Zbigniew Wlodarczyk",
+            "comments": "Comments: 7 pages, 1 figure",
+            "known": false
+          },
+          {
+            "id": "2611.03751",
+            "title": "Electroweak Constraints on Nuclear Neutron Distributions and the Low-Energy Weak Mixing Angle",
+            "authors": "Xu-Run Huang , Tong-Gang Yue , Zhen Zhang , Lie-Wen Chen",
+            "comments": "Comments: 4 pages, 2 figures. Supplemental material will be included in the published version. Comments are welcome",
+            "known": false
+          },
+          {
+            "id": "2611.05362",
+            "title": "Deconfinement Confined to the Heaviest Neutron Stars: Strange Quark Matter from a Flavor-Dressed Contact Interaction",
+            "authors": "Aftab Ahmad , Noreen Akhter , Alfredo Raya",
+            "comments": "Comments: 21,7",
+            "known": false
+          },
+          {
+            "id": "2611.05028",
+            "title": "Observation of Scaling of Higher-Order Flow in a Unitary Fermi Gas",
+            "authors": "Shuxian Yu , Zhijie Zhang , Yunyi Zhao , Shujin Deng , Meng-Zi Huang , Haibin Wu , Yu-Gang Ma",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04770",
+            "title": "Investigating nucleon resonances in the $pp\\to K^+K^+ΛΛ$ reaction",
+            "authors": "Zi-Zhao Zhang , Xu Cao , Bo-Chao Liu , Zi-Xi Ou-Yang , Ke Wang , Yin-Jie Wang , Jia-Jun Wu , Zhi-Hong Ye",
+            "comments": "Comments: 13 pages, 6 figures",
+            "known": false
+          },
+          {
+            "id": "2611.04735",
+            "title": "Can multi-level Monte-Carlo address the sign problem in a finite-density Bose gas?",
+            "authors": "Rajatha Ranpatige , Finn M. Stokes",
+            "comments": "Comments: 14 pages, 6 figures",
+            "known": false
+          },
+          {
+            "id": "2611.04197",
+            "title": "Carbon-Reaction Constraints on Stellar Evolution: White-Dwarf Heating, Carbon-Burning Products, and Black-Hole Masses",
+            "authors": "Akram Mukhamedzhanov",
+            "comments": "Comments: 16 pages, 4 figures",
+            "known": false
+          },
+          {
+            "id": "2611.03986",
+            "title": "Quasi-normal Modes and Instabilities of Rotating Relativistic Stars",
+            "authors": "Yong Gao , Masaru Shibata",
+            "comments": "Comments: 6 pages, 4 figures",
+            "known": false
+          }
+        ]
+      },
+      {
+        "cat": "hep-ph",
+        "url": "https://arxiv.org/list/hep-ph/recent?skip=0&show=100",
+        "status": 200,
+        "date": "Wed, 4 Nov 2026 (showing 44 of 44 entries )",
+        "items": [
+          {
+            "id": "2611.05362",
+            "title": "Deconfinement Confined to the Heaviest Neutron Stars: Strange Quark Matter from a Flavor-Dressed Contact Interaction",
+            "authors": "Aftab Ahmad , Noreen Akhter , Alfredo Raya",
+            "comments": "Comments: 21,7",
+            "known": false
+          },
+          {
+            "id": "2611.05170",
+            "title": "Constraining tau-sterile neutrino mixing with high-energy astrophysical neutrinos",
+            "authors": "Mauricio Bustamante , Qinrui Liu",
+            "comments": "Comments: 20 pages, 9 figures",
+            "known": false
+          },
+          {
+            "id": "2611.05098",
+            "title": "Chiral anomalies in two dimensions",
+            "authors": "Clément Liesse , Cypris Plantier , Christopher Smith",
+            "comments": "Comments: 24 pages, 2 figures",
+            "known": false
+          },
+          {
+            "id": "2611.04981",
+            "title": "Renormalization and Factorization Scale-Invariant Predictions for the $e^+e^-\\to J/ψ+η_c$ process at $B$ factories",
+            "authors": "Si-Qi Gong , Ting Sun , Sheng-Quan Wang , Jian-Ming Shen , Xu-Dong Huang , Xing-Gang Wu , Leonardo Di Giustino",
+            "comments": "Comments: 7 pages, 3 figures",
+            "known": false
+          },
+          {
+            "id": "2611.04970",
+            "title": "Probing the Spatial Coherence of Chiral-Imbalance Fluctuations with Hyperon Spin Correlations",
+            "authors": "Guangyu Zheng , Zilin Yuan , Mei Huang , Guannan Xie",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04915",
+            "title": "Unitary $KK$ and $Kπ$ inputs for an amplitude analysis of the $D^+ \\to K^-K^+π^+$ decay",
+            "authors": "Felipe C. L. Lopes , Patrícia C. Magalhães , Gustavo A. Loachamin O",
+            "comments": "Comments: 43rd International Conference on High Energy Physics (ICHEP 2026). Submitted to Proceedings of Science",
+            "known": false
+          },
+          {
+            "id": "2611.04910",
+            "title": "Next-to-leading order QCD corrections to fully charm tetraquark radiative decays",
+            "authors": "Xiang Li , Yan-Qing Ma , Bo-Xuan Shi , Sheng-Qi Zhang",
+            "comments": "Comments: 15 pages, 3 figures",
+            "known": false
+          },
+          {
+            "id": "2611.04890",
+            "title": "DAMA/LIBRA dark matter signal: a global analysis",
+            "authors": "Matti Heikinheimo , Sebastian Sassi , Alex Stendahl , Kimmo Tuominen , Niklas Zimmermann",
+            "comments": "Comments: 16 pages, 8 figures",
+            "known": false
+          },
+          {
+            "id": "2611.04865",
+            "title": "Multiplicity and transverse density as ordering variables of the $Λ/K^0_S$ ratio in oxygen-oxygen collisions at the LHC",
+            "authors": "Neeraj , Amal Sarkar",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04857",
+            "title": "Electroweak corrections to the SM-like Higgs boson decays and the Higgs trilinear coupling in the real Higgs triplet model",
+            "authors": "Masashi Aiko , Shinya Kanemura , Mariko Kikuchi , Kodai Sakurai , Sora Taniguchi , Kei Yagyu",
+            "comments": "Comments: 66 pages, 12 figures",
+            "known": false
+          },
+          {
+            "id": "2611.04802",
+            "title": "Study of enhancing the signal-background separation for the Higgs boson production in association with a single top-quark in $pp$ collisions at the LHC",
+            "authors": "Rustam Azimzade , Alina Dadashova , Igor Boiko , Vladimir Lyubushkin , Nazim Huseynov",
+            "comments": "Comments: 26 pages",
+            "known": false
+          },
+          {
+            "id": "2611.04770",
+            "title": "Investigating nucleon resonances in the $pp\\to K^+K^+ΛΛ$ reaction",
+            "authors": "Zi-Zhao Zhang , Xu Cao , Bo-Chao Liu , Zi-Xi Ou-Yang , Ke Wang , Yin-Jie Wang , Jia-Jun Wu , Zhi-Hong Ye",
+            "comments": "Comments: 13 pages, 6 figures",
+            "known": false
+          },
+          {
+            "id": "2611.04732",
+            "title": "dSIBP: a package for generating IBP seeds for QFT in de Sitter spacetime",
+            "authors": "Jiaqi Chen , Yi-Xiao Tao",
+            "comments": "Comments: 36 pages, 5 figures",
+            "known": false
+          },
+          {
+            "id": "2611.04724",
+            "title": "Twist-three quark TMDs from back-to-back dijet production in next-to-eikonal DIS",
+            "authors": "Tolga Altinoluk , Guillaume Beuf , Alina Czajka",
+            "comments": "Comments: 49 pages, 2 figures",
+            "known": false
+          },
+          {
+            "id": "2611.04600",
+            "title": "Light Mediators at the Neutrino-Dark Matter Frontier: Coherent Scattering, Precision Constraints, and Complementary Searches",
+            "authors": "Raoul Serao , Mohamed Ouchemhou",
+            "comments": "Comments: 16 pages, 4 figures",
+            "known": false
+          },
+          {
+            "id": "2611.04468",
+            "title": "Vertex-resummed kinetic theory of dipole-symmetric bosons from 2PI effective action",
+            "authors": "Chun-Wei Su",
+            "comments": "Comments: 40 pages",
+            "known": false
+          },
+          {
+            "id": "2611.04304",
+            "title": "Comment on \"Long-range magnetic fields in the ground state of the Standard Model plasma\"",
+            "authors": "Jingwei Wang , Yiming Liu , Ligong Bian",
+            "comments": "Comments: Comment on arXiv:1204.3604 ; 8 pages, 2 figures",
+            "known": false
+          },
+          {
+            "id": "2611.04267",
+            "title": "Semiparametric Estimation of Physics Parameters and Parton Distribution Functions",
+            "authors": "Huanbiao Zhu , Jaco ter Hoeve , Mikael Kuusela , Maria Ubiali , Larry Wasserman",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04237",
+            "title": "Observable gravitational waves from unstable ALP catastrogenesis",
+            "authors": "Graciela B. Gelmini , Jonah Hyman , Yu Watanabe",
+            "comments": "Comments: 10 pages, 5 figures",
+            "known": false
+          },
+          {
+            "id": "2611.04136",
+            "title": "Revisiting the gamma-ray signal from light ALPs emitted during the evaporation of memory-burdened PBHs",
+            "authors": "Cheng-Rui Jiang , Tong Li",
+            "comments": "Comments: 21 pages, 5 figures",
+            "known": false
+          },
+          {
+            "id": "2611.04110",
+            "title": "Holographic spin alignment of vector mesons in a spinning black-hole background",
+            "authors": "Fei Wang , Zi-qiang Zhang",
+            "comments": "Comments: 19 pages, 8 figures",
+            "known": false
+          },
+          {
+            "id": "2611.04024",
+            "title": "Modeling a Framework for Comprehensive Analysis of $\\boldsymbol{p^\\uparrow\\!{A}}$ Transverse Analyzing Power Measurements at the RHIC HJET",
+            "authors": "Andrei Poblaguev",
+            "comments": "Comments: 14 pages, 10 figures, 6 tables",
+            "known": false
+          },
+          {
+            "id": "2611.04014",
+            "title": "Branching Fractions and CP-Violating Asymmetries in D => PP Decays",
+            "authors": "Franco Buccella , Pietro Santorelli",
+            "comments": "Comments: 13 pages, 1 figure",
+            "known": false
+          },
+          {
+            "id": "2611.03988",
+            "title": "Axion Electrodynamics in Presence of a Stellar Non-homogeneous Background Magnetic Field",
+            "authors": "Bernard Teles de Menezes",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.03893",
+            "title": "Searching for Long-Lived Dark Scalars with MAPP-1 and MAPP-2 at the HL-LHC",
+            "authors": "Shafakat Arifeen , James Pinfold , Pierre-Philippe A. Ouimet , Michael Staelens",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.03813",
+            "title": "Presupernovae Strongly Constrain Electrophilic MeV Bosons",
+            "authors": "Yu Cheng , Damiano F. G. Fiorillo , Chui-Fan Kong , Edoardo Vitagliano",
+            "comments": "Comments: 5 pages, 2 figures, plus Supplemental Material",
+            "known": false
+          },
+          {
+            "id": "2611.03794",
+            "title": "Shortcomings of the squark simplified model",
+            "authors": "Kaustubh Agashe , Roberto Franceschini , Gian F. Giudice , Andre Lessa , Xing Wang",
+            "comments": "Comments: 33 pages, 13 figures, 4 tables",
+            "known": false
+          },
+          {
+            "id": "2611.03785",
+            "title": "Cosmic-Ray Signals from Dark Matter Annihilation into Scalars with Baryon Number",
+            "authors": "Mattia Di Mauro , Caleb Gemmell , Dan Hooper , Fabrizio Vassallo",
+            "comments": "Comments: 12 pages, 8 figures",
+            "known": false
+          },
+          {
+            "id": "2611.03783",
+            "title": "GUT Color-Triplet Around the Corner: The Story of an Overlooked Lightness",
+            "authors": "Gia Dvali , Manuel Ettengruber , Anna Jankowsky , Tongxuan Zhang",
+            "comments": "Comments: 35 pages, 15 figures, 4 appendices",
+            "known": false
+          },
+          {
+            "id": "2611.03782",
+            "title": "Toponium hadroproduction at next-to-next-to-leading order in NRQCD",
+            "authors": "Sven Yannick Klein , Fabio Maltoni , Hua-Sheng Shao , Lukas Simon , Guoxing Wang",
+            "comments": "Comments: 10 pages, 4 figures, 3 tables",
+            "known": false
+          },
+          {
+            "id": "2611.03748",
+            "title": "Topological Diagnostics of CP Degeneracies in Long-Baseline Neutrino Oscillations with Non-Standard Interactions via Pancharatnam Open-Path Phases",
+            "authors": "Neda Razzaghi",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.03712",
+            "title": "Native transverse-momentum evolution and matching for TMD factorization and extraction",
+            "authors": "Dustin Keller",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.03703",
+            "title": "SecRed: A program for sector-wise IBP reduction of Feynman integrals",
+            "authors": "Ruichang Niu , Chao Zeng , Bin Gong , Jianxiong Wang",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.05239",
+            "title": "Elliptic and triangular flow responses in O+O and Ne+Ne collisions from hydrodynamics and kinetic theory",
+            "authors": "Victor E. Ambrus , Giuliano Giacalone , Clemens Werthmann , Fabian Zhou",
+            "comments": "Comments: 15+5 pages, 9+3 figures",
+            "known": false
+          },
+          {
+            "id": "2611.04965",
+            "title": "On Photon Propagation in Strong Magnetic Fields: Time Delays from Pulsars",
+            "authors": "A. W. Romero Jorge , A. Pérez Martínez , E. Rodríguez Querts , H. Pérez Rojas",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04361",
+            "title": "How Fast do Black Holes Spin?",
+            "authors": "Chen Yuan , Vitor Cardoso",
+            "comments": "Comments: 7 pages, 3 figures",
+            "known": false
+          },
+          {
+            "id": "2611.03986",
+            "title": "Quasi-normal Modes and Instabilities of Rotating Relativistic Stars",
+            "authors": "Yong Gao , Masaru Shibata",
+            "comments": "Comments: 6 pages, 4 figures",
+            "known": false
+          },
+          {
+            "id": "2611.03904",
+            "title": "Constraints on a Long-Lived X17 Vector Boson with FASER",
+            "authors": "FASER Collaboration : Roshan Mammen Abraham , Xiaocong Ai , Saul Alonso Monsalve , John Anders , Emma Kate Anderson , Akitaka Ariga , Tomoko Ariga , Jeremy Atkinson , Florian U. Bernlochner , Jianming Bian , Tobias Boeckh , Eliot Bornand , Jamie Boyd , Lydia Brenner , Angela Burger , Franck Cadoux , Haichuan Cao , Roberto Cardella , David W. Casper , Charlotte Cavanagh , Shiyang Chen , Xin Chen , Xing Cheng , Dhruv Chouhan , Emily Chown , Andrea Coccaro , Fabio Cufino , Stephane Débieux , Ansh Desai , Sergey Dmitrievsky , Radu Dobre , Monica D'Onofrio , Sinead Eley , Yannick Favre , Jonathan L. Feng , Carlo Alberto Fenoglio , Didier Ferrere , Max Fieg , Wissal Filali , Elena Firu , Haruhi Fujimori , Edward Galantay , Ali Garabaglu , Stephen Gibson , Sergio Gonzalez-Sevilla , Yuri Gornushkin , Yotam Granov , Jinjing Gu , Carl Gwilliam , Elie Hammou , Daiki Hayakawa , Michael Holzbock , Shih-Chieh Hsu , Zhen Hu , Giuseppe Iacobucci , Tomohiro Inada , Luca Iodice , Sune Jakobsen , Cesar Jesus-Valls , Arash Jofrehei , Hans Joos , Enrique Kajomovitz , Hiroaki Kawahara , Alex Keyken , Felix Kling , Daniela Köck , Pantelis Kontaxakis , Jelle Koorn , Umut Kose , Peter Krack , Susanne Kuehn , Thanushan Kugathasan , Sebastian Laudage , Lorne Levinson , Botao Li , Jiaxi Liu , Yi Liu , Joern Mahlstedt , Toni Mäkelä , Yasuhiro Maruya , Anna Mascellani , Lawson McCoy , Josh McFayden , Andrea Pizarro Medina , Hiroaki Menjo , Théo Moretti , Toshiyuki Nakano , Laurie Nevay , Ken Ohashi , Hidetoshi Otono , Lorenzo Paolozzi , Annabelle Parry , Pawan Pawan , Brian Petersen , Titi Preda , Markus Prim , Junkai Qin , Michaela Queitsch-Maitland , Juan Rojo",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.03802",
+            "title": "A full chemical network treatment of supermassive black hole seed formation from dark matter annihilation or decay",
+            "authors": "Han Wu , Sarah Schon , Aaron C. Vincent",
+            "comments": "Comments: 20 pages, 10 figures",
+            "known": false
+          },
+          {
+            "id": "2611.03793",
+            "title": "Gaia's dark partners: A new signature of dissipative dark matter",
+            "authors": "Badal Bhalla , David Dunsky , Akshay Ghalsasi , Benjamin V. Lehmann , Jackie Lodman , Kuver Sinha",
+            "comments": "Comments: 26 pages, 8 figures",
+            "known": false
+          },
+          {
+            "id": "2611.03757",
+            "title": "Thermofractal Dynamics in the Multisource Thermal Model: A Unified Approach to Multiparticle Production",
+            "authors": "Airton Deppman , Trambak Bhattacharyya , Maciej Rybczyński , Grzegorz Wilk , Zbigniew Wlodarczyk",
+            "comments": "Comments: 7 pages, 1 figure",
+            "known": false
+          },
+          {
+            "id": "2611.03751",
+            "title": "Electroweak Constraints on Nuclear Neutron Distributions and the Low-Energy Weak Mixing Angle",
+            "authors": "Xu-Run Huang , Tong-Gang Yue , Zhen Zhang , Lie-Wen Chen",
+            "comments": "Comments: 4 pages, 2 figures. Supplemental material will be included in the published version. Comments are welcome",
+            "known": false
+          },
+          {
+            "id": "2611.03694",
+            "title": "Birefringence in non-linear electrodynamics emerging from a Lorentz-symmetry violation scenario",
+            "authors": "M. J. Neves",
+            "comments": "Comments: 8 pages, 1 figure",
+            "known": false
+          },
+          {
+            "id": "2611.03671",
+            "title": "Renormalisation of Hydrogen Partition Function and Saha Ionisation Equation",
+            "authors": "George Savvidy , Pengming Zhang",
+            "comments": "Comments: 17 pages, 1 figure",
+            "known": false
+          }
+        ]
+      },
+      {
+        "cat": "physics.app-ph",
+        "url": "https://arxiv.org/list/physics.app-ph/recent?skip=0&show=100",
+        "status": 200,
+        "date": "Wed, 4 Nov 2026 (showing 12 of 12 entries )",
+        "items": [
+          {
+            "id": "2611.05180",
+            "title": "Analog signal processing, storage, and demultiplexing via in-materia wave-based computing",
+            "authors": "Saeed Behboodi , Mohamed Mousa , Mostafa Nouh",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.05009",
+            "title": "Periodically poled lithium niobate with submicrometer periodicity using electric-field poling technique",
+            "authors": "Yuchen Zhang , Sanbing Li , Shengbo Song , Xitan Xu , Xudong Tong , Rui Yang , Meiyu Liu , Jiangdong Sun , Feng Gao , Fang Bo , Jingjun Xu , Guoquan Zhang",
+            "comments": "Comments: 9 pages, 5 figures",
+            "known": false
+          },
+          {
+            "id": "2611.04615",
+            "title": "Low-Terahertz Channel Performance in Falling Wheat for Moisture Sensing",
+            "authors": "Xiaoxiang Li , Hanchen Liu , Kefeng Huang , Jiabiao Zhao , Mingxia Zhang , Jie Yang , Yuheng Song , Wenbo Liu , Peian Li , Chunhua Zhu , Jianjun Ma",
+            "comments": "Comments: Submitted to IEEE Transaction on Antenna and Propagation",
+            "known": false
+          },
+          {
+            "id": "2611.04251",
+            "title": "Differentiable topology optimization for high-fidelity acoustic holography beyond the thin-element approximation",
+            "authors": "Pradosh Pritam Dash , Costas D. Arvanitis",
+            "comments": "Comments: 32 pages, 6 figures, 5 tables; includes Supporting Information (14 figures, 2 tables). Adapted from the first author's PhD thesis, Georgia Institute of Technology (2026)",
+            "known": false
+          },
+          {
+            "id": "2611.04051",
+            "title": "Microstrip-Line Characterization of Artificial Dielectric Materials for MRI Applications",
+            "authors": "Haiwei Chen , Huan Wang , Xiaotong Zhang , Yang Gao",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.03990",
+            "title": "Direct Analysis in Real Time Mass Spectrometry (DART-MS) Study of Amino Acids in the Vacuum Stable Liquids EMI-BF$_4$, EMI-Acetate, DEMA-OTf, DEMA-MsO, and Glycerol",
+            "authors": "Zach Ulibarri , Samantha E. Adamski , Amy E. Hofmann , Elaine M. Petro",
+            "comments": "Comments: To be submitted to the Journal of the American Society for Mass Spectrometry",
+            "known": false
+          },
+          {
+            "id": "2611.04335",
+            "title": "Emergence of Berry curvature dipole and nonlinear Hall effect in a novel hexagonal borophosphene allotrope",
+            "authors": "Ranjan Kumar Tung , Dimple , Venkatesan Subramanian , Vijay Singh",
+            "comments": "Comments: 14 pages and 9 figures",
+            "known": false
+          },
+          {
+            "id": "2611.04058",
+            "title": "Multiplicity of elastic wave propagation in random polycrystals",
+            "authors": "Ming Huang , Stanislav I. Rokhlin , Michael J. S. Lowe",
+            "comments": "Comments: 23 pages, 10 figures",
+            "known": false
+          },
+          {
+            "id": "2611.04008",
+            "title": "Triboelectric nanogenerators across length scales: linking materials, multiscale modelling and applications",
+            "authors": "MD Tanzib Ehsan Sanglap , Ans Al Rashid , Abdullah Sayam , Injamamul Arief , Andrei G. Shvarts , Lukasz Kaczmarczyk , Muammer Koc , Mokarram Hossain",
+            "comments": "Comments: 44 pages, 14 figures",
+            "known": false
+          },
+          {
+            "id": "2611.03762",
+            "title": "Current-Confined Formation of a Buried Ge/Si Free Surface for Defect Filtering",
+            "authors": "Youcef A. Bioud , Meriem Bouchilaoun , Waldemar Schreiber , Redouane Amrar , Gilles Patriarche , Ali Soltani , Stefan Janz",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.03707",
+            "title": "Surface chemistry as data for level-set simulation of etching and deposition",
+            "authors": "Lado Filipovic , Tobias Reiter , Philipp Haslhofer",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.03657",
+            "title": "Shock wave transmission across solid-water interfaces in underwater electrical foil explosions",
+            "authors": "Francesc Hernández Garcia , Brian Bertacco , Tobia De Benedictis , Sebastián Rojas Mata , Jergus Strucka , Michael Liverts",
+            "comments": "",
+            "known": false
+          }
+        ]
+      },
+      {
+        "cat": "cs.LG",
+        "url": "https://arxiv.org/list/cs.LG/recent?skip=0&show=100",
+        "status": 200,
+        "date": "Wed, 4 Nov 2026 (showing first 100 of 252 entries )",
+        "items": [
+          {
+            "id": "2611.05373",
+            "title": "Aligning Language Models with General Preferences: An Empirical Study of Direct Nash Optimization",
+            "authors": "Austin Tsai , Saurav Nanda , Ganapathy Parthasarathy , Bhuvnesh Kumar , Parivesh Choudhary",
+            "comments": "Comments: 19 pages, 2 figures, 9 tables. Experiments were run in 2024 with the models and APIs available then",
+            "known": false
+          },
+          {
+            "id": "2611.05346",
+            "title": "Agnostic Learning by Imitating",
+            "authors": "Sílvia Casacuberta , Parikshit Gopalan , Varun Kanade , Omer Reingold , Konstantinos Stavropoulos , Pranay Tankala",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.05325",
+            "title": "CATF: A Manager-Worker Framework for Context-Aware Time-Series Forecasting",
+            "authors": "Yueqiao Chen , Dongyu Liu",
+            "comments": "Comments: 21 pages of main text (including references), with 4 figures and 3 tables, plus 16 pages of appendices",
+            "known": false
+          },
+          {
+            "id": "2611.05309",
+            "title": "$Φ$asmaNet: A Staged Spectral Token-Refinement Architecture for Fast Gravitational-Wave Signal-to-Noise Ratio Prediction",
+            "authors": "Ioannis Tsioulis , Anastasios Tefas , Nikolaos Stergioulas",
+            "comments": "Comments: 33 pages, 12 figures",
+            "known": false
+          },
+          {
+            "id": "2611.05304",
+            "title": "LoopVQ: Sub 1-bit KV Cache Quantization for Looped Transformers",
+            "authors": "Minsoo Cheong , Sungjoo Yoo",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.05296",
+            "title": "Universal Hardness From Masking Channels",
+            "authors": "Parikshit Gopalan , Manoj Prabhakaran , Pranay Tankala",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.05276",
+            "title": "De Rham cohomological architectures for PINNs and PDEs with topological holes",
+            "authors": "Andrew Gracyk",
+            "comments": "Comments: First version",
+            "known": false
+          },
+          {
+            "id": "2611.05270",
+            "title": "iGC: Antibody Optimization via Reinforcement Learning over a Learned Somatic Hypermutation Prior",
+            "authors": "Thao Nguyen , Robert G. Alberstein , Ewa Nowara , Homa MohammadiPeyhani , Holly R. Steach , Sarah A. Robinson , Yuval Shechter , Donald W. Lee , Jason A. Vander Heiden , Franziska Seeger , Andrew Leaver-Fay , Richard Bonneau , Joshua Yao-Yu Lin",
+            "comments": "Comments: 10 pages with supplementary documents",
+            "known": false
+          },
+          {
+            "id": "2611.05266",
+            "title": "Stabilizing On-Policy Targeted Guidance in Agentic Reinforcement Learning",
+            "authors": "Kevin Frans , Alexander M Rush , Sergey Levine , Pieter Abbeel , Ashvin Nair",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.05260",
+            "title": "NovoCRF: Globally Normalized De Novo Peptide Sequencing on a Prefix-Mass Lattice",
+            "authors": "Rui Qiao , Lei Xin , Baozhen Shan",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.05255",
+            "title": "Going Deeper With Memories",
+            "authors": "Afshin Khadangi",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.05243",
+            "title": "Logarithmic Regret for Alternating Mirror Descent",
+            "authors": "Tianlong Nan , Christian Kroer",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.05241",
+            "title": "Shrinkage prior for implicit generative models",
+            "authors": "Shreya Sinha-Roy , Christian P. Robert , Ritabrata Dutta",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.05225",
+            "title": "Post-Inference Model Chaining: A Problem Statement and a Model-based Bootstrap for Training End-to-End Digital Twins",
+            "authors": "Lukas Madenach , Timo Bailer , Tobias Eilert",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.05222",
+            "title": "Fairness Metrics based on the AUC in Clinical Predictive AI",
+            "authors": "João Matos , Ben Van Calster , Richard D. Riley , Paula Dhiman , Gary S. Collins",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.05220",
+            "title": "Fusing Earth observation embeddings and spaceborne terrain with meteorological forcing for flood peak depth prediction from high-water marks",
+            "authors": "Wen Zhou , Shaowen Wang , Upmanu Lall , Venkatesh Merwade , Dingqi Ye",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.05208",
+            "title": "Privacy for Free in Efficient Agnostic Halfspace Learning",
+            "authors": "Giorgio Racca , Amartya Sanyal , Vikrant Singhal",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.05207",
+            "title": "Multi-Objective Generative Optimization via Expected Hypervolume Fine-Tuning",
+            "authors": "Juan Guevara , Riccardo De Santi , Andreas Krause , Raul Astudillo",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.05202",
+            "title": "Empirical Bayes Flow Matching for Continuous Cryo-EM Heterogeneity",
+            "authors": "Daniel Aibinder , Azmi Haider , Dan Rosenbaum",
+            "comments": "Comments: Accepted at NeurIPS 2026. 20 pages, 6 figures, 5 tables. Code: this https URL",
+            "known": false
+          },
+          {
+            "id": "2611.05195",
+            "title": "Ensembles of Random Partition-Based Models under Covariate Shift",
+            "authors": "Mary Versa Clemens-Sewall , Eliza O'Reilly",
+            "comments": "Comments: 29 pages, 3 figures",
+            "known": false
+          },
+          {
+            "id": "2611.05191",
+            "title": "Stepsize modulation for cross entropy from local quadratic optimization",
+            "authors": "Bruno Bauwens , Viacheslav Krivodub , Bingyu Zhang",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.05184",
+            "title": "Provably Learning Mixtures of Linear Experts",
+            "authors": "Adrian Candocia , Aamod Varma , Mark Davenport",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.05164",
+            "title": "Basin2Vec: Learning Basin-Centric Embeddings for Scalable Hydrological Modeling",
+            "authors": "Muhammad Talha , Xiaofeng Liu , Yuan Yang , Pang-Ning Tan , A. Pouyan Nejadhashemi",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.05157",
+            "title": "Macrocanonical Generator Networks: Data-Efficient Neural Surrogates for Amortized Physics Simulation",
+            "authors": "Niall Jeffrey , Benjamin D. Wandelt",
+            "comments": "Comments: Accepted at NeurIPS 2026. 20 pages total (inc. appendices), 4 figures",
+            "known": false
+          },
+          {
+            "id": "2611.05141",
+            "title": "Beyond Foundation Models: PFN Priors Improve Tabular Hyperparameter Optimization",
+            "authors": "Artem Chistyakov , Renat Sergazinov , Artem Babenko",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.05133",
+            "title": "PAC Learning with Multiple Correct Answers",
+            "authors": "Steve Hanneke , Farnam Mansouri , Alireza F. Pour , Amirreza Shaeiri , Kun Wang",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.05128",
+            "title": "Do Ray-Traced Cities Make a Better Channel Prior for an Unseen Site? A Pre-Registered Study in Simulation, and a Test on Measured Channels that Reverses It",
+            "authors": "Krish Patel",
+            "comments": "Comments: 11 pages, 3 figures, 3 tables",
+            "known": false
+          },
+          {
+            "id": "2611.05120",
+            "title": "Towards an Optimal Control Foundation of Early Exits - Turnpikes and ResNets",
+            "authors": "Jens Püttschneider , Simon Heilig , Asja Fischer , Timm Faulwasser",
+            "comments": "Comments: Accepted at NeurIPS 2026",
+            "known": false
+          },
+          {
+            "id": "2611.05114",
+            "title": "Beyond Multi-Index Models: Learning Intersections of Degree-2 PTFs",
+            "authors": "Ilias Diakonikolas , Daniel M. Kane , Mingchen Ma , Lisheng Ren , Trung Tran",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.05103",
+            "title": "Molecular Prior Networks",
+            "authors": "Pawel Gomoluch , Anthony Bradley",
+            "comments": "Comments: Accepted to the NeurIPS 2026 Workshop on AI for Drug Discovery: Bridging the Translation Gap",
+            "known": false
+          },
+          {
+            "id": "2611.05099",
+            "title": "Dual-VaDE: Efficient and Robust Prototype Learning via Variational Dual-Domain Mixture Priors",
+            "authors": "Wugeng Zheng , Song Wang , Jian Wang",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.05042",
+            "title": "Effects of Parton Pair Correlations on Direct-Photon Yields and Elliptic Flow in Heavy-Ion Collisions",
+            "authors": "Xingjian Lu , Shuzhe Shi",
+            "comments": "Comments: 14 pages, 7 figures",
+            "known": false
+          },
+          {
+            "id": "2611.05041",
+            "title": "Positional Encoding is All You Need for Scalable Equivariance Constraint Relaxation",
+            "authors": "Hagay Michaeli , Haggai Maron , Daniel Soudry",
+            "comments": "Comments: Accepted at NeurIPS 2026",
+            "known": false
+          },
+          {
+            "id": "2611.05035",
+            "title": "Federated Transfer Learning for Medical Image Classification under Mixed Skew",
+            "authors": "Alexandre G. Leclercq , Sébastien Bougleux , Aurélien Corroyer-Dulmont , Romain Hérault",
+            "comments": "Comments: 8 pages, 5 figures and 2 tables. Presented at 4th IEEE International Conference on Federated Learning Technologies and Applications (FLTA 2026)",
+            "known": false
+          },
+          {
+            "id": "2611.05029",
+            "title": "DRAP: Dynamics-Risk Adaptive Plasticity for Continual Learning in Physical AI",
+            "authors": "Oswaldo Ludwig",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.05022",
+            "title": "Finite Spectral Depth Controls Gaussian Entrance Rank and Avoidance of the First Gradient-Flow Saddle",
+            "authors": "Yanlin Long",
+            "comments": "Comments: 83 pages,1 figure",
+            "known": false
+          },
+          {
+            "id": "2611.05012",
+            "title": "Rethinking GA2Ms: performance and out-of-distribution generalisation",
+            "authors": "George Dimitriadis , Damian Machlanski , Paul Clarke , Spyridon Samothrakis",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.05003",
+            "title": "Unifying and Beyond the Theory of Pervasive Capability Degradation in LLM Post-training SFT from Feature Interference",
+            "authors": "Hang Chen , Jiaying Zhu , Wenya Wang",
+            "comments": "Comments: 20 pages, a very long paper :)",
+            "known": false
+          },
+          {
+            "id": "2611.04997",
+            "title": "Auditing Multi-Proxy Explanations of Web User Preferences: Identification Boundaries and Abstention",
+            "authors": "Yu Zhang , Zhihan Wang , Yuhang Lu , Shuai Li",
+            "comments": "Comments: 11 pages, 1 figure. Accepted at WSDM 2027 (Main Track)",
+            "known": false
+          },
+          {
+            "id": "2611.04995",
+            "title": "Exact Selective Inference for Spectral Clustering via Piecewise-Constant Graph Perturbation",
+            "authors": "Naotoshi Nakamura",
+            "comments": "Comments: 31 pages, including supplementary material. Accepted at ACML 2026",
+            "known": false
+          },
+          {
+            "id": "2611.04987",
+            "title": "ZEMA: confidence-calibrated signed descent with only one state",
+            "authors": "Ali Dadsetan , Domenic Rosati , Frank Rudzicz",
+            "comments": "Comments: OPT @ NeurIPS 2026",
+            "known": false
+          },
+          {
+            "id": "2611.04955",
+            "title": "Deep Neural Operator Learning for stochastic heat equations and applications",
+            "authors": "Hengrong Du , Qi Feng , Weinan Wang",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04931",
+            "title": "Modulating Merging Strengths via Joint Loss Estimation for LoRA-based Continual Learning",
+            "authors": "Kun Gu , De Cheng , Zhipeng Xu , Lingfeng He , Di Xu , Nannan Wang",
+            "comments": "Comments: Accepted at NeurIPS 2026",
+            "known": false
+          },
+          {
+            "id": "2611.04907",
+            "title": "Cool Graphs: Active Property Search Towards Quantum Nano-Refrigerators",
+            "authors": "Sofia Blyufer , Amir Kleiner , Uri Peskin",
+            "comments": "Comments: Accepted at NeurIPS 2026. 20 pages. Code: this https URL (archived at this https URL )",
+            "known": false
+          },
+          {
+            "id": "2611.04902",
+            "title": "Attending to Memory Writes Reduces Seed Variability in Recurrent Length Generalization",
+            "authors": "Sungwoo Goo , Hwi-yeol Yun , Sangkeun Jung",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04893",
+            "title": "Fault-tolerant shallow recurrent decoders for sparse sensing with missing sensor measurements",
+            "authors": "Matteo Romilio Pasqual , Matteo Tomasetto , J. Nathan Kutz , Andrea Manzoni",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04885",
+            "title": "DLER: Dual-Logit Experience Replay for Online Continual Learning",
+            "authors": "Huiwei Lin , Shanshan Feng , Kong Aik Lee",
+            "comments": "Comments: 13 pages, 8 figures",
+            "known": false
+          },
+          {
+            "id": "2611.04838",
+            "title": "Found by Search, Broken by a Shortcut: Transfer and Tampering of Searched Intrinsic Rewards",
+            "authors": "Chase J. Metoyer",
+            "comments": "Comments: 22 pages, 7 figures, 11 tables. Code and data: this https URL",
+            "known": false
+          },
+          {
+            "id": "2611.04835",
+            "title": "Anomaly Detection on Resource-Constrained Devices with Reservoir Computing",
+            "authors": "Marco Angioli , Mathias Persson , Hiroto Tamura , Hadi Banaee , Amy Loutfi , Gouhei Tanaka , Alberto Giaretta , Denis Kleyko",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04818",
+            "title": "Sleep-Disordered Breathing Detection with Quantum Recurrent Neural Networks",
+            "authors": "Alejandro Mayorga-Redondo , José Daniel Viqueira , Diego Alvarez-Estevez , Eduardo Mosqueira-Rey , Andrés Gómez",
+            "comments": "Comments: 16 pages, 4 figures",
+            "known": false
+          },
+          {
+            "id": "2611.04806",
+            "title": "On the Complexity of Finite-Sum Nonconvex-Strongly-Concave Minimax Optimization with Exact Proximal Oracles",
+            "authors": "Yuxing Peng , Zhiqing Tang , Weijia Jia",
+            "comments": "Comments: 50 pages, including appendices and references. Lean 4 formalization of the lower bounds in the ancillary files",
+            "known": false
+          },
+          {
+            "id": "2611.04797",
+            "title": "Training Specialist LLMs on Your Phone: Forward-Only Optimization via Block-Spectral Coordinates",
+            "authors": "Liyan Tan , Yequan Zhao , Ziyue Liu , Yupeng Su , Ruijie Zhang , Zheng Zhang",
+            "comments": "Comments: 27 pages, 11 figures, 15 tables",
+            "known": false
+          },
+          {
+            "id": "2611.04792",
+            "title": "Density-Aware Reward Scaling: A Reinforcement Learning Framework for Reward-Proportional Sampling",
+            "authors": "Ria Shekhawat , Abhijeet Sinha , Yingtao Zhu , Dianbo Liu",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04774",
+            "title": "Cooperative Multi-Agent Reinforcement Learning with Submodular Trajectory Rewards",
+            "authors": "Yasaman Zolfimoselo , Nikolas Geroliminis , Maryam Kamgarpour",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04760",
+            "title": "Koopman Generative Operators for Efficient Probabilistic Time-Series Forecasting",
+            "authors": "Raz Marshanski , Liran Nochumsohn , Mayank Jauhari , Boris N. Oreshkin , Omri Azencot",
+            "comments": "Comments: Accepted at NeurIPS 2026",
+            "known": false
+          },
+          {
+            "id": "2611.04756",
+            "title": "Non-Interfering Asymmetric AdamW Updates for Constrained Exploration of Equifinality in Hybrid Models",
+            "authors": "Ekaterina Gikalo , Zavud Baghirov , Christian Reimers , Markus Reichstein , Martin Jung , Marco Körner",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04751",
+            "title": "What Does It Mean to Remove an Edge? Intervention-Aware Fidelity for Graph Neural Network Explanations",
+            "authors": "Rocco Mattia Di Mauro , Marco Grassia , Giuseppe Mangioni",
+            "comments": "Comments: 15 pages, 2 figures. Under review",
+            "known": false
+          },
+          {
+            "id": "2611.04747",
+            "title": "TAPES: Task-Aligned Joint Predictive Pretraining for Transaction Event Sequences",
+            "authors": "Ruobing Zuo , Weiyu Han , Huilin He , Haoyu Jiang , Ze Zhao , Jie Sheng , Xiao Tan , Shuai Chen , Tianyi Zhang",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04695",
+            "title": "Surrogate Models for Stochastic Al-Cu Phase-Field Solidification",
+            "authors": "Simon Savukoski , Tatu Pinomaa",
+            "comments": "Comments: Accepted at the AI4Mat workshop at NeurIPS 2026. Includes supplementary material",
+            "known": false
+          },
+          {
+            "id": "2611.04689",
+            "title": "Uncertainty-Aware Prototype Learning for Open-Set Test-Time Adaptation",
+            "authors": "Jinwu Hu , Langyu Bian , Jian Sun , Dongjin Yang , Chao Shuai , Yufeng Wang , Kai Zhou , Bin Xiao , Mingkui Tan , Hongmin Cai , Wei Luo",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04670",
+            "title": "Sheaf-MPNN: A Library for Sheaf Neural Networks as Message Passing",
+            "authors": "Alessio Borgi , Mario Severino , Luke Braithwaite , Steve Azzolin , Rémi Bourgerie , Olga Zaghen , Emanuele Mule , Riccardo Ali , Leo Minh Kustermann , Edoardo Coppola , Antonio Purificato , Stefano Fiorini , Christopher Irwin , Filippo Spiga , Fabrizio Silvestri , Michael Bronstein , Pietro Liò",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04667",
+            "title": "FedCSGA: Client Selection Based on Genetic Algorithm for Federated Learning",
+            "authors": "Ghani Haider , Majid Kundroo , Leo Zhang , Jinchul Choi , Taehong Kim",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04664",
+            "title": "Feature-Based and Deep Learning Methods for Astronomical Light Curve Classification",
+            "authors": "V. Baymakanov , Kh. Khamitov , A. Raimova , A. Isaeva , R. Taran , M. Zedan , M. Kornilov , M. Demianenko , K. Malanchev , M. Hushchyn",
+            "comments": "Comments: 14 pages, 5 figures. Submitted to Moscow University Physics Bulletin (DLCP-2026 special issue)",
+            "known": false
+          },
+          {
+            "id": "2611.04663",
+            "title": "Best-of-Depth: Learning Exploratory Dynamics in Looped Transformers",
+            "authors": "Shota Takashiro , Takeshi Kojima , Masanori Koyama , Kohei Hayashi , Yusuke Iwasawa",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04660",
+            "title": "Leakage-free evaluation of residual graph convolutional networks for network intrusion detection",
+            "authors": "Zahid Iqbal",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04657",
+            "title": "Exploiting Biases in Attention for Transformers",
+            "authors": "Charles Herr , Gabriele Spadaro , Enzo Tartaglione",
+            "comments": "Comments: 23 pages, 21 figures, accepted at WACV 2027",
+            "known": false
+          },
+          {
+            "id": "2611.04641",
+            "title": "Does LinUCB Need Valid Confidence Sets?",
+            "authors": "Ahmed Ben Yahmed , Marc Abeille , David Janz , Clément Calauzènes",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04632",
+            "title": "Self-Privileged Fine-Tuning",
+            "authors": "Yangrong Hu , Xueyu Zhou , Yue Wu , Jian Huang",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04614",
+            "title": "Policy Network Diffusion",
+            "authors": "Jiate Liu , Deheng Ye",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04611",
+            "title": "CAPSkip: Cancellation-Aware Prefix Skipping for Selective Backpropagation",
+            "authors": "Heejin Choi",
+            "comments": "Comments: 14 pages",
+            "known": false
+          },
+          {
+            "id": "2611.04603",
+            "title": "SCANO: Restoring Boundary-Condition Completeness in Sampled Meshes with a Sliced-Cross-Attention Neural Operator for 3D Thermal Fields",
+            "authors": "Tianyu Li , Zhiwei Cao , Qingang Zhang , Ruihang Wang , Binyang Song , Yonggang Wen",
+            "comments": "Comments: 88 pages (46 main text + 42 supplementary material)",
+            "known": false
+          },
+          {
+            "id": "2611.04571",
+            "title": "Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models",
+            "authors": "Andrea Cenzato , Lukas Karch , Andre Luckow , Yoran Pichon , Francesco Pasqua , Abouzar Ghasemi , Rishikesh Ranade , Ira Shokar , Julia Kowalski",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04565",
+            "title": "Curriculum unlearning in humans and neural networks",
+            "authors": "Jirko Rubruck , Alice Zhang , Andrew Saxe , Christopher Summerfield",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04543",
+            "title": "CANDO: Conservative Action-Noise Directional Optimization for Residual Reinforcement Learning",
+            "authors": "Zeyu Gao , Chengkai Hou , Chaoyue Li , Zhuangzhe Wu , Jiaming Liu , Yao Mu , Peng Jia , Li Zhang , Shanghang Zhang",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04532",
+            "title": "The Price of List Replicability: Tight Bounds for Bias Estimation",
+            "authors": "Michael Chen , Atieh Bastan , A. Pavan , N. V. Vinodchandran",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04513",
+            "title": "Variational Learning with Lie Group Exponential Families",
+            "authors": "Eren Mehmet Kıral , Thomas Möllenhoff , Koichi Tojo , Mohammad Emtiyaz Khan , Kenichi Bannai",
+            "comments": "Comments: 35 pages, 7 figures",
+            "known": false
+          },
+          {
+            "id": "2611.04501",
+            "title": "Sample-Grained Approximate Unlearning with Provable Per-Sample Bounds",
+            "authors": "Yaxin Xiao , Yulin Jin , Li Tang , Haoyang LI , Huadi Zheng , Qingqing Ye , Haibo Hu",
+            "comments": "Comments: accepted by NeurIPS 2026",
+            "known": false
+          },
+          {
+            "id": "2611.04497",
+            "title": "SKILL2STEER: One-Pass Hypernetwork for Mapping Natural-Language Skills to Low-Rank Post-Block Activation Shifts",
+            "authors": "Ran Li , Lei Chen",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04465",
+            "title": "Theoretical Analysis of Muon on Transformers for Next-Token Prediction",
+            "authors": "Shengwei Wu , Yixuan Yang , Gao Huang , Song Li",
+            "comments": "Comments: 62 pages, 5 figures",
+            "known": false
+          },
+          {
+            "id": "2611.04462",
+            "title": "SaMA: Morpho Adaptation via Asymmetric Expansion of Kronecker Product",
+            "authors": "An Nguyen , Anh Tong",
+            "comments": "Comments: Accepted at NeurIPS 2026. 61 pages, 29 figures, 25 tables. Parameter-Efficient Fine-Tuning (PEFT); Large Language Models (LLMs); Large Foundation Models",
+            "known": false
+          },
+          {
+            "id": "2611.04449",
+            "title": "Near-Zero Token Embeddings Silently Stall Training in Gated Sequence Models",
+            "authors": "Xin Liu , Boyuan Sun , Yuxin Wang , Haoran Song , Mingjian Zhao , Mengyu Liu",
+            "comments": "Comments: 16 pages, 6 figures",
+            "known": false
+          },
+          {
+            "id": "2611.04434",
+            "title": "Sketchpad: certified exact arithmetic with a small vision-language model",
+            "authors": "Mostafa 'Neo' Mohsenvand",
+            "comments": "Comments: 25 pages, 7 figures (6 + 1 Extended Data), 6 Extended Data tables. Demo: this https URL ; code (Apache 2.0): this https URL ; model: this https URL",
+            "known": false
+          },
+          {
+            "id": "2611.04376",
+            "title": "Aligning Training and Rollout Policies for End-to-End FP4 RL on Mixture-of-Experts LLMs",
+            "authors": "Hei Yi Mak , Hoang Le , Mehran Taghian Jazi , Yunke Peng , Huan Lin , Zhengzhi Tang , Zhexu Liu , Yao Wang , Yaoyuan Wang , Anandharaju Durai Raju , Tanzila Rahman",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04344",
+            "title": "Proper Agnostic Learning of Affine Halfspaces under Log-Concave Marginals",
+            "authors": "Zhijie Zheng",
+            "comments": "Comments: 18 pages",
+            "known": false
+          },
+          {
+            "id": "2611.04327",
+            "title": "Anchor: Augmented Cross-Layer Recurrent State for Long-Context Retrieval in Test-Time Training",
+            "authors": "Vimal William , Yuanzhe Li , Danella Zhao , Huanrui Yang",
+            "comments": "Comments: 10 Pages main paper with reference and appendix",
+            "known": false
+          },
+          {
+            "id": "2611.04313",
+            "title": "Coarse Semantic Blocks for Efficient Training-Free Sparse Attention",
+            "authors": "Sosuke Kobayashi , Shoichiro Yamaguchi , Seiya Tokui",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04309",
+            "title": "What Is the Influence of Task Order in Continual Learning? An Empirical Study and Order-Aware Evaluation for Motion Forecasting",
+            "authors": "Zirui Li , Yunlong Lin , Haohan Yang , Xiaocong Zhao , Chen Lv",
+            "comments": "Comments: 13 pages",
+            "known": false
+          },
+          {
+            "id": "2611.04295",
+            "title": "Reciprocity Can Erase Direction:tructural Boundaries and Controlled Utility of Magnetic Graph Networks",
+            "authors": "Dawei Han , Zicheng Wang , Yaoxing Ren , Yi Lv , Rongqian Wu , Fumin Wang",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04273",
+            "title": "Deep Learning Compilers: Architecture, Optimization, and Empirical Characterization",
+            "authors": "Jinghao Wen , Ruixuan Wang , Xun Jiao",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04256",
+            "title": "OmniST: Topology-Invariant Spatiotemporal Forecasting with Guaranteed-Coverage Uncertainty at Unseen Sensor Locations",
+            "authors": "Praveg Vashishtha",
+            "comments": "Comments: Code and experiments: this https URL . 9 tables, 4 figures. Baselines (E-STGCN, IGNNK) are faithful reimplementations, not the authors' original code",
+            "known": false
+          },
+          {
+            "id": "2611.04239",
+            "title": "LIRA: A More Interpretable Dynamic Loss-Informed Rank Allocation for Low-Rank Adaptation",
+            "authors": "Sihao Wang , Bozheng Li , Xuemiao Xu , Haoxin Yang , Yujie Xu , Jie Tang",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04217",
+            "title": "LENS: Reliability-Aware Stock Prediction via LLM-Extracted Priors and News-Driven Semantic Graphs",
+            "authors": "Hao Zhou , Tiejun Ma , Luis Felipe Costa Sperb",
+            "comments": "Comments: Accepted at CIKM 2026. 12 pages, 3 figures",
+            "known": false
+          },
+          {
+            "id": "2611.04199",
+            "title": "An Information Budget for Label-Noise Memorization, and What Statistical Complexity Tracks: A Study with Multilayer Perceptrons",
+            "authors": "Nancy Baygorrea C. , Otávio da Fonseca Martins Gomes",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04192",
+            "title": "Where Did the Update Go? Certifying Declared Change Envelopes for Model Updates",
+            "authors": "Muhammad Usama , Muhammad Saad Qadir",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04185",
+            "title": "What Does 4-Bit Microscaling Cost a Wearable Activity Recognizer?",
+            "authors": "Megan Healy , Hossein Valavi",
+            "comments": "",
+            "known": false
+          },
+          {
+            "id": "2611.04166",
+            "title": "Say the Same, Act Differently: Diagnosing and Steering Text-Action Divergence in Reasoning VLAs",
+            "authors": "Zihao Feng , Qingzhao Zhang , Chunyu Xia , Bo Yu , Z. Morley Mao , Ramesh Govindan",
+            "comments": "Comments: Accepted to NeurIPS 2026. 23 pages, 3 figures, 8 tables",
+            "known": false
+          },
+          {
+            "id": "2611.04158",
+            "title": "On the Feature Evolution of Temporal Difference Learning",
+            "authors": "Shangzhe Li , Dechen Zhang , Difan Zou , Weitong Zhang",
+            "comments": "Comments: 76 pages, 1 figure",
+            "known": false
+          },
+          {
+            "id": "2611.04146",
+            "title": "RGDM: Robust Graph Diffusion Model",
+            "authors": "Yancheng Wang , Ping Li , Dongfang Sun , Yingzhen Yang",
+            "comments": "Comments: Accepted to NeurIPS 2026",
+            "known": false
+          },
+          {
+            "id": "2611.04137",
+            "title": "LoopKV: Loop-Aware KV Cache Compression for Serving Looped Transformers",
+            "authors": "Tianle Zhou , Yang Zhang , Tianyu Wu , Zhuohan Wang , William Nixon , Juncheng Yang",
+            "comments": "Comments: 28 pages, 15 figures",
+            "known": false
+          },
+          {
+            "id": "2611.04116",
+            "title": "Decomposing Rank Reversals under Temporal Nonstationarity: Alignment, Aggressiveness, and Instability",
+            "authors": "Deying Song , Xueying Ding",
+            "comments": "",
+            "known": false
+          }
+        ]
+      }
+    ],
+    "successful_rows": 213,
+    "unique_ids": 195,
+    "coverage_limit": "cs.LG first100 of252; all10 target category first-date blocks retrieved; earlier med-ph timeout/csLG parsing failure recovered"
+  },
+  "unread_leads": [
+    {
+      "doi": "10.1088/1741-4326/aeb818",
+      "title": "Revisiting p-11B fusion: updated cross-sections, reactivity, and energy balance",
+      "status": "metadata only; no fulltext attempt or note"
+    },
+    {
+      "arxiv_id": "2611.04261",
+      "title": "High-Efficiency Wakefield Acceleration of Positrons via a Slit Plasma Channel",
+      "status": "latest Nov04 listing metadata; unread, not ingested"
+    },
+    {
+      "arxiv_id": "2611.03690",
+      "title": "From Forecasting to Feedback: Evaluating Learned Dynamics for Tokamak Control",
+      "status": "latest Nov04 listing metadata; unread, not ingested"
+    }
+  ]
+}

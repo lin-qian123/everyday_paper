@@ -2,11 +2,14 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：183 篇
-- 索引更新时间：2026-11-04
+- 当前收录：186 篇
+- 索引更新时间：2026-11-05
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-05 | [Perfect crystal neutron loop cavity](../papers/10-1103-vqvb-4vgw/README.md) | Physical Review Research 8, 043124 | [笔记](../daily/2026-11-05/notes/Lailey et al. - 2026 - Perfect crystal neutron loop cavity.md) |
+| 2026-11-05 | [The preplasma origin of the plasma-mirror reflectivity response](../papers/arxiv-2611-04355/README.md) | arXiv preprint | [笔记](../daily/2026-11-05/notes/Wang and Schumacher - 2026 - Preplasma plasma mirror reflectivity.md) |
+| 2026-11-05 | [SensOFormer: Foundation Models for Particle Accelerators](../papers/arxiv-2611-02031/README.md) | arXiv preprint; author claims NeurIPS2026 acceptance, proceedings not independently verified | [笔记](../daily/2026-11-05/notes/Rautela and Scheinker - 2026 - SensOFormer accelerator telemetry.md) |
 | 2026-11-04 | [Laser-Driven Multi-GeV Muon Sources: Production and Applications](../papers/10-1017-hpl-2026-10210/README.md) | High Power Laser Science and Engineering | [笔记](../daily/2026-11-04/notes/Cimmino et al. - 2026 - Laser driven multi GeV muon sources.md) |
 | 2026-11-02 | [A novel angle-independent neutron detector based on CR-39](../papers/10-1088-1361-6498-aeb271/README.md) | Journal of Radiological Protection 46, 041509 | [笔记](../daily/2026-11-02/notes/Cui et al. - 2026 - Angle independent CR39 neutron detector.md) |
 | 2026-11-01 | [Material calibration-independent neutron scattering corrections for quantitative imaging](../papers/10-1038-s41598-026-77789-8/README.md) | Scientific Reports | [笔记](../daily/2026-11-01/notes/Sans-Planell et al. - 2026 - Calibration independent neutron imaging.md) |

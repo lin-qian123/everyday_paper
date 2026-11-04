@@ -2,11 +2,13 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：228 篇
-- 索引更新时间：2026-11-04
+- 当前收录：230 篇
+- 索引更新时间：2026-11-05
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-05 | [The preplasma origin of the plasma-mirror reflectivity response](../papers/arxiv-2611-04355/README.md) | arXiv preprint | [笔记](../daily/2026-11-05/notes/Wang and Schumacher - 2026 - Preplasma plasma mirror reflectivity.md) |
+| 2026-11-05 | [A θ-implicit hybrid particle-in-cell algorithm for kinetic simulations of magnetized plasmas](../papers/arxiv-2611-00127/README.md) | arXiv preprint | [笔记](../daily/2026-11-05/notes/Kumar et al. - 2026 - Theta implicit hybrid PIC.md) |
 | 2026-11-04 | [First-principles simulation of free-electron lasers with the Galilean electromagnetic particle-in-cell method: even harmonics of planar undulators](../papers/arxiv-2611-01640/README.md) | arXiv preprint | [笔记](../daily/2026-11-04/notes/Pukhov - 2026 - GEM PIC FEL even harmonics.md) |
 | 2026-11-04 | [Inverse modelling of a laser-plasma accelerator](../papers/arxiv-2611-00108/README.md) | arXiv preprint | [笔记](../daily/2026-11-04/notes/Lenivenko et al. - 2026 - Inverse modelling laser plasma accelerator.md) |
 | 2026-11-03 | [An approximate separation of the electron and positron degrees of freedom in the Dirac-Heisenberg-Wigner formalism](../papers/arxiv-2610-41623/README.md) | arXiv preprint | [笔记](../daily/2026-11-03/notes/Brodin and Lundstrom - 2026 - Weakly coupled electron positron DHW.md) |
