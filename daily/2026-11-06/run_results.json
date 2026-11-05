@@ -1,0 +1,61 @@
+{
+  "run_date": "2026-11-06",
+  "created_at": "2026-11-06T07:12:31.173149+08:00",
+  "status": "fulltext_ingested_local_validation_passed",
+  "processed_before": 534,
+  "processed_after": 536,
+  "added_dois": [
+    "10.1038/s41467-026-78880-4",
+    "10.48550/arXiv.2611.06683"
+  ],
+  "upgraded_dois": [
+    "10.1088/1741-4326/aebda4"
+  ],
+  "upgraded_old_doi": "10.48550/arXiv.2604.09032",
+  "prior_processed_objects_unchanged": 533,
+  "old_processed_date_preserved": "2026-06-11",
+  "retry_before": 53,
+  "retry_after": 55,
+  "new_retry": [
+    "10.1103/3dkl-vphp",
+    "10.1103/9szm-dgtr"
+  ],
+  "prior_retry_objects_unchanged": 53,
+  "pdfs": 4,
+  "primary_pdfs": 3,
+  "supplementary_pdfs": 1,
+  "pages": 74,
+  "pdf_bytes": 15160874,
+  "layout_text_bytes": 419746,
+  "visual_inspection": {
+    "key_pages": 34,
+    "original_excerpts": 12
+  },
+  "mineru": {
+    "requests": 1,
+    "success": 0,
+    "error": "HTTP401/A0211 user token expired"
+  },
+  "scientific_boundaries": [
+    "Water-window FEL is FBPIC-Elegant-Puffin simulation; publisher Article in Press not final VOR; separate mean/pulse peak power and single-parameter jitter scans",
+    "PGTI is single RANDO phantom low-intensity proton experiment; range threshold0.55mm/1.44mm,2mm bins,3materials; dose/modelled low-energy extrapolation not clinical acceptance",
+    "DPF is2Daxisymmetric imposed end-of-rundown hybrid; baseline without extended Hall/pressure terms; yield different-geometry scale comparison, late-field and unequal-time/convergence limits",
+    "DPF Debye length arithmetic and printed particle-force reduction retained as static questions; no author code bug asserted",
+    "No author PIC/FEL/Geant4/ML/nuclear solver or experiment rerun; no laser converter-photonuclear isotope endtoend, clinical or shielding acceptance"
+  ],
+  "verification": {
+    "indexes": "536 papers across9categories",
+    "tests": {
+      "command": "PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q",
+      "passed": 7,
+      "duration_seconds": 2.16
+    },
+    "scope_audit": "research/verification.json",
+    "git_diff_check": "passed"
+  },
+  "publication": {
+    "target": "origin/master",
+    "phase": "prepare and audit first; external receipt recorded in automation memory after push",
+    "preexisting_user_file_excluded": "AGENTS.md"
+  }
+}

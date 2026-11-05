@@ -3,7 +3,7 @@
 HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。
 
 - 当前收录：135 篇
-- 索引更新时间：2026-11-05
+- 索引更新时间：2026-11-06
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
@@ -111,7 +111,7 @@ HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与�
 | 2026-06-15 | [Probing kinetic enhancement of fusion reactivity in turbulent hot spots](../papers/arxiv-2606-01860/README.md) | arXiv 预印本（高相关补充） | [笔记](../daily/2026-06-15/notes/Yao Guo et al. - 2026 - Probing kinetic enhancement of fusion reactivity in turbulent hot spots.md) |
 | 2026-06-12 | [SPRAY: A smoothed particle radiation hydrodynamics code for modeling high intensity laser-plasma interactions](../papers/arxiv-2604-20124/README.md) | arXiv 预印本（高相关补充） | [笔记](../daily/2026-06-12/notes/Min Ki Jung et al. - 2026 - SPRAY - A smoothed particle radiation hydrodynamics code for modeling high intensity laser-plasma interactions.md) |
 | 2026-06-12 | [PDE foundation model-accelerated inverse estimation of system parameters in inertial confinement fusion](../papers/arxiv-2603-04606/README.md) | arXiv 预印本（高相关补充） | [笔记](../daily/2026-06-12/notes/Mahindra Rautela et al. - 2026 - PDE foundation model-accelerated inverse estimation of system parameters in inertial confinement fusion.md) |
-| 2026-06-11 | [A Fully Electromagnetic Hybrid PIC-Fluid Model for Predictive Fusion Neutron Yield in Dense Plasma Focus](../papers/arxiv-2604-09032/README.md) | arXiv 预印本（高相关补充） | 未生成 |
+| 2026-06-11 | [A Fully Electromagnetic Hybrid PIC-Fluid Model for Predictive Fusion Neutron Yield in Dense Plasma Focus](../papers/10-1088-1741-4326-aebda4/README.md) | Nuclear Fusion, Accepted Manuscript | [笔记](../daily/2026-11-06/notes/Zhao et al. - 2026 - Hybrid PIC fluid dense plasma focus accepted.md) |
 | 2026-06-08 | [Experimental investigation of SRS and SBS growth in thick and exploded foil targets in smoothed and unsmoothed beam interactions](../papers/experimental-investigation-of-srs-and-sbs-growth-in-thick-and-exploded-foil-targets-in-smoothed-/README.md) | High Power Laser Science and Engineering（Accepted manuscript，官方已接收） | 未生成 |
 | 2026-06-08 | [Shock Breakout Driven by Colliding Plasmas in the Double-Cone Ignition Scheme](../papers/shock-breakout-driven-by-colliding-plasmas-in-the-double-cone-ignition-scheme/README.md) | High Power Laser Science and Engineering（Accepted manuscript，官方已接收） | 未生成 |
 | 2026-06-06 | [Explainable tokamak-agnostic forecasting of fusion plasma instability via megahertz turbulent fluctuations](../papers/10-1038-s42005-026-02689-2/README.md) | Communications Physics（正式期刊） | 未生成 |

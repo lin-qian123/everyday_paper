@@ -1,0 +1,76 @@
+{
+  "checked_at": "2026-11-06T07:12:31.173149+08:00",
+  "checks": [
+    {
+      "doi": "10.1038/s41467-026-78880-4",
+      "publisher_url": "https://www.nature.com/articles/s41467-026-78880-4",
+      "page_status": 200,
+      "pdf_version_label": "Article in Press",
+      "received": "2025-06-23",
+      "accepted": "2026-10-04",
+      "online": "2026-11-05",
+      "actual_download_href": "https://www.nature.com/articles/s41467-026-78880-4_reference.pdf",
+      "regular_citation_pdf_route": "HTTP200 HTML redirect; rejected, used page Download PDF href",
+      "institutional_date_note": "Strathclyde metadata2026-10-04 corresponds to accepted stage; not online publication"
+    },
+    {
+      "doi": "10.1088/1741-4326/aebda4",
+      "publisher_pdf": "https://iopscience.iop.org/article/10.1088/1741-4326/aebda4/pdf",
+      "cover_label": "Accepted Manuscript",
+      "manuscript_id": "NF-108657.R2",
+      "online_date_source": "Crossref published-online2026-11-04",
+      "publisher_landing": "HTTP200 Radware/CAPTCHA; not solved or used as fulltext",
+      "same_work_alias": "10.48550/arXiv.2604.09032",
+      "old_processed_date_preserved": "2026-06-11",
+      "old_note_path": null
+    },
+    {
+      "doi": "10.48550/arXiv.2611.06683",
+      "arxiv_version": "2611.06683v1",
+      "submitted": "2026-11-04T15:52:06Z",
+      "announcement": "2026-11-05",
+      "license": "CC BY-NC-ND4.0; original figure excerpts for commentary, no relabeling",
+      "crossref_title_check": {
+        "status": "ok"
+      },
+      "top3": [
+        {
+          "doi": "10.1109/nss/mic/rtsd57108.2024.10657235",
+          "title": [
+            "A Monte Carlo Simulation for Prompt Gamma Time Imaging"
+          ],
+          "type": "proceedings-article"
+        },
+        {
+          "doi": "10.1109/nss/mic/rtsd57108.2024.10656987",
+          "title": [
+            "A fast detection system for Prompt Gamma Time Imaging"
+          ],
+          "type": "proceedings-article"
+        },
+        {
+          "doi": "10.1007/978-3-319-33163-8_14",
+          "title": [
+            "Prompt Gamma Activation Imaging (PGAI)"
+          ],
+          "type": "book-chapter"
+        }
+      ],
+      "result": "no verified same-work formal publication in top3"
+    },
+    {
+      "doi": "10.1103/3dkl-vphp",
+      "accepted_page": "https://journals.aps.org/pre/accepted/10.1103/3dkl-vphp",
+      "accepted_date": "2026-11-05",
+      "status": "accepted, fulltext required, no note"
+    },
+    {
+      "doi": "10.1103/9szm-dgtr",
+      "accepted_page": "https://journals.aps.org/prc/accepted/10.1103/9szm-dgtr",
+      "accepted_date": "2026-11-04",
+      "related_arxiv": "2605.30980v2",
+      "related_arxiv_date": "2026-06-01",
+      "status": "accepted fulltext required; older author version not substituted for changed claims"
+    }
+  ]
+}

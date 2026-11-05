@@ -1,10 +1,12 @@
 # 论文总索引
 
-- 当前入库论文：534 篇
-- 索引更新时间：2026-11-05
+- 当前入库论文：536 篇
+- 索引更新时间：2026-11-06
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-11-06 | [Strong-gain water-window X-ray laser driven by plasma photocathode wakefield acceleration](./10-1038-s41467-026-78880-4/README.md) | Nature Communications, Article in Press | [10.1038/s41467-026-78880-4](https://doi.org/10.1038/s41467-026-78880-4) |
+| 2026-11-06 | [Experimental Assessment of Prompt Gamma Time Imaging in Complex Anatomy](./arxiv-2611-06683/README.md) | arXiv preprint | [10.48550/arXiv.2611.06683](https://doi.org/10.48550/arXiv.2611.06683) |
 | 2026-11-05 | [Perfect crystal neutron loop cavity](./10-1103-vqvb-4vgw/README.md) | Physical Review Research 8, 043124 | [10.1103/vqvb-4vgw](https://doi.org/10.1103/vqvb-4vgw) |
 | 2026-11-05 | [The preplasma origin of the plasma-mirror reflectivity response](./arxiv-2611-04355/README.md) | arXiv preprint | [10.48550/arXiv.2611.04355](https://doi.org/10.48550/arXiv.2611.04355) |
 | 2026-11-05 | [SensOFormer: Foundation Models for Particle Accelerators](./arxiv-2611-02031/README.md) | arXiv preprint; author claims NeurIPS2026 acceptance, proceedings not independently verified | [10.48550/arXiv.2611.02031](https://doi.org/10.48550/arXiv.2611.02031) |
@@ -444,11 +446,11 @@
 | 2026-06-12 | [SPRAY: A smoothed particle radiation hydrodynamics code for modeling high intensity laser-plasma interactions](./arxiv-2604-20124/README.md) | arXiv 预印本（高相关补充） | [10.48550/arXiv.2604.20124](https://doi.org/10.48550/arXiv.2604.20124) |
 | 2026-06-12 | [Probing vacuum birefringence in an Ultrastrong Laser Field via High-energy Gamma-ray Polarimetry](./arxiv-2603-05282/README.md) | arXiv 预印本（高相关补充） | [10.48550/arXiv.2603.05282](https://doi.org/10.48550/arXiv.2603.05282) |
 | 2026-06-12 | [PDE foundation model-accelerated inverse estimation of system parameters in inertial confinement fusion](./arxiv-2603-04606/README.md) | arXiv 预印本（高相关补充） | [10.48550/arXiv.2603.04606](https://doi.org/10.48550/arXiv.2603.04606) |
+| 2026-06-11 | [A Fully Electromagnetic Hybrid PIC-Fluid Model for Predictive Fusion Neutron Yield in Dense Plasma Focus](./10-1088-1741-4326-aebda4/README.md) | Nuclear Fusion, Accepted Manuscript | [10.1088/1741-4326/aebda4](https://doi.org/10.1088/1741-4326/aebda4) |
 | 2026-06-11 | [Plasma wakefield dynamics of self-generated electron bunch trains](./arxiv-2606-06232/README.md) | arXiv 预印本（高相关补充） | [10.48550/arXiv.2606.06232](https://doi.org/10.48550/arXiv.2606.06232) |
 | 2026-06-11 | [An explicit, energy-conserving particle-in-cell scheme for relativistic plasmas](./arxiv-2605-18542/README.md) | arXiv 预印本（高相关补充） | [10.48550/arXiv.2605.18542](https://doi.org/10.48550/arXiv.2605.18542) |
 | 2026-06-11 | [Design of experiments characterising heat conduction in magnetised, weakly collisional plasma](./10-1017-hpl-2026-10152/README.md) | High Power Laser Science and Engineering（Accepted manuscript，官方已接收） | [10.1017/hpl.2026.10152](https://doi.org/10.1017/hpl.2026.10152) |
 | 2026-06-11 | [Suppression and Enhancement of Electromagnetic Pulses from Laser-Target Interactions by Strong Magnetic Fields](./10-1017-hpl-2026-10147/README.md) | High Power Laser Science and Engineering（Accepted manuscript，官方已接收） | [10.1017/hpl.2026.10147](https://doi.org/10.1017/hpl.2026.10147) |
-| 2026-06-11 | [A Fully Electromagnetic Hybrid PIC-Fluid Model for Predictive Fusion Neutron Yield in Dense Plasma Focus](./arxiv-2604-09032/README.md) | arXiv 预印本（高相关补充） | [10.48550/arXiv.2604.09032](https://doi.org/10.48550/arXiv.2604.09032) |
 | 2026-06-11 | [A machine learning framework for developing quasilinear saturation rules of turbulent transport from linear gyrokinetic data](./arxiv-2604-00462/README.md) | arXiv 预印本（高相关补充） | [10.48550/arXiv.2604.00462](https://doi.org/10.48550/arXiv.2604.00462) |
 | 2026-06-11 | [Simulation Design for Velocity-Controlled Spatio-Temporal Drivers in Laser Wakefield Acceleration](./arxiv-2603-28473/README.md) | arXiv 预印本（高相关补充） | [10.48550/arXiv.2603.28473](https://doi.org/10.48550/arXiv.2603.28473) |
 | 2026-06-11 | [Machine learning prediction of plasma behavior from discharge configurations on WEST](./arxiv-2602-19110/README.md) | arXiv 预印本（高相关补充） | [10.48550/arXiv.2602.19110](https://doi.org/10.48550/arXiv.2602.19110) |

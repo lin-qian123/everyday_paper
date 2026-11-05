@@ -1,0 +1,11 @@
+{
+  "ok": false,
+  "items": [],
+  "errors": [
+    {
+      "source": "https://arxiv.org/pdf/2611.06683v1",
+      "error": "HTTP 401 for https://mineru.net/api/v4/extract/task: {\"traceId\":\"98425cbd23a5\",\"msgCode\":\"A0211\",\"msg\":\"user token expired\",\"data\":null,\"success\":false,\"total\":0}"
+    }
+  ],
+  "decision": "authentication failure; renew legitimate credentials before next attempt; local validated extraction used; no mirror workaround"
+}

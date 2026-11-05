@@ -2,11 +2,12 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：186 篇
-- 索引更新时间：2026-11-05
+- 当前收录：187 篇
+- 索引更新时间：2026-11-06
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-06 | [Experimental Assessment of Prompt Gamma Time Imaging in Complex Anatomy](../papers/arxiv-2611-06683/README.md) | arXiv preprint | [笔记](../daily/2026-11-06/notes/Kavrigin et al. - 2026 - Prompt gamma time imaging complex anatomy.md) |
 | 2026-11-05 | [Perfect crystal neutron loop cavity](../papers/10-1103-vqvb-4vgw/README.md) | Physical Review Research 8, 043124 | [笔记](../daily/2026-11-05/notes/Lailey et al. - 2026 - Perfect crystal neutron loop cavity.md) |
 | 2026-11-05 | [The preplasma origin of the plasma-mirror reflectivity response](../papers/arxiv-2611-04355/README.md) | arXiv preprint | [笔记](../daily/2026-11-05/notes/Wang and Schumacher - 2026 - Preplasma plasma mirror reflectivity.md) |
 | 2026-11-05 | [SensOFormer: Foundation Models for Particle Accelerators](../papers/arxiv-2611-02031/README.md) | arXiv preprint; author claims NeurIPS2026 acceptance, proceedings not independently verified | [笔记](../daily/2026-11-05/notes/Rautela and Scheinker - 2026 - SensOFormer accelerator telemetry.md) |

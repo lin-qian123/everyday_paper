@@ -1147,5 +1147,54 @@
     "stderr": "Springer landingHTTP200 subscriptionpreview; no articlefulltextretrieved. Exact-title web searchfound related2025conferenceabstract, not journalfulltext. No bypass or purchase, no abstract-onlynote.",
     "evidence_path": "daily/2026-11-05/download_report.json",
     "output_pdf": "daily/2026-11-05/pdfs/Cui et al. - 2026 - Microminiature ECR ion source neutron tubes.pdf"
+  },
+  {
+    "doi": "10.1103/3dkl-vphp",
+    "title": "Specifics of laser-plasma interaction in submicron films at moderate intensity",
+    "authors": [
+      "Nikolai Bukharskii",
+      "Philipp Korneev",
+      "Nikolai N. Demchenko",
+      "Sergey Yu. Gus’kov"
+    ],
+    "source_url": "https://journals.aps.org/pre/accepted/10.1103/3dkl-vphp",
+    "acceptance_date": "2026-11-05",
+    "publication_date": null,
+    "publication_date_type": "accepted_date_not_vor_publication",
+    "journal": "Physical Review E",
+    "topic": "薄膜激光相互作用PIC与流体比较",
+    "run_date": "2026-11-06",
+    "status": "retry_fulltext_required_no_abstract_only_note",
+    "attempted_at": "2026-11-06T07:12:31.173149+08:00",
+    "retry_count": 0,
+    "failure_count": 1,
+    "source_family": "aps",
+    "last_failure_class": "accepted_fulltext_not_retrieved_ordinary403_harvest404",
+    "stderr": "APS accepted page identifies acceptance date, not VOR publication; ordinary PDF HTTP403 verification; official harvest fulltext HTTP404 not found. No matching lawful fulltext verified in bounded exact-title search.",
+    "evidence_path": "daily/2026-11-06/download_report.json",
+    "output_pdf": "daily/2026-11-06/pdfs/Bukharskii et al. - 2026 - Submicron films at moderate intensity.pdf"
+  },
+  {
+    "doi": "10.1103/9szm-dgtr",
+    "title": "Differentiable emulation for high-dimensional Bayesian calibration of nuclear reaction models",
+    "authors": [
+      "Jin Lei"
+    ],
+    "source_url": "https://journals.aps.org/prc/accepted/10.1103/9szm-dgtr",
+    "acceptance_date": "2026-11-04",
+    "publication_date": null,
+    "publication_date_type": "accepted_date_not_vor_publication",
+    "journal": "Physical Review C",
+    "topic": "DREAM可微核反应贝叶斯校准",
+    "run_date": "2026-11-06",
+    "status": "retry_fulltext_required_no_abstract_only_note",
+    "attempted_at": "2026-11-06T07:12:31.173149+08:00",
+    "retry_count": 0,
+    "failure_count": 1,
+    "source_family": "aps",
+    "last_failure_class": "accepted_fulltext_not_retrieved_ordinary403_harvest404",
+    "stderr": "APS accepted page identifies acceptance date, not VOR publication; ordinary PDF HTTP403 verification; official harvest fulltext HTTP404 not found. Related author arXiv2605.30980v2 is dated2026-06-01, with different title and inference claims; not verified as the accepted manuscript, not substituted.",
+    "evidence_path": "daily/2026-11-06/download_report.json",
+    "output_pdf": "daily/2026-11-06/pdfs/Lei - 2026 - Differentiable nuclear reaction calibration.pdf"
   }
 ]

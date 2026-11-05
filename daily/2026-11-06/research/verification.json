@@ -1,0 +1,30 @@
+{
+  "verified_at": "2026-11-06T07:16:03.264887+08:00",
+  "status": "passed",
+  "scope_files": 48,
+  "markdown_files": 22,
+  "local_links_checked": 3313,
+  "json_jsonl_files": 13,
+  "decoded_original_pngs": 12,
+  "ignored_assets": [
+    "daily/2026-11-06/pdfs/Kavrigin et al. - 2026 - Prompt gamma time imaging complex anatomy.pdf",
+    "daily/2026-11-06/pdfs/Kavrigin et al. - 2026 - Prompt gamma time imaging complex anatomy.txt",
+    "daily/2026-11-06/pdfs/Zhao et al. - 2026 - Hybrid PIC fluid dense plasma focus accepted.pdf",
+    "daily/2026-11-06/pdfs/Zhao et al. - 2026 - Hybrid PIC fluid dense plasma focus accepted.txt",
+    "daily/2026-11-06/pdfs/Berman et al. - 2026 - Strong gain water window X ray laser.pdf",
+    "daily/2026-11-06/pdfs/Berman et al. - 2026 - Strong gain water window X ray laser.txt",
+    "daily/2026-11-06/pdfs/Berman et al. - 2026 - Strong gain water window supplement.pdf",
+    "daily/2026-11-06/pdfs/Berman et al. - 2026 - Strong gain water window supplement.txt"
+  ],
+  "ledger_records": 536,
+  "prior_processed_objects_unchanged": 533,
+  "upgraded_old_object_index": 88,
+  "prior_retry_objects_unchanged": 53,
+  "qualified_arxiv_identifiers": 335,
+  "preexisting_AGENTS_preserved_and_excluded": true,
+  "pdf_header_size_hash_page_text_agreement": "4PDFs74pages",
+  "all_original_crop_hashes": "12matched",
+  "tests": "7passed2.16s",
+  "git_diff_check": "passed",
+  "publication": "prepared, not yet pushed; remote receipt follows in automation memory"
+}

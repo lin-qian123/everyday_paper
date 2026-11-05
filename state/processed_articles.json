@@ -984,13 +984,38 @@
   {
     "title": "A Fully Electromagnetic Hybrid PIC-Fluid Model for Predictive Fusion Neutron Yield in Dense Plasma Focus",
     "normalized_title": "a fully electromagnetic hybrid pic fluid model for predictive fusion neutron yield in dense plasma focus",
-    "doi": "10.48550/arXiv.2604.09032",
-    "source_url": "https://arxiv.org/abs/2604.09032",
-    "journal": "arXiv 预印本（高相关补充）",
-    "publication_date": "2026-04-10",
+    "doi": "10.1088/1741-4326/aebda4",
+    "source_url": "https://doi.org/10.1088/1741-4326/aebda4",
+    "journal": "Nuclear Fusion, Accepted Manuscript",
+    "publication_date": "2026-11-04",
     "processed_date": "2026-06-11",
-    "pdf_path": "daily/2026-06-10/pdfs/Yinjian Zhao et al. - 2026 - A Fully Electromagnetic Hybrid PIC-Fluid Model for Predictive Fusion Neutron Yield in Dense Plasma Focus.pdf",
-    "note_path": null
+    "pdf_path": "daily/2026-11-06/pdfs/Zhao et al. - 2026 - Hybrid PIC fluid dense plasma focus accepted.pdf",
+    "note_path": "daily/2026-11-06/notes/Zhao et al. - 2026 - Hybrid PIC fluid dense plasma focus accepted.md",
+    "authors": [
+      "Yinjian Zhao",
+      "Zhe Liu",
+      "Qiang Sun",
+      "Qianhong Zhou",
+      "Guangrui Sun"
+    ],
+    "publication_date_type": "crossref_published_online_accepted_manuscript; exact_acceptance_date_not_verified",
+    "publication_status": "accepted manuscript, in press; not final VOR",
+    "pdf_url": "https://iopscience.iop.org/article/10.1088/1741-4326/aebda4/pdf",
+    "pdf_sha256": "d75ed92e29136fa75b9916570270da73552b0f6eb3b8ee4b707e72d7296f9353",
+    "fulltext_version": "IOP publisher Accepted Manuscript NF-108657.R2; 28 PDF pages including cover",
+    "arxiv_id": "2604.09032",
+    "doi_aliases": [
+      "10.48550/arXiv.2604.09032"
+    ],
+    "previous_pdf_path": "daily/2026-06-10/pdfs/Yinjian Zhao et al. - 2026 - A Fully Electromagnetic Hybrid PIC-Fluid Model for Predictive Fusion Neutron Yield in Dense Plasma Focus.pdf",
+    "previous_source_url": "https://arxiv.org/abs/2604.09032",
+    "previous_publication_date": "2026-04-10",
+    "version_upgraded_date": "2026-11-06",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "hedp-icf-laboratory-astrophysics",
+      "pic-and-plasma-simulation"
+    ]
   },
   {
     "title": "Plasma wakefield dynamics of self-generated electron bunch trains",
@@ -7779,5 +7804,78 @@
     "fulltext_version": "official arXiv v1 author preprint",
     "arxiv_id": "2611.04355",
     "arxiv_version": "2611.04355v1"
+  },
+  {
+    "title": "Strong-gain water-window X-ray laser driven by plasma photocathode wakefield acceleration",
+    "doi": "10.1038/s41467-026-78880-4",
+    "authors": [
+      "L. H. A. Berman",
+      "D. Campbell",
+      "E. Hartmann",
+      "T. Heinemann",
+      "T. Wilson",
+      "B. Hidding",
+      "A. F. Habib"
+    ],
+    "journal": "Nature Communications, Article in Press",
+    "publication_date": "2026-11-05",
+    "publication_date_type": "publisher_online_article_in_press",
+    "acceptance_date": "2026-10-04",
+    "publication_status": "peer-reviewed publisher Article in Press; not final VOR",
+    "source_url": "https://doi.org/10.1038/s41467-026-78880-4",
+    "fulltext_version": "publisher Article in Press, reference PDF",
+    "categories": [
+      "laser-plasma-acceleration",
+      "laser-accelerated-beam-applications",
+      "pic-and-plasma-simulation"
+    ],
+    "pdf_url": "https://www.nature.com/articles/s41467-026-78880-4_reference.pdf",
+    "pdf_path": "daily/2026-11-06/pdfs/Berman et al. - 2026 - Strong gain water window X ray laser.pdf",
+    "pdf_sha256": "6db86ddf72903fdbdcd153c4ecbd8adefa9d16aea2f28b7e0e422dcb436390e5",
+    "note_path": "daily/2026-11-06/notes/Berman et al. - 2026 - Strong gain water window X ray laser.md",
+    "processed_date": "2026-11-06",
+    "normalized_title": "strong gain water window x ray laser driven by plasma photocathode wakefield acceleration"
+  },
+  {
+    "title": "Experimental Assessment of Prompt Gamma Time Imaging in Complex Anatomy",
+    "doi": "10.48550/arXiv.2611.06683",
+    "authors": [
+      "Kavrigin, Pavel",
+      "Garnier, Alicia",
+      "André, Adélie",
+      "Abid, Chaima",
+      "Boursier, Yannick",
+      "Dupont, Mathieu",
+      "Fanciulli, Giuseppe",
+      "Martel, Laurent Gallin",
+      "Martel, Marie-Laure Gallin",
+      "Hoarau, Christophe",
+      "Morel, Christian",
+      "Muraz, Jean-François",
+      "Pinson, Maxime",
+      "Psarras, Dimitrios",
+      "Toschi, Nicola",
+      "Maneval, Daniel",
+      "Marcatili, Sara"
+    ],
+    "journal": "arXiv preprint",
+    "publication_date": "2026-11-04",
+    "publication_date_type": "arxiv_submission",
+    "submission_timestamp_utc": "2026-11-04T15:52:06Z",
+    "publication_status": "author preprint; no same-work formal publication verified in bounded exact-title search",
+    "source_url": "https://arxiv.org/abs/2611.06683v1",
+    "arxiv_id": "2611.06683",
+    "arxiv_version": "2611.06683v1",
+    "fulltext_version": "official arXiv v1 author preprint",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "experimental-platforms-diagnostics"
+    ],
+    "pdf_url": "https://arxiv.org/pdf/2611.06683v1",
+    "pdf_path": "daily/2026-11-06/pdfs/Kavrigin et al. - 2026 - Prompt gamma time imaging complex anatomy.pdf",
+    "pdf_sha256": "99b1667715b08e2597d40941693e3a16ad7eaa6f5d9ab9e324cb498c8f7f8340",
+    "note_path": "daily/2026-11-06/notes/Kavrigin et al. - 2026 - Prompt gamma time imaging complex anatomy.md",
+    "processed_date": "2026-11-06",
+    "normalized_title": "experimental assessment of prompt gamma time imaging in complex anatomy"
   }
 ]

@@ -1,0 +1,238 @@
+{
+  "reviewed_full_pages": {
+    "water": {
+      "pdf": "daily/2026-11-06/pdfs/Berman et al. - 2026 - Strong gain water window X ray laser.pdf",
+      "pages_1based": [
+        3,
+        4,
+        5,
+        7,
+        8,
+        11
+      ]
+    },
+    "water-supp": {
+      "pdf": "daily/2026-11-06/pdfs/Berman et al. - 2026 - Strong gain water window supplement.pdf",
+      "pages_1based": [
+        4,
+        5,
+        9,
+        13,
+        16,
+        17
+      ]
+    },
+    "dpf": {
+      "pdf": "daily/2026-11-06/pdfs/Zhao et al. - 2026 - Hybrid PIC fluid dense plasma focus accepted.pdf",
+      "pages_1based": [
+        1,
+        4,
+        9,
+        11,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        22,
+        24,
+        25,
+        26
+      ]
+    },
+    "pgti": {
+      "pdf": "daily/2026-11-06/pdfs/Kavrigin et al. - 2026 - Prompt gamma time imaging complex anatomy.pdf",
+      "pages_1based": [
+        2,
+        4,
+        7,
+        8,
+        10,
+        11,
+        13,
+        15
+      ]
+    }
+  },
+  "original_excerpts": [
+    {
+      "key": "water",
+      "pdf": "daily/2026-11-06/pdfs/Berman et al. - 2026 - Strong gain water window X ray laser.pdf",
+      "page_1based": 3,
+      "crop_points": [
+        34.0,
+        43.0,
+        568.0,
+        405.0
+      ],
+      "image": "daily/2026-11-06/images/water/figure-1-beam-loading.png",
+      "sha256": "74cb1624c47380f99bae354fa58b1a9b306296c4564d7eac701d3763efb0f4f7",
+      "operation": "original PDF render and rectangular crop only"
+    },
+    {
+      "key": "water",
+      "pdf": "daily/2026-11-06/pdfs/Berman et al. - 2026 - Strong gain water window X ray laser.pdf",
+      "page_1based": 7,
+      "crop_points": [
+        34.0,
+        43.0,
+        568.0,
+        587.0
+      ],
+      "image": "daily/2026-11-06/images/water/figure-4-fel.png",
+      "sha256": "d1e3b2761b4654e3c0093e45c501539b8a588d09cad868fa7c752a1827dd1e96",
+      "operation": "original PDF render and rectangular crop only"
+    },
+    {
+      "key": "water",
+      "pdf": "daily/2026-11-06/pdfs/Berman et al. - 2026 - Strong gain water window X ray laser.pdf",
+      "page_1based": 8,
+      "crop_points": [
+        34.0,
+        43.0,
+        568.0,
+        520.0
+      ],
+      "image": "daily/2026-11-06/images/water/figure-5-jitter.png",
+      "sha256": "214727ac2049317c7ca1ab4bf241824b4e5333a65b7b63ac16c195a59043ac75",
+      "operation": "original PDF render and rectangular crop only"
+    },
+    {
+      "key": "water-supp",
+      "pdf": "daily/2026-11-06/pdfs/Berman et al. - 2026 - Strong gain water window supplement.pdf",
+      "page_1based": 5,
+      "crop_points": [
+        65.0,
+        185.0,
+        548.0,
+        560.0
+      ],
+      "image": "daily/2026-11-06/images/water-supp/supp-figure-4-pulse-power.png",
+      "sha256": "89d49d5cce2383dce34371ce230f8b33e6a8ef04161764e40c78889a7657d469",
+      "operation": "original PDF render and rectangular crop only"
+    },
+    {
+      "key": "water-supp",
+      "pdf": "daily/2026-11-06/pdfs/Berman et al. - 2026 - Strong gain water window supplement.pdf",
+      "page_1based": 17,
+      "crop_points": [
+        65.0,
+        450.0,
+        548.0,
+        685.0
+      ],
+      "image": "daily/2026-11-06/images/water-supp/supp-table-2-jitter.png",
+      "sha256": "e6d7a02a2591a17ccc60cef191444eb8c55d60ad070271795a6f22bce0333065",
+      "operation": "original PDF render and rectangular crop only"
+    },
+    {
+      "key": "dpf",
+      "pdf": "daily/2026-11-06/pdfs/Zhao et al. - 2026 - Hybrid PIC fluid dense plasma focus accepted.pdf",
+      "page_1based": 15,
+      "crop_points": [
+        120.0,
+        368.0,
+        565.0,
+        638.0
+      ],
+      "image": "daily/2026-11-06/images/dpf/figure-11-table-2-trajectory.png",
+      "sha256": "e107ce3ac18f8ffb49db126cae0d5cdefebf9d2fb26b396dfece0e35305a71fa",
+      "operation": "original PDF render and rectangular crop only"
+    },
+    {
+      "key": "dpf",
+      "pdf": "daily/2026-11-06/pdfs/Zhao et al. - 2026 - Hybrid PIC fluid dense plasma focus accepted.pdf",
+      "page_1based": 16,
+      "crop_points": [
+        120.0,
+        584.0,
+        565.0,
+        764.0
+      ],
+      "image": "daily/2026-11-06/images/dpf/figure-13-ion-tail.png",
+      "sha256": "1de47499d36a7744b22e76a803627bb28b255f2aac860fe529ce50f366e18e74",
+      "operation": "original PDF render and rectangular crop only"
+    },
+    {
+      "key": "dpf",
+      "pdf": "daily/2026-11-06/pdfs/Zhao et al. - 2026 - Hybrid PIC fluid dense plasma focus accepted.pdf",
+      "page_1based": 18,
+      "crop_points": [
+        120.0,
+        490.0,
+        565.0,
+        718.0
+      ],
+      "image": "daily/2026-11-06/images/dpf/figure-15-neutron-yield.png",
+      "sha256": "1177e851f9730622e65a0942a5dae1fe0c2e995807254ae273d79c2336f440f0",
+      "operation": "original PDF render and rectangular crop only"
+    },
+    {
+      "key": "dpf",
+      "pdf": "daily/2026-11-06/pdfs/Zhao et al. - 2026 - Hybrid PIC fluid dense plasma focus accepted.pdf",
+      "page_1based": 22,
+      "crop_points": [
+        120.0,
+        35.0,
+        565.0,
+        440.0
+      ],
+      "image": "daily/2026-11-06/images/dpf/tables-4-5-yield-sensitivity.png",
+      "sha256": "2919937d10c5e62ceab654351303d1f507b302ea4e194c0846b662fb2b780fa8",
+      "operation": "original PDF render and rectangular crop only"
+    },
+    {
+      "key": "pgti",
+      "pdf": "daily/2026-11-06/pdfs/Kavrigin et al. - 2026 - Prompt gamma time imaging complex anatomy.pdf",
+      "page_1based": 7,
+      "crop_points": [
+        50.0,
+        50.0,
+        565.0,
+        635.0
+      ],
+      "image": "daily/2026-11-06/images/pgti/figure-4-reconstruction.png",
+      "sha256": "5867f0db0c3fab8041d5991b2f610350ba431aa50a10e0a0b4beea0cdc1a4258",
+      "operation": "original PDF render and rectangular crop only"
+    },
+    {
+      "key": "pgti",
+      "pdf": "daily/2026-11-06/pdfs/Kavrigin et al. - 2026 - Prompt gamma time imaging complex anatomy.pdf",
+      "page_1based": 8,
+      "crop_points": [
+        50.0,
+        280.0,
+        565.0,
+        535.0
+      ],
+      "image": "daily/2026-11-06/images/pgti/figure-5-dose.png",
+      "sha256": "7665aaa7c0a5a9a0b20d0b865fd74486c6371bccd7b992a5142a068d80a3a95c",
+      "operation": "original PDF render and rectangular crop only"
+    },
+    {
+      "key": "pgti",
+      "pdf": "daily/2026-11-06/pdfs/Kavrigin et al. - 2026 - Prompt gamma time imaging complex anatomy.pdf",
+      "page_1based": 13,
+      "crop_points": [
+        50.0,
+        225.0,
+        565.0,
+        445.0
+      ],
+      "image": "daily/2026-11-06/images/pgti/figure-8-parameter-selection.png",
+      "sha256": "7492f413024624e62c3d2282ecbcf920c20b6859d80e6aa91ecea681138575fe",
+      "operation": "original PDF render and rectangular crop only"
+    }
+  ],
+  "status": "passed_final_original_crop_visual_review",
+  "reviewed_at": "2026-11-06T07:12:31.173149+08:00",
+  "total_reviewed_key_pages": 34,
+  "total_original_excerpts": 12,
+  "review": "All final12 original crops checked after expanding clipped figure headers/axis tops; full key-page contact sheets inspected. Only final useful excerpts retained.",
+  "additional_high_resolution_inspection": {
+    "source": "DPF PDFp18 embedded Figure15,4061x3175pixels",
+    "finding": "left rate axis is10^6 neutrons/ns, not neutrons/s; initial low-resolution doubt resolved; no normalization defect asserted",
+    "retained_asset": "final PDF crop already contains the axis; temporary native extraction removed after review"
+  }
+}

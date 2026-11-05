@@ -1,0 +1,31 @@
+{
+  "saved_at": "2026-11-06T07:12:31.173149+08:00",
+  "leads": [
+    {
+      "id": "2611.06420",
+      "title": "Influence of Laguerre-Gaussian pulse mode purity on positron acceleration in nonlinear wakefields",
+      "status": "metadata/abstract lead only, not fulltext-read or ingested"
+    },
+    {
+      "id": "2611.06597",
+      "title": "A trust layer for fast pedestal-stability surrogates: calibrated error bars, out-of-distribution alarms and few-shot recalibration",
+      "status": "metadata/abstract lead only, not fulltext-read or ingested"
+    },
+    {
+      "id": "2611.06045",
+      "title": "Single-crystal X-ray diffraction of BC8 carbon near terapascal pressures",
+      "status": "metadata/abstract lead only, not fulltext-read or ingested"
+    },
+    {
+      "id": "2611.05957",
+      "title": "High-transformer-ratio plasma-based afterburner for extending X-ray free-electron laser photon energies to $\\gtrsim$50 keV",
+      "status": "metadata/abstract lead only, not fulltext-read or ingested"
+    },
+    {
+      "id": "2611.05973",
+      "title": "Estimation of Very High Energy Electron (VHEE) beam parameters using an in-air screen",
+      "status": "metadata/abstract lead only, not fulltext-read or ingested"
+    }
+  ],
+  "priority": "new formal fulltexts and accepted2APS retries first; old53retryobjects not repeatedly probed"
+}

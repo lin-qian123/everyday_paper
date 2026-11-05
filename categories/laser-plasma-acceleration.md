@@ -2,11 +2,12 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：171 篇
-- 索引更新时间：2026-11-05
+- 当前收录：172 篇
+- 索引更新时间：2026-11-06
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-06 | [Strong-gain water-window X-ray laser driven by plasma photocathode wakefield acceleration](../papers/10-1038-s41467-026-78880-4/README.md) | Nature Communications, Article in Press | [笔记](../daily/2026-11-06/notes/Berman et al. - 2026 - Strong gain water window X ray laser.md) |
 | 2026-11-05 | [The preplasma origin of the plasma-mirror reflectivity response](../papers/arxiv-2611-04355/README.md) | arXiv preprint | [笔记](../daily/2026-11-05/notes/Wang and Schumacher - 2026 - Preplasma plasma mirror reflectivity.md) |
 | 2026-11-04 | [Laser-Driven Multi-GeV Muon Sources: Production and Applications](../papers/10-1017-hpl-2026-10210/README.md) | High Power Laser Science and Engineering | [笔记](../daily/2026-11-04/notes/Cimmino et al. - 2026 - Laser driven multi GeV muon sources.md) |
 | 2026-11-04 | [First-principles simulation of free-electron lasers with the Galilean electromagnetic particle-in-cell method: even harmonics of planar undulators](../papers/arxiv-2611-01640/README.md) | arXiv preprint | [笔记](../daily/2026-11-04/notes/Pukhov - 2026 - GEM PIC FEL even harmonics.md) |

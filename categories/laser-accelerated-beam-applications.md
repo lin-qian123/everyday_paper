@@ -2,11 +2,13 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：138 篇
-- 索引更新时间：2026-11-05
+- 当前收录：140 篇
+- 索引更新时间：2026-11-06
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-06 | [Strong-gain water-window X-ray laser driven by plasma photocathode wakefield acceleration](../papers/10-1038-s41467-026-78880-4/README.md) | Nature Communications, Article in Press | [笔记](../daily/2026-11-06/notes/Berman et al. - 2026 - Strong gain water window X ray laser.md) |
+| 2026-11-06 | [Experimental Assessment of Prompt Gamma Time Imaging in Complex Anatomy](../papers/arxiv-2611-06683/README.md) | arXiv preprint | [笔记](../daily/2026-11-06/notes/Kavrigin et al. - 2026 - Prompt gamma time imaging complex anatomy.md) |
 | 2026-11-05 | [Perfect crystal neutron loop cavity](../papers/10-1103-vqvb-4vgw/README.md) | Physical Review Research 8, 043124 | [笔记](../daily/2026-11-05/notes/Lailey et al. - 2026 - Perfect crystal neutron loop cavity.md) |
 | 2026-11-04 | [Laser-Driven Multi-GeV Muon Sources: Production and Applications](../papers/10-1017-hpl-2026-10210/README.md) | High Power Laser Science and Engineering | [笔记](../daily/2026-11-04/notes/Cimmino et al. - 2026 - Laser driven multi GeV muon sources.md) |
 | 2026-11-03 | [Thermonuclear reaction rate of the deuteron alpha capture reaction in cluster effective field theory](../papers/10-1038-s41598-026-78629-5/README.md) | Scientific Reports | [笔记](../daily/2026-11-03/notes/Nazari et al. - 2026 - Deuteron alpha capture reaction rate.md) |
@@ -129,7 +131,7 @@
 | 2026-06-14 | [A Surrogate Model for Proton Spectrum Prediction to Map Transitions in Laser-Ion Acceleration](../papers/arxiv-2606-06210/README.md) | arXiv 预印本（高相关补充） | [笔记](../daily/2026-06-14/notes/Chengqi-Zhang et al. - 2026 - A Surrogate Model for Proton Spectrum Prediction to Map Transitions in Laser-Ion Acceleration.md) |
 | 2026-06-13 | [Spectral and spatial ion beam parameter optimization at petawatt laser facilities](../papers/10-1017-hpl-2026-10136/README.md) | High Power Laser Science and Engineering | [笔记](../daily/2026-06-13/notes/Evgeny Filippov et al. - 2026 - Spectral and spatial ion beam parameter optimization at petawatt laser facilities.md) |
 | 2026-06-12 | [Probing vacuum birefringence in an Ultrastrong Laser Field via High-energy Gamma-ray Polarimetry](../papers/arxiv-2603-05282/README.md) | arXiv 预印本（高相关补充） | [笔记](../daily/2026-06-12/notes/Da-Lin Wang et al. - 2026 - Probing vacuum birefringence in an Ultrastrong Laser Field via High-energy Gamma-ray Polarimetry.md) |
-| 2026-06-11 | [A Fully Electromagnetic Hybrid PIC-Fluid Model for Predictive Fusion Neutron Yield in Dense Plasma Focus](../papers/arxiv-2604-09032/README.md) | arXiv 预印本（高相关补充） | 未生成 |
+| 2026-06-11 | [A Fully Electromagnetic Hybrid PIC-Fluid Model for Predictive Fusion Neutron Yield in Dense Plasma Focus](../papers/10-1088-1741-4326-aebda4/README.md) | Nuclear Fusion, Accepted Manuscript | [笔记](../daily/2026-11-06/notes/Zhao et al. - 2026 - Hybrid PIC fluid dense plasma focus accepted.md) |
 | 2026-06-08 | [Neural network-based deconvolution for GeV-Scale Gamma-Ray Spectroscopy](../papers/10-1017-hpl-2026-10142/README.md) | High Power Laser Science and Engineering（Accepted manuscript，官方已接收） | 未生成 |
 | 2026-06-06 | [High-energy gamma-photons and pair electrons generation in polarized ultraintense laser fields](../papers/10-1038-s41598-026-42431-0/README.md) | Scientific Reports（正式期刊） | 未生成 |
 | 2026-06-06 | [Generation of polarization-tunable hybrid cylindrical vector gamma rays from rotating electron beams](../papers/10-1017-hpl-2026-10121/README.md) | High Power Laser Science and Engineering | 未生成 |
