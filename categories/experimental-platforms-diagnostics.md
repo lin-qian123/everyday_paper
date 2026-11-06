@@ -2,11 +2,14 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：187 篇
-- 索引更新时间：2026-11-06
+- 当前收录：190 篇
+- 索引更新时间：2026-11-07
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-07 | [Formation and persistence of ponderomotive plasma gratings created by finite-duration laser pulses](../papers/10-1103-9237-5stj/README.md) | Physical Review E | [笔记](../daily/2026-11-07/notes/lehmann-2026-finite-pulse-plasma-gratings.md) |
+| 2026-11-07 | [Experimental scaling of diffraction efficiency in laser-induced plasma gratings](../papers/10-1103-9q15-5b5w/README.md) | Physical Review Applied | [笔记](../daily/2026-11-07/notes/wang-2026-experimental-plasma-grating-diffraction.md) |
+| 2026-11-07 | [Fast prediction of electron-beam parameters using transfer maps and machine learning in a digital model of a MeV γγ collider](../papers/arxiv-2611-08036/README.md) | arXiv preprint | [笔记](../daily/2026-11-07/notes/zhang-2026-transfer-maps-ml-gamma-collider.md) |
 | 2026-11-06 | [Experimental Assessment of Prompt Gamma Time Imaging in Complex Anatomy](../papers/arxiv-2611-06683/README.md) | arXiv preprint | [笔记](../daily/2026-11-06/notes/Kavrigin et al. - 2026 - Prompt gamma time imaging complex anatomy.md) |
 | 2026-11-05 | [Perfect crystal neutron loop cavity](../papers/10-1103-vqvb-4vgw/README.md) | Physical Review Research 8, 043124 | [笔记](../daily/2026-11-05/notes/Lailey et al. - 2026 - Perfect crystal neutron loop cavity.md) |
 | 2026-11-05 | [The preplasma origin of the plasma-mirror reflectivity response](../papers/arxiv-2611-04355/README.md) | arXiv preprint | [笔记](../daily/2026-11-05/notes/Wang and Schumacher - 2026 - Preplasma plasma mirror reflectivity.md) |

@@ -1,0 +1,291 @@
+{
+  "reviewed_at": "2026-11-07T07:11:07.875321+08:00",
+  "key_pages_total": 37,
+  "original_excerpts_total": 12,
+  "reviewers": "root plus delegated long-paper reviewers; root checked all12 final crops and integrated notes",
+  "reviews": [
+    {
+      "key": "grating",
+      "pdf_pages": 14,
+      "fulltext_read": true,
+      "visually_inspected_key_pages_1based": [
+        1,
+        4,
+        6,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "original_excerpts": [
+        {
+          "figure": 2,
+          "pdf_page": 4,
+          "crop_points": [
+            45,
+            65,
+            566,
+            451
+          ],
+          "path": "daily/2026-11-07/images/grating/figure-2.png",
+          "sha256": "cb644f46bf681e8498af4598313d96493f5097e043ae85f6f890037df2797a1b",
+          "visually_inspected": true
+        },
+        {
+          "figure": 6,
+          "pdf_page": 6,
+          "crop_points": [
+            305,
+            65,
+            567,
+            299
+          ],
+          "path": "daily/2026-11-07/images/grating/figure-6.png",
+          "sha256": "06590cc0d32085f723516c06d7d53a712988ea6b96bc735b25514275ebe78750",
+          "visually_inspected": true
+        },
+        {
+          "figure": 12,
+          "pdf_page": 11,
+          "crop_points": [
+            45,
+            65,
+            567,
+            272
+          ],
+          "path": "daily/2026-11-07/images/grating/figure-12.png",
+          "sha256": "784f7bb13312573a1d6e5ba9c71c0e8e978a71f77966a744ac72810298015b95",
+          "visually_inspected": true
+        }
+      ]
+    },
+    {
+      "paper": "10.1103/9q15-5b5w",
+      "pdf_pages": 11,
+      "read_scope": "all11 pages layout text;main SectionsI-V,Appendix and reference68 dataset locator",
+      "reviewed_at": "2026-11-06T23:08:24.389600+00:00",
+      "visually_inspected_pages_1based": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "visual_page_count": 9,
+      "original_crops": [
+        {
+          "path": "daily/2026-11-07/images/grating-exp/figure-4-length-scan.png",
+          "source_pdf_key": "grating_exp",
+          "pdf_page_1based": 5,
+          "original_figure": 4,
+          "crop_pdf_points": [
+            310,
+            42,
+            565,
+            342
+          ],
+          "render_scale": 2.5,
+          "sha256": "dfbdd2c0f5fd43c05d916d5ce4856da3847af7240c787a1a1ff965a9b5f75f37",
+          "visual_inspected": true
+        },
+        {
+          "path": "daily/2026-11-07/images/grating-exp/figure-6-intensity-tolerance.png",
+          "source_pdf_key": "grating_exp",
+          "pdf_page_1based": 6,
+          "original_figure": 6,
+          "crop_pdf_points": [
+            310,
+            449,
+            565,
+            638
+          ],
+          "render_scale": 2.5,
+          "sha256": "5c3d92ba6237d8ace63bdeb760cc86d87c591dcb2b6203f930fada248f07e3d8",
+          "visual_inspected": true
+        },
+        {
+          "path": "daily/2026-11-07/images/grating-exp/figure-7-delay-lifetime.png",
+          "source_pdf_key": "grating_exp",
+          "pdf_page_1based": 7,
+          "original_figure": 7,
+          "crop_pdf_points": [
+            310,
+            42,
+            565,
+            322
+          ],
+          "render_scale": 2.5,
+          "sha256": "1fcd7a6d9852e497b3ad474d27ea86556e9cdd602fcb83199fdc82425bea0294",
+          "visual_inspected": true
+        }
+      ],
+      "boundaries": [
+        "actual optical field ionization plasma-neutral CO2 grating experiment; different mechanism from Lehmann ponderomotive Vlasov grating paper",
+        "efficiency is diffracted counts divided by total transmitted signal counts after gas cell, absorption assumed negligible; not laser/pump total energy conversion efficiency",
+        "best35percent mean48percent single shot atsmallD23um,L1.78mm;largeD98um28mean34single,L2.41mm;not same operating point as high intensitytolerance scan",
+        "signal peak intensities3.2e13-2.4e14 W/cm2 estimated from measured energy/attenuated profile and durationplus dispersion;notdirect in-situ intensitymeasurement",
+        "1/e17ps68ps lifetimes are exponentialfits of diffractionefficiency delay scans100shots each,not direct electron density/recombinationlifetimes",
+        "interferometryline-integratedphase and coupled-mode fitteddensity/ADK estimatedtransverse density separated;appendix not3Dnonuniform propagationvalidation",
+        "Fig9 caption4.9e17cm^-3 differs from plotdashedlegend3.9e17and Fig4largeaperture3.9e17; unresolvedstaticannotationdifference"
+      ],
+      "models_rerun": false,
+      "raw_dataset_reanalyzed": false
+    },
+    {
+      "paper": "arXiv:2611.07475v1",
+      "pdf_pages": 24,
+      "read_scope": "all 24 pages layout text; main text Sections I-V and references; no separate appendix",
+      "reviewed_at": "2026-11-06T23:03:52.436498+00:00",
+      "visually_inspected_pages_1based": [
+        9,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "visual_page_count": 12,
+      "original_crops": [
+        {
+          "path": "daily/2026-11-07/images/hosing/figure-1-growth.png",
+          "source_pdf_key": "hose",
+          "pdf_page_1based": 12,
+          "original_figure": 1,
+          "crop_pdf_points": [
+            65,
+            64,
+            548,
+            411
+          ],
+          "render_scale": 2,
+          "sha256": "39dfded93a6b314ea6d61d16defbfcad04ae1f1a92f8241ab37d676ba800bc56",
+          "visual_inspected": true
+        },
+        {
+          "path": "daily/2026-11-07/images/hosing/figure-4-channel-pic.png",
+          "source_pdf_key": "hose",
+          "pdf_page_1based": 19,
+          "original_figure": 4,
+          "crop_pdf_points": [
+            65,
+            64,
+            548,
+            348
+          ],
+          "render_scale": 2,
+          "sha256": "6181b337e4c42e71332de8af462f7af9c3c62271520f51efbb2d250889592d2a",
+          "visual_inspected": true
+        },
+        {
+          "path": "daily/2026-11-07/images/hosing/figure-5-off-axis.png",
+          "source_pdf_key": "hose",
+          "pdf_page_1based": 20,
+          "original_figure": 5,
+          "crop_pdf_points": [
+            65,
+            66,
+            548,
+            217
+          ],
+          "render_scale": 2,
+          "sha256": "8893444d3a4d8f4f5f08ac49fd4956724c3086da963b4f2c17c15074536d994c",
+          "visual_inspected": true
+        }
+      ],
+      "boundaries": [
+        "weakly relativistic Gaussian variational linear model; fixed slowly varying background; neither experiment nor validated nonlinear growth-rate prediction",
+        "2D OSIRIS a0=2 immobile ions run outside formal weakly-relativistic matched-beam domain, offered only as phenomenological support",
+        "Eq31 point omega=k is a simple root of printed Eq27 with nonzero dF/domega; not a general double-root temporal stability boundary; Eq32 inherits this qualification",
+        "Fig5a label 150 differs from caption/text 140; snapshots in Fig4 have different observation times, not equal-time quantitative growth-rate comparison"
+      ],
+      "models_rerun": false,
+      "static_checks_only": true
+    },
+    {
+      "paper": "arXiv:2611.08036v1",
+      "pages": 37,
+      "fulltext_read": "main text plus all22supplementary pages; reference list not individually verified",
+      "visually_inspected_key_pages_1based": [
+        1,
+        4,
+        5,
+        10,
+        11,
+        12,
+        30,
+        36
+      ],
+      "original_excerpts": [
+        {
+          "path": "daily/2026-11-07/images/mlbeam/figure-6-predictor-accuracy.png",
+          "pdf_page_1based": 10,
+          "crop_rect_points": [
+            74,
+            66,
+            533,
+            359
+          ],
+          "sha256": "41d6aad386c6973d6bceb02aebbc80fb0699ab47f600578db95af90e2d57b96d",
+          "source_pdf": "daily/2026-11-07/pdfs/zhang-2026-transfer-maps-ml-gamma-collider.pdf",
+          "type": "unmodified original page excerpt; raster crop with caption",
+          "visually_inspected": true
+        },
+        {
+          "path": "daily/2026-11-07/images/mlbeam/figure-7-measurable-inputs.png",
+          "pdf_page_1based": 11,
+          "crop_rect_points": [
+            64,
+            52,
+            524,
+            466
+          ],
+          "sha256": "961e83b4929750666401324228a05247b5f0f789aecc68e2dd4e65ef01f8fcf3",
+          "source_pdf": "daily/2026-11-07/pdfs/zhang-2026-transfer-maps-ml-gamma-collider.pdf",
+          "type": "unmodified original figure excerpt, caption excluded",
+          "visually_inspected": true
+        },
+        {
+          "path": "daily/2026-11-07/images/mlbeam/figure-8-runtime.png",
+          "pdf_page_1based": 12,
+          "crop_rect_points": [
+            73,
+            70,
+            533,
+            329
+          ],
+          "sha256": "e3c9af602e3fcbb85427a1b7bd0e58d9fe7785f94f73dc708857b29f43b2830d",
+          "source_pdf": "daily/2026-11-07/pdfs/zhang-2026-transfer-maps-ml-gamma-collider.pdf",
+          "type": "unmodified original page excerpt; raster crop with caption",
+          "visually_inspected": true
+        }
+      ],
+      "method": "local layout text and native page rendering after current-run MinerU401/A0211",
+      "not_run": "author particle tracking, model training, prediction or timing",
+      "reviewed_at": "2026-11-06T23:03:46.335790+00:00",
+      "scope_boundaries": [
+        "simulation only; no photon conversion/collisions",
+        "radiation-free downstream labels, CSR qualification unresolved",
+        "fixed normalized lattice strengths and historical two horizontal cuts",
+        "89 unique heldout over overlapping splits;500notblind",
+        "11input study22heldout cases;noise excludes energy in six-target summary",
+        "author simulations/training/timings not rerun"
+      ],
+      "static_questions": [
+        "settings vs beam-moment ensemble counts differ in retained common-case comparison",
+        "unresolved third-order coefficient check is reported by author, not independently reproduced"
+      ]
+    }
+  ],
+  "not_performed": "no author physics models, tracking,training,timing, experiments or raw data analyses rerun"
+}

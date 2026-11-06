@@ -1,0 +1,137 @@
+{
+  "recorded_at": "2026-11-07T07:08:17.481672+08:00",
+  "attempts": [
+    {
+      "key": "mre",
+      "url": "https://pubs.aip.org/aip/mre/article-pdf/doi/10.1063/5.0348878/21194323/017201_1_5.0348878.pdf",
+      "status": 403,
+      "final_url": "https://pubs.aip.org/aip/mre/article-pdf/doi/10.1063/5.0348878/21194323/017201_1_5.0348878.pdf",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5696,
+      "pdf_header": false,
+      "retrieved_at": "2026-11-06T23:01:21.618925+00:00",
+      "nonpdf_excerpt": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-e"
+    },
+    {
+      "key": "ctr",
+      "url": "https://iopscience.iop.org/article/10.1088/1402-4896/aeaeb6/pdf",
+      "status": 200,
+      "final_url": "https://iopscience.iop.org/article/10.1088/1402-4896/aeaeb6/pdf",
+      "content_type": "text/html;charset=UTF-8",
+      "bytes": 194082,
+      "pdf_header": false,
+      "retrieved_at": "2026-11-06T23:01:21.619189+00:00",
+      "nonpdf_excerpt": "<!DOCTYPE html><html xml:lang=\"en\"\n      lang=\"en\"><head><title >Longitudinal phase-space characterization of laser wakefield accelerated electron bea"
+    },
+    {
+      "key": "grating",
+      "url": "https://harvest.aps.org/v2/journals/articles/10.1103/9237-5stj/fulltext",
+      "status": 200,
+      "final_url": "https://harvest.aps.org/v2/journals/articles/10.1103/9237-5stj/fulltext",
+      "content_type": "application/pdf",
+      "bytes": 2472287,
+      "pdf_header": true,
+      "retrieved_at": "2026-11-06T23:01:21.619309+00:00",
+      "nonpdf_excerpt": null
+    },
+    {
+      "key": "isomer",
+      "url": "https://harvest.aps.org/v2/journals/articles/10.1103/rds9-9p7r/fulltext",
+      "status": 401,
+      "final_url": "https://harvest.aps.org/v2/journals/articles/10.1103/rds9-9p7r/fulltext",
+      "content_type": "application/json",
+      "bytes": 57,
+      "pdf_header": false,
+      "retrieved_at": "2026-11-06T23:01:22.697552+00:00",
+      "nonpdf_excerpt": "{\"errors\":[{\"title\":\"10.1103/rds9-9p7r not authorized\"}]}"
+    },
+    {
+      "key": "hose",
+      "url": "https://arxiv.org/pdf/2611.07475v1",
+      "status": 200,
+      "final_url": "https://arxiv.org/pdf/2611.07475v1",
+      "content_type": "application/pdf",
+      "bytes": 6805686,
+      "pdf_header": true,
+      "retrieved_at": "2026-11-06T23:01:24.011974+00:00",
+      "nonpdf_excerpt": null
+    },
+    {
+      "key": "mlbeam",
+      "url": "https://arxiv.org/pdf/2611.08036v1",
+      "status": 200,
+      "final_url": "https://arxiv.org/pdf/2611.08036v1",
+      "content_type": "application/pdf",
+      "bytes": 3108815,
+      "pdf_header": true,
+      "retrieved_at": "2026-11-06T23:01:24.016640+00:00",
+      "nonpdf_excerpt": null
+    },
+    {
+      "key": "hose_abs",
+      "url": "https://arxiv.org/abs/2611.07475v1",
+      "status": 200,
+      "bytes": 40803,
+      "pdf_header": false
+    },
+    {
+      "key": "mlbeam_abs",
+      "url": "https://arxiv.org/abs/2611.08036v1",
+      "status": 200,
+      "bytes": 42638,
+      "pdf_header": false
+    },
+    {
+      "key": "isomer_pdf",
+      "url": "https://journals.aps.org/prc/pdf/10.1103/rds9-9p7r",
+      "status": 403,
+      "bytes": 5514,
+      "pdf_header": false
+    },
+    {
+      "key": "med_list",
+      "url": "https://arxiv.org/list/physics.med-ph/recent",
+      "status": 200,
+      "bytes": 82133,
+      "pdf_header": false
+    },
+    {
+      "key": "grating_page",
+      "url": "https://journals.aps.org/pre/abstract/10.1103/9237-5stj",
+      "status": 403,
+      "bytes": 5550,
+      "pdf_header": false
+    },
+    {
+      "key": "grating_exp",
+      "doi": "10.1103/9q15-5b5w",
+      "title": "Experimental scaling of diffraction efficiency in laser-induced plasma gratings",
+      "url": "https://harvest.aps.org/v2/journals/articles/10.1103/9q15-5b5w/fulltext",
+      "status": 200,
+      "bytes": 2694471,
+      "content_type": "application/pdf",
+      "pdf_header": true
+    },
+    {
+      "key": "zpinch",
+      "doi": "10.1063/5.0329733",
+      "title": "Effect of gas configuration and initial conditions on implosion dynamics and neutron production in gas-puff Z-pinches",
+      "url": "https://pubs.aip.org/aip/jap/article-pdf/doi/10.1063/5.0329733/21194476/173303_1_5.0329733.pdf",
+      "status": 403,
+      "bytes": 5696,
+      "content_type": "text/html; charset=UTF-8",
+      "pdf_header": false
+    },
+    {
+      "key": "tungsten",
+      "doi": "10.1088/1741-4326/aebe49",
+      "title": "Performance and damage mechanisms of dispersion-strengthened tungsten under H-mode plasma in DIII-D",
+      "url": "https://iopscience.iop.org/article/10.1088/1741-4326/aebe49/pdf",
+      "status": 200,
+      "bytes": 14371,
+      "content_type": "text/html; charset=UTF-8",
+      "pdf_header": false
+    }
+  ],
+  "failed_files_not_retained": true
+}

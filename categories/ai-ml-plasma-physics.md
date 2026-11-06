@@ -2,11 +2,12 @@
 
 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。
 
-- 当前收录：92 篇
-- 索引更新时间：2026-11-06
+- 当前收录：93 篇
+- 索引更新时间：2026-11-07
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-07 | [Fast prediction of electron-beam parameters using transfer maps and machine learning in a digital model of a MeV γγ collider](../papers/arxiv-2611-08036/README.md) | arXiv preprint | [笔记](../daily/2026-11-07/notes/zhang-2026-transfer-maps-ml-gamma-collider.md) |
 | 2026-11-05 | [SensOFormer: Foundation Models for Particle Accelerators](../papers/arxiv-2611-02031/README.md) | arXiv preprint; author claims NeurIPS2026 acceptance, proceedings not independently verified | [笔记](../daily/2026-11-05/notes/Rautela and Scheinker - 2026 - SensOFormer accelerator telemetry.md) |
 | 2026-11-04 | [Inverse modelling of a laser-plasma accelerator](../papers/arxiv-2611-00108/README.md) | arXiv preprint | [笔记](../daily/2026-11-04/notes/Lenivenko et al. - 2026 - Inverse modelling laser plasma accelerator.md) |
 | 2026-11-02 | [Bayesian optimization of longitudinally aligned CNT targets for 800 nm laser wakefield acceleration in the bubble regime](../papers/arxiv-2610-38810/README.md) | arXiv preprint | [笔记](../daily/2026-11-02/notes/Nunes et al. - 2026 - Bayesian optimized CNT targets.md) |

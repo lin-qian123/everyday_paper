@@ -1,0 +1,34 @@
+{
+  "saved_at": "2026-11-07T07:08:26.701557+08:00",
+  "leads": [
+    {
+      "id": "2611.08402",
+      "title": "A physics-based-preconditioned quasi-Newton solver for energy- and momentum-conserving implicit hybrid particle-in-cell simulations",
+      "authors": "Prabhat Kumar , Luis Chacón , William J. White , Lujain Almarhabi , Stephen E. Clark",
+      "abstract": "",
+      "status": "metadata/title lead only; fulltext not read or ingested"
+    },
+    {
+      "id": "2611.07107",
+      "title": "A physics-based adaptive low-rank method for 6D Vlasov simulations",
+      "authors": "Fabio Cassini , Lukas Einkemmer",
+      "abstract": "",
+      "status": "metadata/title lead only; fulltext not read or ingested"
+    },
+    {
+      "id": "2611.08210",
+      "title": "Design and study of the electron beam-line at the European XFEL (ELBEX) for strong field quantum electro-dynamics",
+      "authors": "Marin Deniaud",
+      "abstract": "",
+      "status": "metadata/title lead only; fulltext not read or ingested"
+    },
+    {
+      "id": "2611.07672",
+      "title": "Non-axisymmetric MHD equilibria with an arbitrary number of field periods",
+      "authors": "Opal Issan , Lucas José , Matt Landreman , Jonathan Citrin , Brendan Tracey",
+      "abstract": "",
+      "status": "metadata/title lead only; fulltext not read or ingested"
+    }
+  ],
+  "priority": "Restore four new formal fulltexts and isomer fulltext; old prior-day leads remain in their original files; this list is not a scientific assessment"
+}

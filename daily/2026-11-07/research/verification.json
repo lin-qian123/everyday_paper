@@ -1,0 +1,32 @@
+{
+  "verified_at": "2026-11-07T07:13:41.922178+08:00",
+  "status": "passed",
+  "scope_files": 48,
+  "markdown_files": 24,
+  "local_links_checked": 2214,
+  "json_jsonl_files": 12,
+  "decoded_hashmatched_crops": 12,
+  "visual_key_pages": 37,
+  "ledger_records": 540,
+  "unique_nonempty_dois": 536,
+  "normalized_titles_unique": 540,
+  "qualified_arxiv_ids": 355,
+  "old_completed_objects_unchanged": 536,
+  "old_retry_objects_unchanged": 53,
+  "retry_records": 58,
+  "ignored_fulltext_assets": [
+    "daily/2026-11-07/pdfs/lehmann-2026-finite-pulse-plasma-gratings.pdf",
+    "daily/2026-11-07/pdfs/lehmann-2026-finite-pulse-plasma-gratings.txt",
+    "daily/2026-11-07/pdfs/jogiya-2026-hosing-parabolic-channel.pdf",
+    "daily/2026-11-07/pdfs/jogiya-2026-hosing-parabolic-channel.txt",
+    "daily/2026-11-07/pdfs/zhang-2026-transfer-maps-ml-gamma-collider.pdf",
+    "daily/2026-11-07/pdfs/zhang-2026-transfer-maps-ml-gamma-collider.txt",
+    "daily/2026-11-07/pdfs/wang-2026-experimental-plasma-grating-diffraction.pdf",
+    "daily/2026-11-07/pdfs/wang-2026-experimental-plasma-grating-diffraction.txt"
+  ],
+  "pdf_validation": "4PDFs86pages; header/type/hash/page/text/ledger binding matched",
+  "tests": "7passed1.48s",
+  "git_diff_check": "passed",
+  "preexisting_AGENTS_byte_preserved_and_excluded": true,
+  "external_publication": "prepared; actual commit/push receipt follows in automation memory"
+}

@@ -1,0 +1,65 @@
+{
+  "run_date": "2026-11-07",
+  "created_at": "2026-11-07T07:11:07.875321+08:00",
+  "status": "fulltext_ingested_and_local_scope_validation_passed",
+  "processed_before": 536,
+  "processed_after": 540,
+  "added_dois": [
+    "10.1103/9237-5stj",
+    "10.1103/9q15-5b5w",
+    "10.48550/arXiv.2611.07475",
+    "10.48550/arXiv.2611.08036"
+  ],
+  "prior_completed_objects_unchanged": 536,
+  "formal_vor": 2,
+  "author_preprint": 2,
+  "retry_before": 55,
+  "retry_after": 58,
+  "recovered_from_retry": [
+    "10.1103/9237-5stj"
+  ],
+  "new_retries": [
+    "10.1063/5.0348878",
+    "10.1088/1402-4896/aeaeb6",
+    "10.1063/5.0329733",
+    "10.1088/1741-4326/aebe49"
+  ],
+  "updated_retry": "10.1103/rds9-9p7r; actual VOR publication11-06, previous10-07 was acceptance; fulltext still unavailable",
+  "prior_retry_objects_unchanged": 53,
+  "pdfs": 4,
+  "pages": 86,
+  "pdf_bytes": 15081259,
+  "layout_bytes": 389917,
+  "visual_key_pages": 37,
+  "original_excerpts": 12,
+  "mineru": {
+    "requests": 1,
+    "success": 0,
+    "error": "HTTP401/A0211 user token expired",
+    "other_pdfs_not_submitted": 3,
+    "fallback": "local layout text, independent allpage PDF checks and rendering review"
+  },
+  "verification": {
+    "indexes": "540 papers across9categories",
+    "tests": {
+      "command": "PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q",
+      "passed": 7,
+      "duration_seconds": 1.48
+    },
+    "scope_audit": "research/verification.json",
+    "scope_audit_status": "passed",
+    "git_diff_check": "passed"
+  },
+  "scientific_boundaries": [
+    "ionization grating experiment differs from ponderomotive Vlasov numerical grating; efficiency denominator, separate working points and transverse aperture distinguished",
+    "hosing weaklyrelativistic analytic model; Eq31 simple-root static issue;2DPIC a0=2 outside formal linear domain; not experimentally validated",
+    "ML fixed simulation lattice,CSR/ISR/wake disabled,overlapping splits89distinct,11input22testcases and20case timing; no real twin deployment",
+    "no author solver,tracking,ML,timing,raw experimental data or experiment rerun; no new laserconverter-photonuclear isotope endtoend,clinical or shielding acceptance"
+  ],
+  "publication": {
+    "target": "origin/master",
+    "phase": "prepared_for_scoped_audit_then_commit_push; actual receipt will be recorded in automation memory",
+    "preexisting_user_file_excluded": "AGENTS.md"
+  },
+  "artifact_naming_note": "current-run notes and fulltexts use stable ASCII filenames without spaces, ensuring generated bare Markdown destinations parse as links; historical filenames and index generator unchanged"
+}

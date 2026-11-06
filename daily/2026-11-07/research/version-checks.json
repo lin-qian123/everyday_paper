@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Suppression of the Laser Hosing Instability in a Parabolic Plasma Channel",
+    "url": "https://api.crossref.org/works?query.title=Suppression+of+the+Laser+Hosing+Instability+in+a+Parabolic+Plasma+Channel&rows=3",
+    "status": 200,
+    "top3": [
+      {
+        "title": [
+          "Relativistic laser hosing instability suppression and electron acceleration in a preformed plasma channel"
+        ],
+        "doi": "10.1103/physreve.95.043207",
+        "type": "journal-article"
+      },
+      {
+        "title": [
+          "Hosing Instability Suppression in Self-Modulated Plasma Wakefields"
+        ],
+        "doi": "10.1103/physrevlett.112.205001",
+        "type": "journal-article"
+      },
+      {
+        "title": [
+          "Mitigating the hosing instability in relativistic laser-plasma interactions"
+        ],
+        "doi": "10.1088/1367-2630/18/5/053023",
+        "type": "journal-article"
+      }
+    ]
+  },
+  {
+    "title": "Fast prediction of electron-beam parameters using transfer maps and machine learning in a digital model of a MeV gamma gamma collider",
+    "url": "https://api.crossref.org/works?query.title=Fast+prediction+of+electron-beam+parameters+using+transfer+maps+and+machine+learning+in+a+digital+model+of+a+MeV+gamma+gamma+collider&rows=3",
+    "status": 200,
+    "top3": [
+      {
+        "title": [
+          "Comparative design and beam dynamics of magnetic and velocity bunching injectors for MeV-level gamma\u2013gamma collider"
+        ],
+        "doi": "10.1140/epjs/s11734-026-02619-x",
+        "type": "journal-article"
+      },
+      {
+        "title": [
+          "Free electron laser for gamma\u2013gamma collider at TESLA"
+        ],
+        "doi": "10.1016/s0168-9002(00)00135-2",
+        "type": "journal-article"
+      },
+      {
+        "title": [
+          "Estimation of the inverse Compton scattering background in MeV Gamma\u2013Gamma Collider"
+        ],
+        "doi": "10.1140/epjs/s11734-026-02315-w",
+        "type": "journal-article"
+      }
+    ]
+  }
+]

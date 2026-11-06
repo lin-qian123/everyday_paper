@@ -1,10 +1,14 @@
 # 论文总索引
 
-- 当前入库论文：536 篇
-- 索引更新时间：2026-11-06
+- 当前入库论文：540 篇
+- 索引更新时间：2026-11-07
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-11-07 | [Formation and persistence of ponderomotive plasma gratings created by finite-duration laser pulses](./10-1103-9237-5stj/README.md) | Physical Review E | [10.1103/9237-5stj](https://doi.org/10.1103/9237-5stj) |
+| 2026-11-07 | [Experimental scaling of diffraction efficiency in laser-induced plasma gratings](./10-1103-9q15-5b5w/README.md) | Physical Review Applied | [10.1103/9q15-5b5w](https://doi.org/10.1103/9q15-5b5w) |
+| 2026-11-07 | [Suppression of the Laser Hosing Instability in a Parabolic Plasma Channel](./arxiv-2611-07475/README.md) | arXiv preprint | [10.48550/arXiv.2611.07475](https://doi.org/10.48550/arXiv.2611.07475) |
+| 2026-11-07 | [Fast prediction of electron-beam parameters using transfer maps and machine learning in a digital model of a MeV γγ collider](./arxiv-2611-08036/README.md) | arXiv preprint | [10.48550/arXiv.2611.08036](https://doi.org/10.48550/arXiv.2611.08036) |
 | 2026-11-06 | [Strong-gain water-window X-ray laser driven by plasma photocathode wakefield acceleration](./10-1038-s41467-026-78880-4/README.md) | Nature Communications, Article in Press | [10.1038/s41467-026-78880-4](https://doi.org/10.1038/s41467-026-78880-4) |
 | 2026-11-06 | [Experimental Assessment of Prompt Gamma Time Imaging in Complex Anatomy](./arxiv-2611-06683/README.md) | arXiv preprint | [10.48550/arXiv.2611.06683](https://doi.org/10.48550/arXiv.2611.06683) |
 | 2026-11-05 | [Perfect crystal neutron loop cavity](./10-1103-vqvb-4vgw/README.md) | Physical Review Research 8, 043124 | [10.1103/vqvb-4vgw](https://doi.org/10.1103/vqvb-4vgw) |

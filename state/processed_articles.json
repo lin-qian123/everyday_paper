@@ -7877,5 +7877,127 @@
     "note_path": "daily/2026-11-06/notes/Kavrigin et al. - 2026 - Prompt gamma time imaging complex anatomy.md",
     "processed_date": "2026-11-06",
     "normalized_title": "experimental assessment of prompt gamma time imaging in complex anatomy"
+  },
+  {
+    "title": "Formation and persistence of ponderomotive plasma gratings created by finite-duration laser pulses",
+    "doi": "10.1103/9237-5stj",
+    "authors": [
+      "Götz Lehmann",
+      "Sophie Opara",
+      "Karl H. Spatschek"
+    ],
+    "journal": "Physical Review E",
+    "publication_date": "2026-11-06",
+    "publication_date_type": "publisher_vor_publication",
+    "acceptance_date": "2026-10-22",
+    "publication_status": "published version of record; date confirmed on publisher PDF first page",
+    "source_url": "https://doi.org/10.1103/9237-5stj",
+    "pdf_url": "https://harvest.aps.org/v2/journals/articles/10.1103/9237-5stj/fulltext",
+    "pdf_path": "daily/2026-11-07/pdfs/lehmann-2026-finite-pulse-plasma-gratings.pdf",
+    "pdf_sha256": "7efc55691d58b2a74d43601dbc3f4bbed6983d69511dc476623bc66101e71f1d",
+    "note_path": "daily/2026-11-07/notes/lehmann-2026-finite-pulse-plasma-gratings.md",
+    "fulltext_version": "publisher typeset VOR from official APS harvest",
+    "processed_date": "2026-11-07",
+    "categories": [
+      "laser-plasma-acceleration",
+      "pic-and-plasma-simulation",
+      "experimental-platforms-diagnostics"
+    ],
+    "normalized_title": "formation and persistence of ponderomotive plasma gratings created by finite duration laser pulses"
+  },
+  {
+    "title": "Experimental scaling of diffraction efficiency in laser-induced plasma gratings",
+    "doi": "10.1103/9q15-5b5w",
+    "authors": [
+      "M. M. Wang",
+      "V. M. Perez-Ramirez",
+      "N. M. Fasano",
+      "K. Ou",
+      "S. Cao",
+      "V. Dewan",
+      "A. M. Giakas",
+      "A. Morozov",
+      "P. Michel",
+      "M. R. Edwards",
+      "J. M. Mikhailova"
+    ],
+    "journal": "Physical Review Applied",
+    "publication_date": "2026-11-06",
+    "publication_date_type": "publisher_vor_publication",
+    "acceptance_date": "2026-09-29",
+    "publication_status": "published version of record; date confirmed on publisher PDF first page",
+    "source_url": "https://doi.org/10.1103/9q15-5b5w",
+    "pdf_url": "https://harvest.aps.org/v2/journals/articles/10.1103/9q15-5b5w/fulltext",
+    "pdf_path": "daily/2026-11-07/pdfs/wang-2026-experimental-plasma-grating-diffraction.pdf",
+    "pdf_sha256": "eb8b78866d191884c59992f75b2a7f8cc135d4ebe79c20f7608d77d143b1c488",
+    "note_path": "daily/2026-11-07/notes/wang-2026-experimental-plasma-grating-diffraction.md",
+    "fulltext_version": "publisher typeset VOR from official APS harvest",
+    "processed_date": "2026-11-07",
+    "categories": [
+      "laser-plasma-acceleration",
+      "experimental-platforms-diagnostics"
+    ],
+    "normalized_title": "experimental scaling of diffraction efficiency in laser induced plasma gratings"
+  },
+  {
+    "title": "Suppression of the Laser Hosing Instability in a Parabolic Plasma Channel",
+    "doi": "10.48550/arXiv.2611.07475",
+    "authors": [
+      "Jogiya, Yash M",
+      "Pathak, Vishwa Bandhu"
+    ],
+    "journal": "arXiv preprint",
+    "publication_date": "2026-11-05",
+    "publication_date_type": "arxiv_submission",
+    "submission_timestamp_utc": "2026-11-05T05:33:14Z",
+    "announcement_date": "2026-11-06",
+    "publication_status": "author preprint; no same-work journal VOR verified in bounded exact-title Crossref top3 search",
+    "source_url": "https://arxiv.org/abs/2611.07475v1",
+    "arxiv_id": "2611.07475",
+    "arxiv_version": "2611.07475v1",
+    "fulltext_version": "official arXiv v1 author preprint",
+    "categories": [
+      "laser-plasma-acceleration",
+      "pic-and-plasma-simulation"
+    ],
+    "pdf_url": "https://arxiv.org/pdf/2611.07475v1",
+    "pdf_path": "daily/2026-11-07/pdfs/jogiya-2026-hosing-parabolic-channel.pdf",
+    "pdf_sha256": "659c98d2606fd9964e24af42eba5d7854b5394b498022d7debd76d07fd3ae57a",
+    "note_path": "daily/2026-11-07/notes/jogiya-2026-hosing-parabolic-channel.md",
+    "processed_date": "2026-11-07",
+    "normalized_title": "suppression of the laser hosing instability in a parabolic plasma channel"
+  },
+  {
+    "title": "Fast prediction of electron-beam parameters using transfer maps and machine learning in a digital model of a MeV γγ collider",
+    "doi": "10.48550/arXiv.2611.08036",
+    "authors": [
+      "Zhang, Jiawei",
+      "Huang, Yongsheng",
+      "Nie, Yuancun",
+      "Gu, Qiang",
+      "Chen, Yuan",
+      "Bi, Yuanjie"
+    ],
+    "journal": "arXiv preprint",
+    "publication_date": "2026-11-05",
+    "publication_date_type": "arxiv_submission",
+    "submission_timestamp_utc": "2026-11-05T13:53:45Z",
+    "announcement_date": "2026-11-06",
+    "publication_status": "author preprint; no same-work journal VOR verified in bounded exact-title Crossref top3 search",
+    "source_url": "https://arxiv.org/abs/2611.08036v1",
+    "arxiv_id": "2611.08036",
+    "arxiv_version": "2611.08036v1",
+    "fulltext_version": "official arXiv v1 author preprint",
+    "categories": [
+      "ai-ml-plasma-physics",
+      "laser-accelerated-beam-applications",
+      "experimental-platforms-diagnostics"
+    ],
+    "pdf_url": "https://arxiv.org/pdf/2611.08036v1",
+    "pdf_path": "daily/2026-11-07/pdfs/zhang-2026-transfer-maps-ml-gamma-collider.pdf",
+    "pdf_sha256": "f35dcac603ab12d882be3e31c6aa50eca0b530921a1eb335674b9c70e8413b13",
+    "note_path": "daily/2026-11-07/notes/zhang-2026-transfer-maps-ml-gamma-collider.md",
+    "processed_date": "2026-11-07",
+    "normalized_title": "fast prediction of electron beam parameters using transfer maps and machine learning in a digital model of a mev γγ collider"
   }
 ]
