@@ -1,0 +1,54 @@
+{
+  "run_date": "2026-11-08",
+  "created_at": "2026-11-08T07:10:13.882800+08:00",
+  "status": "fulltext_ingested_and_local_scope_validation_passed",
+  "processed_before": 540,
+  "processed_after": 543,
+  "added_dois": [
+    "10.48550/arXiv.2611.08402",
+    "10.48550/arXiv.2611.07107",
+    "10.48550/arXiv.2611.05973"
+  ],
+  "prior_completed_objects_unchanged": 540,
+  "formal_vor": 0,
+  "author_preprint": 3,
+  "retry_before": 58,
+  "retry_after": 59,
+  "new_retries": [
+    "10.1088/1555-6611/aeb86a"
+  ],
+  "prior_retry_objects_unchanged": 58,
+  "pdfs": 3,
+  "pages": 86,
+  "pdf_bytes": 23980734,
+  "layout_bytes": 271077,
+  "visual_key_pages": 35,
+  "original_excerpts": 9,
+  "mineru": {
+    "requests": 0,
+    "success": 0,
+    "method": "not used; local validated text and page rendering"
+  },
+  "scientific_boundaries": [
+    "hybrid186x versus unpreconditionedJFNK25steps,9.3x explicit comparison at similar energy error;GEMreferencecurves timealigned;FRCremap/transport separate",
+    "lowrankee observableagreement does not guarantee distributiontail/localfield accuracy;maxrankpreallocation and printedpseudocodecautions retained",
+    "VHEE MCcalibration/syntheticscans/RFlinacscreen data separated;parameterdiscrepancies and appendixalgebra retained;no clinicalvalidation",
+    "no local author numericalsolver,tracking,MC,ML,fit or experiment rerun;no new laserconverterphotonuclear isotopeendtoend,clinical or shieldingacceptance"
+  ],
+  "publication": {
+    "target": "origin/master",
+    "phase": "local validation,scoped commit/push to follow;actual receipt in automationmemory",
+    "preexisting_user_file_excluded": "AGENTS.md"
+  },
+  "verification": {
+    "indexes": "543papers across9categories",
+    "tests": {
+      "command": "PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q",
+      "passed": 7,
+      "duration_seconds": 3.86
+    },
+    "scope_audit": "research/verification.json",
+    "scope_audit_status": "passed",
+    "git_diff_check": "passed"
+  }
+}

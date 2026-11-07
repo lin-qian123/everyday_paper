@@ -1,0 +1,20 @@
+{
+  "saved_at": "2026-11-08T07:10:13.882800+08:00",
+  "leads": [
+    {
+      "id": "2611.08210",
+      "title": "Design and study of the electron beam-line at the European XFEL (ELBEX) for strong field quantum electro-dynamics",
+      "authors": "Marin Deniaud",
+      "abstract": "",
+      "status": "metadata/title lead only; fulltext not read or ingested"
+    },
+    {
+      "id": "2611.07672",
+      "title": "Non-axisymmetric MHD equilibria with an arbitrary number of field periods",
+      "authors": "Opal Issan , Lucas José , Matt Landreman , Jonathan Citrin , Brendan Tracey",
+      "abstract": "",
+      "status": "metadata/title lead only; fulltext not read or ingested"
+    }
+  ],
+  "priority": "Restore current OPCPA and58existing formal retries through lawful fulltext sources; remaining leads not fulltext-read or ingested. Prior Nov06 unread leads remain in their original file."
+}

@@ -1,0 +1,24 @@
+{
+  "recorded_at": "2026-11-08T07:10:13.882800+08:00",
+  "scope": "Printed-formula algebra and arithmetic only; no author solver,fit,tracking,MC,training,timing or experiment rerun.",
+  "vhee_appendix_a": {
+    "source": "PDFp24(A3)-(A4)",
+    "solution_from_A3": "-C11/D - a1/(2*D**2*L)",
+    "printed_A4": "-a1/(2*D**2*L) + C11/D",
+    "assessment": "Printed sign inconsistent with preceding polynomial; software impact not audited."
+  },
+  "arithmetic": {
+    "hybrid_25step_jfnk_over_amm": 186.19422572178476,
+    "hybrid_25step_mm_over_amm": 1.9238845144356953,
+    "hybrid_fullinterval_explicit_equal_energy_error_over_implicit": 9.303296703296704,
+    "lowrank_gpu_ps1_vs_bug1_time_ratio": 1.2178477690288714,
+    "lowrank_gpu_ps2_vs_bug2_time_ratio": 1.1795620437956205,
+    "lowrank_df_vs_ee_time_ratio_1e_minus3": 2.682584269662921,
+    "fullrank_64cubed_times256cubed_fp64_bytes": 35184372088832
+  },
+  "printed_cautions": [
+    "LowrankAlgorithm3p8line26 assigns squareSnew to rectangularV;line19 lacks explicit singular-basisrotation before truncation;implementation not inspected.",
+    "VHEEabstract13percent conflictsTable9;maximumemittanceerror24.04percent andalphay39.47percent.",
+    "VHEE3.3body emittances differFig8/Table10;calibration squarep12printed45x45cm2;unresolved."
+  ]
+}

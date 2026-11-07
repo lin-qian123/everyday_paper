@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：540 篇
-- 索引更新时间：2026-11-07
+- 当前入库论文：543 篇
+- 索引更新时间：2026-11-08
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-11-08 | [A physics-based-preconditioned quasi-Newton solver for energy- and momentum-conserving implicit hybrid particle-in-cell simulations](./arxiv-2611-08402/README.md) | arXiv preprint | [10.48550/arXiv.2611.08402](https://doi.org/10.48550/arXiv.2611.08402) |
+| 2026-11-08 | [A physics-based adaptive low-rank method for 6D Vlasov simulations](./arxiv-2611-07107/README.md) | arXiv preprint | [10.48550/arXiv.2611.07107](https://doi.org/10.48550/arXiv.2611.07107) |
+| 2026-11-08 | [Estimation of Very High Energy Electron (VHEE) beam parameters using an in-air screen](./arxiv-2611-05973/README.md) | arXiv preprint | [10.48550/arXiv.2611.05973](https://doi.org/10.48550/arXiv.2611.05973) |
 | 2026-11-07 | [Formation and persistence of ponderomotive plasma gratings created by finite-duration laser pulses](./10-1103-9237-5stj/README.md) | Physical Review E | [10.1103/9237-5stj](https://doi.org/10.1103/9237-5stj) |
 | 2026-11-07 | [Experimental scaling of diffraction efficiency in laser-induced plasma gratings](./10-1103-9q15-5b5w/README.md) | Physical Review Applied | [10.1103/9q15-5b5w](https://doi.org/10.1103/9q15-5b5w) |
 | 2026-11-07 | [Suppression of the Laser Hosing Instability in a Parabolic Plasma Channel](./arxiv-2611-07475/README.md) | arXiv preprint | [10.48550/arXiv.2611.07475](https://doi.org/10.48550/arXiv.2611.07475) |

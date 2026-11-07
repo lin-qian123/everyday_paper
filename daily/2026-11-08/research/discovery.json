@@ -1,0 +1,203 @@
+{
+  "run_date": "2026-11-08",
+  "recorded_at": "2026-11-08T07:10:13.882800+08:00",
+  "crossref": {
+    "date_filter": "2026-11-06 through2026-11-08 inclusive",
+    "queries": [
+      {
+        "theme": "laser plasma acceleration",
+        "url": "https://api.crossref.org/works?query=laser+plasma+acceleration&filter=from-pub-date%3A2026-11-06%2Cuntil-pub-date%3A2026-11-08&rows=40",
+        "rows": 40,
+        "total_results": 186,
+        "error": null,
+        "recovered_sequentially_after_http429": false
+      },
+      {
+        "theme": "strong field quantum electrodynamics radiation reaction",
+        "url": "https://api.crossref.org/works?query=strong+field+quantum+electrodynamics+radiation+reaction&filter=from-pub-date%3A2026-11-06%2Cuntil-pub-date%3A2026-11-08&rows=40",
+        "rows": 40,
+        "total_results": 396,
+        "error": null,
+        "recovered_sequentially_after_http429": false
+      },
+      {
+        "theme": "laser electron bremsstrahlung gamma converter",
+        "url": "https://api.crossref.org/works?query=laser+electron+bremsstrahlung+gamma+converter&filter=from-pub-date%3A2026-11-06%2Cuntil-pub-date%3A2026-11-08&rows=40",
+        "rows": 40,
+        "total_results": 199,
+        "error": null,
+        "recovered_sequentially_after_http429": false
+      },
+      {
+        "theme": "laser photonuclear neutron isotope",
+        "url": "https://api.crossref.org/works?query=laser+photonuclear+neutron+isotope&filter=from-pub-date%3A2026-11-06%2Cuntil-pub-date%3A2026-11-08&rows=40",
+        "rows": 40,
+        "total_results": 139,
+        "error": null,
+        "recovered_sequentially_after_http429": false
+      },
+      {
+        "theme": "high energy density inertial confinement fusion",
+        "url": "https://api.crossref.org/works?query=high+energy+density+inertial+confinement+fusion&filter=from-pub-date%3A2026-11-06%2Cuntil-pub-date%3A2026-11-08&rows=40",
+        "rows": 40,
+        "total_results": 821,
+        "error": null,
+        "recovered_sequentially_after_http429": false
+      },
+      {
+        "theme": "particle in cell kinetic simulation",
+        "url": "https://api.crossref.org/works?query=particle+in+cell+kinetic+simulation&filter=from-pub-date%3A2026-11-06%2Cuntil-pub-date%3A2026-11-08&rows=40",
+        "rows": 40,
+        "total_results": 537,
+        "error": null,
+        "recovered_sequentially_after_http429": false
+      },
+      {
+        "theme": "laser proton ion radiotherapy dosimetry",
+        "url": "https://api.crossref.org/works?query=laser+proton+ion+radiotherapy+dosimetry&filter=from-pub-date%3A2026-11-06%2Cuntil-pub-date%3A2026-11-08&rows=40",
+        "rows": 40,
+        "total_results": 197,
+        "error": null,
+        "recovered_sequentially_after_http429": false
+      },
+      {
+        "theme": "nuclear reactions radiation shielding materials",
+        "url": "https://api.crossref.org/works?query=nuclear+reactions+radiation+shielding+materials&filter=from-pub-date%3A2026-11-06%2Cuntil-pub-date%3A2026-11-08&rows=40",
+        "rows": 40,
+        "total_results": 406,
+        "error": null,
+        "recovered_sequentially_after_http429": false
+      },
+      {
+        "theme": "laser target beam diagnostics",
+        "url": "https://api.crossref.org/works?query=laser+target+beam+diagnostics&filter=from-pub-date%3A2026-11-06%2Cuntil-pub-date%3A2026-11-08&rows=40",
+        "rows": 40,
+        "total_results": 231,
+        "error": null,
+        "recovered_sequentially_after_http429": false
+      },
+      {
+        "theme": "machine learning plasma physics",
+        "url": "https://api.crossref.org/works?query=machine+learning+plasma+physics&filter=from-pub-date%3A2026-11-06%2Cuntil-pub-date%3A2026-11-08&rows=40",
+        "rows": 40,
+        "total_results": 1111,
+        "error": null,
+        "recovered_sequentially_after_http429": true
+      }
+    ],
+    "rows": 400,
+    "unique_dois": 272
+  },
+  "arxiv": {
+    "categories": [
+      {
+        "category": "physics.plasm-ph",
+        "url": "https://arxiv.org/list/physics.plasm-ph/recent?skip=0&show=100",
+        "date_heading": "Fri, 6 Nov 2026 (showing 9 of 9 entries )",
+        "rows": 9,
+        "error": null
+      },
+      {
+        "category": "physics.acc-ph",
+        "url": "https://arxiv.org/list/physics.acc-ph/recent?skip=0&show=100",
+        "date_heading": "Fri, 6 Nov 2026 (showing 3 of 3 entries )",
+        "rows": 3,
+        "error": null
+      },
+      {
+        "category": "physics.comp-ph",
+        "url": "https://arxiv.org/list/physics.comp-ph/recent?skip=0&show=100",
+        "date_heading": "Fri, 6 Nov 2026 (showing 16 of 16 entries )",
+        "rows": 16,
+        "error": null
+      },
+      {
+        "category": "nucl-ex",
+        "url": "https://arxiv.org/list/nucl-ex/recent?skip=0&show=100",
+        "date_heading": "Fri, 6 Nov 2026 (showing 6 of 6 entries )",
+        "rows": 6,
+        "error": null
+      },
+      {
+        "category": "nucl-th",
+        "url": "https://arxiv.org/list/nucl-th/recent?skip=0&show=100",
+        "date_heading": "Fri, 6 Nov 2026 (showing 17 of 17 entries )",
+        "rows": 17,
+        "error": null
+      },
+      {
+        "category": "physics.ins-det",
+        "url": "https://arxiv.org/list/physics.ins-det/recent?skip=0&show=100",
+        "date_heading": "Fri, 6 Nov 2026 (showing 6 of 6 entries )",
+        "rows": 6,
+        "error": null
+      },
+      {
+        "category": "physics.med-ph",
+        "url": "https://arxiv.org/list/physics.med-ph/recent?skip=0&show=100",
+        "date_heading": "Fri, 6 Nov 2026 (showing 3 of 3 entries )",
+        "rows": 3,
+        "error": null
+      },
+      {
+        "category": "hep-ph",
+        "url": "https://arxiv.org/list/hep-ph/recent?skip=0&show=100",
+        "date_heading": "Fri, 6 Nov 2026 (showing 51 of 51 entries )",
+        "rows": 51,
+        "error": null
+      },
+      {
+        "category": "cs.LG",
+        "url": "https://arxiv.org/list/cs.LG/recent?skip=0&show=100",
+        "date_heading": "Fri, 6 Nov 2026 (showing first 100 of 224 entries )",
+        "rows": 100,
+        "error": null
+      },
+      {
+        "category": "physics.optics",
+        "url": "https://arxiv.org/list/physics.optics/recent?skip=0&show=100",
+        "date_heading": "Fri, 6 Nov 2026 (showing 30 of 30 entries )",
+        "rows": 30,
+        "error": null
+      }
+    ],
+    "rows": 241,
+    "unique_ids": 222
+  },
+  "limits": [
+    "Relevance top40 per Crossref theme; not exhaustive by date or relevance.",
+    "Newest enclosing arXiv dl only; all headings Nov06; cs.LG first100/224. physics.optics added to ten-category set in this run.",
+    "Same newest date as Nov07 run; no new weekend arXiv announcement; selected previously unprocessed recent leads.",
+    "Crossref ML query initially HTTP429 twice; recovered sequentially.HTTP200JSON; final coverage400rows.",
+    "No full-queue reprobe of58old retries.",
+    "Web explicit searches also checked recent laser/QED/photonuclear and exact method/OPCPA titles; no coverage/ranking inference."
+  ],
+  "selection": [
+    {
+      "id": "2611.08402",
+      "decision": "ingested after independent fulltext validation",
+      "reason": "New preconditioned implicit hybrid-PIC follow-up,distinct from old theta formulation."
+    },
+    {
+      "id": "2611.07107",
+      "decision": "ingested after independent fulltext validation",
+      "reason": "Observable-driven adaptive6DVlasov,GPUmemory/performance tradeoff."
+    },
+    {
+      "id": "2611.05973",
+      "decision": "ingested after independent fulltext validation",
+      "reason": "Beam-quality/scattering diagnostic with MC and RF-linac screen data; prior Nov06 unreadlead."
+    }
+  ],
+  "formal_candidate": {
+    "doi": "10.1088/1555-6611/aeb86a",
+    "decision": "new retry; no note",
+    "reason": "Publisher PDF endpoint gives subscription HTML instead of fulltext."
+  },
+  "exclusions": [
+    "Completed/retry DOI,title or arXiv aliases excluded before PDF work.",
+    "Unrelated laser cooling/textbook chapters,SPIEcommunications/fiber-laser reports,astrophysical neutron-star papers,general nonbeam clinical and materials studies not selected.",
+    "ELBEX2611.08210 and MHD2611.07672 retained unread; no abstract-only notes."
+  ],
+  "sources": "sources.jsonl"
+}

@@ -7999,5 +7999,97 @@
     "note_path": "daily/2026-11-07/notes/zhang-2026-transfer-maps-ml-gamma-collider.md",
     "processed_date": "2026-11-07",
     "normalized_title": "fast prediction of electron beam parameters using transfer maps and machine learning in a digital model of a mev γγ collider"
+  },
+  {
+    "title": "A physics-based-preconditioned quasi-Newton solver for energy- and momentum-conserving implicit hybrid particle-in-cell simulations",
+    "doi": "10.48550/arXiv.2611.08402",
+    "authors": [
+      "Kumar, Prabhat",
+      "Chacón, Luis",
+      "White, William J.",
+      "Almarhabi, Lujain",
+      "Clark, Stephen E."
+    ],
+    "journal": "arXiv preprint",
+    "publication_date": "2026-11-05",
+    "publication_date_type": "arxiv_submission",
+    "submission_timestamp_utc": "2026-11-05T18:12:22Z",
+    "announcement_date": "2026-11-06",
+    "publication_status": "author preprint; no same-work journal VOR verified in bounded exact-title Crossref top3 search",
+    "source_url": "https://arxiv.org/abs/2611.08402v1",
+    "arxiv_id": "2611.08402",
+    "arxiv_version": "2611.08402v1",
+    "fulltext_version": "official arXiv v1 author preprint",
+    "categories": [
+      "pic-and-plasma-simulation",
+      "magnetic-fusion-and-alpha-particles"
+    ],
+    "pdf_url": "https://arxiv.org/pdf/2611.08402v1",
+    "pdf_path": "daily/2026-11-08/pdfs/kumar-2026-preconditioned-implicit-hybrid-pic.pdf",
+    "pdf_sha256": "f6c3da2765b15a60a51bf8c7213a337424b567d22e2ece59ce5df0d7e156d5fd",
+    "note_path": "daily/2026-11-08/notes/kumar-2026-preconditioned-implicit-hybrid-pic.md",
+    "processed_date": "2026-11-08",
+    "normalized_title": "a physics based preconditioned quasi newton solver for energy and momentum conserving implicit hybrid particle in cell simulations"
+  },
+  {
+    "title": "A physics-based adaptive low-rank method for 6D Vlasov simulations",
+    "doi": "10.48550/arXiv.2611.07107",
+    "authors": [
+      "Cassini, Fabio",
+      "Einkemmer, Lukas"
+    ],
+    "journal": "arXiv preprint",
+    "publication_date": "2026-11-04",
+    "publication_date_type": "arxiv_submission",
+    "submission_timestamp_utc": "2026-11-04T20:23:46Z",
+    "announcement_date": "2026-11-06",
+    "publication_status": "author preprint; no same-work journal VOR verified in bounded exact-title Crossref top3 search",
+    "source_url": "https://arxiv.org/abs/2611.07107v1",
+    "arxiv_id": "2611.07107",
+    "arxiv_version": "2611.07107v1",
+    "fulltext_version": "official arXiv v1 author preprint",
+    "categories": [
+      "pic-and-plasma-simulation"
+    ],
+    "pdf_url": "https://arxiv.org/pdf/2611.07107v1",
+    "pdf_path": "daily/2026-11-08/pdfs/cassini-2026-adaptive-lowrank-vlasov.pdf",
+    "pdf_sha256": "51a12fa4baeac75d5b960d671c0f61d89cd60b225203b501a7410ba330373af8",
+    "note_path": "daily/2026-11-08/notes/cassini-2026-adaptive-lowrank-vlasov.md",
+    "processed_date": "2026-11-08",
+    "normalized_title": "a physics based adaptive low rank method for 6d vlasov simulations"
+  },
+  {
+    "title": "Estimation of Very High Energy Electron (VHEE) beam parameters using an in-air screen",
+    "doi": "10.48550/arXiv.2611.05973",
+    "authors": [
+      "Valerian, Joel",
+      "Giansiracusa, Paul",
+      "Lu, Vincent",
+      "Pushkarna, Paarangat",
+      "Rassool, Roger",
+      "Sheehy, Suzie Lyn",
+      "Tan, Yaw-Ren Eugene",
+      "Volpi, Matteo"
+    ],
+    "journal": "arXiv preprint",
+    "publication_date": "2026-11-04",
+    "publication_date_type": "arxiv_submission",
+    "submission_timestamp_utc": "2026-11-04T05:07:26Z",
+    "announcement_date": "2026-11-05",
+    "publication_status": "author preprint; no same-work journal VOR verified in bounded exact-title Crossref top3 search",
+    "source_url": "https://arxiv.org/abs/2611.05973v1",
+    "arxiv_id": "2611.05973",
+    "arxiv_version": "2611.05973v1",
+    "fulltext_version": "official arXiv v1 author preprint",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "experimental-platforms-diagnostics"
+    ],
+    "pdf_url": "https://arxiv.org/pdf/2611.05973v1",
+    "pdf_path": "daily/2026-11-08/pdfs/valerian-2026-vhee-inair-screen.pdf",
+    "pdf_sha256": "16061a40485603593cecf25c1117f98ff24540182967a8b628defb5810ed5f9d",
+    "note_path": "daily/2026-11-08/notes/valerian-2026-vhee-inair-screen.md",
+    "processed_date": "2026-11-08",
+    "normalized_title": "estimation of very high energy electron vhee beam parameters using an in air screen"
   }
 ]

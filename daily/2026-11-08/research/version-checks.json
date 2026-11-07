@@ -1,0 +1,268 @@
+[
+  {
+    "arxiv_id": "2611.08402",
+    "title": "A physics-based-preconditioned quasi-Newton solver for energy- and momentum-conserving implicit hybrid particle-in-cell simulations",
+    "crossref_url": "https://api.crossref.org/works?query.title=A+physics-based-preconditioned+quasi-Newton+solver+for+energy-+and+momentum-conserving+implicit+hybrid+particle-in-cell+simulations&rows=3",
+    "status": 200,
+    "retrieved_at": "2026-11-07T23:01:29.235609+00:00",
+    "matches": [
+      {
+        "DOI": "10.1017/s0022377817000137",
+        "title": [
+          "Multiple-scale kinetic simulations with the energy conserving semi-implicit particle in cell method"
+        ],
+        "type": "journal-article",
+        "container-title": [
+          "Journal of Plasma Physics"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2017,
+              4
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              19
+            ]
+          ]
+        },
+        "relation": null,
+        "score": 36.49314
+      },
+      {
+        "DOI": "10.1016/j.jcp.2017.01.002",
+        "title": [
+          "Exactly energy conserving semi-implicit particle in cell formulation"
+        ],
+        "type": "journal-article",
+        "container-title": [
+          "Journal of Computational Physics"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2017,
+              4
+            ]
+          ]
+        },
+        "published-online": null,
+        "relation": null,
+        "score": 36.01506
+      },
+      {
+        "DOI": "10.1023/a:1011521413158",
+        "title": [
+          "A parallel, implicit, cell‐centered method for two‐phase flow with a preconditioned Newton–Krylov solver"
+        ],
+        "type": "journal-article",
+        "container-title": [
+          "Computational Geosciences"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1997,
+              9
+            ]
+          ]
+        },
+        "published-online": null,
+        "relation": null,
+        "score": 35.94164
+      }
+    ],
+    "submission_history": "Submission history From: Prabhat Kumar [ view email ] [v1] Thu, 5 Nov 2026 18:12:22 UTC (1,350 KB)",
+    "journal_reference": null,
+    "assessment": "No same-work journal VOR verified in these three returned matches or official journal-reference field; bounded, not proof of non-publication."
+  },
+  {
+    "arxiv_id": "2611.07107",
+    "title": "A physics-based adaptive low-rank method for 6D Vlasov simulations",
+    "crossref_url": "https://api.crossref.org/works?query.title=A+physics-based+adaptive+low-rank+method+for+6D+Vlasov+simulations&rows=3",
+    "status": 200,
+    "retrieved_at": "2026-11-07T23:01:30.835068+00:00",
+    "matches": [
+      {
+        "DOI": "10.1016/j.cpc.2022.108489",
+        "title": [
+          "Efficient 6D Vlasov simulation using the dynamical low-rank framework Ensign"
+        ],
+        "type": "journal-article",
+        "container-title": [
+          "Computer Physics Communications"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              11
+            ]
+          ]
+        },
+        "published-online": null,
+        "relation": null,
+        "score": 33.59504
+      },
+      {
+        "DOI": "10.52843/cassyni.fgf51j",
+        "title": [
+          "A  Low Rank Tensor Approach for Nonlinear Vlasov Simulations"
+        ],
+        "type": "posted-content",
+        "container-title": null,
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              25
+            ]
+          ]
+        },
+        "published-online": null,
+        "relation": {
+          "is-based-on": [
+            {
+              "id-type": "doi",
+              "id": "10.1016/j.jcp.2022.111089",
+              "asserted-by": "subject"
+            }
+          ]
+        },
+        "score": 33.10245
+      },
+      {
+        "DOI": "10.1137/22m1473960",
+        "title": [
+          "A Conservative Low Rank Tensor Method for the Vlasov Dynamics"
+        ],
+        "type": "journal-article",
+        "container-title": [
+          "SIAM Journal on Scientific Computing"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              1,
+              23
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2024,
+              1,
+              23
+            ]
+          ]
+        },
+        "relation": null,
+        "score": 29.343636
+      }
+    ],
+    "submission_history": "Submission history From: Fabio Cassini [ view email ] [v1] Wed, 4 Nov 2026 20:23:46 UTC (6,985 KB)",
+    "journal_reference": null,
+    "assessment": "No same-work journal VOR verified in these three returned matches or official journal-reference field; bounded, not proof of non-publication."
+  },
+  {
+    "arxiv_id": "2611.05973",
+    "title": "Estimation of Very High Energy Electron (VHEE) beam parameters using an in-air screen",
+    "crossref_url": "https://api.crossref.org/works?query.title=Estimation+of+Very+High+Energy+Electron+%28VHEE%29+beam+parameters+using+an+in-air+screen&rows=3",
+    "status": 200,
+    "retrieved_at": "2026-11-07T23:01:32.483401+00:00",
+    "matches": [
+      {
+        "DOI": "10.21175/rad.abstr.book.2024.16.2",
+        "title": [
+          "Optimizing Capillary Design for Very High Energy Electron (VHEE) Applications"
+        ],
+        "type": "book-chapter",
+        "container-title": [
+          "Book of Abstracts - RAD 2024 Conference"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2024
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2024
+            ]
+          ]
+        },
+        "relation": null,
+        "score": 38.785557
+      },
+      {
+        "DOI": "10.1051/e3sconf/202568000124",
+        "title": [
+          "Characterization of Titanium Effects on Very High Energy Electron (VHEE) Beams"
+        ],
+        "type": "journal-article",
+        "container-title": [
+          "E3S Web of Conferences"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              12,
+              19
+            ]
+          ]
+        },
+        "relation": null,
+        "score": 37.901836
+      },
+      {
+        "DOI": "10.1016/j.ejmp.2026.106859",
+        "title": [
+          "PERIPHERAL NEUTRON DOSE IN VERY HIGH ENERGY ELECTRON (VHEE) FLASH RADIOTHERAPY"
+        ],
+        "type": "journal-article",
+        "container-title": [
+          "Physica Medica"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "published-online": null,
+        "relation": null,
+        "score": 37.384895
+      }
+    ],
+    "submission_history": "Submission history From: Joel Valerian [ view email ] [v1] Wed, 4 Nov 2026 05:07:26 UTC (12,648 KB)",
+    "journal_reference": null,
+    "assessment": "No same-work journal VOR verified in these three returned matches or official journal-reference field; bounded, not proof of non-publication."
+  },
+  {
+    "arxiv_id": "2611.08402",
+    "comparison_with_existing": "2611.00127v1",
+    "assessment": "New manuscript explicitly cites old theta-implicit formulation as Ref12; adds E/Pe coupled unknowns,physics-based Hall-MHD multigrid preconditioning,analytical mass matrix,GEM cost and FRC formation. Independent follow-up work,not an independent experimental replication; old object/note unchanged."
+  }
+]

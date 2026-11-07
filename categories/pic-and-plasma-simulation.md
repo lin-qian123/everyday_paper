@@ -2,11 +2,13 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：233 篇
-- 索引更新时间：2026-11-07
+- 当前收录：235 篇
+- 索引更新时间：2026-11-08
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-08 | [A physics-based-preconditioned quasi-Newton solver for energy- and momentum-conserving implicit hybrid particle-in-cell simulations](../papers/arxiv-2611-08402/README.md) | arXiv preprint | [笔记](../daily/2026-11-08/notes/kumar-2026-preconditioned-implicit-hybrid-pic.md) |
+| 2026-11-08 | [A physics-based adaptive low-rank method for 6D Vlasov simulations](../papers/arxiv-2611-07107/README.md) | arXiv preprint | [笔记](../daily/2026-11-08/notes/cassini-2026-adaptive-lowrank-vlasov.md) |
 | 2026-11-07 | [Formation and persistence of ponderomotive plasma gratings created by finite-duration laser pulses](../papers/10-1103-9237-5stj/README.md) | Physical Review E | [笔记](../daily/2026-11-07/notes/lehmann-2026-finite-pulse-plasma-gratings.md) |
 | 2026-11-07 | [Suppression of the Laser Hosing Instability in a Parabolic Plasma Channel](../papers/arxiv-2611-07475/README.md) | arXiv preprint | [笔记](../daily/2026-11-07/notes/jogiya-2026-hosing-parabolic-channel.md) |
 | 2026-11-06 | [Strong-gain water-window X-ray laser driven by plasma photocathode wakefield acceleration](../papers/10-1038-s41467-026-78880-4/README.md) | Nature Communications, Article in Press | [笔记](../daily/2026-11-06/notes/Berman et al. - 2026 - Strong gain water window X ray laser.md) |

@@ -1310,5 +1310,41 @@
     "last_failure_class": "html_radware_captcha",
     "stderr": "IOP manuscript PDF URL HTTP200 text/html Radware/CAPTCHA; not solved and not accepted as fulltext.",
     "evidence_path": "daily/2026-11-07/download_report.json"
+  },
+  {
+    "doi": "10.1088/1555-6611/aeb86a",
+    "title": "Performance optimization of an all-OPCPA multi-petawatt laser facility",
+    "authors": [
+      "Na Xie",
+      "Gang Li",
+      "Xiaoming Zeng",
+      "Yi Guo",
+      "Yanlei Zuo",
+      "Feng Lu",
+      "Zheng Huang",
+      "Li Sun",
+      "Lei Yang",
+      "Yong Chen",
+      "Yinzhong Wu",
+      "Dongbin Jiang",
+      "Jie Mu",
+      "Jingqin Su",
+      "Kainan Zhou"
+    ],
+    "source_url": "https://doi.org/10.1088/1555-6611/aeb86a",
+    "publication_date": "2026-11-06",
+    "acceptance_date": "2026-10-22",
+    "publication_date_type": "publisher_published_and_crossref_online; acceptance date distinct",
+    "journal": "Laser Physics",
+    "topic": "多拍瓦OPCPA激光系统与脉冲稳定性",
+    "run_date": "2026-11-08",
+    "status": "retry_fulltext_required_no_abstract_only_note",
+    "attempted_at": "2026-11-07T23:00:49.637335+00:00",
+    "retry_count": 0,
+    "failure_count": 1,
+    "source_family": "iop",
+    "last_failure_class": "subscription_preview_html_instead_of_pdf",
+    "stderr": "Official IOP PDF URL HTTP200 text/html,174220 bytes,subscription login/purchase preview; no PDF magic. No access purchase or challenge bypass. Exact-title web search did not yield a verified alternative fulltext.",
+    "evidence_path": "daily/2026-11-08/download_report.json"
   }
 ]

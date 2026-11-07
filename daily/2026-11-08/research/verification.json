@@ -1,0 +1,46 @@
+{
+  "status": "passed",
+  "audited_at": "2026-11-08T07:12:23.665114+08:00",
+  "ledger": {
+    "before": 540,
+    "after": 543,
+    "old_objects_unchanged": 540,
+    "nonempty_unique_dois": 539,
+    "unique_normalized_titles": 543,
+    "qualified_unique_arxiv_aliases": 358
+  },
+  "retry": {
+    "before": 58,
+    "after": 59,
+    "old_objects_unchanged": 58,
+    "new_doi": "10.1088/1555-6611/aeb86a"
+  },
+  "pdfs": {
+    "count": 3,
+    "pages": 86,
+    "bytes": 23980734,
+    "all_headers_mime_hashes_pagecounts_text_and_ledgerbindings": "passed",
+    "gitignored_pdf_and_layout_files": 6
+  },
+  "visual": {
+    "reviewed_key_pages": 35,
+    "final_original_excerpts": 9,
+    "decoded_crop_pixels_match_original_pdf": true,
+    "png_bytes": 1353723
+  },
+  "parsed_markdown_files": 22,
+  "pandoc_parsed_local_links_checked": 3349,
+  "json_or_jsonl_files_parsed": 12,
+  "tests": {
+    "command": "PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q",
+    "passed": 7,
+    "duration_seconds": 3.86
+  },
+  "preexisting_AGENTS_sha256": "34e18320c8191458fa513b47c4d55f6fc9c63da79e6b02f22d201ce5dfbb8e8d",
+  "user_AGENTS_unchanged_and_excluded": true,
+  "limits": [
+    "Pandoc-parsed local links in current scope checked; legacy bare destinations containing spaces may not parse as links; new asset filenames are ASCII without spaces.",
+    "Scientific observations and printed algebra checks are not authorcode or experiment reproduction.",
+    "Staged and committed blobs will be compared with external temporary manifest before push; actual publicationreceipt recorded in automationmemory."
+  ]
+}

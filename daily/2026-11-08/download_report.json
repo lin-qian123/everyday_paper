@@ -1,0 +1,62 @@
+{
+  "recorded_at": "2026-11-08T07:10:13.882800+08:00",
+  "successful_safe_downloader_reports": [
+    {
+      "ok": true,
+      "output": "daily/2026-11-08/pdfs/kumar-2026-preconditioned-implicit-hybrid-pic.pdf",
+      "source_url": "https://arxiv.org/pdf/2611.08402v1",
+      "mode": "env-proxy",
+      "attempts": []
+    },
+    {
+      "ok": true,
+      "output": "daily/2026-11-08/pdfs/cassini-2026-adaptive-lowrank-vlasov.pdf",
+      "source_url": "https://arxiv.org/pdf/2611.07107v1",
+      "mode": "env-proxy",
+      "attempts": []
+    },
+    {
+      "ok": true,
+      "output": "daily/2026-11-08/pdfs/valerian-2026-vhee-inair-screen.pdf",
+      "source_url": "https://arxiv.org/pdf/2611.05973v1",
+      "mode": "env-proxy",
+      "attempts": []
+    }
+  ],
+  "independent_pdf_validation": "pdf_validation.json",
+  "restricted_attempts": [
+    {
+      "key": "opcpa",
+      "url": "https://iopscience.iop.org/article/10.1088/1555-6611/aeb86a",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "bytes": 174188,
+      "pdf_header": false,
+      "retrieved_at": "2026-11-07T23:00:49.620771+00:00"
+    },
+    {
+      "key": "opcpa-pdf",
+      "url": "https://iopscience.iop.org/article/10.1088/1555-6611/aeb86a/pdf",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "bytes": 174220,
+      "pdf_header": false,
+      "retrieved_at": "2026-11-07T23:00:49.637335+00:00"
+    }
+  ],
+  "restricted_content_summary": {
+    "doi": "10.1088/1555-6611/aeb86a",
+    "pdf_endpoint": "https://iopscience.iop.org/article/10.1088/1555-6611/aeb86a/pdf",
+    "http_status": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "bytes": 174220,
+    "pdf_header": false,
+    "publisher_text": "Published6November2026;accepted22October2026;login/purchase required.",
+    "outcome": "No PDF retained;new retry only."
+  },
+  "mineru": {
+    "requests": 0,
+    "success": 0,
+    "method": "Not used in this run; local layout extraction and originalpage rendering independently validated."
+  }
+}
