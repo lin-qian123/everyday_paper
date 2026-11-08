@@ -2,11 +2,13 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：191 篇
-- 索引更新时间：2026-11-08
+- 当前收录：193 篇
+- 索引更新时间：2026-11-09
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-09 | [3 J/1 Hz opposite diode-pumped Yb:YAG active mirror amplifier at room temperature](../papers/10-1017-hpl-2026-10219/README.md) | High Power Laser Science and Engineering | [笔记](../daily/2026-11-09/notes/liu-2026-ybyag-active-mirror.md) |
+| 2026-11-09 | [Single-crystal X-ray diffraction of BC8 carbon near terapascal pressures](../papers/arxiv-2611-06045/README.md) | arXiv preprint | [笔记](../daily/2026-11-09/notes/sun-2026-bc8-carbon-diffraction.md) |
 | 2026-11-08 | [Estimation of Very High Energy Electron (VHEE) beam parameters using an in-air screen](../papers/arxiv-2611-05973/README.md) | arXiv preprint | [笔记](../daily/2026-11-08/notes/valerian-2026-vhee-inair-screen.md) |
 | 2026-11-07 | [Formation and persistence of ponderomotive plasma gratings created by finite-duration laser pulses](../papers/10-1103-9237-5stj/README.md) | Physical Review E | [笔记](../daily/2026-11-07/notes/lehmann-2026-finite-pulse-plasma-gratings.md) |
 | 2026-11-07 | [Experimental scaling of diffraction efficiency in laser-induced plasma gratings](../papers/10-1103-9q15-5b5w/README.md) | Physical Review Applied | [笔记](../daily/2026-11-07/notes/wang-2026-experimental-plasma-grating-diffraction.md) |

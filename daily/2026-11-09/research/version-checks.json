@@ -1,0 +1,58 @@
+[
+  {
+    "arxiv": "2611.06420",
+    "title": "Influence of Laguerre-Gaussian pulse mode purity on positron acceleration in nonlinear wakefields",
+    "journal_ref": null,
+    "crossref_top3": [
+      {
+        "title": [
+          "Laguerre-Gaussian mode purity of Gaussian vortex beams"
+        ],
+        "doi": "10.1016/j.ijleo.2021.166320",
+        "type": "journal-article"
+      },
+      {
+        "title": [
+          "Acceleration and evolution of a hollow electron beam in wakefields driven by a Laguerre-Gaussian laser pulse"
+        ],
+        "doi": "10.1063/1.4943892",
+        "type": "journal-article"
+      },
+      {
+        "title": [
+          "Nonlinear Laser Driven Donut Wakefields for Positron and Electron Acceleration"
+        ],
+        "doi": "10.1103/physrevlett.112.215001",
+        "type": "journal-article"
+      }
+    ]
+  },
+  {
+    "arxiv": "2611.06045",
+    "title": "Single-crystal X-ray diffraction of BC8 carbon near terapascal pressures",
+    "journal_ref": null,
+    "crossref_top3": [
+      {
+        "title": [
+          "Diamond melting and thermodynamic evidence for BC8 carbon at terapascal pressures"
+        ],
+        "doi": "10.1016/j.xinn.2026.101572",
+        "type": "journal-article"
+      },
+      {
+        "title": [
+          "Single-crystal x-ray diffraction at high pressures"
+        ],
+        "doi": "10.6028/jres.069c.032",
+        "type": "journal-article"
+      },
+      {
+        "title": [
+          "Instrumentation for Single Crystal X-Ray Diffraction at High Pressures"
+        ],
+        "doi": "10.1063/1.1684179",
+        "type": "journal-article"
+      }
+    ]
+  }
+]

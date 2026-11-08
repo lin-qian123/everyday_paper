@@ -1,0 +1,110 @@
+{
+  "recorded_at": "2026-11-09T07:12:02.886361+08:00",
+  "attempts": [
+    {
+      "doi": "10.1007/s12596-026-03352-3",
+      "title": "Analysis of the influence of helical and planar wigglers on electron acceleration in an inverse free-electron laser",
+      "url": "https://link.springer.com/content/pdf/10.1007/s12596-026-03352-3.pdf",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "bytes": 309869,
+      "is_pdf": false,
+      "recorded_at": "2026-11-09T07:12:02.886361+08:00",
+      "final_url_origin_path": "https://link.springer.com/article/10.1007/s12596-026-03352-3",
+      "response_sha256": "60149305715ad12a3228696f91345712f9b03027f5fb1f61ef4da7e65a2254ed",
+      "failure_class": "subscription_preview_html_instead_of_pdf",
+      "interpretation": "No valid full text, no abstract-only note; bounded exact-title web search did not verify a lawful same-work alternative."
+    },
+    {
+      "doi": "10.1088/1361-6587/aebef8",
+      "title": "SPECTRE: A robust solver for 3D equilibria with arbitrary topology",
+      "url": "https://iopscience.iop.org/article/10.1088/1361-6587/aebef8/pdf",
+      "status": 200,
+      "type": "application/pdf;charset=UTF-8",
+      "bytes": 9431047,
+      "is_pdf": true,
+      "recorded_at": "2026-11-09T07:12:02.886361+08:00",
+      "final_url_origin_path": "https://iopscience.iop.org/article/10.1088/1361-6587/aebef8/pdf",
+      "response_sha256": "095c91e0baf1711e52f82fa0b857b6c280481b3c3295396da0b5efebf602dcb3"
+    },
+    {
+      "doi": "10.1088/1361-6587/aebef9",
+      "title": "Development of an attention aware multimodal network for the identification of internal reconnection events in LTX-β",
+      "url": "https://iopscience.iop.org/article/10.1088/1361-6587/aebef9/pdf",
+      "status": 200,
+      "type": "text/html; charset=UTF-8",
+      "bytes": 14371,
+      "is_pdf": false,
+      "recorded_at": "2026-11-09T07:12:02.886361+08:00",
+      "final_url_origin_path": "https://validate.perfdrive.com/fb803c746e9148689b3984a31fccd902/",
+      "response_sha256": "65f84c63cefab54d64eb45a7a9b6daccfe3264a78afe68b316a4884ba48ed051",
+      "failure_class": "radware_validation_html_instead_of_pdf",
+      "interpretation": "No valid full text, no abstract-only note; bounded exact-title web search did not verify a lawful same-work alternative."
+    },
+    {
+      "doi": "10.35848/1347-4065/aebf3d",
+      "title": "Experimental validation of a newly developed neutron ambient dose H* detector in an accelerator-based BNCT field",
+      "url": "https://iopscience.iop.org/article/10.35848/1347-4065/aebf3d/pdf",
+      "status": 200,
+      "type": "text/html; charset=UTF-8",
+      "bytes": 14371,
+      "is_pdf": false,
+      "recorded_at": "2026-11-09T07:12:02.886361+08:00",
+      "final_url_origin_path": "https://validate.perfdrive.com/fb803c746e9148689b3984a31fccd902/",
+      "response_sha256": "4ee5d1eaa5c752abb64dc5a418e9aa4b853d7e11aa675b6965c2f6f0044f14b2",
+      "failure_class": "radware_validation_html_instead_of_pdf",
+      "interpretation": "No valid full text, no abstract-only note; bounded exact-title web search did not verify a lawful same-work alternative."
+    },
+    {
+      "doi": "10.1017/hpl.2026.10219",
+      "title": "3 J/1 Hz opposite diode-pumped Yb:YAG active mirror amplifier at room temperature",
+      "url": "https://doi.org/10.1017/hpl.2026.10219",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "bytes": 774078,
+      "is_pdf": false,
+      "recorded_at": "2026-11-09T07:12:02.886361+08:00",
+      "final_url_origin_path": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/3-j1-hz-opposite-diodepumped-ybyag-active-mirror-amplifier-at-room-temperature/6A21FD4485B5DB219332D5C3594C8AFC",
+      "response_sha256": "a6a31dc4d41761d0b8c58b4cf0ad46ef917f0b941e81838793362017545a206b",
+      "interpretation": "DOI landing HTML expected; actual PDF href resolved successfully",
+      "resolved_pdf": {
+        "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/6A21FD4485B5DB219332D5C3594C8AFC/S2095471926102199a.pdf/3-j1-hz-opposite-diode-pumped-ybyag-active-mirror-amplifier-at-room-temperature.pdf",
+        "final_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/6A21FD4485B5DB219332D5C3594C8AFC/S2095471926102199a.pdf/3-j1-hz-opposite-diode-pumped-ybyag-active-mirror-amplifier-at-room-temperature.pdf",
+        "status": 200,
+        "type": "application/pdf",
+        "bytes": 1393762,
+        "is_pdf": true
+      }
+    },
+    {
+      "doi": "10.48550/arXiv.2611.06420",
+      "url": "https://arxiv.org/pdf/2611.06420v1",
+      "http_status": 200,
+      "bytes": 4232397,
+      "is_pdf": true,
+      "sha256": "28e4657d3aa09060067f67750337368dc04c2d60c65add6a4421c66fe557b83c",
+      "recorded_at": "2026-11-09T07:12:02.886361+08:00"
+    },
+    {
+      "doi": "10.48550/arXiv.2611.06045",
+      "url": "https://arxiv.org/pdf/2611.06045v2",
+      "http_status": 200,
+      "bytes": 714855,
+      "is_pdf": true,
+      "sha256": "cb0f0c8d1a090ae080e7d32642ad8bd9b3bcaaf0aef2996d7bc86b9981a490dc",
+      "recorded_at": "2026-11-09T07:12:02.886361+08:00"
+    }
+  ],
+  "mineru": {
+    "ok": false,
+    "items": [],
+    "errors": [
+      {
+        "source": "https://arxiv.org/pdf/2611.06420v1",
+        "error": "HTTP 401 for https://mineru.net/api/v4/extract/task: {\"traceId\":\"ac54e825e298\",\"msgCode\":\"A0211\",\"msg\":\"user token expired\",\"data\":null,\"success\":false,\"total\":0}",
+        "next_step": "If this is a protected page, try another accessible mirror URL."
+      }
+    ]
+  },
+  "notes": "MinerU only one request, for LG URL, HTTP401/A0211 token expired. Other PDFs not submitted. Direct requests downloads independently validated. No full historical retry probe."
+}

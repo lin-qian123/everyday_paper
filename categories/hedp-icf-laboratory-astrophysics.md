@@ -2,11 +2,12 @@
 
 HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。
 
-- 当前收录：135 篇
-- 索引更新时间：2026-11-08
+- 当前收录：136 篇
+- 索引更新时间：2026-11-09
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-09 | [Single-crystal X-ray diffraction of BC8 carbon near terapascal pressures](../papers/arxiv-2611-06045/README.md) | arXiv preprint | [笔记](../daily/2026-11-09/notes/sun-2026-bc8-carbon-diffraction.md) |
 | 2026-10-30 | [Identification of Magnetic Reconnection in Plasma Turbulence Using a Dual-branch Lightweight Hybrid Convolutional Neural Network](../papers/10-3847-1538-4365-aeaa32/README.md) | The Astrophysical Journal Supplement Series 287, 26 | [笔记](../daily/2026-10-30/notes/Yin et al. - 2026 - DHCNN reconnection identification.md) |
 | 2026-10-29 | [Recovering Non-Maxwellian Velocity Distribution Functions from Collective Thomson Scattering Spectra Using Generalized Basis Representations](../papers/arxiv-2610-37516/README.md) | arXiv preprint | [笔记](../daily/2026-10-29/notes/Baker et al. - 2026 - Non Maxwellian Thomson VDF reconstruction.md) |
 | 2026-10-28 | [Available Energy and Ground States of Convective Hydrodynamic and Hydromagnetic Instabilities](../papers/10-1103-bp24-s332/README.md) | Physical Review Letters 137, 185101 | [笔记](../daily/2026-10-28/notes/Fan and Zhou - 2026 - Available energy convective instabilities.md) |

@@ -2,11 +2,13 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：235 篇
-- 索引更新时间：2026-11-08
+- 当前收录：237 篇
+- 索引更新时间：2026-11-09
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-09 | [SPECTRE: A robust solver for 3D equilibria with arbitrary topology](../papers/10-1088-1361-6587-aebef8/README.md) | Plasma Physics and Controlled Fusion | [笔记](../daily/2026-11-09/notes/balkovic-2026-spectre-equilibria.md) |
+| 2026-11-09 | [Influence of Laguerre-Gaussian pulse mode purity on positron acceleration in nonlinear wakefields](../papers/arxiv-2611-06420/README.md) | arXiv preprint | [笔记](../daily/2026-11-09/notes/reichwein-2026-lg-mode-purity-positrons.md) |
 | 2026-11-08 | [A physics-based-preconditioned quasi-Newton solver for energy- and momentum-conserving implicit hybrid particle-in-cell simulations](../papers/arxiv-2611-08402/README.md) | arXiv preprint | [笔记](../daily/2026-11-08/notes/kumar-2026-preconditioned-implicit-hybrid-pic.md) |
 | 2026-11-08 | [A physics-based adaptive low-rank method for 6D Vlasov simulations](../papers/arxiv-2611-07107/README.md) | arXiv preprint | [笔记](../daily/2026-11-08/notes/cassini-2026-adaptive-lowrank-vlasov.md) |
 | 2026-11-07 | [Formation and persistence of ponderomotive plasma gratings created by finite-duration laser pulses](../papers/10-1103-9237-5stj/README.md) | Physical Review E | [笔记](../daily/2026-11-07/notes/lehmann-2026-finite-pulse-plasma-gratings.md) |

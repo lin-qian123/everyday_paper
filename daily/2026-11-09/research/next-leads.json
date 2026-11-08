@@ -1,0 +1,21 @@
+{
+  "unread": [
+    {
+      "id": "2611.08210v1",
+      "title": "Design and study of the electron beam-line at the European XFEL (ELBEX) for strong field quantum electro-dynamics",
+      "kind": "200-page doctoral thesis, verified from cover/page count, not ingested; abstract and cover only read",
+      "priority": "separate SFQED beamline/background/jitter topic reading"
+    },
+    {
+      "id": "2611.07672v1",
+      "title": "Non-axisymmetric MHD equilibria with an arbitrary number of field periods",
+      "kind": "metadata/abstract only, not ingested"
+    }
+  ],
+  "blocked": [
+    "10.1007/s12596-026-03352-3",
+    "10.1088/1361-6587/aebef9",
+    "10.35848/1347-4065/aebf3d"
+  ],
+  "bc8_supplement": "Referenced supplementary Methods,S1-S6,TablesS1-S5 absent; arXiv src returns same PDF. Obtain lawful supplement and raw diffraction/reflection tables before complete indexing audit."
+}

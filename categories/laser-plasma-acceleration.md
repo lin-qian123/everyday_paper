@@ -2,11 +2,12 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：175 篇
-- 索引更新时间：2026-11-08
+- 当前收录：176 篇
+- 索引更新时间：2026-11-09
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-09 | [Influence of Laguerre-Gaussian pulse mode purity on positron acceleration in nonlinear wakefields](../papers/arxiv-2611-06420/README.md) | arXiv preprint | [笔记](../daily/2026-11-09/notes/reichwein-2026-lg-mode-purity-positrons.md) |
 | 2026-11-07 | [Formation and persistence of ponderomotive plasma gratings created by finite-duration laser pulses](../papers/10-1103-9237-5stj/README.md) | Physical Review E | [笔记](../daily/2026-11-07/notes/lehmann-2026-finite-pulse-plasma-gratings.md) |
 | 2026-11-07 | [Experimental scaling of diffraction efficiency in laser-induced plasma gratings](../papers/10-1103-9q15-5b5w/README.md) | Physical Review Applied | [笔记](../daily/2026-11-07/notes/wang-2026-experimental-plasma-grating-diffraction.md) |
 | 2026-11-07 | [Suppression of the Laser Hosing Instability in a Parabolic Plasma Channel](../papers/arxiv-2611-07475/README.md) | arXiv preprint | [笔记](../daily/2026-11-07/notes/jogiya-2026-hosing-parabolic-channel.md) |

@@ -1,0 +1,170 @@
+{
+  "run_date": "2026-11-09",
+  "formal_first": true,
+  "crossref": {
+    "date_filter": "2026-11-06 to 2026-11-09 journal-article",
+    "rows_per_query": 40,
+    "queries": [
+      {
+        "query": "laser plasma electron ion acceleration",
+        "rows": 40,
+        "status": 200,
+        "error": null
+      },
+      {
+        "query": "laser bremsstrahlung gamma converter target",
+        "rows": 40,
+        "status": 200,
+        "error": null
+      },
+      {
+        "query": "laser photonuclear neutron isotope production",
+        "rows": 40,
+        "status": 200,
+        "error": null
+      },
+      {
+        "query": "strong field quantum electrodynamics",
+        "rows": 40,
+        "status": 200,
+        "error": null
+      },
+      {
+        "query": "high energy density inertial fusion",
+        "rows": 40,
+        "status": 200,
+        "error": null
+      },
+      {
+        "query": "particle in cell simulation",
+        "rows": 40,
+        "status": 200,
+        "error": null
+      },
+      {
+        "query": "machine learning plasma accelerator",
+        "rows": 40,
+        "status": 200,
+        "error": null
+      },
+      {
+        "query": "laser electron proton radiotherapy dosimetry",
+        "rows": 40,
+        "status": 200,
+        "error": null
+      },
+      {
+        "query": "neutron activation shielding materials",
+        "rows": 40,
+        "status": 200,
+        "error": null
+      },
+      {
+        "query": "laser plasma diagnostics target design",
+        "rows": 40,
+        "status": 200,
+        "error": null
+      }
+    ],
+    "rows": 400,
+    "unique_dois": 327
+  },
+  "arxiv": {
+    "categories": [
+      {
+        "category": "physics.plasm-ph",
+        "url": "https://arxiv.org/list/physics.plasm-ph/recent?skip=0&show=100",
+        "date_heading": "Fri, 6 Nov 2026 (showing 9 of 9 entries )",
+        "rows": 9
+      },
+      {
+        "category": "physics.acc-ph",
+        "url": "https://arxiv.org/list/physics.acc-ph/recent?skip=0&show=100",
+        "date_heading": "Fri, 6 Nov 2026 (showing 3 of 3 entries )",
+        "rows": 3
+      },
+      {
+        "category": "physics.comp-ph",
+        "url": "https://arxiv.org/list/physics.comp-ph/recent?skip=0&show=100",
+        "date_heading": "Fri, 6 Nov 2026 (showing 16 of 16 entries )",
+        "rows": 16
+      },
+      {
+        "category": "physics.med-ph",
+        "url": "https://arxiv.org/list/physics.med-ph/recent?skip=0&show=100",
+        "date_heading": "Fri, 6 Nov 2026 (showing 3 of 3 entries )",
+        "rows": 3
+      },
+      {
+        "category": "physics.ins-det",
+        "url": "https://arxiv.org/list/physics.ins-det/recent?skip=0&show=100",
+        "date_heading": "Fri, 6 Nov 2026 (showing 6 of 6 entries )",
+        "rows": 6
+      },
+      {
+        "category": "physics.optics",
+        "url": "https://arxiv.org/list/physics.optics/recent?skip=0&show=100",
+        "date_heading": "Fri, 6 Nov 2026 (showing 30 of 30 entries )",
+        "rows": 30
+      },
+      {
+        "category": "nucl-ex",
+        "url": "https://arxiv.org/list/nucl-ex/recent?skip=0&show=100",
+        "date_heading": "Fri, 6 Nov 2026 (showing 6 of 6 entries )",
+        "rows": 6
+      },
+      {
+        "category": "nucl-th",
+        "url": "https://arxiv.org/list/nucl-th/recent?skip=0&show=100",
+        "date_heading": "Fri, 6 Nov 2026 (showing 17 of 17 entries )",
+        "rows": 17
+      },
+      {
+        "category": "hep-ph",
+        "url": "https://arxiv.org/list/hep-ph/recent?skip=0&show=100",
+        "date_heading": "Fri, 6 Nov 2026 (showing 51 of 51 entries )",
+        "rows": 51
+      },
+      {
+        "category": "cs.LG",
+        "url": "https://arxiv.org/list/cs.LG/recent?skip=0&show=100",
+        "date_heading": "Fri, 6 Nov 2026 (showing first 100 of 224 entries )",
+        "rows": 100
+      }
+    ],
+    "rows": 241,
+    "unique_ids": 222,
+    "limitation": "newest enclosing dl only; latest official announcement Nov06; csLG only first100of224; not exhaustive"
+  },
+  "selection": {
+    "added": [
+      {
+        "doi": "10.1088/1361-6587/aebef8",
+        "title": "SPECTRE: A robust solver for 3D equilibria with arbitrary topology",
+        "version": "publisher Accepted Manuscript"
+      },
+      {
+        "doi": "10.1017/hpl.2026.10219",
+        "title": "3 J/1 Hz opposite diode-pumped Yb:YAG active mirror amplifier at room temperature",
+        "version": "publisher Accepted Manuscript"
+      },
+      {
+        "doi": "10.48550/arXiv.2611.06420",
+        "title": "Influence of Laguerre-Gaussian pulse mode purity on positron acceleration in nonlinear wakefields",
+        "version": "official arXiv v1 author preprint"
+      },
+      {
+        "doi": "10.48550/arXiv.2611.06045",
+        "title": "Single-crystal X-ray diffraction of BC8 carbon near terapascal pressures",
+        "version": "official arXiv v2 author preprint"
+      }
+    ],
+    "new_retry_dois": [
+      "10.1007/s12596-026-03352-3",
+      "10.1088/1361-6587/aebef9",
+      "10.35848/1347-4065/aebf3d"
+    ],
+    "deduplication": "DOI, arxiv qualified IDs, normalized title and existing ledger/notes, source URLs, authors/physical content. Four distinct papers; BC8 thermodynamic predecessor not same-work VOR. ELBEX retained as unread 200-page thesis, not journal article."
+  },
+  "search_limitations": "Bounded relevance-ranked discovery; broad Crossref queries include irrelevant hits. No complete newest-publication coverage claimed; search themes differ from prior run. Official prior leads supplemented for preprints."
+}

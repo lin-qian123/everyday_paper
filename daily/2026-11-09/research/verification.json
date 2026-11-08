@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "verified_at": "2026-11-09T07:15:31.321205+08:00",
+  "ledger_before": 543,
+  "ledger_after": 547,
+  "prior_completed_objects_unchanged": 543,
+  "retry_before": 59,
+  "retry_after": 62,
+  "prior_retry_objects_unchanged": 59,
+  "nonnull_dois_unique": 543,
+  "normalized_titles_unique": 547,
+  "qualified_arxiv_ids_unique": 364,
+  "legacy_processed_retry_overlap_unchanged": [
+    "10.1016/j.jcp.2026.114707"
+  ],
+  "scope_paths": 48,
+  "scope_markdown": 24,
+  "pandoc_parsed_local_links": 3377,
+  "json_jsonl_files": 12,
+  "decoded_pdf_crop_pixel_matches": 12,
+  "ignored_local_pdf_text_assets": 8,
+  "user_agents_sha256_unchanged": "34e18320c8191458fa513b47c4d55f6fc9c63da79e6b02f22d201ce5dfbb8e8d",
+  "tests": {
+    "command": "PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q",
+    "passed": 7,
+    "seconds": 3.12
+  },
+  "git_diff_check": "passed",
+  "staging_and_committed_blob_audit": "to be checked against final snapshot; receipt in automationmemory"
+}

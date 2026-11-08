@@ -1,10 +1,14 @@
 # 论文总索引
 
-- 当前入库论文：543 篇
-- 索引更新时间：2026-11-08
+- 当前入库论文：547 篇
+- 索引更新时间：2026-11-09
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-11-09 | [SPECTRE: A robust solver for 3D equilibria with arbitrary topology](./10-1088-1361-6587-aebef8/README.md) | Plasma Physics and Controlled Fusion | [10.1088/1361-6587/aebef8](https://doi.org/10.1088/1361-6587/aebef8) |
+| 2026-11-09 | [3 J/1 Hz opposite diode-pumped Yb:YAG active mirror amplifier at room temperature](./10-1017-hpl-2026-10219/README.md) | High Power Laser Science and Engineering | [10.1017/hpl.2026.10219](https://doi.org/10.1017/hpl.2026.10219) |
+| 2026-11-09 | [Influence of Laguerre-Gaussian pulse mode purity on positron acceleration in nonlinear wakefields](./arxiv-2611-06420/README.md) | arXiv preprint | [10.48550/arXiv.2611.06420](https://doi.org/10.48550/arXiv.2611.06420) |
+| 2026-11-09 | [Single-crystal X-ray diffraction of BC8 carbon near terapascal pressures](./arxiv-2611-06045/README.md) | arXiv preprint | [10.48550/arXiv.2611.06045](https://doi.org/10.48550/arXiv.2611.06045) |
 | 2026-11-08 | [A physics-based-preconditioned quasi-Newton solver for energy- and momentum-conserving implicit hybrid particle-in-cell simulations](./arxiv-2611-08402/README.md) | arXiv preprint | [10.48550/arXiv.2611.08402](https://doi.org/10.48550/arXiv.2611.08402) |
 | 2026-11-08 | [A physics-based adaptive low-rank method for 6D Vlasov simulations](./arxiv-2611-07107/README.md) | arXiv preprint | [10.48550/arXiv.2611.07107](https://doi.org/10.48550/arXiv.2611.07107) |
 | 2026-11-08 | [Estimation of Very High Energy Electron (VHEE) beam parameters using an in-air screen](./arxiv-2611-05973/README.md) | arXiv preprint | [10.48550/arXiv.2611.05973](https://doi.org/10.48550/arXiv.2611.05973) |

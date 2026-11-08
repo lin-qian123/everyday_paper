@@ -1346,5 +1346,81 @@
     "last_failure_class": "subscription_preview_html_instead_of_pdf",
     "stderr": "Official IOP PDF URL HTTP200 text/html,174220 bytes,subscription login/purchase preview; no PDF magic. No access purchase or challenge bypass. Exact-title web search did not yield a verified alternative fulltext.",
     "evidence_path": "daily/2026-11-08/download_report.json"
+  },
+  {
+    "doi": "10.1007/s12596-026-03352-3",
+    "title": "Analysis of the influence of helical and planar wigglers on electron acceleration in an inverse free-electron laser",
+    "authors": [
+      "Mehdi Asri",
+      "Azadeh Ahmadian"
+    ],
+    "journal": "Journal of Optics",
+    "publication_date": "2026-11-08",
+    "publication_date_type": "publisher VOR date",
+    "source_url": "https://doi.org/10.1007/s12596-026-03352-3",
+    "run_date": "2026-11-09",
+    "status": "retry_fulltext_required_no_abstract_only_note",
+    "recorded_at": "2026-11-09T07:12:02.886361+08:00",
+    "retry_count": 0,
+    "failure_count": 1,
+    "source_family": "springer",
+    "last_failure_class": "subscription_preview_html_instead_of_pdf",
+    "stderr": "Official PDF route HTTP200 text/html; charset=utf-8, 309869 bytes, no PDF magic; publisher subscription preview. Accepted2026-10-01, VOR2026-11-08.",
+    "evidence_path": "daily/2026-11-09/download_report.json",
+    "acceptance_date": "2026-10-01"
+  },
+  {
+    "doi": "10.1088/1361-6587/aebef9",
+    "title": "Development of an attention aware multimodal network for the identification of internal reconnection events in LTX-β",
+    "authors": [
+      "Alex Sidler",
+      "Santanu Banerjee",
+      "Dennis P Boyle",
+      "Anurag Maan",
+      "R Shousha",
+      "Shigeyuki Kubota",
+      "Richard P Majeski"
+    ],
+    "journal": "Plasma Physics and Controlled Fusion",
+    "publication_date": "2026-11-06",
+    "publication_date_type": "Crossref online; publisher links classify manuscript as AM; exact acceptance date unverified",
+    "source_url": "https://doi.org/10.1088/1361-6587/aebef9",
+    "run_date": "2026-11-09",
+    "status": "retry_fulltext_required_no_abstract_only_note",
+    "recorded_at": "2026-11-09T07:12:02.886361+08:00",
+    "retry_count": 0,
+    "failure_count": 1,
+    "source_family": "iop",
+    "last_failure_class": "radware_validation_html_instead_of_pdf",
+    "stderr": "Official PDF route HTTP200 text/html; charset=UTF-8, 14371 bytes, no PDF magic; redirected to Radware validation/CAPTCHA; no challenge bypass.",
+    "evidence_path": "daily/2026-11-09/download_report.json"
+  },
+  {
+    "doi": "10.35848/1347-4065/aebf3d",
+    "title": "Experimental validation of a newly developed neutron ambient dose H* detector in an accelerator-based BNCT field",
+    "authors": [
+      "Liang Zhao",
+      "Hiroki Tanaka",
+      "Naonori Hu",
+      "Takushi Takata",
+      "Shinji Kawabata",
+      "Shunsuke Kurosawa",
+      "Akihiro Yamaji",
+      "Akihiko Masuda",
+      "Tetsuro MATSUMOTO"
+    ],
+    "journal": "Japanese Journal of Applied Physics",
+    "publication_date": "2026-11-06",
+    "publication_date_type": "Crossref online; publisher links classify manuscript as AM; exact acceptance date unverified",
+    "source_url": "https://doi.org/10.35848/1347-4065/aebf3d",
+    "run_date": "2026-11-09",
+    "status": "retry_fulltext_required_no_abstract_only_note",
+    "recorded_at": "2026-11-09T07:12:02.886361+08:00",
+    "retry_count": 0,
+    "failure_count": 1,
+    "source_family": "iop",
+    "last_failure_class": "radware_validation_html_instead_of_pdf",
+    "stderr": "Official PDF route HTTP200 text/html; charset=UTF-8, 14371 bytes, no PDF magic; redirected to Radware validation/CAPTCHA; no challenge bypass.",
+    "evidence_path": "daily/2026-11-09/download_report.json"
   }
 ]
