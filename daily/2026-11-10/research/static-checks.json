@@ -1,0 +1,35 @@
+{
+  "scope": "Static reading and definitions only; no author-code or numerical reproduction",
+  "checks": [
+    {
+      "paper": "Abel",
+      "pages": [
+        8,
+        9,
+        14
+      ],
+      "observation": "For target at rest and c=1, s=M²+2ME and beta=E/(M+E); printed E_CM narrative and Eq11 denominator conflict. Printed R/(4t) corresponds to single-face isotropic thick slab escape; double-face experiment needs explicit sum. Angular averaging and f4 energy-bin convention unresolved. No claim author code used the printed errors."
+    },
+    {
+      "paper": "Varma",
+      "page": 8,
+      "observation": "Body/Fig13 t90=269fs, Fig12 legend273fs. Dose-rate is model-based 90%-integral quantity; quoted errors do not close longitudinal-profile systematics."
+    },
+    {
+      "paper": "Fulci",
+      "pages": [
+        10,
+        11
+      ],
+      "observation": "Whole-spectrum totals include below100keV, tables do not; 4pi source and1m² entrance different acceptance; rates integrated perarea, not fluxdensity."
+    },
+    {
+      "paper": "Sebinanyane",
+      "pages": [
+        12,
+        13
+      ],
+      "observation": "k2 expanded5.40percent differs from repeat-read RSD.77percent; conventional60Co does not validate electronUHDR."
+    }
+  ]
+}

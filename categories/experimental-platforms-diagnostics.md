@@ -2,11 +2,13 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：193 篇
-- 索引更新时间：2026-11-09
+- 当前收录：195 篇
+- 索引更新时间：2026-11-10
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-10 | [Nuclear recoil separation in the photonuclear production of auger electron emitter Germanium-71 for high specific activity medical isotope production](../papers/10-3389-fnuen-2026-1940142/README.md) | Frontiers in Nuclear Engineering | [笔记](../daily/2026-11-10/notes/abel-2026-ge71-recoil.md) |
+| 2026-11-10 | [Optimizationand Performance Assessment of a Low-Dose Alanine Electron Paramagnetic Resonance Dosimetry Procedure for Potential Application in Electron Beam FLASH Radiotherapy](../papers/10-3390-molecules31214029/README.md) | Molecules | [笔记](../daily/2026-11-10/notes/sebinanyane-2026-alanine-epr.md) |
 | 2026-11-09 | [3 J/1 Hz opposite diode-pumped Yb:YAG active mirror amplifier at room temperature](../papers/10-1017-hpl-2026-10219/README.md) | High Power Laser Science and Engineering | [笔记](../daily/2026-11-09/notes/liu-2026-ybyag-active-mirror.md) |
 | 2026-11-09 | [Single-crystal X-ray diffraction of BC8 carbon near terapascal pressures](../papers/arxiv-2611-06045/README.md) | arXiv preprint | [笔记](../daily/2026-11-09/notes/sun-2026-bc8-carbon-diffraction.md) |
 | 2026-11-08 | [Estimation of Very High Energy Electron (VHEE) beam parameters using an in-air screen](../papers/arxiv-2611-05973/README.md) | arXiv preprint | [笔记](../daily/2026-11-08/notes/valerian-2026-vhee-inair-screen.md) |

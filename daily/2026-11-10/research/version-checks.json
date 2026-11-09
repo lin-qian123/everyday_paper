@@ -1,0 +1,373 @@
+[
+  {
+    "arxiv_id": "2611.09329",
+    "title": "Stable, High-Charge, Laser-Driven VHEE Beams for Preclinical Applications",
+    "journal_reference": null,
+    "crossref_exact_title_query": "Stable, High-Charge, Laser-Driven VHEE Beams for Preclinical Applications",
+    "top3": [
+      {
+        "doi": "10.1038/s41598-022-10160-9",
+        "title": [
+          "High-charge electron beams from a laser-wakefield accelerator driven by a CO2 laser"
+        ],
+        "authors": [
+          {
+            "given": "Enrico",
+            "family": "Brunetti",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "R. Neil",
+            "family": "Campbell",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Jack",
+            "family": "Lovell",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Dino A.",
+            "family": "Jaroszynski",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              18
+            ]
+          ]
+        }
+      },
+      {
+        "doi": "10.1038/s41598-021-93276-8",
+        "title": [
+          "Focused VHEE (very high energy electron) beams and dose delivery for radiotherapy applications"
+        ],
+        "authors": [
+          {
+            "given": "L.",
+            "family": "Whitmore",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "R. I.",
+            "family": "Mackay",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "M.",
+            "family": "van Herk",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "J. K.",
+            "family": "Jones",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "R. M.",
+            "family": "Jones",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2021,
+              7,
+              7
+            ]
+          ]
+        }
+      },
+      {
+        "doi": "10.2172/1104907",
+        "title": [
+          "Applications of laser-driven ion beams [Slides]"
+        ],
+        "authors": [
+          {
+            "name": "Los Alamos National Laboratory (LANL), Los Alamos, NM (United States)",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Juan",
+            "family": "Fernandez",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Los Alamos National Laboratory (LANL), Los Alamos, NM (United States)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "name": "USDOE National Nuclear Security Administration (NNSA)",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "name": "USDOE Laboratory Directed Research and Development (LDRD) Program",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2013,
+              11,
+              8
+            ]
+          ]
+        }
+      }
+    ],
+    "conclusion": "No verified same-work journal version in bounded top3; not proof of unpublished status"
+  },
+  {
+    "arxiv_id": "2611.09525",
+    "title": "Secondary neutron beam production at Jefferson Lab",
+    "journal_reference": null,
+    "crossref_exact_title_query": "Secondary neutron beam production at Jefferson Lab",
+    "top3": [
+      {
+        "doi": "10.1063/1.3575020",
+        "title": [
+          "Neutron News from Jefferson Lab"
+        ],
+        "authors": [
+          {
+            "given": "Wolfgang",
+            "family": "Korsch",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2011
+            ]
+          ]
+        }
+      },
+      {
+        "doi": "10.1142/9789812773272_0012",
+        "title": [
+          "NEUTRON TRANSVERSITY AT JEFFERSON LAB"
+        ],
+        "authors": [
+          {
+            "given": "J.P.",
+            "family": "Chen",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Jefferson Lab, Newport News, VA 23606, USA"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "X.",
+            "family": "Jiang",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Rutgers University, Piscataway, NJ 08855, USA"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "J.-C.",
+            "family": "Peng",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Illinois, Urbana, IL 61801, USA"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "L.",
+            "family": "Zhu",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Illinois, Urbana, IL 61801, USA"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "name": "for the Jefferson Lab Hall A Collaboration",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2006,
+              6
+            ]
+          ]
+        }
+      },
+      {
+        "doi": "10.1063/1.4829412",
+        "title": [
+          "The neutron skin in neutron-rich nuclei at Jefferson Lab"
+        ],
+        "authors": [
+          {
+            "given": "Mark M.",
+            "family": "Dalton",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2013
+            ]
+          ]
+        }
+      }
+    ],
+    "conclusion": "No verified same-work journal version in bounded top3; not proof of unpublished status"
+  }
+]

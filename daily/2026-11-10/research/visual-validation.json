@@ -1,0 +1,183 @@
+{
+  "key_page_selection": {
+    "varma-2026-lpa-vhee-preclinical": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11
+    ],
+    "fulci-2026-secondary-neutron-beam": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      9,
+      10,
+      11
+    ],
+    "abel-2026-ge71-recoil": [
+      1,
+      5,
+      6,
+      8,
+      9,
+      12,
+      13,
+      14,
+      15
+    ],
+    "sebinanyane-2026-alanine-epr": [
+      1,
+      3,
+      5,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ]
+  },
+  "key_pages": 37,
+  "original_excerpts": [
+    {
+      "pdf_path": "daily/2026-11-10/pdfs/varma-2026-lpa-vhee-preclinical.pdf",
+      "page_1_based": 4,
+      "crop_rect_pt": [
+        35.648521728515625,
+        342.936,
+        291.1295941162109,
+        532.224
+      ],
+      "matrix_scale": 2,
+      "image_path": "daily/2026-11-10/images/vhee/figure-3-spectrum.png",
+      "sha256": "c68426a5ba2f81553aae80a86f3aaaee1a3ee0a6197149c41ef8ca7a958af9fc"
+    },
+    {
+      "pdf_path": "daily/2026-11-10/pdfs/varma-2026-lpa-vhee-preclinical.pdf",
+      "page_1_based": 8,
+      "crop_rect_pt": [
+        32.67781158447266,
+        423.72,
+        291.1295941162109,
+        590.04
+      ],
+      "matrix_scale": 2,
+      "image_path": "daily/2026-11-10/images/vhee/figure-12-dose-time.png",
+      "sha256": "a32702a8bba0849d14c387a180d86305f00a2a0e9dc851844356bc238aa8f189"
+    },
+    {
+      "pdf_path": "daily/2026-11-10/pdfs/abel-2026-ge71-recoil.pdf",
+      "page_1_based": 5,
+      "crop_rect_pt": [
+        77.38588012695313,
+        92.60790161132813,
+        505.98460083007814,
+        332.54655578613284
+      ],
+      "matrix_scale": 2,
+      "image_path": "daily/2026-11-10/images/ge71/figure-4-target.png",
+      "sha256": "282e6ddd68d84bcc571388ad05d8186cd1d4afe08204fed29fd1cb149157530a"
+    },
+    {
+      "pdf_path": "daily/2026-11-10/pdfs/abel-2026-ge71-recoil.pdf",
+      "page_1_based": 14,
+      "crop_rect_pt": [
+        41.669320068359376,
+        67.351201171875,
+        553.6066809082032,
+        441.9922576904297
+      ],
+      "matrix_scale": 2,
+      "image_path": "daily/2026-11-10/images/ge71/table-4-efficiency.png",
+      "sha256": "92ecdd69507717a1090b005e987a37800b6e9e987c7f027e03df7d59e8576066"
+    },
+    {
+      "pdf_path": "daily/2026-11-10/pdfs/abel-2026-ge71-recoil.pdf",
+      "page_1_based": 9,
+      "crop_rect_pt": [
+        41.669320068359376,
+        75.77010131835937,
+        303.5907604980469,
+        374.6410565185547
+      ],
+      "matrix_scale": 2,
+      "image_path": "daily/2026-11-10/images/ge71/equations-10-13.png",
+      "sha256": "5c34ba0133dffc53042863b0dca47b500429a3da24020a0ec51aa851f731e206"
+    },
+    {
+      "pdf_path": "daily/2026-11-10/pdfs/fulci-2026-secondary-neutron-beam.pdf",
+      "page_1_based": 4,
+      "crop_rect_pt": [
+        312.12,
+        443.52000000000004,
+        581.4,
+        728.64
+      ],
+      "matrix_scale": 2,
+      "image_path": "daily/2026-11-10/images/neutron/figure-3-enhancement.png",
+      "sha256": "1b5e2a7fa5637bfb52dccbfd8248b749f1cd8de542a019721f53d838e5cd2df5"
+    },
+    {
+      "pdf_path": "daily/2026-11-10/pdfs/fulci-2026-secondary-neutron-beam.pdf",
+      "page_1_based": 10,
+      "crop_rect_pt": [
+        36.72,
+        340.56,
+        581.4,
+        609.84
+      ],
+      "matrix_scale": 2,
+      "image_path": "daily/2026-11-10/images/neutron/tables-5-6-transport.png",
+      "sha256": "f862afa5187901da6d3739c18e79bd1f607b2bc6e1aeae7cb3dcc31b8b97669e"
+    },
+    {
+      "pdf_path": "daily/2026-11-10/pdfs/sebinanyane-2026-alanine-epr.pdf",
+      "page_1_based": 11,
+      "crop_rect_pt": [
+        154.77176025390625,
+        218.89140380859376,
+        559.5594409179687,
+        374.6410565185547
+      ],
+      "matrix_scale": 2,
+      "image_path": "daily/2026-11-10/images/alanine/figure-7-calibration.png",
+      "sha256": "68a471ce978edd4e61a8e2ccd9c926b61f7951e151b852eaacdbd684a043d0f9"
+    },
+    {
+      "pdf_path": "daily/2026-11-10/pdfs/sebinanyane-2026-alanine-epr.pdf",
+      "page_1_based": 11,
+      "crop_rect_pt": [
+        154.77176025390625,
+        555.6474096679688,
+        559.5594409179687,
+        702.9781622314453
+      ],
+      "matrix_scale": 2,
+      "image_path": "daily/2026-11-10/images/alanine/figure-8-calibration.png",
+      "sha256": "f97887e34fbb40644cf2d6cb430ca263c50a514b61efa089ba8ede10f8cdd713"
+    },
+    {
+      "pdf_path": "daily/2026-11-10/pdfs/sebinanyane-2026-alanine-epr.pdf",
+      "page_1_based": 12,
+      "crop_rect_pt": [
+        163.7009002685547,
+        454.62060791015625,
+        565.5122009277344,
+        596.0581303710937
+      ],
+      "matrix_scale": 2,
+      "image_path": "daily/2026-11-10/images/alanine/table-1-uncertainty.png",
+      "sha256": "0063df79390d478c8f489b3e50be2c920bd7d700d131527ea993ab93e90de18c"
+    }
+  ],
+  "review": "37 key pages in contact sheets reviewed; final crops separately reviewed before publication"
+}

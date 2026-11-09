@@ -1153,13 +1153,16 @@
     "run_date": "2026-11-06",
     "status": "retry_fulltext_required_no_abstract_only_note",
     "attempted_at": "2026-11-06T07:12:31.173149+08:00",
-    "retry_count": 0,
-    "failure_count": 1,
+    "retry_count": 1,
+    "failure_count": 2,
     "source_family": "aps",
     "last_failure_class": "accepted_fulltext_not_retrieved_ordinary403_harvest404",
     "stderr": "APS accepted page identifies acceptance date, not VOR publication; ordinary PDF HTTP403 verification; official harvest fulltext HTTP404 not found. No matching lawful fulltext verified in bounded exact-title search.",
     "evidence_path": "daily/2026-11-06/download_report.json",
-    "output_pdf": "daily/2026-11-06/pdfs/Bukharskii et al. - 2026 - Submicron films at moderate intensity.pdf"
+    "output_pdf": "daily/2026-11-06/pdfs/Bukharskii et al. - 2026 - Submicron films at moderate intensity.pdf",
+    "last_rechecked_at": "2026-11-10T07:14:24.738331+08:00",
+    "latest_retry_evidence_path": "daily/2026-11-10/research/retry-checks.json",
+    "latest_retry_result": "official APS harvest HTTP404 application/json, 52 bytes; no full text"
   },
   {
     "doi": "10.1103/9szm-dgtr",
@@ -1176,13 +1179,16 @@
     "run_date": "2026-11-06",
     "status": "retry_fulltext_required_no_abstract_only_note",
     "attempted_at": "2026-11-06T07:12:31.173149+08:00",
-    "retry_count": 0,
-    "failure_count": 1,
+    "retry_count": 1,
+    "failure_count": 2,
     "source_family": "aps",
     "last_failure_class": "accepted_fulltext_not_retrieved_ordinary403_harvest404",
     "stderr": "APS accepted page identifies acceptance date, not VOR publication; ordinary PDF HTTP403 verification; official harvest fulltext HTTP404 not found. Related author arXiv2605.30980v2 is dated2026-06-01, with different title and inference claims; not verified as the accepted manuscript, not substituted.",
     "evidence_path": "daily/2026-11-06/download_report.json",
-    "output_pdf": "daily/2026-11-06/pdfs/Lei - 2026 - Differentiable nuclear reaction calibration.pdf"
+    "output_pdf": "daily/2026-11-06/pdfs/Lei - 2026 - Differentiable nuclear reaction calibration.pdf",
+    "last_rechecked_at": "2026-11-10T07:14:24.738331+08:00",
+    "latest_retry_evidence_path": "daily/2026-11-10/research/retry-checks.json",
+    "latest_retry_result": "official APS harvest HTTP404 application/json, 52 bytes; no full text"
   },
   {
     "doi": "10.1063/5.0348878",
@@ -1422,5 +1428,37 @@
     "last_failure_class": "radware_validation_html_instead_of_pdf",
     "stderr": "Official PDF route HTTP200 text/html; charset=UTF-8, 14371 bytes, no PDF magic; redirected to Radware validation/CAPTCHA; no challenge bypass.",
     "evidence_path": "daily/2026-11-09/download_report.json"
+  },
+  {
+    "doi": "10.1088/1741-4326/aeb708",
+    "title": "Enhanced laser-driven directional neutron source via Bayesian optimization of cone targets",
+    "authors": [
+      "W.Y. Zhang",
+      "L.X. Hu",
+      "Y. Cao",
+      "D.B. Zou",
+      "K.Y. Feng",
+      "Z.D. Chen",
+      "J.L. Luo",
+      "Y.T. Hu",
+      "X.R. Xu",
+      "C. Xie",
+      "W.Q. Wang",
+      "X.H. Yang",
+      "T.P. Yu"
+    ],
+    "journal": "Nuclear Fusion",
+    "publication_date": "2026-11-09",
+    "publication_date_type": "Crossref online; print issue 2027-01-01 is separate",
+    "source_url": "https://doi.org/10.1088/1741-4326/aeb708",
+    "run_date": "2026-11-10",
+    "status": "retry_fulltext_required_no_abstract_only_note",
+    "recorded_at": "2026-11-10T07:14:24.738331+08:00",
+    "retry_count": 0,
+    "failure_count": 1,
+    "source_family": "iop",
+    "last_failure_class": "radware_validation_html_instead_of_pdf",
+    "stderr": "Official PDF route HTTP200 text/html; charset=UTF-8, 14371 bytes, redirected to Radware validation. Bounded exact-title web search did not verify alternate legal fulltext; no abstract-only note.",
+    "evidence_path": "daily/2026-11-10/download_report.json"
   }
 ]

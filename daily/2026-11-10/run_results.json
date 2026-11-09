@@ -1,0 +1,59 @@
+{
+  "run_date": "2026-11-10",
+  "created_at": "2026-11-10T07:17:07.322971+08:00",
+  "status": "fulltext_ingested_and_local_scope_validation_passed",
+  "processed_before": 547,
+  "processed_after": 551,
+  "added_dois": [
+    "10.3389/fnuen.2026.1940142",
+    "10.3390/molecules31214029",
+    "10.48550/arXiv.2611.09329",
+    "10.48550/arXiv.2611.09525"
+  ],
+  "prior_completed_objects_unchanged": 547,
+  "formal_vor": 2,
+  "author_preprints": 2,
+  "retry_before": 62,
+  "retry_after": 63,
+  "new_retries": [
+    "10.1088/1741-4326/aeb708"
+  ],
+  "rechecked_old_retries": [
+    "10.1103/3dkl-vphp",
+    "10.1103/9szm-dgtr"
+  ],
+  "prior_retry_objects_unchanged": 60,
+  "pdfs": 4,
+  "pages": 58,
+  "pdf_bytes": 15317361,
+  "layout_bytes": 363299,
+  "visual_key_pages": 37,
+  "original_excerpts": 10,
+  "mineru": {
+    "requests": 0,
+    "success": 0,
+    "fallback": "Known expired credentials from previous run; validated local text and rendered pages only"
+  },
+  "scientific_boundaries": [
+    "Ge recoil count-inferred experimental fraction includes69Ge surrogate, not medical purity; kinematic printed equations need clarification",
+    "Alanine quantitative4-10Gy only conventional60Co, not electronUHDR or biologicalFLASH evidence",
+    "LPA beam and per-shot dose experimental; temporal dose rate model-based,269/273fs mismatch retained",
+    "JLab11GeVRF source and transport FLUKA only,4pi/1m2 acceptance and large farfieldstatisticaluncertainties explicit",
+    "No author-code solver/PIC/MC/fitting or experiments rerun;no laser-photonuclear-isotope endtoend or clinical/shieldingacceptance"
+  ],
+  "publication": {
+    "target": "origin/master",
+    "receipt": "Actual commit/push and remote parity recorded in automation memory after validation",
+    "preexisting_user_file_excluded": "AGENTS.md"
+  },
+  "verification": {
+    "indexes": "551 papers across9 categories",
+    "tests": {
+      "command": "PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q",
+      "passed": 7,
+      "seconds": 3.12
+    },
+    "scope_audit": "research/verification.json",
+    "scope_audit_status": "passed"
+  }
+}

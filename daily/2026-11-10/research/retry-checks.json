@@ -1,0 +1,20 @@
+[
+  {
+    "doi": "10.1103/3dkl-vphp",
+    "url": "https://harvest.aps.org/v2/journals/articles/10.1103/3dkl-vphp/fulltext",
+    "status": 404,
+    "content_type": "application/json",
+    "bytes": 52,
+    "valid_pdf_header": false,
+    "response_excerpt": "{\"errors\":[{\"title\":\"10.1103/3dkl-vphp not found\"}]}"
+  },
+  {
+    "doi": "10.1103/9szm-dgtr",
+    "url": "https://harvest.aps.org/v2/journals/articles/10.1103/9szm-dgtr/fulltext",
+    "status": 404,
+    "content_type": "application/json",
+    "bytes": 52,
+    "valid_pdf_header": false,
+    "response_excerpt": "{\"errors\":[{\"title\":\"10.1103/9szm-dgtr not found\"}]}"
+  }
+]

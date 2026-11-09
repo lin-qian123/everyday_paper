@@ -8245,5 +8245,133 @@
     "normalized_title": "single crystal x ray diffraction of bc8 carbon near terapascal pressures",
     "revision_timestamp_utc": "2026-11-05T05:38:31Z",
     "fulltext_limitations": "12-page main PDF refers to supplementary methods/figures/tables absent from PDF; official source URL returns identical PDF, no independent supplement obtained"
+  },
+  {
+    "title": "Nuclear recoil separation in the photonuclear production of auger electron emitter Germanium-71 for high specific activity medical isotope production",
+    "doi": "10.3389/fnuen.2026.1940142",
+    "authors": [
+      "E. Paige Abel",
+      "Mason Jaussi",
+      "Nick Erfurth"
+    ],
+    "journal": "Frontiers in Nuclear Engineering",
+    "publication_date": "2026-11-09",
+    "publication_date_type": "publisher PDF published date and Crossref online date",
+    "publication_status": "published version of record",
+    "source_url": "https://doi.org/10.3389/fnuen.2026.1940142",
+    "fulltext_version": "publisher typeset version of record",
+    "acceptance_date": "2026-09-30",
+    "pdf_url": "https://www.frontiersin.org/journals/nuclear-engineering/articles/10.3389/fnuen.2026.1940142/pdf",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "experimental-platforms-diagnostics"
+    ],
+    "pdf_path": "daily/2026-11-10/pdfs/abel-2026-ge71-recoil.pdf",
+    "pdf_sha256": "6d5019c88dab45ab212b46ebaf15d99c0c4e017f63b4721270d34f77116965a7",
+    "note_path": "daily/2026-11-10/notes/abel-2026-ge71-recoil.md",
+    "processed_date": "2026-11-10",
+    "normalized_title": "nuclear recoil separation in the photonuclear production of auger electron emitter germanium 71 for high specific activity medical isotope production"
+  },
+  {
+    "title": "Optimizationand Performance Assessment of a Low-Dose Alanine Electron Paramagnetic Resonance Dosimetry Procedure for Potential Application in Electron Beam FLASH Radiotherapy",
+    "doi": "10.3390/molecules31214029",
+    "authors": [
+      "Babedi Sebinanyane",
+      "Urszula Gryczka",
+      "Chamunorwa Oscar Kureba",
+      "Gregory Campbell Hillhouse",
+      "Aneta Sterniczuk",
+      "Marta Walo"
+    ],
+    "journal": "Molecules",
+    "publication_date": "2026-11-09",
+    "publication_date_type": "publisher PDF published date and Crossref online date",
+    "publication_status": "published version of record",
+    "source_url": "https://doi.org/10.3390/molecules31214029",
+    "fulltext_version": "publisher typeset version of record",
+    "acceptance_date": "2026-11-04",
+    "pdf_url": "https://mdpi-res.com/d_attachment/molecules/molecules-31-04029/article_deploy/molecules-31-04029.pdf",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "experimental-platforms-diagnostics"
+    ],
+    "pdf_path": "daily/2026-11-10/pdfs/sebinanyane-2026-alanine-epr.pdf",
+    "pdf_sha256": "7a5cefcc4a8aa051a3767c1dba2a777aebe8d72b5499e31a0cd3d3d067754277",
+    "note_path": "daily/2026-11-10/notes/sebinanyane-2026-alanine-epr.md",
+    "processed_date": "2026-11-10",
+    "normalized_title": "optimizationand performance assessment of a low dose alanine electron paramagnetic resonance dosimetry procedure for potential application in electron beam flash radiotherapy"
+  },
+  {
+    "title": "Stable, High-Charge, Laser-Driven VHEE Beams for Preclinical Applications",
+    "doi": "10.48550/arXiv.2611.09329",
+    "authors": [
+      "Varma, Chaitanya",
+      "Giaccaglia, Camilla",
+      "Gautier, Julien",
+      "Goddet, Jean-Philippe",
+      "Tafzi, Amar",
+      "Rousseau, Pascal",
+      "Flacco, Alessandro"
+    ],
+    "journal": "arXiv preprint",
+    "publication_date": "2026-11-06",
+    "publication_date_type": "arxiv first submission; announcement separate",
+    "submission_timestamp_utc": "2026-11-06T11:23:46Z",
+    "announcement_date": "2026-11-09",
+    "publication_status": "author preprint; bounded Crossref top3 did not verify same-work journal version",
+    "source_url": "https://arxiv.org/abs/2611.09329v1",
+    "arxiv_id": "2611.09329",
+    "arxiv_version": "2611.09329v1",
+    "fulltext_version": "official arXiv v1 author preprint",
+    "pdf_url": "https://arxiv.org/pdf/2611.09329v1",
+    "categories": [
+      "laser-plasma-acceleration",
+      "laser-accelerated-beam-applications",
+      "pic-and-plasma-simulation"
+    ],
+    "pdf_path": "daily/2026-11-10/pdfs/varma-2026-lpa-vhee-preclinical.pdf",
+    "pdf_sha256": "60ca0234c81a283e898a07bc30a97dd1f8dfac7b3bfae32f4f39a93d416ee85a",
+    "note_path": "daily/2026-11-10/notes/varma-2026-lpa-vhee-preclinical.md",
+    "processed_date": "2026-11-10",
+    "normalized_title": "stable high charge laser driven vhee beams for preclinical applications"
+  },
+  {
+    "title": "Secondary neutron beam production at Jefferson Lab",
+    "doi": "10.48550/arXiv.2611.09525",
+    "authors": [
+      "Fulci, A.",
+      "Ambrozewicz, P.",
+      "Battaglieri, M.",
+      "Bondi, M.",
+      "De Vita, R.",
+      "Filippini, M.",
+      "Foti, G.",
+      "Grazzi, S.",
+      "Mandaglio, G.",
+      "Nagorna, T.",
+      "Pilloni, A.",
+      "Spreafico, M.",
+      "Vallarino, S."
+    ],
+    "journal": "arXiv preprint",
+    "publication_date": "2026-11-06",
+    "publication_date_type": "arxiv first submission; announcement separate",
+    "submission_timestamp_utc": "2026-11-06T14:37:35Z",
+    "announcement_date": "2026-11-09",
+    "publication_status": "author preprint; bounded Crossref top3 did not verify same-work journal version",
+    "source_url": "https://arxiv.org/abs/2611.09525v1",
+    "arxiv_id": "2611.09525",
+    "arxiv_version": "2611.09525v1",
+    "fulltext_version": "official arXiv v1 author preprint",
+    "pdf_url": "https://arxiv.org/pdf/2611.09525v1",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "pic-and-plasma-simulation"
+    ],
+    "pdf_path": "daily/2026-11-10/pdfs/fulci-2026-secondary-neutron-beam.pdf",
+    "pdf_sha256": "6298235c61b0cbbfb569aea88d7146192fd901b72f21872120618066af53c152",
+    "note_path": "daily/2026-11-10/notes/fulci-2026-secondary-neutron-beam.md",
+    "processed_date": "2026-11-10",
+    "normalized_title": "secondary neutron beam production at jefferson lab"
   }
 ]

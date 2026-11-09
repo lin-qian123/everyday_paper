@@ -1,0 +1,65 @@
+[
+  {
+    "slug": "varma-2026-lpa-vhee-preclinical",
+    "url": "https://arxiv.org/pdf/2611.09329v1",
+    "status": 200,
+    "final_url": "https://arxiv.org/pdf/2611.09329v1",
+    "content_type": "application/pdf",
+    "bytes": 3739629,
+    "valid_pdf_header": true,
+    "pdf_path": "daily/2026-11-10/pdfs/varma-2026-lpa-vhee-preclinical.pdf",
+    "sha256": "60ca0234c81a283e898a07bc30a97dd1f8dfac7b3bfae32f4f39a93d416ee85a"
+  },
+  {
+    "slug": "fulci-2026-secondary-neutron-beam",
+    "url": "https://arxiv.org/pdf/2611.09525v1",
+    "status": 200,
+    "final_url": "https://arxiv.org/pdf/2611.09525v1",
+    "content_type": "application/pdf",
+    "bytes": 2635838,
+    "valid_pdf_header": true,
+    "pdf_path": "daily/2026-11-10/pdfs/fulci-2026-secondary-neutron-beam.pdf",
+    "sha256": "6298235c61b0cbbfb569aea88d7146192fd901b72f21872120618066af53c152"
+  },
+  {
+    "slug": "cone-neutron",
+    "url": "https://iopscience.iop.org/article/10.1088/1741-4326/aeb708/pdf",
+    "status": 200,
+    "final_url": "https://validate.perfdrive.com/ (Radware validation redirect; challenge parameters omitted)",
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 14371,
+    "valid_pdf_header": false
+  },
+  {
+    "slug": "abel-2026-ge71-recoil",
+    "url": "https://www.frontiersin.org/journals/nuclear-engineering/articles/10.3389/fnuen.2026.1940142/pdf",
+    "status": 200,
+    "final_url": "https://www.frontiersin.org/journals/nuclear-engineering/articles/10.3389/fnuen.2026.1940142/pdf",
+    "content_type": "application/pdf",
+    "bytes": 4482236,
+    "valid_pdf_header": true,
+    "pdf_path": "daily/2026-11-10/pdfs/abel-2026-ge71-recoil.pdf",
+    "sha256": "6d5019c88dab45ab212b46ebaf15d99c0c4e017f63b4721270d34f77116965a7"
+  },
+  {
+    "slug": "alanine",
+    "url": "https://www.mdpi.com/1420-3049/31/21/4029/pdf",
+    "status": 403,
+    "final_url": "https://www.mdpi.com/1420-3049/31/21/4029/pdf",
+    "content_type": "text/html",
+    "bytes": 410,
+    "valid_pdf_header": false
+  },
+  {
+    "slug": "sebinanyane-2026-alanine-epr",
+    "url": "https://mdpi-res.com/d_attachment/molecules/molecules-31-04029/article_deploy/molecules-31-04029.pdf",
+    "status": 200,
+    "final_url": "https://mdpi-res.com/d_attachment/molecules/molecules-31-04029/article_deploy/molecules-31-04029.pdf",
+    "content_type": "application/pdf",
+    "bytes": 4459658,
+    "valid_pdf_header": true,
+    "pdf_path": "daily/2026-11-10/pdfs/sebinanyane-2026-alanine-epr.pdf",
+    "sha256": "7a5cefcc4a8aa051a3767c1dba2a777aebe8d72b5499e31a0cd3d3d067754277",
+    "method": "curl --noproxy; official publisher CDN fallback after main PDF403"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "priority": [
+    {
+      "doi": "10.1088/1741-4326/aeb708",
+      "action": "Recover legal full text; verify 2D PIC to MC normalization, source acceptance and Bayesian optimization uncertainty before writing a note"
+    },
+    {
+      "arxiv_id": "2611.09639",
+      "title": "Are the tearing and the Weibel instabilities the same?",
+      "status": "abstract and metadata only; PDF not read or ingested"
+    },
+    {
+      "arxiv_id": "2611.09541",
+      "title": "Portable Glass-RPC Telescope for Muography and Future Applications at Laser Wake Field Accelerators",
+      "status": "title discovery only; no fulltext reading claim"
+    }
+  ],
+  "carried_leads": "ELBEX thesis and MHD2611.07672 unchanged; no claim of full-text review"
+}

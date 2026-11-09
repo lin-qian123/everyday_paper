@@ -2,11 +2,13 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：237 篇
-- 索引更新时间：2026-11-09
+- 当前收录：239 篇
+- 索引更新时间：2026-11-10
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-10 | [Stable, High-Charge, Laser-Driven VHEE Beams for Preclinical Applications](../papers/arxiv-2611-09329/README.md) | arXiv preprint | [笔记](../daily/2026-11-10/notes/varma-2026-lpa-vhee-preclinical.md) |
+| 2026-11-10 | [Secondary neutron beam production at Jefferson Lab](../papers/arxiv-2611-09525/README.md) | arXiv preprint | [笔记](../daily/2026-11-10/notes/fulci-2026-secondary-neutron-beam.md) |
 | 2026-11-09 | [SPECTRE: A robust solver for 3D equilibria with arbitrary topology](../papers/10-1088-1361-6587-aebef8/README.md) | Plasma Physics and Controlled Fusion | [笔记](../daily/2026-11-09/notes/balkovic-2026-spectre-equilibria.md) |
 | 2026-11-09 | [Influence of Laguerre-Gaussian pulse mode purity on positron acceleration in nonlinear wakefields](../papers/arxiv-2611-06420/README.md) | arXiv preprint | [笔记](../daily/2026-11-09/notes/reichwein-2026-lg-mode-purity-positrons.md) |
 | 2026-11-08 | [A physics-based-preconditioned quasi-Newton solver for energy- and momentum-conserving implicit hybrid particle-in-cell simulations](../papers/arxiv-2611-08402/README.md) | arXiv preprint | [笔记](../daily/2026-11-08/notes/kumar-2026-preconditioned-implicit-hybrid-pic.md) |
