@@ -1,10 +1,14 @@
 # 论文总索引
 
-- 当前入库论文：551 篇
-- 索引更新时间：2026-11-10
+- 当前入库论文：555 篇
+- 索引更新时间：2026-11-11
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-11-11 | [Multi-MA Fusion Accelerator Performance Insensitivity to Electrode Contamination](./10-1103-hkpv-c3y7/README.md) | PRX Energy | [10.1103/hkpv-c3y7](https://doi.org/10.1103/hkpv-c3y7) |
+| 2026-11-11 | [Experimental Evidence of Cellular Sparing under Single-Pulse Picosecond Irradiation at Extreme Dose Rates](./arxiv-2611-12812/README.md) | arXiv preprint | [10.48550/arXiv.2611.12812](https://doi.org/10.48550/arXiv.2611.12812) |
+| 2026-11-11 | [Magnetized plasma modulator for polarization-tunable ultrahigh-power single-cycle lasers](./arxiv-2611-12410/README.md) | arXiv preprint | [10.48550/arXiv.2611.12410](https://doi.org/10.48550/arXiv.2611.12410) |
+| 2026-11-11 | [Online Imitation Learning for Stabilizing Vlasov--Poisson Plasmas](./arxiv-2611-10870/README.md) | arXiv preprint | [10.48550/arXiv.2611.10870](https://doi.org/10.48550/arXiv.2611.10870) |
 | 2026-11-10 | [Nuclear recoil separation in the photonuclear production of auger electron emitter Germanium-71 for high specific activity medical isotope production](./10-3389-fnuen-2026-1940142/README.md) | Frontiers in Nuclear Engineering | [10.3389/fnuen.2026.1940142](https://doi.org/10.3389/fnuen.2026.1940142) |
 | 2026-11-10 | [Optimizationand Performance Assessment of a Low-Dose Alanine Electron Paramagnetic Resonance Dosimetry Procedure for Potential Application in Electron Beam FLASH Radiotherapy](./10-3390-molecules31214029/README.md) | Molecules | [10.3390/molecules31214029](https://doi.org/10.3390/molecules31214029) |
 | 2026-11-10 | [Stable, High-Charge, Laser-Driven VHEE Beams for Preclinical Applications](./arxiv-2611-09329/README.md) | arXiv preprint | [10.48550/arXiv.2611.09329](https://doi.org/10.48550/arXiv.2611.09329) |

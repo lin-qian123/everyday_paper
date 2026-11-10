@@ -2,11 +2,13 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：177 篇
-- 索引更新时间：2026-11-10
+- 当前收录：179 篇
+- 索引更新时间：2026-11-11
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-11 | [Experimental Evidence of Cellular Sparing under Single-Pulse Picosecond Irradiation at Extreme Dose Rates](../papers/arxiv-2611-12812/README.md) | arXiv preprint | [笔记](../daily/2026-11-11/notes/maguire-2026-picosecond-cell-sparing.md) |
+| 2026-11-11 | [Magnetized plasma modulator for polarization-tunable ultrahigh-power single-cycle lasers](../papers/arxiv-2611-12410/README.md) | arXiv preprint | [笔记](../daily/2026-11-11/notes/shuai-2026-magnetized-plasma-modulator.md) |
 | 2026-11-10 | [Stable, High-Charge, Laser-Driven VHEE Beams for Preclinical Applications](../papers/arxiv-2611-09329/README.md) | arXiv preprint | [笔记](../daily/2026-11-10/notes/varma-2026-lpa-vhee-preclinical.md) |
 | 2026-11-09 | [Influence of Laguerre-Gaussian pulse mode purity on positron acceleration in nonlinear wakefields](../papers/arxiv-2611-06420/README.md) | arXiv preprint | [笔记](../daily/2026-11-09/notes/reichwein-2026-lg-mode-purity-positrons.md) |
 | 2026-11-07 | [Formation and persistence of ponderomotive plasma gratings created by finite-duration laser pulses](../papers/10-1103-9237-5stj/README.md) | Physical Review E | [笔记](../daily/2026-11-07/notes/lehmann-2026-finite-pulse-plasma-gratings.md) |

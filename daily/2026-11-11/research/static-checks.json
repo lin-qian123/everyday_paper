@@ -1,0 +1,36 @@
+{
+  "not_author_code_execution": true,
+  "checks": [
+    {
+      "item": "Brown relative peak-current difference",
+      "calculation": "(18.0-17.8)/17.8",
+      "value": 0.011235955056179735,
+      "interpretation": "about1.12percent, consistent with rounded1percent; no significance inference"
+    },
+    {
+      "item": "Shuai compression ratio",
+      "calculation": "3530/2.8",
+      "value": 1260.7142857142858,
+      "interpretation": "1260.7; energy efficiency of two CP pulses is combined"
+    },
+    {
+      "item": "Xia Table1 relative median-energy reduction vs Noisy BC",
+      "value": 0.9455128205128205
+    },
+    {
+      "item": "Xia Table2 relative reduction vs BC, two-stream/bump",
+      "values": [
+        0.9546666666666667,
+        0.9610827374872318
+      ]
+    },
+    {
+      "item": "Xia BC loss normalization",
+      "finding": "Eq3 time integral and constant squared bias epsilon_tr^2 imply T*epsilon_tr^2, while Theorem1 states epsilon_tr^2; printed normalization needs clarification, not a code defect claim"
+    },
+    {
+      "item": "Xia mode and metric notation",
+      "finding": "k1=1,k2=5 physical wavenumber vs index unclear; Fig1 axis norm vs caption half-squared norm; preserved, not silently corrected"
+    }
+  ]
+}

@@ -1,0 +1,875 @@
+[
+  {
+    "arxiv_id": "2611.12812",
+    "query_title": "Experimental Evidence of Cellular Sparing under Single-Pulse Picosecond Irradiation at Extreme Dose Rates",
+    "status": 200,
+    "results": [
+      {
+        "doi": "10.1002/mp.70531",
+        "title": [
+          "Experimental and simulated H2O2 in pure water under conventional and ultra‐high dose rates for single pulse proton irradiation"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              25
+            ]
+          ]
+        },
+        "authors": [
+          {
+            "given": "Daeun",
+            "family": "Kwon",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "LPCA Université Clermont Auvergne, CNRS  Clermont‐Ferrand France"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Vincent",
+            "family": "Fiegel",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "SUBATECH Nantes Université, IMT Atlantique, CNRS  Nantes France"
+              },
+              {
+                "name": "Institut de Cancérologie de l'Ouest  Saint‐Herblain France"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Guillaume",
+            "family": "Blain",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "SUBATECH Nantes Université, IMT Atlantique, CNRS  Nantes France"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Sophie",
+            "family": "Chiavassa",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "SUBATECH Nantes Université, IMT Atlantique, CNRS  Nantes France"
+              },
+              {
+                "name": "Institut de Cancérologie de l'Ouest  Saint‐Herblain France"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Le Tuan",
+            "family": "Anh",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Institute for Nuclear Science and Technology VINATOM  Hanoi Vietnam"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Hoang Ngoc",
+            "family": "Tran",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "LP2I, Université Bordeaux, CNRS  Gradignan France"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Sarra",
+            "family": "Terfas",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "SUBATECH Nantes Université, IMT Atlantique, CNRS  Nantes France"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Manon",
+            "family": "Evin",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "SUBATECH Nantes Université, IMT Atlantique, CNRS  Nantes France"
+              },
+              {
+                "name": "Institut de Cancérologie de l'Ouest  Saint‐Herblain France"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Emeline",
+            "family": "Craff",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "GIP ARRONAX  Saint‐Herblain France"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Sébastien",
+            "family": "Incerti",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "LP2I, Université Bordeaux, CNRS  Gradignan France"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Grégory",
+            "family": "Delpon",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "SUBATECH Nantes Université, IMT Atlantique, CNRS  Nantes France"
+              },
+              {
+                "name": "Institut de Cancérologie de l'Ouest  Saint‐Herblain France"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Ferid",
+            "family": "Haddad",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "SUBATECH Nantes Université, IMT Atlantique, CNRS  Nantes France"
+              },
+              {
+                "name": "GIP ARRONAX  Saint‐Herblain France"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Charbel",
+            "family": "Koumeir",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "GIP ARRONAX  Saint‐Herblain France"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Lydia",
+            "family": "Maigne",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "LPCA Université Clermont Auvergne, CNRS  Clermont‐Ferrand France"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "doi": "10.1016/j.jnoncrysol.2009.12.031",
+        "title": [
+          "Optical–electrical properties of AgInSbTe phase change thin films under single picosecond laser pulse irradiation"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2010,
+              4
+            ]
+          ]
+        },
+        "authors": [
+          {
+            "given": "Fengxiao",
+            "family": "Zhai",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Fangyuan",
+            "family": "Zuo",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Huan",
+            "family": "Huang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yang",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Tianshu",
+            "family": "Lai",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yiqun",
+            "family": "Wu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Fuxi",
+            "family": "Gan",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "doi": "10.1063/1.93207",
+        "title": [
+          "Picosecond laser pulse irradiation of crystalline silicon"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1982,
+              4,
+              15
+            ]
+          ]
+        },
+        "authors": [
+          {
+            "given": "K. L.",
+            "family": "Merkle",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Max-Planck Institut für Metallforschung and Max-Planck Institut für Festkörperforschung, Heisenbergstrasse 1, D-7000 Stuttgart 80, Federal Republic of Germany"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "H.",
+            "family": "Baumgart",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Max-Planck Institut für Metallforschung and Max-Planck Institut für Festkörperforschung, Heisenbergstrasse 1, D-7000 Stuttgart 80, Federal Republic of Germany"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "R. H.",
+            "family": "Uebbing",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Max-Planck Institut für Metallforschung and Max-Planck Institut für Festkörperforschung, Heisenbergstrasse 1, D-7000 Stuttgart 80, Federal Republic of Germany"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "F.",
+            "family": "Phillipp",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Max-Planck Institut für Metallforschung and Max-Planck Institut für Festkörperforschung, Heisenbergstrasse 1, D-7000 Stuttgart 80, Federal Republic of Germany"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "arxiv_id": "2611.12410",
+    "query_title": "Magnetized plasma modulator for polarization-tunable ultrahigh-power single-cycle lasers",
+    "status": 200,
+    "results": [
+      {
+        "doi": "10.1063/1.4971232",
+        "title": [
+          "Plasma-based polarization modulator for high-intensity lasers"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2016,
+              12,
+              1
+            ]
+          ]
+        },
+        "authors": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-9365-836X",
+            "authenticated-orcid": false,
+            "given": "Zi-Yu",
+            "family": "Chen",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Heinrich-Heine-Universität Düsseldorf 1 Institut für Theoretische Physik I, , Düsseldorf D-40225, Germany"
+              },
+              {
+                "name": "China Academy of Engineering Physics 2 LSD, Institute of Fluid Physics, , Mianyang 621999, China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Alexander",
+            "family": "Pukhov",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Heinrich-Heine-Universität Düsseldorf 1 Institut für Theoretische Physik I, , Düsseldorf D-40225, Germany"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "doi": "10.1109/qels.2005.1548989",
+        "title": [
+          "Ultrahigh-speed polarization modulator"
+        ],
+        "published": null,
+        "authors": [
+          {
+            "given": "J.D.",
+            "family": "Bull",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "H.",
+            "family": "Kato",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "A.R.",
+            "family": "Reid",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "M.",
+            "family": "Fairburn",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "B.P.C.",
+            "family": "Tsou",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "D.R.",
+            "family": "Seniuk",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "P.H.",
+            "family": "Lu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "N.A.F.",
+            "family": "Jaeger",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "doi": "10.1364/oe.392026",
+        "title": [
+          "Plasma modulator for high-power intense lasers"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2020,
+              5,
+              11
+            ]
+          ]
+        },
+        "authors": [
+          {
+            "given": "Yao",
+            "family": "Zhao",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Suming",
+            "family": "Weng",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Zhengming",
+            "family": "Sheng",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Ning",
+            "family": "Kang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Huiya",
+            "family": "Liu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jianqiang",
+            "family": "Zhu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jie",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "arxiv_id": "2611.10870",
+    "query_title": "Online Imitation Learning for Stabilizing Vlasov--Poisson Plasmas",
+    "status": 200,
+    "results": [
+      {
+        "doi": "10.1103/physrevlett.95.015002",
+        "title": [
+          "Asymptotic Evolution of Weakly Collisional Vlasov-Poisson Plasmas"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2005,
+              6,
+              27
+            ]
+          ]
+        },
+        "authors": [
+          {
+            "given": "L.",
+            "family": "Galeotti",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "F.",
+            "family": "Califano",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "doi": "10.2514/6.2004-3496",
+        "title": [
+          "Poisson-Vlasov Modeling of Parallel Cylinders in Ionospheric Plasmas"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2004,
+              6,
+              26
+            ]
+          ]
+        },
+        "authors": [
+          {
+            "given": "Eric",
+            "family": "Choiniere",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "University of Michigan"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Brian",
+            "family": "Gilchrist",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Michigan"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "doi": "10.1088/0031-8949/91/11/114002",
+        "title": [
+          "A new class of exact solutions for Vlasov–Poisson plasmas"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2016,
+              10,
+              18
+            ]
+          ]
+        },
+        "authors": [
+          {
+            "given": "A R",
+            "family": "Karimov",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "National Research Nuclear University MEPhI"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "M Y",
+            "family": "Yu",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Ruhr-Universität Bochum"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "L",
+            "family": "Stenflo",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Linköping University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

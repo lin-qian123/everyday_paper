@@ -1,0 +1,58 @@
+{
+  "run_date": "2026-11-11",
+  "created_at": "2026-11-11T07:08:34.447715+08:00",
+  "status": "fulltext_ingested_and_local_scope_validation_passed",
+  "processed_before": 551,
+  "processed_after": 555,
+  "added_dois": [
+    "10.1103/hkpv-c3y7",
+    "10.48550/arXiv.2611.12812",
+    "10.48550/arXiv.2611.12410",
+    "10.48550/arXiv.2611.10870"
+  ],
+  "prior_completed_objects_unchanged": 551,
+  "formal_vor": 1,
+  "author_preprints": 3,
+  "retry_before": 63,
+  "retry_after": 64,
+  "new_retries": [
+    "10.1088/1741-4326/aebb4a"
+  ],
+  "targeted_old_retry_rechecks": [
+    "10.1088/1741-4326/aeb708"
+  ],
+  "prior_retry_objects_unchanged": 62,
+  "pdfs": 4,
+  "pages": 83,
+  "pdf_bytes": 18637962,
+  "layout_bytes": 272639,
+  "visual_key_pages": 25,
+  "original_excerpts": 9,
+  "mineru": {
+    "requests": 0,
+    "success": 0,
+    "method": "Known expired credentials from prior run; local text and rendered pages only"
+  },
+  "scientific_boundaries": [
+    "Brown two-shot model-inferred current comparison; no fuel, external magnetic coils or preheat, no fusion-yield measurement",
+    "Maguire in-vitro normal and cancer cells; source vs cell durations distinct, AG01522-D RBE10 extrapolated, S1-S5 unavailable, no clinical/selective normal-tissue result",
+    "Shuai ideal1D/2DPIC; EW/ZW aperture extrapolation;2D uses120T, efficiency for both subpulses combined",
+    "Xia analytical/1D continuum numerical control; finite-horizon conditional theorem, printed loss/mode/metric issues retained; no true tokamak/PIC deployment",
+    "No author physics/MC/ML/timing or experiments rerun; no new laser photonuclear isotope end-to-end chain, clinical or shielding acceptance"
+  ],
+  "publication": {
+    "target": "origin/master",
+    "receipt": "actual commit/push/remote parity recorded in automation memory after publication",
+    "preexisting_user_file_excluded": "AGENTS.md"
+  },
+  "verification": {
+    "indexes": "555 papers across9 categories",
+    "tests": {
+      "command": "PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q",
+      "passed": 7,
+      "seconds": 54.94
+    },
+    "scope_audit": "research/verification.json",
+    "scope_audit_status": "passed"
+  }
+}

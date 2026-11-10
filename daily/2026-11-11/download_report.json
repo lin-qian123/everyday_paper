@@ -1,0 +1,70 @@
+[
+  {
+    "slug": "maguire-2026-picosecond-cell-sparing",
+    "url": "https://arxiv.org/pdf/2611.12812v1",
+    "status": 200,
+    "final_url": "https://arxiv.org/pdf/2611.12812v1",
+    "content_type": "application/pdf",
+    "bytes": 2933896,
+    "valid_pdf_header": true,
+    "pdf_path": "daily/2026-11-11/pdfs/maguire-2026-picosecond-cell-sparing.pdf",
+    "sha256": "ae41e304dc4c7106756c40fce5860037803c42f993cfc233c5d3bd95cb37d9a9"
+  },
+  {
+    "slug": "shuai-2026-magnetized-plasma-modulator",
+    "url": "https://arxiv.org/pdf/2611.12410v1",
+    "status": 200,
+    "final_url": "https://arxiv.org/pdf/2611.12410v1",
+    "content_type": "application/pdf",
+    "bytes": 1612891,
+    "valid_pdf_header": true,
+    "pdf_path": "daily/2026-11-11/pdfs/shuai-2026-magnetized-plasma-modulator.pdf",
+    "sha256": "f82ac9dbb0551dd3389a8ee8a69a8b91be80abdcbdc9e49f94d5651be1cd96e9"
+  },
+  {
+    "slug": "xia-2026-online-plasma-control",
+    "url": "https://arxiv.org/pdf/2611.10870v1",
+    "status": 200,
+    "final_url": "https://arxiv.org/pdf/2611.10870v1",
+    "content_type": "application/pdf",
+    "bytes": 13705351,
+    "valid_pdf_header": true,
+    "pdf_path": "daily/2026-11-11/pdfs/xia-2026-online-plasma-control.pdf",
+    "sha256": "faffba0ecc0ee42be00d91fd6d21c17c54cb1320431e3f3543d9f93f51a0de67"
+  },
+  {
+    "slug": "fusion-electrode-contamination",
+    "url": "https://harvest.aps.org/v2/journals/articles/10.1103/hkpv-c3y7/fulltext",
+    "status": 200,
+    "final_url": "https://harvest.aps.org/v2/journals/articles/10.1103/hkpv-c3y7/fulltext",
+    "content_type": "application/pdf",
+    "bytes": 385824,
+    "valid_pdf_header": true,
+    "pdf_path": "daily/2026-11-11/pdfs/fusion-electrode-contamination.pdf",
+    "sha256": "d4148f743b4b99f05c14d7d212584e274547d3348d113713eb75e4bcb7fe15bb"
+  },
+  {
+    "doi": "10.1088/1741-4326/aeb708",
+    "url": "https://iopscience.iop.org/article/10.1088/1741-4326/aeb708/pdf",
+    "status": 200,
+    "final_url": "https://validate.perfdrive.com/fb803c746e9148689b3984a31fccd902/",
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 14371,
+    "valid_pdf_header": false,
+    "checked_at": "2026-11-11T07:02:05.130654+08:00",
+    "interpretation": "HTTP 200 Radware validation HTML, not a PDF; no challenge bypass",
+    "legal_alternative_check": "Bounded exact-title web search did not verify an alternate legal full text"
+  },
+  {
+    "doi": "10.1088/1741-4326/aebb4a",
+    "url": "https://iopscience.iop.org/article/10.1088/1741-4326/aebb4a/pdf",
+    "status": 200,
+    "final_url": "https://validate.perfdrive.com/fb803c746e9148689b3984a31fccd902/",
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 14371,
+    "valid_pdf_header": false,
+    "checked_at": "2026-11-11T07:02:05.686182+08:00",
+    "interpretation": "HTTP 200 Radware validation HTML, not a PDF; no challenge bypass",
+    "legal_alternative_check": "Bounded exact-title web search did not verify an alternate legal full text"
+  }
+]

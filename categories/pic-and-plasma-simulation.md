@@ -2,11 +2,15 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：239 篇
-- 索引更新时间：2026-11-10
+- 当前收录：243 篇
+- 索引更新时间：2026-11-11
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-11 | [Multi-MA Fusion Accelerator Performance Insensitivity to Electrode Contamination](../papers/10-1103-hkpv-c3y7/README.md) | PRX Energy | [笔记](../daily/2026-11-11/notes/brown-2026-electrode-contamination.md) |
+| 2026-11-11 | [Experimental Evidence of Cellular Sparing under Single-Pulse Picosecond Irradiation at Extreme Dose Rates](../papers/arxiv-2611-12812/README.md) | arXiv preprint | [笔记](../daily/2026-11-11/notes/maguire-2026-picosecond-cell-sparing.md) |
+| 2026-11-11 | [Magnetized plasma modulator for polarization-tunable ultrahigh-power single-cycle lasers](../papers/arxiv-2611-12410/README.md) | arXiv preprint | [笔记](../daily/2026-11-11/notes/shuai-2026-magnetized-plasma-modulator.md) |
+| 2026-11-11 | [Online Imitation Learning for Stabilizing Vlasov--Poisson Plasmas](../papers/arxiv-2611-10870/README.md) | arXiv preprint | [笔记](../daily/2026-11-11/notes/xia-2026-online-plasma-control.md) |
 | 2026-11-10 | [Stable, High-Charge, Laser-Driven VHEE Beams for Preclinical Applications](../papers/arxiv-2611-09329/README.md) | arXiv preprint | [笔记](../daily/2026-11-10/notes/varma-2026-lpa-vhee-preclinical.md) |
 | 2026-11-10 | [Secondary neutron beam production at Jefferson Lab](../papers/arxiv-2611-09525/README.md) | arXiv preprint | [笔记](../daily/2026-11-10/notes/fulci-2026-secondary-neutron-beam.md) |
 | 2026-11-09 | [SPECTRE: A robust solver for 3D equilibria with arbitrary topology](../papers/10-1088-1361-6587-aebef8/README.md) | Plasma Physics and Controlled Fusion | [笔记](../daily/2026-11-09/notes/balkovic-2026-spectre-equilibria.md) |

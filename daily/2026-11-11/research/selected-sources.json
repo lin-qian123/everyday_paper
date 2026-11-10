@@ -1,0 +1,728 @@
+{
+  "formal": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          10
+        ]
+      ],
+      "date-time": "2026-11-10T14:22:11Z",
+      "timestamp": 1794320531261,
+      "version": "4.9.0"
+    },
+    "reference-count": 46,
+    "publisher": "American Physical Society (APS)",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              10
+            ]
+          ],
+          "date-time": "2026-11-10T00:00:00Z",
+          "timestamp": 1794268800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "name": "U.S. Department of Energy’s National Nuclear Security Administration",
+        "award": [
+          "DE-NA0003525"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "DE-NA0003525"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "https://ror.org/03sk1we31",
+            "id-type": "ROR",
+            "asserted-by": "crossref"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.aps.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "PRX Energy"
+    ],
+    "accepted": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          8
+        ]
+      ]
+    },
+    "abstract": "<jats:p>\n                    We provide experimental support for a recent kinetic model study [N. Bennett and D. Welch, ] that unexpectedly reported the insensitivity of a multi-MA pulsed power magneto-inertial confinement fusion target to the final power feed contaminant inventory. We measured a 1% difference between the peak current coupled to the target by a nominal high-inductance inner magnetically insulated transmission line (MITL) and the peak current coupled to the target by a contaminated inner MITL in 18 MA experiments on the Z Pulsed Power Facility. We contaminated the inner MITL by adding a net 25 layers of atoms to the anode and cathode current-carrying surfaces via self-assembled monolayer formation of octylphosphonic acid (\n                    <a:math xmlns:a=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\">\n                      <a:mrow>\n                        <a:msub>\n                          <a:mrow>\n                            <a:mtext>PO</a:mtext>\n                          </a:mrow>\n                          <a:mrow>\n                            <a:mn>3</a:mn>\n                          </a:mrow>\n                        </a:msub>\n                        <a:msub>\n                          <a:mrow>\n                            <a:mi mathvariant=\"normal\">C</a:mi>\n                          </a:mrow>\n                          <a:mrow>\n                            <a:mn>8</a:mn>\n                          </a:mrow>\n                        </a:msub>\n                        <a:msub>\n                          <a:mrow>\n                            <a:mi mathvariant=\"normal\">H</a:mi>\n                          </a:mrow>\n                          <a:mrow>\n                            <a:mn>19</a:mn>\n                          </a:mrow>\n                        </a:msub>\n                      </a:mrow>\n                    </a:math>\n                    ) and verified the contaminant’s presence and behavior via x-ray photoelectron spectroscopy, time-of-flight secondary ion mass spectrometry, and  streaked visible spectroscopy. Our findings reinforce the emerging MITL physics description gleaned from recent kinetic simulations, and our efforts provide a method for testing wall contaminant sensitivity that may be adapted for other plasma-facing applications.\n                  </jats:p>",
+    "DOI": "10.1103/hkpv-c3y7",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          8
+        ]
+      ],
+      "date-time": "2026-10-08T11:48:46Z",
+      "timestamp": 1791460126000
+    },
+    "update-policy": "https://doi.org/10.1103/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Multi-MA Fusion Accelerator Performance Insensitivity to Electrode Contamination"
+    ],
+    "prefix": "10.1103",
+    "volume": "5",
+    "author": [
+      {
+        "given": "Nathan P.",
+        "family": "Brown",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Sandia National Laboratories"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4069-6471",
+        "authenticated-orcid": true,
+        "given": "David C.",
+        "family": "Fairchild",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Sandia National Laboratories"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Christopher A.",
+        "family": "Jennings",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Sandia National Laboratories"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2135-9173",
+        "authenticated-orcid": true,
+        "given": "Leah N.",
+        "family": "Appelhans",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Sandia National Laboratories"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3149-1178",
+        "authenticated-orcid": true,
+        "given": "Jacob T.",
+        "family": "Banasek",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Sandia National Laboratories"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1853-2091",
+        "authenticated-orcid": true,
+        "given": "Nichelle",
+        "family": "Bennett",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Sandia National Laboratories"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "16",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          10
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "hkpv-c3y7Cc1R1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1002/9781118886502",
+        "type": "book",
+        "volume-title": "Foundations of Pulsed Power Technology",
+        "author": "J. Lehr",
+        "year": "2017"
+      },
+      {
+        "key": "hkpv-c3y7Cc2R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1063/5.0007476",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc3R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature14048",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc4R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevLett.119.075001",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc5R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevLett.132.155102",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc6R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevLett.134.095101",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc7R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1165278",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc8R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.aaa7471",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc9R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.abh0364",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc10R1",
+        "unstructured": "Prospects for low cost fusion development, JASON, Technical Report No. JSR-18-011, 2018.",
+        "type": "other"
+      },
+      {
+        "key": "hkpv-c3y7Cc11R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevLett.108.025003",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc12R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevLett.113.155003",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc13R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1063/5.0253541",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc14R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevSTAB.18.110401",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc15R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1063/5.0126699",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc16R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevAccelBeams.20.010401",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc17R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevAccelBeams.22.120401",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc18R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/27.602495",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc19R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/94.788747",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc20R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1063/5.0276238",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc21R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevAccelBeams.24.060401",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc22R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevAccelBeams.26.040401",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc23R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevSTAB.13.010402",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc24R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/prpw-f8lt",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc25R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1063/1.3333505",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc26R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1063/1.2336749",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc27R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1063/5.0004363",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc28R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1063/1.1660986",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc29R1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "D. H. Dolan, Foundations of VISAR analysis, Sandia National Laboratories, Technical Report No. SAND2006-1950, 2006.",
+        "DOI": "10.2172/886901",
+        "type": "other"
+      },
+      {
+        "key": "hkpv-c3y7Cc30R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1063/5.0123448",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc31R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/0741-3335/46/12B/039",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc32R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1063/1.2436479",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc33R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1063/1.3474947",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc34R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TPS.2010.2042971",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc35R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1063/1.4872331",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc36R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1063/1.4921154",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc37R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevAccelBeams.26.070401",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc38R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1063/1.4943417",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc39R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev.physchem.52.1.107",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc40R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1021/la060636p",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc41R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1021/acs.langmuir.5b04217",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc42R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1021/la9607621",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc43R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1116/1.578482",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc44R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.hedp.2025.101255",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc45R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/0741-3335/38/9/001",
+        "type": "journal-article"
+      },
+      {
+        "key": "hkpv-c3y7Cc46R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1116/1.4819316",
+        "type": "journal-article"
+      }
+    ],
+    "container-title": [
+      "PRX Energy"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.aps.org/article/10.1103/hkpv-c3y7",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "http://harvest.aps.org/v2/journals/articles/10.1103/hkpv-c3y7/fulltext",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          10
+        ]
+      ],
+      "date-time": "2026-11-10T13:31:02Z",
+      "timestamp": 1794317462000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://link.aps.org/doi/10.1103/hkpv-c3y7"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          10
+        ]
+      ]
+    },
+    "references-count": 46,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            11
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1103/hkpv-c3y7",
+    "relation": {},
+    "ISSN": [
+      "2768-5608"
+    ],
+    "issn-type": [
+      {
+        "value": "2768-5608",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          10
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2026-07-23",
+        "name": "date_received",
+        "label": "Date Received",
+        "group": {
+          "name": "publication_dates",
+          "label": "Publication dates"
+        }
+      },
+      {
+        "value": "Published by the American Physical Society. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+        "name": "copyright_statement",
+        "label": "Copyright statement",
+        "group": {
+          "name": "copyright",
+          "label": "copyright"
+        }
+      },
+      {
+        "value": "2026",
+        "name": "copyright_year",
+        "label": "Copyright year",
+        "group": {
+          "name": "copyright",
+          "label": "copyright"
+        }
+      },
+      {
+        "value": "https://creativecommons.org/licenses/by/4.0/",
+        "name": "creative_commons_license",
+        "label": "Creative Commons license",
+        "group": {
+          "name": "licenses",
+          "label": "Licenses"
+        }
+      },
+      {
+        "value": "©2026 The authors",
+        "name": "copyright_holder",
+        "label": "Copyright holder",
+        "group": {
+          "name": "copyright",
+          "label": "copyright"
+        }
+      }
+    ],
+    "article-number": "043006"
+  },
+  "arxiv": [
+    {
+      "id": "2611.12812",
+      "title": "Title: Experimental Evidence of Cellular Sparing under Single-Pulse Picosecond Irradiation at Extreme Dose Rates",
+      "abstract": "Abstract: Understanding how biological cells respond to radiation delivered on extremely short timescales is central to resolving the fundamental mechanisms underlying radiotherapy and to defining new regimes of radiobiology. Experimentally accessing these earliest stages of physicochemical response is crucial to benchmark current numerical codes, whose predictions are known to vary substantially with under-constrained early-stage parameters. Using a laser-driven electron source, tunable doses up to 8Gy were delivered to normal and cancer human cell lines, in single pulses of picosecond-scale duration at mean dose rates above 10^10 Gy/s. Clonogenic survival assays and 53BP1 foci formation were compared with conventional X-ray irradiation at 2.4Gy/min. Surviving fractions are found to be comparable to conventional irradiation at doses up to 3Gy. At higher doses, however, all cell lines exhibited a consistent increase in surviving fraction, corresponding to an average RBE at 10% survival of 0.84+/-0.05. This sparing effect is associated with a statistically significant reduction in the beta parameter of the linear-quadratic model, indicating reduced cell killing from accumulated sub-lethal damage. Picosecond irradiation also produced a marked reduction in prompt 53BP1 foci, but no significant difference in residual foci at 24h and foci-size distributions. These results provide the first experimental evidence of cellular sparing following single-pulse picosecond-scale irradiation. Direct comparison with recent work at femtosecond timescales suggests the presence of a previously undetected sharp transition in biological response at the femtosecond/picosecond interface, giving critical insight on the possible mechanisms responsible for this differential response.",
+      "history": "Submission history From: Hannah Maguire Ms [ view email ] [v1] Mon, 9 Nov 2026 18:17:20 UTC (2,158 KB)",
+      "meta": {
+        "citation_title": [
+          "Experimental Evidence of Cellular Sparing under Single-Pulse Picosecond Irradiation at Extreme Dose Rates"
+        ],
+        "citation_author": [
+          "Maguire, H.",
+          "McAnespie, C. A.",
+          "Chaudhary, P.",
+          "Corrigan, L.",
+          "Foster, T.",
+          "McMahon, S. J.",
+          "Molloy, D. P.",
+          "Nersisyan, G.",
+          "OConnor, N.",
+          "Prise, K. M.",
+          "Schettino, G.",
+          "Sarri, G."
+        ],
+        "citation_date": [
+          "2026/11/09"
+        ],
+        "citation_online_date": [
+          "2026/11/09"
+        ],
+        "citation_pdf_url": [
+          "https://arxiv.org/pdf/2611.12812"
+        ],
+        "citation_arxiv_id": [
+          "2611.12812"
+        ],
+        "citation_abstract": [
+          "Understanding how biological cells respond to radiation delivered on extremely short timescales is central to resolving the fundamental mechanisms underlying radiotherapy and to defining new regimes of radiobiology. Experimentally accessing these earliest stages of physicochemical response is crucial to benchmark current numerical codes, whose predictions are known to vary substantially with under-constrained early-stage parameters. Using a laser-driven electron source, tunable doses up to 8Gy were delivered to normal and cancer human cell lines, in single pulses of picosecond-scale duration at mean dose rates above 10^10 Gy/s. Clonogenic survival assays and 53BP1 foci formation were compared with conventional X-ray irradiation at 2.4Gy/min. Surviving fractions are found to be comparable to conventional irradiation at doses up to 3Gy. At higher doses, however, all cell lines exhibited a consistent increase in surviving fraction, corresponding to an average RBE at 10% survival of 0.84+/-0.05. This sparing effect is associated with a statistically significant reduction in the beta parameter of the linear-quadratic model, indicating reduced cell killing from accumulated sub-lethal damage. Picosecond irradiation also produced a marked reduction in prompt 53BP1 foci, but no significant difference in residual foci at 24h and foci-size distributions. These results provide the first experimental evidence of cellular sparing following single-pulse picosecond-scale irradiation. Direct comparison with recent work at femtosecond timescales suggests the presence of a previously undetected sharp transition in biological response at the femtosecond/picosecond interface, giving critical insight on the possible mechanisms responsible for this differential response."
+        ]
+      }
+    },
+    {
+      "id": "2611.12410",
+      "title": "Title: Magnetized plasma modulator for polarization-tunable ultrahigh-power single-cycle lasers",
+      "abstract": "Abstract: Ultrahigh power lasers with tunable polarization and few-cycle duration have long been considered the holy grail of high-power laser science, as they push light-matter interactions into an entirely new physical regime. Yet such pulses remain far beyond the reach of conventional solid-state optics and technologies. Here, we introduce a novel magnetized plasma modulator that boosts linearly polarized lasers from petawatt to exawatt powers while simultaneously enabling tunable polarization, offering a promising approach for high-power laser development. This is achieved in density-tailored plasmas by combining dispersive compression of a chirped picosecond laser pulse with magneto-chiral group-velocity splitting in a few-Tesla magnetic field. It can generate circularly or elliptically polarized pulses with extremely high compression ratios (over 1000) and extremely short durations (down to the single-cycle level) in a compact and efficient manner. These findings demonstrate a feasible pathway toward exawatt-class few-cycle lasers with tunable polarization, opening new avenues for a wide range of cutting-edge research and applications.",
+      "history": "Submission history From: Xinglong Zhu [ view email ] [v1] Mon, 9 Nov 2026 13:43:32 UTC (1,575 KB)",
+      "meta": {
+        "citation_title": [
+          "Magnetized plasma modulator for polarization-tunable ultrahigh-power single-cycle lasers"
+        ],
+        "citation_author": [
+          "Shuai, Li-Jia",
+          "Zhu, Xing-Long",
+          "Sheng, Zheng-Ming"
+        ],
+        "citation_date": [
+          "2026/11/09"
+        ],
+        "citation_online_date": [
+          "2026/11/09"
+        ],
+        "citation_pdf_url": [
+          "https://arxiv.org/pdf/2611.12410"
+        ],
+        "citation_arxiv_id": [
+          "2611.12410"
+        ],
+        "citation_abstract": [
+          "Ultrahigh power lasers with tunable polarization and few-cycle duration have long been considered the holy grail of high-power laser science, as they push light-matter interactions into an entirely new physical regime. Yet such pulses remain far beyond the reach of conventional solid-state optics and technologies. Here, we introduce a novel magnetized plasma modulator that boosts linearly polarized lasers from petawatt to exawatt powers while simultaneously enabling tunable polarization, offering a promising approach for high-power laser development. This is achieved in density-tailored plasmas by combining dispersive compression of a chirped picosecond laser pulse with magneto-chiral group-velocity splitting in a few-Tesla magnetic field. It can generate circularly or elliptically polarized pulses with extremely high compression ratios (over 1000) and extremely short durations (down to the single-cycle level) in a compact and efficient manner. These findings demonstrate a feasible pathway toward exawatt-class few-cycle lasers with tunable polarization, opening new avenues for a wide range of cutting-edge research and applications."
+        ]
+      }
+    },
+    {
+      "id": "2611.10870",
+      "title": "Title: Online Imitation Learning for Stabilizing Vlasov--Poisson Plasmas",
+      "abstract": "Abstract: We study the problem of controlling instability in the Vlasov--Poisson plasma systems, a fundamental challenge for nuclear fusion control. Motivated by the partial observability of plasma states in practice, we investigate imitation learning algorithms that learn from a fully-observable expert controller, but operate under macroscopic measurements. We theoretically establish a separation between online and offline imitation learning --- even a small behavior cloning error leads to error compounding that exponentially amplifies instability over time. By way of contrast, the online imitation learning loss can polynomially control the stability of rollout trajectories. We then propose a DAgger-style algorithm that learns the stabilizing controller under partial observability. Simulation results on a 1D Vlasov--Poisson system demonstrate that our algorithm can effectively stabilize plasma instabilities over longer time horizons than behavior cloning.",
+      "history": "Submission history From: Xiaofan Xia [ view email ] [v1] Sat, 7 Nov 2026 17:43:44 UTC (13,473 KB)",
+      "meta": {
+        "citation_title": [
+          "Online Imitation Learning for Stabilizing Vlasov--Poisson Plasmas"
+        ],
+        "citation_author": [
+          "Xia, Xiaofan",
+          "Li, Qin",
+          "Mou, Wenlong"
+        ],
+        "citation_date": [
+          "2026/11/07"
+        ],
+        "citation_online_date": [
+          "2026/11/07"
+        ],
+        "citation_pdf_url": [
+          "https://arxiv.org/pdf/2611.10870"
+        ],
+        "citation_arxiv_id": [
+          "2611.10870"
+        ],
+        "citation_abstract": [
+          "We study the problem of controlling instability in the Vlasov--Poisson plasma systems, a fundamental challenge for nuclear fusion control. Motivated by the partial observability of plasma states in practice, we investigate imitation learning algorithms that learn from a fully-observable expert controller, but operate under macroscopic measurements. We theoretically establish a separation between online and offline imitation learning --- even a small behavior cloning error leads to error compounding that exponentially amplifies instability over time. By way of contrast, the online imitation learning loss can polynomially control the stability of rollout trajectories. We then propose a DAgger-style algorithm that learns the stabilizing controller under partial observability. Simulation results on a 1D Vlasov--Poisson system demonstrate that our algorithm can effectively stabilize plasma instabilities over longer time horizons than behavior cloning."
+        ]
+      }
+    }
+  ]
+}

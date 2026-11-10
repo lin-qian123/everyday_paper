@@ -2,11 +2,12 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：146 篇
-- 索引更新时间：2026-11-10
+- 当前收录：147 篇
+- 索引更新时间：2026-11-11
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-11 | [Experimental Evidence of Cellular Sparing under Single-Pulse Picosecond Irradiation at Extreme Dose Rates](../papers/arxiv-2611-12812/README.md) | arXiv preprint | [笔记](../daily/2026-11-11/notes/maguire-2026-picosecond-cell-sparing.md) |
 | 2026-11-10 | [Nuclear recoil separation in the photonuclear production of auger electron emitter Germanium-71 for high specific activity medical isotope production](../papers/10-3389-fnuen-2026-1940142/README.md) | Frontiers in Nuclear Engineering | [笔记](../daily/2026-11-10/notes/abel-2026-ge71-recoil.md) |
 | 2026-11-10 | [Optimizationand Performance Assessment of a Low-Dose Alanine Electron Paramagnetic Resonance Dosimetry Procedure for Potential Application in Electron Beam FLASH Radiotherapy](../papers/10-3390-molecules31214029/README.md) | Molecules | [笔记](../daily/2026-11-10/notes/sebinanyane-2026-alanine-epr.md) |
 | 2026-11-10 | [Stable, High-Charge, Laser-Driven VHEE Beams for Preclinical Applications](../papers/arxiv-2611-09329/README.md) | arXiv preprint | [笔记](../daily/2026-11-10/notes/varma-2026-lpa-vhee-preclinical.md) |

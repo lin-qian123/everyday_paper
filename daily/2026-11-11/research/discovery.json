@@ -1,0 +1,170 @@
+{
+  "run_date": "2026-11-11",
+  "checked_at": "2026-11-11T07:08:34.447715+08:00",
+  "formal_first": true,
+  "crossref": {
+    "date_filter": "2026-11-09 to 2026-11-11, type journal-article",
+    "queries": [
+      {
+        "kind": "crossref",
+        "query": "laser plasma electron ion acceleration",
+        "initial_error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query=laser+plasma+electron+ion+acceleration&filter=from-pub-date%3A2026-11-09%2Cuntil-pub-date%3A2026-11-11%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "retry_status": 200,
+        "url": "https://api.crossref.org/works?query=laser+plasma+electron+ion+acceleration&filter=from-pub-date%3A2026-11-09%2Cuntil-pub-date%3A2026-11-11%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "rows": 40
+      },
+      {
+        "kind": "crossref",
+        "query": "strong field QED gamma positron",
+        "url": "https://api.crossref.org/works?query=strong+field+QED+gamma+positron&filter=from-pub-date%3A2026-11-09%2Cuntil-pub-date%3A2026-11-11%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "rows": 40
+      },
+      {
+        "kind": "crossref",
+        "query": "high energy density laser fusion",
+        "url": "https://api.crossref.org/works?query=high+energy+density+laser+fusion&filter=from-pub-date%3A2026-11-09%2Cuntil-pub-date%3A2026-11-11%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "rows": 40
+      },
+      {
+        "kind": "crossref",
+        "query": "particle in cell kinetic simulation",
+        "initial_error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query=particle+in+cell+kinetic+simulation&filter=from-pub-date%3A2026-11-09%2Cuntil-pub-date%3A2026-11-11%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "retry_status": 200,
+        "url": "https://api.crossref.org/works?query=particle+in+cell+kinetic+simulation&filter=from-pub-date%3A2026-11-09%2Cuntil-pub-date%3A2026-11-11%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "rows": 40
+      },
+      {
+        "kind": "crossref",
+        "query": "machine learning plasma laser",
+        "initial_error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query=machine+learning+plasma+laser&filter=from-pub-date%3A2026-11-09%2Cuntil-pub-date%3A2026-11-11%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "retry_status": 200,
+        "url": "https://api.crossref.org/works?query=machine+learning+plasma+laser&filter=from-pub-date%3A2026-11-09%2Cuntil-pub-date%3A2026-11-11%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "rows": 40
+      },
+      {
+        "kind": "crossref",
+        "query": "laser bremsstrahlung converter photonuclear neutron",
+        "initial_error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query=laser+bremsstrahlung+converter+photonuclear+neutron&filter=from-pub-date%3A2026-11-09%2Cuntil-pub-date%3A2026-11-11%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "retry_status": 200,
+        "url": "https://api.crossref.org/works?query=laser+bremsstrahlung+converter+photonuclear+neutron&filter=from-pub-date%3A2026-11-09%2Cuntil-pub-date%3A2026-11-11%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "rows": 40
+      },
+      {
+        "kind": "crossref",
+        "query": "isotope production photonuclear target",
+        "initial_error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query=isotope+production+photonuclear+target&filter=from-pub-date%3A2026-11-09%2Cuntil-pub-date%3A2026-11-11%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "retry_status": 200,
+        "url": "https://api.crossref.org/works?query=isotope+production+photonuclear+target&filter=from-pub-date%3A2026-11-09%2Cuntil-pub-date%3A2026-11-11%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "rows": 40
+      },
+      {
+        "kind": "crossref",
+        "query": "very high energy electron FLASH dosimetry",
+        "initial_error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query=very+high+energy+electron+FLASH+dosimetry&filter=from-pub-date%3A2026-11-09%2Cuntil-pub-date%3A2026-11-11%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "retry_status": 200,
+        "url": "https://api.crossref.org/works?query=very+high+energy+electron+FLASH+dosimetry&filter=from-pub-date%3A2026-11-09%2Cuntil-pub-date%3A2026-11-11%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "rows": 40
+      },
+      {
+        "kind": "crossref",
+        "query": "neutron radiation shielding diagnostics",
+        "initial_error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query=neutron+radiation+shielding+diagnostics&filter=from-pub-date%3A2026-11-09%2Cuntil-pub-date%3A2026-11-11%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "retry_status": 200,
+        "url": "https://api.crossref.org/works?query=neutron+radiation+shielding+diagnostics&filter=from-pub-date%3A2026-11-09%2Cuntil-pub-date%3A2026-11-11%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "rows": 40
+      },
+      {
+        "kind": "crossref",
+        "query": "laser plasma material irradiation",
+        "url": "https://api.crossref.org/works?query=laser+plasma+material+irradiation&filter=from-pub-date%3A2026-11-09%2Cuntil-pub-date%3A2026-11-11%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "rows": 40
+      }
+    ],
+    "rows": 400,
+    "unique_dois": 346
+  },
+  "arxiv": {
+    "categories": [
+      {
+        "kind": "arxiv",
+        "category": "physics.plasm-ph",
+        "heading": "Tue, 10 Nov 2026 (showing 19 of 19 entries )",
+        "url": "https://arxiv.org/list/physics.plasm-ph/recent?skip=0&show=100",
+        "rows": 19
+      },
+      {
+        "kind": "arxiv",
+        "category": "physics.acc-ph",
+        "heading": "Tue, 10 Nov 2026 (showing 8 of 8 entries )",
+        "url": "https://arxiv.org/list/physics.acc-ph/recent?skip=0&show=100",
+        "rows": 8
+      },
+      {
+        "kind": "arxiv",
+        "category": "physics.comp-ph",
+        "heading": "Tue, 10 Nov 2026 (showing 12 of 12 entries )",
+        "url": "https://arxiv.org/list/physics.comp-ph/recent?skip=0&show=100",
+        "rows": 12
+      },
+      {
+        "kind": "arxiv",
+        "category": "physics.med-ph",
+        "heading": "Tue, 10 Nov 2026 (showing 17 of 17 entries )",
+        "url": "https://arxiv.org/list/physics.med-ph/recent?skip=0&show=100",
+        "rows": 17
+      },
+      {
+        "kind": "arxiv",
+        "category": "physics.ins-det",
+        "heading": "Tue, 10 Nov 2026 (showing 8 of 8 entries )",
+        "url": "https://arxiv.org/list/physics.ins-det/recent?skip=0&show=100",
+        "rows": 8
+      },
+      {
+        "kind": "arxiv",
+        "category": "physics.optics",
+        "heading": "Tue, 10 Nov 2026 (showing 32 of 32 entries )",
+        "url": "https://arxiv.org/list/physics.optics/recent?skip=0&show=100",
+        "rows": 32
+      },
+      {
+        "kind": "arxiv",
+        "category": "hep-ph",
+        "heading": "Tue, 10 Nov 2026 (showing 82 of 82 entries )",
+        "url": "https://arxiv.org/list/hep-ph/recent?skip=0&show=100",
+        "rows": 82
+      },
+      {
+        "kind": "arxiv",
+        "category": "nucl-ex",
+        "heading": "Tue, 10 Nov 2026 (showing 13 of 13 entries )",
+        "url": "https://arxiv.org/list/nucl-ex/recent?skip=0&show=100",
+        "rows": 13
+      },
+      {
+        "kind": "arxiv",
+        "category": "nucl-th",
+        "heading": "Tue, 10 Nov 2026 (showing 26 of 26 entries )",
+        "url": "https://arxiv.org/list/nucl-th/recent?skip=0&show=100",
+        "rows": 26
+      },
+      {
+        "kind": "arxiv",
+        "category": "cs.LG",
+        "heading": "Tue, 10 Nov 2026 (showing first 100 of 509 entries )",
+        "url": "https://arxiv.org/list/cs.LG/recent?skip=0&show=100",
+        "rows": 100
+      }
+    ],
+    "rows": 317,
+    "unique_ids": 285
+  },
+  "limits": "Bounded relevance queries; arXiv cs.LG only first100/509; no exhaustive coverage, queue-wide recheck or claim all relevant new papers processed",
+  "selection": "New fulltext-relevant experimental beam/radiobiology, HED current transport, PIC optics and kinetic ML control; cross-checked DOI/title/authors/scenario against551 completed records",
+  "added_dois": [
+    "10.1103/hkpv-c3y7",
+    "10.48550/arXiv.2611.12812",
+    "10.48550/arXiv.2611.12410",
+    "10.48550/arXiv.2611.10870"
+  ]
+}

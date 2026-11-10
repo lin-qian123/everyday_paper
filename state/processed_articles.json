@@ -8373,5 +8373,130 @@
     "note_path": "daily/2026-11-10/notes/fulci-2026-secondary-neutron-beam.md",
     "processed_date": "2026-11-10",
     "normalized_title": "secondary neutron beam production at jefferson lab"
+  },
+  {
+    "title": "Multi-MA Fusion Accelerator Performance Insensitivity to Electrode Contamination",
+    "doi": "10.1103/hkpv-c3y7",
+    "authors": [
+      "Brown, Nathan P.",
+      "Fairchild, David C.",
+      "Jennings, Christopher A.",
+      "Appelhans, Leah N.",
+      "Banasek, Jacob T.",
+      "Bennett, Nichelle"
+    ],
+    "journal": "PRX Energy",
+    "publication_date": "2026-11-10",
+    "accepted_date": "2026-10-08",
+    "publication_status": "publisher version of record",
+    "source_url": "https://doi.org/10.1103/hkpv-c3y7",
+    "fulltext_version": "APS typeset VOR, PRX Energy 5, 043006 (2026), CC BY 4.0",
+    "pdf_url": "https://harvest.aps.org/v2/journals/articles/10.1103/hkpv-c3y7/fulltext",
+    "categories": [
+      "hedp-icf-laboratory-astrophysics",
+      "pic-and-plasma-simulation"
+    ],
+    "pdf_path": "daily/2026-11-11/pdfs/fusion-electrode-contamination.pdf",
+    "pdf_sha256": "d4148f743b4b99f05c14d7d212584e274547d3348d113713eb75e4bcb7fe15bb",
+    "note_path": "daily/2026-11-11/notes/brown-2026-electrode-contamination.md",
+    "processed_date": "2026-11-11",
+    "normalized_title": "multi ma fusion accelerator performance insensitivity to electrode contamination"
+  },
+  {
+    "title": "Experimental Evidence of Cellular Sparing under Single-Pulse Picosecond Irradiation at Extreme Dose Rates",
+    "doi": "10.48550/arXiv.2611.12812",
+    "authors": [
+      "Maguire, H.",
+      "McAnespie, C. A.",
+      "Chaudhary, P.",
+      "Corrigan, L.",
+      "Foster, T.",
+      "McMahon, S. J.",
+      "Molloy, D. P.",
+      "Nersisyan, G.",
+      "OConnor, N.",
+      "Prise, K. M.",
+      "Schettino, G.",
+      "Sarri, G."
+    ],
+    "journal": "arXiv preprint",
+    "publication_date": "2026-11-09",
+    "publication_date_type": "arxiv first submission; announcement separate",
+    "submission_timestamp_utc": "2026-11-09T18:17:20Z",
+    "announcement_date": "2026-11-10",
+    "publication_status": "author preprint; bounded Crossref top3 did not verify same-work journal version",
+    "source_url": "https://arxiv.org/abs/2611.12812v1",
+    "arxiv_id": "2611.12812",
+    "arxiv_version": "2611.12812v1",
+    "fulltext_version": "official arXiv v1 author preprint",
+    "pdf_url": "https://arxiv.org/pdf/2611.12812v1",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "laser-plasma-acceleration",
+      "pic-and-plasma-simulation"
+    ],
+    "pdf_path": "daily/2026-11-11/pdfs/maguire-2026-picosecond-cell-sparing.pdf",
+    "pdf_sha256": "ae41e304dc4c7106756c40fce5860037803c42f993cfc233c5d3bd95cb37d9a9",
+    "note_path": "daily/2026-11-11/notes/maguire-2026-picosecond-cell-sparing.md",
+    "processed_date": "2026-11-11",
+    "normalized_title": "experimental evidence of cellular sparing under single pulse picosecond irradiation at extreme dose rates"
+  },
+  {
+    "title": "Magnetized plasma modulator for polarization-tunable ultrahigh-power single-cycle lasers",
+    "doi": "10.48550/arXiv.2611.12410",
+    "authors": [
+      "Shuai, Li-Jia",
+      "Zhu, Xing-Long",
+      "Sheng, Zheng-Ming"
+    ],
+    "journal": "arXiv preprint",
+    "publication_date": "2026-11-09",
+    "publication_date_type": "arxiv first submission; announcement separate",
+    "submission_timestamp_utc": "2026-11-09T13:43:32Z",
+    "announcement_date": "2026-11-10",
+    "publication_status": "author preprint; bounded Crossref top3 did not verify same-work journal version",
+    "source_url": "https://arxiv.org/abs/2611.12410v1",
+    "arxiv_id": "2611.12410",
+    "arxiv_version": "2611.12410v1",
+    "fulltext_version": "official arXiv v1 author preprint",
+    "pdf_url": "https://arxiv.org/pdf/2611.12410v1",
+    "categories": [
+      "laser-plasma-acceleration",
+      "pic-and-plasma-simulation"
+    ],
+    "pdf_path": "daily/2026-11-11/pdfs/shuai-2026-magnetized-plasma-modulator.pdf",
+    "pdf_sha256": "f82ac9dbb0551dd3389a8ee8a69a8b91be80abdcbdc9e49f94d5651be1cd96e9",
+    "note_path": "daily/2026-11-11/notes/shuai-2026-magnetized-plasma-modulator.md",
+    "processed_date": "2026-11-11",
+    "normalized_title": "magnetized plasma modulator for polarization tunable ultrahigh power single cycle lasers"
+  },
+  {
+    "title": "Online Imitation Learning for Stabilizing Vlasov--Poisson Plasmas",
+    "doi": "10.48550/arXiv.2611.10870",
+    "authors": [
+      "Xia, Xiaofan",
+      "Li, Qin",
+      "Mou, Wenlong"
+    ],
+    "journal": "arXiv preprint",
+    "publication_date": "2026-11-07",
+    "publication_date_type": "arxiv first submission; announcement separate",
+    "submission_timestamp_utc": "2026-11-07T17:43:44Z",
+    "announcement_date": "2026-11-10",
+    "publication_status": "author preprint; bounded Crossref top3 did not verify same-work journal version",
+    "source_url": "https://arxiv.org/abs/2611.10870v1",
+    "arxiv_id": "2611.10870",
+    "arxiv_version": "2611.10870v1",
+    "fulltext_version": "official arXiv v1 author preprint",
+    "pdf_url": "https://arxiv.org/pdf/2611.10870v1",
+    "categories": [
+      "ai-ml-plasma-physics",
+      "pic-and-plasma-simulation"
+    ],
+    "pdf_path": "daily/2026-11-11/pdfs/xia-2026-online-plasma-control.pdf",
+    "pdf_sha256": "faffba0ecc0ee42be00d91fd6d21c17c54cb1320431e3f3543d9f93f51a0de67",
+    "note_path": "daily/2026-11-11/notes/xia-2026-online-plasma-control.md",
+    "processed_date": "2026-11-11",
+    "normalized_title": "online imitation learning for stabilizing vlasov poisson plasmas"
   }
 ]

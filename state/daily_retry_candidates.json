@@ -1454,11 +1454,32 @@
     "run_date": "2026-11-10",
     "status": "retry_fulltext_required_no_abstract_only_note",
     "recorded_at": "2026-11-10T07:14:24.738331+08:00",
+    "retry_count": 1,
+    "failure_count": 2,
+    "source_family": "iop",
+    "last_failure_class": "radware_validation_html_instead_of_pdf",
+    "stderr": "Targeted recheck: official PDF HTTP200 text/html, 14371 bytes, Radware validation; no valid alternate fulltext verified.",
+    "evidence_path": "daily/2026-11-11/download_report.json",
+    "last_checked_at": "2026-11-11T07:08:34.447715+08:00"
+  },
+  {
+    "doi": "10.1088/1741-4326/aebb4a",
+    "title": "Cross-machine profile prediction and differentiable optimization by learning multi-tokamak databases",
+    "authors": [
+      "Jaemin Seo"
+    ],
+    "journal": "Nuclear Fusion",
+    "publication_date": "2026-11-10",
+    "publication_date_type": "Crossref published-online; links carry both AM and VOR labels, actual fulltext version not verified; exact acceptance date unverified",
+    "source_url": "https://doi.org/10.1088/1741-4326/aebb4a",
+    "run_date": "2026-11-11",
+    "status": "retry_fulltext_required_no_abstract_only_note",
+    "recorded_at": "2026-11-11T07:08:34.447715+08:00",
     "retry_count": 0,
     "failure_count": 1,
     "source_family": "iop",
     "last_failure_class": "radware_validation_html_instead_of_pdf",
-    "stderr": "Official PDF route HTTP200 text/html; charset=UTF-8, 14371 bytes, redirected to Radware validation. Bounded exact-title web search did not verify alternate legal fulltext; no abstract-only note.",
-    "evidence_path": "daily/2026-11-10/download_report.json"
+    "stderr": "Official PDF route HTTP200 text/html; 14371 bytes, Radware validation; bounded exact-title search found no verified alternative legal full text. No abstract-only note.",
+    "evidence_path": "daily/2026-11-11/download_report.json"
   }
 ]

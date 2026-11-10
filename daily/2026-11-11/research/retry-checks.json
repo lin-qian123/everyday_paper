@@ -1,0 +1,26 @@
+[
+  {
+    "doi": "10.1088/1741-4326/aeb708",
+    "url": "https://iopscience.iop.org/article/10.1088/1741-4326/aeb708/pdf",
+    "status": 200,
+    "final_url": "https://validate.perfdrive.com/fb803c746e9148689b3984a31fccd902/",
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 14371,
+    "valid_pdf_header": false,
+    "checked_at": "2026-11-11T07:02:05.130654+08:00",
+    "interpretation": "HTTP 200 Radware validation HTML, not a PDF; no challenge bypass",
+    "legal_alternative_check": "Bounded exact-title web search did not verify an alternate legal full text"
+  },
+  {
+    "doi": "10.1088/1741-4326/aebb4a",
+    "url": "https://iopscience.iop.org/article/10.1088/1741-4326/aebb4a/pdf",
+    "status": 200,
+    "final_url": "https://validate.perfdrive.com/fb803c746e9148689b3984a31fccd902/",
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 14371,
+    "valid_pdf_header": false,
+    "checked_at": "2026-11-11T07:02:05.686182+08:00",
+    "interpretation": "HTTP 200 Radware validation HTML, not a PDF; no challenge bypass",
+    "legal_alternative_check": "Bounded exact-title web search did not verify an alternate legal full text"
+  }
+]

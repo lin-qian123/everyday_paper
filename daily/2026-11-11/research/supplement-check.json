@@ -1,0 +1,51 @@
+{
+  "url": "https://arxiv.org/src/2611.12812v1",
+  "status": 200,
+  "content_type": "application/gzip",
+  "bytes": 2209739,
+  "sha256": "17f657ee5d61337c6cec90bb95da8d525dd9f2aecd0fe639d3548fc7c702a56c",
+  "pdf_header": false,
+  "archive_members": [
+    {
+      "name": "00README.json",
+      "bytes": 297
+    },
+    {
+      "name": "Figures_090826",
+      "bytes": 0
+    },
+    {
+      "name": "Figures_090826/Fig1.pdf",
+      "bytes": 628893
+    },
+    {
+      "name": "Figures_090826/Fig2.pdf",
+      "bytes": 405992
+    },
+    {
+      "name": "Figures_090826/Fig3.pdf",
+      "bytes": 122486
+    },
+    {
+      "name": "Figures_090826/Fig4.pdf",
+      "bytes": 936126
+    },
+    {
+      "name": "Figures_090826/Fig5.pdf",
+      "bytes": 220143
+    },
+    {
+      "name": "Figures_090826/Fig6.pdf",
+      "bytes": 237416
+    },
+    {
+      "name": "main_file.tex",
+      "bytes": 62279
+    },
+    {
+      "name": "Refs.bib",
+      "bytes": 72303
+    }
+  ],
+  "finding": "Official source archive contains main_file.tex, Refs.bib and Figures1-6 only; no S1-S5 supplemental material. Reference44 in main is a placeholder."
+}
