@@ -2,11 +2,13 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：179 篇
-- 索引更新时间：2026-11-11
+- 当前收录：181 篇
+- 索引更新时间：2026-11-12
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-12 | [Compact plasma-based extreme compression of relativistic electron beams](../papers/arxiv-2611-13436/README.md) | arXiv preprint | [笔记](../daily/2026-11-12/notes/hessami-2026-plasma-compression.md) |
+| 2026-11-12 | [Physics-informed Bayesian optimization of high-order harmonic generation in gases](../papers/arxiv-2611-14119/README.md) | arXiv preprint | [笔记](../daily/2026-11-12/notes/maslarova-2026-hhg-bayesian.md) |
 | 2026-11-11 | [Experimental Evidence of Cellular Sparing under Single-Pulse Picosecond Irradiation at Extreme Dose Rates](../papers/arxiv-2611-12812/README.md) | arXiv preprint | [笔记](../daily/2026-11-11/notes/maguire-2026-picosecond-cell-sparing.md) |
 | 2026-11-11 | [Magnetized plasma modulator for polarization-tunable ultrahigh-power single-cycle lasers](../papers/arxiv-2611-12410/README.md) | arXiv preprint | [笔记](../daily/2026-11-11/notes/shuai-2026-magnetized-plasma-modulator.md) |
 | 2026-11-10 | [Stable, High-Charge, Laser-Driven VHEE Beams for Preclinical Applications](../papers/arxiv-2611-09329/README.md) | arXiv preprint | [笔记](../daily/2026-11-10/notes/varma-2026-lpa-vhee-preclinical.md) |

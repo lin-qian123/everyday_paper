@@ -15,20 +15,24 @@
 
 | 分类 | 篇数 | 说明 |
 | --- | ---: | --- |
-| [激光等离子体与束流加速](./categories/laser-plasma-acceleration.md) | 179 | LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。 |
-| [激光加速电子/离子束应用](./categories/laser-accelerated-beam-applications.md) | 147 | 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。 |
+| [激光等离子体与束流加速](./categories/laser-plasma-acceleration.md) | 181 | LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。 |
+| [激光加速电子/离子束应用](./categories/laser-accelerated-beam-applications.md) | 148 | 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。 |
 | [强场 QED 与辐射反作用](./categories/strong-field-qed-radiation.md) | 77 | 强场量子效应、辐射反作用、非线性 Compton、pair production 与极端场实验。 |
-| [高能量密度物理、ICF 与实验室天体](./categories/hedp-icf-laboratory-astrophysics.md) | 137 | HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。 |
-| [PIC、动理学与数值模拟](./categories/pic-and-plasma-simulation.md) | 243 | PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。 |
-| [机器学习与等离子体物理](./categories/ai-ml-plasma-physics.md) | 94 | 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。 |
+| [高能量密度物理、ICF 与实验室天体](./categories/hedp-icf-laboratory-astrophysics.md) | 138 | HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。 |
+| [PIC、动理学与数值模拟](./categories/pic-and-plasma-simulation.md) | 244 | PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。 |
+| [机器学习与等离子体物理](./categories/ai-ml-plasma-physics.md) | 95 | 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。 |
 | [磁约束聚变与 alpha 粒子](./categories/magnetic-fusion-and-alpha-particles.md) | 65 | stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。 |
-| [实验平台、靶设计与诊断](./categories/experimental-platforms-diagnostics.md) | 195 | 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。 |
+| [实验平台、靶设计与诊断](./categories/experimental-platforms-diagnostics.md) | 197 | 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。 |
 | [综合等离子体与交叉方法](./categories/general-plasma-and-methods.md) | 116 | 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。 |
 
 ## 最新入库
 
 | 入库日期 | 论文 | 分类 |
 | --- | --- | --- |
+| 2026-11-12 | [Role of interchange and mixed modes in magnetic Rayleigh–Taylor instability dynamics: A 2D vs 3D study](./papers/10-1063-5-0335643/README.md) | 高能量密度物理、ICF 与实验室天体、PIC、动理学与数值模拟 |
+| 2026-11-12 | [Compact plasma-based extreme compression of relativistic electron beams](./papers/arxiv-2611-13436/README.md) | 激光等离子体与束流加速、实验平台、靶设计与诊断 |
+| 2026-11-12 | [Physics-informed Bayesian optimization of high-order harmonic generation in gases](./papers/arxiv-2611-14119/README.md) | 机器学习与等离子体物理、激光等离子体与束流加速 |
+| 2026-11-12 | [Measurement of the 169Tm(γ,n)168Tm Cross Section and Implications for γ-Process Calculations](./papers/arxiv-2611-12994/README.md) | 激光加速电子/离子束应用、实验平台、靶设计与诊断 |
 | 2026-11-11 | [Multi-MA Fusion Accelerator Performance Insensitivity to Electrode Contamination](./papers/10-1103-hkpv-c3y7/README.md) | 高能量密度物理、ICF 与实验室天体、PIC、动理学与数值模拟 |
 | 2026-11-11 | [Experimental Evidence of Cellular Sparing under Single-Pulse Picosecond Irradiation at Extreme Dose Rates](./papers/arxiv-2611-12812/README.md) | 激光加速电子/离子束应用、激光等离子体与束流加速、PIC、动理学与数值模拟 |
 | 2026-11-11 | [Magnetized plasma modulator for polarization-tunable ultrahigh-power single-cycle lasers](./papers/arxiv-2611-12410/README.md) | 激光等离子体与束流加速、PIC、动理学与数值模拟 |
@@ -37,9 +41,5 @@
 | 2026-11-10 | [Optimizationand Performance Assessment of a Low-Dose Alanine Electron Paramagnetic Resonance Dosimetry Procedure for Potential Application in Electron Beam FLASH Radiotherapy](./papers/10-3390-molecules31214029/README.md) | 激光加速电子/离子束应用、实验平台、靶设计与诊断 |
 | 2026-11-10 | [Stable, High-Charge, Laser-Driven VHEE Beams for Preclinical Applications](./papers/arxiv-2611-09329/README.md) | 激光等离子体与束流加速、激光加速电子/离子束应用、PIC、动理学与数值模拟 |
 | 2026-11-10 | [Secondary neutron beam production at Jefferson Lab](./papers/arxiv-2611-09525/README.md) | 激光加速电子/离子束应用、PIC、动理学与数值模拟 |
-| 2026-11-09 | [SPECTRE: A robust solver for 3D equilibria with arbitrary topology](./papers/10-1088-1361-6587-aebef8/README.md) | PIC、动理学与数值模拟、磁约束聚变与 alpha 粒子 |
-| 2026-11-09 | [3 J/1 Hz opposite diode-pumped Yb:YAG active mirror amplifier at room temperature](./papers/10-1017-hpl-2026-10219/README.md) | 实验平台、靶设计与诊断 |
-| 2026-11-09 | [Influence of Laguerre-Gaussian pulse mode purity on positron acceleration in nonlinear wakefields](./papers/arxiv-2611-06420/README.md) | 激光等离子体与束流加速、PIC、动理学与数值模拟 |
-| 2026-11-09 | [Single-crystal X-ray diffraction of BC8 carbon near terapascal pressures](./papers/arxiv-2611-06045/README.md) | 高能量密度物理、ICF 与实验室天体、实验平台、靶设计与诊断 |
 
-_自动生成时间：2026-11-11_
+_自动生成时间：2026-11-12_

@@ -2,11 +2,12 @@
 
 HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。
 
-- 当前收录：137 篇
-- 索引更新时间：2026-11-11
+- 当前收录：138 篇
+- 索引更新时间：2026-11-12
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-12 | [Role of interchange and mixed modes in magnetic Rayleigh–Taylor instability dynamics: A 2D vs 3D study](../papers/10-1063-5-0335643/README.md) | Physics of Plasmas | [笔记](../daily/2026-11-12/notes/kalluri-2026-mrti-2d-3d.md) |
 | 2026-11-11 | [Multi-MA Fusion Accelerator Performance Insensitivity to Electrode Contamination](../papers/10-1103-hkpv-c3y7/README.md) | PRX Energy | [笔记](../daily/2026-11-11/notes/brown-2026-electrode-contamination.md) |
 | 2026-11-09 | [Single-crystal X-ray diffraction of BC8 carbon near terapascal pressures](../papers/arxiv-2611-06045/README.md) | arXiv preprint | [笔记](../daily/2026-11-09/notes/sun-2026-bc8-carbon-diffraction.md) |
 | 2026-10-30 | [Identification of Magnetic Reconnection in Plasma Turbulence Using a Dual-branch Lightweight Hybrid Convolutional Neural Network](../papers/10-3847-1538-4365-aeaa32/README.md) | The Astrophysical Journal Supplement Series 287, 26 | [笔记](../daily/2026-10-30/notes/Yin et al. - 2026 - DHCNN reconnection identification.md) |

@@ -2,11 +2,12 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：243 篇
-- 索引更新时间：2026-11-11
+- 当前收录：244 篇
+- 索引更新时间：2026-11-12
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-12 | [Role of interchange and mixed modes in magnetic Rayleigh–Taylor instability dynamics: A 2D vs 3D study](../papers/10-1063-5-0335643/README.md) | Physics of Plasmas | [笔记](../daily/2026-11-12/notes/kalluri-2026-mrti-2d-3d.md) |
 | 2026-11-11 | [Multi-MA Fusion Accelerator Performance Insensitivity to Electrode Contamination](../papers/10-1103-hkpv-c3y7/README.md) | PRX Energy | [笔记](../daily/2026-11-11/notes/brown-2026-electrode-contamination.md) |
 | 2026-11-11 | [Experimental Evidence of Cellular Sparing under Single-Pulse Picosecond Irradiation at Extreme Dose Rates](../papers/arxiv-2611-12812/README.md) | arXiv preprint | [笔记](../daily/2026-11-11/notes/maguire-2026-picosecond-cell-sparing.md) |
 | 2026-11-11 | [Magnetized plasma modulator for polarization-tunable ultrahigh-power single-cycle lasers](../papers/arxiv-2611-12410/README.md) | arXiv preprint | [笔记](../daily/2026-11-11/notes/shuai-2026-magnetized-plasma-modulator.md) |

@@ -1481,5 +1481,30 @@
     "last_failure_class": "radware_validation_html_instead_of_pdf",
     "stderr": "Official PDF route HTTP200 text/html; 14371 bytes, Radware validation; bounded exact-title search found no verified alternative legal full text. No abstract-only note.",
     "evidence_path": "daily/2026-11-11/download_report.json"
+  },
+  {
+    "doi": "10.1038/s41598-026-79996-9",
+    "title": "Integrated control and power system engineering for Thailand Plasma Focus-2",
+    "authors": [
+      "Pattarachai Bor-in",
+      "Arlee Tamman",
+      "Pasit Wonghabut",
+      "Sarai Lekchaum",
+      "Kitsakorn Locharoenrat"
+    ],
+    "journal": "Scientific Reports",
+    "publication_date": "2026-11-11",
+    "publication_date_type": "publisher early peer-reviewed accepted research; not final VOR",
+    "acceptance_date": "2026-11-04",
+    "source_url": "https://www.nature.com/articles/s41598-026-79996-9",
+    "run_date": "2026-11-12",
+    "status": "retry_fulltext_required_no_abstract_only_note",
+    "recorded_at": "2026-11-12T07:11:28.842490+08:00",
+    "retry_count": 0,
+    "failure_count": 1,
+    "source_family": "nature",
+    "last_failure_class": "pdf_route_redirected_to_early_article_html",
+    "stderr": "Official .pdf route HTTP200 text/html,232044bytes,redirected to article page. Page explicitly says early accepted research before finalVOR; no valid articlePDF acquired. Bounded exact-title search did not verify alternate PDF. No abstract-only note.",
+    "evidence_path": "daily/2026-11-12/download_report.json"
   }
 ]

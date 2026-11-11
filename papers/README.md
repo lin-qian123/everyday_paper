@@ -1,10 +1,14 @@
 # 论文总索引
 
-- 当前入库论文：555 篇
-- 索引更新时间：2026-11-11
+- 当前入库论文：559 篇
+- 索引更新时间：2026-11-12
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-11-12 | [Role of interchange and mixed modes in magnetic Rayleigh–Taylor instability dynamics: A 2D vs 3D study](./10-1063-5-0335643/README.md) | Physics of Plasmas | [10.1063/5.0335643](https://doi.org/10.1063/5.0335643) |
+| 2026-11-12 | [Compact plasma-based extreme compression of relativistic electron beams](./arxiv-2611-13436/README.md) | arXiv preprint | [10.48550/arXiv.2611.13436](https://doi.org/10.48550/arXiv.2611.13436) |
+| 2026-11-12 | [Physics-informed Bayesian optimization of high-order harmonic generation in gases](./arxiv-2611-14119/README.md) | arXiv preprint | [10.48550/arXiv.2611.14119](https://doi.org/10.48550/arXiv.2611.14119) |
+| 2026-11-12 | [Measurement of the 169Tm(γ,n)168Tm Cross Section and Implications for γ-Process Calculations](./arxiv-2611-12994/README.md) | arXiv preprint | [10.48550/arXiv.2611.12994](https://doi.org/10.48550/arXiv.2611.12994) |
 | 2026-11-11 | [Multi-MA Fusion Accelerator Performance Insensitivity to Electrode Contamination](./10-1103-hkpv-c3y7/README.md) | PRX Energy | [10.1103/hkpv-c3y7](https://doi.org/10.1103/hkpv-c3y7) |
 | 2026-11-11 | [Experimental Evidence of Cellular Sparing under Single-Pulse Picosecond Irradiation at Extreme Dose Rates](./arxiv-2611-12812/README.md) | arXiv preprint | [10.48550/arXiv.2611.12812](https://doi.org/10.48550/arXiv.2611.12812) |
 | 2026-11-11 | [Magnetized plasma modulator for polarization-tunable ultrahigh-power single-cycle lasers](./arxiv-2611-12410/README.md) | arXiv preprint | [10.48550/arXiv.2611.12410](https://doi.org/10.48550/arXiv.2611.12410) |

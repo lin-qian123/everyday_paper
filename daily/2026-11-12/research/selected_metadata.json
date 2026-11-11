@@ -1,0 +1,612 @@
+{
+  "retrieved_at": "2026-11-12T07:11:28.842490+08:00",
+  "source_candidates": [
+    {
+      "id": "10.1063/5.0335643",
+      "title": [
+        "Role of interchange and mixed modes in magnetic Rayleigh–Taylor instability dynamics: A 2D vs 3D study"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-5441-9224",
+          "authenticated-orcid": false,
+          "given": "Manohar Teja",
+          "family": "Kalluri",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Mathematics and Statistics, University of Exeter , Exeter,",
+              "place": [
+                "United Kingdom"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0851-5362",
+          "authenticated-orcid": false,
+          "given": "Andrew",
+          "family": "Hillier",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Mathematics and Statistics, University of Exeter , Exeter,",
+              "place": [
+                "United Kingdom"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            1
+          ]
+        ]
+      },
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            11
+          ]
+        ]
+      },
+      "link": [
+        {
+          "URL": "https://pubs.aip.org/aip/pop/article-pdf/doi/10.1063/5.0335643/21198078/112102_1_5.0335643.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "syndication"
+        },
+        {
+          "URL": "https://pubs.aip.org/aip/pop/article-pdf/doi/10.1063/5.0335643/21198078/112102_1_5.0335643.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "abstract": "<jats:p>The magnetic Rayleigh–Taylor instability (MRTI) governs plasma mixing and transport in diverse systems. Owing to computational constraints, two-dimensional (2D) MRTI simulations are common. It is intuitive that 2D and three-dimensional (3D) counterparts differ significantly. One of the crucial differences is the types of wave modes admissible in the two systems. Perturbations in 3D MRTI facilitate the coexistence of interchange, undular, and mixed modes. Such rich physics is not possible in 2D, where the perturbations can only have undular modes. This raises the question, “How do the interchange and mixed modes change the MRTI dynamics?” To address this aspect, we simulate MRTI in 2D and 3D, across different magnetic field strengths. Consequently, this paper provides, currently lacking, a rigorous qualitative and quantitative evaluation of the similarities and differences between 2D and 3D MRTI. The 2D MRTI is characterized by large-scale plumes with inefficient mixing and significant fluid interpenetration, while the 3D is characterized by significant mixing and small-scale plumes. Consequently, higher gravitational potential energy is extracted in 2D. The small-scale vortices and large current sheets lead to higher energy dissipation in 3D. Extending to the fundamental nature of evolution, 3D simulations tend toward a self-similar state due to interchange and mixed modes. But such behavior was not observed in our 2D simulations, due to the persistent influence of the magnetic field. Surprisingly, the reconnection-driven magnetic-to-kinetic energy conversion is similar in 2D and 3D. Overall, the work concludes that interchange and mixed modes influence the dynamics significantly, leading to stark differences between 2D and 3D MRTI. The work thus guides the extent to which one can extrapolate the 2D simulation results to understand MRTI in astrophysical and fusion energy systems.</jats:p>",
+      "URL": "https://doi.org/10.1063/5.0335643"
+    },
+    {
+      "id": "10.1038/s41598-026-79996-9",
+      "title": [
+        "Integrated control and power system engineering for Thailand Plasma Focus-2"
+      ],
+      "author": [
+        {
+          "given": "Pattarachai",
+          "family": "Bor-in",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Arlee",
+          "family": "Tamman",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Pasit",
+          "family": "Wonghabut",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Sarai",
+          "family": "Lekchaum",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-9406-0941",
+          "authenticated-orcid": false,
+          "given": "Kitsakorn",
+          "family": "Locharoenrat",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            11
+          ]
+        ]
+      },
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            11
+          ]
+        ]
+      },
+      "link": [
+        {
+          "URL": "https://www.nature.com/articles/s41598-026-79996-9",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "abstract": null,
+      "URL": "https://doi.org/10.1038/s41598-026-79996-9"
+    },
+    {
+      "id": "2611.13436",
+      "meta": [
+        [
+          "citation_title",
+          "Compact plasma-based extreme compression of relativistic electron beams"
+        ],
+        [
+          "citation_author",
+          "Hessami, Rafi"
+        ],
+        [
+          "citation_author",
+          "Swanson, Kelly K"
+        ],
+        [
+          "citation_author",
+          "Galletti, Mario"
+        ],
+        [
+          "citation_author",
+          "Verra, Livio"
+        ],
+        [
+          "citation_author",
+          "Biagioni, Angelo"
+        ],
+        [
+          "citation_author",
+          "Crincoli, Lucio"
+        ],
+        [
+          "citation_author",
+          "Carpanese, Mariano"
+        ],
+        [
+          "citation_author",
+          "Del Giorno, Martina"
+        ],
+        [
+          "citation_author",
+          "Demurtas, Francesco"
+        ],
+        [
+          "citation_author",
+          "Griseri, Giacomo"
+        ],
+        [
+          "citation_author",
+          "Lollo, Valerio"
+        ],
+        [
+          "citation_author",
+          "Opromolla, Michele"
+        ],
+        [
+          "citation_author",
+          "Nguyen, Federico"
+        ],
+        [
+          "citation_author",
+          "Parise, Gianmarco"
+        ],
+        [
+          "citation_author",
+          "Petralia, Alberto"
+        ],
+        [
+          "citation_author",
+          "Silvi, Gilles J"
+        ],
+        [
+          "citation_author",
+          "Stocchi, Federica"
+        ],
+        [
+          "citation_author",
+          "Zottola, Marco"
+        ],
+        [
+          "citation_author",
+          "Marinelli, Agostino"
+        ],
+        [
+          "citation_author",
+          "Pompili, Riccardo"
+        ],
+        [
+          "citation_author",
+          "Emma, Claudio"
+        ],
+        [
+          "citation_date",
+          "2026/11/10"
+        ],
+        [
+          "citation_online_date",
+          "2026/11/10"
+        ],
+        [
+          "citation_pdf_url",
+          "https://arxiv.org/pdf/2611.13436"
+        ],
+        [
+          "citation_arxiv_id",
+          "2611.13436"
+        ],
+        [
+          "citation_abstract",
+          "Accelerated particle beams are essential tools of modern science and technology with applications ranging from medicine [1], to light sources [2], to high-energy physics [3]. Over time, as accelerator-based experiments become more sophisticated and probe natural phenomena with greater temporal resolution, there is an increasing demand on beam parameters, in particular on bunch duration. Experiments have been proposed that require beams with 1-2 orders of magnitude shorter durations than what is possible with current state-of-the-art technology. However, state-of-the-art temporal bunch compressors force a trade-off between how short an electron bunch can be made and how well its transverse quality survives the strong bending magnets required to do so -- a limitation that stands as a grand challenge for accelerator physics to-date [4]. In this experiment, we demonstrate a new, compact compression technique for generating ultrashort, high-peak-current electron bunches that circumvents this trade-off using plasma wakefield acceleration. Just as chirped pulse amplification unlocked ultrashort, high-power laser pulses and the technologies that followed from them, here we demonstrate an analogous chirp-and-compress strategy applied to relativistic electron beams by using the extreme electric fields of a plasma wakefield in place of a stretcher-amplifier, thereby unlocking the path to ultrashort, extremely high-current electron beams. We demonstrate the first application of this plasma-compressed bunch using it to drive single-microbunch free electron lasing at optical wavelengths in a single, meter-scale undulator module, producing radiation pulses roughly four orders of magnitude more energetic than the first beam-driven, plasma-based free electron laser demonstration at the same accelerator facility [5, 6]."
+        ]
+      ],
+      "abstract": "Abstract: Accelerated particle beams are essential tools of modern science and technology with applications ranging from medicine [1], to light sources [2], to high-energy physics [3]. Over time, as accelerator-based experiments become more sophisticated and probe natural phenomena with greater temporal resolution, there is an increasing demand on beam parameters, in particular on bunch duration. Experiments have been proposed that require beams with 1-2 orders of magnitude shorter durations than what is possible with current state-of-the-art technology. However, state-of-the-art temporal bunch compressors force a trade-off between how short an electron bunch can be made and how well its transverse quality survives the strong bending magnets required to do so -- a limitation that stands as a grand challenge for accelerator physics to-date [4]. In this experiment, we demonstrate a new, compact compression technique for generating ultrashort, high-peak-current electron bunches that circumvents this trade-off using plasma wakefield acceleration. Just as chirped pulse amplification unlocked ultrashort, high-power laser pulses and the technologies that followed from them, here we demonstrate an analogous chirp-and-compress strategy applied to relativistic electron beams by using the extreme electric fields of a plasma wakefield in place of a stretcher-amplifier, thereby unlocking the path to ultrashort, extremely high-current electron beams. We demonstrate the first application of this plasma-compressed bunch using it to drive single-microbunch free electron lasing at optical wavelengths in a single, meter-scale undulator module, producing radiation pulses roughly four orders of magnitude more energetic than the first beam-driven, plasma-based free electron laser demonstration at the same accelerator facility [5, 6].",
+      "history": "Submission history From: Claudio Emma [ view email ] [v1] Tue, 10 Nov 2026 01:18:43 UTC (2,665 KB)"
+    },
+    {
+      "id": "2611.12994",
+      "meta": [
+        [
+          "citation_title",
+          "Measurement of the $^{169}$Tm$(\\gamma,n)$$^{168}$Tm Cross Section and Implications for $\\gamma$-Process Calculations"
+        ],
+        [
+          "citation_author",
+          "Wang, De-Xin"
+        ],
+        [
+          "citation_author",
+          "Zhang, Su-Ya-La-Tu"
+        ],
+        [
+          "citation_author",
+          "Zi-rui, Hao"
+        ],
+        [
+          "citation_author",
+          "Guo, Han"
+        ],
+        [
+          "citation_author",
+          "Xin, Wen-Yu"
+        ],
+        [
+          "citation_author",
+          "Li, Guo"
+        ],
+        [
+          "citation_author",
+          "Huang, Yong-Shun"
+        ],
+        [
+          "citation_author",
+          "Bai, Jin-Feng"
+        ],
+        [
+          "citation_author",
+          "Wang, Kai"
+        ],
+        [
+          "citation_author",
+          "Huang, Mei-Rong"
+        ],
+        [
+          "citation_author",
+          "Bao-Shan, Xi"
+        ],
+        [
+          "citation_author",
+          "Mohr, Peter"
+        ],
+        [
+          "citation_author",
+          "Zhang, Jian-Fang"
+        ],
+        [
+          "citation_author",
+          "Fan, Gong-Tao"
+        ],
+        [
+          "citation_author",
+          "Wang, Hong-Wei"
+        ],
+        [
+          "citation_date",
+          "2026/11/08"
+        ],
+        [
+          "citation_online_date",
+          "2026/11/08"
+        ],
+        [
+          "citation_pdf_url",
+          "https://arxiv.org/pdf/2611.12994"
+        ],
+        [
+          "citation_arxiv_id",
+          "2611.12994"
+        ],
+        [
+          "citation_abstract",
+          "The $^{169}\\mathrm{Tm}(\\gamma,n)^{168}\\mathrm{Tm}$ cross section has been measured at the Shanghai Laser Electron Gamma Source (SLEGS) using quasi-monoenergetic laser-Compton-scattering $\\gamma$ rays over the energy range from the neutron threshold to 14.61~MeV. The photon flux and energy distribution were determined with a LaBr$3$(Ce) spectrometer, and monoenergetic cross sections were obtained using an iterative unfolding method. Below 12~MeV, the present cross sections agree well with the NewSUBARU data and the IAEA-2019 evaluations. However, near the maximum of the $(\\gamma,n)$ excitation function, the present cross sections are significantly higher than both the NewSUBARU data and the IAEA-2019 evaluated values. The $E1$ $\\gamma$-ray strength functions were derived by fitting the experimental cross sections measured at SLEGS and NewSUBARU. The stellar reaction rates for $^{169}\\mathrm{Tm}(\\gamma,n)$ and $^{168}\\mathrm{Tm}(n,\\gamma)$ were calculated by incorporating these constrained $\\gamma$-ray strength functions into the TALYS code. The calculated $^{169}\\mathrm{Tm}(\\gamma,n)$ rates were adopted in a full $p$-process reaction network for the shock-heated O/Ne-rich layers of a $20 M\\odot$ core-collapse supernova model to perform a sensitivity analysis. The updated rates have a negligible effect on the final $p$-nucleus abundances."
+        ]
+      ],
+      "abstract": "Abstract: The $^{169}\\mathrm{Tm}(\\gamma,n)^{168}\\mathrm{Tm}$ cross section has been measured at the Shanghai Laser Electron Gamma Source (SLEGS) using quasi-monoenergetic laser-Compton-scattering $\\gamma$ rays over the energy range from the neutron threshold to 14.61~MeV. The photon flux and energy distribution were determined with a LaBr$3$(Ce) spectrometer, and monoenergetic cross sections were obtained using an iterative unfolding method. Below 12~MeV, the present cross sections agree well with the NewSUBARU data and the IAEA-2019 evaluations. However, near the maximum of the $(\\gamma,n)$ excitation function, the present cross sections are significantly higher than both the NewSUBARU data and the IAEA-2019 evaluated values. The $E1$ $\\gamma$-ray strength functions were derived by fitting the experimental cross sections measured at SLEGS and NewSUBARU. The stellar reaction rates for $^{169}\\mathrm{Tm}(\\gamma,n)$ and $^{168}\\mathrm{Tm}(n,\\gamma)$ were calculated by incorporating these constrained $\\gamma$-ray strength functions into the TALYS code. The calculated $^{169}\\mathrm{Tm}(\\gamma,n)$ rates were adopted in a full $p$-process reaction network for the shock-heated O/Ne-rich layers of a $20 M\\odot$ core-collapse supernova model to perform a sensitivity analysis. The updated rates have a negligible effect on the final $p$-nucleus abundances.",
+      "history": "Submission history From: Suyalatu Zhang [ view email ] [v1] Sun, 8 Nov 2026 12:44:23 UTC (449 KB)"
+    },
+    {
+      "id": "2611.14119",
+      "meta": [
+        [
+          "citation_title",
+          "Physics-informed Bayesian optimization of high-order harmonic generation in gases"
+        ],
+        [
+          "citation_author",
+          "Maslarova, Dominika"
+        ],
+        [
+          "citation_author",
+          "Pouyez, Mattys"
+        ],
+        [
+          "citation_author",
+          "Jansson, Patrik"
+        ],
+        [
+          "citation_author",
+          "Vabek, Jan"
+        ],
+        [
+          "citation_author",
+          "Weissenbilder, Robin"
+        ],
+        [
+          "citation_author",
+          "Hagedorn, Linus"
+        ],
+        [
+          "citation_author",
+          "L'Huillier, Anne"
+        ],
+        [
+          "citation_author",
+          "Fülöp, Tünde"
+        ],
+        [
+          "citation_date",
+          "2026/11/10"
+        ],
+        [
+          "citation_online_date",
+          "2026/11/10"
+        ],
+        [
+          "citation_pdf_url",
+          "https://arxiv.org/pdf/2611.14119"
+        ],
+        [
+          "citation_arxiv_id",
+          "2611.14119"
+        ],
+        [
+          "citation_abstract",
+          "Optimization of high-order harmonic generation in gases is essential for attosecond science. Improving conversion efficiency from the infrared driving laser to the extreme-ultraviolet high-order harmonic radiation requires balancing microscopic single-atom dipole responses with macroscopic phase matching. The resulting conversion-efficiency landscape exhibits complex structures, such as the hyperbolic ridge in the pressure-length space, which can be difficult to accurately reconstruct using conventional Bayesian optimization. Here, we introduce a physics-informed Bayesian optimization framework that incorporates known physical scaling relations through nonlinear transformations of the search space. We first demonstrate the approach in the two-dimensional pressure-length space, where a direct grid scan enables detailed validation of the reconstructed landscape, before extending it to four dimensions, where exhaustive scanning becomes computationally impractical. In four dimensions, incorporating the pulse-duration scaling and a square-root transformation of conversion efficiency further improves the accuracy of the reconstructed landscape, as validated against an independent reference dataset. We also employ a threshold-based acquisition strategy to identify extended high-efficiency operating regions rather than isolated optimal points. Together, these results demonstrate that incorporating physical knowledge into Bayesian optimization improves the exploration and reconstruction of multidimensional high-order harmonic generation landscapes, extending its capabilities beyond locating individual optima."
+        ]
+      ],
+      "abstract": "Abstract: Optimization of high-order harmonic generation in gases is essential for attosecond science. Improving conversion efficiency from the infrared driving laser to the extreme-ultraviolet high-order harmonic radiation requires balancing microscopic single-atom dipole responses with macroscopic phase matching. The resulting conversion-efficiency landscape exhibits complex structures, such as the hyperbolic ridge in the pressure-length space, which can be difficult to accurately reconstruct using conventional Bayesian optimization. Here, we introduce a physics-informed Bayesian optimization framework that incorporates known physical scaling relations through nonlinear transformations of the search space. We first demonstrate the approach in the two-dimensional pressure-length space, where a direct grid scan enables detailed validation of the reconstructed landscape, before extending it to four dimensions, where exhaustive scanning becomes computationally impractical. In four dimensions, incorporating the pulse-duration scaling and a square-root transformation of conversion efficiency further improves the accuracy of the reconstructed landscape, as validated against an independent reference dataset. We also employ a threshold-based acquisition strategy to identify extended high-efficiency operating regions rather than isolated optimal points. Together, these results demonstrate that incorporating physical knowledge into Bayesian optimization improves the exploration and reconstruction of multidimensional high-order harmonic generation landscapes, extending its capabilities beyond locating individual optima.",
+      "history": "Submission history From: Dominika Maslarova [ view email ] [v1] Tue, 10 Nov 2026 14:07:56 UTC (3,528 KB)"
+    }
+  ],
+  "mrti_arxiv_history": "Submission history From: Manohar Teja Kalluri Mr. [ view email ] [v1] Thu, 30 Oct 2025 23:47:24 UTC (29,500 KB) [v2] Sat, 24 Oct 2026 11:35:22 UTC (28,208 KB)",
+  "selected_ledger_records": [
+    {
+      "title": "Role of interchange and mixed modes in magnetic Rayleigh–Taylor instability dynamics: A 2D vs 3D study",
+      "doi": "10.1063/5.0335643",
+      "authors": [
+        "Manohar Teja Kalluri",
+        "Andrew Hillier"
+      ],
+      "journal": "Physics of Plasmas",
+      "publication_date": "2026-11-11",
+      "publication_date_type": "publisher online date; issue date2026-11-01 separate",
+      "acceptance_date": "2026-10-26",
+      "publication_status": "journal VOR published; actual acquired fulltext is corresponding author manuscript; VOR download403",
+      "source_url": "https://doi.org/10.1063/5.0335643",
+      "arxiv_id": "2510.27053",
+      "arxiv_version": "2510.27053v2",
+      "arxiv_first_submission_date": "2025-10-30",
+      "arxiv_revision_date": "2026-10-24",
+      "pdf_printed_date": "2026-10-27",
+      "fulltext_version": "official arXiv v2 author manuscript, not publisher VOR; identity checked by title/authors/abstract, no byte/text parity claim",
+      "pdf_url": "https://arxiv.org/pdf/2510.27053v2",
+      "categories": [
+        "hedp-icf-laboratory-astrophysics",
+        "pic-and-plasma-simulation"
+      ],
+      "pdf_path": "daily/2026-11-12/pdfs/kalluri-2026-mrti-2d-3d.pdf",
+      "pdf_sha256": "2d219167dd005d138758ef34d307aeaa82f158b8aa2a3ecfd3764a397b9aa7fb",
+      "note_path": "daily/2026-11-12/notes/kalluri-2026-mrti-2d-3d.md",
+      "processed_date": "2026-11-12",
+      "normalized_title": "role of interchange and mixed modes in magnetic rayleigh taylor instability dynamics a 2d vs 3d study"
+    },
+    {
+      "title": "Compact plasma-based extreme compression of relativistic electron beams",
+      "doi": "10.48550/arXiv.2611.13436",
+      "authors": [
+        "Hessami, Rafi",
+        "Swanson, Kelly K",
+        "Galletti, Mario",
+        "Verra, Livio",
+        "Biagioni, Angelo",
+        "Crincoli, Lucio",
+        "Carpanese, Mariano",
+        "Del Giorno, Martina",
+        "Demurtas, Francesco",
+        "Griseri, Giacomo",
+        "Lollo, Valerio",
+        "Opromolla, Michele",
+        "Nguyen, Federico",
+        "Parise, Gianmarco",
+        "Petralia, Alberto",
+        "Silvi, Gilles J",
+        "Stocchi, Federica",
+        "Zottola, Marco",
+        "Marinelli, Agostino",
+        "Pompili, Riccardo",
+        "Emma, Claudio"
+      ],
+      "journal": "arXiv preprint",
+      "publication_date": "2026-11-10",
+      "publication_date_type": "arxiv first submission; announcement separate",
+      "submission_timestamp_utc": "2026-11-10T01:18:43Z",
+      "announcement_date": "2026-11-11",
+      "publication_status": "author preprint; bounded Crossref top3 did not verify same-work journal version",
+      "source_url": "https://arxiv.org/abs/2611.13436v1",
+      "arxiv_id": "2611.13436",
+      "arxiv_version": "2611.13436v1",
+      "fulltext_version": "official arXiv v1 author preprint",
+      "pdf_url": "https://arxiv.org/pdf/2611.13436v1",
+      "categories": [
+        "laser-plasma-acceleration",
+        "experimental-platforms-diagnostics"
+      ],
+      "pdf_path": "daily/2026-11-12/pdfs/hessami-2026-plasma-compression.pdf",
+      "pdf_sha256": "639844f5028e130d0612013a8093d2870f02a77ac64e182cfa093746ef4a4cb3",
+      "note_path": "daily/2026-11-12/notes/hessami-2026-plasma-compression.md",
+      "processed_date": "2026-11-12",
+      "normalized_title": "compact plasma based extreme compression of relativistic electron beams"
+    },
+    {
+      "title": "Measurement of the 169Tm(γ,n)168Tm Cross Section and Implications for γ-Process Calculations",
+      "doi": "10.48550/arXiv.2611.12994",
+      "authors": [
+        "Wang, De-Xin",
+        "Zhang, Su-Ya-La-Tu",
+        "Hao, Zi-Rui",
+        "Guo, Han",
+        "Xin, Wen-Yu",
+        "Li, Guo",
+        "Huang, Yong-Shun",
+        "Bai, Jin-Feng",
+        "Wang, Kai",
+        "Huang, Mei-Rong",
+        "Xi, Bao-Shan",
+        "Mohr, Peter",
+        "Zhang, Jian-Fang",
+        "Fan, Gong-Tao",
+        "Wang, Hong-Wei"
+      ],
+      "journal": "arXiv preprint",
+      "publication_date": "2026-11-08",
+      "publication_date_type": "arxiv first submission; announcement separate",
+      "submission_timestamp_utc": "2026-11-08T12:44:23Z",
+      "announcement_date": "2026-11-11",
+      "publication_status": "author preprint; bounded Crossref top3 did not verify same-work journal version",
+      "source_url": "https://arxiv.org/abs/2611.12994v1",
+      "arxiv_id": "2611.12994",
+      "arxiv_version": "2611.12994v1",
+      "fulltext_version": "official arXiv v1 author preprint",
+      "pdf_url": "https://arxiv.org/pdf/2611.12994v1",
+      "categories": [
+        "laser-accelerated-beam-applications",
+        "experimental-platforms-diagnostics"
+      ],
+      "pdf_path": "daily/2026-11-12/pdfs/wang-2026-thulium-photoneutron.pdf",
+      "pdf_sha256": "4695a89820fc4c0b68e44f1f6100d8e3a75a51ab5e95a3f0f3a156af41d5f0d8",
+      "note_path": "daily/2026-11-12/notes/wang-2026-thulium-photoneutron.md",
+      "processed_date": "2026-11-12",
+      "normalized_title": "measurement of the 169tm n 168tm cross section and implications for process calculations"
+    },
+    {
+      "title": "Physics-informed Bayesian optimization of high-order harmonic generation in gases",
+      "doi": "10.48550/arXiv.2611.14119",
+      "authors": [
+        "Maslarova, Dominika",
+        "Pouyez, Mattys",
+        "Jansson, Patrik",
+        "Vabek, Jan",
+        "Weissenbilder, Robin",
+        "Hagedorn, Linus",
+        "L'Huillier, Anne",
+        "Fülöp, Tünde"
+      ],
+      "journal": "arXiv preprint",
+      "publication_date": "2026-11-10",
+      "publication_date_type": "arxiv first submission; announcement separate",
+      "submission_timestamp_utc": "2026-11-10T14:07:56Z",
+      "announcement_date": "2026-11-11",
+      "publication_status": "author preprint; bounded Crossref top3 did not verify same-work journal version",
+      "source_url": "https://arxiv.org/abs/2611.14119v1",
+      "arxiv_id": "2611.14119",
+      "arxiv_version": "2611.14119v1",
+      "fulltext_version": "official arXiv v1 author preprint",
+      "pdf_url": "https://arxiv.org/pdf/2611.14119v1",
+      "categories": [
+        "ai-ml-plasma-physics",
+        "laser-plasma-acceleration"
+      ],
+      "pdf_path": "daily/2026-11-12/pdfs/maslarova-2026-hhg-bayesian.pdf",
+      "pdf_sha256": "e7d29735afb6814290e95c51e22fe062367683a19d16857538b593abcf4174b5",
+      "note_path": "daily/2026-11-12/notes/maslarova-2026-hhg-bayesian.md",
+      "processed_date": "2026-11-12",
+      "normalized_title": "physics informed bayesian optimization of high order harmonic generation in gases"
+    }
+  ],
+  "note": "Tm authors Zi-RuiHao andBao-ShanXi corrected to PDFtitlepage ordering; sourcearxiv metadata preserved above"
+}

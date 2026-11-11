@@ -1,0 +1,269 @@
+{
+  "retrieved_at": "2026-11-12T07:11:28.842490+08:00",
+  "publication_date_window": [
+    "2026-11-10",
+    "2026-11-12"
+  ],
+  "crossref_publication_date": {
+    "queries": 20,
+    "rows": 800,
+    "unique_dois": 594,
+    "order": "10latest-published then10relevance-score; both40perquery"
+  },
+  "crossref_online_date": {
+    "queries": 4,
+    "rows": 144,
+    "unique_dois": 144,
+    "queries_text": [
+      "laser plasma acceleration",
+      "neutron photonuclear gamma",
+      "particle in cell high energy density",
+      "machine learning plasma"
+    ],
+    "window": [
+      "2026-11-10",
+      "2026-11-12"
+    ],
+    "recovery": "first batch hit429 inML and temporary collector discarded batch; fourqueries rerun sequentially, all200; no failed-response JSON treated as metadata"
+  },
+  "crossref_union_unique_dois": 648,
+  "arxiv": {
+    "categories": 10,
+    "rows": 220,
+    "unique_ids": 201,
+    "newest_announcement_date": "2026-11-11",
+    "cs_LG_limit": "first100 of235",
+    "parser": "newest h3 within enclosing dl; remainingdateblocks excluded"
+  },
+  "queries": [
+    {
+      "kind": "crossref",
+      "query": "laser plasma acceleration",
+      "rows": 40,
+      "header": null,
+      "error": null
+    },
+    {
+      "kind": "crossref",
+      "query": "strong field quantum electrodynamics",
+      "rows": 40,
+      "header": null,
+      "error": null
+    },
+    {
+      "kind": "crossref",
+      "query": "high energy density inertial confinement",
+      "rows": 40,
+      "header": null,
+      "error": null
+    },
+    {
+      "kind": "crossref",
+      "query": "particle in cell plasma",
+      "rows": 40,
+      "header": null,
+      "error": null
+    },
+    {
+      "kind": "crossref",
+      "query": "machine learning plasma",
+      "rows": 40,
+      "header": null,
+      "error": null
+    },
+    {
+      "kind": "crossref",
+      "query": "laser neutron photonuclear isotope",
+      "rows": 40,
+      "header": null,
+      "error": null
+    },
+    {
+      "kind": "crossref",
+      "query": "bremsstrahlung gamma converter target",
+      "rows": 40,
+      "header": null,
+      "error": null
+    },
+    {
+      "kind": "crossref",
+      "query": "ultra high dose electron proton therapy",
+      "rows": 40,
+      "header": null,
+      "error": null
+    },
+    {
+      "kind": "crossref",
+      "query": "nuclear reaction radiation shielding diagnostic",
+      "rows": 40,
+      "header": null,
+      "error": null
+    },
+    {
+      "kind": "crossref",
+      "query": "laser ion beam target design",
+      "rows": 40,
+      "header": null,
+      "error": null
+    },
+    {
+      "kind": "arxiv",
+      "query": "physics.plasm-ph",
+      "rows": 8,
+      "header": "Wed, 11 Nov 2026 (showing 8 of 8 entries )",
+      "error": null
+    },
+    {
+      "kind": "arxiv",
+      "query": "physics.acc-ph",
+      "rows": 1,
+      "header": "Wed, 11 Nov 2026 (showing 1 of 1 entries )",
+      "error": null
+    },
+    {
+      "kind": "arxiv",
+      "query": "physics.comp-ph",
+      "rows": 10,
+      "header": "Wed, 11 Nov 2026 (showing 10 of 10 entries )",
+      "error": null
+    },
+    {
+      "kind": "arxiv",
+      "query": "physics.optics",
+      "rows": 25,
+      "header": "Wed, 11 Nov 2026 (showing 25 of 25 entries )",
+      "error": null
+    },
+    {
+      "kind": "arxiv",
+      "query": "physics.med-ph",
+      "rows": 5,
+      "header": "Wed, 11 Nov 2026 (showing 5 of 5 entries )",
+      "error": null
+    },
+    {
+      "kind": "arxiv",
+      "query": "physics.ins-det",
+      "rows": 7,
+      "header": "Wed, 11 Nov 2026 (showing 7 of 7 entries )",
+      "error": null
+    },
+    {
+      "kind": "arxiv",
+      "query": "nucl-ex",
+      "rows": 3,
+      "header": "Wed, 11 Nov 2026 (showing 3 of 3 entries )",
+      "error": null
+    },
+    {
+      "kind": "arxiv",
+      "query": "nucl-th",
+      "rows": 17,
+      "header": "Wed, 11 Nov 2026 (showing 17 of 17 entries )",
+      "error": null
+    },
+    {
+      "kind": "arxiv",
+      "query": "hep-ph",
+      "rows": 44,
+      "header": "Wed, 11 Nov 2026 (showing 44 of 44 entries )",
+      "error": null
+    },
+    {
+      "kind": "arxiv",
+      "query": "cs.LG",
+      "rows": 100,
+      "header": "Wed, 11 Nov 2026 (showing first 100 of 235 entries )",
+      "error": null
+    },
+    {
+      "kind": "crossref",
+      "query": "laser plasma acceleration",
+      "rows": 40,
+      "header": null,
+      "error": null
+    },
+    {
+      "kind": "crossref",
+      "query": "strong field quantum electrodynamics",
+      "rows": 40,
+      "header": null,
+      "error": null
+    },
+    {
+      "kind": "crossref",
+      "query": "high energy density inertial confinement",
+      "rows": 40,
+      "header": null,
+      "error": null
+    },
+    {
+      "kind": "crossref",
+      "query": "particle in cell plasma",
+      "rows": 40,
+      "header": null,
+      "error": null
+    },
+    {
+      "kind": "crossref",
+      "query": "machine learning plasma",
+      "rows": 40,
+      "header": null,
+      "error": null
+    },
+    {
+      "kind": "crossref",
+      "query": "laser neutron photonuclear isotope",
+      "rows": 40,
+      "header": null,
+      "error": null
+    },
+    {
+      "kind": "crossref",
+      "query": "bremsstrahlung gamma converter target",
+      "rows": 40,
+      "header": null,
+      "error": null
+    },
+    {
+      "kind": "crossref",
+      "query": "ultra high dose electron proton therapy",
+      "rows": 40,
+      "header": null,
+      "error": null
+    },
+    {
+      "kind": "crossref",
+      "query": "nuclear reaction radiation shielding diagnostic",
+      "rows": 40,
+      "header": null,
+      "error": null
+    },
+    {
+      "kind": "crossref",
+      "query": "laser ion beam target design",
+      "rows": 40,
+      "header": null,
+      "error": null
+    }
+  ],
+  "selection": "4distinct works; formalMRTI metadata with authorv2 fulltext plus3authorv1preprints",
+  "boundaries": [
+    "bounded search; not exhaustive",
+    "No same-work formal version verified for3preprints by limited title top3 checks",
+    "Thai early article has no validatedPDF; newretry",
+    "APS1m87-jy9v container APS OpenScience; no verified journal-VOR designation or fulltext, candidateonly",
+    "Old64retryobjects unchanged; no queuewide probes",
+    "MinerU known expired;0requests; local extraction/rendering"
+  ],
+  "unread_leads": [
+    {
+      "id": "2611.13793",
+      "status": "abstract/metadata only; no fulltext reading or ingestion"
+    },
+    {
+      "doi": "10.1103/1m87-jy9v",
+      "status": "Crossref APS OpenScience metadata only; source403/harvest404; journal status unverified"
+    }
+  ]
+}

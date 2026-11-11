@@ -1,0 +1,160 @@
+[
+  {
+    "arxiv_id": "2611.13436",
+    "title": "Compact plasma-based extreme compression of relativistic electron beams",
+    "status": 200,
+    "candidates": [
+      {
+        "doi": "10.1103/ggd1-pt1y",
+        "title": [
+          "Longitudinal dynamics of extreme plasma-based compression of electron beams"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              29
+            ]
+          ]
+        }
+      },
+      {
+        "doi": "10.1103/physrevresearch.7.023201",
+        "title": [
+          "Compact efficient polarizers for relativistic electron beams"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              29
+            ]
+          ]
+        }
+      },
+      {
+        "doi": "10.1103/physreve.109.055202",
+        "title": [
+          "Acceleration and focusing of relativistic electron beams in a compact plasma device"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              5,
+              3
+            ]
+          ]
+        }
+      }
+    ],
+    "closest_match_assessment": {
+      "doi": "10.1103/ggd1-pt1y",
+      "source_url": "https://journals.aps.org/prab/abstract/10.1103/ggd1-pt1y",
+      "same_work": false,
+      "evidence": "Official APS abstract: Swanson-led six-author simulation/feasibility study, May29 publication, ~10nm and1MA predictions; selected Hessami-led21-author preprint reports SPARC_LAB PWFAcompression/optical experiment. Related predecessor, not same-work journal alias. Officialabstract inspected; priorworkPDF not read."
+    }
+  },
+  {
+    "arxiv_id": "2611.12994",
+    "title": "Measurement of the $^{169}$Tm$(\\gamma,n)$$^{168}$Tm Cross Section and Implications for $\\gamma$-Process Calculations",
+    "status": 200,
+    "candidates": [
+      {
+        "doi": "10.2172/2458172",
+        "title": [
+          "&lt;sup&gt;169&lt;/sup&gt;Tm(n,$\\gamma$) cross section measured at DANCE"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              10,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "doi": "10.1143/jpsj.50.3191",
+        "title": [
+          "Gamma-Gamma Directional Correlation in the Decay of <sup>168</sup>Tm"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1981,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "doi": "10.1088/1674-1137/acf287",
+        "title": [
+          "Measurement of <sup>169</sup>Tm(n, 2n)<sup>168</sup>Tm reaction cross sections from 12 to 19.8 MeV*"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              11,
+              1
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "arxiv_id": "2611.14119",
+    "title": "Physics-informed Bayesian optimization of high-order harmonic generation in gases",
+    "status": 429,
+    "candidates": [
+      {
+        "doi": "10.1109/nlo.1990.695975",
+        "title": [
+          "High-order Harmonic Generation In Gases"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1990
+            ]
+          ]
+        }
+      },
+      {
+        "doi": "10.1364/cleo_fs.2023.fw3m.4",
+        "title": [
+          "Hyperbolic trend in optimization of high-order harmonic generation in gases"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        }
+      },
+      {
+        "doi": "10.1088/0953-4075/29/14/032",
+        "title": [
+          "High-order harmonic generation in molecular gases"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1996,
+              7,
+              28
+            ]
+          ]
+        }
+      }
+    ],
+    "retry_status": 200
+  }
+]

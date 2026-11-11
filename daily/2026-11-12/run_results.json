@@ -1,0 +1,57 @@
+{
+  "run_date": "2026-11-12",
+  "created_at": "2026-11-12T07:13:32.955407+08:00",
+  "status": "fulltext_ingested_and_local_scope_validation_passed",
+  "processed_before": 555,
+  "processed_after": 559,
+  "added_dois": [
+    "10.1063/5.0335643",
+    "10.48550/arXiv.2611.13436",
+    "10.48550/arXiv.2611.12994",
+    "10.48550/arXiv.2611.14119"
+  ],
+  "prior_completed_objects_unchanged": 555,
+  "journal_publication_metadata_with_author_fulltext": 1,
+  "publisher_vor_acquired": 0,
+  "author_preprints": 3,
+  "retry_before": 64,
+  "retry_after": 65,
+  "new_retries": [
+    "10.1038/s41598-026-79996-9"
+  ],
+  "prior_retry_objects_unchanged": 64,
+  "pdfs": 4,
+  "pages": 67,
+  "pdf_bytes": 17128357,
+  "layout_bytes": 385493,
+  "visual_key_pages": 43,
+  "original_excerpts": 12,
+  "transcribed_data_points": 18,
+  "mineru": {
+    "requests": 0,
+    "success": 0,
+    "method": "known expired credentials; local text and rendered source pages"
+  },
+  "scientific_boundaries": [
+    "MRTI2D/3DMHD with geometry-specific modes; authorv2 only; no3Dgrid-refinement sequence; printed force/energy/dissipation issues need clarification",
+    "PWFAexperiment with7.6+/-1.3nJ opticalradiation;2.3fs/4.8kA simulations; multipulse stitched selected spectra; no pairedemittance measurement",
+    "SLEGSTm18unfolded crosssections; LCSnotLWFA; jointfit reusesNewSUBARU; chi2/ndf8.7; inverse/stella rates model-based; flux/counting definitions need clarification",
+    "HHGdeterministicHarP/BO; independent finiteSobolreference; boundaryoptimum;6.96e-6 extra validation notwithin120round best; no newexperiment",
+    "No authorphysics/MC/ML/fitting/timing/experiment reruns; no new laserphotonuclear isotope end-to-end production, clinical orshielding acceptance"
+  ],
+  "publication": {
+    "target": "origin/master",
+    "receipt": "actual commit/push/remoteparity recorded in automation memory after publication",
+    "preexisting_user_file_excluded": "AGENTS.md"
+  },
+  "verification": {
+    "indexes": "559papers across9categories",
+    "tests": {
+      "command": "PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q",
+      "passed": 7,
+      "seconds": 5.69
+    },
+    "scope_audit": "research/verification.json",
+    "scope_audit_status": "passed"
+  }
+}

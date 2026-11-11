@@ -2,11 +2,12 @@
 
 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。
 
-- 当前收录：94 篇
-- 索引更新时间：2026-11-11
+- 当前收录：95 篇
+- 索引更新时间：2026-11-12
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-12 | [Physics-informed Bayesian optimization of high-order harmonic generation in gases](../papers/arxiv-2611-14119/README.md) | arXiv preprint | [笔记](../daily/2026-11-12/notes/maslarova-2026-hhg-bayesian.md) |
 | 2026-11-11 | [Online Imitation Learning for Stabilizing Vlasov--Poisson Plasmas](../papers/arxiv-2611-10870/README.md) | arXiv preprint | [笔记](../daily/2026-11-11/notes/xia-2026-online-plasma-control.md) |
 | 2026-11-07 | [Fast prediction of electron-beam parameters using transfer maps and machine learning in a digital model of a MeV γγ collider](../papers/arxiv-2611-08036/README.md) | arXiv preprint | [笔记](../daily/2026-11-07/notes/zhang-2026-transfer-maps-ml-gamma-collider.md) |
 | 2026-11-05 | [SensOFormer: Foundation Models for Particle Accelerators](../papers/arxiv-2611-02031/README.md) | arXiv preprint; author claims NeurIPS2026 acceptance, proceedings not independently verified | [笔记](../daily/2026-11-05/notes/Rautela and Scheinker - 2026 - SensOFormer accelerator telemetry.md) |

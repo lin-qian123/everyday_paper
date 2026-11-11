@@ -1,0 +1,256 @@
+{
+  "coordinate_units": "PDF points; pages1based",
+  "figures": [
+    {
+      "path": "daily/2026-11-12/images/hessami-fig2.png",
+      "pdf_path": "daily/2026-11-12/pdfs/hessami-2026-plasma-compression.pdf",
+      "page": 3,
+      "rect": [
+        60,
+        70,
+        290,
+        290
+      ],
+      "render_scale": 2,
+      "sha256": "610f562c339bcbf03112dd61b9d885e4d84eff13fc6244997eb98cabff2d7ffb",
+      "figure": "fig2",
+      "final_crop_visually_reviewed": true
+    },
+    {
+      "path": "daily/2026-11-12/images/hessami-fig3.png",
+      "pdf_path": "daily/2026-11-12/pdfs/hessami-2026-plasma-compression.pdf",
+      "page": 4,
+      "rect": [
+        70,
+        65,
+        295,
+        232
+      ],
+      "render_scale": 2,
+      "sha256": "e614be71fcf5fd6e45f9fd7a765ad3fc66ecdc6bc2f901421e74a349836e5441",
+      "figure": "fig3",
+      "final_crop_visually_reviewed": true
+    },
+    {
+      "path": "daily/2026-11-12/images/hessami-fig4.png",
+      "pdf_path": "daily/2026-11-12/pdfs/hessami-2026-plasma-compression.pdf",
+      "page": 5,
+      "rect": [
+        60,
+        70,
+        290,
+        232
+      ],
+      "render_scale": 2,
+      "sha256": "6adb27b2b83547f27baecb632690cfbaadd1bdf8f06d1c303100ef34418b80dd",
+      "figure": "fig4",
+      "final_crop_visually_reviewed": true
+    },
+    {
+      "path": "daily/2026-11-12/images/maslarova-fig2.png",
+      "pdf_path": "daily/2026-11-12/pdfs/maslarova-2026-hhg-bayesian.pdf",
+      "page": 9,
+      "rect": [
+        115,
+        52,
+        583,
+        454
+      ],
+      "render_scale": 2,
+      "sha256": "f6904284c5378291369c5f6390140fc6a632f2bbe6fa5679808f1bb215f50e6c",
+      "figure": "Fig.2",
+      "final_crop_visually_reviewed": true
+    },
+    {
+      "path": "daily/2026-11-12/images/maslarova-fig4.png",
+      "pdf_path": "daily/2026-11-12/pdfs/maslarova-2026-hhg-bayesian.pdf",
+      "page": 11,
+      "rect": [
+        115,
+        58,
+        583,
+        344
+      ],
+      "render_scale": 2,
+      "sha256": "0a4732a17826439c5235c93640394775e7dcfa854195e9cc40687025a49c5b4f",
+      "figure": "Fig.4",
+      "final_crop_visually_reviewed": true
+    },
+    {
+      "path": "daily/2026-11-12/images/maslarova-fig6-7.png",
+      "pdf_path": "daily/2026-11-12/pdfs/maslarova-2026-hhg-bayesian.pdf",
+      "page": 13,
+      "rect": [
+        115,
+        63,
+        583,
+        621
+      ],
+      "render_scale": 2,
+      "sha256": "4ddd092bfa149df3aeb5d28f63e8756cd7f4d33cdcd4829b8acdb0ab9a0fc1b9",
+      "figure": "Figs.6-7",
+      "final_crop_visually_reviewed": true
+    },
+    {
+      "path": "daily/2026-11-12/images/kalluri-fig6.png",
+      "pdf_path": "daily/2026-11-12/pdfs/kalluri-2026-mrti-2d-3d.pdf",
+      "page": 8,
+      "rect": [
+        110,
+        38,
+        500,
+        271
+      ],
+      "render_scale": 2.5,
+      "sha256": "8df0146df3abaa8650622349d10b1bb4ecdeba32d783a2b81897dbb5276976a8",
+      "figure": 6,
+      "final_crop_visually_reviewed": true
+    },
+    {
+      "path": "daily/2026-11-12/images/kalluri-fig14.png",
+      "pdf_path": "daily/2026-11-12/pdfs/kalluri-2026-mrti-2d-3d.pdf",
+      "page": 14,
+      "rect": [
+        42,
+        44,
+        571,
+        219
+      ],
+      "render_scale": 2.5,
+      "sha256": "d987ae593c1c04577b7149953d2a456c5f5422add26d6166006b9a62e98b3312",
+      "figure": 14,
+      "final_crop_visually_reviewed": true
+    },
+    {
+      "path": "daily/2026-11-12/images/kalluri-fig18.png",
+      "pdf_path": "daily/2026-11-12/pdfs/kalluri-2026-mrti-2d-3d.pdf",
+      "page": 17,
+      "rect": [
+        125,
+        263,
+        485,
+        445
+      ],
+      "render_scale": 2.5,
+      "sha256": "51783b3cd1637ef796a343ae36b4b13b74f931040acfa5ea940586dfe6fe0f83",
+      "figure": 18,
+      "final_crop_visually_reviewed": true
+    },
+    {
+      "path": "daily/2026-11-12/images/wang-fig3.png",
+      "pdf_path": "daily/2026-11-12/pdfs/wang-2026-thulium-photoneutron.pdf",
+      "page": 4,
+      "rect": [
+        310,
+        55,
+        576,
+        232
+      ],
+      "render_scale": 2,
+      "sha256": "fabb301717a09f18e25e7fec860e732fcc6b62b8a1bd9842876b1cf4b7fa806d",
+      "figure": "fig3",
+      "final_crop_visually_reviewed": true
+    },
+    {
+      "path": "daily/2026-11-12/images/wang-fig5.png",
+      "pdf_path": "daily/2026-11-12/pdfs/wang-2026-thulium-photoneutron.pdf",
+      "page": 6,
+      "rect": [
+        310,
+        55,
+        576,
+        237
+      ],
+      "render_scale": 2,
+      "sha256": "70b9f163c8ad084e6ce69e3afb902d71b1be1fe8f1d5f1a50c5a0b02b71be5c0",
+      "figure": "fig5",
+      "final_crop_visually_reviewed": true
+    },
+    {
+      "path": "daily/2026-11-12/images/wang-fig9.png",
+      "pdf_path": "daily/2026-11-12/pdfs/wang-2026-thulium-photoneutron.pdf",
+      "page": 10,
+      "rect": [
+        310,
+        160,
+        582,
+        445
+      ],
+      "render_scale": 2,
+      "sha256": "f6f5068989e245c49bf6512d6844a6bbb271e07b8202c1d558d636dc941cbcef",
+      "figure": "fig9",
+      "final_crop_visually_reviewed": true
+    }
+  ],
+  "rendered_page_reviews": [
+    {
+      "paper": "hessami",
+      "pages": [
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        14
+      ],
+      "review_type": "text plus rendered source pages; finalcrops independently reopened by root"
+    },
+    {
+      "paper": "maslarova",
+      "pages": [
+        3,
+        5,
+        6,
+        7,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "review_type": "text plus rendered source pages; finalcrops independently reopened by root"
+    },
+    {
+      "paper": "kalluri",
+      "pages": [
+        1,
+        3,
+        5,
+        6,
+        8,
+        9,
+        12,
+        13,
+        14,
+        15,
+        17,
+        18,
+        19,
+        20
+      ],
+      "review_type": "text plus rendered source pages; finalcrops independently reopened by root"
+    },
+    {
+      "paper": "wang",
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "review_type": "text plus rendered source pages; finalcrops independently reopened by root"
+    }
+  ],
+  "visual_key_pages": 43,
+  "root_opened_all_final_crops": true
+}

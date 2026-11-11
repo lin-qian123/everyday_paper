@@ -1,0 +1,93 @@
+[
+  {
+    "slug": "kalluri-2026-mrti-2d-3d",
+    "url": "https://pubs.aip.org/aip/pop/article-pdf/doi/10.1063/5.0335643/21198078/112102_1_5.0335643.pdf",
+    "status": 403,
+    "final_url": "https://pubs.aip.org/aip/pop/article-pdf/doi/10.1063/5.0335643/21198078/112102_1_5.0335643.pdf",
+    "content_type": "text/html",
+    "bytes": 93,
+    "valid_pdf_header": false
+  },
+  {
+    "slug": "bor-in-2026-thailand-plasma-focus",
+    "url": "https://www.nature.com/articles/s41598-026-79996-9.pdf",
+    "status": 200,
+    "final_url": "https://www.nature.com/articles/s41598-026-79996-9",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 232044,
+    "valid_pdf_header": false
+  },
+  {
+    "slug": "hessami-2026-plasma-compression",
+    "url": "https://arxiv.org/pdf/2611.13436v1",
+    "status": 200,
+    "final_url": "https://arxiv.org/pdf/2611.13436v1",
+    "content_type": "application/pdf",
+    "bytes": 3608601,
+    "valid_pdf_header": true,
+    "pdf_path": "daily/2026-11-12/pdfs/hessami-2026-plasma-compression.pdf",
+    "sha256": "639844f5028e130d0612013a8093d2870f02a77ac64e182cfa093746ef4a4cb3"
+  },
+  {
+    "slug": "wang-2026-thulium-photoneutron",
+    "url": "https://arxiv.org/pdf/2611.12994v1",
+    "status": 200,
+    "final_url": "https://arxiv.org/pdf/2611.12994v1",
+    "content_type": "application/pdf",
+    "bytes": 909953,
+    "valid_pdf_header": true,
+    "pdf_path": "daily/2026-11-12/pdfs/wang-2026-thulium-photoneutron.pdf",
+    "sha256": "4695a89820fc4c0b68e44f1f6100d8e3a75a51ab5e95a3f0f3a156af41d5f0d8"
+  },
+  {
+    "slug": "maslarova-2026-hhg-bayesian",
+    "url": "https://arxiv.org/pdf/2611.14119v1",
+    "status": 200,
+    "final_url": "https://arxiv.org/pdf/2611.14119v1",
+    "content_type": "application/pdf",
+    "bytes": 4511578,
+    "valid_pdf_header": true,
+    "pdf_path": "daily/2026-11-12/pdfs/maslarova-2026-hhg-bayesian.pdf",
+    "sha256": "e7d29735afb6814290e95c51e22fe062367683a19d16857538b593abcf4174b5"
+  },
+  {
+    "slug": "kalluri-2026-mrti-2d-3d",
+    "url": "https://arxiv.org/pdf/2510.27053v2",
+    "status": 200,
+    "final_url": "https://arxiv.org/pdf/2510.27053v2",
+    "content_type": "application/pdf",
+    "bytes": 8098225,
+    "valid_pdf_header": true,
+    "pdf_path": "daily/2026-11-12/pdfs/kalluri-2026-mrti-2d-3d.pdf",
+    "sha256": "2d219167dd005d138758ef34d307aeaa82f158b8aa2a3ecfd3764a397b9aa7fb",
+    "fulltext_version": "official arXiv v2 author manuscript dated2026-10-24; publisherVOR11-11 not acquired"
+  },
+  {
+    "doi": "10.1103/1m87-jy9v",
+    "url": "https://harvest.aps.org/v2/journals/articles/10.1103/1m87-jy9v/fulltext",
+    "status": 404,
+    "final_url": "https://harvest.aps.org/v2/journals/articles/10.1103/1m87-jy9v/fulltext",
+    "content_type": "application/json",
+    "bytes": 52,
+    "valid_pdf_header": false
+  },
+  {
+    "doi": "10.1103/1m87-jy9v",
+    "url": "https://journals.aps.org/pre/accepted/10.1103/1m87-jy9v",
+    "status": 403,
+    "final_url": "https://journals.aps.org/pre/accepted/10.1103/1m87-jy9v",
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 5550,
+    "valid_pdf_header": false
+  },
+  {
+    "doi": "10.1103/1m87-jy9v",
+    "url": "https://doi.org/10.1103/1m87-jy9v",
+    "status": 403,
+    "final_url": "https://link.aps.org/doi/10.1103/1m87-jy9v",
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 5498,
+    "valid_pdf_header": false,
+    "interpretation": "Crossref container APS Open Science; type not assumed to be a journal VOR"
+  }
+]
