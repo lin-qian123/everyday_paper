@@ -1,0 +1,257 @@
+[
+  {
+    "path": "daily/2026-11-14/images/kolobov-fig2.png",
+    "source_pdf": "daily/2026-11-14/pdfs/kolobov-2026-pamar.pdf",
+    "pdf_page_1based": 12,
+    "clip_points": [
+      70,
+      241,
+      556,
+      394
+    ],
+    "scale": 2.5,
+    "description": "Reference CCP electron log10 f(x,v) at three RF phases; x(cm), v/ve0; middle shows quadtree.",
+    "reader_visual_checked": true,
+    "root_visual_checked": true,
+    "sha256": "1735e1934bb6e5771464f2632a26abd3f372949890f04cc430483ffc7b761ba1",
+    "decoded_pixels_match_source_pdf": true
+  },
+  {
+    "path": "daily/2026-11-14/images/kolobov-fig13.png",
+    "source_pdf": "daily/2026-11-14/pdfs/kolobov-2026-pamar.pdf",
+    "pdf_page_1based": 23,
+    "clip_points": [
+      70,
+      221,
+      542,
+      387
+    ],
+    "scale": 2.5,
+    "description": "CCP ion hybrid versus kinetic densities (1e10 cm^-3), relative residual (% peak), and electrode flux IEDF (1/eV).",
+    "reader_visual_checked": true,
+    "root_visual_checked": true,
+    "sha256": "dc399cff918731cb230191cf27883d5a0a6014ffd3405d6249307c2917ff720c",
+    "decoded_pixels_match_source_pdf": true
+  },
+  {
+    "path": "daily/2026-11-14/images/kolobov-fig15.png",
+    "source_pdf": "daily/2026-11-14/pdfs/kolobov-2026-pamar.pdf",
+    "pdf_page_1based": 30,
+    "clip_points": [
+      70,
+      165,
+      542,
+      517
+    ],
+    "scale": 2.5,
+    "description": "Spherical-electron loss cone f/f_infinity(total energy), anisotropy and current/exact-orbit ratio; prescribed Coulomb chi_p=2.",
+    "reader_visual_checked": true,
+    "root_visual_checked": true,
+    "sha256": "23feacc3685e26589f1daaae6847b3aa238fb3bd238948f7f1f35599bbcce886",
+    "decoded_pixels_match_source_pdf": true
+  },
+  {
+    "path": "daily/2026-11-14/images/beverido-fig3.png",
+    "source_pdf": "daily/2026-11-14/pdfs/beverido-2026-qed-cascade.pdf",
+    "pdf_page_1based": 5,
+    "clip_points": [
+      150,
+      195,
+      526,
+      429
+    ],
+    "scale": 2,
+    "description": "级联增长率随单束a0变化；双对数轴、蓝点与迁移/无迁移模型比较，无误差条。",
+    "reader_visual_checked": true,
+    "root_visual_checked": true,
+    "sha256": "8b067f48f2e6a14242b0652e2e99d1df4d82046e0846b11e5746a43047ffc04a",
+    "decoded_pixels_match_source_pdf": true
+  },
+  {
+    "path": "daily/2026-11-14/images/beverido-fig8.png",
+    "source_pdf": "daily/2026-11-14/pdfs/beverido-2026-qed-cascade.pdf",
+    "pdf_page_1based": 9,
+    "clip_points": [
+      145,
+      416,
+      531,
+      659
+    ],
+    "scale": 2,
+    "description": "纵向Poynting通量时空图，位置c/omega0、时间1/omega0、色标1e5a.u.，边缘符号反转说明反射；两种零通量区机制不同。",
+    "reader_visual_checked": true,
+    "root_visual_checked": true,
+    "sha256": "cd5b6e950fd5041781751309e22e74cc99d8078d5b2cc67c7c09e6f19e5b98e5",
+    "decoded_pixels_match_source_pdf": true
+  },
+  {
+    "path": "daily/2026-11-14/images/beverido-fig12.png",
+    "source_pdf": "daily/2026-11-14/pdfs/beverido-2026-qed-cascade.pdf",
+    "pdf_page_1based": 13,
+    "clip_points": [
+      145,
+      63,
+      526,
+      288
+    ],
+    "scale": 2,
+    "description": "总激光吸收效率与单束a0，数值与平顶/包络模型比较；非gamma能阈后效率，未近1。",
+    "reader_visual_checked": true,
+    "root_visual_checked": true,
+    "sha256": "7a1ec253a12e0a397826b8793b31d6c82cfc1a7b50a9968d38cec9bbc9e5696b",
+    "decoded_pixels_match_source_pdf": true
+  },
+  {
+    "path": "daily/2026-11-14/images/gutberlet-table2.png",
+    "source_pdf": "daily/2026-11-14/pdfs/gutberlet-2026-hicans.pdf",
+    "pdf_page_1based": 6,
+    "clip_points": [
+      160,
+      70,
+      570,
+      399
+    ],
+    "scale": 2,
+    "description": "Table 2. Main parameters of HiCANS projects.",
+    "reader_visual_checked": true,
+    "root_visual_checked": true,
+    "sha256": "c853ef01a29cc5e0f4752a0457909a909af8448ad0c096459ddc047be3ff0b27",
+    "decoded_pixels_match_source_pdf": true
+  },
+  {
+    "path": "daily/2026-11-14/images/gutberlet-fig3.png",
+    "source_pdf": "daily/2026-11-14/pdfs/gutberlet-2026-hicans.pdf",
+    "pdf_page_1based": 7,
+    "clip_points": [
+      160,
+      234,
+      570,
+      565
+    ],
+    "scale": 2,
+    "description": "Figure 3. Cold moderator peak brightness comparison.",
+    "reader_visual_checked": true,
+    "root_visual_checked": true,
+    "sha256": "30f2a83dc36a56832c2f685443b1ee53b87fabf566ec3ecbfc374b68f41a1bdc",
+    "decoded_pixels_match_source_pdf": true
+  },
+  {
+    "path": "daily/2026-11-14/images/gutberlet-fig6.png",
+    "source_pdf": "daily/2026-11-14/pdfs/gutberlet-2026-hicans.pdf",
+    "pdf_page_1based": 12,
+    "clip_points": [
+      160,
+      260,
+      570,
+      662
+    ],
+    "scale": 2,
+    "description": "Figure 6. ICONE target–moderator layout and cross sections.",
+    "reader_visual_checked": true,
+    "root_visual_checked": true,
+    "sha256": "4fde49a284457dc2c3c97632c89fc152d9cb96eaa3388ecd22f6637eb11abbf4",
+    "decoded_pixels_match_source_pdf": true
+  },
+  {
+    "path": "daily/2026-11-14/images/fujioka-fig1.png",
+    "source_pdf": "daily/2026-11-14/pdfs/fujioka-2026-radiation-groups.pdf",
+    "pdf_page_1based": 3,
+    "clip_points": [
+      50,
+      50,
+      300,
+      348
+    ],
+    "scale": 2,
+    "description": "Fig1noncontiguousgroupassignment",
+    "reader_visual_checked": true,
+    "root_visual_checked": true,
+    "sha256": "d29eb4c49283251499f040d7f5fd169b781e322ad5c92bb30bdf5d14e32e309a",
+    "decoded_pixels_match_source_pdf": true
+  },
+  {
+    "path": "daily/2026-11-14/images/fujioka-table1.png",
+    "source_pdf": "daily/2026-11-14/pdfs/fujioka-2026-radiation-groups.pdf",
+    "pdf_page_1based": 4,
+    "clip_points": [
+      50,
+      53,
+      565,
+      208
+    ],
+    "scale": 2,
+    "description": "TableI20testcaseaccuracyandtiming",
+    "reader_visual_checked": true,
+    "root_visual_checked": true,
+    "sha256": "670cbd9f3275f0bf4e587e43c490e8187c67c412a965fd403874c3e74f569552",
+    "decoded_pixels_match_source_pdf": true
+  },
+  {
+    "path": "daily/2026-11-14/images/fujioka-fig2.png",
+    "source_pdf": "daily/2026-11-14/pdfs/fujioka-2026-radiation-groups.pdf",
+    "pdf_page_1based": 4,
+    "clip_points": [
+      50,
+      229,
+      300,
+      520
+    ],
+    "scale": 2,
+    "description": "Fig2boundaryspectra",
+    "reader_visual_checked": true,
+    "root_visual_checked": true,
+    "sha256": "3f9aa824af481021c30bdeab454a1d1ff72d2997fcaa4d90f72152c352059278",
+    "decoded_pixels_match_source_pdf": true
+  },
+  {
+    "path": "daily/2026-11-14/images/hu-fig3.png",
+    "source_pdf": "daily/2026-11-14/pdfs/hu-2026-neutron-diffusion-pinn.pdf",
+    "pdf_page_1based": 5,
+    "clip_points": [
+      49,
+      82,
+      291,
+      449
+    ],
+    "scale": 2,
+    "description": "Fig3neuralsourceiteration",
+    "reader_visual_checked": true,
+    "root_visual_checked": true,
+    "sha256": "cf9a562cdbd83c8f84253d1be28b180073ed78bff8ef64ce4cce02955a7f7cf7",
+    "decoded_pixels_match_source_pdf": true
+  },
+  {
+    "path": "daily/2026-11-14/images/hu-fig9.png",
+    "source_pdf": "daily/2026-11-14/pdfs/hu-2026-neutron-diffusion-pinn.pdf",
+    "pdf_page_1based": 10,
+    "clip_points": [
+      49,
+      82,
+      546,
+      419
+    ],
+    "scale": 2,
+    "description": "Fig9two-groupfluxanderrorsatz190cm",
+    "reader_visual_checked": true,
+    "root_visual_checked": true,
+    "sha256": "b35378a515e2dcdf354a33433e7bf203b551c72cbe46146bd55ab310c3494778",
+    "decoded_pixels_match_source_pdf": true
+  },
+  {
+    "path": "daily/2026-11-14/images/hu-fig12-table7.png",
+    "source_pdf": "daily/2026-11-14/pdfs/hu-2026-neutron-diffusion-pinn.pdf",
+    "pdf_page_1based": 12,
+    "clip_points": [
+      49,
+      82,
+      546,
+      568
+    ],
+    "scale": 2,
+    "description": "Fig12assemblypowerandTable7cost",
+    "reader_visual_checked": true,
+    "root_visual_checked": true,
+    "sha256": "b20cbedd3551662c84384825c884ea4fe32b5d52e641df70cbaa4dccb148efd9",
+    "decoded_pixels_match_source_pdf": true
+  }
+]

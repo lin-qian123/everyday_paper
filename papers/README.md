@@ -1,10 +1,15 @@
 # 论文总索引
 
-- 当前入库论文：559 篇
-- 索引更新时间：2026-11-12
+- 当前入库论文：564 篇
+- 索引更新时间：2026-11-14
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-11-14 | [High-Current Accelerator-Driven Neutron Sources (HiCANSs): Current Projects and Perspectives in Europe](./10-3390-qubs10040026/README.md) | Quantum Beam Science | [10.3390/qubs10040026](https://doi.org/10.3390/qubs10040026) |
+| 2026-11-14 | [A weak-form discrete physical-residual PINN method for solving multigroup neutron diffusion equations](./10-3389-fenrg-2026-2005399/README.md) | Frontiers in Energy Research | [10.3389/fenrg.2026.2005399](https://doi.org/10.3389/fenrg.2026.2005399) |
+| 2026-11-14 | [SFQED Cascade Saturation and Laser Depletion Dynamics In CP Rotating Laser Standing Waves](./arxiv-2611-15519/README.md) | arXiv preprint | [10.48550/arXiv.2611.15519](https://doi.org/10.48550/arXiv.2611.15519) |
+| 2026-11-14 | [Data-driven non-contiguous photon-energy groups for fast multigroup radiation transport in line-dominated plasmas](./arxiv-2611-15095/README.md) | arXiv preprint | [10.48550/arXiv.2611.15095](https://doi.org/10.48550/arXiv.2611.15095) |
+| 2026-11-14 | [Plasma simulations with adaptive mesh and algorithm refinement](./arxiv-2611-14820/README.md) | arXiv preprint | [10.48550/arXiv.2611.14820](https://doi.org/10.48550/arXiv.2611.14820) |
 | 2026-11-12 | [Role of interchange and mixed modes in magnetic Rayleigh–Taylor instability dynamics: A 2D vs 3D study](./10-1063-5-0335643/README.md) | Physics of Plasmas | [10.1063/5.0335643](https://doi.org/10.1063/5.0335643) |
 | 2026-11-12 | [Compact plasma-based extreme compression of relativistic electron beams](./arxiv-2611-13436/README.md) | arXiv preprint | [10.48550/arXiv.2611.13436](https://doi.org/10.48550/arXiv.2611.13436) |
 | 2026-11-12 | [Physics-informed Bayesian optimization of high-order harmonic generation in gases](./arxiv-2611-14119/README.md) | arXiv preprint | [10.48550/arXiv.2611.14119](https://doi.org/10.48550/arXiv.2611.14119) |
@@ -387,8 +392,8 @@
 | 2026-07-09 | [Exact 1D Nonlinear Solutions for Proton-Driven Plasma Wakefields: Benchmarking Against AWAKE Data Envelopes](./arxiv-2607-06458/README.md) | arXiv preprint | [10.48550/arXiv.2607.06458](https://doi.org/10.48550/arXiv.2607.06458) |
 | 2026-07-09 | [Mega-Gauss Plasma Jet Creation Using a Ring of Laser Beams](./arxiv-2607-05746/README.md) | arXiv preprint | [10.48550/arXiv.2607.05746](https://doi.org/10.48550/arXiv.2607.05746) |
 | 2026-07-09 | [Hot Spot Evolution Measured by High-Resolution X-Ray Spectroscopy at the National Ignition Facility](./arxiv-2607-05738/README.md) | arXiv preprint | [10.48550/arXiv.2607.05738](https://doi.org/10.48550/arXiv.2607.05738) |
+| 2026-07-08 | [Deep Learning Models for ADITYA-U MHD Equilibrium](./10-1088-1741-4326-aebc9d/README.md) | Nuclear Fusion | [10.1088/1741-4326/aebc9d](https://doi.org/10.1088/1741-4326/aebc9d) |
 | 2026-07-08 | [Quasi mono-energetic, relativistic electron acceleration in a femtosecond, high intensity laser excited solid magnet](./arxiv-2607-04994/README.md) | arXiv preprint | [10.48550/arXiv.2607.04994](https://doi.org/10.48550/arXiv.2607.04994) |
-| 2026-07-08 | [Deep Learning Models for ADITYA-U MHD Equilibrium](./arxiv-2607-04865/README.md) | arXiv preprint | [10.48550/arXiv.2607.04865](https://doi.org/10.48550/arXiv.2607.04865) |
 | 2026-07-08 | [Hyper Boris integrators for kinetic plasma simulations and their connection to 3D rotation representations](./arxiv-2607-04465/README.md) | arXiv preprint | [10.48550/arXiv.2607.04465](https://doi.org/10.48550/arXiv.2607.04465) |
 | 2026-07-07 | [Transiently Driven Reflectionless Resonant Microwave Plasmas via Virtual Critical Coupling](./arxiv-2607-02323/README.md) | arXiv preprint | [10.48550/arXiv.2607.02323](https://doi.org/10.48550/arXiv.2607.02323) |
 | 2026-07-07 | [Reexamination of collisional ionization cross sections including double photoionization processes](./arxiv-2607-00875/README.md) | arXiv preprint | [10.48550/arXiv.2607.00875](https://doi.org/10.48550/arXiv.2607.00875) |

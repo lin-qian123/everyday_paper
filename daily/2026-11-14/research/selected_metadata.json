@@ -1,0 +1,720 @@
+{
+  "retrieved_at": "2026-11-14T01:40:50.765639+08:00",
+  "formal_crossref": [
+    {
+      "kind": "crossref",
+      "id": "10.3390/qubs10040026",
+      "title": "High-Current Accelerator-Driven Neutron Sources (HiCANSs): Current Projects and Perspectives in Europe",
+      "journal": "Quantum Beam Science",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            12
+          ]
+        ]
+      },
+      "online": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            12
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.3390/qubs10040026",
+      "abstract": "<jats:p>To provide neutrons for science and industry, various processes are applied, such as nuclear fission, spallation, fusion or low-energy nuclear reactions. With the availability of high-current proton accelerators, the latter process has gained growing interest in recent years. The prospect of access to versatile neutron sources with affordable cost and efficient and strong neutron flux has inspired many projects worldwide to establish high-current accelerator-driven neutron sources (HiCANSs). While compact accelerator-driven neutron sources (CANSs) using low-energy nuclear reactions have been used for decades, this novel class of sources, HiCANSs, would open new opportunities to access and exploit neutrons in science and industry. The most ambitious projects in this field have been developed in Europe, including the ARGITU project in Spain, the ICONE project in France and the HBS project in Germany. In the present paper, the basic physical and technological properties of HiCANSs will be outlined briefly, and the European HiCANS projects will be described. A short outlook on the future opportunities for HiCANSs in the landscape of the neutron facilities in Europe will be given.</jats:p>",
+      "author": [
+        {
+          "given": "Thomas",
+          "family": "Gutberlet",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Forschungszentrum Jülich GmbH, Jülich Centre for Neutron Science, 52428 Jülich, Germany"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Alain",
+          "family": "Menelle",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Laboratoire Léon Brillouin, UMR12 CEA-CNRS, 91191 Gif-sur-Yvette, France"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-7257-9208",
+          "authenticated-orcid": false,
+          "given": "Felix J.",
+          "family": "Villacorta",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "ESS Bilbao, Bizkaia Technology Park, Laida Bidea, 48160 Derio, Spain"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1562-4644",
+          "authenticated-orcid": false,
+          "given": "Frederic",
+          "family": "Ott",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Laboratoire Léon Brillouin, UMR12 CEA-CNRS, 91191 Gif-sur-Yvette, France"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6556-4961",
+          "authenticated-orcid": false,
+          "given": "Jörg",
+          "family": "Voigt",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Forschungszentrum Jülich GmbH, Jülich Centre for Neutron Science, 52428 Jülich, Germany"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Paul",
+          "family": "Zakalek",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Forschungszentrum Jülich GmbH, Jülich Centre for Neutron Science, 52428 Jülich, Germany"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ibon",
+          "family": "Bustinduy",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "ESS Bilbao, Bizkaia Technology Park, Laida Bidea, 48160 Derio, Spain"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Fernando",
+          "family": "Sordo",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "ESS Bilbao, Bizkaia Technology Park, Laida Bidea, 48160 Derio, Spain"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Mario",
+          "family": "Perez",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "ESS Bilbao, Bizkaia Technology Park, Laida Bidea, 48160 Derio, Spain"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "link": [
+        {
+          "URL": "https://www.mdpi.com/2412-382X/10/4/26/pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "already_processed": false,
+      "already_retry": false
+    },
+    {
+      "kind": "crossref",
+      "id": "10.3389/fenrg.2026.2005399",
+      "title": "A weak-form discrete physical-residual PINN method for solving multigroup neutron diffusion equations",
+      "journal": "Frontiers in Energy Research",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            12
+          ]
+        ]
+      },
+      "online": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            12
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.3389/fenrg.2026.2005399",
+      "abstract": "<jats:p>\n                    To address the substantial computational burden of high-order spatial derivatives, the difficulty of residual optimization near material interfaces, and the optimization stiffness associated with direct space-time training when conventional strong-form physics-informed neural networks (PINNs) are applied to heterogeneous multigroup neutron diffusion problems, a PINN method based on weak-form discrete physical residuals is developed. Finite-element shape functions are used to construct the flux interpolation field and assemble the discrete physical operators, while the neural network predicts nodal fluxes and neural source iteration drives the coupled convergence of the fluxes and effective multiplication factor. P1 triangular elements are adopted for the two-dimensional problem and Q1 hexahedral elements for the three-dimensional problem, eliminating the need to evaluate high-order spatial derivatives of the flux by automatic differentiation during training. The method is progressively verified using the TWIGL and IAEA-3D PWR benchmarks. For the steady-state TWIGL problem, the PINN yields an effective multiplication factor of 0.9132141, differing from the finite element method (FEM) result by 0.04 pcm, while the root-mean-square errors (RMSEs) of both fast- and thermal-group fluxes are below 2.4 × 10\n                    <jats:sup>−4</jats:sup>\n                    . When this steady-state flux is used to initialize the FEM/Crank–Nicolson (C-N) transient calculation, the RMSEs of relative power for the step and ramp perturbations are 5.27 × 10\n                    <jats:sup>−4</jats:sup>\n                    and 4.57 × 10\n                    <jats:sup>−4</jats:sup>\n                    , respectively, relative to the pure FEM/C-N results; the maximum absolute relative deviations from the published POLCA-T reference values are both below 0.1%. For the IAEA-3D PWR problem, the PINN produces an effective multiplication factor of 1.0289669, differing from the same-mesh FEM result by 3.67 pcm. The RMSEs of the fast- and thermal-group fluxes are 3.008 × 10\n                    <jats:sup>−3</jats:sup>\n                    and 1.487 × 10\n                    <jats:sup>−3</jats:sup>\n                    , respectively. For the assembly relative power, the mean and maximum absolute relative errors with respect to published reference values are 0.1779% and 0.4647%, respectively. These results demonstrate that the proposed method avoids the dependence of strong-form PINNs on high-order spatial automatic differentiation and achieves accurate solutions of heterogeneous two-dimensional P1 and three-dimensional Q1 multigroup core-diffusion problems within a unified framework, providing a common methodological basis for differentiable solution of complex reactor-physics problems.\n                  </jats:p>",
+      "author": [
+        {
+          "given": "Kui",
+          "family": "Hu",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "China Nuclear Power Engineering Co., Ltd.",
+              "place": [
+                "Beijing, China"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xiaoyu",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "China Nuclear Power Engineering Co., Ltd.",
+              "place": [
+                "Beijing, China"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Peng",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "China Nuclear Power Engineering Co., Ltd.",
+              "place": [
+                "Beijing, China"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yunhuang",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "China Nuclear Power Engineering Co., Ltd.",
+              "place": [
+                "Beijing, China"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zhiyuan",
+          "family": "Feng",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "China Nuclear Power Engineering Co., Ltd.",
+              "place": [
+                "Beijing, China"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xiang",
+          "family": "Xiao",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "China Nuclear Power Engineering Co., Ltd.",
+              "place": [
+                "Beijing, China"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yuan",
+          "family": "Xu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "China Nuclear Power Engineering Co., Ltd.",
+              "place": [
+                "Beijing, China"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yuan",
+          "family": "Yuan",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "China Nuclear Power Engineering Co., Ltd.",
+              "place": [
+                "Beijing, China"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "link": [
+        {
+          "URL": "https://www.frontiersin.org/articles/10.3389/fenrg.2026.2005399/full",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "already_processed": false,
+      "already_retry": false
+    },
+    {
+      "kind": "crossref",
+      "id": "10.1088/1741-4326/aebc9d",
+      "title": "Deep learning models for ADITYA-U MHD equilibrium",
+      "journal": "Nuclear Fusion",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            13
+          ]
+        ]
+      },
+      "online": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            13
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.1088/1741-4326/aebc9d",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    This work presents an integrated deep learning framework for rapid magnetohydrodynamic (MHD) equilibrium estimation in the ADITYA-U tokamak. A free-boundary equilibrium database containing 100,760 cases was generated using the pyIPREQ Grad–Shafranov solver from experimentally derived operating conditions spanning 766 ADITYA-U plasma discharges, with constraints representative of circular limiter plasmas near the flat-top phase. The database was used to develop a cascaded framework for predicting scalar equilibrium quantities, 1d safety factor profiles, and 2d poloidal flux profiles. Dense neural networks, principal component analysis (PCA), convolutional neural networks (CNN) and physics-informed neural networks (PINN) were investigated within this framework. The error propagation, cross-models consistency and ablation study of Grad–Shafranov residual were performed for the proposed framework. Across the test dataset, the models achieve median mean absolute errors of\n                    <jats:inline-formula>\n                      <jats:tex-math>\n                        \n                      </jats:tex-math>\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" overflow=\"scroll\">\n                        <mml:mrow>\n                          <mml:mn>1</mml:mn>\n                          <mml:mo>×</mml:mo>\n                          <mml:msup>\n                            <mml:mn>10</mml:mn>\n                            <mml:mrow>\n                              <mml:mo>−</mml:mo>\n                              <mml:mn>2</mml:mn>\n                            </mml:mrow>\n                          </mml:msup>\n                        </mml:mrow>\n                      </mml:math>\n                    </jats:inline-formula>\n                    for the safety factor profile and\n                    <jats:inline-formula>\n                      <jats:tex-math>\n                        \n                      </jats:tex-math>\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" overflow=\"scroll\">\n                        <mml:mrow>\n                          <mml:mn>2</mml:mn>\n                          <mml:mo>×</mml:mo>\n                          <mml:msup>\n                            <mml:mn>10</mml:mn>\n                            <mml:mrow>\n                              <mml:mo>−</mml:mo>\n                              <mml:mn>3</mml:mn>\n                            </mml:mrow>\n                          </mml:msup>\n                        </mml:mrow>\n                      </mml:math>\n                    </jats:inline-formula>\n                    for the normalized poloidal flux profile. The largest model requires approximately 1ms per equilibrium inference on a multi-core CPU. The results demonstrate the potential of the framework as a fast surrogate for equilibrium analysis, experiment planning and real-time plasma control applications for ADITYA-U experiments.\n                  </jats:p>",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0003-1781-852X",
+          "authenticated-orcid": true,
+          "given": "Udaya",
+          "family": "Maurya",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Institute for Plasma Research"
+            },
+            {
+              "name": "Homi Bhabha National Institute"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-3561-9180",
+          "authenticated-orcid": true,
+          "given": "Suman",
+          "family": "Aich",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute for Plasma Research"
+            },
+            {
+              "name": "Homi Bhabha National Institute"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-7334-2683",
+          "authenticated-orcid": true,
+          "given": "Indranil",
+          "family": "Bandyopadhyay",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute for Plasma Research"
+            },
+            {
+              "name": "Homi Bhabha National Institute"
+            },
+            {
+              "name": "Institute for Plasma Research"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Daniel",
+          "family": "Raju",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute for Plasma Research"
+            },
+            {
+              "name": "Homi Bhabha National Institute"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "link": [
+        {
+          "URL": "https://iopscience.iop.org/article/10.1088/1741-4326/aebc9d",
+          "content-type": "text/html",
+          "content-version": "am",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://iopscience.iop.org/article/10.1088/1741-4326/aebc9d/pdf",
+          "content-type": "application/pdf",
+          "content-version": "am",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://iopscience.iop.org/article/10.1088/1741-4326/aebc9d",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://iopscience.iop.org/article/10.1088/1741-4326/aebc9d/pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://iopscience.iop.org/article/10.1088/1741-4326/aebc9d/pdf",
+          "content-type": "application/pdf",
+          "content-version": "am",
+          "intended-application": "syndication"
+        },
+        {
+          "URL": "https://iopscience.iop.org/article/10.1088/1741-4326/aebc9d/pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "syndication"
+        },
+        {
+          "URL": "https://iopscience.iop.org/article/10.1088/1741-4326/aebc9d/pdf",
+          "content-type": "application/pdf",
+          "content-version": "am",
+          "intended-application": "similarity-checking"
+        },
+        {
+          "URL": "https://iopscience.iop.org/article/10.1088/1741-4326/aebc9d/pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "already_processed": false,
+      "already_retry": false
+    }
+  ],
+  "new_arxiv": [
+    {
+      "id": "2611.15519",
+      "status": 200,
+      "meta": [
+        [
+          "citation_title",
+          "SFQED Cascade Saturation and Laser Depletion Dynamics In CP Rotating Laser Standing Waves"
+        ],
+        [
+          "citation_author",
+          "Beverido, André"
+        ],
+        [
+          "citation_author",
+          "Grismayer, Thomas"
+        ],
+        [
+          "citation_author",
+          "Vranic, Marija"
+        ],
+        [
+          "citation_date",
+          "2026/11/11"
+        ],
+        [
+          "citation_online_date",
+          "2026/11/11"
+        ],
+        [
+          "citation_pdf_url",
+          "https://arxiv.org/pdf/2611.15519"
+        ],
+        [
+          "citation_arxiv_id",
+          "2611.15519"
+        ],
+        [
+          "citation_abstract",
+          "Multi-petawatt laser facilities are approaching the regime where colliding laser pulses can spontaneously ignite self-sustained QED cascades, converting laser energy into dense electron-positron plasmas. Using 1D PIC-QED simulations of a circularly polarized standing wave, we characterize the complete lifecycle of seeded cascades from exponential growth through relativistic opacity and macroscopic laser depletion. We show that cascade saturation is governed by the competition between pair creation and longitudinal lepton migration out of the magnetic nodes. The overdense plasma reflects the driving laser, disrupting the standing wave and triggering secondary cascades in adjacent nodes, driving an apparent spatial expansion whose velocity scales linearly with the cascade growth rate. Finally, we generalize an analytical laser absorption model to realistic time-dependent pulse envelopes, accurately reproducing the simulated conversion efficiency of laser energy into gamma-ray photons and electron-positron pairs."
+        ]
+      ],
+      "history": "Submission history From: Thomas Grismayer [ view email ] [v1] Wed, 11 Nov 2026 14:10:22 UTC (6,562 KB)",
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "2611.14820",
+      "status": 200,
+      "meta": [
+        [
+          "citation_title",
+          "Plasma simulations with adaptive mesh and algorithm refinement"
+        ],
+        [
+          "citation_author",
+          "Kolobov, Vladimir I."
+        ],
+        [
+          "citation_author",
+          "Arslanbekov, Robert R."
+        ],
+        [
+          "citation_date",
+          "2026/11/10"
+        ],
+        [
+          "citation_online_date",
+          "2026/11/10"
+        ],
+        [
+          "citation_pdf_url",
+          "https://arxiv.org/pdf/2611.14820"
+        ],
+        [
+          "citation_arxiv_id",
+          "2611.14820"
+        ],
+        [
+          "citation_abstract",
+          "Adaptive Mesh and Algorithm Refinement (AMAR) combines adaptive Cartesian meshes with automatic selection of kinetic or fluid solvers. It was introduced for rarefied gas dynamics and later extended to gas mixtures, particle and lattice-Boltzmann solvers, computational electromagnetics, and multi-phase flows. In weakly ionized plasmas, the species differ by orders of magnitude in mass, velocity, and time scale. This paper describes PAMAR, a plasma extension of AMAR in which electrons, ions, neutral species, and fields can have independent adaptive-mesh solvers, each with its own phase-space dimensionality, refinement criteria, and time step, coupled through a field solver in one executable built on the Basilisk framework. We present two demonstrations. A transient capacitively coupled plasma in argon is simulated with two-stream kinetic solvers for electrons and ions on independent adaptive quadtrees in $(x,v)$. The simulations resolve three electron groups and the time scales of electron and ion kinetics without statistical noise, at a cost between particle-in-cell simulations and fast kinetic models. A sphere at floating potential in a collisionless or weakly collisional plasma is computed with octree solvers in $(r,v,\\mu)$ for both species and compared with an exact method-of-characteristics solution. Per-species meshes resolve the cold ions at a tenth of the uniform-mesh cost. Both demonstrations also select the model cell by cell. In the capacitive discharge, a hybrid ion solver is kinetic in the sheaths and fluid in the bulk. Around the sphere, a hybrid electron solver confines the kinetic solver to the loss-cone layer and uses a Fokker-Planck model in position and total energy elsewhere. It conserves particles exactly across the interface and uses 1.6 to 5.3 times fewer cells. We discuss the next steps toward parallel, implicit simulations of higher-dimensional problems."
+        ]
+      ],
+      "history": "Submission history From: Vladimir Kolobov [ view email ] [v1] Tue, 10 Nov 2026 23:19:01 UTC (2,903 KB)",
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "2611.15095",
+      "status": 200,
+      "meta": [
+        [
+          "citation_title",
+          "Data-driven non-contiguous photon-energy groups for fast multigroup radiation transport in line-dominated plasmas"
+        ],
+        [
+          "citation_author",
+          "Fujioka, Shinsuke"
+        ],
+        [
+          "citation_author",
+          "Takagi, Yuji"
+        ],
+        [
+          "citation_author",
+          "Sasaki, Akira"
+        ],
+        [
+          "citation_author",
+          "Yamamoto, Yu"
+        ],
+        [
+          "citation_author",
+          "Tanaka, Nozomi"
+        ],
+        [
+          "citation_author",
+          "Syahbana, Muhammad Fauzan"
+        ],
+        [
+          "citation_author",
+          "Nishihara, Katsunobu"
+        ],
+        [
+          "citation_author",
+          "Johzaki, Tomoyuki"
+        ],
+        [
+          "citation_author",
+          "Sunahara, Atsushi"
+        ],
+        [
+          "citation_author",
+          "Yoshimura, Masashi"
+        ],
+        [
+          "citation_date",
+          "2026/11/11"
+        ],
+        [
+          "citation_online_date",
+          "2026/11/11"
+        ],
+        [
+          "citation_pdf_url",
+          "https://arxiv.org/pdf/2611.15095"
+        ],
+        [
+          "citation_arxiv_id",
+          "2611.15095"
+        ],
+        [
+          "citation_abstract",
+          "Opacity of mid- and high-$Z$ plasmas is dominated by thousands of overlapping spectral lines. Examples are laser-produced plasmas for extreme-ultraviolet (EUV) lithography, inertial-fusion hohlraums, and stellar interiors. Radiation transport in such plasmas needs more than 1000 photon-energy groups in the EUV case, and this makes radiation-hydrodynamic simulations very expensive. We show that the accuracy of a small-group opacity model can be recovered by choosing properly \\emph{which} fine bins are put into the same group. We present a data-driven method that assigns the fine bins of a detailed opacity and emissivity table to $K$ \\emph{non-contiguous} groups. Each group has a fixed spectral shape inside it. The groups follow from one requirement: the reduced absorption operator must be diagonal for every plasma state. They are determined from a Gram matrix of spectra, taken from detailed-group solutions of a small part, for example 5\\% in this work, of the parameter space. The reduced model is a set of $K$ uncoupled flux-limited diffusion equations. It can be used in an existing multigroup code by replacing the opacity table. For a Sn plasma with electron densities of $4\\times10^{15}$--$1.1\\times10^{21}$~cm$^{-3}$, electron temperatures of 5--250~eV, and scale lengths of 2.5--6900$\\um$, the model with $K=100$ reproduces the total flux of the 1500-group reference with a median error of 2\\% and a 90th-percentile error of 8\\%. The 90th-percentile error is ten times smaller than that of a conventional 100-group model at the same cost."
+        ]
+      ],
+      "history": "Submission history From: Shinsuke Fujioka Prof [ view email ] [v1] Wed, 11 Nov 2026 06:11:48 UTC (896 KB)",
+      "journal": null,
+      "doi": null
+    }
+  ],
+  "upgraded_existing_before": {
+    "title": "Deep Learning Models for ADITYA-U MHD Equilibrium",
+    "doi": "10.48550/arXiv.2607.04865",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-07-06",
+    "source_url": "https://arxiv.org/abs/2607.04865",
+    "pdf_path": "daily/2026-07-08/pdfs/Udaya Maurya et al. - 2026 - Deep Learning Models for ADITYA-U MHD Equilibrium.pdf",
+    "note_path": "daily/2026-07-08/notes/Udaya Maurya et al. - 2026 - Deep Learning Models for ADITYA-U MHD Equilibrium.md",
+    "processed_date": "2026-07-08",
+    "normalized_title": "deep learning models for aditya u mhd equilibrium"
+  }
+}

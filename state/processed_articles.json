@@ -1965,14 +1965,30 @@
   },
   {
     "title": "Deep Learning Models for ADITYA-U MHD Equilibrium",
-    "doi": "10.48550/arXiv.2607.04865",
-    "journal": "arXiv preprint",
-    "publication_date": "2026-07-06",
-    "source_url": "https://arxiv.org/abs/2607.04865",
+    "doi": "10.1088/1741-4326/aebc9d",
+    "journal": "Nuclear Fusion",
+    "publication_date": "2026-11-13",
+    "source_url": "https://doi.org/10.1088/1741-4326/aebc9d",
     "pdf_path": "daily/2026-07-08/pdfs/Udaya Maurya et al. - 2026 - Deep Learning Models for ADITYA-U MHD Equilibrium.pdf",
     "note_path": "daily/2026-07-08/notes/Udaya Maurya et al. - 2026 - Deep Learning Models for ADITYA-U MHD Equilibrium.md",
     "processed_date": "2026-07-08",
-    "normalized_title": "deep learning models for aditya u mhd equilibrium"
+    "normalized_title": "deep learning models for aditya u mhd equilibrium",
+    "arxiv_doi": "10.48550/arXiv.2607.04865",
+    "arxiv_id": "2607.04865",
+    "arxiv_version": "2607.04865v1",
+    "authors": [
+      "Udaya Maurya",
+      "Suman Aich",
+      "Indranil Bandyopadhyay",
+      "Daniel Raju"
+    ],
+    "publication_date_type": "Crossref published-online; VOR PDF unavailable",
+    "submission_timestamp_utc": "2026-07-06T09:38:44Z",
+    "author_fulltext_url": "https://arxiv.org/abs/2607.04865v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.04865v1",
+    "fulltext_version": "previously ingested arXiv v1 author manuscript; publisher VOR not acquired this run",
+    "pdf_sha256": "0c63fd5a5594a4c068532736103a3bbebe623b6935c2dc87e122535db185e73e",
+    "publication_metadata_updated_date": "2026-11-14"
   },
   {
     "title": "Hyper Boris integrators for kinetic plasma simulations and their connection to 3D rotation representations",
@@ -8650,5 +8666,162 @@
     "note_path": "daily/2026-11-12/notes/maslarova-2026-hhg-bayesian.md",
     "processed_date": "2026-11-12",
     "normalized_title": "physics informed bayesian optimization of high order harmonic generation in gases"
+  },
+  {
+    "title": "High-Current Accelerator-Driven Neutron Sources (HiCANSs): Current Projects and Perspectives in Europe",
+    "doi": "10.3390/qubs10040026",
+    "authors": [
+      "Thomas Gutberlet",
+      "Alain Menelle",
+      "Felix J. Villacorta",
+      "Frederic Ott",
+      "Jörg Voigt",
+      "Paul Zakalek",
+      "Ibon Bustinduy",
+      "Fernando Sordo",
+      "Mario Perez"
+    ],
+    "journal": "Quantum Beam Science",
+    "publication_date": "2026-11-12",
+    "publication_date_type": "publisher VOR online publication; PDF titlepage and Crossref agree",
+    "publication_status": "published version of record",
+    "source_url": "https://doi.org/10.3390/qubs10040026",
+    "fulltext_version": "publisher version of record",
+    "pdf_url": "https://mdpi-res.com/d_attachment/qubs/qubs-10-00026/article_deploy/qubs-10-00026.pdf",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "experimental-platforms-diagnostics"
+    ],
+    "pdf_path": "daily/2026-11-14/pdfs/gutberlet-2026-hicans.pdf",
+    "pdf_sha256": "79a4e2920ef1419ae4e1805f64531721cafc7445cac8a48db0c1998382b1d380",
+    "note_path": "daily/2026-11-14/notes/gutberlet-2026-hicans.md",
+    "processed_date": "2026-11-14",
+    "normalized_title": "high current accelerator driven neutron sources hicanss current projects and perspectives in europe"
+  },
+  {
+    "title": "A weak-form discrete physical-residual PINN method for solving multigroup neutron diffusion equations",
+    "doi": "10.3389/fenrg.2026.2005399",
+    "authors": [
+      "Kui Hu",
+      "Xiaoyu Wang",
+      "Peng Zhang",
+      "Yunhuang Zhang",
+      "Zhiyuan Feng",
+      "Xiang Xiao",
+      "Yuan Xu",
+      "Yuan Yuan"
+    ],
+    "journal": "Frontiers in Energy Research",
+    "publication_date": "2026-11-12",
+    "publication_date_type": "publisher VOR online publication; PDF titlepage and Crossref agree",
+    "publication_status": "published version of record",
+    "source_url": "https://doi.org/10.3389/fenrg.2026.2005399",
+    "fulltext_version": "publisher version of record",
+    "pdf_url": "https://www.frontiersin.org/journals/energy-research/articles/10.3389/fenrg.2026.2005399/pdf",
+    "categories": [
+      "ai-ml-plasma-physics",
+      "pic-and-plasma-simulation",
+      "laser-accelerated-beam-applications"
+    ],
+    "pdf_path": "daily/2026-11-14/pdfs/hu-2026-neutron-diffusion-pinn.pdf",
+    "pdf_sha256": "0745de7599e7b726b9754dacbf3e45c35d65025dd3acb21706caea4e3084b3a3",
+    "note_path": "daily/2026-11-14/notes/hu-2026-neutron-diffusion-pinn.md",
+    "processed_date": "2026-11-14",
+    "normalized_title": "a weak form discrete physical residual pinn method for solving multigroup neutron diffusion equations"
+  },
+  {
+    "title": "SFQED Cascade Saturation and Laser Depletion Dynamics In CP Rotating Laser Standing Waves",
+    "doi": "10.48550/arXiv.2611.15519",
+    "authors": [
+      "Beverido, André",
+      "Grismayer, Thomas",
+      "Vranic, Marija"
+    ],
+    "journal": "arXiv preprint",
+    "publication_date": "2026-11-11",
+    "publication_date_type": "arxiv first submission; announcement separate",
+    "submission_timestamp_utc": "2026-11-11T14:10:22Z",
+    "announcement_date": "2026-11-13",
+    "publication_status": "author preprint; bounded Crossref title top3 did not verify same-work journal version",
+    "source_url": "https://arxiv.org/abs/2611.15519v1",
+    "arxiv_id": "2611.15519",
+    "arxiv_version": "2611.15519v1",
+    "fulltext_version": "official arXiv v1 author preprint",
+    "pdf_url": "https://arxiv.org/pdf/2611.15519v1",
+    "categories": [
+      "strong-field-qed-radiation",
+      "pic-and-plasma-simulation",
+      "hedp-icf-laboratory-astrophysics"
+    ],
+    "pdf_path": "daily/2026-11-14/pdfs/beverido-2026-qed-cascade.pdf",
+    "pdf_sha256": "e2a6c216e25b315e5f54b5dde878d6ebf83c2ca4d7412012cf2a4ad19b221583",
+    "note_path": "daily/2026-11-14/notes/beverido-2026-qed-cascade.md",
+    "processed_date": "2026-11-14",
+    "normalized_title": "sfqed cascade saturation and laser depletion dynamics in cp rotating laser standing waves"
+  },
+  {
+    "title": "Plasma simulations with adaptive mesh and algorithm refinement",
+    "doi": "10.48550/arXiv.2611.14820",
+    "authors": [
+      "Kolobov, Vladimir I.",
+      "Arslanbekov, Robert R."
+    ],
+    "journal": "arXiv preprint",
+    "publication_date": "2026-11-10",
+    "publication_date_type": "arxiv first submission; announcement separate",
+    "submission_timestamp_utc": "2026-11-10T23:19:01Z",
+    "announcement_date": "2026-11-13",
+    "publication_status": "author preprint; bounded Crossref title top3 did not verify same-work journal version",
+    "source_url": "https://arxiv.org/abs/2611.14820v1",
+    "arxiv_id": "2611.14820",
+    "arxiv_version": "2611.14820v1",
+    "fulltext_version": "official arXiv v1 author preprint",
+    "pdf_url": "https://arxiv.org/pdf/2611.14820v1",
+    "categories": [
+      "pic-and-plasma-simulation",
+      "general-plasma-and-methods"
+    ],
+    "pdf_path": "daily/2026-11-14/pdfs/kolobov-2026-pamar.pdf",
+    "pdf_sha256": "5002b89ac537f9736bcd9d1698edadf9390a6aba265a5540fca9355591194f0e",
+    "note_path": "daily/2026-11-14/notes/kolobov-2026-pamar.md",
+    "processed_date": "2026-11-14",
+    "normalized_title": "plasma simulations with adaptive mesh and algorithm refinement"
+  },
+  {
+    "title": "Data-driven non-contiguous photon-energy groups for fast multigroup radiation transport in line-dominated plasmas",
+    "doi": "10.48550/arXiv.2611.15095",
+    "authors": [
+      "Fujioka, Shinsuke",
+      "Takagi, Yuji",
+      "Sasaki, Akira",
+      "Yamamoto, Yu",
+      "Tanaka, Nozomi",
+      "Syahbana, Muhammad Fauzan",
+      "Nishihara, Katsunobu",
+      "Johzaki, Tomoyuki",
+      "Sunahara, Atsushi",
+      "Yoshimura, Masashi"
+    ],
+    "journal": "arXiv preprint",
+    "publication_date": "2026-11-11",
+    "publication_date_type": "arxiv first submission; announcement separate",
+    "submission_timestamp_utc": "2026-11-11T06:11:48Z",
+    "announcement_date": "2026-11-13",
+    "publication_status": "author preprint; bounded Crossref title top3 did not verify same-work journal version",
+    "source_url": "https://arxiv.org/abs/2611.15095v1",
+    "arxiv_id": "2611.15095",
+    "arxiv_version": "2611.15095v1",
+    "fulltext_version": "official arXiv v1 author preprint",
+    "pdf_url": "https://arxiv.org/pdf/2611.15095v1",
+    "categories": [
+      "hedp-icf-laboratory-astrophysics",
+      "pic-and-plasma-simulation",
+      "ai-ml-plasma-physics"
+    ],
+    "pdf_path": "daily/2026-11-14/pdfs/fujioka-2026-radiation-groups.pdf",
+    "pdf_sha256": "5402274bbc765438ed4443a188ede3c490990c9157b512c90eab743b286ddb80",
+    "note_path": "daily/2026-11-14/notes/fujioka-2026-radiation-groups.md",
+    "processed_date": "2026-11-14",
+    "normalized_title": "data driven non contiguous photon energy groups for fast multigroup radiation transport in line dominated plasmas"
   }
 ]

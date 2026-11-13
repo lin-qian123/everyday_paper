@@ -1,0 +1,39 @@
+{
+  "run_date": "2026-11-14",
+  "created_at": "2026-11-14T01:40:50.765639+08:00",
+  "status": "validation_passed_ready_for_publication",
+  "processed_before": 559,
+  "processed_after": 564,
+  "added_dois": [
+    "10.3390/qubs10040026",
+    "10.3389/fenrg.2026.2005399",
+    "10.48550/arXiv.2611.15519",
+    "10.48550/arXiv.2611.14820",
+    "10.48550/arXiv.2611.15095"
+  ],
+  "existing_upgraded_doi": "10.1088/1741-4326/aebc9d",
+  "prior_completed_objects_unchanged": 558,
+  "upgraded_existing_objects": 1,
+  "publisher_vor_acquired": 2,
+  "author_preprints": 3,
+  "retry_before": 65,
+  "retry_after": 65,
+  "prior_retry_objects_unchanged": true,
+  "pdfs": 5,
+  "pages": 100,
+  "pdf_bytes": 17770498,
+  "layout_bytes": 456160,
+  "visual_key_pages": 25,
+  "original_excerpts": 15,
+  "mineru": "0requests; known expired credential not retested; validatedlocalfallback",
+  "scientific_boundaries": [
+    "HiCANS is projectoverview, targetsourcesandshielding mostlydesign/MC; IPHIprototype100htestseparate",
+    "Hu steadyPINNplusFEMCNtransient, training110.96svsFEM.665s,notaccelerationorcontinuous-timePINN",
+    "QED1DseededpairCPstandingwave;~70percentabsorptionnotgammaefficiency",
+    "PAMARweaklyionizedelectrostatic; CCPno reliable savings; sphericalselfconsistentCPU11percent",
+    "Fujioka1DsteadySnFLD;100groups2.1percentmediantotalfluxerrorbut14.9percentspectralL2;58xtimingexcludesofflinedata",
+    "ADITYApublicationmetadataonly; oldauthorv1notreread; VORnotacquired"
+  ],
+  "publication": "authorized origin/master; final commit and remote parity recorded in automation memory after commit",
+  "verification": "research/verification.json; 7pytestpassed3.20s; exact stagedblobs audited beforecommit"
+}

@@ -2,11 +2,13 @@
 
 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。
 
-- 当前收录：95 篇
-- 索引更新时间：2026-11-12
+- 当前收录：97 篇
+- 索引更新时间：2026-11-14
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-14 | [A weak-form discrete physical-residual PINN method for solving multigroup neutron diffusion equations](../papers/10-3389-fenrg-2026-2005399/README.md) | Frontiers in Energy Research | [笔记](../daily/2026-11-14/notes/hu-2026-neutron-diffusion-pinn.md) |
+| 2026-11-14 | [Data-driven non-contiguous photon-energy groups for fast multigroup radiation transport in line-dominated plasmas](../papers/arxiv-2611-15095/README.md) | arXiv preprint | [笔记](../daily/2026-11-14/notes/fujioka-2026-radiation-groups.md) |
 | 2026-11-12 | [Physics-informed Bayesian optimization of high-order harmonic generation in gases](../papers/arxiv-2611-14119/README.md) | arXiv preprint | [笔记](../daily/2026-11-12/notes/maslarova-2026-hhg-bayesian.md) |
 | 2026-11-11 | [Online Imitation Learning for Stabilizing Vlasov--Poisson Plasmas](../papers/arxiv-2611-10870/README.md) | arXiv preprint | [笔记](../daily/2026-11-11/notes/xia-2026-online-plasma-control.md) |
 | 2026-11-07 | [Fast prediction of electron-beam parameters using transfer maps and machine learning in a digital model of a MeV γγ collider](../papers/arxiv-2611-08036/README.md) | arXiv preprint | [笔记](../daily/2026-11-07/notes/zhang-2026-transfer-maps-ml-gamma-collider.md) |
@@ -78,7 +80,7 @@
 | 2026-07-20 | [Automated Outlier-Robust Bayesian Profile Fitting for Magnetically Confined Plasmas with Modified Tanh Profiles and Good-and-Bad Gaussian Mixture Likelihoods](../papers/arxiv-2607-14142/README.md) | arXiv preprint | [笔记](../daily/2026-07-20/notes/Jaewook Kim et al. - 2026 - Bayesian profile fitting magnetically confined plasmas.md) |
 | 2026-07-15 | [Toward AI-Agent-Driven Particle Transport Simulations: Implementation of AI-Assisted Workflows for PHITS](../papers/10-1080-00223131-2026-2742550/README.md) | Journal of Nuclear Science and Technology (formal online publication; local full text is the corresponding arXiv:2607.11309 author preprint, not VOR) | [笔记](../daily/2026-07-15/notes/Tatsuhiko Sato et al. - 2026 - Toward AI-Agent-Driven Particle Transport Simulations.md) |
 | 2026-07-14 | [TokaGrad: End-to-end differentiable tokamak simulator for L-to-H full scenario optimization](../papers/arxiv-2607-09088/README.md) | arXiv preprint | [笔记](../daily/2026-07-14/notes/Jaemin Seo - 2026 - TokaGrad differentiable tokamak simulator.md) |
-| 2026-07-08 | [Deep Learning Models for ADITYA-U MHD Equilibrium](../papers/arxiv-2607-04865/README.md) | arXiv preprint | [笔记](../daily/2026-07-08/notes/Udaya Maurya et al. - 2026 - Deep Learning Models for ADITYA-U MHD Equilibrium.md) |
+| 2026-07-08 | [Deep Learning Models for ADITYA-U MHD Equilibrium](../papers/10-1088-1741-4326-aebc9d/README.md) | Nuclear Fusion | [笔记](../daily/2026-07-08/notes/Udaya Maurya et al. - 2026 - Deep Learning Models for ADITYA-U MHD Equilibrium.md) |
 | 2026-07-06 | [A toroidally spectral field solver in the X-point Gyrokinetic Code for accurate simulation of reduced magneto-hydrodynamic modes](../papers/arxiv-2606-25213/README.md) | arXiv preprint | [笔记](../daily/2026-07-06/notes/Robert Hager et al. - 2026 - A toroidally spectral field solver in the X-point Gyrokinetic Code.md) |
 | 2026-07-04 | [Non-linear control variate in δf particle-in-cell methods using symplectic neural networks](../papers/arxiv-2606-30622/README.md) | arXiv（预印本） | [笔记](../daily/2026-07-04/notes/Victor Fournet et al. - 2026 - Non-linear control variate in delta-f PIC methods using symplectic neural networks.md) |
 | 2026-07-01 | [Bidirectional Autoregressive Latent Diffusion for Forward and Inverse Magnetohydrodynamics](../papers/arxiv-2606-29620/README.md) | arXiv（预印本） | [笔记](../daily/2026-07-01/notes/Alexander Scheinker - 2026 - Bidirectional Autoregressive Latent Diffusion for Forward and Inverse Magnetohydrodynamics.md) |

@@ -1,0 +1,107 @@
+[
+  {
+    "id": "10.3390/qubs10040026",
+    "title": "High-Current Accelerator-Driven Neutron Sources (HiCANSs): Current Projects and Perspectives in Europe",
+    "closest_ledger_titles": [
+      {
+        "doi": "10.1017/hpl.2026.10210",
+        "title": "Laser-Driven Multi-GeV Muon Sources: Production and Applications",
+        "similarity": 0.481
+      },
+      {
+        "doi": "10.1038/s41467-025-66535-9",
+        "title": "High average-flux laser-driven neutron source",
+        "similarity": 0.444
+      },
+      {
+        "doi": "10.48550/arXiv.2605.18968",
+        "title": "Laser-Wakefield-Driven Photonuclear and Laser-Driven DD Fusion Neutron Sources for Fast Neutron Capture: A Start-to-End Simulation Study",
+        "similarity": 0.444
+      }
+    ]
+  },
+  {
+    "id": "10.3389/fenrg.2026.2005399",
+    "title": "A weak-form discrete physical-residual PINN method for solving multigroup neutron diffusion equations",
+    "closest_ledger_titles": [
+      {
+        "doi": "10.48550/arXiv.2611.07107",
+        "title": "A physics-based adaptive low-rank method for 6D Vlasov simulations",
+        "similarity": 0.467
+      },
+      {
+        "doi": "10.48550/arXiv.2606.30622",
+        "title": "Non-linear control variate in δf particle-in-cell methods using symplectic neural networks",
+        "similarity": 0.44
+      },
+      {
+        "doi": "10.48550/arXiv.2606.12322",
+        "title": "Mixed Hermite-Legendre spectral method for kinetic plasma simulations",
+        "similarity": 0.424
+      }
+    ]
+  },
+  {
+    "id": "2611.15519",
+    "title": "SFQED Cascade Saturation and Laser Depletion Dynamics In CP Rotating Laser Standing Waves",
+    "closest_ledger_titles": [
+      {
+        "doi": "10.48550/arXiv.2610.06396",
+        "title": "Effect of transition layer on wakefield in plasma waveguide",
+        "similarity": 0.473
+      },
+      {
+        "doi": "10.1103/13fz-y5wy",
+        "title": "Evolution of transversely asymmetric electron beams in hollow plasma channels",
+        "similarity": 0.47
+      },
+      {
+        "doi": "10.48550/arXiv.2607.04465",
+        "title": "Hyper Boris integrators for kinetic plasma simulations and their connection to 3D rotation representations",
+        "similarity": 0.462
+      }
+    ]
+  },
+  {
+    "id": "2611.14820",
+    "title": "Plasma simulations with adaptive mesh and algorithm refinement",
+    "closest_ledger_titles": [
+      {
+        "doi": "10.1017/S0022377825101062",
+        "title": "Plasma rotation driven by lasers with zero angular momentum",
+        "similarity": 0.479
+      },
+      {
+        "doi": "10.1371/journal.pone.0359294",
+        "title": "Visual tools for 3D plasma simulation: GPU-based isosurface extraction and particle-based rendering",
+        "similarity": 0.45
+      },
+      {
+        "doi": "10.1017/S0022377826101718",
+        "title": "Plasma flow and equilibrium in the magnetic nozzle",
+        "similarity": 0.429
+      }
+    ]
+  },
+  {
+    "id": "2611.15095",
+    "title": "Data-driven non-contiguous photon-energy groups for fast multigroup radiation transport in line-dominated plasmas",
+    "closest_ledger_titles": [
+      {
+        "doi": "10.1038/s41467-025-56667-3",
+        "title": "Laser-driven proton acceleration beyond 100 MeV by radiation pressure and Coulomb repulsion in a conduction-restricted plasma",
+        "similarity": 0.471
+      },
+      {
+        "doi": "10.48550/arXiv.2605.18969",
+        "title": "Laser-driven Ion and Neutron Sources from Medium Repetition Ultrashort PW Laser",
+        "similarity": 0.469
+      },
+      {
+        "doi": "10.1103/mwjc-s21x",
+        "title": "An improved nonlocal electron heat transport model for magnetized plasmas",
+        "similarity": 0.462
+      }
+    ]
+  }
+]

@@ -2,11 +2,13 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：148 篇
-- 索引更新时间：2026-11-12
+- 当前收录：150 篇
+- 索引更新时间：2026-11-14
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-14 | [High-Current Accelerator-Driven Neutron Sources (HiCANSs): Current Projects and Perspectives in Europe](../papers/10-3390-qubs10040026/README.md) | Quantum Beam Science | [笔记](../daily/2026-11-14/notes/gutberlet-2026-hicans.md) |
+| 2026-11-14 | [A weak-form discrete physical-residual PINN method for solving multigroup neutron diffusion equations](../papers/10-3389-fenrg-2026-2005399/README.md) | Frontiers in Energy Research | [笔记](../daily/2026-11-14/notes/hu-2026-neutron-diffusion-pinn.md) |
 | 2026-11-12 | [Measurement of the 169Tm(γ,n)168Tm Cross Section and Implications for γ-Process Calculations](../papers/arxiv-2611-12994/README.md) | arXiv preprint | [笔记](../daily/2026-11-12/notes/wang-2026-thulium-photoneutron.md) |
 | 2026-11-11 | [Experimental Evidence of Cellular Sparing under Single-Pulse Picosecond Irradiation at Extreme Dose Rates](../papers/arxiv-2611-12812/README.md) | arXiv preprint | [笔记](../daily/2026-11-11/notes/maguire-2026-picosecond-cell-sparing.md) |
 | 2026-11-10 | [Nuclear recoil separation in the photonuclear production of auger electron emitter Germanium-71 for high specific activity medical isotope production](../papers/10-3389-fnuen-2026-1940142/README.md) | Frontiers in Nuclear Engineering | [笔记](../daily/2026-11-10/notes/abel-2026-ge71-recoil.md) |

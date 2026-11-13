@@ -1,0 +1,83 @@
+{
+  "created_at": "2026-11-14T01:40:50.765639+08:00",
+  "downloads": [
+    {
+      "doi": "10.3390/qubs10040026",
+      "url": "https://mdpi-res.com/d_attachment/qubs/qubs-10-00026/article_deploy/qubs-10-00026.pdf",
+      "status": 200,
+      "content_type": "application/pdf",
+      "bytes": 2791534,
+      "sha256": "79a4e2920ef1419ae4e1805f64531721cafc7445cac8a48db0c1998382b1d380",
+      "pdf_path": "daily/2026-11-14/pdfs/gutberlet-2026-hicans.pdf",
+      "version": "publisher version of record"
+    },
+    {
+      "doi": "10.3389/fenrg.2026.2005399",
+      "url": "https://www.frontiersin.org/journals/energy-research/articles/10.3389/fenrg.2026.2005399/pdf",
+      "status": 200,
+      "content_type": "application/pdf",
+      "bytes": 3625298,
+      "sha256": "0745de7599e7b726b9754dacbf3e45c35d65025dd3acb21706caea4e3084b3a3",
+      "pdf_path": "daily/2026-11-14/pdfs/hu-2026-neutron-diffusion-pinn.pdf",
+      "version": "publisher version of record"
+    },
+    {
+      "doi": "10.48550/arXiv.2611.15519",
+      "url": "https://arxiv.org/pdf/2611.15519v1",
+      "status": 200,
+      "content_type": "application/pdf",
+      "bytes": 7078888,
+      "sha256": "e2a6c216e25b315e5f54b5dde878d6ebf83c2ca4d7412012cf2a4ad19b221583",
+      "pdf_path": "daily/2026-11-14/pdfs/beverido-2026-qed-cascade.pdf",
+      "version": "official arXiv v1 author preprint"
+    },
+    {
+      "doi": "10.48550/arXiv.2611.14820",
+      "url": "https://arxiv.org/pdf/2611.14820v1",
+      "status": 200,
+      "content_type": "application/pdf",
+      "bytes": 2972966,
+      "sha256": "5002b89ac537f9736bcd9d1698edadf9390a6aba265a5540fca9355591194f0e",
+      "pdf_path": "daily/2026-11-14/pdfs/kolobov-2026-pamar.pdf",
+      "version": "official arXiv v1 author preprint"
+    },
+    {
+      "doi": "10.48550/arXiv.2611.15095",
+      "url": "https://arxiv.org/pdf/2611.15095v1",
+      "status": 200,
+      "content_type": "application/pdf",
+      "bytes": 1301812,
+      "sha256": "5402274bbc765438ed4443a188ede3c490990c9157b512c90eab743b286ddb80",
+      "pdf_path": "daily/2026-11-14/pdfs/fujioka-2026-radiation-groups.pdf",
+      "version": "official arXiv v1 author preprint"
+    },
+    {
+      "slug": "hicans",
+      "url": "https://mdpi-res.com/d_attachment/qubs/qubs-10-00026/article_deploy/qubs-10-00026.pdf",
+      "final_url": "https://mdpi-res.com/d_attachment/qubs/qubs-10-00026/article_deploy/qubs-10-00026.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 2791534,
+      "pdf_header": true
+    },
+    {
+      "slug": "aditya-ml",
+      "url": "https://iopscience.iop.org/article/10.1088/1741-4326/aebc9d/pdf",
+      "final_url": "https://validate.perfdrive.com/ [Radware validation; transient query parameters omitted]",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 14371,
+      "pdf_header": false
+    },
+    {
+      "slug": "hicans",
+      "url": "https://www.mdpi.com/2412-382X/10/4/26/pdf",
+      "http_status": 403,
+      "content_type": "text/html",
+      "bytes": 405,
+      "pdf_header": false,
+      "recovered": "official MDPI resourceCDN publisherPDF validated"
+    }
+  ],
+  "status": "5newfulltext PDFs validated; ADITYA formalPDF rejected; existingauthorfulltext retained"
+}

@@ -2,11 +2,12 @@
 
 强场量子效应、辐射反作用、非线性 Compton、pair production 与极端场实验。
 
-- 当前收录：77 篇
-- 索引更新时间：2026-11-12
+- 当前收录：78 篇
+- 索引更新时间：2026-11-14
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-14 | [SFQED Cascade Saturation and Laser Depletion Dynamics In CP Rotating Laser Standing Waves](../papers/arxiv-2611-15519/README.md) | arXiv preprint | [笔记](../daily/2026-11-14/notes/beverido-2026-qed-cascade.md) |
 | 2026-11-03 | [An approximate separation of the electron and positron degrees of freedom in the Dirac-Heisenberg-Wigner formalism](../papers/arxiv-2610-41623/README.md) | arXiv preprint | [笔记](../daily/2026-11-03/notes/Brodin and Lundstrom - 2026 - Weakly coupled electron positron DHW.md) |
 | 2026-10-27 | [Coherent axion electrodynamics in OSIRIS: a counter-propagating axion-photon parametric instability](../papers/arxiv-2610-32091/README.md) | arXiv preprint | [笔记](../daily/2026-10-27/notes/Radford et al. - 2026 - Coherent axion electrodynamics OSIRIS.md) |
 | 2026-10-23 | [Ultrastrong quantum squeezing mediated by plasma waves](../papers/10-1103-c4r9-jsw7/README.md) | Physical Review E | [笔记](../daily/2026-10-23/notes/Qu et al. - 2026 - Plasma wave quantum squeezing.md) |

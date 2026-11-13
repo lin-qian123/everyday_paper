@@ -1,0 +1,192 @@
+[
+  {
+    "arxiv_id": "2611.15519",
+    "query_title": "SFQED Cascade Saturation and Laser Depletion Dynamics In CP Rotating Laser Standing Waves",
+    "request_url": "https://api.crossref.org/works?query.title=SFQED+Cascade+Saturation+and+Laser+Depletion+Dynamics+In+CP+Rotating+Laser+Standing+Waves&rows=3",
+    "status": 200,
+    "top3": [
+      {
+        "doi": "10.1103/physreva.45.r2674",
+        "title": [
+          "Dynamics of a nondegenerate cascade laser"
+        ],
+        "journal": [
+          "Physical Review A"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1992,
+              3,
+              1
+            ]
+          ]
+        },
+        "score": 29.777044
+      },
+      {
+        "doi": "10.1364/ao.5.000476",
+        "title": [
+          "Experimental Confirmation of Standing Waves in Laser Resonators"
+        ],
+        "journal": [
+          "Applied Optics"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1966,
+              3,
+              1
+            ]
+          ]
+        },
+        "score": 29.523956
+      },
+      {
+        "doi": "10.1103/physreva.62.063606",
+        "title": [
+          "Atom-laser coherence length and atomic standing waves"
+        ],
+        "journal": [
+          "Physical Review A"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2000,
+              11,
+              14
+            ]
+          ]
+        },
+        "score": 29.491352
+      }
+    ]
+  },
+  {
+    "arxiv_id": "2611.14820",
+    "query_title": "Plasma simulations with adaptive mesh and algorithm refinement",
+    "request_url": "https://api.crossref.org/works?query.title=Plasma+simulations+with+adaptive+mesh+and+algorithm+refinement&rows=3",
+    "status": 200,
+    "top3": [
+      {
+        "doi": "10.1109/tmag.2006.872199",
+        "title": [
+          "Adaptive Mesh Refinement for Micromagnetics Simulations"
+        ],
+        "journal": [
+          "IEEE Transactions on Magnetics"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2006,
+              6
+            ]
+          ]
+        },
+        "score": 35.306984
+      },
+      {
+        "doi": "10.13182/t130-36913",
+        "title": [
+          "Adaptive Mesh Refinement in Monte Carlo Neutron Simulations"
+        ],
+        "journal": [
+          "Transactions of the American Nuclear Society",
+          "ANS 2021 Winter Conference"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2021
+            ]
+          ]
+        },
+        "score": 32.4823
+      },
+      {
+        "doi": "10.1002/9780470558027.ch2",
+        "title": [
+          "Adaptive Mesh Refinement MHD Simulations of Tokamak Refueling"
+        ],
+        "journal": [
+          "Advanced Computational Infrastructures for Parallel and Distributed Adaptive Applications"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2009,
+              12,
+              9
+            ]
+          ]
+        },
+        "score": 32.459763
+      }
+    ]
+  },
+  {
+    "arxiv_id": "2611.15095",
+    "query_title": "Data-driven non-contiguous photon-energy groups for fast multigroup radiation transport in line-dominated plasmas",
+    "request_url": "https://api.crossref.org/works?query.title=Data-driven+non-contiguous+photon-energy+groups+for+fast+multigroup+radiation+transport+in+line-dominated+plasmas&rows=3",
+    "status": 200,
+    "top3": [
+      {
+        "doi": "10.1088/0029-5515/18/1/009",
+        "title": [
+          "Multigroup calculations of low-energy neutral transport in tokamak plasmas"
+        ],
+        "journal": [
+          "Nuclear Fusion"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1978,
+              1,
+              1
+            ]
+          ]
+        },
+        "score": 31.809168
+      },
+      {
+        "doi": "10.2172/5367039",
+        "title": [
+          "Multigroup calculations of low energy neutral transport in tokamak plasmas"
+        ],
+        "journal": null,
+        "published": {
+          "date-parts": [
+            [
+              1977,
+              9,
+              1
+            ]
+          ]
+        },
+        "score": 31.65087
+      },
+      {
+        "doi": "10.1016/j.hedp.2005.08.002",
+        "title": [
+          "Non-LTE radiation transport in high radiation plasmas"
+        ],
+        "journal": [
+          "High Energy Density Physics"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2005,
+              12
+            ]
+          ]
+        },
+        "score": 30.338074
+      }
+    ]
+  }
+]

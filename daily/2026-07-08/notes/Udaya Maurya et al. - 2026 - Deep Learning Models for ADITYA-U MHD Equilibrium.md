@@ -3,9 +3,10 @@
 ## 基本信息
 
 - 作者：Udaya Maurya; Suman Aich; Indranil Bandyopadhyay; Daniel Raju
-- 期刊/平台：arXiv preprint
-- DOI：https://doi.org/10.48550/arXiv.2607.04865
-- 发表时间：2026-07-06
+- 期刊/平台：Nuclear Fusion（2026-11-13正式在线发表元数据；实际全文仍为作者预印本v1）
+- 正式 DOI：https://doi.org/10.1088/1741-4326/aebc9d
+- 作者稿 DOI：https://doi.org/10.48550/arXiv.2607.04865
+- 首投时间：2026-07-06；正式在线发表日期：2026-11-13（Crossref）
 - 本地 PDF：`daily/2026-07-08/pdfs/Udaya Maurya et al. - 2026 - Deep Learning Models for ADITYA-U MHD Equilibrium.pdf`
 
 ## 研究问题
@@ -40,3 +41,7 @@
 
 - 模型有效性受合成数据覆盖范围限制，超出 ADITYA-U limiter flat-top 操作域时需要重新训练或外推验证。
 - 论文侧重磁约束聚变平衡，和激光加速/强场 QED 主线的物理对象不同，主要贡献在方法论和机器学习 workflow。
+
+## 2026-11-14 正式发表元数据补核
+
+Crossref登记正式题目、四作者和100760例／766炮数据库与本条作者稿对应，原位补入Nuclear Fusion DOI，不另增论文数。官方arXiv页面仍只有2607.04865v1；本地18页作者稿首页和SHA-256（`0c63fd5a5594a4c068532736103a3bbebe623b6935c2dc87e122535db185e73e`）已核对。IOP PDF路由返回HTTP200、14371字节HTML/Radware验证页，未取得VOR；不据正式摘要中的1ms或新增消融描述改写旧作者稿结论，也不声称两版逐字／数值一致。本轮仅补出版与版本信息，未重新全文精读、训练或真机验证；原作者稿笔记保留。
