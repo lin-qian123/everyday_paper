@@ -1,84 +1,173 @@
 {
-  "verified_at": "2026-11-14T01:44:08.118143+08:00",
+  "verified_at": "2026-11-14T07:13:54.488577+08:00",
   "status": "passed",
-  "ledger": {
-    "before": 559,
-    "after": 564,
+  "earlier_same_day_phase": {
+    "processed_before": 559,
+    "processed_after": 564,
     "new_works": 5,
-    "unchanged_prior_objects": 558,
     "metadata_upgrades": 1,
-    "unique_nonnull_dois": 560,
-    "unique_normalized_titles": 564,
-    "unique_qualified_arxiv_aliases": 373
+    "key_pages": 25,
+    "figures": 15,
+    "tests": "7 passed in3.20s; see earlier committed report at9ab74c7"
+  },
+  "morning_continuation": {
+    "processed_before": 564,
+    "processed_after": 567,
+    "new_works": 3,
+    "all_564_old_ledger_objects_unchanged": true,
+    "retry_before": 65,
+    "retry_after": 67,
+    "all_65_old_retry_objects_unchanged": true,
+    "new_publisher_vor_acquired": 0,
+    "read_versions": [
+      "2606.05286v2",
+      "2611.16505v1",
+      "2611.15248v1"
+    ],
+    "key_pages_reader_reviewed": 28,
+    "new_figures_root_opened": 9,
+    "independent_root_source_pages": [
+      {
+        "paper": "Arro",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "paper": "Mishi",
+        "pages": [
+          3
+        ]
+      },
+      {
+        "paper": "Chen",
+        "pages": [
+          14,
+          18
+        ]
+      }
+    ]
+  },
+  "ledger": {
+    "daily_before": 559,
+    "after": 567,
+    "daily_new_works": 8,
+    "unique_nonnull_dois": 563,
+    "unique_normalized_titles": 567,
+    "unique_qualified_arxiv_aliases": 379
   },
   "retry": {
     "before": 65,
-    "after": 65,
+    "after": 67,
     "all_prior_objects_unchanged": true
   },
   "pdfs": {
-    "new": 5,
-    "pages": 100,
-    "checks": "magic/MIME/SHA256/pdfinfo/pypdf/PyMuPDF/perpage text/ledger path bindings",
-    "ignored_pdf_txt_assets": 10,
-    "upgraded_author_v1_sha_checked": true
+    "daily_fulltexts": 8,
+    "pages": 140,
+    "bytes": 26184599,
+    "layout_bytes": 640310,
+    "independent_checks": "magic/MIME/SHA256/pdfinfo/pypdf/PyMuPDF/per-page text/ledger bindings",
+    "ignored_pdf_txt_assets": 16,
+    "per_pdf": [
+      {
+        "path": "daily/2026-11-14/pdfs/gutberlet-2026-hicans.pdf",
+        "sha256": "79a4e2920ef1419ae4e1805f64531721cafc7445cac8a48db0c1998382b1d380",
+        "pages": 21,
+        "bytes": 2791534
+      },
+      {
+        "path": "daily/2026-11-14/pdfs/hu-2026-neutron-diffusion-pinn.pdf",
+        "sha256": "0745de7599e7b726b9754dacbf3e45c35d65025dd3acb21706caea4e3084b3a3",
+        "pages": 14,
+        "bytes": 3625298
+      },
+      {
+        "path": "daily/2026-11-14/pdfs/beverido-2026-qed-cascade.pdf",
+        "sha256": "e2a6c216e25b315e5f54b5dde878d6ebf83c2ca4d7412012cf2a4ad19b221583",
+        "pages": 16,
+        "bytes": 7078888
+      },
+      {
+        "path": "daily/2026-11-14/pdfs/kolobov-2026-pamar.pdf",
+        "sha256": "5002b89ac537f9736bcd9d1698edadf9390a6aba265a5540fca9355591194f0e",
+        "pages": 39,
+        "bytes": 2972966
+      },
+      {
+        "path": "daily/2026-11-14/pdfs/fujioka-2026-radiation-groups.pdf",
+        "sha256": "5402274bbc765438ed4443a188ede3c490990c9157b512c90eab743b286ddb80",
+        "pages": 10,
+        "bytes": 1301812
+      },
+      {
+        "path": "daily/2026-11-14/pdfs/arro-2026-magnetic-pumping.pdf",
+        "sha256": "698e4829cb3b34e14f2424ffe30c25757b4f0d928745133e2314f715aa695e4e",
+        "pages": 8,
+        "bytes": 5572562
+      },
+      {
+        "path": "daily/2026-11-14/pdfs/mishi-2026-nanoparticle-stripping.pdf",
+        "sha256": "1340ae90ba929148395e20ec8a4a14b2eb7ee53c0dfb1e710e5f6f283a9e296f",
+        "pages": 9,
+        "bytes": 1020037
+      },
+      {
+        "path": "daily/2026-11-14/pdfs/chen-2026-plaw-em2d.pdf",
+        "sha256": "83e99f897cb689d6cb388c9b1ece130c874fcaeffdcbb3c93763372edadb35c4",
+        "pages": 23,
+        "bytes": 1821502
+      }
+    ]
   },
   "figures": {
-    "retained": 15,
-    "all_reader_and_root_visual_checked": true,
+    "daily_retained": 24,
     "all_decoded_pixels_match_source_pdf": true,
-    "key_source_pages_reviewed": 25
+    "new9_reader_and_root_visual_checked": true,
+    "earlier15_root_visual_checked_in_prior_same_day_run": true,
+    "key_source_pages_reader_reviewed": 53
   },
   "tests": {
     "command": "PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q",
-    "result": "7 passed in3.20s"
+    "result": "7 passed in5.58s"
   },
   "links": {
     "parser": "Pandoc JSON Link/Image nodes; URLdecoded local destinations",
-    "markdown_files": 29,
-    "local_links_checked": 3502,
-    "preexisting_missing_pdf_links": []
+    "markdown_files": 16,
+    "local_links_checked": 2010,
+    "missing": []
   },
+  "json_jsonl_checked": 12,
   "user_AGENTS_unchanged_and_excluded": true,
   "scope": [
     "INDEX.md",
     "README.md",
     "TODO.md",
     "categories/README.md",
-    "categories/ai-ml-plasma-physics.md",
-    "categories/experimental-platforms-diagnostics.md",
     "categories/general-plasma-and-methods.md",
     "categories/hedp-icf-laboratory-astrophysics.md",
-    "categories/laser-accelerated-beam-applications.md",
     "categories/laser-plasma-acceleration.md",
-    "categories/magnetic-fusion-and-alpha-particles.md",
     "categories/pic-and-plasma-simulation.md",
-    "categories/strong-field-qed-radiation.md",
-    "daily/2026-07-08/notes/Udaya Maurya et al. - 2026 - Deep Learning Models for ADITYA-U MHD Equilibrium.md",
     "daily/2026-11-14/download_report.json",
-    "daily/2026-11-14/images/beverido-fig12.png",
-    "daily/2026-11-14/images/beverido-fig3.png",
-    "daily/2026-11-14/images/beverido-fig8.png",
-    "daily/2026-11-14/images/fujioka-fig1.png",
-    "daily/2026-11-14/images/fujioka-fig2.png",
-    "daily/2026-11-14/images/fujioka-table1.png",
-    "daily/2026-11-14/images/gutberlet-fig3.png",
-    "daily/2026-11-14/images/gutberlet-fig6.png",
-    "daily/2026-11-14/images/gutberlet-table2.png",
-    "daily/2026-11-14/images/hu-fig12-table7.png",
-    "daily/2026-11-14/images/hu-fig3.png",
-    "daily/2026-11-14/images/hu-fig9.png",
-    "daily/2026-11-14/images/kolobov-fig13.png",
-    "daily/2026-11-14/images/kolobov-fig15.png",
-    "daily/2026-11-14/images/kolobov-fig2.png",
+    "daily/2026-11-14/images/arro-fig1.png",
+    "daily/2026-11-14/images/arro-fig3.png",
+    "daily/2026-11-14/images/arro-fig6.png",
+    "daily/2026-11-14/images/chen-fig10.png",
+    "daily/2026-11-14/images/chen-fig11.png",
+    "daily/2026-11-14/images/chen-fig14.png",
+    "daily/2026-11-14/images/mishi-fig2.png",
+    "daily/2026-11-14/images/mishi-fig4.png",
+    "daily/2026-11-14/images/mishi-fig5.png",
     "daily/2026-11-14/index.md",
-    "daily/2026-11-14/notes/beverido-2026-qed-cascade.md",
-    "daily/2026-11-14/notes/fujioka-2026-radiation-groups.md",
-    "daily/2026-11-14/notes/gutberlet-2026-hicans.md",
-    "daily/2026-11-14/notes/hu-2026-neutron-diffusion-pinn.md",
-    "daily/2026-11-14/notes/kolobov-2026-pamar.md",
+    "daily/2026-11-14/notes/arro-2026-magnetic-pumping.md",
+    "daily/2026-11-14/notes/chen-2026-plaw-em2d.md",
+    "daily/2026-11-14/notes/mishi-2026-nanoparticle-stripping.md",
     "daily/2026-11-14/pdf_validation.json",
-    "daily/2026-11-14/research/aditya-upgrade-metadata.json",
     "daily/2026-11-14/research/dedup_checks.json",
     "daily/2026-11-14/research/discovery_candidates.jsonl",
     "daily/2026-11-14/research/discovery_sources.json",
@@ -87,16 +176,12 @@
     "daily/2026-11-14/research/selected_metadata.json",
     "daily/2026-11-14/research/verification.json",
     "daily/2026-11-14/run_results.json",
-    "daily/README.md",
-    "papers/10-1088-1741-4326-aebc9d/README.md",
-    "papers/10-3389-fenrg-2026-2005399/README.md",
-    "papers/10-3390-qubs10040026/README.md",
+    "papers/10-1103-wyt1-24q7/README.md",
     "papers/README.md",
-    "papers/arxiv-2607-04865/README.md",
-    "papers/arxiv-2611-14820/README.md",
-    "papers/arxiv-2611-15095/README.md",
-    "papers/arxiv-2611-15519/README.md",
+    "papers/arxiv-2611-15248/README.md",
+    "papers/arxiv-2611-16505/README.md",
+    "state/daily_retry_candidates.json",
     "state/processed_articles.json"
   ],
-  "publication": "Postcommit remote parity is separately recorded in automation memory; this file cannot contain its own final commit hash."
+  "publication_evidence_location": "Automation memory records the final staged/committed blob audit, commit and fresh remote parity after publication"
 }

@@ -77,7 +77,160 @@
       "bytes": 405,
       "pdf_header": false,
       "recovered": "official MDPI resourceCDN publisherPDF validated"
+    },
+    {
+      "id": "10.1063/5.0361642",
+      "url": "https://pubs.aip.org/aip/adv/article-pdf/doi/10.1063/5.0361642/21200768/115030_1_5.0361642.pdf",
+      "final_url": "https://pubs.aip.org/aip/adv/article-pdf/doi/10.1063/5.0361642/21200768/115030_1_5.0361642.pdf",
+      "status": 403,
+      "content_type": "text/html",
+      "bytes": 93,
+      "is_pdf": false,
+      "sha256": "0d3e98ca727fc1201b436170af5a63f23348aaf146a3ac6234f6c4da283e8b34",
+      "response_prefix": "<html><body><h1>403 Forbidden</h1>\nRequest forbidden by administrative rules.\n</body></html>\n",
+      "run_phase": "morning_increment_2026-11-14"
+    },
+    {
+      "id": "10.1063/5.0352858",
+      "url": "https://pubs.aip.org/aip/pop/article-pdf/doi/10.1063/5.0352858/21198064/112709_1_5.0352858.pdf",
+      "final_url": "https://pubs.aip.org/aip/pop/article-pdf/doi/10.1063/5.0352858/21198064/112709_1_5.0352858.pdf",
+      "status": 403,
+      "content_type": "text/html",
+      "bytes": 93,
+      "is_pdf": false,
+      "sha256": "0d3e98ca727fc1201b436170af5a63f23348aaf146a3ac6234f6c4da283e8b34",
+      "response_prefix": "<html><body><h1>403 Forbidden</h1>\nRequest forbidden by administrative rules.\n</body></html>\n",
+      "run_phase": "morning_increment_2026-11-14"
+    },
+    {
+      "id": "10.1103/wyt1-24q7",
+      "url": "https://harvest.aps.org/v2/journals/articles/10.1103/wyt1-24q7/fulltext",
+      "final_url": "https://harvest.aps.org/v2/journals/articles/10.1103/wyt1-24q7/fulltext",
+      "status": 401,
+      "content_type": "application/json",
+      "bytes": 57,
+      "is_pdf": false,
+      "sha256": "32e25cf9900345c440947f1137cf1b5dfa385d39dc44570f8b7b881ee1bfdd90",
+      "response_prefix": "{\"errors\":[{\"title\":\"10.1103/wyt1-24q7 not authorized\"}]}",
+      "run_phase": "morning_increment_2026-11-14"
+    },
+    {
+      "id": "2606.05286",
+      "url": "https://arxiv.org/pdf/2606.05286v2",
+      "final_url": "https://arxiv.org/pdf/2606.05286",
+      "status": 200,
+      "content_type": "application/pdf",
+      "bytes": 5572562,
+      "is_pdf": true,
+      "sha256": "698e4829cb3b34e14f2424ffe30c25757b4f0d928745133e2314f715aa695e4e",
+      "run_phase": "morning_increment_2026-11-14",
+      "pinned_v2_matches_unversioned_bytes": true
+    },
+    {
+      "id": "2611.16505",
+      "url": "https://arxiv.org/pdf/2611.16505v1",
+      "final_url": "https://arxiv.org/pdf/2611.16505v1",
+      "status": 200,
+      "content_type": "application/pdf",
+      "bytes": 1020037,
+      "is_pdf": true,
+      "sha256": "1340ae90ba929148395e20ec8a4a14b2eb7ee53c0dfb1e710e5f6f283a9e296f",
+      "run_phase": "morning_increment_2026-11-14"
+    },
+    {
+      "id": "2611.15248",
+      "url": "https://arxiv.org/pdf/2611.15248v1",
+      "final_url": "https://arxiv.org/pdf/2611.15248v1",
+      "status": 200,
+      "content_type": "application/pdf",
+      "bytes": 1821502,
+      "is_pdf": true,
+      "sha256": "83e99f897cb689d6cb388c9b1ece130c874fcaeffdcbb3c93763372edadb35c4",
+      "run_phase": "morning_increment_2026-11-14"
     }
   ],
-  "status": "5newfulltext PDFs validated; ADITYA formalPDF rejected; existingauthorfulltext retained"
+  "status": "eight daily fulltexts validated; two additional AIP works retained as structured retries",
+  "updated_at": "2026-11-14T07:09:55.601886+08:00",
+  "morning_proxy_pdf_checks": [
+    {
+      "doi": "10.1063/5.0361642",
+      "url": "https://pubs.aip.org/aip/adv/article-pdf/doi/10.1063/5.0361642/21200768/115030_1_5.0361642.pdf",
+      "transport": "environment proxies enabled",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5696,
+      "pdf_magic": false
+    },
+    {
+      "doi": "10.1063/5.0352858",
+      "url": "https://pubs.aip.org/aip/pop/article-pdf/doi/10.1063/5.0352858/21198064/112709_1_5.0352858.pdf",
+      "transport": "environment proxies enabled",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5696,
+      "pdf_magic": false
+    }
+  ],
+  "morning_publisher_pages": [
+    {
+      "doi": "10.1063/5.0361642",
+      "url": "https://pubs.aip.org/adv/article/16/11/115030/3408660/Kinetic-inverse-bremsstrahlung-absorption-in",
+      "final_url": "https://pubs.aip.org/adv/article/16/11/115030/3408660/Kinetic-inverse-bremsstrahlung-absorption-in",
+      "status": 403,
+      "content_type": "text/html",
+      "bytes": 1207,
+      "title": null,
+      "version_notice": []
+    },
+    {
+      "doi": "10.1103/wyt1-24q7",
+      "url": "https://link.aps.org/doi/10.1103/wyt1-24q7",
+      "final_url": "https://link.aps.org/doi/10.1103/wyt1-24q7",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5476,
+      "title": "Just a moment...",
+      "version_notice": []
+    },
+    {
+      "doi": "10.1063/5.0352858",
+      "url": "https://pubs.aip.org/pop/article/33/11/112709/3408488/Robustness-analysis-of-laser-pulse-designs-in",
+      "final_url": "https://pubs.aip.org/pop/article/33/11/112709/3408488/Robustness-analysis-of-laser-pulse-designs-in",
+      "status": 403,
+      "content_type": "text/html",
+      "bytes": 1207,
+      "title": null,
+      "version_notice": []
+    }
+  ],
+  "morning_alternate_fulltext_checks": [
+    {
+      "query": "Kinetic inverse bremsstrahlung absorption in magnetized fusion plasmas beyond the constant Coulomb logarithm",
+      "url": "https://api.archives-ouvertes.fr/search/?q=title_t%3A%22Kinetic+inverse+bremsstrahlung+absorption+in+magnetized+fusion+plasmas+beyond+the+constant+Coulomb+logarithm%22&fl=title_s%2CdoiId_s%2Curi_s%2CfileMain_s%2CauthFullName_s&rows=5&wt=json",
+      "status": 200,
+      "response": {
+        "response": {
+          "numFound": 0,
+          "start": 0,
+          "maxScore": 0.0,
+          "numFoundExact": true,
+          "docs": []
+        }
+      }
+    },
+    {
+      "query": "Robustness analysis of laser pulse designs in direct-drive fusion",
+      "url": "https://api.archives-ouvertes.fr/search/?q=title_t%3A%22Robustness+analysis+of+laser+pulse+designs+in+direct-drive+fusion%22&fl=title_s%2CdoiId_s%2Curi_s%2CfileMain_s%2CauthFullName_s&rows=5&wt=json",
+      "status": 200,
+      "response": {
+        "response": {
+          "numFound": 0,
+          "start": 0,
+          "maxScore": 0.0,
+          "numFoundExact": true,
+          "docs": []
+        }
+      }
+    }
+  ]
 }

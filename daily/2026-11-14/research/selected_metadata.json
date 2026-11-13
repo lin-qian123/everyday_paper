@@ -716,5 +716,739 @@
     "note_path": "daily/2026-07-08/notes/Udaya Maurya et al. - 2026 - Deep Learning Models for ADITYA-U MHD Equilibrium.md",
     "processed_date": "2026-07-08",
     "normalized_title": "deep learning models for aditya u mhd equilibrium"
+  },
+  "morning_continuation": {
+    "retrieved_at": "2026-11-14T07:09:55.601886+08:00",
+    "formal_crossref": [
+      {
+        "DOI": "10.1063/5.0361642",
+        "title": [
+          "Kinetic inverse bremsstrahlung absorption in magnetized fusion plasmas beyond the constant Coulomb logarithm: Velocity-dependent collisions, super-Gaussian electrons, and plasma screening"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0002-8804-1917",
+            "authenticated-orcid": false,
+            "given": "Ahlem",
+            "family": "Bennecer",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Department of Physics, Laboratory of Physics of Radiations and Their Interactions with Matter (LRPRIM), Faculty of Matter Sciences, University of Batna 1 , Batna 05000,",
+                "place": [
+                  "Algeria"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0008-3496-4680",
+            "authenticated-orcid": false,
+            "given": "Oussama",
+            "family": "Boultif",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Physics, Laboratory of Physics of Radiations and Their Interactions with Matter (LRPRIM), Faculty of Matter Sciences, University of Batna 1 , Batna 05000,",
+                "place": [
+                  "Algeria"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0001-4111-6419",
+            "authenticated-orcid": false,
+            "given": "Abdellatif",
+            "family": "Aouragh",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Physics, Laboratory of Physics of Radiations and Their Interactions with Matter (LRPRIM), Faculty of Matter Sciences, University of Batna 1 , Batna 05000,",
+                "place": [
+                  "Algeria"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "AIP Advances"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              1
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              13
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              1
+            ]
+          ]
+        },
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              13
+            ]
+          ],
+          "date-time": "2026-11-13T16:32:06Z",
+          "timestamp": 1794587526000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              13
+            ]
+          ],
+          "date-time": "2026-11-13T16:32:08Z",
+          "timestamp": 1794587528000
+        },
+        "resource": {
+          "primary": {
+            "URL": "https://pubs.aip.org/adv/article/16/11/115030/3408660/Kinetic-inverse-bremsstrahlung-absorption-in"
+          }
+        },
+        "URL": "https://doi.org/10.1063/5.0361642",
+        "link": [
+          {
+            "URL": "https://pubs.aip.org/aip/adv/article-pdf/doi/10.1063/5.0361642/21200768/115030_1_5.0361642.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+          },
+          {
+            "URL": "https://pubs.aip.org/aip/adv/article-pdf/doi/10.1063/5.0361642/21200768/115030_1_5.0361642.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  11,
+                  13
+                ]
+              ],
+              "date-time": "2026-11-13T00:00:00Z",
+              "timestamp": 1794528000000
+            },
+            "content-version": "vor",
+            "delay-in-days": 12,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+          }
+        ],
+        "type": "journal-article",
+        "ISSN": [
+          "2158-3226"
+        ],
+        "volume": "16",
+        "issue": "11",
+        "article-number": "115030",
+        "abstract": "<jats:p>We develop a kinetic model of electron–ion inverse bremsstrahlung absorption in magnetized fusion plasmas that extends the conventional constant-Coulomb-logarithm treatment. The model incorporates the velocity dependence of the Coulomb logarithm and plasma screening directly into the electron–ion collision frequency, while a super-Gaussian electron distribution is used to account for non-Maxwellian distortions. The formulation explicitly retains magnetization and circular-polarization effects and yields asymptotic scaling laws for magneto-inertial fusion (MIF) plasmas and microwave-heated magnetically confined plasmas. The results show that the velocity-dependent Coulomb logarithm can either reduce or enhance absorption depending on the electron distribution, whereas plasma screening systematically suppresses it. Under the conditions studied, the complete collisional model changes the MIF absorption rate by about 19% relative to the thermal-logarithm approximation. In the microwave-heated regime, the corresponding reduction is about 6% over the whole density range considered. These results highlight the need to treat non-Maxwellianity, velocity-dependent collisions, and plasma screening self-consistently when modeling inverse bremsstrahlung absorption in magnetized fusion plasmas.</jats:p>",
+        "relation": {}
+      },
+      {
+        "DOI": "10.1103/wyt1-24q7",
+        "title": [
+          "Nonthermal Particle Acceleration by Magnetic Pumping in Pulsating Plasmas"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-7233-2555",
+            "authenticated-orcid": true,
+            "given": "Giuseppe",
+            "family": "Arrò",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/01y2jtd41",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "University of Wisconsin-Madison"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-3816-7896",
+            "authenticated-orcid": true,
+            "given": "Vladimir",
+            "family": "Zhdankin",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/01y2jtd41",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "University of Wisconsin-Madison"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Fabio",
+            "family": "Bacchini",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/05f950310",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "KU Leuven"
+              },
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/03vfw8w96",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Royal Belgian Institute for Space Aeronomy"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Physical Review Letters"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              12
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              12
+            ]
+          ]
+        },
+        "accepted": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              23
+            ]
+          ]
+        },
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              23
+            ]
+          ],
+          "date-time": "2026-10-23T17:04:50Z",
+          "timestamp": 1792775090000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              12
+            ]
+          ],
+          "date-time": "2026-11-12T12:49:25Z",
+          "timestamp": 1794487765000
+        },
+        "resource": {
+          "primary": {
+            "URL": "https://link.aps.org/doi/10.1103/wyt1-24q7"
+          }
+        },
+        "URL": "https://doi.org/10.1103/wyt1-24q7",
+        "link": [
+          {
+            "URL": "https://link.aps.org/accepted/10.1103/wyt1-24q7",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "unspecified"
+          },
+          {
+            "URL": "https://link.aps.org/article/10.1103/wyt1-24q7",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "syndication"
+          },
+          {
+            "URL": "http://harvest.aps.org/v2/journals/articles/10.1103/wyt1-24q7/fulltext",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  11,
+                  12
+                ]
+              ],
+              "date-time": "2026-11-12T00:00:00Z",
+              "timestamp": 1794441600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://link.aps.org/licenses/aps-default-license"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2027,
+                  11,
+                  12
+                ]
+              ],
+              "date-time": "2027-11-12T00:00:00Z",
+              "timestamp": 1825977600000
+            },
+            "content-version": "am",
+            "delay-in-days": 365,
+            "URL": "https://link.aps.org/licenses/aps-default-accepted-manuscript-license"
+          }
+        ],
+        "type": "journal-article",
+        "ISSN": [
+          "0031-9007",
+          "1079-7114"
+        ],
+        "volume": "137",
+        "issue": "20",
+        "article-number": "205201",
+        "relation": {}
+      },
+      {
+        "DOI": "10.1063/5.0352858",
+        "title": [
+          "Robustness analysis of laser pulse designs in direct-drive fusion"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0003-9865-8889",
+            "authenticated-orcid": false,
+            "given": "A.",
+            "family": "Maïolo",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "CELIA, University of Bordeaux-CNRS-CEA 1 , Talence 33405,",
+                "place": [
+                  "France"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0009-8183-3410",
+            "authenticated-orcid": false,
+            "given": "A.",
+            "family": "Derriey",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "CELIA, University of Bordeaux-CNRS-CEA 1 , Talence 33405,",
+                "place": [
+                  "France"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-2851-4815",
+            "authenticated-orcid": false,
+            "given": "D. E. M.",
+            "family": "Barlow",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "LULI, École Polytechnique, Institut Polytechnique de Paris/Sorbonne Université 2 , Palaiseau 91128,",
+                "place": [
+                  "France"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0005-4235-889X",
+            "authenticated-orcid": false,
+            "given": "R.",
+            "family": "Chavigny",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "CELIA, University of Bordeaux-CNRS-CEA 1 , Talence 33405,",
+                "place": [
+                  "France"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-6644-0389",
+            "authenticated-orcid": false,
+            "given": "M.",
+            "family": "Bardon",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "CELIA, University of Bordeaux-CNRS-CEA 1 , Talence 33405,",
+                "place": [
+                  "France"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-7532-5879",
+            "authenticated-orcid": false,
+            "given": "V. T.",
+            "family": "Tikhonchuk",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "CELIA, University of Bordeaux-CNRS-CEA 1 , Talence 33405,",
+                "place": [
+                  "France"
+                ]
+              },
+              {
+                "name": "Extreme Light Infrastructure ERIC, ELI-Beamlines Facility 3 , Dolní Břežany 25241,",
+                "place": [
+                  "Czech Republic"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-3803-5386",
+            "authenticated-orcid": false,
+            "given": "D.",
+            "family": "Raffestin",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "CELIA, University of Bordeaux-CNRS-CEA 1 , Talence 33405,",
+                "place": [
+                  "France"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-0214-3828",
+            "authenticated-orcid": false,
+            "given": "J.-L.",
+            "family": "Feugeas",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "CELIA, University of Bordeaux-CNRS-CEA 1 , Talence 33405,",
+                "place": [
+                  "France"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Physics of Plasmas"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              1
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              11
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              1
+            ]
+          ]
+        },
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              11
+            ]
+          ],
+          "date-time": "2026-11-11T10:18:28Z",
+          "timestamp": 1794392308000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              11
+            ]
+          ],
+          "date-time": "2026-11-11T10:18:30Z",
+          "timestamp": 1794392310000
+        },
+        "resource": {
+          "primary": {
+            "URL": "https://pubs.aip.org/pop/article/33/11/112709/3408488/Robustness-analysis-of-laser-pulse-designs-in"
+          }
+        },
+        "URL": "https://doi.org/10.1063/5.0352858",
+        "link": [
+          {
+            "URL": "https://pubs.aip.org/aip/pop/article-pdf/doi/10.1063/5.0352858/21198064/112709_1_5.0352858.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+          },
+          {
+            "URL": "https://pubs.aip.org/aip/pop/article-pdf/doi/10.1063/5.0352858/21198064/112709_1_5.0352858.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "type": "journal-article",
+        "ISSN": [
+          "1070-664X",
+          "1089-7674"
+        ],
+        "volume": "33",
+        "issue": "11",
+        "article-number": "112709",
+        "abstract": "<jats:p>The robustness of laser pulse shaping is a critical issue for direct-drive inertial confinement fusion, as realistic laser systems exhibit temporal fluctuations that can affect implosion performance. In this work, a robustness analysis of target designs is performed with respect to physically realistic perturbations of a reference pulse, including temporal jitter, correlated noise, and power-dependent variations. The method is applied to one-dimensional hydrodynamic simulations to assess the impact of these perturbations on the target performance. The analysis of robustness of power plant scale designs highlights strong sensitivity of implosion performance to early-time pulse shaping and reveals a trade-off between gain and robustness. Although limited to one-dimensional simulations, this approach provides a useful framework for preliminary pulse design and robustness assessment.</jats:p>",
+        "relation": {}
+      }
+    ],
+    "arxiv": [
+      {
+        "url": "https://arxiv.org/abs/2606.05286",
+        "status": 200,
+        "meta": {
+          "viewport": "width=device-width, initial-scale=1",
+          "msapplication-TileColor": "#da532c",
+          "theme-color": "#ffffff",
+          "description": "Abstract page for arXiv paper 2606.05286: Nonthermal Particle Acceleration by Magnetic Pumping in Pulsating Plasmas",
+          "twitter:site": "@arxiv",
+          "twitter:card": "summary",
+          "twitter:title": "Nonthermal Particle Acceleration by Magnetic Pumping in Pulsating Plasmas",
+          "twitter:description": "We present a new pulsating box setup to investigate particle acceleration in high-beta plasmas undergoing compression--expansion cycles. Our fully kinetic simulations show that particles are...",
+          "twitter:image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+          "twitter:image:alt": "arXiv logo",
+          "citation_title": "Nonthermal Particle Acceleration by Magnetic Pumping in Pulsating Plasmas",
+          "citation_author": "Bacchini, Fabio",
+          "citation_date": "2026/06/03",
+          "citation_online_date": "2026/10/26",
+          "citation_pdf_url": "https://arxiv.org/pdf/2606.05286",
+          "citation_arxiv_id": "2606.05286",
+          "citation_abstract": "We present a new pulsating box setup to investigate particle acceleration in high-beta plasmas undergoing compression--expansion cycles. Our fully kinetic simulations show that particles are efficiently accelerated by magnetic pumping, producing nonthermal energy distributions with power-law tails. Numerical results are in excellent agreement with a generalized maximum entropy model that we derive, linking the power-law index of distributions to the injected energy. Our results could be relevant for understanding the origin of high-energy particles in certain high-beta space and astrophysical plasmas."
+        },
+        "history": "Submission history From: Giuseppe Arrò [ view email ] [v1] Wed, 3 Jun 2026 18:00:03 UTC (6,094 KB) [v2] Mon, 26 Oct 2026 19:31:09 UTC (6,070 KB)"
+      },
+      {
+        "url": "https://arxiv.org/abs/2611.16505",
+        "status": 200,
+        "meta": {
+          "viewport": "width=device-width, initial-scale=1",
+          "msapplication-TileColor": "#da532c",
+          "theme-color": "#ffffff",
+          "description": "Abstract page for arXiv paper 2611.16505: Laser-Driven Electron Stripping from Nanoparticles in Plasma",
+          "twitter:site": "@arxiv",
+          "twitter:card": "summary",
+          "twitter:title": "Laser-Driven Electron Stripping from Nanoparticles in Plasma",
+          "twitter:description": "Laser wakefield accelerators use plasma wake waves to produce high-energy electron beams over short distances. Nanoparticles can trigger localized electron injection, with their size and density...",
+          "twitter:image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+          "twitter:image:alt": "arXiv logo",
+          "citation_title": "Laser-Driven Electron Stripping from Nanoparticles in Plasma",
+          "citation_author": "Chaulagain, Uddhab",
+          "citation_date": "2026/11/12",
+          "citation_online_date": "2026/11/12",
+          "citation_pdf_url": "https://arxiv.org/pdf/2611.16505",
+          "citation_arxiv_id": "2611.16505",
+          "citation_abstract": "Laser wakefield accelerators use plasma wake waves to produce high-energy electron beams over short distances. Nanoparticles can trigger localized electron injection, with their size and density influencing the accelerated beam charge. However, the electron charge of a nanoparticle does not determine how much charge is stripped by the laser. Here we show that a quasistatic electrostatic model predicts laser-driven electron stripping from nanoparticles, in agreement with particle-in-cell simulations in vacuum and helium plasma. The model identifies a saturation density that increases with laser amplitude and decreases with nanoparticle radius, separating complete from partial stripping. Above this density, the stripped electron fraction decreases and the stripped charge approaches a finite limit. Multicycle pulses produce more stripped charge than the model predicts due to time-dependent electron dynamics. In helium plasma, plasma wake waves induce additional electron stripping. These results give an understanding of the scaling of laser-driven electron stripping from nanoparticles and could inform nanoparticle parameter selection for future nanoparticle-assisted laser wakefield accelerators."
+        },
+        "history": "Submission history From: Alfred Mishi [ view email ] [v1] Thu, 12 Nov 2026 09:06:27 UTC (603 KB)"
+      },
+      {
+        "url": "https://arxiv.org/abs/2611.15248",
+        "status": 200,
+        "meta": {
+          "viewport": "width=device-width, initial-scale=1",
+          "msapplication-TileColor": "#da532c",
+          "theme-color": "#ffffff",
+          "description": "Abstract page for arXiv paper 2611.15248: Multi-dimensional kinetic modeling of laser-plasma instabilities by a Vlasov-Maxwell system",
+          "twitter:site": "@arxiv",
+          "twitter:card": "summary",
+          "twitter:title": "Multi-dimensional kinetic modeling of laser-plasma instabilities...",
+          "twitter:description": "We present PLAW-EM2d (Two-Dimensional PLAsmaWave ElectroMagnetic Simulation), a two-dimensional Vlasov-Maxwell code for kinetic studies of laser-plasma interactions. The code combines a hybrid...",
+          "twitter:image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+          "twitter:image:alt": "arXiv logo",
+          "citation_title": "Multi-dimensional kinetic modeling of laser-plasma instabilities by a Vlasov-Maxwell system",
+          "citation_author": "Xiao, C. Z.",
+          "citation_date": "2026/11/11",
+          "citation_online_date": "2026/11/11",
+          "citation_pdf_url": "https://arxiv.org/pdf/2611.15248",
+          "citation_arxiv_id": "2611.15248",
+          "citation_abstract": "We present PLAW-EM2d (Two-Dimensional PLAsmaWave ElectroMagnetic Simulation), a two-dimensional Vlasov-Maxwell code for kinetic studies of laser-plasma interactions. The code combines a hybrid electrostatic- TEz field decomposition with an Eulerian 2d2v Vlasov solver for the electron distribution function and a cold closure for the out-of-plane response. Vacuum propagation, Landau damping, and a homogeneousplasma comparison with PIC simulations benchmark the coupled solver. We then consider two representative SRS problems. In an inhomogeneous plasma, the code reproduces convective SRS backscatter with a reflectivity consistent with the Rosenbluth estimate. In a transversely extended target, it captures SRS side scattering in a self-consistent two-dimensional Vlasov simulation, resolving oblique electromagnetic and Langmuir waves that satisfy the resonance conditions. These calculations show that PLAW-EM2d can describe both conventional SRS backscatter and a two-dimensional side-scattering channel relevant to laser-plasma interactions in ICF."
+        },
+        "history": "Submission history From: Yong Chen [ view email ] [v1] Wed, 11 Nov 2026 09:38:38 UTC (1,095 KB)"
+      }
+    ],
+    "read_versions": [
+      "2606.05286v2",
+      "2611.16505v1",
+      "2611.15248v1"
+    ],
+    "formal_fulltext_blocked": [
+      "10.1063/5.0361642",
+      "10.1063/5.0352858"
+    ]
   }
 }

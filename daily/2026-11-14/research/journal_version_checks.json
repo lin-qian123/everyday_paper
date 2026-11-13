@@ -188,5 +188,124 @@
         "score": 30.338074
       }
     ]
+  },
+  {
+    "run_phase": "morning_increment_2026-11-14",
+    "arxiv_id": "2611.16505",
+    "query_title": "Laser-Driven Electron Stripping from Nanoparticles in Plasma",
+    "request_url": "https://api.crossref.org/works?query.title=Laser-Driven+Electron+Stripping+from+Nanoparticles+in+Plasma&rows=3",
+    "status": 200,
+    "top3": [
+      {
+        "doi": "10.70675/5c349ec0z210cz4eeeza0d7zd6c231e0a76c",
+        "title": [
+          "Harmonic and electron generation from laser-driven plasma mirrors."
+        ],
+        "journal": null,
+        "published": null,
+        "score": 28.236322
+      },
+      {
+        "doi": "10.1063/1.48294",
+        "title": [
+          "Resonantly driven laser-plasma electron accelerators"
+        ],
+        "journal": [
+          "AIP Conference Proceedings"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1995
+            ]
+          ]
+        },
+        "score": 28.22485
+      },
+      {
+        "doi": "10.1063/1.3099645",
+        "title": [
+          "Laser-driven plasma-wave electron accelerators"
+        ],
+        "journal": [
+          "Physics Today"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2009,
+              3,
+              1
+            ]
+          ]
+        },
+        "score": 28.182753
+      }
+    ],
+    "decision": "No same-work journal version verified in bounded top3; not proof of absence"
+  },
+  {
+    "run_phase": "morning_increment_2026-11-14",
+    "arxiv_id": "2611.15248",
+    "query_title": "Multi-dimensional kinetic modeling of laser-plasma instabilities by a Vlasov-Maxwell system",
+    "request_url": "https://api.crossref.org/works?query.title=Multi-dimensional+kinetic+modeling+of+laser-plasma+instabilities+by+a+Vlasov-Maxwell+system&rows=3",
+    "status": 200,
+    "top3": [
+      {
+        "doi": "10.1142/s0218202506001042",
+        "title": [
+          "GLOBAL SOLUTIONS FOR THE ONE-DIMENSIONAL VLASOV–MAXWELL SYSTEM FOR LASER-PLASMA INTERACTION"
+        ],
+        "journal": [
+          "Mathematical Models and Methods in Applied Sciences"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2006,
+              1
+            ]
+          ]
+        },
+        "score": 38.23992
+      },
+      {
+        "doi": "10.1007/978-90-481-3797-8_4",
+        "title": [
+          "Plasma Kinetic Theory: Vlasov–Maxwell and Related Equations"
+        ],
+        "journal": [
+          "Lecture Notes in Physics",
+          "Symmetries of Integro-Differential Equations"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2010
+            ]
+          ]
+        },
+        "score": 36.90023
+      },
+      {
+        "doi": "10.1137/15m1025396",
+        "title": [
+          "Instabilities of the Relativistic Vlasov--Maxwell System on Unbounded Domains"
+        ],
+        "journal": [
+          "SIAM Journal on Mathematical Analysis"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2017,
+              1
+            ]
+          ]
+        },
+        "score": 34.275856
+      }
+    ],
+    "decision": "No same-work journal version verified in bounded top3; not proof of absence"
   }
 ]

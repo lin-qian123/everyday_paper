@@ -2,11 +2,12 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：181 篇
+- 当前收录：182 篇
 - 索引更新时间：2026-11-14
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-14 | [Laser-Driven Electron Stripping from Nanoparticles in Plasma](../papers/arxiv-2611-16505/README.md) | arXiv preprint | [笔记](../daily/2026-11-14/notes/mishi-2026-nanoparticle-stripping.md) |
 | 2026-11-12 | [Compact plasma-based extreme compression of relativistic electron beams](../papers/arxiv-2611-13436/README.md) | arXiv preprint | [笔记](../daily/2026-11-12/notes/hessami-2026-plasma-compression.md) |
 | 2026-11-12 | [Physics-informed Bayesian optimization of high-order harmonic generation in gases](../papers/arxiv-2611-14119/README.md) | arXiv preprint | [笔记](../daily/2026-11-12/notes/maslarova-2026-hhg-bayesian.md) |
 | 2026-11-11 | [Experimental Evidence of Cellular Sparing under Single-Pulse Picosecond Irradiation at Extreme Dose Rates](../papers/arxiv-2611-12812/README.md) | arXiv preprint | [笔记](../daily/2026-11-11/notes/maguire-2026-picosecond-cell-sparing.md) |

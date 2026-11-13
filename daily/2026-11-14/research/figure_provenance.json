@@ -253,5 +253,167 @@
     "root_visual_checked": true,
     "sha256": "b20cbedd3551662c84384825c884ea4fe32b5d52e641df70cbaa4dccb148efd9",
     "decoded_pixels_match_source_pdf": true
+  },
+  {
+    "path": "daily/2026-11-14/images/arro-fig1.png",
+    "source_pdf": "daily/2026-11-14/pdfs/arro-2026-magnetic-pumping.pdf",
+    "pdf_page_1based": 2,
+    "clip_points": [
+      36,
+      48,
+      305,
+      208
+    ],
+    "scale": 2.4,
+    "description": "fig1; axes, normalization, trends and limitations explained at first mention in note",
+    "reader_visual_checked": true,
+    "root_visual_checked": true,
+    "sha256": "d980aa2f408716c68763f014da662f3b87688bca3707e76eb5692448324fbba7",
+    "decoded_pixels_match_source_pdf": true,
+    "run_phase": "morning_increment_2026-11-14"
+  },
+  {
+    "path": "daily/2026-11-14/images/arro-fig3.png",
+    "source_pdf": "daily/2026-11-14/pdfs/arro-2026-magnetic-pumping.pdf",
+    "pdf_page_1based": 4,
+    "clip_points": [
+      40,
+      46,
+      575,
+      178
+    ],
+    "scale": 2.4,
+    "description": "fig3; axes, normalization, trends and limitations explained at first mention in note",
+    "reader_visual_checked": true,
+    "root_visual_checked": true,
+    "sha256": "bd80dca2e021eddc9e9889b563587e52f759fcbeffdfb2d87277f18f95ff188c",
+    "decoded_pixels_match_source_pdf": true,
+    "run_phase": "morning_increment_2026-11-14"
+  },
+  {
+    "path": "daily/2026-11-14/images/arro-fig6.png",
+    "source_pdf": "daily/2026-11-14/pdfs/arro-2026-magnetic-pumping.pdf",
+    "pdf_page_1based": 6,
+    "clip_points": [
+      317,
+      349,
+      579,
+      538
+    ],
+    "scale": 2.4,
+    "description": "fig6; axes, normalization, trends and limitations explained at first mention in note",
+    "reader_visual_checked": true,
+    "root_visual_checked": true,
+    "sha256": "208e819456f8f144f5e4aec3953a5688722981e0549d3db3817a094ecf44fc49",
+    "decoded_pixels_match_source_pdf": true,
+    "run_phase": "morning_increment_2026-11-14"
+  },
+  {
+    "path": "daily/2026-11-14/images/mishi-fig2.png",
+    "source_pdf": "daily/2026-11-14/pdfs/mishi-2026-nanoparticle-stripping.pdf",
+    "pdf_page_1based": 5,
+    "clip_points": [
+      50,
+      52,
+      565,
+      309
+    ],
+    "scale": 2,
+    "description": "Fig. 2; axes, normalization, trends and limitations explained at first mention in note",
+    "reader_visual_checked": true,
+    "root_visual_checked": true,
+    "sha256": "461443d7e25c17bb5022c4487d6755ce1ee9f77f8958def1d804163ba532abec",
+    "decoded_pixels_match_source_pdf": true,
+    "run_phase": "morning_increment_2026-11-14"
+  },
+  {
+    "path": "daily/2026-11-14/images/mishi-fig4.png",
+    "source_pdf": "daily/2026-11-14/pdfs/mishi-2026-nanoparticle-stripping.pdf",
+    "pdf_page_1based": 7,
+    "clip_points": [
+      50,
+      52,
+      565,
+      533
+    ],
+    "scale": 2,
+    "description": "Fig. 4; axes, normalization, trends and limitations explained at first mention in note",
+    "reader_visual_checked": true,
+    "root_visual_checked": true,
+    "sha256": "97b595408baa9a7f3653cdb75ed412dcebd5d92452889d7d311f2cc43a109eb2",
+    "decoded_pixels_match_source_pdf": true,
+    "run_phase": "morning_increment_2026-11-14"
+  },
+  {
+    "path": "daily/2026-11-14/images/mishi-fig5.png",
+    "source_pdf": "daily/2026-11-14/pdfs/mishi-2026-nanoparticle-stripping.pdf",
+    "pdf_page_1based": 8,
+    "clip_points": [
+      50,
+      52,
+      565,
+      298
+    ],
+    "scale": 2,
+    "description": "Fig. 5; axes, normalization, trends and limitations explained at first mention in note",
+    "reader_visual_checked": true,
+    "root_visual_checked": true,
+    "sha256": "df2ab4980c0bf7116261d1b6542d5a2e33bb9274af2df58f2b61c2cb2c75b233",
+    "decoded_pixels_match_source_pdf": true,
+    "run_phase": "morning_increment_2026-11-14"
+  },
+  {
+    "path": "daily/2026-11-14/images/chen-fig10.png",
+    "source_pdf": "daily/2026-11-14/pdfs/chen-2026-plaw-em2d.pdf",
+    "pdf_page_1based": 15,
+    "clip_points": [
+      118,
+      74,
+      502,
+      300
+    ],
+    "scale": 2,
+    "description": "Figure 10; axes, normalization, trends and limitations explained at first mention in note",
+    "reader_visual_checked": true,
+    "root_visual_checked": true,
+    "sha256": "07b6eb7eb88f11d195209619b01a3cd911e4b734cb708a9b80f7c6e5846e0031",
+    "decoded_pixels_match_source_pdf": true,
+    "run_phase": "morning_increment_2026-11-14"
+  },
+  {
+    "path": "daily/2026-11-14/images/chen-fig11.png",
+    "source_pdf": "daily/2026-11-14/pdfs/chen-2026-plaw-em2d.pdf",
+    "pdf_page_1based": 16,
+    "clip_points": [
+      70,
+      74,
+      555,
+      333
+    ],
+    "scale": 2,
+    "description": "Figure 11; axes, normalization, trends and limitations explained at first mention in note",
+    "reader_visual_checked": true,
+    "root_visual_checked": true,
+    "sha256": "a2a05749e2035ddf3b96727a66c367aba080b1cd46d319b86fcd55912bd77456",
+    "decoded_pixels_match_source_pdf": true,
+    "run_phase": "morning_increment_2026-11-14"
+  },
+  {
+    "path": "daily/2026-11-14/images/chen-fig14.png",
+    "source_pdf": "daily/2026-11-14/pdfs/chen-2026-plaw-em2d.pdf",
+    "pdf_page_1based": 19,
+    "clip_points": [
+      125,
+      215,
+      555,
+      572
+    ],
+    "scale": 2,
+    "description": "Figure 14; axes, normalization, trends and limitations explained at first mention in note",
+    "reader_visual_checked": true,
+    "root_visual_checked": true,
+    "sha256": "db6ac5976a7096d3c6de2a1b40d596bb4ac95d30ffa893981a0831e6197402b0",
+    "decoded_pixels_match_source_pdf": true,
+    "run_phase": "morning_increment_2026-11-14"
   }
 ]

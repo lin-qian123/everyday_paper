@@ -1506,5 +1506,56 @@
     "last_failure_class": "pdf_route_redirected_to_early_article_html",
     "stderr": "Official .pdf route HTTP200 text/html,232044bytes,redirected to article page. Page explicitly says early accepted research before finalVOR; no valid articlePDF acquired. Bounded exact-title search did not verify alternate PDF. No abstract-only note.",
     "evidence_path": "daily/2026-11-12/download_report.json"
+  },
+  {
+    "doi": "10.1063/5.0361642",
+    "title": "Kinetic inverse bremsstrahlung absorption in magnetized fusion plasmas beyond the constant Coulomb logarithm: Velocity-dependent collisions, super-Gaussian electrons, and plasma screening",
+    "authors": [
+      "Ahlem Bennecer",
+      "Oussama Boultif",
+      "Abdellatif Aouragh"
+    ],
+    "journal": "AIP Advances",
+    "publication_date": "2026-11-13",
+    "publication_date_type": "Crossref publisher online publication metadata; PDF not acquired",
+    "source_url": "https://pubs.aip.org/adv/article/16/11/115030/3408660/Kinetic-inverse-bremsstrahlung-absorption-in",
+    "pdf_url": "https://pubs.aip.org/aip/adv/article-pdf/doi/10.1063/5.0361642/21200768/115030_1_5.0361642.pdf",
+    "run_date": "2026-11-14",
+    "status": "retry_fulltext_required_no_abstract_only_note",
+    "recorded_at": "2026-11-14T07:09:55.601886+08:00",
+    "retry_count": 0,
+    "failure_count": 1,
+    "source_family": "aip",
+    "last_failure_class": "http_403_publisher_pdf",
+    "stderr": "Official Crossref PDF URL: direct HTTP403 text/html 93bytes, environment proxy HTTP403 text/html5696bytes, no PDF magic. Official article route direct HTTP403 text/html1207bytes. Bounded exact-title web and HAL official API(title exact, top5) found no verified alternate; HAL HTTP200 numFound0. No abstract-only note.",
+    "evidence_path": "daily/2026-11-14/download_report.json"
+  },
+  {
+    "doi": "10.1063/5.0352858",
+    "title": "Robustness analysis of laser pulse designs in direct-drive fusion",
+    "authors": [
+      "A. Maïolo",
+      "A. Derriey",
+      "D. E. M. Barlow",
+      "R. Chavigny",
+      "M. Bardon",
+      "V. T. Tikhonchuk",
+      "D. Raffestin",
+      "J.-L. Feugeas"
+    ],
+    "journal": "Physics of Plasmas",
+    "publication_date": "2026-11-11",
+    "publication_date_type": "Crossref publisher online publication metadata; PDF not acquired",
+    "source_url": "https://pubs.aip.org/pop/article/33/11/112709/3408488/Robustness-analysis-of-laser-pulse-designs-in",
+    "pdf_url": "https://pubs.aip.org/aip/pop/article-pdf/doi/10.1063/5.0352858/21198064/112709_1_5.0352858.pdf",
+    "run_date": "2026-11-14",
+    "status": "retry_fulltext_required_no_abstract_only_note",
+    "recorded_at": "2026-11-14T07:09:55.601886+08:00",
+    "retry_count": 0,
+    "failure_count": 1,
+    "source_family": "aip",
+    "last_failure_class": "http_403_publisher_pdf",
+    "stderr": "Official Crossref PDF URL: direct HTTP403 text/html 93bytes, environment proxy HTTP403 text/html5696bytes, no PDF magic. Official article route direct HTTP403 text/html1207bytes. Bounded exact-title web and HAL official API(title exact, top5) found no verified alternate; HAL HTTP200 numFound0. No abstract-only note.",
+    "evidence_path": "daily/2026-11-14/download_report.json"
   }
 ]

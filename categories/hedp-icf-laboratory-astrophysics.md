@@ -2,13 +2,15 @@
 
 HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。
 
-- 当前收录：141 篇
+- 当前收录：143 篇
 - 索引更新时间：2026-11-14
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-14 | [Nonthermal Particle Acceleration by Magnetic Pumping in Pulsating Plasmas](../papers/10-1103-wyt1-24q7/README.md) | Physical Review Letters | [笔记](../daily/2026-11-14/notes/arro-2026-magnetic-pumping.md) |
 | 2026-11-14 | [SFQED Cascade Saturation and Laser Depletion Dynamics In CP Rotating Laser Standing Waves](../papers/arxiv-2611-15519/README.md) | arXiv preprint | [笔记](../daily/2026-11-14/notes/beverido-2026-qed-cascade.md) |
 | 2026-11-14 | [Data-driven non-contiguous photon-energy groups for fast multigroup radiation transport in line-dominated plasmas](../papers/arxiv-2611-15095/README.md) | arXiv preprint | [笔记](../daily/2026-11-14/notes/fujioka-2026-radiation-groups.md) |
+| 2026-11-14 | [Multi-dimensional kinetic modeling of laser-plasma instabilities by a Vlasov-Maxwell system](../papers/arxiv-2611-15248/README.md) | arXiv preprint | [笔记](../daily/2026-11-14/notes/chen-2026-plaw-em2d.md) |
 | 2026-11-12 | [Role of interchange and mixed modes in magnetic Rayleigh–Taylor instability dynamics: A 2D vs 3D study](../papers/10-1063-5-0335643/README.md) | Physics of Plasmas | [笔记](../daily/2026-11-12/notes/kalluri-2026-mrti-2d-3d.md) |
 | 2026-11-11 | [Multi-MA Fusion Accelerator Performance Insensitivity to Electrode Contamination](../papers/10-1103-hkpv-c3y7/README.md) | PRX Energy | [笔记](../daily/2026-11-11/notes/brown-2026-electrode-contamination.md) |
 | 2026-11-09 | [Single-crystal X-ray diffraction of BC8 carbon near terapascal pressures](../papers/arxiv-2611-06045/README.md) | arXiv preprint | [笔记](../daily/2026-11-09/notes/sun-2026-bc8-carbon-diffraction.md) |

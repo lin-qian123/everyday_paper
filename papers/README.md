@@ -1,14 +1,17 @@
 # 论文总索引
 
-- 当前入库论文：564 篇
+- 当前入库论文：567 篇
 - 索引更新时间：2026-11-14
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
 | 2026-11-14 | [High-Current Accelerator-Driven Neutron Sources (HiCANSs): Current Projects and Perspectives in Europe](./10-3390-qubs10040026/README.md) | Quantum Beam Science | [10.3390/qubs10040026](https://doi.org/10.3390/qubs10040026) |
 | 2026-11-14 | [A weak-form discrete physical-residual PINN method for solving multigroup neutron diffusion equations](./10-3389-fenrg-2026-2005399/README.md) | Frontiers in Energy Research | [10.3389/fenrg.2026.2005399](https://doi.org/10.3389/fenrg.2026.2005399) |
+| 2026-11-14 | [Nonthermal Particle Acceleration by Magnetic Pumping in Pulsating Plasmas](./10-1103-wyt1-24q7/README.md) | Physical Review Letters | [10.1103/wyt1-24q7](https://doi.org/10.1103/wyt1-24q7) |
+| 2026-11-14 | [Laser-Driven Electron Stripping from Nanoparticles in Plasma](./arxiv-2611-16505/README.md) | arXiv preprint | [10.48550/arXiv.2611.16505](https://doi.org/10.48550/arXiv.2611.16505) |
 | 2026-11-14 | [SFQED Cascade Saturation and Laser Depletion Dynamics In CP Rotating Laser Standing Waves](./arxiv-2611-15519/README.md) | arXiv preprint | [10.48550/arXiv.2611.15519](https://doi.org/10.48550/arXiv.2611.15519) |
 | 2026-11-14 | [Data-driven non-contiguous photon-energy groups for fast multigroup radiation transport in line-dominated plasmas](./arxiv-2611-15095/README.md) | arXiv preprint | [10.48550/arXiv.2611.15095](https://doi.org/10.48550/arXiv.2611.15095) |
+| 2026-11-14 | [Multi-dimensional kinetic modeling of laser-plasma instabilities by a Vlasov-Maxwell system](./arxiv-2611-15248/README.md) | arXiv preprint | [10.48550/arXiv.2611.15248](https://doi.org/10.48550/arXiv.2611.15248) |
 | 2026-11-14 | [Plasma simulations with adaptive mesh and algorithm refinement](./arxiv-2611-14820/README.md) | arXiv preprint | [10.48550/arXiv.2611.14820](https://doi.org/10.48550/arXiv.2611.14820) |
 | 2026-11-12 | [Role of interchange and mixed modes in magnetic Rayleigh–Taylor instability dynamics: A 2D vs 3D study](./10-1063-5-0335643/README.md) | Physics of Plasmas | [10.1063/5.0335643](https://doi.org/10.1063/5.0335643) |
 | 2026-11-12 | [Compact plasma-based extreme compression of relativistic electron beams](./arxiv-2611-13436/README.md) | arXiv preprint | [10.48550/arXiv.2611.13436](https://doi.org/10.48550/arXiv.2611.13436) |

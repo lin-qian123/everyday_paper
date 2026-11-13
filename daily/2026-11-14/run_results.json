@@ -3,28 +3,31 @@
   "created_at": "2026-11-14T01:40:50.765639+08:00",
   "status": "validation_passed_ready_for_publication",
   "processed_before": 559,
-  "processed_after": 564,
+  "processed_after": 567,
   "added_dois": [
     "10.3390/qubs10040026",
     "10.3389/fenrg.2026.2005399",
     "10.48550/arXiv.2611.15519",
     "10.48550/arXiv.2611.14820",
-    "10.48550/arXiv.2611.15095"
+    "10.48550/arXiv.2611.15095",
+    "10.1103/wyt1-24q7",
+    "10.48550/arXiv.2611.16505",
+    "10.48550/arXiv.2611.15248"
   ],
   "existing_upgraded_doi": "10.1088/1741-4326/aebc9d",
   "prior_completed_objects_unchanged": 558,
   "upgraded_existing_objects": 1,
   "publisher_vor_acquired": 2,
-  "author_preprints": 3,
+  "author_preprints": 5,
   "retry_before": 65,
-  "retry_after": 65,
+  "retry_after": 67,
   "prior_retry_objects_unchanged": true,
-  "pdfs": 5,
-  "pages": 100,
-  "pdf_bytes": 17770498,
-  "layout_bytes": 456160,
-  "visual_key_pages": 25,
-  "original_excerpts": 15,
+  "pdfs": 8,
+  "pages": 140,
+  "pdf_bytes": 26184599,
+  "layout_bytes": 640310,
+  "visual_key_pages": 53,
+  "original_excerpts": 24,
   "mineru": "0requests; known expired credential not retested; validatedlocalfallback",
   "scientific_boundaries": [
     "HiCANS is projectoverview, targetsourcesandshielding mostlydesign/MC; IPHIprototype100htestseparate",
@@ -32,8 +35,36 @@
     "QED1DseededpairCPstandingwave;~70percentabsorptionnotgammaefficiency",
     "PAMARweaklyionizedelectrostatic; CCPno reliable savings; sphericalselfconsistentCPU11percent",
     "Fujioka1DsteadySnFLD;100groups2.1percentmediantotalfluxerrorbut14.9percentspectralL2;58xtimingexcludesofflinedata",
-    "ADITYApublicationmetadataonly; oldauthorv1notreread; VORnotacquired"
+    "ADITYApublicationmetadataonly; oldauthorv1notreread; VORnotacquired",
+    "Arro 2D pair-plasma prescribed pulsation;29percent initial electron energy gain per cycle,not conversion efficiency;GME ultrarelativistic closure,not measured ion-electron universality",
+    "Mishi quasi-3D stripping is net missing nanoparticle electrons,not final trapped beam charge;multicycle PIC exceeds static model",
+    "PLAW2D2V+coldvz/Jz-only electromagnetic coupling,seededSRS;periodic-y recirculation invalidates open-system absolute instability or side-loss inference;Fig13time mismatch"
   ],
   "publication": "authorized origin/master; final commit and remote parity recorded in automation memory after commit",
-  "verification": "research/verification.json; 7pytestpassed3.20s; exact stagedblobs audited beforecommit"
+  "verification": "research/verification.json; 7pytestpassed3.20s; exact stagedblobs audited beforecommit",
+  "updated_at": "2026-11-14T07:09:55.601886+08:00",
+  "formal_record_author_manuscripts": 1,
+  "morning_continuation": {
+    "processed_before": 564,
+    "processed_after": 567,
+    "all_564_prior_objects_unchanged": true,
+    "added_dois": [
+      "10.1103/wyt1-24q7",
+      "10.48550/arXiv.2611.16505",
+      "10.48550/arXiv.2611.15248"
+    ],
+    "retry_before": 65,
+    "retry_after": 67,
+    "all_65_prior_retry_objects_unchanged": true,
+    "pdfs": 3,
+    "pages": 40,
+    "key_source_pages_reader_reviewed": 28,
+    "retained_original_crops": 9,
+    "new_publisher_vor_acquired": 0,
+    "actual_fulltext_versions": [
+      "2606.05286v2",
+      "2611.16505v1",
+      "2611.15248v1"
+    ]
+  }
 }

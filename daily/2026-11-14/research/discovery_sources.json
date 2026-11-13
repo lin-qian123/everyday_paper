@@ -429,5 +429,173 @@
     "No new retry: ADITYA same-work authorfulltext already present; original65queue objects unchanged",
     "Carbon2611.16075 metadata and PDF obtained but not fulltext-read or ingested; other arxiv leads metadata only",
     "No queuewide retry; MinerU expired credential not retested,0requests"
-  ]
+  ],
+  "updated_at": "2026-11-14T07:09:55.601886+08:00",
+  "morning_continuation": {
+    "retrieved_at": "2026-11-13T23:01:24.347794+00:00",
+    "online_publication_date_window": [
+      "2026-11-13",
+      "2026-11-14"
+    ],
+    "crossref_rows": 294,
+    "crossref_unique_dois": 263,
+    "arxiv_rows": 62,
+    "arxiv_unique_ids": 60,
+    "coverage_boundary": "8 theme queries relevance top40 (photonuclear14); 5 official newest arxiv blocks still Nov13; bounded non-exhaustive; targeted APS PRL/AIP issue and exact-title checks additionally found Nov11/12 formal records",
+    "sources": [
+      {
+        "kind": "crossref",
+        "query": "laser plasma wakefield",
+        "url": "https://api.crossref.org/works?query=laser+plasma+wakefield&filter=from-online-pub-date%3A2026-11-13%2Cuntil-online-pub-date%3A2026-11-14%2Ctype%3Ajournal-article&rows=40",
+        "params": {
+          "query": "laser plasma wakefield",
+          "filter": "from-online-pub-date:2026-11-13,until-online-pub-date:2026-11-14,type:journal-article",
+          "rows": 40
+        },
+        "status": 200,
+        "rows": 40
+      },
+      {
+        "kind": "crossref",
+        "query": "strong field QED radiation reaction",
+        "url": "https://api.crossref.org/works?query=strong+field+QED+radiation+reaction&filter=from-online-pub-date%3A2026-11-13%2Cuntil-online-pub-date%3A2026-11-14%2Ctype%3Ajournal-article&rows=40",
+        "params": {
+          "query": "strong field QED radiation reaction",
+          "filter": "from-online-pub-date:2026-11-13,until-online-pub-date:2026-11-14,type:journal-article",
+          "rows": 40
+        },
+        "status": 200,
+        "rows": 40
+      },
+      {
+        "kind": "crossref",
+        "query": "inertial confinement fusion",
+        "url": "https://api.crossref.org/works?query=inertial+confinement+fusion&filter=from-online-pub-date%3A2026-11-13%2Cuntil-online-pub-date%3A2026-11-14%2Ctype%3Ajournal-article&rows=40",
+        "params": {
+          "query": "inertial confinement fusion",
+          "filter": "from-online-pub-date:2026-11-13,until-online-pub-date:2026-11-14,type:journal-article",
+          "rows": 40
+        },
+        "status": 200,
+        "rows": 40
+      },
+      {
+        "kind": "crossref",
+        "query": "particle in cell Vlasov plasma",
+        "url": "https://api.crossref.org/works?query=particle+in+cell+Vlasov+plasma&filter=from-online-pub-date%3A2026-11-13%2Cuntil-online-pub-date%3A2026-11-14%2Ctype%3Ajournal-article&rows=40",
+        "params": {
+          "query": "particle in cell Vlasov plasma",
+          "filter": "from-online-pub-date:2026-11-13,until-online-pub-date:2026-11-14,type:journal-article",
+          "rows": 40
+        },
+        "status": 200,
+        "rows": 40
+      },
+      {
+        "kind": "crossref",
+        "query": "photonuclear neutron isotope",
+        "url": "https://api.crossref.org/works?query=photonuclear+neutron+isotope&filter=from-online-pub-date%3A2026-11-13%2Cuntil-online-pub-date%3A2026-11-14%2Ctype%3Ajournal-article&rows=40",
+        "params": {
+          "query": "photonuclear neutron isotope",
+          "filter": "from-online-pub-date:2026-11-13,until-online-pub-date:2026-11-14,type:journal-article",
+          "rows": 40
+        },
+        "status": 200,
+        "rows": 14
+      },
+      {
+        "kind": "crossref",
+        "query": "electron beam bremsstrahlung target",
+        "url": "https://api.crossref.org/works?query=electron+beam+bremsstrahlung+target&filter=from-online-pub-date%3A2026-11-13%2Cuntil-online-pub-date%3A2026-11-14%2Ctype%3Ajournal-article&rows=40",
+        "params": {
+          "query": "electron beam bremsstrahlung target",
+          "filter": "from-online-pub-date:2026-11-13,until-online-pub-date:2026-11-14,type:journal-article",
+          "rows": 40
+        },
+        "status": 200,
+        "rows": 40
+      },
+      {
+        "kind": "crossref",
+        "query": "machine learning plasma physics",
+        "url": "https://api.crossref.org/works?query=machine+learning+plasma+physics&filter=from-online-pub-date%3A2026-11-13%2Cuntil-online-pub-date%3A2026-11-14%2Ctype%3Ajournal-article&rows=40",
+        "params": {
+          "query": "machine learning plasma physics",
+          "filter": "from-online-pub-date:2026-11-13,until-online-pub-date:2026-11-14,type:journal-article",
+          "rows": 40
+        },
+        "status": 200,
+        "rows": 40
+      },
+      {
+        "kind": "crossref",
+        "query": "proton ion radiotherapy beam",
+        "params": {
+          "query": "proton ion radiotherapy beam",
+          "filter": "from-online-pub-date:2026-11-13,until-online-pub-date:2026-11-14,type:journal-article",
+          "rows": 40
+        },
+        "attempt": 0,
+        "error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query=proton+ion+radiotherapy+beam&filter=from-online-pub-date%3A2026-11-13%2Cuntil-online-pub-date%3A2026-11-14%2Ctype%3Ajournal-article&rows=40"
+      },
+      {
+        "kind": "crossref",
+        "query": "proton ion radiotherapy beam",
+        "url": "https://api.crossref.org/works?query=proton+ion+radiotherapy+beam&filter=from-online-pub-date%3A2026-11-13%2Cuntil-online-pub-date%3A2026-11-14%2Ctype%3Ajournal-article&rows=40",
+        "params": {
+          "query": "proton ion radiotherapy beam",
+          "filter": "from-online-pub-date:2026-11-13,until-online-pub-date:2026-11-14,type:journal-article",
+          "rows": 40
+        },
+        "status": 200,
+        "rows": 40
+      },
+      {
+        "kind": "arxiv",
+        "category": "physics.plasm-ph",
+        "url": "https://arxiv.org/list/physics.plasm-ph/recent?show=2000",
+        "status": 200,
+        "newest_header": "Fri, 13 Nov 2026 (showing 18 of 18 entries )",
+        "rows": 18
+      },
+      {
+        "kind": "arxiv",
+        "category": "physics.acc-ph",
+        "url": "https://arxiv.org/list/physics.acc-ph/recent?show=2000",
+        "status": 200,
+        "newest_header": "Fri, 13 Nov 2026 (showing 3 of 3 entries )",
+        "rows": 3
+      },
+      {
+        "kind": "arxiv",
+        "category": "physics.comp-ph",
+        "url": "https://arxiv.org/list/physics.comp-ph/recent?show=2000",
+        "status": 200,
+        "newest_header": "Fri, 13 Nov 2026 (showing 25 of 25 entries )",
+        "rows": 25
+      },
+      {
+        "kind": "arxiv",
+        "category": "nucl-ex",
+        "url": "https://arxiv.org/list/nucl-ex/recent?show=2000",
+        "status": 200,
+        "newest_header": "Fri, 13 Nov 2026 (showing 9 of 9 entries )",
+        "rows": 9
+      },
+      {
+        "kind": "arxiv",
+        "category": "physics.med-ph",
+        "url": "https://arxiv.org/list/physics.med-ph/recent?show=2000",
+        "status": 200,
+        "newest_header": "Fri, 13 Nov 2026 (showing 7 of 7 entries )",
+        "rows": 7
+      }
+    ],
+    "targeted_primary_sources": [
+      "https://journals.aps.org/prl/recent?page=1&toc_section=",
+      "https://journals.aps.org/prl/abstract/10.1103/wyt1-24q7",
+      "https://pubs.aip.org/aip/pop/issue/33/11"
+    ],
+    "aps_version_notice": "official APS abstract page via web says publisher VOR subscription required; CHORUS AM available 2027-11-12; formal online Nov12, accepted Oct23"
+  }
 }

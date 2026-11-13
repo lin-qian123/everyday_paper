@@ -8823,5 +8823,105 @@
     "note_path": "daily/2026-11-14/notes/fujioka-2026-radiation-groups.md",
     "processed_date": "2026-11-14",
     "normalized_title": "data driven non contiguous photon energy groups for fast multigroup radiation transport in line dominated plasmas"
+  },
+  {
+    "title": "Nonthermal Particle Acceleration by Magnetic Pumping in Pulsating Plasmas",
+    "doi": "10.1103/wyt1-24q7",
+    "authors": [
+      "Giuseppe Arrò",
+      "Vladimir Zhdankin",
+      "Fabio Bacchini"
+    ],
+    "journal": "Physical Review Letters",
+    "publication_date": "2026-11-12",
+    "publication_date_type": "publisher online publication; author manuscript actual fulltext",
+    "publication_status": "published; read official arXiv v2 author manuscript, publisher VOR not acquired",
+    "source_url": "https://doi.org/10.1103/wyt1-24q7",
+    "arxiv_id": "2606.05286",
+    "arxiv_version": "2606.05286v2",
+    "submission_timestamp_utc": "2026-06-03T18:00:03Z",
+    "fulltext_version": "official arXiv v2 author manuscript",
+    "pdf_url": "https://arxiv.org/pdf/2606.05286v2",
+    "categories": [
+      "pic-and-plasma-simulation",
+      "hedp-icf-laboratory-astrophysics",
+      "general-plasma-and-methods"
+    ],
+    "pdf_path": "daily/2026-11-14/pdfs/arro-2026-magnetic-pumping.pdf",
+    "pdf_sha256": "698e4829cb3b34e14f2424ffe30c25757b4f0d928745133e2314f715aa695e4e",
+    "note_path": "daily/2026-11-14/notes/arro-2026-magnetic-pumping.md",
+    "processed_date": "2026-11-14",
+    "normalized_title": "nonthermal particle acceleration by magnetic pumping in pulsating plasmas",
+    "revision_timestamp_utc": "2026-10-26T19:31:09Z",
+    "acceptance_date": "2026-10-23"
+  },
+  {
+    "title": "Laser-Driven Electron Stripping from Nanoparticles in Plasma",
+    "doi": "10.48550/arXiv.2611.16505",
+    "authors": [
+      "Alfred Mishi",
+      "Marcel Lamač",
+      "Dominik Čáp",
+      "Orsolya Morvai",
+      "Vojtěch Janota",
+      "Romain Caye",
+      "Antonia Morabito",
+      "Jaroslav Nejdl",
+      "Jan Psikal",
+      "Uddhab Chaulagain"
+    ],
+    "journal": "arXiv preprint",
+    "publication_date": "2026-11-12",
+    "publication_date_type": "arxiv first submission; announcement separate",
+    "publication_status": "author preprint; bounded Crossref title top3 did not verify same-work journal version",
+    "source_url": "https://arxiv.org/abs/2611.16505v1",
+    "arxiv_id": "2611.16505",
+    "arxiv_version": "2611.16505v1",
+    "submission_timestamp_utc": "2026-11-12T09:06:27Z",
+    "fulltext_version": "official arXiv v1 author manuscript",
+    "pdf_url": "https://arxiv.org/pdf/2611.16505v1",
+    "categories": [
+      "laser-plasma-acceleration",
+      "pic-and-plasma-simulation"
+    ],
+    "pdf_path": "daily/2026-11-14/pdfs/mishi-2026-nanoparticle-stripping.pdf",
+    "pdf_sha256": "1340ae90ba929148395e20ec8a4a14b2eb7ee53c0dfb1e710e5f6f283a9e296f",
+    "note_path": "daily/2026-11-14/notes/mishi-2026-nanoparticle-stripping.md",
+    "processed_date": "2026-11-14",
+    "normalized_title": "laser driven electron stripping from nanoparticles in plasma",
+    "announcement_date": "2026-11-13"
+  },
+  {
+    "title": "Multi-dimensional kinetic modeling of laser-plasma instabilities by a Vlasov-Maxwell system",
+    "doi": "10.48550/arXiv.2611.15248",
+    "authors": [
+      "Y. Chen",
+      "D. J. Liu",
+      "X. D. Cao",
+      "C. Y. Zheng",
+      "Z. J. Liu",
+      "L. H. Cao",
+      "C. Z. Xiao"
+    ],
+    "journal": "arXiv preprint",
+    "publication_date": "2026-11-11",
+    "publication_date_type": "arxiv first submission; announcement separate",
+    "publication_status": "author preprint; bounded Crossref title top3 did not verify same-work journal version",
+    "source_url": "https://arxiv.org/abs/2611.15248v1",
+    "arxiv_id": "2611.15248",
+    "arxiv_version": "2611.15248v1",
+    "submission_timestamp_utc": "2026-11-11T09:38:38Z",
+    "fulltext_version": "official arXiv v1 author manuscript",
+    "pdf_url": "https://arxiv.org/pdf/2611.15248v1",
+    "categories": [
+      "pic-and-plasma-simulation",
+      "hedp-icf-laboratory-astrophysics"
+    ],
+    "pdf_path": "daily/2026-11-14/pdfs/chen-2026-plaw-em2d.pdf",
+    "pdf_sha256": "83e99f897cb689d6cb388c9b1ece130c874fcaeffdcbb3c93763372edadb35c4",
+    "note_path": "daily/2026-11-14/notes/chen-2026-plaw-em2d.md",
+    "processed_date": "2026-11-14",
+    "normalized_title": "multi dimensional kinetic modeling of laser plasma instabilities by a vlasov maxwell system",
+    "announcement_date": "2026-11-13"
   }
 ]

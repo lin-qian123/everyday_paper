@@ -103,5 +103,80 @@
         "similarity": 0.462
       }
     ]
+  },
+  {
+    "run_phase": "morning_increment_2026-11-14",
+    "id": "10.1103/wyt1-24q7",
+    "arxiv_id": "2606.05286",
+    "title": "Nonthermal Particle Acceleration by Magnetic Pumping in Pulsating Plasmas",
+    "identifier_and_normalized_title_unique": true,
+    "physical_scenario_decision": "2D high-beta pair-plasma pulsating-box PIC and GME; not prior magnetic reconnection or laser depletion scenarios",
+    "closest_ledger_titles": [
+      {
+        "doi": "10.1103/yw76-d6kh",
+        "title": "Plasma Flow Generation and Particle Acceleration from Expanding Magnetic Bubbles",
+        "similarity": 0.523
+      },
+      {
+        "doi": "10.1017/s0022377826102517",
+        "title": "A Neural Operator Closure for Landau Damping in Electrostatic Plasma",
+        "similarity": 0.511
+      },
+      {
+        "doi": "10.1017/S0022377826101342",
+        "title": "Relativistically strong electromagnetic waves in magnetised plasmas",
+        "similarity": 0.5
+      }
+    ]
+  },
+  {
+    "run_phase": "morning_increment_2026-11-14",
+    "id": "10.48550/arXiv.2611.16505",
+    "arxiv_id": "2611.16505",
+    "title": "Laser-Driven Electron Stripping from Nanoparticles in Plasma",
+    "identifier_and_normalized_title_unique": true,
+    "physical_scenario_decision": "single neutral nanoparticle quasistatic stripping and quasi-3D Smilei; not final LWFA beam charge or prior injection experiment",
+    "closest_ledger_titles": [
+      {
+        "doi": "10.1017/S0022377826101858",
+        "title": "Plasma wakes driven by Compton scattering: nonlinear regime and particle acceleration",
+        "similarity": 0.556
+      },
+      {
+        "doi": "10.48550/arXiv.2605.18969",
+        "title": "Laser-driven Ion and Neutron Sources from Medium Repetition Ultrashort PW Laser",
+        "similarity": 0.532
+      },
+      {
+        "doi": "10.1103/PhysRevLett.123.025001",
+        "title": "Laser Amplification in Strongly Magnetized Plasma",
+        "similarity": 0.532
+      }
+    ]
+  },
+  {
+    "run_phase": "morning_increment_2026-11-14",
+    "id": "10.48550/arXiv.2611.15248",
+    "arxiv_id": "2611.15248",
+    "title": "Multi-dimensional kinetic modeling of laser-plasma instabilities by a Vlasov-Maxwell system",
+    "identifier_and_normalized_title_unique": true,
+    "physical_scenario_decision": "2D2V hybrid electrostatic-TEz Vlasov SRS backscatter/side scatter; not PAMAR weakly ionized adaptive PIC or photon transport",
+    "closest_ledger_titles": [
+      {
+        "doi": "10.48550/arXiv.2607.24234",
+        "title": "Quasistatic modeling of ultrarelativistic beam-plasma instabilities",
+        "similarity": 0.57
+      },
+      {
+        "doi": "10.48550/arXiv.2609.17209",
+        "title": "Nonlinear kinetic closures for linear instabilities",
+        "similarity": 0.479
+      },
+      {
+        "doi": "10.48550/arXiv.2611.00108",
+        "title": "Inverse modelling of a laser-plasma accelerator",
+        "similarity": 0.478
+      }
+    ]
   }
 ]
