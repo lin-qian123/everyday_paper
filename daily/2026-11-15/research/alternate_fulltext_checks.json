@@ -1,0 +1,32 @@
+[
+  {
+    "source": "official HAL title exact top5",
+    "title": "Excimer lasers as drivers of many stage laser plasma accelerators",
+    "url": "https://api.archives-ouvertes.fr/search/?q=title_t%3A%22Excimer+lasers+as+drivers+of+many+stage+laser+plasma+accelerators%22&rows=5&fl=title_s%2CdoiId_s%2CarxivId_s%2CfileMain_s%2Curi_s",
+    "status": 200,
+    "response": {
+      "response": {
+        "numFound": 0,
+        "start": 0,
+        "maxScore": 0.0,
+        "numFoundExact": true,
+        "docs": []
+      }
+    }
+  },
+  {
+    "source": "official HAL title exact top5",
+    "title": "Polarized lepton source via target-normal sheath fields",
+    "url": "https://api.archives-ouvertes.fr/search/?q=title_t%3A%22Polarized+lepton+source+via+target-normal+sheath+fields%22&rows=5&fl=title_s%2CdoiId_s%2CarxivId_s%2CfileMain_s%2Curi_s",
+    "status": 200,
+    "response": {
+      "response": {
+        "numFound": 0,
+        "start": 0,
+        "maxScore": 0.0,
+        "numFoundExact": true,
+        "docs": []
+      }
+    }
+  }
+]

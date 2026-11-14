@@ -1,0 +1,44 @@
+{
+  "run_date": "2026-11-15",
+  "created_at": "2026-11-15T07:12:32.590933+08:00",
+  "status": "validation_passed_ready_for_publication",
+  "processed_before": 567,
+  "processed_after": 570,
+  "added_dois": [
+    "10.1103/ttzy-t1wy",
+    "10.1103/j2m6-v12v",
+    "10.48550/arXiv.2611.14745"
+  ],
+  "all_567_prior_completed_objects_unchanged": true,
+  "retry_before": 67,
+  "retry_after": 69,
+  "all_67_prior_retry_objects_unchanged": true,
+  "new_retry_dois": [
+    "10.1103/78bn-rj6r",
+    "10.1103/qzlv-8y21"
+  ],
+  "publisher_vor_acquired": 0,
+  "published_formal_record_author_manuscripts": 1,
+  "accepted_record_earlier_author_manuscripts": 1,
+  "author_preprints": 1,
+  "pdfs": 3,
+  "pages": 33,
+  "pdf_bytes": 5280087,
+  "layout_bytes": 163328,
+  "reader_key_pages_visual_checked": 27,
+  "root_retained_excerpts": 9,
+  "root_additional_carbon_table_pages": [
+    10,
+    14,
+    15
+  ],
+  "mineru": "0 requests; known historical credential expiration not retested; validated local text/render fallback",
+  "scientific_boundaries": [
+    "carbon is same prior experimental dataset reanalysis, relative reference normalization and full-energy-peak corrections;6 main/supplement table discrepancies; total channel sums have energy-dependent scope",
+    "Tomin is May arxiv v3 corresponding to November accepted DOI;1.6fs model estimate, not measured;21MeV selfwake and15-25percent upstream compression perturbation matter",
+    "sapphire alpha prototypes measured; DT neutron spectrum and2percent Gaussian resolution are model assumptions; no neutron test or stable bias plateau"
+  ],
+  "publication": "authorized origin/master; commit and fresh remote parity recorded in automation memory after commit",
+  "verification": "research/verification.json; 7pytest passed4.15s; exact staged and committed blobs audited separately",
+  "validated_at": "2026-11-15T07:16:24.497982+08:00"
+}

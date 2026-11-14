@@ -1,0 +1,167 @@
+[
+  {
+    "query": "Development of Sapphire-Based Solid-State Neutron Detectors for Fusion Environments",
+    "status": 200,
+    "results": [
+      {
+        "DOI": "10.70675/92a5f85az9df7z4cefzaa1fz102a308503f9",
+        "title": [
+          "Advanced solid state neutron detectors for fast neutron measurement and monitoring in fusion and fission environments"
+        ],
+        "author": [
+          {
+            "given": "Quentin",
+            "family": "Potiron",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/035xkbk20",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Aix-Marseille"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": null,
+        "published": null,
+        "URL": "https://doi.org/10.70675/92a5f85az9df7z4cefzaa1fz102a308503f9"
+      },
+      {
+        "DOI": "10.2172/4817202",
+        "title": [
+          "Solid state neutron detectors"
+        ],
+        "author": [
+          {
+            "name": "Univ. of California, Davis, CA (United States)",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "James",
+            "family": "Murphy",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Univ. of California, Davis, CA (United States)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "name": "US Atomic Energy Commission (AEC)",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": null,
+        "published": {
+          "date-parts": [
+            [
+              1961,
+              5,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.2172/4817202"
+      },
+      {
+        "DOI": "10.1016/0168-9002(96)00487-1",
+        "title": [
+          "Solid state neutron detectors"
+        ],
+        "author": [
+          {
+            "given": "C",
+            "family": "Petrillo",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "F",
+            "family": "Sacchetti",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "O",
+            "family": "Toker",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "N.J",
+            "family": "Rhodes",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1996,
+              8
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/0168-9002(96)00487-1"
+      }
+    ]
+  }
+]

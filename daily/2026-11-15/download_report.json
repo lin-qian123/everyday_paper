@@ -1,0 +1,103 @@
+[
+  {
+    "key": "excimer",
+    "doi": "10.1103/78bn-rj6r",
+    "url": "https://harvest.aps.org/v2/journals/articles/10.1103/78bn-rj6r/fulltext",
+    "status": 404,
+    "content_type": "application/json",
+    "bytes": 52,
+    "sha256": "611a3d0c04f47b3b830e82e54d89ed73801d1d3b57a3184a7aa36e0cf162ac65",
+    "pdf_magic": false,
+    "response_excerpt": "{\"errors\":[{\"title\":\"10.1103/78bn-rj6r not found\"}]}"
+  },
+  {
+    "key": "deflector",
+    "doi": "10.1103/ttzy-t1wy",
+    "url": "https://harvest.aps.org/v2/journals/articles/10.1103/ttzy-t1wy/fulltext",
+    "status": 404,
+    "content_type": "application/json",
+    "bytes": 52,
+    "sha256": "3777339e5961da20de9a3efd05a437710214f6820443c7cc8a2ba2170c147faa",
+    "pdf_magic": false,
+    "response_excerpt": "{\"errors\":[{\"title\":\"10.1103/ttzy-t1wy not found\"}]}"
+  },
+  {
+    "key": "carbon",
+    "doi": "10.1103/j2m6-v12v",
+    "url": "https://harvest.aps.org/v2/journals/articles/10.1103/j2m6-v12v/fulltext",
+    "status": 401,
+    "content_type": "application/json",
+    "bytes": 57,
+    "sha256": "c6384648cb69e8ae6e4c7821cb40919f202b5b39589970bc83806b55ddd918e5",
+    "pdf_magic": false,
+    "response_excerpt": "{\"errors\":[{\"title\":\"10.1103/j2m6-v12v not authorized\"}]}"
+  },
+  {
+    "key": "lepton",
+    "doi": "10.1103/qzlv-8y21",
+    "url": "https://harvest.aps.org/v2/journals/articles/10.1103/qzlv-8y21/fulltext",
+    "status": 401,
+    "content_type": "application/json",
+    "bytes": 57,
+    "sha256": "631dee7173aa73ce304b89cda4415d62fd043794a12551e517bc8448f41780b8",
+    "pdf_magic": false,
+    "response_excerpt": "{\"errors\":[{\"title\":\"10.1103/qzlv-8y21 not authorized\"}]}"
+  },
+  {
+    "key": "excimer",
+    "url": "https://journals.aps.org/prresearch/pdf/10.1103/78bn-rj6r",
+    "status": 403,
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 5556,
+    "sha256": "469d19cf8c52a05b852028262658a0acfe333283d377085033904a2021dd2b5e",
+    "pdf_magic": false
+  },
+  {
+    "key": "deflector",
+    "url": "https://journals.aps.org/prapplied/pdf/10.1103/ttzy-t1wy",
+    "status": 403,
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 5553,
+    "sha256": "2680e9a5f5d2271958481e698fb446ec3e8cc248c7da771ee61a8fdf44910581",
+    "pdf_magic": false
+  },
+  {
+    "key": "lepton",
+    "url": "https://journals.aps.org/prapplied/pdf/10.1103/qzlv-8y21",
+    "status": 403,
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 5553,
+    "sha256": "0f2259a326d5796ce00bf9adea0cd59ebf940ca85ea72d6776b334b2f16b3e5d",
+    "pdf_magic": false
+  },
+  {
+    "key": "carbon",
+    "url": "https://arxiv.org/pdf/2611.16075v1",
+    "status": 200,
+    "content_type": "application/pdf",
+    "bytes": 2170328,
+    "sha256": "d75dcbe134e3f9f41ae107918a2c0d0559d00160e61c7b464ff0702afb1affe0",
+    "pdf_magic": true,
+    "pdf_path": "daily/2026-11-15/pdfs/carbon-2026.pdf"
+  },
+  {
+    "key": "deflector",
+    "url": "https://arxiv.org/pdf/2605.13752v3",
+    "status": 200,
+    "content_type": "application/pdf",
+    "bytes": 1905831,
+    "sha256": "b7addbca0d36fe574ba7e54100277c955fecc4b62d881f3f214b540533393d3f",
+    "pdf_magic": true,
+    "pdf_path": "daily/2026-11-15/pdfs/deflector-2026.pdf"
+  },
+  {
+    "key": "sapphire",
+    "url": "https://arxiv.org/pdf/2611.14745v1",
+    "status": 200,
+    "content_type": "application/pdf",
+    "bytes": 1203928,
+    "sha256": "c1767b6effd041dba366f8455c29e1096463e0587a5f644d6d3b1dff53a58e07",
+    "pdf_magic": true,
+    "pdf_path": "daily/2026-11-15/pdfs/sapphire-2026.pdf"
+  }
+]

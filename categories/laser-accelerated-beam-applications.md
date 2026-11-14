@@ -2,11 +2,13 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：150 篇
-- 索引更新时间：2026-11-14
+- 当前收录：152 篇
+- 索引更新时间：2026-11-15
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-15 | [Development of Sapphire-Based Solid-State Neutron Detectors for Fusion Environments](../papers/arxiv-2611-14745/README.md) | arXiv preprint | [笔记](../daily/2026-11-15/notes/kushoro-2026-sapphire-detectors.md) |
+| 2026-11-15 | [Exclusive cross section measurements of 12C(n,pn) and 12C(n,dn) reactions](../papers/10-1103-j2m6-v12v/README.md) | Physical Review C | [笔记](../daily/2026-11-15/notes/wantz-2026-carbon-reactions.md) |
 | 2026-11-14 | [High-Current Accelerator-Driven Neutron Sources (HiCANSs): Current Projects and Perspectives in Europe](../papers/10-3390-qubs10040026/README.md) | Quantum Beam Science | [笔记](../daily/2026-11-14/notes/gutberlet-2026-hicans.md) |
 | 2026-11-14 | [A weak-form discrete physical-residual PINN method for solving multigroup neutron diffusion equations](../papers/10-3389-fenrg-2026-2005399/README.md) | Frontiers in Energy Research | [笔记](../daily/2026-11-14/notes/hu-2026-neutron-diffusion-pinn.md) |
 | 2026-11-12 | [Measurement of the 169Tm(γ,n)168Tm Cross Section and Implications for γ-Process Calculations](../papers/arxiv-2611-12994/README.md) | arXiv preprint | [笔记](../daily/2026-11-12/notes/wang-2026-thulium-photoneutron.md) |

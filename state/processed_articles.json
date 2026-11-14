@@ -8923,5 +8923,110 @@
     "processed_date": "2026-11-14",
     "normalized_title": "multi dimensional kinetic modeling of laser plasma instabilities by a vlasov maxwell system",
     "announcement_date": "2026-11-13"
+  },
+  {
+    "title": "Beam-driven transverse deflecting structure for femtosecond electron-beam diagnostics",
+    "doi": "10.1103/ttzy-t1wy",
+    "authors": [
+      "S. Tomin",
+      "D. Bazyl",
+      "W. Decking",
+      "I. Zagorodnov"
+    ],
+    "journal": "Physical Review Applied (accepted 2026-11-13; May author v3 read)",
+    "publication_date": null,
+    "publication_date_type": "VOR publication not verified; acceptance_date records APS13Nov; Crossref online field is acceptance here",
+    "acceptance_date": "2026-11-13",
+    "publication_status": "peer-reviewed accepted; actual fulltext is May arXiv v3, accepted manuscript and VOR not acquired",
+    "source_url": "https://journals.aps.org/prapplied/accepted/10.1103/ttzy-t1wy",
+    "arxiv_id": "2605.13752",
+    "arxiv_version": "2605.13752v3",
+    "submission_timestamp_utc": "2026-05-13T16:33:08Z",
+    "revision_timestamp_utc": "2026-05-27T14:10:31Z",
+    "pdf_url": "https://arxiv.org/pdf/2605.13752v3",
+    "fulltext_version": "official arXiv v3 author manuscript; not November accepted text or VOR",
+    "categories": [
+      "experimental-platforms-diagnostics",
+      "laser-plasma-acceleration"
+    ],
+    "pdf_path": "daily/2026-11-15/pdfs/deflector-2026.pdf",
+    "note_path": "daily/2026-11-15/notes/tomin-2026-beam-driven-deflector.md",
+    "normalized_title": "beam driven transverse deflecting structure for femtosecond electron beam diagnostics",
+    "processed_date": "2026-11-15",
+    "pdf_sha256": "b7addbca0d36fe574ba7e54100277c955fecc4b62d881f3f214b540533393d3f"
+  },
+  {
+    "title": "Exclusive cross section measurements of 12C(n,pn) and 12C(n,dn) reactions",
+    "doi": "10.1103/j2m6-v12v",
+    "authors": [
+      "A. Wantz",
+      "A. N. Kuchera",
+      "W. F. Rogers",
+      "T. Baumann",
+      "C. Boothby",
+      "M. Devlin",
+      "N. Frank",
+      "P. Gueye",
+      "K. J. Kelly",
+      "S. A. Kuvin",
+      "A. LaRochelle",
+      "T. Redpath",
+      "T. Tran Nguyen",
+      "J. R. Winkelbauer"
+    ],
+    "journal": "Physical Review C",
+    "publication_date": "2026-09-17",
+    "publication_date_type": "publisher publication; newly posted November author fulltext ingested retrospectively",
+    "publication_status": "published; read official arXiv v1 author manuscript with embedded supplement, publisher VOR not acquired",
+    "source_url": "https://doi.org/10.1103/j2m6-v12v",
+    "arxiv_id": "2611.16075",
+    "arxiv_version": "2611.16075v1",
+    "submission_timestamp_utc": "2026-11-11T22:33:17Z",
+    "announcement_date": "2026-11-13",
+    "pdf_url": "https://arxiv.org/pdf/2611.16075v1",
+    "fulltext_version": "official arXiv v1 author manuscript, main10p plus embedded supplement5p",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "experimental-platforms-diagnostics"
+    ],
+    "pdf_path": "daily/2026-11-15/pdfs/carbon-2026.pdf",
+    "note_path": "daily/2026-11-15/notes/wantz-2026-carbon-reactions.md",
+    "normalized_title": "exclusive cross section measurements of 12c n pn and 12c n dn reactions",
+    "processed_date": "2026-11-15",
+    "pdf_sha256": "d75dcbe134e3f9f41ae107918a2c0d0559d00160e61c7b464ff0702afb1affe0"
+  },
+  {
+    "title": "Development of Sapphire-Based Solid-State Neutron Detectors for Fusion Environments",
+    "doi": "10.48550/arXiv.2611.14745",
+    "authors": [
+      "Matteo Hakeem Kushoro",
+      "Stephanie Cancelli",
+      "Gabriele Croci",
+      "Benno Margesin",
+      "Federica Mantegazzini",
+      "Enrico Perelli Cippo"
+    ],
+    "journal": "arXiv preprint",
+    "publication_date": "2026-11-10",
+    "publication_date_type": "arxiv first submission; announcement separately recorded",
+    "publication_status": "author preprint; bounded Crossref exact-title top3 did not verify same-work journal version",
+    "source_url": "https://arxiv.org/abs/2611.14745v1",
+    "arxiv_id": "2611.14745",
+    "arxiv_version": "2611.14745v1",
+    "submission_timestamp_utc": "2026-11-10T21:10:15Z",
+    "announcement_date": "2026-11-13",
+    "pdf_url": "https://arxiv.org/pdf/2611.14745v1",
+    "fulltext_version": "official arXiv v1 author manuscript",
+    "metadata_corrections": "PDF Al2O3 versus arXiv abstract Al2O2; PDF surname Kushoro with superscript a,b versus arXiv metadata Kushoroa",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "experimental-platforms-diagnostics",
+      "magnetic-fusion-and-alpha-particles"
+    ],
+    "pdf_path": "daily/2026-11-15/pdfs/sapphire-2026.pdf",
+    "note_path": "daily/2026-11-15/notes/kushoro-2026-sapphire-detectors.md",
+    "normalized_title": "development of sapphire based solid state neutron detectors for fusion environments",
+    "processed_date": "2026-11-15",
+    "pdf_sha256": "c1767b6effd041dba366f8455c29e1096463e0587a5f644d6d3b1dff53a58e07"
   }
 ]

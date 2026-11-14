@@ -1557,5 +1557,58 @@
     "last_failure_class": "http_403_publisher_pdf",
     "stderr": "Official Crossref PDF URL: direct HTTP403 text/html 93bytes, environment proxy HTTP403 text/html5696bytes, no PDF magic. Official article route direct HTTP403 text/html1207bytes. Bounded exact-title web and HAL official API(title exact, top5) found no verified alternate; HAL HTTP200 numFound0. No abstract-only note.",
     "evidence_path": "daily/2026-11-14/download_report.json"
+  },
+  {
+    "doi": "10.1103/78bn-rj6r",
+    "title": "Excimer lasers as drivers of many stage laser plasma accelerators",
+    "authors": [
+      "D. F. Gordon",
+      "B. Hafizi",
+      "M. Wolford",
+      "Tz. Petrova",
+      "D. Younis",
+      "J. Bowen"
+    ],
+    "journal": "Physical Review Research",
+    "publication_date": null,
+    "publication_date_type": "APS acceptance only, not VOR publication",
+    "acceptance_date": "2026-11-13",
+    "source_url": "https://journals.aps.org/prresearch/accepted/10.1103/78bn-rj6r",
+    "run_date": "2026-11-15",
+    "status": "retry_fulltext_required_no_abstract_only_note",
+    "recorded_at": "2026-11-15T07:11:39.707515+08:00",
+    "retry_count": 0,
+    "failure_count": 1,
+    "source_family": "aps",
+    "last_failure_class": "publisher_pdf_403_harvest_404",
+    "stderr": "Official journal PDF HTTP403 text/html5556bytes; official harvest HTTP404 JSON52bytes. APS marks accepted13Nov, not VOR. Bounded exact-title web search did not verify alternate fulltext; official HAL exact title top5 HTTP200 numFound0. No abstract-only note.",
+    "evidence_path": "daily/2026-11-15/download_report.json"
+  },
+  {
+    "doi": "10.1103/qzlv-8y21",
+    "title": "Polarized lepton source via target-normal sheath fields",
+    "authors": [
+      "Xinyu Liu",
+      "Yue Cao",
+      "Siman Liu",
+      "Jingyi Wang",
+      "Lixiang Hu",
+      "Ke Liu",
+      "Tongpu Yu"
+    ],
+    "journal": "Physical Review Applied",
+    "publication_date": "2026-11-09",
+    "publication_date_type": "APS published VOR metadata; actual fulltext not acquired",
+    "acceptance_date": "2026-09-09",
+    "source_url": "https://journals.aps.org/prapplied/abstract/10.1103/qzlv-8y21",
+    "run_date": "2026-11-15",
+    "status": "retry_fulltext_required_no_abstract_only_note",
+    "recorded_at": "2026-11-15T07:11:39.707515+08:00",
+    "retry_count": 0,
+    "failure_count": 1,
+    "source_family": "aps",
+    "last_failure_class": "publisher_pdf_403_harvest_401",
+    "stderr": "Official journal PDF HTTP403 text/html5553bytes; official harvest HTTP401 JSON57bytes. APS VOR published09Nov. Bounded exact-title web search did not verify alternate fulltext; official HAL exact title top5 HTTP200 numFound0. No abstract-only note.",
+    "evidence_path": "daily/2026-11-15/download_report.json"
   }
 ]

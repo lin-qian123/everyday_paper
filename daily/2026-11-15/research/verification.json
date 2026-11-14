@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-11-15T07:16:27.053807+08:00",
+  "processed_records": 570,
+  "nonnull_dois": 566,
+  "normalized_titles_unique": true,
+  "qualified_arxiv_aliases_unique": 379,
+  "prior_completed_objects_unchanged": 567,
+  "prior_retry_objects_unchanged": 67,
+  "retry_records": 69,
+  "legacy_completed_retry_overlap_unchanged": [
+    "10.1016/j.jcp.2026.114707"
+  ],
+  "legacy_overlap_boundary": "existing JCP114707 completed record has pdf_path null and remains in fulltext retry; old note not reread or certified this run; no new overlap",
+  "new_pdf_sha_ledger_download_validation_binding_passed": 3,
+  "pdf_pages": 33,
+  "decoded_figure_pixel_matches": 9,
+  "changed_scope_paths_excluding_preexisting_agents": 45,
+  "markdown_files": 22,
+  "local_pandoc_links_checked": 3512,
+  "json_jsonl_files": 14,
+  "tests": "python -m pytest -q:7passed4.15s",
+  "git_diff_check": true,
+  "preexisting_agents_sha256_unchanged": "34e18320c8191458fa513b47c4d55f6fc9c63da79e6b02f22d201ce5dfbb8e8d",
+  "pdf_layout_assets_local_gitignored": true,
+  "publication": "pre-commit verified; staged+commit SHA audit and fresh remote parity recorded in automation memory"
+}

@@ -1,0 +1,32 @@
+{
+  "processed_before": 567,
+  "processed_after": 570,
+  "all_prior_completed_objects_unchanged": true,
+  "new_items": [
+    {
+      "doi": "10.1103/ttzy-t1wy",
+      "normalized_title": "beam driven transverse deflecting structure for femtosecond electron beam diagnostics",
+      "doi_matches": [],
+      "title_matches": [],
+      "arxiv_alias_matches": [],
+      "physical_scenario": "distinct from all prior records; compared actual authors, setup and abstract; same-work accepted+arxiv collapsed to one record"
+    },
+    {
+      "doi": "10.1103/j2m6-v12v",
+      "normalized_title": "exclusive cross section measurements of 12c n pn and 12c n dn reactions",
+      "doi_matches": [],
+      "title_matches": [],
+      "arxiv_alias_matches": [],
+      "physical_scenario": "distinct from all prior records; compared actual authors, setup and abstract; same-work accepted+arxiv collapsed to one record"
+    },
+    {
+      "doi": "10.48550/arXiv.2611.14745",
+      "normalized_title": "development of sapphire based solid state neutron detectors for fusion environments",
+      "doi_matches": [],
+      "title_matches": [],
+      "arxiv_alias_matches": [],
+      "physical_scenario": "distinct from all prior records; compared actual authors, setup and abstract; same-work accepted+arxiv collapsed to one record"
+    }
+  ],
+  "nearby_work_boundary": "Tomin May author v3 and November accepted DOI are same work; Bazyl PRAB g8fg-s5pd is a distinct design-criteria article, not used as substitute text; carbon reuses Ref4 experiment but is distinct new channel analysis, not independent experiment"
+}

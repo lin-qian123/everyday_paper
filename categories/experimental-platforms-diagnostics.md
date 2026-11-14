@@ -2,11 +2,14 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：198 篇
-- 索引更新时间：2026-11-14
+- 当前收录：201 篇
+- 索引更新时间：2026-11-15
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-15 | [Development of Sapphire-Based Solid-State Neutron Detectors for Fusion Environments](../papers/arxiv-2611-14745/README.md) | arXiv preprint | [笔记](../daily/2026-11-15/notes/kushoro-2026-sapphire-detectors.md) |
+| 2026-11-15 | [Exclusive cross section measurements of 12C(n,pn) and 12C(n,dn) reactions](../papers/10-1103-j2m6-v12v/README.md) | Physical Review C | [笔记](../daily/2026-11-15/notes/wantz-2026-carbon-reactions.md) |
+| 2026-11-15 | [Beam-driven transverse deflecting structure for femtosecond electron-beam diagnostics](../papers/10-1103-ttzy-t1wy/README.md) | Physical Review Applied (accepted 2026-11-13; May author v3 read) | [笔记](../daily/2026-11-15/notes/tomin-2026-beam-driven-deflector.md) |
 | 2026-11-14 | [High-Current Accelerator-Driven Neutron Sources (HiCANSs): Current Projects and Perspectives in Europe](../papers/10-3390-qubs10040026/README.md) | Quantum Beam Science | [笔记](../daily/2026-11-14/notes/gutberlet-2026-hicans.md) |
 | 2026-11-12 | [Compact plasma-based extreme compression of relativistic electron beams](../papers/arxiv-2611-13436/README.md) | arXiv preprint | [笔记](../daily/2026-11-12/notes/hessami-2026-plasma-compression.md) |
 | 2026-11-12 | [Measurement of the 169Tm(γ,n)168Tm Cross Section and Implications for γ-Process Calculations](../papers/arxiv-2611-12994/README.md) | arXiv preprint | [笔记](../daily/2026-11-12/notes/wang-2026-thulium-photoneutron.md) |

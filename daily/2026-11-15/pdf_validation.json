@@ -1,0 +1,80 @@
+[
+  {
+    "pdf_path": "daily/2026-11-15/pdfs/carbon-2026.pdf",
+    "sha256": "d75dcbe134e3f9f41ae107918a2c0d0559d00160e61c7b464ff0702afb1affe0",
+    "bytes": 2170328,
+    "mime_type": "application/pdf",
+    "pdf_header": true,
+    "pages_pdfinfo": 15,
+    "pages_pypdf": 15,
+    "pages_pymupdf": 15,
+    "per_page_text_characters": [
+      5313,
+      5531,
+      3323,
+      2336,
+      3298,
+      3150,
+      4308,
+      5913,
+      4686,
+      2461,
+      3225,
+      4139,
+      1628,
+      3512,
+      2602
+    ],
+    "layout_path": "daily/2026-11-15/pdfs/carbon-2026.txt",
+    "layout_bytes": 85121,
+    "mineru": "0 requests; previously expired credential not retested; local text and rendered-page fallback"
+  },
+  {
+    "pdf_path": "daily/2026-11-15/pdfs/deflector-2026.pdf",
+    "sha256": "b7addbca0d36fe574ba7e54100277c955fecc4b62d881f3f214b540533393d3f",
+    "bytes": 1905831,
+    "mime_type": "application/pdf",
+    "pdf_header": true,
+    "pages_pdfinfo": 7,
+    "pages_pypdf": 7,
+    "pages_pymupdf": 7,
+    "per_page_text_characters": [
+      5305,
+      4631,
+      4424,
+      4728,
+      3387,
+      6105,
+      4295
+    ],
+    "layout_path": "daily/2026-11-15/pdfs/deflector-2026.txt",
+    "layout_bytes": 45619,
+    "mineru": "0 requests; previously expired credential not retested; local text and rendered-page fallback"
+  },
+  {
+    "pdf_path": "daily/2026-11-15/pdfs/sapphire-2026.pdf",
+    "sha256": "c1767b6effd041dba366f8455c29e1096463e0587a5f644d6d3b1dff53a58e07",
+    "bytes": 1203928,
+    "mime_type": "application/pdf",
+    "pdf_header": true,
+    "pages_pdfinfo": 11,
+    "pages_pypdf": 11,
+    "pages_pymupdf": 11,
+    "per_page_text_characters": [
+      4202,
+      4225,
+      2105,
+      2850,
+      1004,
+      2845,
+      2174,
+      1472,
+      3781,
+      4106,
+      994
+    ],
+    "layout_path": "daily/2026-11-15/pdfs/sapphire-2026.txt",
+    "layout_bytes": 32588,
+    "mineru": "0 requests; previously expired credential not retested; local text and rendered-page fallback"
+  }
+]

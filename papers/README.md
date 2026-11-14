@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：567 篇
-- 索引更新时间：2026-11-14
+- 当前入库论文：570 篇
+- 索引更新时间：2026-11-15
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-11-15 | [Development of Sapphire-Based Solid-State Neutron Detectors for Fusion Environments](./arxiv-2611-14745/README.md) | arXiv preprint | [10.48550/arXiv.2611.14745](https://doi.org/10.48550/arXiv.2611.14745) |
+| 2026-11-15 | [Exclusive cross section measurements of 12C(n,pn) and 12C(n,dn) reactions](./10-1103-j2m6-v12v/README.md) | Physical Review C | [10.1103/j2m6-v12v](https://doi.org/10.1103/j2m6-v12v) |
+| 2026-11-15 | [Beam-driven transverse deflecting structure for femtosecond electron-beam diagnostics](./10-1103-ttzy-t1wy/README.md) | Physical Review Applied (accepted 2026-11-13; May author v3 read) | [10.1103/ttzy-t1wy](https://doi.org/10.1103/ttzy-t1wy) |
 | 2026-11-14 | [High-Current Accelerator-Driven Neutron Sources (HiCANSs): Current Projects and Perspectives in Europe](./10-3390-qubs10040026/README.md) | Quantum Beam Science | [10.3390/qubs10040026](https://doi.org/10.3390/qubs10040026) |
 | 2026-11-14 | [A weak-form discrete physical-residual PINN method for solving multigroup neutron diffusion equations](./10-3389-fenrg-2026-2005399/README.md) | Frontiers in Energy Research | [10.3389/fenrg.2026.2005399](https://doi.org/10.3389/fenrg.2026.2005399) |
 | 2026-11-14 | [Nonthermal Particle Acceleration by Magnetic Pumping in Pulsating Plasmas](./10-1103-wyt1-24q7/README.md) | Physical Review Letters | [10.1103/wyt1-24q7](https://doi.org/10.1103/wyt1-24q7) |

@@ -1,0 +1,143 @@
+[
+  {
+    "path": "daily/2026-11-15/images/deflector-fig1.png",
+    "source_pdf": "daily/2026-11-15/pdfs/deflector-2026.pdf",
+    "pdf_page_1based": 2,
+    "clip_points": [
+      50,
+      46,
+      304,
+      247
+    ],
+    "scale": 2,
+    "sha256": "67a978f6815b7073b6c3ab95853b8fd7ae017ca3d6c490aabf4fa5e963f055e7",
+    "root_visual_checked": true,
+    "decoded_pixels_match_source_pdf": true
+  },
+  {
+    "path": "daily/2026-11-15/images/deflector-fig3.png",
+    "source_pdf": "daily/2026-11-15/pdfs/deflector-2026.pdf",
+    "pdf_page_1based": 4,
+    "clip_points": [
+      50,
+      40,
+      303,
+      265
+    ],
+    "scale": 2,
+    "sha256": "c517567dd161def8b427196e7b70cffdbb6a565e86565174594f98cae96d3b17",
+    "root_visual_checked": true,
+    "decoded_pixels_match_source_pdf": true
+  },
+  {
+    "path": "daily/2026-11-15/images/deflector-fig4.png",
+    "source_pdf": "daily/2026-11-15/pdfs/deflector-2026.pdf",
+    "pdf_page_1based": 5,
+    "clip_points": [
+      50,
+      60,
+      564,
+      335
+    ],
+    "scale": 2,
+    "sha256": "fd3962768f72df0ca4dc6c9032a504b50fc7a3b4234494ba4f884a5bb48ea186",
+    "root_visual_checked": true,
+    "decoded_pixels_match_source_pdf": true
+  },
+  {
+    "path": "daily/2026-11-15/images/sapphire-fig1.png",
+    "source_pdf": "daily/2026-11-15/pdfs/sapphire-2026.pdf",
+    "pdf_page_1based": 3,
+    "clip_points": [
+      70,
+      113,
+      545,
+      437
+    ],
+    "scale": 2,
+    "sha256": "a10b4013710ef7240171144cc7f5b06608ffe1b5b7deccc0056e416fb1632e2f",
+    "root_visual_checked": true,
+    "decoded_pixels_match_source_pdf": true
+  },
+  {
+    "path": "daily/2026-11-15/images/sapphire-table1.png",
+    "source_pdf": "daily/2026-11-15/pdfs/sapphire-2026.pdf",
+    "pdf_page_1based": 4,
+    "clip_points": [
+      70,
+      70,
+      545,
+      531
+    ],
+    "scale": 2,
+    "sha256": "9fe28864f3d22c24071e6baaa0ac3cd35fe9961902def9c8e8bb5050ddb60237",
+    "root_visual_checked": true,
+    "decoded_pixels_match_source_pdf": true
+  },
+  {
+    "path": "daily/2026-11-15/images/sapphire-fig5.png",
+    "source_pdf": "daily/2026-11-15/pdfs/sapphire-2026.pdf",
+    "pdf_page_1based": 8,
+    "clip_points": [
+      70,
+      130,
+      545,
+      570
+    ],
+    "scale": 2,
+    "sha256": "ef8db2ebd07aa4e87d3d04774fe933ba1e1e4ab969f1d324f94f6a62cc7d4b20",
+    "root_visual_checked": true,
+    "decoded_pixels_match_source_pdf": true
+  },
+  {
+    "path": "daily/2026-11-15/images/carbon-fig2.png",
+    "source_pdf": "daily/2026-11-15/pdfs/carbon-2026.pdf",
+    "pdf_page_1based": 4,
+    "clip_points": [
+      57,
+      45,
+      560,
+      320
+    ],
+    "scale": 2,
+    "description": "Fig.2 Q-value spectrum",
+    "reader_visual_checked": true,
+    "root_visual_checked": true,
+    "sha256": "02ff49b1e2b856eb018485c4ca8ae91f085fd7b6c62749fbdb990a020f1ac363",
+    "decoded_pixels_match_source_pdf": true
+  },
+  {
+    "path": "daily/2026-11-15/images/carbon-fig3.png",
+    "source_pdf": "daily/2026-11-15/pdfs/carbon-2026.pdf",
+    "pdf_page_1based": 4,
+    "clip_points": [
+      57,
+      375,
+      303,
+      591
+    ],
+    "scale": 2,
+    "description": "Fig.3 simulated full-energy-peak efficiency",
+    "reader_visual_checked": true,
+    "root_visual_checked": true,
+    "sha256": "6c7af7f01ad6562800cacc292f6c38ad59554f83d6b0a9e37a78e30187e8314a",
+    "decoded_pixels_match_source_pdf": true
+  },
+  {
+    "path": "daily/2026-11-15/images/carbon-fig7.png",
+    "source_pdf": "daily/2026-11-15/pdfs/carbon-2026.pdf",
+    "pdf_page_1based": 6,
+    "clip_points": [
+      57,
+      333,
+      304,
+      553
+    ],
+    "scale": 2,
+    "description": "Fig.7 d2 cross section",
+    "reader_visual_checked": true,
+    "root_visual_checked": true,
+    "sha256": "2b52d871b7336cea1eb2d517cf833dc8e283bbfe0ef7493647956cebeb76523f",
+    "decoded_pixels_match_source_pdf": true
+  }
+]
