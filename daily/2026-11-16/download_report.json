@@ -1,0 +1,57 @@
+[
+  {
+    "url": "https://journals.aps.org/pre/pdf/10.1103/cv7h-ghnk",
+    "final_url": "https://journals.aps.org/pre/pdf/10.1103/cv7h-ghnk",
+    "http_status": 403,
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 5514,
+    "pdf_magic": false,
+    "sha256": "5e1b9a352942bb624bfc72255fb5de67a0ceb9449491ccdeb0eedd9db1f37737",
+    "checked_at": "2026-11-16T06:59:11.856910+08:00",
+    "key": "ebw"
+  },
+  {
+    "url": "https://harvest.aps.org/v2/journals/articles/10.1103/cv7h-ghnk/fulltext",
+    "final_url": "https://harvest.aps.org/v2/journals/articles/10.1103/cv7h-ghnk/fulltext",
+    "http_status": 401,
+    "content_type": "application/json",
+    "bytes": 57,
+    "pdf_magic": false,
+    "sha256": "14037baf8c9f6e4dfd4d91d94ff86b399c2d426bd15d202ba61bc6db3e187ba8",
+    "checked_at": "2026-11-16T06:59:13.211887+08:00",
+    "key": "ebw"
+  },
+  {
+    "url": "https://arxiv.org/pdf/2508.15269v2",
+    "final_url": "https://arxiv.org/pdf/2508.15269v2",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "bytes": 7070373,
+    "pdf_magic": true,
+    "sha256": "33222dac96c5b4160be4f3af346236c010e66e06962332b63de3e066a567f6bc",
+    "checked_at": "2026-11-16T06:59:16.670676+08:00",
+    "key": "ebw"
+  },
+  {
+    "url": "https://arxiv.org/pdf/2611.16415v1",
+    "final_url": "https://arxiv.org/pdf/2611.16415v1",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "bytes": 2039431,
+    "pdf_magic": true,
+    "sha256": "a3af16c3ca0206b817088120285dd52ef6ffdb0c6488c921d9297604cffdddea",
+    "checked_at": "2026-11-16T06:59:23.043490+08:00",
+    "key": "photoneutron"
+  },
+  {
+    "url": "https://arxiv.org/pdf/2611.17279v1",
+    "final_url": "https://arxiv.org/pdf/2611.17279v1",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "bytes": 2704746,
+    "pdf_magic": true,
+    "sha256": "cfb472a8e98bb47445bcb79c03480ea1cb84be6e4e87e482619530dcd2623bb1",
+    "checked_at": "2026-11-16T06:59:29.183083+08:00",
+    "key": "pair"
+  }
+]

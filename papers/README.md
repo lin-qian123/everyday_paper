@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：570 篇
-- 索引更新时间：2026-11-15
+- 当前入库论文：573 篇
+- 索引更新时间：2026-11-16
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-11-16 | [Simulation studies of resonant excitation of electron Bernstein waves in capacitive discharges](./10-1103-cv7h-ghnk/README.md) | Physical Review E | [10.1103/cv7h-ghnk](https://doi.org/10.1103/cv7h-ghnk) |
+| 2026-11-16 | [Development and Experimental Characterization of a Compact 228Th-D2O Photoneutron Source for Low-Energy Nuclear Recoil Calibration](./arxiv-2611-16415/README.md) | arXiv preprint | [10.48550/arXiv.2611.16415](https://doi.org/10.48550/arXiv.2611.16415) |
+| 2026-11-16 | [On stimulated scattering including harmonic generation in an unmagnetized pair plasma for arbitrary pump strengths](./arxiv-2611-17279/README.md) | arXiv preprint | [10.48550/arXiv.2611.17279](https://doi.org/10.48550/arXiv.2611.17279) |
 | 2026-11-15 | [Development of Sapphire-Based Solid-State Neutron Detectors for Fusion Environments](./arxiv-2611-14745/README.md) | arXiv preprint | [10.48550/arXiv.2611.14745](https://doi.org/10.48550/arXiv.2611.14745) |
 | 2026-11-15 | [Exclusive cross section measurements of 12C(n,pn) and 12C(n,dn) reactions](./10-1103-j2m6-v12v/README.md) | Physical Review C | [10.1103/j2m6-v12v](https://doi.org/10.1103/j2m6-v12v) |
 | 2026-11-15 | [Beam-driven transverse deflecting structure for femtosecond electron-beam diagnostics](./10-1103-ttzy-t1wy/README.md) | Physical Review Applied (accepted 2026-11-13; May author v3 read) | [10.1103/ttzy-t1wy](https://doi.org/10.1103/ttzy-t1wy) |

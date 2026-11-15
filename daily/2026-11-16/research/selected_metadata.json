@@ -1,0 +1,1102 @@
+[
+  {
+    "key": "ebw",
+    "arxiv_id": "2508.15269",
+    "version": "2508.15269v2",
+    "doi": "10.1103/cv7h-ghnk",
+    "abs_url": "https://arxiv.org/abs/2508.15269v2",
+    "http_status": 200,
+    "citation_meta": [
+      [
+        "citation_title",
+        "Simulation Studies of Resonant Excitation of Electron Bernstein Waves in Capacitive Discharges"
+      ],
+      [
+        "citation_author",
+        "Gautam, Deepak"
+      ],
+      [
+        "citation_author",
+        "Sharma, Sarveshwar"
+      ],
+      [
+        "citation_author",
+        "Kaganovich, Igor"
+      ],
+      [
+        "citation_author",
+        "Paradkar, Bhooshan"
+      ],
+      [
+        "citation_date",
+        "2025/08/21"
+      ],
+      [
+        "citation_online_date",
+        "2026/05/19"
+      ],
+      [
+        "citation_pdf_url",
+        "https://arxiv.org/pdf/2508.15269"
+      ],
+      [
+        "citation_arxiv_id",
+        "2508.15269"
+      ],
+      [
+        "citation_abstract",
+        "The behavior of capacitive coupled plasma (CCP) discharges is investigated in a mildly magnetized regime, defined by the condition 1 $\\leq$ $f_{ce}/f_{rf}$ $\\lt$ 2, where $f_{ce}$ and $f_{rf}$ are the cyclotron and radio-frequencies (RF), respectively. This regime exhibits complex and distinctive plasma dynamics due to the interplay between RF fields and the externally applied magnetic field. Two prominent phenomena are observed in this regime. First, the plasma density profile becomes asymmetric across the discharge, deviating from the typical symmetric distribution seen in unmagnetized CCPs. Second, electron Bernstein waves (EBWs), high-frequency electrostatic waves, are excited and propagate within the bulk plasma, particularly along steep electron density gradients. As the strength of the magnetic field increases within this regime, the CCP discharge undergoes a transition from a symmetric configuration to an asymmetric one, and then returns to a symmetric profile at higher field strengths. Notably, the excitation and propagation of EBWs are strongly correlated with the presence of discharge asymmetry and localized density gradients. These waves play a significant role in energy transport and electron heating under mildly magnetized conditions. To gain deeper insight into the underlying physics, detailed numerical simulations are carried out using the particle-in-cell Monte Carlo collision (PIC-MCC) technique. These simulations capture the kinetic behavior of electrons and ions, including the collisionless effects and sheath dynamics essential to understanding the excitation of EBWs and the evolution of discharge symmetry. The study thus sheds light on the role of weak magnetic fields in shaping plasma behavior and highlights the importance of wave-particle interactions in magnetized CCPs."
+      ]
+    ],
+    "history": "Submission history From: Sarveshwar Sharma [ view email ] [v1] Thu, 21 Aug 2025 06:04:56 UTC (3,482 KB) [v2] Tue, 19 May 2026 16:59:27 UTC (6,404 KB)",
+    "crossref_status": 200,
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            14
+          ]
+        ],
+        "date-time": "2026-11-14T12:32:11Z",
+        "timestamp": 1794659531795,
+        "version": "4.9.1"
+      },
+      "reference-count": 87,
+      "publisher": "American Physical Society (APS)",
+      "issue": "5",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                11,
+                13
+              ]
+            ],
+            "date-time": "2026-11-13T00:00:00Z",
+            "timestamp": 1794528000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://link.aps.org/licenses/aps-default-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2027,
+                11,
+                13
+              ]
+            ],
+            "date-time": "2027-11-13T00:00:00Z",
+            "timestamp": 1826064000000
+          },
+          "content-version": "am",
+          "delay-in-days": 365,
+          "URL": "https://link.aps.org/licenses/aps-default-accepted-manuscript-license"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/100006207",
+          "name": "Fusion Energy Sciences",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "DE-AC02-09CH11466"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "DE-AC02-09CH11466"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/100006207",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "journals.aps.org"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Phys. Rev. E"
+      ],
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            27
+          ]
+        ]
+      },
+      "DOI": "10.1103/cv7h-ghnk",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            27
+          ]
+        ],
+        "date-time": "2026-10-27T18:54:54Z",
+        "timestamp": 1793127294000
+      },
+      "update-policy": "https://doi.org/10.1103/crossmark-policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 1,
+      "title": [
+        "Simulation studies of resonant excitation of electron Bernstein waves in capacitive discharges"
+      ],
+      "prefix": "10.1103",
+      "volume": "114",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0005-5951-4334",
+          "authenticated-orcid": true,
+          "given": "Deepak",
+          "family": "Gautam",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/057wkj006",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "UM-DAE Centre for Excellence in Basic Sciences"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0642-0247",
+          "authenticated-orcid": true,
+          "given": "Sarveshwar",
+          "family": "Sharma",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/01hznc410",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Institute for Plasma Research"
+            },
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/02bv3zr67",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Homi Bhabha National Institute"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-0653-5682",
+          "authenticated-orcid": true,
+          "given": "Igor",
+          "family": "Kaganovich",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/03vn1ts68",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Princeton Plasma Physics Laboratory"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8444-9053",
+          "authenticated-orcid": true,
+          "given": "Bhooshan",
+          "family": "Paradkar",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/057wkj006",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "UM-DAE Centre for Excellence in Basic Sciences"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "16",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            13
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "cv7h-ghnkCc1R1",
+          "volume-title": "Principles of Plasma Discharges and Materials Processing",
+          "author": "M. Lieberman",
+          "year": "2003",
+          "type": "book"
+        },
+        {
+          "key": "cv7h-ghnkCc2R1",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1017/CBO9780511974342",
+          "type": "book",
+          "volume-title": "Physics of Radio-Frequency Plasmas",
+          "author": "P. Chabert",
+          "year": "2011"
+        },
+        {
+          "key": "cv7h-ghnkCc3R1",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1201/b17322",
+          "type": "book",
+          "volume-title": "Plasma Electronics: Applications in Microelectronic Device Fabrication",
+          "author": "T. Makabe",
+          "year": "2014"
+        },
+        {
+          "key": "cv7h-ghnkCc4R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/1.326355",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc5R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1116/1.586180",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc6R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1088/0963-0252/1/2/006",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc7R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1088/1367-2630/11/11/115012",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc8R1",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1201/9781439895306",
+          "type": "book",
+          "volume-title": "Manufacturing Techniques for Microfabrication and Nanotechnology",
+          "author": "M. J. Madou",
+          "year": "2011"
+        },
+        {
+          "key": "cv7h-ghnkCc9R1",
+          "unstructured": "F. Laermer, United States Patent No. 5,501,893 (1996).",
+          "type": "other"
+        },
+        {
+          "key": "cv7h-ghnkCc10R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/1.107675",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc11R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1557/mrs2005.242",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc12R1",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1201/9781420012279",
+          "type": "book",
+          "volume-title": "Plasma Electronics: Applications in Microelectronic Device Fabrication",
+          "author": "T. Makabe",
+          "year": "2006"
+        },
+        {
+          "key": "cv7h-ghnkCc13R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1088/0022-3727/41/16/165202",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc14R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/PhysRevLett.96.205001",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc15R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/1.335395",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc16R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/27.16552",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc17R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/TPS.2006.873253",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc18R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/1.2203949",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc19R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1088/0963-0252/22/3/035014",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc20R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/1.4816952",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc21R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1088/0022-3727/36/15/311",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc22R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1088/0022-3727/37/5/008",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc23R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1088/0022-3727/46/28/285203",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc24R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1088/0022-3727/47/28/285201",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc25R1",
+          "unstructured": "S. Sharma, Investigation of Ion and Electron Kinetic Phenomena in Capacitively Coupled Radio-Frequency Plasma Sheaths: A Simulation Study, Ph.D. thesis, Dublin City University, 2013.",
+          "type": "other"
+        },
+        {
+          "key": "cv7h-ghnkCc26R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/1.2425044",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc27R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1116/1.4819315",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc28R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1088/0963-0252/25/1/013001",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc29R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1088/0963-0252/20/5/055001",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc30R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1088/0963-0252/24/2/025037",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc31R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1088/0963-0252/24/4/045013",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc32R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1088/1361-6595/abbac2",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc33R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/5.0061605",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc34R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.physleta.2024.129346",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc35R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/5.0151866",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc36R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1088/0963-0252/19/6/065014",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc37R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1116/1.4932562",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc38R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1088/0963-0252/19/1/015014",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc39R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1088/0963-0252/24/2/024002",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc40R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/1.4967356",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc41R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1088/0022-3727/46/47/472001",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc42R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1088/1361-6463/ab2959",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc43R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1088/0963-0252/15/4/036",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc44R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1088/1361-6595/aae5c1",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc45R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/1.5122837",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc46R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1088/1361-6595/ab74b5",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc47R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/5.0157347",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc48R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0167-9317(89)90142-1",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc49R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1088/1361-6463/aeb4c6",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc50R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/1.1587887",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc51R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/1.1633661",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc52R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.tsf.2011.01.384",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc53R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1088/1361-6595/aab47e",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc54R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/1.5033350",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc55R1",
+          "unstructured": "D. Sydorenko, Particle-in-cell simulations of electron dynamics in low pressure discharges with magnetic fields, Ph.D. thesis, University of Saskatchewan, 2006.",
+          "type": "other"
+        },
+        {
+          "key": "cv7h-ghnkCc56R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1088/0963-0252/17/4/045005",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc57R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/1.4826215",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc58R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1017/S0022377800007649",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc59R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/PhysRevLett.47.1899",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc61R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/PhysRevResearch.4.013059",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc62R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/PhysRevE.104.045209",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc63R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/5.0094409",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc64R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/27.467985",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc65R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/5.0160853",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc66R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/1.4773195",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc67R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/PhysRevLett.111.075002",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc68R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1088/1361-6595/ab46c5",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc69R1",
+          "unstructured": "Princeton University, EDIPIC: Electrostatic direct implicit particle-in-cell code, 2025, https://github.com/PrincetonUniversity/EDIPIC.",
+          "type": "software"
+        },
+        {
+          "key": "cv7h-ghnkCc70R1",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1201/9781315275048",
+          "type": "book",
+          "volume-title": "Plasma Physics via Computer Simulation",
+          "author": "C. K. Birdsall",
+          "year": "2018"
+        },
+        {
+          "key": "cv7h-ghnkCc71R1",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1201/9780367806934",
+          "type": "book",
+          "volume-title": "Computer Simulation Using Particles",
+          "author": "R. W. Hockney",
+          "year": "2021"
+        },
+        {
+          "key": "cv7h-ghnkCc72R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/1.366111",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc73R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1088/0022-3727/37/16/002",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc74R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/27.106813",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc75R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/27.597265",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc76R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1088/1361-6595/ad80c5",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc77R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1143/JPSJ.30.253",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc78R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/1.1289689",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc79R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/5hwk-fymz",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc80R1",
+          "volume-title": "Fundamentals of Plasma Physics",
+          "author": "P. M. Bellan",
+          "year": "2008",
+          "type": "book"
+        },
+        {
+          "key": "cv7h-ghnkCc81R1",
+          "volume-title": "Proceedings of the IEEE/ACM Workshop on Machine Learning in High Performance Computing Environments (MLHPC) and Workshop on Artificial Intelligence and Machine Learning for Scientific Applications (AI4S)",
+          "author": "S. Markidis",
+          "year": "2020",
+          "type": "conference-proceedings"
+        },
+        {
+          "key": "cv7h-ghnkCc82R1",
+          "volume-title": "Waves in Plasmas",
+          "author": "T. H. Stix",
+          "year": "1992",
+          "type": "book"
+        },
+        {
+          "key": "cv7h-ghnkCc83R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1017/S0022377800001392",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc84R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1088/0741-3335/49/4/R01",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc85R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/1.3609828",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc86R1",
+          "volume-title": "The Propagation of Radio Waves: The Theory of Radio Waves of Low Power in the Ionosphere and Magnetosphere",
+          "author": "K. G. Budden",
+          "year": "1988",
+          "type": "book"
+        },
+        {
+          "key": "cv7h-ghnkCc87R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/PhysRevE.76.055401",
+          "type": "journal-article"
+        },
+        {
+          "key": "cv7h-ghnkCc88R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/PhysRevLett.100.085002",
+          "type": "journal-article"
+        }
+      ],
+      "container-title": [
+        "Physical Review E"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://link.aps.org/accepted/10.1103/cv7h-ghnk",
+          "content-type": "application/pdf",
+          "content-version": "am",
+          "intended-application": "unspecified"
+        },
+        {
+          "URL": "https://link.aps.org/article/10.1103/cv7h-ghnk",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "syndication"
+        },
+        {
+          "URL": "http://harvest.aps.org/v2/journals/articles/10.1103/cv7h-ghnk/fulltext",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            13
+          ]
+        ],
+        "date-time": "2026-11-13T15:19:04Z",
+        "timestamp": 1794583144000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://link.aps.org/doi/10.1103/cv7h-ghnk"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            13
+          ]
+        ]
+      },
+      "references-count": 87,
+      "journal-issue": {
+        "issue": "5",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1103/cv7h-ghnk",
+      "relation": {},
+      "ISSN": [
+        "2470-0045",
+        "2470-0053"
+      ],
+      "issn-type": [
+        {
+          "value": "2470-0045",
+          "type": "print"
+        },
+        {
+          "value": "2470-0053",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            13
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "2025-08-25",
+          "name": "date_received",
+          "label": "Date Received",
+          "group": {
+            "name": "publication_dates",
+            "label": "Publication dates"
+          }
+        },
+        {
+          "value": "©2026 American Physical Society. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+          "name": "copyright_statement",
+          "label": "Copyright statement",
+          "group": {
+            "name": "copyright",
+            "label": "copyright"
+          }
+        },
+        {
+          "value": "2026",
+          "name": "copyright_year",
+          "label": "Copyright year",
+          "group": {
+            "name": "copyright",
+            "label": "copyright"
+          }
+        },
+        {
+          "value": "American Physical Society",
+          "name": "copyright_holder",
+          "label": "Copyright holder",
+          "group": {
+            "name": "copyright",
+            "label": "copyright"
+          }
+        },
+        {
+          "value": "US",
+          "name": "copyright_holder",
+          "label": "Copyright holder",
+          "group": {
+            "name": "copyright",
+            "label": "copyright"
+          }
+        }
+      ],
+      "article-number": "055206"
+    }
+  },
+  {
+    "key": "photoneutron",
+    "arxiv_id": "2611.16415",
+    "version": "2611.16415v1",
+    "doi": null,
+    "abs_url": "https://arxiv.org/abs/2611.16415v1",
+    "http_status": 200,
+    "citation_meta": [
+      [
+        "citation_title",
+        "Development and Experimental Characterization of a Compact $^{228}$Th--D$_2$O Photoneutron Source for Low-Energy Nuclear Recoil Calibration"
+      ],
+      [
+        "citation_author",
+        "Tian, Yueqiang"
+      ],
+      [
+        "citation_author",
+        "Cui, Yuxin"
+      ],
+      [
+        "citation_author",
+        "Guo, Xunan"
+      ],
+      [
+        "citation_author",
+        "Guo, Zichao"
+      ],
+      [
+        "citation_author",
+        "Wang, Pingquan"
+      ],
+      [
+        "citation_author",
+        "Zhang, Hui"
+      ],
+      [
+        "citation_author",
+        "Cheng, Chen"
+      ],
+      [
+        "citation_author",
+        "Zhou, Xiaopeng"
+      ],
+      [
+        "citation_date",
+        "2026/11/12"
+      ],
+      [
+        "citation_online_date",
+        "2026/11/12"
+      ],
+      [
+        "citation_pdf_url",
+        "https://arxiv.org/pdf/2611.16415"
+      ],
+      [
+        "citation_arxiv_id",
+        "2611.16415"
+      ],
+      [
+        "citation_abstract",
+        "Calibrating the few-keV nuclear-recoil response of liquid xenon detectors calls for a low-energy neutron source. We have developed and characterized a $^{228}$Th--D$_2$O photoneutron source that converts the 2.615~MeV $\\gamma$ rays from $^{208}$Tl into sub-MeV neutrons through the D($\\gamma$,n)p reaction. After optimizing the D$_2$O geometry to balance neutron production against escape efficiency, we validated the chosen configuration experimentally. The forward emission rate is $1734 \\pm 76~(\\mathrm{stat.}) \\pm 65~(\\mathrm{sys.})~\\mathrm{h}^{-1}$, and the spectrum unfolded from Bonner sphere data is concentrated at $0.17$--$0.22~\\mathrm{MeV}$. In a 220~h exposure of PandaX-20T, the same configuration should provide about 1000 selected nuclear-recoil events. These results support the use of a long-lived $^{228}$Th--D$_2$O source for low-energy neutron calibration of large liquid xenon detectors."
+      ]
+    ],
+    "history": "Submission history From: Xiaopeng Zhou [ view email ] [v1] Thu, 12 Nov 2026 07:25:56 UTC (1,710 KB)"
+  },
+  {
+    "key": "pair",
+    "arxiv_id": "2611.17279",
+    "version": "2611.17279v1",
+    "doi": null,
+    "abs_url": "https://arxiv.org/abs/2611.17279v1",
+    "http_status": 200,
+    "citation_meta": [
+      [
+        "citation_title",
+        "On stimulated scattering including harmonic generation in an unmagnetized pair plasma for arbitrary pump strengths"
+      ],
+      [
+        "citation_author",
+        "Patel, Vijay"
+      ],
+      [
+        "citation_author",
+        "Grismayer, Thomas"
+      ],
+      [
+        "citation_author",
+        "Sebastian, Samuel"
+      ],
+      [
+        "citation_author",
+        "Xu, Xinlu"
+      ],
+      [
+        "citation_author",
+        "Palastro, John"
+      ],
+      [
+        "citation_author",
+        "Alves, Paulo"
+      ],
+      [
+        "citation_author",
+        "Mori, Warren B."
+      ],
+      [
+        "citation_date",
+        "2026/11/12"
+      ],
+      [
+        "citation_online_date",
+        "2026/11/12"
+      ],
+      [
+        "citation_pdf_url",
+        "https://arxiv.org/pdf/2611.17279"
+      ],
+      [
+        "citation_arxiv_id",
+        "2611.17279"
+      ],
+      [
+        "citation_abstract",
+        "A fully nonlinear analysis for the growth rate of the stimulated backscatter instability of an intense electromagnetic (EM) wave with arbitrary polarization in an unmagnetized pair plasma is presented. The connection of this instability to the FEL process is discussed and utilized. An intense EM wave causes an initially stationary pair plasma to drift forward with a speed near the speed of light. The resulting distribution function for both cold and warm pair plasmas is presented. It is shown that the frequency of the reflected light is thus Doppler downshifted from that of the incident wave. For a linearly polarized EM wave there is also an additional contribution to the forward drift at its second harmonic which leads to backscattered light at all odd harmonics of the Doppler downshifted frequency for sufficiently cold pair plasmas. Fully nonlinear particle-in-cell simulations confirm the theoretical growth rates and show how the instability depends on the pair plasma temperature. The effect of the intensity profile of the incoming EM wave as well as implications for astrophysical pair plasmas is discussed."
+      ]
+    ],
+    "history": "Submission history From: Vijay Patel S [ view email ] [v1] Thu, 12 Nov 2026 18:50:51 UTC (2,492 KB)"
+  }
+]

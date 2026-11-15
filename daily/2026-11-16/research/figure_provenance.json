@@ -1,0 +1,149 @@
+[
+  {
+    "path": "daily/2026-11-16/images/ebw-fig2.png",
+    "source_pdf": "daily/2026-11-16/pdfs/ebw-2026.pdf",
+    "pdf_page_1based": 5,
+    "clip_points": [
+      50,
+      45,
+      567,
+      294
+    ],
+    "scale": 2,
+    "sha256": "1e5d1aec51fb08ede69d5db54e8c65a6b043e3d6758c5049f362d636672b7b2d",
+    "reader_visual_checked": true,
+    "root_visual_checked": true,
+    "decoded_pixels_match_source_pdf": true
+  },
+  {
+    "path": "daily/2026-11-16/images/ebw-fig9.png",
+    "source_pdf": "daily/2026-11-16/pdfs/ebw-2026.pdf",
+    "pdf_page_1based": 10,
+    "clip_points": [
+      50,
+      375,
+      306,
+      526
+    ],
+    "scale": 2,
+    "sha256": "a6f572b0aaded37fcf103d37cedeb14534744683d18bc360859452983e03d868",
+    "reader_visual_checked": true,
+    "root_visual_checked": true,
+    "decoded_pixels_match_source_pdf": true
+  },
+  {
+    "path": "daily/2026-11-16/images/ebw-fig11.png",
+    "source_pdf": "daily/2026-11-16/pdfs/ebw-2026.pdf",
+    "pdf_page_1based": 11,
+    "clip_points": [
+      316,
+      260,
+      570,
+      427
+    ],
+    "scale": 2,
+    "sha256": "2dcd3cb6e33eb2138faf4339d5177b95ac6db3ee20a706be8494e9a664cfd677",
+    "reader_visual_checked": true,
+    "root_visual_checked": true,
+    "decoded_pixels_match_source_pdf": true
+  },
+  {
+    "path": "daily/2026-11-16/images/photoneutron-fig5.png",
+    "source_pdf": "daily/2026-11-16/pdfs/photoneutron-2026.pdf",
+    "pdf_page_1based": 12,
+    "clip_points": [
+      165,
+      135,
+      410,
+      325
+    ],
+    "scale": 2,
+    "description": "Figure 5 net count rate and MC normalized at 1cm",
+    "sha256": "c9d31e53ae81375b3b6c4f575c1e19d7b06e00790a2d662658a46fb07c18bad8",
+    "reader_visual_checked": true,
+    "decoded_pixels_match_source_pdf": true,
+    "root_visual_checked": true
+  },
+  {
+    "path": "daily/2026-11-16/images/photoneutron-fig7.png",
+    "source_pdf": "daily/2026-11-16/pdfs/photoneutron-2026.pdf",
+    "pdf_page_1based": 14,
+    "clip_points": [
+      150,
+      385,
+      415,
+      575
+    ],
+    "scale": 2,
+    "description": "Figure 7 unfolded and simulated spectral shapes",
+    "sha256": "dd5187b6c47fe94ccff33bf36a60dc0093e2245edfbe6beefa5aa9ae93223402",
+    "reader_visual_checked": true,
+    "decoded_pixels_match_source_pdf": true,
+    "root_visual_checked": true
+  },
+  {
+    "path": "daily/2026-11-16/images/photoneutron-fig9.png",
+    "source_pdf": "daily/2026-11-16/pdfs/photoneutron-2026.pdf",
+    "pdf_page_1based": 17,
+    "clip_points": [
+      80,
+      375,
+      515,
+      575
+    ],
+    "scale": 2,
+    "description": "Figure 9 normalized NR/ER geometric scan",
+    "sha256": "693e6ea7ddc2ebf3445338fb10aca465b8ba4f91e128928a401a91150f5250f3",
+    "reader_visual_checked": true,
+    "decoded_pixels_match_source_pdf": true,
+    "root_visual_checked": true
+  },
+  {
+    "path": "daily/2026-11-16/images/pair-fig1.png",
+    "source_pdf": "daily/2026-11-16/pdfs/pair-2026.pdf",
+    "pdf_page_1based": 9,
+    "clip_points": [
+      90,
+      195,
+      530,
+      380
+    ],
+    "scale": 2,
+    "sha256": "244ae45e986e885091dbd6c2b919127986ed1ec8c5cec9fcf74049dc004844d7",
+    "reader_visual_checked": true,
+    "decoded_pixels_match_source_pdf": true,
+    "root_visual_checked": true
+  },
+  {
+    "path": "daily/2026-11-16/images/pair-fig3.png",
+    "source_pdf": "daily/2026-11-16/pdfs/pair-2026.pdf",
+    "pdf_page_1based": 12,
+    "clip_points": [
+      103,
+      56,
+      540,
+      190
+    ],
+    "scale": 2,
+    "sha256": "a16653dafe07f831b51b37d227f5633598ec3e5dd6d4f45b7fb03d29dd2f4176",
+    "reader_visual_checked": true,
+    "decoded_pixels_match_source_pdf": true,
+    "root_visual_checked": true
+  },
+  {
+    "path": "daily/2026-11-16/images/pair-fig10.png",
+    "source_pdf": "daily/2026-11-16/pdfs/pair-2026.pdf",
+    "pdf_page_1based": 19,
+    "clip_points": [
+      216,
+      505,
+      480,
+      690
+    ],
+    "scale": 2,
+    "sha256": "d86f987219fdf3c5632911e256367d588756131c0234c7baffd952d11fe5a4c5",
+    "reader_visual_checked": true,
+    "decoded_pixels_match_source_pdf": true,
+    "root_visual_checked": true
+  }
+]

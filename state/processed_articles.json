@@ -9028,5 +9028,107 @@
     "normalized_title": "development of sapphire based solid state neutron detectors for fusion environments",
     "processed_date": "2026-11-15",
     "pdf_sha256": "c1767b6effd041dba366f8455c29e1096463e0587a5f644d6d3b1dff53a58e07"
+  },
+  {
+    "title": "Simulation studies of resonant excitation of electron Bernstein waves in capacitive discharges",
+    "authors": [
+      "Deepak Gautam",
+      "Sarveshwar Sharma",
+      "Igor Kaganovich",
+      "Bhooshan Paradkar"
+    ],
+    "journal": "Physical Review E",
+    "publication_date": "2026-11-13",
+    "publication_date_type": "publisher publication verified independently; actual fulltext May author v2",
+    "publication_status": "published; read May arXiv v2 author manuscript, publisher VOR not acquired",
+    "acceptance_date": "2026-10-27",
+    "source_url": "https://doi.org/10.1103/cv7h-ghnk",
+    "submission_timestamp_utc": "2025-08-21T06:04:56Z",
+    "revision_timestamp_utc": "2026-05-19T16:59:27Z",
+    "note_path": "daily/2026-11-16/notes/gautam-2026-bernstein-discharge.md",
+    "categories": [
+      "pic-and-plasma-simulation",
+      "general-plasma-and-methods"
+    ],
+    "doi": "10.1103/cv7h-ghnk",
+    "arxiv_id": "2508.15269",
+    "arxiv_version": "2508.15269v2",
+    "fulltext_version": "official arXiv 2508.15269v2 author manuscript",
+    "pdf_url": "https://arxiv.org/pdf/2508.15269v2",
+    "pdf_path": "daily/2026-11-16/pdfs/ebw-2026.pdf",
+    "pdf_sha256": "33222dac96c5b4160be4f3af346236c010e66e06962332b63de3e066a567f6bc",
+    "processed_date": "2026-11-16",
+    "normalized_title": "simulation studies of resonant excitation of electron bernstein waves in capacitive discharges"
+  },
+  {
+    "title": "Development and Experimental Characterization of a Compact 228Th-D2O Photoneutron Source for Low-Energy Nuclear Recoil Calibration",
+    "authors": [
+      "Yueqiang Tian",
+      "Chen Cheng",
+      "Yuxin Cui",
+      "Xunan Guo",
+      "Zichao Guo",
+      "Yao Tong",
+      "Pingquan Wang",
+      "Hailun Yuan",
+      "Hui Zhang",
+      "Xiaopeng Zhou"
+    ],
+    "journal": "arXiv preprint",
+    "publication_date": "2026-11-12",
+    "publication_date_type": "arxiv first submission; announcement separately recorded",
+    "publication_status": "author preprint; bounded Crossref exact-title top3 did not verify same-work journal version",
+    "submission_timestamp_utc": "2026-11-12T07:25:56Z",
+    "announcement_date": "2026-11-13",
+    "note_path": "daily/2026-11-16/notes/tian-2026-thorium-photoneutron.md",
+    "metadata_corrections": "Actual PDF lists 10 authors; arXiv metadata has 8, omits Yao Tong and Hailun Yuan and places Chen Cheng differently. Ledger follows actual PDF, not a verified journal author list.",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "experimental-platforms-diagnostics"
+    ],
+    "doi": "10.48550/arXiv.2611.16415",
+    "arxiv_id": "2611.16415",
+    "arxiv_version": "2611.16415v1",
+    "fulltext_version": "official arXiv 2611.16415v1 author manuscript",
+    "pdf_url": "https://arxiv.org/pdf/2611.16415v1",
+    "pdf_path": "daily/2026-11-16/pdfs/photoneutron-2026.pdf",
+    "pdf_sha256": "a3af16c3ca0206b817088120285dd52ef6ffdb0c6488c921d9297604cffdddea",
+    "processed_date": "2026-11-16",
+    "normalized_title": "development and experimental characterization of a compact 228th d2o photoneutron source for low energy nuclear recoil calibration",
+    "source_url": "https://arxiv.org/abs/2611.16415v1"
+  },
+  {
+    "title": "On stimulated scattering including harmonic generation in an unmagnetized pair plasma for arbitrary pump strengths",
+    "authors": [
+      "Vijay Patel",
+      "Thomas Grismayer",
+      "Samuel Sebastian",
+      "Xinlu Xu",
+      "John Palastro",
+      "Paulo Alves",
+      "Warren B. Mori"
+    ],
+    "journal": "arXiv preprint",
+    "publication_date": "2026-11-12",
+    "publication_date_type": "arxiv first submission; announcement separately recorded",
+    "publication_status": "author preprint; bounded Crossref exact-title top3 did not verify same-work journal version",
+    "submission_timestamp_utc": "2026-11-12T18:50:51Z",
+    "announcement_date": "2026-11-13",
+    "note_path": "daily/2026-11-16/notes/patel-2026-pair-stimulated-scattering.md",
+    "categories": [
+      "pic-and-plasma-simulation",
+      "hedp-icf-laboratory-astrophysics",
+      "general-plasma-and-methods"
+    ],
+    "doi": "10.48550/arXiv.2611.17279",
+    "arxiv_id": "2611.17279",
+    "arxiv_version": "2611.17279v1",
+    "fulltext_version": "official arXiv 2611.17279v1 author manuscript",
+    "pdf_url": "https://arxiv.org/pdf/2611.17279v1",
+    "pdf_path": "daily/2026-11-16/pdfs/pair-2026.pdf",
+    "pdf_sha256": "cfb472a8e98bb47445bcb79c03480ea1cb84be6e4e87e482619530dcd2623bb1",
+    "processed_date": "2026-11-16",
+    "normalized_title": "on stimulated scattering including harmonic generation in an unmagnetized pair plasma for arbitrary pump strengths",
+    "source_url": "https://arxiv.org/abs/2611.17279v1"
   }
 ]

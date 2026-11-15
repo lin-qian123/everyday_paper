@@ -1,0 +1,78 @@
+[
+  {
+    "key": "photoneutron",
+    "title": "Development and Experimental Characterization of a Compact $^{228}$Th--D$_2$O Photoneutron Source for Low-Energy Nuclear Recoil Calibration",
+    "query_url": "https://api.crossref.org/works?query.title=Development+and+Experimental+Characterization+of+a+Compact+%24%5E%7B228%7D%24Th--D%24_2%24O+Photoneutron+Source+for+Low-Energy+Nuclear+Recoil+Calibration&rows=3",
+    "status": 200,
+    "results": [
+      {
+        "doi": "10.1103/f6nr-nkdz",
+        "title": [
+          "Low-energy nuclear recoil calibration of the LUX-ZEPLIN experiment with a photoneutron source"
+        ],
+        "journal": [
+          "Physical Review D"
+        ],
+        "score": 46.634785
+      },
+      {
+        "doi": "10.1016/0168-583x(89)90537-5",
+        "title": [
+          "Low divergence low energy recoil ion source"
+        ],
+        "journal": [
+          "Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms"
+        ],
+        "score": 32.23429
+      },
+      {
+        "doi": "10.70923/001c.72463",
+        "title": [
+          "Recoil Assisted Low Energy Nuclear Reactions"
+        ],
+        "journal": [
+          "Journal of Condensed Matter Nuclear Science"
+        ],
+        "score": 32.007805
+      }
+    ]
+  },
+  {
+    "key": "pair",
+    "title": "On stimulated scattering including harmonic generation in an unmagnetized pair plasma for arbitrary pump strengths",
+    "query_url": "https://api.crossref.org/works?query.title=On+stimulated+scattering+including+harmonic+generation+in+an+unmagnetized+pair+plasma+for+arbitrary+pump+strengths&rows=3",
+    "status": 200,
+    "results": [
+      {
+        "doi": "10.1007/s12648-015-0792-7",
+        "title": [
+          "Arbitrary amplitude solitary waves in an unmagnetized quantum pair-ion plasma"
+        ],
+        "journal": [
+          "Indian Journal of Physics"
+        ],
+        "score": 34.468346
+      },
+      {
+        "doi": "10.1103/physreva.23.1863",
+        "title": [
+          "Second-harmonic generation with arbitrary pump-beam profiles"
+        ],
+        "journal": [
+          "Physical Review A"
+        ],
+        "score": 32.445297
+      },
+      {
+        "doi": "10.1063/1.1559732",
+        "title": [
+          "Stimulated scattering and harmonic generation from relativistically intense laser light in plasma"
+        ],
+        "journal": [
+          "Physics of Plasmas"
+        ],
+        "score": 32.12995
+      }
+    ]
+  }
+]

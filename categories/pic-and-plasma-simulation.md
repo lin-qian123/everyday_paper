@@ -2,11 +2,13 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：251 篇
-- 索引更新时间：2026-11-15
+- 当前收录：253 篇
+- 索引更新时间：2026-11-16
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-16 | [Simulation studies of resonant excitation of electron Bernstein waves in capacitive discharges](../papers/10-1103-cv7h-ghnk/README.md) | Physical Review E | [笔记](../daily/2026-11-16/notes/gautam-2026-bernstein-discharge.md) |
+| 2026-11-16 | [On stimulated scattering including harmonic generation in an unmagnetized pair plasma for arbitrary pump strengths](../papers/arxiv-2611-17279/README.md) | arXiv preprint | [笔记](../daily/2026-11-16/notes/patel-2026-pair-stimulated-scattering.md) |
 | 2026-11-14 | [A weak-form discrete physical-residual PINN method for solving multigroup neutron diffusion equations](../papers/10-3389-fenrg-2026-2005399/README.md) | Frontiers in Energy Research | [笔记](../daily/2026-11-14/notes/hu-2026-neutron-diffusion-pinn.md) |
 | 2026-11-14 | [Nonthermal Particle Acceleration by Magnetic Pumping in Pulsating Plasmas](../papers/10-1103-wyt1-24q7/README.md) | Physical Review Letters | [笔记](../daily/2026-11-14/notes/arro-2026-magnetic-pumping.md) |
 | 2026-11-14 | [Laser-Driven Electron Stripping from Nanoparticles in Plasma](../papers/arxiv-2611-16505/README.md) | arXiv preprint | [笔记](../daily/2026-11-14/notes/mishi-2026-nanoparticle-stripping.md) |

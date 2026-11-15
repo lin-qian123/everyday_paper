@@ -1,0 +1,105 @@
+{
+  "paper": "2611.16415v1",
+  "source_pdf": "daily/2026-11-16/pdfs/photoneutron-2026.pdf",
+  "full_layout_text_read": true,
+  "references_read_as_bibliography_not_reverified": true,
+  "rendered_pages_visual_checked": [
+    2,
+    7,
+    10,
+    11,
+    12,
+    13,
+    14,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "figures": [
+    {
+      "path": "daily/2026-11-16/images/photoneutron-fig5.png",
+      "source_pdf": "daily/2026-11-16/pdfs/photoneutron-2026.pdf",
+      "pdf_page_1based": 12,
+      "clip_points": [
+        165,
+        135,
+        410,
+        325
+      ],
+      "scale": 2,
+      "description": "Figure 5 net count rate and MC normalized at 1cm",
+      "sha256": "c9d31e53ae81375b3b6c4f575c1e19d7b06e00790a2d662658a46fb07c18bad8",
+      "reader_visual_checked": true,
+      "decoded_pixels_match_source_pdf": true
+    },
+    {
+      "path": "daily/2026-11-16/images/photoneutron-fig7.png",
+      "source_pdf": "daily/2026-11-16/pdfs/photoneutron-2026.pdf",
+      "pdf_page_1based": 14,
+      "clip_points": [
+        150,
+        385,
+        415,
+        575
+      ],
+      "scale": 2,
+      "description": "Figure 7 unfolded and simulated spectral shapes",
+      "sha256": "dd5187b6c47fe94ccff33bf36a60dc0093e2245edfbe6beefa5aa9ae93223402",
+      "reader_visual_checked": true,
+      "decoded_pixels_match_source_pdf": true
+    },
+    {
+      "path": "daily/2026-11-16/images/photoneutron-fig9.png",
+      "source_pdf": "daily/2026-11-16/pdfs/photoneutron-2026.pdf",
+      "pdf_page_1based": 17,
+      "clip_points": [
+        80,
+        375,
+        515,
+        575
+      ],
+      "scale": 2,
+      "description": "Figure 9 normalized NR/ER geometric scan",
+      "sha256": "693e6ea7ddc2ebf3445338fb10aca465b8ba4f91e128928a401a91150f5250f3",
+      "reader_visual_checked": true,
+      "decoded_pixels_match_source_pdf": true
+    }
+  ],
+  "note_path": "daily/2026-11-16/notes/tian-2026-thorium-photoneutron.md",
+  "pdf_author_order": [
+    "Yueqiang Tian",
+    "Chen Cheng",
+    "Yuxin Cui",
+    "Xunan Guo",
+    "Zichao Guo",
+    "Yao Tong",
+    "Pingquan Wang",
+    "Hailun Yuan",
+    "Hui Zhang",
+    "Xiaopeng Zhou"
+  ],
+  "metadata_difference": "PDF has 10 authors; arXiv citation metadata has 8, missing Yao Tong and Hailun Yuan and different Chen Cheng order",
+  "arithmetic_checks": {
+    "rate_132_3_div_0_0763": 1733.9449541284403,
+    "stat_5_8_div_0_0763": 76.01572739187417,
+    "systematic_quadrature_percent": 3.7625656140458204,
+    "xe_131_max_recoil_220keV": 6.616161616161616
+  },
+  "limitations": [
+    "Fig2 explicitly modified cross sections; scale and bias correction not sufficiently specified; only relative angular shape",
+    "Forward emission defined at source end face, not 4pi flux; absolute rate uses MC efficiency7.63percent",
+    "72kBq parent activity is July2025; measurement dates and decay-correction epoch insufficiently explicit",
+    "Fig5 MC normalized at measured1cm; not absolute independent validation",
+    "Bonner MAXED response and default spectrum both Geant4; no unfolded uncertainty band or prior sensitivity",
+    "BSS response3.21+-0.3cm2 versus pressure-induced1percent are different uncertainty quantities",
+    "PandaX new tungsten50mm inner diameter changes D2O from80mm flask; source transfer and joint angle-energy distribution need inputs",
+    "PandaX4.60eventsperhour and220hours sample are simulation forecasts with ideal deposit selection; gamma coincidence explicitly unmodeled",
+    "Compton can give single low-energy electron deposits; manuscript leakage explanation not independently demonstrated",
+    "Fig6a AI-generated schematic, not photograph"
+  ],
+  "mineru": "0 requests; historical authentication expiry not retested",
+  "author_physics_or_unfolding_rerun": false
+}

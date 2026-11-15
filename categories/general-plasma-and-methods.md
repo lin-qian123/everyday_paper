@@ -2,11 +2,13 @@
 
 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。
 
-- 当前收录：118 篇
-- 索引更新时间：2026-11-15
+- 当前收录：120 篇
+- 索引更新时间：2026-11-16
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-16 | [Simulation studies of resonant excitation of electron Bernstein waves in capacitive discharges](../papers/10-1103-cv7h-ghnk/README.md) | Physical Review E | [笔记](../daily/2026-11-16/notes/gautam-2026-bernstein-discharge.md) |
+| 2026-11-16 | [On stimulated scattering including harmonic generation in an unmagnetized pair plasma for arbitrary pump strengths](../papers/arxiv-2611-17279/README.md) | arXiv preprint | [笔记](../daily/2026-11-16/notes/patel-2026-pair-stimulated-scattering.md) |
 | 2026-11-14 | [Nonthermal Particle Acceleration by Magnetic Pumping in Pulsating Plasmas](../papers/10-1103-wyt1-24q7/README.md) | Physical Review Letters | [笔记](../daily/2026-11-14/notes/arro-2026-magnetic-pumping.md) |
 | 2026-11-14 | [Plasma simulations with adaptive mesh and algorithm refinement](../papers/arxiv-2611-14820/README.md) | arXiv preprint | [笔记](../daily/2026-11-14/notes/kolobov-2026-pamar.md) |
 | 2026-11-03 | [Thermonuclear reaction rate of the deuteron alpha capture reaction in cluster effective field theory](../papers/10-1038-s41598-026-78629-5/README.md) | Scientific Reports | [笔记](../daily/2026-11-03/notes/Nazari et al. - 2026 - Deuteron alpha capture reaction rate.md) |

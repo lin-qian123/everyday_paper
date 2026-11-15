@@ -1,0 +1,79 @@
+{
+  "previous_objects_unchanged": 570,
+  "new_works": [
+    {
+      "key": "ebw",
+      "doi": "10.1103/cv7h-ghnk",
+      "arxiv_version": "2508.15269v2",
+      "identifier_title_source_alias_check": "no matching completed or retry record",
+      "nearest_title_matches": [
+        {
+          "doi": "10.1017/S0022377826101342",
+          "title": "Relativistically strong electromagnetic waves in magnetised plasmas",
+          "ratio": 0.497
+        },
+        {
+          "doi": "10.1017/hpl.2026.10172",
+          "title": "Effects of External Magnetic Field on Hot Electrons Transport in the Shock Ignition Scheme",
+          "ratio": 0.478
+        },
+        {
+          "doi": "10.48550/arXiv.2611.05973",
+          "title": "Estimation of Very High Energy Electron (VHEE) beam parameters using an in-air screen",
+          "ratio": 0.463
+        }
+      ],
+      "scenario_review": "Companion 10.1103/5hwk-fymz shares authors/scenario; only detailed work ingested, companion not fullread."
+    },
+    {
+      "key": "photoneutron",
+      "doi": "10.48550/arXiv.2611.16415",
+      "arxiv_version": "2611.16415v1",
+      "identifier_title_source_alias_check": "no matching completed or retry record",
+      "nearest_title_matches": [
+        {
+          "doi": "10.48550/arXiv.2607.19495",
+          "title": "Experimental determination of the Dalitz plot for positronium decay using the J-PET detection system",
+          "ratio": 0.461
+        },
+        {
+          "doi": "10.1017/hpl.2026.10184",
+          "title": "Experimental Investigation of laser driven proton bunching with plastic foil targets",
+          "ratio": 0.439
+        },
+        {
+          "doi": "10.1063/5.0323034",
+          "title": "Characterization and optimization of a laser-produced x-ray source for x-ray radiography",
+          "ratio": 0.431
+        }
+      ],
+      "scenario_review": "Radioactive Th208Tl gamma plus deuteron breakup calibration experiment, distinct from prior Ho/Tm/Bi cross-section works and laser converters."
+    },
+    {
+      "key": "pair",
+      "doi": "10.48550/arXiv.2611.17279",
+      "arxiv_version": "2611.17279v1",
+      "identifier_title_source_alias_check": "no matching completed or retry record",
+      "nearest_title_matches": [
+        {
+          "doi": "10.48550/arXiv.2607.08464",
+          "title": "Photon Acceleration in Magnetized Plasma: A Mechanism for Fast Radio Bursts",
+          "ratio": 0.479
+        },
+        {
+          "doi": "10.1017/hpl.2026.10152",
+          "title": "Design of experiments characterising heat conduction in magnetised, weakly collisional plasma",
+          "ratio": 0.447
+        },
+        {
+          "doi": "10.1103/PhysRevLett.123.025001",
+          "title": "Laser Amplification in Strongly Magnetized Plasma",
+          "ratio": 0.442
+        }
+      ],
+      "scenario_review": "Cites old Tangtartharakul/Arefiev/Lyutikov Bragg work10.1103/g27z-2kd3. Different authors/new OSIRIS analysis of growth/harmonics/temperature; not independent experimental confirmation."
+    }
+  ],
+  "retry_queue_unchanged": 69,
+  "legacy_overlap": "10.1016/j.jcp.2026.114707 remains a pre-existing completed(pdf_path null)/retry overlap; not changed or recertified"
+}
