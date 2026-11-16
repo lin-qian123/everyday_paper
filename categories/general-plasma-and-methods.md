@@ -3,7 +3,7 @@
 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。
 
 - 当前收录：120 篇
-- 索引更新时间：2026-11-16
+- 索引更新时间：2026-11-17
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
@@ -97,7 +97,7 @@
 | 2026-08-23 | [Wavefront shaping of terahertz radiation using two-color flying-focus pulses with time-dependent focal velocities](../papers/arxiv-2608-20142/README.md) | arXiv preprint | [笔记](../daily/2026-08-23/notes/Elliott et al. - 2026 - Flying-focus terahertz wavefront shaping.md) |
 | 2026-07-22 | [Exploring Self-Organization of Charged Dust Dimers in Plasma](../papers/arxiv-2607-19180/README.md) | arXiv preprint | [笔记](../daily/2026-07-22/notes/Aman Singh Katariya et al. - 2026 - Charged dust dimers plasma.md) |
 | 2026-07-15 | [Toward AI-Agent-Driven Particle Transport Simulations: Implementation of AI-Assisted Workflows for PHITS](../papers/10-1080-00223131-2026-2742550/README.md) | Journal of Nuclear Science and Technology (formal online publication; local full text is the corresponding arXiv:2607.11309 author preprint, not VOR) | [笔记](../daily/2026-07-15/notes/Tatsuhiko Sato et al. - 2026 - Toward AI-Agent-Driven Particle Transport Simulations.md) |
-| 2026-07-10 | [Terahertz Generation through Photon Deceleration of Long-Wavelength Infrared Laser Pulses in Plasma](../papers/arxiv-2607-07005/README.md) | arXiv preprint | [笔记](../daily/2026-07-10/notes/Srimanta Maity - 2026 - Terahertz Generation through Photon Deceleration.md) |
+| 2026-07-10 | [Terahertz Generation through Photon Deceleration of Long-Wavelength Infrared Laser Pulses in Plasma](../papers/10-1103-p838-2l32/README.md) | Physical Review A (accepted 2026-11-16 per Crossref; publication unverified) | [笔记](../daily/2026-07-10/notes/Srimanta Maity - 2026 - Terahertz Generation through Photon Deceleration.md) |
 | 2026-07-09 | [Mega-Gauss Plasma Jet Creation Using a Ring of Laser Beams](../papers/arxiv-2607-05746/README.md) | arXiv preprint | [笔记](../daily/2026-07-09/notes/L. Gao et al. - 2026 - Mega-Gauss Plasma Jet Creation Using a Ring of Laser Beams.md) |
 | 2026-07-09 | [Hot Spot Evolution Measured by High-Resolution X-Ray Spectroscopy at the National Ignition Facility](../papers/arxiv-2607-05738/README.md) | arXiv preprint | [笔记](../daily/2026-07-09/notes/Lan Gao et al. - 2026 - Hot Spot Evolution Measured by High-Resolution X-Ray Spectroscopy.md) |
 | 2026-07-07 | [Transiently Driven Reflectionless Resonant Microwave Plasmas via Virtual Critical Coupling](../papers/arxiv-2607-02323/README.md) | arXiv preprint | [笔记](../daily/2026-07-07/notes/Muhammad Rizwan Akram and Abbas Semnani - 2026 - Transiently Driven Reflectionless Resonant Microwave Plasmas.md) |

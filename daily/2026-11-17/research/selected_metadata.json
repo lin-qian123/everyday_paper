@@ -1,0 +1,1738 @@
+[
+  {
+    "doi": "10.1103/p838-2l32",
+    "status": 200,
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            16
+          ]
+        ],
+        "date-time": "2026-11-16T18:26:14Z",
+        "timestamp": 1794853574634,
+        "version": "4.9.1"
+      },
+      "reference-count": 0,
+      "publisher": "American Physical Society (APS)",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                11,
+                16
+              ]
+            ],
+            "date-time": "2026-11-16T00:00:00Z",
+            "timestamp": 1794787200000
+          },
+          "content-version": "am",
+          "delay-in-days": 0,
+          "URL": "https://link.aps.org/licenses/aps-default-license"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "journals.aps.org"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Phys. Rev. A"
+      ],
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            16
+          ]
+        ]
+      },
+      "DOI": "10.1103/p838-2l32",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            16
+          ]
+        ],
+        "date-time": "2026-11-16T18:11:07Z",
+        "timestamp": 1794852667000
+      },
+      "update-policy": "https://doi.org/10.1103/crossmark-policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Terahertz generation through photon deceleration of long-wavelength infrared laser pulses in plasma"
+      ],
+      "prefix": "10.1103",
+      "author": [
+        {
+          "given": "Srimanta",
+          "family": "Maity",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "16",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            16
+          ]
+        ]
+      },
+      "container-title": [
+        "Physical Review A"
+      ],
+      "original-title": [],
+      "language": "en",
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            16
+          ]
+        ],
+        "date-time": "2026-11-16T18:11:07Z",
+        "timestamp": 1794852667000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://link.aps.org/doi/10.1103/p838-2l32"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            16
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.1103/p838-2l32",
+      "relation": {},
+      "ISSN": [
+        "2469-9926",
+        "2469-9934"
+      ],
+      "issn-type": [
+        {
+          "value": "2469-9926",
+          "type": "print"
+        },
+        {
+          "value": "2469-9934",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            16
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "2026-06-23",
+          "name": "date_received",
+          "label": "Date Received",
+          "group": {
+            "name": "publication_dates",
+            "label": "Publication dates"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "doi": "10.1063/5.0352707",
+    "status": 200,
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            16
+          ]
+        ],
+        "date-time": "2026-11-16T15:23:20Z",
+        "timestamp": 1794842600461,
+        "version": "4.9.1"
+      },
+      "reference-count": 26,
+      "publisher": "AIP Publishing",
+      "issue": "11",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                11,
+                14
+              ]
+            ],
+            "date-time": "2026-11-14T00:00:00Z",
+            "timestamp": 1794614400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 13,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/100016308",
+          "name": "Bpifrance",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "DOS0237680/00"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "DOS0237680/00"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/100016308",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/100019784",
+          "name": "EUROfusion",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "CfP-FSD-AWP26-ENR-01"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "CfP-FSD-AWP26-ENR-01"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/100019784",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "pubs.aip.org"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            1
+          ]
+        ]
+      },
+      "abstract": "<jats:p>We study the convective parametric amplification of the scattered wave driven by a spatially localized broadband pump in an inhomogeneous plasma in one-dimensional geometry. Two particular cases are considered: a strongly inhomogeneous plasma, in which the three-wave interaction length is shorter than the pump localization length; and a tightly focused laser beam, in which the localization length is shorter than the detuning length due to plasma inhomogeneity. A numerical solution of a pair of coupled-wave equations shows that, in both cases, the broadband pump produces a strongly nonstationary response, with large-amplitude spikes in the scattered-wave intensity. However, the time-averaged level of scattered intensity is reproducible across simulations with different pump field realizations. It shows relatively small statistical variation when the pump bandwidth exceeds the characteristic growth rate of the instability. The pump bandwidth leads to a notable difference between the forward and backward scattering (for the same characteristic growth rate). Backward-scattering amplification is smaller, and it exhibits a stronger dependence on the pump bandwidth. Conditions for mitigating spatial amplification are discussed for stimulated Raman and Brillouin scattering.</jats:p>",
+      "DOI": "10.1063/5.0352707",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            16
+          ]
+        ],
+        "date-time": "2026-11-16T15:01:08Z",
+        "timestamp": 1794841268000
+      },
+      "update-policy": "https://doi.org/10.1063/aip-crossmark-policy-page",
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Excitation of parametric instabilities with a broadband laser pulse in an inhomogeneous plasma"
+      ],
+      "prefix": "10.1063",
+      "volume": "33",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-7532-5879",
+          "authenticated-orcid": false,
+          "given": "V.",
+          "family": "Tikhonchuk",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "CELIA, University of Bordeaux, CNRS, CEA 1 , Talence,",
+              "place": [
+                "France"
+              ]
+            },
+            {
+              "name": "Extreme Light Infrastructure ERIC, ELI-Beamlines Facility 2 , Dolní Břežany,",
+              "place": [
+                "Czech Republic"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-7852-4216",
+          "authenticated-orcid": false,
+          "given": "D.",
+          "family": "Blackman",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Extreme Light Infrastructure ERIC, ELI-Beamlines Facility 2 , Dolní Břežany,",
+              "place": [
+                "Czech Republic"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4835-0408",
+          "authenticated-orcid": false,
+          "given": "P.",
+          "family": "Loiseau",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "CEA, DAM, DIF 3 , Arpajon,",
+              "place": [
+                "France"
+              ]
+            },
+            {
+              "name": "Université Paris-Saclay, CEA, Laboratoire Matière en Conditions Extrêmes 4 , Bruyères-le-Châtel,",
+              "place": [
+                "France"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-9944-1372",
+          "authenticated-orcid": false,
+          "given": "C.",
+          "family": "Ruyer",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "CEA, DAM, DIF 3 , Arpajon,",
+              "place": [
+                "France"
+              ]
+            },
+            {
+              "name": "Université Paris-Saclay, CEA, Laboratoire Matière en Conditions Extrêmes 4 , Bruyères-le-Châtel,",
+              "place": [
+                "France"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "317",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            16
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "2026111610010363600_c1",
+          "doi-asserted-by": "publisher",
+          "first-page": "1608",
+          "DOI": "10.1063/1.1694940",
+          "article-title": "Effect of finite-bandwidth driver on the parametric instability",
+          "volume": "17",
+          "year": "1974",
+          "journal-title": "Nucl. Fusion"
+        },
+        {
+          "key": "2026111610010363600_c2",
+          "doi-asserted-by": "publisher",
+          "first-page": "2049",
+          "DOI": "10.1063/1.861824",
+          "article-title": "Parametric instabilities in the presence of space-time random fluctuations",
+          "volume": "20",
+          "year": "1977",
+          "journal-title": "Phys. Fluids"
+        },
+        {
+          "key": "2026111610010363600_c3",
+          "unstructured": "D.\n            Pesme\n          , R. L.Berger, E. A.Williams, A.Bourdier, and A.Bortuzzo-Lesne, “A statistical description of parametric instabilities with an incoherent pump,” arXiv:0710.2195 (2007)."
+        },
+        {
+          "key": "2026111610010363600_c4",
+          "doi-asserted-by": "publisher",
+          "first-page": "2883",
+          "DOI": "10.1103/PhysRevLett.72.2883",
+          "article-title": "Laser hot spots and the breakdown of linear instability theory with application to stimulated Brillouin scattering",
+          "volume": "72",
+          "year": "1994",
+          "journal-title": "Phys. Rev. Lett."
+        },
+        {
+          "key": "2026111610010363600_c5",
+          "doi-asserted-by": "publisher",
+          "first-page": "2216",
+          "DOI": "10.1063/1.871244",
+          "article-title": "Random phase plate hot spots and their effect on stimulated Brillouin backscatter and self-focusing",
+          "volume": "2",
+          "year": "1995",
+          "journal-title": "Phys. Plasmas"
+        },
+        {
+          "key": "2026111610010363600_c6",
+          "doi-asserted-by": "publisher",
+          "first-page": "255003",
+          "DOI": "10.1103/PhysRevLett.92.255003",
+          "article-title": "Instability versus equilibrium propagation of a laser beam in plasma",
+          "volume": "92",
+          "year": "2004",
+          "journal-title": "Phys. Rev. Lett."
+        },
+        {
+          "key": "2026111610010363600_c7",
+          "doi-asserted-by": "publisher",
+          "first-page": "235001",
+          "DOI": "10.1103/PhysRevLett.98.235001",
+          "article-title": "White-light parametric instabilities in plasmas",
+          "volume": "98",
+          "year": "2007",
+          "journal-title": "Phys. Rev. Lett."
+        },
+        {
+          "key": "2026111610010363600_c8",
+          "doi-asserted-by": "publisher",
+          "first-page": "012107",
+          "DOI": "10.1063/1.4906057",
+          "article-title": "Beyond the random phase approximation: Stimulated Brillouin backscatter for finite laser coherence times",
+          "volume": "22",
+          "year": "2015",
+          "journal-title": "Phys. Plasmas"
+        },
+        {
+          "key": "2026111610010363600_c9",
+          "doi-asserted-by": "publisher",
+          "first-page": "094003",
+          "DOI": "10.1088/1361-6587/ac11b5",
+          "article-title": "Bandwidth effects in stimulated Brillouin scattering driven by partially incoherent light",
+          "volume": "63",
+          "year": "2021",
+          "journal-title": "Plasma Phys. Controlled Fusion"
+        },
+        {
+          "key": "2026111610010363600_c10",
+          "doi-asserted-by": "publisher",
+          "first-page": "155003",
+          "DOI": "10.1103/PhysRevLett.99.155003",
+          "article-title": "Controlling stimulated Brillouin backscatter with beam smoothing in weakly damped systems",
+          "volume": "99",
+          "year": "2007",
+          "journal-title": "Phys. Rev. Lett."
+        },
+        {
+          "key": "2026111610010363600_c11",
+          "doi-asserted-by": "publisher",
+          "first-page": "503",
+          "DOI": "10.1063/1.872733",
+          "article-title": "Time-dependent filamentation and stimulated Brillouin forward scattering in inertial confinement fusion plasmas",
+          "volume": "5",
+          "year": "1998",
+          "journal-title": "Phys. Plasmas"
+        },
+        {
+          "key": "2026111610010363600_c12",
+          "doi-asserted-by": "publisher",
+          "first-page": "205001",
+          "DOI": "10.1103/PhysRevLett.97.205001",
+          "article-title": "Laser-beam smoothing induced by stimulated Brillouin scattering in an inhomogeneous plasma",
+          "volume": "97",
+          "year": "2006",
+          "journal-title": "Phys. Rev. Lett."
+        },
+        {
+          "key": "2026111610010363600_c13",
+          "doi-asserted-by": "publisher",
+          "first-page": "065207",
+          "DOI": "10.1103/PhysRevE.110.065207",
+          "article-title": "Impact of electron trapping on stimulated Raman scattering under incoherent broadband laser light in homogeneous plasma",
+          "volume": "110",
+          "year": "2024",
+          "journal-title": "Phys. Rev. E"
+        },
+        {
+          "key": "2026111610010363600_c14",
+          "doi-asserted-by": "publisher",
+          "first-page": "032101",
+          "DOI": "10.1063/5.0243322",
+          "article-title": "Fluid and kinetic nonlinearities for back-stimulated Raman scattering driven by a broadband laser",
+          "volume": "32",
+          "year": "2025",
+          "journal-title": "Phys. Plasmas"
+        },
+        {
+          "key": "2026111610010363600_c15",
+          "doi-asserted-by": "publisher",
+          "first-page": "035102",
+          "DOI": "10.1103/PhysRevLett.132.035102",
+          "article-title": "Reduction of backward scatterings at the low-coherence Kunwu laser facility",
+          "volume": "132",
+          "year": "2024",
+          "journal-title": "Phys. Rev. Lett."
+        },
+        {
+          "key": "2026111610010363600_c16",
+          "doi-asserted-by": "publisher",
+          "first-page": "115027",
+          "DOI": "10.1088/1361-6587/ae1871",
+          "article-title": "Experimental study of laser plasma instabilities with broadband laser pulses at the GSI PHELIX laser facility",
+          "volume": "67",
+          "year": "2025",
+          "journal-title": "Plasma Phys. Controlled Fusion"
+        },
+        {
+          "key": "2026111610010363600_c17",
+          "doi-asserted-by": "publisher",
+          "first-page": "012107",
+          "DOI": "10.1063/5.0302110",
+          "article-title": "Effect of spectral bandwidth on the stimulated scattering of laser beams in plasma",
+          "volume": "33",
+          "year": "2026",
+          "journal-title": "Phys. Plasmas"
+        },
+        {
+          "key": "2026111610010363600_c18",
+          "doi-asserted-by": "publisher",
+          "first-page": "2882",
+          "DOI": "10.1063/1.859921",
+          "article-title": "The effect of bandwidth on the convective Raman instability inhomogeneous plasma",
+          "volume": "3",
+          "year": "1991",
+          "journal-title": "Phys. Fluids B"
+        },
+        {
+          "key": "2026111610010363600_c19",
+          "doi-asserted-by": "publisher",
+          "first-page": "032102",
+          "DOI": "10.1063/5.0078985",
+          "article-title": "On the role of bandwidth in pump and seed light waves for stimulated Raman scattering in inhomogeneous plasmas",
+          "volume": "29",
+          "year": "2022",
+          "journal-title": "Phys. Plasmas"
+        },
+        {
+          "key": "2026111610010363600_c20",
+          "doi-asserted-by": "publisher",
+          "first-page": "022112",
+          "DOI": "10.1063/5.0245656",
+          "article-title": "Statistical theory of a near-forward stimulated Brillouin scattering driven by a spatially and temporally smoothed laser beam",
+          "volume": "32",
+          "year": "2025",
+          "journal-title": "Phys. Plasmas"
+        },
+        {
+          "key": "2026111610010363600_c21",
+          "doi-asserted-by": "publisher",
+          "first-page": "565",
+          "DOI": "10.1103/PhysRevLett.29.565",
+          "article-title": "Parametric instabilities in inhomogeneous media",
+          "volume": "29",
+          "year": "1972",
+          "journal-title": "Phys. Rev. Lett."
+        },
+        {
+          "key": "2026111610010363600_c22"
+        },
+        {
+          "key": "2026111610010363600_c23",
+          "year": "2025"
+        },
+        {
+          "key": "2026111610010363600_c24",
+          "doi-asserted-by": "publisher",
+          "first-page": "122707",
+          "DOI": "10.1063/5.0018669",
+          "article-title": "Fluid modeling of stimulated Raman scattering accounting for trapped particles benchmarked against fully kinetic simulations",
+          "volume": "27",
+          "year": "2020",
+          "journal-title": "Phys. Plasmas"
+        },
+        {
+          "key": "2026111610010363600_c25",
+          "doi-asserted-by": "publisher",
+          "first-page": "3456",
+          "DOI": "10.1063/1.344101",
+          "article-title": "Improved laser-beam uniformity using the angular dispersion of frequency-modulated light",
+          "volume": "66",
+          "year": "1989",
+          "journal-title": "J. Appl. Phys."
+        },
+        {
+          "key": "2026111610010363600_c26",
+          "doi-asserted-by": "publisher",
+          "first-page": "2680",
+          "DOI": "10.1063/1.339419",
+          "article-title": "Theory of induced spatial incoherence",
+          "volume": "62",
+          "year": "1987",
+          "journal-title": "J. Appl. Phys."
+        }
+      ],
+      "container-title": [
+        "Physics of Plasmas"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://pubs.aip.org/aip/pop/article-pdf/doi/10.1063/5.0352707/21202023/112104_1_5.0352707.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "syndication"
+        },
+        {
+          "URL": "https://pubs.aip.org/aip/pop/article-pdf/doi/10.1063/5.0352707/21202023/112104_1_5.0352707.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            16
+          ]
+        ],
+        "date-time": "2026-11-16T15:01:10Z",
+        "timestamp": 1794841270000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://pubs.aip.org/pop/article/33/11/112104/3408730/Excitation-of-parametric-instabilities-with-a"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            1
+          ]
+        ]
+      },
+      "references-count": 26,
+      "journal-issue": {
+        "issue": "11",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              1
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1063/5.0352707",
+      "relation": {},
+      "ISSN": [
+        "1070-664X",
+        "1089-7674"
+      ],
+      "issn-type": [
+        {
+          "value": "1070-664X",
+          "type": "print"
+        },
+        {
+          "value": "1089-7674",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published-other": {
+        "date-parts": [
+          [
+            2026,
+            11
+          ]
+        ]
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            1
+          ]
+        ]
+      },
+      "article-number": "112104"
+    }
+  },
+  {
+    "doi": "10.1038/s41598-026-80539-5",
+    "status": 200,
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            14
+          ]
+        ],
+        "date-time": "2026-11-14T16:21:29Z",
+        "timestamp": 1794673289282,
+        "version": "4.9.1"
+      },
+      "reference-count": 47,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                11,
+                14
+              ]
+            ],
+            "date-time": "2026-11-14T00:00:00Z",
+            "timestamp": 1794614400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                11,
+                14
+              ]
+            ],
+            "date-time": "2026-11-14T00:00:00Z",
+            "timestamp": 1794614400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "funder": [
+        {
+          "name": "Helmholtz-Zentrum Dresden - Rossendorf e.V."
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "link.springer.com"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Sci Rep"
+      ],
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Laser plasma accelerators (LPAs), capable of producing ultra-short, high peak current electron beams with low emittance, offer a promising path toward next-generation compact free-electron lasers (FELs). However, their large energy spread, high divergence, and shot-to-shot fluctuations present major challenges for stable FEL operation. This work demonstrates the effectiveness of the\n                    <jats:sc>Coxinel</jats:sc>\n                    phase-space manipulation beamline in mitigating these limitations for 196 MeV LPA-generated electron beams, with beam transport validated through experiments and\n                    <jats:sc>Elegant</jats:sc>\n                    simulations. FEL performance at 270 nm is analyzed using\n                    <jats:sc>Genesis</jats:sc>\n                    code, with additional studies extending to shorter wavelength (64 nm, 41 nm, 28 nm), revealing strong sensitivity to beam parameters at the LPA source. The results establish a structured approach for optimizing LPA-driven FELs, highlighting key advances in beam transport, stability, and phase-space control for compact light sources.\n                  </jats:p>",
+      "DOI": "10.1038/s41598-026-80539-5",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            14
+          ]
+        ],
+        "date-time": "2026-11-14T15:17:03Z",
+        "timestamp": 1794669423000
+      },
+      "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Qualifying LPA generated electron beams to free electron laser applications"
+      ],
+      "prefix": "10.1038",
+      "volume": "16",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-1064-489X",
+          "authenticated-orcid": false,
+          "given": "Amin",
+          "family": "Ghaith",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            },
+            {
+              "role": "corresponding-author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Marie",
+          "family": "Labat",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Driss Oumbarek",
+          "family": "Espinos",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Maxwell",
+          "family": "LaBerge",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Susanne",
+          "family": "Schöbel",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Patrick",
+          "family": "Ufer",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Yen-Yu",
+          "family": "Chang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Franziska Marie",
+          "family": "Herrmann",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Mathieu",
+          "family": "Valléau",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Eléonore",
+          "family": "Roussel",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Alexandre",
+          "family": "Loulergue",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Ulrich",
+          "family": "Schramm",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Arie",
+          "family": "Irman",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Marie-Emmanuelle",
+          "family": "Couprie",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            14
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "issue": "4",
+          "key": "80539_CR1",
+          "doi-asserted-by": "publisher",
+          "first-page": "267",
+          "DOI": "10.1103/PhysRevLett.43.267",
+          "volume": "43",
+          "author": "T Tajima",
+          "year": "1979",
+          "unstructured": "Tajima, T. & Dawson, J. M. Laser electron accelerator. Phys. Rev. Lett.43(4), 267 (1979).",
+          "journal-title": "Phys. Rev. Lett."
+        },
+        {
+          "issue": "5",
+          "key": "80539_CR2",
+          "doi-asserted-by": "publisher",
+          "first-page": "1906",
+          "DOI": "10.1063/1.1660466",
+          "volume": "42",
+          "author": "JM Madey",
+          "year": "1971",
+          "unstructured": "Madey, J. M. Stimulated emission of bremsstrahlung in a periodic magnetic field. J. Appl. Phys.42(5), 1906–1913 (1971).",
+          "journal-title": "J. Appl. Phys."
+        },
+        {
+          "key": "80539_CR3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1017/hpl.2021.39",
+          "volume": "9",
+          "author": "C Emma",
+          "year": "2021",
+          "unstructured": "Emma, C. et al. Free electron lasers driven by plasma accelerators: status and near-term prospects. High Power Laser Science and Engineering9, e57 (2021).",
+          "journal-title": "High Power Laser Science and Engineering"
+        },
+        {
+          "key": "80539_CR4",
+          "doi-asserted-by": "publisher",
+          "first-page": "780",
+          "DOI": "10.1038/s41566-024-01474-3",
+          "volume": "18",
+          "author": "M Galletti",
+          "year": "2024",
+          "unstructured": "Galletti, M. et al. Prospects for free-electron lasers powered by plasma-wakefield-accelerated beams. Nat. Photonics18, 780–791 (2024).",
+          "journal-title": "Nat. Photonics"
+        },
+        {
+          "issue": "3",
+          "key": "80539_CR5",
+          "doi-asserted-by": "publisher",
+          "first-page": "1229",
+          "DOI": "10.1103/RevModPhys.81.1229",
+          "volume": "81",
+          "author": "E Esarey",
+          "year": "2009",
+          "unstructured": "Esarey, E., Schroeder, C. B. & Leemans, W. P. Physics of laser-driven plasma-based electron accelerators. Rev. Mod. Phys.81(3), 1229 (2009).",
+          "journal-title": "Rev. Mod. Phys."
+        },
+        {
+          "key": "80539_CR6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1017/hpl.2019.36",
+          "volume": "7",
+          "author": "CN Danson",
+          "year": "2019",
+          "unstructured": "Danson, C. N. et al. Petawatt and exawatt class lasers worldwide. High Power Laser Sci. Eng.7, e54 (2019).",
+          "journal-title": "High Power Laser Sci. Eng."
+        },
+        {
+          "issue": "3",
+          "key": "80539_CR7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/RevModPhys.90.035002",
+          "volume": "90",
+          "author": "MC Downer",
+          "year": "2018",
+          "unstructured": "Downer, M. C., Zgadzaj, R., Debus, A., Schramm, U. & Kaluza, M. C. Diagnostics for plasma-based electron accelerators. Rev. Modern Phys.90(3), 035002 (2018).",
+          "journal-title": "Rev. Modern Phys."
+        },
+        {
+          "key": "80539_CR8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/1.4975613",
+          "author": "YF Li",
+          "year": "2017",
+          "unstructured": "Li, Y. F. et al. Generation of 20 ka electron beam from a laser wakefield accelerator. Phys. Plasmashttps://doi.org/10.1063/1.4975613 (2017).",
+          "journal-title": "Phys. Plasmas"
+        },
+        {
+          "issue": "25",
+          "key": "80539_CR9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/PhysRevLett.133.255001",
+          "volume": "133",
+          "author": "A Picksley",
+          "year": "2024",
+          "unstructured": "Picksley, A. et al. Matched guiding and controlled injection in dark-current-free, 10-gev-class, channel-guided laser-plasma accelerators. Phys. Rev. Lett.133(25), 255001 (2024).",
+          "journal-title": "Phys. Rev. Lett."
+        },
+        {
+          "issue": "6",
+          "key": "80539_CR10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/PhysRevLett.109.064802",
+          "volume": "109",
+          "author": "GR Plateau",
+          "year": "2012",
+          "unstructured": "Plateau, G. R. et al. Low-emittance electron bunches from a laser-plasma accelerator measured using single-shot x-ray spectroscopy. Phys. Rev. Lett.109(6), 064802 (2012).",
+          "journal-title": "Phys. Rev. Lett."
+        },
+        {
+          "issue": "21",
+          "key": "80539_CR11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/PhysRevLett.126.214801",
+          "volume": "126",
+          "author": "LT Ke",
+          "year": "2021",
+          "unstructured": "Ke, L. T. et al. Near-gev electron beams at a few per-mille level from a laser wakefield accelerator via density-tailored plasma. Phys. Rev. Lett.126(21), 214801 (2021).",
+          "journal-title": "Phys. Rev. Lett."
+        },
+        {
+          "issue": "1",
+          "key": "80539_CR12",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41467-017-00592-7",
+          "volume": "8",
+          "author": "JP Couperus",
+          "year": "2017",
+          "unstructured": "Couperus, J. P. et al. Demonstration of a beam loaded nanocoulomb-class laser wakefield accelerator. Nat. Commun.8(1), 487 (2017).",
+          "journal-title": "Nat. Commun."
+        },
+        {
+          "issue": "9",
+          "key": "80539_CR13",
+          "doi-asserted-by": "publisher",
+          "first-page": "952",
+          "DOI": "10.1038/s41566-024-01475-2",
+          "volume": "18",
+          "author": "M LaBerge",
+          "year": "2024",
+          "unstructured": "LaBerge, M. et al. Revealing the three-dimensional structure of microbunched plasma-wakefield-accelerated electron beams. Nat. Photonics18(9), 952–959 (2024).",
+          "journal-title": "Nat. Photonics"
+        },
+        {
+          "issue": "3",
+          "key": "80539_CR14",
+          "doi-asserted-by": "publisher",
+          "first-page": "219",
+          "DOI": "10.1038/nphys1872",
+          "volume": "7",
+          "author": "O Lundh",
+          "year": "2011",
+          "unstructured": "Lundh, O. et al. Few femtosecond, few kiloampere electron bunch produced by a laser-plasma accelerator. Nat. Phys.7(3), 219–222 (2011).",
+          "journal-title": "Nat. Phys."
+        },
+        {
+          "issue": "1",
+          "key": "80539_CR15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/PhysRevAccelBeams.25.012801",
+          "volume": "25",
+          "author": "O Zarini",
+          "year": "2022",
+          "unstructured": "Zarini, O. et al. Multioctave high-dynamic range optical spectrometer for single-pulse, longitudinal characterization of ultrashort electron bunches. Phys. Rev. Accel. Beams25(1), 012801 (2022).",
+          "journal-title": "Phys. Rev. Accel. Beams"
+        },
+        {
+          "issue": "1",
+          "key": "80539_CR16",
+          "doi-asserted-by": "publisher",
+          "first-page": "293",
+          "DOI": "10.1103/PhysRevA.21.293",
+          "volume": "21",
+          "author": "P Sprangle",
+          "year": "1980",
+          "unstructured": "Sprangle, P. & Smith, R. A. Theory of free-electron lasers. Phys. Rev. A21(1), 293 (1980).",
+          "journal-title": "Phys. Rev. A"
+        },
+        {
+          "issue": "1",
+          "key": "80539_CR17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/RevModPhys.88.015006",
+          "volume": "88",
+          "author": "C Pellegrini",
+          "year": "2016",
+          "unstructured": "Pellegrini, C., Marinelli, A. & Reiche, S. The physics of x-ray free-electron lasers. Rev. Modern Phys.88(1), 015006 (2016).",
+          "journal-title": "Rev. Modern Phys."
+        },
+        {
+          "key": "80539_CR18",
+          "first-page": "207",
+          "volume": "10",
+          "author": "AM Kondratenko",
+          "year": "1980",
+          "unstructured": "Kondratenko, A. M. & Saldin, E. L. Generating of coherent radiation by a relativistic electron beam in an ondulator. Part. Accel.10, 207–216 (1980).",
+          "journal-title": "Part. Accel."
+        },
+        {
+          "issue": "6",
+          "key": "80539_CR19",
+          "doi-asserted-by": "publisher",
+          "first-page": "373",
+          "DOI": "10.1016/0030-4018(84)90105-6",
+          "volume": "50",
+          "author": "R Bonifacio",
+          "year": "1984",
+          "unstructured": "Bonifacio, R., Pellegrini, C. & Narducci, L. M. Collective instabilities and high-gain regime in a free electron laser. Opt. Commun.50(6), 373–378 (1984).",
+          "journal-title": "Opt. Commun."
+        },
+        {
+          "key": "80539_CR20",
+          "doi-asserted-by": "publisher",
+          "first-page": "267",
+          "DOI": "10.1007/BF02874012",
+          "volume": "58",
+          "author": "I Boscolo",
+          "year": "1980",
+          "unstructured": "Boscolo, I. & Stagno, V. The converter and the transverse optical klystron. Nuovo Cimento B Ser.58, 267–285 (1980).",
+          "journal-title": "Nuovo Cimento B Ser."
+        },
+        {
+          "issue": "1",
+          "key": "80539_CR21",
+          "doi-asserted-by": "publisher",
+          "first-page": "4498",
+          "DOI": "10.1038/s41467-018-06743-8",
+          "volume": "9",
+          "author": "OY Gorobtsov",
+          "year": "2018",
+          "unstructured": "Gorobtsov, O. Y. et al. Seeded x-ray free-electron laser generating radiation with laser statistical properties. Nat. Commun.9(1), 4498. (2018).",
+          "journal-title": "Nat. Commun."
+        },
+        {
+          "issue": "3",
+          "key": "80539_CR22",
+          "volume": "2",
+          "author": "AR Maier",
+          "year": "2012",
+          "unstructured": "Maier, A. R. et al. Demonstration scheme for a laser-plasma-driven free-electron laser. Phys. Rev. X2(3), 031019 (2012).",
+          "journal-title": "Phys. Rev. X"
+        },
+        {
+          "issue": "2",
+          "key": "80539_CR23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1088/1367-2630/17/2/023028",
+          "volume": "17",
+          "author": "A Loulergue",
+          "year": "2015",
+          "unstructured": "Loulergue, A. et al. Beam manipulation for compact laser Wakefield accelerator based free-electron lasers. New J. Phys.17(2), 023028 (2015).",
+          "journal-title": "New J. Phys."
+        },
+        {
+          "issue": "2",
+          "key": "80539_CR24",
+          "doi-asserted-by": "publisher",
+          "first-page": "130",
+          "DOI": "10.1038/nphys811",
+          "volume": "4",
+          "author": "H-P Schlenvoigt",
+          "year": "2008",
+          "unstructured": "Schlenvoigt, H.-P. et al. A compact synchrotron radiation source driven by a laser-plasma wakefield accelerator. Nat. Phys.4(2), 130–133 (2008).",
+          "journal-title": "Nat. Phys."
+        },
+        {
+          "issue": "11",
+          "key": "80539_CR25",
+          "doi-asserted-by": "publisher",
+          "first-page": "826",
+          "DOI": "10.1038/nphys1404",
+          "volume": "5",
+          "author": "M Fuchs",
+          "year": "2009",
+          "unstructured": "Fuchs, M. et al. Laser-driven soft-x-ray undulator source. Nat. Phys.5(11), 826–829 (2009).",
+          "journal-title": "Nat. Phys."
+        },
+        {
+          "key": "80539_CR26",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/1.4886997",
+          "author": "MP Anania",
+          "year": "2014",
+          "unstructured": "Anania, M. P. et al. An ultrashort pulse ultra-violet radiation undulator source driven by a laser plasma wakefield accelerator. Appl. Phys. Lett.https://doi.org/10.1063/1.4886997 (2014).",
+          "journal-title": "Appl. Phys. Lett."
+        },
+        {
+          "issue": "1",
+          "key": "80539_CR27",
+          "doi-asserted-by": "publisher",
+          "first-page": "5634",
+          "DOI": "10.1038/s41598-020-62401-4",
+          "volume": "10",
+          "author": "AR Maier",
+          "year": "2020",
+          "unstructured": "Maier, A. R. et al. Water-window x-ray pulses from a laser-plasma driven undulator. Sci. Rep.10(1), 5634. (2020).",
+          "journal-title": "Sci. Rep."
+        },
+        {
+          "issue": "1",
+          "key": "80539_CR28",
+          "doi-asserted-by": "publisher",
+          "first-page": "19020",
+          "DOI": "10.1038/s41598-019-55209-4",
+          "volume": "9",
+          "author": "A Ghaith",
+          "year": "2019",
+          "unstructured": "Ghaith, A. et al. Tunable high spatio-spectral purity undulator radiation from a transported laser plasma accelerated electron beam. Sci. Rep.9(1), 19020. (2019).",
+          "journal-title": "Sci. Rep."
+        },
+        {
+          "key": "80539_CR29",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1016/j.physrep.2021.09.001",
+          "volume": "937",
+          "author": "A Ghaith",
+          "year": "2021",
+          "unstructured": "Ghaith, A. et al. Undulator design for a laser-plasma-based free-electron-laser. Phys. Rep.937, 1–73 (2021).",
+          "journal-title": "Phys. Rep."
+        },
+        {
+          "issue": "7868",
+          "key": "80539_CR30",
+          "doi-asserted-by": "publisher",
+          "first-page": "516",
+          "DOI": "10.1038/s41586-021-03678-x",
+          "volume": "595",
+          "author": "W Wang",
+          "year": "2021",
+          "unstructured": "Wang, W. et al. Free-electron lasing at 27 nanometres based on a laser Wakefield accelerator. Nature595(7868), 516–520 (2021).",
+          "journal-title": "Nature"
+        },
+        {
+          "issue": "2",
+          "key": "80539_CR31",
+          "doi-asserted-by": "publisher",
+          "first-page": "150",
+          "DOI": "10.1038/s41566-022-01104-w",
+          "volume": "17",
+          "author": "M Labat",
+          "year": "2023",
+          "unstructured": "Labat, M. et al. Seeded free-electron laser driven by a compact laser plasma accelerator. Nat. Photonics17(2), 150–156 (2023).",
+          "journal-title": "Nat. Photonics"
+        },
+        {
+          "issue": "2",
+          "key": "80539_CR32",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/PhysRevAccelBeams.28.020702",
+          "volume": "28",
+          "author": "M Labat",
+          "year": "2025",
+          "unstructured": "Labat, M. et al. Tunability of a red-shifted free electron laser. Phys. Rev. Accel. Beams28(2), 020702 (2025).",
+          "journal-title": "Phys. Rev. Accel. Beams"
+        },
+        {
+          "issue": "2",
+          "key": "80539_CR33",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/PhysRevAccelBeams.28.020702",
+          "volume": "28",
+          "author": "M Labat",
+          "year": "2025",
+          "unstructured": "Labat, M. et al. Tunability of a red-shifted free electron laser. Phys. Rev. Accel. Beams28(2), 020702 (2025).",
+          "journal-title": "Phys. Rev. Accel. Beams"
+        },
+        {
+          "issue": "5",
+          "key": "80539_CR34",
+          "doi-asserted-by": "publisher",
+          "first-page": "055001",
+          "DOI": "10.1103/vh62-gz1p",
+          "volume": "135",
+          "author": "SK Barber",
+          "year": "2025",
+          "unstructured": "Barber, S. K. et al. Greater than 1000-fold gain in a free-electron laser driven by a laser-plasma accelerator with high reliability. Phys. Rev. Lett.135(5), 055001. (2025).",
+          "journal-title": "Phys. Rev. Lett."
+        },
+        {
+          "key": "80539_CR35",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/qvg7-ng8n",
+          "volume": "8",
+          "author": "Z Jin",
+          "year": "2026",
+          "unstructured": "Jin, Z. et al. Optimized laser Wakefield acceleration: Generating stable, high-energy, monoenergetic electron beams and demonstrating extreme-ultraviolet free-electron lasers. Phys. Rev. Res.8, 013207 (2026).",
+          "journal-title": "Phys. Rev. Res."
+        },
+        {
+          "key": "80539_CR36",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Borland, M. Elegant: A flexible sdds-compliant code for accelerator simulation. Technical report, (Argonne National Lab., IL US, 2000).",
+          "DOI": "10.2172/761286"
+        },
+        {
+          "issue": "1–3",
+          "key": "80539_CR37",
+          "doi-asserted-by": "publisher",
+          "first-page": "243",
+          "DOI": "10.1016/S0168-9002(99)00114-X",
+          "volume": "429",
+          "author": "S Reiche",
+          "year": "1999",
+          "unstructured": "Reiche, S. Genesis 13: a fully 3d time-dependent fel simulation code. Nucl. Instrum. Methods Phys. Res. Section A: Accel. Spectrom. Detect. Assoc. Equip.429(1–3), 243–248 (1999).",
+          "journal-title": "Nucl. Instrum. Methods Phys. Res. Section A: Accel. Spectrom. Detect. Assoc. Equip."
+        },
+        {
+          "issue": "4",
+          "key": "80539_CR38",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1088/1361-6587/aaaef1",
+          "volume": "60",
+          "author": "A Irman",
+          "year": "2018",
+          "unstructured": "Irman, A. et al. Improved performance of laser Wakefield acceleration by tailored self-truncated ionization injection. Plasma Phys. Control Fusion60(4), 044015 (2018).",
+          "journal-title": "Plasma Phys. Control Fusion"
+        },
+        {
+          "issue": "11",
+          "key": "80539_CR39",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/PhysRevAccelBeams.21.114802",
+          "volume": "21",
+          "author": "M Labat",
+          "year": "2018",
+          "unstructured": "Labat, M. et al. Robustness of a plasma acceleration based free electron laser. Phys. Rev. Accel. Beams21(11), 114802 (2018).",
+          "journal-title": "Phys. Rev. Accel. Beams"
+        },
+        {
+          "issue": "2",
+          "key": "80539_CR40",
+          "doi-asserted-by": "publisher",
+          "first-page": "94",
+          "DOI": "10.2184/lsj.45.2_94",
+          "volume": "45",
+          "author": "M-E Couprie",
+          "year": "2017",
+          "unstructured": "Couprie, M.-E. et al. Coxinel: Towards free electron laser amplification to qualify laser plasma acceleration. Rev. Laser Eng.45(2), 94 (2017).",
+          "journal-title": "Rev. Laser Eng."
+        },
+        {
+          "issue": "3",
+          "key": "80539_CR41",
+          "doi-asserted-by": "publisher",
+          "first-page": "034001",
+          "DOI": "10.1088/1361-6587/ab5fec",
+          "volume": "62",
+          "author": "DO Espinos",
+          "year": "2020",
+          "unstructured": "Espinos, D. O. et al. Coxinel transport of laser plasma accelerated electrons. Plasma Phys. Control. Fusion62(3), 034001. (2020).",
+          "journal-title": "Plasma Phys. Control. Fusion"
+        },
+        {
+          "key": "80539_CR42",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Marteau, F., Ghaith, A., N’Gotta, P., Benabderrahmane, C., Valléau, M., Kitegi, C., Loulergue, A., Vétéran, J., Sebdaoui, M. & André, T. et al. Variable high gradient permanent magnet quadrupole (quapeva). Appl. Phys. Lett., 111(25), (2017).",
+          "DOI": "10.1063/1.4986856"
+        },
+        {
+          "key": "80539_CR43",
+          "doi-asserted-by": "publisher",
+          "first-page": "290",
+          "DOI": "10.1016/j.nima.2018.02.098",
+          "volume": "909",
+          "author": "A Ghaith",
+          "year": "2018",
+          "unstructured": "Ghaith, A. et al. Tunable high gradient quadrupoles for a laser plasma acceleration based fel. Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment909, 290–293 (2018).",
+          "journal-title": "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment"
+        },
+        {
+          "issue": "1",
+          "key": "80539_CR44",
+          "doi-asserted-by": "publisher",
+          "first-page": "1334",
+          "DOI": "10.1038/s41467-018-03776-x",
+          "volume": "9",
+          "author": "T André",
+          "year": "2018",
+          "unstructured": "André, T. et al. Control of laser plasma accelerated electrons for light sources. Nat. Commun.9(1), 1334 (2018).",
+          "journal-title": "Nat. Commun."
+        },
+        {
+          "key": "80539_CR45",
+          "doi-asserted-by": "publisher",
+          "first-page": "265",
+          "DOI": "10.1016/j.nima.2016.02.031",
+          "volume": "829",
+          "author": "A Köhler",
+          "year": "2016",
+          "unstructured": "Köhler, A. et al. Single-shot betatron source size measurement from a laser-wakefield accelerator. Nucl. Instrum. Methods Phys. Res. Sect. A829, 265–269 (2016).",
+          "journal-title": "Nucl. Instrum. Methods Phys. Res. Sect. A"
+        },
+        {
+          "key": "80539_CR46",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/PhysRevAccelBeams.24.091302",
+          "volume": "24",
+          "author": "A Köhler",
+          "year": "2021",
+          "unstructured": "Köhler, A. et al. Restoring betatron phase coherence in a beam-loaded laser-Wakefield accelerator. Phys. Rev. Accel. Beams24, 091302 (2021).",
+          "journal-title": "Phys. Rev. Accel. Beams"
+        },
+        {
+          "key": "80539_CR47",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1103/PhysRevLett.119.104801",
+          "volume": "119",
+          "author": "SK Barber",
+          "year": "2017",
+          "unstructured": "Barber, S. K. et al. Measured emittance dependence on the injection method in laser plasma accelerators. Phys. Rev. Lett.119, 104801 (2017).",
+          "journal-title": "Phys. Rev. Lett."
+        }
+      ],
+      "container-title": [
+        "Scientific Reports"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.nature.com/articles/s41598-026-80539-5",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://www.nature.com/articles/s41598-026-80539-5.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://www.nature.com/articles/s41598-026-80539-5.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            14
+          ]
+        ],
+        "date-time": "2026-11-14T15:36:11Z",
+        "timestamp": 1794670571000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.nature.com/articles/s41598-026-80539-5"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            14
+          ]
+        ]
+      },
+      "references-count": 47,
+      "journal-issue": {
+        "issue": "1",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "80539"
+      ],
+      "URL": "https://doi.org/10.1038/s41598-026-80539-5",
+      "relation": {},
+      "ISSN": [
+        "2045-2322"
+      ],
+      "issn-type": [
+        {
+          "value": "2045-2322",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            14
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "17 August 2026",
+          "order": 1,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "9 November 2026",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "14 November 2026",
+          "order": 3,
+          "name": "first_online",
+          "label": "First Online",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "The authors declare no competing interests.",
+          "order": 1,
+          "name": "Ethics",
+          "label": "Competing interests",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Declarations"
+          }
+        }
+      ],
+      "article-number": "37985"
+    }
+  },
+  {
+    "arxiv_id": "2611.18332",
+    "status": 200,
+    "meta": {
+      "citation_title": [
+        "Radiation in relativistic plasmas via particle simulations"
+      ],
+      "citation_author": [
+        "Kritikos, Efstratios M.",
+        "Svensson, Pontus",
+        "Plummer, Daniel",
+        "Reville, Brian",
+        "Bingham, Bob",
+        "Gregori, Gianluca"
+      ],
+      "citation_date": [
+        "2026/11/13"
+      ],
+      "citation_online_date": [
+        "2026/11/13"
+      ],
+      "citation_pdf_url": [
+        "https://arxiv.org/pdf/2611.18332"
+      ],
+      "citation_arxiv_id": [
+        "2611.18332"
+      ],
+      "citation_abstract": [
+        "We investigate radiation in relativistic electron-proton isotropic plasmas using molecular dynamics, with velocity-dependent inertia, retarded interactions, and quantum-corrected pair potentials. Radiation spectra from the Li\\'enard-Wiechert fields agree with analytical models. Successive scattering events suppress bremsstrahlung even at weak coupling, while jitter radiation becomes comparable at higher coupling for all resolved frequencies. This first-principles framework will help develop radiation models for suppression and field effects that are inaccessible in typical particle-in-cell methods."
+      ]
+    },
+    "history": "Submission history From: Daniel Plummer [ view email ] [v1] Fri, 13 Nov 2026 15:45:58 UTC (7,164 KB)"
+  },
+  {
+    "arxiv_id": "2611.18409",
+    "status": 200,
+    "meta": {
+      "citation_title": [
+        "Fuse-PINN: Combining Finite Element Methods and Physics-Informed Neural Networks to enable massively parallel simulations of non-linear PDEs"
+      ],
+      "citation_author": [
+        "Pamela, Stanislas",
+        "Pailliez, Nicolas",
+        "Franck, Emmanuel",
+        "Michel-Dansac, Victor",
+        "Navoret, Laurent",
+        "Gopakumar, Vignesh"
+      ],
+      "citation_date": [
+        "2026/11/13"
+      ],
+      "citation_online_date": [
+        "2026/11/13"
+      ],
+      "citation_pdf_url": [
+        "https://arxiv.org/pdf/2611.18409"
+      ],
+      "citation_arxiv_id": [
+        "2611.18409"
+      ],
+      "citation_abstract": [
+        "Research in the domain of Physics-Informed Neural Networks applied to PDE modelling has advanced significantly in recent years, providing a wide ecosystem of novel methods. However, one frequent limitation is the inability of PINNs to scale out on High-Performance Computing architectures to address more ambitious challenges, particularly non-linear physics models with turbulent dynamics in large spatial domains. Typical studies restrain demonstrations to toy models with simple physics equations, few variables, and rarely any complex non-linear dynamics evolved over long timescales. Part of the AI community has even adopted the idea that \"PINNs don't scale\". This work proves otherwise. We present a mathematically robust formulation of Finite-Element-Method for Neural Networks (FEM-NN) implemented into a comprehensive, modular framework: Fuse-PINN. This formulation provides the basis for a sclable parallelisation of Physics-Informed Neural Networks on GPU-based HPC systems. Furthermore, an Energy Natural Gradient Descent optimiser is implemented to allow high-precision convergence. Fuse-PINN is demonstrated on physics models relevant to Magnetic Confinement Fusion, including non-linear convective models with fine-scale dynamics. Near-perfect scaling is achieved on multi-GPU runs with increasing problem size."
+      ]
+    },
+    "history": "Submission history From: Stanislas Pamela [ view email ] [v1] Fri, 13 Nov 2026 16:55:03 UTC (10,640 KB)"
+  }
+]

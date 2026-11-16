@@ -1,5 +1,7 @@
 # Terahertz Generation through Photon Deceleration of Long-Wavelength Infrared Laser Pulses in Plasma
 
+> 2026-11-17元数据原位补充：同标题、同作者对应[Physical Review A DOI 10.1103/p838-2l32](https://doi.org/10.1103/p838-2l32)。出版社存入Crossref的`accepted`为2026-11-16，`published-online`同日；APS页面/PDF本轮403，harvest404，**未独立核实正式发表，不把接收日写成发表日**。台账单列接收日、发表日置空。实际本地全文仍为11页arXiv:2607.07005v1，SHA-256 `00107697f95c42a307a1cd6fc08a108b69a2382ebecce223d9e06c0afd70ae55`；本轮只核身份页和哈希，未重读／重新认证下文物理结论，未取得最终接收稿或VOR。下面原始基本信息中的日期是7月预印本日期。
+
 ## 基本信息
 
 - 作者：Srimanta Maity

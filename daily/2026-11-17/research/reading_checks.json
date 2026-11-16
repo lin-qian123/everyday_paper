@@ -1,0 +1,39 @@
+{
+  "reader": "primary agent; no delegation",
+  "local_text_reading": "all three main texts, radiation supplementary material and Fuse-PINN technical appendix; fel reference list only consulted as context",
+  "source_pages_rendered_and_visually_reviewed": {
+    "fel": [
+      4,
+      6,
+      9,
+      10,
+      11
+    ],
+    "radiation": [
+      1,
+      2,
+      3,
+      4,
+      8,
+      24
+    ],
+    "fuse": [
+      1,
+      5,
+      6,
+      7,
+      8,
+      16,
+      19,
+      27
+    ]
+  },
+  "retained_crops_reopened": 9,
+  "pdf_formula_extraction_fallback": "FEL inline-eq placeholders resolved against rendered pages for quoted parameters",
+  "science_boundaries": [
+    "FEL Article in Press not final VOR; Best-shots composite and XUV predictions separated from beam measurements",
+    "radiation low-band ratio is not bolometric gamma efficiency; Theta<1 endpoints and classical high-frequency limitations explicit",
+    "Fuse-PINN weak per-epoch scaling not strong scaling or competitive full solve; 3 variables per node/GPU mapping and approximate 1000x cost gap explicit"
+  ],
+  "author_code_or_experiment_reruns": false
+}

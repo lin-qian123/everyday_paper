@@ -1,16 +1,5 @@
-# Terahertz Generation through Photon Deceleration of Long-Wavelength Infrared Laser Pulses in Plasma
+# 太赫兹光子减速论文：原位合并
 
-## 基本信息
+同一作品现以[PRA接收DOI条目](../10-1103-p838-2l32/README.md)维护，不重复计数。
 
-- 分类：[综合等离子体与交叉方法](../../categories/general-plasma-and-methods.md)
-- 期刊/平台：arXiv preprint
-- 发表日期：2026-07-08
-- 入库日期：2026-07-10
-- DOI：[10.48550/arXiv.2607.07005](https://doi.org/10.48550/arXiv.2607.07005)
-- 来源：[https://arxiv.org/abs/2607.07005](https://arxiv.org/abs/2607.07005)
-- 中文笔记：[打开笔记](../../daily/2026-07-10/notes/Srimanta Maity - 2026 - Terahertz Generation through Photon Deceleration.md)
-- 本地 PDF：[本地路径](../../daily/2026-07-10/pdfs/Srimanta Maity - 2026 - Terahertz Generation through Photon Deceleration.pdf)
-
-## 索引说明
-
-本页由 `scripts/build_indexes.py` 根据 `state/processed_articles.json` 自动生成；正文解读以中文笔记为准。
+2026-11-17补充出版社存入Crossref的11-16接收信息；发表日未独立核实。实际全文仍为原arXiv:2607.07005v1，旧PDF与中文笔记保留在原目录。此页仅为兼容历史链接的转向。

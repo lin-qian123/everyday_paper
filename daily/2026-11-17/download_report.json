@@ -1,0 +1,45 @@
+[
+  {
+    "key": "thz",
+    "url": "https://harvest.aps.org/v2/journals/articles/10.1103/p838-2l32/fulltext",
+    "final_url": "https://harvest.aps.org/v2/journals/articles/10.1103/p838-2l32/fulltext",
+    "status": 404,
+    "content_type": "application/json",
+    "bytes": 52,
+    "pdf_magic": false,
+    "body_excerpt": "{\"errors\":[{\"title\":\"10.1103/p838-2l32 not found\"}]}"
+  },
+  {
+    "key": "radiation",
+    "url": "https://arxiv.org/pdf/2611.18332v1",
+    "final_url": "https://arxiv.org/pdf/2611.18332v1",
+    "status": 200,
+    "content_type": "application/pdf",
+    "bytes": 2054195,
+    "pdf_magic": true,
+    "sha256": "038903c0c35d9ee8362110fb11bc3d91aaf43c64234898cd8180c0b7c1b5cdab",
+    "pdf_path": "daily/2026-11-17/pdfs/radiation-2026.pdf"
+  },
+  {
+    "key": "fuse",
+    "url": "https://arxiv.org/pdf/2611.18409v1",
+    "final_url": "https://arxiv.org/pdf/2611.18409v1",
+    "status": 200,
+    "content_type": "application/pdf",
+    "bytes": 7208546,
+    "pdf_magic": true,
+    "sha256": "3728c63e49ecd83a000ff7cdc391088d4551319dbb0c83c64e3c8657071f6426",
+    "pdf_path": "daily/2026-11-17/pdfs/fuse-2026.pdf"
+  },
+  {
+    "key": "fel",
+    "url": "https://www.nature.com/articles/s41598-026-80539-5_reference.pdf",
+    "final_url": "https://www.nature.com/articles/s41598-026-80539-5_reference.pdf",
+    "status": 200,
+    "content_type": "application/pdf",
+    "bytes": 3049112,
+    "pdf_magic": true,
+    "sha256": "fd816704bfb1525312a54aefef806f1ebdd5802ca6af116cef46a107e73882ab",
+    "pdf_path": "daily/2026-11-17/pdfs/fel-2026.pdf"
+  }
+]

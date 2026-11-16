@@ -2,11 +2,14 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：253 篇
-- 索引更新时间：2026-11-16
+- 当前收录：256 篇
+- 索引更新时间：2026-11-17
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-17 | [Qualifying LPA generated electron beams to free electron laser applications](../papers/10-1038-s41598-026-80539-5/README.md) | Scientific Reports (Article in Press; final VOR not acquired) | [笔记](../daily/2026-11-17/notes/ghaith-2026-lpa-fel-qualification.md) |
+| 2026-11-17 | [Radiation in relativistic plasmas via particle simulations](../papers/arxiv-2611-18332/README.md) | arXiv preprint | [笔记](../daily/2026-11-17/notes/kritikos-2026-relativistic-radiation-md.md) |
+| 2026-11-17 | [Fuse-PINN: Combining Finite Element Methods and Physics-Informed Neural Networks to enable massively parallel simulations of non-linear PDEs](../papers/arxiv-2611-18409/README.md) | arXiv preprint | [笔记](../daily/2026-11-17/notes/pamela-2026-fuse-pinn.md) |
 | 2026-11-16 | [Simulation studies of resonant excitation of electron Bernstein waves in capacitive discharges](../papers/10-1103-cv7h-ghnk/README.md) | Physical Review E | [笔记](../daily/2026-11-16/notes/gautam-2026-bernstein-discharge.md) |
 | 2026-11-16 | [On stimulated scattering including harmonic generation in an unmagnetized pair plasma for arbitrary pump strengths](../papers/arxiv-2611-17279/README.md) | arXiv preprint | [笔记](../daily/2026-11-16/notes/patel-2026-pair-stimulated-scattering.md) |
 | 2026-11-14 | [A weak-form discrete physical-residual PINN method for solving multigroup neutron diffusion equations](../papers/10-3389-fenrg-2026-2005399/README.md) | Frontiers in Energy Research | [笔记](../daily/2026-11-14/notes/hu-2026-neutron-diffusion-pinn.md) |

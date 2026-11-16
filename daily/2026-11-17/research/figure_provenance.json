@@ -1,0 +1,137 @@
+[
+  {
+    "key": "fel",
+    "path": "daily/2026-11-17/images/fel-fig2.png",
+    "source_pdf": "daily/2026-11-17/pdfs/fel-2026.pdf",
+    "source_pdf_sha256": "fd816704bfb1525312a54aefef806f1ebdd5802ca6af116cef46a107e73882ab",
+    "page_1based": 4,
+    "crop_points": [
+      63,
+      395,
+      533,
+      663
+    ],
+    "render_scale": 2,
+    "image_sha256": "8ac2439c3d0301631443910e826b4232d213481ed36ee6efce168143489f7f08"
+  },
+  {
+    "key": "fel",
+    "path": "daily/2026-11-17/images/fel-table1.png",
+    "source_pdf": "daily/2026-11-17/pdfs/fel-2026.pdf",
+    "source_pdf_sha256": "fd816704bfb1525312a54aefef806f1ebdd5802ca6af116cef46a107e73882ab",
+    "page_1based": 6,
+    "crop_points": [
+      47,
+      539,
+      551,
+      712
+    ],
+    "render_scale": 2,
+    "image_sha256": "5bc259c5c702fd409d64f082b1b11e998e9437c2c874e865047468a61076dcf8"
+  },
+  {
+    "key": "fel",
+    "path": "daily/2026-11-17/images/fel-fig6.png",
+    "source_pdf": "daily/2026-11-17/pdfs/fel-2026.pdf",
+    "source_pdf_sha256": "fd816704bfb1525312a54aefef806f1ebdd5802ca6af116cef46a107e73882ab",
+    "page_1based": 9,
+    "crop_points": [
+      60,
+      59,
+      535,
+      236
+    ],
+    "render_scale": 2,
+    "image_sha256": "9483d3adf051588cc9942e548657b9cef7001177f9c2b8cfbb564704bf6470f1"
+  },
+  {
+    "key": "radiation",
+    "path": "daily/2026-11-17/images/radiation-fig2.png",
+    "source_pdf": "daily/2026-11-17/pdfs/radiation-2026.pdf",
+    "source_pdf_sha256": "038903c0c35d9ee8362110fb11bc3d91aaf43c64234898cd8180c0b7c1b5cdab",
+    "page_1based": 3,
+    "crop_points": [
+      50,
+      48,
+      303,
+      231
+    ],
+    "render_scale": 2,
+    "image_sha256": "960077bc17ebeafa2d41743911d4502545e1d37baf513c5024f9809dc233a150"
+  },
+  {
+    "key": "radiation",
+    "path": "daily/2026-11-17/images/radiation-fig3.png",
+    "source_pdf": "daily/2026-11-17/pdfs/radiation-2026.pdf",
+    "source_pdf_sha256": "038903c0c35d9ee8362110fb11bc3d91aaf43c64234898cd8180c0b7c1b5cdab",
+    "page_1based": 4,
+    "crop_points": [
+      312,
+      47,
+      568,
+      260
+    ],
+    "render_scale": 2,
+    "image_sha256": "4c94abcf3d994b464e0183528364cc74a02412d27c3e5f37f0f406db4f3bebed"
+  },
+  {
+    "key": "radiation",
+    "path": "daily/2026-11-17/images/radiation-table1.png",
+    "source_pdf": "daily/2026-11-17/pdfs/radiation-2026.pdf",
+    "source_pdf_sha256": "038903c0c35d9ee8362110fb11bc3d91aaf43c64234898cd8180c0b7c1b5cdab",
+    "page_1based": 8,
+    "crop_points": [
+      48,
+      48,
+      568,
+      273
+    ],
+    "render_scale": 2,
+    "image_sha256": "26c82c54fde8d19bf984e30ea3b04cc96348a62e7d002127de40d127a4a8428c"
+  },
+  {
+    "key": "fuse",
+    "path": "daily/2026-11-17/images/fuse-fig2.png",
+    "source_pdf": "daily/2026-11-17/pdfs/fuse-2026.pdf",
+    "source_pdf_sha256": "3728c63e49ecd83a000ff7cdc391088d4551319dbb0c83c64e3c8657071f6426",
+    "page_1based": 4,
+    "crop_points": [
+      75,
+      359,
+      537,
+      582
+    ],
+    "render_scale": 2,
+    "image_sha256": "d705d5967dd0b789bae2348462e1cb21541b4b42e10afc5d039f84912ceb52b0"
+  },
+  {
+    "key": "fuse",
+    "path": "daily/2026-11-17/images/fuse-fig4.png",
+    "source_pdf": "daily/2026-11-17/pdfs/fuse-2026.pdf",
+    "source_pdf_sha256": "3728c63e49ecd83a000ff7cdc391088d4551319dbb0c83c64e3c8657071f6426",
+    "page_1based": 6,
+    "crop_points": [
+      75,
+      107,
+      537,
+      339
+    ],
+    "render_scale": 2,
+    "image_sha256": "9713f04cab827701cf3ac8fcdce35cbc91c4aefc4b7987db7b1f73a259c40777"
+  },
+  {
+    "key": "fuse",
+    "path": "daily/2026-11-17/images/fuse-scaling.png",
+    "source_pdf": "daily/2026-11-17/pdfs/fuse-2026.pdf",
+    "source_pdf_sha256": "3728c63e49ecd83a000ff7cdc391088d4551319dbb0c83c64e3c8657071f6426",
+    "page_1based": 8,
+    "crop_points": [
+      75,
+      278,
+      540,
+      451
+    ],
+    "render_scale": 2,
+    "image_sha256": "995f15bcd0b30de6c628b638e5d5642e133874bce771e04301d810406391962b"
+  }
+]

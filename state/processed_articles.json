@@ -2058,14 +2058,27 @@
   },
   {
     "title": "Terahertz Generation through Photon Deceleration of Long-Wavelength Infrared Laser Pulses in Plasma",
-    "doi": "10.48550/arXiv.2607.07005",
-    "journal": "arXiv preprint",
-    "publication_date": "2026-07-08",
+    "doi": "10.1103/p838-2l32",
+    "journal": "Physical Review A (accepted 2026-11-16 per Crossref; publication unverified)",
+    "publication_date": null,
     "processed_date": "2026-07-10",
-    "source_url": "https://arxiv.org/abs/2607.07005",
+    "source_url": "https://journals.aps.org/pra/abstract/10.1103/p838-2l32",
     "pdf_path": "daily/2026-07-10/pdfs/Srimanta Maity - 2026 - Terahertz Generation through Photon Deceleration.pdf",
     "note_path": "daily/2026-07-10/notes/Srimanta Maity - 2026 - Terahertz Generation through Photon Deceleration.md",
-    "normalized_title": "terahertz generation through photon deceleration of long wavelength infrared laser pulses in plasma"
+    "normalized_title": "terahertz generation through photon deceleration of long wavelength infrared laser pulses in plasma",
+    "authors": [
+      "Srimanta Maity"
+    ],
+    "publication_date_type": "publication unverified; Crossref published-online equals accepted date",
+    "acceptance_date": "2026-11-16",
+    "acceptance_date_source": "Crossref accepted field; official APS page access blocked",
+    "publication_status": "accepted per publisher-deposited Crossref metadata; no independent published-VOR verification",
+    "arxiv_id": "2607.07005",
+    "arxiv_version": "2607.07005v1",
+    "arxiv_first_submission_date": "2026-07-08",
+    "fulltext_version": "existing July arXiv 2607.07005v1; identity page/hash checked only, not reread",
+    "pdf_sha256": "00107697f95c42a307a1cd6fc08a108b69a2382ebecce223d9e06c0afd70ae55",
+    "metadata_updated_date": "2026-11-17"
   },
   {
     "title": "Precision mapping of laser-driven magnetic fields and their evolution in high-energy-density plasmas",
@@ -9130,5 +9143,112 @@
     "processed_date": "2026-11-16",
     "normalized_title": "on stimulated scattering including harmonic generation in an unmagnetized pair plasma for arbitrary pump strengths",
     "source_url": "https://arxiv.org/abs/2611.17279v1"
+  },
+  {
+    "note_path": "daily/2026-11-17/notes/ghaith-2026-lpa-fel-qualification.md",
+    "categories": [
+      "laser-plasma-acceleration",
+      "experimental-platforms-diagnostics",
+      "pic-and-plasma-simulation"
+    ],
+    "pdf_path": "daily/2026-11-17/pdfs/fel-2026.pdf",
+    "pdf_sha256": "fd816704bfb1525312a54aefef806f1ebdd5802ca6af116cef46a107e73882ab",
+    "processed_date": "2026-11-17",
+    "title": "Qualifying LPA generated electron beams to free electron laser applications",
+    "authors": [
+      "Amin Ghaith",
+      "Marie Labat",
+      "Driss Oumbarek Espinos",
+      "Maxwell LaBerge",
+      "Susanne Schöbel",
+      "Patrick Ufer",
+      "Yen-Yu Chang",
+      "Franziska Marie Herrmann",
+      "Mathieu Valléau",
+      "Eléonore Roussel",
+      "Alexandre Loulergue",
+      "Ulrich Schramm",
+      "Arie Irman",
+      "Marie-Emmanuelle Couprie"
+    ],
+    "doi": "10.1038/s41598-026-80539-5",
+    "journal": "Scientific Reports (Article in Press; final VOR not acquired)",
+    "publication_date": "2026-11-14",
+    "acceptance_date": "2026-11-09",
+    "publication_status": "publisher Article in Press; online publication verified; pending final editing",
+    "publication_date_type": "publisher online date, independently matches Crossref",
+    "fulltext_version": "publisher Article in Press, 14 pages, not final VOR",
+    "pdf_url": "https://www.nature.com/articles/s41598-026-80539-5_reference.pdf",
+    "source_url": "https://www.nature.com/articles/s41598-026-80539-5",
+    "normalized_title": "qualifying lpa generated electron beams to free electron laser applications"
+  },
+  {
+    "note_path": "daily/2026-11-17/notes/kritikos-2026-relativistic-radiation-md.md",
+    "categories": [
+      "pic-and-plasma-simulation",
+      "hedp-icf-laboratory-astrophysics",
+      "strong-field-qed-radiation",
+      "laser-accelerated-beam-applications"
+    ],
+    "pdf_path": "daily/2026-11-17/pdfs/radiation-2026.pdf",
+    "pdf_sha256": "038903c0c35d9ee8362110fb11bc3d91aaf43c64234898cd8180c0b7c1b5cdab",
+    "processed_date": "2026-11-17",
+    "title": "Radiation in relativistic plasmas via particle simulations",
+    "authors": [
+      "Efstratios M. Kritikos",
+      "Pontus Svensson",
+      "Daniel Plummer",
+      "Brian Reville",
+      "Bob Bingham",
+      "Gianluca Gregori"
+    ],
+    "doi": "10.48550/arXiv.2611.18332",
+    "arxiv_id": "2611.18332",
+    "arxiv_version": "2611.18332v1",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-11-13",
+    "publication_date_type": "arxiv first submission; announcement separately recorded",
+    "announcement_date": "2026-11-16",
+    "submission_timestamp_utc": "2026-11-13T15:45:58Z",
+    "publication_status": "author preprint; bounded Crossref title top3 did not verify same-work journal version",
+    "fulltext_version": "official arXiv 2611.18332v1 author manuscript",
+    "pdf_url": "https://arxiv.org/pdf/2611.18332v1",
+    "source_url": "https://arxiv.org/abs/2611.18332v1",
+    "pdf_internal_date": "2026-08-25",
+    "normalized_title": "radiation in relativistic plasmas via particle simulations"
+  },
+  {
+    "note_path": "daily/2026-11-17/notes/pamela-2026-fuse-pinn.md",
+    "categories": [
+      "ai-ml-plasma-physics",
+      "pic-and-plasma-simulation",
+      "magnetic-fusion-and-alpha-particles"
+    ],
+    "pdf_path": "daily/2026-11-17/pdfs/fuse-2026.pdf",
+    "pdf_sha256": "3728c63e49ecd83a000ff7cdc391088d4551319dbb0c83c64e3c8657071f6426",
+    "processed_date": "2026-11-17",
+    "title": "Fuse-PINN: Combining Finite Element Methods and Physics-Informed Neural Networks to enable massively parallel simulations of non-linear PDEs",
+    "authors": [
+      "Stanislas Pamela",
+      "Nicolas Pailliez",
+      "Emmanuel Franck",
+      "Victor Michel-Dansac",
+      "Laurent Navoret",
+      "Vignesh Gopakumar"
+    ],
+    "doi": "10.48550/arXiv.2611.18409",
+    "arxiv_id": "2611.18409",
+    "arxiv_version": "2611.18409v1",
+    "journal": "arXiv preprint",
+    "publication_date": "2026-11-13",
+    "publication_date_type": "arxiv first submission; announcement separately recorded",
+    "announcement_date": "2026-11-16",
+    "submission_timestamp_utc": "2026-11-13T16:55:03Z",
+    "publication_status": "author preprint; bounded Crossref title top3 did not verify same-work journal version",
+    "fulltext_version": "official arXiv 2611.18409v1 author manuscript",
+    "pdf_url": "https://arxiv.org/pdf/2611.18409v1",
+    "source_url": "https://arxiv.org/abs/2611.18409v1",
+    "arxiv_comments": "9 pages plus Appendix, 11 figures, 1 table. Rejected at ICLR",
+    "normalized_title": "fuse pinn combining finite element methods and physics informed neural networks to enable massively parallel simulations of non linear pdes"
   }
 ]

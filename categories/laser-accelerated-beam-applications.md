@@ -2,11 +2,12 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：153 篇
-- 索引更新时间：2026-11-16
+- 当前收录：154 篇
+- 索引更新时间：2026-11-17
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-17 | [Radiation in relativistic plasmas via particle simulations](../papers/arxiv-2611-18332/README.md) | arXiv preprint | [笔记](../daily/2026-11-17/notes/kritikos-2026-relativistic-radiation-md.md) |
 | 2026-11-16 | [Development and Experimental Characterization of a Compact 228Th-D2O Photoneutron Source for Low-Energy Nuclear Recoil Calibration](../papers/arxiv-2611-16415/README.md) | arXiv preprint | [笔记](../daily/2026-11-16/notes/tian-2026-thorium-photoneutron.md) |
 | 2026-11-15 | [Development of Sapphire-Based Solid-State Neutron Detectors for Fusion Environments](../papers/arxiv-2611-14745/README.md) | arXiv preprint | [笔记](../daily/2026-11-15/notes/kushoro-2026-sapphire-detectors.md) |
 | 2026-11-15 | [Exclusive cross section measurements of 12C(n,pn) and 12C(n,dn) reactions](../papers/10-1103-j2m6-v12v/README.md) | Physical Review C | [笔记](../daily/2026-11-15/notes/wantz-2026-carbon-reactions.md) |

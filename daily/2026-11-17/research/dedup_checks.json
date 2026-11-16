@@ -1,0 +1,95 @@
+{
+  "checked_at": "2026-11-17T07:12:26.470497+08:00",
+  "ledger_before": 573,
+  "added": [
+    {
+      "key": "fel",
+      "title": "Qualifying LPA generated electron beams to free electron laser applications",
+      "identity_and_normalized_title_match": false,
+      "closest_title_matches": [
+        {
+          "similarity": 0.5625,
+          "title": "Revealing Laser and Electron Beam Evolution in 10-GeV-class Laser-Plasma Accelerators",
+          "doi": "10.1103/qqcv-f29q"
+        },
+        {
+          "similarity": 0.5310734463276836,
+          "title": "Spatiospectral conditioning of laser-plasma-accelerated electron beams using electromagnetic solenoids",
+          "doi": "10.1103/2dby-29s7"
+        },
+        {
+          "similarity": 0.5135135135135135,
+          "title": "Stable, High-Charge, Laser-Driven VHEE Beams for Preclinical Applications",
+          "doi": "10.48550/arXiv.2611.09329"
+        }
+      ],
+      "decision": "new distinct work; title, authors and physical scenario checked; shared method/topic is not same-work identity"
+    },
+    {
+      "key": "radiation",
+      "title": "Radiation in relativistic plasmas via particle simulations",
+      "identity_and_normalized_title_match": false,
+      "closest_title_matches": [
+        {
+          "similarity": 0.6119402985074627,
+          "title": "Nonlinear excitations in a relativistic pair plasma with quantum corrections",
+          "doi": "10.1140/epjp/s13360-026-08377-y"
+        },
+        {
+          "similarity": 0.5757575757575758,
+          "title": "Maximization of nuclear fusion reactivity via optimal energy distributions",
+          "doi": "10.1103/xhzy-hxdw"
+        },
+        {
+          "similarity": 0.55,
+          "title": "Numerical thermalization in $n$-D particle-in-cell simulations",
+          "doi": "10.48550/arXiv.2606.25528"
+        }
+      ],
+      "decision": "new distinct work; title, authors and physical scenario checked; shared method/topic is not same-work identity"
+    },
+    {
+      "key": "fuse",
+      "title": "Fuse-PINN: Combining Finite Element Methods and Physics-Informed Neural Networks to enable massively parallel simulations of non-linear PDEs",
+      "identity_and_normalized_title_match": false,
+      "closest_title_matches": [
+        {
+          "similarity": 0.42105263157894735,
+          "title": "Physics-Informed Neural Networks to Infer the Perpendicular Energy Conductivity in the Scrape-Off Layer of Stellarator Devices",
+          "doi": "10.48550/arXiv.2609.11628"
+        },
+        {
+          "similarity": 0.416,
+          "title": "Latent Residual-Closure Fourier Neural Operator for Robust Multi-Field Solving in Particle-in-Cell Simulations",
+          "doi": "10.48550/arXiv.2606.17733"
+        },
+        {
+          "similarity": 0.4128113879003559,
+          "title": "Implementation and verification of a new free boundary module for Resistive Wall Modes simulations with the nonlinear 3D full MHD code SpeCyl",
+          "doi": "10.48550/arXiv.2610.13428"
+        }
+      ],
+      "decision": "new distinct work; title, authors and physical scenario checked; shared method/topic is not same-work identity"
+    }
+  ],
+  "in_place_metadata_upgrade": {
+    "old_record": {
+      "title": "Terahertz Generation through Photon Deceleration of Long-Wavelength Infrared Laser Pulses in Plasma",
+      "doi": "10.48550/arXiv.2607.07005",
+      "journal": "arXiv preprint",
+      "publication_date": "2026-07-08",
+      "processed_date": "2026-07-10",
+      "source_url": "https://arxiv.org/abs/2607.07005",
+      "pdf_path": "daily/2026-07-10/pdfs/Srimanta Maity - 2026 - Terahertz Generation through Photon Deceleration.pdf",
+      "note_path": "daily/2026-07-10/notes/Srimanta Maity - 2026 - Terahertz Generation through Photon Deceleration.md",
+      "normalized_title": "terahertz generation through photon deceleration of long wavelength infrared laser pulses in plasma"
+    },
+    "doi": "10.1103/p838-2l32",
+    "same_author_title_and_arxiv_identity": true,
+    "actual_pdf_pages": 11,
+    "actual_pdf_sha256": "00107697f95c42a307a1cd6fc08a108b69a2382ebecce223d9e06c0afd70ae55",
+    "scope": "identity page/hash only; old note physics not recertified; publication unverified"
+  },
+  "prior_objects_unchanged_except_upgrade": 572,
+  "prior_retry_objects_unchanged": 69
+}

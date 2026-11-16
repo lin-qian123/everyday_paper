@@ -1,0 +1,147 @@
+[
+  {
+    "key": "thz_aps",
+    "url": "https://journals.aps.org/pra/abstract/10.1103/p838-2l32",
+    "status": 403,
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 5550,
+    "pdf_magic": false,
+    "text_excerpt": "Just a moment... Enable JavaScript and cookies to continue"
+  },
+  {
+    "key": "broadband_pdf",
+    "url": "https://pubs.aip.org/aip/pop/article-pdf/doi/10.1063/5.0352707/21202023/112104_1_5.0352707.pdf",
+    "status": 403,
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 5696,
+    "pdf_magic": false,
+    "text_excerpt": "Just a moment... Enable JavaScript and cookies to continue"
+  },
+  {
+    "key": "thz_pdf",
+    "url": "https://journals.aps.org/pra/pdf/10.1103/p838-2l32",
+    "status": 403,
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 5514,
+    "pdf_magic": false,
+    "text_excerpt": "Just a moment... Enable JavaScript and cookies to continue"
+  },
+  {
+    "key": "broadband_hal",
+    "url": "https://api.archives-ouvertes.fr/search/?q=title_t:%22Excitation%20of%20parametric%20instabilities%20with%20a%20broadband%20laser%20pulse%20in%20an%20inhomogeneous%20plasma%22&fl=title_s,doiId_s,fileMain_s,uri_s&rows=5&wt=json",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 116,
+    "pdf_magic": false,
+    "response": {
+      "response": {
+        "numFound": 0,
+        "start": 0,
+        "maxScore": 0.0,
+        "numFoundExact": true,
+        "docs": []
+      }
+    }
+  },
+  {
+    "key": "radiation",
+    "type": "exact_title_crossref",
+    "url": "https://api.crossref.org/works?query.title=Radiation+in+relativistic+plasmas+via+particle+simulations&rows=3",
+    "status": 200,
+    "top3": [
+      {
+        "doi": "10.1088/1751-8113/42/10/105501",
+        "title": [
+          "Particle radiation from relativistic plasmas contained by soliton waves"
+        ],
+        "date": {
+          "date-parts": [
+            [
+              2009,
+              2,
+              11
+            ]
+          ]
+        }
+      },
+      {
+        "doi": "10.1007/978-3-032-08930-4_27",
+        "title": [
+          "Radiation from Relativistic Plasmas"
+        ],
+        "date": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        }
+      },
+      {
+        "doi": "10.70675/4b29361fz6e69z4534zbb4cz90770c00786a",
+        "title": [
+          "Collisionless magnetic reconnection in relativistic plasmas with particle-in-cell simulations"
+        ],
+        "date": null
+      }
+    ]
+  },
+  {
+    "key": "fuse",
+    "type": "exact_title_crossref",
+    "url": "https://api.crossref.org/works?query.title=Fuse-PINN%3A+Combining+Finite+Element+Methods+and+Physics-Informed+Neural+Networks+to+enable+massively+parallel+simulations+of+non-linear+PDEs&rows=3",
+    "status": 200,
+    "top3": [
+      {
+        "doi": "10.1109/icassp49357.2023.10095076",
+        "title": [
+          "SD-PINN: Physics Informed Neural Networks for Spatially Dependent PDES"
+        ],
+        "date": {
+          "date-parts": [
+            [
+              2023,
+              6,
+              4
+            ]
+          ]
+        }
+      },
+      {
+        "doi": "10.2139/ssrn.4977868",
+        "title": [
+          "Finite Element-Based Physics Informed Neural Networks"
+        ],
+        "date": {
+          "date-parts": [
+            [
+              2024
+            ]
+          ]
+        }
+      },
+      {
+        "doi": "10.2139/ssrn.4964858",
+        "title": [
+          "Advancing Material Simulations: Physics-Informed Neural Networks and Object-Oriented Crystal Plasticity Finite Element Methods"
+        ],
+        "date": {
+          "date-parts": [
+            [
+              2024
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "key": "fel",
+    "publisher_page": "https://www.nature.com/articles/s41598-026-80539-5",
+    "online_date": "2026-11-14",
+    "acceptance_date": "2026-11-09",
+    "actual_pdf_label": "Article in Press",
+    "crossref_license_content_version": "vor does not override PDF version label",
+    "web_search_verified_publisher_record": true
+  }
+]

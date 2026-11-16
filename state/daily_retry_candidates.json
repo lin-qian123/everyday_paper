@@ -1610,5 +1610,28 @@
     "last_failure_class": "publisher_pdf_403_harvest_401",
     "stderr": "Official journal PDF HTTP403 text/html5553bytes; official harvest HTTP401 JSON57bytes. APS VOR published09Nov. Bounded exact-title web search did not verify alternate fulltext; official HAL exact title top5 HTTP200 numFound0. No abstract-only note.",
     "evidence_path": "daily/2026-11-15/download_report.json"
+  },
+  {
+    "doi": "10.1063/5.0352707",
+    "title": "Excitation of parametric instabilities with a broadband laser pulse in an inhomogeneous plasma",
+    "authors": [
+      "V. Tikhonchuk",
+      "D. Blackman",
+      "P. Loiseau",
+      "C. Ruyer"
+    ],
+    "journal": "Physics of Plasmas",
+    "publication_date": "2026-11-16",
+    "publication_date_type": "Crossref published-online; publisher page access unverified",
+    "source_url": "https://doi.org/10.1063/5.0352707",
+    "run_date": "2026-11-17",
+    "status": "retry_fulltext_required_no_abstract_only_note",
+    "recorded_at": "2026-11-17T07:12:26.470497+08:00",
+    "retry_count": 0,
+    "failure_count": 1,
+    "source_family": "aip",
+    "last_failure_class": "publisher_pdf_403_html",
+    "stderr": "Official Crossref-listed VOR PDF HTTP403 text/html 5696bytes, Cloudflare verification. Exact-title HAL top5 HTTP200 numFound0. Bounded exact-title web search did not verify lawful same-work alternative; related Jan2026 paper/conference abstract not used as this fulltext. No abstract-only note.",
+    "evidence_path": "daily/2026-11-17/research/journal_version_checks.json"
   }
 ]

@@ -2,11 +2,12 @@
 
 HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。
 
-- 当前收录：144 篇
-- 索引更新时间：2026-11-16
+- 当前收录：145 篇
+- 索引更新时间：2026-11-17
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-17 | [Radiation in relativistic plasmas via particle simulations](../papers/arxiv-2611-18332/README.md) | arXiv preprint | [笔记](../daily/2026-11-17/notes/kritikos-2026-relativistic-radiation-md.md) |
 | 2026-11-16 | [On stimulated scattering including harmonic generation in an unmagnetized pair plasma for arbitrary pump strengths](../papers/arxiv-2611-17279/README.md) | arXiv preprint | [笔记](../daily/2026-11-16/notes/patel-2026-pair-stimulated-scattering.md) |
 | 2026-11-14 | [Nonthermal Particle Acceleration by Magnetic Pumping in Pulsating Plasmas](../papers/10-1103-wyt1-24q7/README.md) | Physical Review Letters | [笔记](../daily/2026-11-14/notes/arro-2026-magnetic-pumping.md) |
 | 2026-11-14 | [SFQED Cascade Saturation and Laser Depletion Dynamics In CP Rotating Laser Standing Waves](../papers/arxiv-2611-15519/README.md) | arXiv preprint | [笔记](../daily/2026-11-14/notes/beverido-2026-qed-cascade.md) |

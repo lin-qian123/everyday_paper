@@ -2,11 +2,12 @@
 
 stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。
 
-- 当前收录：66 篇
-- 索引更新时间：2026-11-16
+- 当前收录：67 篇
+- 索引更新时间：2026-11-17
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-17 | [Fuse-PINN: Combining Finite Element Methods and Physics-Informed Neural Networks to enable massively parallel simulations of non-linear PDEs](../papers/arxiv-2611-18409/README.md) | arXiv preprint | [笔记](../daily/2026-11-17/notes/pamela-2026-fuse-pinn.md) |
 | 2026-11-15 | [Development of Sapphire-Based Solid-State Neutron Detectors for Fusion Environments](../papers/arxiv-2611-14745/README.md) | arXiv preprint | [笔记](../daily/2026-11-15/notes/kushoro-2026-sapphire-detectors.md) |
 | 2026-11-09 | [SPECTRE: A robust solver for 3D equilibria with arbitrary topology](../papers/10-1088-1361-6587-aebef8/README.md) | Plasma Physics and Controlled Fusion | [笔记](../daily/2026-11-09/notes/balkovic-2026-spectre-equilibria.md) |
 | 2026-11-08 | [A physics-based-preconditioned quasi-Newton solver for energy- and momentum-conserving implicit hybrid particle-in-cell simulations](../papers/arxiv-2611-08402/README.md) | arXiv preprint | [笔记](../daily/2026-11-08/notes/kumar-2026-preconditioned-implicit-hybrid-pic.md) |
