@@ -2,11 +2,13 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：203 篇
-- 索引更新时间：2026-11-17
+- 当前收录：205 篇
+- 索引更新时间：2026-11-18
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-18 | [Physics-guided deep learning for high resolution X-ray free-electron laser imaging](../papers/10-1038-s41598-026-80553-7/README.md) | Scientific Reports (Article in Press; final VOR not acquired) | [笔记](../daily/2026-11-18/notes/lee-2026-xfel.md) |
+| 2026-11-18 | [A spherical body in plasma simulated with adaptive mesh and algorithm refinement](../papers/arxiv-2611-21466/README.md) | arXiv preprint | [笔记](../daily/2026-11-18/notes/kolobov-2026-sphere.md) |
 | 2026-11-17 | [Qualifying LPA generated electron beams to free electron laser applications](../papers/10-1038-s41598-026-80539-5/README.md) | Scientific Reports (Article in Press; final VOR not acquired) | [笔记](../daily/2026-11-17/notes/ghaith-2026-lpa-fel-qualification.md) |
 | 2026-11-16 | [Development and Experimental Characterization of a Compact 228Th-D2O Photoneutron Source for Low-Energy Nuclear Recoil Calibration](../papers/arxiv-2611-16415/README.md) | arXiv preprint | [笔记](../daily/2026-11-16/notes/tian-2026-thorium-photoneutron.md) |
 | 2026-11-15 | [Development of Sapphire-Based Solid-State Neutron Detectors for Fusion Environments](../papers/arxiv-2611-14745/README.md) | arXiv preprint | [笔记](../daily/2026-11-15/notes/kushoro-2026-sapphire-detectors.md) |

@@ -1,0 +1,64 @@
+{
+  "ledger_before": 576,
+  "ledger_after": 579,
+  "new_dois": [
+    "10.1038/s41598-026-80553-7",
+    "10.3390/plasma9040049",
+    "10.48550/arXiv.2611.21466"
+  ],
+  "previous_completed_objects_unchanged": 575,
+  "in_place_upgrade": {
+    "before": {
+      "title": "Quasistatic modeling of ultrarelativistic beam-plasma instabilities",
+      "doi": "10.48550/arXiv.2607.24234",
+      "journal": "arXiv preprint",
+      "publication_date": "2026-07-27",
+      "processed_date": "2026-07-29",
+      "source_url": "https://arxiv.org/abs/2607.24234",
+      "pdf_path": "daily/2026-07-29/pdfs/P San Miguel Claveria et al. - 2026 - Quasistatic beam-plasma instabilities.pdf",
+      "note_path": "daily/2026-07-29/notes/P San Miguel Claveria et al. - 2026 - Quasistatic beam-plasma instabilities.md",
+      "normalized_title": "quasistatic modeling of ultrarelativistic beam plasma instabilities"
+    },
+    "after": {
+      "title": "Quasistatic modeling of ultrarelativistic beam-plasma instabilities",
+      "doi": "10.1103/yp1k-gjh9",
+      "journal": "Physical Review E (accepted 2026-11-17; publication not independently verified)",
+      "publication_date": null,
+      "processed_date": "2026-07-29",
+      "source_url": "https://journals.aps.org/pre/accepted/10.1103/yp1k-gjh9",
+      "pdf_path": "daily/2026-07-29/pdfs/P San Miguel Claveria et al. - 2026 - Quasistatic beam-plasma instabilities.pdf",
+      "note_path": "daily/2026-07-29/notes/P San Miguel Claveria et al. - 2026 - Quasistatic beam-plasma instabilities.md",
+      "normalized_title": "quasistatic modeling of ultrarelativistic beam plasma instabilities",
+      "doi_aliases": [
+        "10.48550/arXiv.2607.24234"
+      ],
+      "arxiv_id": "2607.24234",
+      "arxiv_version": "2607.24234v1",
+      "authors": [
+        "P. San Miguel Claveria",
+        "L. Gremillet",
+        "X. Davoine",
+        "Q. Labro",
+        "A. Matheron",
+        "M. Tamburini",
+        "F. Fiuza",
+        "S. Corde"
+      ],
+      "acceptance_date": "2026-11-17",
+      "publication_status": "Crossref accepted date only; APS pages blocked; formal publication not independently verified",
+      "publication_date_type": "unverified; Crossref published-online equals accepted and is not used as publication date",
+      "fulltext_version": "existing official arXiv 2607.24234v1, submitted 2026-07-27, PDF internally dated 2026-07-28; no final publisher version acquired",
+      "pdf_url": "https://arxiv.org/pdf/2607.24234v1",
+      "pdf_sha256": "caefa48ff896eeb3fa9deedc8b9140d9e30e98da2a560c8c7c4416e2f3c9397a",
+      "metadata_checked_date": "2026-11-18"
+    },
+    "identity_and_hash_only": true,
+    "old_fulltext_reread": false,
+    "old_pdf_matches_current_official_arxiv_bytes": true,
+    "legacy_page": "papers/arxiv-2607-24234/README.md"
+  },
+  "retry_before": 70,
+  "retry_after": 71,
+  "previous_retry_objects_unchanged": 70,
+  "scope": "DOI, normalized title, arxiv alias, authors and physical scenario; no duplicate new work; legacy unrelated retry/completed overlap preserved"
+}

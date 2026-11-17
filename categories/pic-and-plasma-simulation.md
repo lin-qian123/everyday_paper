@@ -2,11 +2,13 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：256 篇
-- 索引更新时间：2026-11-17
+- 当前收录：258 篇
+- 索引更新时间：2026-11-18
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-18 | [Linear Electrostatic Instabilities Driven by Relativistic Non-Maxwellian Pair Beams](../papers/10-3390-plasma9040049/README.md) | Plasma 9(4), 49 (publisher VOR) | [笔记](../daily/2026-11-18/notes/dey-2026-pair-beams.md) |
+| 2026-11-18 | [A spherical body in plasma simulated with adaptive mesh and algorithm refinement](../papers/arxiv-2611-21466/README.md) | arXiv preprint | [笔记](../daily/2026-11-18/notes/kolobov-2026-sphere.md) |
 | 2026-11-17 | [Qualifying LPA generated electron beams to free electron laser applications](../papers/10-1038-s41598-026-80539-5/README.md) | Scientific Reports (Article in Press; final VOR not acquired) | [笔记](../daily/2026-11-17/notes/ghaith-2026-lpa-fel-qualification.md) |
 | 2026-11-17 | [Radiation in relativistic plasmas via particle simulations](../papers/arxiv-2611-18332/README.md) | arXiv preprint | [笔记](../daily/2026-11-17/notes/kritikos-2026-relativistic-radiation-md.md) |
 | 2026-11-17 | [Fuse-PINN: Combining Finite Element Methods and Physics-Informed Neural Networks to enable massively parallel simulations of non-linear PDEs](../papers/arxiv-2611-18409/README.md) | arXiv preprint | [笔记](../daily/2026-11-17/notes/pamela-2026-fuse-pinn.md) |
@@ -171,7 +173,7 @@ PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性�
 | 2026-08-01 | [LoKI-GM: a global model framework for plasma chemistry studies](../papers/arxiv-2607-27234/README.md) | arXiv preprint (submitted to Plasma Sources Science and Technology) | [笔记](../daily/2026-08-01/notes/Alves et al. - 2026 - LoKI-GM plasma chemistry.md) |
 | 2026-07-30 | [Laser power transmission in space: Plasma-based power cell](../papers/arxiv-2607-25843/README.md) | arXiv preprint | [笔记](../daily/2026-07-30/notes/Li Lin and Michael Keidar - 2026 - Plasma-based power cell.md) |
 | 2026-07-29 | [Implementation and verification of the avalanche source in a 3D full-f particle-in-cell model of relativistic electrons for studies of tokamak disruptions](../papers/arxiv-2607-24602/README.md) | arXiv preprint | [笔记](../daily/2026-07-29/notes/Fiona Wouters et al. - 2026 - Runaway-electron avalanche 3D PIC.md) |
-| 2026-07-29 | [Quasistatic modeling of ultrarelativistic beam-plasma instabilities](../papers/arxiv-2607-24234/README.md) | arXiv preprint | [笔记](../daily/2026-07-29/notes/P San Miguel Claveria et al. - 2026 - Quasistatic beam-plasma instabilities.md) |
+| 2026-07-29 | [Quasistatic modeling of ultrarelativistic beam-plasma instabilities](../papers/10-1103-yp1k-gjh9/README.md) | Physical Review E (accepted 2026-11-17; publication not independently verified) | [笔记](../daily/2026-07-29/notes/P San Miguel Claveria et al. - 2026 - Quasistatic beam-plasma instabilities.md) |
 | 2026-07-28 | [First Observation of Fishbone-Driven Zonal Flows with Fine Reversed Structure in Tokamak Plasmas](../papers/arxiv-2607-22344/README.md) | arXiv preprint | [笔记](../daily/2026-07-28/notes/Liutian Gao et al. - 2026 - Fishbone-driven zonal flows EAST tokamak.md) |
 | 2026-07-27 | [Generalized Theory of Blowout-Regime Plasma Wakefields via a Lagrangian Formulation](../papers/arxiv-2607-22473/README.md) | arXiv preprint | [笔记](../daily/2026-07-27/notes/Y Kang et al. - 2026 - Blowout-regime plasma wakefields.md) |
 | 2026-07-27 | [A Multi-Species Reactive-Boltzmann Formulation for Self-Consistent Kinetic Simulation of Burning Fusion Plasmas](../papers/arxiv-2607-21723/README.md) | arXiv preprint | [笔记](../daily/2026-07-27/notes/Mark Dunn et al. - 2026 - Burning fusion plasma kinetic simulation.md) |

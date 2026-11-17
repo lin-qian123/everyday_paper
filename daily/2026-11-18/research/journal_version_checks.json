@@ -1,0 +1,78 @@
+{
+  "pair": {
+    "journal_doi": "10.3390/plasma9040049",
+    "publication": "publisher PDF: 2026-11-17; accepted 2026-11-14",
+    "arxiv_alias": "2611.21041v1",
+    "actual_fulltext": "official MDPI CDN publisher VOR; main PDF endpoint403, CDN200",
+    "double_counted": false
+  },
+  "lee": {
+    "journal_doi": "10.1038/s41598-026-80553-7",
+    "publication": "publisher page and Crossref: 2026-11-17; accepted 2026-11-09",
+    "actual_fulltext": "19p publisher Article in Press, not final VOR",
+    "arxiv_alias": "2605.01543; earlier shorter title, same author list/scenario, not a second work",
+    "official_arxiv_metadata_check": {
+      "url": "https://arxiv.org/abs/2605.01543",
+      "status": 200,
+      "title": "Title: Physics-Guided Deep Learning For High Resolution X-ray Imaging",
+      "authors": [
+        "Lee, Shao Xian",
+        "Mishra, Aashwin Ananda",
+        "Arnott, Ariel",
+        "Berboucha, Meriame",
+        "Boiadjieva, Nina",
+        "Chatterjee, Gourab",
+        "Cunningham, Eric",
+        "Czapla, Nick",
+        "Dyer, Gilliss",
+        "Ehni, Jonathan",
+        "Ettelbrick, Robert",
+        "Grassi, Anna",
+        "Grech, Mickael",
+        "Hart, Philip",
+        "Khaghani, Dimitri",
+        "Lee, Hae Ja",
+        "McGehee, Peregrine",
+        "Nagler, Bob",
+        "Neumayer, Paul",
+        "Riconda, Caterina",
+        "Welch, Marc",
+        "Zabala, Andrea",
+        "Galtier, Eric",
+        "Nguyen, Quynh L."
+      ],
+      "submission_history": "Submission history From: Aashwin Mishra [ view email ] [v1] Sat, 2 May 2026 17:15:49 UTC (1,522 KB)"
+    }
+  },
+  "sphere": {
+    "version": "2611.21466v1",
+    "submitted": "2026-11-16T17:46:48Z",
+    "announced": "2026-11-17",
+    "same_work_journal": "not verified by bounded Crossref title top3",
+    "title_top3_dois": [
+      "10.1007/3-540-31801-1_104",
+      "10.2172/515637",
+      "10.1007/978-3-031-09265-7_4"
+    ],
+    "companion": "2611.14820 already processed; new specific spherical-probe kinetic benchmark, shared framework, not independent experimental validation"
+  },
+  "pre": {
+    "doi": "10.1103/yp1k-gjh9",
+    "Crossref_accepted": "2026-11-17",
+    "Crossref_online": "2026-11-17",
+    "independently_verified_publication": false,
+    "actual_fulltext": "existing July arXiv2607.24234v1; identity/hash only checked, old physics note not reread",
+    "APS_article_and_pdf": 403,
+    "APS_harvest": 404,
+    "no_redundant_retry": true,
+    "related_PRL": "10.1103/6v3g-18gz/2607.24214 is a different companion; not newly full-read"
+  },
+  "MERGS": {
+    "doi": "10.1063/5.0350271",
+    "status": "new fulltext retry only; no abstract-only note",
+    "official_pdf_proxy": "403 HTML 5696 bytes",
+    "official_pdf_direct": "403 HTML 93 bytes",
+    "HAL": "200 numFound0",
+    "bounded_web": "no verified same-work legal alternate; October electron-optics companion differs"
+  }
+}

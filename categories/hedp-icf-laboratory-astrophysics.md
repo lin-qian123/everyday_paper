@@ -2,11 +2,13 @@
 
 HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。
 
-- 当前收录：145 篇
-- 索引更新时间：2026-11-17
+- 当前收录：147 篇
+- 索引更新时间：2026-11-18
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-18 | [Physics-guided deep learning for high resolution X-ray free-electron laser imaging](../papers/10-1038-s41598-026-80553-7/README.md) | Scientific Reports (Article in Press; final VOR not acquired) | [笔记](../daily/2026-11-18/notes/lee-2026-xfel.md) |
+| 2026-11-18 | [Linear Electrostatic Instabilities Driven by Relativistic Non-Maxwellian Pair Beams](../papers/10-3390-plasma9040049/README.md) | Plasma 9(4), 49 (publisher VOR) | [笔记](../daily/2026-11-18/notes/dey-2026-pair-beams.md) |
 | 2026-11-17 | [Radiation in relativistic plasmas via particle simulations](../papers/arxiv-2611-18332/README.md) | arXiv preprint | [笔记](../daily/2026-11-17/notes/kritikos-2026-relativistic-radiation-md.md) |
 | 2026-11-16 | [On stimulated scattering including harmonic generation in an unmagnetized pair plasma for arbitrary pump strengths](../papers/arxiv-2611-17279/README.md) | arXiv preprint | [笔记](../daily/2026-11-16/notes/patel-2026-pair-stimulated-scattering.md) |
 | 2026-11-14 | [Nonthermal Particle Acceleration by Magnetic Pumping in Pulsating Plasmas](../papers/10-1103-wyt1-24q7/README.md) | Physical Review Letters | [笔记](../daily/2026-11-14/notes/arro-2026-magnetic-pumping.md) |

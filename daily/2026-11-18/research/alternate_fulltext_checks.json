@@ -1,0 +1,14 @@
+{
+  "source": "HAL exact title top5",
+  "url": "https://api.archives-ouvertes.fr/search/?q=title_t%3A%22Gamma-electron+conversion+on+MERGS+%28magnetic+electron+recoil+gamma-ray+spectrometers%29+for+fusion+diagnostics%22&fl=title_s%2CdoiId_s%2CfileMain_s%2Curi_s&rows=5&wt=json",
+  "status": 200,
+  "response": {
+    "response": {
+      "numFound": 0,
+      "start": 0,
+      "maxScore": 0.0,
+      "numFoundExact": true,
+      "docs": []
+    }
+  }
+}

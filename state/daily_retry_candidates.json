@@ -1633,5 +1633,23 @@
     "last_failure_class": "publisher_pdf_403_html",
     "stderr": "Official Crossref-listed VOR PDF HTTP403 text/html 5696bytes, Cloudflare verification. Exact-title HAL top5 HTTP200 numFound0. Bounded exact-title web search did not verify lawful same-work alternative; related Jan2026 paper/conference abstract not used as this fulltext. No abstract-only note.",
     "evidence_path": "daily/2026-11-17/research/journal_version_checks.json"
+  },
+  {
+    "doi": "10.1063/5.0350271",
+    "title": "Gamma-electron conversion on MERGS (magnetic electron recoil gamma-ray spectrometers) for fusion diagnostics",
+    "journal": "Review of Scientific Instruments",
+    "publication_date": "2026-11-17",
+    "publication_date_type": "Crossref published-online; publisher page not independently available",
+    "source_url": "https://doi.org/10.1063/5.0350271",
+    "pdf_url": "https://pubs.aip.org/aip/rsi/article-pdf/doi/10.1063/5.0350271/21203609/113524_1_5.0350271.pdf",
+    "topic": "gamma-to-electron conversion foil and fusion nuclear gamma diagnostics",
+    "run_date": "2026-11-18",
+    "status": "download_failed",
+    "last_failure_class": "publisher_http_403_html",
+    "source_family": "aip",
+    "failure_count": 1,
+    "attempted_at": "2026-11-17T23:10:30.571018+00:00",
+    "stderr": "Official VOR PDF: env-proxy HTTP403 text/html charset UTF-8, 5696 bytes; direct proxy bypass HTTP403 text/html, 93 bytes. Neither is PDF. HAL exact-title top5 HTTP200 numFound0; bounded web searches did not verify a legal same-work fulltext. The October electron-optics companion is a different paper and does not replace this fulltext.",
+    "evidence_path": "daily/2026-11-18/research/source_access_checks.json"
   }
 ]

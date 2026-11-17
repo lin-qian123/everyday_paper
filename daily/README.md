@@ -4,6 +4,7 @@
 
 | 日期 | 当日索引 | 运行结果 |
 | --- | --- | --- |
+| 2026-11-18 | [index.md](./2026-11-18/index.md) | [run_results.json](./2026-11-18/run_results.json) |
 | 2026-11-17 | [index.md](./2026-11-17/index.md) | [run_results.json](./2026-11-17/run_results.json) |
 | 2026-11-16 | [index.md](./2026-11-16/index.md) | [run_results.json](./2026-11-16/run_results.json) |
 | 2026-11-15 | [index.md](./2026-11-15/index.md) | [run_results.json](./2026-11-15/run_results.json) |

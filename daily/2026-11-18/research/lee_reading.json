@@ -1,0 +1,101 @@
+{
+  "paper": "10.1038/s41598-026-80553-7",
+  "full_layout_text_read": true,
+  "visual_pages": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "formula_zoom_page": 15,
+  "mineru_requests": 0,
+  "author_code_or_experiment_rerun": false,
+  "figures": [
+    {
+      "figure": 1,
+      "pdf_path": "daily/2026-11-18/pdfs/lee-2026-xfel.pdf",
+      "pdf_sha256": "9538a85298c510c3803bd9dbcbff0758af08057685214de3f77a776a931c846a",
+      "page": 4,
+      "clip_points": [
+        48,
+        52,
+        550,
+        350
+      ],
+      "render_scale": 2,
+      "image_path": "daily/2026-11-18/notes/images/lee-fig1.png",
+      "image_sha256": "cc6925578cd11f45cab087506cfd2dbf70501a77bc8551e379b59694ce29096d",
+      "source": "publisher Article in Press, unchanged source-figure excerpt",
+      "visual_reviewed": true
+    },
+    {
+      "figure": 3,
+      "pdf_path": "daily/2026-11-18/pdfs/lee-2026-xfel.pdf",
+      "pdf_sha256": "9538a85298c510c3803bd9dbcbff0758af08057685214de3f77a776a931c846a",
+      "page": 7,
+      "clip_points": [
+        48,
+        55,
+        550,
+        356
+      ],
+      "render_scale": 2,
+      "image_path": "daily/2026-11-18/notes/images/lee-fig3.png",
+      "image_sha256": "73b295096fdec562da9e3bd51f0695439bb081bdbcf20928ea76ddb8ce17e42e",
+      "source": "publisher Article in Press, unchanged source-figure excerpt",
+      "visual_reviewed": true
+    },
+    {
+      "figure": 5,
+      "pdf_path": "daily/2026-11-18/pdfs/lee-2026-xfel.pdf",
+      "pdf_sha256": "9538a85298c510c3803bd9dbcbff0758af08057685214de3f77a776a931c846a",
+      "page": 9,
+      "clip_points": [
+        48,
+        530,
+        550,
+        676
+      ],
+      "render_scale": 2,
+      "image_path": "daily/2026-11-18/notes/images/lee-fig5.png",
+      "image_sha256": "856fedc43cce631ea1dd9655c6bd545ee8dd64e1936c6d7ec0df7a03269353f7",
+      "source": "publisher Article in Press, unchanged source-figure excerpt",
+      "visual_reviewed": true
+    },
+    {
+      "figure": 7,
+      "pdf_path": "daily/2026-11-18/pdfs/lee-2026-xfel.pdf",
+      "pdf_sha256": "9538a85298c510c3803bd9dbcbff0758af08057685214de3f77a776a931c846a",
+      "page": 14,
+      "clip_points": [
+        48,
+        50,
+        550,
+        372
+      ],
+      "render_scale": 2,
+      "image_path": "daily/2026-11-18/notes/images/lee-fig7.png",
+      "image_sha256": "3ebf76490320ea13e847b1b4bb5872c64121480a08b923b947f7cef4636e0a4a",
+      "source": "publisher Article in Press, unchanged source-figure excerpt",
+      "visual_reviewed": true
+    }
+  ],
+  "note_path": "daily/2026-11-18/notes/lee-2026-xfel.md",
+  "note_sha256": "cb56cd71bc796a7f49980f19c336ff05ddd139e73798f2892e73e17337064da8",
+  "boundaries": [
+    "real data plus two synthetic injection tests, not full independent truth",
+    "shockwave similarity measured against raw, not truth",
+    "exp(R^2) printed in source page15; not silently corrected; implementation unverified",
+    "10 model entropy is uncalibrated epistemic signal, not confidence probability",
+    "millisecond inference not MHz end-to-end throughput"
+  ]
+}

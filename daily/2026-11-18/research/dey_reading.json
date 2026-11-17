@@ -1,0 +1,133 @@
+{
+  "paper": "Linear Electrostatic Instabilities Driven by Relativistic Non-Maxwellian Pair Beams",
+  "doi": "10.3390/plasma9040049",
+  "version": "publisher VOR; Plasma 2026, 9, 49; published 2026-11-17, accepted 2026-11-14",
+  "arxiv_alias": "2611.21041v1",
+  "source_pdf": "daily/2026-11-18/pdfs/dey-2026-pair-beams.pdf",
+  "source_pdf_sha256": "6e09a16204de978e561e4bfc28b9d7e688a282ff7ec921e3d7415000f71a9832",
+  "source_pages": 19,
+  "read_scope": "full main text, Appendix A/B, references list; no cited-paper rereading",
+  "rendered_pages_visually_inspected_one_based": [
+    1,
+    4,
+    7,
+    9,
+    10,
+    12,
+    13,
+    14,
+    16,
+    17,
+    18
+  ],
+  "retained_figures": 5,
+  "figures": [
+    {
+      "figure": "fig1",
+      "source_pdf": "daily/2026-11-18/pdfs/dey-2026-pair-beams.pdf",
+      "source_pdf_sha256": "6e09a16204de978e561e4bfc28b9d7e688a282ff7ec921e3d7415000f71a9832",
+      "source_page_one_based": 7,
+      "crop_box_pdf_points": [
+        164,
+        63,
+        511,
+        329
+      ],
+      "render_scale": 2,
+      "path": "daily/2026-11-18/notes/images/dey-fig1.png",
+      "sha256": "840ab1236f65b8b359d7c610d43e2fe974890e02b8dd922949c35dff9fd3f75c",
+      "decoded_pixels_match_source_crop": true,
+      "retained_crop_reopened_visually": true
+    },
+    {
+      "figure": "fig2",
+      "source_pdf": "daily/2026-11-18/pdfs/dey-2026-pair-beams.pdf",
+      "source_pdf_sha256": "6e09a16204de978e561e4bfc28b9d7e688a282ff7ec921e3d7415000f71a9832",
+      "source_page_one_based": 12,
+      "crop_box_pdf_points": [
+        164,
+        350,
+        555,
+        672
+      ],
+      "render_scale": 2,
+      "path": "daily/2026-11-18/notes/images/dey-fig2.png",
+      "sha256": "1fb66b422461ba83e93cb647430595a53c510696560a0c677b366fa1f8498b06",
+      "decoded_pixels_match_source_crop": true,
+      "retained_crop_reopened_visually": true
+    },
+    {
+      "figure": "fig3",
+      "source_pdf": "daily/2026-11-18/pdfs/dey-2026-pair-beams.pdf",
+      "source_pdf_sha256": "6e09a16204de978e561e4bfc28b9d7e688a282ff7ec921e3d7415000f71a9832",
+      "source_page_one_based": 13,
+      "crop_box_pdf_points": [
+        164,
+        340,
+        515,
+        573
+      ],
+      "render_scale": 2,
+      "path": "daily/2026-11-18/notes/images/dey-fig3.png",
+      "sha256": "3861e5ac613142ec6a19b914a959d1f2cb3a0d27a390fb0e0f7fcdc6276c42cb",
+      "decoded_pixels_match_source_crop": true,
+      "retained_crop_reopened_visually": true
+    },
+    {
+      "figure": "fig4",
+      "source_pdf": "daily/2026-11-18/pdfs/dey-2026-pair-beams.pdf",
+      "source_pdf_sha256": "6e09a16204de978e561e4bfc28b9d7e688a282ff7ec921e3d7415000f71a9832",
+      "source_page_one_based": 14,
+      "crop_box_pdf_points": [
+        164,
+        375,
+        509,
+        607
+      ],
+      "render_scale": 2,
+      "path": "daily/2026-11-18/notes/images/dey-fig4.png",
+      "sha256": "1362efe062e18352e1f2ef6373b378c10fe2c3e89b009c3cd4267467affb10a8",
+      "decoded_pixels_match_source_crop": true,
+      "retained_crop_reopened_visually": true
+    },
+    {
+      "figure": "figA1",
+      "source_pdf": "daily/2026-11-18/pdfs/dey-2026-pair-beams.pdf",
+      "source_pdf_sha256": "6e09a16204de978e561e4bfc28b9d7e688a282ff7ec921e3d7415000f71a9832",
+      "source_page_one_based": 16,
+      "crop_box_pdf_points": [
+        164,
+        328,
+        522,
+        615
+      ],
+      "render_scale": 2,
+      "path": "daily/2026-11-18/notes/images/dey-figA1.png",
+      "sha256": "7a08d2e98f751cde1813f8c3a5ead16662f53e570c3826f78329aa8ae9c0b7b2",
+      "decoded_pixels_match_source_crop": true,
+      "retained_crop_reopened_visually": true
+    }
+  ],
+  "note_path": "daily/2026-11-18/notes/dey-2026-pair-beams.md",
+  "note_sha256": "e905ebdea556032a0fa5030165d6766a372f6435fd2da5d3b5f9abcc6ae20428",
+  "mineru_requests": 0,
+  "mineru_status": "historical expiry not retested; explicit local layout text and source-page rendering fallback",
+  "author_calculations_rerun": false,
+  "checks": [
+    "all figure crop decoded pixels equal source rendering",
+    "retained 5 figures reopened visually; fig3 recropped to include kappa axis label",
+    "local note links exist",
+    "display math delimiters balanced"
+  ],
+  "evidence_boundaries": [
+    "linear electrostatic weak-beam theory and resonance-integral numerical optimization; no new PIC run or experiment",
+    "n_b is total electron plus positron beam density; susceptibilities add through q squared, no extra factor two",
+    "kappa > 3/2 needed for finite component RMS; sigma_perp is one transverse component",
+    "Gaussian comparison matches mean and longitudinal plus transverse RMS; MJ matches only mean plus transverse RMS and has twice longitudinal width in fiducial case",
+    "Table 1 is strictly parallel branch only; Table 2 optimized values and Figure 2 discrete-grid stars differ by sampling method; top star with Maximum growth label is legend",
+    "high-momentum example changes momentum, fractional widths and density together; kappa=2 only, bounded reported optimum not local proof of global optimum",
+    "Appendix A tests chosen grids/points; not a full-domain or high-momentum resonance certification",
+    "linear rate does not determine nonlinear energy loss, inverse-Compton competition or gamma-cascade suppression"
+  ],
+  "created_at": "2026-11-17T23:10:43.429005+00:00"
+}

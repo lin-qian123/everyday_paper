@@ -1,0 +1,108 @@
+{
+  "paper": "A spherical body in plasma simulated with adaptive mesh and algorithm refinement",
+  "arxiv_version": "2611.21466v1",
+  "pdf_path": "daily/2026-11-18/pdfs/kolobov-2026-sphere.pdf",
+  "pdf_pages": 32,
+  "pdf_sha256": "20e06e72ddf99acde7ee28fd6e9ec6c749b12cbe7b3265546f0cb993720142b8",
+  "reading": "All 32 PDF pages of layout text, figures/captions, Tables 1–3 and references read in sequence; key source pages rendered and visually inspected. No author solver rerun.",
+  "visual_source_pages": [
+    1,
+    3,
+    6,
+    8,
+    14,
+    17,
+    23,
+    24,
+    25,
+    26,
+    28,
+    29
+  ],
+  "mineru": "0 requests; historical authentication expiry not retested; explicitly used local layout text and rendered pages",
+  "figures": [
+    {
+      "figure": 10,
+      "pdf_page": 23,
+      "crop_box_pt": [
+        72,
+        72,
+        544,
+        335
+      ],
+      "render_matrix": [
+        2,
+        2
+      ],
+      "image_path": "daily/2026-11-18/notes/images/kolobov-fig10-far-field.png",
+      "pdf_sha256": "20e06e72ddf99acde7ee28fd6e9ec6c749b12cbe7b3265546f0cb993720142b8",
+      "image_sha256": "fa5659fd71dda53b99d67ddbf83efe4eb2251b389d211b67f7211943d2f663c2",
+      "decoded_pixel_sha256": "c33621504a1db8fdaca696baff578de8076cbd5409ed494b416e4e079a093628",
+      "width": 944,
+      "height": 526,
+      "visual_reviewed": true,
+      "reopened_crop_pixels_match_source": true
+    },
+    {
+      "figure": 11,
+      "pdf_page": 24,
+      "crop_box_pt": [
+        72,
+        72,
+        544,
+        308
+      ],
+      "render_matrix": [
+        2,
+        2
+      ],
+      "image_path": "daily/2026-11-18/notes/images/kolobov-fig11-electron-scattering.png",
+      "pdf_sha256": "20e06e72ddf99acde7ee28fd6e9ec6c749b12cbe7b3265546f0cb993720142b8",
+      "image_sha256": "f3ffc8bf716e83063da75c04be0081a0ab1d8c684d706b28c82b767cc6fb0c77",
+      "decoded_pixel_sha256": "e08f7f55ddd7aa5fad3187d48d9374580b0b6cac27e0afe071fad8c3d8548599",
+      "width": 944,
+      "height": 472,
+      "visual_reviewed": true,
+      "reopened_crop_pixels_match_source": true
+    },
+    {
+      "figure": 15,
+      "pdf_page": 29,
+      "crop_box_pt": [
+        72,
+        198,
+        544,
+        440
+      ],
+      "render_matrix": [
+        2,
+        2
+      ],
+      "image_path": "daily/2026-11-18/notes/images/kolobov-fig15-ion-hybrid-failure.png",
+      "pdf_sha256": "20e06e72ddf99acde7ee28fd6e9ec6c749b12cbe7b3265546f0cb993720142b8",
+      "image_sha256": "012ffeb67179df2728a83137b7d7bdaada1b8df3c99021d3f71a34627f0442a4",
+      "decoded_pixel_sha256": "e39026cfb52ed08bdad01bb41091ba7a90f3a7cc20ee18febd42df4283107aa2",
+      "width": 944,
+      "height": 484,
+      "visual_reviewed": true,
+      "reopened_crop_pixels_match_source": true
+    }
+  ],
+  "boundaries": [
+    "1 percent electron-current agreement concerns current normalized by its own collisionless mesh result; level-5 absolute wall current remains 0.915 of exact.",
+    "Far-field laws computed with stationary orbit solvers, not demonstrated on long-domain coupled time-dependent 1d2v.",
+    "Collisionless trapped orbits assumed empty; CX or history supplies occupancy.",
+    "Ion hybrid trapping sensor not implemented; anisotropy-only fails at lambda_i=0.3 Rp with 50 percent excess current.",
+    "Large-domain floating hybrid comparison applies to quasi-steady 500–1000 time units; all runs later oscillate; max measured wall-time saving 11 percent per ion transit.",
+    "Fluid–1d1v(S) with generalized interface is future work, not a verified existing hybrid."
+  ],
+  "companion": "2611.14820 PAMAR framework; old note introduction consulted only for relation, old PDF not reread or recertified.",
+  "note_path": "daily/2026-11-18/notes/kolobov-2026-sphere.md",
+  "note_sha256": "c6019af2425092e3f93c66e864aa25d5a59d039644e4a8458adfcca3cb6de734",
+  "verification": {
+    "local_links": true,
+    "display_math_delimiters_balanced": true,
+    "all_three_reopened_crop_pixels_match_source": true,
+    "no_trailing_spaces": true
+  }
+}

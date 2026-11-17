@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：576 篇
-- 索引更新时间：2026-11-17
+- 当前入库论文：579 篇
+- 索引更新时间：2026-11-18
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-11-18 | [Physics-guided deep learning for high resolution X-ray free-electron laser imaging](./10-1038-s41598-026-80553-7/README.md) | Scientific Reports (Article in Press; final VOR not acquired) | [10.1038/s41598-026-80553-7](https://doi.org/10.1038/s41598-026-80553-7) |
+| 2026-11-18 | [Linear Electrostatic Instabilities Driven by Relativistic Non-Maxwellian Pair Beams](./10-3390-plasma9040049/README.md) | Plasma 9(4), 49 (publisher VOR) | [10.3390/plasma9040049](https://doi.org/10.3390/plasma9040049) |
+| 2026-11-18 | [A spherical body in plasma simulated with adaptive mesh and algorithm refinement](./arxiv-2611-21466/README.md) | arXiv preprint | [10.48550/arXiv.2611.21466](https://doi.org/10.48550/arXiv.2611.21466) |
 | 2026-11-17 | [Qualifying LPA generated electron beams to free electron laser applications](./10-1038-s41598-026-80539-5/README.md) | Scientific Reports (Article in Press; final VOR not acquired) | [10.1038/s41598-026-80539-5](https://doi.org/10.1038/s41598-026-80539-5) |
 | 2026-11-17 | [Radiation in relativistic plasmas via particle simulations](./arxiv-2611-18332/README.md) | arXiv preprint | [10.48550/arXiv.2611.18332](https://doi.org/10.48550/arXiv.2611.18332) |
 | 2026-11-17 | [Fuse-PINN: Combining Finite Element Methods and Physics-Informed Neural Networks to enable massively parallel simulations of non-linear PDEs](./arxiv-2611-18409/README.md) | arXiv preprint | [10.48550/arXiv.2611.18409](https://doi.org/10.48550/arXiv.2611.18409) |
@@ -346,8 +349,8 @@
 | 2026-07-30 | [Reconciling chemical models of X-ray Thomson Scattering with the Bethe f-sum rule](./arxiv-2607-25481/README.md) | arXiv preprint | [10.48550/arXiv.2607.25481](https://doi.org/10.48550/arXiv.2607.25481) |
 | 2026-07-30 | [Enhanced alpha channeling with spin-polarized fuel](./arxiv-2607-25313/README.md) | arXiv preprint | [10.48550/arXiv.2607.25313](https://doi.org/10.48550/arXiv.2607.25313) |
 | 2026-07-29 | [Implementation and verification of the avalanche source in a 3D full-f particle-in-cell model of relativistic electrons for studies of tokamak disruptions](./arxiv-2607-24602/README.md) | arXiv preprint | [10.48550/arXiv.2607.24602](https://doi.org/10.48550/arXiv.2607.24602) |
-| 2026-07-29 | [Quasistatic modeling of ultrarelativistic beam-plasma instabilities](./arxiv-2607-24234/README.md) | arXiv preprint | [10.48550/arXiv.2607.24234](https://doi.org/10.48550/arXiv.2607.24234) |
 | 2026-07-29 | [Impact of ion-electron collisions on nonlocal ion heat conduction, viscous stress, and diffusion](./arxiv-2607-24505/README.md) | arXiv preprint | [10.48550/arXiv.2607.24505](https://doi.org/10.48550/arXiv.2607.24505) |
+| 2026-07-29 | [Quasistatic modeling of ultrarelativistic beam-plasma instabilities](./10-1103-yp1k-gjh9/README.md) | Physical Review E (accepted 2026-11-17; publication not independently verified) | [10.1103/yp1k-gjh9](https://doi.org/10.1103/yp1k-gjh9) |
 | 2026-07-28 | [First Observation of Fishbone-Driven Zonal Flows with Fine Reversed Structure in Tokamak Plasmas](./arxiv-2607-22344/README.md) | arXiv preprint | [10.48550/arXiv.2607.22344](https://doi.org/10.48550/arXiv.2607.22344) |
 | 2026-07-28 | [Gamma spectrometry with CsI(Tl), NaI(Tl) and CdWO4 scintillation crystals using a silicon photomultiplier](./10-15407-jnpae2026-02-148/README.md) | Nuclear Physics and Atomic Energy 27(2), 148-152 (open access; arXiv copy) | [10.15407/jnpae2026.02.148](https://doi.org/10.15407/jnpae2026.02.148) |
 | 2026-07-27 | [Generalized Theory of Blowout-Regime Plasma Wakefields via a Lagrangian Formulation](./arxiv-2607-22473/README.md) | arXiv preprint | [10.48550/arXiv.2607.22473](https://doi.org/10.48550/arXiv.2607.22473) |

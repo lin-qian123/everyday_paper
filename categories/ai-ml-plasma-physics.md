@@ -2,11 +2,12 @@
 
 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。
 
-- 当前收录：98 篇
-- 索引更新时间：2026-11-17
+- 当前收录：99 篇
+- 索引更新时间：2026-11-18
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-18 | [Physics-guided deep learning for high resolution X-ray free-electron laser imaging](../papers/10-1038-s41598-026-80553-7/README.md) | Scientific Reports (Article in Press; final VOR not acquired) | [笔记](../daily/2026-11-18/notes/lee-2026-xfel.md) |
 | 2026-11-17 | [Fuse-PINN: Combining Finite Element Methods and Physics-Informed Neural Networks to enable massively parallel simulations of non-linear PDEs](../papers/arxiv-2611-18409/README.md) | arXiv preprint | [笔记](../daily/2026-11-17/notes/pamela-2026-fuse-pinn.md) |
 | 2026-11-14 | [A weak-form discrete physical-residual PINN method for solving multigroup neutron diffusion equations](../papers/10-3389-fenrg-2026-2005399/README.md) | Frontiers in Energy Research | [笔记](../daily/2026-11-14/notes/hu-2026-neutron-diffusion-pinn.md) |
 | 2026-11-14 | [Data-driven non-contiguous photon-energy groups for fast multigroup radiation transport in line-dominated plasmas](../papers/arxiv-2611-15095/README.md) | arXiv preprint | [笔记](../daily/2026-11-14/notes/fujioka-2026-radiation-groups.md) |

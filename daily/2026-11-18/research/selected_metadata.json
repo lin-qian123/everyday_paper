@@ -1,0 +1,562 @@
+[
+  {
+    "DOI": "10.3390/plasma9040049",
+    "title": [
+      "Linear Electrostatic Instabilities Driven by Relativistic Non-Maxwellian Pair Beams"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-1029-3807",
+        "authenticated-orcid": false,
+        "given": "Suman",
+        "family": "Dey",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Institut für Theoretische Physik, Technische Universität Braunschweig, 38106 Braunschweig, Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Plasma"
+    ],
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          17
+        ]
+      ]
+    },
+    "link": [
+      {
+        "URL": "https://www.mdpi.com/2571-6182/9/4/49/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "URL": "https://doi.org/10.3390/plasma9040049"
+  },
+  {
+    "DOI": "10.1038/s41598-026-80553-7",
+    "title": [
+      "Physics-guided deep learning for high resolution X-ray free-electron laser imaging"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0001-6569-5881",
+        "authenticated-orcid": false,
+        "given": "Shao Xian",
+        "family": "Lee",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          },
+          {
+            "role": "corresponding-author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Aashwin Ananda",
+        "family": "Mishra",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0001-5827-0818",
+        "authenticated-orcid": false,
+        "given": "Ariel",
+        "family": "Arnott",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1237-8302",
+        "authenticated-orcid": false,
+        "given": "Meriame",
+        "family": "Berboucha",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0009-5789-3659",
+        "authenticated-orcid": false,
+        "given": "Nina",
+        "family": "Boiadjieva",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0972-6452",
+        "authenticated-orcid": false,
+        "given": "Gourab",
+        "family": "Chatterjee",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0976-4416",
+        "authenticated-orcid": false,
+        "given": "Eric",
+        "family": "Cunningham",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Nick",
+        "family": "Czapla",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9755-9780",
+        "authenticated-orcid": false,
+        "given": "Gilliss",
+        "family": "Dyer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jonathan",
+        "family": "Ehni",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Robert",
+        "family": "Ettelbrick",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3314-7060",
+        "authenticated-orcid": false,
+        "given": "Anna",
+        "family": "Grassi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3351-0635",
+        "authenticated-orcid": false,
+        "given": "Mickael",
+        "family": "Grech",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Philip",
+        "family": "Hart",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5139-2310",
+        "authenticated-orcid": false,
+        "given": "Dimitri",
+        "family": "Khaghani",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4035-5637",
+        "authenticated-orcid": false,
+        "given": "Hae Ja",
+        "family": "Lee",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0948-6716",
+        "authenticated-orcid": false,
+        "given": "Peregrine",
+        "family": "McGehee",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0002-5736-7842",
+        "authenticated-orcid": false,
+        "given": "Bob",
+        "family": "Nagler",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5156-8830",
+        "authenticated-orcid": false,
+        "given": "Paul",
+        "family": "Neumayer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9589-0568",
+        "authenticated-orcid": false,
+        "given": "Caterina",
+        "family": "Riconda",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Marc",
+        "family": "Welch",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0006-7123-2425",
+        "authenticated-orcid": false,
+        "given": "Andrea",
+        "family": "Zabala",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0396-285X",
+        "authenticated-orcid": false,
+        "given": "Eric",
+        "family": "Galtier",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5897-8576",
+        "authenticated-orcid": false,
+        "given": "Quynh L.",
+        "family": "Nguyen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Scientific Reports"
+    ],
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          17
+        ]
+      ]
+    },
+    "link": [
+      {
+        "URL": "https://www.nature.com/articles/s41598-026-80553-7",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "URL": "https://doi.org/10.1038/s41598-026-80553-7"
+  },
+  {
+    "DOI": "10.1103/yp1k-gjh9",
+    "title": [
+      "Quasistatic modeling of ultrarelativistic beam-plasma instabilities"
+    ],
+    "author": [
+      {
+        "given": "P. San Miguel",
+        "family": "Claveria",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "L.",
+        "family": "Gremillet",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "X.",
+        "family": "Davoine",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Q.",
+        "family": "Labro",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "A.",
+        "family": "Matheron",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "M.",
+        "family": "Tamburini",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "F.",
+        "family": "Fiuza",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "S.",
+        "family": "Corde",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Physical Review E"
+    ],
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          17
+        ]
+      ]
+    },
+    "accepted": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          17
+        ]
+      ]
+    },
+    "URL": "https://doi.org/10.1103/yp1k-gjh9"
+  },
+  {
+    "title": "A spherical body in plasma simulated with adaptive mesh and algorithm refinement",
+    "doi": "10.48550/arXiv.2611.21466",
+    "authors": [
+      "Vladimir I. Kolobov",
+      "Robert R. Arslanbekov"
+    ],
+    "journal": "arXiv preprint",
+    "publication_date": "2026-11-16",
+    "publication_date_type": "arxiv first submission; announcement separately recorded",
+    "announcement_date": "2026-11-17",
+    "submission_timestamp_utc": "2026-11-16T17:46:48Z",
+    "publication_status": "author preprint; bounded Crossref exact-title top3 did not verify same-work journal version",
+    "arxiv_id": "2611.21466",
+    "arxiv_version": "2611.21466v1",
+    "fulltext_version": "official arXiv 2611.21466v1 author manuscript, 32 pages",
+    "source_url": "https://arxiv.org/abs/2611.21466v1",
+    "pdf_url": "https://arxiv.org/pdf/2611.21466v1",
+    "categories": [
+      "pic-and-plasma-simulation",
+      "general-plasma-and-methods",
+      "experimental-platforms-diagnostics"
+    ],
+    "related_work": "companion benchmark to processed arXiv 2611.14820, shared PAMAR framework; not a new experiment",
+    "note_path": "daily/2026-11-18/notes/kolobov-2026-sphere.md",
+    "pdf_path": "daily/2026-11-18/pdfs/kolobov-2026-sphere.pdf",
+    "pdf_sha256": "20e06e72ddf99acde7ee28fd6e9ec6c749b12cbe7b3265546f0cb993720142b8",
+    "processed_date": "2026-11-18",
+    "normalized_title": "a spherical body in plasma simulated with adaptive mesh and algorithm refinement"
+  }
+]

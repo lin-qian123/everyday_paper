@@ -1,0 +1,35 @@
+[
+  {
+    "url": "https://www.nature.com/articles/s41598-026-80553-7_reference.pdf",
+    "status": 200,
+    "content_type": "application/pdf",
+    "bytes": 3417145,
+    "pdf_magic": true,
+    "key": "lee-2026-xfel",
+    "pdf_path": "daily/2026-11-18/pdfs/lee-2026-xfel.pdf",
+    "pdf_sha256": "9538a85298c510c3803bd9dbcbff0758af08057685214de3f77a776a931c846a",
+    "downloaded_at": "2026-11-17T23:05:02.546262+00:00"
+  },
+  {
+    "url": "https://mdpi-res.com/d_attachment/plasma/plasma-09-00049/article_deploy/plasma-09-00049.pdf",
+    "status": 200,
+    "content_type": "application/pdf",
+    "bytes": 6160579,
+    "pdf_magic": true,
+    "key": "dey-2026-pair-beams",
+    "pdf_path": "daily/2026-11-18/pdfs/dey-2026-pair-beams.pdf",
+    "pdf_sha256": "6e09a16204de978e561e4bfc28b9d7e688a282ff7ec921e3d7415000f71a9832",
+    "downloaded_at": "2026-11-17T23:05:03.209761+00:00"
+  },
+  {
+    "url": "https://arxiv.org/pdf/2611.21466v1",
+    "status": 200,
+    "content_type": "application/pdf",
+    "bytes": 2799884,
+    "pdf_magic": true,
+    "key": "kolobov-2026-sphere",
+    "pdf_path": "daily/2026-11-18/pdfs/kolobov-2026-sphere.pdf",
+    "pdf_sha256": "20e06e72ddf99acde7ee28fd6e9ec6c749b12cbe7b3265546f0cb993720142b8",
+    "downloaded_at": "2026-11-17T23:05:03.784403+00:00"
+  }
+]

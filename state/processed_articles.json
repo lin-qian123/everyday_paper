@@ -2652,14 +2652,36 @@
   },
   {
     "title": "Quasistatic modeling of ultrarelativistic beam-plasma instabilities",
-    "doi": "10.48550/arXiv.2607.24234",
-    "journal": "arXiv preprint",
-    "publication_date": "2026-07-27",
+    "doi": "10.1103/yp1k-gjh9",
+    "journal": "Physical Review E (accepted 2026-11-17; publication not independently verified)",
+    "publication_date": null,
     "processed_date": "2026-07-29",
-    "source_url": "https://arxiv.org/abs/2607.24234",
+    "source_url": "https://journals.aps.org/pre/accepted/10.1103/yp1k-gjh9",
     "pdf_path": "daily/2026-07-29/pdfs/P San Miguel Claveria et al. - 2026 - Quasistatic beam-plasma instabilities.pdf",
     "note_path": "daily/2026-07-29/notes/P San Miguel Claveria et al. - 2026 - Quasistatic beam-plasma instabilities.md",
-    "normalized_title": "quasistatic modeling of ultrarelativistic beam plasma instabilities"
+    "normalized_title": "quasistatic modeling of ultrarelativistic beam plasma instabilities",
+    "doi_aliases": [
+      "10.48550/arXiv.2607.24234"
+    ],
+    "arxiv_id": "2607.24234",
+    "arxiv_version": "2607.24234v1",
+    "authors": [
+      "P. San Miguel Claveria",
+      "L. Gremillet",
+      "X. Davoine",
+      "Q. Labro",
+      "A. Matheron",
+      "M. Tamburini",
+      "F. Fiuza",
+      "S. Corde"
+    ],
+    "acceptance_date": "2026-11-17",
+    "publication_status": "Crossref accepted date only; APS pages blocked; formal publication not independently verified",
+    "publication_date_type": "unverified; Crossref published-online equals accepted and is not used as publication date",
+    "fulltext_version": "existing official arXiv 2607.24234v1, submitted 2026-07-27, PDF internally dated 2026-07-28; no final publisher version acquired",
+    "pdf_url": "https://arxiv.org/pdf/2607.24234v1",
+    "pdf_sha256": "caefa48ff896eeb3fa9deedc8b9140d9e30e98da2a560c8c7c4416e2f3c9397a",
+    "metadata_checked_date": "2026-11-18"
   },
   {
     "title": "Impact of ion-electron collisions on nonlocal ion heat conduction, viscous stress, and diffusion",
@@ -9250,5 +9272,110 @@
     "source_url": "https://arxiv.org/abs/2611.18409v1",
     "arxiv_comments": "9 pages plus Appendix, 11 figures, 1 table. Rejected at ICLR",
     "normalized_title": "fuse pinn combining finite element methods and physics informed neural networks to enable massively parallel simulations of non linear pdes"
+  },
+  {
+    "title": "Physics-guided deep learning for high resolution X-ray free-electron laser imaging",
+    "doi": "10.1038/s41598-026-80553-7",
+    "authors": [
+      "Shao Xian Lee",
+      "Aashwin Ananda Mishra",
+      "Ariel Arnott",
+      "Meriame Berboucha",
+      "Nina Boiadjieva",
+      "Gourab Chatterjee",
+      "Eric Cunningham",
+      "Nick Czapla",
+      "Gilliss Dyer",
+      "Jonathan Ehni",
+      "Robert Ettelbrick",
+      "Anna Grassi",
+      "Mickael Grech",
+      "Philip Hart",
+      "Dimitri Khaghani",
+      "Hae Ja Lee",
+      "Peregrine McGehee",
+      "Bob Nagler",
+      "Paul Neumayer",
+      "Caterina Riconda",
+      "Marc Welch",
+      "Andrea Zabala",
+      "Eric Galtier",
+      "Quynh L. Nguyen"
+    ],
+    "journal": "Scientific Reports (Article in Press; final VOR not acquired)",
+    "publication_date": "2026-11-17",
+    "acceptance_date": "2026-11-09",
+    "publication_date_type": "publisher online date, independently matches Crossref",
+    "publication_status": "publisher Article in Press; pending final editing",
+    "fulltext_version": "publisher Article in Press, 19 pages, not final VOR",
+    "arxiv_id": "2605.01543",
+    "pdf_url": "https://www.nature.com/articles/s41598-026-80553-7_reference.pdf",
+    "source_url": "https://www.nature.com/articles/s41598-026-80553-7",
+    "categories": [
+      "ai-ml-plasma-physics",
+      "experimental-platforms-diagnostics",
+      "hedp-icf-laboratory-astrophysics"
+    ],
+    "note_path": "daily/2026-11-18/notes/lee-2026-xfel.md",
+    "pdf_path": "daily/2026-11-18/pdfs/lee-2026-xfel.pdf",
+    "pdf_sha256": "9538a85298c510c3803bd9dbcbff0758af08057685214de3f77a776a931c846a",
+    "processed_date": "2026-11-18",
+    "normalized_title": "physics guided deep learning for high resolution x ray free electron laser imaging"
+  },
+  {
+    "title": "Linear Electrostatic Instabilities Driven by Relativistic Non-Maxwellian Pair Beams",
+    "doi": "10.3390/plasma9040049",
+    "authors": [
+      "Suman Dey"
+    ],
+    "journal": "Plasma 9(4), 49 (publisher VOR)",
+    "publication_date": "2026-11-17",
+    "acceptance_date": "2026-11-14",
+    "publication_date_type": "publisher online date, independently matches Crossref",
+    "publication_status": "published publisher VOR",
+    "fulltext_version": "publisher Version of Record, 19 pages",
+    "arxiv_id": "2611.21041",
+    "pdf_url": "https://mdpi-res.com/d_attachment/plasma/plasma-09-00049/article_deploy/plasma-09-00049.pdf",
+    "source_url": "https://www.mdpi.com/2571-6182/9/4/49",
+    "categories": [
+      "pic-and-plasma-simulation",
+      "hedp-icf-laboratory-astrophysics",
+      "general-plasma-and-methods"
+    ],
+    "note_path": "daily/2026-11-18/notes/dey-2026-pair-beams.md",
+    "pdf_path": "daily/2026-11-18/pdfs/dey-2026-pair-beams.pdf",
+    "pdf_sha256": "6e09a16204de978e561e4bfc28b9d7e688a282ff7ec921e3d7415000f71a9832",
+    "processed_date": "2026-11-18",
+    "normalized_title": "linear electrostatic instabilities driven by relativistic non maxwellian pair beams"
+  },
+  {
+    "title": "A spherical body in plasma simulated with adaptive mesh and algorithm refinement",
+    "doi": "10.48550/arXiv.2611.21466",
+    "authors": [
+      "Vladimir I. Kolobov",
+      "Robert R. Arslanbekov"
+    ],
+    "journal": "arXiv preprint",
+    "publication_date": "2026-11-16",
+    "publication_date_type": "arxiv first submission; announcement separately recorded",
+    "announcement_date": "2026-11-17",
+    "submission_timestamp_utc": "2026-11-16T17:46:48Z",
+    "publication_status": "author preprint; bounded Crossref exact-title top3 did not verify same-work journal version",
+    "arxiv_id": "2611.21466",
+    "arxiv_version": "2611.21466v1",
+    "fulltext_version": "official arXiv 2611.21466v1 author manuscript, 32 pages",
+    "source_url": "https://arxiv.org/abs/2611.21466v1",
+    "pdf_url": "https://arxiv.org/pdf/2611.21466v1",
+    "categories": [
+      "pic-and-plasma-simulation",
+      "general-plasma-and-methods",
+      "experimental-platforms-diagnostics"
+    ],
+    "related_work": "companion benchmark to processed arXiv 2611.14820, shared PAMAR framework; not a new experiment",
+    "note_path": "daily/2026-11-18/notes/kolobov-2026-sphere.md",
+    "pdf_path": "daily/2026-11-18/pdfs/kolobov-2026-sphere.pdf",
+    "pdf_sha256": "20e06e72ddf99acde7ee28fd6e9ec6c749b12cbe7b3265546f0cb993720142b8",
+    "processed_date": "2026-11-18",
+    "normalized_title": "a spherical body in plasma simulated with adaptive mesh and algorithm refinement"
   }
 ]

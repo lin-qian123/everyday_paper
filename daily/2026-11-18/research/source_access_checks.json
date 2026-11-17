@@ -1,0 +1,70 @@
+[
+  {
+    "url": "https://journals.aps.org/pre/accepted/10.1103/yp1k-gjh9",
+    "status": 403,
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 5550,
+    "pdf_magic": false,
+    "text_excerpt": "Just a moment... Enable JavaScript and cookies to continue"
+  },
+  {
+    "url": "https://journals.aps.org/pre/pdf/10.1103/yp1k-gjh9",
+    "status": 403,
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 5514,
+    "pdf_magic": false,
+    "text_excerpt": "Just a moment... Enable JavaScript and cookies to continue"
+  },
+  {
+    "url": "https://harvest.aps.org/v2/journals/articles/10.1103/yp1k-gjh9/fulltext",
+    "status": 404,
+    "content_type": "application/json",
+    "bytes": 52,
+    "pdf_magic": false,
+    "text_excerpt": "{\"errors\":[{\"title\":\"10.1103/yp1k-gjh9 not found\"}]}"
+  },
+  {
+    "url": "https://pubs.aip.org/aip/rsi/article-pdf/doi/10.1063/5.0350271/21203609/113524_1_5.0350271.pdf",
+    "status": 403,
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 5696,
+    "pdf_magic": false,
+    "text_excerpt": "Just a moment... Enable JavaScript and cookies to continue"
+  },
+  {
+    "url": "https://pubs.aip.org/aip/rsi/article-pdf/doi/10.1063/5.0350271/21203609/113524_1_5.0350271.pdf",
+    "route": "direct, proxy bypass",
+    "status": 403,
+    "content_type": "text/html",
+    "bytes": 93,
+    "pdf_magic": false
+  },
+  {
+    "url": "https://www.nature.com/articles/s41598-026-80553-7",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 268803,
+    "pdf_magic": false
+  },
+  {
+    "url": "https://www.nature.com/articles/s41598-026-80553-7_reference.pdf",
+    "status": 200,
+    "content_type": "application/pdf",
+    "bytes": 3417145,
+    "pdf_magic": true
+  },
+  {
+    "url": "https://www.mdpi.com/2571-6182/9/4/49/pdf",
+    "status": 403,
+    "content_type": "text/html",
+    "bytes": 404,
+    "pdf_magic": false
+  },
+  {
+    "url": "https://mdpi-res.com/d_attachment/plasma/plasma-09-00049/article_deploy/plasma-09-00049.pdf",
+    "status": 200,
+    "content_type": "application/pdf",
+    "bytes": 6160579,
+    "pdf_magic": true
+  }
+]
