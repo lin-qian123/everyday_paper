@@ -2,11 +2,13 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：154 篇
-- 索引更新时间：2026-11-18
+- 当前收录：156 篇
+- 索引更新时间：2026-11-19
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-19 | [Monte Carlo assessment of a D–T neutron generator-based beam shaping assembly for BNCT: moderator effects on neutron spectrum and dose](../papers/10-1038-s41598-026-80838-x/README.md) | Scientific Reports | [笔记](../daily/2026-11-19/notes/asghari-2026-bnct.md) |
+| 2026-11-19 | [Multivariate scaling of proton and ion energies, divergence, and charge states in laser-driven Target Normal Sheath Acceleration](../papers/10-1140-epjp-s13360-026-08572-x/README.md) | The European Physical Journal Plus | [笔记](../daily/2026-11-19/notes/alexopoulou-2026-tnsa.md) |
 | 2026-11-17 | [Radiation in relativistic plasmas via particle simulations](../papers/arxiv-2611-18332/README.md) | arXiv preprint | [笔记](../daily/2026-11-17/notes/kritikos-2026-relativistic-radiation-md.md) |
 | 2026-11-16 | [Development and Experimental Characterization of a Compact 228Th-D2O Photoneutron Source for Low-Energy Nuclear Recoil Calibration](../papers/arxiv-2611-16415/README.md) | arXiv preprint | [笔记](../daily/2026-11-16/notes/tian-2026-thorium-photoneutron.md) |
 | 2026-11-15 | [Development of Sapphire-Based Solid-State Neutron Detectors for Fusion Environments](../papers/arxiv-2611-14745/README.md) | arXiv preprint | [笔记](../daily/2026-11-15/notes/kushoro-2026-sapphire-detectors.md) |

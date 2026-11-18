@@ -1,0 +1,104 @@
+{
+  "paper": "alexopoulou-2026-tnsa",
+  "doi": "10.1140/epjp/s13360-026-08572-x",
+  "actual_fulltext": "official arXiv 2512.21279v1, submitted 2025-12-24; 24 pages, no distinct internal manuscript date printed",
+  "read_scope": "all 24 pages including references; no appendix in this PDF",
+  "method": "pdftotext layout plus PyMuPDF rendering and view_image of source pages; historical MinerU expiry not retested, zero requests",
+  "visually_reviewed_source_pages": [
+    1,
+    5,
+    6,
+    7,
+    8,
+    11,
+    13,
+    14,
+    15,
+    16,
+    17,
+    19,
+    20,
+    21,
+    22
+  ],
+  "formula_zoom": "page14 Fig4 4x view verified 72/70/70 percent first R2 row; retained crop 2x",
+  "crops": [
+    {
+      "path": "daily/2026-11-19/notes/images/alexopoulou-table1.png",
+      "source_pdf": "daily/2026-11-19/pdfs/alexopoulou-2026-tnsa.pdf",
+      "page": 7,
+      "rect": [
+        65,
+        45,
+        575,
+        522
+      ],
+      "scale": 2,
+      "description": "Table I: parameter levels",
+      "sha256": "0c6da4f9edb9df13fb41d62ebda4c788efe22cc491e8a2c6c1638f451569ede0",
+      "source_pixel_match": true,
+      "reader_reopened_retained_crop": true
+    },
+    {
+      "path": "daily/2026-11-19/notes/images/alexopoulou-fig4.png",
+      "source_pdf": "daily/2026-11-19/pdfs/alexopoulou-2026-tnsa.pdf",
+      "page": 14,
+      "rect": [
+        65,
+        65,
+        575,
+        155
+      ],
+      "scale": 2,
+      "description": "Fig.4: regression R squared heatmap",
+      "sha256": "5df82082c682d2acee1060cc0b2d946c87a1c4cb310a75ff74e1d5bc50766ba9",
+      "source_pixel_match": true,
+      "reader_reopened_retained_crop": true
+    },
+    {
+      "path": "daily/2026-11-19/notes/images/alexopoulou-fig6-7.png",
+      "source_pdf": "daily/2026-11-19/pdfs/alexopoulou-2026-tnsa.pdf",
+      "page": 17,
+      "rect": [
+        65,
+        65,
+        575,
+        720
+      ],
+      "scale": 2,
+      "description": "Figs.6 and7: training/test confusion matrices",
+      "sha256": "0595a35366729e55cd612c86fd4efdda73fef9b1e4df931e6c93879e25059a72",
+      "source_pixel_match": true,
+      "reader_reopened_retained_crop": true
+    },
+    {
+      "path": "daily/2026-11-19/notes/images/alexopoulou-fig8.png",
+      "source_pdf": "daily/2026-11-19/pdfs/alexopoulou-2026-tnsa.pdf",
+      "page": 19,
+      "rect": [
+        110,
+        68,
+        505,
+        510
+      ],
+      "scale": 2,
+      "description": "Fig.8: dominant charge-state maps",
+      "sha256": "6e6ab73ebcc691d5258177604cc2dec1987c5dafef497ce744da44d2710dbbc0",
+      "source_pixel_match": true,
+      "reader_reopened_retained_crop": true
+    }
+  ],
+  "author_code_data_or_physics_rerun": false,
+  "calculations_performed": "only printed-factor-count multiplication 4*5*3*4*2*2*4*3=11520; no author model rerun",
+  "science_limits": [
+    "All regression/classification examples arise from the same analytical multiphysics forward model; not new independent experiments",
+    "1700 sampled;1002 intensity feasible;517 remain after excluding zero acceleration or proton cutoff above85MeV",
+    "95percent refers to prior Research Square work; metric and pointwise benchmark not reproduced in this paper",
+    "TenfoldCV supports interpolation in filtered synthetic design, no facility-held-out or OOD test; nested selection/hyperparameters/fold seeds unspecified",
+    "Printed normalised time denominator2e and nuclearZ vs effectivecharge conventions need code-level clarification",
+    "OBI-generated labels versus collisional-ionization interpretation; printed392/490eV carbon thresholds versus tensMeV requirement unclosed",
+    "Code and data available only upon reasonable request; no rerun"
+  ],
+  "created_at": "2026-11-18T23:09:31.040652+00:00",
+  "all_crops_pixel_matched_and_reopened": true
+}

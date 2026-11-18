@@ -1,0 +1,108 @@
+{
+  "run_date": "2026-11-19",
+  "checked_at": "2026-11-18T23:09:40.215243+00:00",
+  "formal_first": true,
+  "crossref": {
+    "date_filter": "online 2026-11-18..19, journal-article",
+    "themes": 10,
+    "rows_each": 40,
+    "rows_returned": 362,
+    "distinct_dois": 287,
+    "initial_429_queries": 4,
+    "final_http200_queries": 10,
+    "raw_item_fields_retained": [
+      "DOI",
+      "title",
+      "container-title",
+      "published-online",
+      "published-print",
+      "accepted",
+      "URL",
+      "resource",
+      "link",
+      "type",
+      "author_first_three",
+      "author_count"
+    ],
+    "candidate_author_policy": "first three names plus author_count retained for unselected search hits; selected author lists retained separately in selected_metadata.json"
+  },
+  "arxiv": {
+    "categories": 10,
+    "latest_blocks": [
+      {
+        "category": "physics.plasm-ph",
+        "date_block": "Wed, 18 Nov 2026 (showing 14 of 14 entries )",
+        "rows": 14
+      },
+      {
+        "category": "physics.acc-ph",
+        "date_block": "Wed, 18 Nov 2026 (showing 5 of 5 entries )",
+        "rows": 5
+      },
+      {
+        "category": "physics.comp-ph",
+        "date_block": "Wed, 18 Nov 2026 (showing 22 of 22 entries )",
+        "rows": 22
+      },
+      {
+        "category": "physics.optics",
+        "date_block": "Wed, 18 Nov 2026 (showing 29 of 29 entries )",
+        "rows": 29
+      },
+      {
+        "category": "physics.ins-det",
+        "date_block": "Wed, 18 Nov 2026 (showing 4 of 4 entries )",
+        "rows": 4
+      },
+      {
+        "category": "nucl-ex",
+        "date_block": "Wed, 18 Nov 2026 (showing 4 of 4 entries )",
+        "rows": 4
+      },
+      {
+        "category": "nucl-th",
+        "date_block": "Wed, 18 Nov 2026 (showing 12 of 12 entries )",
+        "rows": 12
+      },
+      {
+        "category": "hep-ph",
+        "date_block": "Wed, 18 Nov 2026 (showing 40 of 40 entries )",
+        "rows": 40
+      },
+      {
+        "category": "physics.med-ph",
+        "date_block": "Wed, 18 Nov 2026",
+        "rows": 0
+      },
+      {
+        "category": "cs.LG",
+        "date_block": "Wed, 18 Nov 2026 (showing 211 of 211 entries )",
+        "rows": 211
+      }
+    ],
+    "rows": 341,
+    "distinct_ids": 328,
+    "parser_correction": "latest h3 is inside enclosing dl; initial failure was corrected, not recorded as empty scientific results",
+    "scope": "titles and categories screened; only selected papers metadata/fulltext read; recent can include old-ID crosslists"
+  },
+  "targeted_primary_pages": [
+    "https://journals.aps.org/pre/accepted/10.1103/yx13-bzgg",
+    "https://journals.aps.org/pre/accepted/10.1103/gg1s-rxrg",
+    "https://journals.aps.org/pre/accepted/10.1103/qnp8-g1zm",
+    "https://www.nature.com/articles/s41598-026-80838-x",
+    "https://link.springer.com/article/10.1140/epjp/s13360-026-08572-x"
+  ],
+  "selection": {
+    "ingested_new": 3,
+    "accepted_same_work_upgrade": 1,
+    "new_retries": 1,
+    "not_fullread_leads": [
+      "10.1103/qnp8-g1zm hot-electron angular distribution, accepted18Nov only",
+      "2611.21899 density-limit collisionality",
+      "2611.21902 FACET-II conformal uncertainty",
+      "2611.23084 Vlasov direct integration"
+    ]
+  },
+  "bounds": "bounded nonexhaustive daily discovery, not global literature review; no full retry-queue probes",
+  "web_searches": "targeted exact-title primary-source searches identified accepted status and author aliases; general web results not treated as paper evidence"
+}

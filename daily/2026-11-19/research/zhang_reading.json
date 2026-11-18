@@ -1,0 +1,70 @@
+{
+  "paper": "2611.22165v1",
+  "full_text_pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "source_pages_visually_reviewed": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "source_crops": [
+    {
+      "figure": 1,
+      "page": 3,
+      "rect": [
+        47,
+        238,
+        302,
+        666
+      ],
+      "scale": 1.8,
+      "path": "daily/2026-11-19/notes/images/zhang-fig1.png"
+    },
+    {
+      "figure": 2,
+      "page": 3,
+      "rect": [
+        317,
+        50,
+        564,
+        444
+      ],
+      "scale": 1.8,
+      "path": "daily/2026-11-19/notes/images/zhang-fig2.png"
+    },
+    {
+      "figure": 3,
+      "page": 4,
+      "rect": [
+        317,
+        220,
+        568,
+        590
+      ],
+      "scale": 1.8,
+      "path": "daily/2026-11-19/notes/images/zhang-fig3.png"
+    },
+    {
+      "figure": 4,
+      "page": 5,
+      "rect": [
+        317,
+        46,
+        568,
+        445
+      ],
+      "scale": 1.8,
+      "path": "daily/2026-11-19/notes/images/zhang-fig4.png"
+    }
+  ],
+  "method": "full local layout text, 4 rendered source pages, source-figure crops",
+  "mineru": "historical expiry not retested; zero requests",
+  "author_simulation_or_training_reruns": false
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Bound and free electron contributions to the stopping power of beryllium warm dense matter",
+    "source": "HAL exact title top5",
+    "url": "https://api.archives-ouvertes.fr/search/?q=title_t%3A%22Bound+and+free+electron+contributions+to+the+stopping+power+of+beryllium+warm+dense+matter%22&fl=title_s%2CdoiId_s%2CarxivId_s%2CfileMain_s%2Curi_s&rows=5&wt=json",
+    "status": 200,
+    "response": {
+      "response": {
+        "numFound": 0,
+        "start": 0,
+        "maxScore": 0.0,
+        "numFoundExact": true,
+        "docs": []
+      }
+    }
+  },
+  {
+    "title": "Learning Similarity-Reduced Ion Kinetics across Scales and Regimes in Capacitively Coupled Plasmas",
+    "source": "HAL exact title top5",
+    "url": "https://api.archives-ouvertes.fr/search/?q=title_t%3A%22Learning+Similarity-Reduced+Ion+Kinetics+across+Scales+and+Regimes+in+Capacitively+Coupled+Plasmas%22&fl=title_s%2CdoiId_s%2CarxivId_s%2CfileMain_s%2Curi_s&rows=5&wt=json",
+    "status": 200,
+    "response": {
+      "response": {
+        "numFound": 0,
+        "start": 0,
+        "maxScore": 0.0,
+        "numFoundExact": true,
+        "docs": []
+      }
+    }
+  },
+  {
+    "source": "Crossref exact-title top3 for Zhang",
+    "url": "https://api.crossref.org/works?query.title=Learning+Similarity-Reduced+Ion+Kinetics+across+Scales+and+Regimes+in+Capacitively+Coupled+Plasmas&rows=3",
+    "status": 200,
+    "response": {
+      "status": "ok",
+      "message-type": "work-list",
+      "message-version": "1.0.0",
+      "message": {
+        "total-results": 4158830,
+        "items": [
+          {
+            "DOI": "10.1088/1361-6595/aa6610",
+            "title": [
+              "Hydrogen atom kinetics in capacitively coupled plasmas"
+            ],
+            "published-online": {
+              "date-parts": [
+                [
+                  2017,
+                  4,
+                  6
+                ]
+              ]
+            },
+            "container-title": [
+              "Plasma Sources Science and Technology"
+            ],
+            "resource": {
+              "primary": {
+                "URL": "https://iopscience.iop.org/article/10.1088/1361-6595/aa6610"
+              }
+            },
+            "URL": "https://doi.org/10.1088/1361-6595/aa6610"
+          },
+          {
+            "DOI": "10.1063/1.1941691",
+            "title": [
+              "Capacitively Coupled Radio Frequency Discharge Plasmas In Hydrogen: Particle Modeling and Negative Ion Kinetics"
+            ],
+            "container-title": [
+              "AIP Conference Proceedings"
+            ],
+            "resource": {
+              "primary": {
+                "URL": "https://pubs.aip.org/aip/acp/article/762/1/1161-1166/975342"
+              }
+            },
+            "URL": "https://doi.org/10.1063/1.1941691"
+          },
+          {
+            "DOI": "10.1088/1361-6595/abe0a2",
+            "title": [
+              "Dim and bright void regimes in capacitively-coupled RF complex plasmas"
+            ],
+            "published-online": {
+              "date-parts": [
+                [
+                  2021,
+                  3,
+                  24
+                ]
+              ]
+            },
+            "container-title": [
+              "Plasma Sources Science and Technology"
+            ],
+            "resource": {
+              "primary": {
+                "URL": "https://iopscience.iop.org/article/10.1088/1361-6595/abe0a2"
+              }
+            },
+            "URL": "https://doi.org/10.1088/1361-6595/abe0a2"
+          }
+        ],
+        "query": {
+          "start-index": 0,
+          "search-terms": null
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "key": "asghari-2026-bnct",
+    "url": "https://www.nature.com/articles/s41598-026-80838-x_reference.pdf",
+    "status": 200,
+    "mime": "application/pdf",
+    "bytes": 3892509,
+    "valid_header": true,
+    "final_url": "https://www.nature.com/articles/s41598-026-80838-x_reference.pdf"
+  },
+  {
+    "key": "asghari-2026-bnct-supplement",
+    "url": "https://static-content.springer.com/esm/art:10.1038%2Fs41598-026-80838-x/MediaObjects/41598_2026_80838_MOESM1_ESM.pdf",
+    "status": 200,
+    "mime": "application/pdf",
+    "bytes": 2067860,
+    "valid_header": true,
+    "final_url": "https://static-content.springer.com/esm/art:10.1038%2Fs41598-026-80838-x/MediaObjects/41598_2026_80838_MOESM1_ESM.pdf",
+    "content_identity": "unrelated administrative authorship form; not scientific supplement",
+    "retained": false,
+    "action": "local PDF/text removed; no private content reproduced"
+  },
+  {
+    "key": "alexopoulou-2026-tnsa",
+    "url": "https://link.springer.com/content/pdf/10.1140/epjp/s13360-026-08572-x.pdf",
+    "status": 200,
+    "mime": "text/html; charset=utf-8",
+    "bytes": 327059,
+    "valid_header": false,
+    "final_url": "https://link.springer.com/article/10.1140/epjp/s13360-026-08572-x"
+  },
+  {
+    "key": "cfi-accepted",
+    "url": "https://journals.aps.org/pre/pdf/10.1103/gg1s-rxrg",
+    "status": 403,
+    "mime": "text/html; charset=UTF-8",
+    "bytes": 5514,
+    "valid_header": false,
+    "final_url": "https://journals.aps.org/pre/pdf/10.1103/gg1s-rxrg"
+  },
+  {
+    "key": "stopping-accepted",
+    "url": "https://journals.aps.org/pre/pdf/10.1103/yx13-bzgg",
+    "status": 403,
+    "mime": "text/html; charset=UTF-8",
+    "bytes": 5514,
+    "valid_header": false,
+    "final_url": "https://journals.aps.org/pre/pdf/10.1103/yx13-bzgg"
+  },
+  {
+    "key": "alexopoulou-2026-tnsa",
+    "url": "https://arxiv.org/pdf/2512.21279",
+    "status": 200,
+    "mime": "application/pdf",
+    "bytes": 1069490,
+    "valid_header": true,
+    "final_url": "https://arxiv.org/pdf/2512.21279"
+  },
+  {
+    "key": "zhang-2026-ion-kinetics",
+    "url": "https://arxiv.org/pdf/2611.22165",
+    "status": 200,
+    "mime": "application/pdf",
+    "bytes": 2527695,
+    "valid_header": true,
+    "final_url": "https://arxiv.org/pdf/2611.22165"
+  }
+]

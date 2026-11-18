@@ -1,0 +1,96 @@
+[
+  {
+    "citation_title": [
+      "Multivariate scaling of proton and ion energies, divergence, and charge states in Target Normal Sheath Acceleration"
+    ],
+    "citation_author": [
+      "Alexopoulou, Vasiliki E."
+    ],
+    "citation_date": [
+      "2025/12/24"
+    ],
+    "citation_online_date": [
+      "2025/12/24"
+    ],
+    "citation_pdf_url": [
+      "https://arxiv.org/pdf/2512.21279"
+    ],
+    "citation_arxiv_id": [
+      "2512.21279"
+    ],
+    "citation_abstract": [
+      "The interaction of an intense laser pulse with a solid target produces energetic proton and ion beams through the Target Normal Sheath Acceleration (TNSA) mechanism. Such beams are under active investigation for applications in proton beam therapy, materials modification, and nuclear and high-energy-density physics. Despite extensive experimental and theoretical effort, predictive correlations between laser and target parameters and the resulting ion-beam properties remain an open research question, owing to the intrinsically multiphysics and strongly coupled nature of laser-plasma interactions. Here, we employ our unified multiphysics model that reproduces laser-solid interaction dynamics with accuracy exceeding 95% over a broad range of short- and ultrashort-pulse conditions. Using this model, we derive statistically validated scaling laws and probability maps that correlate proton, carbon, and oxygen ion cutoff energies, beam divergences, and ionization states to a wide set of laser and target parameters, including pulse duration, laser power, laser beam spot, target thickness, prepulse-main pulse interval, contrast, laser wavelength, and polarization. Continuous beam properties (cutoff energies and beam divergences) are described using multivariate regression with cross-validation, while discrete ionization states are analyzed using classification and regression tree (CART) methods, enabling nonlinear and threshold-dependent behavior to be captured. The resulting scaling relations, contour maps, and box plots elucidate the coupled roles of laser pulse, and target geometry in governing TNSA ion acceleration and charge-state formation. These results provide a predictive and physically interpretable framework for understanding and optimizing laser-driven ion sources across a wide parameter space."
+    ],
+    "arxiv_id": "2512.21279",
+    "key": "alexopoulou-2026-tnsa",
+    "source_url": "https://arxiv.org/abs/2512.21279",
+    "history": "Submission history From: Vasiliki Alexopoulou [ view email ] [v1] Wed, 24 Dec 2025 16:58:25 UTC (1,044 KB)",
+    "journal_ref": "",
+    "abstract": "Abstract: The interaction of an intense laser pulse with a solid target produces energetic proton and ion beams through the Target Normal Sheath Acceleration (TNSA) mechanism. Such beams are under active investigation for applications in proton beam therapy, materials modification, and nuclear and high-energy-density physics. Despite extensive experimental and theoretical effort, predictive correlations between laser and target parameters and the resulting ion-beam properties remain an open research question, owing to the intrinsically multiphysics and strongly coupled nature of laser-plasma interactions. Here, we employ our unified multiphysics model that reproduces laser-solid interaction dynamics with accuracy exceeding 95% over a broad range of short- and ultrashort-pulse conditions. Using this model, we derive statistically validated scaling laws and probability maps that correlate proton, carbon, and oxygen ion cutoff energies, beam divergences, and ionization states to a wide set of laser and target parameters, including pulse duration, laser power, laser beam spot, target thickness, prepulse-main pulse interval, contrast, laser wavelength, and polarization. Continuous beam properties (cutoff energies and beam divergences) are described using multivariate regression with cross-validation, while discrete ionization states are analyzed using classification and regression tree (CART) methods, enabling nonlinear and threshold-dependent behavior to be captured. The resulting scaling relations, contour maps, and box plots elucidate the coupled roles of laser pulse, and target geometry in governing TNSA ion acceleration and charge-state formation. These results provide a predictive and physically interpretable framework for understanding and optimizing laser-driven ion sources across a wide parameter space."
+  },
+  {
+    "citation_title": [
+      "Learning Similarity-Reduced Ion Kinetics across Scales and Regimes in Capacitively Coupled Plasmas"
+    ],
+    "citation_author": [
+      "Zhang, Zeduan",
+      "Yao, Jianxiong",
+      "Chen, Long",
+      "Fu, Yangyang",
+      "He, Feng",
+      "Ouyang, Jiting",
+      "Zheng, Bocong"
+    ],
+    "citation_date": [
+      "2026/11/17"
+    ],
+    "citation_online_date": [
+      "2026/11/17"
+    ],
+    "citation_pdf_url": [
+      "https://arxiv.org/pdf/2611.22165"
+    ],
+    "citation_arxiv_id": [
+      "2611.22165"
+    ],
+    "citation_abstract": [
+      "Systematic kinetic investigations of discharge-mode and heating-mechanism transitions in low-pressure capacitively coupled plasmas (CCPs) are computationally expensive because particle-in-cell/Monte Carlo collision (PIC/MCC) simulations must resolve the inherently slow ion relaxation.In this Letter, we propose a similarity-reduced ion-kinetic representation and a machine learning (ML) reconstruction method for weakly ionized Boltzmann-Poisson discharge systems.Using discharge similarity, the three-dimensional control parameter space, comprising gas pressure p, gap distance d, and driving frequency f, is reduced into a two-dimensional similarity space (pd, fd).A dual-branch ML model predicts the ion density profile at the reference scale and the conditional ion velocity distribution.Taking a 1D3V argon discharge as the paradigm, we use the reconstructed ion kinetic state to initialize the PIC/MCC simulation, which then relaxes to a self-consistent periodic steady state after only a brief evolution.Compared to conventional uniform initializations, this approach achieves a maximum computational speedup of 56.8 times and a median speedup of 27.7 times.Furthermore, the physical regimes of complex nonlinear discharge transitions, including the alpha--gamma mode transition, local-to-nonlocal electron collisional heating mode transition and low-density jumps, are accurately mapped within the similarity space.Similarity transformations extend these boundaries across scales, opening a new avenue for rapid kinetic characterization and optimization of radio-frequency plasma sources."
+    ],
+    "arxiv_id": "2611.22165",
+    "key": "zhang-2026-ion-kinetics",
+    "source_url": "https://arxiv.org/abs/2611.22165",
+    "history": "Submission history From: Zeduan Zhang [ view email ] [v1] Tue, 17 Nov 2026 03:57:11 UTC (2,501 KB)",
+    "journal_ref": "",
+    "abstract": "Abstract: Systematic kinetic investigations of discharge-mode and heating-mechanism transitions in low-pressure capacitively coupled plasmas (CCPs) are computationally expensive because particle-in-cell/Monte Carlo collision (PIC/MCC) simulations must resolve the inherently slow ion this http URL this Letter, we propose a similarity-reduced ion-kinetic representation and a machine learning (ML) reconstruction method for weakly ionized Boltzmann-Poisson discharge this http URL discharge similarity, the three-dimensional control parameter space, comprising gas pressure p, gap distance d, and driving frequency f, is reduced into a two-dimensional similarity space (pd, fd).A dual-branch ML model predicts the ion density profile at the reference scale and the conditional ion velocity this http URL a 1D3V argon discharge as the paradigm, we use the reconstructed ion kinetic state to initialize the PIC/MCC simulation, which then relaxes to a self-consistent periodic steady state after only a brief this http URL to conventional uniform initializations, this approach achieves a maximum computational speedup of 56.8 times and a median speedup of 27.7 this http URL , the physical regimes of complex nonlinear discharge transitions, including the alpha--gamma mode transition, local-to-nonlocal electron collisional heating mode transition and low-density jumps, are accurately mapped within the similarity this http URL transformations extend these boundaries across scales, opening a new avenue for rapid kinetic characterization and optimization of radio-frequency plasma sources."
+  },
+  {
+    "citation_title": [
+      "Effect of Noise on Spatio-Temporal Evolution of Current Filamentation Instability in Relativistic Beam-Plasma Systems"
+    ],
+    "citation_author": [
+      "K, Thulasidharan",
+      "Pathak, Vishwa Bandhu"
+    ],
+    "citation_date": [
+      "2026/06/19"
+    ],
+    "citation_online_date": [
+      "2026/06/19"
+    ],
+    "citation_pdf_url": [
+      "https://arxiv.org/pdf/2606.21221"
+    ],
+    "citation_arxiv_id": [
+      "2606.21221"
+    ],
+    "citation_abstract": [
+      "The spatio-temporal evolution of the current filamentation instability in a relativistic beam--plasma system is studied analytically and with two-dimensional particle-in-cell simulations. A partial differential equation for the transverse vector potential is derived for a sharp-front relativistic beam entering cold, unmagnetized plasma, including a second-order spatial derivative term that governs the spatial growth near the beam front. The equation is solved analytically for constant, linearly growing, and oscillatory initial noise when this term is neglected, and numerically when it is included, as no closed-form solution then exists. For constant initial noise, the numerical solution reproduces the simulated magnetic-field structure, unlike the analytical solution without the term. This shows that the longitudinal field modulation is intrinsic to the instability, present even for a noise with constant amplitudes. The noise profile as well can influence the spatial-temporal evolution of the instability, which we discuss further considering linearly growing and oscillatory noise. The field grows spatially behind the beam front and saturates at a length $L_{\\mathrm{sat}}\\propto(v_{0b}+2)v_{0b}/\\gamma_{0b}^{3}$, where $v_{0b}$ and $\\gamma_{0b}$ are the beam velocity and Lorentz factor, beyond which growth is purely temporal. The saturation length increases linearly in time at a constant rate $\\mathrm{d}L_{\\mathrm{sat}}/\\mathrm{d}\\tau\\approx0.42\\,c$, matching the analytical estimate. The temporal growth rate remains unchanged, so the term modifies the spatial transport of the instability rather than its local amplification. For beam velocities above $0.6c$, the model deviates from the simulations as oblique modes and nonlinear filament dynamics outside the single-mode treatment become important."
+    ],
+    "arxiv_id": "2606.21221",
+    "key": "old-cfi",
+    "source_url": "https://arxiv.org/abs/2606.21221",
+    "history": "Submission history From: Vishwa Bandhu Pathak [ view email ] [v1] Fri, 19 Jun 2026 08:39:30 UTC (1,541 KB)",
+    "journal_ref": "",
+    "abstract": "Abstract: The spatio-temporal evolution of the current filamentation instability in a relativistic beam--plasma system is studied analytically and with two-dimensional particle-in-cell simulations. A partial differential equation for the transverse vector potential is derived for a sharp-front relativistic beam entering cold, unmagnetized plasma, including a second-order spatial derivative term that governs the spatial growth near the beam front. The equation is solved analytically for constant, linearly growing, and oscillatory initial noise when this term is neglected, and numerically when it is included, as no closed-form solution then exists. For constant initial noise, the numerical solution reproduces the simulated magnetic-field structure, unlike the analytical solution without the term. This shows that the longitudinal field modulation is intrinsic to the instability, present even for a noise with constant amplitudes. The noise profile as well can influence the spatial-temporal evolution of the instability, which we discuss further considering linearly growing and oscillatory noise. The field grows spatially behind the beam front and saturates at a length $L_{\\mathrm{sat}}\\propto(v_{0b}+2)v_{0b}/\\gamma_{0b}^{3}$, where $v_{0b}$ and $\\gamma_{0b}$ are the beam velocity and Lorentz factor, beyond which growth is purely temporal. The saturation length increases linearly in time at a constant rate $\\mathrm{d}L_{\\mathrm{sat}}/\\mathrm{d}\\tau\\approx0.42\\,c$, matching the analytical estimate. The temporal growth rate remains unchanged, so the term modifies the spatial transport of the instability rather than its local amplification. For beam velocities above $0.6c$, the model deviates from the simulations as oblique modes and nonlinear filament dynamics outside the single-mode treatment become important."
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "checked_at": "2026-11-18T23:14:46.612111+00:00",
+  "scope_file_count": 57,
+  "markdown_files": 25,
+  "parsed_local_links_checked": 3617,
+  "json_files": 20,
+  "retained_scientific_pdf_hash_page_text_bindings": [
+    "daily/2026-11-19/pdfs/zhang-2026-ion-kinetics.pdf",
+    "daily/2026-11-19/pdfs/alexopoulou-2026-tnsa.pdf",
+    "daily/2026-11-19/pdfs/asghari-2026-bnct.pdf"
+  ],
+  "source_crop_decoded_pixel_matches": [
+    "daily/2026-11-19/notes/images/asghari-fig3.png",
+    "daily/2026-11-19/notes/images/asghari-table3.png",
+    "daily/2026-11-19/notes/images/asghari-fig18.png",
+    "daily/2026-11-19/notes/images/asghari-fig19.png",
+    "daily/2026-11-19/notes/images/alexopoulou-table1.png",
+    "daily/2026-11-19/notes/images/alexopoulou-fig4.png",
+    "daily/2026-11-19/notes/images/alexopoulou-fig6-7.png",
+    "daily/2026-11-19/notes/images/alexopoulou-fig8.png",
+    "daily/2026-11-19/notes/images/zhang-fig1.png",
+    "daily/2026-11-19/notes/images/zhang-fig2.png",
+    "daily/2026-11-19/notes/images/zhang-fig3.png",
+    "daily/2026-11-19/notes/images/zhang-fig4.png"
+  ],
+  "global_nonempty_dois_unique": 578,
+  "global_normalized_titles_unique": 582,
+  "qualified_arxiv_aliases_unique": 389,
+  "old_completed_objects_unchanged": 578,
+  "old_retry_objects_unchanged": 71,
+  "preexisting_agents_edit_unchanged_and_excluded": true,
+  "tests": "7 passed in3.55s",
+  "builder": "582 works /9 categories",
+  "staging_policy": "only audited scope; no PDFs/text or AGENTS.md",
+  "all_checks_passed": true
+}

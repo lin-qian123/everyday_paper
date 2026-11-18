@@ -1,0 +1,128 @@
+{
+  "url": "https://link.springer.com/article/10.1140/epjp/s13360-026-08572-x",
+  "status": 200,
+  "metadata": {
+    "citation_pdf_url": [
+      "https://link.springer.com/content/pdf/10.1140/epjp/s13360-026-08572-x.pdf"
+    ],
+    "citation_fulltext_html_url": [
+      "https://link.springer.com/article/10.1140/epjp/s13360-026-08572-x"
+    ],
+    "citation_journal_title": [
+      "The European Physical Journal Plus"
+    ],
+    "citation_journal_abbrev": [
+      "Eur. Phys. J.  Plus"
+    ],
+    "citation_publisher": [
+      "Springer Berlin Heidelberg"
+    ],
+    "citation_issn": [
+      "2190-5444"
+    ],
+    "citation_title": [
+      "Multivariate scaling of proton and ion energies, divergence, and charge states in laser-driven Target Normal Sheath Acceleration"
+    ],
+    "citation_volume": [
+      "141"
+    ],
+    "citation_issue": [
+      "11"
+    ],
+    "citation_publication_date": [
+      "2026/11"
+    ],
+    "citation_online_date": [
+      "2026/11/18"
+    ],
+    "citation_firstpage": [
+      "1317"
+    ],
+    "citation_lastpage": [
+      ""
+    ],
+    "citation_article_type": [
+      "Regular Article"
+    ],
+    "citation_language": [
+      "en"
+    ],
+    "citation_doi": [
+      "10.1140/epjp/s13360-026-08572-x"
+    ],
+    "citation_springer_api_url": [
+      "http://api.springer.com/xmldata/jats?q=doi:10.1140/epjp/s13360-026-08572-x&api_key="
+    ],
+    "citation_reference": [
+      "citation_journal_title=Phys. Rev. Accel. Beams; citation_title=Protons accelerated in the target normal sheath acceleration regime by a femtosecond laser; citation_author=L Torrisi; citation_volume=22; citation_publication_date=2019; citation_pages=021302; citation_id=CR1",
+      "citation_journal_title=Nat. Phys.; citation_title=Laser-driven proton scaling laws and new paths towards energy increase; citation_author=J Fuchs; citation_volume=2; citation_publication_date=2006; citation_pages=48-54; citation_doi=10.1038/nphys199; citation_id=CR2",
+      "citation_journal_title=Nat. Phys.; citation_title=Scaling of proton acceleration driven by petawatt-laser–plasma interactions; citation_author=L Robson; citation_volume=3; citation_publication_date=2007; citation_pages=58-62; citation_doi=10.1038/nphys476; citation_id=CR3",
+      "citation_title=Laser-driven ion acceleration; citation_inbook_title=Applications of Laser-Driven Particle Acceleration; citation_publication_date=2018; citation_pages=59-92; citation_id=CR4; citation_author=A Macchi; citation_publisher=CRC Press",
+      "citation_journal_title=Phys. Rev. E; citation_title=Analysis of laser-proton acceleration experiments for development of empirical scaling laws; citation_author=M Zimmer; citation_volume=104; citation_publication_date=2021; citation_pages=045210; citation_id=CR5",
+      "citation_journal_title=Phys. Plasmas; citation_title=Scaling of laser-driven electron and proton acceleration as a function of laser pulse duration, energy, and intensity in the multi-picosecond regime; citation_author=RA Simpson; citation_volume=28; citation_publication_date=2021; citation_pages=013108; citation_id=CR6",
+      "citation_journal_title=Phys. Rev. Res.; citation_title=Intensity scaling limitations of laser-driven proton acceleration in the TNSA-regime; citation_author=S Keppler; citation_volume=4; citation_publication_date=2022; citation_pages=013065; citation_id=CR7",
+      "citation_journal_title=Phys. Rev. Lett.; citation_title=Plasma expansion into a vacuum; citation_author=P Mora; citation_volume=90; citation_publication_date=2003; citation_pages=185002; citation_id=CR8",
+      "citation_journal_title=Phys. Rev. Lett.; citation_title=Theory of light-ion acceleration driven by a strong charge separation; citation_author=M Passoni, M Lontano; citation_volume=101; citation_publication_date=2008; citation_pages=115001; citation_id=CR9",
+      "citation_journal_title=Phys. Rev. Lett.; citation_title=Laser ion-acceleration scaling laws seen in multiparametric particle-in-cell simulations; citation_author=T Esirkepov, M Yamagiwa, T Tajima; citation_volume=96; citation_publication_date=2006; citation_pages=105001; citation_id=CR10",
+      "citation_journal_title=Phys. Plasmas; citation_title=Rise time of proton cut-off energy in 2D and 3D PIC simulations; citation_author=J Babaei; citation_volume=24; citation_publication_date=2017; citation_pages=043106; citation_id=CR11",
+      "citation_journal_title=Phys. Plasmas; citation_title=Multidimensional effects on proton acceleration using high-power intense laser pulses; citation_author=KD Xiao; citation_volume=25; citation_publication_date=2018; citation_pages=023103; citation_id=CR12",
+      "citation_journal_title=Phys. Rev. Lett.; citation_title=Dynamics of relativistic laser-plasma interaction on solid targets; citation_author=Y Ping; citation_volume=109; citation_publication_date=2012; citation_pages=145006; citation_id=CR13",
+      "citation_journal_title=Phys. Rev. Lett.; citation_title=Relativistic positron creation using ultraintense short pulse lasers; citation_author=H Chen; citation_volume=102; citation_publication_date=2009; citation_pages=105001; citation_id=CR14",
+      "citation_journal_title=Sci. Rep.; citation_title=High e+/e- ratio dense pair creation with 1021 W.cm-2 laser irradiating solid targets; citation_author=E Liang; citation_volume=5; citation_publication_date=2015; citation_pages=13968; citation_id=CR15",
+      "B. Schmitz, D. Kreuter, O. Boine-Frankenheim, Modeling of a liquid leaf target TNSA experiment using particle-in-cell simulations and deep learning. Laser Part. Beams e3, (2023).",
+      "B. Schmitz, Towards compact laser-driven neutron sources: a numerical study of liquid leaf targets for high repetition rate laser experiments and neutron production using deep learning. PhD Thesis, Tech. Univ. Darmstadt (2023).",
+      "V. E. Alexopoulou, Advanced modeling of short and ultrashort laser irradiation of metals in micro-nano down to sub-atomic scale. PhD Thesis, Natl. Tech. Univ. Athens (2025).",
+      "citation_journal_title=Optics Laser Technol.; citation_title=Investigating laser-driven pair-production with a fast, end-to-end, analytical model; citation_author=VE Alexopoulou; citation_volume=204; citation_publication_date=2026; citation_pages=116439; citation_id=CR19",
+      "citation_title=High-Energy-Density Physics: Fundementals, Inertial Fusion and Experimental Astrophysics; citation_publication_date=2005; citation_id=CR20; citation_author=R Drake; citation_publisher=Springer-Verlag Berlin Heidelb.",
+      "citation_journal_title=Plasma Phys. Control. Fusion; citation_title=Modelling the effect of laser focal spot size on sheath- accelerated protons in intense laser-foil interactions; citation_author=CM Brenner, P McKenna, D Neely; citation_volume=56; citation_publication_date=2014; citation_pages=084003; citation_id=CR21",
+      "citation_journal_title=Phys. Rev. Lett.; citation_title=Hot Electrons Transverse Refluxing in Ultraintense Laser-Solid Interactions; citation_author=S Buffechoux; citation_volume=015005; citation_publication_date=2010; citation_pages=1-5; citation_id=CR22",
+      "citation_title=The Physics of Laser Plasmas and Applications - Volume 2: Fluid Models and Atomic Physics of Plasmas; citation_publication_date=2004; citation_id=CR23; citation_author=H Takabe; citation_publisher=Springer",
+      "citation_journal_title=Phys. Rev. A; citation_title=Laser-induced electron diffraction in the over-the-barrier-ionization regime; citation_author=B Belsa; citation_volume=106; citation_publication_date=2022; citation_pages=043105; citation_id=CR24",
+      "citation_journal_title=Phys. Rev. Accel. Beams; citation_title=Beam dynamics in transverse deflecting rf structures; citation_author=K Floettmann, VV Paramonov; citation_volume=17; citation_publication_date=2014; citation_pages=024001; citation_id=CR25",
+      "citation_journal_title=Ann. Appl. Stat.; citation_title=Optimal experiment design in a filtering context with application to sampled network data; citation_author=H Singhal, G Michailidis; citation_volume=4; citation_publication_date=2010; citation_pages=78-93; citation_id=CR26",
+      "citation_journal_title=Phys. Rev. E; citation_title=Analysis of laser-proton acceleration experiments for development of empirical scaling laws; citation_author=M Zimmer; citation_publication_date=2021; citation_doi=10.1103/PhysRevE.104.045210; citation_id=CR27",
+      "citation_journal_title=Phys. Rev. Lett.; citation_title=Maximum proton energy above 85 MeV from the relativistic interaction of laser pulses with micrometer thick CH2 targets; citation_author=F Wagner; citation_volume=116; citation_publication_date=2016; citation_pages=205002; citation_id=CR28",
+      "citation_title=The Statistical Analysis of Series of Events; citation_publication_date=1966; citation_id=CR29; citation_author=DR Cox; citation_publisher=Springer",
+      "citation_title=Regression Modeling Strategies - With Applications to Linear Models, Logistic and Ordinal Regression, and Survival Analysis; citation_publication_date=2015; citation_id=CR30; citation_author=FE Harrell; citation_publisher=Springer",
+      "citation_title=Regression Analysis - A Practical Introduction; citation_publication_date=2026; citation_id=CR31; citation_author=J Arkes; citation_publisher=Routhledge - Taylor Fr. Gr.",
+      "citation_journal_title=J. R. Stat. Soc. A. Stat. Soc.; citation_title=The non-orthogonal design of experiments; citation_author=R Mead; citation_volume=153; citation_publication_date=1990; citation_pages=151-178; citation_id=CR32",
+      "citation_title=Classification and Regression Trees; citation_publication_date=1984; citation_id=CR33; citation_author=L Breiman; citation_author=J Friedman; citation_author=RA Olshen; citation_author=CJ Stone; citation_publisher=Taylor Fr. Gr.",
+      "citation_journal_title=Phys. Rev. Res.; citation_title=Multivariate scaling of maximum proton energy in intense laser driven ion acceleration; citation_author=Y Takagi, N Iwata, E D’Humieres, Y Sentoku; citation_volume=3; citation_publication_date=2021; citation_pages=043140; citation_id=CR34",
+      "citation_journal_title=Phys. Plasmas; citation_title=Review and meta-analysis of electron temperatures from high-intensity laser-solid interactions; citation_author=DR Rusby; citation_volume=31; citation_publication_date=2024; citation_pages=040503; citation_id=CR35",
+      "citation_journal_title=Nat. Commun.; citation_title=Towards optical polarization control of laser-driven proton acceleration in foils undergoing relativistic transparency; citation_author=B Gonzalez-Izquierdo; citation_volume=7; citation_publication_date=2016; citation_pages=12891; citation_doi=10.1038/ncomms12891; citation_id=CR36",
+      "M. Roth & M. Schollmeier, Ion acceleration - Target normal sheath acceleration (CERN Yellow Reports). Proc. CAS-CERN Accel. Sch. Plasma Wake Accel. Geneva, Switz. (2016).",
+      "citation_journal_title=New J. Phys.; citation_title=Radiation pressure acceleration of thin foils with circularly polarized laser pulses; citation_author=APL Robinson, M Zepf, S Kar, RG Evans, C Bellei; citation_volume=10; citation_publication_date=2008; citation_pages=013021; citation_id=CR38",
+      "citation_journal_title=Phys. Rev. Lett.; citation_title=Polarization dependence of bulk ion acceleration from ultrathin foils irradiated by high-intensity ultrashort laser pulses; citation_author=C Scullion; citation_volume=119; citation_publication_date=2017; citation_pages=054801; citation_id=CR39",
+      "citation_journal_title=New J. Phys.; citation_title=Laser-driven ion acceleration via target normal sheath acceleration in the relativistic transparency regime; citation_author=PL Poole; citation_volume=20; citation_publication_date=2018; citation_pages=013019; citation_id=CR40",
+      "citation_journal_title=Commun. Phys.; citation_title=Enhanced target normal sheath acceleration using colliding laser pulses; citation_author=J Ferri, E Siminos, T Fülöp; citation_volume=2; citation_publication_date=2019; citation_pages=40; citation_doi=10.1038/s42005-019-0140-x; citation_id=CR41",
+      "citation_journal_title=New J. Phys.; citation_title=Target normal sheath acceleration: theory, comparison with experiments and future perspectives; citation_author=M Passoni, L Bertagna, A Zani; citation_volume=12; citation_publication_date=2010; citation_pages=045012; citation_id=CR42",
+      "citation_journal_title=Nucl. Instrum. Methods Phys. Res. A; citation_title=Parametric investigations of target normal sheath acceleration experiments; citation_author=A Zani, A Sgattoni, M Passoni; citation_volume=653; citation_publication_date=2011; citation_pages=94-97; citation_id=CR43",
+      "citation_journal_title=Nucl. Instrum. Methods Phys. Res. A; citation_title=Transverse divergence in target normal sheath acceleration of a thick contamination layer; citation_author=Z Lecz, O Boine-Frankenheim, V Kornilov; citation_volume=774; citation_publication_date=2014; citation_pages=42-50; citation_id=CR44",
+      "citation_title=Multinominal response models; citation_inbook_title=Analysis of Microdata; citation_publication_date=2006; citation_id=CR45; citation_author=R Winkelmann; citation_author=S Boes; citation_publisher=Springer Berlin",
+      "Kramida, A., Ralchenko, Y. & Reader, J. NIST Atomic Spectra Database (ver. 5.12), [Online]. Available: \n                  https://physics.nist.gov/asd\n                  \n                 [2025, December 5]. Natl. Inst. Stand. Technol. Gaithersburg, MD. (2024).",
+      "citation_journal_title=Phys. Rev. Lett.; citation_title=Radiation-pressure acceleration of ion beams driven by circularly polarized laser pulses; citation_author=A Henig; citation_volume=103; citation_publication_date=2009; citation_id=CR47",
+      "D. Batani, et al. Experimental Investigation of laser driven proton bunching with plastic foil targets. High Power Laser Sci. Eng. 1–16 (2026).",
+      "citation_journal_title=Commun. Mater.; citation_title=Defect engineering of silicon with ion pulses from laser acceleration; citation_author=W Redjem; citation_volume=4; citation_publication_date=2023; citation_pages=22; citation_doi=10.1038/s43246-023-00349-4; citation_id=CR49",
+      "citation_journal_title=Phys. Rev. Accel. Beams; citation_title=Influence of fs-laser desorption on target normal sheath accelerated ions; citation_author=G Hoffmeister; citation_volume=16; citation_publication_date=2013; citation_pages=041304; citation_id=CR50",
+      "citation_journal_title=Phys. Rev. Res.; citation_title=Dynamics of laser-driven heavy-ion acceleration clarified by ion charge states; citation_author=M Nishiuchi; citation_volume=2; citation_publication_date=2020; citation_pages=033081; citation_id=CR51",
+      "citation_journal_title=Phys. Rev. Lett.; citation_title=Selective ion acceleration by intense radiation pressure; citation_author=A McIlvenny; citation_volume=127; citation_publication_date=2021; citation_pages=194801; citation_id=CR52",
+      "citation_journal_title=Sci. Rep.; citation_title=Enhanced laser-driven proton acceleration via improved fast electron heating in a controlled pre-plasma; citation_author=LA Gizzi; citation_volume=11; citation_publication_date=2021; citation_pages=13728; citation_doi=10.1038/s41598-021-93011-3; citation_id=CR53",
+      "citation_journal_title=Phys. Plasmas; citation_title=Enhanced electron acceleration by high-intensity lasers in extended (confined) preplasma in cone targets; citation_author=DR Rusby, GE Cochran, A Aghedo, CD Armstrong; citation_volume=30; citation_publication_date=2023; citation_pages=023103; citation_id=CR54",
+      "citation_journal_title=High Power Laser Sci. Eng.; citation_title=Accelerating ions with high-energy short laser pulses from submicrometer thick targets; citation_author=F Wagner; citation_volume=4; citation_publication_date=2016; citation_pages=e45; citation_id=CR55",
+      "citation_journal_title=Phys. Plasmas; citation_title=Pre-plasma shaping via picosecond laser contrast: a hybrid simulation study of proton acceleration in TNSA; citation_author=F Azizian, A Hasanbeigi, MJ Jafari, S Rezaei; citation_volume=32; citation_publication_date=2025; citation_pages=113104; citation_id=CR56"
+    ],
+    "citation_author": [
+      "Alexopoulou, Vasiliki E."
+    ],
+    "citation_author_email": [
+      "valexopoulou@mail.ntua.gr"
+    ],
+    "citation_author_institution": [
+      "School of Mechanical Engineering, Section of Manufacturing Technology, National Technical University of Athens, Athens, Greece"
+    ],
+    "citation_cover_date": [
+      "2026/11/01"
+    ]
+  },
+  "publication_history": "About this article Cite this article Alexopoulou, V.E. Multivariate scaling of proton and ion energies, divergence, and charge states in laser-driven Target Normal Sheath Acceleration. Eur. Phys. J.  Plus 141 , 1317 (2026). https://doi.org/10.1140/epjp/s13360-026-08572-x Download citation Received : 13 April 2026 Accepted : 10 November 2026 Published : 18 November 2026 Version of record : 18 November 2026 DOI : https://doi.org/10.1140/epjp/s13360-026-08572-x Share this article Anyone you share the following link with will be able to read this content: Get shareable link Sorry, a shareable link is not currently available for this article. Copy shareable link to clipboard Provided by the Springer Nature SharedIt content-sharing initiative"
+}

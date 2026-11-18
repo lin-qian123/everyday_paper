@@ -1502,15 +1502,31 @@
     "normalized_title": "analytical calculation of the spectrum of nonlinear compton scattering beyond local approximations"
   },
   {
-    "title": "Effect of Noise on Spatio-Temporal Evolution of Current Filamentation Instability in Relativistic Beam-Plasma Systems",
-    "doi": "10.48550/arXiv.2606.21221",
-    "journal": "arXiv（预印本）",
-    "publication_date": "2026-06-19",
-    "source_url": "https://arxiv.org/abs/2606.21221",
+    "title": "Spatiotemporal evolution of the current filamentation instability in relativistic beam-plasma systems: Higher-order spatial correction and the role of the initial seed perturbation",
+    "doi": "10.1103/gg1s-rxrg",
+    "journal": "Physical Review E（2026-11-18接收；发表未独立核实；实际全文为6月arXiv作者v1）",
+    "publication_date": null,
+    "source_url": "https://journals.aps.org/pre/accepted/10.1103/gg1s-rxrg",
     "pdf_path": "daily/2026-06-24/pdfs/Thulasidharan K et al. - 2026 - Effect of Noise on Spatio-Temporal Evolution of Current Filamentation Instability in Relativistic Beam-Plasma Systems.pdf",
     "note_path": "daily/2026-06-24/notes/Thulasidharan K et al. - 2026 - Effect of Noise on Spatio-Temporal Evolution of Current Filamentation Instability in Relativistic Beam-Plasma Systems.md",
     "processed_date": "2026-06-24",
-    "normalized_title": "effect of noise on spatio temporal evolution of current filamentation instability in relativistic beam plasma systems"
+    "normalized_title": "spatiotemporal evolution of the current filamentation instability in relativistic beam plasma systems higher order spatial correction and the role of the initial seed perturbation",
+    "title_aliases": [
+      "Effect of Noise on Spatio-Temporal Evolution of Current Filamentation Instability in Relativistic Beam-Plasma Systems"
+    ],
+    "authors": [
+      "Thulasidharan K",
+      "Vishwa Bandhu Pathak"
+    ],
+    "publication_date_type": "publication unverified; Crossref online field equals independently verified acceptance date",
+    "acceptance_date": "2026-11-18",
+    "publication_status": "accepted paper; publication not independently verified",
+    "arxiv_id": "2606.21221",
+    "arxiv_version": "2606.21221v1",
+    "preprint_first_submission": "2026-06-19",
+    "pdf_url": "https://arxiv.org/pdf/2606.21221v1",
+    "fulltext_version": "existing June author v1, 10 pages; identity page and byte equality only, old physics note not recertified",
+    "pdf_sha256": "33e6ec2b70348d3e69af93a45891606565b30b4fd17e91a470fa206dd6842547"
   },
   {
     "title": "An electron injector for the Electron-Ion Collider based on proton-driven plasma wakefield acceleration",
@@ -9377,5 +9393,101 @@
     "pdf_sha256": "20e06e72ddf99acde7ee28fd6e9ec6c749b12cbe7b3265546f0cb993720142b8",
     "processed_date": "2026-11-18",
     "normalized_title": "a spherical body in plasma simulated with adaptive mesh and algorithm refinement"
+  },
+  {
+    "title": "Monte Carlo assessment of a D–T neutron generator-based beam shaping assembly for BNCT: moderator effects on neutron spectrum and dose",
+    "doi": "10.1038/s41598-026-80838-x",
+    "authors": [
+      "S. Asghari",
+      "M. Ghapanvary",
+      "A. Alavi",
+      "A. Ghalehasadi",
+      "V. Dehghani"
+    ],
+    "journal": "Scientific Reports",
+    "publication_date": "2026-11-18",
+    "publication_date_type": "publisher independently confirmed online publication; actual PDF version separately recorded",
+    "source_url": "https://doi.org/10.1038/s41598-026-80838-x",
+    "acceptance_date": "2026-11-11",
+    "publication_status": "publisher Article in Press; not final Version of Record",
+    "fulltext_version": "publisher Article in Press, 30 pages",
+    "pdf_url": "https://www.nature.com/articles/s41598-026-80838-x_reference.pdf",
+    "supplement_status": "publisher-linked 6-page PDF is unrelated authorship form, not scientific supplement; removed locally, no private content reproduced",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "experimental-platforms-diagnostics"
+    ],
+    "note_path": "daily/2026-11-19/notes/asghari-2026-bnct.md",
+    "pdf_path": "daily/2026-11-19/pdfs/asghari-2026-bnct.pdf",
+    "pdf_sha256": "4c9f433f24b815f296e389ae221690acd133256ae505d88d3f9747f4a54b04fa",
+    "processed_date": "2026-11-19",
+    "normalized_title": "monte carlo assessment of a d t neutron generator based beam shaping assembly for bnct moderator effects on neutron spectrum and dose"
+  },
+  {
+    "title": "Multivariate scaling of proton and ion energies, divergence, and charge states in laser-driven Target Normal Sheath Acceleration",
+    "doi": "10.1140/epjp/s13360-026-08572-x",
+    "authors": [
+      "Vasiliki E. Alexopoulou"
+    ],
+    "journal": "The European Physical Journal Plus",
+    "publication_date": "2026-11-18",
+    "publication_date_type": "publisher independently confirmed online publication; actual PDF version separately recorded",
+    "source_url": "https://doi.org/10.1140/epjp/s13360-026-08572-x",
+    "arxiv_id": "2512.21279",
+    "arxiv_version": "2512.21279v1",
+    "pdf_url": "https://arxiv.org/pdf/2512.21279v1",
+    "fulltext_version": "official arXiv 2512.21279v1 author manuscript; 24 pages",
+    "acceptance_date": "2026-11-10",
+    "publication_status": "journal VOR online 2026-11-18 verified from publisher history; VOR PDF unavailable, actual reading is 2025 author v1",
+    "preprint_first_submission": "2025-12-24",
+    "title_aliases": [
+      "Multivariate scaling of proton and ion energies, divergence, and charge states in Target Normal Sheath Acceleration"
+    ],
+    "vor_pdf_url": "https://link.springer.com/content/pdf/10.1140/epjp/s13360-026-08572-x.pdf",
+    "vor_access": "HTTP200 text/html redirects to subscription article, not a PDF; same-work author fulltext acquired, no redundant retry",
+    "categories": [
+      "laser-plasma-acceleration",
+      "laser-accelerated-beam-applications",
+      "ai-ml-plasma-physics"
+    ],
+    "note_path": "daily/2026-11-19/notes/alexopoulou-2026-tnsa.md",
+    "pdf_path": "daily/2026-11-19/pdfs/alexopoulou-2026-tnsa.pdf",
+    "pdf_sha256": "f98482130ce2e60340a969d9a9517241bb78dfeb146960e0bcd4f4baa226439f",
+    "processed_date": "2026-11-19",
+    "normalized_title": "multivariate scaling of proton and ion energies divergence and charge states in laser driven target normal sheath acceleration"
+  },
+  {
+    "title": "Learning Similarity-Reduced Ion Kinetics across Scales and Regimes in Capacitively Coupled Plasmas",
+    "doi": "10.48550/arXiv.2611.22165",
+    "authors": [
+      "Zeduan Zhang",
+      "Jianxiong Yao",
+      "Long Chen",
+      "Yangyang Fu",
+      "Feng He",
+      "Jiting Ouyang",
+      "Bocong Zheng"
+    ],
+    "journal": "arXiv preprint; submitted to Applied Physics Letters, not verified accepted",
+    "publication_date": "2026-11-17",
+    "publication_date_type": "arxiv first submission; announcement separately recorded",
+    "announcement_date": "2026-11-18",
+    "submission_timestamp_utc": "2026-11-17T03:57:11Z",
+    "publication_status": "author preprint; bounded Crossref exact-title top3 did not verify same-work journal version",
+    "source_url": "https://arxiv.org/abs/2611.22165v1",
+    "arxiv_id": "2611.22165",
+    "arxiv_version": "2611.22165v1",
+    "pdf_url": "https://arxiv.org/pdf/2611.22165v1",
+    "fulltext_version": "official arXiv 2611.22165v1 author manuscript; 6 pages",
+    "categories": [
+      "pic-and-plasma-simulation",
+      "ai-ml-plasma-physics",
+      "general-plasma-and-methods"
+    ],
+    "note_path": "daily/2026-11-19/notes/zhang-2026-ion-kinetics.md",
+    "pdf_path": "daily/2026-11-19/pdfs/zhang-2026-ion-kinetics.pdf",
+    "pdf_sha256": "7a129b435584b60da96546ce564b54acfbc0f61689572031ddd77c97746969fa",
+    "processed_date": "2026-11-19",
+    "normalized_title": "learning similarity reduced ion kinetics across scales and regimes in capacitively coupled plasmas"
   }
 ]

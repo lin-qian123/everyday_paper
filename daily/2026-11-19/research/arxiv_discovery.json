@@ -1,0 +1,1786 @@
+[
+  {
+    "category": "physics.plasm-ph",
+    "url": "https://arxiv.org/list/physics.plasm-ph/recent?show=2000",
+    "status": 200,
+    "date_block": "Wed, 18 Nov 2026 (showing 14 of 14 entries )",
+    "items": [
+      {
+        "arxiv_id": "2611.22435",
+        "title": "Modeling of basic physics issues in toroidal pinches and tools for performance control",
+        "subjects": "Subjects: Plasma Physics (physics.plasm-ph)"
+      },
+      {
+        "arxiv_id": "2611.22251",
+        "title": "Recovering hysteresis in reduced models of plasma turbulence: a Mori--Zwanzig-inspired closure",
+        "subjects": "Subjects: Plasma Physics (physics.plasm-ph)"
+      },
+      {
+        "arxiv_id": "2611.22193",
+        "title": "Stable recurrences of the super-transition array formalism from marked generating functions",
+        "subjects": "Subjects: Plasma Physics (physics.plasm-ph)"
+      },
+      {
+        "arxiv_id": "2611.22165",
+        "title": "Learning Similarity-Reduced Ion Kinetics across Scales and Regimes in Capacitively Coupled Plasmas",
+        "subjects": "Subjects: Plasma Physics (physics.plasm-ph)"
+      },
+      {
+        "arxiv_id": "2611.21929",
+        "title": "Energy partition in resonant instabilities in multi-component plasmas",
+        "subjects": "Subjects: Plasma Physics (physics.plasm-ph) ; Space Physics (physics.space-ph)"
+      },
+      {
+        "arxiv_id": "2611.21918",
+        "title": "Kinetic-Ballooning and Resistive X-Point Dynamics in Quasicontinuous Exhaust Tokamak Plasmas",
+        "subjects": "Subjects: Plasma Physics (physics.plasm-ph)"
+      },
+      {
+        "arxiv_id": "2611.21899",
+        "title": "Collisionality scaling of the tokamak density limit",
+        "subjects": "Subjects: Plasma Physics (physics.plasm-ph)"
+      },
+      {
+        "arxiv_id": "2611.23084",
+        "title": "An Efficient Method for Directly Integrating the Vlasov Equation in Collisionless and Weakly-Collisional Simulations",
+        "subjects": "Subjects: Cosmology and Nongalactic Astrophysics (astro-ph.CO) ; High Energy Astrophysical Phenomena (astro-ph.HE); Instrumentation and Methods for Astrophysics (astro-ph.IM); Plasma Physics (physics.plasm-ph)"
+      },
+      {
+        "arxiv_id": "2611.22689",
+        "title": "Magnetic Flux Eruptions in Magnetically Arrested Disks: Magnetic Reconnection and Bubble Expansion",
+        "subjects": "Subjects: High Energy Astrophysical Phenomena (astro-ph.HE) ; Plasma Physics (physics.plasm-ph)"
+      },
+      {
+        "arxiv_id": "2610.26110",
+        "title": "Full-horizon magnetic control of the Vlasov--Poisson system for plasma confinement",
+        "subjects": "Subjects: Numerical Analysis (math.NA) ; Optimization and Control (math.OC); Computational Physics (physics.comp-ph); Plasma Physics (physics.plasm-ph)"
+      },
+      {
+        "arxiv_id": "2512.24205",
+        "title": "Micro-Macro Tensor Neural Surrogates for Uncertainty Quantification in Collisional Plasma",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Mathematical Physics (math-ph); Computational Physics (physics.comp-ph); Plasma Physics (physics.plasm-ph)"
+      },
+      {
+        "arxiv_id": "2511.10214",
+        "title": "Control strategies for magnetized plasma: a polar coordinates framework",
+        "subjects": "Subjects: Numerical Analysis (math.NA) ; Optimization and Control (math.OC); Computational Physics (physics.comp-ph); Plasma Physics (physics.plasm-ph)"
+      },
+      {
+        "arxiv_id": "2506.10636",
+        "title": "Structure and asymptotic preserving deep neural surrogates for uncertainty quantification in multiscale kinetic equations",
+        "subjects": "Subjects: Numerical Analysis (math.NA) ; Machine Learning (cs.LG); Computational Physics (physics.comp-ph); Plasma Physics (physics.plasm-ph)"
+      },
+      {
+        "arxiv_id": "2505.19992",
+        "title": "Robust feedback control of collisional plasma dynamics in presence of uncertainties",
+        "subjects": "Subjects: Numerical Analysis (math.NA) ; Optimization and Control (math.OC); Computational Physics (physics.comp-ph); Plasma Physics (physics.plasm-ph)"
+      }
+    ]
+  },
+  {
+    "category": "physics.acc-ph",
+    "url": "https://arxiv.org/list/physics.acc-ph/recent?show=2000",
+    "status": 200,
+    "date_block": "Wed, 18 Nov 2026 (showing 5 of 5 entries )",
+    "items": [
+      {
+        "arxiv_id": "2611.23044",
+        "title": "Surface-muon production for ultraslow-muon sources of $μ^+$-based colliders",
+        "subjects": "Subjects: Accelerator Physics (physics.acc-ph)"
+      },
+      {
+        "arxiv_id": "2611.22982",
+        "title": "Muon Collider: Towards the Energy Frontier",
+        "subjects": "Subjects: Accelerator Physics (physics.acc-ph) ; High Energy Physics - Experiment (hep-ex)"
+      },
+      {
+        "arxiv_id": "2611.22848",
+        "title": "Surrogate-assisted beam distribution shaping at the CERN Proton Synchrotron and Super Proton Synchrotron",
+        "subjects": "Subjects: Accelerator Physics (physics.acc-ph)"
+      },
+      {
+        "arxiv_id": "2611.22259",
+        "title": "Multi-Gaussian Model for Intrabeam Scattering",
+        "subjects": "Subjects: Accelerator Physics (physics.acc-ph)"
+      },
+      {
+        "arxiv_id": "2611.21902",
+        "title": "Conformal Uncertainty Quantification of a Normalizing Flow Surrogate for the FACET-II Two-Bunch Beam",
+        "subjects": "Subjects: Accelerator Physics (physics.acc-ph)"
+      }
+    ]
+  },
+  {
+    "category": "physics.comp-ph",
+    "url": "https://arxiv.org/list/physics.comp-ph/recent?show=2000",
+    "status": 200,
+    "date_block": "Wed, 18 Nov 2026 (showing 22 of 22 entries )",
+    "items": [
+      {
+        "arxiv_id": "2611.23135",
+        "title": "OpenPINN/PINO: An Extensible Open-Source Framework for Agent-Assisted Physics-Informed Neural Networks and Neural Operators",
+        "subjects": "Subjects: Computational Physics (physics.comp-ph)"
+      },
+      {
+        "arxiv_id": "2611.22651",
+        "title": "Non-Intrusive Rubin Substructuring for Geometrically Nonlinear Structures via Nonlinear Manifolds",
+        "subjects": "Subjects: Computational Physics (physics.comp-ph)"
+      },
+      {
+        "arxiv_id": "2611.22522",
+        "title": "Coordinating integration of multidisciplinary design analysis and optimisation codes with design structure matrices",
+        "subjects": "Subjects: Computational Physics (physics.comp-ph) ; Computational Engineering, Finance, and Science (cs.CE); Software Engineering (cs.SE)"
+      },
+      {
+        "arxiv_id": "2611.22187",
+        "title": "Constitutive-fibre mechanics: mechanics-directed uncertainty in constitutive function space",
+        "subjects": "Subjects: Computational Physics (physics.comp-ph)"
+      },
+      {
+        "arxiv_id": "2611.21671",
+        "title": "A Riemann-invariant contact-capturing scheme with WENO reconstruction and RH-motivated dual-speed dissipation for compressible two-phase mixture flows",
+        "subjects": "Subjects: Computational Physics (physics.comp-ph)"
+      },
+      {
+        "arxiv_id": "2611.23027",
+        "title": "Right shape, wrong time: phase errors of ODE solvers in the flame problem",
+        "subjects": "Subjects: Numerical Analysis (math.NA) ; Computational Physics (physics.comp-ph)"
+      },
+      {
+        "arxiv_id": "2611.22902",
+        "title": "A free-energy approach for stochastic reaction-drift-diffusion lattice simulations of crowded biological systems",
+        "subjects": "Subjects: Biological Physics (physics.bio-ph) ; Computational Physics (physics.comp-ph)"
+      },
+      {
+        "arxiv_id": "2611.22834",
+        "title": "Molecular energies from sparse quantum prolate diagonalization on a trapped-ion quantum processor",
+        "subjects": "Subjects: Quantum Physics (quant-ph) ; Biological Physics (physics.bio-ph); Chemical Physics (physics.chem-ph); Computational Physics (physics.comp-ph)"
+      },
+      {
+        "arxiv_id": "2611.22683",
+        "title": "Quadrature-Free Radial Intracule Densities: A Bessel-Harmonic Formulation for Gaussian Basis Sets",
+        "subjects": "Subjects: Chemical Physics (physics.chem-ph) ; Computational Physics (physics.comp-ph)"
+      },
+      {
+        "arxiv_id": "2611.22600",
+        "title": "A variational multiscale rotational pressure-correction method for incompressible flows with open boundaries",
+        "subjects": "Subjects: Fluid Dynamics (physics.flu-dyn) ; Computational Physics (physics.comp-ph)"
+      },
+      {
+        "arxiv_id": "2611.22488",
+        "title": "Burgers vectors from Voronoi topology",
+        "subjects": "Subjects: Materials Science (cond-mat.mtrl-sci) ; Computational Physics (physics.comp-ph)"
+      },
+      {
+        "arxiv_id": "2611.22473",
+        "title": "A branchless single-precision Voigt approximation for spectral synthesis",
+        "subjects": "Subjects: Solar and Stellar Astrophysics (astro-ph.SR) ; Instrumentation and Methods for Astrophysics (astro-ph.IM); Computational Physics (physics.comp-ph)"
+      },
+      {
+        "arxiv_id": "2611.22462",
+        "title": "Orbital differentiation in a rare earth ion near half filling",
+        "subjects": "Subjects: Strongly Correlated Electrons (cond-mat.str-el) ; Materials Science (cond-mat.mtrl-sci); Superconductivity (cond-mat.supr-con); Chemical Physics (physics.chem-ph); Computational Physics (physics.comp-ph)"
+      },
+      {
+        "arxiv_id": "2611.22393",
+        "title": "Development and Validation of a preCICE Based OpenMOC OpenFOAM Coupling Framework for Nuclear Reactor Analysis",
+        "subjects": "Subjects: Applied Physics (physics.app-ph) ; Computational Physics (physics.comp-ph)"
+      },
+      {
+        "arxiv_id": "2611.21991",
+        "title": "High-Order Regularization for Singular and Nearly Singular Laplace and Stokes Layer Potentials in Two Dimensions",
+        "subjects": "Subjects: Numerical Analysis (math.NA) ; Computational Physics (physics.comp-ph)"
+      },
+      {
+        "arxiv_id": "2611.21801",
+        "title": "Symmetry-reduced k-point sampling and Wannier analysis with localized Gaussian orbitals",
+        "subjects": "Subjects: Chemical Physics (physics.chem-ph) ; Materials Science (cond-mat.mtrl-sci); Computational Physics (physics.comp-ph)"
+      },
+      {
+        "arxiv_id": "2611.21790",
+        "title": "Multicomponent Adaptive Sampling Configuration Interaction method in openLOWDIN: positronic and quantum nuclear systems",
+        "subjects": "Subjects: Chemical Physics (physics.chem-ph) ; Computational Physics (physics.comp-ph)"
+      },
+      {
+        "arxiv_id": "2610.26110",
+        "title": "Full-horizon magnetic control of the Vlasov--Poisson system for plasma confinement",
+        "subjects": "Subjects: Numerical Analysis (math.NA) ; Optimization and Control (math.OC); Computational Physics (physics.comp-ph); Plasma Physics (physics.plasm-ph)"
+      },
+      {
+        "arxiv_id": "2512.24205",
+        "title": "Micro-Macro Tensor Neural Surrogates for Uncertainty Quantification in Collisional Plasma",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Mathematical Physics (math-ph); Computational Physics (physics.comp-ph); Plasma Physics (physics.plasm-ph)"
+      },
+      {
+        "arxiv_id": "2511.10214",
+        "title": "Control strategies for magnetized plasma: a polar coordinates framework",
+        "subjects": "Subjects: Numerical Analysis (math.NA) ; Optimization and Control (math.OC); Computational Physics (physics.comp-ph); Plasma Physics (physics.plasm-ph)"
+      },
+      {
+        "arxiv_id": "2506.10636",
+        "title": "Structure and asymptotic preserving deep neural surrogates for uncertainty quantification in multiscale kinetic equations",
+        "subjects": "Subjects: Numerical Analysis (math.NA) ; Machine Learning (cs.LG); Computational Physics (physics.comp-ph); Plasma Physics (physics.plasm-ph)"
+      },
+      {
+        "arxiv_id": "2505.19992",
+        "title": "Robust feedback control of collisional plasma dynamics in presence of uncertainties",
+        "subjects": "Subjects: Numerical Analysis (math.NA) ; Optimization and Control (math.OC); Computational Physics (physics.comp-ph); Plasma Physics (physics.plasm-ph)"
+      }
+    ]
+  },
+  {
+    "category": "physics.optics",
+    "url": "https://arxiv.org/list/physics.optics/recent?show=2000",
+    "status": 200,
+    "date_block": "Wed, 18 Nov 2026 (showing 29 of 29 entries )",
+    "items": [
+      {
+        "arxiv_id": "2611.23156",
+        "title": "Quantum simulation of neutral-meson mixing and decay on a reprogrammable photonic processor",
+        "subjects": "Subjects: Optics (physics.optics) ; Quantum Physics (quant-ph)"
+      },
+      {
+        "arxiv_id": "2611.22895",
+        "title": "Tunable Microresonator Arrays Induced by Geometric Phase",
+        "subjects": "Subjects: Optics (physics.optics)"
+      },
+      {
+        "arxiv_id": "2611.22823",
+        "title": "Oblique incidence and non-commuting limits: a remark on the convergence of Fresnel integrals",
+        "subjects": "Subjects: Optics (physics.optics) ; Quantum Physics (quant-ph)"
+      },
+      {
+        "arxiv_id": "2611.22789",
+        "title": "Revisiting structured-light propagation in screw-dislocation geometries: Landau dynamics and gradient-induced polarization textures",
+        "subjects": "Subjects: Optics (physics.optics) ; Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
+      },
+      {
+        "arxiv_id": "2611.22729",
+        "title": "Optical rectification and Pockels effect in the organic nonlinear crystal MBI for quasi-discrete THz time-domain spectroscopy",
+        "subjects": "Subjects: Optics (physics.optics)"
+      },
+      {
+        "arxiv_id": "2611.22667",
+        "title": "Generating Circularly Polarized and Chiral Cathodoluminescence from a Single Plasmonic Nanoantenna",
+        "subjects": "Subjects: Optics (physics.optics)"
+      },
+      {
+        "arxiv_id": "2611.22579",
+        "title": "Quantum differential interference contrast microscope",
+        "subjects": "Subjects: Optics (physics.optics) ; Quantum Physics (quant-ph)"
+      },
+      {
+        "arxiv_id": "2611.22357",
+        "title": "Topological Timing of Bound States by Spacetime Mass Windings",
+        "subjects": "Subjects: Optics (physics.optics) ; Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
+      },
+      {
+        "arxiv_id": "2611.22348",
+        "title": "Dual-Comb Spectrometry Enabled by Gain-Assisted Electro-Optic Fiber Ring Resonators",
+        "subjects": "Subjects: Optics (physics.optics)"
+      },
+      {
+        "arxiv_id": "2611.22341",
+        "title": "Zernike-efficient phase contrast with a scanned electron probe",
+        "subjects": "Subjects: Optics (physics.optics) ; Quantum Physics (quant-ph)"
+      },
+      {
+        "arxiv_id": "2611.22306",
+        "title": "Intraband vs. interband optical nonlinearities of transparent conducting oxides",
+        "subjects": "Subjects: Optics (physics.optics)"
+      },
+      {
+        "arxiv_id": "2611.22196",
+        "title": "Microwave hinge states in an all-dielectric woodpile photonic crystal insulator",
+        "subjects": "Subjects: Optics (physics.optics)"
+      },
+      {
+        "arxiv_id": "2611.22157",
+        "title": "Active Contrast-Dissipation All-Optical Encryption",
+        "subjects": "Subjects: Optics (physics.optics)"
+      },
+      {
+        "arxiv_id": "2611.22114",
+        "title": "Backward-scattering photoelectron holography of a polar molecule driven by a sub-cycle laser pulse",
+        "subjects": "Subjects: Optics (physics.optics) ; Atomic and Molecular Clusters (physics.atm-clus)"
+      },
+      {
+        "arxiv_id": "2611.21972",
+        "title": "Photonic Maxwells demon as an energy resource",
+        "subjects": "Subjects: Optics (physics.optics) ; Quantum Physics (quant-ph)"
+      },
+      {
+        "arxiv_id": "2611.21934",
+        "title": "Bandwidth-tunable thermal emitter via dynamic resonator coupling and loss",
+        "subjects": "Subjects: Optics (physics.optics) ; Materials Science (cond-mat.mtrl-sci); Applied Physics (physics.app-ph)"
+      },
+      {
+        "arxiv_id": "2611.21893",
+        "title": "A microscopic revision of the rate equations of a heavily erbium-doped fiber laser",
+        "subjects": "Subjects: Optics (physics.optics)"
+      },
+      {
+        "arxiv_id": "2611.21864",
+        "title": "Inverse Design for Nonplanar Conformal Layers",
+        "subjects": "Subjects: Optics (physics.optics)"
+      },
+      {
+        "arxiv_id": "2611.23046",
+        "title": "Frequency Multiplexing of Purcell-Enhanced Optically Coherent NV Centers",
+        "subjects": "Subjects: Quantum Physics (quant-ph) ; Optics (physics.optics)"
+      },
+      {
+        "arxiv_id": "2611.23000",
+        "title": "Variable-length MDI QKD under source imperfections and local randomization over horizontal links",
+        "subjects": "Subjects: Quantum Physics (quant-ph) ; Optics (physics.optics)"
+      },
+      {
+        "arxiv_id": "2611.22839",
+        "title": "Axion electrodynamics and the advection-diffusion structure of TEM modes in hollow-conductor waveguides",
+        "subjects": "Subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall) ; Other Condensed Matter (cond-mat.other); High Energy Physics - Theory (hep-th); Optics (physics.optics)"
+      },
+      {
+        "arxiv_id": "2611.22750",
+        "title": "Altermagnetism-induced magneto-optical effects",
+        "subjects": "Subjects: Materials Science (cond-mat.mtrl-sci) ; Optics (physics.optics)"
+      },
+      {
+        "arxiv_id": "2611.22672",
+        "title": "Giant and sign-tunable spin Hall effect of light in a nonlocal nonlinear Rydberg medium",
+        "subjects": "Subjects: Atomic Physics (physics.atom-ph) ; Optics (physics.optics)"
+      },
+      {
+        "arxiv_id": "2611.22641",
+        "title": "A regime dependent parameterization of the refractive-index structure parameter $C_n^2$",
+        "subjects": "Subjects: Atmospheric and Oceanic Physics (physics.ao-ph) ; Optics (physics.optics)"
+      },
+      {
+        "arxiv_id": "2611.22573",
+        "title": "Targeted material doping to enable the formation and coherent propagation of Laser Induced Periodic Surface Structures (LIPSS): the ZnO paradigm",
+        "subjects": "Subjects: Materials Science (cond-mat.mtrl-sci) ; Optics (physics.optics)"
+      },
+      {
+        "arxiv_id": "2611.22199",
+        "title": "Observation of temporal routing of topological edge states",
+        "subjects": "Subjects: Pattern Formation and Solitons (nlin.PS) ; Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Optics (physics.optics)"
+      },
+      {
+        "arxiv_id": "2611.21869",
+        "title": "Magnon-Phonon-Polariton Optomechanics in a van der Waals Magnet",
+        "subjects": "Subjects: Mesoscale and Nanoscale Physics (cond-mat.mes-hall) ; Materials Science (cond-mat.mtrl-sci); Optics (physics.optics)"
+      },
+      {
+        "arxiv_id": "2611.21708",
+        "title": "Probing Phase Fluctuations in Cuprates by Multidimensional Josephson Spectroscopy",
+        "subjects": "Subjects: Superconductivity (cond-mat.supr-con) ; Materials Science (cond-mat.mtrl-sci); Optics (physics.optics)"
+      },
+      {
+        "arxiv_id": "2607.16461",
+        "title": "Quantitative Theory for the Amplitude of Fluorescence Quantum Beats from Geminate Triplet-Pair Fusion",
+        "subjects": "Subjects: Other Condensed Matter (cond-mat.other) ; Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Optics (physics.optics); Quantum Physics (quant-ph)"
+      }
+    ]
+  },
+  {
+    "category": "physics.ins-det",
+    "url": "https://arxiv.org/list/physics.ins-det/recent?show=2000",
+    "status": 200,
+    "date_block": "Wed, 18 Nov 2026 (showing 4 of 4 entries )",
+    "items": [
+      {
+        "arxiv_id": "2611.22678",
+        "title": "Sub-electron noise with a buried-channel DePFET: characterisation of novel DePFET concepts",
+        "subjects": "Subjects: Instrumentation and Detectors (physics.ins-det) ; Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+      },
+      {
+        "arxiv_id": "2611.22201",
+        "title": "Quality Control for the LGAD sensors of the ATLAS High Granularity Timing Detector",
+        "subjects": "Subjects: Instrumentation and Detectors (physics.ins-det)"
+      },
+      {
+        "arxiv_id": "2611.22162",
+        "title": "Rotating Capacitive System for Measurement of a Third Order Gravity Gradient Based on a Single-Axis Mechanical Oscillator. Part I, Theory",
+        "subjects": "Subjects: Instrumentation and Detectors (physics.ins-det)"
+      },
+      {
+        "arxiv_id": "2611.22872",
+        "title": "Cancellation of cryocooler-induced vibration in trapped-ion systems",
+        "subjects": "Subjects: Atomic Physics (physics.atom-ph) ; Instrumentation and Detectors (physics.ins-det)"
+      }
+    ]
+  },
+  {
+    "category": "nucl-ex",
+    "url": "https://arxiv.org/list/nucl-ex/recent?show=2000",
+    "status": 200,
+    "date_block": "Wed, 18 Nov 2026 (showing 4 of 4 entries )",
+    "items": [
+      {
+        "arxiv_id": "2611.23043",
+        "title": "Precision Muon Physics",
+        "subjects": "Subjects: Nuclear Experiment (nucl-ex) ; High Energy Physics - Experiment (hep-ex); Nuclear Theory (nucl-th)"
+      },
+      {
+        "arxiv_id": "2611.22945",
+        "title": "Universal Mass Equation for Equal-Quantum Excited-States Sets~III",
+        "subjects": "Subjects: High Energy Physics - Phenomenology (hep-ph) ; High Energy Physics - Experiment (hep-ex); Nuclear Experiment (nucl-ex); Nuclear Theory (nucl-th)"
+      },
+      {
+        "arxiv_id": "2611.21807",
+        "title": "On the Structure of the Nuclear-Clock Isotope $^{229}$Th Beyond Quadratic Order",
+        "subjects": "Subjects: High Energy Physics - Phenomenology (hep-ph) ; Nuclear Experiment (nucl-ex); Nuclear Theory (nucl-th); Atomic Physics (physics.atom-ph)"
+      },
+      {
+        "arxiv_id": "2611.20085",
+        "title": "The Future Circular Collider as a photon-photon collider",
+        "subjects": "Subjects: High Energy Physics - Phenomenology (hep-ph) ; High Energy Physics - Experiment (hep-ex); Nuclear Experiment (nucl-ex); Nuclear Theory (nucl-th)"
+      }
+    ]
+  },
+  {
+    "category": "nucl-th",
+    "url": "https://arxiv.org/list/nucl-th/recent?show=2000",
+    "status": 200,
+    "date_block": "Wed, 18 Nov 2026 (showing 12 of 12 entries )",
+    "items": [
+      {
+        "arxiv_id": "2611.23071",
+        "title": "Flavor-dependent quark-mass scaling and the fate of the strange-matter window in self-bound quark stars",
+        "subjects": "Subjects: Nuclear Theory (nucl-th) ; Solar and Stellar Astrophysics (astro-ph.SR); High Energy Physics - Phenomenology (hep-ph)"
+      },
+      {
+        "arxiv_id": "2611.22986",
+        "title": "Strangeness-to-entropy ratio across the QCD crossover",
+        "subjects": "Subjects: Nuclear Theory (nucl-th)"
+      },
+      {
+        "arxiv_id": "2611.22974",
+        "title": "A Predictive Nuclear Effective Field Theory from Wilsonian Renormalization Group Principles II: Hidden unitary transformations",
+        "subjects": "Subjects: Nuclear Theory (nucl-th)"
+      },
+      {
+        "arxiv_id": "2611.22960",
+        "title": "A Predictive Nuclear Effective Field Theory from Wilsonian Renormalization Group Principles I: Medium-mass nuclei and nuclear matter",
+        "subjects": "Subjects: Nuclear Theory (nucl-th)"
+      },
+      {
+        "arxiv_id": "2611.22804",
+        "title": "Nuclear mass calculation based on anisotropic kernel ridge regression and $α$-decay chain recursion",
+        "subjects": "Subjects: Nuclear Theory (nucl-th)"
+      },
+      {
+        "arxiv_id": "2611.23146",
+        "title": "Electromagnetic form factors of the hidden-charm pentaquarks in a coupled-channel unitary approach",
+        "subjects": "Subjects: High Energy Physics - Phenomenology (hep-ph) ; Nuclear Theory (nucl-th)"
+      },
+      {
+        "arxiv_id": "2611.23043",
+        "title": "Precision Muon Physics",
+        "subjects": "Subjects: Nuclear Experiment (nucl-ex) ; High Energy Physics - Experiment (hep-ex); Nuclear Theory (nucl-th)"
+      },
+      {
+        "arxiv_id": "2611.22945",
+        "title": "Universal Mass Equation for Equal-Quantum Excited-States Sets~III",
+        "subjects": "Subjects: High Energy Physics - Phenomenology (hep-ph) ; High Energy Physics - Experiment (hep-ex); Nuclear Experiment (nucl-ex); Nuclear Theory (nucl-th)"
+      },
+      {
+        "arxiv_id": "2611.21807",
+        "title": "On the Structure of the Nuclear-Clock Isotope $^{229}$Th Beyond Quadratic Order",
+        "subjects": "Subjects: High Energy Physics - Phenomenology (hep-ph) ; Nuclear Experiment (nucl-ex); Nuclear Theory (nucl-th); Atomic Physics (physics.atom-ph)"
+      },
+      {
+        "arxiv_id": "2611.21368",
+        "title": "Astrophysical Constraints for Bosonic Dark Matter in and Around Quark Stars",
+        "subjects": "Subjects: High Energy Astrophysical Phenomena (astro-ph.HE) ; High Energy Physics - Theory (hep-th); Nuclear Theory (nucl-th)"
+      },
+      {
+        "arxiv_id": "2611.20085",
+        "title": "The Future Circular Collider as a photon-photon collider",
+        "subjects": "Subjects: High Energy Physics - Phenomenology (hep-ph) ; High Energy Physics - Experiment (hep-ex); Nuclear Experiment (nucl-ex); Nuclear Theory (nucl-th)"
+      },
+      {
+        "arxiv_id": "2610.35818",
+        "title": "Holographic Approaches to Hadron Structure",
+        "subjects": "Subjects: High Energy Physics - Phenomenology (hep-ph) ; High Energy Physics - Theory (hep-th); Nuclear Theory (nucl-th)"
+      }
+    ]
+  },
+  {
+    "category": "hep-ph",
+    "url": "https://arxiv.org/list/hep-ph/recent?show=2000",
+    "status": 200,
+    "date_block": "Wed, 18 Nov 2026 (showing 40 of 40 entries )",
+    "items": [
+      {
+        "arxiv_id": "2611.23220",
+        "title": "Complete Cosmological Collider Signatures from Right-handed Neutrino Loops",
+        "subjects": "Subjects: High Energy Physics - Phenomenology (hep-ph) ; Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Physics - Theory (hep-th)"
+      },
+      {
+        "arxiv_id": "2611.23148",
+        "title": "Bayesian Multimessenger Constraints on Self-Bound Quark Stars in Revised Perturbative QCD",
+        "subjects": "Subjects: High Energy Physics - Phenomenology (hep-ph)"
+      },
+      {
+        "arxiv_id": "2611.23146",
+        "title": "Electromagnetic form factors of the hidden-charm pentaquarks in a coupled-channel unitary approach",
+        "subjects": "Subjects: High Energy Physics - Phenomenology (hep-ph) ; Nuclear Theory (nucl-th)"
+      },
+      {
+        "arxiv_id": "2611.23125",
+        "title": "Analytic Two-Loop Classical Bremsstrahlung Amplitude in Electrodynamics",
+        "subjects": "Subjects: High Energy Physics - Phenomenology (hep-ph)"
+      },
+      {
+        "arxiv_id": "2611.23028",
+        "title": "Imprints of Non-local Top-Higgs Interaction on Loop Induced Higgs Processes",
+        "subjects": "Subjects: High Energy Physics - Phenomenology (hep-ph)"
+      },
+      {
+        "arxiv_id": "2611.23020",
+        "title": "Loop-induced $gg\\to ZH$ at NLO+PS for LHC simulations: exact, fast scale and PDF event weights, theory uncertainties, and the limits of rescaled LO+PS",
+        "subjects": "Subjects: High Energy Physics - Phenomenology (hep-ph) ; High Energy Physics - Experiment (hep-ex)"
+      },
+      {
+        "arxiv_id": "2611.23015",
+        "title": "A Universal Axion in a Twin-QCD Sector",
+        "subjects": "Subjects: High Energy Physics - Phenomenology (hep-ph) ; High Energy Physics - Theory (hep-th)"
+      },
+      {
+        "arxiv_id": "2611.22945",
+        "title": "Universal Mass Equation for Equal-Quantum Excited-States Sets~III",
+        "subjects": "Subjects: High Energy Physics - Phenomenology (hep-ph) ; High Energy Physics - Experiment (hep-ex); Nuclear Experiment (nucl-ex); Nuclear Theory (nucl-th)"
+      },
+      {
+        "arxiv_id": "2611.22890",
+        "title": "Scalar inelastic scattering of pseudo-Majorana dark matter through a radion portal",
+        "subjects": "Subjects: High Energy Physics - Phenomenology (hep-ph) ; High Energy Physics - Experiment (hep-ex); High Energy Physics - Theory (hep-th)"
+      },
+      {
+        "arxiv_id": "2611.22807",
+        "title": "Millicharged Fermions as Dark Matter: Theoretical Modeling and Experimental Detection",
+        "subjects": "Subjects: High Energy Physics - Phenomenology (hep-ph)"
+      },
+      {
+        "arxiv_id": "2611.22701",
+        "title": "An exact separability criterion for the $J/ψΛ$ spin state in $Λ_b^0\\to J/ψ\\,Λ$ decays at the LHC",
+        "subjects": "Subjects: High Energy Physics - Phenomenology (hep-ph) ; High Energy Physics - Experiment (hep-ex); Quantum Physics (quant-ph)"
+      },
+      {
+        "arxiv_id": "2611.22424",
+        "title": "Triangle singularity with different dynamical couplings",
+        "subjects": "Subjects: High Energy Physics - Phenomenology (hep-ph) ; High Energy Physics - Experiment (hep-ex)"
+      },
+      {
+        "arxiv_id": "2611.22421",
+        "title": "Top-Quark Physics after Evidence for Toponium",
+        "subjects": "Subjects: High Energy Physics - Phenomenology (hep-ph)"
+      },
+      {
+        "arxiv_id": "2611.22237",
+        "title": "Flavor Entanglement as a CPT Violation Witness in Neutrino Oscillations",
+        "subjects": "Subjects: High Energy Physics - Phenomenology (hep-ph)"
+      },
+      {
+        "arxiv_id": "2611.22036",
+        "title": "Double parton scattering singularities in two-loop gluon-fusion amplitudes",
+        "subjects": "Subjects: High Energy Physics - Phenomenology (hep-ph)"
+      },
+      {
+        "arxiv_id": "2611.21813",
+        "title": "Probing $τ$ lepton dipole moments at multi-TeV muon colliders",
+        "subjects": "Subjects: High Energy Physics - Phenomenology (hep-ph) ; High Energy Physics - Experiment (hep-ex)"
+      },
+      {
+        "arxiv_id": "2611.21810",
+        "title": "Probing scalar-mediated Lorentz violation with hydrogen masers and spin-precession of molecules",
+        "subjects": "Subjects: High Energy Physics - Phenomenology (hep-ph) ; Atomic Physics (physics.atom-ph)"
+      },
+      {
+        "arxiv_id": "2611.21807",
+        "title": "On the Structure of the Nuclear-Clock Isotope $^{229}$Th Beyond Quadratic Order",
+        "subjects": "Subjects: High Energy Physics - Phenomenology (hep-ph) ; Nuclear Experiment (nucl-ex); Nuclear Theory (nucl-th); Atomic Physics (physics.atom-ph)"
+      },
+      {
+        "arxiv_id": "2611.21764",
+        "title": "$B\\to K a$ decays in QCD factorization and revised bounds on ALP couplings",
+        "subjects": "Subjects: High Energy Physics - Phenomenology (hep-ph)"
+      },
+      {
+        "arxiv_id": "2611.21763",
+        "title": "A new angle on coherence-violating logarithms in color-singlet processes",
+        "subjects": "Subjects: High Energy Physics - Phenomenology (hep-ph) ; High Energy Physics - Theory (hep-th)"
+      },
+      {
+        "arxiv_id": "2611.21757",
+        "title": "Analytic next-to-leading order electroweak corrections to Higgs boson pair production in the forward limit",
+        "subjects": "Subjects: High Energy Physics - Phenomenology (hep-ph)"
+      },
+      {
+        "arxiv_id": "2611.21747",
+        "title": "Perturbative QCD Analysis for the Electric Dipole Moment of $Ξ$ and $Σ$ Hyperons from CP-Violating Dipole Interactions",
+        "subjects": "Subjects: High Energy Physics - Phenomenology (hep-ph)"
+      },
+      {
+        "arxiv_id": "2611.21741",
+        "title": "Smuggling baryon asymmetry through strong washout",
+        "subjects": "Subjects: High Energy Physics - Phenomenology (hep-ph)"
+      },
+      {
+        "arxiv_id": "2611.21737",
+        "title": "Thermal Composite Dark Matter at LZ",
+        "subjects": "Subjects: High Energy Physics - Phenomenology (hep-ph)"
+      },
+      {
+        "arxiv_id": "2611.21736",
+        "title": "Active Galactic Nuclei as Beyond the Standard Model Laboratories: a White Paper",
+        "subjects": "Subjects: High Energy Physics - Phenomenology (hep-ph) ; Cosmology and Nongalactic Astrophysics (astro-ph.CO); Astrophysics of Galaxies (astro-ph.GA); High Energy Astrophysical Phenomena (astro-ph.HE)"
+      },
+      {
+        "arxiv_id": "2611.21729",
+        "title": "Supernova Bounds on Neutrino Dipole Moments from a Modern Perspective",
+        "subjects": "Subjects: High Energy Physics - Phenomenology (hep-ph) ; Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Astrophysical Phenomena (astro-ph.HE)"
+      },
+      {
+        "arxiv_id": "2611.21728",
+        "title": "Plugging the Pion Chimney",
+        "subjects": "Subjects: High Energy Physics - Phenomenology (hep-ph) ; High Energy Physics - Experiment (hep-ex)"
+      },
+      {
+        "arxiv_id": "2611.21719",
+        "title": "Feebly-Interacting Particle Searches",
+        "subjects": "Subjects: High Energy Physics - Phenomenology (hep-ph) ; High Energy Physics - Experiment (hep-ex)"
+      },
+      {
+        "arxiv_id": "2611.21714",
+        "title": "21 cm Cosmology of Boosted Dark Matter",
+        "subjects": "Subjects: High Energy Physics - Phenomenology (hep-ph) ; Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Astrophysical Phenomena (astro-ph.HE)"
+      },
+      {
+        "arxiv_id": "2611.23082",
+        "title": "Probing Lorentz-violating electrodynamics with CMB polarization. II. Updated constraints and forecasts for the Simons Observatory and LiteBIRD",
+        "subjects": "Subjects: Cosmology and Nongalactic Astrophysics (astro-ph.CO) ; General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Phenomenology (hep-ph)"
+      },
+      {
+        "arxiv_id": "2611.23071",
+        "title": "Flavor-dependent quark-mass scaling and the fate of the strange-matter window in self-bound quark stars",
+        "subjects": "Subjects: Nuclear Theory (nucl-th) ; Solar and Stellar Astrophysics (astro-ph.SR); High Energy Physics - Phenomenology (hep-ph)"
+      },
+      {
+        "arxiv_id": "2611.22798",
+        "title": "How can every physicist become a Bohmian",
+        "subjects": "Subjects: Quantum Physics (quant-ph) ; High Energy Physics - Phenomenology (hep-ph)"
+      },
+      {
+        "arxiv_id": "2611.22791",
+        "title": "Quantum phase transition and superselection sectors in two-color one-flavor matrix QCD at weak coupling",
+        "subjects": "Subjects: High Energy Physics - Theory (hep-th) ; High Energy Physics - Lattice (hep-lat); High Energy Physics - Phenomenology (hep-ph)"
+      },
+      {
+        "arxiv_id": "2611.22719",
+        "title": "Effects of QCD Equation of State on Cosmological Parameters and Stochastic Gravitational-Waves Spectrum",
+        "subjects": "Subjects: Cosmology and Nongalactic Astrophysics (astro-ph.CO) ; High Energy Physics - Phenomenology (hep-ph)"
+      },
+      {
+        "arxiv_id": "2611.22615",
+        "title": "Lie-Poisson Formulation of Dissipative Spin Hydrodynamics",
+        "subjects": "Subjects: High Energy Physics - Theory (hep-th) ; Soft Condensed Matter (cond-mat.soft); High Energy Physics - Phenomenology (hep-ph)"
+      },
+      {
+        "arxiv_id": "2611.22266",
+        "title": "Gravitational waves from cosmological first-order phase transitions with fluctuation-induced friction",
+        "subjects": "Subjects: General Relativity and Quantum Cosmology (gr-qc) ; Cosmology and Nongalactic Astrophysics (astro-ph.CO); High Energy Physics - Phenomenology (hep-ph)"
+      },
+      {
+        "arxiv_id": "2611.21997",
+        "title": "Fundamental physics with quantum sensors in space",
+        "subjects": "Subjects: Quantum Physics (quant-ph) ; Instrumentation and Methods for Astrophysics (astro-ph.IM); General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Phenomenology (hep-ph); Atomic Physics (physics.atom-ph)"
+      },
+      {
+        "arxiv_id": "2611.21821",
+        "title": "A Forecast for Testing the Decreasing $H_0$ Trend in Time-Delay Cosmography",
+        "subjects": "Subjects: Cosmology and Nongalactic Astrophysics (astro-ph.CO) ; High Energy Physics - Phenomenology (hep-ph)"
+      },
+      {
+        "arxiv_id": "2611.21752",
+        "title": "Mapping the multimessenger horizon for $γ$-ray counterparts of cosmic neutrinos",
+        "subjects": "Subjects: High Energy Astrophysical Phenomena (astro-ph.HE) ; High Energy Physics - Phenomenology (hep-ph)"
+      },
+      {
+        "arxiv_id": "2611.21715",
+        "title": "The SymTFT and Quantum Phases of Matter",
+        "subjects": "Subjects: Strongly Correlated Electrons (cond-mat.str-el) ; High Energy Physics - Phenomenology (hep-ph); High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph)"
+      }
+    ]
+  },
+  {
+    "category": "physics.med-ph",
+    "url": "https://arxiv.org/list/physics.med-ph/recent?show=2000",
+    "status": 200,
+    "date_block": "Wed, 18 Nov 2026",
+    "items": []
+  },
+  {
+    "category": "cs.LG",
+    "url": "https://arxiv.org/list/cs.LG/recent?show=2000",
+    "status": 200,
+    "date_block": "Wed, 18 Nov 2026 (showing 211 of 211 entries )",
+    "items": [
+      {
+        "arxiv_id": "2611.23229",
+        "title": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Artificial Intelligence (cs.AI); Computation and Language (cs.CL)"
+      },
+      {
+        "arxiv_id": "2611.23219",
+        "title": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Artificial Intelligence (cs.AI)"
+      },
+      {
+        "arxiv_id": "2611.23208",
+        "title": "Distortion-Free Semantic Watermarks for Black-Box Generative Models",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Cryptography and Security (cs.CR); Computer Vision and Pattern Recognition (cs.CV)"
+      },
+      {
+        "arxiv_id": "2611.23205",
+        "title": "Fine-Tuning Gemma 4 Edge Models for MATLAB Signal-Processing Code with SFT and QLoRA on a Laptop iGPU",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Artificial Intelligence (cs.AI); Software Engineering (cs.SE); Signal Processing (eess.SP)"
+      },
+      {
+        "arxiv_id": "2611.23198",
+        "title": "Learned versus Kinematic Trajectory Prediction under Reduced Observation Frequency",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Robotics (cs.RO)"
+      },
+      {
+        "arxiv_id": "2611.23154",
+        "title": "Learning Stratified Policies for Inference-Time Objectives",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Artificial Intelligence (cs.AI)"
+      },
+      {
+        "arxiv_id": "2611.23134",
+        "title": "Correcting Flows with Marginal Matching",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.23130",
+        "title": "A Neural Envelope Method for Rapid Gradient-based Optimum Takeoff Trajectory Design",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.23129",
+        "title": "Where Should Physics Enter? Information, Identifiability and Calibration in Probabilistic Sea Surface Temperature Forecasting",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.23127",
+        "title": "The Illusion of Grounding: Do Vision-Language Models Weigh Retrieved Text and Images Like an Ideal Observer?",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Computation and Language (cs.CL); Computer Vision and Pattern Recognition (cs.CV)"
+      },
+      {
+        "arxiv_id": "2611.23124",
+        "title": "Get Hint-Augmented GRPO Done Right Through Activation Steering",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.23112",
+        "title": "Large-scale Neuron Community Discovery Reveals Neuron-Sparse Behaviors in Language Models",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Computation and Language (cs.CL)"
+      },
+      {
+        "arxiv_id": "2611.23081",
+        "title": "Learning to Undo: Transfer Reinforcement Learning under State Space Transformations",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Artificial Intelligence (cs.AI)"
+      },
+      {
+        "arxiv_id": "2611.23076",
+        "title": "Pareto-Informed Smart \"Predict, then Optimize\" for Multi-Objective Combinatorial Problems",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.23040",
+        "title": "Variance Restoration over Covariance Rank: Memory-Budgeted Analytic Continual Learning",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.23035",
+        "title": "Storing the Gemma 4 K=V Cache Once: Exact Global-KV Memory Savings in a Paged Serving Engine with Unchanged Attention Kernels",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Computation and Language (cs.CL); Distributed, Parallel, and Cluster Computing (cs.DC)"
+      },
+      {
+        "arxiv_id": "2611.23001",
+        "title": "NVIDIA Kumo Tabular: Pushing the Accuracy-Efficiency Frontier for Tabular Prediction",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22965",
+        "title": "High-Dimensional Black-Box Optimization via Guidance Sampling of Diffusion Models",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Artificial Intelligence (cs.AI)"
+      },
+      {
+        "arxiv_id": "2611.22958",
+        "title": "DDSL: Iterative Self-Labeling for Financial Market States",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22955",
+        "title": "ResoLUT: Distilling Residual Networks into Lookup-Table Networks",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22947",
+        "title": "The Kernel Reality Check: Benchmarking and Distilling Efficient Attention at Scale",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22941",
+        "title": "A Transformer-Derived Iterative Preconditioner",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22929",
+        "title": "Projected Penalty-Gradient Tracking for Communication-Efficient Byzantine-Resilient Federated Learning",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Artificial Intelligence (cs.AI)"
+      },
+      {
+        "arxiv_id": "2611.22921",
+        "title": "Action-outcome coupling: a pre-investment feasibility audit for offline reinforcement learning in supply chain operations",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Computational Engineering, Finance, and Science (cs.CE); Econometrics (econ.EM); Applications (stat.AP)"
+      },
+      {
+        "arxiv_id": "2611.22904",
+        "title": "Who Pays for Byzantine Robustness? Validity, Data-Share Dictatorships, and Fairness When Only a Few Hospitals Collaborate",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Cryptography and Security (cs.CR)"
+      },
+      {
+        "arxiv_id": "2611.22889",
+        "title": "Beyond Attribute-Centric Fairness: Modelling and Mitigating Unified Bias Representation in Omni-modal Large Language Models",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22873",
+        "title": "Path-Aligned Constraint Equivariance",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22859",
+        "title": "When the tail is earned by its companions: measuring label dependence in long-tailed multi-label classification",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Computation and Language (cs.CL); Information Retrieval (cs.IR)"
+      },
+      {
+        "arxiv_id": "2611.22854",
+        "title": "WATERFALL: Workflow for Adaptive Training with Evolutionary Reward Formulation and Automated Learning Loops",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Artificial Intelligence (cs.AI)"
+      },
+      {
+        "arxiv_id": "2611.22842",
+        "title": "SilverSpoon-KD: A General-Purpose Toolkit for Knowledge Distillation",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22806",
+        "title": "Virtual Double Oracle: Faster Convergence by Leveraging Strategies That Were Watching All Along",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Computer Science and Game Theory (cs.GT); Multiagent Systems (cs.MA)"
+      },
+      {
+        "arxiv_id": "2611.22782",
+        "title": "PANO: Parallel Latent Space Neural Operator for Solving PDEs",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Artificial Intelligence (cs.AI)"
+      },
+      {
+        "arxiv_id": "2611.22757",
+        "title": "LoopPrune: Recurrent Pruning for Looped Diffusion Transformers",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22721",
+        "title": "HADVQ: Hessian Aware Directional Vector Quantization",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22682",
+        "title": "CULypso: A Clustered Federated Unlearning paradigm for Vehicular Ad-Hoc Networks",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Artificial Intelligence (cs.AI); Networking and Internet Architecture (cs.NI)"
+      },
+      {
+        "arxiv_id": "2611.22658",
+        "title": "AlignedHPO: Efficient Surrogate-Guided Loss Hyperparameter Optimization",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Artificial Intelligence (cs.AI)"
+      },
+      {
+        "arxiv_id": "2611.22646",
+        "title": "The Price of Hard Coverage Constraints in Online Conformal Prediction",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Statistics Theory (math.ST); Machine Learning (stat.ML)"
+      },
+      {
+        "arxiv_id": "2611.22607",
+        "title": "DLS: Dual-Logic Graph Neural Networks with Chaos-Fuzzy Residuals for Robust Link Prediction",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Social and Information Networks (cs.SI)"
+      },
+      {
+        "arxiv_id": "2611.22595",
+        "title": "Lost in the Funnel: Selection-Induced Miscalibration in Ranking and Decision Systems",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22576",
+        "title": "ReMaRL: Learning to Unmask and Remask in Frozen Diffusion Language Models",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22549",
+        "title": "Physically Admissible Generative Flow Matching for Sparse Flow Reconstruction",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22537",
+        "title": "Testing World Models on Actions They Have Never Seen: Held-Out Plans, Forecast Accuracy and Price Rules in Retail",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Artificial Intelligence (cs.AI)"
+      },
+      {
+        "arxiv_id": "2611.22515",
+        "title": "Right Labels, Wrong Reasons: Signed Feature Attribution for Multi-Label Explainability",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Artificial Intelligence (cs.AI)"
+      },
+      {
+        "arxiv_id": "2611.22470",
+        "title": "Escaping Latent Traps by Remembering: Training-Free Episodic Kernel Repulsion for World-Model Planning",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22449",
+        "title": "How Many Training Labels Are Wrong? Auditing a Fitted Model through Gradient Allocation",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22438",
+        "title": "Eyes in the Update? Learning Where Rewards Land in Multimodal Reasoning",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Artificial Intelligence (cs.AI)"
+      },
+      {
+        "arxiv_id": "2611.22434",
+        "title": "Encoding, Decodability, and Use: A Five-Layer Framework for Benchmark Measurement Audits with Evidence from UAV Intent Recognition",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Artificial Intelligence (cs.AI)"
+      },
+      {
+        "arxiv_id": "2611.22426",
+        "title": "InfuseLoop: Cross-Trajectory Latent Injection for Scalable Parallel Looped Transformers",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22352",
+        "title": "Fair Bubble Sort: Provably Optimal Fair Ranking with Continuous Sensitive Attributes",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Computers and Society (cs.CY); Data Structures and Algorithms (cs.DS)"
+      },
+      {
+        "arxiv_id": "2611.22351",
+        "title": "Scaling Laws for Vision-Language Fusion",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Computer Vision and Pattern Recognition (cs.CV)"
+      },
+      {
+        "arxiv_id": "2611.22334",
+        "title": "BQ-LoRA: Binary-Quantized Low-Rank Adapters as Implicit Regularizers for Parameter-Efficient Fine-Tuning",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22308",
+        "title": "VRLLM: Turning LLMs into Powerful Tabular Classifiers",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Computation and Language (cs.CL)"
+      },
+      {
+        "arxiv_id": "2611.22295",
+        "title": "Similar Is Not Useful: Selecting In-Context Demonstrations by Closed-Loop Utility",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22294",
+        "title": "Perception into Imagination: Executable Memory for World Models",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Artificial Intelligence (cs.AI); Computer Vision and Pattern Recognition (cs.CV); Robotics (cs.RO)"
+      },
+      {
+        "arxiv_id": "2611.22250",
+        "title": "PCGRL for Complex Platformers: Synthesizing Playable and Diverse Levels via Inflated Envelopes and Forward Curricula",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Artificial Intelligence (cs.AI)"
+      },
+      {
+        "arxiv_id": "2611.22236",
+        "title": "Spatially local mini-batching for implicit neural representations",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22228",
+        "title": "What Does Weight-Space Programming Add to Diffusion Editing? Program Construction versus Score-Guided Refinement",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Computer Vision and Pattern Recognition (cs.CV)"
+      },
+      {
+        "arxiv_id": "2611.22227",
+        "title": "SOTA or Luck? The Winner's Curse in LLM Leaderboards",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Computation and Language (cs.CL); Methodology (stat.ME); Machine Learning (stat.ML)"
+      },
+      {
+        "arxiv_id": "2611.22218",
+        "title": "Learning Optimal Transport Plans Via Autoregressive Token Regression",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Artificial Intelligence (cs.AI)"
+      },
+      {
+        "arxiv_id": "2611.22215",
+        "title": "Communicate the Change: Efficient Expert Parallelism via Activation Compression",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Artificial Intelligence (cs.AI); Distributed, Parallel, and Cluster Computing (cs.DC)"
+      },
+      {
+        "arxiv_id": "2611.22210",
+        "title": "Sample-efficient Personalization of Large Language Model Alignment with Multidimensional User Preference Data",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22202",
+        "title": "An Optimization Framework for Denoising Generation",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22172",
+        "title": "Towards Optimism-Pessimism Trade-off in Model-based Offline-to-Online Reinforcement Learning",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22161",
+        "title": "What RL on Expert-Built Tasks Teaches Nemotron 3.5 Super",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Artificial Intelligence (cs.AI); Computation and Language (cs.CL); Software Engineering (cs.SE)"
+      },
+      {
+        "arxiv_id": "2611.22144",
+        "title": "When does deep reinforcement learning pay off in HVAC supervisory control? Four small Modelica case studies trained directly on FMUs",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Artificial Intelligence (cs.AI); Systems and Control (eess.SY)"
+      },
+      {
+        "arxiv_id": "2611.22140",
+        "title": "Synthetic Crystal Data Generation for Diffusion Pretraining in Material Property Prediction",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Materials Science (cond-mat.mtrl-sci)"
+      },
+      {
+        "arxiv_id": "2611.22133",
+        "title": "ReMoE: An Interpretable Mixture-of-Experts Framework for Human Mobility Recovery Forecasting Across Disasters",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Computers and Society (cs.CY)"
+      },
+      {
+        "arxiv_id": "2611.22128",
+        "title": "TempQuant: Learning Adaptive Temperatures for Quantized Language Models",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22109",
+        "title": "VTT: Reading Vehicle Size and Powertrain Type from Motion Trajectory Across Unseen Car Models",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Robotics (cs.RO)"
+      },
+      {
+        "arxiv_id": "2611.22098",
+        "title": "Every Measurement, Every Direction, All at Once: Multimodal Flow Matching for Molecules and Spectra",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Chemical Physics (physics.chem-ph)"
+      },
+      {
+        "arxiv_id": "2611.22083",
+        "title": "BernBRS: Certified Backward Reachability for Deep Bernstein Neural Networks",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22065",
+        "title": "Two Counterexamples for e-means",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Machine Learning (stat.ML)"
+      },
+      {
+        "arxiv_id": "2611.22055",
+        "title": "Weight-Space Programming Doesn't Need Transformers",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Artificial Intelligence (cs.AI); Computation and Language (cs.CL)"
+      },
+      {
+        "arxiv_id": "2611.22052",
+        "title": "RiDEx: Reward-Informed Directional Exploration for Diffusion Reinforcement Learning",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Computer Vision and Pattern Recognition (cs.CV)"
+      },
+      {
+        "arxiv_id": "2611.22050",
+        "title": "DSADiff: Data Structure-Aware Diffusion for Crystal Structure Prediction via Mitigating Complexity- and Imbalance-Induced Biases",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Materials Science (cond-mat.mtrl-sci)"
+      },
+      {
+        "arxiv_id": "2611.22038",
+        "title": "GP--RL--MPC: Uncertainty-Aware Reinforcement Learning-Augmented Model Predictive Control with Gaussian Process Postdecision State-Value Functions",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Systems and Control (eess.SY)"
+      },
+      {
+        "arxiv_id": "2611.22024",
+        "title": "An AI-Based OSSE Framework to Evaluate Learned Physical Consistency: A Multi-Model Study Using FourCastNet, Aurora, Prithvi WxC, and GraphCast",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22000",
+        "title": "How Much Distribution Shift Can a Clustering Withstand? Exact Split and Merge Certificates for Structured Transports",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.21983",
+        "title": "Large Language Models as Nonlinear Dynamical Systems: The Three Clocks of Depth, Training, and Generation",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Computation and Language (cs.CL); Dynamical Systems (math.DS); Chaotic Dynamics (nlin.CD)"
+      },
+      {
+        "arxiv_id": "2611.21964",
+        "title": "Solver to System: LLM Reasoning Across Representations and Execution in Scientific Simulation",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Computation and Language (cs.CL)"
+      },
+      {
+        "arxiv_id": "2611.21958",
+        "title": "Weight-space programming for tractor guidance controller: large language models natively write neural network weights that steer a real tractor",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Artificial Intelligence (cs.AI); Robotics (cs.RO); Systems and Control (eess.SY)"
+      },
+      {
+        "arxiv_id": "2611.21952",
+        "title": "A Log-Timescale Perturbation Bound for Selective State Space Models at Every Sequence Length",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.21935",
+        "title": "Higher-Order Interaction Reconstruction via Integral Physics-Informed Neural Networks",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Systems and Control (eess.SY)"
+      },
+      {
+        "arxiv_id": "2611.21933",
+        "title": "Physics-informed neural networks for spacecraft trajectory optimization with exact boundary conditions",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.21920",
+        "title": "KVUse: Reusable-KV User Memory for Efficient LLM Recommenders",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.21917",
+        "title": "Lost in a Few Heads: Diagnosing and Repairing Block Selection in Sparse Attention",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.21914",
+        "title": "A Temporal Algebraic Framework for Data Stream Evaluation Under Delayed Labels and Distribution Shifts",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Artificial Intelligence (cs.AI); Databases (cs.DB)"
+      },
+      {
+        "arxiv_id": "2611.21895",
+        "title": "World-Grounded Reinforcement Learning for Pollution-Aware Bird Movement Modeling Using a Multi-Instance DQN Framework",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.21882",
+        "title": "WM-Quant: Rollout-Aware Post-Training Quantization for JEPA-Style World Models",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.21880",
+        "title": "Cancellation-Free Constrained SquareCB for Safe Controller Selection",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Artificial Intelligence (cs.AI); Machine Learning (stat.ML)"
+      },
+      {
+        "arxiv_id": "2611.21879",
+        "title": "Adaptive Memory for Online Reinforcement Learning under Sparse Model Changes",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Machine Learning (stat.ML)"
+      },
+      {
+        "arxiv_id": "2611.21865",
+        "title": "PromptPack: Training-Free Augmentation of Diffusion Editors for Intent-Aligned Spatial and Semantic Control",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Artificial Intelligence (cs.AI); Computer Vision and Pattern Recognition (cs.CV)"
+      },
+      {
+        "arxiv_id": "2611.21857",
+        "title": "tmol: a GPU-accelerated implementation of the Rosetta energy function for machine learning",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.21852",
+        "title": "The Hidden Cost of MoE Diffusion Decoding: Profiling and Fixing the Sampler",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Artificial Intelligence (cs.AI); Computation and Language (cs.CL)"
+      },
+      {
+        "arxiv_id": "2611.21849",
+        "title": "When Does Discrete Ricci Curvature Help? An Edge-Level Analysis of Curvature-Enhanced GCNs for PPI Prediction",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.21847",
+        "title": "Inventa: Decentralized Self-Improving Agents for Autonomous Scientific Discovery",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Artificial Intelligence (cs.AI)"
+      },
+      {
+        "arxiv_id": "2611.21839",
+        "title": "VisHead-Spec: Head-Routed Visual Attention for Multimodal Speculative Decoding",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Computer Vision and Pattern Recognition (cs.CV)"
+      },
+      {
+        "arxiv_id": "2611.21825",
+        "title": "Urban Representation Learning for Identifying Potential Disparities in Crime Reporting",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Computers and Society (cs.CY); Information Retrieval (cs.IR)"
+      },
+      {
+        "arxiv_id": "2611.21791",
+        "title": "Regularized Score Centering",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.21769",
+        "title": "Learning Calibrated and Samplable Predictive Distributions of Surface-Ocean $Δp$CO$_2$ Using Tabular Diffusion Models",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Atmospheric and Oceanic Physics (physics.ao-ph)"
+      },
+      {
+        "arxiv_id": "2611.21766",
+        "title": "Margin Dynamics for Large Language Model Alignment",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Artificial Intelligence (cs.AI)"
+      },
+      {
+        "arxiv_id": "2611.21701",
+        "title": "Hybrid Quantum Selection of Learning Rates in Language-Model Training: Termination Criteria and an Interaction-Guided Schedule Oracle",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.21698",
+        "title": "FACE: Flow-Guided Angular Channel Estimation Framework for mmWave MIMO Systems",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.21696",
+        "title": "Layerwise Learning-Rate Scaling in Vision Networks: Effective-Rate Identification, Power-Mean Aggregation, and Budget Dependence",
+        "subjects": "Subjects: Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.21694",
+        "title": "TIBECG: Temporal Information Bottleneck for Lead-Specific Demographic Privacy in ECG Waveform Release",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Artificial Intelligence (cs.AI); Cryptography and Security (cs.CR); Signal Processing (eess.SP)"
+      },
+      {
+        "arxiv_id": "2611.21691",
+        "title": "AdaFlowLite: Scalable and Non-blocking Inference on Asynchronous Mobile Data",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Artificial Intelligence (cs.AI)"
+      },
+      {
+        "arxiv_id": "2611.21688",
+        "title": "DeltaHarness: Self-Evolving Harnesses for Resource-Adaptive Tool Execution",
+        "subjects": "Subjects: Machine Learning (cs.LG) ; Performance (cs.PF)"
+      },
+      {
+        "arxiv_id": "2611.23228",
+        "title": "Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models",
+        "subjects": "Subjects: Computer Vision and Pattern Recognition (cs.CV) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.23221",
+        "title": "An inexact stochastic variance-reduced gradient method for constrained convex finite-sum optimization",
+        "subjects": "Subjects: Optimization and Control (math.OC) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.23218",
+        "title": "What Does a Bias Head Measure? Non-Identifiability in Head-Level Bias Attribution",
+        "subjects": "Subjects: Computation and Language (cs.CL) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.23216",
+        "title": "Higher-Scoring Coding Models Did Not Get More Work Done",
+        "subjects": "Subjects: Software Engineering (cs.SE) ; Artificial Intelligence (cs.AI); Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.23211",
+        "title": "Multimodal Masked Diffusion Autoencoder for Modeling Impaired Driving",
+        "subjects": "Subjects: Computer Vision and Pattern Recognition (cs.CV) ; Machine Learning (cs.LG); Robotics (cs.RO)"
+      },
+      {
+        "arxiv_id": "2611.23192",
+        "title": "WoRD: Diffusion-Based Posterior Inference for Online Goal Recognition",
+        "subjects": "Subjects: Artificial Intelligence (cs.AI) ; Machine Learning (cs.LG); Robotics (cs.RO)"
+      },
+      {
+        "arxiv_id": "2611.23177",
+        "title": "Déjà View: A Shared Working-Memory Model for Visual Tasks",
+        "subjects": "Subjects: Computer Vision and Pattern Recognition (cs.CV) ; Machine Learning (cs.LG); Neurons and Cognition (q-bio.NC)"
+      },
+      {
+        "arxiv_id": "2611.23158",
+        "title": "MoE--LoRA Methods for Multilingual Adaptation: A Systematic Empirical Study",
+        "subjects": "Subjects: Computation and Language (cs.CL) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.23149",
+        "title": "Capability Composition in Heterogeneous Teams via Barrier-Guided Diffusion Sampling",
+        "subjects": "Subjects: Robotics (cs.RO) ; Machine Learning (cs.LG); Multiagent Systems (cs.MA); Systems and Control (eess.SY)"
+      },
+      {
+        "arxiv_id": "2611.23138",
+        "title": "RSI-Prime: Training Models to Train Models",
+        "subjects": "Subjects: Artificial Intelligence (cs.AI) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.23126",
+        "title": "Which Past Matters? Training History and Multi-Forecast Horizon in Equity Transformers",
+        "subjects": "Subjects: Statistical Finance (q-fin.ST) ; Machine Learning (cs.LG); Computational Finance (q-fin.CP)"
+      },
+      {
+        "arxiv_id": "2611.23118",
+        "title": "Auditing a Learned Simulator for Legged Robots: The Robotic World Model on ANYmal D",
+        "subjects": "Subjects: Robotics (cs.RO) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.23111",
+        "title": "Event-Based Dynamic Lip Region Estimation During Speech",
+        "subjects": "Subjects: Computer Vision and Pattern Recognition (cs.CV) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.23093",
+        "title": "What's in a Tree ? Hierarchical $n$-gram models as controlled approximators of language",
+        "subjects": "Subjects: Computation and Language (cs.CL) ; Disordered Systems and Neural Networks (cond-mat.dis-nn); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.23074",
+        "title": "Runtime Verification of Multiple Natural Language Criteria for Agent Governance",
+        "subjects": "Subjects: Computation and Language (cs.CL) ; Artificial Intelligence (cs.AI); Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.23072",
+        "title": "Amortizing Tempered Sampling with Corrected Self-Training",
+        "subjects": "Subjects: Machine Learning (stat.ML) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.23055",
+        "title": "FrameRouter: Frame Budget Routing for Long-Video Understanding on Video-MME-v2 and Beyond",
+        "subjects": "Subjects: Artificial Intelligence (cs.AI) ; Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.23050",
+        "title": "Magflow: Differentiable Simulation of Industrial-Grade 6D Magnetic Levitation",
+        "subjects": "Subjects: Robotics (cs.RO) ; Machine Learning (cs.LG); Systems and Control (eess.SY)"
+      },
+      {
+        "arxiv_id": "2611.23049",
+        "title": "Reversing the text is not reversing the path: a fixed-text measure without a zero, and an assembly-order comparison that vanishes identically",
+        "subjects": "Subjects: Physics and Society (physics.soc-ph) ; Statistical Mechanics (cond-mat.stat-mech); Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.23042",
+        "title": "Uncovering the Invisible in Routine Radiology: Cross-Modal Detection of MRI-Verified Soft-Tissue Pathologies from CBCT via Physics-Guided 3D Self-Supervised Learning",
+        "subjects": "Subjects: Image and Video Processing (eess.IV) ; Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.23038",
+        "title": "When Anchors Shift the Target: Advantage-Gated Adaptation for Diffusion Reinforcement Learning",
+        "subjects": "Subjects: Computer Vision and Pattern Recognition (cs.CV) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22998",
+        "title": "Residual-Guided Lightweight Reinforcement Learning for Risk-Aware Trajectory Selection with a Frozen World Model",
+        "subjects": "Subjects: Artificial Intelligence (cs.AI) ; Emerging Technologies (cs.ET); Machine Learning (cs.LG); Robotics (cs.RO); Systems and Control (eess.SY)"
+      },
+      {
+        "arxiv_id": "2611.22962",
+        "title": "Hierarchical Diffusion Transformer for End-to-End Image Generation",
+        "subjects": "Subjects: Computer Vision and Pattern Recognition (cs.CV) ; Artificial Intelligence (cs.AI); Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22956",
+        "title": "Is model self-assessment enough for diverse LVLM ensembles?",
+        "subjects": "Subjects: Computer Vision and Pattern Recognition (cs.CV) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22948",
+        "title": "Symmetries of Counterfactuals: Identification and Testability of Counterfactual Maps from Covariate Heterogeneity",
+        "subjects": "Subjects: Machine Learning (stat.ML) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22878",
+        "title": "Outcome-Balanced PPO and Policy-Induced Flow Rectification for Flow-Based VLA Policies",
+        "subjects": "Subjects: Artificial Intelligence (cs.AI) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22828",
+        "title": "TabDAG: Structured Evolutionary Search for Tabular Feature Engineering",
+        "subjects": "Subjects: Neural and Evolutionary Computing (cs.NE) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22826",
+        "title": "OICycle: Observe, Infer, and Intervene Cycle for Belief-State Learning in Longitudinal Clinical Decision Making",
+        "subjects": "Subjects: Artificial Intelligence (cs.AI) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22759",
+        "title": "Robust Actor-Critic Learning under Transport and Divergence Uncertainty",
+        "subjects": "Subjects: Machine Learning (stat.ML) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22743",
+        "title": "Stochastic Diversity Windows: Diagnosing Noise Influence in Robotic Diffusion Sampling",
+        "subjects": "Subjects: Robotics (cs.RO) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22737",
+        "title": "Proximal Targets: Training Looped Refiners on Problems with Many Correct Answers",
+        "subjects": "Subjects: Artificial Intelligence (cs.AI) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22728",
+        "title": "LoopZip: Visual Token Compression for Efficient Looped Vision-Language Models",
+        "subjects": "Subjects: Computer Vision and Pattern Recognition (cs.CV) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22704",
+        "title": "Social Signal Bench: Evidence-Weighted Evaluation of Co-occurring Social Signals in Video and Audio",
+        "subjects": "Subjects: Computer Vision and Pattern Recognition (cs.CV) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22636",
+        "title": "Sub-Meter Canopy Height Synthesis from Sentinel-2 via Anchored Residual Flow",
+        "subjects": "Subjects: Computer Vision and Pattern Recognition (cs.CV) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22635",
+        "title": "A Quantum Support Vector Regression Framework for Missing Data Imputation in Ship Performance Data",
+        "subjects": "Subjects: Quantum Physics (quant-ph) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22611",
+        "title": "DAQ: Decision-Aligned Post-Training Quantization for Spiking Transformers",
+        "subjects": "Subjects: Artificial Intelligence (cs.AI) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22609",
+        "title": "Task Convergent Flow Matching for Generative Robotics",
+        "subjects": "Subjects: Robotics (cs.RO) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22597",
+        "title": "COTTI: Contrastive Training and Time-Aware Inference for Robust Industrial Recommendation under Promotional Drift",
+        "subjects": "Subjects: Artificial Intelligence (cs.AI) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22596",
+        "title": "Propose with the Gradient, Accept with the Loss: One Hedged Attack for Pixel-Sparse Robustness",
+        "subjects": "Subjects: Computer Vision and Pattern Recognition (cs.CV) ; Cryptography and Security (cs.CR); Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22591",
+        "title": "PACT: Plan-Action Consistency Training by Preserving Correct Plans and Repairing Actions in GUI Agents",
+        "subjects": "Subjects: Artificial Intelligence (cs.AI) ; Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22557",
+        "title": "Balancing Exploration and Exploitation in Constrained Combinatorial Optimization with U(1)-Symmetric Tensor Trains",
+        "subjects": "Subjects: Optimization and Control (math.OC) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22548",
+        "title": "Temporal Diffusion Models for Joint Signal-Channel Estimation under Gaussian and $α$-Stable MIMO Channels",
+        "subjects": "Subjects: Signal Processing (eess.SP) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22504",
+        "title": "Efficient Self-Supervised Adaptation of 3D Abdominal Vision-Language Model for Institution-Specific HCC Classification via Full Fine-Tuning and PEFT",
+        "subjects": "Subjects: Computer Vision and Pattern Recognition (cs.CV) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22483",
+        "title": "Manufacturing Differential Sparsity: Planner-Hardware Co-Design for Efficient World Model Planning",
+        "subjects": "Subjects: Hardware Architecture (cs.AR) ; Artificial Intelligence (cs.AI); Machine Learning (cs.LG); Robotics (cs.RO); Systems and Control (eess.SY)"
+      },
+      {
+        "arxiv_id": "2611.22458",
+        "title": "Sample-Aligned Decoders for Latent Generative Models",
+        "subjects": "Subjects: Computer Vision and Pattern Recognition (cs.CV) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22456",
+        "title": "PACD: Provenance-Aware Consensus Decoding for Mitigating Cross-Modal Hallucinations in Omnimodal Large Language Models",
+        "subjects": "Subjects: Artificial Intelligence (cs.AI) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22444",
+        "title": "Efficient Machine Learning Interatomic Potentials",
+        "subjects": "Subjects: Materials Science (cond-mat.mtrl-sci) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22427",
+        "title": "Do Diffusion Models Learn to Generalize Basic Visual Skills?",
+        "subjects": "Subjects: Computer Vision and Pattern Recognition (cs.CV) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22396",
+        "title": "From Constraints to Causality: Petri net Encodings for Explaining Binary Neural Network Inference",
+        "subjects": "Subjects: Logic in Computer Science (cs.LO) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22330",
+        "title": "Multistage Contextual Optimization for Vehicle Repositioning",
+        "subjects": "Subjects: Artificial Intelligence (cs.AI) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22328",
+        "title": "PVTSizing 2.0: A Fast and Reliable Analog Circuit Sizing Operator for Agentic EDA Workflows",
+        "subjects": "Subjects: Hardware Architecture (cs.AR) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22312",
+        "title": "Zero-Dimensional Attention Topology for Linguistic Acceptability",
+        "subjects": "Subjects: Computation and Language (cs.CL) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22288",
+        "title": "ConfGuard: a physics-grounded reference monitor for predictive-maintenance large-language-model agents",
+        "subjects": "Subjects: Artificial Intelligence (cs.AI) ; Cryptography and Security (cs.CR); Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22280",
+        "title": "XM-Sparse: High-Throughput Sparse-Attention LLM Serving over Scale-up Memory Pools",
+        "subjects": "Subjects: Distributed, Parallel, and Cluster Computing (cs.DC) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22275",
+        "title": "Heave-Ho: Decentralized Long-Horizon Multi-Humanoid Collaboration",
+        "subjects": "Subjects: Robotics (cs.RO) ; Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22262",
+        "title": "OfficePrism: Benchmarking Agents on Single-Domain Operations Across Enterprise Business Functions",
+        "subjects": "Subjects: Computation and Language (cs.CL) ; Artificial Intelligence (cs.AI); Machine Learning (cs.LG); Software Engineering (cs.SE)"
+      },
+      {
+        "arxiv_id": "2611.22248",
+        "title": "OAK-Mind: Zero-Training Mental Health Change Inference from Passive Sensing via Knowledge-Grounded Multi-Agent LLMs",
+        "subjects": "Subjects: Multiagent Systems (cs.MA) ; Artificial Intelligence (cs.AI); Human-Computer Interaction (cs.HC); Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22231",
+        "title": "From Temperature-Limited to Battery-Limited Legged Locomotion",
+        "subjects": "Subjects: Robotics (cs.RO) ; Machine Learning (cs.LG); Systems and Control (eess.SY)"
+      },
+      {
+        "arxiv_id": "2611.22230",
+        "title": "Discovery of new antiviral agents through artificial intelligence: in vitro and in vivo results",
+        "subjects": "Subjects: Biomolecules (q-bio.BM) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22204",
+        "title": "Flocking Time and Graph Volume in Nonlinear Cucker-Smale Models with Dynamic Networks",
+        "subjects": "Subjects: Dynamical Systems (math.DS) ; Machine Learning (cs.LG); Adaptation and Self-Organizing Systems (nlin.AO)"
+      },
+      {
+        "arxiv_id": "2611.22191",
+        "title": "RISA: Recoverable Sparse Attention for Block-Diffusion Language Models",
+        "subjects": "Subjects: Computation and Language (cs.CL) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22158",
+        "title": "Centroid Spectral Coupling: Implicit Alignment and Representation Diversity in Self-Supervised Learning",
+        "subjects": "Subjects: Computer Vision and Pattern Recognition (cs.CV) ; Machine Learning (cs.LG); Machine Learning (stat.ML)"
+      },
+      {
+        "arxiv_id": "2611.22131",
+        "title": "LoCaR: Localized Canvas Retrieval With Frozen Vision-Language Model",
+        "subjects": "Subjects: Artificial Intelligence (cs.AI) ; Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22130",
+        "title": "Bandit Online Submodular Minimisation Using Zeroth-Order Oracles",
+        "subjects": "Subjects: Machine Learning (stat.ML) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22120",
+        "title": "What MoE Routing Controls: Causal Interventions on Expert Trajectories",
+        "subjects": "Subjects: Computation and Language (cs.CL) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22094",
+        "title": "When AUC Meets Generative Reconstruction: A Unified Principle for Balanced Visual Representation Learning",
+        "subjects": "Subjects: Computer Vision and Pattern Recognition (cs.CV) ; Artificial Intelligence (cs.AI); Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22069",
+        "title": "MedGuardBench: A Patient-Oriented Benchmark for Personalized Guardrail Development",
+        "subjects": "Subjects: Artificial Intelligence (cs.AI) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22067",
+        "title": "Addressing Exogenous Variability in Cooperative Multi-Agent Reinforcement Learning",
+        "subjects": "Subjects: Multiagent Systems (cs.MA) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22054",
+        "title": "A single inference process underlies the behavior and neural circuits of working memory",
+        "subjects": "Subjects: Neurons and Cognition (q-bio.NC) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22039",
+        "title": "RLDE: A Reinforcement Learning Framework for Interpretable Iterative Document Editing",
+        "subjects": "Subjects: Computation and Language (cs.CL) ; Artificial Intelligence (cs.AI); Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22019",
+        "title": "Computed Permutation Trellis Coding: Near-Optimal Quantization from Two Multiplications and a 64-Byte Table",
+        "subjects": "Subjects: Information Theory (cs.IT) ; Artificial Intelligence (cs.AI); Hardware Architecture (cs.AR); Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22017",
+        "title": "SkillBuffBench: Measuring What Agent Skills Contribute across Harnesses, Models, Skill Access Modes and Memory",
+        "subjects": "Subjects: Artificial Intelligence (cs.AI) ; Computation and Language (cs.CL); Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.22010",
+        "title": "On Formal Counterfactual Explanations",
+        "subjects": "Subjects: Artificial Intelligence (cs.AI) ; Machine Learning (cs.LG); Logic in Computer Science (cs.LO)"
+      },
+      {
+        "arxiv_id": "2611.21995",
+        "title": "Deciding Without Pointing: A Case Study of Whether a Decision Model Localizes the Anomalies It Detects",
+        "subjects": "Subjects: Computer Vision and Pattern Recognition (cs.CV) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.21980",
+        "title": "Modeling Document and Section Hierarchies in Embedding Space",
+        "subjects": "Subjects: Machine Learning (stat.ML) ; Artificial Intelligence (cs.AI); Computation and Language (cs.CL); Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.21976",
+        "title": "Sparse Integer Fourier Transform and Its Application In Machine Learning",
+        "subjects": "Subjects: Mathematical Software (cs.MS) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.21974",
+        "title": "Beyond Bitwidth: Deployment-Constrained Mixed-Precision Quantization for Multilingual LLM Inference on NVIDIA Blackwell",
+        "subjects": "Subjects: Information Retrieval (cs.IR) ; Computation and Language (cs.CL); Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.21959",
+        "title": "OCCAM: Improved Single-Cell Representation Learning and Perturbation Effect Prediction",
+        "subjects": "Subjects: Quantitative Methods (q-bio.QM) ; Artificial Intelligence (cs.AI); Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.21954",
+        "title": "ThermLeT: Transformer-based Temperature Prediction for 2.5D Chiplet Architecture",
+        "subjects": "Subjects: Hardware Architecture (cs.AR) ; Artificial Intelligence (cs.AI); Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.21946",
+        "title": "Conserved Verdicts, Drifting Commitments: Identifying Harmful Overthinking",
+        "subjects": "Subjects: Artificial Intelligence (cs.AI) ; Computation and Language (cs.CL); Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.21945",
+        "title": "Benchmarking Deep Learning Models for Wheelchair Configuration Classification in Accessible Automated Vehicle Applications",
+        "subjects": "Subjects: Computer Vision and Pattern Recognition (cs.CV) ; Artificial Intelligence (cs.AI); Machine Learning (cs.LG); Robotics (cs.RO)"
+      },
+      {
+        "arxiv_id": "2611.21940",
+        "title": "Does the Model Use What It Cites? Counterfactual Tests of Grounded Reasoning Chains in Small Video-Language Models",
+        "subjects": "Subjects: Computer Vision and Pattern Recognition (cs.CV) ; Artificial Intelligence (cs.AI); Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.21938",
+        "title": "HubEgo-100K: In-the-Wild Egocentric Video of Skilled Work for Robot Learning",
+        "subjects": "Subjects: Robotics (cs.RO) ; Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.21932",
+        "title": "V2V Communications Using Blockchain-Enabled 6G Technology and Federated Learning",
+        "subjects": "Subjects: Networking and Internet Architecture (cs.NI) ; Artificial Intelligence (cs.AI); Cryptography and Security (cs.CR); Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.21927",
+        "title": "Polylogarithmic Regret via Certainty Equivalence in Degenerate LQR",
+        "subjects": "Subjects: Optimization and Control (math.OC) ; Machine Learning (cs.LG); Systems and Control (eess.SY)"
+      },
+      {
+        "arxiv_id": "2611.21923",
+        "title": "Wrong Input, Wrong Threshold: Re-evaluating Adversarial Facial Privacy",
+        "subjects": "Subjects: Computer Vision and Pattern Recognition (cs.CV) ; Cryptography and Security (cs.CR); Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.21921",
+        "title": "Latent Fact Composition under Next-Token Training",
+        "subjects": "Subjects: Computation and Language (cs.CL) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.21919",
+        "title": "ALOHA Lightning: Learning Fast and Precise Manipulation",
+        "subjects": "Subjects: Robotics (cs.RO) ; Artificial Intelligence (cs.AI); Machine Learning (cs.LG); Systems and Control (eess.SY)"
+      },
+      {
+        "arxiv_id": "2611.21844",
+        "title": "Bias-Reduced and Parallel Heavy-Tailed Stochastic Convex Optimization in $\\ell_p$ Geometries",
+        "subjects": "Subjects: Optimization and Control (math.OC) ; Machine Learning (cs.LG); Machine Learning (stat.ML)"
+      },
+      {
+        "arxiv_id": "2611.21840",
+        "title": "Quantum-Classical Separation in Probability Distribution Transport via Nonlocal Games",
+        "subjects": "Subjects: Quantum Physics (quant-ph) ; Computational Complexity (cs.CC); Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.21828",
+        "title": "Coordination of Heterogeneous Teams with Uncertain Task Requirements",
+        "subjects": "Subjects: Multiagent Systems (cs.MA) ; Artificial Intelligence (cs.AI); Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.21802",
+        "title": "Data-Driven Variable-Length Compression of 3D Representations",
+        "subjects": "Subjects: Computer Vision and Pattern Recognition (cs.CV) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.21799",
+        "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
+        "subjects": "Subjects: Artificial Intelligence (cs.AI) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.21783",
+        "title": "Better Calibrated, Better Planned: Uncertainty-Aware Multi-ASV Informative Path Planning for Oil Spill Monitoring",
+        "subjects": "Subjects: Robotics (cs.RO) ; Machine Learning (cs.LG); Multiagent Systems (cs.MA)"
+      },
+      {
+        "arxiv_id": "2611.21707",
+        "title": "Bookkeeping Is Not Judgement: EJBench, an Engineering Judgement Benchmark Built from a Conjugate Heat Transfer Design Campaign",
+        "subjects": "Subjects: Computational Engineering, Finance, and Science (cs.CE) ; Artificial Intelligence (cs.AI); Computation and Language (cs.CL); Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.21706",
+        "title": "Video recordings and play behaviour annotations of group-housed dairy calves on two Dutch farms",
+        "subjects": "Subjects: Computer Vision and Pattern Recognition (cs.CV) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.21705",
+        "title": "Disambiguating Moral Circuits and Moral Features in Language Models: Moral content, normative judgment or cue words? Evidence from 14 models",
+        "subjects": "Subjects: Computation and Language (cs.CL) ; Artificial Intelligence (cs.AI); Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.21695",
+        "title": "Stop Early, Stay Simple: Evidence Acquisition for Power System Fault and Attack Diagnosis",
+        "subjects": "Subjects: Cryptography and Security (cs.CR) ; Artificial Intelligence (cs.AI); Machine Learning (cs.LG); Systems and Control (eess.SY)"
+      },
+      {
+        "arxiv_id": "2611.21680",
+        "title": "Edge-Adaptive Hiera-Seg Model for Building-Integrated Photovoltaic Power Forecasting",
+        "subjects": "Subjects: Computer Vision and Pattern Recognition (cs.CV) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.21678",
+        "title": "RTLReviewBench: LLM Hardware Reviewers Rarely Miss Bugs but Routinely Reject Correct RTL",
+        "subjects": "Subjects: Hardware Architecture (cs.AR) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.21674",
+        "title": "Improving Early Detection of Scientifically Interesting Radio Sources Using Enhanced Isolation Forest",
+        "subjects": "Subjects: Instrumentation and Methods for Astrophysics (astro-ph.IM) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.21669",
+        "title": "Token Commitment as a Control Surface for Steering Masked Diffusion Generation",
+        "subjects": "Subjects: Computation and Language (cs.CL) ; Artificial Intelligence (cs.AI); Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2611.21646",
+        "title": "Limite 1B - Violetto: Technical Report",
+        "subjects": "Subjects: Computation and Language (cs.CL) ; Machine Learning (cs.LG)"
+      },
+      {
+        "arxiv_id": "2607.18174",
+        "title": "Improved Convergence Rates for Stochastic Multi-Gradient Descent which Close the Gap: A Proof by AI",
+        "subjects": "Subjects: Optimization and Control (math.OC) ; Artificial Intelligence (cs.AI); Machine Learning (cs.LG)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "ledger_before": 579,
+  "ledger_after": 582,
+  "added": 3,
+  "new_dois": [
+    "10.1038/s41598-026-80838-x",
+    "10.1140/epjp/s13360-026-08572-x",
+    "10.48550/arXiv.2611.22165"
+  ],
+  "in_place_upgrade": {
+    "old_doi": "10.48550/arXiv.2606.21221",
+    "new_doi": "10.1103/gg1s-rxrg",
+    "basis": "same authors, near-identical abstract/model/figure scenarios; renamed accepted title; retained actual author version"
+  },
+  "previous_completed_objects_unchanged": 578,
+  "retry_before": 71,
+  "retry_after": 72,
+  "previous_retry_objects_unchanged": true,
+  "new_work_doi_title_arxiv_checks_passed": true,
+  "candidate_relations": "TNSA 2512.21279 is same work as journal paper; CFI renamed accepted title same old work; two companions not invented"
+}

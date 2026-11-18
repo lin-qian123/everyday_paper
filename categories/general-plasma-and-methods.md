@@ -2,11 +2,12 @@
 
 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。
 
-- 当前收录：122 篇
-- 索引更新时间：2026-11-18
+- 当前收录：123 篇
+- 索引更新时间：2026-11-19
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-19 | [Learning Similarity-Reduced Ion Kinetics across Scales and Regimes in Capacitively Coupled Plasmas](../papers/arxiv-2611-22165/README.md) | arXiv preprint; submitted to Applied Physics Letters, not verified accepted | [笔记](../daily/2026-11-19/notes/zhang-2026-ion-kinetics.md) |
 | 2026-11-18 | [Linear Electrostatic Instabilities Driven by Relativistic Non-Maxwellian Pair Beams](../papers/10-3390-plasma9040049/README.md) | Plasma 9(4), 49 (publisher VOR) | [笔记](../daily/2026-11-18/notes/dey-2026-pair-beams.md) |
 | 2026-11-18 | [A spherical body in plasma simulated with adaptive mesh and algorithm refinement](../papers/arxiv-2611-21466/README.md) | arXiv preprint | [笔记](../daily/2026-11-18/notes/kolobov-2026-sphere.md) |
 | 2026-11-16 | [Simulation studies of resonant excitation of electron Bernstein waves in capacitive discharges](../papers/10-1103-cv7h-ghnk/README.md) | Physical Review E | [笔记](../daily/2026-11-16/notes/gautam-2026-bernstein-discharge.md) |

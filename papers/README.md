@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：579 篇
-- 索引更新时间：2026-11-18
+- 当前入库论文：582 篇
+- 索引更新时间：2026-11-19
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-11-19 | [Monte Carlo assessment of a D–T neutron generator-based beam shaping assembly for BNCT: moderator effects on neutron spectrum and dose](./10-1038-s41598-026-80838-x/README.md) | Scientific Reports | [10.1038/s41598-026-80838-x](https://doi.org/10.1038/s41598-026-80838-x) |
+| 2026-11-19 | [Multivariate scaling of proton and ion energies, divergence, and charge states in laser-driven Target Normal Sheath Acceleration](./10-1140-epjp-s13360-026-08572-x/README.md) | The European Physical Journal Plus | [10.1140/epjp/s13360-026-08572-x](https://doi.org/10.1140/epjp/s13360-026-08572-x) |
+| 2026-11-19 | [Learning Similarity-Reduced Ion Kinetics across Scales and Regimes in Capacitively Coupled Plasmas](./arxiv-2611-22165/README.md) | arXiv preprint; submitted to Applied Physics Letters, not verified accepted | [10.48550/arXiv.2611.22165](https://doi.org/10.48550/arXiv.2611.22165) |
 | 2026-11-18 | [Physics-guided deep learning for high resolution X-ray free-electron laser imaging](./10-1038-s41598-026-80553-7/README.md) | Scientific Reports (Article in Press; final VOR not acquired) | [10.1038/s41598-026-80553-7](https://doi.org/10.1038/s41598-026-80553-7) |
 | 2026-11-18 | [Linear Electrostatic Instabilities Driven by Relativistic Non-Maxwellian Pair Beams](./10-3390-plasma9040049/README.md) | Plasma 9(4), 49 (publisher VOR) | [10.3390/plasma9040049](https://doi.org/10.3390/plasma9040049) |
 | 2026-11-18 | [A spherical body in plasma simulated with adaptive mesh and algorithm refinement](./arxiv-2611-21466/README.md) | arXiv preprint | [10.48550/arXiv.2611.21466](https://doi.org/10.48550/arXiv.2611.21466) |
@@ -450,8 +453,8 @@
 | 2026-06-25 | [Multi-objective Bayesian optimisation of a double-layer target for quasi-monoenergetic TNSA protons](./arxiv-2606-23224/README.md) | arXiv（预印本） | [10.48550/arXiv.2606.23224](https://doi.org/10.48550/arXiv.2606.23224) |
 | 2026-06-25 | [Observation of stopping power reduction at strong ion-plasma coupling](./arxiv-2606-23109/README.md) | arXiv（预印本） | [10.48550/arXiv.2606.23109](https://doi.org/10.48550/arXiv.2606.23109) |
 | 2026-06-24 | [Analytical calculation of the spectrum of nonlinear Compton scattering beyond local approximations](./arxiv-2606-22427/README.md) | arXiv（预印本） | [10.48550/arXiv.2606.22427](https://doi.org/10.48550/arXiv.2606.22427) |
-| 2026-06-24 | [Effect of Noise on Spatio-Temporal Evolution of Current Filamentation Instability in Relativistic Beam-Plasma Systems](./arxiv-2606-21221/README.md) | arXiv（预印本） | [10.48550/arXiv.2606.21221](https://doi.org/10.48550/arXiv.2606.21221) |
 | 2026-06-24 | [An electron injector for the Electron-Ion Collider based on proton-driven plasma wakefield acceleration](./arxiv-2605-07929/README.md) | arXiv（预印本） | [10.48550/arXiv.2605.07929](https://doi.org/10.48550/arXiv.2605.07929) |
+| 2026-06-24 | [Spatiotemporal evolution of the current filamentation instability in relativistic beam-plasma systems: Higher-order spatial correction and the role of the initial seed perturbation](./10-1103-gg1s-rxrg/README.md) | Physical Review E（2026-11-18接收；发表未独立核实；实际全文为6月arXiv作者v1） | [10.1103/gg1s-rxrg](https://doi.org/10.1103/gg1s-rxrg) |
 | 2026-06-23 | [Impact of energetic alpha particles on core turbulence in an ARC-class fusion power plant](./arxiv-2606-15965/README.md) | arXiv（预印本） | [10.48550/arXiv.2606.15965](https://doi.org/10.48550/arXiv.2606.15965) |
 | 2026-06-23 | [Quasiparticles and ion cooling by an electron beam in a strong magnetic field](./arxiv-2606-16126/README.md) | arXiv（预印本） | [10.48550/arXiv.2606.16126](https://doi.org/10.48550/arXiv.2606.16126) |
 | 2026-06-22 | [RR-induced breaking of ponderomotive invariants in EM modes](./10-1017-s0022377826101809/README.md) | Journal of Plasma Physics（正式期刊） | [10.1017/S0022377826101809](https://doi.org/10.1017/S0022377826101809) |

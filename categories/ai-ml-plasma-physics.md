@@ -2,11 +2,13 @@
 
 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。
 
-- 当前收录：99 篇
-- 索引更新时间：2026-11-18
+- 当前收录：101 篇
+- 索引更新时间：2026-11-19
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-19 | [Multivariate scaling of proton and ion energies, divergence, and charge states in laser-driven Target Normal Sheath Acceleration](../papers/10-1140-epjp-s13360-026-08572-x/README.md) | The European Physical Journal Plus | [笔记](../daily/2026-11-19/notes/alexopoulou-2026-tnsa.md) |
+| 2026-11-19 | [Learning Similarity-Reduced Ion Kinetics across Scales and Regimes in Capacitively Coupled Plasmas](../papers/arxiv-2611-22165/README.md) | arXiv preprint; submitted to Applied Physics Letters, not verified accepted | [笔记](../daily/2026-11-19/notes/zhang-2026-ion-kinetics.md) |
 | 2026-11-18 | [Physics-guided deep learning for high resolution X-ray free-electron laser imaging](../papers/10-1038-s41598-026-80553-7/README.md) | Scientific Reports (Article in Press; final VOR not acquired) | [笔记](../daily/2026-11-18/notes/lee-2026-xfel.md) |
 | 2026-11-17 | [Fuse-PINN: Combining Finite Element Methods and Physics-Informed Neural Networks to enable massively parallel simulations of non-linear PDEs](../papers/arxiv-2611-18409/README.md) | arXiv preprint | [笔记](../daily/2026-11-17/notes/pamela-2026-fuse-pinn.md) |
 | 2026-11-14 | [A weak-form discrete physical-residual PINN method for solving multigroup neutron diffusion equations](../papers/10-3389-fenrg-2026-2005399/README.md) | Frontiers in Energy Research | [笔记](../daily/2026-11-14/notes/hu-2026-neutron-diffusion-pinn.md) |

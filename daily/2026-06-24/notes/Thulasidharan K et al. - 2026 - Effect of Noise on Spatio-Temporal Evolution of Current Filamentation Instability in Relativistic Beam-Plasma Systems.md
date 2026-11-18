@@ -1,3 +1,5 @@
+> **2026-11-19元数据更新**：[PRE接收记录](https://journals.aps.org/pre/accepted/10.1103/gg1s-rxrg)题名改为“Spatiotemporal evolution of the current filamentation instability in relativistic beam-plasma systems: Higher-order spatial correction and the role of the initial seed perturbation”，作者／摘要／场景与本条相同，2026-11-18接收；Crossref同日online字段不作正式发表证据。APS PDF 403、harvest 404，未取得接收稿或VOR。实际仍是2026-06-19的arXiv2606.21221v1；本次仅核首页身份及官方当前字节与本地SHA相同，**未重读或重新验收下方旧物理笔记**。台账原位合并，不新增计数。
+
 # Effect of Noise on Spatio-Temporal Evolution of Current Filamentation Instability in Relativistic Beam-Plasma Systems 笔记
 
 ## 0. 论文信息

@@ -1,0 +1,89 @@
+{
+  "paper": "Monte Carlo assessment of a D–T neutron generator-based beam shaping assembly for BNCT: moderator effects on neutron spectrum and dose",
+  "doi": "10.1038/s41598-026-80838-x",
+  "fulltext_version": "Publisher Article in Press, not final VOR",
+  "scientific_maintext_pages": 30,
+  "reading": "all maintext layout, conclusions, references and declarations read; no author Monte Carlo reruns",
+  "key_source_pages_visually_reviewed": [
+    4,
+    5,
+    6,
+    8,
+    10,
+    11,
+    12,
+    16,
+    18,
+    22,
+    23,
+    24,
+    26,
+    27
+  ],
+  "source_render_scale": 1.4,
+  "supplement_check": "Linked 6-page PDF identified as authorship-change administrative form, not scientific supplement; no form images or personal data reproduced; not counted as scientific reading. Local form PDF/text removed by primary.",
+  "retained_crops": [
+    {
+      "path": "daily/2026-11-19/notes/images/asghari-fig3.png",
+      "source_pdf": "daily/2026-11-19/pdfs/asghari-2026-bnct.pdf",
+      "source_page_1based": 8,
+      "clip": [
+        47,
+        424,
+        548,
+        695
+      ],
+      "scale": 2,
+      "sha256": "cff7685cbd3675fa88793e128bc5f480e29cc2e422843dc18612a007d353c3f3"
+    },
+    {
+      "path": "daily/2026-11-19/notes/images/asghari-table3.png",
+      "source_pdf": "daily/2026-11-19/pdfs/asghari-2026-bnct.pdf",
+      "source_page_1based": 12,
+      "clip": [
+        47,
+        57,
+        548,
+        157
+      ],
+      "scale": 2,
+      "sha256": "d2435e9d52833ac57aa48c1a1f1ba57f5c3c19406d8301b47f29929a77f037b0"
+    },
+    {
+      "path": "daily/2026-11-19/notes/images/asghari-fig18.png",
+      "source_pdf": "daily/2026-11-19/pdfs/asghari-2026-bnct.pdf",
+      "source_page_1based": 26,
+      "clip": [
+        47,
+        57,
+        548,
+        552
+      ],
+      "scale": 2,
+      "sha256": "a6d9ec8361697ad9664d25708517fb4353dbdbae6bd0fc296b2c9e2e906c1c50"
+    },
+    {
+      "path": "daily/2026-11-19/notes/images/asghari-fig19.png",
+      "source_pdf": "daily/2026-11-19/pdfs/asghari-2026-bnct.pdf",
+      "source_page_1based": 27,
+      "clip": [
+        47,
+        57,
+        548,
+        309
+      ],
+      "scale": 2,
+      "sha256": "3dbd547687568b71f38d4126e1742e2ef389a152ba1fb5cabad9e92919c5c10e"
+    }
+  ],
+  "mineru": "0 requests; historical expired credential not retested; explicit local layout extraction and rendered-page fallback",
+  "evidence_boundaries": [
+    "ideal isotropic monoenergetic source; 1e12 n/s assumption, not measured source yield",
+    "retained reference Table3 separate from controlled diagnostic and sensitivity calculations",
+    "not unique global optimum or clinical qualification",
+    "printed neutron energy cutoff1e-6MeV versus sub0.5eV thermal scores unresolved",
+    "printed reference NPS9e6 versus1e8 unresolved",
+    "Pb/Ni radial overlap and diagnostic offset require input-file clarification",
+    "exact nuclear data release and fast-dose response unidentified; no full public MCNPX input"
+  ]
+}

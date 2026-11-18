@@ -1,0 +1,42 @@
+{
+  "asghari": {
+    "doi": "10.1038/s41598-026-80838-x",
+    "published": "2026-11-18",
+    "accepted": "2026-11-11",
+    "source": "https://www.nature.com/articles/s41598-026-80838-x",
+    "actual_version": "publisher Article in Press, not final VOR",
+    "linked_supplement": "unrelated administrative form; removed locally, no scientific supplement read"
+  },
+  "alexopoulou": {
+    "doi": "10.1140/epjp/s13360-026-08572-x",
+    "published": "2026-11-18",
+    "accepted": "2026-11-10",
+    "source": "https://link.springer.com/article/10.1140/epjp/s13360-026-08572-x",
+    "publisher_history": "VOR18Nov explicitly present",
+    "actual_version": "arxiv2512.21279v1 first24Dec2025; title alias same author/work; publisher VOR not acquired"
+  },
+  "cfi": {
+    "doi": "10.1103/gg1s-rxrg",
+    "accepted": "2026-11-18",
+    "publication": null,
+    "source": "https://journals.aps.org/pre/accepted/10.1103/gg1s-rxrg",
+    "evidence": "official APS accepted page retrieved by targeted web search; Crossref accepted equals online18Nov, no independent publication",
+    "actual_version": "existing2606.21221v1; identity/hash only; old note not recertified"
+  },
+  "stopping": {
+    "doi": "10.1103/yx13-bzgg",
+    "accepted": "2026-11-18",
+    "publication": null,
+    "source": "https://journals.aps.org/pre/accepted/10.1103/yx13-bzgg",
+    "evidence": "official APS accepted page targeted web search; Crossref accepted equals online18Nov",
+    "actual_version": null,
+    "status": "retry, no abstract-only note"
+  },
+  "zhang": {
+    "arxiv_id": "2611.22165v1",
+    "first_submission": "2026-11-17",
+    "announcement": "2026-11-18",
+    "internal_pdf_date": "2026-11-18",
+    "journal_relation": "submitted to Applied Physics Letters, not verified accepted; Crossref title top3 no same work"
+  }
+}

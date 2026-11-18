@@ -1651,5 +1651,24 @@
     "attempted_at": "2026-11-17T23:10:30.571018+00:00",
     "stderr": "Official VOR PDF: env-proxy HTTP403 text/html charset UTF-8, 5696 bytes; direct proxy bypass HTTP403 text/html, 93 bytes. Neither is PDF. HAL exact-title top5 HTTP200 numFound0; bounded web searches did not verify a legal same-work fulltext. The October electron-optics companion is a different paper and does not replace this fulltext.",
     "evidence_path": "daily/2026-11-18/research/source_access_checks.json"
+  },
+  {
+    "doi": "10.1103/yx13-bzgg",
+    "title": "Bound and free electron contributions to the stopping power of beryllium warm dense matter",
+    "journal": "Physical Review E",
+    "publication_date": null,
+    "acceptance_date": "2026-11-18",
+    "publication_date_type": "accepted paper; Crossref published-online equals acceptance, publication unverified",
+    "source_url": "https://journals.aps.org/pre/accepted/10.1103/yx13-bzgg",
+    "pdf_url": "https://journals.aps.org/pre/pdf/10.1103/yx13-bzgg",
+    "topic": "proton stopping in beryllium warm dense matter; bound/free electron contributions",
+    "run_date": "2026-11-19",
+    "status": "download_failed",
+    "last_failure_class": "publisher_http_403_html_then_harvest_404",
+    "source_family": "aps",
+    "failure_count": 1,
+    "attempted_at": "2026-11-18T23:08:43.081328+00:00",
+    "stderr": "Official APS PDF HTTP403 text/html 5514 bytes; official harvest HTTP404 application/json 52 bytes; neither PDF. HAL exact-title top5 HTTP200 numFound0; bounded exact-title web search did not verify a legal same-work author fulltext. No abstract-only note.",
+    "evidence_path": "daily/2026-11-19/research/aps_harvest_checks.json"
   }
 ]

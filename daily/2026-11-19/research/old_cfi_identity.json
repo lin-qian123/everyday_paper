@@ -1,0 +1,12 @@
+{
+  "arxiv_id": "2606.21221v1",
+  "local_pdf": "daily/2026-06-24/pdfs/Thulasidharan K et al. - 2026 - Effect of Noise on Spatio-Temporal Evolution of Current Filamentation Instability in Relativistic Beam-Plasma Systems.pdf",
+  "local_pages": 10,
+  "local_sha256": "33e6ec2b70348d3e69af93a45891606565b30b4fd17e91a470fa206dd6842547",
+  "official_url": "https://arxiv.org/pdf/2606.21221v1",
+  "official_status": 200,
+  "official_bytes": 2864841,
+  "official_sha256": "33e6ec2b70348d3e69af93a45891606565b30b4fd17e91a470fa206dd6842547",
+  "current_official_bytes_equal_local": true,
+  "scope": "identity page and byte identity only; old physics note not recertified"
+}

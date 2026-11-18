@@ -1,0 +1,18 @@
+[
+  {
+    "key": "cfi",
+    "url": "https://harvest.aps.org/v2/journals/articles/10.1103/gg1s-rxrg/fulltext",
+    "status": 404,
+    "mime": "application/json",
+    "bytes": 52,
+    "valid_header": false
+  },
+  {
+    "key": "stopping",
+    "url": "https://harvest.aps.org/v2/journals/articles/10.1103/yx13-bzgg/fulltext",
+    "status": 404,
+    "mime": "application/json",
+    "bytes": 52,
+    "valid_header": false
+  }
+]

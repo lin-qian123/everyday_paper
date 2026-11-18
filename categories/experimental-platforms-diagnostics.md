@@ -2,11 +2,12 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：205 篇
-- 索引更新时间：2026-11-18
+- 当前收录：206 篇
+- 索引更新时间：2026-11-19
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-19 | [Monte Carlo assessment of a D–T neutron generator-based beam shaping assembly for BNCT: moderator effects on neutron spectrum and dose](../papers/10-1038-s41598-026-80838-x/README.md) | Scientific Reports | [笔记](../daily/2026-11-19/notes/asghari-2026-bnct.md) |
 | 2026-11-18 | [Physics-guided deep learning for high resolution X-ray free-electron laser imaging](../papers/10-1038-s41598-026-80553-7/README.md) | Scientific Reports (Article in Press; final VOR not acquired) | [笔记](../daily/2026-11-18/notes/lee-2026-xfel.md) |
 | 2026-11-18 | [A spherical body in plasma simulated with adaptive mesh and algorithm refinement](../papers/arxiv-2611-21466/README.md) | arXiv preprint | [笔记](../daily/2026-11-18/notes/kolobov-2026-sphere.md) |
 | 2026-11-17 | [Qualifying LPA generated electron beams to free electron laser applications](../papers/10-1038-s41598-026-80539-5/README.md) | Scientific Reports (Article in Press; final VOR not acquired) | [笔记](../daily/2026-11-17/notes/ghaith-2026-lpa-fel-qualification.md) |

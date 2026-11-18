@@ -2,11 +2,12 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：258 篇
-- 索引更新时间：2026-11-18
+- 当前收录：259 篇
+- 索引更新时间：2026-11-19
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-19 | [Learning Similarity-Reduced Ion Kinetics across Scales and Regimes in Capacitively Coupled Plasmas](../papers/arxiv-2611-22165/README.md) | arXiv preprint; submitted to Applied Physics Letters, not verified accepted | [笔记](../daily/2026-11-19/notes/zhang-2026-ion-kinetics.md) |
 | 2026-11-18 | [Linear Electrostatic Instabilities Driven by Relativistic Non-Maxwellian Pair Beams](../papers/10-3390-plasma9040049/README.md) | Plasma 9(4), 49 (publisher VOR) | [笔记](../daily/2026-11-18/notes/dey-2026-pair-beams.md) |
 | 2026-11-18 | [A spherical body in plasma simulated with adaptive mesh and algorithm refinement](../papers/arxiv-2611-21466/README.md) | arXiv preprint | [笔记](../daily/2026-11-18/notes/kolobov-2026-sphere.md) |
 | 2026-11-17 | [Qualifying LPA generated electron beams to free electron laser applications](../papers/10-1038-s41598-026-80539-5/README.md) | Scientific Reports (Article in Press; final VOR not acquired) | [笔记](../daily/2026-11-17/notes/ghaith-2026-lpa-fel-qualification.md) |
@@ -208,7 +209,7 @@ PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性�
 | 2026-06-27 | [Systematic Derivation of Reliable Wake Functions for Complex Structures from Mesh-Based Wakefield Simulations](../papers/arxiv-2606-26514/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-27/notes/Chih-Kai Liu et al. - 2026 - Systematic Derivation of Reliable Wake Functions for Complex Structures from Mesh-Based Wakefield Simulations.md) |
 | 2026-06-26 | [Numerical thermalization in $n$-D particle-in-cell simulations](../papers/arxiv-2606-25528/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-26/notes/R. M. Park et al. - 2026 - Numerical thermalization in $n$-D particle-in-cell simulations.md) |
 | 2026-06-25 | [Evolution of Quadrupole Wakefield Driven by Transversely Asymmetric Electron Beams in Hollow Plasma Channels](../papers/arxiv-2606-24067/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-25/notes/Siqin Ding et al. - 2026 - Evolution of Quadrupole Wakefield Driven by Transversely Asymmetric Electron Beams in Hollow Plasma Channels.md) |
-| 2026-06-24 | [Effect of Noise on Spatio-Temporal Evolution of Current Filamentation Instability in Relativistic Beam-Plasma Systems](../papers/arxiv-2606-21221/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-24/notes/Thulasidharan K et al. - 2026 - Effect of Noise on Spatio-Temporal Evolution of Current Filamentation Instability in Relativistic Beam-Plasma Systems.md) |
+| 2026-06-24 | [Spatiotemporal evolution of the current filamentation instability in relativistic beam-plasma systems: Higher-order spatial correction and the role of the initial seed perturbation](../papers/10-1103-gg1s-rxrg/README.md) | Physical Review E（2026-11-18接收；发表未独立核实；实际全文为6月arXiv作者v1） | [笔记](../daily/2026-06-24/notes/Thulasidharan K et al. - 2026 - Effect of Noise on Spatio-Temporal Evolution of Current Filamentation Instability in Relativistic Beam-Plasma Systems.md) |
 | 2026-06-23 | [Impact of energetic alpha particles on core turbulence in an ARC-class fusion power plant](../papers/arxiv-2606-15965/README.md) | arXiv（预印本） | [笔记](../daily/2026-06-23/notes/J. Hall et al. - 2026 - Impact of energetic alpha particles on core turbulence in an ARC-class fusion power plant.md) |
 | 2026-06-22 | [Learning collision operators from plasma phase space data using differentiable simulators](../papers/10-1017-s0022377826101755/README.md) | Journal of Plasma Physics（正式期刊） | [笔记](../daily/2026-06-22/notes/Diogo D. Carvalho et al. - 2026 - Learning collision operators from plasma phase space data using differentiable simulators.md) |
 | 2026-06-21 | [Plasma wakes driven by Compton scattering: nonlinear regime and particle acceleration](../papers/10-1017-s0022377826101858/README.md) | Journal of Plasma Physics（正式期刊） | [笔记](../daily/2026-06-21/notes/Thomas Grismayer et al. - 2026 - Plasma wakes driven by Compton scattering nonlinear regime and particle acceleration.md) |
