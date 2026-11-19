@@ -1,10 +1,14 @@
 # 论文总索引
 
-- 当前入库论文：582 篇
-- 索引更新时间：2026-11-19
+- 当前入库论文：586 篇
+- 索引更新时间：2026-11-20
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-11-20 | [High-fidelity spectral shaping via hardware-compensated waveform optimization for stimulated Brillouin scattering suppression in high-power fiber lasers](./10-1017-hpl-2026-10195/README.md) | High Power Laser Science and Engineering | [10.1017/hpl.2026.10195](https://doi.org/10.1017/hpl.2026.10195) |
+| 2026-11-20 | [The role of externally-driven density fluctuations in the enhancement of beam spray](./arxiv-2611-24914/README.md) | arXiv preprint; submitted to PRL, acceptance/publication unverified | [10.48550/arXiv.2611.24914](https://doi.org/10.48550/arXiv.2611.24914) |
+| 2026-11-20 | [Polarized positron generation via laser-engineered quasistatic magnetic fields in a spatially extended herringbone target](./arxiv-2611-24069/README.md) | arXiv preprint | [10.48550/arXiv.2611.24069](https://doi.org/10.48550/arXiv.2611.24069) |
+| 2026-11-20 | [Characterization of the fast neutron response of liquid scintillator detectors at NFS](./arxiv-2611-24118/README.md) | arXiv preprint; submitted to NIM A, acceptance/publication unverified | [10.48550/arXiv.2611.24118](https://doi.org/10.48550/arXiv.2611.24118) |
 | 2026-11-19 | [Monte Carlo assessment of a D–T neutron generator-based beam shaping assembly for BNCT: moderator effects on neutron spectrum and dose](./10-1038-s41598-026-80838-x/README.md) | Scientific Reports | [10.1038/s41598-026-80838-x](https://doi.org/10.1038/s41598-026-80838-x) |
 | 2026-11-19 | [Multivariate scaling of proton and ion energies, divergence, and charge states in laser-driven Target Normal Sheath Acceleration](./10-1140-epjp-s13360-026-08572-x/README.md) | The European Physical Journal Plus | [10.1140/epjp/s13360-026-08572-x](https://doi.org/10.1140/epjp/s13360-026-08572-x) |
 | 2026-11-19 | [Learning Similarity-Reduced Ion Kinetics across Scales and Regimes in Capacitively Coupled Plasmas](./arxiv-2611-22165/README.md) | arXiv preprint; submitted to Applied Physics Letters, not verified accepted | [10.48550/arXiv.2611.22165](https://doi.org/10.48550/arXiv.2611.22165) |
@@ -250,10 +254,10 @@
 | 2026-09-11 | [High-charge, highly polarized positron beams generated from a laser-driven nanowire-array target](./arxiv-2609-09908/README.md) | arXiv preprint | [10.48550/arXiv.2609.09908](https://doi.org/10.48550/arXiv.2609.09908) |
 | 2026-09-11 | [Generalized Similarity Theory for Plasmas](./arxiv-2609-08413/README.md) | arXiv preprint | [10.48550/arXiv.2609.08413](https://doi.org/10.48550/arXiv.2609.08413) |
 | 2026-09-10 | [Complete reflection of nonlinear electromagnetic waves in underdense pair plasmas enabled by dynamically formed Bragg-like structures](./10-1103-g27z-2kd3/README.md) | Physical Review Letters (accepted paper; local author preprint) | [10.1103/g27z-2kd3](https://doi.org/10.1103/g27z-2kd3) |
-| 2026-09-10 | [Demonstration of a 10-metre-long discharge plasma source for plasma wakefield acceleration](./arxiv-2609-08551/README.md) | arXiv preprint | [10.48550/arXiv.2609.08551](https://doi.org/10.48550/arXiv.2609.08551) |
 | 2026-09-10 | [Self-organized positron reorienting and pinching mechanism for the experimental detection of the linear Breit-Wheeler process](./arxiv-2609-07584/README.md) | arXiv preprint | [10.48550/arXiv.2609.07584](https://doi.org/10.48550/arXiv.2609.07584) |
 | 2026-09-10 | [Magnetic island structures in relativistic laser-driven plasma channels](./arxiv-2609-06562/README.md) | arXiv preprint | [10.48550/arXiv.2609.06562](https://doi.org/10.48550/arXiv.2609.06562) |
 | 2026-09-10 | [Resolution-Robust Machine Learning Heat Flux Closure for Inertial Confinement Fusion Plasmas](./10-1103-9l4n-mnz6/README.md) | PRX Intelligence 1, 013017 (2026; local author preprint) | [10.1103/9l4n-mnz6](https://doi.org/10.1103/9l4n-mnz6) |
+| 2026-09-10 | [Demonstration of a 10-metre-long discharge plasma source for plasma wakefield acceleration](./10-1103-33h4-lf1m/README.md) | Physical Review Research; accepted, publication unverified | [10.1103/33h4-lf1m](https://doi.org/10.1103/33h4-lf1m) |
 | 2026-09-09 | [Exploring millicharged particles in laboratory and astrophysical strong-field regimes](./arxiv-2609-03399/README.md) | arXiv preprint | [10.48550/arXiv.2609.03399](https://doi.org/10.48550/arXiv.2609.03399) |
 | 2026-09-09 | [Revisiting the MRX Electron Current Sheet Width with Semi-Collisional Kinetic Simulations at Hydrogen Mass Ratio](./arxiv-2609-01793/README.md) | arXiv preprint | [10.48550/arXiv.2609.01793](https://doi.org/10.48550/arXiv.2609.01793) |
 | 2026-09-09 | [The Fusion Equilibrium Challenge: Inferring Magnetic Geometry Without Magnetic Diagnostics](./arxiv-2609-01750/README.md) | arXiv preprint | [10.48550/arXiv.2609.01750](https://doi.org/10.48550/arXiv.2609.01750) |
@@ -327,8 +331,8 @@
 | 2026-08-11 | [Validation of hybrid-PIC Simulations for Advanced Beam-Driven FRC Modeling](./10-1088-1741-4326-ae96c0/README.md) | Nuclear Fusion | [10.1088/1741-4326/ae96c0](https://doi.org/10.1088/1741-4326/ae96c0) |
 | 2026-08-11 | [Effect of nonuniform density structure on burn-up ratio of multi-shock-compressed DT fuel in fast ignition](./10-1088-1741-4326-ae96c1/README.md) | Nuclear Fusion | [10.1088/1741-4326/ae96c1](https://doi.org/10.1088/1741-4326/ae96c1) |
 | 2026-08-10 | [SafeDivertor: Faithful Divertor Heat Flux Reconstruction from Macroscopic Plasma State Signals via Time-Frequency Prior Exploitation](./arxiv-2608-05669/README.md) | arXiv preprint | [10.48550/arXiv.2608.05669](https://doi.org/10.48550/arXiv.2608.05669) |
-| 2026-08-10 | [BORAY-3D: A ray tracing code for three-dimensional magnetized plasma configurations](./arxiv-2608-05667/README.md) | arXiv preprint | [10.48550/arXiv.2608.05667](https://doi.org/10.48550/arXiv.2608.05667) |
 | 2026-08-10 | [Millisecond-Scale Neural Operator Surrogates for Double-Null Free-Boundary Grad-Shafranov Equilibria](./arxiv-2608-05555/README.md) | arXiv preprint | [10.48550/arXiv.2608.05555](https://doi.org/10.48550/arXiv.2608.05555) |
+| 2026-08-10 | [BORAY-3D: a ray-tracing code for three-dimensional magnetized plasma configurations](./10-1088-2058-6272-aec41f/README.md) | Plasma Science and Technology; Accepted Manuscript online, not final VOR | [10.1088/2058-6272/aec41f](https://doi.org/10.1088/2058-6272/aec41f) |
 | 2026-08-09 | [Polarization-Conditioned Fourier-enhanced DeepONet for Electric Field Reconstruction from EFISH Measurements](./arxiv-2608-05937/README.md) | arXiv preprint | [10.48550/arXiv.2608.05937](https://doi.org/10.48550/arXiv.2608.05937) |
 | 2026-08-09 | [Net electron spin rotation in a plane-wave pulse: Holonomy set by the anomalous magnetic moment](./arxiv-2608-05698/README.md) | arXiv preprint | [10.48550/arXiv.2608.05698](https://doi.org/10.48550/arXiv.2608.05698) |
 | 2026-08-09 | [Building a Start-to-End Model of the CESR Injector Linac](./arxiv-2608-05094/README.md) | arXiv preprint | [10.48550/arXiv.2608.05094](https://doi.org/10.48550/arXiv.2608.05094) |

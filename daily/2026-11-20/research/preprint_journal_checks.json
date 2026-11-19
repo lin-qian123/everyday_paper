@@ -1,0 +1,591 @@
+[
+  {
+    "title": "The role of externally-driven density fluctuations in the enhancement of beam spray",
+    "url": "https://api.crossref.org/works?query.title=The+role+of+externally-driven+density+fluctuations+in+the+enhancement+of+beam+spray&rows=3",
+    "status": 200,
+    "items": [
+      {
+        "DOI": "10.1109/tps.2011.2158666",
+        "title": [
+          "Wave Beam Propagation Through Density Fluctuations"
+        ],
+        "container-title": [
+          "IEEE Transactions on Plasma Science"
+        ],
+        "author": [
+          {
+            "given": "A. A.",
+            "family": "Balakin",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "N.",
+            "family": "Bertelli",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "E.",
+            "family": "Westerhof",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": null
+      },
+      {
+        "DOI": "10.1143/jjap.18.1647",
+        "title": [
+          "Microwave Scattering from Density Fluctuations Externally Excited in a Plasma"
+        ],
+        "container-title": [
+          "Japanese Journal of Applied Physics"
+        ],
+        "author": [
+          {
+            "given": "Masahiro",
+            "family": "Hara",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Shigeyuki",
+            "family": "Ishii",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": null
+      },
+      {
+        "DOI": "10.1103/ld8v-qpf8",
+        "title": [
+          "Effective Enhancement of the Electron-Phonon Coupling Driven by Nonperturbative Electronic Density Fluctuations"
+        ],
+        "container-title": [
+          "Physical Review Letters"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0001-9441-2123",
+            "authenticated-orcid": true,
+            "given": "E.",
+            "family": "Moghadas",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/04d836q62",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "TU Wien"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-2529-0847",
+            "authenticated-orcid": true,
+            "given": "M.",
+            "family": "Reitner",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/04d836q62",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "TU Wien"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-5579-2231",
+            "authenticated-orcid": true,
+            "given": "T.",
+            "family": "Wehling",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00g30e956",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Universität Hamburg"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-2218-2901",
+            "authenticated-orcid": true,
+            "given": "G.",
+            "family": "Sangiovanni",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00fbnyb24",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Universität Würzburg"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-1251-1484",
+            "authenticated-orcid": true,
+            "given": "S.",
+            "family": "Ciuchi",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/01j9p1r26",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Università dell’Aquila"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-5669-3377",
+            "authenticated-orcid": true,
+            "given": "A.",
+            "family": "Toschi",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/04d836q62",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "TU Wien"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              25
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "title": "Polarized positron generation via laser-engineered quasistatic magnetic fields in a spatially extended herringbone target",
+    "url": "https://api.crossref.org/works?query.title=Polarized+positron+generation+via+laser-engineered+quasistatic+magnetic+fields+in+a+spatially+extended+herringbone+target&rows=3",
+    "status": 200,
+    "items": [
+      {
+        "DOI": "10.1063/1.1135684",
+        "title": [
+          "Generation of quasistatic magnetic fields"
+        ],
+        "container-title": [
+          "Review of Scientific Instruments"
+        ],
+        "author": [
+          {
+            "given": "H. C.",
+            "family": "Praddaude",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Francis Bitter National Magnet Laboratory, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "S.",
+            "family": "Foner",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Francis Bitter National Magnet Laboratory, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": null
+      },
+      {
+        "DOI": "10.1103/physrevd.91.125026",
+        "title": [
+          "Spin polarized electron-positron pair production via elliptical polarized laser fields"
+        ],
+        "container-title": [
+          "Physical Review D"
+        ],
+        "author": [
+          {
+            "given": "Anton",
+            "family": "Wöllert",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Heiko",
+            "family": "Bauke",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Christoph H.",
+            "family": "Keitel",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2015,
+              6,
+              18
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.1063/1.49038",
+        "title": [
+          "Generation of megagauss magnetic fields in laser-target plasmas"
+        ],
+        "container-title": [
+          "AIP Conference Proceedings"
+        ],
+        "author": [
+          {
+            "given": "T. J. M.",
+            "family": "Boyd",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": null
+      }
+    ]
+  },
+  {
+    "title": "Characterization of the fast neutron response of liquid scintillator detectors at NFS",
+    "url": "https://api.crossref.org/works?query.title=Characterization+of+the+fast+neutron+response+of+liquid+scintillator+detectors+at+NFS&rows=3",
+    "status": 200,
+    "items": [
+      {
+        "DOI": "10.1080/00295450.2021.2011672",
+        "title": [
+          "Enhancement of Fast Neutron Detection in Liquid Scintillator Detectors"
+        ],
+        "container-title": [
+          "Nuclear Technology"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-4984-0185",
+            "authenticated-orcid": false,
+            "given": "Gang",
+            "family": "Li",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Canadian Nuclear Laboratories, Chalk River, Ontario, Canada"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Ghaouti",
+            "family": "Bentoumi",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Canadian Nuclear Laboratories, Chalk River, Ontario, Canada"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Liqian",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Canadian Nuclear Laboratories, Chalk River, Ontario, Canada"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2022,
+              2,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.22323/1.025.0046",
+        "title": [
+          "FAST NEUTRON RESPONSE OF A 6Li-LOADED LIQUID SCINTILLATOR"
+        ],
+        "container-title": [
+          "Proceedings of International Workshop on Fast Neutron Detectors and Applications  — PoS(FNDA2006)"
+        ],
+        "author": [
+          {
+            "given": "Masateru",
+            "family": "Hayashi",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Yukinobu",
+            "family": "Watanabe",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Daisuke",
+            "family": "Kaku",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Hideki",
+            "family": "Nakashima",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Kenshi",
+            "family": "Sagara",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": null
+      },
+      {
+        "DOI": "10.1016/j.nima.2013.05.120",
+        "title": [
+          "Spatial response characterization of liquid scintillator detectors using collimated gamma-ray and neutron beams"
+        ],
+        "container-title": [
+          "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment"
+        ],
+        "author": [
+          {
+            "given": "S.F.",
+            "family": "Naeem",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "S.D.",
+            "family": "Clarke",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "S.A.",
+            "family": "Pozzi",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": null
+      }
+    ]
+  }
+]

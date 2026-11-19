@@ -1,0 +1,18 @@
+{
+  "boray": {
+    "url": "https://iopscience.iop.org/article/10.1088/2058-6272/aec41f",
+    "page_title": "BORAY-3D: a ray-tracing code for three-dimensional magnetized plasma configurations - IOPscience",
+    "status_excerpt": "ACCEPTED MANUSCRIPT BORAY-3D: a ray-tracing code for three-dimensional magnetized plasma configurations Yuxuan WANG and Huasheng Xie Accepted Manuscript online 19 November 2026 • © 2026 Hefei Institutes of Physical Science, Chinese Academy of Sciences and IOP Publishing ",
+    "page_sha256": "357b1f0822b0ef56c1f6561aea195d848daf07a1be041813674de298a2f82281",
+    "same_work_evidence": "same two authors, normalized title, abstract and physical scenarios; original v1 identity checked",
+    "final_vor_verified": false
+  },
+  "hpl": "see xin_reading.json and formal_selected_metadata.json",
+  "awake": "Crossref accepted=published-online=2026-11-19; not independently published",
+  "misdated_lead": {
+    "doi": "10.1007/s44205-026-00191-z",
+    "publisher_publication": "2026-04-03",
+    "news_date": "2026-11-19",
+    "decision": "news date is not paper publication date; not selected as latest formal paper"
+  }
+}

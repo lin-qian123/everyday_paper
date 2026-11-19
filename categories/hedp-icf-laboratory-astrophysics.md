@@ -2,11 +2,12 @@
 
 HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。
 
-- 当前收录：147 篇
-- 索引更新时间：2026-11-19
+- 当前收录：148 篇
+- 索引更新时间：2026-11-20
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-20 | [The role of externally-driven density fluctuations in the enhancement of beam spray](../papers/arxiv-2611-24914/README.md) | arXiv preprint; submitted to PRL, acceptance/publication unverified | [笔记](../daily/2026-11-20/notes/mcmillen-2026-beam-spray.md) |
 | 2026-11-18 | [Physics-guided deep learning for high resolution X-ray free-electron laser imaging](../papers/10-1038-s41598-026-80553-7/README.md) | Scientific Reports (Article in Press; final VOR not acquired) | [笔记](../daily/2026-11-18/notes/lee-2026-xfel.md) |
 | 2026-11-18 | [Linear Electrostatic Instabilities Driven by Relativistic Non-Maxwellian Pair Beams](../papers/10-3390-plasma9040049/README.md) | Plasma 9(4), 49 (publisher VOR) | [笔记](../daily/2026-11-18/notes/dey-2026-pair-beams.md) |
 | 2026-11-17 | [Radiation in relativistic plasmas via particle simulations](../papers/arxiv-2611-18332/README.md) | arXiv preprint | [笔记](../daily/2026-11-17/notes/kritikos-2026-relativistic-radiation-md.md) |
@@ -80,8 +81,8 @@ HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与�
 | 2026-08-11 | [Validation of hybrid-PIC Simulations for Advanced Beam-Driven FRC Modeling](../papers/10-1088-1741-4326-ae96c0/README.md) | Nuclear Fusion | [笔记](../daily/2026-08-11/notes/Groenewald et al. - 2026 - Hybrid PIC WarpX FRC validation.md) |
 | 2026-08-11 | [Effect of nonuniform density structure on burn-up ratio of multi-shock-compressed DT fuel in fast ignition](../papers/10-1088-1741-4326-ae96c1/README.md) | Nuclear Fusion | [笔记](../daily/2026-08-11/notes/Johzaki et al. - 2026 - Multi shock DT fast ignition density structure.md) |
 | 2026-08-10 | [SafeDivertor: Faithful Divertor Heat Flux Reconstruction from Macroscopic Plasma State Signals via Time-Frequency Prior Exploitation](../papers/arxiv-2608-05669/README.md) | arXiv preprint | [笔记](../daily/2026-08-10/notes/Si et al. - 2026 - SafeDivertor heat flux reconstruction.md) |
-| 2026-08-10 | [BORAY-3D: A ray tracing code for three-dimensional magnetized plasma configurations](../papers/arxiv-2608-05667/README.md) | arXiv preprint | [笔记](../daily/2026-08-10/notes/Wang et al. - 2026 - BORAY 3D ray tracing code.md) |
 | 2026-08-10 | [Millisecond-Scale Neural Operator Surrogates for Double-Null Free-Boundary Grad-Shafranov Equilibria](../papers/arxiv-2608-05555/README.md) | arXiv preprint | [笔记](../daily/2026-08-10/notes/Krastev - 2026 - Neural operator Grad Shafranov equilibria.md) |
+| 2026-08-10 | [BORAY-3D: a ray-tracing code for three-dimensional magnetized plasma configurations](../papers/10-1088-2058-6272-aec41f/README.md) | Plasma Science and Technology; Accepted Manuscript online, not final VOR | [笔记](../daily/2026-08-10/notes/Wang et al. - 2026 - BORAY 3D ray tracing code.md) |
 | 2026-08-03 | [Measurement of multiple mechanical properties from multi-dimensional signals in nanosecond laser ablation via PINN](../papers/arxiv-2607-26965/README.md) | arXiv preprint | [笔记](../daily/2026-08-03/notes/Zhou et al. - 2026 - Laser ablation PINN mechanical inversion.md) |
 | 2026-07-30 | [Enhanced alpha channeling with spin-polarized fuel](../papers/arxiv-2607-25313/README.md) | arXiv preprint | [笔记](../daily/2026-07-30/notes/J F Parisi et al. - 2026 - Spin polarized fuel alpha channeling.md) |
 | 2026-07-29 | [Impact of ion-electron collisions on nonlocal ion heat conduction, viscous stress, and diffusion](../papers/arxiv-2607-24505/README.md) | arXiv preprint | [笔记](../daily/2026-07-29/notes/Nicholas Mitchell et al. - 2026 - Nonlocal ion transport collisions.md) |

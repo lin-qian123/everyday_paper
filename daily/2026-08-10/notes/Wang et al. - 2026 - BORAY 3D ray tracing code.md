@@ -1,5 +1,9 @@
 # BORAY-3D: A ray tracing code for three-dimensional magnetized plasma configurations
 
+## 2026-11-20 正式状态补充（仅元数据）
+
+[IOP期刊DOI 10.1088/2058-6272/aec41f](https://doi.org/10.1088/2058-6272/aec41f)网页明确写 **Accepted Manuscript online 2026-11-19**，尚未核实最终VOR。标题中的连字符／大小写有变化，作者和摘要／物理场景一致，原位关联，不重复入库。PDF端点返回HTTP200的文章HTML（84,395字节），并非PDF。实际仍为2026-08-06的arXiv 2608.05667v1、12页，现有文件与本轮官方v1字节完全一致，SHA-256 `e50acc565066c465affdd9c21410ff70feb60262b851b385263c0e574e4d5b66`。本轮只目检身份页并核对元数据／哈希，**没有重读或重新验收下方既有物理解读**；接收稿上线日不当作最终VOR发表日。
+
 ## 基本信息
 
 - 作者：Yuxuan Wang；Huasheng Xie

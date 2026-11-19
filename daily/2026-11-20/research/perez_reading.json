@@ -1,0 +1,104 @@
+{
+  "pdf": "daily/2026-11-20/pdfs/perez-2026-neutron-response.pdf",
+  "pdf_sha256": "9ff27a6ebbe33aac5d544558fdd08198b9afee0b2ad7c8b7db43fb65e4f9cc4f",
+  "all_text_read": true,
+  "visually_reviewed_source_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "retained_crops": [
+    {
+      "path": "daily/2026-11-20/notes/images/perez-fig2.png",
+      "page_1based": 3,
+      "bbox_points": [
+        38,
+        70,
+        289,
+        446
+      ],
+      "render_scale": 2,
+      "sha256": "5b88a6b7f2f5a23624f5c627eb56811bbd37d233eb4330682fbfb903ca871e3c"
+    },
+    {
+      "path": "daily/2026-11-20/notes/images/perez-fig3.png",
+      "page_1based": 3,
+      "bbox_points": [
+        38,
+        514,
+        289,
+        716
+      ],
+      "render_scale": 2,
+      "sha256": "685ee7cdfdd3f1bc1510c79cee2c40db4039f0389436fc2e7e82119351086543"
+    },
+    {
+      "path": "daily/2026-11-20/notes/images/perez-fig4-table1.png",
+      "page_1based": 4,
+      "bbox_points": [
+        38,
+        135,
+        289,
+        689
+      ],
+      "render_scale": 2,
+      "sha256": "0d9b734f7568c8ae78a305e3978a9b8bd0da40ca206d012ad16567da9154b66c"
+    },
+    {
+      "path": "daily/2026-11-20/notes/images/perez-fig5.png",
+      "page_1based": 5,
+      "bbox_points": [
+        38,
+        78,
+        558,
+        509
+      ],
+      "render_scale": 2,
+      "sha256": "21b99e55870fa90e6a18b6a76f9998ee1a6036c17bb256a3377a1e923d5c6684"
+    },
+    {
+      "path": "daily/2026-11-20/notes/images/perez-fig6.png",
+      "page_1based": 5,
+      "bbox_points": [
+        163,
+        546,
+        436,
+        744
+      ],
+      "render_scale": 2,
+      "sha256": "fd43eb237ce0f6b7cbee18ca2c708a0f3e098cd96a8efa21677c05de452e603b"
+    },
+    {
+      "path": "daily/2026-11-20/notes/images/perez-fig7.png",
+      "page_1based": 6,
+      "bbox_points": [
+        38,
+        78,
+        558,
+        730
+      ],
+      "render_scale": 2,
+      "sha256": "59c95ad1c7967f0329aae39c078b68cec9ef27738803060836f4b483cce35925"
+    },
+    {
+      "path": "daily/2026-11-20/notes/images/perez-fig8.png",
+      "page_1based": 7,
+      "bbox_points": [
+        307,
+        78,
+        558,
+        278
+      ],
+      "render_scale": 2,
+      "sha256": "ff0d0e753dd2bb20bf884dc4fca09d4ed01671a0170667ef974c60466d8384ed"
+    }
+  ],
+  "reader": "primary agent",
+  "mineru_requests": 0,
+  "mineru_status": "historical authentication expiry not retested; explicit local text/rendering fallback",
+  "author_code_or_experiment_reruns": false
+}

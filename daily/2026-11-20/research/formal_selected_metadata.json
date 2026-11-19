@@ -1,0 +1,2426 @@
+[
+  {
+    "doi": "10.1017/hpl.2026.10195",
+    "prior_parallel_attempt": "429 interrupted initial batch; recovered sequentially",
+    "attempts": [
+      200
+    ],
+    "metadata": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            19
+          ]
+        ],
+        "date-time": "2026-11-19T08:16:39Z",
+        "timestamp": 1795076199310,
+        "version": "4.10.2"
+      },
+      "reference-count": 32,
+      "publisher": "Cambridge University Press (CUP)",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                11,
+                19
+              ]
+            ],
+            "date-time": "2026-11-19T00:00:00Z",
+            "timestamp": 1795046400000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 322,
+          "URL": "http://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                11,
+                19
+              ]
+            ],
+            "date-time": "2026-11-19T00:00:00Z",
+            "timestamp": 1795046400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 322,
+          "URL": "https://www.cambridge.org/tdm/tdmrep-policy.json"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/501100001809",
+          "name": "National Natural Science Foundation of China",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "U24A20311"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "U24A20311"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100001809",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "cambridge.org"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "High Pow Laser Sci Eng"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Stimulated Brillouin scattering remains the primary bottleneck for power scaling in narrow-linewidth fiber lasers. Conventional phase modulation, such as pseudo-random binary sequences or white noise, often yields suboptimal spectral profiles due to neglecting hardware-induced distortions. We propose a high-fidelity spectral shaping framework integrating nonlinear spectral optimization with a time-domain closed-loop waveform-fitting algorithm. In the simulation phase, driving waveforms are optimized point-wise based on a hardware-parameter model – including radio-frequency (RF) chain and phase modulator responses – to synthesize near-rectangular spectra. Subsequently, a real-time feedback system employs collective control compensation to mitigate RF-induced harmonics and intermodulation distortions, directly generating optimized driving waveforms for high-fidelity spectral reproduction. Experimentally, we demonstrate a 3.5 kW laser output using a 22/400 μm polarization-maintaining Yb-doped fiber, with a root-mean-square linewidth of 7.25 GHz and\n                    <jats:inline-formula>\n                      <jats:alternatives>\n                        <mml:math xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:mnf=\"http://cambridge.org/core/manifest\" xmlns:cup=\"http://contentservices.cambridge.org\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:m=\"http://cambridge.org/core/metadata\" xmlns:core=\"http://cambridge.org/core\" xmlns:c=\"http://cambridge.org/core/content\" display=\"inline\">\n                          <mml:msup>\n                            <mml:mrow>\n                              <mml:mi>M</mml:mi>\n                            </mml:mrow>\n                            <mml:mn>2</mml:mn>\n                          </mml:msup>\n                          <mml:mo>≈</mml:mo>\n                          <mml:mn>1.21</mml:mn>\n                        </mml:math>\n                        <jats:tex-math>${M}^2\\approx 1.21$</jats:tex-math>\n                        <jats:inline-graphic xmlns:xlink=\"http://www.w3.org/1999/xlink\" mime-subtype=\"png\" content-type=\"simple\" xlink:href=\"S2095471926101959_inline1.png\">\n                          <jats:alt-text content-type=\"machine-generated\">upper M squared almost equals 1.21</jats:alt-text>\n                        </jats:inline-graphic>\n                      </jats:alternatives>\n                    </jats:inline-formula>\n                    .\n                  </jats:p>",
+      "DOI": "10.1017/hpl.2026.10195",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            19
+          ]
+        ],
+        "date-time": "2026-11-19T07:51:26Z",
+        "timestamp": 1795074686000
+      },
+      "update-policy": "https://doi.org/10.1017/policypage",
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "High-fidelity spectral shaping via hardware-compensated waveform optimization for stimulated Brillouin scattering suppression in high-power fiber lasers"
+      ],
+      "prefix": "10.1017",
+      "volume": "14",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-7296-4322",
+          "authenticated-orcid": false,
+          "given": "Xiong",
+          "family": "Xin",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/02ggaqt78",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Laser Fusion Research Center, China Academy of Engineering Physics"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yuyang",
+          "family": "Peng",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/02ggaqt78",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Laser Fusion Research Center, China Academy of Engineering Physics"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Qiuhui",
+          "family": "Chu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/02ggaqt78",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Laser Fusion Research Center, China Academy of Engineering Physics"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Fang",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/02ggaqt78",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Laser Fusion Research Center, China Academy of Engineering Physics"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Dongyang",
+          "family": "Zou",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/02ggaqt78",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Laser Fusion Research Center, China Academy of Engineering Physics"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Wantao",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/02ggaqt78",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Laser Fusion Research Center, China Academy of Engineering Physics"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Benjian",
+          "family": "Shen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/02ggaqt78",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Laser Fusion Research Center, China Academy of Engineering Physics"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8356-8405",
+          "authenticated-orcid": false,
+          "given": "Yiwei",
+          "family": "Liao",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/011ashp19",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Sichuan University"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zhitao",
+          "family": "Peng",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/02ggaqt78",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Laser Fusion Research Center, China Academy of Engineering Physics"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Honghuan",
+          "family": "Lin",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/02ggaqt78",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Laser Fusion Research Center, China Academy of Engineering Physics"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jianjun",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/02ggaqt78",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Laser Fusion Research Center, China Academy of Engineering Physics"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-9880-811X",
+          "authenticated-orcid": false,
+          "given": "Rumao",
+          "family": "Tao",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/02ggaqt78",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Laser Fusion Research Center, China Academy of Engineering Physics"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-9674-8627",
+          "authenticated-orcid": false,
+          "given": "Chun",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/02ggaqt78",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Laser Fusion Research Center, China Academy of Engineering Physics"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "56",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            19
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "S2095471926101959_r1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1364/OE.526132"
+        },
+        {
+          "key": "S2095471926101959_r2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.optlastec.2023.110456"
+        },
+        {
+          "key": "S2095471926101959_r3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.optlastec.2025.112429"
+        },
+        {
+          "key": "S2095471926101959_r4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s41683-022-00099-4"
+        },
+        {
+          "key": "S2095471926101959_r5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1364/AO.422514"
+        },
+        {
+          "key": "S2095471926101959_r6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1364/OE.27.028523"
+        },
+        {
+          "key": "S2095471926101959_r7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1364/PRJ.557887"
+        },
+        {
+          "key": "S2095471926101959_r8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1364/OE.522400"
+        },
+        {
+          "key": "S2095471926101959_r9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3389/fphy.2022.1062533"
+        },
+        {
+          "key": "S2095471926101959_r10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1364/OE.496975"
+        },
+        {
+          "key": "S2095471926101959_r11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1364/OE.27.013129"
+        },
+        {
+          "key": "S2095471926101959_r12",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1017/hpl.2017.29"
+        },
+        {
+          "key": "S2095471926101959_r13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1364/OE.24.004187"
+        },
+        {
+          "key": "S2095471926101959_r14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1364/AO.58.006419"
+        },
+        {
+          "key": "S2095471926101959_r15",
+          "first-page": "1502815",
+          "volume": "12",
+          "author": "Wang",
+          "year": "2020",
+          "journal-title": "IEEE Photon. J."
+        },
+        {
+          "key": "S2095471926101959_r16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/nano12152541"
+        },
+        {
+          "key": "S2095471926101959_r17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1017/hpl.2021.32"
+        },
+        {
+          "key": "S2095471926101959_r18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.optcom.2010.02.007"
+        },
+        {
+          "key": "S2095471926101959_r19",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41598-019-57408-5"
+        },
+        {
+          "key": "S2095471926101959_r20",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/nano13081329"
+        },
+        {
+          "key": "S2095471926101959_r21",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1364/OE.483362"
+        },
+        {
+          "key": "S2095471926101959_r22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1364/OE.449779"
+        },
+        {
+          "key": "S2095471926101959_r23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1364/AO.431081"
+        },
+        {
+          "key": "S2095471926101959_r24",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/JPHOT.2021.3111207"
+        },
+        {
+          "key": "S2095471926101959_r25",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/JLT.2022.3187766"
+        },
+        {
+          "key": "S2095471926101959_r26",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/LPT.2023.3249209"
+        },
+        {
+          "key": "S2095471926101959_r27",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1364/OE.23.006988"
+        },
+        {
+          "key": "S2095471926101959_r28",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/JSTQE.2017.2753041"
+        },
+        {
+          "key": "S2095471926101959_r29",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1364/OE.425159"
+        },
+        {
+          "key": "S2095471926101959_r30",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3389/fphy.2023.1198305"
+        },
+        {
+          "key": "S2095471926101959_r31",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/TMTT.2023.3327468"
+        },
+        {
+          "key": "S2095471926101959_r32",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/TMTT.2023.3240030"
+        }
+      ],
+      "container-title": [
+        "High Power Laser Science and Engineering"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S2095471926101959",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S2095471926101959",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            19
+          ]
+        ],
+        "date-time": "2026-11-19T07:51:27Z",
+        "timestamp": 1795074687000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.cambridge.org/core/product/identifier/S2095471926101959/type/journal_article"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "references-count": 32,
+      "alternative-id": [
+        "S2095471926101959"
+      ],
+      "URL": "https://doi.org/10.1017/hpl.2026.10195",
+      "relation": {},
+      "ISSN": [
+        "2095-4719",
+        "2052-3289"
+      ],
+      "issn-type": [
+        {
+          "value": "2095-4719",
+          "type": "print"
+        },
+        {
+          "value": "2052-3289",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "© The Author(s), 2026. Published by Cambridge University Press in association with Chinese Laser Press",
+          "name": "copyright",
+          "label": "Copyright",
+          "group": {
+            "name": "copyright_and_licensing",
+            "label": "Copyright and Licensing"
+          }
+        },
+        {
+          "value": "This is an Open Access article, distributed under the terms of the Creative Commons Attribution licence (https://creativecommons.org/licenses/by/4.0), which permits unrestricted re-use, distribution and reproduction, provided the original article is properly cited.",
+          "name": "license",
+          "label": "License",
+          "group": {
+            "name": "copyright_and_licensing",
+            "label": "Copyright and Licensing"
+          }
+        },
+        {
+          "value": "This content has been made available to all.",
+          "name": "free",
+          "label": "Free to read"
+        }
+      ],
+      "article-number": "e105"
+    }
+  },
+  {
+    "doi": "10.1088/2058-6272/aec41f",
+    "prior_parallel_attempt": "429 interrupted initial batch; recovered sequentially",
+    "attempts": [
+      200
+    ],
+    "metadata": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            19
+          ]
+        ],
+        "date-time": "2026-11-19T01:17:53Z",
+        "timestamp": 1795051073027,
+        "version": "4.10.2"
+      },
+      "reference-count": 0,
+      "publisher": "IOP Publishing",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                11,
+                19
+              ]
+            ],
+            "date-time": "2026-11-19T00:00:00Z",
+            "timestamp": 1795046400000
+          },
+          "content-version": "am",
+          "delay-in-days": 0,
+          "URL": "https://publishingsupport.iopscience.iop.org/iop-standard/v1"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                11,
+                19
+              ]
+            ],
+            "date-time": "2026-11-19T00:00:00Z",
+            "timestamp": 1795046400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://iopscience.iop.org/info/page/text-and-data-mining"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Plasma Sci. Technol."
+      ],
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Ray tracing codes are useful tools for studying electromagnetic wave propagation and absorption using the geometrical-optics approximation. BORAY-3D integrates three desirable features in a single version. First, it has a broad frequency range of validity regime from ion-cyclotron, helicon and lower-hybrid waves to electron-cyclotron (EC) waves and emission. Second, it provides an unified treatment of arbitrary two- and three-dimensional magnetic-plasma configurations, including both closed and open field-line regions. Third, it incorporates fully relativistic Maxwellian EC absorption. The code extends the axisymmetric BORAY formulation by solving the ray equations in cylindrical coordinates $(r,\\phi,z)$ while allowing the toroidal mode number $n_\\phi$ to vary. Magnetic-field, density and temperature data are directly described in $(r,\\phi,z)$ coordinates without the restriction of flux functions, so that numerical equilibria and analytic field models can be handled in the same form. The non-relativistic hot-plasma model inherited from BORAY is used for lower-hybrid, ion-cyclotron and helicon absorption, whereas the relativistic model is coupled to reciprocal radiative transfer for electron cyclotron emission (ECE). Practical applications include 13.56 MHz helicon and 50 MHz fast waves, a 3.7 GHz lower-hybrid wave, and 115--220 GHz EC emission. BORAY-3D has been systematically benchmarked against GENRAY for tokamak toroidal-field ripple, Raytrax and TRAVIS for W7-X, as well as public HSX heating and W7-X ECE results.</jats:p>",
+      "DOI": "10.1088/2058-6272/aec41f",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            19
+          ]
+        ],
+        "date-time": "2026-11-19T00:47:48Z",
+        "timestamp": 1795049268000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "BORAY-3D: a ray-tracing code for three-dimensional magnetized plasma configurations"
+      ],
+      "prefix": "10.1088",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0003-2775-2691",
+          "authenticated-orcid": false,
+          "given": "Yuxuan",
+          "family": "WANG",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Beijing VeloAlpha Technology Co., Ltd"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Huasheng",
+          "family": "Xie",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Beijing VeloAlpha Technology Co. Ltd."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "266",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            19
+          ]
+        ]
+      },
+      "container-title": [
+        "Plasma Science and Technology"
+      ],
+      "original-title": [],
+      "link": [
+        {
+          "URL": "https://iopscience.iop.org/article/10.1088/2058-6272/aec41f",
+          "content-type": "text/html",
+          "content-version": "am",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://iopscience.iop.org/article/10.1088/2058-6272/aec41f/pdf",
+          "content-type": "application/pdf",
+          "content-version": "am",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://iopscience.iop.org/article/10.1088/2058-6272/aec41f/pdf",
+          "content-type": "application/pdf",
+          "content-version": "am",
+          "intended-application": "syndication"
+        },
+        {
+          "URL": "https://iopscience.iop.org/article/10.1088/2058-6272/aec41f/pdf",
+          "content-type": "application/pdf",
+          "content-version": "am",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            19
+          ]
+        ],
+        "date-time": "2026-11-19T00:47:48Z",
+        "timestamp": 1795049268000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://iopscience.iop.org/article/10.1088/2058-6272/aec41f"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            19
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.1088/2058-6272/aec41f",
+      "relation": {},
+      "ISSN": [
+        "1009-0630",
+        "2058-6272"
+      ],
+      "issn-type": [
+        {
+          "value": "1009-0630",
+          "type": "print"
+        },
+        {
+          "value": "2058-6272",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            19
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "doi": "10.1103/33h4-lf1m",
+    "prior_parallel_attempt": "429 interrupted initial batch; recovered sequentially",
+    "attempts": [
+      200
+    ],
+    "metadata": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            19
+          ]
+        ],
+        "date-time": "2026-11-19T15:20:44Z",
+        "timestamp": 1795101644190,
+        "version": "4.10.3"
+      },
+      "reference-count": 0,
+      "publisher": "American Physical Society (APS)",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                11,
+                19
+              ]
+            ],
+            "date-time": "2026-11-19T00:00:00Z",
+            "timestamp": 1795046400000
+          },
+          "content-version": "am",
+          "delay-in-days": 0,
+          "URL": "https://link.aps.org/licenses/aps-default-license"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "journals.aps.org"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Phys. Rev. Research"
+      ],
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            19
+          ]
+        ]
+      },
+      "DOI": "10.1103/33h4-lf1m",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            19
+          ]
+        ],
+        "date-time": "2026-11-19T14:42:55Z",
+        "timestamp": 1795099375000
+      },
+      "update-policy": "https://doi.org/10.1103/crossmark-policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Demonstration of a 10-metre-long discharge plasma source for plasma wakefield acceleration"
+      ],
+      "prefix": "10.1103",
+      "author": [
+        {
+          "given": "C.",
+          "family": "Amoedo",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "N.",
+          "family": "Lopes",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "N. E.",
+          "family": "Torrado",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "F.",
+          "family": "Silva",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "P.",
+          "family": "Muggli",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "L.",
+          "family": "Verra",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "M.",
+          "family": "Turner",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "G. Zevi Della",
+          "family": "Porta",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "M.",
+          "family": "Bergamaschi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "A.",
+          "family": "Clairembaud",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "J.",
+          "family": "Mezger",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "F.",
+          "family": "Pannell",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "N. Z.",
+          "family": "van Gils",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "E.",
+          "family": "Gschwendtner",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "A.",
+          "family": "Sublet",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "C. C.",
+          "family": "Ahdida",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Y.",
+          "family": "Alekajbaf",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "O.",
+          "family": "Apsimon",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "R.",
+          "family": "Apsimon",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "T.",
+          "family": "Bachmann",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "C.",
+          "family": "Badiali",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "M.",
+          "family": "Baquero",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "E.",
+          "family": "Belli",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "A.",
+          "family": "Boccardi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "T.",
+          "family": "Bogey",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "S.",
+          "family": "Burger",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "P. N.",
+          "family": "Burrows",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "B.",
+          "family": "Buttenschön",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "A.",
+          "family": "Caldwell",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "M.",
+          "family": "Chung",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "C. C.",
+          "family": "Cobo",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "D. A.",
+          "family": "Cooke",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "D.",
+          "family": "Dancila",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "C.",
+          "family": "Davut",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "G.",
+          "family": "Demeter",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "A. C.",
+          "family": "Dexter",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "S.",
+          "family": "Doebert",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "A.",
+          "family": "Eager",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "D.",
+          "family": "Easton",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "B.",
+          "family": "Elward",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "J.",
+          "family": "Farmer",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "R.",
+          "family": "Fonseca",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "I.",
+          "family": "Furno",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "A.",
+          "family": "Gerbershagen",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "D.",
+          "family": "Ghosal",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "E.",
+          "family": "Granados",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "J.",
+          "family": "Gregory",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "O.",
+          "family": "Grulke",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "E.",
+          "family": "Guran",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "D.",
+          "family": "Harryman",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "M.",
+          "family": "Hibberd",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "H.",
+          "family": "Jaworska",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "P.",
+          "family": "Karataev",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "R.",
+          "family": "Karimov",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "M. A.",
+          "family": "Kedves",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "F.",
+          "family": "Kraus",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "M.",
+          "family": "Krupa",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "T.",
+          "family": "Lefevre",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "K.",
+          "family": "Lotov",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "J.",
+          "family": "McGunigal",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "M.",
+          "family": "Moreira",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "B.",
+          "family": "Moser",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Z.",
+          "family": "Najmudin",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "S.",
+          "family": "Norman",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "N.",
+          "family": "Okhotnikov",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "A.",
+          "family": "Omoumi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "C.",
+          "family": "Pakuza",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "A.",
+          "family": "Pardons",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "J.",
+          "family": "Pisani",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "A.",
+          "family": "Pukhov",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "L.",
+          "family": "Ranc",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "R.",
+          "family": "Rossel",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "H.",
+          "family": "Saberi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "M. V.",
+          "family": "Santos",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "O.",
+          "family": "Schmitz",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "F.",
+          "family": "Sharmin",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "L.",
+          "family": "Silva",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "B.",
+          "family": "Spear",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "L.",
+          "family": "Stant",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "C.",
+          "family": "Stollberg",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "C.",
+          "family": "Swain",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "G.",
+          "family": "Tenasini",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "A.",
+          "family": "Topaloudis",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "P.",
+          "family": "Tuev",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "J.",
+          "family": "Uncles",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "F.",
+          "family": "Velotti",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "J.",
+          "family": "Vieira",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "C.",
+          "family": "Welsch",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "T.",
+          "family": "Wilson",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "M.",
+          "family": "Wing",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "J.",
+          "family": "Wolfenden",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "B.",
+          "family": "Woolley",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "G.",
+          "family": "Xia",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "V.",
+          "family": "Yarygova",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "W.",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "16",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            19
+          ]
+        ]
+      },
+      "container-title": [
+        "Physical Review Research"
+      ],
+      "original-title": [],
+      "language": "en",
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            19
+          ]
+        ],
+        "date-time": "2026-11-19T14:42:55Z",
+        "timestamp": 1795099375000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://link.aps.org/doi/10.1103/33h4-lf1m"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            19
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.1103/33h4-lf1m",
+      "relation": {},
+      "ISSN": [
+        "2643-1564"
+      ],
+      "issn-type": [
+        {
+          "value": "2643-1564",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            19
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "2026-09-10",
+          "name": "date_received",
+          "label": "Date Received",
+          "group": {
+            "name": "publication_dates",
+            "label": "Publication dates"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "doi": "10.1103/zh5q-4hp9",
+    "prior_parallel_attempt": "429 interrupted initial batch; recovered sequentially",
+    "attempts": [
+      200
+    ],
+    "metadata": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            19
+          ]
+        ],
+        "date-time": "2026-11-19T14:19:04Z",
+        "timestamp": 1795097944485,
+        "version": "4.10.3"
+      },
+      "reference-count": 0,
+      "publisher": "American Physical Society (APS)",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                11,
+                19
+              ]
+            ],
+            "date-time": "2026-11-19T00:00:00Z",
+            "timestamp": 1795046400000
+          },
+          "content-version": "am",
+          "delay-in-days": 0,
+          "URL": "https://link.aps.org/licenses/aps-default-license"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "journals.aps.org"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Phys. Rev. D"
+      ],
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            19
+          ]
+        ]
+      },
+      "DOI": "10.1103/zh5q-4hp9",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            19
+          ]
+        ],
+        "date-time": "2026-11-19T13:34:11Z",
+        "timestamp": 1795095251000
+      },
+      "update-policy": "https://doi.org/10.1103/crossmark-policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Shock-driven plasma spin polarization and polarized gamma-ray emission in hard-state black-hole jets"
+      ],
+      "prefix": "10.1103",
+      "author": [
+        {
+          "given": "Zhi-Bo",
+          "family": "Zhang",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Baifei",
+          "family": "Shen",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zheng",
+          "family": "Gong",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yue-Yue",
+          "family": "Chen",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "16",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            19
+          ]
+        ]
+      },
+      "container-title": [
+        "Physical Review D"
+      ],
+      "original-title": [],
+      "language": "en",
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            19
+          ]
+        ],
+        "date-time": "2026-11-19T13:34:11Z",
+        "timestamp": 1795095251000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://link.aps.org/doi/10.1103/zh5q-4hp9"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            19
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.1103/zh5q-4hp9",
+      "relation": {},
+      "ISSN": [
+        "2470-0010",
+        "2470-0029"
+      ],
+      "issn-type": [
+        {
+          "value": "2470-0010",
+          "type": "print"
+        },
+        {
+          "value": "2470-0029",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            19
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "2026-09-22",
+          "name": "date_received",
+          "label": "Date Received",
+          "group": {
+            "name": "publication_dates",
+            "label": "Publication dates"
+          }
+        }
+      ]
+    }
+  }
+]

@@ -2,11 +2,14 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：259 篇
-- 索引更新时间：2026-11-19
+- 当前收录：262 篇
+- 索引更新时间：2026-11-20
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-20 | [The role of externally-driven density fluctuations in the enhancement of beam spray](../papers/arxiv-2611-24914/README.md) | arXiv preprint; submitted to PRL, acceptance/publication unverified | [笔记](../daily/2026-11-20/notes/mcmillen-2026-beam-spray.md) |
+| 2026-11-20 | [Polarized positron generation via laser-engineered quasistatic magnetic fields in a spatially extended herringbone target](../papers/arxiv-2611-24069/README.md) | arXiv preprint | [笔记](../daily/2026-11-20/notes/wu-2026-herringbone.md) |
+| 2026-11-20 | [Characterization of the fast neutron response of liquid scintillator detectors at NFS](../papers/arxiv-2611-24118/README.md) | arXiv preprint; submitted to NIM A, acceptance/publication unverified | [笔记](../daily/2026-11-20/notes/perez-2026-neutron-response.md) |
 | 2026-11-19 | [Learning Similarity-Reduced Ion Kinetics across Scales and Regimes in Capacitively Coupled Plasmas](../papers/arxiv-2611-22165/README.md) | arXiv preprint; submitted to Applied Physics Letters, not verified accepted | [笔记](../daily/2026-11-19/notes/zhang-2026-ion-kinetics.md) |
 | 2026-11-18 | [Linear Electrostatic Instabilities Driven by Relativistic Non-Maxwellian Pair Beams](../papers/10-3390-plasma9040049/README.md) | Plasma 9(4), 49 (publisher VOR) | [笔记](../daily/2026-11-18/notes/dey-2026-pair-beams.md) |
 | 2026-11-18 | [A spherical body in plasma simulated with adaptive mesh and algorithm refinement](../papers/arxiv-2611-21466/README.md) | arXiv preprint | [笔记](../daily/2026-11-18/notes/kolobov-2026-sphere.md) |

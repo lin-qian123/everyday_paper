@@ -3,7 +3,7 @@
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
 - 当前收录：185 篇
-- 索引更新时间：2026-11-19
+- 索引更新时间：2026-11-20
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
@@ -79,8 +79,8 @@ LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯
 | 2026-09-17 | [KEMPIC-3D: A transparent and extensible electromagnetic Particle-in-Cell framework for kinetic plasma simulations](../papers/arxiv-2609-16575/README.md) | arXiv preprint | [笔记](../daily/2026-09-17/notes/Lopez et al. - 2026 - KEMPIC-3D PIC framework.md) |
 | 2026-09-16 | [Direct observation of electron shedding from a laser-plasma accelerator](../papers/arxiv-2609-15968/README.md) | arXiv preprint | [笔记](../daily/2026-09-16/notes/Tata et al. - 2026 - Electron shedding from a laser-plasma accelerator.md) |
 | 2026-09-12 | [Physics-Informed Drift Diagnosis for Laser-Plasma Accelerator Operations](../papers/arxiv-2609-11874/README.md) | arXiv preprint | [笔记](../daily/2026-09-12/notes/Labun et al. - 2026 - Physics-informed drift diagnosis for laser-plasma accelerator operations.md) |
-| 2026-09-10 | [Demonstration of a 10-metre-long discharge plasma source for plasma wakefield acceleration](../papers/arxiv-2609-08551/README.md) | arXiv preprint | [笔记](../daily/2026-09-10/notes/Amoedo et al. - 2026 - 10-metre discharge plasma source for AWAKE.md) |
 | 2026-09-10 | [Magnetic island structures in relativistic laser-driven plasma channels](../papers/arxiv-2609-06562/README.md) | arXiv preprint | [笔记](../daily/2026-09-10/notes/Cai et al. - 2026 - Magnetic islands in relativistic laser-driven plasma channels.md) |
+| 2026-09-10 | [Demonstration of a 10-metre-long discharge plasma source for plasma wakefield acceleration](../papers/10-1103-33h4-lf1m/README.md) | Physical Review Research; accepted, publication unverified | [笔记](../daily/2026-09-10/notes/Amoedo et al. - 2026 - 10-metre discharge plasma source for AWAKE.md) |
 | 2026-09-08 | [Start-to-end optimization framework for free-electron lasers driven by laser wakefield accelerators](../papers/10-1017-hpl-2026-10191/README.md) | High Power Laser Science and Engineering (accepted manuscript, open access) | [笔记](../daily/2026-09-08/notes/Ge et al. - 2026 - LWFA-driven FEL start-to-end optimization.md) |
 | 2026-09-08 | [Energetic helical electron-bunch generation driven by a light spring wakefield](../papers/10-1017-hpl-2026-10192/README.md) | High Power Laser Science and Engineering (accepted manuscript, open access) | [笔记](../daily/2026-09-08/notes/Liu et al. - 2026 - Light-spring helical electron bunch.md) |
 | 2026-09-06 | [High-Flux X-Ray Emission due to Injection into a Laser-Wakefield Accelerator beyond Its Depletion Length](../papers/10-1103-krsl-322s/README.md) | Physical Review Letters | [笔记](../daily/2026-09-06/notes/Wood et al. - 2026 - High-flux X-ray emission beyond LWFA depletion length.md) |

@@ -1,5 +1,9 @@
 # AWAKE 十米脉冲放电等离子体源实验笔记
 
+## 2026-11-20 正式状态补充（仅元数据）
+
+[PRResearch DOI 10.1103/33h4-lf1m](https://doi.org/10.1103/33h4-lf1m)的Crossref记录为 **2026-11-19接收**；同日online字段未得到独立发表验证，台账最终发表日保留空值。相同标题、作者／AWAKE合作组和实验场景，原位补元数据，不重复入库。APS接收页／PDF为403（PDF端点HTML 5,556字节），official harvest为404（JSON 52字节）。实际仍为2026-09-08的arXiv 2609.08551v1、10页，现有文件与本轮官方v1字节完全一致，SHA-256 `12644449bbca1c7b56874dfc0ae595587865d0bdcd6736b4ebe63a83c6861f9a`。本轮只目检身份页并核对元数据／哈希，**没有重读或重新验收下方既有物理解读**，没有新取得最终期刊全文。
+
 ## 0. 论文信息
 
 - 英文标题：Demonstration of a 10-metre-long discharge plasma source for plasma wakefield acceleration

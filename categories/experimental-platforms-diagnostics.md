@@ -2,11 +2,15 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：206 篇
-- 索引更新时间：2026-11-19
+- 当前收录：210 篇
+- 索引更新时间：2026-11-20
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-20 | [High-fidelity spectral shaping via hardware-compensated waveform optimization for stimulated Brillouin scattering suppression in high-power fiber lasers](../papers/10-1017-hpl-2026-10195/README.md) | High Power Laser Science and Engineering | [笔记](../daily/2026-11-20/notes/xin-2026-sbs.md) |
+| 2026-11-20 | [The role of externally-driven density fluctuations in the enhancement of beam spray](../papers/arxiv-2611-24914/README.md) | arXiv preprint; submitted to PRL, acceptance/publication unverified | [笔记](../daily/2026-11-20/notes/mcmillen-2026-beam-spray.md) |
+| 2026-11-20 | [Polarized positron generation via laser-engineered quasistatic magnetic fields in a spatially extended herringbone target](../papers/arxiv-2611-24069/README.md) | arXiv preprint | [笔记](../daily/2026-11-20/notes/wu-2026-herringbone.md) |
+| 2026-11-20 | [Characterization of the fast neutron response of liquid scintillator detectors at NFS](../papers/arxiv-2611-24118/README.md) | arXiv preprint; submitted to NIM A, acceptance/publication unverified | [笔记](../daily/2026-11-20/notes/perez-2026-neutron-response.md) |
 | 2026-11-19 | [Monte Carlo assessment of a D–T neutron generator-based beam shaping assembly for BNCT: moderator effects on neutron spectrum and dose](../papers/10-1038-s41598-026-80838-x/README.md) | Scientific Reports | [笔记](../daily/2026-11-19/notes/asghari-2026-bnct.md) |
 | 2026-11-18 | [Physics-guided deep learning for high resolution X-ray free-electron laser imaging](../papers/10-1038-s41598-026-80553-7/README.md) | Scientific Reports (Article in Press; final VOR not acquired) | [笔记](../daily/2026-11-18/notes/lee-2026-xfel.md) |
 | 2026-11-18 | [A spherical body in plasma simulated with adaptive mesh and algorithm refinement](../papers/arxiv-2611-21466/README.md) | arXiv preprint | [笔记](../daily/2026-11-18/notes/kolobov-2026-sphere.md) |
@@ -131,8 +135,8 @@
 | 2026-09-13 | [Coupling periodic-cell and finite-bunch dynamics for structured photocathodes](../papers/arxiv-2609-11844/README.md) | arXiv preprint | [笔记](../daily/2026-09-13/notes/Bazyl and Zagorodnov - 2026 - Structured photocathode multiscale coupling.md) |
 | 2026-09-12 | [Physics-Informed Drift Diagnosis for Laser-Plasma Accelerator Operations](../papers/arxiv-2609-11874/README.md) | arXiv preprint | [笔记](../daily/2026-09-12/notes/Labun et al. - 2026 - Physics-informed drift diagnosis for laser-plasma accelerator operations.md) |
 | 2026-09-12 | [Experimental Plasma Density Profiles Determined Through Measurements of the Magnetosonic Wave Speed](../papers/arxiv-2609-11743/README.md) | arXiv preprint (submitted to Physics of Plasmas) | [笔记](../daily/2026-09-12/notes/Kuchta et al. - 2026 - Magnetosonic-wave plasma density profiles.md) |
-| 2026-09-10 | [Demonstration of a 10-metre-long discharge plasma source for plasma wakefield acceleration](../papers/arxiv-2609-08551/README.md) | arXiv preprint | [笔记](../daily/2026-09-10/notes/Amoedo et al. - 2026 - 10-metre discharge plasma source for AWAKE.md) |
 | 2026-09-10 | [Self-organized positron reorienting and pinching mechanism for the experimental detection of the linear Breit-Wheeler process](../papers/arxiv-2609-07584/README.md) | arXiv preprint | [笔记](../daily/2026-09-10/notes/He et al. - 2026 - Self-organized positron reorienting for linear Breit-Wheeler.md) |
+| 2026-09-10 | [Demonstration of a 10-metre-long discharge plasma source for plasma wakefield acceleration](../papers/10-1103-33h4-lf1m/README.md) | Physical Review Research; accepted, publication unverified | [笔记](../daily/2026-09-10/notes/Amoedo et al. - 2026 - 10-metre discharge plasma source for AWAKE.md) |
 | 2026-09-09 | [The Fusion Equilibrium Challenge: Inferring Magnetic Geometry Without Magnetic Diagnostics](../papers/arxiv-2609-01750/README.md) | arXiv preprint | [笔记](../daily/2026-09-09/notes/Nakkina et al. - 2026 - Fusion Equilibrium Challenge.md) |
 | 2026-09-07 | [Experimental Investigation of laser driven proton bunching with plastic foil targets](../papers/10-1017-hpl-2026-10184/README.md) | High Power Laser Science and Engineering (accepted manuscript, open access) | [笔记](../daily/2026-09-07/notes/Batani et al. - 2026 - Laser-driven proton bunching with plastic foils.md) |
 | 2026-09-04 | [Chirped-Pulse Forward Raman Amplification in Nonuniform Plasmas](../papers/arxiv-2609-02326/README.md) | arXiv preprint | [笔记](../daily/2026-09-04/notes/Lei et al. - 2026 - Chirped-Pulse Forward Raman Amplification in Nonuniform Plasmas.md) |

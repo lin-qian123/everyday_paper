@@ -1,0 +1,115 @@
+{
+  "paper": "Polarized positron generation via laser-engineered quasistatic magnetic fields in a spatially extended herringbone target",
+  "arxiv_version": "2611.24069v1",
+  "source_pdf": "daily/2026-11-20/pdfs/wu-2026-herringbone.pdf",
+  "pdf_sha256": "664ed76ca4d9587140efc17438c606be6a33de4fbeb1e85e19f9244bf5e523e6",
+  "pdf_pages": 11,
+  "note_path": "daily/2026-11-20/notes/wu-2026-herringbone.md",
+  "reader": "delegated read_qed agent",
+  "reading_scope": "full main text, Methods, availability statements, references; no appendix present",
+  "source_pages_visually_reviewed": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "all_four_retained_crops_reopened_by_reader": true,
+  "crops": [
+    {
+      "path": "daily/2026-11-20/notes/images/wu-fig2.png",
+      "source_page": 3,
+      "bbox_pdf_points": [
+        48,
+        45,
+        568,
+        458
+      ],
+      "render_scale": 2,
+      "sha256": "56565457dcea8f191d855d62d64de78208c612e43810fba44610b6d76a1b695c",
+      "source_pixel_match": true
+    },
+    {
+      "path": "daily/2026-11-20/notes/images/wu-fig3.png",
+      "source_page": 5,
+      "bbox_pdf_points": [
+        48,
+        45,
+        568,
+        433
+      ],
+      "render_scale": 2,
+      "sha256": "8256c62b1cdc492465fd7de183cfe746e027cc90e8d5eac605559ced73b7b744",
+      "source_pixel_match": true
+    },
+    {
+      "path": "daily/2026-11-20/notes/images/wu-fig4.png",
+      "source_page": 5,
+      "bbox_pdf_points": [
+        48,
+        441,
+        568,
+        582
+      ],
+      "render_scale": 2,
+      "sha256": "ea8860d1b50f8773dbd47d60b740570a08ab74332cf76313e91bbdaa77947b14",
+      "source_pixel_match": true
+    },
+    {
+      "path": "daily/2026-11-20/notes/images/wu-fig6.png",
+      "source_page": 8,
+      "bbox_pdf_points": [
+        48,
+        45,
+        568,
+        420
+      ],
+      "render_scale": 2,
+      "sha256": "ebc6acf2af64f44c48cf85f2b5c2cf1ff73d458a528aa3a021ffb60ef64205f3",
+      "source_pixel_match": true
+    }
+  ],
+  "mineru_requests": 0,
+  "mineru_status": "historical authentication expiry not retested; explicit local text extraction and rendering fallback",
+  "author_code_or_simulation_reruns": false,
+  "science_evidence_type": "collisionless 3D spin-resolved QED-PIC proposal; no new experiment",
+  "static_calculations": {
+    "incident_electrons_0p1nC": 624150907.4460763,
+    "yield_1p799e7": 0.02882315764566,
+    "ampere_sheet_B_T": 672929.1463989336,
+    "cell_size_nm": 20.833333333333332,
+    "skin_depth_cells": 3.024,
+    "intensity_FWHM_T0": 9.990655244,
+    "fig4_denominator": "each selected branch divided by ALL generated positrons",
+    "five_degree_each_branch_absolute_yield": [
+      0.0036864,
+      0.00338976
+    ],
+    "five_degree_sum_opposite_spin_branches_yield": 0.00707616,
+    "ten_degree_each_branch_absolute_yield": [
+      0.00098784,
+      0.00089856
+    ],
+    "ten_degree_relative_average_percent": 3.275,
+    "twenty_degree_each_branch_absolute_yield": [
+      8.352e-05,
+      6.912e-05
+    ]
+  },
+  "main_boundaries": [
+    "all-generated net polarization +1.83%; positive/negative deflection branches carry opposite spins",
+    "abstract ~0.007 absolute yield numerically matches summed 5-degree branches; cannot call their unseparated sum one 63-percent polarized beam",
+    "body 3.28 percent at 10 degrees approximates per-branch relative-yield average, not absolute per-electron yield",
+    "nearly 90 percent is curve tail with reduced yield; not simultaneous with 0.007",
+    "peak >1e6 T and sustained ~50B0 >100fs are distinct",
+    "cold dense collisionless target; no fabrication, prepulse or timing-jitter model",
+    "single stated resolution, ~3 cells relativistic skin depth; no grid/particle/random-seed convergence sweep",
+    "LCFA-related spin rates and cited code modules not independently rerun or validated",
+    "data and code on reasonable request; no fixed input/selection script acquired",
+    "no photonuclear, neutron, dose, shielding or end-to-end beamline validation"
+  ],
+  "checked_at": "2026-11-19T23:11:09.790682+00:00"
+}

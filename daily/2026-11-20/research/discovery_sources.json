@@ -1,0 +1,238 @@
+{
+  "run_date": "2026-11-20",
+  "checked_at": "2026-11-19T23:17:14.649236+00:00",
+  "formal_first": true,
+  "crossref": {
+    "date_filter": "online2026-11-19..20 journal-article",
+    "themes": 10,
+    "rows_each": 40,
+    "rows_returned": 400,
+    "distinct_dois": 351,
+    "statuses": [
+      200,
+      200,
+      200,
+      200,
+      200,
+      200,
+      200,
+      200,
+      200,
+      200
+    ],
+    "requests": [
+      {
+        "query": "laser plasma acceleration",
+        "url": "https://api.crossref.org/works?query=laser+plasma+acceleration&filter=from-online-pub-date%3A2026-11-19%2Cuntil-online-pub-date%3A2026-11-20%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "attempts": [
+          200
+        ],
+        "status": 200,
+        "error": null
+      },
+      {
+        "query": "strong field QED radiation reaction",
+        "url": "https://api.crossref.org/works?query=strong+field+QED+radiation+reaction&filter=from-online-pub-date%3A2026-11-19%2Cuntil-online-pub-date%3A2026-11-20%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "attempts": [
+          200
+        ],
+        "status": 200,
+        "error": null
+      },
+      {
+        "query": "high energy density inertial confinement fusion",
+        "url": "https://api.crossref.org/works?query=high+energy+density+inertial+confinement+fusion&filter=from-online-pub-date%3A2026-11-19%2Cuntil-online-pub-date%3A2026-11-20%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "attempts": [
+          200
+        ],
+        "status": 200,
+        "error": null
+      },
+      {
+        "query": "particle in cell kinetic plasma simulation",
+        "url": "https://api.crossref.org/works?query=particle+in+cell+kinetic+plasma+simulation&filter=from-online-pub-date%3A2026-11-19%2Cuntil-online-pub-date%3A2026-11-20%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "attempts": [
+          200
+        ],
+        "status": 200,
+        "error": null
+      },
+      {
+        "query": "machine learning plasma accelerator",
+        "url": "https://api.crossref.org/works?query=machine+learning+plasma+accelerator&filter=from-online-pub-date%3A2026-11-19%2Cuntil-online-pub-date%3A2026-11-20%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "attempts": [
+          200
+        ],
+        "status": 200,
+        "error": null
+      },
+      {
+        "query": "electron converter bremsstrahlung gamma source",
+        "url": "https://api.crossref.org/works?query=electron+converter+bremsstrahlung+gamma+source&filter=from-online-pub-date%3A2026-11-19%2Cuntil-online-pub-date%3A2026-11-20%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "attempts": [
+          200
+        ],
+        "status": 200,
+        "error": null
+      },
+      {
+        "query": "photonuclear photoneutron isotope production",
+        "url": "https://api.crossref.org/works?query=photonuclear+photoneutron+isotope+production&filter=from-online-pub-date%3A2026-11-19%2Cuntil-online-pub-date%3A2026-11-20%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "attempts": [
+          200
+        ],
+        "status": 200,
+        "error": null
+      },
+      {
+        "query": "laser ion target nuclear reaction irradiation",
+        "url": "https://api.crossref.org/works?query=laser+ion+target+nuclear+reaction+irradiation&filter=from-online-pub-date%3A2026-11-19%2Cuntil-online-pub-date%3A2026-11-20%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "attempts": [
+          200
+        ],
+        "status": 200,
+        "error": null
+      },
+      {
+        "query": "beam shielding radiation diagnostics",
+        "url": "https://api.crossref.org/works?query=beam+shielding+radiation+diagnostics&filter=from-online-pub-date%3A2026-11-19%2Cuntil-online-pub-date%3A2026-11-20%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "attempts": [
+          200
+        ],
+        "status": 200,
+        "error": null
+      },
+      {
+        "query": "fusion neutron nuclear diagnostic",
+        "url": "https://api.crossref.org/works?query=fusion+neutron+nuclear+diagnostic&filter=from-online-pub-date%3A2026-11-19%2Cuntil-online-pub-date%3A2026-11-20%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "attempts": [
+          200
+        ],
+        "status": 200,
+        "error": null
+      }
+    ],
+    "unselected_author_policy": "first three names and total author_count; no institutions",
+    "subsequent_selected_metadata": "initial parallel fetch interrupted by429; four DOI queries recovered sequentially200"
+  },
+  "arxiv": {
+    "rows": 351,
+    "distinct_ids": 330,
+    "latest_blocks": [
+      {
+        "category": "physics.plasm-ph",
+        "url": "https://arxiv.org/list/physics.plasm-ph/recent?show=2000",
+        "status": 200,
+        "date_block": "Thu, 19 Nov 2026 (showing 10 of 10 entries )",
+        "error": null,
+        "rows": 10
+      },
+      {
+        "category": "physics.acc-ph",
+        "url": "https://arxiv.org/list/physics.acc-ph/recent?show=2000",
+        "status": 200,
+        "date_block": "Thu, 19 Nov 2026 (showing 3 of 3 entries )",
+        "error": null,
+        "rows": 3
+      },
+      {
+        "category": "physics.comp-ph",
+        "url": "https://arxiv.org/list/physics.comp-ph/recent?show=2000",
+        "status": 200,
+        "date_block": "Thu, 19 Nov 2026 (showing 22 of 22 entries )",
+        "error": null,
+        "rows": 22
+      },
+      {
+        "category": "physics.optics",
+        "url": "https://arxiv.org/list/physics.optics/recent?show=2000",
+        "status": 200,
+        "date_block": "Thu, 19 Nov 2026 (showing 22 of 22 entries )",
+        "error": null,
+        "rows": 22
+      },
+      {
+        "category": "physics.ins-det",
+        "url": "https://arxiv.org/list/physics.ins-det/recent?show=2000",
+        "status": 200,
+        "date_block": "Thu, 19 Nov 2026 (showing 13 of 13 entries )",
+        "error": null,
+        "rows": 13
+      },
+      {
+        "category": "nucl-ex",
+        "url": "https://arxiv.org/list/nucl-ex/recent?show=2000",
+        "status": 200,
+        "date_block": "Thu, 19 Nov 2026 (showing 8 of 8 entries )",
+        "error": null,
+        "rows": 8
+      },
+      {
+        "category": "nucl-th",
+        "url": "https://arxiv.org/list/nucl-th/recent?show=2000",
+        "status": 200,
+        "date_block": "Thu, 19 Nov 2026 (showing 8 of 8 entries )",
+        "error": null,
+        "rows": 8
+      },
+      {
+        "category": "hep-ph",
+        "url": "https://arxiv.org/list/hep-ph/recent?show=2000",
+        "status": 200,
+        "date_block": "Thu, 19 Nov 2026 (showing 41 of 41 entries )",
+        "error": null,
+        "rows": 41
+      },
+      {
+        "category": "physics.med-ph",
+        "url": "https://arxiv.org/list/physics.med-ph/recent?show=2000",
+        "status": 200,
+        "date_block": "Thu, 19 Nov 2026 (showing 6 of 6 entries )",
+        "error": null,
+        "rows": 6
+      },
+      {
+        "category": "cs.LG",
+        "url": "https://arxiv.org/list/cs.LG/recent?show=2000",
+        "status": 200,
+        "date_block": "Thu, 19 Nov 2026 (showing 218 of 218 entries )",
+        "error": null,
+        "rows": 218
+      }
+    ],
+    "scope": "title/category screening; selected works full metadata and fulltext; recent includes older-id crosslists"
+  },
+  "selection": {
+    "new_fulltexts": 4,
+    "publisher_vor": 1,
+    "author_preprints": 3,
+    "in_place_upgrades": 2,
+    "old_scientific_notes_revalidated": false,
+    "retry_bytes_unchanged": true,
+    "bounded_nonexhaustive": true
+  },
+  "unread_leads": [
+    {
+      "id": "2611.24653",
+      "topic": "fusion activation nuclear data",
+      "state": "metadata only; no PDF read"
+    },
+    {
+      "id": "2611.23319",
+      "topic": "formal Vlasov proof certification",
+      "state": "metadata only; no PDF read"
+    },
+    {
+      "doi": "10.1103/zh5q-4hp9",
+      "topic": "shock spin polarization in black hole jets",
+      "state": "Crossref accepted11-19; publication unverified; no PDF read"
+    },
+    {
+      "doi": "10.1063/5.0352852",
+      "topic": "liquid-metal FreeMHD divertor",
+      "state": "publisher article page403 5736bytes; no PDF probe or alternate-fulltext investigation; not ingested or retry-completed"
+    }
+  ],
+  "news_date_false_lead": "GNN Poisson paper10.1007/s44205-026-00191-z publisherVOR2026-04-03; not latest11-19 paper",
+  "mineru": "historical authentication expiry not retested; zero requests; explicit local extraction/rendering fallback"
+}

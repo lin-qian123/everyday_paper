@@ -1,0 +1,152 @@
+[
+  {
+    "arxiv_id": "2611.24914",
+    "url": "https://arxiv.org/abs/2611.24914",
+    "status": 200,
+    "citation_title": [
+      "The role of externally-driven density fluctuations in the enhancement of beam spray"
+    ],
+    "citation_author": [
+      "McMillen, Kyle R.",
+      "Min-Roberts, Ian D.",
+      "Follett, Russell K.",
+      "Milder, Avram L.",
+      "Katz, Joseph",
+      "Haberberger, Daniel J.",
+      "Gordillo, Julieta Hernandez",
+      "Michel, Pierre A.",
+      "Rinderknecht, Hans G.",
+      "Turnbull, David",
+      "Palastro, John P.",
+      "Froula, Dustin H.",
+      "Rozmus, Wojciech",
+      "Shaw, Jessica L."
+    ],
+    "citation_date": [
+      "2026/11/18"
+    ],
+    "citation_pdf_url": [
+      "https://arxiv.org/pdf/2611.24914"
+    ],
+    "citation_arxiv_id": [
+      "2611.24914"
+    ],
+    "citation_doi": [],
+    "abstract": "Abstract: Speckled laser beams, commonly used to ionize and heat plasma for inertial confinement fusion and high-energy-density experiments, are shown to drive long-wavelength plasma-density fluctuations that induce beam spray in other laser beams. Experiments show that a 1053 nm beam undergoes increased beam spray when 351 nm speckled heater beams are on. These observations indicate that the high-intensity speckles sustain an increased level of steady-state density fluctuations. Modeling of these fluctuations predicts amplitudes that are orders of magnitude larger than the level of thermal fluctuations. Beam propagation simulations show increased beam spray due to self-focusing and filamentation when heater-driven density fluctuations are included.",
+    "submission-history": "Submission history From: Kyle McMillen [ view email ] [v1] Wed, 18 Nov 2026 18:47:57 UTC (445 KB)",
+    "metatable": "Comments: 7 pages, 4 figures, submitted to Physical Review Letters Subjects: Plasma Physics (physics.plasm-ph) Cite as: arXiv:2611.24914 [physics.plasm-ph] (or arXiv:2611.24914v1 [physics.plasm-ph] for this version) https://doi.org/10.48550/arXiv.2611.24914 Focus to learn more arXiv-issued DOI via DataCite (pending registration)"
+  },
+  {
+    "arxiv_id": "2611.24069",
+    "url": "https://arxiv.org/abs/2611.24069",
+    "status": 200,
+    "citation_title": [
+      "Polarized positron generation via laser-engineered quasistatic magnetic fields in a spatially extended herringbone target"
+    ],
+    "citation_author": [
+      "Wu, Xian-Zhang",
+      "Li, Hui-Jing",
+      "Song, Huai-Hang",
+      "Wang, Wei-Min",
+      "Li, Yan-Fei"
+    ],
+    "citation_date": [
+      "2026/11/18"
+    ],
+    "citation_pdf_url": [
+      "https://arxiv.org/pdf/2611.24069"
+    ],
+    "citation_arxiv_id": [
+      "2611.24069"
+    ],
+    "citation_doi": [],
+    "abstract": "Abstract: Polarized positron sources are of interest for precision studies of spin-dependent interactions and future high-energy colliders, motivating laser-driven approaches for producing relativistic polarized positrons. Here, we propose a scheme in which a herringbone plasma target organizes laser-driven return currents to generate spatially extended quasi-static magnetic fields. Three-dimensional spin-resolved quantum electrodynamics particle-in-cell simulations show that a 3.4-PW laser produces magnetic fields exceeding $10^6$ T, with opposite polarities on the two sides of the target and a duration exceeding 100 fs. A delayed 10-GeV electron beam generates high-energy photons through nonlinear Compton scattering, followed by positron production via the nonlinear Breit--Wheeler process. The resulting positrons exhibit opposite spin polarizations and deflection directions in the two magnetic-field regions, enabling angular selection of positrons with polarization exceeding $63\\%$ at a yield of approximately $0.007$ positrons per incident electron, compared with a total yield of $0.029$. More restrictive angular selection can further increase the polarization to nearly $90\\%$, albeit at a substantially reduced yield. These results suggest a route to polarized positron generation through the spatial organization of laser-driven quasi-static magnetic fields.",
+    "submission-history": "Submission history From: Wu Xianzhang [ view email ] [v1] Wed, 18 Nov 2026 09:02:09 UTC (3,482 KB)",
+    "metatable": "Comments: 11 pages,6 figures Subjects: Plasma Physics (physics.plasm-ph) Cite as: arXiv:2611.24069 [physics.plasm-ph] (or arXiv:2611.24069v1 [physics.plasm-ph] for this version) https://doi.org/10.48550/arXiv.2611.24069 Focus to learn more arXiv-issued DOI via DataCite (pending registration)"
+  },
+  {
+    "arxiv_id": "2611.24118",
+    "url": "https://arxiv.org/abs/2611.24118",
+    "status": 200,
+    "citation_title": [
+      "Characterization of the fast neutron response of liquid scintillator detectors at NFS"
+    ],
+    "citation_author": [
+      "Fiol, A. Pérez de Rada",
+      "del Río, G.",
+      "Martínez, T.",
+      "Ledoux, X.",
+      "Alcayne, V.",
+      "Ballesteros, C.",
+      "Cano-Ott, D.",
+      "Matea, I.",
+      "Miriot-Jaubert, P.",
+      "Plaza, J.",
+      "Sánchez-Caballero, A.",
+      "Vandebrouck, M.",
+      "Villamarín, D."
+    ],
+    "citation_date": [
+      "2026/11/18"
+    ],
+    "citation_pdf_url": [
+      "https://arxiv.org/pdf/2611.24118"
+    ],
+    "citation_arxiv_id": [
+      "2611.24118"
+    ],
+    "citation_doi": [],
+    "abstract": "Abstract: The fast neutron response of MONSTER and sTED liquid scintillation detectors was investigated using time-of-flight measurements at the Neutrons For Science facility at GANIL-SPIRAL2. A continuous neutron beam produced by 40 MeV deuterons on a thick beryllium converter was used to obtain pulse height distributions for selected incident neutron energies. Digital pulse shape analysis was used to distinguish neutron-induced events and reduce pile-up effects. For MONSTER, the response and detection efficiency were studied up to 40 MeV using Geant4 with previously obtained light output functions and PHITS in SCINFUL mode. The comparison examines the increasing importance of carbon reaction channels and the divergence between the calculated efficiencies above 20 MeV. For sTED, light output functions for recoil deuterons and alpha particles were determined for the first time for this detector. The measured and calculated efficiencies were compared up to 20 MeV. The sTED efficiency shows a good overall agreement with the simulations. These results provide experimentally constrained detector response information for nuclear data measurements and identify limitations that must be considered when extending the simulations to higher neutron energies.",
+    "submission-history": "Submission history From: Alberto Pérez De Rada Fiol [ view email ] [v1] Wed, 18 Nov 2026 09:36:02 UTC (379 KB)",
+    "metatable": "Comments: 9 pages, 8 figures, submitted to Nuclear Inst. and Methods in Physics Research, A Subjects: Instrumentation and Detectors (physics.ins-det) ; Nuclear Experiment (nucl-ex) Cite as: arXiv:2611.24118 [physics.ins-det] (or arXiv:2611.24118v1 [physics.ins-det] for this version) https://doi.org/10.48550/arXiv.2611.24118 Focus to learn more arXiv-issued DOI via DataCite (pending registration)"
+  },
+  {
+    "arxiv_id": "2611.24653",
+    "url": "https://arxiv.org/abs/2611.24653",
+    "status": 200,
+    "citation_title": [
+      "The state of nuclear data for fusion activation simulations"
+    ],
+    "citation_author": [
+      "Shimwell, Jonathan"
+    ],
+    "citation_date": [
+      "2026/11/18"
+    ],
+    "citation_pdf_url": [
+      "https://arxiv.org/pdf/2611.24653"
+    ],
+    "citation_arxiv_id": [
+      "2611.24653"
+    ],
+    "citation_doi": [],
+    "abstract": "Abstract: This report compares decay-heat calculations made with four nuclear data libraries, TENDL-2025, ENDF/B-VIII.1, JEFF-4.0 and JENDL-5, against the JAEA FNS decay-heat benchmark. The main comparison uses the 2000 campaign, in which 73 foils were irradiated for five minutes in a mostly 14 MeV neutron field and their decay heat was measured for about an hour. The 1996 seven-hour campaign, with 29 foils and cooling times of up to 400 days, is compared separately and is not included in the rankings. Over the 69 elemental foils solved by all four libraries, the median deviation from the measurement (the mean absolute C/E deviation of each foil) is JENDL-5 17 percent, TENDL-2025 19 percent, JEFF-4.0 22 percent and ENDF/B-VIII.1 44 percent. No library is best everywhere: JENDL-5 on 24, JEFF-4.0 on 18, TENDL-2025 on 17 and ENDF/B-VIII.1 on 10 of the foils. For each element the report breaks the heat down by product and lists the nuclear data on which the libraries differ, and the final sections propose measurements, including enriched-isotope irradiations, that would resolve the largest differences.",
+    "submission-history": "Submission history From: Jonathan Shimwell [ view email ] [v1] Wed, 18 Nov 2026 15:56:08 UTC (8,806 KB)",
+    "metatable": "Subjects: Computational Physics (physics.comp-ph) Cite as: arXiv:2611.24653 [physics.comp-ph] (or arXiv:2611.24653v1 [physics.comp-ph] for this version) https://doi.org/10.48550/arXiv.2611.24653 Focus to learn more arXiv-issued DOI via DataCite (pending registration)"
+  },
+  {
+    "arxiv_id": "2611.23319",
+    "url": "https://arxiv.org/abs/2611.23319",
+    "status": 200,
+    "citation_title": [
+      "Reusing formal Vlasov-Maxwell proofs to certify plasma solver outputs"
+    ],
+    "citation_author": [
+      "Zhu, Bowen",
+      "Wu, Jian"
+    ],
+    "citation_date": [
+      "2026/11/15"
+    ],
+    "citation_pdf_url": [
+      "https://arxiv.org/pdf/2611.23319"
+    ],
+    "citation_arxiv_id": [
+      "2611.23319"
+    ],
+    "citation_doi": [],
+    "abstract": "Abstract: AI now produces machine-checked mathematics faster than researchers can read it. Can such theorems do practical computational work? We reuse one from \\mbox{OpenAI's} Lean~4 relativistic Vlasov--Maxwell library: initial fields determine the field at an outside point until plasma signals reach it, and the energy leaving a surrounding box before they reach its faces. New Lean proofs and numerical bounds give particle-free references for particle-in-cell simulations across three tasks. Domain size follows analytically from observation time, exposing boundary and initialization errors in WarpX and Smilei that global energy checks missed. Grid choice can be tested directly: combining two coarse grids recovers unknown plasma inputs within tolerance at a median 14.9-fold speedup over a fine grid, where the medium grid alone fails. For reduced models, the bounds establish the minimum number of time curves needed to predict energy loss.",
+    "submission-history": "Submission history From: Bowen Zhu [ view email ] [v1] Sun, 15 Nov 2026 08:09:09 UTC (1,988 KB)",
+    "metatable": "Comments: 39 pages (including Supplementary Information), 8 figures, 5 ancillary files (source data and video). Submitted to Nature Computational Science Subjects: Plasma Physics (physics.plasm-ph) ; Artificial Intelligence (cs.AI) MSC classes: 65M06, 35Q83, 65G30, 68V15, 82D10 ACM classes: G.1.8; G.1.0; F.3.1; J.2 Cite as: arXiv:2611.23319 [physics.plasm-ph] (or arXiv:2611.23319v1 [physics.plasm-ph] for this version) https://doi.org/10.48550/arXiv.2611.23319 Focus to learn more arXiv-issued DOI via DataCite (pending registration)"
+  }
+]

@@ -16,19 +16,23 @@
 | 分类 | 篇数 | 说明 |
 | --- | ---: | --- |
 | [激光等离子体与束流加速](./categories/laser-plasma-acceleration.md) | 185 | LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。 |
-| [激光加速电子/离子束应用](./categories/laser-accelerated-beam-applications.md) | 156 | 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。 |
-| [强场 QED 与辐射反作用](./categories/strong-field-qed-radiation.md) | 79 | 强场量子效应、辐射反作用、非线性 Compton、pair production 与极端场实验。 |
-| [高能量密度物理、ICF 与实验室天体](./categories/hedp-icf-laboratory-astrophysics.md) | 147 | HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。 |
-| [PIC、动理学与数值模拟](./categories/pic-and-plasma-simulation.md) | 259 | PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。 |
+| [激光加速电子/离子束应用](./categories/laser-accelerated-beam-applications.md) | 157 | 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。 |
+| [强场 QED 与辐射反作用](./categories/strong-field-qed-radiation.md) | 80 | 强场量子效应、辐射反作用、非线性 Compton、pair production 与极端场实验。 |
+| [高能量密度物理、ICF 与实验室天体](./categories/hedp-icf-laboratory-astrophysics.md) | 148 | HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。 |
+| [PIC、动理学与数值模拟](./categories/pic-and-plasma-simulation.md) | 262 | PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。 |
 | [机器学习与等离子体物理](./categories/ai-ml-plasma-physics.md) | 101 | 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。 |
 | [磁约束聚变与 alpha 粒子](./categories/magnetic-fusion-and-alpha-particles.md) | 67 | stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。 |
-| [实验平台、靶设计与诊断](./categories/experimental-platforms-diagnostics.md) | 206 | 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。 |
-| [综合等离子体与交叉方法](./categories/general-plasma-and-methods.md) | 123 | 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。 |
+| [实验平台、靶设计与诊断](./categories/experimental-platforms-diagnostics.md) | 210 | 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。 |
+| [综合等离子体与交叉方法](./categories/general-plasma-and-methods.md) | 124 | 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。 |
 
 ## 最新入库
 
 | 入库日期 | 论文 | 分类 |
 | --- | --- | --- |
+| 2026-11-20 | [High-fidelity spectral shaping via hardware-compensated waveform optimization for stimulated Brillouin scattering suppression in high-power fiber lasers](./papers/10-1017-hpl-2026-10195/README.md) | 实验平台、靶设计与诊断、综合等离子体与交叉方法 |
+| 2026-11-20 | [The role of externally-driven density fluctuations in the enhancement of beam spray](./papers/arxiv-2611-24914/README.md) | 高能量密度物理、ICF 与实验室天体、PIC、动理学与数值模拟、实验平台、靶设计与诊断 |
+| 2026-11-20 | [Polarized positron generation via laser-engineered quasistatic magnetic fields in a spatially extended herringbone target](./papers/arxiv-2611-24069/README.md) | 强场 QED 与辐射反作用、PIC、动理学与数值模拟、实验平台、靶设计与诊断 |
+| 2026-11-20 | [Characterization of the fast neutron response of liquid scintillator detectors at NFS](./papers/arxiv-2611-24118/README.md) | 激光加速电子/离子束应用、PIC、动理学与数值模拟、实验平台、靶设计与诊断 |
 | 2026-11-19 | [Monte Carlo assessment of a D–T neutron generator-based beam shaping assembly for BNCT: moderator effects on neutron spectrum and dose](./papers/10-1038-s41598-026-80838-x/README.md) | 激光加速电子/离子束应用、实验平台、靶设计与诊断 |
 | 2026-11-19 | [Multivariate scaling of proton and ion energies, divergence, and charge states in laser-driven Target Normal Sheath Acceleration](./papers/10-1140-epjp-s13360-026-08572-x/README.md) | 激光等离子体与束流加速、激光加速电子/离子束应用、机器学习与等离子体物理 |
 | 2026-11-19 | [Learning Similarity-Reduced Ion Kinetics across Scales and Regimes in Capacitively Coupled Plasmas](./papers/arxiv-2611-22165/README.md) | PIC、动理学与数值模拟、机器学习与等离子体物理、综合等离子体与交叉方法 |
@@ -37,9 +41,5 @@
 | 2026-11-18 | [A spherical body in plasma simulated with adaptive mesh and algorithm refinement](./papers/arxiv-2611-21466/README.md) | PIC、动理学与数值模拟、综合等离子体与交叉方法、实验平台、靶设计与诊断 |
 | 2026-11-17 | [Qualifying LPA generated electron beams to free electron laser applications](./papers/10-1038-s41598-026-80539-5/README.md) | 激光等离子体与束流加速、实验平台、靶设计与诊断、PIC、动理学与数值模拟 |
 | 2026-11-17 | [Radiation in relativistic plasmas via particle simulations](./papers/arxiv-2611-18332/README.md) | PIC、动理学与数值模拟、高能量密度物理、ICF 与实验室天体、强场 QED 与辐射反作用、激光加速电子/离子束应用 |
-| 2026-11-17 | [Fuse-PINN: Combining Finite Element Methods and Physics-Informed Neural Networks to enable massively parallel simulations of non-linear PDEs](./papers/arxiv-2611-18409/README.md) | 机器学习与等离子体物理、PIC、动理学与数值模拟、磁约束聚变与 alpha 粒子 |
-| 2026-11-16 | [Simulation studies of resonant excitation of electron Bernstein waves in capacitive discharges](./papers/10-1103-cv7h-ghnk/README.md) | PIC、动理学与数值模拟、综合等离子体与交叉方法 |
-| 2026-11-16 | [Development and Experimental Characterization of a Compact 228Th-D2O Photoneutron Source for Low-Energy Nuclear Recoil Calibration](./papers/arxiv-2611-16415/README.md) | 激光加速电子/离子束应用、实验平台、靶设计与诊断 |
-| 2026-11-16 | [On stimulated scattering including harmonic generation in an unmagnetized pair plasma for arbitrary pump strengths](./papers/arxiv-2611-17279/README.md) | PIC、动理学与数值模拟、高能量密度物理、ICF 与实验室天体、综合等离子体与交叉方法 |
 
-_自动生成时间：2026-11-19_
+_自动生成时间：2026-11-20_

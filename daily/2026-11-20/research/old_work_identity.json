@@ -1,0 +1,86 @@
+[
+  {
+    "arxiv_id": "2608.05667",
+    "old_ledger": {
+      "title": "BORAY-3D: A ray tracing code for three-dimensional magnetized plasma configurations",
+      "doi": "10.48550/arXiv.2608.05667",
+      "journal": "arXiv preprint",
+      "publication_date": "2026-08-06",
+      "processed_date": "2026-08-10",
+      "source_url": "https://arxiv.org/abs/2608.05667",
+      "pdf_path": "daily/2026-08-10/pdfs/Wang et al. - 2026 - BORAY 3D ray tracing code.pdf",
+      "note_path": "daily/2026-08-10/notes/Wang et al. - 2026 - BORAY 3D ray tracing code.md",
+      "normalized_title": "boray 3d a ray tracing code for three dimensional magnetized plasma configurations"
+    },
+    "local_pdf_sha256": "e50acc565066c465affdd9c21410ff70feb60262b851b385263c0e574e4d5b66",
+    "local_pages": 12,
+    "first_page_text": "IOP Publishing\nJournal vv (yyyy) aaaaaa\nWang and Xie\nJournal Name\nPAPER\nCrossmark\nRECEIVED\ndd Month yyyy\nREVISED\ndd Month yyyy\nBORAY-3D: A ray tracing code for three-dimensional\nmagnetized plasma configurations\nYuxuan Wang1,2 and Huasheng Xie1,∗\n1Beijing VeloAlpha Technology Co., Ltd., Beijing 100080, China\n2National University of Defense Technology, Changsha 710049, China\nE-mail: huashengxie@gmail.com\nKeywords: Radio frequency waves, Ray tracing, Three-dimensional equilibrium, Broad-frequency-range modeling,\nRelativistic absorption\nAbstract\nRay tracing codes are useful tools for studying electromagnetic wave propagation and\nabsorption using the geometrical-optics approximation. Existing codes commonly provide\neither broad radio-frequency coverage in axisymmetric equilibria or three-dimensional ca-\npability specialized for electron-cyclotron (EC) applications. BORAY-3D integrates three\ndesirable features in a single version. First, it has a broad frequency range of validity regime\nfrom ion-cyclotron, helicon and lower-hybrid waves to EC waves and emission. Second, it\nprovides an unified treatment of arbitrary two- and three-dimensional magnetic-plasma con-\nfigurations, including both closed and open field-line regions. Third, it incorporates fully\nrelativistic Maxwellian EC absorption. The code extends the axisymmetric BORAY for-\nmulation by solving the ray equations in cylindrical coordinates (r, ϕ, z) while allowing the\ntoroidal mode number nϕ to vary. Magnetic-field, density and temperature data are directly\ndescribed in (r, ϕ, z) coordinates without the restriction of flux functions, so that numerical\nequilibria and analytic field models can be handled in the same form. The non-relativistic\nhot-plasma model inherited from BORAY is used for lower-hybrid, ion-cyclotron and heli-\ncon absorption, whereas the relativistic model is coupled to reciprocal radiative transfer for\nelectron cyclotron emission (ECE). Practical applications include 13.56 MHz helicon and 50\nMHz fast waves, a 3.7 GHz lower-hybrid wave, and 115–220 GHz EC emission. BORAY-3D\nhas been systematically benchmarked against GENRAY for tokamak toroidal-field ripple,\nRaytrax and TRAVIS for W7-X, as well as public HSX heating and W7-X ECE results.\n1\nIntroduction\nRF waves are widely used for plasma heating and current drive in magnetic-confinement devices.\nThe corresponding frequency spectrum can vary from megahertz (MHz) to gigahertz (GHz), based\non specific heating processes, including ion-cyclotron radio frequency heating (ICRH), lower hybrid\nwave (LHW), and electron-cyclotron frequency heating (ECRH). Electron cyclotron emission (ECE)\nat the same high-frequency range is routinely used to measure the electron temperature of ECRH\n[1, 2]. When the wavelength is much shorter than the equilibrium scale length, wave propagation\nand absorption can be described by the geometric optical approximation and the corresponding ray\ntracing model [3]. A unified numerical framework incorporating above RF waves is useful because\ncomprehensive physics capabilities can be applied on the same footing for different plasma equilibria,\nand the appropriate absorption model is selected for each wave regime.\nThe ray tracing code BORAY [4] has been developed in cylindrical coordinates (r, ϕ, z) for arbi-\ntrary axisymmetric plasmas with closed or open magnetic field lines. Its fluid and kinetic dispersion-\nrelation solvers were developed based on the theoretical frameworks PDRF [5], PDRK [6] and BO [7].\nA striking feature of BORAY is one-solve-all RF waves with the same physics model equations and\nnumerical implementation. It has been benchmarked for ECRH, lower-hybrid waves (LHW), helicon\nwaves and ICRH in tokamak, spherical-tokamak, field-reversed and mirror configurations. Because\ndensity and temperature are expressed directly in cylindrical coordinates without the constraint of\nmagnetic-flux functions, closed and open field-line regions can be incorporated in the same simula-\ntion. However, the original implementation was restricted to two-dimensional axisymmetric profiles\nand omitted relativistic absorption [4]. It therefore cannot describe stellarators such as W7-X [8]\n1\narXiv:2608.05667v1  [physics.plasm-ph]  6 Aug 2026\n",
+    "arxiv_metadata_status": 200,
+    "arxiv_title": [
+      "BORAY-3D: A ray tracing code for three-dimensional magnetized plasma configurations"
+    ],
+    "arxiv_authors": [
+      "Wang, Yuxuan",
+      "Xie, Huasheng"
+    ],
+    "arxiv_abstract": "Abstract: Ray tracing codes are useful tools for studying electromagnetic wave propagation and absorption using the geometrical-optics approximation. Existing codes commonly provide either broad radio-frequency coverage in axisymmetric equilibria or three-dimensional capability specialized for electron-cyclotron (EC) applications. BORAY-3D integrates three desirable features in a single version. First, it has a broad frequency range of validity regime from ion-cyclotron, helicon and lower-hybrid waves to EC waves and emission. Second, it provides a unified treatment of arbitrary two- and three-dimensional magnetic-plasma configurations, including both closed and open field-line regions. Third, it incorporates fully relativistic Maxwellian EC absorption. The code extends the axisymmetric BORAY formulation by solving the ray equations in cylindrical coordinates $(r,\\phi,z)$ while allowing the toroidal mode number $n_\\phi$ to vary. Magnetic-field, density and temperature data are directly described in $(r,\\phi,z)$ coordinates without the restriction of flux functions, so that numerical equilibria and analytic field models can be handled in the same form. The non-relativistic hot-plasma model inherited from BORAY is used for lower-hybrid, ion-cyclotron and helicon absorption, whereas the relativistic model is coupled to reciprocal radiative transfer for electron cyclotron emission (ECE). Practical applications include 13.56 MHz helicon and 50 MHz fast waves, a 3.7 GHz lower-hybrid wave, and 115--220 GHz EC emission. BORAY-3D has been systematically benchmarked against GENRAY for tokamak toroidal-field ripple, Raytrax and TRAVIS for W7-X, as well as public HSX heating and W7-X ECE results.",
+    "arxiv_submission_history": "Submission history From: Hua-Sheng Xie [ view email ] [v1] Thu, 6 Aug 2026 07:04:50 UTC (1,747 KB)",
+    "official_v1_status": 200,
+    "official_v1_bytes": 2193030,
+    "official_v1_pdf_magic": true,
+    "official_v1_sha256": "e50acc565066c465affdd9c21410ff70feb60262b851b385263c0e574e4d5b66",
+    "official_v1_equal_local": true,
+    "scope": "identity/title/authors/abstract and version-byte check only; old physics note not revalidated"
+  },
+  {
+    "arxiv_id": "2609.08551",
+    "old_ledger": {
+      "title": "Demonstration of a 10-metre-long discharge plasma source for plasma wakefield acceleration",
+      "doi": "10.48550/arXiv.2609.08551",
+      "journal": "arXiv preprint",
+      "publication_date": "2026-09-08",
+      "processed_date": "2026-09-10",
+      "source_url": "https://arxiv.org/abs/2609.08551",
+      "pdf_path": "daily/2026-09-10/pdfs/Amoedo et al. - 2026 - 10-metre discharge plasma source for AWAKE.pdf",
+      "note_path": "daily/2026-09-10/notes/Amoedo et al. - 2026 - 10-metre discharge plasma source for AWAKE.md",
+      "categories": [
+        "laser-plasma-acceleration",
+        "experimental-platforms-diagnostics"
+      ],
+      "normalized_title": "demonstration of a 10 metre long discharge plasma source for plasma wakefield acceleration"
+    },
+    "local_pdf_sha256": "12644449bbca1c7b56874dfc0ae595587865d0bdcd6736b4ebe63a83c6861f9a",
+    "local_pages": 10,
+    "first_page_text": "Demonstration of a 10-metre-long discharge plasma source\nfor plasma wakefield acceleration\nC. Amoedo1,2,∗N. Lopes2,† N. E. Torrado1,2, F. Silva3, P. Muggli1,4, L. Verra 1,‡ M. Turner1, G. Zevi Della Porta1,\nM. Bergamaschi1, A. Clairembaud4, J. Mezger4, F. Pannell5, N. Z. van Gils1,6, E. Gschwendtner1, and A. Sublet1\n(AWAKE Collaboration)\nC.C. Ahdida1, Y. Alekajbaf7, O. Apsimon8,9, R. Apsimon9,10, T. Bachmann1, C. Badiali2, M. Baquero11, E.\nBelli1,12, A. Boccardi1, T. Bogey1, S. Burger1, P.N. Burrows12, B. Buttensch¨on13, A. Caldwell4, M. Chung14, C.C.\nCobo15, D.A. Cooke5, D. Dancila7, C. Davut8,9, G. Demeter16, A.C. Dexter9,10, S. Doebert2, A. Eager1, D.\nEaston17, B. Elward18, J. Farmer4, R. Fonseca19,2, I. Furno11, A. Gerbershagen6,12, D. Ghosal9,20, E. Granados1, J.\nGregory9,10, O. Grulke13,21, E. Guran1, D. Harryman1, M. Hibberd8,9, H. Jaworska22, P. Karataev23, R. Karimov11,\nM.A. Kedves16, F. Kraus24, M. Krupa1, T. Lefevre1, K. Lotov, J. McGunigal8,9, M. Moreira1, B. Moser1, Z.\nNajmudin15, S. Norman8,9, N. Okhotnikov, A. Omoumi1, C. Pakuza1, A. Pardons1, J. Pisani17, A. Pukhov22, L.\nRanc4, R. Rossel1, H. Saberi8,9, M.V. Santos1, O. Schmitz18, F. Sharmin18, L. Silva2, B. Spear12, L. Stant1,\nC. Stollberg11, C. Swain9,20, G. Tenasini1, A. Topaloudis1, P. Tuev, J. Uncles17, F. Velotti1, J. Vieira2, C.\nWelsch9,20, T. Wilson22, M. Wing5, J. Wolfenden9,20, B. Woolley1, G. Xia8,9, V. Yarygova, W. Zhang12\n1CERN, Geneva, Switzerland,\n2GoLP/IPFN, Instituto Superior T´ecnico, Universidade de Lisboa, Lisbon, Portugal,\n3INESC-ID, Instituto Superior T´ecnico, Universidade de Lisboa, Lisbon, Portugal,\n4Max Planck Institute for Physics, Munich, Germany,\n5University College London, London, United Kingdom,\n6PARTREC, UMCG, University of Groningen, Groningen, NL,\n7 Uppsala University, Uppsala, Sweden,\n8 University of Manchester, Manchester, United Kingdom,\n9 Cockcroft Institute, Warrington, United Kingdom,\n10 Lancaster University, Lancaster, United Kingdom,\n11 ´Ecole Polytechnique F´ed´erale de Lausanne (EPFL),\nSwiss Plasma Center (SPC), Lausanne, Switzerland,\n12 John Adams Institute for Accelerator Science,\nUniversity of Oxford, Oxford, United Kingdom ,\n13 Max Planck Institute for Plasma Physics, 17491 Greifswald, Germany,\n14 POSTECH, Pohang, Republic of Korea,\n15 Imperial College London, London, United Kingdom,\n16 HUN-REN Wigner Research Centre for Physics, Budapest, Hungary,\n17 GWA, Cambridge, United Kingdom,\n18 University of Wisconsin–Madison, Madison, WI, USA,\n19 DCTI/ISCTE, Instituto Universit´ario de Lisboa, Lisbon, Portugal,\n20 University of Liverpool, Liverpool, United Kingdom,\n21 Technical University of Denmark, Kongens Lyngby, Denmark,\n22 Heinrich Heine University D¨usseldorf, D¨usseldorf, Germany,\n23 Royal Holloway, University of London, Egham, United Kingdom, and\n24 Universit¨at Bonn, Bonn, Germany\nThe AWAKE experiment at CERN uses high-energy proton bunches to drive plasma wakefields\ncapable of accelerating electron bunches up to hundreds of GeV in a single plasma. Realising this\npotential requires a plasma source that can extend to tens of metres while maintaining high lon-\ngitudinal uniformity and reproducibility. Towards this goal, we report on the first experimental\ncharacterisation and beam-based validation of a 10-metre-long pulsed-DC discharge plasma source\n(DPS) used as an alternative to the laser-ionised rubidium vapour plasma source (VPS). The DPS\nreliably delivered plasma densities in three noble gases (He, Ar, Xe) at electron densities between\n1014 and 1015 cm−3.\nProton bunch self-modulation was observed with all three gases, and the\nresulting modulation frequency was used as a beam-based diagnostic of the plasma density, show-\ning good agreement with laboratory interferometry measurements. The event-to-event modulation\nfrequency was demonstrated to be reproducible to within 0.63%, comparable to that of the VPS.\nThese results establish the DPS as a valid alternative plasma source for beam-driven wakefield ex-\nperiments, and support its further development towards longer plasma lengths. The present design\nis tailored to AWAKE requirements, but the underlying discharge concept provides a route to long,\nreproducible plasma sources with straightforward density control through discharge–beam timing\nfor other beam–plasma experiments.\narXiv:2609.08551v1  [physics.plasm-ph]  8 Sep 2026\n",
+    "arxiv_metadata_status": 200,
+    "arxiv_title": [
+      "Demonstration of a 10-metre-long discharge plasma source for plasma wakefield acceleration"
+    ],
+    "arxiv_authors": [
+      "Amoedo, C.",
+      "Lopes, N.",
+      "Torrado, N. E.",
+      "Silva, F.",
+      "Muggli, P.",
+      "Verra, L.",
+      "Turner, M.",
+      "Della Porta, G. Zevi",
+      "Bergamaschi, M.",
+      "Clairembaud, A.",
+      "Mezger, J.",
+      "Pannell, F.",
+      "van Gils, N. Z.",
+      "Gschwendtner, E.",
+      "Sublet, A.",
+      "Collaboration, the AWAKE"
+    ],
+    "arxiv_abstract": "Abstract: The AWAKE experiment at CERN uses high-energy proton bunches to drive plasma wakefields capable of accelerating electron bunches up to hundreds of GeV in a single plasma. Realising this potential requires a plasma source that can extend to tens of metres while maintaining high longitudinal uniformity and reproducibility. Towards this goal, we report on the first experimental characterisation and beam-based validation of a 10-metre-long pulsed-DC discharge plasma source (DPS) used as an alternative to the laser-ionised rubidium vapour plasma source (VPS). The DPS reliably delivered plasma densities in three noble gases (He, Ar, Xe) at electron densities between 10$^{14}$ and 10$^{15}$ cm$^{-3}$. Proton bunch self-modulation was observed with all three gases, and the resulting modulation frequency was used as a beam-based diagnostic of the plasma density, showing good agreement with laboratory interferometry measurements. The event-to-event modulation frequency was demonstrated to be reproducible to within 0.63%, comparable to that of the VPS. These results establish the DPS as a valid alternative plasma source for beam-driven wakefield experiments, and support its further development towards longer plasma lengths. The present design is tailored to AWAKE requirements, but the underlying discharge concept provides a route to long, reproducible plasma sources with straightforward density control through discharge-beam timing for other beam-plasma experiments.",
+    "arxiv_submission_history": "Submission history From: Carolina Amoedo [ view email ] [v1] Tue, 8 Sep 2026 10:35:08 UTC (16,625 KB)",
+    "official_v1_status": 200,
+    "official_v1_bytes": 16251160,
+    "official_v1_pdf_magic": true,
+    "official_v1_sha256": "12644449bbca1c7b56874dfc0ae595587865d0bdcd6736b4ebe63a83c6861f9a",
+    "official_v1_equal_local": true,
+    "scope": "identity/title/authors/abstract and version-byte check only; old physics note not revalidated"
+  }
+]

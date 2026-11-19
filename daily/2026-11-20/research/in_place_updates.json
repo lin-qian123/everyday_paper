@@ -1,0 +1,18 @@
+[
+  {
+    "arxiv_id": "2608.05667",
+    "previous_doi": "10.48550/arXiv.2608.05667",
+    "doi": "10.1088/2058-6272/aec41f",
+    "note_path": "daily/2026-08-10/notes/Wang et al. - 2026 - BORAY 3D ray tracing code.md",
+    "identity_byte_equal": true,
+    "scope": "identity/title/authors/abstract and official-v1-byte check only; old physics note not recertified"
+  },
+  {
+    "arxiv_id": "2609.08551",
+    "previous_doi": "10.48550/arXiv.2609.08551",
+    "doi": "10.1103/33h4-lf1m",
+    "note_path": "daily/2026-09-10/notes/Amoedo et al. - 2026 - 10-metre discharge plasma source for AWAKE.md",
+    "identity_byte_equal": true,
+    "scope": "identity/title/authors/abstract and official-v1-byte check only; old physics note not recertified"
+  }
+]

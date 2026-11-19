@@ -1,0 +1,47 @@
+[
+  {
+    "key": "boray-page",
+    "url": "https://iopscience.iop.org/article/10.1088/2058-6272/aec41f",
+    "final_url": "https://iopscience.iop.org/article/10.1088/2058-6272/aec41f",
+    "status": 200,
+    "mime": "text/html;charset=UTF-8",
+    "bytes": 82648,
+    "pdf_magic": false
+  },
+  {
+    "key": "boray-pdf",
+    "url": "https://iopscience.iop.org/article/10.1088/2058-6272/aec41f/pdf",
+    "final_url": "https://iopscience.iop.org/article/10.1088/2058-6272/aec41f/pdf",
+    "status": 200,
+    "mime": "text/html;charset=UTF-8",
+    "bytes": 84395,
+    "pdf_magic": false
+  },
+  {
+    "key": "awake-page",
+    "url": "https://journals.aps.org/prresearch/accepted/10.1103/33h4-lf1m",
+    "final_url": "https://journals.aps.org/prresearch/accepted/10.1103/33h4-lf1m",
+    "status": 403,
+    "mime": "text/html; charset=UTF-8",
+    "bytes": 5571,
+    "pdf_magic": false
+  },
+  {
+    "key": "awake-pdf",
+    "url": "https://journals.aps.org/prresearch/pdf/10.1103/33h4-lf1m",
+    "final_url": "https://journals.aps.org/prresearch/pdf/10.1103/33h4-lf1m",
+    "status": 403,
+    "mime": "text/html; charset=UTF-8",
+    "bytes": 5556,
+    "pdf_magic": false
+  },
+  {
+    "key": "awake-harvest",
+    "url": "https://harvest.aps.org/v2/journals/articles/10.1103/33h4-lf1m/fulltext",
+    "final_url": "https://harvest.aps.org/v2/journals/articles/10.1103/33h4-lf1m/fulltext",
+    "status": 404,
+    "mime": "application/json",
+    "bytes": 52,
+    "pdf_magic": false
+  }
+]
