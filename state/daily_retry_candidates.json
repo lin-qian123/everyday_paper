@@ -1670,5 +1670,42 @@
     "attempted_at": "2026-11-18T23:08:43.081328+00:00",
     "stderr": "Official APS PDF HTTP403 text/html 5514 bytes; official harvest HTTP404 application/json 52 bytes; neither PDF. HAL exact-title top5 HTTP200 numFound0; bounded exact-title web search did not verify a legal same-work author fulltext. No abstract-only note.",
     "evidence_path": "daily/2026-11-19/research/aps_harvest_checks.json"
+  },
+  {
+    "doi": "10.1103/l8lx-jr9h",
+    "title": "Photoproduction of the 98mNb nucleus on 100Mo at bremsstrahlung endpoint energies up to 94 MeV",
+    "journal": "Physical Review C",
+    "publication_date": null,
+    "acceptance_date": "2026-11-20",
+    "publication_date_type": "Crossref accepted 2026-11-20 and published-online same day; publication not independently verified",
+    "source_url": "https://journals.aps.org/prc/accepted/10.1103/l8lx-jr9h",
+    "pdf_url": "https://journals.aps.org/prc/pdf/10.1103/l8lx-jr9h",
+    "topic": "bremsstrahlung photonuclear activation and isotope-production cross sections",
+    "source_family": "aps",
+    "stderr": "APS article HTTP403 HTML5550B; PDF403 HTML5514B; official harvest404 JSON52B. arXiv broad title/author search200 returned no parsed results; HAL title Photoproduction AND author Timchenko top5 HTTP200 numFound0. Bounded web search found older 95Nb papers and a 2026 conference contribution, not a verified same-work fulltext. Accepted status only; no abstract-only note.",
+    "run_date": "2026-11-21",
+    "status": "download_failed",
+    "last_failure_class": "publisher_http_403_html",
+    "failure_count": 1,
+    "attempted_at": "2026-11-20T23:15:25.191370+00:00",
+    "evidence_path": "daily/2026-11-21/research/source_access_checks.json"
+  },
+  {
+    "doi": "10.1093/jrr/rrag102",
+    "title": "A comprehensive microdosimetric study of neutron capture enhanced proton therapy: physical dose to RBE-based evaluation",
+    "journal": "Journal of Radiation Research",
+    "publication_date": "2026-11-20",
+    "publication_date_type": "Crossref published-online and indexed official advance-article page; publisher PDF unavailable",
+    "source_url": "https://academic.oup.com/jrr/advance-article/doi/10.1093/jrr/rrag102/9104401",
+    "pdf_url": "https://academic.oup.com/jrr/advance-article-pdf/doi/10.1093/jrr/rrag102/73871211/rrag102.pdf",
+    "topic": "proton-induced neutron capture, PHITS microdosimetry and model-based RBE",
+    "source_family": "oup",
+    "stderr": "Publisher article HTTP403 HTML5613B; official PDF403 HTML5685B via environment transport and403 HTML93B via direct transport. Web index exposed official article text, but no validated PDF acquired. EuropePMC exact DOI query200 hitCount0. No fulltext-ingestion claim or abstract-only note.",
+    "run_date": "2026-11-21",
+    "status": "download_failed",
+    "last_failure_class": "publisher_http_403_html",
+    "failure_count": 1,
+    "attempted_at": "2026-11-20T23:15:25.191370+00:00",
+    "evidence_path": "daily/2026-11-21/research/source_access_checks.json"
   }
 ]

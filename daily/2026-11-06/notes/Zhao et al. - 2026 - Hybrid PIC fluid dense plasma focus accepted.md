@@ -1,6 +1,12 @@
-# DPF 全电磁混合 PIC–流体接收稿：中子产额账本与数值适用范围
+# DPF 全电磁混合 PIC–流体模型：版本与中子产额账本
 
-## 1. 原条目更新与全文版本
+## 2026-11-21：原位升级至出版社最终版
+
+已取得[IOP最终VOR PDF](../../2026-11-21/pdfs/zhao-2026-dpf-vor.pdf)，23个PDF页（下载封面＋22页正文），SHA-256为 `1b9a189d479d18b37442807c8533b52e4ad96e317bac7208f17fff8a236e38d7`。[出版社页面](https://iopscience.iop.org/article/10.1088/1741-4326/aebda4)及PDF正文首页一致写明：**2026-11-04接收、2026-11-20发表**，卷期引用为 *Nuclear Fusion* **67 (2027) 026002**。因此在线发表日按11-20，不能继续把11-04接收稿上线日当作最终发表日，也不能把2027卷年写作尚未发表。
+
+同一DOI、五位作者、标题及摘要确认作品身份；在原台账对象更新实际PDF和版本，不新增论文。文件头／MIME／SHA、三路页数、逐页文本通过，目检下载封面与正文首页，见[本轮校验](../../2026-11-21/pdf_validation.json)。**本轮仅核最终版身份与日期，未逐式逐图比对接收稿和VOR，未重新验收下面的物理分析。** 下文第1节起保留2026-11-06接收稿阅读记录，其PDF页码、图像、印刷式疑点及“本轮”表述均指当时接收稿；不据此断言最终版仍有同样疑点。原接收稿来源和哈希仍可追溯。
+
+## 1. 2026-11-06接收稿阅读记录：原条目与全文版本
 
 Yinjian Zhao、Zhe Liu、Qiang Sun、Qianhong Zhou、Guangrui Sun，*A fully electromagnetic hybrid PIC-fluid model for predictive fusion neutron yield in dense plasma focus*，[Nuclear Fusion，10.1088/1741-4326/aebda4](https://doi.org/10.1088/1741-4326/aebda4)。Crossref 给出接收稿在线日 2026-11-04；本地 PDF 封面明确 **Accepted Manuscript**、NF-108657.R2，尚不能称最终 VOR，也未从正文核到精确接收日期。
 

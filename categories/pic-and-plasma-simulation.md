@@ -2,11 +2,12 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：262 篇
-- 索引更新时间：2026-11-20
+- 当前收录：263 篇
+- 索引更新时间：2026-11-21
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-21 | [Dephasing-free plasma acceleration with millijoule picosecond lasers](../papers/arxiv-2611-26032/README.md) | arXiv preprint | [笔记](../daily/2026-11-21/notes/pukhov-2026-comb.md) |
 | 2026-11-20 | [The role of externally-driven density fluctuations in the enhancement of beam spray](../papers/arxiv-2611-24914/README.md) | arXiv preprint; submitted to PRL, acceptance/publication unverified | [笔记](../daily/2026-11-20/notes/mcmillen-2026-beam-spray.md) |
 | 2026-11-20 | [Polarized positron generation via laser-engineered quasistatic magnetic fields in a spatially extended herringbone target](../papers/arxiv-2611-24069/README.md) | arXiv preprint | [笔记](../daily/2026-11-20/notes/wu-2026-herringbone.md) |
 | 2026-11-20 | [Characterization of the fast neutron response of liquid scintillator detectors at NFS](../papers/arxiv-2611-24118/README.md) | arXiv preprint; submitted to NIM A, acceptance/publication unverified | [笔记](../daily/2026-11-20/notes/perez-2026-neutron-response.md) |
@@ -235,7 +236,7 @@ PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性�
 | 2026-06-14 | [Electron injection and acceleration into laser-driven wakefield from a solid overdense plasma target](../papers/arxiv-2606-02454/README.md) | arXiv 预印本（高相关补充） | [笔记](../daily/2026-06-14/notes/M. Caetano de Sousa et al. - 2026 - Electron injection and acceleration into laser-driven wakefield from a solid overdense plasma target.md) |
 | 2026-06-13 | [Spectral and spatial ion beam parameter optimization at petawatt laser facilities](../papers/10-1017-hpl-2026-10136/README.md) | High Power Laser Science and Engineering | [笔记](../daily/2026-06-13/notes/Evgeny Filippov et al. - 2026 - Spectral and spatial ion beam parameter optimization at petawatt laser facilities.md) |
 | 2026-06-13 | [High-order exponential solver method for particle-in-cell simulations in cylindrical geometry](../papers/arxiv-2605-12132/README.md) | arXiv 预印本（高相关补充） | [笔记](../daily/2026-06-13/notes/Szilard Majorosi et al. - 2026 - High-order exponential solver method for particle-in-cell simulations in cylindrical geometry.md) |
-| 2026-06-11 | [A Fully Electromagnetic Hybrid PIC-Fluid Model for Predictive Fusion Neutron Yield in Dense Plasma Focus](../papers/10-1088-1741-4326-aebda4/README.md) | Nuclear Fusion, Accepted Manuscript | [笔记](../daily/2026-11-06/notes/Zhao et al. - 2026 - Hybrid PIC fluid dense plasma focus accepted.md) |
+| 2026-06-11 | [A Fully Electromagnetic Hybrid PIC-Fluid Model for Predictive Fusion Neutron Yield in Dense Plasma Focus](../papers/10-1088-1741-4326-aebda4/README.md) | Nuclear Fusion | [笔记](../daily/2026-11-06/notes/Zhao et al. - 2026 - Hybrid PIC fluid dense plasma focus accepted.md) |
 | 2026-06-11 | [An explicit, energy-conserving particle-in-cell scheme for relativistic plasmas](../papers/arxiv-2605-18542/README.md) | arXiv 预印本（高相关补充） | 未生成 |
 | 2026-06-11 | [A machine learning framework for developing quasilinear saturation rules of turbulent transport from linear gyrokinetic data](../papers/arxiv-2604-00462/README.md) | arXiv 预印本（高相关补充） | 未生成 |
 | 2026-06-11 | [Simulation Design for Velocity-Controlled Spatio-Temporal Drivers in Laser Wakefield Acceleration](../papers/arxiv-2603-28473/README.md) | arXiv 预印本（高相关补充） | 未生成 |

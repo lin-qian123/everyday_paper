@@ -1,0 +1,103 @@
+[
+  {
+    "query": "Dephasing-free plasma acceleration with millijoule picosecond lasers",
+    "status": 200,
+    "url": "https://api.crossref.org/works?query.title=Dephasing-free+plasma+acceleration+with+millijoule+picosecond+lasers&rows=3",
+    "items": [
+      {
+        "DOI": "10.1117/12.2521164",
+        "title": [
+          "X-ray sources from laser-plasma acceleration on picosecond, kilojoule-class lasers (Conference Presentation)"
+        ],
+        "container-title": [
+          "Relativistic Plasma Waves and Particle Beams as Coherent and Incoherent Radiation Sources III"
+        ],
+        "published-online": null,
+        "accepted": null,
+        "score": 27.597364
+      },
+      {
+        "DOI": "10.1016/j.yacs.2018.02.007",
+        "title": [
+          "Picosecond Lasers"
+        ],
+        "container-title": [
+          "Advances in Cosmetic Surgery"
+        ],
+        "published-online": null,
+        "accepted": null,
+        "score": 25.632298
+      },
+      {
+        "DOI": "10.1117/12.2301627",
+        "title": [
+          "New plasma shutters for picosecond-pulse optical-free-induction-decay 10 um CO2 lasers"
+        ],
+        "container-title": [
+          "15th International Conference on Infrared and Millimeter Waves"
+        ],
+        "published-online": null,
+        "accepted": null,
+        "score": 25.38874
+      }
+    ]
+  },
+  {
+    "query": "Direct measurement of the on-shot focal-spot size of a kilojoule-class petawatt laser",
+    "status": 200,
+    "url": "https://api.crossref.org/works?query.title=Direct+measurement+of+the+on-shot+focal-spot+size+of+a+kilojoule-class+petawatt+laser&rows=3",
+    "items": [
+      {
+        "DOI": "10.1364/ao.55.006850",
+        "title": [
+          "Ultrahigh-contrast kilojoule-class petawatt LFEX laser using a plasma mirror"
+        ],
+        "container-title": [
+          "Applied Optics"
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2016,
+              8,
+              23
+            ]
+          ]
+        },
+        "accepted": null,
+        "score": 38.112137
+      },
+      {
+        "DOI": "10.1364/oe.15.002019",
+        "title": [
+          "Delay interferometric single shot measurement of a petawatt-class laser longitudinal chromatism corrector"
+        ],
+        "container-title": [
+          "Optics Express"
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2007
+            ]
+          ]
+        },
+        "accepted": null,
+        "score": 35.1974
+      },
+      {
+        "DOI": "10.1117/12.2005008",
+        "title": [
+          "Repetitive petawatt-class laser with near-diffraction-limited focal spot and transform-limited pulse duration"
+        ],
+        "container-title": [
+          "SPIE Proceedings",
+          "Solid State Lasers XXII: Technology and Devices"
+        ],
+        "published-online": null,
+        "accepted": null,
+        "score": 34.827282
+      }
+    ]
+  }
+]

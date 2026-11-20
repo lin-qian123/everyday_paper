@@ -1,0 +1,37 @@
+{
+  "dpf": {
+    "doi": "10.1088/1741-4326/aebda4",
+    "url": "https://iopscience.iop.org/article/10.1088/1741-4326/aebda4",
+    "http_status": 200,
+    "observed_text": [
+      "rid PIC-fluid model for predictive fusion neutron yield in dense plasma focus Yinjian Zhao , Zhe Liu , Qiang Sun * , Qianhong Zhou * and Guangrui Sun Published 20 November 2026 • © 2026 The Author(s). Published by IOP Publishing Ltd on behalf of the IAEA Nuclear Fusion , Volume 67 , Number 2 Citation Yinjian Zhao et al 2027 Nucl. Fusion 67 026002 DOI 10.108",
+      "uid model for predictive fusion neutron yield in dense plasma focus Yinjian Zhao , Zhe Liu , Qiang Sun * , Qianhong Zhou * and Guangrui Sun Published 20 November 2026 • © 2026 The Author(s). Published by IOP Publishing Ltd on behalf of the IAEA Nuclear Fusion , Volume 67 , Number 2 Citation Yinjian Zhao et al 2027 Nucl. Fusion 67 026002 DOI 10.1088/1741-4326/",
+      "ield in dense plasma focus Yinjian Zhao , Zhe Liu , Qiang Sun * , Qianhong Zhou * and Guangrui Sun Published 20 November 2026 • © 2026 The Author(s). Published by IOP Publishing Ltd on behalf of the IAEA Nuclear Fusion , Volume 67 , Number 2 Citation Yinjian Zhao et al 2027 Nucl. Fusion 67 026002 DOI 10.1088/1741-4326/aebda4 PDF Opens in a new tab. Authors ",
+      "rics 60 Total downloads 0 Video abstract views Share this article Article information Dates Received 26 December 2025 Revised 8 October 2026 Accepted 4 November 2026 Published 20 November 2026 Buy this article in print Journal RSS Sign up for new issue notifications 0029-5515/67/2/026002 Abstract A fully electromagnetic hybrid ion-PIC/electron-fluid framewor",
+      "wnloads 0 Video abstract views Share this article Article information Dates Received 26 December 2025 Revised 8 October 2026 Accepted 4 November 2026 Published 20 November 2026 Buy this article in print Journal RSS Sign up for new issue notifications 0029-5515/67/2/026002 Abstract A fully electromagnetic hybrid ion-PIC/electron-fluid framework is developed ",
+      "Video abstract views Share this article Article information Dates Received 26 December 2025 Revised 8 October 2026 Accepted 4 November 2026 Published 20 November 2026 Buy this article in print Journal RSS Sign up for new issue notifications 0029-5515/67/2/026002 Abstract A fully electromagnetic hybrid ion-PIC/electron-fluid framework is developed for the impl"
+    ],
+    "pdf_identity_pages": [
+      1,
+      2
+    ],
+    "acceptance_date": "2026-11-04",
+    "publication_date": "2026-11-20",
+    "citation": "2027 Nuclear Fusion 67 026002",
+    "publication_year_vs_volume_year_separate": true
+  },
+  "prc": {
+    "doi": "10.1103/l8lx-jr9h",
+    "acceptance_date": "2026-11-20",
+    "publication_date": null,
+    "evidence": "Crossref accepted and online same date; APS article unavailable, publication not inferred"
+  },
+  "unread_ibw": {
+    "doi": "10.1103/tp7s-lzc3",
+    "source": "https://journals.aps.org/pre/accepted/10.1103/tp7s-lzc3",
+    "observed": "Phys. Rev. E - Accepted 20 November, 2026",
+    "publication_date": null,
+    "arxiv_alias": "2609.07732",
+    "state": "metadata lead only"
+  }
+}

@@ -1,0 +1,75 @@
+[
+  {
+    "arxiv_id": "2611.26032",
+    "url": "https://arxiv.org/abs/2611.26032",
+    "status": 200,
+    "citation_title": [
+      "Dephasing-free plasma acceleration with millijoule picosecond lasers"
+    ],
+    "citation_author": [
+      "Pukhov, Alexander"
+    ],
+    "citation_date": [
+      "2026/11/19"
+    ],
+    "citation_online_date": [
+      "2026/11/19"
+    ],
+    "citation_pdf_url": [
+      "https://arxiv.org/pdf/2611.26032"
+    ],
+    "citation_arxiv_id": [
+      "2611.26032"
+    ],
+    "citation_abstract": [
+      "Laser-plasma accelerators reach gradients a thousand times above radio-frequency cavities, but need joule-class femtosecond lasers firing about once per second, and electrons outrun the wave. A comb of laser lines spaced by the plasma frequency, each in its own mode of a matched channel, drives a wake moving at the speed of light. In particle-in-cell simulations a 175\\,mJ, 0.5\\,ps drive holds 21\\,GV/m over 10\\,mm with a 0.15\\,rad phase drift; a test electron gains 208\\,MeV, 2.6 times more than in one mode. Because the wave builds up resonantly, the required energy falls steeply with density: a 29\\,mJ drive sustains 20\\,GV/m, and a 10\\,mJ drive, within reach of kilohertz industrial lasers, gives a test electron 170\\,MeV over 30\\,mm. A simulated stage transfers 5\\,\\% of the laser energy to the wake; the Manley--Rowe limit is about 18\\,\\% for five lines."
+    ],
+    "dateline": "[Submitted on 19 Nov 2026]",
+    "abstract": "Abstract: Laser-plasma accelerators reach gradients a thousand times above radio-frequency cavities, but need joule-class femtosecond lasers firing about once per second, and electrons outrun the wave. A comb of laser lines spaced by the plasma frequency, each in its own mode of a matched channel, drives a wake moving at the speed of light. In particle-in-cell simulations a 175\\,mJ, 0.5\\,ps drive holds 21\\,GV/m over 10\\,mm with a 0.15\\,rad phase drift; a test electron gains 208\\,MeV, 2.6 times more than in one mode. Because the wave builds up resonantly, the required energy falls steeply with density: a 29\\,mJ drive sustains 20\\,GV/m, and a 10\\,mJ drive, within reach of kilohertz industrial lasers, gives a test electron 170\\,MeV over 30\\,mm. A simulated stage transfers 5\\,\\% of the laser energy to the wake; the Manley--Rowe limit is about 18\\,\\% for five lines.",
+    "submission-history": "Submission history From: Alexander Pukhov [ view email ] [v1] Thu, 19 Nov 2026 12:42:51 UTC (378 KB)",
+    "comments": null,
+    "metatable": "Subjects: Plasma Physics (physics.plasm-ph) ; Optics (physics.optics) Cite as: arXiv:2611.26032 [physics.plasm-ph] (or arXiv:2611.26032v1 [physics.plasm-ph] for this version) https://doi.org/10.48550/arXiv.2611.26032 Focus to learn more arXiv-issued DOI via DataCite (pending registration)"
+  },
+  {
+    "arxiv_id": "2611.25552",
+    "url": "https://arxiv.org/abs/2611.25552",
+    "status": 200,
+    "citation_title": [
+      "Direct measurement of the on-shot focal-spot size of a kilojoule-class petawatt laser"
+    ],
+    "citation_author": [
+      "Takizawa, Ryunosuke",
+      "Takahashi, Keisuke",
+      "Kawakami, Yuhei",
+      "Matsubara, Hiroki",
+      "Karaki, Yuga",
+      "Akematsu, Rinya",
+      "Oomura, Ryou",
+      "Kimura, Kai",
+      "Tamaru, Yuki",
+      "Arikawa, Yasunobu",
+      "Tsubakimoto, Koji",
+      "Fujioka, Shinsuke"
+    ],
+    "citation_date": [
+      "2026/11/19"
+    ],
+    "citation_online_date": [
+      "2026/11/19"
+    ],
+    "citation_pdf_url": [
+      "https://arxiv.org/pdf/2611.25552"
+    ],
+    "citation_arxiv_id": [
+      "2611.25552"
+    ],
+    "citation_abstract": [
+      "We report a direct, on-shot determination of the focal-spot size of a kilojoule-class, four-beam petawatt laser. Encircled-energy curves were inferred from the energy transmitted around aluminum-coated spheres of varying diameters placed at the focal plane. The 50% encircled-energy diameter D50 of each beam was obtained by fitting a two-component Gaussian mixture with Bayesian inference. With all deformable mirrors optimized in closed loop, the best-corrected alignment beam reached D50 = 34 (+4/-5) um, three times the diffraction limit of 10 um. Under full-power conditions, the thermal distortion of the main amplifier broadened this beam to D50 = 102 (+9/-8) um and reduced its peak intensity ninefold, to 2.2 (+0.6/-0.9) x 10^18 W/cm^2 at 250 J and 1.3 ps. The energy fraction of the narrow component decreased from 68% to 38%. These reference values serve facility users, and a deformable mirror upstream of the pulse compressor, now on one beam only, doubles the on-shot peak intensity."
+    ],
+    "dateline": "[Submitted on 19 Nov 2026]",
+    "abstract": "Abstract: We report a direct, on-shot determination of the focal-spot size of a kilojoule-class, four-beam petawatt laser. Encircled-energy curves were inferred from the energy transmitted around aluminum-coated spheres of varying diameters placed at the focal plane. The 50% encircled-energy diameter D50 of each beam was obtained by fitting a two-component Gaussian mixture with Bayesian inference. With all deformable mirrors optimized in closed loop, the best-corrected alignment beam reached D50 = 34 (+4/-5) um, three times the diffraction limit of 10 um. Under full-power conditions, the thermal distortion of the main amplifier broadened this beam to D50 = 102 (+9/-8) um and reduced its peak intensity ninefold, to 2.2 (+0.6/-0.9) x 10^18 W/cm^2 at 250 J and 1.3 ps. The energy fraction of the narrow component decreased from 68% to 38%. These reference values serve facility users, and a deformable mirror upstream of the pulse compressor, now on one beam only, doubles the on-shot peak intensity.",
+    "submission-history": "Submission history From: Ryunosuke Takizawa [ view email ] [v1] Thu, 19 Nov 2026 05:57:14 UTC (1,251 KB)",
+    "comments": "11 pages, 6 figures, 3 tables",
+    "metatable": "Comments: 11 pages, 6 figures, 3 tables Subjects: Optics (physics.optics) ; Plasma Physics (physics.plasm-ph) Cite as: arXiv:2611.25552 [physics.optics] (or arXiv:2611.25552v1 [physics.optics] for this version) https://doi.org/10.48550/arXiv.2611.25552 Focus to learn more arXiv-issued DOI via DataCite (pending registration)"
+  }
+]

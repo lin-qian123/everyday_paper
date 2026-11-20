@@ -2,11 +2,13 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：185 篇
-- 索引更新时间：2026-11-20
+- 当前收录：187 篇
+- 索引更新时间：2026-11-21
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-21 | [Dephasing-free plasma acceleration with millijoule picosecond lasers](../papers/arxiv-2611-26032/README.md) | arXiv preprint | [笔记](../daily/2026-11-21/notes/pukhov-2026-comb.md) |
+| 2026-11-21 | [Direct measurement of the on-shot focal-spot size of a kilojoule-class petawatt laser](../papers/arxiv-2611-25552/README.md) | arXiv preprint | [笔记](../daily/2026-11-21/notes/takizawa-2026-focus.md) |
 | 2026-11-19 | [Multivariate scaling of proton and ion energies, divergence, and charge states in laser-driven Target Normal Sheath Acceleration](../papers/10-1140-epjp-s13360-026-08572-x/README.md) | The European Physical Journal Plus | [笔记](../daily/2026-11-19/notes/alexopoulou-2026-tnsa.md) |
 | 2026-11-17 | [Qualifying LPA generated electron beams to free electron laser applications](../papers/10-1038-s41598-026-80539-5/README.md) | Scientific Reports (Article in Press; final VOR not acquired) | [笔记](../daily/2026-11-17/notes/ghaith-2026-lpa-fel-qualification.md) |
 | 2026-11-15 | [Beam-driven transverse deflecting structure for femtosecond electron-beam diagnostics](../papers/10-1103-ttzy-t1wy/README.md) | Physical Review Applied (accepted 2026-11-13; May author v3 read) | [笔记](../daily/2026-11-15/notes/tomin-2026-beam-driven-deflector.md) |

@@ -1,0 +1,78 @@
+{
+  "pukhov": {
+    "pdf": "../pdfs/pukhov-2026-comb.pdf",
+    "version": "2611.26032v1",
+    "read": "main text, Methods and S1-S10 text; reference list screened, cited prior papers not reread",
+    "visual_pages": [
+      1,
+      4,
+      6,
+      7,
+      10,
+      11,
+      13,
+      14,
+      15,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "evidence": "analytical design and author-run GEM-PIC-RZ simulations, no new experiment",
+    "critical_boundaries": [
+      "169-208MeV gain is modulus of integrated windowed kp Fourier field, not same as loaded witness output",
+      "30mm residual drift1.5rad; proposed1-2percent channel-width correction not simulated",
+      "29mJ two-stage witness100to198to265MeV; final rms spread18.5percent; hand relaunch drops mode-outside and envelope distortion",
+      "5.4percent laser-to-wake vs1.12percent simulated two-stage laser-to-added-beam energy vs18percent ManleyRowe bound",
+      "backward waves absent; RBS only estimate; longstage81percent drive-loss closure",
+      "nonparabolic channels eigenmode projections only; kHz repetition not simulated",
+      "seeding only two lines does not selfbuild ladder; all rungs seeded"
+    ],
+    "rerun": false
+  },
+  "takizawa": {
+    "pdf": "../pdfs/takizawa-2026-focus.pdf",
+    "version": "2611.25552v1",
+    "read": "main and supplementary posterior note text; references screened",
+    "visual_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "evidence": "sphere-transmission experiment, Bayesian fluence-profile inference, FLASH systematic estimate",
+    "critical_boundaries": [
+      "one beam per shot and one shot per sphere diameter; full pump but low seed, precompression2.7-12.9J",
+      "250J1.3ps intensity is scaled estimate using Eq6 and fixed temporal-spatial shape assumption",
+      "D50 encircled-energy diameter; S is on-axis amplitude weight, not energy fraction",
+      "H1/H3/H4 doublegaussian unidentifiable, table uses singleGaussian; MAP figure vs posterior-median table differ",
+      "68percentHPD includes strong correlations; H2 narrow fraction38percent lowererror38points",
+      "pointing included; fourbeam fullpump combined spot not measured",
+      "FLASH50micrometre sphere critical-surface expansion model, not measurement"
+    ],
+    "rerun": false
+  },
+  "dpf": {
+    "pdf": "../pdfs/zhao-2026-dpf-vor.pdf",
+    "scope": "identity, format and publication-status maintenance; not final-version scientific reread",
+    "visual_pages": [
+      1,
+      2
+    ],
+    "verified": "same DOI/fiveauthors/title/abstract; accepted2026-11-04 published2026-11-20; volume67(2027)026002",
+    "old_note_policy": "same original note updated; all old page/figure claims explicitly historical accepted manuscript",
+    "rerun": false
+  },
+  "mineru": {
+    "requests": 0,
+    "status": "historical token expiry not retested; explicit local extraction/rendering fallback"
+  },
+  "reviewer": "primary agent, no delegation"
+}

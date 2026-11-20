@@ -1,0 +1,114 @@
+[
+  {
+    "key": "prc-page",
+    "url": "https://journals.aps.org/prc/abstract/10.1103/l8lx-jr9h",
+    "final_url": "https://journals.aps.org/prc/abstract/10.1103/l8lx-jr9h",
+    "http_status": 403,
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 5550,
+    "pdf_magic": false,
+    "links": [],
+    "status_text": []
+  },
+  {
+    "key": "prc-pdf",
+    "url": "https://journals.aps.org/prc/pdf/10.1103/l8lx-jr9h",
+    "final_url": "https://journals.aps.org/prc/pdf/10.1103/l8lx-jr9h",
+    "http_status": 403,
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 5514,
+    "pdf_magic": false,
+    "links": [],
+    "status_text": []
+  },
+  {
+    "key": "prc-harvest",
+    "url": "https://harvest.aps.org/v2/journals/articles/10.1103/l8lx-jr9h/fulltext",
+    "final_url": "https://harvest.aps.org/v2/journals/articles/10.1103/l8lx-jr9h/fulltext",
+    "http_status": 404,
+    "content_type": "application/json",
+    "bytes": 52,
+    "pdf_magic": false,
+    "links": [],
+    "status_text": []
+  },
+  {
+    "key": "jrr-page",
+    "url": "https://academic.oup.com/jrr/advance-article/doi/10.1093/jrr/rrag102/9104401",
+    "final_url": "https://academic.oup.com/jrr/advance-article/doi/10.1093/jrr/rrag102/9104401",
+    "http_status": 403,
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 5613,
+    "pdf_magic": false,
+    "links": [],
+    "status_text": []
+  },
+  {
+    "key": "pukhov-2026-comb",
+    "url": "https://arxiv.org/pdf/2611.26032v1",
+    "final_url": "https://arxiv.org/pdf/2611.26032v1",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "bytes": 768772,
+    "pdf_magic": true,
+    "path": "daily/2026-11-21/pdfs/pukhov-2026-comb.pdf",
+    "sha256": "e26538c333f179d4c0795f3892a801e89a3325099b2bf836942f5403655a6bef"
+  },
+  {
+    "key": "takizawa-2026-focus",
+    "url": "https://arxiv.org/pdf/2611.25552v1",
+    "final_url": "https://arxiv.org/pdf/2611.25552v1",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "bytes": 2017709,
+    "pdf_magic": true,
+    "path": "daily/2026-11-21/pdfs/takizawa-2026-focus.pdf",
+    "sha256": "e3258899c5afdb8b6117d4ab07ff638c2142a50950d55c7534d09ae17f696229"
+  },
+  {
+    "key": "jrr-direct-transport",
+    "url": "https://academic.oup.com/jrr/advance-article-pdf/doi/10.1093/jrr/rrag102/73871211/rrag102.pdf",
+    "status": 403,
+    "content_type": "text/html",
+    "bytes": 93,
+    "pdf_magic": false
+  },
+  {
+    "key": "rahim-2026-ncept",
+    "url": "https://academic.oup.com/jrr/advance-article-pdf/doi/10.1093/jrr/rrag102/73871211/rrag102.pdf",
+    "final_url": "https://academic.oup.com/jrr/advance-article-pdf/doi/10.1093/jrr/rrag102/73871211/rrag102.pdf",
+    "status": 403,
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 5685,
+    "pdf_magic": false,
+    "status_matches": []
+  },
+  {
+    "key": "dpf-page",
+    "url": "https://iopscience.iop.org/article/10.1088/1741-4326/aebda4",
+    "final_url": "https://iopscience.iop.org/article/10.1088/1741-4326/aebda4",
+    "status": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "bytes": 707015,
+    "pdf_magic": false,
+    "status_matches": [
+      "rid PIC-fluid model for predictive fusion neutron yield in dense plasma focus Yinjian Zhao , Zhe Liu , Qiang Sun * , Qianhong Zhou * and Guangrui Sun Published 20 November 2026 • © 2026 The Author(s). Published by IOP Publishing Ltd on behalf of the IAEA Nuclear Fusion , Volume 67 , Number 2 Citation Yinjian Zhao et al 2027 Nucl. Fusion 67 026002 DOI 10.108",
+      "uid model for predictive fusion neutron yield in dense plasma focus Yinjian Zhao , Zhe Liu , Qiang Sun * , Qianhong Zhou * and Guangrui Sun Published 20 November 2026 • © 2026 The Author(s). Published by IOP Publishing Ltd on behalf of the IAEA Nuclear Fusion , Volume 67 , Number 2 Citation Yinjian Zhao et al 2027 Nucl. Fusion 67 026002 DOI 10.1088/1741-4326/",
+      "ield in dense plasma focus Yinjian Zhao , Zhe Liu , Qiang Sun * , Qianhong Zhou * and Guangrui Sun Published 20 November 2026 • © 2026 The Author(s). Published by IOP Publishing Ltd on behalf of the IAEA Nuclear Fusion , Volume 67 , Number 2 Citation Yinjian Zhao et al 2027 Nucl. Fusion 67 026002 DOI 10.1088/1741-4326/aebda4 PDF Opens in a new tab. Authors ",
+      "rics 60 Total downloads 0 Video abstract views Share this article Article information Dates Received 26 December 2025 Revised 8 October 2026 Accepted 4 November 2026 Published 20 November 2026 Buy this article in print Journal RSS Sign up for new issue notifications 0029-5515/67/2/026002 Abstract A fully electromagnetic hybrid ion-PIC/electron-fluid framewor",
+      "wnloads 0 Video abstract views Share this article Article information Dates Received 26 December 2025 Revised 8 October 2026 Accepted 4 November 2026 Published 20 November 2026 Buy this article in print Journal RSS Sign up for new issue notifications 0029-5515/67/2/026002 Abstract A fully electromagnetic hybrid ion-PIC/electron-fluid framework is developed ",
+      "Video abstract views Share this article Article information Dates Received 26 December 2025 Revised 8 October 2026 Accepted 4 November 2026 Published 20 November 2026 Buy this article in print Journal RSS Sign up for new issue notifications 0029-5515/67/2/026002 Abstract A fully electromagnetic hybrid ion-PIC/electron-fluid framework is developed for the impl"
+    ]
+  },
+  {
+    "key": "zhao-2026-dpf-vor",
+    "url": "https://iopscience.iop.org/article/10.1088/1741-4326/aebda4/pdf",
+    "final_url": "https://iopscience.iop.org/article/10.1088/1741-4326/aebda4/pdf",
+    "status": 200,
+    "content_type": "application/pdf;charset=UTF-8",
+    "bytes": 3480600,
+    "pdf_magic": true,
+    "sha256": "1b9a189d479d18b37442807c8533b52e4ad96e317bac7208f17fff8a236e38d7",
+    "path": "daily/2026-11-21/pdfs/zhao-2026-dpf-vor.pdf"
+  }
+]

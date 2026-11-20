@@ -1,10 +1,12 @@
 # 论文总索引
 
-- 当前入库论文：586 篇
-- 索引更新时间：2026-11-20
+- 当前入库论文：588 篇
+- 索引更新时间：2026-11-21
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-11-21 | [Dephasing-free plasma acceleration with millijoule picosecond lasers](./arxiv-2611-26032/README.md) | arXiv preprint | [10.48550/arXiv.2611.26032](https://doi.org/10.48550/arXiv.2611.26032) |
+| 2026-11-21 | [Direct measurement of the on-shot focal-spot size of a kilojoule-class petawatt laser](./arxiv-2611-25552/README.md) | arXiv preprint | [10.48550/arXiv.2611.25552](https://doi.org/10.48550/arXiv.2611.25552) |
 | 2026-11-20 | [High-fidelity spectral shaping via hardware-compensated waveform optimization for stimulated Brillouin scattering suppression in high-power fiber lasers](./10-1017-hpl-2026-10195/README.md) | High Power Laser Science and Engineering | [10.1017/hpl.2026.10195](https://doi.org/10.1017/hpl.2026.10195) |
 | 2026-11-20 | [The role of externally-driven density fluctuations in the enhancement of beam spray](./arxiv-2611-24914/README.md) | arXiv preprint; submitted to PRL, acceptance/publication unverified | [10.48550/arXiv.2611.24914](https://doi.org/10.48550/arXiv.2611.24914) |
 | 2026-11-20 | [Polarized positron generation via laser-engineered quasistatic magnetic fields in a spatially extended herringbone target](./arxiv-2611-24069/README.md) | arXiv preprint | [10.48550/arXiv.2611.24069](https://doi.org/10.48550/arXiv.2611.24069) |
@@ -496,7 +498,7 @@
 | 2026-06-12 | [SPRAY: A smoothed particle radiation hydrodynamics code for modeling high intensity laser-plasma interactions](./arxiv-2604-20124/README.md) | arXiv 预印本（高相关补充） | [10.48550/arXiv.2604.20124](https://doi.org/10.48550/arXiv.2604.20124) |
 | 2026-06-12 | [Probing vacuum birefringence in an Ultrastrong Laser Field via High-energy Gamma-ray Polarimetry](./arxiv-2603-05282/README.md) | arXiv 预印本（高相关补充） | [10.48550/arXiv.2603.05282](https://doi.org/10.48550/arXiv.2603.05282) |
 | 2026-06-12 | [PDE foundation model-accelerated inverse estimation of system parameters in inertial confinement fusion](./arxiv-2603-04606/README.md) | arXiv 预印本（高相关补充） | [10.48550/arXiv.2603.04606](https://doi.org/10.48550/arXiv.2603.04606) |
-| 2026-06-11 | [A Fully Electromagnetic Hybrid PIC-Fluid Model for Predictive Fusion Neutron Yield in Dense Plasma Focus](./10-1088-1741-4326-aebda4/README.md) | Nuclear Fusion, Accepted Manuscript | [10.1088/1741-4326/aebda4](https://doi.org/10.1088/1741-4326/aebda4) |
+| 2026-06-11 | [A Fully Electromagnetic Hybrid PIC-Fluid Model for Predictive Fusion Neutron Yield in Dense Plasma Focus](./10-1088-1741-4326-aebda4/README.md) | Nuclear Fusion | [10.1088/1741-4326/aebda4](https://doi.org/10.1088/1741-4326/aebda4) |
 | 2026-06-11 | [Plasma wakefield dynamics of self-generated electron bunch trains](./arxiv-2606-06232/README.md) | arXiv 预印本（高相关补充） | [10.48550/arXiv.2606.06232](https://doi.org/10.48550/arXiv.2606.06232) |
 | 2026-06-11 | [An explicit, energy-conserving particle-in-cell scheme for relativistic plasmas](./arxiv-2605-18542/README.md) | arXiv 预印本（高相关补充） | [10.48550/arXiv.2605.18542](https://doi.org/10.48550/arXiv.2605.18542) |
 | 2026-06-11 | [Design of experiments characterising heat conduction in magnetised, weakly collisional plasma](./10-1017-hpl-2026-10152/README.md) | High Power Laser Science and Engineering（Accepted manuscript，官方已接收） | [10.1017/hpl.2026.10152](https://doi.org/10.1017/hpl.2026.10152) |

@@ -1,0 +1,20 @@
+{
+  "ledger_before": 586,
+  "ledger_after": 588,
+  "new_dois": [
+    "10.48550/arXiv.2611.26032",
+    "10.48550/arXiv.2611.25552"
+  ],
+  "new_titles_unique": true,
+  "new_arxiv_aliases_unique": true,
+  "physical_scenario_comparison": {
+    "pukhov": "different work from existing Palastro2606.20298; resonant omega_p spacing and ps weak drive, explicitly cites prior work",
+    "takizawa": "no same-work title/DOI/arxiv alias in existing ledger; facility diagnostic, no four-beam end-to-end application claim",
+    "dpf": "same DOI/authors/title/abstract; update one existing object, preserve processed_date and historical note"
+  },
+  "previous_completed_objects_unchanged": 585,
+  "retry_before": 72,
+  "retry_after": 74,
+  "previous_retry_objects_unchanged": true,
+  "preexisting_agents_sha256": "34e18320c8191458fa513b47c4d55f6fc9c63da79e6b02f22d201ce5dfbb8e8d"
+}

@@ -1,0 +1,195 @@
+{
+  "source_pages_reviewed": {
+    "pukhov-2026-comb": [
+      1,
+      4,
+      6,
+      7,
+      10,
+      11,
+      13,
+      14,
+      15,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "takizawa-2026-focus": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "zhao-2026-dpf-vor": [
+      1,
+      2
+    ]
+  },
+  "scope": "two new scientific texts read; DPF VOR identity/status pages only, no final-version physics recertification",
+  "crops": [
+    {
+      "image": "daily/2026-11-21/notes/images/pukhov-fig1.png",
+      "pdf": "daily/2026-11-21/pdfs/pukhov-2026-comb.pdf",
+      "pdf_page": 4,
+      "clip_points": [
+        55,
+        60,
+        540,
+        420
+      ],
+      "scale": 1.75,
+      "source_pixel_match": true,
+      "sha256": "95a5d5c233e8306acea6ea1bab1546c14461a741643eac8e0e986f38e6ef4027"
+    },
+    {
+      "image": "daily/2026-11-21/notes/images/pukhov-fig2.png",
+      "pdf": "daily/2026-11-21/pdfs/pukhov-2026-comb.pdf",
+      "pdf_page": 6,
+      "clip_points": [
+        55,
+        50,
+        540,
+        652
+      ],
+      "scale": 1.75,
+      "source_pixel_match": true,
+      "sha256": "798868973522dce46b3fc246491273f59e659f4d0b4e53ba83f10e5d104cff7c"
+    },
+    {
+      "image": "daily/2026-11-21/notes/images/pukhov-fig3.png",
+      "pdf": "daily/2026-11-21/pdfs/pukhov-2026-comb.pdf",
+      "pdf_page": 7,
+      "clip_points": [
+        55,
+        55,
+        540,
+        455
+      ],
+      "scale": 1.75,
+      "source_pixel_match": true,
+      "sha256": "6cfcdf489bb3eb1302851acf70ccfc959c414d49e4f539fe8973862f0b8034f2"
+    },
+    {
+      "image": "daily/2026-11-21/notes/images/pukhov-fig4-5.png",
+      "pdf": "daily/2026-11-21/pdfs/pukhov-2026-comb.pdf",
+      "pdf_page": 10,
+      "clip_points": [
+        55,
+        50,
+        540,
+        774
+      ],
+      "scale": 1.75,
+      "source_pixel_match": true,
+      "sha256": "19d9b98e2c6084f0db4f769f2360ecb20ce2d00b73f0d442853706cc173a254b"
+    },
+    {
+      "image": "daily/2026-11-21/notes/images/pukhov-table-s3.png",
+      "pdf": "daily/2026-11-21/pdfs/pukhov-2026-comb.pdf",
+      "pdf_page": 28,
+      "clip_points": [
+        55,
+        55,
+        540,
+        212
+      ],
+      "scale": 1.75,
+      "source_pixel_match": true,
+      "sha256": "d53372c47991554998353bcbb005b051b58403cb948154b157727f8ff926e904"
+    },
+    {
+      "image": "daily/2026-11-21/notes/images/pukhov-table-s4.png",
+      "pdf": "daily/2026-11-21/pdfs/pukhov-2026-comb.pdf",
+      "pdf_page": 28,
+      "clip_points": [
+        55,
+        560,
+        540,
+        712
+      ],
+      "scale": 1.75,
+      "source_pixel_match": true,
+      "sha256": "98beb5c52bbfb0f3f923948ba11ed25c3073f79202cbb6ca2aa280f53ae0ca74"
+    },
+    {
+      "image": "daily/2026-11-21/notes/images/takizawa-fig1.png",
+      "pdf": "daily/2026-11-21/pdfs/takizawa-2026-focus.pdf",
+      "pdf_page": 2,
+      "clip_points": [
+        310,
+        119,
+        570,
+        264
+      ],
+      "scale": 1.75,
+      "source_pixel_match": true,
+      "sha256": "2c26a272f57e10b6c6207ec04a39c411d5375df5f1f17684871c77dc4f6b36ab"
+    },
+    {
+      "image": "daily/2026-11-21/notes/images/takizawa-table1.png",
+      "pdf": "daily/2026-11-21/pdfs/takizawa-2026-focus.pdf",
+      "pdf_page": 3,
+      "clip_points": [
+        45,
+        30,
+        570,
+        367
+      ],
+      "scale": 1.75,
+      "source_pixel_match": true,
+      "sha256": "eb117c5c5d516e2d36e6ec4bfd432517dfb25dc9b652255ab3a426f804320dfd"
+    },
+    {
+      "image": "daily/2026-11-21/notes/images/takizawa-fig4-table2.png",
+      "pdf": "daily/2026-11-21/pdfs/takizawa-2026-focus.pdf",
+      "pdf_page": 6,
+      "clip_points": [
+        45,
+        28,
+        570,
+        595
+      ],
+      "scale": 1.75,
+      "source_pixel_match": true,
+      "sha256": "1d5cc431663643d8bcdfc7985fe8710afdc6ccbad90c63088a88000a02fbbe37"
+    },
+    {
+      "image": "daily/2026-11-21/notes/images/takizawa-fig5-table3.png",
+      "pdf": "daily/2026-11-21/pdfs/takizawa-2026-focus.pdf",
+      "pdf_page": 7,
+      "clip_points": [
+        45,
+        28,
+        570,
+        645
+      ],
+      "scale": 1.75,
+      "source_pixel_match": true,
+      "sha256": "cf6f9a8018a6e75d5b969c429814e61560f94625edb67880562d0f40aa727b46"
+    },
+    {
+      "image": "daily/2026-11-21/notes/images/takizawa-s1.png",
+      "pdf": "daily/2026-11-21/pdfs/takizawa-2026-focus.pdf",
+      "pdf_page": 9,
+      "clip_points": [
+        45,
+        50,
+        570,
+        681
+      ],
+      "scale": 1.75,
+      "source_pixel_match": true,
+      "sha256": "cda6edd026073025dd98bc5836e28006d9322c6a50aa7660d9342b1a5ab327b1"
+    }
+  ],
+  "all_retained_crops_reviewed_by_primary": true,
+  "review_method": "rendered page contact sheets plus retained crop contact sheets; 2026-11-21; pixel equality checked independently"
+}

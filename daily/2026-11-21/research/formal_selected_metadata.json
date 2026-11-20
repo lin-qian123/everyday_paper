@@ -1,0 +1,274 @@
+[
+  {
+    "DOI": "10.1103/l8lx-jr9h",
+    "title": [
+      "Photoproduction of the\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\">\n                      <mml:msup>\n                        <mml:mi/>\n                        <mml:mrow>\n                          <mml:mn>98</mml:mn>\n                          <mml:mi>m</mml:mi>\n                        </mml:mrow>\n                      </mml:msup>\n                    </mml:math>\n                    Nb nucleus on\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\">\n                      <mml:msup>\n                        <mml:mi/>\n                        <mml:mn>100</mml:mn>\n                      </mml:msup>\n                    </mml:math>\n                    Mo at bremsstrahlung endpoint energies up to 94 MeV"
+    ],
+    "container-title": [
+      "Physical Review C"
+    ],
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          20
+        ]
+      ]
+    },
+    "accepted": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          20
+        ]
+      ]
+    },
+    "resource": {
+      "primary": {
+        "URL": "https://link.aps.org/doi/10.1103/l8lx-jr9h"
+      }
+    },
+    "authors": [
+      {
+        "given": "I. S.",
+        "family": "Timchenko"
+      },
+      {
+        "given": "O. S.",
+        "family": "Deiev"
+      },
+      {
+        "given": "S. M.",
+        "family": "Olejnik"
+      },
+      {
+        "given": "S. M.",
+        "family": "Potin"
+      },
+      {
+        "given": "V. A.",
+        "family": "Kushnir"
+      },
+      {
+        "given": "V. V.",
+        "family": "Mytrochenko"
+      },
+      {
+        "given": "A.",
+        "family": "Herzáň"
+      }
+    ]
+  },
+  {
+    "DOI": "10.1093/jrr/rrag102",
+    "title": [
+      "A comprehensive microdosimetric study of neutron capture enhanced proton therapy: physical dose to RBE-based evaluation"
+    ],
+    "container-title": [
+      "Journal of Radiation Research"
+    ],
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          20
+        ]
+      ]
+    },
+    "resource": {
+      "primary": {
+        "URL": "https://academic.oup.com/jrr/advance-article/doi/10.1093/jrr/rrag102/9104401"
+      }
+    },
+    "link": [
+      {
+        "URL": "https://academic.oup.com/jrr/advance-article-pdf/doi/10.1093/jrr/rrag102/73871211/rrag102.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://academic.oup.com/jrr/advance-article-pdf/doi/10.1093/jrr/rrag102/73871211/rrag102.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "article-number": "rrag102",
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Neutron Capture Enhanced Proton Therapy (NCEPT) has been proposed as a potential approach to improve the therapeutic effectiveness of proton therapy by utilizing neutron capture reactions within the irradiated target. However, recent studies have reported contradictory conclusions regarding its effectiveness. Therefore, in this study, a comprehensive Monte Carlo investigation of NCEPT was performed to examine both physical dose deposition and microdosimetric characteristics for different concentrations (up to 10,000 ppm) of neutron capture agents. A cuboidal soft tissue equivalent phantom was irradiated with a spread-out Bragg peak (SOBP) proton beam. The microdosimetric dose deposition patterns of individual radiation components were also analyzed to better understand the underlying energy deposition mechanisms within the target. The resulting microdosimetric spectra were coupled with the Microdosimetric Kinetic Model to estimate relative biological effectiveness (RBE)-based dose enhancement for V79 and human salivary gland cell lines. Physical dose analysis shows that the proton component dominates the total deposited dose, whereas the contributions from alpha particles and 7Li ions increase slightly with increasing boron concentration due to neutron capture reactions. Boron recoil nuclei also show an increasing trend, while the contributions from primary protons and recoil nuclei of tissue elements (C, N and O) decrease slightly as the boron concentration increases. Microdosimetric analysis reveals that alpha particles and recoil nuclei dominate the high lineal-energy region despite their relatively small contributions to the total physical dose. However, the calculated RBE enhancement factors within the SOBP target region exhibited only negligible changes, even at high neutron capture agent concentrations, indicating that NCEPT provides limited biological dose enhancement under the investigated conditions.</jats:p>",
+    "authors": [
+      {
+        "given": "Abdur",
+        "family": "Rahim",
+        "ORCID": "https://orcid.org/0000-0001-6339-464X"
+      },
+      {
+        "given": "Mst Sarmin",
+        "family": "Sultana",
+        "ORCID": "https://orcid.org/0009-0005-6397-9214"
+      },
+      {
+        "given": "Hiroshi",
+        "family": "Watabe",
+        "ORCID": "https://orcid.org/0000-0001-6257-7735"
+      }
+    ]
+  },
+  {
+    "DOI": "10.1103/tp7s-lzc3",
+    "title": [
+      "Thresholdless ion Bernstein wave emission and alpha-to-thermal-ion energy channeling via pole resonance of fusion-product ions"
+    ],
+    "container-title": [
+      "Physical Review E"
+    ],
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          20
+        ]
+      ]
+    },
+    "accepted": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          20
+        ]
+      ]
+    },
+    "resource": {
+      "primary": {
+        "URL": "https://link.aps.org/doi/10.1103/tp7s-lzc3"
+      }
+    },
+    "authors": [
+      {
+        "given": "Hong",
+        "family": "Qin"
+      },
+      {
+        "given": "Nathaniel J.",
+        "family": "Fisch"
+      }
+    ]
+  },
+  {
+    "DOI": "10.1088/1741-4326/aebda4",
+    "title": [
+      "A fully electromagnetic hybrid PIC-fluid model for predictive fusion neutron yield in dense plasma focus"
+    ],
+    "container-title": [
+      "Nuclear Fusion"
+    ],
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          20
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2027,
+          2,
+          1
+        ]
+      ]
+    },
+    "resource": {
+      "primary": {
+        "URL": "https://iopscience.iop.org/article/10.1088/1741-4326/aebda4"
+      }
+    },
+    "link": [
+      {
+        "URL": "https://iopscience.iop.org/article/10.1088/1741-4326/aebda4",
+        "content-type": "text/html",
+        "content-version": "am",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://iopscience.iop.org/article/10.1088/1741-4326/aebda4/pdf",
+        "content-type": "application/pdf",
+        "content-version": "am",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://iopscience.iop.org/article/10.1088/1741-4326/aebda4",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://iopscience.iop.org/article/10.1088/1741-4326/aebda4/pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://iopscience.iop.org/article/10.1088/1741-4326/aebda4/pdf",
+        "content-type": "application/pdf",
+        "content-version": "am",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://iopscience.iop.org/article/10.1088/1741-4326/aebda4/pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://iopscience.iop.org/article/10.1088/1741-4326/aebda4/pdf",
+        "content-type": "application/pdf",
+        "content-version": "am",
+        "intended-application": "similarity-checking"
+      },
+      {
+        "URL": "https://iopscience.iop.org/article/10.1088/1741-4326/aebda4/pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "volume": "67",
+    "issue": "2",
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    A fully electromagnetic hybrid ion-PIC/electron-fluid framework is developed for the implosion-to-pinch phase of dense plasma focus (DPF) discharges. Ions are advanced kinetically, electrons form a charge-neutralizing fluid under the quasi-neutral approximation, and the full Maxwell equations are solved in both plasma and vacuum. The generalized Ohm law includes resistive, electron pressure-gradient, and Hall terms. Applied to a non-hollow 180 kA geometry initialized from a pre-ionized end-of-rundown state, the framework reproduces the axial rundown, radial compression, and pinch stages. The sheath front trajectory agrees with fully kinetic benchmarks within 10%, and a pinch-radius comparison captures the radial collapse. A beam-target neutron diagnostic applied to the simulated ion distribution gives a yield of\n                    <jats:inline-formula>\n                      <jats:tex-math>\n                        \n                      </jats:tex-math>\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" overflow=\"scroll\">\n                        <mml:mrow>\n                          <mml:mn>0.296</mml:mn>\n                          <mml:mo>×</mml:mo>\n                          <mml:msup>\n                            <mml:mn>10</mml:mn>\n                            <mml:mn>7</mml:mn>\n                          </mml:msup>\n                        </mml:mrow>\n                      </mml:math>\n                    </jats:inline-formula>\n                    , at the same scale as the fully kinetic reference. The ion spectrum develops a non-Maxwellian suprathermal tail to about 0.25 MeV. The yield remains sensitive to the electron-temperature closure and anode geometry. The framework captures relevant macroscopic observables and ion-kinetic diagnostics at a computational cost roughly\n                    <jats:inline-formula>\n                      <jats:tex-math>\n                        \n                      </jats:tex-math>\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" overflow=\"scroll\">\n                        <mml:mrow>\n                          <mml:msup>\n                            <mml:mn>10</mml:mn>\n                            <mml:mn>5</mml:mn>\n                          </mml:msup>\n                        </mml:mrow>\n                      </mml:math>\n                    </jats:inline-formula>\n                    –\n                    <jats:inline-formula>\n                      <jats:tex-math>\n                        \n                      </jats:tex-math>\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" overflow=\"scroll\">\n                        <mml:mrow>\n                          <mml:msup>\n                            <mml:mn>10</mml:mn>\n                            <mml:mn>6</mml:mn>\n                          </mml:msup>\n                        </mml:mrow>\n                      </mml:math>\n                    </jats:inline-formula>\n                    times lower than comparable fully kinetic electromagnetic PIC simulations.\n                  </jats:p>",
+    "authors": [
+      {
+        "given": "Yinjian",
+        "family": "Zhao",
+        "ORCID": "https://orcid.org/0000-0003-4362-3630"
+      },
+      {
+        "given": "Zhe",
+        "family": "Liu",
+        "ORCID": "https://orcid.org/0009-0002-3589-9661"
+      },
+      {
+        "given": "Qiang",
+        "family": "Sun",
+        "ORCID": "https://orcid.org/0000-0002-2617-2578"
+      },
+      {
+        "given": "Qianhong",
+        "family": "Zhou",
+        "ORCID": "https://orcid.org/0000-0001-8448-7263"
+      },
+      {
+        "given": "Guangrui",
+        "family": "Sun",
+        "ORCID": "https://orcid.org/0000-0002-8991-3900"
+      }
+    ]
+  }
+]

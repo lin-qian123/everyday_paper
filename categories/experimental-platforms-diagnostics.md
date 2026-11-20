@@ -2,11 +2,12 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：210 篇
-- 索引更新时间：2026-11-20
+- 当前收录：211 篇
+- 索引更新时间：2026-11-21
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-21 | [Direct measurement of the on-shot focal-spot size of a kilojoule-class petawatt laser](../papers/arxiv-2611-25552/README.md) | arXiv preprint | [笔记](../daily/2026-11-21/notes/takizawa-2026-focus.md) |
 | 2026-11-20 | [High-fidelity spectral shaping via hardware-compensated waveform optimization for stimulated Brillouin scattering suppression in high-power fiber lasers](../papers/10-1017-hpl-2026-10195/README.md) | High Power Laser Science and Engineering | [笔记](../daily/2026-11-20/notes/xin-2026-sbs.md) |
 | 2026-11-20 | [The role of externally-driven density fluctuations in the enhancement of beam spray](../papers/arxiv-2611-24914/README.md) | arXiv preprint; submitted to PRL, acceptance/publication unverified | [笔记](../daily/2026-11-20/notes/mcmillen-2026-beam-spray.md) |
 | 2026-11-20 | [Polarized positron generation via laser-engineered quasistatic magnetic fields in a spatially extended herringbone target](../papers/arxiv-2611-24069/README.md) | arXiv preprint | [笔记](../daily/2026-11-20/notes/wu-2026-herringbone.md) |

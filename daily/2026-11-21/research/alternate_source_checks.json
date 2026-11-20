@@ -1,0 +1,56 @@
+[
+  {
+    "key": "arxiv-prc",
+    "url": "https://arxiv.org/search/?query=Photoproduction+Nb+Timchenko&searchtype=all&abstracts=show&order=-announced_date_first&size=25",
+    "status": 200,
+    "results": [],
+    "links": [],
+    "parsed_results": 0,
+    "caveat": "no matching parsed result, not an exhaustive absence proof"
+  },
+  {
+    "key": "hal-prc",
+    "url": "https://api.archives-ouvertes.fr/search/?q=title_t%3A%22Photoproduction%22+AND+authLastName_s%3ATimchenko&rows=5&wt=json&fl=title_s%2CdoiId_s%2CarxivId_s%2CfileMain_s%2Curi_s",
+    "status": 200,
+    "data": {
+      "response": {
+        "numFound": 0,
+        "start": 0,
+        "maxScore": 0.0,
+        "numFoundExact": true,
+        "docs": []
+      }
+    },
+    "numFound": 0
+  },
+  {
+    "key": "europepmc-jrr",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1093%2Fjrr%2Frrag102&format=json",
+    "status": 200,
+    "data": {
+      "version": "6.9",
+      "hitCount": 0,
+      "request": {
+        "queryString": "DOI:10.1093/jrr/rrag102",
+        "resultType": "lite",
+        "cursorMark": "*",
+        "pageSize": 25,
+        "sort": "",
+        "synonym": false
+      },
+      "resultList": {
+        "result": []
+      }
+    },
+    "hitCount": 0
+  },
+  {
+    "key": "ibw-arxiv",
+    "url": "https://arxiv.org/abs/2609.07732",
+    "status": 200,
+    "state": "official metadata only, not read or ingested",
+    "title": "Thresholdless IBW Emission and Alpha-to-Thermal-Ion Energy Channeling via Pole Resonance of Fusion-Product Ions",
+    "versions": "v1 2026-09-07; v2 2026-09-15; same author pair and abstract as PRE tp7s-lzc3 accepted2026-11-20",
+    "note": "No PDF investigation for this lower-priority lead."
+  }
+]
