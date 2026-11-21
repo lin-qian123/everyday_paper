@@ -20,15 +20,17 @@
 | [强场 QED 与辐射反作用](./categories/strong-field-qed-radiation.md) | 80 | 强场量子效应、辐射反作用、非线性 Compton、pair production 与极端场实验。 |
 | [高能量密度物理、ICF 与实验室天体](./categories/hedp-icf-laboratory-astrophysics.md) | 148 | HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。 |
 | [PIC、动理学与数值模拟](./categories/pic-and-plasma-simulation.md) | 263 | PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。 |
-| [机器学习与等离子体物理](./categories/ai-ml-plasma-physics.md) | 101 | 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。 |
+| [机器学习与等离子体物理](./categories/ai-ml-plasma-physics.md) | 102 | 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。 |
 | [磁约束聚变与 alpha 粒子](./categories/magnetic-fusion-and-alpha-particles.md) | 67 | stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。 |
-| [实验平台、靶设计与诊断](./categories/experimental-platforms-diagnostics.md) | 211 | 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。 |
+| [实验平台、靶设计与诊断](./categories/experimental-platforms-diagnostics.md) | 213 | 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。 |
 | [综合等离子体与交叉方法](./categories/general-plasma-and-methods.md) | 124 | 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。 |
 
 ## 最新入库
 
 | 入库日期 | 论文 | 分类 |
 | --- | --- | --- |
+| 2026-11-22 | [Visible light drives bright extreme-ultraviolet high harmonics](./papers/10-1038-s41467-026-79615-1/README.md) | 实验平台、靶设计与诊断 |
+| 2026-11-22 | [Deep neural network-controlled autonomous laser oscillation](./papers/10-1038-s41598-026-81760-y/README.md) | 机器学习与等离子体物理、实验平台、靶设计与诊断 |
 | 2026-11-21 | [Dephasing-free plasma acceleration with millijoule picosecond lasers](./papers/arxiv-2611-26032/README.md) | 激光等离子体与束流加速、PIC、动理学与数值模拟 |
 | 2026-11-21 | [Direct measurement of the on-shot focal-spot size of a kilojoule-class petawatt laser](./papers/arxiv-2611-25552/README.md) | 实验平台、靶设计与诊断、激光等离子体与束流加速 |
 | 2026-11-20 | [High-fidelity spectral shaping via hardware-compensated waveform optimization for stimulated Brillouin scattering suppression in high-power fiber lasers](./papers/10-1017-hpl-2026-10195/README.md) | 实验平台、靶设计与诊断、综合等离子体与交叉方法 |
@@ -39,7 +41,5 @@
 | 2026-11-19 | [Multivariate scaling of proton and ion energies, divergence, and charge states in laser-driven Target Normal Sheath Acceleration](./papers/10-1140-epjp-s13360-026-08572-x/README.md) | 激光等离子体与束流加速、激光加速电子/离子束应用、机器学习与等离子体物理 |
 | 2026-11-19 | [Learning Similarity-Reduced Ion Kinetics across Scales and Regimes in Capacitively Coupled Plasmas](./papers/arxiv-2611-22165/README.md) | PIC、动理学与数值模拟、机器学习与等离子体物理、综合等离子体与交叉方法 |
 | 2026-11-18 | [Physics-guided deep learning for high resolution X-ray free-electron laser imaging](./papers/10-1038-s41598-026-80553-7/README.md) | 机器学习与等离子体物理、实验平台、靶设计与诊断、高能量密度物理、ICF 与实验室天体 |
-| 2026-11-18 | [Linear Electrostatic Instabilities Driven by Relativistic Non-Maxwellian Pair Beams](./papers/10-3390-plasma9040049/README.md) | PIC、动理学与数值模拟、高能量密度物理、ICF 与实验室天体、综合等离子体与交叉方法 |
-| 2026-11-18 | [A spherical body in plasma simulated with adaptive mesh and algorithm refinement](./papers/arxiv-2611-21466/README.md) | PIC、动理学与数值模拟、综合等离子体与交叉方法、实验平台、靶设计与诊断 |
 
-_自动生成时间：2026-11-21_
+_自动生成时间：2026-11-22_

@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Visible light drives bright extreme-ultraviolet high harmonics",
+    "normalized_title": "visible light drives bright extreme ultraviolet high harmonics",
+    "doi": "10.1038/s41467-026-79615-1",
+    "source_url": "https://www.nature.com/articles/s41467-026-79615-1",
+    "journal": "Nature Communications",
+    "publication_date": "2026-11-21",
+    "publication_date_type": "publisher online publication; actual fulltext version independently inspected",
+    "acceptance_date": "2026-10-22",
+    "publication_status": "published Version of Record",
+    "fulltext_version": "publisher Version of Record, 8 pages; 7-page scientific supplement",
+    "authors": [
+      "Karst, Maximilian",
+      "Gebhardt, Martin",
+      "Eisenbach, Lucas",
+      "Gierschke, Philipp",
+      "Sidiropoulos, Themistoklis",
+      "Klas, Robert",
+      "Rothhardt, Jan",
+      "Limpert, Jens"
+    ],
+    "pdf_url": "https://www.nature.com/articles/s41467-026-79615-1.pdf",
+    "pdf_path": "daily/2026-11-22/pdfs/hhg-2026-visible.pdf",
+    "pdf_sha256": "547c1acd96a0e137bb999c8f84c457604a635e58b8dd5025dc45b9454ca26b2b",
+    "supplementary_pdf_path": "daily/2026-11-22/pdfs/karst-2026-hhg-supp.pdf",
+    "supplementary_pdf_sha256": "90be88478784cae770de21a644d5c910a7e5bc2e3b6e7065325adaff0512ae25",
+    "note_path": "daily/2026-11-22/notes/karst-2026-hhg.md",
+    "processed_date": "2026-11-22",
+    "categories": [
+      "experimental-platforms-diagnostics"
+    ],
+    "supplementary_pdf_url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-026-79615-1/MediaObjects/41467_2026_79615_MOESM1_ESM.pdf"
+  },
+  {
+    "title": "Deep neural network-controlled autonomous laser oscillation",
+    "normalized_title": "deep neural network controlled autonomous laser oscillation",
+    "doi": "10.1038/s41598-026-81760-y",
+    "source_url": "https://www.nature.com/articles/s41598-026-81760-y",
+    "journal": "Scientific Reports",
+    "publication_date": "2026-11-21",
+    "publication_date_type": "publisher online publication; actual fulltext version independently inspected",
+    "acceptance_date": "2026-11-17",
+    "publication_status": "published early Article in Press; final Version of Record not yet verified",
+    "fulltext_version": "publisher Article in Press, 14 pages; 13-page scientific supplement; not final VOR",
+    "authors": [
+      "Ikeya, Yuki",
+      "Sekine, Takashi",
+      "Tani, Shuntaro",
+      "Endo, Tsubasa",
+      "Otsu, Toshio",
+      "Morita, Takaaki",
+      "Tamaoki, Yoshinori",
+      "Kato, Yoshinori",
+      "Kawashima, Toshiyuki",
+      "Kobayashi, Yohei"
+    ],
+    "pdf_url": "https://www.nature.com/articles/s41598-026-81760-y_reference.pdf",
+    "pdf_path": "daily/2026-11-22/pdfs/ikeya-2026-control.pdf",
+    "pdf_sha256": "8b8552889629a4a31fe25bb9d0784607c0c0c866ce2cfb24106f2e8bf39fa643",
+    "supplementary_pdf_path": "daily/2026-11-22/pdfs/ikeya-2026-control-supp.pdf",
+    "supplementary_pdf_sha256": "a0b0fabe7a8f74a960dbc39fa3c7bedf8b731b335c69b2dc2133cc68f554c017",
+    "note_path": "daily/2026-11-22/notes/ikeya-2026-control.md",
+    "processed_date": "2026-11-22",
+    "categories": [
+      "ai-ml-plasma-physics",
+      "experimental-platforms-diagnostics"
+    ],
+    "supplementary_pdf_url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-026-81760-y/MediaObjects/41598_2026_81760_MOESM1_ESM.pdf"
+  }
+]

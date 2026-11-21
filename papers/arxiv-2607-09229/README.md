@@ -1,5 +1,7 @@
 # Tens of MeV, collimated, bright fluxes of protons from ordered nano-structured targets in ultra-relativistic laser-matter interaction
 
+本作品已原位关联PRResearch接收记录：[当前论文页](../10-1103-bvnj-1wmg/README.md)。2026-11-21为接收日，最终发表尚未核实；以下保留最初作者稿索引，非新增作品。
+
 ## 基本信息
 
 - 分类：[激光等离子体与束流加速](../../categories/laser-plasma-acceleration.md), [激光加速电子/离子束应用](../../categories/laser-accelerated-beam-applications.md), [PIC、动理学与数值模拟](../../categories/pic-and-plasma-simulation.md), [实验平台、靶设计与诊断](../../categories/experimental-platforms-diagnostics.md)
@@ -8,8 +10,8 @@
 - 入库日期：2026-07-14
 - DOI：[10.48550/arXiv.2607.09229](https://doi.org/10.48550/arXiv.2607.09229)
 - 来源：[https://arxiv.org/abs/2607.09229](https://arxiv.org/abs/2607.09229)
-- 中文笔记：[打开笔记](../../daily/2026-07-14/notes/Sagar Dam et al. - 2026 - Tens of MeV collimated bright fluxes of protons.md)
-- 本地 PDF：[本地路径](../../daily/2026-07-14/pdfs/Sagar Dam et al. - 2026 - Tens of MeV collimated bright fluxes of protons.pdf)
+- 中文笔记：[打开笔记](<../../daily/2026-07-14/notes/Sagar Dam et al. - 2026 - Tens of MeV collimated bright fluxes of protons.md>)
+- 本地 PDF：[本地路径](<../../daily/2026-07-14/pdfs/Sagar Dam et al. - 2026 - Tens of MeV collimated bright fluxes of protons.pdf>)
 
 ## 索引说明
 

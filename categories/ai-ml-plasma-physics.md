@@ -2,11 +2,12 @@
 
 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。
 
-- 当前收录：101 篇
-- 索引更新时间：2026-11-21
+- 当前收录：102 篇
+- 索引更新时间：2026-11-22
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-22 | [Deep neural network-controlled autonomous laser oscillation](../papers/10-1038-s41598-026-81760-y/README.md) | Scientific Reports | [笔记](../daily/2026-11-22/notes/ikeya-2026-control.md) |
 | 2026-11-19 | [Multivariate scaling of proton and ion energies, divergence, and charge states in laser-driven Target Normal Sheath Acceleration](../papers/10-1140-epjp-s13360-026-08572-x/README.md) | The European Physical Journal Plus | [笔记](../daily/2026-11-19/notes/alexopoulou-2026-tnsa.md) |
 | 2026-11-19 | [Learning Similarity-Reduced Ion Kinetics across Scales and Regimes in Capacitively Coupled Plasmas](../papers/arxiv-2611-22165/README.md) | arXiv preprint; submitted to Applied Physics Letters, not verified accepted | [笔记](../daily/2026-11-19/notes/zhang-2026-ion-kinetics.md) |
 | 2026-11-18 | [Physics-guided deep learning for high resolution X-ray free-electron laser imaging](../papers/10-1038-s41598-026-80553-7/README.md) | Scientific Reports (Article in Press; final VOR not acquired) | [笔记](../daily/2026-11-18/notes/lee-2026-xfel.md) |

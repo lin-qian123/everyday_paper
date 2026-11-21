@@ -1,0 +1,101 @@
+[
+  {
+    "key": "hhg-2026-visible",
+    "url": "https://www.nature.com/articles/s41467-026-79615-1.pdf",
+    "status": 200,
+    "content_type": "application/pdf",
+    "bytes": 4307025,
+    "final_url": "https://www.nature.com/articles/s41467-026-79615-1.pdf",
+    "pdf_magic": true,
+    "path": "daily/2026-11-22/pdfs/hhg-2026-visible.pdf"
+  },
+  {
+    "key": "elkina-2026-recoil",
+    "url": "https://arxiv.org/pdf/2611.26402v1",
+    "status": 200,
+    "content_type": "application/pdf",
+    "bytes": 4717626,
+    "final_url": "https://arxiv.org/pdf/2611.26402v1",
+    "pdf_magic": true,
+    "sha256": "ad038c791883aa7976ee27a6c9174eedf634917aaff1426f64f295dd14e5bc12",
+    "disposition": "format checked only, not read or ingested; formal papers prioritized; unused copy removed"
+  },
+  {
+    "key": "protons-aps",
+    "url": "https://journals.aps.org/prresearch/abstract/10.1103/bvnj-1wmg",
+    "status": 403,
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 5571,
+    "final_url": "https://journals.aps.org/prresearch/abstract/10.1103/bvnj-1wmg",
+    "pdf_magic": false
+  },
+  {
+    "key": "karst-2026-hhg-supp",
+    "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-026-79615-1/MediaObjects/41467_2026_79615_MOESM1_ESM.pdf",
+    "status": 200,
+    "content_type": "application/pdf",
+    "bytes": 2257944,
+    "final_url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-026-79615-1/MediaObjects/41467_2026_79615_MOESM1_ESM.pdf",
+    "pdf_magic": true,
+    "path": "daily/2026-11-22/pdfs/karst-2026-hhg-supp.pdf"
+  },
+  {
+    "key": "ikeya-2026-control",
+    "url": "https://www.nature.com/articles/s41598-026-81760-y.pdf",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 236008,
+    "final_url": "https://www.nature.com/articles/s41598-026-81760-y",
+    "pdf_magic": false
+  },
+  {
+    "key": "protons-pdf",
+    "url": "https://journals.aps.org/prresearch/pdf/10.1103/bvnj-1wmg",
+    "status": 403,
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 5556,
+    "final_url": "https://journals.aps.org/prresearch/pdf/10.1103/bvnj-1wmg",
+    "pdf_magic": false
+  },
+  {
+    "key": "protons-harvest",
+    "url": "https://harvest.aps.org/v2/journals/articles/10.1103/bvnj-1wmg/fulltext",
+    "status": 404,
+    "content_type": "application/json",
+    "bytes": 52,
+    "final_url": "https://harvest.aps.org/v2/journals/articles/10.1103/bvnj-1wmg/fulltext",
+    "pdf_magic": false
+  },
+  {
+    "key": "ikeya-2026-control-supp",
+    "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-026-81760-y/MediaObjects/41598_2026_81760_MOESM1_ESM.pdf",
+    "status": 200,
+    "content_type": "application/pdf",
+    "bytes": 771085,
+    "final_url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-026-81760-y/MediaObjects/41598_2026_81760_MOESM1_ESM.pdf",
+    "pdf_magic": true,
+    "path": "daily/2026-11-22/pdfs/ikeya-2026-control-supp.pdf"
+  },
+  {
+    "key": "ikeya-2026-control",
+    "url": "https://www.nature.com/articles/s41598-026-81760-y_reference.pdf",
+    "status": 200,
+    "content_type": "application/pdf",
+    "bytes": 1634618,
+    "final_url": "https://www.nature.com/articles/s41598-026-81760-y_reference.pdf",
+    "pdf_magic": true,
+    "path": "daily/2026-11-22/pdfs/ikeya-2026-control.pdf"
+  },
+  {
+    "key": "dam-2026-protons-v1",
+    "url": "https://arxiv.org/pdf/2607.09229v1",
+    "status": 200,
+    "content_type": "application/pdf",
+    "bytes": 24429143,
+    "final_url": "https://arxiv.org/pdf/2607.09229v1",
+    "pdf_magic": true,
+    "identical_existing_path": "daily/2026-07-14/pdfs/Sagar Dam et al. - 2026 - Tens of MeV collimated bright fluxes of protons.pdf",
+    "sha256": "ffbec37ab74dc884e1574235e4a46957e783ad5951b89e4bf736fc575383f6b0",
+    "disposition": "duplicate copy removed after identity/hash validation; existing artifact retained"
+  }
+]

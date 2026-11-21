@@ -1,10 +1,12 @@
 # 论文总索引
 
-- 当前入库论文：588 篇
-- 索引更新时间：2026-11-21
+- 当前入库论文：590 篇
+- 索引更新时间：2026-11-22
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-11-22 | [Visible light drives bright extreme-ultraviolet high harmonics](./10-1038-s41467-026-79615-1/README.md) | Nature Communications | [10.1038/s41467-026-79615-1](https://doi.org/10.1038/s41467-026-79615-1) |
+| 2026-11-22 | [Deep neural network-controlled autonomous laser oscillation](./10-1038-s41598-026-81760-y/README.md) | Scientific Reports | [10.1038/s41598-026-81760-y](https://doi.org/10.1038/s41598-026-81760-y) |
 | 2026-11-21 | [Dephasing-free plasma acceleration with millijoule picosecond lasers](./arxiv-2611-26032/README.md) | arXiv preprint | [10.48550/arXiv.2611.26032](https://doi.org/10.48550/arXiv.2611.26032) |
 | 2026-11-21 | [Direct measurement of the on-shot focal-spot size of a kilojoule-class petawatt laser](./arxiv-2611-25552/README.md) | arXiv preprint | [10.48550/arXiv.2611.25552](https://doi.org/10.48550/arXiv.2611.25552) |
 | 2026-11-20 | [High-fidelity spectral shaping via hardware-compensated waveform optimization for stimulated Brillouin scattering suppression in high-power fiber lasers](./10-1017-hpl-2026-10195/README.md) | High Power Laser Science and Engineering | [10.1017/hpl.2026.10195](https://doi.org/10.1017/hpl.2026.10195) |
@@ -398,9 +400,9 @@
 | 2026-07-15 | [Toward AI-Agent-Driven Particle Transport Simulations: Implementation of AI-Assisted Workflows for PHITS](./10-1080-00223131-2026-2742550/README.md) | Journal of Nuclear Science and Technology (formal online publication; local full text is the corresponding arXiv:2607.11309 author preprint, not VOR) | [10.1080/00223131.2026.2742550](https://doi.org/10.1080/00223131.2026.2742550) |
 | 2026-07-15 | [Efficient hot electron generation via low-coherence lasers](./arxiv-2607-11045/README.md) | arXiv preprint | [10.48550/arXiv.2607.11045](https://doi.org/10.48550/arXiv.2607.11045) |
 | 2026-07-15 | [Investigation of transverse instability in efficient plasma-based accelerators](./arxiv-2607-10497/README.md) | arXiv preprint | [10.48550/arXiv.2607.10497](https://doi.org/10.48550/arXiv.2607.10497) |
-| 2026-07-14 | [Tens of MeV, collimated, bright fluxes of protons from ordered nano-structured targets in ultra-relativistic laser-matter interaction](./arxiv-2607-09229/README.md) | arXiv preprint | [10.48550/arXiv.2607.09229](https://doi.org/10.48550/arXiv.2607.09229) |
 | 2026-07-14 | [On the generation of astrophysically-relevant intermittent magnetic turbulence in the laboratory](./arxiv-2607-09453/README.md) | arXiv preprint | [10.48550/arXiv.2607.09453](https://doi.org/10.48550/arXiv.2607.09453) |
 | 2026-07-14 | [TokaGrad: End-to-end differentiable tokamak simulator for L-to-H full scenario optimization](./arxiv-2607-09088/README.md) | arXiv preprint | [10.48550/arXiv.2607.09088](https://doi.org/10.48550/arXiv.2607.09088) |
+| 2026-07-14 | [Tens of MeV, collimated, bright fluxes of protons from ordered nanostructured targets in ultrarelativistic laser-matter interaction](./10-1103-bvnj-1wmg/README.md) | Physical Review Research | [10.1103/bvnj-1wmg](https://doi.org/10.1103/bvnj-1wmg) |
 | 2026-07-13 | [Dependence of Particle Acceleration Efficiency on Shock Velocity in Weakly Magnetized Electron-Ion Shocks](./arxiv-2607-05778/README.md) | arXiv preprint | [10.48550/arXiv.2607.05778](https://doi.org/10.48550/arXiv.2607.05778) |
 | 2026-07-13 | [Characterizing an inverse Compton X-ray source and determining its electron beam parameters using a genetic algorithm](./arxiv-2607-06226/README.md) | arXiv preprint | [10.48550/arXiv.2607.06226](https://doi.org/10.48550/arXiv.2607.06226) |
 | 2026-07-13 | [Absolute Calibration of a Time-Resolved High Resolution X-ray Spectrometer for the National Ignition Facility (invited)](./arxiv-2607-05766/README.md) | arXiv preprint | [10.48550/arXiv.2607.05766](https://doi.org/10.48550/arXiv.2607.05766) |

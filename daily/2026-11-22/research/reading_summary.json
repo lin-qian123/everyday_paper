@@ -1,0 +1,31 @@
+{
+  "new_science_documents": 4,
+  "new_science_pages": 42,
+  "new_notes": 2,
+  "read_scope": [
+    "Karst main scientific text and Methods; Supplementary Notes1-5",
+    "Ikeya main scientific text and Methods; Supplementary Notes1-6"
+  ],
+  "references": "not independently followed",
+  "old_dam": "only identity/hash/first-page inspection; no historical physics recertification",
+  "unselected_recoil": "format only, no fulltext reading; not ingested",
+  "no_local_runs": [
+    "Luna.jl",
+    "COMSOL",
+    "DNN training/inference",
+    "Nelder-Mead",
+    "laser experiments"
+  ],
+  "source_discrepancies": [
+    "Ikeya main maximum NM first-hit32 vs SupplementaryTableS2 test3-2=33",
+    "Ikeya Fig2 diagram labels3maxpool vs body/caption first2",
+    "Ikeya SI claims simplex offsets in TableS1 but table only counts/successes"
+  ],
+  "interpretation_boundaries": [
+    "HHG1e-6 refersHH33 full line, 13.5nm2percent efficiency~3.75e-7",
+    "HHG simulated3fs not measured temporal pulse; spectrum normalized atHH37; gasdensity factor4.4",
+    "DNN original100heldout interpolation; reinstalled100/98/98 allsuccess<=2 but finite sample",
+    "DNN scalarNM/imageDNN/offlinecost differ; no general allcost superiority",
+    "no converter/photonuclear/clinical/shielding end-to-end validation"
+  ]
+}

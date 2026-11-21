@@ -1,0 +1,55 @@
+{
+  "baseline": 588,
+  "after": 590,
+  "new": [
+    {
+      "doi": "10.1038/s41467-026-79615-1",
+      "doi_exists_before": false,
+      "normalized_title_exists_before": false,
+      "nearest_titles": [
+        {
+          "score": 0.43478260869565216,
+          "doi": "10.48550/arXiv.2608.28769",
+          "title": "Enhanced Extreme Ultraviolet Emission from Laser-heated Blow-Off Tin Plasmas"
+        },
+        {
+          "score": 0.42857142857142855,
+          "doi": "10.48550/arXiv.2608.23466",
+          "title": "Helical jets driven by a ring of laser irradiation"
+        },
+        {
+          "score": 0.4036697247706422,
+          "doi": "10.1038/nphys4007",
+          "title": "Plasma holograms for ultrahigh-intensity optics"
+        }
+      ],
+      "same_work_review": "HHG helium coherent harmonics is distinct from prior Sn blow-off EUV; DNN Yb:YAG startup distinct from PIC neural operators and other plasma controls"
+    },
+    {
+      "doi": "10.1038/s41598-026-81760-y",
+      "doi_exists_before": false,
+      "normalized_title_exists_before": false,
+      "nearest_titles": [
+        {
+          "score": 0.5179856115107914,
+          "doi": "10.48550/arXiv.2610.40528",
+          "title": "NEOPIC: A Neural Operator Framework for Particle-based Kinetic Plasma Simulations"
+        },
+        {
+          "score": 0.45614035087719296,
+          "doi": "10.48550/arXiv.2606.16066",
+          "title": "On modeling energetic electrons in laser fusion plasmas"
+        },
+        {
+          "score": 0.44871794871794873,
+          "doi": "10.48550/arXiv.2603.28473",
+          "title": "Simulation Design for Velocity-Controlled Spatio-Temporal Drivers in Laser Wakefield Acceleration"
+        }
+      ],
+      "same_work_review": "HHG helium coherent harmonics is distinct from prior Sn blow-off EUV; DNN Yb:YAG startup distinct from PIC neural operators and other plasma controls"
+    }
+  ],
+  "same_work_updated": "2607.09229 -> 10.1103/bvnj-1wmg, no count increase",
+  "old_objects_unchanged_except_one": true,
+  "retry_queue_unchanged": true
+}

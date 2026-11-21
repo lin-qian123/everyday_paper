@@ -1,11 +1,17 @@
 # Tens of MeV, collimated, bright fluxes of protons from ordered nano-structured targets in ultra-relativistic laser-matter interaction
 
+## 2026-11-22 正式接收状态更新（非全文重审）
+
+同一作品已获 Physical Review Research 接收：[10.1103/bvnj-1wmg](https://journals.aps.org/prresearch/accepted/10.1103/bvnj-1wmg)。Crossref accepted 为2026-11-21，published-online同日，最终发表日未独立核实，台账publication_date留空；不可把接收日直接当VOR发表日。原标题nano-structured／ultra-relativistic与期刊标题nanostructured／ultrarelativistic为同作。23位作者顺序、官方arXiv摘要与ELI-NP实验情景一致。
+
+实际全文仍是2026-07-10的arXiv 2607.09229v1，17页。本轮重新下载官方v1，与既有本地PDF逐字节哈希相同（SHA-256 `ffbec37ab74dc884e1574235e4a46957e783ad5951b89e4bf736fc575383f6b0`），仅核身份／版本、首页和格式，**未重读旧物理分析、未按期刊版逐图逐式复审**。APS文章页403、PDF403、官方harvest404，无最终版PDF；同作已有作者全文，不另建重复重试。以下科学笔记保留原阅读证据。
+
 ## 基本信息
 
 - 作者：Sagar Dam; Stefania Ionescu; Jian Fuh Ong; Ameya Parab; Sk Rakeeb; Hideaki Habara; Gabriel Cojocaru; Vojtěch Horný; Dmitrii Nistor; Saidbek Norbaev; Rudrajyoti Palit; Daniel Popa; Deepak Sangwan; Klaus Spohr; Bianca Stan; Antonia Toma; Lucian Tudor; Daniel Ursescu; Adrian Vatcu; Keita Yamanaka; Prashant Kumar Singh; Kazuo A. Tanaka; G. Ravindra Kumar
-- 期刊/平台：arXiv preprint
-- DOI：https://doi.org/10.48550/arXiv.2607.09229
-- 发表时间：2026-07-10
+- 期刊状态：Physical Review Research 已接收；实际阅读平台为arXiv v1
+- 期刊DOI：https://doi.org/10.1103/bvnj-1wmg；作者稿DOI：https://doi.org/10.48550/arXiv.2607.09229
+- 作者稿首投：2026-07-10；期刊接收：2026-11-21；最终发表日未核实
 - 来源链接：https://arxiv.org/abs/2607.09229
 - 本地 PDF：`daily/2026-07-14/pdfs/Sagar Dam et al. - 2026 - Tens of MeV collimated bright fluxes of protons.pdf`
 
@@ -39,4 +45,4 @@
 
 ## 局限与注意事项
 
-当前为预印本；RCF 数据主要用于二维空间/角分布和相对产额比较，而不是完整绝对通量标定。若用于应用端设计，还需要继续评估重复频率、靶制备一致性、碎片/电磁脉冲环境、剂量稳定性和更高能量质子输出的可扩展性。
+本笔记的实际全文为作者预印本，虽已核期刊接收，期刊最终全文尚不可达；RCF 数据主要用于二维空间/角分布和相对产额比较，而不是完整绝对通量标定。若用于应用端设计，还需要继续评估重复频率、靶制备一致性、碎片/电磁脉冲环境、剂量稳定性和更高能量质子输出的可扩展性。

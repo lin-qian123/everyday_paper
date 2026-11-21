@@ -1,0 +1,50 @@
+{
+  "run_date": "2026-11-22",
+  "recorded_at": "2026-11-21T23:09:17.259870+00:00",
+  "completed_research": true,
+  "new_papers": 2,
+  "old_work_formal_updates": 1,
+  "ledger_before": 588,
+  "ledger_after": 590,
+  "old_objects_unchanged": 587,
+  "retries_before": 74,
+  "retries_after": 74,
+  "retry_bytes_unchanged": true,
+  "new_science_pdf_count": 4,
+  "new_science_pages": 42,
+  "old_identity_pdf_pages": 17,
+  "visual_review": {
+    "new_key_pages": 29,
+    "historical_identity_pages": 1,
+    "retained_crops": 9
+  },
+  "mineru": {
+    "requests": 0,
+    "historical_auth_expiry_retested": false,
+    "fallback": "local layout text and rendered pages"
+  },
+  "index_builder": {
+    "command": "python scripts/build_indexes.py",
+    "exit_code": 0,
+    "papers": 590,
+    "categories": 9
+  },
+  "tests": {
+    "command": "PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q",
+    "exit_code": 0,
+    "passed": 7,
+    "duration_seconds": 11.03
+  },
+  "publication": {
+    "authorized_target": "origin/master",
+    "contract": "commit audited scoped files, push, then independently check HEAD == origin/master == fresh ls-remote; completion SHA/parity recorded in automation memory and final response"
+  },
+  "preserved_user_edit": "AGENTS.md baseline hash retained, excluded from commit",
+  "limits": [
+    "bounded discovery, not exhaustive",
+    "no fulltext notes for inaccessible/unread candidates",
+    "historical Dam physics not re-audited",
+    "no author simulations, neural training or experiments rerun",
+    "PDF/text remain local Gitignored"
+  ]
+}

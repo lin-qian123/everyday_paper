@@ -2201,15 +2201,66 @@
     "note_path": "daily/2026-07-13/notes/Lan Gao et al. - 2026 - Absolute Calibration of a Time-Resolved High Resolution X-ray Spectrometer.md"
   },
   {
-    "title": "Tens of MeV, collimated, bright fluxes of protons from ordered nano-structured targets in ultra-relativistic laser-matter interaction",
-    "normalized_title": "tens of mev collimated bright fluxes of protons from ordered nano structured targets in ultra relativistic laser matter interaction",
-    "doi": "10.48550/arXiv.2607.09229",
-    "journal": "arXiv preprint",
-    "publication_date": "2026-07-10",
+    "title": "Tens of MeV, collimated, bright fluxes of protons from ordered nanostructured targets in ultrarelativistic laser-matter interaction",
+    "normalized_title": "tens of mev collimated bright fluxes of protons from ordered nanostructured targets in ultrarelativistic laser matter interaction",
+    "doi": "10.1103/bvnj-1wmg",
+    "journal": "Physical Review Research",
+    "publication_date": null,
     "processed_date": "2026-07-14",
-    "source_url": "https://arxiv.org/abs/2607.09229",
+    "source_url": "https://journals.aps.org/prresearch/accepted/10.1103/bvnj-1wmg",
     "pdf_path": "daily/2026-07-14/pdfs/Sagar Dam et al. - 2026 - Tens of MeV collimated bright fluxes of protons.pdf",
-    "note_path": "daily/2026-07-14/notes/Sagar Dam et al. - 2026 - Tens of MeV collimated bright fluxes of protons.md"
+    "note_path": "daily/2026-07-14/notes/Sagar Dam et al. - 2026 - Tens of MeV collimated bright fluxes of protons.md",
+    "arxiv_id": "2607.09229",
+    "arxiv_doi": "10.48550/arXiv.2607.09229",
+    "acceptance_date": "2026-11-21",
+    "publication_date_type": "Crossref accepted 2026-11-21; published-online equals acceptance; final publication not independently verified",
+    "arxiv_first_submission_date": "2026-07-10",
+    "publication_status": "accepted journal article; final publication and journal PDF not verified",
+    "fulltext_version": "actual historical reading remains arXiv 2607.09229v1, 17 pages; 2026-11-22 identity and byte-hash check only",
+    "pdf_url": "https://arxiv.org/pdf/2607.09229v1",
+    "pdf_sha256": "ffbec37ab74dc884e1574235e4a46957e783ad5951b89e4bf736fc575383f6b0",
+    "authors": [
+      "Dam, Sagar",
+      "Ionescu, Stefania",
+      "Ong, Jian Fuh",
+      "Parab, Ameya",
+      "Rakeeb, Sk",
+      "Habara, Hideaki",
+      "Cojocaru, Gabriel",
+      "Horný, Vojtěch",
+      "Nistor, Dmitrii",
+      "Norbaev, Saidbek",
+      "Palit, Rudrajyoti",
+      "Popa, Daniel",
+      "Sangwan, Deepak",
+      "Spohr, Klaus",
+      "Stan, Bianca",
+      "Toma, Antonia",
+      "Tudor, Lucian",
+      "Ursescu, Daniel",
+      "Vatcu, Adrian",
+      "Yamanaka, Keita",
+      "Singh, Prashant Kumar",
+      "Tanaka, Kazuo A.",
+      "Kumar, G. Ravindra"
+    ],
+    "version_history": [
+      {
+        "version": "arXiv v1",
+        "first_submission_date": "2026-07-10",
+        "processed_date": "2026-07-14",
+        "source_url": "https://arxiv.org/abs/2607.09229",
+        "pdf_path": "daily/2026-07-14/pdfs/Sagar Dam et al. - 2026 - Tens of MeV collimated bright fluxes of protons.pdf",
+        "scope": "historical scientific note not re-audited in current run"
+      },
+      {
+        "version": "journal accepted metadata",
+        "accepted_date": "2026-11-21",
+        "checked_date": "2026-11-22",
+        "doi": "10.1103/bvnj-1wmg",
+        "scope": "same work by title, full author sequence, experimental abstract and official v1 bytes; no VOR acquired"
+      }
+    ]
   },
   {
     "title": "On the generation of astrophysically-relevant intermittent magnetic turbulence in the laboratory",
@@ -9835,5 +9886,74 @@
       "experimental-platforms-diagnostics",
       "laser-plasma-acceleration"
     ]
+  },
+  {
+    "title": "Visible light drives bright extreme-ultraviolet high harmonics",
+    "normalized_title": "visible light drives bright extreme ultraviolet high harmonics",
+    "doi": "10.1038/s41467-026-79615-1",
+    "source_url": "https://www.nature.com/articles/s41467-026-79615-1",
+    "journal": "Nature Communications",
+    "publication_date": "2026-11-21",
+    "publication_date_type": "publisher online publication; actual fulltext version independently inspected",
+    "acceptance_date": "2026-10-22",
+    "publication_status": "published Version of Record",
+    "fulltext_version": "publisher Version of Record, 8 pages; 7-page scientific supplement",
+    "authors": [
+      "Karst, Maximilian",
+      "Gebhardt, Martin",
+      "Eisenbach, Lucas",
+      "Gierschke, Philipp",
+      "Sidiropoulos, Themistoklis",
+      "Klas, Robert",
+      "Rothhardt, Jan",
+      "Limpert, Jens"
+    ],
+    "pdf_url": "https://www.nature.com/articles/s41467-026-79615-1.pdf",
+    "pdf_path": "daily/2026-11-22/pdfs/hhg-2026-visible.pdf",
+    "pdf_sha256": "547c1acd96a0e137bb999c8f84c457604a635e58b8dd5025dc45b9454ca26b2b",
+    "supplementary_pdf_path": "daily/2026-11-22/pdfs/karst-2026-hhg-supp.pdf",
+    "supplementary_pdf_sha256": "90be88478784cae770de21a644d5c910a7e5bc2e3b6e7065325adaff0512ae25",
+    "note_path": "daily/2026-11-22/notes/karst-2026-hhg.md",
+    "processed_date": "2026-11-22",
+    "categories": [
+      "experimental-platforms-diagnostics"
+    ],
+    "supplementary_pdf_url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-026-79615-1/MediaObjects/41467_2026_79615_MOESM1_ESM.pdf"
+  },
+  {
+    "title": "Deep neural network-controlled autonomous laser oscillation",
+    "normalized_title": "deep neural network controlled autonomous laser oscillation",
+    "doi": "10.1038/s41598-026-81760-y",
+    "source_url": "https://www.nature.com/articles/s41598-026-81760-y",
+    "journal": "Scientific Reports",
+    "publication_date": "2026-11-21",
+    "publication_date_type": "publisher online publication; actual fulltext version independently inspected",
+    "acceptance_date": "2026-11-17",
+    "publication_status": "published early Article in Press; final Version of Record not yet verified",
+    "fulltext_version": "publisher Article in Press, 14 pages; 13-page scientific supplement; not final VOR",
+    "authors": [
+      "Ikeya, Yuki",
+      "Sekine, Takashi",
+      "Tani, Shuntaro",
+      "Endo, Tsubasa",
+      "Otsu, Toshio",
+      "Morita, Takaaki",
+      "Tamaoki, Yoshinori",
+      "Kato, Yoshinori",
+      "Kawashima, Toshiyuki",
+      "Kobayashi, Yohei"
+    ],
+    "pdf_url": "https://www.nature.com/articles/s41598-026-81760-y_reference.pdf",
+    "pdf_path": "daily/2026-11-22/pdfs/ikeya-2026-control.pdf",
+    "pdf_sha256": "8b8552889629a4a31fe25bb9d0784607c0c0c866ce2cfb24106f2e8bf39fa643",
+    "supplementary_pdf_path": "daily/2026-11-22/pdfs/ikeya-2026-control-supp.pdf",
+    "supplementary_pdf_sha256": "a0b0fabe7a8f74a960dbc39fa3c7bedf8b731b335c69b2dc2133cc68f554c017",
+    "note_path": "daily/2026-11-22/notes/ikeya-2026-control.md",
+    "processed_date": "2026-11-22",
+    "categories": [
+      "ai-ml-plasma-physics",
+      "experimental-platforms-diagnostics"
+    ],
+    "supplementary_pdf_url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-026-81760-y/MediaObjects/41598_2026_81760_MOESM1_ESM.pdf"
   }
 ]

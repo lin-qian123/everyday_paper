@@ -1,0 +1,216 @@
+{
+  "key_pages": [
+    {
+      "source": "hhg-2026-visible",
+      "pages": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "hhg-2026-visible",
+      "pages": [
+        5,
+        6
+      ]
+    },
+    {
+      "source": "karst-2026-hhg-supp",
+      "pages": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "source": "karst-2026-hhg-supp",
+      "pages": [
+        6
+      ]
+    },
+    {
+      "source": "ikeya-2026-control",
+      "pages": [
+        1,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "source": "ikeya-2026-control",
+      "pages": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "source": "ikeya-2026-control",
+      "pages": [
+        10,
+        11
+      ]
+    },
+    {
+      "source": "ikeya-2026-control-supp",
+      "pages": [
+        2,
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "source": "ikeya-2026-control-supp",
+      "pages": [
+        8,
+        10,
+        11,
+        12
+      ]
+    }
+  ],
+  "crops": [
+    {
+      "image": "daily/2026-11-22/notes/images/karst-fig1.png",
+      "source_pdf": "daily/2026-11-22/pdfs/hhg-2026-visible.pdf",
+      "source_sha256": "547c1acd96a0e137bb999c8f84c457604a635e58b8dd5025dc45b9454ca26b2b",
+      "page_1based": 3,
+      "rect_points": [
+        40,
+        45,
+        563,
+        505
+      ],
+      "scale": 1.7,
+      "image_sha256": "c6b0488bc0c95f9da07516b2a88ac7b50c891f151b37ec913c0cadaafc2b88ed"
+    },
+    {
+      "image": "daily/2026-11-22/notes/images/karst-fig2.png",
+      "source_pdf": "daily/2026-11-22/pdfs/hhg-2026-visible.pdf",
+      "source_sha256": "547c1acd96a0e137bb999c8f84c457604a635e58b8dd5025dc45b9454ca26b2b",
+      "page_1based": 4,
+      "rect_points": [
+        40,
+        45,
+        563,
+        334
+      ],
+      "scale": 1.7,
+      "image_sha256": "1ad4c169dbf8cb39c6e646f30332ee54ad4449a4742b396f5ad8cb161cfba897"
+    },
+    {
+      "image": "daily/2026-11-22/notes/images/karst-fig3.png",
+      "source_pdf": "daily/2026-11-22/pdfs/hhg-2026-visible.pdf",
+      "source_sha256": "547c1acd96a0e137bb999c8f84c457604a635e58b8dd5025dc45b9454ca26b2b",
+      "page_1based": 4,
+      "rect_points": [
+        40,
+        350,
+        563,
+        681
+      ],
+      "scale": 1.7,
+      "image_sha256": "2e4fcb6dacd23983b8936e5062131386db2dd87f8d95c99ae7e3cf5bfcf0ee11"
+    },
+    {
+      "image": "daily/2026-11-22/notes/images/karst-table-s1.png",
+      "source_pdf": "daily/2026-11-22/pdfs/karst-2026-hhg-supp.pdf",
+      "source_sha256": "90be88478784cae770de21a644d5c910a7e5bc2e3b6e7065325adaff0512ae25",
+      "page_1based": 4,
+      "rect_points": [
+        119.05520019531251,
+        54.72285095214844,
+        494.0790808105468,
+        172.58745300292966
+      ],
+      "scale": 1.7,
+      "image_sha256": "2056039b0c408821e407145dc7c82df55e2541104253fb869b807c68f7beda58"
+    },
+    {
+      "image": "daily/2026-11-22/notes/images/ikeya-fig1.png",
+      "source_pdf": "daily/2026-11-22/pdfs/ikeya-2026-control.pdf",
+      "source_sha256": "8b8552889629a4a31fe25bb9d0784607c0c0c866ce2cfb24106f2e8bf39fa643",
+      "page_1based": 3,
+      "rect_points": [
+        50,
+        55,
+        548,
+        455
+      ],
+      "scale": 1.7,
+      "image_sha256": "721b26eb0261ef197609f8f9fb2fef1fe73cc51c18fd240a77b5c28f3779ab3a"
+    },
+    {
+      "image": "daily/2026-11-22/notes/images/ikeya-fig2.png",
+      "source_pdf": "daily/2026-11-22/pdfs/ikeya-2026-control.pdf",
+      "source_sha256": "8b8552889629a4a31fe25bb9d0784607c0c0c866ce2cfb24106f2e8bf39fa643",
+      "page_1based": 5,
+      "rect_points": [
+        50,
+        55,
+        548,
+        237
+      ],
+      "scale": 1.7,
+      "image_sha256": "de4b21cc7144ad273e3949cdb8627fd87cba5a740fec6cee09807183acc77692"
+    },
+    {
+      "image": "daily/2026-11-22/notes/images/ikeya-fig3.png",
+      "source_pdf": "daily/2026-11-22/pdfs/ikeya-2026-control.pdf",
+      "source_sha256": "8b8552889629a4a31fe25bb9d0784607c0c0c866ce2cfb24106f2e8bf39fa643",
+      "page_1based": 6,
+      "rect_points": [
+        50,
+        55,
+        548,
+        285
+      ],
+      "scale": 1.7,
+      "image_sha256": "5435fc78fb3ae0e863746ae1130d980b79e80d9e7b863a3b2fa54f2b960f9711"
+    },
+    {
+      "image": "daily/2026-11-22/notes/images/ikeya-fig4.png",
+      "source_pdf": "daily/2026-11-22/pdfs/ikeya-2026-control.pdf",
+      "source_sha256": "8b8552889629a4a31fe25bb9d0784607c0c0c866ce2cfb24106f2e8bf39fa643",
+      "page_1based": 7,
+      "rect_points": [
+        50,
+        55,
+        548,
+        333
+      ],
+      "scale": 1.7,
+      "image_sha256": "f85e164bd936d47ee55648e1b42a04b00ec91cdcec0c7f7bcb8d6cdc8bae7740"
+    },
+    {
+      "image": "daily/2026-11-22/notes/images/ikeya-fig5.png",
+      "source_pdf": "daily/2026-11-22/pdfs/ikeya-2026-control.pdf",
+      "source_sha256": "8b8552889629a4a31fe25bb9d0784607c0c0c866ce2cfb24106f2e8bf39fa643",
+      "page_1based": 8,
+      "rect_points": [
+        50,
+        55,
+        296,
+        350
+      ],
+      "scale": 1.7,
+      "image_sha256": "792f4269e580f4449337e26ac2a25009a82a477e8f1f5fda67076b986a423693"
+    }
+  ],
+  "review": "29 new key pages and 1 historical identity page rendered and reviewed; 9 crops reopened; no image editing beyond source rectangle rendering",
+  "old_identity_pages": [
+    {
+      "source_pdf": "daily/2026-07-14/pdfs/Sagar Dam et al. - 2026 - Tens of MeV collimated bright fluxes of protons.pdf",
+      "pages": [
+        1
+      ],
+      "scope": "title/authors/abstract/v1 identity only"
+    }
+  ]
+}

@@ -2,11 +2,13 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：211 篇
-- 索引更新时间：2026-11-21
+- 当前收录：213 篇
+- 索引更新时间：2026-11-22
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-22 | [Visible light drives bright extreme-ultraviolet high harmonics](../papers/10-1038-s41467-026-79615-1/README.md) | Nature Communications | [笔记](../daily/2026-11-22/notes/karst-2026-hhg.md) |
+| 2026-11-22 | [Deep neural network-controlled autonomous laser oscillation](../papers/10-1038-s41598-026-81760-y/README.md) | Scientific Reports | [笔记](../daily/2026-11-22/notes/ikeya-2026-control.md) |
 | 2026-11-21 | [Direct measurement of the on-shot focal-spot size of a kilojoule-class petawatt laser](../papers/arxiv-2611-25552/README.md) | arXiv preprint | [笔记](../daily/2026-11-21/notes/takizawa-2026-focus.md) |
 | 2026-11-20 | [High-fidelity spectral shaping via hardware-compensated waveform optimization for stimulated Brillouin scattering suppression in high-power fiber lasers](../papers/10-1017-hpl-2026-10195/README.md) | High Power Laser Science and Engineering | [笔记](../daily/2026-11-20/notes/xin-2026-sbs.md) |
 | 2026-11-20 | [The role of externally-driven density fluctuations in the enhancement of beam spray](../papers/arxiv-2611-24914/README.md) | arXiv preprint; submitted to PRL, acceptance/publication unverified | [笔记](../daily/2026-11-20/notes/mcmillen-2026-beam-spray.md) |
@@ -180,7 +182,7 @@
 | 2026-07-16 | [Single-Shot High-Energy Muon and Particle Radiography with a Multi-GeV Laser-Wakefield-Accelerator-Driven Source](../papers/arxiv-2607-12984/README.md) | arXiv preprint | [笔记](../daily/2026-07-16/notes/Kaixin Zhu et al. - 2026 - Single-Shot High-Energy Muon and Particle Radiography.md) |
 | 2026-07-16 | [Radiation reaction measurements via single-shot energy-loss determination in high-intensity laser-electron collisions](../papers/arxiv-2607-12439/README.md) | arXiv preprint | [笔记](../daily/2026-07-16/notes/Philipp Sikorski and Daniel Seipt - 2026 - Radiation reaction measurements.md) |
 | 2026-07-15 | [Toward AI-Agent-Driven Particle Transport Simulations: Implementation of AI-Assisted Workflows for PHITS](../papers/10-1080-00223131-2026-2742550/README.md) | Journal of Nuclear Science and Technology (formal online publication; local full text is the corresponding arXiv:2607.11309 author preprint, not VOR) | [笔记](../daily/2026-07-15/notes/Tatsuhiko Sato et al. - 2026 - Toward AI-Agent-Driven Particle Transport Simulations.md) |
-| 2026-07-14 | [Tens of MeV, collimated, bright fluxes of protons from ordered nano-structured targets in ultra-relativistic laser-matter interaction](../papers/arxiv-2607-09229/README.md) | arXiv preprint | [笔记](../daily/2026-07-14/notes/Sagar Dam et al. - 2026 - Tens of MeV collimated bright fluxes of protons.md) |
+| 2026-07-14 | [Tens of MeV, collimated, bright fluxes of protons from ordered nanostructured targets in ultrarelativistic laser-matter interaction](../papers/10-1103-bvnj-1wmg/README.md) | Physical Review Research | [笔记](../daily/2026-07-14/notes/Sagar Dam et al. - 2026 - Tens of MeV collimated bright fluxes of protons.md) |
 | 2026-07-13 | [Characterizing an inverse Compton X-ray source and determining its electron beam parameters using a genetic algorithm](../papers/arxiv-2607-06226/README.md) | arXiv preprint | [笔记](../daily/2026-07-13/notes/Johannes Melcher et al. - 2026 - Characterizing an inverse Compton X-ray source.md) |
 | 2026-07-13 | [Absolute Calibration of a Time-Resolved High Resolution X-ray Spectrometer for the National Ignition Facility (invited)](../papers/arxiv-2607-05766/README.md) | arXiv preprint | [笔记](../daily/2026-07-13/notes/Lan Gao et al. - 2026 - Absolute Calibration of a Time-Resolved High Resolution X-ray Spectrometer.md) |
 | 2026-07-12 | [Filamentation Suppression and Efficiency Enhancement in Backward Raman Amplification via Structured Plasma](../papers/10-1017-hpl-2026-10183/README.md) | High Power Laser Science and Engineering（正式期刊 accepted manuscript） | [笔记](../daily/2026-07-12/notes/Jiajun Li et al. - 2026 - Filamentation Suppression and Efficiency Enhancement.md) |

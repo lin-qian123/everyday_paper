@@ -1,0 +1,187 @@
+{
+  "run_date": "2026-11-22",
+  "checked_at": "2026-11-21T23:05:45.497428+00:00",
+  "formal_first": true,
+  "crossref": {
+    "date_window": "online 2026-11-21..22 journal-article",
+    "themes": 10,
+    "rows_each_max": 40,
+    "returned_rows": 312,
+    "distinct_dois": 243,
+    "requests": [
+      {
+        "query": "laser plasma acceleration",
+        "url": "https://api.crossref.org/works?query=laser+plasma+acceleration&filter=from-online-pub-date%3A2026-11-21%2Cuntil-online-pub-date%3A2026-11-22%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "status": 200,
+        "attempts": [
+          200
+        ]
+      },
+      {
+        "query": "strong field QED radiation reaction",
+        "url": "https://api.crossref.org/works?query=strong+field+QED+radiation+reaction&filter=from-online-pub-date%3A2026-11-21%2Cuntil-online-pub-date%3A2026-11-22%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "status": 200,
+        "attempts": [
+          200
+        ]
+      },
+      {
+        "query": "high energy density inertial confinement fusion",
+        "url": "https://api.crossref.org/works?query=high+energy+density+inertial+confinement+fusion&filter=from-online-pub-date%3A2026-11-21%2Cuntil-online-pub-date%3A2026-11-22%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "status": 200,
+        "attempts": [
+          200
+        ]
+      },
+      {
+        "query": "particle in cell kinetic plasma simulation",
+        "url": "https://api.crossref.org/works?query=particle+in+cell+kinetic+plasma+simulation&filter=from-online-pub-date%3A2026-11-21%2Cuntil-online-pub-date%3A2026-11-22%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "status": 200,
+        "attempts": [
+          200
+        ]
+      },
+      {
+        "query": "machine learning plasma accelerator",
+        "url": "https://api.crossref.org/works?query=machine+learning+plasma+accelerator&filter=from-online-pub-date%3A2026-11-21%2Cuntil-online-pub-date%3A2026-11-22%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "status": 200,
+        "attempts": [
+          200
+        ]
+      },
+      {
+        "query": "electron converter bremsstrahlung gamma source",
+        "url": "https://api.crossref.org/works?query=electron+converter+bremsstrahlung+gamma+source&filter=from-online-pub-date%3A2026-11-21%2Cuntil-online-pub-date%3A2026-11-22%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "status": 200,
+        "attempts": [
+          429,
+          200
+        ]
+      },
+      {
+        "query": "photonuclear photoneutron isotope production",
+        "url": "https://api.crossref.org/works?query=photonuclear+photoneutron+isotope+production&filter=from-online-pub-date%3A2026-11-21%2Cuntil-online-pub-date%3A2026-11-22%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "status": 200,
+        "attempts": [
+          200
+        ]
+      },
+      {
+        "query": "laser ion target nuclear reaction irradiation",
+        "url": "https://api.crossref.org/works?query=laser+ion+target+nuclear+reaction+irradiation&filter=from-online-pub-date%3A2026-11-21%2Cuntil-online-pub-date%3A2026-11-22%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "status": 200,
+        "attempts": [
+          200
+        ]
+      },
+      {
+        "query": "beam shielding radiation diagnostics",
+        "url": "https://api.crossref.org/works?query=beam+shielding+radiation+diagnostics&filter=from-online-pub-date%3A2026-11-21%2Cuntil-online-pub-date%3A2026-11-22%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "status": 200,
+        "attempts": [
+          200
+        ]
+      },
+      {
+        "query": "fusion neutron nuclear diagnostic",
+        "url": "https://api.crossref.org/works?query=fusion+neutron+nuclear+diagnostic&filter=from-online-pub-date%3A2026-11-21%2Cuntil-online-pub-date%3A2026-11-22%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+        "status": 200,
+        "attempts": [
+          429,
+          200
+        ]
+      }
+    ]
+  },
+  "arxiv": {
+    "categories": 10,
+    "rows": 347,
+    "distinct_ids": 327,
+    "newest_blocks": [
+      {
+        "category": "physics.plasm-ph",
+        "date_block": "Fri, 20 Nov 2026 (showing 7 of 7 entries )",
+        "status": 200
+      },
+      {
+        "category": "physics.acc-ph",
+        "date_block": "Fri, 20 Nov 2026 (showing 3 of 3 entries )",
+        "status": 200
+      },
+      {
+        "category": "physics.comp-ph",
+        "date_block": "Fri, 20 Nov 2026 (showing 14 of 14 entries )",
+        "status": 200
+      },
+      {
+        "category": "physics.optics",
+        "date_block": "Fri, 20 Nov 2026 (showing 28 of 28 entries )",
+        "status": 200
+      },
+      {
+        "category": "physics.ins-det",
+        "date_block": "Fri, 20 Nov 2026 (showing 6 of 6 entries )",
+        "status": 200
+      },
+      {
+        "category": "nucl-ex",
+        "date_block": "Fri, 20 Nov 2026 (showing 4 of 4 entries )",
+        "status": 200
+      },
+      {
+        "category": "nucl-th",
+        "date_block": "Fri, 20 Nov 2026 (showing 15 of 15 entries )",
+        "status": 200
+      },
+      {
+        "category": "hep-ph",
+        "date_block": "Fri, 20 Nov 2026 (showing 53 of 53 entries )",
+        "status": 200
+      },
+      {
+        "category": "physics.med-ph",
+        "date_block": "Fri, 20 Nov 2026 (showing 4 of 4 entries )",
+        "status": 200
+      },
+      {
+        "category": "cs.LG",
+        "date_block": "Fri, 20 Nov 2026 (showing 213 of 213 entries )",
+        "status": 200
+      }
+    ],
+    "comparison": "latest 2026-11-20 blocks unchanged from previous run; recent includes crosslisted old works"
+  },
+  "selection": {
+    "ingested": [
+      "10.1038/s41467-026-79615-1",
+      "10.1038/s41598-026-81760-y"
+    ],
+    "same_work_formal_upgrade": "10.1103/bvnj-1wmg",
+    "deferred": [
+      {
+        "id": "2611.26402v1",
+        "title": "Aggregating soft-photon recoil with a positive finite-step sampler",
+        "status": "official metadata and file format only, 34 pages; not read/ingested; no note; unused local copy removed"
+      },
+      {
+        "doi": "10.1007/s10967-026-11304-1",
+        "status": "metadata-only lead, no fulltext availability investigation or reading; not a retry"
+      },
+      {
+        "id": "2611.24653",
+        "status": "prior activation-data lead remains unread; not downloaded this run"
+      }
+    ]
+  },
+  "coverage_limit": "bounded relevance-ranked discovery, not exhaustive; no queuewide retry probes; no claim that all other new papers were absent",
+  "web_checks": [
+    {
+      "query": "laser plasma November 21 2026; photonuclear November 2026; strong-field QED November 2026",
+      "outcome": "web discovery followed to primary Nature and arXiv sources; conference/news items not ingested"
+    },
+    {
+      "query": "exact HHG/DNN/proton/recoil titles",
+      "outcome": "formal HHG, DNN and pre-existing proton identity verified at primary sources"
+    }
+  ]
+}
