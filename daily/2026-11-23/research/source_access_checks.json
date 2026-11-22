@@ -1,0 +1,43 @@
+{
+  "gd": [
+    {
+      "key": "gd-crossref",
+      "url": "https://api.crossref.org/works/10.1007/s10967-026-11304-1",
+      "final_url": "https://api.crossref.org/works/10.1007/s10967-026-11304-1",
+      "status": 200,
+      "type": "application/json",
+      "bytes": 16609,
+      "magic": "b'{\"status'"
+    },
+    {
+      "key": "gd-page",
+      "url": "https://link.springer.com/article/10.1007/s10967-026-11304-1",
+      "final_url": "https://link.springer.com/article/10.1007/s10967-026-11304-1",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "bytes": 343794,
+      "magic": "b'<!DOCTYP'"
+    },
+    {
+      "key": "gd-pdf",
+      "url": "https://link.springer.com/content/pdf/10.1007/s10967-026-11304-1.pdf",
+      "final_url": "https://link.springer.com/article/10.1007/s10967-026-11304-1",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "bytes": 343760,
+      "magic": "b'<!DOCTYP'"
+    }
+  ],
+  "alternative_sources": [
+    {
+      "source": "HAL exact-title top5",
+      "url": "https://api.archives-ouvertes.fr/search/?q=title_t:%22Online%20measurement%20of%20gadolinium%20concentration%20in%20spent%20nuclear%20fuel%20reprocessing%20dissolver%20solutions%22&rows=5&wt=json",
+      "status": 200,
+      "numFound": 0
+    },
+    {
+      "source": "bounded web exact-title search",
+      "result": "no verified same-work legal author PDF located; older AmBe and unrelated Gd medical works rejected"
+    }
+  ]
+}

@@ -1707,5 +1707,23 @@
     "failure_count": 1,
     "attempted_at": "2026-11-20T23:15:25.191370+00:00",
     "evidence_path": "daily/2026-11-21/research/source_access_checks.json"
+  },
+  {
+    "doi": "10.1007/s10967-026-11304-1",
+    "title": "Online measurement of gadolinium concentration in spent nuclear fuel reprocessing dissolver solutions using a photoneutron source: a comparative study of neutron lifetime and neutron transmission methods",
+    "journal": "Journal of Radioanalytical and Nuclear Chemistry",
+    "publication_date": "2026-11-21",
+    "publication_date_type": "Crossref and official publisher published date",
+    "source_url": "https://link.springer.com/article/10.1007/s10967-026-11304-1",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10967-026-11304-1.pdf",
+    "topic": "e-LINAC photoneutron source; neutron poison concentration and nuclear diagnostics",
+    "source_family": "springer",
+    "stderr": "Official article HTTP200 subscription preview HTML343794B; PDF URL HTTP200 redirected to article HTML343760B, magic <!DOCTYP, not PDF. HAL exact-title top5 HTTP200 numFound0; bounded web search located no verified same-work author PDF. No abstract-only note or fulltext ingestion.",
+    "run_date": "2026-11-23",
+    "status": "download_failed",
+    "last_failure_class": "publisher_pdf_redirect_subscription_html",
+    "failure_count": 1,
+    "attempted_at": "2026-11-22T23:11:49.958521+00:00",
+    "evidence_path": "daily/2026-11-23/research/source_access_checks.json"
   }
 ]

@@ -1,0 +1,14 @@
+[
+  {
+    "doi": "10.48550/arXiv.2611.24653",
+    "title": "The state of nuclear data for fusion activation simulations",
+    "status": "metadata/abstract only; no PDF downloaded or fulltext read, not ingested",
+    "reason": "long report deferred; prioritized latest formal imaging and high-relevance QED numerical method"
+  },
+  {
+    "doi": "10.1515/kern-2026-0085",
+    "title": "FLUKA-based assessment of induced radioactivity in iron target and surrounding coolants under 400 MeV carbon-ion irradiation",
+    "status": "Crossref discovery metadata only; availability and fulltext not investigated, not ingested",
+    "reason": "bounded daily reading capacity; follow-up candidate"
+  }
+]

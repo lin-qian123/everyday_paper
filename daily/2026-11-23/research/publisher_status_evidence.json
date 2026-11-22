@@ -1,0 +1,31 @@
+{
+  "imaging": {
+    "page_url": "https://www.nature.com/articles/s41598-026-78588-x",
+    "publisher_page_http": 200,
+    "page_bytes": 223254,
+    "publication_date": "2026-11-22",
+    "accepted": "2026-10-27",
+    "citation_pdf_url": "https://www.nature.com/articles/s41598-026-78588-x.pdf",
+    "actual_pdf_anchor": "https://www.nature.com/articles/s41598-026-78588-x_reference.pdf",
+    "actual_download": {
+      "url": "https://www.nature.com/articles/s41598-026-78588-x_reference.pdf",
+      "final_url": "https://www.nature.com/articles/s41598-026-78588-x_reference.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 5751522
+    },
+    "actual_pdf_banner": "ARTICLE | Article in Press; final edited version will replace it automatically",
+    "VOR_verified": false
+  },
+  "recoil": {
+    "source_url": "https://arxiv.org/abs/2611.26402v1",
+    "authors": [
+      "Elkina, Nina",
+      "Pukhov, Alexander"
+    ],
+    "first_submission_utc": "2026-11-19T16:51:10Z",
+    "current_version": "v1",
+    "announcement": "2026-11-20",
+    "same_work_journal_verified": false
+  }
+}

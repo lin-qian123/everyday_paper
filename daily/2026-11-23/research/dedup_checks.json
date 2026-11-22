@@ -1,0 +1,63 @@
+{
+  "baseline_works": 590,
+  "new_works": [
+    {
+      "doi": "10.1038/s41598-026-78588-x",
+      "identifier_match": false,
+      "normalized_title_match": false,
+      "nearest_titles": [
+        {
+          "similarity": 0.497354,
+          "title": "Novel radiative trapping mechanism in ultra-intense laser–plasma interactions",
+          "doi": "10.1063/5.0341085"
+        },
+        {
+          "similarity": 0.472103,
+          "title": "Enhanced terahertz radiation generation by phase-controlled two-color laser pulses interacting with an under-dense plasma",
+          "doi": "10.1038/s41598-026-35800-2"
+        },
+        {
+          "similarity": 0.46789,
+          "title": "Variational Formulation of a Hybrid Kinetic and Gyrokinetic Model for Astrophysical and Laboratory Plasmas",
+          "doi": "10.48550/arXiv.2607.28305"
+        },
+        {
+          "similarity": 0.45098,
+          "title": "Calibration of scintillator-based X-ray detectors for broadband laser-driven X-ray radiation",
+          "doi": "10.48550/arXiv.2607.25856"
+        }
+      ],
+      "manual_identity_review": "Distinct source/authors/abstract and physical scenario. Giakoumakis is Mo Kalpha MLSI experiment; Elkina is positive recoil closure, not existing QED cascade papers."
+    },
+    {
+      "doi": "10.48550/arXiv.2611.26402",
+      "identifier_match": false,
+      "normalized_title_match": false,
+      "nearest_titles": [
+        {
+          "similarity": 0.466667,
+          "title": "Experimental Investigation of laser driven proton bunching with plastic foil targets",
+          "doi": "10.1017/hpl.2026.10184"
+        },
+        {
+          "similarity": 0.4625,
+          "title": "Generation of a polarized pair-photon fireball via a laser-driven nonlinear-linear QED cascade",
+          "doi": "10.1103/xvmh-mcg7"
+        },
+        {
+          "similarity": 0.45283,
+          "title": "A Surrogate Model for Proton Spectrum Prediction to Map Transitions in Laser-Ion Acceleration",
+          "doi": "10.48550/arXiv.2606.06210"
+        },
+        {
+          "similarity": 0.44898,
+          "title": "Reconciling chemical models of X-ray Thomson Scattering with the Bethe f-sum rule",
+          "doi": "10.48550/arXiv.2607.25481"
+        }
+      ],
+      "manual_identity_review": "Distinct source/authors/abstract and physical scenario. Giakoumakis is Mo Kalpha MLSI experiment; Elkina is positive recoil closure, not existing QED cascade papers."
+    }
+  ],
+  "old_work_updates": 0,
+  "all_old_objects_preserved": true
+}

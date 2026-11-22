@@ -9955,5 +9955,63 @@
       "experimental-platforms-diagnostics"
     ],
     "supplementary_pdf_url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-026-81760-y/MediaObjects/41598_2026_81760_MOESM1_ESM.pdf"
+  },
+  {
+    "title": "Quantitative evaluation of single-grating phase-contrast imaging with a femtosecond laser–plasma Kα X-ray source",
+    "normalized_title": "quantitative evaluation of single grating phase contrast imaging with a femtosecond laser plasma kα x ray source",
+    "doi": "10.1038/s41598-026-78588-x",
+    "authors": [
+      "Giakoumakis, Georges",
+      "Ferré, Amelie",
+      "Gudz, Daria",
+      "Saliji, Mouad",
+      "Primot, Jérôme",
+      "Utéza, Olivier",
+      "Clady, Raphaël",
+      "Stolidi, Adrien"
+    ],
+    "journal": "Scientific Reports",
+    "publication_date": "2026-11-22",
+    "publication_date_type": "publisher online publication; actual PDF Article in Press",
+    "source_url": "https://www.nature.com/articles/s41598-026-78588-x",
+    "publication_status": "published Article in Press; final VOR not yet verified",
+    "fulltext_version": "publisher Article in Press, 21 pages",
+    "pdf_url": "https://www.nature.com/articles/s41598-026-78588-x_reference.pdf",
+    "pdf_path": "daily/2026-11-23/pdfs/giakoumakis-2026-phase.pdf",
+    "pdf_sha256": "677066e325986199547d8e8691285ee9d52986fe2098e4f389b6aac356bf225d",
+    "note_path": "daily/2026-11-23/notes/giakoumakis-2026-phase.md",
+    "processed_date": "2026-11-23",
+    "categories": [
+      "experimental-platforms-diagnostics"
+    ],
+    "acceptance_date": "2026-10-27"
+  },
+  {
+    "title": "Aggregating soft-photon recoil with a positive finite-step sampler",
+    "normalized_title": "aggregating soft photon recoil with a positive finite step sampler",
+    "doi": "10.48550/arXiv.2611.26402",
+    "authors": [
+      "Elkina, Nina",
+      "Pukhov, Alexander"
+    ],
+    "journal": "arXiv preprint",
+    "publication_date": "2026-11-19",
+    "publication_date_type": "arXiv first submission; announcement separately recorded",
+    "source_url": "https://arxiv.org/abs/2611.26402v1",
+    "publication_status": "author preprint; bounded exact-title Crossref top3 and web search did not verify same-work journal publication",
+    "fulltext_version": "official arXiv 2611.26402v1, 34 pages including Supplement I and II",
+    "pdf_url": "https://arxiv.org/pdf/2611.26402v1",
+    "pdf_path": "daily/2026-11-23/pdfs/elkina-2026-recoil.pdf",
+    "pdf_sha256": "ad038c791883aa7976ee27a6c9174eedf634917aaff1426f64f295dd14e5bc12",
+    "note_path": "daily/2026-11-23/notes/elkina-2026-recoil.md",
+    "processed_date": "2026-11-23",
+    "categories": [
+      "strong-field-qed-radiation",
+      "pic-and-plasma-simulation"
+    ],
+    "arxiv_id": "2611.26402",
+    "arxiv_version": "2611.26402v1",
+    "announcement_date": "2026-11-20",
+    "submission_timestamp_utc": "2026-11-19T16:51:10Z"
   }
 ]

@@ -1,0 +1,262 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        22
+      ]
+    ],
+    "date-time": "2026-11-22T12:11:49Z",
+    "timestamp": 1795349509841,
+    "version": "4.10.3"
+  },
+  "reference-count": 0,
+  "publisher": "Springer Science and Business Media LLC",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            22
+          ]
+        ],
+        "date-time": "2026-11-22T00:00:00Z",
+        "timestamp": 1795305600000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            22
+          ]
+        ],
+        "date-time": "2026-11-22T00:00:00Z",
+        "timestamp": 1795305600000
+      },
+      "content-version": "am",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Sci Rep"
+  ],
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    We present the first implementation of an X-ray phase-contrast imaging approach using single 2D-grating phase retrieval and a quasi-monochromatic hard K\n                    <jats:inline-formula>\n                      <jats:tex-math>$$\\alpha$$</jats:tex-math>\n                    </jats:inline-formula>\n                    X-ray source generated\n                    <jats:italic>via</jats:italic>\n                    high-intensity femtosecond laser—plasma interaction. To highlight its pertinence, we demonstrate quantitative phase-contrast measurements of a known canonical physical object, retrieving phase distribution with high-fidelity, under varying experimental conditions. As a marker of such performance, a correlation score of up to 0.922 ± 0.008 is obtained between theoretical and experimental phase images. The consistency of the retrieved phase gradients is further quantitatively evaluated using the Confidence Map, a self-consistency metric derived directly from the acquired data. This framework supports a systematic parametric study aimed at quantifying the influence of X-ray source characteristics on phase retrieval and thus optimizing imaging performance by balancing exposure time and spatial resolution. Two operating regimes are investigated: fixed integrated photon-count conditions with varying spatial coherence of the X-ray source, and fixed acquisition-time conditions with varying X-ray photon flux. This work establishes a pathway toward minimizing exposure times while preserving accurate phase retrieval, with the long-term objective of enabling short-time exposure of time-resolved phase-contrast imaging.\n                  </jats:p>",
+  "DOI": "10.1038/s41598-026-78588-x",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        22
+      ]
+    ],
+    "date-time": "2026-11-22T11:14:37Z",
+    "timestamp": 1795346077000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Quantitative evaluation of single-grating phase-contrast imaging with a femtosecond laser–plasma K$$\\alpha$$ X-ray source"
+  ],
+  "prefix": "10.1038",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0001-6262-2807",
+      "authenticated-orcid": false,
+      "given": "Georges",
+      "family": "Giakoumakis",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        },
+        {
+          "role": "corresponding-author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Amelie",
+      "family": "Ferré",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        },
+        {
+          "role": "corresponding-author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Daria",
+      "family": "Gudz",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Mouad",
+      "family": "Saliji",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Jérôme",
+      "family": "Primot",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Olivier",
+      "family": "Utéza",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Raphaël",
+      "family": "Clady",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Adrien",
+      "family": "Stolidi",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        22
+      ]
+    ]
+  },
+  "container-title": [
+    "Scientific Reports"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.nature.com/articles/s41598-026-78588-x",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        22
+      ]
+    ],
+    "date-time": "2026-11-22T11:14:37Z",
+    "timestamp": 1795346077000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.nature.com/articles/s41598-026-78588-x"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        22
+      ]
+    ]
+  },
+  "references-count": 0,
+  "alternative-id": [
+    "78588"
+  ],
+  "URL": "https://doi.org/10.1038/s41598-026-78588-x",
+  "ISSN": [
+    "2045-2322"
+  ],
+  "issn-type": [
+    {
+      "value": "2045-2322",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        22
+      ]
+    ]
+  }
+}

@@ -1,10 +1,12 @@
 # 论文总索引
 
-- 当前入库论文：590 篇
-- 索引更新时间：2026-11-22
+- 当前入库论文：592 篇
+- 索引更新时间：2026-11-23
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-11-23 | [Quantitative evaluation of single-grating phase-contrast imaging with a femtosecond laser–plasma Kα X-ray source](./10-1038-s41598-026-78588-x/README.md) | Scientific Reports | [10.1038/s41598-026-78588-x](https://doi.org/10.1038/s41598-026-78588-x) |
+| 2026-11-23 | [Aggregating soft-photon recoil with a positive finite-step sampler](./arxiv-2611-26402/README.md) | arXiv preprint | [10.48550/arXiv.2611.26402](https://doi.org/10.48550/arXiv.2611.26402) |
 | 2026-11-22 | [Visible light drives bright extreme-ultraviolet high harmonics](./10-1038-s41467-026-79615-1/README.md) | Nature Communications | [10.1038/s41467-026-79615-1](https://doi.org/10.1038/s41467-026-79615-1) |
 | 2026-11-22 | [Deep neural network-controlled autonomous laser oscillation](./10-1038-s41598-026-81760-y/README.md) | Scientific Reports | [10.1038/s41598-026-81760-y](https://doi.org/10.1038/s41598-026-81760-y) |
 | 2026-11-21 | [Dephasing-free plasma acceleration with millijoule picosecond lasers](./arxiv-2611-26032/README.md) | arXiv preprint | [10.48550/arXiv.2611.26032](https://doi.org/10.48550/arXiv.2611.26032) |

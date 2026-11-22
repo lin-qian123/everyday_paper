@@ -1,0 +1,89 @@
+{
+  "checked_at": "2026-11-22T23:16:54.470290+00:00",
+  "ledger_count": 592,
+  "old_590_objects_preserved": true,
+  "retry_count": 75,
+  "old_74_retry_objects_preserved": true,
+  "doi_nonnull_unique": 588,
+  "normalized_titles_unique": 592,
+  "qualified_arxiv_aliases_unique": 398,
+  "scoped_file_count": 52,
+  "markdown_files_checked": 20,
+  "json_files_parsed": 19,
+  "pandoc_parsed_links": 3144,
+  "parsed_local_destinations": 2533,
+  "inherited_bare_space_destinations_existence_checked": 1130,
+  "missing_links": [],
+  "crop_pixel_checks": [
+    {
+      "path": "daily/2026-11-23/notes/images/giakoumakis-2026-fig1.png",
+      "source_pixel_match": true
+    },
+    {
+      "path": "daily/2026-11-23/notes/images/giakoumakis-2026-fig2.png",
+      "source_pixel_match": true
+    },
+    {
+      "path": "daily/2026-11-23/notes/images/giakoumakis-2026-fig3.png",
+      "source_pixel_match": true
+    },
+    {
+      "path": "daily/2026-11-23/notes/images/giakoumakis-2026-fig4.png",
+      "source_pixel_match": true
+    },
+    {
+      "path": "daily/2026-11-23/notes/images/giakoumakis-2026-fig5.png",
+      "source_pixel_match": true
+    },
+    {
+      "path": "daily/2026-11-23/notes/images/giakoumakis-2026-fig6.png",
+      "source_pixel_match": true
+    },
+    {
+      "path": "daily/2026-11-23/notes/images/giakoumakis-2026-fig7.png",
+      "source_pixel_match": true
+    },
+    {
+      "path": "daily/2026-11-23/notes/images/giakoumakis-2026-table4.png",
+      "source_pixel_match": true
+    },
+    {
+      "path": "daily/2026-11-23/notes/images/elkina-2026-fig1.png",
+      "source_pixel_match": true
+    },
+    {
+      "path": "daily/2026-11-23/notes/images/elkina-2026-fig2.png",
+      "source_pixel_match": true
+    },
+    {
+      "path": "daily/2026-11-23/notes/images/elkina-2026-fig3.png",
+      "source_pixel_match": true
+    },
+    {
+      "path": "daily/2026-11-23/notes/images/elkina-2026-fig4.png",
+      "source_pixel_match": true
+    },
+    {
+      "path": "daily/2026-11-23/notes/images/elkina-2026-fig5.png",
+      "source_pixel_match": true
+    }
+  ],
+  "pdf_magic_mime_hash_three_pagecounts_and_perpage_text": "passed; see pdf_validation.json",
+  "new_pdf_pages": 55,
+  "mineru_requests": 0,
+  "tests": {
+    "command": "python -m pytest -q",
+    "passed": 7,
+    "seconds": 3.88
+  },
+  "legacy_index_wrappers_restored": 7,
+  "existing_AGENTS_sha256": "34e18320c8191458fa513b47c4d55f6fc9c63da79e6b02f22d201ce5dfbb8e8d",
+  "AGENTS_excluded_from_submission": true,
+  "author_calculations_rerun": false,
+  "limitations": [
+    "bounded discovery is not exhaustive",
+    "local PDFs/layouts remain Gitignored",
+    "scientific reading is not author-code or experimental replication",
+    "legacy bare-space Markdown syntax remains, all such scoped targets separately exist"
+  ]
+}

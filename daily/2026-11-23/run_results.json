@@ -1,0 +1,43 @@
+{
+  "run_date": "2026-11-23",
+  "checked_at": "2026-11-22T23:15:17.022119+00:00",
+  "ledger_before": 590,
+  "ledger_after": 592,
+  "new_works": 2,
+  "new_final_VORs": 0,
+  "actual_versions": [
+    "publisher Article in Press, 21p",
+    "arXiv v1 including two supplements, 34p"
+  ],
+  "in_place_old_work_updates": 0,
+  "old_works_preserved": 590,
+  "retry_before": 74,
+  "retry_after": 75,
+  "old_retry_objects_preserved": 74,
+  "new_retry_doi": "10.1007/s10967-026-11304-1",
+  "pdf_pages": 55,
+  "new_pdf_bytes": 10469148,
+  "source_visual_pages_unique": {
+    "imaging": 18,
+    "recoil": 22
+  },
+  "retained_crops": 13,
+  "indexes": {
+    "command": "python scripts/build_indexes.py",
+    "works": 592,
+    "categories": 9
+  },
+  "tests": {
+    "command": "python -m pytest -q",
+    "passed": 7,
+    "seconds": 3.88
+  },
+  "mineru_requests": 0,
+  "fulltext_conversion": "explicit local fallback, historical credentials expired, not retested",
+  "author_models_or_experiments_rerun": false,
+  "publication": {
+    "authorized_target": "origin/master",
+    "procedure": "commit this run only after validation; verify staged and committed blobs and live remote HEAD; record resulting commit in automation memory"
+  },
+  "existing_AGENTS_modification_preserved_and_excluded": true
+}

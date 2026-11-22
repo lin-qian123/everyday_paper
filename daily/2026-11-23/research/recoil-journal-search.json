@@ -1,0 +1,57 @@
+{
+  "query": "exact-title Crossref top3; no same-work journal match verified",
+  "items": [
+    {
+      "DOI": "10.1103/physrevlett.93.073003",
+      "title": [
+        "Narrow Line Cooling: Finite Photon Recoil Dynamics"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2004,
+            8,
+            13
+          ]
+        ]
+      },
+      "container-title": [
+        "Physical Review Letters"
+      ]
+    },
+    {
+      "DOI": "10.1063/1.4797161",
+      "title": [
+        "Single-atom photon recoil momentum"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2005,
+            7,
+            1
+          ]
+        ]
+      },
+      "container-title": [
+        "Physics Today"
+      ]
+    },
+    {
+      "DOI": "10.1364/quantum.2024.qw3a.17",
+      "title": [
+        "Electron-photon entanglement without recoil"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2024
+          ]
+        ]
+      },
+      "container-title": [
+        "Quantum 2.0 Conference and Exhibition"
+      ]
+    }
+  ]
+}

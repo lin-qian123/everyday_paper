@@ -1,0 +1,172 @@
+{
+  "text_read_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "visual_source_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "visual_note": "source pages1-18 reviewed in sheets; formula/table/profile pages3,4,15,18 individually enlarged; page19 declarations text checked",
+  "figures": [
+    {
+      "path": "daily/2026-11-23/notes/images/giakoumakis-2026-fig1.png",
+      "source_pdf": "daily/2026-11-23/pdfs/giakoumakis-2026-phase.pdf",
+      "source_page_1based": 5,
+      "clip_points": [
+        95,
+        58,
+        501,
+        291
+      ],
+      "render_scale": 2,
+      "sha256": "65e7367e7cf0b37ed7760617cbd6ed7b70bb2ab667b45732845bd1579971f2d5",
+      "treatment": "source crop only; no data alteration"
+    },
+    {
+      "path": "daily/2026-11-23/notes/images/giakoumakis-2026-fig2.png",
+      "source_pdf": "daily/2026-11-23/pdfs/giakoumakis-2026-phase.pdf",
+      "source_page_1based": 7,
+      "clip_points": [
+        48,
+        57,
+        552,
+        565
+      ],
+      "render_scale": 2,
+      "sha256": "5cf78d72975b113168f7f0df2a94c6eb8f66a14dd4dd162414d116e332033021",
+      "treatment": "source crop only; no data alteration"
+    },
+    {
+      "path": "daily/2026-11-23/notes/images/giakoumakis-2026-fig3.png",
+      "source_pdf": "daily/2026-11-23/pdfs/giakoumakis-2026-phase.pdf",
+      "source_page_1based": 9,
+      "clip_points": [
+        48,
+        461,
+        552,
+        691
+      ],
+      "render_scale": 2,
+      "sha256": "a6f8dbdcad88c8ef6666a3e846aeb8e2f41c726d4599db3f9b5ccaddc4b14dd9",
+      "treatment": "source crop only; no data alteration"
+    },
+    {
+      "path": "daily/2026-11-23/notes/images/giakoumakis-2026-fig4.png",
+      "source_pdf": "daily/2026-11-23/pdfs/giakoumakis-2026-phase.pdf",
+      "source_page_1based": 13,
+      "clip_points": [
+        48,
+        57,
+        552,
+        395
+      ],
+      "render_scale": 2,
+      "sha256": "06f8bd673ef218002812abb2dd27cb0e47fdb43efb07b05c7ad5d09822107e81",
+      "treatment": "source crop only; no data alteration"
+    },
+    {
+      "path": "daily/2026-11-23/notes/images/giakoumakis-2026-fig5.png",
+      "source_pdf": "daily/2026-11-23/pdfs/giakoumakis-2026-phase.pdf",
+      "source_page_1based": 13,
+      "clip_points": [
+        238,
+        468,
+        552,
+        719
+      ],
+      "render_scale": 2,
+      "sha256": "57dac9d418a6689ad5a92a5705df8c25daf2254e04b8d7d6a5fc771f1f2777c6",
+      "treatment": "source crop only; no data alteration"
+    },
+    {
+      "path": "daily/2026-11-23/notes/images/giakoumakis-2026-fig6.png",
+      "source_pdf": "daily/2026-11-23/pdfs/giakoumakis-2026-phase.pdf",
+      "source_page_1based": 16,
+      "clip_points": [
+        48,
+        477,
+        552,
+        668
+      ],
+      "render_scale": 2,
+      "sha256": "2e1409addafc80e22fa2cbcd2f65318536c778cb4f554597b62f8c7ad758ee57",
+      "treatment": "source crop only; no data alteration"
+    },
+    {
+      "path": "daily/2026-11-23/notes/images/giakoumakis-2026-fig7.png",
+      "source_pdf": "daily/2026-11-23/pdfs/giakoumakis-2026-phase.pdf",
+      "source_page_1based": 18,
+      "clip_points": [
+        48,
+        57,
+        552,
+        423
+      ],
+      "render_scale": 2,
+      "sha256": "85a14fdd7e3eb611fabd255ab941894c98e3a092d066da0cc910807279cd58a1",
+      "treatment": "source crop only; no data alteration"
+    },
+    {
+      "path": "daily/2026-11-23/notes/images/giakoumakis-2026-table4.png",
+      "source_pdf": "daily/2026-11-23/pdfs/giakoumakis-2026-phase.pdf",
+      "source_page_1based": 15,
+      "clip_points": [
+        48,
+        662,
+        552,
+        731
+      ],
+      "render_scale": 2,
+      "sha256": "a87793937286e3ae6f7504bd63d24d18224a53ce040d0e0d78a22312db92d56e",
+      "treatment": "source crop only; no data alteration"
+    }
+  ],
+  "author_code_or_experiments_rerun": false,
+  "arithmetic_only": {
+    "lambda_nm": 0.07092917528604119,
+    "full_chord_center_phase_rad": 116.0006601877253,
+    "narrowband_delta_lambda_nm": 0.0068981463378873014,
+    "achromatic_plane_m_approx": 187.87655937101016
+  },
+  "issues": [
+    "source projected sphere thickness printed sqrt(R^2-x^2-y^2) lacks factor2 for full sphere; retained, not silently fixed",
+    "text dach,p=1.78m conflicts Table4=187.42m; narrowband arithmetic gives about187.9m",
+    "Fig7 phase unit 2pi rad and numerical reference amplitude not reconciled against printed R/delta; no absolute calibration endorsed"
+  ]
+}

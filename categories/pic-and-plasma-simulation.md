@@ -2,11 +2,12 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：263 篇
-- 索引更新时间：2026-11-22
+- 当前收录：264 篇
+- 索引更新时间：2026-11-23
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-23 | [Aggregating soft-photon recoil with a positive finite-step sampler](../papers/arxiv-2611-26402/README.md) | arXiv preprint | [笔记](../daily/2026-11-23/notes/elkina-2026-recoil.md) |
 | 2026-11-21 | [Dephasing-free plasma acceleration with millijoule picosecond lasers](../papers/arxiv-2611-26032/README.md) | arXiv preprint | [笔记](../daily/2026-11-21/notes/pukhov-2026-comb.md) |
 | 2026-11-20 | [The role of externally-driven density fluctuations in the enhancement of beam spray](../papers/arxiv-2611-24914/README.md) | arXiv preprint; submitted to PRL, acceptance/publication unverified | [笔记](../daily/2026-11-20/notes/mcmillen-2026-beam-spray.md) |
 | 2026-11-20 | [Polarized positron generation via laser-engineered quasistatic magnetic fields in a spatially extended herringbone target](../papers/arxiv-2611-24069/README.md) | arXiv preprint | [笔记](../daily/2026-11-20/notes/wu-2026-herringbone.md) |

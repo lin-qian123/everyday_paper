@@ -1,0 +1,174 @@
+{
+  "source_pdf": "daily/2026-11-23/pdfs/elkina-2026-recoil.pdf",
+  "source_version": "official arXiv 2611.26402v1, 2026-11-19; no journal status verified",
+  "read_text_pages_1based": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34
+  ],
+  "text_scope": "main paper and both complete supplements, including equations, figure/table captions and references; no cited external papers read anew",
+  "visually_reviewed_pdf_pages_1based": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    13,
+    16,
+    17,
+    18,
+    20,
+    25,
+    27,
+    28,
+    29,
+    30,
+    32,
+    33,
+    34
+  ],
+  "visual_scope": "all 5 main figures, all 3 Supplement I figures, all 5 Supplement II figures, principal tables and identity; final five crops reopened after clip correction",
+  "crops": [
+    {
+      "path": "daily/2026-11-23/notes/images/elkina-2026-fig1.png",
+      "source_pdf": "daily/2026-11-23/pdfs/elkina-2026-recoil.pdf",
+      "source_pdf_page_1based": 2,
+      "clip_points": [
+        45,
+        50,
+        573,
+        595
+      ],
+      "render_scale": 1.6,
+      "sha256": "15dc62370d1fb256eb0d7cd903642d937443db0bf8c890ec8b403fe489be9b14",
+      "source_pixel_match": true
+    },
+    {
+      "path": "daily/2026-11-23/notes/images/elkina-2026-fig2.png",
+      "source_pdf": "daily/2026-11-23/pdfs/elkina-2026-recoil.pdf",
+      "source_pdf_page_1based": 3,
+      "clip_points": [
+        45,
+        48,
+        573,
+        354
+      ],
+      "render_scale": 1.6,
+      "sha256": "0157564efb9a0eae654a732a7bbc8a3c4a3bba65d3d5e2dc1f7ffff7bdcf48f7",
+      "source_pixel_match": true
+    },
+    {
+      "path": "daily/2026-11-23/notes/images/elkina-2026-fig3.png",
+      "source_pdf": "daily/2026-11-23/pdfs/elkina-2026-recoil.pdf",
+      "source_pdf_page_1based": 4,
+      "clip_points": [
+        45,
+        49,
+        573,
+        308
+      ],
+      "render_scale": 1.6,
+      "sha256": "f309bf728f1d9888efddf04dc5542bcf31b7c04d14c14255b67ac7c9b1fd9ec4",
+      "source_pixel_match": true
+    },
+    {
+      "path": "daily/2026-11-23/notes/images/elkina-2026-fig4.png",
+      "source_pdf": "daily/2026-11-23/pdfs/elkina-2026-recoil.pdf",
+      "source_pdf_page_1based": 5,
+      "clip_points": [
+        45,
+        50,
+        573,
+        491
+      ],
+      "render_scale": 1.6,
+      "sha256": "8ab89c0795fcf767eeeb6056389894aeccb405b7cb42565aa0e17bb065059278",
+      "source_pixel_match": true
+    },
+    {
+      "path": "daily/2026-11-23/notes/images/elkina-2026-fig5.png",
+      "source_pdf": "daily/2026-11-23/pdfs/elkina-2026-recoil.pdf",
+      "source_pdf_page_1based": 6,
+      "clip_points": [
+        45,
+        50,
+        573,
+        391
+      ],
+      "render_scale": 1.6,
+      "sha256": "abc9d85395eb9797d1d51faf7a3c5d75de36f0e8a8491a448e99bd3edf0afeea",
+      "source_pixel_match": true
+    }
+  ],
+  "method": "pdftotext -layout full text, PyMuPDF source-page rendering, tools.view_image actual inspection, source-pixel matching",
+  "mineru_requests": 0,
+  "mineru_status": "historical401/A0211 credential expiry not retested; explicit local fallback",
+  "author_code_or_simulations_rerun": false,
+  "note_path": "daily/2026-11-23/notes/elkina-2026-recoil.md",
+  "main_boundaries": [
+    "prescribed external fields and collinear spin-averaged LCFA local Markov model, no multiphoton amplitude or self-consistent PIC integration",
+    "zero atom and selected moments preserved, not full distribution or global second-order convergence",
+    "Gamma unbounded tail and frozen-Poisson summed energy budget have distinct stops",
+    "small step does not remove finite Gamma single-photon tail hazard",
+    "signed-impact10496 ensemble93 stops and conditional risk sum93.53 distinct from18432 endpoint control",
+    "initial-population endpoint/source normalization retains missing mass; survivor endpoint means separately conditional",
+    "spectra are full-kernel conditional mean sources along stochastic aggregate trajectories, not reconstructed constituent photons",
+    "1.237 frozen-channel dynamics timing excludes setup and spectra; independent high-load cooling initialLambda21.6 has no corresponding timing claim",
+    "finite-sampleCDF distances and pointwise quantile intervals do not certify uniform accuracy or rare tails"
+  ],
+  "original_text_issues": [
+    "Supplement I has empty section cross-reference labels (Sec. .); notes identify section content rather than invent a number",
+    "Uniformization local-exact statement applies numerical frozen-field kernel only; outer splitting and LCFA remain approximate"
+  ],
+  "checked_at": "2026-11-22T23:12:00.583167+00:00",
+  "note_sha256": "7c47b7a93e220b1be52078500db93e83d4b5c7bda36bec0fee1c456057d67c41",
+  "parent_review": {
+    "source_pages_1based": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      10,
+      14,
+      17,
+      27,
+      30
+    ],
+    "all_five_final_crops_reopened": true,
+    "note_read_in_full": true
+  }
+}
