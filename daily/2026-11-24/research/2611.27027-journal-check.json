@@ -1,0 +1,1235 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 1746042,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              18
+            ]
+          ],
+          "date-time": "2026-11-18T18:08:45Z",
+          "timestamp": 1795025325153,
+          "version": "4.10.2"
+        },
+        "reference-count": 34,
+        "publisher": "IOP Publishing",
+        "issue": "4",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2024,
+                  12,
+                  20
+                ]
+              ],
+              "date-time": "2024-12-20T00:00:00Z",
+              "timestamp": 1734652800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 19,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2024,
+                  12,
+                  20
+                ]
+              ],
+              "date-time": "2024-12-20T00:00:00Z",
+              "timestamp": 1734652800000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 19,
+            "URL": "https://iopscience.iop.org/info/page/text-and-data-mining"
+          }
+        ],
+        "funder": [
+          {
+            "DOI": "10.13039/100006207",
+            "name": "Fusion Energy Sciences",
+            "doi-asserted-by": "crossref",
+            "id": [
+              {
+                "id": "10.13039/100006207",
+                "id-type": "DOI",
+                "asserted-by": "crossref"
+              }
+            ]
+          },
+          {
+            "DOI": "10.13039/100006192",
+            "name": "Advanced Scientific Computing Research",
+            "doi-asserted-by": "crossref",
+            "id": [
+              {
+                "id": "10.13039/100006192",
+                "id-type": "DOI",
+                "asserted-by": "crossref"
+              }
+            ]
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "iopscience.iop.org"
+          ],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Mach. Learn.: Sci. Technol."
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2024,
+              12,
+              1
+            ]
+          ]
+        },
+        "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>In this work, we propose a data-driven method to discover the latent space and learn the corresponding latent dynamics for a collisional-radiative (CR) model in radiative plasma simulations. The CR model, consisting of high-dimensional stiff ordinary differential equations, must be solved at each grid point in the configuration space, leading to significant computational costs in plasma simulations. Our method employs a physics-assisted autoencoder to extract a low-dimensional latent representation of the original CR system. A flow map neural network is then used to learn the latent dynamics. Once trained, the reduced surrogate model predicts the entire latent dynamics given only the initial condition by iteratively applying the flow map. The radiative power loss (RPL) is then reconstructed using a decoder. Numerical experiments demonstrate that the proposed architecture can accurately predict both the full-order CR dynamics and the RPL rate.</jats:p>",
+        "DOI": "10.1088/2632-2153/ad9ce7",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2024,
+              12,
+              10
+            ]
+          ],
+          "date-time": "2024-12-10T23:02:14Z",
+          "timestamp": 1733871734000
+        },
+        "page": "045070",
+        "update-policy": "https://doi.org/10.1088/crossmark-policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+          "Latent space dynamics learning for stiff collisional-radiative models"
+        ],
+        "prefix": "10.1088",
+        "volume": "5",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0008-8358-8191",
+            "authenticated-orcid": true,
+            "given": "Xuping",
+            "family": "Xie",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Qi",
+            "family": "Tang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-4036-6643",
+            "authenticated-orcid": true,
+            "given": "Xianzhu",
+            "family": "Tang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "266",
+        "published-online": {
+          "date-parts": [
+            [
+              2024,
+              12,
+              20
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "mlstad9ce7bib1",
+            "volume": "vol 66",
+            "author": "Capitelli",
+            "year": "2012"
+          },
+          {
+            "key": "mlstad9ce7bib2",
+            "doi-asserted-by": "publisher",
+            "first-page": "394",
+            "DOI": "10.1086/171864",
+            "article-title": "Iron ionization and recombination rates and ionization equilibrium",
+            "volume": "398",
+            "author": "Arnaud",
+            "year": "1992",
+            "journal-title": "Astrophys. J."
+          },
+          {
+            "key": "mlstad9ce7bib3",
+            "doi-asserted-by": "publisher",
+            "first-page": "899",
+            "DOI": "10.1002/0471724254",
+            "article-title": "Principles of plasma discharges and materials processing",
+            "volume": "30",
+            "author": "Lieberman",
+            "year": "1994",
+            "journal-title": "MRS Bull."
+          },
+          {
+            "key": "mlstad9ce7bib4",
+            "doi-asserted-by": "publisher",
+            "first-page": "18",
+            "DOI": "10.3390/atoms5020018",
+            "article-title": "Elementary processes and kinetic modeling for hydrogen and helium plasmas",
+            "volume": "5",
+            "author": "Celiberto",
+            "year": "2017",
+            "journal-title": "Atoms"
+          },
+          {
+            "key": "mlstad9ce7bib5",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1063/5.0003638",
+            "article-title": "Impact of a minority relativistic electron tail interacting with a thermal plasma containing high-atomic-number impurities",
+            "volume": "27",
+            "author": "Garland",
+            "year": "2020",
+            "journal-title": "Phys. Plasmas"
+          },
+          {
+            "key": "mlstad9ce7bib6",
+            "article-title": "Progress towards high fidelity collisional-radiative model surrogates for rapid in-situ evaluation",
+            "author": "Garland",
+            "year": "2020"
+          },
+          {
+            "key": "mlstad9ce7bib7",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1088/2632-2153/ac93e7",
+            "article-title": "Efficient data acquisition and training of collisional-radiative model artificial neural network surrogates through adaptive parameter space sampling",
+            "volume": "3",
+            "author": "Garland",
+            "year": "2022",
+            "journal-title": "Mach. Learn.: Sci. Technol."
+          },
+          {
+            "key": "mlstad9ce7bib8",
+            "doi-asserted-by": "publisher",
+            "first-page": "265",
+            "DOI": "10.1016/j.jqsrt.2005.04.007",
+            "article-title": "The new Los Alamos opacity code ATOMIC",
+            "volume": "99",
+            "author": "Hakel",
+            "year": "2006",
+            "journal-title": "J. Quantum Spectrosc. Radiat. Transfer"
+          },
+          {
+            "key": "mlstad9ce7bib9",
+            "doi-asserted-by": "publisher",
+            "first-page": "587",
+            "DOI": "10.1016/S0584-8547(01)00223-3",
+            "article-title": "Coupled solution of a time-dependent collisional-radiative model and boltzmann equation for atomic hydrogen plasmas: possible implications with libs plasmas",
+            "volume": "56",
+            "author": "Colonna",
+            "year": "2001",
+            "journal-title": "Spectrochim. Acta B"
+          },
+          {
+            "key": "mlstad9ce7bib10",
+            "doi-asserted-by": "publisher",
+            "first-page": "205",
+            "DOI": "10.1007/978-1-4419-8185-1",
+            "article-title": "Particle models for low pressure plasmas",
+            "author": "Capitelli",
+            "year": "2016"
+          },
+          {
+            "key": "mlstad9ce7bib11",
+            "doi-asserted-by": "publisher",
+            "first-page": "247",
+            "DOI": "10.1016/j.actaastro.2022.09.017",
+            "article-title": "On the influence of non equilibrium in the free stream conditions of high enthalpy oxygen flows around a double-cone",
+            "volume": "201",
+            "author": "Ninni",
+            "year": "2022",
+            "journal-title": "Acta Astronaut."
+          },
+          {
+            "key": "mlstad9ce7bib12",
+            "doi-asserted-by": "publisher",
+            "first-page": "B834",
+            "DOI": "10.1137/17M1145136",
+            "article-title": "Data-driven filtered reduced order modeling of fluid flows",
+            "volume": "40",
+            "author": "Xie",
+            "year": "2018",
+            "journal-title": "SIAM J. Sci. Comput."
+          },
+          {
+            "key": "mlstad9ce7bib13",
+            "doi-asserted-by": "publisher",
+            "first-page": "512",
+            "DOI": "10.1016/j.cma.2016.10.005",
+            "article-title": "Approximate deconvolution reduced order modeling",
+            "volume": "313",
+            "author": "Xie",
+            "year": "2017",
+            "journal-title": "Comput. Methods Appl. Mech. Eng."
+          },
+          {
+            "key": "mlstad9ce7bib14",
+            "doi-asserted-by": "publisher",
+            "first-page": "358",
+            "DOI": "10.1002/nme.4274",
+            "article-title": "Stabilization of projection-based reduced-order models",
+            "volume": "91",
+            "author": "Amsallem",
+            "year": "2012",
+            "journal-title": "Int. J. Numer. Methods Eng."
+          },
+          {
+            "key": "mlstad9ce7bib15",
+            "doi-asserted-by": "publisher",
+            "first-page": "168",
+            "DOI": "10.1016/j.camwa.2023.10.018",
+            "article-title": "A numerical comparison of simplified galerkin and machine learning reduced order models for vaginal deformations",
+            "volume": "152",
+            "author": "Snyder",
+            "year": "2023",
+            "journal-title": "Comput. Math. Appl."
+          },
+          {
+            "key": "mlstad9ce7bib16",
+            "doi-asserted-by": "publisher",
+            "first-page": "21",
+            "DOI": "10.1016/j.cma.2015.03.018",
+            "article-title": "Dynamic data-driven reduced-order models",
+            "volume": "291",
+            "author": "Peherstorfer",
+            "year": "2015",
+            "journal-title": "Comput. Methods Appl. Mech. Eng."
+          },
+          {
+            "key": "mlstad9ce7bib17",
+            "doi-asserted-by": "publisher",
+            "first-page": "5",
+            "DOI": "10.1038/s41467-017-02388-1",
+            "article-title": "Vampnets for deep learning of molecular kinetics",
+            "volume": "9",
+            "author": "Mardt",
+            "year": "2018",
+            "journal-title": "Nat. Commun."
+          },
+          {
+            "key": "mlstad9ce7bib18",
+            "doi-asserted-by": "publisher",
+            "first-page": "367",
+            "DOI": "10.1007/s00162-020-00528-w",
+            "article-title": "Machine-learning-based reduced-order modeling for unsteady flows around bluff bodies of various shapes",
+            "volume": "34",
+            "author": "Hasegawa",
+            "year": "2020",
+            "journal-title": "Theor. Comput. Fluid Dyn."
+          },
+          {
+            "key": "mlstad9ce7bib19",
+            "doi-asserted-by": "publisher",
+            "first-page": "22445",
+            "DOI": "10.1073/pnas.1906995116",
+            "article-title": "Data-driven discovery of coordinates and governing equations",
+            "volume": "116",
+            "author": "Champion",
+            "year": "2019",
+            "journal-title": "Proc. Natl Acad. Sci."
+          },
+          {
+            "key": "mlstad9ce7bib20",
+            "doi-asserted-by": "publisher",
+            "first-page": "3932",
+            "DOI": "10.1073/pnas.1517384113",
+            "article-title": "Discovering governing equations from data by sparse identification of nonlinear dynamical systems",
+            "volume": "113",
+            "author": "Brunton",
+            "year": "2016",
+            "journal-title": "Proc. Natl Acad. Sci."
+          },
+          {
+            "key": "mlstad9ce7bib21",
+            "doi-asserted-by": "publisher",
+            "first-page": "A10",
+            "DOI": "10.1017/jfm.2021.697",
+            "article-title": "Sparse identification of nonlinear dynamics with low-dimensionalized flow representations",
+            "volume": "926",
+            "author": "Fukami",
+            "year": "2021",
+            "journal-title": "J. Fluid Mech."
+          },
+          {
+            "key": "mlstad9ce7bib22",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1098/rspa.2020.0279",
+            "article-title": "Sindy-pi: a robust algorithm for parallel implicit sparse identification of nonlinear dynamics",
+            "volume": "476",
+            "author": "Kaheman",
+            "year": "2020",
+            "journal-title": "Proc. R. Soc. A"
+          },
+          {
+            "key": "mlstad9ce7bib23",
+            "first-page": "p 31",
+            "article-title": "Neural ordinary differential equations",
+            "author": "Chen",
+            "year": "2018"
+          },
+          {
+            "key": "mlstad9ce7bib24",
+            "first-page": "p 32",
+            "article-title": "Latent ordinary differential equations for irregularly-sampled time series",
+            "author": "Rubanova",
+            "year": "2019"
+          },
+          {
+            "key": "mlstad9ce7bib25",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jcp.2022.111838",
+            "article-title": "Stabilized neural ordinary differential equations for long-time forecasting of dynamical systems",
+            "volume": "474",
+            "author": "Linot",
+            "year": "2023",
+            "journal-title": "J. Comput. Phys."
+          },
+          {
+            "key": "mlstad9ce7bib26",
+            "doi-asserted-by": "publisher",
+            "first-page": "4950",
+            "DOI": "10.1038/s41467-018-07210-0",
+            "article-title": "Deep learning for universal linear embeddings of nonlinear dynamics",
+            "volume": "9",
+            "author": "Lusch",
+            "year": "2018",
+            "journal-title": "Nat. Commun."
+          },
+          {
+            "key": "mlstad9ce7bib27",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jcp.2024.112910",
+            "article-title": "Nonlinear dimensionality reduction then and now: AIMs for dissipative PDEs in the ML era",
+            "volume": "506",
+            "author": "Koronaki",
+            "year": "2024",
+            "journal-title": "J. Comput. Phys."
+          },
+          {
+            "key": "mlstad9ce7bib28",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1088/1361-6587/abcbaa",
+            "article-title": "Fast neural poincaré maps for toroidal magnetic fields",
+            "volume": "63",
+            "author": "Burby",
+            "year": "2020",
+            "journal-title": "Plasma Phys. Control. Fusion"
+          },
+          {
+            "key": "mlstad9ce7bib29",
+            "doi-asserted-by": "publisher",
+            "first-page": "8351",
+            "DOI": "10.1038/s41598-023-34862-w",
+            "article-title": "Approximation of nearly-periodic symplectic maps via structure-preserving neural networks",
+            "volume": "13",
+            "author": "Duruisseaux",
+            "year": "2023",
+            "journal-title": "Sci. Rep."
+          },
+          {
+            "key": "mlstad9ce7bib30",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1098/rsta.2021.0200",
+            "article-title": "Hierarchical deep learning of multiscale differential equation time-steppers",
+            "volume": "380",
+            "author": "Liu",
+            "year": "2022",
+            "journal-title": "Phil. Trans. R. Soc. A"
+          },
+          {
+            "key": "mlstad9ce7bib31",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1088/1742-6596/2687/6/062026",
+            "article-title": "Symplectic neural surrogate models for beam dynamics",
+            "volume": "2687",
+            "author": "Huang",
+            "year": "2024",
+            "journal-title": "J. Phys.: Conf. Ser."
+          },
+          {
+            "key": "mlstad9ce7bib32",
+            "doi-asserted-by": "publisher",
+            "first-page": "6",
+            "DOI": "10.7551/mitpress/4943.003.0128",
+            "article-title": "Learning internal representations by error propagation, parallel distributed processing, explorations in the microstructure of cognition, ed. de rumelhart and j. mcclelland. vol. 1. 1986",
+            "volume": "71",
+            "author": "Rumelhart",
+            "year": "1986",
+            "journal-title": "Biometrika"
+          },
+          {
+            "key": "mlstad9ce7bib33",
+            "doi-asserted-by": "publisher",
+            "first-page": "1735",
+            "DOI": "10.1162/neco.1997.9.8.1735",
+            "article-title": "Long short-term memory",
+            "volume": "9",
+            "author": "Hochreiter",
+            "year": "1997",
+            "journal-title": "Neural Comput."
+          },
+          {
+            "key": "mlstad9ce7bib34",
+            "doi-asserted-by": "publisher",
+            "first-page": "3",
+            "DOI": "10.1016/j.hedp.2005.07.001",
+            "article-title": "Flychk: generalized population kinetics and spectral model for rapid spectroscopic analysis for all elements",
+            "volume": "1",
+            "author": "Chung",
+            "year": "2005",
+            "journal-title": "High Energy Density Phys."
+          }
+        ],
+        "container-title": [
+          "Machine Learning: Science and Technology"
+        ],
+        "link": [
+          {
+            "URL": "https://iopscience.iop.org/article/10.1088/2632-2153/ad9ce7",
+            "content-type": "text/html",
+            "content-version": "am",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://iopscience.iop.org/article/10.1088/2632-2153/ad9ce7/pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://iopscience.iop.org/article/10.1088/2632-2153/ad9ce7",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://iopscience.iop.org/article/10.1088/2632-2153/ad9ce7/pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://iopscience.iop.org/article/10.1088/2632-2153/ad9ce7/pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+          },
+          {
+            "URL": "https://iopscience.iop.org/article/10.1088/2632-2153/ad9ce7/pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+          },
+          {
+            "URL": "https://iopscience.iop.org/article/10.1088/2632-2153/ad9ce7/pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "similarity-checking"
+          },
+          {
+            "URL": "https://iopscience.iop.org/article/10.1088/2632-2153/ad9ce7/pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2024,
+              12,
+              20
+            ]
+          ],
+          "date-time": "2024-12-20T11:55:44Z",
+          "timestamp": 1734695744000
+        },
+        "score": 38.306458,
+        "resource": {
+          "primary": {
+            "URL": "https://iopscience.iop.org/article/10.1088/2632-2153/ad9ce7"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2024,
+              12,
+              1
+            ]
+          ]
+        },
+        "references-count": 34,
+        "journal-issue": {
+          "issue": "4",
+          "published-online": {
+            "date-parts": [
+              [
+                2024,
+                12,
+                20
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2024,
+                12,
+                1
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.1088/2632-2153/ad9ce7",
+        "ISSN": [
+          "2632-2153"
+        ],
+        "issn-type": [
+          {
+            "value": "2632-2153",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              12,
+              1
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "Latent space dynamics learning for stiff collisional-radiative models",
+            "name": "article_title",
+            "label": "Article Title"
+          },
+          {
+            "value": "Machine Learning: Science and Technology",
+            "name": "journal_title",
+            "label": "Journal Title"
+          },
+          {
+            "value": "paper",
+            "name": "article_type",
+            "label": "Article Type"
+          },
+          {
+            "value": "© 2024 The Author(s). Published by IOP Publishing Ltd",
+            "name": "copyright_information",
+            "label": "Copyright Information"
+          },
+          {
+            "value": "2024-09-01",
+            "name": "date_received",
+            "label": "Date Received",
+            "group": {
+              "name": "publication_dates",
+              "label": "Publication dates"
+            }
+          },
+          {
+            "value": "2024-12-09",
+            "name": "date_accepted",
+            "label": "Date Accepted",
+            "group": {
+              "name": "publication_dates",
+              "label": "Publication dates"
+            }
+          },
+          {
+            "value": "2024-12-20",
+            "name": "date_epub",
+            "label": "Online publication date",
+            "group": {
+              "name": "publication_dates",
+              "label": "Publication dates"
+            }
+          }
+        ]
+      },
+      {
+        "institution": [
+          {
+            "name": "Los Alamos National Laboratory (LANL), Los Alamos, NM (United States)",
+            "acronym": [
+              "LANL"
+            ]
+          },
+          {
+            "name": "Los Alamos National Laboratory (LANL), Los Alamos, NM (United States)"
+          },
+          {
+            "name": "USDOE Office of Science (SC), Advanced Scientific Computing Research (ASCR)"
+          },
+          {
+            "name": "USDOE National Nuclear Security Administration (NNSA)"
+          },
+          {
+            "name": "USDOE Office of Science (SC), Fusion Energy Sciences (FES)"
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              21
+            ]
+          ],
+          "date-time": "2026-08-21T19:36:22Z",
+          "timestamp": 1787340982780,
+          "version": "build-2736575974"
+        },
+        "reference-count": 0,
+        "publisher": "Office of Scientific and Technical Information (OSTI)",
+        "funder": [
+          {
+            "name": "USDOE Office of Science (SC), Advanced Scientific Computing Research (ASCR)"
+          },
+          {
+            "name": "USDOE National Nuclear Security Administration (NNSA)"
+          },
+          {
+            "name": "USDOE Office of Science (SC), Fusion Energy Sciences (FES)"
+          },
+          {
+            "name": "DOE",
+            "award": [
+              "89233218CNA000001"
+            ],
+            "award-info": [
+              {
+                "award-number": [
+                  "89233218CNA000001"
+                ]
+              }
+            ]
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2024,
+              6,
+              17
+            ]
+          ]
+        },
+        "DOI": "10.2172/2377685",
+        "type": "report",
+        "created": {
+          "date-parts": [
+            [
+              2024,
+              6,
+              28
+            ]
+          ],
+          "date-time": "2024-06-28T22:09:19Z",
+          "timestamp": 1719612559000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Physics-assisted Latent Space Dynamics Learning for Stiff Collisional-radiative Models"
+        ],
+        "prefix": "10.2172",
+        "author": [
+          {
+            "name": "Los Alamos National Laboratory (LANL), Los Alamos, NM (United States)",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0008-8358-8191",
+            "authenticated-orcid": false,
+            "given": "Xuping",
+            "family": "Xie",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Los Alamos National Laboratory (LANL), Los Alamos, NM (United States)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "name": "USDOE Office of Science (SC), Advanced Scientific Computing Research (ASCR)",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "name": "USDOE National Nuclear Security Administration (NNSA)",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "name": "USDOE Office of Science (SC), Fusion Energy Sciences (FES)",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-9614-1075",
+            "authenticated-orcid": false,
+            "given": "Qi",
+            "family": "Tang",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Los Alamos National Laboratory (LANL), Los Alamos, NM (United States)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-4036-6643",
+            "authenticated-orcid": false,
+            "given": "Xianzhu",
+            "family": "Tang",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Los Alamos National Laboratory (LANL), Los Alamos, NM (United States)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "960",
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              21
+            ]
+          ],
+          "date-time": "2026-08-21T18:59:24Z",
+          "timestamp": 1787338764000
+        },
+        "score": 35.357784,
+        "resource": {
+          "primary": {
+            "URL": "https://www.osti.gov/biblio/2377685"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2024,
+              6,
+              17
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.2172/2377685",
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              6,
+              17
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              7
+            ]
+          ],
+          "date-time": "2026-10-07T07:00:43Z",
+          "timestamp": 1791356443615,
+          "version": "4.3.1"
+        },
+        "reference-count": 23,
+        "publisher": "AIP Publishing",
+        "issue": "12",
+        "content-domain": {
+          "domain": [
+            "aip.scitation.org"
+          ],
+          "crossmark-restriction": true
+        },
+        "short-container-title": [
+          "Physics of Plasmas"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2013,
+              12
+            ]
+          ]
+        },
+        "DOI": "10.1063/1.4849417",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2013,
+              12,
+              24
+            ]
+          ],
+          "date-time": "2013-12-24T03:29:11Z",
+          "timestamp": 1387855751000
+        },
+        "page": "123304",
+        "update-policy": "https://doi.org/10.1063/aip-crossmark-policy-page",
+        "source": "Crossref",
+        "is-referenced-by-count": 41,
+        "title": [
+          "Complexity reduction of collisional-radiative kinetics for atomic plasma"
+        ],
+        "prefix": "10.1063",
+        "volume": "20",
+        "author": [
+          {
+            "given": "Hai P.",
+            "family": "Le",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Ann R.",
+            "family": "Karagozian",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jean-Luc",
+            "family": "Cambier",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "317",
+        "reference": [
+          {
+            "key": "c1",
+            "volume-title": "Physics of Electric Propulsion",
+            "author": "Jahn R. G.",
+            "year": "2006"
+          },
+          {
+            "key": "c2",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/978-3-662-04158-1"
+          },
+          {
+            "key": "c3",
+            "volume-title": "Principles of Plasma Diagnostics",
+            "author": "Hutchinson I. H.",
+            "year": "2005",
+            "edition": "2"
+          },
+          {
+            "key": "c4",
+            "volume-title": "Introduction to Physical Gas Dynamics",
+            "author": "Vincenti W. G.",
+            "year": "1975"
+          },
+          {
+            "key": "c5",
+            "volume-title": "Partially Ionized Gases",
+            "author": "Mitchner M.",
+            "year": "1973",
+            "edition": "1"
+          },
+          {
+            "key": "c6",
+            "volume-title": "Physics of Shock Waves and High Temperature Hydrodynamic Phenomena",
+            "author": "Zel'dovich Y. B.",
+            "year": "2002",
+            "edition": "3"
+          },
+          {
+            "key": "c7",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/0009-2614(94)00804-3"
+          },
+          {
+            "key": "c8",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1063/1.2194827"
+          },
+          {
+            "key": "c9",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.chemphys.2011.10.028"
+          },
+          {
+            "key": "c10",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1063/1.3585688"
+          },
+          {
+            "key": "c11",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1063/1.3585694"
+          },
+          {
+            "key": "c12",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2514/1.50033"
+          },
+          {
+            "key": "c13",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1063/1.4774412"
+          },
+          {
+            "key": "c14",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2514/2.6604"
+          },
+          {
+            "key": "c15",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2514/2.6219"
+          },
+          {
+            "key": "c16",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2514/1.33505"
+          },
+          {
+            "key": "c17",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.chemphys.2011.10.009"
+          },
+          {
+            "key": "c18",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.chemphys.2013.04.018"
+          },
+          {
+            "key": "c20",
+            "doi-asserted-by": "crossref",
+            "first-page": "623",
+            "DOI": "10.1088/0022-3727/22/5/009",
+            "volume": "22",
+            "author": "Vlcek J.",
+            "year": "2000",
+            "journal-title": "J. Phys. D: Appl. Phys."
+          },
+          {
+            "key": "c25",
+            "doi-asserted-by": "crossref",
+            "unstructured": "T. Magin, M. Panesi, A. Bourdon, R. Jaffe, and D. Schwenke, “Rovibrational internal energy excitation and dissociation of molecular nitrogen in hypersonic flows,” AIAA Paper 2010-4336, 2010.",
+            "DOI": "10.2514/6.2010-4336"
+          },
+          {
+            "key": "c34",
+            "volume-title": "24th AIAA Plasma Dynamics Conference",
+            "author": "Cambier J.-L.",
+            "year": "1993"
+          },
+          {
+            "key": "c37",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.hedp.2009.07.003"
+          },
+          {
+            "key": "c38",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.hedp.2010.07.002"
+          }
+        ],
+        "container-title": [
+          "Physics of Plasmas"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "http://aip.scitation.org/doi/pdf/10.1063/1.4849417",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2023,
+              4,
+              20
+            ]
+          ],
+          "date-time": "2023-04-20T04:37:30Z",
+          "timestamp": 1681965450000
+        },
+        "score": 32.51265,
+        "resource": {
+          "primary": {
+            "URL": "https://pubs.aip.org/aip/pop/article/107773"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2013,
+              12
+            ]
+          ]
+        },
+        "references-count": 23,
+        "journal-issue": {
+          "issue": "12",
+          "published-print": {
+            "date-parts": [
+              [
+                2013,
+                12
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "10.1063/1.4849417"
+        ],
+        "URL": "https://doi.org/10.1063/1.4849417",
+        "ISSN": [
+          "1070-664X",
+          "1089-7674"
+        ],
+        "issn-type": [
+          {
+            "value": "1070-664X",
+            "type": "print"
+          },
+          {
+            "value": "1089-7674",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2013,
+              12
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 3,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

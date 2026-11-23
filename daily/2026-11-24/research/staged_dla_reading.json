@@ -1,0 +1,79 @@
+{
+  "paper": "arXiv:2611.27857v1",
+  "source_pdf": "pdfs/starodubtseva-2026-staged-dla.pdf",
+  "source_sha256": "ff28613c2cc2b0a3a02cbcc0f498ddbbb1090e866e2d7837e5bde126a5382fe9",
+  "reading_scope": "Full 9-page author v1; main text pp1-8 and references pp8-9; formulas and all3figures; no external cited-model reconstruction or author computation rerun",
+  "method": "Validated pdftotext -layout plus PyMuPDF source-page rendering; MinerU historical HTTP401/A0211 expired token unavailable, no requests or new credential test",
+  "source_pages_visually_reviewed_1based": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "visual_render_scale": 1.5,
+  "crops": [
+    {
+      "figure": 1,
+      "source_page_1based": 4,
+      "crop_pdf_points": [
+        50,
+        48,
+        568,
+        312
+      ],
+      "render_scale": 2,
+      "file": "notes/images/starodubtseva-2026-staged-dla/figure-1.png",
+      "sha256": "5a3809c6d7c1918918a15dddaee7a622f05970490a8204124e00366cb4b43f5a",
+      "width": 1036,
+      "height": 528,
+      "visual_checked": true,
+      "source_pixel_match": true
+    },
+    {
+      "figure": 2,
+      "source_page_1based": 5,
+      "crop_pdf_points": [
+        50,
+        48,
+        568,
+        310
+      ],
+      "render_scale": 2,
+      "file": "notes/images/starodubtseva-2026-staged-dla/figure-2.png",
+      "sha256": "f486c9b66d780f2965bdab01a04861a66e12e0b88582e9bd5b278053d920fbfc",
+      "width": 1036,
+      "height": 524,
+      "visual_checked": true,
+      "source_pixel_match": true
+    },
+    {
+      "figure": 3,
+      "source_page_1based": 7,
+      "crop_pdf_points": [
+        50,
+        48,
+        312,
+        550
+      ],
+      "render_scale": 2,
+      "file": "notes/images/starodubtseva-2026-staged-dla/figure-3.png",
+      "sha256": "bf2853d84d3141c224b5e1b55fbba296699fcdaa61bcd0e8a3f50e56bacc2b9c",
+      "width": 524,
+      "height": 1004,
+      "visual_checked": true,
+      "source_pixel_match": true
+    }
+  ],
+  "ambiguities": [
+    "p3 second-stage paragraph says lower phase velocity required but then says larger waist increases it; measured vph values decrease 1.0161c→1.0016c",
+    "p3 T1=16MeV is duplicate subscript; Fig1caption unambiguously T2=16MeV",
+    "p6 printed Eq4 swaps longitudinal/transverse structure and has force-sign ambiguity; not silently treated as independently verified solver equations",
+    "p6 discussion calls second-stage maximum-energy map Fig3b whereas map is Fig3c; Fig2b legend maximum228.8MeV vs rounded225MeV in maintext",
+    "px/mc>5 markers differ from E>5MeV charge/spectrum cut; no universal75percent capture inference"
+  ],
+  "author_models_or_experiments_rerun": false,
+  "validation": "All3 final crops reopened; exact pixel equality with source page+crop+scale and SHA checked"
+}

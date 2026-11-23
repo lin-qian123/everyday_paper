@@ -1,0 +1,579 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        23
+      ]
+    ],
+    "date-time": "2026-11-23T08:12:53Z",
+    "timestamp": 1795421573554,
+    "version": "4.10.3"
+  },
+  "reference-count": 27,
+  "publisher": "AIP Publishing",
+  "issue": "21",
+  "funder": [
+    {
+      "DOI": "10.13039/501100011293",
+      "name": "Key Laboratory of Basic Plasma Physics",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "6142A04230204"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "6142A04230204"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100011293",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "National Natural Science Foundation of China",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "12075046"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "12075046"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100012226",
+      "name": "Fundamental Research Funds for the Central Universities",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "DUT25GF211"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "DUT25GF211"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100012226",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "pubs.aip.org"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [],
+  "published-print": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        23
+      ]
+    ]
+  },
+  "abstract": "<jats:p>Direct laser acceleration can generate high-current relativistic electron beams, yet their intrinsically large divergence severely limits beam transport and subsequent applications. In this work, a compact collimation scheme for direct-laser-accelerated electron beams is proposed and numerically investigated. By placing a wedge above the gas jet target, the gas flow is modified to form a millimeter-scale plasma region downstream of the jet, which acts as an integrated plasma lens for the accelerated electron beam. Numerical results show that, after passing through this plasma-lens region, the electron beam divergence can be reduced by approximately a factor of two. Owing to its simple configuration and ease of implementation, this scheme offers an effective route to improve the transport properties of electron beams without requiring complex target fabrication or stringent alignment. These results demonstrate that wedge-modified gas jet targets are promising for manipulating and applying electron beams in compact radiation sources and advanced accelerator systems.</jats:p>",
+  "DOI": "10.1063/5.0352710",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        23
+      ]
+    ],
+    "date-time": "2026-11-23T07:25:01Z",
+    "timestamp": 1795418701000
+  },
+  "update-policy": "https://doi.org/10.1063/aip-crossmark-policy-page",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Collimation of direct-laser-accelerated electron beams via a wedge-modified gas jet target"
+  ],
+  "prefix": "10.1063",
+  "volume": "129",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0003-0121-4142",
+      "authenticated-orcid": false,
+      "given": "Jie-Jie",
+      "family": "Lan",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "School of Physics, Dalian University of Technology 1 , Dalian 116024,",
+          "place": [
+            "People's Republic of China"
+          ]
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-6343-8358",
+      "authenticated-orcid": false,
+      "given": "Zhang-Hu",
+      "family": "Hu",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "School of Physics, Dalian University of Technology 1 , Dalian 116024,",
+          "place": [
+            "People's Republic of China"
+          ]
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Zhi-Gang",
+      "family": "Deng",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Science and Technology on Plasma Physics Laboratory, Laser Fusion Research Center, China Academy of Engineering Physics 2 , Mianyang 621900,",
+          "place": [
+            "People's Republic of China"
+          ]
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-4251-2453",
+      "authenticated-orcid": false,
+      "given": "You-Nian",
+      "family": "Wang",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "School of Physics, Dalian University of Technology 1 , Dalian 116024,",
+          "place": [
+            "People's Republic of China"
+          ]
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "317",
+  "published-online": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        23
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "2026112302245962000_c1",
+      "doi-asserted-by": "publisher",
+      "first-page": "115024",
+      "DOI": "10.1088/1361-6587/abb24e",
+      "article-title": "High-current laser-driven beams of relativistic electrons for high energy density research",
+      "volume": "62",
+      "year": "2020",
+      "journal-title": "Plasma Phys. Controlled Fusion"
+    },
+    {
+      "key": "2026112302245962000_c2",
+      "doi-asserted-by": "publisher",
+      "first-page": "023031",
+      "DOI": "10.1088/1367-2630/abdf9a",
+      "article-title": "Towards the optimisation of direct laser acceleration",
+      "volume": "23",
+      "year": "2021",
+      "journal-title": "New J. Phys."
+    },
+    {
+      "key": "2026112302245962000_c3",
+      "doi-asserted-by": "publisher",
+      "first-page": "093002",
+      "DOI": "10.1088/1367-2630/ad7280",
+      "article-title": "Direct laser acceleration in varying plasma density profiles",
+      "volume": "26",
+      "year": "2024",
+      "journal-title": "New J. Phys."
+    },
+    {
+      "key": "2026112302245962000_c4",
+      "doi-asserted-by": "publisher",
+      "first-page": "6980",
+      "DOI": "10.1073/pnas.1800668115",
+      "article-title": "Ultrahigh-charge electron beams from laser-irradiated solid surface",
+      "volume": "115",
+      "year": "2018",
+      "journal-title": "Proc. Natl. Acad. Sci. U. S. A."
+    },
+    {
+      "key": "2026112302245962000_c5",
+      "doi-asserted-by": "publisher",
+      "first-page": "170",
+      "DOI": "10.1038/s41467-021-27694-7",
+      "article-title": "Forward-looking insights in laser-generated ultra-intense γ-ray and neutron sources for nuclear application and science",
+      "volume": "13",
+      "year": "2022",
+      "journal-title": "Nat. Commun."
+    },
+    {
+      "key": "2026112302245962000_c6",
+      "doi-asserted-by": "publisher",
+      "first-page": "e3",
+      "DOI": "10.1017/hpl.2024.85",
+      "article-title": "Advanced plasma target from pre-ionized low-density foam for effective and robust direct laser acceleration of electrons",
+      "volume": "13",
+      "year": "2025",
+      "journal-title": "High Power Laser Sci. Eng."
+    },
+    {
+      "key": "2026112302245962000_c7",
+      "doi-asserted-by": "publisher",
+      "first-page": "7498",
+      "DOI": "10.1038/s41598-021-86523-5",
+      "article-title": "Microcoulomb (0.7 ± 0.40.2μc) laser plasma accelerator on OMEGA EP",
+      "volume": "11",
+      "year": "2021",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "key": "2026112302245962000_c8",
+      "doi-asserted-by": "publisher",
+      "first-page": "053010",
+      "DOI": "10.1088/1367-2630/ad3be4",
+      "article-title": "The influence of laser focusing conditions on the direct laser acceleration of electrons",
+      "volume": "26",
+      "year": "2024",
+      "journal-title": "New J. Phys."
+    },
+    {
+      "key": "2026112302245962000_c9",
+      "doi-asserted-by": "publisher",
+      "first-page": "048401",
+      "DOI": "10.1063/5.0042315",
+      "article-title": "Bright betatron radiation from direct-laser-accelerated electrons at moderate relativistic laser intensity",
+      "volume": "6",
+      "year": "2021",
+      "journal-title": "Matter Radiat. Extremes"
+    },
+    {
+      "key": "2026112302245962000_c10",
+      "doi-asserted-by": "publisher",
+      "first-page": "134102",
+      "DOI": "10.1063/5.0042997",
+      "article-title": "Bright betatron x-rays generation from picosecond laser interactions with long-scale near critical density plasmas",
+      "volume": "118",
+      "year": "2021",
+      "journal-title": "Appl. Phys. Lett."
+    },
+    {
+      "key": "2026112302245962000_c11",
+      "doi-asserted-by": "publisher",
+      "first-page": "e10",
+      "DOI": "10.1017/hpl.2025.10096",
+      "article-title": "All-optically controllable electron and x-ray sources from microchannel-guided direct laser acceleration",
+      "volume": "14",
+      "year": "2026",
+      "journal-title": "High Power Laser Sci. Eng."
+    },
+    {
+      "key": "2026112302245962000_c12",
+      "doi-asserted-by": "publisher",
+      "first-page": "035012",
+      "DOI": "10.1088/1361-6587/aaf94b",
+      "article-title": "Highly collimated electron acceleration by longitudinal laser fields in a hollow-core target",
+      "volume": "61",
+      "year": "2019",
+      "journal-title": "Plasma Phys. Controlled Fusion"
+    },
+    {
+      "key": "2026112302245962000_c13",
+      "doi-asserted-by": "publisher",
+      "first-page": "103109",
+      "DOI": "10.1063/5.0252460",
+      "article-title": "Plasma gradient effect on direct laser acceleration",
+      "volume": "32",
+      "year": "2025",
+      "journal-title": "Phys. Plasmas"
+    },
+    {
+      "key": "2026112302245962000_c14",
+      "doi-asserted-by": "publisher",
+      "first-page": "121301",
+      "DOI": "10.1103/PhysRevSTAB.17.121301",
+      "article-title": "Laser-plasma lens for laser-wakefield accelerators",
+      "volume": "17",
+      "year": "2014",
+      "journal-title": "Phys. Rev. Spec. Top. - Accel. Beams"
+    },
+    {
+      "key": "2026112302245962000_c15",
+      "doi-asserted-by": "publisher",
+      "first-page": "063103",
+      "DOI": "10.1063/5.0145693",
+      "article-title": "Focusing and reduction of correlated energy spread of chirped electron beams in passive plasma lens",
+      "volume": "30",
+      "year": "2023",
+      "journal-title": "Phys. Plasmas"
+    },
+    {
+      "key": "2026112302245962000_c16",
+      "doi-asserted-by": "publisher",
+      "first-page": "267",
+      "DOI": "10.1103/PhysRevLett.43.267",
+      "article-title": "Laser electron accelerator",
+      "volume": "43",
+      "year": "1979",
+      "journal-title": "Phys. Rev. Lett."
+    },
+    {
+      "key": "2026112302245962000_c17",
+      "doi-asserted-by": "publisher",
+      "first-page": "535",
+      "DOI": "10.1038/nature02939",
+      "article-title": "Monoenergetic beams of relativistic electrons from intense laser–plasma interactions",
+      "volume": "431",
+      "year": "2004",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "2026112302245962000_c18",
+      "doi-asserted-by": "publisher",
+      "first-page": "18466",
+      "DOI": "10.1038/s41598-023-45737-5",
+      "article-title": "Notable improvements on LWFA through precise laser wavefront tuning",
+      "volume": "13",
+      "year": "2023",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "key": "2026112302245962000_c19",
+      "doi-asserted-by": "publisher",
+      "first-page": "6860",
+      "DOI": "10.1038/ncomms7860",
+      "article-title": "Demonstration of relativistic electron beam focusing by a laser-plasma lens",
+      "volume": "6",
+      "year": "2015",
+      "journal-title": "Nat. Commun."
+    },
+    {
+      "key": "2026112302245962000_c20",
+      "doi-asserted-by": "publisher",
+      "first-page": "26286",
+      "DOI": "10.1038/s41598-024-78143-6",
+      "article-title": "Combined plasma lens and rephasing stage for a laser wakefield accelerator",
+      "volume": "14",
+      "year": "2024",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "key": "2026112302245962000_c21",
+      "doi-asserted-by": "publisher",
+      "first-page": "L061001",
+      "DOI": "10.1103/PhysRevApplied.20.L061001",
+      "article-title": "Reduction of the electron-beam divergence of laser wakefield accelerators by integrated plasma lenses",
+      "volume": "20",
+      "year": "2023",
+      "journal-title": "Phys. Rev. Appl."
+    },
+    {
+      "key": "2026112302245962000_c22",
+      "doi-asserted-by": "publisher",
+      "first-page": "071301",
+      "DOI": "10.1103/PhysRevAccelBeams.19.071301",
+      "article-title": "Demonstration of passive plasma lensing of a laser wakefield accelerated electron bunch",
+      "volume": "19",
+      "year": "2016",
+      "journal-title": "Phys. Rev. Accel. Beams"
+    },
+    {
+      "key": "2026112302245962000_c23",
+      "doi-asserted-by": "publisher",
+      "first-page": "184101",
+      "DOI": "10.1063/1.4999010",
+      "article-title": "Experimental characterization of the effects induced by passive plasma lens on high brightness electron bunches",
+      "volume": "111",
+      "year": "2017",
+      "journal-title": "Appl. Phys. Lett."
+    },
+    {
+      "key": "2026112302245962000_c24",
+      "doi-asserted-by": "publisher",
+      "first-page": "111001",
+      "DOI": "10.1103/PhysRevAccelBeams.22.111001",
+      "article-title": "Laser-ionized, beam-driven, underdense, passive thin plasma lens",
+      "volume": "22",
+      "year": "2019",
+      "journal-title": "Phys. Rev. Accel. Beams"
+    },
+    {
+      "key": "2026112302245962000_c25",
+      "unstructured": "Ansys, Inc., see https://www.ansys.com/ for “Ansys—Engineering simulation software” (2026)."
+    },
+    {
+      "key": "2026112302245962000_c26",
+      "doi-asserted-by": "publisher",
+      "first-page": "113001",
+      "DOI": "10.1088/0741-3335/57/11/113001",
+      "article-title": "Contemporary particle-in-cell approach to laser-plasma modelling",
+      "volume": "57",
+      "year": "2015",
+      "journal-title": "Plasma Phys. Controlled Fusion"
+    },
+    {
+      "key": "2026112302245962000_c27",
+      "doi-asserted-by": "publisher",
+      "first-page": "11680",
+      "DOI": "10.1038/s41598-023-38805-3",
+      "article-title": "Laser-accelerated electron beams at 1 GeV using optically-induced shock injection",
+      "volume": "13",
+      "year": "2023",
+      "journal-title": "Sci. Rep."
+    }
+  ],
+  "container-title": [
+    "Applied Physics Letters"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://pubs.aip.org/aip/apl/article-pdf/doi/10.1063/5.0352710/21208538/214101_1_5.0352710.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "syndication"
+    },
+    {
+      "URL": "https://pubs.aip.org/aip/apl/article-pdf/doi/10.1063/5.0352710/21208538/214101_1_5.0352710.pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        23
+      ]
+    ],
+    "date-time": "2026-11-23T07:25:04Z",
+    "timestamp": 1795418704000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://pubs.aip.org/apl/article/129/21/214101/3409155/Collimation-of-direct-laser-accelerated-electron"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        23
+      ]
+    ]
+  },
+  "references-count": 27,
+  "journal-issue": {
+    "issue": "21",
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          23
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.1063/5.0352710",
+  "relation": {},
+  "ISSN": [
+    "0003-6951",
+    "1077-3118"
+  ],
+  "issn-type": [
+    {
+      "value": "0003-6951",
+      "type": "print"
+    },
+    {
+      "value": "1077-3118",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published-other": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        23
+      ]
+    ]
+  },
+  "published": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        23
+      ]
+    ]
+  },
+  "article-number": "214101"
+}

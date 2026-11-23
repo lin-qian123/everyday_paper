@@ -1,0 +1,30 @@
+[
+  {
+    "candidate": "apl",
+    "url": "https://api.archives-ouvertes.fr/search/?q=title_t%3A%22Collimation+of+direct-laser-accelerated+electron+beams+via+a+wedge-modified+gas+jet+target%22&fl=title_s%2CdoiId_s%2CfileMain_s&rows=5&wt=json",
+    "status": 200,
+    "response": {
+      "response": {
+        "numFound": 0,
+        "start": 0,
+        "maxScore": 0.0,
+        "numFoundExact": true,
+        "docs": []
+      }
+    }
+  },
+  {
+    "candidate": "kern",
+    "url": "https://api.archives-ouvertes.fr/search/?q=title_t%3A%22FLUKA-based+assessment+of+induced+radioactivity+in+iron+target+and+surrounding+coolants+under+400+MeV+carbon-ion+irradiation%22&fl=title_s%2CdoiId_s%2CfileMain_s&rows=5&wt=json",
+    "status": 200,
+    "response": {
+      "response": {
+        "numFound": 0,
+        "start": 0,
+        "maxScore": 0.0,
+        "numFoundExact": true,
+        "docs": []
+      }
+    }
+  }
+]

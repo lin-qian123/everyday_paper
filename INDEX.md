@@ -15,20 +15,24 @@
 
 | 分类 | 篇数 | 说明 |
 | --- | ---: | --- |
-| [激光等离子体与束流加速](./categories/laser-plasma-acceleration.md) | 187 | LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。 |
-| [激光加速电子/离子束应用](./categories/laser-accelerated-beam-applications.md) | 157 | 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。 |
+| [激光等离子体与束流加速](./categories/laser-plasma-acceleration.md) | 189 | LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。 |
+| [激光加速电子/离子束应用](./categories/laser-accelerated-beam-applications.md) | 159 | 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。 |
 | [强场 QED 与辐射反作用](./categories/strong-field-qed-radiation.md) | 81 | 强场量子效应、辐射反作用、非线性 Compton、pair production 与极端场实验。 |
 | [高能量密度物理、ICF 与实验室天体](./categories/hedp-icf-laboratory-astrophysics.md) | 148 | HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。 |
-| [PIC、动理学与数值模拟](./categories/pic-and-plasma-simulation.md) | 264 | PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。 |
-| [机器学习与等离子体物理](./categories/ai-ml-plasma-physics.md) | 102 | 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。 |
+| [PIC、动理学与数值模拟](./categories/pic-and-plasma-simulation.md) | 267 | PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。 |
+| [机器学习与等离子体物理](./categories/ai-ml-plasma-physics.md) | 103 | 代理模型、Bayesian optimization、神经算子、数据驱动诊断与物理约束机器学习。 |
 | [磁约束聚变与 alpha 粒子](./categories/magnetic-fusion-and-alpha-particles.md) | 67 | stellarator、tokamak、runaway electron、alpha-particle confinement 与聚变装置优化。 |
-| [实验平台、靶设计与诊断](./categories/experimental-platforms-diagnostics.md) | 214 | 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。 |
+| [实验平台、靶设计与诊断](./categories/experimental-platforms-diagnostics.md) | 215 | 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。 |
 | [综合等离子体与交叉方法](./categories/general-plasma-and-methods.md) | 124 | 未被关键词强匹配到单一主题、但仍属于本仓库关注范围的论文。 |
 
 ## 最新入库
 
 | 入库日期 | 论文 | 分类 |
 | --- | --- | --- |
+| 2026-11-24 | [Antimuon acceleration via electron driven coherent transition radiation](./papers/10-1038-s41598-026-81462-5/README.md) | 激光加速电子/离子束应用、激光等离子体与束流加速、PIC、动理学与数值模拟 |
+| 2026-11-24 | [A conservative latent neural ODE for stiff collisional-radiative plasma kinetics](./papers/arxiv-2611-27027/README.md) | 机器学习与等离子体物理、PIC、动理学与数值模拟 |
+| 2026-11-24 | [Single-Pulse Dosimetry for Ultra-High-Dose-Rate X-Ray Pulses Based on Radiation-Induced Acoustic Signals](./papers/arxiv-2611-27772/README.md) | 实验平台、靶设计与诊断、激光加速电子/离子束应用 |
+| 2026-11-24 | [Feasibility study of two-stage direct laser acceleration of electrons](./papers/arxiv-2611-27857/README.md) | 激光等离子体与束流加速、PIC、动理学与数值模拟 |
 | 2026-11-23 | [Quantitative evaluation of single-grating phase-contrast imaging with a femtosecond laser–plasma Kα X-ray source](./papers/10-1038-s41598-026-78588-x/README.md) | 实验平台、靶设计与诊断 |
 | 2026-11-23 | [Aggregating soft-photon recoil with a positive finite-step sampler](./papers/arxiv-2611-26402/README.md) | 强场 QED 与辐射反作用、PIC、动理学与数值模拟 |
 | 2026-11-22 | [Visible light drives bright extreme-ultraviolet high harmonics](./papers/10-1038-s41467-026-79615-1/README.md) | 实验平台、靶设计与诊断 |
@@ -37,9 +41,5 @@
 | 2026-11-21 | [Direct measurement of the on-shot focal-spot size of a kilojoule-class petawatt laser](./papers/arxiv-2611-25552/README.md) | 实验平台、靶设计与诊断、激光等离子体与束流加速 |
 | 2026-11-20 | [High-fidelity spectral shaping via hardware-compensated waveform optimization for stimulated Brillouin scattering suppression in high-power fiber lasers](./papers/10-1017-hpl-2026-10195/README.md) | 实验平台、靶设计与诊断、综合等离子体与交叉方法 |
 | 2026-11-20 | [The role of externally-driven density fluctuations in the enhancement of beam spray](./papers/arxiv-2611-24914/README.md) | 高能量密度物理、ICF 与实验室天体、PIC、动理学与数值模拟、实验平台、靶设计与诊断 |
-| 2026-11-20 | [Polarized positron generation via laser-engineered quasistatic magnetic fields in a spatially extended herringbone target](./papers/arxiv-2611-24069/README.md) | 强场 QED 与辐射反作用、PIC、动理学与数值模拟、实验平台、靶设计与诊断 |
-| 2026-11-20 | [Characterization of the fast neutron response of liquid scintillator detectors at NFS](./papers/arxiv-2611-24118/README.md) | 激光加速电子/离子束应用、PIC、动理学与数值模拟、实验平台、靶设计与诊断 |
-| 2026-11-19 | [Monte Carlo assessment of a D–T neutron generator-based beam shaping assembly for BNCT: moderator effects on neutron spectrum and dose](./papers/10-1038-s41598-026-80838-x/README.md) | 激光加速电子/离子束应用、实验平台、靶设计与诊断 |
-| 2026-11-19 | [Multivariate scaling of proton and ion energies, divergence, and charge states in laser-driven Target Normal Sheath Acceleration](./papers/10-1140-epjp-s13360-026-08572-x/README.md) | 激光等离子体与束流加速、激光加速电子/离子束应用、机器学习与等离子体物理 |
 
-_自动生成时间：2026-11-23_
+_自动生成时间：2026-11-24_

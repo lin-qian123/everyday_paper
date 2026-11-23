@@ -1,0 +1,2293 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 13698329,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              12
+            ]
+          ],
+          "date-time": "2026-11-12T15:35:55Z",
+          "timestamp": 1794497755409,
+          "version": "4.9.1"
+        },
+        "reference-count": 0,
+        "publisher": "S. Karger AG",
+        "isbn-type": [
+          {
+            "value": "9783805504973",
+            "type": "print"
+          },
+          {
+            "value": "9783318036923",
+            "type": "electronic"
+          }
+        ],
+        "license": [
+          {
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://www.karger.com/Services/SiteLicenses"
+          },
+          {
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.karger.com/Services/SiteLicenses"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.1159/000426723",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              20
+            ]
+          ],
+          "date-time": "2015-04-20T05:08:13Z",
+          "timestamp": 1429506493000
+        },
+        "page": "124-127",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Dosimetry of Ultra-High Dose Rate"
+        ],
+        "prefix": "10.1159",
+        "author": [
+          {
+            "given": "B. R.",
+            "family": "Worsnop",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "127",
+        "container-title": [
+          "Frontiers of Radiation Therapy and Oncology",
+          "Electron Beam Therapy"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://www.karger.com/Article/Pdf/426723",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "http://www.karger.com/Article/Pdf/426723",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              23
+            ]
+          ],
+          "date-time": "2025-04-23T08:45:43Z",
+          "timestamp": 1745397943000
+        },
+        "score": 39.493427,
+        "resource": {
+          "primary": {
+            "URL": "https://karger.com/chapter/doi/10.1159/000426723"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              null
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783805504973",
+          "9783318036923"
+        ],
+        "references-count": 0,
+        "alternative-id": [
+          "000426723"
+        ],
+        "URL": "https://doi.org/10.1159/000426723",
+        "ISSN": [
+          "0071-9676",
+          "1662-3789"
+        ],
+        "issn-type": [
+          {
+            "value": "0071-9676",
+            "type": "print"
+          },
+          {
+            "value": "1662-3789",
+            "type": "electronic"
+          }
+        ]
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              16
+            ]
+          ],
+          "date-time": "2026-09-16T00:58:14Z",
+          "timestamp": 1789520294784,
+          "version": "build-2803163510"
+        },
+        "reference-count": 77,
+        "publisher": "Frontiers Media SA",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2025,
+                  5,
+                  2
+                ]
+              ],
+              "date-time": "2025-05-02T00:00:00Z",
+              "timestamp": 1746144000000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "frontiersin.org"
+          ],
+          "crossmark-restriction": true
+        },
+        "short-container-title": [
+          "Front. Phys."
+        ],
+        "abstract": "<jats:p>FLASH radiotherapy (FLASH-RT) has emerged as a significant area of research in the field of radiotherapy in recent years. This innovative technology delivers ultra-high dose rate radiation in a very short time, effectively damaging tumor cells while minimizing the impact on surrounding normal tissues. Currently, the beams that have been proven to achieve the FLASH effect include electrons, protons, and photons. X-ray FLASH-RT exhibits enhanced penetration capabilities and superior cost-effectiveness. However, the detectors currently used for X-ray FLASH-RT dose rate measurement generally exhibit saturation effects and a limited dose linear response range. In this review, we provide a comprehensive summary of the primary devices used to generate ultra-high dose rate X-rays. Additionally, we classify and describe the reported detectors for monitoring the high-dose rate in X-ray FLASH-RT according to three main types: gaseous detectors, scintillators, and semiconductors. This offers researchers valuable insights and a solid reference for selecting and optimizing detectors to achieve more precise and reliable high-dose rate X-ray measurements in X-ray FLASH-RT. Additionally, it provides significant support for the further development and clinical implementation of FLASH-RT technology.</jats:p>",
+        "DOI": "10.3389/fphy.2025.1576227",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              2
+            ]
+          ],
+          "date-time": "2025-05-02T12:58:03Z",
+          "timestamp": 1746190683000
+        },
+        "update-policy": "https://doi.org/10.3389/crossmark-policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 4,
+        "title": [
+          "Dosimetry characteristics of ultra-high dose rate X-ray: a short review"
+        ],
+        "prefix": "10.3389",
+        "volume": "13",
+        "author": [
+          {
+            "given": "Luyan",
+            "family": "Tao",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Song",
+            "family": "Feng",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yiwei",
+            "family": "Yang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Bo",
+            "family": "Zheng",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1965",
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              2
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "B1",
+            "doi-asserted-by": "publisher",
+            "first-page": "1450",
+            "DOI": "10.1038/1831450a0",
+            "article-title": "Modification of the oxygen effect when bacteria are given large pulses of radiation",
+            "volume": "183",
+            "author": "Dewey",
+            "year": "1959",
+            "journal-title": "Nature"
+          },
+          {
+            "key": "B2",
+            "doi-asserted-by": "publisher",
+            "first-page": "245ra93",
+            "DOI": "10.1126/scitranslmed.3008973",
+            "article-title": "Ultrahigh dose-rate flash irradiation increases the differential response between normal and tumor tissue in mice",
+            "volume": "6",
+            "author": "Favaudon",
+            "year": "2014",
+            "journal-title": "Sci translational Med"
+          },
+          {
+            "key": "B3",
+            "doi-asserted-by": "publisher",
+            "first-page": "863",
+            "DOI": "10.1002/mp.12713",
+            "article-title": "High dose - per - pulse electron beam dosimetry: commissioning of the oriatron ert6 prototype linear accelerator for preclinical use",
+            "volume": "45",
+            "author": "Jaccard",
+            "year": "2018",
+            "journal-title": "Med Phys"
+          },
+          {
+            "key": "B4",
+            "doi-asserted-by": "publisher",
+            "first-page": "35",
+            "DOI": "10.1158/1078-0432.ccr-17-3375CCR-17-3375",
+            "article-title": "The advantage of flash radiotherapy confirmed in mini - pig and cat - cancer patients",
+            "volume": "25",
+            "author": "Vozenin",
+            "year": "2018",
+            "journal-title": "Clin Cancer Res"
+          },
+          {
+            "key": "B5",
+            "doi-asserted-by": "publisher",
+            "first-page": "40",
+            "DOI": "10.1016/j.radonc.2019.01.031",
+            "article-title": "Modifying a clinical linear accelerator for delivery of ultra - high dose rate irradiation",
+            "volume": "139",
+            "author": "Lempart",
+            "year": "2019",
+            "journal-title": "Radiother Oncol"
+          },
+          {
+            "key": "B6",
+            "doi-asserted-by": "publisher",
+            "first-page": "365",
+            "DOI": "10.1016/j.radonc.2017.05.003",
+            "article-title": "Irradiation in a flash: unique sparing of memory in mice after whole brain irradiation with dose rates above 100gy/s",
+            "volume": "124",
+            "author": "Montay Gruel",
+            "year": "2017",
+            "journal-title": "Radiother Oncol"
+          },
+          {
+            "key": "B7",
+            "doi-asserted-by": "publisher",
+            "first-page": "1606",
+            "DOI": "10.1118/1.4914371",
+            "article-title": "Comparison of film measurements and Monte Carlo simulations of dose delivered with very high - energy electron beams in a polystyrene phantom",
+            "volume": "42",
+            "author": "Bazalova Carter",
+            "year": "2015",
+            "journal-title": "Med Phys"
+          },
+          {
+            "key": "B8",
+            "doi-asserted-by": "publisher",
+            "first-page": "689",
+            "DOI": "10.1098/rsta.2005.1732",
+            "article-title": "Radiation sources based on laser–plasma interactions",
+            "volume": "364",
+            "author": "Jaroszynski",
+            "year": "2006",
+            "journal-title": "Philos Trans A Math Phys Eng Sci"
+          },
+          {
+            "key": "B9",
+            "doi-asserted-by": "publisher",
+            "first-page": "3501",
+            "DOI": "10.1118/1.4719962",
+            "article-title": "Comparison of measured with calculated dose distribution from a 120 - mev electron beam from a laser - plasma accelerator",
+            "volume": "39",
+            "author": "Lundh",
+            "year": "2012",
+            "journal-title": "Med Phys"
+          },
+          {
+            "key": "B10",
+            "doi-asserted-by": "publisher",
+            "first-page": "10837",
+            "DOI": "10.1038/s41598-019-46630-w",
+            "article-title": "Focused very high - energy electron beams as a novel radiotherapy modality for producing high - dose volumetric elements",
+            "volume": "9",
+            "author": "Kokurewicz",
+            "year": "2019",
+            "journal-title": "Sci Rep"
+          },
+          {
+            "key": "B11",
+            "doi-asserted-by": "publisher",
+            "first-page": "5464",
+            "DOI": "10.1002/mp.15706",
+            "article-title": "A 2d strip ionization chamber array with high spatiotemporal resolution for proton pencil beam scanning flash radiotherapy",
+            "volume": "49",
+            "author": "Yang",
+            "year": "2022",
+            "journal-title": "Med Phys"
+          },
+          {
+            "key": "B12",
+            "doi-asserted-by": "publisher",
+            "first-page": "621",
+            "DOI": "10.1016/j.ijrobp.2019.11.011",
+            "article-title": "Bringing flash to the clinic: treatment planning considerations for ultrahigh dose - rate proton beams",
+            "volume": "106",
+            "author": "Van Marlen",
+            "year": "2019",
+            "journal-title": "Int J Radiat Oncol Biol Phys"
+          },
+          {
+            "key": "B13",
+            "doi-asserted-by": "publisher",
+            "first-page": "085003",
+            "DOI": "10.1088/1361-6560/abe554",
+            "article-title": "al\n            2\n            o\n            3: c optically stimulated luminescence dosimeters (oslds) for ultra - high dose rate proton dosimetry",
+            "volume": "66",
+            "author": "Christensen",
+            "year": "2021",
+            "journal-title": "Phys Med Biol"
+          },
+          {
+            "key": "B14",
+            "doi-asserted-by": "publisher",
+            "first-page": "20181",
+            "DOI": "10.1038/s41598-023-47421-0",
+            "article-title": "Simulation study of a novel small animal flash irradiator (safi) with integrated inverse - geometry ct based on circularly distributed kv x - ray sources",
+            "volume": "13",
+            "author": "Tan",
+            "year": "2023",
+            "journal-title": "Sci Rep"
+          },
+          {
+            "key": "B15",
+            "doi-asserted-by": "publisher",
+            "first-page": "582",
+            "DOI": "10.1016/j.radonc.2018.08.016",
+            "article-title": "X - rays can trigger the flash effect: ultra - high dose - rate synchrotron light source prevents normal brain injury after whole brain irradiation in mice",
+            "volume": "129",
+            "author": "Montay Gruel",
+            "year": "2018",
+            "journal-title": "Radiother Oncol"
+          },
+          {
+            "key": "B16",
+            "doi-asserted-by": "publisher",
+            "first-page": "5690",
+            "DOI": "10.1002/mp.13858",
+            "article-title": "On the capabilities of conventional x-ray tubes to deliver ultra-high (flash) dose rates",
+            "volume": "46",
+            "author": "Bazalova Carter",
+            "year": "2019",
+            "journal-title": "Med Phys"
+          },
+          {
+            "key": "B17",
+            "doi-asserted-by": "publisher",
+            "first-page": "822",
+            "DOI": "10.1038/s41598-023-50412-w",
+            "article-title": "Dosimetric characterization of a novel uhdr megavoltage x - ray source for flash radiobiological experiments",
+            "volume": "14",
+            "author": "Esplen",
+            "year": "2024",
+            "journal-title": "Sci Rep"
+          },
+          {
+            "key": "B18",
+            "doi-asserted-by": "publisher",
+            "first-page": "18",
+            "DOI": "10.1016/j.radonc.2019.06.019",
+            "article-title": "Treatment of a first patient with flash - radiotherapy",
+            "volume": "139",
+            "author": "Bourhis",
+            "year": "2019",
+            "journal-title": "Radiother Oncol"
+          },
+          {
+            "key": "B19",
+            "doi-asserted-by": "publisher",
+            "first-page": "21",
+            "DOI": "10.1016/0168-9002(86)90038-0",
+            "article-title": "The european synchrotron radiation facility: an overview",
+            "volume": "246",
+            "author": "Buras",
+            "year": "1986",
+            "journal-title": "Nucl Instrum Meth A"
+          },
+          {
+            "key": "B20",
+            "first-page": "225",
+            "article-title": "The biomedical programs at the id17 beamline of the european synchrotron radiation facility",
+            "volume-title": "Brilliant light in life and materials sciences, NATO advanced studies institute, series B: Physics and biophysics",
+            "author": "Bravin",
+            "year": "2007"
+          },
+          {
+            "key": "B21",
+            "doi-asserted-by": "publisher",
+            "first-page": "1519",
+            "DOI": "10.1016/j.ijrobp.2005.11.047",
+            "article-title": "In vivo two - photon microscopy study of short - term effects of microbeam irradiation on normal mouse brain microvasculature",
+            "volume": "64",
+            "author": "Serduc",
+            "year": "2005",
+            "journal-title": "Int J Radiat Oncol Biol Phys"
+          },
+          {
+            "key": "B22",
+            "doi-asserted-by": "publisher",
+            "first-page": "2079",
+            "DOI": "10.3390/app12042079",
+            "article-title": "Non - targeted effects of synchrotron radiation: lessons from experiments at the australian and european synchrotrons",
+            "volume": "12",
+            "author": "Fernandez Palomo",
+            "year": "2022",
+            "journal-title": "Appl Sci"
+          },
+          {
+            "key": "B23",
+            "doi-asserted-by": "publisher",
+            "first-page": "703",
+            "DOI": "10.1080/08957959208206323",
+            "article-title": "The spring - 8 project and the high pressure group in Japan",
+            "volume": "8",
+            "author": "Shimomura",
+            "year": "1992",
+            "journal-title": "High Press Res"
+          },
+          {
+            "key": "B24",
+            "doi-asserted-by": "publisher",
+            "first-page": "671",
+            "DOI": "10.1107/S090904951101185X",
+            "article-title": "A narrow microbeam is more effective for tumor growth suppression than a wide microbeam: an in vivo study using implanted human glioma cells",
+            "volume": "18",
+            "author": "Uyama",
+            "year": "2011",
+            "journal-title": "J Synchrotron Radiat"
+          },
+          {
+            "key": "B25",
+            "doi-asserted-by": "publisher",
+            "first-page": "110",
+            "DOI": "10.1107/S1600577516015563",
+            "article-title": "Quantitative characterization of the x - ray beam at the australian synchrotron imaging and medical beamline (imbl)",
+            "volume": "24",
+            "author": "Stevenson",
+            "year": "2017",
+            "journal-title": "J Synchrotron Radiat"
+          },
+          {
+            "key": "B26",
+            "doi-asserted-by": "publisher",
+            "first-page": "224",
+            "DOI": "10.1016/j.nima.2008.04.037",
+            "article-title": "Commissioning and operation of the 500mhz storage ring rf system for the australian synchrotron",
+            "volume": "592",
+            "author": "Dowd",
+            "year": "2008",
+            "journal-title": "Nucl Instrum Meth A"
+          },
+          {
+            "key": "B27",
+            "doi-asserted-by": "publisher",
+            "first-page": "826",
+            "DOI": "10.1107/S1600577518003016",
+            "article-title": "Synchrotron x - ray microbeam dosimetry with a 20 micrometre resolution scintillator fibre - optic dosimeter",
+            "volume": "25",
+            "author": "Archer",
+            "year": "2018",
+            "journal-title": "J Synchrotron Radiat"
+          },
+          {
+            "key": "B28",
+            "doi-asserted-by": "publisher",
+            "first-page": "135010",
+            "DOI": "10.1088/1361-6560/acdb43",
+            "article-title": "Hydrogenated amorphous silicon high flux x - ray detectors for synchrotron microbeam radiation therapy",
+            "volume": "68",
+            "author": "Large",
+            "year": "2023",
+            "journal-title": "Phys Med Biol"
+          },
+          {
+            "key": "B29",
+            "doi-asserted-by": "publisher",
+            "first-page": "8783",
+            "DOI": "10.1073/pnas.92.19.8783",
+            "article-title": "Subacute neuropathological effects of microplanar beams of x - rays from a synchrotron wiggler",
+            "volume": "92",
+            "author": "Slatkin",
+            "year": "1995",
+            "journal-title": "Proc Natl Acad Sci U S A"
+          },
+          {
+            "key": "B30",
+            "doi-asserted-by": "publisher",
+            "first-page": "857",
+            "DOI": "10.1016/j.phpro.2015.06.144",
+            "article-title": "Integration and commissioning of the ariumf e - linac cryogenic system at triumf",
+            "volume": "67",
+            "author": "Koveshnikov",
+            "year": "2015",
+            "journal-title": "Phys Proced"
+          },
+          {
+            "key": "B31",
+            "doi-asserted-by": "publisher",
+            "first-page": "44",
+            "DOI": "10.1016/j.radonc.2021.11.004",
+            "article-title": "First demonstration of the flash effect with ultrahigh dose - rate high - energy x - rays",
+            "volume": "166",
+            "author": "Gao",
+            "year": "2022",
+            "journal-title": "Radiother Oncol"
+          },
+          {
+            "key": "B32",
+            "doi-asserted-by": "publisher",
+            "first-page": "109967",
+            "DOI": "10.1016/j.radonc.2023.109967",
+            "article-title": "Flash radiotherapy using high - energy x - rays: current status of parter platform in flash research",
+            "volume": "109967",
+            "author": "Yang",
+            "year": "2023",
+            "journal-title": "Radiother Oncol"
+          },
+          {
+            "key": "B33",
+            "doi-asserted-by": "publisher",
+            "first-page": "17104",
+            "DOI": "10.1038/s41598-021-95807-9",
+            "article-title": "Megavolt bremsstrahlung measurements from linear induction accelerators demonstrate possible use as a flash radiotherapy source to reduce acute toxicity",
+            "volume": "11",
+            "author": "Sampayan",
+            "year": "2021",
+            "journal-title": "Sci Rep"
+          },
+          {
+            "key": "B34",
+            "doi-asserted-by": "publisher",
+            "first-page": "1680",
+            "DOI": "10.1002/mp.16199",
+            "article-title": "Development of a compact linear accelerator to generate ultrahigh dose rate high-energy x-rays for flash radiotherapy applications",
+            "volume": "50",
+            "author": "Liu",
+            "year": "2023",
+            "journal-title": "Med Phys"
+          },
+          {
+            "key": "B35",
+            "doi-asserted-by": "publisher",
+            "first-page": "943",
+            "DOI": "10.1016/0168-583X(89)90512-0",
+            "article-title": "A new type of rf electron accelerator: the rhodotron",
+            "volume": "40",
+            "author": "Pottier",
+            "year": "1989",
+            "journal-title": "Nucl Instrum Methods Phys Res B"
+          },
+          {
+            "key": "B36",
+            "doi-asserted-by": "publisher",
+            "first-page": "21",
+            "DOI": "10.3969/j.issn.1672-8270.2024.01.004",
+            "article-title": "Study on the design of x - ray flash - rt equipment with high power petal accelerator",
+            "volume": "12",
+            "author": "Liao",
+            "year": "2024",
+            "journal-title": "China Med Equipment"
+          },
+          {
+            "key": "B37",
+            "doi-asserted-by": "publisher",
+            "first-page": "095006",
+            "DOI": "10.1088/1361-6560/abf2fa",
+            "article-title": "Ultrahigh dose - rate (flash) x - ray irradiator for pre - clinical laboratory research",
+            "volume": "66",
+            "author": "Rezaee",
+            "year": "2021",
+            "journal-title": "Phys Med Biol"
+          },
+          {
+            "key": "B38",
+            "doi-asserted-by": "publisher",
+            "first-page": "110760",
+            "DOI": "10.1016/j.radphyschem.2023.110760",
+            "article-title": "Design of an x - ray irradiator based on a standard imaging x - ray tube with flash dose - rate capabilities for preclinical research",
+            "volume": "206",
+            "author": "Espinosa Rodriguez",
+            "year": "2023",
+            "journal-title": "Radiat Phys Chem"
+          },
+          {
+            "key": "B39",
+            "doi-asserted-by": "publisher",
+            "first-page": "5012",
+            "DOI": "10.1118/1.3608908",
+            "article-title": "Dosimetry protocol for the preclinical trials in white - beam minibeam radiation therapy",
+            "volume": "38",
+            "author": "Prezado",
+            "year": "2011",
+            "journal-title": "Med Phys"
+          },
+          {
+            "key": "B40",
+            "doi-asserted-by": "publisher",
+            "first-page": "e13753",
+            "DOI": "10.1002/acm2.13753",
+            "article-title": "Monte - carlo calculation of output correction factors for ionization chambers, solid - state detectors, and ebt3 film in small fields of high - energy photons",
+            "volume": "24",
+            "author": "Klimanov",
+            "year": "2022",
+            "journal-title": "J Appl Clin Med Phys"
+          },
+          {
+            "key": "B41",
+            "doi-asserted-by": "publisher",
+            "first-page": "1081",
+            "DOI": "10.1118/1.3532818",
+            "article-title": "The central electrode correction factor for high - z electrodes in small ionization chambers",
+            "volume": "38",
+            "author": "Muir",
+            "year": "2011",
+            "journal-title": "Med Phys"
+          },
+          {
+            "key": "B42",
+            "doi-asserted-by": "publisher",
+            "first-page": "3293",
+            "DOI": "10.1118/1.2940190",
+            "article-title": "Response to high - energy photons of ptw31014 pinpoint ion chamber with a central aluminum electrode",
+            "volume": "35",
+            "author": "Agostinelli",
+            "year": "2008",
+            "journal-title": "Med Phys"
+          },
+          {
+            "key": "B43",
+            "doi-asserted-by": "publisher",
+            "first-page": "245012",
+            "DOI": "10.1088/1361-6560/ac3b35",
+            "article-title": "Evaluation of a micro ionization chamber for dosimetric measurements in image - guided preclinical irradiation platforms",
+            "volume": "66",
+            "author": "Silvestre Patallo",
+            "year": "2021",
+            "journal-title": "Phys Med Biol"
+          },
+          {
+            "key": "B44",
+            "doi-asserted-by": "publisher",
+            "first-page": "R305",
+            "DOI": "10.1088/0031-9155/61/20/R305",
+            "article-title": "Review of plastic and liquid scintillation dosimetry for photon, electron, and proton therapy",
+            "volume": "61",
+            "author": "Beaulieu",
+            "year": "2016",
+            "journal-title": "Phys Med Biol"
+          },
+          {
+            "key": "B45",
+            "doi-asserted-by": "publisher",
+            "first-page": "1883",
+            "DOI": "10.1088/0031-9155/37/10/006",
+            "article-title": "Water - equivalent plastic scintillation detectors for high - energy beam dosimetry: I. physical characteristics and theoretical consideration",
+            "volume": "37",
+            "author": "Beddar",
+            "year": "1992",
+            "journal-title": "Phys Med Biol"
+          },
+          {
+            "key": "B46",
+            "doi-asserted-by": "publisher",
+            "first-page": "1901",
+            "DOI": "10.1088/0031-9155/37/10/007",
+            "article-title": "Water - equivalent plastic scintillation detectors for high - energy beam dosimetry: ii. properties and measurements",
+            "volume": "37",
+            "author": "Beddar",
+            "year": "1992",
+            "journal-title": "Phys Med Biol"
+          },
+          {
+            "key": "B47",
+            "doi-asserted-by": "publisher",
+            "first-page": "6873",
+            "DOI": "10.1038/s41598-019-43349-6",
+            "article-title": "High spatial resolution scintillator dosimetry of synchrotron microbeams",
+            "volume": "9",
+            "author": "Archer",
+            "year": "2019",
+            "journal-title": "Sci Rep"
+          },
+          {
+            "key": "B48",
+            "doi-asserted-by": "publisher",
+            "first-page": "7399",
+            "DOI": "10.1002/mp.15234",
+            "article-title": "Characterization of an x-ray tube-based ultrahigh dose-rate system for in vitro irradiations",
+            "volume": "48",
+            "author": "Cecchi",
+            "year": "2021",
+            "journal-title": "Med Phys"
+          },
+          {
+            "key": "B49",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1117/12.2025864",
+            "article-title": "Radiotherapy dosimetry based on plastic optical fibre sensors",
+            "volume-title": "Proceedings of the fifth European Workshop on optical fibre sensors (krakow, Poland)",
+            "author": "O’Keeffe",
+            "year": "2013"
+          },
+          {
+            "key": "B50",
+            "doi-asserted-by": "publisher",
+            "first-page": "2140",
+            "DOI": "10.1109/jsen.2018.28854092018.2885409",
+            "article-title": "Dosimetric characterization of an inorganic optical fiber sensor for external beam radiation therapy",
+            "volume": "19",
+            "author": "Alharbi",
+            "year": "2018",
+            "journal-title": "IEEE Sensors J"
+          },
+          {
+            "key": "B51",
+            "doi-asserted-by": "publisher",
+            "first-page": "124",
+            "DOI": "10.1016/j.ejmp.2019.11.018",
+            "article-title": "Benchmarking a novel inorganic scintillation detector for applications in radiation therapy",
+            "volume": "68",
+            "author": "Alharbi",
+            "year": "2019",
+            "journal-title": "Phys Med"
+          },
+          {
+            "key": "B52",
+            "doi-asserted-by": "publisher",
+            "first-page": "4704",
+            "DOI": "10.1109/JSEN.2020.2964989",
+            "article-title": "Initial evaluation of the performance of novel inorganic scintillating detectors for small animal irradiation dosimetry",
+            "volume": "20",
+            "author": "Byrne",
+            "year": "2020",
+            "journal-title": "IEEE Sens J"
+          },
+          {
+            "key": "B53",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1109/SENSORS47087.2021.9639825",
+            "article-title": "Real - time dosimetry of ultrahigh dose - rate x - ray beams using scintillation detectors",
+            "volume-title": "2021 IEEE sensors",
+            "author": "Shaharuddin",
+            "year": "2021"
+          },
+          {
+            "key": "B54",
+            "doi-asserted-by": "publisher",
+            "first-page": "170",
+            "DOI": "10.1117/12.2621591",
+            "article-title": "Evaluation of scintillation detectors for ultrahigh dose - rate x - ray beam dosimetry",
+            "author": "Shaharuddin",
+            "year": "2022",
+            "journal-title": "SPIE PHOTONICS EUROPE (Strasbourg, France)"
+          },
+          {
+            "key": "B55",
+            "doi-asserted-by": "publisher",
+            "first-page": "105007",
+            "DOI": "10.1088/1361-6560/ac69a5",
+            "article-title": "Lead - doped scintillator dosimeters for detection of ultrahigh dose - rate x - rays",
+            "volume": "67",
+            "author": "Hart",
+            "year": "2022",
+            "journal-title": "Phys Med Biol"
+          },
+          {
+            "key": "B56",
+            "doi-asserted-by": "publisher",
+            "first-page": "4283",
+            "DOI": "10.1118/1.4953833",
+            "article-title": "Characterization of a synthetic single crystal diamond detector for dosimetry in spatially fractionated synchrotron x - ray fields",
+            "volume": "43",
+            "author": "Livingstone",
+            "year": "2016",
+            "journal-title": "Med Phys"
+          },
+          {
+            "key": "B57",
+            "doi-asserted-by": "publisher",
+            "first-page": "N11",
+            "DOI": "10.1088/0031-9155/61/.1/N11",
+            "article-title": "Dose rate dependence of the ptw 60019 microdiamond detector in high dose - per - pulse pulsed beams",
+            "volume": "61",
+            "author": "Brualla González",
+            "year": "2016",
+            "journal-title": "Phys Med Biol"
+          },
+          {
+            "key": "B58",
+            "doi-asserted-by": "publisher",
+            "first-page": "2918",
+            "DOI": "10.1118/1.3432601",
+            "article-title": "The Italian affair: the employment of parallel - plate ionization chambers for dose measurements in high dose - per - pulse iort electron beams",
+            "volume": "37",
+            "author": "Cella",
+            "year": "2010",
+            "journal-title": "Med Phys"
+          },
+          {
+            "key": "B59",
+            "doi-asserted-by": "publisher",
+            "first-page": "568302",
+            "DOI": "10.3389/fphy.2020.568302",
+            "article-title": "Dosimetry for new radiation therapy approaches using high energy electron accelerators",
+            "volume": "8",
+            "author": "Kokurewicz",
+            "year": "2020",
+            "journal-title": "Front Phys"
+          },
+          {
+            "key": "B60",
+            "doi-asserted-by": "publisher",
+            "first-page": "60",
+            "DOI": "10.1186/s40658-020-00327-6",
+            "article-title": "Advances on inorganic scintillator - based optic fiber dosimeters",
+            "volume": "7",
+            "author": "Ding",
+            "year": "2020",
+            "journal-title": "EJNMMI Phys"
+          },
+          {
+            "key": "B61",
+            "doi-asserted-by": "publisher",
+            "first-page": "4533",
+            "DOI": "10.1002/mp.16458",
+            "article-title": "Implementation of novel measurement-based patient-specific qa for pencil beam scanning proton flash radiotherapy",
+            "volume": "50",
+            "author": "Huang",
+            "year": "2023",
+            "journal-title": "Med Phys"
+          },
+          {
+            "key": "B62",
+            "doi-asserted-by": "publisher",
+            "first-page": "2450",
+            "DOI": "10.1002/mp.16156",
+            "article-title": "Time-resolved dose rate measurements in pencil beam scanning proton flash therapy with a fiber-coupled scintillator detector system",
+            "volume": "50",
+            "author": "Kanouta",
+            "year": "2022",
+            "journal-title": "Med Phys"
+          },
+          {
+            "key": "B63",
+            "doi-asserted-by": "publisher",
+            "first-page": "328",
+            "DOI": "10.3389/fphy.2020.00328",
+            "article-title": "Dosimetry for flash radiotherapy: a review of tools and the role of radioluminescence and cherenkov emission",
+            "volume": "8",
+            "author": "Ashraf",
+            "year": "2020",
+            "journal-title": "Front Phys"
+          },
+          {
+            "key": "B64",
+            "doi-asserted-by": "publisher",
+            "first-page": "4705",
+            "DOI": "10.1002/mp.15668",
+            "article-title": "Development of an ultra-thin parallel plate ionization chamber for dosimetry in flash radiotherapy",
+            "volume": "49",
+            "author": "Gómez",
+            "year": "2022",
+            "journal-title": "Med Phys"
+          },
+          {
+            "key": "B65",
+            "doi-asserted-by": "publisher",
+            "first-page": "2054",
+            "DOI": "10.1038/s41598-023-28192-0",
+            "article-title": "Absolute dosimetry for flash proton pencil beam scanning radiotherapy",
+            "volume": "13",
+            "author": "Lourenço",
+            "year": "2023",
+            "journal-title": "Sci Rep"
+          },
+          {
+            "key": "B66",
+            "doi-asserted-by": "publisher",
+            "first-page": "025008",
+            "DOI": "10.1088/1361-6560/ad13d0",
+            "article-title": "Preliminary study of low - pressure ionization chamber for online dose monitoring in flash carbon ion radiotherapy",
+            "volume": "69",
+            "author": "Lang",
+            "year": "2024",
+            "journal-title": "Phys Med Biol"
+          },
+          {
+            "key": "B67",
+            "doi-asserted-by": "publisher",
+            "first-page": "127",
+            "DOI": "10.1016/j.ejmp.2022.10.005",
+            "article-title": "Point scintillator dosimetry in ultra - high dose rate electron “flash” radiation therapy: a first characterization",
+            "volume": "103",
+            "author": "Vanreusel",
+            "year": "2022",
+            "journal-title": "Phys Med"
+          },
+          {
+            "key": "B68",
+            "doi-asserted-by": "publisher",
+            "first-page": "P09005",
+            "DOI": "10.1088/1748-0221/17/09/P09005",
+            "article-title": "Experimental characterization and Monte Carlo simulation of scintillator detectors in online electron flash radiotherapy dosimetry",
+            "volume": "17",
+            "author": "Morrocchi",
+            "year": "2022",
+            "journal-title": "JINST"
+          },
+          {
+            "key": "B69",
+            "doi-asserted-by": "publisher",
+            "first-page": "115313",
+            "DOI": "10.1016/j.sna.2024.115313",
+            "article-title": "A dose rate independent 2d ce - doped yag scintillating dosimetry system for time resolved beam monitoring in ultra - high dose rate electron “flash” radiation therapy",
+            "volume": "371",
+            "author": "Vanreusel",
+            "year": "2024",
+            "journal-title": "Sens Actuator A Phys"
+          },
+          {
+            "key": "B70",
+            "doi-asserted-by": "publisher",
+            "first-page": "1372",
+            "DOI": "10.1016/j.ijrobp.2024.11.092",
+            "article-title": "Characterization of a time - resolved, real - time scintillation dosimetry system for ultra - high dose rate radiation therapy applications",
+            "volume": "121",
+            "author": "Baikalov",
+            "year": "2024",
+            "journal-title": "Int J Radiat Oncol Biol Phys"
+          },
+          {
+            "key": "B71",
+            "doi-asserted-by": "publisher",
+            "first-page": "075002",
+            "DOI": "10.1088/1361-6560/ac594e",
+            "article-title": "Response of diamond detectors in ultra - high dose - per - pulse electron beams for dosimetry at flash radiotherapy",
+            "volume": "67",
+            "author": "Kranzer",
+            "year": "2022",
+            "journal-title": "Phys Med Biol"
+          },
+          {
+            "key": "B72",
+            "doi-asserted-by": "publisher",
+            "first-page": "5875",
+            "DOI": "10.1002/mp.16474",
+            "article-title": "Characterization of a diode dosimeter for uhdr flash radiotherapy",
+            "volume": "50",
+            "author": "Rahman",
+            "year": "2023",
+            "journal-title": "Med Phys"
+          },
+          {
+            "key": "B73",
+            "doi-asserted-by": "publisher",
+            "first-page": "451",
+            "DOI": "10.1088/0031-9155/8/4/307",
+            "article-title": "The application of some direct current properties of silicon junction detectors to γ-ray dosimetry",
+            "volume": "8",
+            "author": "Jones",
+            "year": "1963",
+            "journal-title": "Phys Med Biol"
+          },
+          {
+            "key": "B74",
+            "doi-asserted-by": "publisher",
+            "first-page": "2986",
+            "DOI": "10.3390/app13052986",
+            "article-title": "First characterization of novel silicon carbide detectors with ultra - high dose rate electron beams for flash radiotherapy",
+            "volume": "13",
+            "author": "Romano",
+            "year": "2023",
+            "journal-title": "Appl Sci"
+          },
+          {
+            "key": "B75",
+            "doi-asserted-by": "publisher",
+            "first-page": "C03064",
+            "DOI": "10.1088/1748-0221/19/03/C03064",
+            "article-title": "Silicon carbide detectors for dosimetry and monitoring of ultra - high dose rate beams",
+            "volume": "19",
+            "author": "Okpuwe",
+            "year": "2024",
+            "journal-title": "JINST"
+          },
+          {
+            "key": "B76",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3389/fphy.2024.1258832",
+            "article-title": "First experimental validation of silicon - based sensors for monitoring ultra - high dose rate electron beams",
+            "volume": "12",
+            "author": "Medina",
+            "year": "2024",
+            "journal-title": "Front Phys"
+          },
+          {
+            "key": "B77",
+            "doi-asserted-by": "publisher",
+            "first-page": "375",
+            "DOI": "10.3389/fphy.2020.00375",
+            "article-title": "Beam monitors for tomorrow: the challenges of electron and photon flash - rt",
+            "volume": "8",
+            "author": "Vignati",
+            "year": "2020",
+            "journal-title": "Front Phys"
+          }
+        ],
+        "container-title": [
+          "Frontiers in Physics"
+        ],
+        "link": [
+          {
+            "URL": "https://www.frontiersin.org/articles/10.3389/fphy.2025.1576227/full",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              2
+            ]
+          ],
+          "date-time": "2025-05-02T12:58:06Z",
+          "timestamp": 1746190686000
+        },
+        "score": 36.913006,
+        "resource": {
+          "primary": {
+            "URL": "https://www.frontiersin.org/articles/10.3389/fphy.2025.1576227/full"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              2
+            ]
+          ]
+        },
+        "references-count": 77,
+        "alternative-id": [
+          "10.3389/fphy.2025.1576227"
+        ],
+        "URL": "https://doi.org/10.3389/fphy.2025.1576227",
+        "ISSN": [
+          "2296-424X"
+        ],
+        "issn-type": [
+          {
+            "value": "2296-424X",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              2
+            ]
+          ]
+        },
+        "article-number": "1576227"
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              19
+            ]
+          ],
+          "date-time": "2026-11-19T03:55:24Z",
+          "timestamp": 1795060524223,
+          "version": "4.10.2"
+        },
+        "reference-count": 154,
+        "publisher": "Wiley",
+        "issue": "7",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2022,
+                  5,
+                  7
+                ]
+              ],
+              "date-time": "2022-05-07T00:00:00Z",
+              "timestamp": 1651881600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "aapm.onlinelibrary.wiley.com"
+          ],
+          "crossmark-restriction": true
+        },
+        "short-container-title": [
+          "Medical Physics"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              7
+            ]
+          ]
+        },
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>The clinical translation of FLASH radiotherapy (RT) requires challenges related to dosimetry and beam monitoring of ultra‐high dose rate (UHDR) beams to be addressed. Detectors currently in use suffer from saturation effects under UHDR regimes, requiring the introduction of correction factors. There is significant interest from the scientific community to identify the most reliable solutions and suitable experimental approaches for UHDR dosimetry. This interest is manifested through the increasing number of national and international projects recently proposed concerning UHDR dosimetry. Attaining the desired solutions and approaches requires further optimization of already established technologies as well as the investigation of novel radiation detection and dosimetry methods. New knowledge will also emerge to fill the gap in terms of validated protocols, assessing new dosimetric procedures and standardized methods. In this paper, we discuss the main challenges coming from the peculiar beam parameters characterizing UHDR beams for FLASH RT. These challenges vary considerably depending on the accelerator type and technique used to produce the relevant UHDR radiation environment. We also introduce some general considerations on how the different time structure in the production of the radiation beams, as well as the dose and dose‐rate per pulse, can affect the detector response. Finally, we discuss the requirements that must characterize any proposed dosimeters for use in UDHR radiation environments. A detailed status of the current technology is provided, with the aim of discussing the detector features and their performance characteristics and/or limitations in UHDR regimes. We report on further developments for established detectors and novel approaches currently under investigation with a view to predict future directions in terms of dosimetry approaches, practical procedures, and protocols. Due to several on‐going detector and dosimetry developments associated with UHDR radiation environment for FLASH RT it is not possible to provide a simple list of recommendations for the most suitable detectors for FLASH RT dosimetry. However, this article does provide the reader with a detailed description of the most up‐to‐date dosimetric approaches, and describes the behavior of the detectors operated under UHDR irradiation conditions and offers expert discussion on the current challenges which we believe are important and still need to be addressed in the clinical translation of FLASH RT.</jats:p>",
+        "DOI": "10.1002/mp.15649",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2022,
+              4,
+              11
+            ]
+          ],
+          "date-time": "2022-04-11T11:52:57Z",
+          "timestamp": 1649677977000
+        },
+        "page": "4912-4932",
+        "update-policy": "https://doi.org/10.1002/crossmark_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 235,
+        "title": [
+          "Ultra‐high dose rate dosimetry: Challenges and opportunities for FLASH radiation therapy"
+        ],
+        "prefix": "10.1002",
+        "volume": "49",
+        "author": [
+          {
+            "given": "Francesco",
+            "family": "Romano",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Istituto Nazionale di Fisica Nucleare Sezione di Catania Catania Italy"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Claude",
+            "family": "Bailat",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Institute of Radiation Physics Lausanne University Hospital Lausanne University Lausanne Switzerland"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Patrik Gonçalves",
+            "family": "Jorge",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Institute of Radiation Physics Lausanne University Hospital Lausanne University Lausanne Switzerland"
+              },
+              {
+                "name": "Department of Radiation Oncology Lausanne University Hospital Lausanne Switzerland"
+              },
+              {
+                "name": "Radio‐Oncology Laboratory DO/CHUV Lausanne University Hospital Lausanne Switzerland"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Michael Lloyd Franz",
+            "family": "Lerch",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Centre for Medical Radiation Physics University of Wollongong New South Wales Australia"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Arash",
+            "family": "Darafsheh",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Radiation Oncology Washington University School of Medicine St. Louis Missouri USA"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "311",
+        "published-online": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              7
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "e_1_2_8_2_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1259/bjr.20170628"
+          },
+          {
+            "key": "e_1_2_8_3_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1158/1078-0432.CCR-18-1796"
+          },
+          {
+            "key": "e_1_2_8_4_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/mp.13685"
+          },
+          {
+            "key": "e_1_2_8_5_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1126/scitranslmed.3008973"
+          },
+          {
+            "key": "e_1_2_8_6_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.radonc.2017.05.003"
+          },
+          {
+            "key": "e_1_2_8_7_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1158/1078-0432.CCR-17-3375"
+          },
+          {
+            "key": "e_1_2_8_8_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.radonc.2018.08.016"
+          },
+          {
+            "key": "e_1_2_8_9_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ijrobp.2019.05.030"
+          },
+          {
+            "key": "e_1_2_8_10_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.clon.2019.04.001"
+          },
+          {
+            "key": "e_1_2_8_11_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.radonc.2019.04.008"
+          },
+          {
+            "key": "e_1_2_8_12_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.radonc.2019.03.028"
+          },
+          {
+            "key": "e_1_2_8_13_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.radonc.2019.07.004"
+          },
+          {
+            "key": "e_1_2_8_14_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1073/pnas.1901777116"
+          },
+          {
+            "key": "e_1_2_8_15_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.radonc.2019.06.006"
+          },
+          {
+            "key": "e_1_2_8_16_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/mp.14917"
+          },
+          {
+            "key": "e_1_2_8_17_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "AbolfathR GrosshansD MohanR.Oxygen depletion in FLASH ultra‐high‐dose‐rate radiotherapy: a molecular dynamics simulation.2020;47(12):6551‐6561.https://doi.org/10.1002/mp.1454",
+            "DOI": "10.1002/mp.14548"
+          },
+          {
+            "key": "e_1_2_8_18_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ijrobp.2016.09.018"
+          },
+          {
+            "key": "e_1_2_8_19_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.radonc.2019.01.031"
+          },
+          {
+            "key": "e_1_2_8_20_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1107/S1600577515008115"
+          },
+          {
+            "key": "e_1_2_8_21_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ijrobp.2018.06.403"
+          },
+          {
+            "key": "e_1_2_8_22_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "GirdhaniS AbelE KatsisA et al.FLASH: a novel paradigm changing tumor irradiation platform that enhances therapeutic ratio by reducing normal tissue toxicity and activating immune pathways. In: AACR Annual Meeting 2019 Online Proceeding Atlanta GA.2019.",
+            "DOI": "10.1158/1538-7445.SABCS18-LB-280"
+          },
+          {
+            "key": "e_1_2_8_23_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ijrobp.2019.10.049"
+          },
+          {
+            "key": "e_1_2_8_24_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.radonc.2019.06.024"
+          },
+          {
+            "key": "e_1_2_8_25_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/mp.14253"
+          },
+          {
+            "key": "e_1_2_8_26_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/mp.15021"
+          },
+          {
+            "key": "e_1_2_8_27_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ijrobp.2021.07.1703"
+          },
+          {
+            "key": "e_1_2_8_28_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ijrobp.2021.11.020"
+          },
+          {
+            "key": "e_1_2_8_29_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1118/1.598691"
+          },
+          {
+            "key": "e_1_2_8_30_1",
+            "unstructured": "AndreoP BurnsDT HohlfeldK et al.Absorbed dose determination in external beam radiotherapy: An international code of practice for dosimetry based onstandards of absorbed dose to water IAEA Technical Reports Series No. 368 Vienna 2006."
+          },
+          {
+            "key": "e_1_2_8_31_1",
+            "first-page": "8783",
+            "article-title": "Subacute neuropathological effects of microplanar beams of x‐rays from a synchrotron wiggler",
+            "volume": "92",
+            "author": "Slatkin DN",
+            "year": "1995",
+            "journal-title": "Med Sci"
+          },
+          {
+            "key": "e_1_2_8_32_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.radonc.2019.06.019"
+          },
+          {
+            "key": "e_1_2_8_33_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1667/RADE‐20‐00068.1"
+          },
+          {
+            "key": "e_1_2_8_34_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/s41598‐020‐65729‐z"
+          },
+          {
+            "key": "e_1_2_8_35_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ijrobp.2021.01.011"
+          },
+          {
+            "key": "e_1_2_8_36_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/mp.1473"
+          },
+          {
+            "key": "e_1_2_8_37_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/mp.14933"
+          },
+          {
+            "key": "e_1_2_8_38_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/bi00501a016"
+          },
+          {
+            "key": "e_1_2_8_39_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "SchippersM DöllingR DuppichJ et al.The SC cyclotron and beam lines of PSI's new proton therapy facility PROSCAN.Nucl Instrum Meth Phys Res B.2007;261(1‐2):773‐776",
+            "DOI": "10.1016/j.nimb.2007.04.052"
+          },
+          {
+            "key": "e_1_2_8_40_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1088/0031-9155/61/14/N349"
+          },
+          {
+            "key": "e_1_2_8_41_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/TRPMS.2021.3091406"
+          },
+          {
+            "key": "e_1_2_8_42_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/mp.14456"
+          },
+          {
+            "key": "e_1_2_8_43_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3390/cancers13081859"
+          },
+          {
+            "key": "e_1_2_8_44_1",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Applications of Laser‐Driven Particle Acceleration",
+            "author": "Bolton PR",
+            "DOI": "10.1201/9780429445101"
+          },
+          {
+            "key": "e_1_2_8_45_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/mp.14882"
+          },
+          {
+            "key": "e_1_2_8_46_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/mp.13089"
+          },
+          {
+            "key": "e_1_2_8_47_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3389/fphy.2020.00375"
+          },
+          {
+            "key": "e_1_2_8_48_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3389/fphy.2020.570697"
+          },
+          {
+            "key": "e_1_2_8_49_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1088/1748-0221/12/03/P03003"
+          },
+          {
+            "key": "e_1_2_8_50_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.radonc.2019.05.004"
+          },
+          {
+            "key": "e_1_2_8_51_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/s41598-019-41705-0"
+          },
+          {
+            "key": "e_1_2_8_52_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1201/9781351005388"
+          },
+          {
+            "key": "e_1_2_8_53_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/mp.12111"
+          },
+          {
+            "key": "e_1_2_8_54_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1118/1.1940167"
+          },
+          {
+            "key": "e_1_2_8_55_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/s41598‐020‐65819‐y"
+          },
+          {
+            "key": "e_1_2_8_56_1",
+            "article-title": "Calorimeter for real‐time dosimetry of pulsed ultra‐high dose rate electron beams",
+            "volume": "8",
+            "author": "Bourgouin A",
+            "year": "2020",
+            "journal-title": "Front Phys‐Lausanne"
+          },
+          {
+            "key": "e_1_2_8_57_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/mp.14620"
+          },
+          {
+            "issue": "1",
+            "key": "e_1_2_8_58_1",
+            "article-title": "VHEE beam dosimetry at CERN linear electron accelerator for research under ultra‐high dose rate conditions",
+            "volume": "7",
+            "author": "Poppinga D",
+            "year": "2021",
+            "journal-title": "Biomed Phys Eng Expr"
+          },
+          {
+            "key": "e_1_2_8_59_1",
+            "article-title": "Dosimetry for new radiation therapy approaches using high energy electron accelerators",
+            "volume": "8",
+            "author": "Kokurewicz K",
+            "year": "2020",
+            "journal-title": "Front Phys‐Lausanne"
+          },
+          {
+            "key": "e_1_2_8_60_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "GomezF Paz‐MartinJ Gonzalez CastanoD et al.Ultra thin plane‐parallel ionization chambers: expanding the range of air ionization chambers into ultra‐high dose rate.Phys Med. 2022;64:S21‐S22. Conference Presentation Abstract of the Flash Radiotherapy & Particle Therapy Conference (FRPT2021).",
+            "DOI": "10.1016/S1120-1797(22)01479-X"
+          },
+          {
+            "key": "e_1_2_8_61_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Di MartinoF BaroneS Del SartoD et al.A novel method for determining IC saturation factor (up to 0.5 gy/p for adv. Markus).Phys Med. 2022;94:S43. Conference Presentation Abstract of the Flash Radiotherapy & Particle Therapy Conference (FRPT2021).",
+            "DOI": "10.1016/S1120-1797(22)01525-3"
+          },
+          {
+            "key": "e_1_2_8_62_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Di MartinoF Barone S Del Sarto D et al.A new model of gas chamber for UHDR range.Phys Med. 2022;94:S82. Conference Presentation Abstract of the Flash Radiotherapy & Particle Therapy Conference (FRPT2021).",
+            "DOI": "10.1016/S1120-1797(22)01620-9"
+          },
+          {
+            "key": "e_1_2_8_63_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1088/1361-6560/ab23cd"
+          },
+          {
+            "key": "e_1_2_8_64_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1201/9781351005388-5"
+          },
+          {
+            "key": "e_1_2_8_65_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/mp.13330"
+          },
+          {
+            "key": "e_1_2_8_66_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/mp.13708"
+          },
+          {
+            "key": "e_1_2_8_67_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/mp.14313"
+          },
+          {
+            "key": "e_1_2_8_68_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1088/1361-6560/aba28e"
+          },
+          {
+            "key": "e_1_2_8_69_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/mp.12066"
+          },
+          {
+            "key": "e_1_2_8_70_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1088/1748-0221/7/07/P07022"
+          },
+          {
+            "key": "e_1_2_8_71_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Verona RinatiG Felici G Galante F et al.Realization and characterization of novel diamond detector prototypes for flash therapy applications.Phys Med. 2022;94:S40‐S41. Conference Presentation Abstract of the Flash Radiotherapy & Particle Therapy Conference (FRPT2021).",
+            "DOI": "10.1016/S1120-1797(22)01521-6"
+          },
+          {
+            "key": "e_1_2_8_72_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ejmp.2016.11.005"
+          },
+          {
+            "key": "e_1_2_8_73_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1118/1.3182682"
+          },
+          {
+            "key": "e_1_2_8_74_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1107/S1600577518014248"
+          },
+          {
+            "key": "e_1_2_8_75_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "RomanoF Del Mar Carulla Areste M Camarda MFeasibility study of using innovative technology based on silicon carbide detectors for FLASH irradiations.Phys Med. 2022;94:S97‐S98. Conference Presentation Abstract of the Flash Radiotherapy & Particle Therapy Conference (FRPT2021).",
+            "DOI": "10.1016/S1120-1797(22)01662-3"
+          },
+          {
+            "key": "e_1_2_8_76_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1088/0031‐9155/34/12/009"
+          },
+          {
+            "key": "e_1_2_8_77_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1088/0031‐9155/57/5/1413"
+          },
+          {
+            "key": "e_1_2_8_78_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/jicru_os18.1.14"
+          },
+          {
+            "key": "e_1_2_8_79_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1063/1.1672489"
+          },
+          {
+            "key": "e_1_2_8_80_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2307/3571103"
+          },
+          {
+            "key": "e_1_2_8_81_1",
+            "first-page": "161",
+            "article-title": "A simplified vacuumless Faraday cup for the experimental beamline at the Francis H. Burr proton therapy center",
+            "author": "Cascio EW",
+            "year": "2009",
+            "journal-title": "IEEE Radiation Effects Data Workshop"
+          },
+          {
+            "key": "e_1_2_8_82_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2307/3575020"
+          },
+          {
+            "key": "e_1_2_8_83_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1088/1361-6560/abfbf2"
+          },
+          {
+            "key": "e_1_2_8_84_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1088/0031‐9155/56/6/002"
+          },
+          {
+            "key": "e_1_2_8_85_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3390/app8091415"
+          },
+          {
+            "key": "e_1_2_8_86_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1088/1742‐6596/777/1/012016"
+          },
+          {
+            "key": "e_1_2_8_87_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1201/9781351005388-9"
+          },
+          {
+            "key": "e_1_2_8_88_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1117/1.JBO.23.1.015006"
+          },
+          {
+            "key": "e_1_2_8_89_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1117/1.JBO.20.9.095001"
+          },
+          {
+            "key": "e_1_2_8_90_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1118/1.4964453"
+          },
+          {
+            "key": "e_1_2_8_91_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1364/OL.42.000847"
+          },
+          {
+            "key": "e_1_2_8_92_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1103/PhysRevB.46.11463"
+          },
+          {
+            "key": "e_1_2_8_93_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1088/0031-9155/57/23/7767"
+          },
+          {
+            "key": "e_1_2_8_94_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1088/0031-9155/58/2/261"
+          },
+          {
+            "key": "e_1_2_8_95_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.astropartphys.2009.11.002"
+          },
+          {
+            "key": "e_1_2_8_96_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1118/1.4924973"
+          },
+          {
+            "key": "e_1_2_8_97_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1117/12.2211448"
+          },
+          {
+            "key": "e_1_2_8_98_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1088/0370-1298/64/10/303"
+          },
+          {
+            "key": "e_1_2_8_99_1",
+            "volume-title": "The Theory and Practice of Scinillation Counting",
+            "author": "Birks JB",
+            "year": "1964"
+          },
+          {
+            "key": "e_1_2_8_100_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/0029-554X(60)90126-9"
+          },
+          {
+            "key": "e_1_2_8_101_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S0168-583X(00)00237-8"
+          },
+          {
+            "key": "e_1_2_8_102_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3389/fphy.2020.00328"
+          },
+          {
+            "key": "e_1_2_8_103_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "BisogniG Ciarrocchi E Di Martino F et al.Inorganic scintillators for flash‐iort dosimetry: development and test of a lyso detector prototype.Phys Med. 2022;94:S41‐S42. Conference Presentation Abstract of the Flash Radiotherapy & Particle Therapy Conference (FRPT2021).",
+            "DOI": "10.1016/S1120-1797(22)01522-8"
+          },
+          {
+            "key": "e_1_2_8_104_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1088/1361‐6560/aa6ce2"
+          },
+          {
+            "key": "e_1_2_8_105_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "ToppiM De Gregorio A De Maria P et al.FLASHDC project: development of a beam monitor for flash radiotherapy.Phys Med. 2022;94:S84. Conference Presentation Abstract of the Flash Radiotherapy & Particle Therapy Conference (FRPT2021).",
+            "DOI": "10.1016/S1120-1797(22)01625-8"
+          },
+          {
+            "key": "e_1_2_8_106_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1201/9781351005388-10"
+          },
+          {
+            "key": "e_1_2_8_107_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.nima.2019.162537"
+          },
+          {
+            "key": "e_1_2_8_108_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1201/9781351005388-6"
+          },
+          {
+            "key": "e_1_2_8_109_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1118/1.3700400"
+          },
+          {
+            "key": "e_1_2_8_110_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1097/00004032-196612000-00007"
+          },
+          {
+            "issue": "1",
+            "key": "e_1_2_8_111_1",
+            "first-page": "102",
+            "article-title": "Some aspects of lithium‐fluoride thermoluminescence dosimetry",
+            "volume": "9",
+            "author": "Karzmark CJ",
+            "year": "1964",
+            "journal-title": "Phys Med Biol"
+          },
+          {
+            "key": "e_1_2_8_112_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.radonc.2017.05.003"
+          },
+          {
+            "key": "e_1_2_8_113_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/mp.12066"
+          },
+          {
+            "key": "e_1_2_8_114_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1201/9781351005388-7"
+          },
+          {
+            "key": "e_1_2_8_115_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1118/1.3097283"
+          },
+          {
+            "key": "e_1_2_8_116_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.radmeas.2009.12.034"
+          },
+          {
+            "key": "e_1_2_8_117_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/lpor.202000123"
+          },
+          {
+            "key": "e_1_2_8_118_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/oxfordjournals.rpd.a032583"
+          },
+          {
+            "key": "e_1_2_8_119_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/oxfordjournals.rpd.a005873"
+          },
+          {
+            "key": "e_1_2_8_120_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1118/1.1884365"
+          },
+          {
+            "key": "e_1_2_8_121_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.radmeas.2013.03.003"
+          },
+          {
+            "key": "e_1_2_8_122_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.phro.2020.09.008"
+          },
+          {
+            "key": "e_1_2_8_123_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1118/1.3700400"
+          },
+          {
+            "key": "e_1_2_8_124_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/mp.14182"
+          },
+          {
+            "key": "e_1_2_8_125_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1118/1.2804555"
+          },
+          {
+            "key": "e_1_2_8_126_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/mp.12691"
+          },
+          {
+            "key": "e_1_2_8_127_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s13246-020-00845-8"
+          },
+          {
+            "key": "e_1_2_8_128_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1118/1.3693055"
+          },
+          {
+            "key": "e_1_2_8_129_1",
+            "first-page": "53",
+            "article-title": "Characterisation of a real‐time fibre‐coupled beryllium oxide (BeO) luminescence dosimeter in X‐ray beams",
+            "volume": "1",
+            "author": "Santos AMC",
+            "year": "2013",
+            "journal-title": "Radiat Meas"
+          },
+          {
+            "key": "e_1_2_8_130_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1088/1361‐6560/abe554"
+          },
+          {
+            "key": "e_1_2_8_131_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1088/1361-6560/abaa28"
+          },
+          {
+            "key": "e_1_2_8_132_1",
+            "unstructured": "International Standardization Organization.Standard Practice for Use of an Alanine‐EPR Dosimetry System Standard 51607. 2004"
+          },
+          {
+            "key": "e_1_2_8_133_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1667/RR15568.1"
+          },
+          {
+            "key": "e_1_2_8_134_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.6028/jres.113.007"
+          },
+          {
+            "key": "e_1_2_8_135_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.radphyschem.2009.03.025"
+          },
+          {
+            "key": "e_1_2_8_136_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S0969-8043(96)00281-3"
+          },
+          {
+            "key": "e_1_2_8_137_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.radonc.2019.06.019"
+          },
+          {
+            "key": "e_1_2_8_138_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1088/0026‐1394/46/2/S05"
+          },
+          {
+            "key": "e_1_2_8_139_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1088/0026‐1394/46/2/S04"
+          },
+          {
+            "key": "e_1_2_8_140_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.6028/jres.086.021"
+          },
+          {
+            "key": "e_1_2_8_141_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1201/9781351005388-3"
+          },
+          {
+            "key": "e_1_2_8_142_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1088/1361‐6560/ab4f29"
+          },
+          {
+            "key": "e_1_2_8_143_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1118/1.4773870"
+          },
+          {
+            "key": "e_1_2_8_144_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/mp.12669"
+          },
+          {
+            "key": "e_1_2_8_145_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1088/0031‐9155/49/16/019"
+          },
+          {
+            "key": "e_1_2_8_146_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1088/0026‐1394/49/5/S168"
+          },
+          {
+            "key": "e_1_2_8_147_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1088/1742‐6596/1662/1/012028"
+          },
+          {
+            "key": "e_1_2_8_148_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/0029-554X(79)90266-0"
+          },
+          {
+            "key": "e_1_2_8_149_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1667/RADE-19-00012"
+          },
+          {
+            "key": "e_1_2_8_150_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3389/fphy.2020.00374"
+          },
+          {
+            "key": "e_1_2_8_151_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ejmp.2020.09.020"
+          },
+          {
+            "key": "e_1_2_8_152_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.radmeas.2011.06.018"
+          },
+          {
+            "key": "e_1_2_8_153_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bräuer‐KrischE RosenfeldA LerchM et al.Potential high resolution dosimeters for MRT.AIP Conf Proc.2010;1266:89‐97.https://doi.org/10.1063/1.3478205",
+            "DOI": "10.1063/1.3478205"
+          },
+          {
+            "key": "e_1_2_8_154_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/mp.14933"
+          },
+          {
+            "key": "e_1_2_8_155_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/mp.12713"
+          }
+        ],
+        "container-title": [
+          "Medical Physics"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/mp.15649",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1002/mp.15649",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://aapm.onlinelibrary.wiley.com/doi/pdf/10.1002/mp.15649",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2024,
+              9,
+              21
+            ]
+          ],
+          "date-time": "2024-09-21T19:25:42Z",
+          "timestamp": 1726946742000
+        },
+        "score": 36.748535,
+        "resource": {
+          "primary": {
+            "URL": "https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.15649"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              7
+            ]
+          ]
+        },
+        "references-count": 154,
+        "journal-issue": {
+          "issue": "7",
+          "published-print": {
+            "date-parts": [
+              [
+                2022,
+                7
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "10.1002/mp.15649"
+        ],
+        "URL": "https://doi.org/10.1002/mp.15649",
+        "archive": [
+          "Portico"
+        ],
+        "ISSN": [
+          "0094-2405",
+          "2473-4209"
+        ],
+        "issn-type": [
+          {
+            "value": "0094-2405",
+            "type": "print"
+          },
+          {
+            "value": "2473-4209",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              7
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "2021-10-22",
+            "order": 0,
+            "name": "received",
+            "label": "Received",
+            "group": {
+              "name": "publication_history",
+              "label": "Publication History"
+            }
+          },
+          {
+            "value": "2022-02-20",
+            "order": 1,
+            "name": "accepted",
+            "label": "Accepted",
+            "group": {
+              "name": "publication_history",
+              "label": "Publication History"
+            }
+          },
+          {
+            "value": "2022-05-07",
+            "order": 2,
+            "name": "published",
+            "label": "Published",
+            "group": {
+              "name": "publication_history",
+              "label": "Publication History"
+            }
+          }
+        ]
+      }
+    ],
+    "items-per-page": 3,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

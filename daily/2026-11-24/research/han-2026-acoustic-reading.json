@@ -1,0 +1,85 @@
+{
+  "full_text_read": true,
+  "source_visual_pages_1based": [
+    4,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    14,
+    15
+  ],
+  "crops": [
+    {
+      "figure": 1,
+      "source_pdf": "daily/2026-11-24/pdfs/han-2026-acoustic.pdf",
+      "page_1based": 4,
+      "clip_points": [
+        70,
+        75,
+        542,
+        453
+      ],
+      "render_scale": 2,
+      "path": "daily/2026-11-24/notes/images/han-2026-acoustic/fig1.png",
+      "sha256": "572c0f01ac9e39b95953775254230a41342d770a760409679867bed8d2d92a7f",
+      "visual_review": "actually reopened final crop; axes/caption checked",
+      "source_pixel_match": true
+    },
+    {
+      "figure": 2,
+      "source_pdf": "daily/2026-11-24/pdfs/han-2026-acoustic.pdf",
+      "page_1based": 6,
+      "clip_points": [
+        70,
+        78,
+        542,
+        698
+      ],
+      "render_scale": 2,
+      "path": "daily/2026-11-24/notes/images/han-2026-acoustic/fig2.png",
+      "sha256": "57e70e22c48b40290808ec44a92cefacb83a073b13f089740c4191d95bb5f071",
+      "visual_review": "actually reopened final crop; axes/caption checked",
+      "source_pixel_match": true
+    },
+    {
+      "figure": 3,
+      "source_pdf": "daily/2026-11-24/pdfs/han-2026-acoustic.pdf",
+      "page_1based": 8,
+      "clip_points": [
+        70,
+        75,
+        542,
+        602
+      ],
+      "render_scale": 2,
+      "path": "daily/2026-11-24/notes/images/han-2026-acoustic/fig3.png",
+      "sha256": "a494afcf1c1538c82d1466e10cddc79141f47f8b2b37f165c4bb0ead88b3242e",
+      "visual_review": "actually reopened final crop; axes/caption checked",
+      "source_pixel_match": true
+    },
+    {
+      "figure": 4,
+      "source_pdf": "daily/2026-11-24/pdfs/han-2026-acoustic.pdf",
+      "page_1based": 12,
+      "clip_points": [
+        70,
+        75,
+        542,
+        548
+      ],
+      "render_scale": 2,
+      "path": "daily/2026-11-24/notes/images/han-2026-acoustic/fig4.png",
+      "sha256": "c9f11c1670401f37a35d65c5400b06c85e65fe9e810a5eddca7952840ce72824",
+      "visual_review": "actually reopened final crop; axes/caption checked",
+      "source_pixel_match": true
+    }
+  ],
+  "author_code_or_experiment_rerun": false,
+  "extraction": "pdftotext-layout and source page rendering; historical MinerU token expired, no request",
+  "source_pdf_sha256": "2de0e221679a2fb556a8c274cfa975044e2f472c9b9d9142d2ffadd4504db655",
+  "primary_reader": "root",
+  "checked_at": "2026-11-23T23:14:33.096877+00:00"
+}

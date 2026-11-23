@@ -2,11 +2,14 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：264 篇
-- 索引更新时间：2026-11-23
+- 当前收录：267 篇
+- 索引更新时间：2026-11-24
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-24 | [Antimuon acceleration via electron driven coherent transition radiation](../papers/10-1038-s41598-026-81462-5/README.md) | Scientific Reports | [笔记](../daily/2026-11-24/notes/xu-2026-antimuon.md) |
+| 2026-11-24 | [A conservative latent neural ODE for stiff collisional-radiative plasma kinetics](../papers/arxiv-2611-27027/README.md) | arXiv preprint | [笔记](../daily/2026-11-24/notes/xie-2026-latent-cr.md) |
+| 2026-11-24 | [Feasibility study of two-stage direct laser acceleration of electrons](../papers/arxiv-2611-27857/README.md) | arXiv preprint | [笔记](../daily/2026-11-24/notes/starodubtseva-2026-staged-dla.md) |
 | 2026-11-23 | [Aggregating soft-photon recoil with a positive finite-step sampler](../papers/arxiv-2611-26402/README.md) | arXiv preprint | [笔记](../daily/2026-11-23/notes/elkina-2026-recoil.md) |
 | 2026-11-21 | [Dephasing-free plasma acceleration with millijoule picosecond lasers](../papers/arxiv-2611-26032/README.md) | arXiv preprint | [笔记](../daily/2026-11-21/notes/pukhov-2026-comb.md) |
 | 2026-11-20 | [The role of externally-driven density fluctuations in the enhancement of beam spray](../papers/arxiv-2611-24914/README.md) | arXiv preprint; submitted to PRL, acceptance/publication unverified | [笔记](../daily/2026-11-20/notes/mcmillen-2026-beam-spray.md) |

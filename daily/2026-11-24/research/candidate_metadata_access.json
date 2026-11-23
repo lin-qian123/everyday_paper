@@ -1,0 +1,253 @@
+[
+  {
+    "name": "2611.27027",
+    "url": "https://arxiv.org/abs/2611.27027",
+    "final_url": "https://arxiv.org/abs/2611.27027",
+    "status": 200,
+    "mime": "text/html; charset=utf-8",
+    "bytes": 42409,
+    "magic": "b'<!DOCTYPE '",
+    "metadata": {
+      "citation_title": [
+        "A conservative latent neural ODE for stiff collisional-radiative plasma kinetics"
+      ],
+      "citation_author": [
+        "Xie, Xuping",
+        "Tang, Xianzhu",
+        "Tang, Qi"
+      ],
+      "citation_date": [
+        "2026/11/20"
+      ],
+      "citation_online_date": [
+        "2026/11/20"
+      ],
+      "citation_pdf_url": [
+        "https://arxiv.org/pdf/2611.27027"
+      ],
+      "citation_arxiv_id": [
+        "2611.27027"
+      ],
+      "citation_abstract": [
+        "Collisional-radiative (CR) models govern the non equilibrium population kinetics of partially ionized plasmas and are a dominant cost in integrated edge and divertor plasma simulations, where a stiff system of dozens to thousands of coupled rate equations must be solved at every spatial cell and time step. We present a two-stage machine learning (ML) surrogate that replaces the direct CR solve with a compact, continuous-time, deployable dynamical model. Stage~1 is a grey-box autoencoder that compresses a high-dimensional ion population vector into a low-dimensional latent space in which four coordinates, one per charge state of the lithium system studied here, are \\emph{fixed} to the physical charge-state distribution and the rest are learned. Stage~2 is a latent neural ODE that learns the continuous-time evolution of the latent variables. We (i) integrate in a density-folded, logarithmic clock on which the latent trajectory is smooth enough for an explicit integrator, (ii) sample time adaptively by latent arc length so the sharp ionization transition is resolved, (iii) add a linear damping toward an estimate of the CR steady state as a design choice, and (iv) enforce mass conservation directly. The surrogate is accurate, with a charge-state error that is unchanged under refinement of its output grid, over full-trajectory rollouts within the trained horizon, and exactly conservative: on $1480$ held-out trajectories at the trained conditions it reproduces the charge-state evolution with a median absolute error of $4.2\\times10^{-3}$ on fractions in $[0,1]$, conserves mass to $10^{-7}$, {and evaluates a full sixteen-decade trajectory in ${\\sim}76\\,\\mu$s per trajectory in batched inference on a single GPU.} A model retrained with whole $(\\nA,\\Te)$ grid points withheld is equally accurate at those unseen conditions."
+      ]
+    },
+    "history": "Submission history From: Xuping Xie [ view email ] [v1] Fri, 20 Nov 2026 02:58:17 UTC (937 KB)",
+    "abstract": "Abstract: Collisional-radiative (CR) models govern the non equilibrium population kinetics of partially ionized plasmas and are a dominant cost in integrated edge and divertor plasma simulations, where a stiff system of dozens to thousands of coupled rate equations must be solved at every spatial cell and time step. We present a two-stage machine learning (ML) surrogate that replaces the direct CR solve with a compact, continuous-time, deployable dynamical model. Stage~1 is a grey-box autoencoder that compresses a high-dimensional ion population vector into a low-dimensional latent space in which four coordinates, one per charge state of the lithium system studied here, are \\emph{fixed} to the physical charge-state distribution and the rest are learned. Stage~2 is a latent neural ODE that learns the continuous-time evolution of the latent variables. We (i) integrate in a density-folded, logarithmic clock on which the latent trajectory is smooth enough for an explicit integrator, (ii) sample time adaptively by latent arc length so the sharp ionization transition is resolved, (iii) add a linear damping toward an estimate of the CR steady state as a design choice, and (iv) enforce mass conservation directly. The surrogate is accurate, with a charge-state error that is unchanged under refinement of its output grid, over full-trajectory rollouts within the trained horizon, and exactly conservative: on $1480$ held-out trajectories at the trained conditions it reproduces the charge-state evolution with a median absolute error of $4.2\\times10^{-3}$ on fractions in $[0,1]$, conserves mass to $10^{-7}$, {and evaluates a full sixteen-decade trajectory in ${\\sim}76\\,\\mu$s per trajectory in batched inference on a single GPU.} A model retrained with whole $(\\nA,\\Te)$ grid points withheld is equally accurate at those unseen conditions.",
+    "pdf_anchors": []
+  },
+  {
+    "name": "2611.27772",
+    "url": "https://arxiv.org/abs/2611.27772",
+    "final_url": "https://arxiv.org/abs/2611.27772",
+    "status": 200,
+    "mime": "text/html; charset=utf-8",
+    "bytes": 42129,
+    "magic": "b'<!DOCTYPE '",
+    "metadata": {
+      "citation_title": [
+        "Single-Pulse Dosimetry for Ultra-High-Dose-Rate X-Ray Pulses Based on Radiation-Induced Acoustic Signals"
+      ],
+      "citation_author": [
+        "Han, Qihang",
+        "Chen, Ke",
+        "Hua, Chenghao",
+        "Chen, Haoran",
+        "Ding, Lili",
+        "Li, Changhui",
+        "Ouyang, Xiaoping",
+        "Wang, Chenhui",
+        "Chen, Wei",
+        "Ma, Wenjun"
+      ],
+      "citation_date": [
+        "2026/11/20"
+      ],
+      "citation_online_date": [
+        "2026/11/20"
+      ],
+      "citation_pdf_url": [
+        "https://arxiv.org/pdf/2611.27772"
+      ],
+      "citation_arxiv_id": [
+        "2611.27772"
+      ],
+      "citation_abstract": [
+        "Real-time dosimetry of ultra-high-dose-rate (UHDR) pulsed X-rays remains a major challenge. This proof-of-principle study investigates a dosimetry method for UHDR pulsed X-rays based on radiation-induced acoustic (RA) signals from a thin metal foil. The foil combines efficient X-ray absorption and acoustic resonance, converting deposited dose into acoustic signals with discrete resonant frequencies. Single-pulse measurements were performed at six dose levels spanning approximately 1--40 mGy(Si), with one pulse recorded at each level and instantaneous dose rates reaching the order of 10^6 Gy/s at the highest dose settings. The peak-to-peak amplified transducer-output voltage exhibited a linear relationship with the reference dose measured by thermoluminescent dosimeters (TLDs). These results demonstrate the feasibility of single-pulse acoustic dosimetry under the tested conditions. Furthermore, we establish analytical solutions for radiation-induced acoustic signals in a one-dimensional layered medium in both the time and frequency domains, providing a theoretical basis for signal interpretation and detector optimization."
+      ]
+    },
+    "history": "Submission history From: Wenjun Ma [ view email ] [v1] Fri, 20 Nov 2026 16:02:54 UTC (6,761 KB)",
+    "abstract": "Abstract: Real-time dosimetry of ultra-high-dose-rate (UHDR) pulsed X-rays remains a major challenge. This proof-of-principle study investigates a dosimetry method for UHDR pulsed X-rays based on radiation-induced acoustic (RA) signals from a thin metal foil. The foil combines efficient X-ray absorption and acoustic resonance, converting deposited dose into acoustic signals with discrete resonant frequencies. Single-pulse measurements were performed at six dose levels spanning approximately 1--40 mGy(Si), with one pulse recorded at each level and instantaneous dose rates reaching the order of 10^6 Gy/s at the highest dose settings. The peak-to-peak amplified transducer-output voltage exhibited a linear relationship with the reference dose measured by thermoluminescent dosimeters (TLDs). These results demonstrate the feasibility of single-pulse acoustic dosimetry under the tested conditions. Furthermore, we establish analytical solutions for radiation-induced acoustic signals in a one-dimensional layered medium in both the time and frequency domains, providing a theoretical basis for signal interpretation and detector optimization.",
+    "pdf_anchors": []
+  },
+  {
+    "name": "2611.27857",
+    "url": "https://arxiv.org/abs/2611.27857",
+    "final_url": "https://arxiv.org/abs/2611.27857",
+    "status": 200,
+    "mime": "text/html; charset=utf-8",
+    "bytes": 42745,
+    "magic": "b'<!DOCTYPE '",
+    "metadata": {
+      "citation_title": [
+        "Feasibility study of two-stage direct laser acceleration of electrons"
+      ],
+      "citation_author": [
+        "Starodubtseva, E.",
+        "Solntsev, S.",
+        "Tsymbalov, I.",
+        "Savel'ev, A."
+      ],
+      "citation_date": [
+        "2026/11/20"
+      ],
+      "citation_online_date": [
+        "2026/11/20"
+      ],
+      "citation_pdf_url": [
+        "https://arxiv.org/pdf/2611.27857"
+      ],
+      "citation_arxiv_id": [
+        "2611.27857"
+      ],
+      "citation_abstract": [
+        "We present the first numerical demonstration of two-stage direct laser acceleration (DLA) of electrons. The result was obtained using quasi-3D particle-in-cell (PIC) simulations. The first stage ($a_0 = 6$, $\\tau = 200~\\mathrm{fs}$, $w = 4\\lambda$, $\\lambda = 0.8~\\mu\\mathrm{m}$) utilized a nitrogen gas target with an atomic density of $n_a = 0.008n_{cr}$. This stage was designed to accelerate low-energy electrons, achieving a maximum energy of approximately 94 MeV with a two-temperature energy spectrum ($T_1 = 7.0$ MeV and $T_2 = 16.0$ MeV) and a charge of 6.04 nC ($\\mathcal{E} > 5$ MeV). The resulting electron bunch was then injected into the second stage, where hydrogen at a lower density ($n_a = 0.01n_{cr}$) was used, while the laser parameters were the same as in the first stage except that the waist was increased to $w = 8\\lambda$. After the second stage, the electrons reached energies up to 225 MeV, with a two-temperature energy spectrum ($T_1 = 18.4$ MeV and $T_2 = 88.3$ MeV) and a charge of 4.55 nC ($\\mathcal{E} > 5$ MeV). The self-injected electrons in the second stage reached a maximum energy of 123 MeV with a charge of 1.14 nC ($\\mathcal{E} > 5$ MeV). The simulation results are compared with a theoretical DLA model, which describes the electron motion in the combined fields of the laser pulse and the quasistatic plasma channel. The model accounts for the transverse size of the channel by incorporating a Gaussian attenuation of the channel fields and off-axis injection. The theoretical model correctly describes the observed acceleration dynamics for both low-energy and pre-accelerated electrons, confirming its validity for designing multi-stage DLA schemes. Thus, the implementation of multi-stage acceleration by the DLA mechanism is successfully demonstrated for the first time in a numerical experiment."
+      ]
+    },
+    "history": "Submission history From: Ekaterina Starodubtseva [ view email ] [v1] Fri, 20 Nov 2026 17:05:38 UTC (2,488 KB)",
+    "abstract": "Abstract: We present the first numerical demonstration of two-stage direct laser acceleration (DLA) of electrons. The result was obtained using quasi-3D particle-in-cell (PIC) simulations. The first stage ($a_0 = 6$, $\\tau = 200~\\mathrm{fs}$, $w = 4\\lambda$, $\\lambda = 0.8~\\mu\\mathrm{m}$) utilized a nitrogen gas target with an atomic density of $n_a = 0.008n_{cr}$. This stage was designed to accelerate low-energy electrons, achieving a maximum energy of approximately 94 MeV with a two-temperature energy spectrum ($T_1 = 7.0$ MeV and $T_2 = 16.0$ MeV) and a charge of 6.04 nC ($\\mathcal{E} > 5$ MeV). The resulting electron bunch was then injected into the second stage, where hydrogen at a lower density ($n_a = 0.01n_{cr}$) was used, while the laser parameters were the same as in the first stage except that the waist was increased to $w = 8\\lambda$. After the second stage, the electrons reached energies up to 225 MeV, with a two-temperature energy spectrum ($T_1 = 18.4$ MeV and $T_2 = 88.3$ MeV) and a charge of 4.55 nC ($\\mathcal{E} > 5$ MeV). The self-injected electrons in the second stage reached a maximum energy of 123 MeV with a charge of 1.14 nC ($\\mathcal{E} > 5$ MeV). The simulation results are compared with a theoretical DLA model, which describes the electron motion in the combined fields of the laser pulse and the quasistatic plasma channel. The model accounts for the transverse size of the channel by incorporating a Gaussian attenuation of the channel fields and off-axis injection. The theoretical model correctly describes the observed acceleration dynamics for both low-energy and pre-accelerated electrons, confirming its validity for designing multi-stage DLA schemes. Thus, the implementation of multi-stage acceleration by the DLA mechanism is successfully demonstrated for the first time in a numerical experiment.",
+    "pdf_anchors": []
+  },
+  {
+    "name": "2611.27760",
+    "url": "https://arxiv.org/abs/2611.27760",
+    "final_url": "https://arxiv.org/abs/2611.27760",
+    "status": 200,
+    "mime": "text/html; charset=utf-8",
+    "bytes": 39242,
+    "magic": "b'<!DOCTYPE '",
+    "metadata": {
+      "citation_title": [
+        "Hot-Layer Ignition in High-Gain Inertial Confinement Fusion"
+      ],
+      "citation_author": [
+        "Lourmande, M.",
+        "Canaud, B."
+      ],
+      "citation_date": [
+        "2026/11/20"
+      ],
+      "citation_online_date": [
+        "2026/11/20"
+      ],
+      "citation_pdf_url": [
+        "https://arxiv.org/pdf/2611.27760"
+      ],
+      "citation_arxiv_id": [
+        "2611.27760"
+      ],
+      "citation_abstract": [
+        "Ignition of the shocked deuterium tritium shell is identified during the thermonuclear combustion of very high-gain targets in inertial confinement fusion (ICF). This mechanism is due to the local energy deposition of the fusion alphas created in this shocked shell, independently of hot-spot ignition, and generates sufficient energy to fully recompress the hot spot. A new analytical criterion for the ignition of the hot layer is presented. A simple three zone model, based on the thick layer hot-spot model, reproduces this mechanism, which breaks down into successive stages: ignition of the hot spot, compression of the shocked shell, ignition of the shocked shell, and subsequent recompression of the hot spot. 1D numerical simulations highlight the onset of this hot layer ignition thereby satisfying the analytical ignition criterion. It is shown that this mechanism amplifies the energy released by the combustion of the target by approximately 50 %."
+      ]
+    },
+    "history": "Submission history From: Benoit Canaud [ view email ] [v1] Fri, 20 Nov 2026 15:47:14 UTC (566 KB)",
+    "abstract": "Abstract: Ignition of the shocked deuterium tritium shell is identified during the thermonuclear combustion of very high-gain targets in inertial confinement fusion (ICF). This mechanism is due to the local energy deposition of the fusion alphas created in this shocked shell, independently of hot-spot ignition, and generates sufficient energy to fully recompress the hot spot. A new analytical criterion for the ignition of the hot layer is presented. A simple three zone model, based on the thick layer hot-spot model, reproduces this mechanism, which breaks down into successive stages: ignition of the hot spot, compression of the shocked shell, ignition of the shocked shell, and subsequent recompression of the hot spot. 1D numerical simulations highlight the onset of this hot layer ignition thereby satisfying the analytical ignition criterion. It is shown that this mechanism amplifies the energy released by the combustion of the target by approximately 50 %.",
+    "pdf_anchors": []
+  },
+  {
+    "name": "muon",
+    "url": "https://www.nature.com/articles/s41598-026-81462-5",
+    "final_url": "https://www.nature.com/articles/s41598-026-81462-5",
+    "status": 200,
+    "mime": "text/html; charset=utf-8",
+    "bytes": 219136,
+    "magic": "b'\\n\\n\\n\\n\\n<!DOC'",
+    "metadata": {
+      "citation_pdf_url": [
+        "https://www.nature.com/articles/s41598-026-81462-5.pdf"
+      ],
+      "citation_fulltext_html_url": [
+        "https://www.nature.com/articles/s41598-026-81462-5"
+      ],
+      "citation_journal_title": [
+        "Scientific Reports"
+      ],
+      "citation_journal_abbrev": [
+        "Sci Rep"
+      ],
+      "citation_publisher": [
+        "Nature Publishing Group"
+      ],
+      "citation_issn": [
+        "2045-2322"
+      ],
+      "citation_title": [
+        "Antimuon acceleration via electron driven coherent transition radiation"
+      ],
+      "citation_online_date": [
+        "2026/11/23"
+      ],
+      "citation_firstpage": [
+        ""
+      ],
+      "citation_lastpage": [
+        ""
+      ],
+      "citation_article_type": [
+        "Article"
+      ],
+      "citation_fulltext_world_readable": [
+        ""
+      ],
+      "citation_language": [
+        "en"
+      ],
+      "citation_doi": [
+        "10.1038/s41598-026-81462-5"
+      ],
+      "citation_springer_api_url": [
+        "http://api.springer.com/xmldata/jats?q=doi:10.1038/s41598-026-81462-5&api_key="
+      ],
+      "citation_author": [
+        "Xu, Zhangli",
+        "Zhang, Xiaomei",
+        "Shen, Baifei"
+      ],
+      "citation_author_institution": [
+        "Department of Physics, Shanghai Normal University, Shanghai, China",
+        "Department of Physics, Shanghai Normal University, Shanghai, China",
+        "Department of Physics, Shanghai Normal University, Shanghai, China"
+      ]
+    },
+    "history": "",
+    "abstract": "",
+    "pdf_anchors": [
+      {
+        "text": "Download PDF",
+        "href": "/articles/s41598-026-81462-5_reference.pdf"
+      },
+      {
+        "text": "Download PDF",
+        "href": "/articles/s41598-026-81462-5_reference.pdf"
+      }
+    ]
+  },
+  {
+    "name": "apl-pdf-0",
+    "url": "https://pubs.aip.org/aip/apl/article-pdf/doi/10.1063/5.0352710/21208538/214101_1_5.0352710.pdf",
+    "final_url": "https://pubs.aip.org/aip/apl/article-pdf/doi/10.1063/5.0352710/21208538/214101_1_5.0352710.pdf",
+    "status": 403,
+    "mime": "text/html; charset=UTF-8",
+    "bytes": 5696,
+    "magic": "b'<!DOCTYPE '"
+  },
+  {
+    "name": "kern-de-pdf",
+    "url": "https://www.degruyterbrill.com/de/document/doi/10.1515/kern-2026-0085/pdf",
+    "final_url": "https://www.degruyterbrill.com/de/document/doi/10.1515/kern-2026-0085/pdf",
+    "status": 202,
+    "mime": "text/html; charset=UTF-8",
+    "bytes": 0,
+    "magic": "b''"
+  }
+]

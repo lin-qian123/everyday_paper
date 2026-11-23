@@ -1,0 +1,24 @@
+{
+  "checked_at": "2026-11-23T23:14:33.096877+00:00",
+  "not_downloaded_or_read": [
+    {
+      "id": "2611.27760",
+      "title": "Hot-Layer Ignition in High-Gain Inertial Confinement Fusion",
+      "scope": "official metadata and abstract checked only; no PDF download or full-text note"
+    },
+    {
+      "doi": "10.1140/epjp/s13360-026-08565-w",
+      "title": "Multi-particle emission in low-energies photonuclear reactions on a 51V target",
+      "scope": "Crossref metadata only; fulltext availability not investigated"
+    },
+    {
+      "doi": "10.1088/1748-0221/21/11/p11035",
+      "title": "Autotuning of particle accelerator beamlines using hybrid genetic algorithm and Neural Network optimization",
+      "scope": "Crossref metadata only; fulltext availability not investigated"
+    },
+    {
+      "id": "2611.24653",
+      "scope": "prior activation nuclear-data lead retained; no new access or reading this run"
+    }
+  ]
+}

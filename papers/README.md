@@ -1,10 +1,14 @@
 # 论文总索引
 
-- 当前入库论文：592 篇
-- 索引更新时间：2026-11-23
+- 当前入库论文：596 篇
+- 索引更新时间：2026-11-24
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-11-24 | [Antimuon acceleration via electron driven coherent transition radiation](./10-1038-s41598-026-81462-5/README.md) | Scientific Reports | [10.1038/s41598-026-81462-5](https://doi.org/10.1038/s41598-026-81462-5) |
+| 2026-11-24 | [A conservative latent neural ODE for stiff collisional-radiative plasma kinetics](./arxiv-2611-27027/README.md) | arXiv preprint | [10.48550/arXiv.2611.27027](https://doi.org/10.48550/arXiv.2611.27027) |
+| 2026-11-24 | [Single-Pulse Dosimetry for Ultra-High-Dose-Rate X-Ray Pulses Based on Radiation-Induced Acoustic Signals](./arxiv-2611-27772/README.md) | arXiv preprint | [10.48550/arXiv.2611.27772](https://doi.org/10.48550/arXiv.2611.27772) |
+| 2026-11-24 | [Feasibility study of two-stage direct laser acceleration of electrons](./arxiv-2611-27857/README.md) | arXiv preprint | [10.48550/arXiv.2611.27857](https://doi.org/10.48550/arXiv.2611.27857) |
 | 2026-11-23 | [Quantitative evaluation of single-grating phase-contrast imaging with a femtosecond laser–plasma Kα X-ray source](./10-1038-s41598-026-78588-x/README.md) | Scientific Reports | [10.1038/s41598-026-78588-x](https://doi.org/10.1038/s41598-026-78588-x) |
 | 2026-11-23 | [Aggregating soft-photon recoil with a positive finite-step sampler](./arxiv-2611-26402/README.md) | arXiv preprint | [10.48550/arXiv.2611.26402](https://doi.org/10.48550/arXiv.2611.26402) |
 | 2026-11-22 | [Visible light drives bright extreme-ultraviolet high harmonics](./10-1038-s41467-026-79615-1/README.md) | Nature Communications | [10.1038/s41467-026-79615-1](https://doi.org/10.1038/s41467-026-79615-1) |

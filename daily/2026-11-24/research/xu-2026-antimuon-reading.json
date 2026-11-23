@@ -1,0 +1,117 @@
+{
+  "full_text_read": true,
+  "source_visual_pages_1based": [
+    1,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "crops": [
+    {
+      "figure": 1,
+      "source_pdf": "daily/2026-11-24/pdfs/xu-2026-antimuon.pdf",
+      "page_1based": 3,
+      "clip_points": [
+        49,
+        58,
+        548,
+        390
+      ],
+      "render_scale": 2,
+      "path": "daily/2026-11-24/notes/images/xu-2026-antimuon/fig1.png",
+      "sha256": "462152ce868552fc5bbbe26945bdd2db024a569ae0a8b904159e0b26217394d0",
+      "visual_review": "actually reopened final crop; axes/caption checked",
+      "source_pixel_match": true
+    },
+    {
+      "figure": 2,
+      "source_pdf": "daily/2026-11-24/pdfs/xu-2026-antimuon.pdf",
+      "page_1based": 5,
+      "clip_points": [
+        49,
+        58,
+        548,
+        613
+      ],
+      "render_scale": 2,
+      "path": "daily/2026-11-24/notes/images/xu-2026-antimuon/fig2.png",
+      "sha256": "87f92b03bafd41e8e6039c62cec1e08344af921d71fcb18f68e4c19fe918ce7a",
+      "visual_review": "actually reopened final crop; axes/caption checked",
+      "source_pixel_match": true
+    },
+    {
+      "figure": 3,
+      "source_pdf": "daily/2026-11-24/pdfs/xu-2026-antimuon.pdf",
+      "page_1based": 6,
+      "clip_points": [
+        49,
+        58,
+        548,
+        398
+      ],
+      "render_scale": 2,
+      "path": "daily/2026-11-24/notes/images/xu-2026-antimuon/fig3.png",
+      "sha256": "6d5867157dd76024e2ca89af48d9e79c747ccabba4dc659df93927173de199bd",
+      "visual_review": "actually reopened final crop; axes/caption checked",
+      "source_pixel_match": true
+    },
+    {
+      "figure": 4,
+      "source_pdf": "daily/2026-11-24/pdfs/xu-2026-antimuon.pdf",
+      "page_1based": 7,
+      "clip_points": [
+        49,
+        57,
+        548,
+        292
+      ],
+      "render_scale": 2,
+      "path": "daily/2026-11-24/notes/images/xu-2026-antimuon/fig4.png",
+      "sha256": "ae00d2e997a6b3a89962ff41cf8a0aea0ed5f6375cb1182c0926a32b26b85bf4",
+      "visual_review": "actually reopened final crop; axes/caption checked",
+      "source_pixel_match": true
+    },
+    {
+      "figure": 5,
+      "source_pdf": "daily/2026-11-24/pdfs/xu-2026-antimuon.pdf",
+      "page_1based": 7,
+      "clip_points": [
+        49,
+        300,
+        548,
+        558
+      ],
+      "render_scale": 2,
+      "path": "daily/2026-11-24/notes/images/xu-2026-antimuon/fig5.png",
+      "sha256": "eb1b17ca40be00d20eef37e064f712a080e756dc756e7c01af225d114d278348",
+      "visual_review": "actually reopened final crop; axes/caption checked",
+      "source_pixel_match": true
+    },
+    {
+      "figure": 6,
+      "source_pdf": "daily/2026-11-24/pdfs/xu-2026-antimuon.pdf",
+      "page_1based": 10,
+      "clip_points": [
+        49,
+        375,
+        548,
+        518
+      ],
+      "render_scale": 2,
+      "path": "daily/2026-11-24/notes/images/xu-2026-antimuon/fig6.png",
+      "sha256": "fbd23dd69ec40a16e37e93d4e4640c19281c5d9c9a1c422d1bcef3fc2bb26d85",
+      "visual_review": "actually reopened final crop; axes/caption checked",
+      "source_pixel_match": true
+    }
+  ],
+  "author_code_or_experiment_rerun": false,
+  "extraction": "pdftotext-layout and source page rendering; historical MinerU token expired, no request",
+  "source_pdf_sha256": "fe7ea74c6b1be7cb01ce6646a38b115faa2bd72e7e170830fcdca99502c356a2",
+  "primary_reader": "root",
+  "checked_at": "2026-11-23T23:14:33.096877+00:00"
+}

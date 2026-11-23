@@ -2,11 +2,13 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：187 篇
-- 索引更新时间：2026-11-23
+- 当前收录：189 篇
+- 索引更新时间：2026-11-24
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-24 | [Antimuon acceleration via electron driven coherent transition radiation](../papers/10-1038-s41598-026-81462-5/README.md) | Scientific Reports | [笔记](../daily/2026-11-24/notes/xu-2026-antimuon.md) |
+| 2026-11-24 | [Feasibility study of two-stage direct laser acceleration of electrons](../papers/arxiv-2611-27857/README.md) | arXiv preprint | [笔记](../daily/2026-11-24/notes/starodubtseva-2026-staged-dla.md) |
 | 2026-11-21 | [Dephasing-free plasma acceleration with millijoule picosecond lasers](../papers/arxiv-2611-26032/README.md) | arXiv preprint | [笔记](../daily/2026-11-21/notes/pukhov-2026-comb.md) |
 | 2026-11-21 | [Direct measurement of the on-shot focal-spot size of a kilojoule-class petawatt laser](../papers/arxiv-2611-25552/README.md) | arXiv preprint | [笔记](../daily/2026-11-21/notes/takizawa-2026-focus.md) |
 | 2026-11-19 | [Multivariate scaling of proton and ion energies, divergence, and charge states in laser-driven Target Normal Sheath Acceleration](../papers/10-1140-epjp-s13360-026-08572-x/README.md) | The European Physical Journal Plus | [笔记](../daily/2026-11-19/notes/alexopoulou-2026-tnsa.md) |

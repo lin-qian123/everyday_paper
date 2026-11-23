@@ -1,0 +1,150 @@
+{
+  "paper": "arXiv:2611.27027v1",
+  "actual_version": "official author preprint v1, 32 PDF pages; no appendices",
+  "pdf_path": "daily/2026-11-24/pdfs/xie-2026-latent-cr.pdf",
+  "pdf_sha256": "a804ae768ed296cb8e86be83fe81d66b6223f6ff5885e51d6bed50827fce20c6",
+  "checked_at": "2026-11-23T23:12:23.058124+00:00",
+  "reading_scope": "full text abstract, sections1-5, data statement and references in order; no code or model rerun",
+  "conversion": {
+    "mineru_requests": 0,
+    "status": "historical 401/A0211 expired credentials, not retested; explicit local layout-text and rendered-PDF fallback"
+  },
+  "source_visual_pages_unique": [
+    1,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    12,
+    14,
+    19,
+    22,
+    23,
+    24,
+    26,
+    27,
+    28,
+    29
+  ],
+  "source_visual_review": "all listed source pages actually viewed at scale1.5; formulas14/16 checked in rendered PDF; 5 retained crops reopened at native scale",
+  "crops": [
+    {
+      "file": "daily/2026-11-24/notes/images/xie-2026-latent-cr/fig1-architecture.png",
+      "source_pdf": "daily/2026-11-24/pdfs/xie-2026-latent-cr.pdf",
+      "source_page_1based": 6,
+      "clip_points": [
+        70,
+        195,
+        525,
+        512
+      ],
+      "render_scale": 2,
+      "width": 910,
+      "height": 634,
+      "sha256": "12e97ad837cf0604974ac2663ff901eafc67036c81ef58a998325c416b57829e",
+      "source_pixels_match": true,
+      "visually_reopened": true
+    },
+    {
+      "file": "daily/2026-11-24/notes/images/xie-2026-latent-cr/fig3-data-structure.png",
+      "source_pdf": "daily/2026-11-24/pdfs/xie-2026-latent-cr.pdf",
+      "source_page_1based": 12,
+      "clip_points": [
+        70,
+        69,
+        525,
+        385
+      ],
+      "render_scale": 2,
+      "width": 910,
+      "height": 632,
+      "sha256": "601e97121c331e527d141ef8475a67d0f5ddf786abbf4be60527931b62be1548",
+      "source_pixels_match": true,
+      "visually_reopened": true
+    },
+    {
+      "file": "daily/2026-11-24/notes/images/xie-2026-latent-cr/fig12-grid-refinement.png",
+      "source_pdf": "daily/2026-11-24/pdfs/xie-2026-latent-cr.pdf",
+      "source_page_1based": 22,
+      "clip_points": [
+        70,
+        68,
+        525,
+        255
+      ],
+      "render_scale": 2,
+      "width": 910,
+      "height": 374,
+      "sha256": "30de5c72784290fddc2549ec0fe573a36d4743791e9b2cf755741481bf829c36",
+      "source_pixels_match": true,
+      "visually_reopened": true
+    },
+    {
+      "file": "daily/2026-11-24/notes/images/xie-2026-latent-cr/table4-deployable-grids.png",
+      "source_pdf": "daily/2026-11-24/pdfs/xie-2026-latent-cr.pdf",
+      "source_page_1based": 23,
+      "clip_points": [
+        70,
+        76,
+        525,
+        242
+      ],
+      "render_scale": 2,
+      "width": 910,
+      "height": 332,
+      "sha256": "aad41a6cdfb3f8d8ccf4ce255b6902c3b9b208121d85ddf87f599df7c5b0c82e",
+      "source_pixels_match": true,
+      "visually_reopened": true
+    },
+    {
+      "file": "daily/2026-11-24/notes/images/xie-2026-latent-cr/table6-baseline.png",
+      "source_pdf": "daily/2026-11-24/pdfs/xie-2026-latent-cr.pdf",
+      "source_page_1based": 27,
+      "clip_points": [
+        70,
+        76,
+        525,
+        242
+      ],
+      "render_scale": 2,
+      "width": 910,
+      "height": 332,
+      "sha256": "e7daeaacf8da8a1eaf0ca15a61b3eb6bd82c8711cd088c46997d6405f75bb998",
+      "source_pixels_match": true,
+      "visually_reopened": true
+    }
+  ],
+  "evidence_boundaries": [
+    "76us is amortized latent-rollout throughput on A100 batch1480, with truth-informed reference arc-length grids; encoding/decoding/transfers/grid preprocessing excluded",
+    "Deployable model two-pass grid uses no test reference trajectory and costs153us; common-grid MAE median.0016/p95.0042/max.0077 compared with truth-grid.0016/.0028/.0053",
+    "Main1480 holdout trajectories use trained conditions; separate1480 whole-condition holdout is one random interior interpolation split after retraining",
+    "Positive decoded exponentials and unit-sum normalization do not establish kinetic accuracy; white latent fractions can diverge while decoded output remains a distribution",
+    "Terminal field nonzero, Jacobian has positive real eigenvalue on99percent of tested terminal states(p26), resetting clock fails17-72percent, no out-of-window or transport-perturbed-state acceptance",
+    "No experimental CR/transport/PIC integration, learned energy balance or all-cost benchmark verified"
+  ],
+  "source_inconsistencies": [
+    {
+      "pages": [
+        4,
+        24
+      ],
+      "issue": "population density declared m^-3 vs Fig13 density-axis 1e14 cm^-3; no unit conversion identified"
+    },
+    {
+      "pages": [
+        11,
+        14
+      ],
+      "issue": "reference1019 times1e-16..1s, model uses first1000 logarithmic times ending0.1s; sixteen-decade claim does not match15-decade endpoints"
+    },
+    {
+      "pages": [
+        19,
+        29
+      ],
+      "issue": "Table3 median0/max3.6e-7; section4.4 median6e-8/max6e-7; conclusions below4e-7 conservation rounding figures differ"
+    }
+  ]
+}

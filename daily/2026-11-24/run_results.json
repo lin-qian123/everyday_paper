@@ -1,0 +1,47 @@
+{
+  "run_date": "2026-11-24",
+  "checked_at": "2026-11-23T23:16:57.213829+00:00",
+  "ledger_before": 592,
+  "ledger_after": 596,
+  "new_works": 4,
+  "new_final_VORs": 0,
+  "actual_versions": [
+    "publisher Article in Press12p",
+    "arXivv1 17p",
+    "arXivv1 32p",
+    "arXivv1 9p"
+  ],
+  "in_place_old_work_updates": 0,
+  "old_works_preserved": 592,
+  "retry_before": 75,
+  "retry_after": 77,
+  "old_retry_objects_preserved": 75,
+  "new_retry_dois": [
+    "10.1063/5.0352710",
+    "10.1515/kern-2026-0085"
+  ],
+  "pdf_pages": 70,
+  "new_pdf_bytes": 12630527,
+  "source_visual_pages_unique": 42,
+  "retained_crops": 18,
+  "indexes": {
+    "command": "python scripts/build_indexes.py",
+    "works": 596,
+    "categories": 9
+  },
+  "tests": {
+    "command": "PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q",
+    "passed": 7,
+    "seconds": 1.12,
+    "evidence": "Observed exit0; stdout archived temporarily during final audit. Earlier async invocation result unavailable, so final verification reran once."
+  },
+  "mineru_requests": 0,
+  "fulltext_conversion": "historical401/A0211 expired credentials not retested; explicit local fallback",
+  "author_models_or_experiments_rerun": false,
+  "publication": {
+    "authorized_target": "origin/master",
+    "procedure": "commit this run only after validation; verify staged/committed blobs and fresh live remote HEAD; resulting commit and status in automation memory"
+  },
+  "existing_AGENTS_modification_preserved_and_excluded": true,
+  "unrelated_generator_wrapper_regressions_restored": 7
+}

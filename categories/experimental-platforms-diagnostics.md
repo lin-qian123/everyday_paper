@@ -2,11 +2,12 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：214 篇
-- 索引更新时间：2026-11-23
+- 当前收录：215 篇
+- 索引更新时间：2026-11-24
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-24 | [Single-Pulse Dosimetry for Ultra-High-Dose-Rate X-Ray Pulses Based on Radiation-Induced Acoustic Signals](../papers/arxiv-2611-27772/README.md) | arXiv preprint | [笔记](../daily/2026-11-24/notes/han-2026-acoustic.md) |
 | 2026-11-23 | [Quantitative evaluation of single-grating phase-contrast imaging with a femtosecond laser–plasma Kα X-ray source](../papers/10-1038-s41598-026-78588-x/README.md) | Scientific Reports | [笔记](../daily/2026-11-23/notes/giakoumakis-2026-phase.md) |
 | 2026-11-22 | [Visible light drives bright extreme-ultraviolet high harmonics](../papers/10-1038-s41467-026-79615-1/README.md) | Nature Communications | [笔记](../daily/2026-11-22/notes/karst-2026-hhg.md) |
 | 2026-11-22 | [Deep neural network-controlled autonomous laser oscillation](../papers/10-1038-s41598-026-81760-y/README.md) | Scientific Reports | [笔记](../daily/2026-11-22/notes/ikeya-2026-control.md) |

@@ -10013,5 +10013,127 @@
     "arxiv_version": "2611.26402v1",
     "announcement_date": "2026-11-20",
     "submission_timestamp_utc": "2026-11-19T16:51:10Z"
+  },
+  {
+    "title": "A conservative latent neural ODE for stiff collisional-radiative plasma kinetics",
+    "normalized_title": "a conservative latent neural ode for stiff collisional radiative plasma kinetics",
+    "doi": "10.48550/arXiv.2611.27027",
+    "authors": [
+      "Xie, Xuping",
+      "Tang, Xianzhu",
+      "Tang, Qi"
+    ],
+    "journal": "arXiv preprint",
+    "publication_date": "2026-11-20",
+    "publication_date_type": "arXiv first submission; announcement separately recorded",
+    "source_url": "https://arxiv.org/abs/2611.27027v1",
+    "publication_status": "author preprint; bounded Crossref exact-title top3 did not verify same-work journal publication",
+    "fulltext_version": "official arXiv 2611.27027v1,32p",
+    "pdf_url": "https://arxiv.org/pdf/2611.27027v1",
+    "pdf_path": "daily/2026-11-24/pdfs/xie-2026-latent-cr.pdf",
+    "pdf_sha256": "a804ae768ed296cb8e86be83fe81d66b6223f6ff5885e51d6bed50827fce20c6",
+    "note_path": "daily/2026-11-24/notes/xie-2026-latent-cr.md",
+    "processed_date": "2026-11-24",
+    "categories": [
+      "ai-ml-plasma-physics",
+      "pic-and-plasma-simulation"
+    ],
+    "arxiv_id": "2611.27027",
+    "arxiv_version": "2611.27027v1",
+    "announcement_date": "2026-11-23",
+    "submission_timestamp_utc": "2026-11-20T02:58:17Z"
+  },
+  {
+    "title": "Single-Pulse Dosimetry for Ultra-High-Dose-Rate X-Ray Pulses Based on Radiation-Induced Acoustic Signals",
+    "normalized_title": "single pulse dosimetry for ultra high dose rate x ray pulses based on radiation induced acoustic signals",
+    "doi": "10.48550/arXiv.2611.27772",
+    "authors": [
+      "Han, Qihang",
+      "Chen, Ke",
+      "Hua, Chenghao",
+      "Chen, Haoran",
+      "Ding, Lili",
+      "Li, Changhui",
+      "Ouyang, Xiaoping",
+      "Wang, Chenhui",
+      "Chen, Wei",
+      "Ma, Wenjun"
+    ],
+    "journal": "arXiv preprint",
+    "publication_date": "2026-11-20",
+    "publication_date_type": "arXiv first submission; announcement separately recorded",
+    "source_url": "https://arxiv.org/abs/2611.27772v1",
+    "publication_status": "author preprint; bounded Crossref exact-title top3 did not verify same-work journal publication",
+    "fulltext_version": "official arXiv 2611.27772v1,17p",
+    "pdf_url": "https://arxiv.org/pdf/2611.27772v1",
+    "pdf_path": "daily/2026-11-24/pdfs/han-2026-acoustic.pdf",
+    "pdf_sha256": "2de0e221679a2fb556a8c274cfa975044e2f472c9b9d9142d2ffadd4504db655",
+    "note_path": "daily/2026-11-24/notes/han-2026-acoustic.md",
+    "processed_date": "2026-11-24",
+    "categories": [
+      "experimental-platforms-diagnostics",
+      "laser-accelerated-beam-applications"
+    ],
+    "arxiv_id": "2611.27772",
+    "arxiv_version": "2611.27772v1",
+    "announcement_date": "2026-11-23",
+    "submission_timestamp_utc": "2026-11-20T16:02:54Z"
+  },
+  {
+    "title": "Feasibility study of two-stage direct laser acceleration of electrons",
+    "normalized_title": "feasibility study of two stage direct laser acceleration of electrons",
+    "doi": "10.48550/arXiv.2611.27857",
+    "authors": [
+      "Starodubtseva, E.",
+      "Solntsev, S.",
+      "Tsymbalov, I.",
+      "Savel'ev, A."
+    ],
+    "journal": "arXiv preprint",
+    "publication_date": "2026-11-20",
+    "publication_date_type": "arXiv first submission; announcement separately recorded",
+    "source_url": "https://arxiv.org/abs/2611.27857v1",
+    "publication_status": "author preprint; bounded Crossref exact-title top3 did not verify same-work journal publication",
+    "fulltext_version": "official arXiv 2611.27857v1,9p",
+    "pdf_url": "https://arxiv.org/pdf/2611.27857v1",
+    "pdf_path": "daily/2026-11-24/pdfs/starodubtseva-2026-staged-dla.pdf",
+    "pdf_sha256": "ff28613c2cc2b0a3a02cbcc0f498ddbbb1090e866e2d7837e5bde126a5382fe9",
+    "note_path": "daily/2026-11-24/notes/starodubtseva-2026-staged-dla.md",
+    "processed_date": "2026-11-24",
+    "categories": [
+      "laser-plasma-acceleration",
+      "pic-and-plasma-simulation"
+    ],
+    "arxiv_id": "2611.27857",
+    "arxiv_version": "2611.27857v1",
+    "announcement_date": "2026-11-23",
+    "submission_timestamp_utc": "2026-11-20T17:05:38Z"
+  },
+  {
+    "title": "Antimuon acceleration via electron driven coherent transition radiation",
+    "normalized_title": "antimuon acceleration via electron driven coherent transition radiation",
+    "doi": "10.1038/s41598-026-81462-5",
+    "authors": [
+      "Xu, Zhangli",
+      "Zhang, Xiaomei",
+      "Shen, Baifei"
+    ],
+    "journal": "Scientific Reports",
+    "publication_date": "2026-11-23",
+    "publication_date_type": "publisher online Article in Press; final VOR not obtained",
+    "source_url": "https://www.nature.com/articles/s41598-026-81462-5",
+    "publication_status": "publisher Article in Press, accepted2026-11-16; not final VOR",
+    "fulltext_version": "publisher Article in Press,12p",
+    "pdf_url": "https://www.nature.com/articles/s41598-026-81462-5_reference.pdf",
+    "pdf_path": "daily/2026-11-24/pdfs/xu-2026-antimuon.pdf",
+    "pdf_sha256": "fe7ea74c6b1be7cb01ce6646a38b115faa2bd72e7e170830fcdca99502c356a2",
+    "note_path": "daily/2026-11-24/notes/xu-2026-antimuon.md",
+    "processed_date": "2026-11-24",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "laser-plasma-acceleration",
+      "pic-and-plasma-simulation"
+    ],
+    "acceptance_date": "2026-11-16"
   }
 ]

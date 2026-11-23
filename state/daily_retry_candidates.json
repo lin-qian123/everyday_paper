@@ -1725,5 +1725,47 @@
     "failure_count": 1,
     "attempted_at": "2026-11-22T23:11:49.958521+00:00",
     "evidence_path": "daily/2026-11-23/research/source_access_checks.json"
+  },
+  {
+    "doi": "10.1063/5.0352710",
+    "title": "Collimation of direct-laser-accelerated electron beams via a wedge-modified gas jet target",
+    "publication_date": "2026-11-23",
+    "source_url": "https://pubs.aip.org/apl/article/129/21/214101/3409155/Collimation-of-direct-laser-accelerated-electron",
+    "pdf_candidates": [
+      "https://pubs.aip.org/aip/apl/article-pdf/doi/10.1063/5.0352710/21208538/214101_1_5.0352710.pdf"
+    ],
+    "topic": "DLA beam collimation and target design",
+    "source_family": "aip",
+    "stderr": "Official article403HTML5757B and actual Crossref VOR PDF403HTML5696B; HAL exact-title top5numFound0; bounded web no verified same-work legal author PDF. No abstract-only note.",
+    "run_date": "2026-11-24",
+    "status": "download_failed",
+    "last_failure_class": "publisher_pdf_403_html",
+    "failure_count": 1,
+    "attempted_at": "2026-11-23T23:14:33.096877+00:00",
+    "evidence_path": "daily/2026-11-24/research/source_access_checks.json",
+    "output_pdf": "daily/2026-11-24/pdfs/lan-2026-wedge-dla.pdf",
+    "pdf_hint_url": "https://pubs.aip.org/aip/apl/article-pdf/doi/10.1063/5.0352710/21208538/214101_1_5.0352710.pdf",
+    "journal": "Applied Physics Letters"
+  },
+  {
+    "doi": "10.1515/kern-2026-0085",
+    "title": "FLUKA-based assessment of induced radioactivity in iron target and surrounding coolants under 400 MeV carbon-ion irradiation",
+    "publication_date": "2026-11-23",
+    "source_url": "https://www.degruyterbrill.com/document/doi/10.1515/kern-2026-0085/html",
+    "pdf_candidates": [
+      "https://www.degruyterbrill.com/document/doi/10.1515/kern-2026-0085/pdf"
+    ],
+    "topic": "carbon-ion target and coolant activation; radiation protection modelling",
+    "source_family": "degruyter",
+    "stderr": "Official article/PDF and de/PDF routes HTTP202 text/html with zero bytes; official open-access PDF query licenseType=open-access also202empty. Web can index official HTML/PDF, but no verified local PDF obtained. HAL exact-title top5numFound0; no abstract-only note.",
+    "run_date": "2026-11-24",
+    "status": "download_failed",
+    "last_failure_class": "publisher_pdf_202_empty",
+    "failure_count": 1,
+    "attempted_at": "2026-11-23T23:14:33.096877+00:00",
+    "evidence_path": "daily/2026-11-24/research/source_access_checks.json",
+    "output_pdf": "daily/2026-11-24/pdfs/shaheen-2026-activation.pdf",
+    "pdf_hint_url": "https://www.degruyterbrill.com/document/doi/10.1515/kern-2026-0085/pdf",
+    "journal": "Kerntechnik"
   }
 ]

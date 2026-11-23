@@ -1,0 +1,439 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        20
+      ]
+    ],
+    "date-time": "2026-11-20T08:20:22Z",
+    "timestamp": 1795162822696,
+    "version": "4.10.3"
+  },
+  "reference-count": 40,
+  "publisher": "Walter de Gruyter GmbH",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            23
+          ]
+        ],
+        "date-time": "2026-11-23T00:00:00Z",
+        "timestamp": 1795392000000
+      },
+      "content-version": "unspecified",
+      "delay-in-days": 0,
+      "URL": "http://creativecommons.org/licenses/by/4.0"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Simulations were performed to investigate neutron-induced radioactivity in the iron (Fe) target and surrounding coolants (sodium-potassium alloy (NaK), lead (Pb), water (H\n                    <jats:sub>2</jats:sub>\n                    O), liquid sodium (Na), and carbon dioxide (CO\n                    <jats:sub>2</jats:sub>\n                    )) by bombarding the target with 400 MeV carbon ions. Radionuclides produced within the target material and each coolant were evaluated over time using the FLUKA Monte Carlo code. The temporal evolution of all induced radionuclides was analyzed and visualized through time-dependent activity curves. Neutron yield was quantified at an incident energy of 400 MeV. It was observed that low-energy neutrons were the main cause of activation. During the shutdown of the accelerator,\n                    <jats:sup>56</jats:sup>\n                    Mn was observed with a high ratio inside the iron target, while\n                    <jats:sup>41</jats:sup>\n                    Ar,\n                    <jats:sup>200</jats:sup>\n                    Pb,\n                    <jats:sup>11</jats:sup>\n                    C, and\n                    <jats:sup>24</jats:sup>\n                    Na were identified as the primary contributors in the respective coolants: NaK, Lead, water, and liquid sodium. Specifically,\n                    <jats:sup>11</jats:sup>\n                    C was dominant in both water and CO\n                    <jats:sub>2</jats:sub>\n                    . From the start of irradiation to saturation, and with elapsed cooling time, growth and decay curves for each major induced element were summarized. A large amount of short-lived beta-decay radionuclides appeared while the accelerator was shut down; induced radionuclides with low activity were ignored due to low hazard. Considering the protection of radiation workers during maintenance or handling the equipment, research results show that lead (Pb) will produce the highest radiation effects when used as a coolant in a nuclear reactor, and it will require extra care as compared to water, gas, and other coolants included in this study.\n                  </jats:p>",
+  "DOI": "10.1515/kern-2026-0085",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        20
+      ]
+    ],
+    "date-time": "2026-11-20T07:56:19Z",
+    "timestamp": 1795161379000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "FLUKA-based assessment of induced radioactivity in iron target and surrounding coolants under 400 MeV carbon-ion irradiation"
+  ],
+  "prefix": "10.1515",
+  "author": [
+    {
+      "given": "Farnaz",
+      "family": "Shaheen",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Department of Physics , Kohat University of Science and Technology , Kohat , 26000 , Khyber Pakhtunkhwa , Pakistan"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Sajid",
+      "family": "Khan",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Physics , Kohat University of Science and Technology , Kohat , 26000 , Khyber Pakhtunkhwa , Pakistan"
+        },
+        {
+          "name": "Center for High Energy Physics, Kyungpook National University , Daegu , 41566 , Republic of Korea"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Aaliya",
+      "family": "Farooq",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Physics , Kohat University of Science and Technology , Kohat , 26000 , Khyber Pakhtunkhwa , Pakistan"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "374",
+  "published-online": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        23
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_001",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Aisyah, N., Khotimah, K., Madyaningarum, N., Wahyono, Y., Hakim, S.U.E., Sasongko, N.A., and Nasruddin, N. (2025). Environmental and human health impact evaluation of nuclear power plant by using Life Cycle Assessment (LCA) in Indonesia. Energy Sources, Part A Recovery, Util. Environ. Eff. 47: 11326–11350, https://doi.org/10.1080/15567036.2025.2501238.",
+      "DOI": "10.1080/15567036.2025.2501238"
+    },
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_002",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Aim-O, P., Manasatitpong, K., Mahakot, S., Akhrawutchayanon, T., Yubonmhat, K., and Wongsawaeng, D. (2023). X-ray fluorescence (XRF) analysis and prediction of induced radioactivity components for high-energy electron accelerator. Mater. Today Proc., in press, https://doi.org/10.1016/j.matpr.2023.04.556.",
+      "DOI": "10.1016/j.matpr.2023.04.556"
+    },
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_003",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Akbari, R. and Cammi, A. (2024). The longevity of light water-cooled large-scale nuclear reactors: a holistic perspective. Nucl. Eng. Des. 417: 112830, https://doi.org/10.1016/j.nucengdes.2023.112830.",
+      "DOI": "10.1016/j.nucengdes.2023.112830"
+    },
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_004",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Alekseev, V.V., Kuzina, Y.A., and Sorokin, A.P. (2020). Physical chemistry and technology of alkaline liquid-metal coolant: a retrospective-perspective look. Atom. Energy 128: 204–210, https://doi.org/10.1007/s10512-020-00678-4.",
+      "DOI": "10.1007/s10512-020-00678-4"
+    },
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_005",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Alemberti, A., Smirnov, V., Smith, C.F., and Takahashi, M. (2014). Overview of lead-cooled fast reactor activities. Prog. Nucl. Energy 77: 300–307, https://doi.org/10.1016/j.pnucene.2013.11.011.",
+      "DOI": "10.1016/j.pnucene.2013.11.011"
+    },
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_006",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Ballarini, F., Batkov, K., Battistoni, G., Bisogni, M.G., Böhlen, T.T., Campanella, M., Carante, M.P., Chen, D., De Gregorio, A., Degtiarenko, P.V., et al.. (2024). The FLUKA code: overview and new developments. EPJ Nucl. Sci. Technol. 10: 16, https://doi.org/10.1051/epjn/2024015.",
+      "DOI": "10.1051/epjn/2024015"
+    },
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_007",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Dharmadji, J.S., Prasetyo, Y.T., Daniel, A., Lin, H.M., Cahigas, M.M.L., Nadlifatin, R., and Gumasing, M.J.J. (2025). Willingness to eat seafood among Taiwanese after the 2023 Fukushima radioactive water release: an extended Theory of Planned Behavior approach. Nucl. Eng. Technol. 57: 103282, https://doi.org/10.1016/j.net.2024.10.044.",
+      "DOI": "10.1016/j.net.2024.10.044"
+    },
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_008",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Dolin, V., Yakovlev, Y., Cancemi, S.A., and Lo Frano, R. (2025). The impact of tritium in the environment. Appl. Sci. 15: 6664, https://doi.org/10.3390/app15126664.",
+      "DOI": "10.3390/app15126664"
+    },
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_009",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Donadon, A., Hugo, G., Theis, C., and Vlachoudis, V. (2024). FLAIR3–recasting simulation experiences with the Advanced Interface for FLUKA and other Monte Carlo codes. EPJ Web Conf. 302: 11005, https://doi.org/10.1051/epjconf/202430211005.",
+      "DOI": "10.1051/epjconf/202430211005"
+    },
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_010",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Dubinin, N.E. (2025). Heat capacities and thermal coefficients of sodium’s and eutectic sodium–potassium’s coolants for nuclear reactors. Appl. Sci. 15: 7566, https://doi.org/10.3390/app15137566.",
+      "DOI": "10.3390/app15137566"
+    },
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_011",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Fedin, P.A., Pryanishnikov, K.E., Ziyatdinova, A.V., Kozlov, A.V., Kuybida, R.P., Kulevoy, T.V., Bobyr, N.P., Abin, D.A., Rudnev, I.A., Nikitin, A.A., et al.. (2022). Simulation experiments at the heavy ion accelerator HIPr. Phys. Atom. Nucl. 85: S50–S54, https://doi.org/10.1134/S1063778822140071.",
+      "DOI": "10.1134/S1063778822140071"
+    },
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_012",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Georgin, J., Franco, D.S.P., de Oliveira, J.S., Dehmani, Y., El Messaoudi, N., Miyah, Y., Alruwaili, A., Knani, S., and Hwang, Y. (2026). Decontamination of pollutants present in water, air, and soil through phytoremediation: a critical review. Int. J. Phytoremediation 28: 524–550, https://doi.org/10.1080/15226514.2025.2575792.",
+      "DOI": "10.1080/15226514.2025.2575792"
+    },
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_013",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Giwa, A., Eniola, J.O., Salem, A.B., Alshamsi, A.A., Omar, K.A., Alnuaimi, N.S., Al-Fahad, S.G., and Rashed, L.A. (2025). Navigating the nuclear tide: a comprehensive review of challenges, opportunities, and advances in managing marine contamination by radioactive contaminants. Mar. Pollut. Bull. 217: 118113, https://doi.org/10.1016/j.marpolbul.2025.118113.",
+      "DOI": "10.1016/j.marpolbul.2025.118113"
+    },
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_014",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Gong, X., Ren, H., Ma, X., Wang, P., Yu, S., Zou, H., and Cao, Y. (2025). Assessment of tritium and carbon-14 radioactivity levels in food and associated risks prior to the operation of San’ao Nuclear Power Plant. Environ. Technol. Innovat. 37: 104016, https://doi.org/10.1016/j.eti.2025.104016.",
+      "DOI": "10.1016/j.eti.2025.104016"
+    },
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_015",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Harsányi, I., Horváth, A., Kis, Z., Gméling, K., Jozwiak-Niedzwiedzka, D., Glinicki, M.A., and Szentmiklósi, L. (2023). Assessment of neutron-induced activation of irradiated samples in a research reactor. Nucl. Eng. Technol. 55: 1036–1044, https://doi.org/10.1016/j.net.2022.11.004.",
+      "DOI": "10.1016/j.net.2022.11.004"
+    },
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_016",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Kristanti, R.A. and Hadibarata, T. (2026). Radiological contaminant in drinking water: contamination, treatment and policy perspectives – a review. Curr. Opin. Environ. Sci. Health 50: 100709, https://doi.org/10.1016/j.coesh.2026.100709.",
+      "DOI": "10.1016/j.coesh.2026.100709"
+    },
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_017",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Lai, H., Wang, H., Gao, Q., Yang, Y., Wu, X., Fang, P., Guo, Y., and Yang, L. (2023). Radiation characteristics analysis for spallation products of lead–bismuth target and tungsten–iron–nickel target. Appl. Radiat. Isot. 194: 110728, https://doi.org/10.1016/j.apradiso.2023.110728.",
+      "DOI": "10.1016/j.apradiso.2023.110728"
+    },
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_018",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Legkikh, K.G. and Smykov, V.B. (2024). Innovative technologies for immobilizing the sodium primary coolant of fast neutron reactors and processing liquid radioactive waste generated during reactor operation. Atom. Energy 137: 129–135, https://doi.org/10.1007/s10512-025-01186-z.",
+      "DOI": "10.1007/s10512-025-01186-z"
+    },
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_019",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Lister, D. and Uchida, S. (2015). Determining water chemistry conditions in nuclear reactor coolants. J. Nucl. Sci. Technol. 52: 451–466, https://doi.org/10.1080/00223131.2014.973460.",
+      "DOI": "10.1080/00223131.2014.973460"
+    },
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_020",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Lu, D., Ding, H., Sui, D., and Teng, Y. (2023). Safety analysis of a supercritical carbon dioxide cooled reactor system coupled with Brayton cycle under loss-of-coolant accident. Prog. Nucl. Energy 161: 104718, https://doi.org/10.1016/j.pnucene.2023.104718.",
+      "DOI": "10.1016/j.pnucene.2023.104718"
+    },
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_021",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Ma, F., Li, W., Yang, Y., Shi, J., Chen, R., Su, Y., Yang, B., Yan, W., Wang, J., and Ding, Y. (2025). Induced radioactivity analysis of HIMM accelerator hall and treatment room under different operation modes. Appl. Radiat. Isot. 226: 112248, https://doi.org/10.1016/j.apradiso.2025.112248.",
+      "DOI": "10.1016/j.apradiso.2025.112248"
+    },
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_022",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Mamand, K.O., Abda, J.M.R., and Abdullah, K.O. (2025). Assessment of natural radioactivity levels and radiation hazards in soil samples from selected districts of Garmian zone, Sulaymaniyah city, Kurdistan region, Iraq (Oil & Gas Block). Environ. Geochem. Health 47: 472, https://doi.org/10.1007/s10653-025-02789-y.",
+      "DOI": "10.1007/s10653-025-02789-y"
+    },
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_023",
+      "unstructured": "Moiseev, A.V., Zhirnov, A.P., Davydov, V.K., Balovnev, A.V., Kalugina, K.M., Ivanyuta, A.N. and Soldatov, E.O. (2022). Computational studies of advantages of lead-cooled fast reactor core. In: International conference on fast reactors and related fuel cycles: sustainable clean energy for the future (FR22). IAEA, Vienna, Austria, pp. 19–22."
+    },
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_024",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Mozgovoi, A.G., Roshchupkin, V.V., Skovorod’ko, S.N., Pokrasin, M.A., and Chernov, A.I. (2003). The density of liquid sodium–potassium eutectic. High Temp. 41: 340–345, https://doi.org/10.1023/A:1024286409533.",
+      "DOI": "10.1023/A:1024286409533"
+    },
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_025",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Ohshima, H. and Kubo, S. (2023). Sodium-cooled fast reactors (SFRs). In: Handbook of generation IV nuclear reactors, 2nd ed. Woodhead Publishing, Oxford, pp. 173–194.",
+      "DOI": "10.1016/B978-0-12-820588-4.00006-2"
+    },
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_026",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Parvathaneni, S., Kodukula, B., and Andrade, M.W. (2024). Iron-ore reduction in fluidized beds: review of commercial technologies, status, and challenges. Ind. Eng. Chem. Res. 63: 18724–18733, https://doi.org/10.1021/acs.iecr.4c02282.",
+      "DOI": "10.1021/acs.iecr.4c02282"
+    },
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_027",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Proud, L., Tapoglou, N., and Slatter, T. (2022). A review of CO2 coolants for sustainable machining. Metals 12: 283, https://doi.org/10.3390/met12020283.",
+      "DOI": "10.3390/met12020283"
+    },
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_028",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Qiu, S., Liu, H., Jiang, M., Min, S., Gu, Y., Wang, Q., Yang, J., Li, X., Chen, Z., and Hou, J. (2023). A brief review on He ion irradiation research of steel and iron-based alloys in nuclear power plants. Acta Metall. Sin. (English Letters) 36: 529–551, https://doi.org/10.1007/s40195-022-01475-7.",
+      "DOI": "10.1007/s40195-022-01475-7"
+    },
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_029",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Qureshi, K. (2015). Role of advanced nuclear reactor technologies in meeting the growing energy demands. In: 2015 power generation system and renewable energy technologies (PGSRET). IEEE, pp. 1–5.",
+      "DOI": "10.1109/PGSRET.2015.7312206"
+    },
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_030",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Singh, P.K., Kumar, U., Kumar, I., Dwivedi, A., Singh, P., Mishra, S., Seth, C.S., and Sharma, R.K. (2024). Critical review on toxic contaminants in surface water ecosystem: sources, monitoring, and its impact on human health. Environ. Sci. Pollut. Res. 31: 56428–56462, https://doi.org/10.1007/s11356-024-34932-0.",
+      "DOI": "10.1007/s11356-024-34932-0"
+    },
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_031",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Sorokin, A.P., Kuzina, Y.A., Ashadullin, R.S., and Alekseev, V.V. (2023). Study into the physical chemistry and technology of alkali liquid metal coolants for nuclear and thermonuclear power plants. Nucl. Energy Technol. 9: 43–49, https://doi.org/10.3897/nucet.9.101761.",
+      "DOI": "10.3897/nucet.9.101761"
+    },
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_032",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Sudha, R., Routray, C., Ganesan, R., and Jayaraman, V. (2025). Radionuclide traps for sodium-cooled fast reactors – a review. Nucl. Eng. Des. 444: 114354, https://doi.org/10.1016/j.nucengdes.2025.114354.",
+      "DOI": "10.1016/j.nucengdes.2025.114354"
+    },
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_033",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Talaat, K. and Chen, M. (2023). Design of a prototypical natural circulation water-based reactor cavity cooling system (RCCS) for a pebble-bed generic FHR. Nucl. Eng. Des. 407: 112303, https://doi.org/10.1016/j.nucengdes.2023.112303.",
+      "DOI": "10.1016/j.nucengdes.2023.112303"
+    },
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_034",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Trojanowicz, M., Kołacińska, K., and Grate, J.W. (2018). A review of flow analysis methods for determination of radionuclides in nuclear wastes and nuclear reactor coolants. Talanta 183: 70–82, https://doi.org/10.1016/j.talanta.2018.02.050.",
+      "DOI": "10.1016/j.talanta.2018.02.050"
+    },
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_035",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Vasquez, A., Seshadri, A., Shirvan, K., and Buongiorno, J. (2026). Preliminary investigation of gamma radiation on the chemical and physical characteristics of an organic coolant. Nucl. Technol. 212: 887–898, https://doi.org/10.1080/00295450.2025.2553362.",
+      "DOI": "10.1080/00295450.2025.2553362"
+    },
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_036",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Wang, Q., Lei, K., Zhu, Z., and Zhang, A. (2026). A review of multiphysics coupling numerical modeling techniques for risk assessment in geological disposal of high-level radioactive waste. J. Environ. Radioact. 293: 107902, https://doi.org/10.1016/j.jenvrad.2026.107902.",
+      "DOI": "10.1016/j.jenvrad.2026.107902"
+    },
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_037",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Xing, M., Fan, J., Shen, F., Lu, D., Li, L., Yu, H., and Fan, J. (2025). Comparative analysis on the characteristics of liquid lead and lead–bismuth eutectic as coolants for fast reactors. Energies 18: 596, https://doi.org/10.3390/en18030596.",
+      "DOI": "10.3390/en18030596"
+    },
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_038",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Yang, B., Li, W., Su, Y., Khasanov, S., Sun, H., Chen, W., Li, Y., Yan, W., Wang, L., Mao, W., et al.. (2026). Simulation study on induced radioactivity in HIAF’s cooling water and its disposal and safety implications for personnel. Appl. Radiat. Isot. 227: 112268, https://doi.org/10.1016/j.apradiso.2025.112268.",
+      "DOI": "10.1016/j.apradiso.2025.112268"
+    },
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_039",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Yin, S., Ding, G., and Ma, Z. (2025). Induced radioactivity studies of accelerator components of different materials. J. Phys. Conf. Ser. 3030: 012004, https://doi.org/10.1088/1742-6596/3030/1/012004.",
+      "DOI": "10.1088/1742-6596/3030/1/012004"
+    },
+    {
+      "key": "2026112007561130398_j_kern-2026-0085_ref_040",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Yu, Y. and Chen, Z. (2024). Study on induced radioactivity in proton therapy accelerators. Radiat. Phys. Chem. 221: 111751, https://doi.org/10.1016/j.radphyschem.2024.111751.",
+      "DOI": "10.1016/j.radphyschem.2024.111751"
+    }
+  ],
+  "container-title": [
+    "Kerntechnik"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.degruyterbrill.com/document/doi/10.1515/kern-2026-0085/xml",
+      "content-type": "application/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.degruyterbrill.com/document/doi/10.1515/kern-2026-0085/pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        20
+      ]
+    ],
+    "date-time": "2026-11-20T07:56:31Z",
+    "timestamp": 1795161391000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.degruyterbrill.com/document/doi/10.1515/kern-2026-0085/html"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        23
+      ]
+    ]
+  },
+  "references-count": 40,
+  "alternative-id": [
+    "10.1515/kern-2026-0085"
+  ],
+  "URL": "https://doi.org/10.1515/kern-2026-0085",
+  "relation": {},
+  "ISSN": [
+    "0932-3902",
+    "2195-8580"
+  ],
+  "issn-type": [
+    {
+      "value": "0932-3902",
+      "type": "print"
+    },
+    {
+      "value": "2195-8580",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        23
+      ]
+    ]
+  }
+}
