@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Plasma waveguides for high-intensity laser pulses",
+    "normalized_title": "plasma waveguides for high intensity laser pulses",
+    "doi": "10.1103/mw87-cjg8",
+    "authors": [
+      "Shrock, J. E.",
+      "Miao, B.",
+      "Rockafellow, E.",
+      "Milchberg, H. M."
+    ],
+    "journal": "Reviews of Modern Physics",
+    "publication_date": null,
+    "source_url": "https://journals.aps.org/rmp/abstract/10.1103/mw87-cjg8",
+    "pdf_url": "https://arxiv.org/pdf/2512.08690v2",
+    "pdf_path": "daily/2026-11-25/pdfs/shrock-2026-plasma-waveguides.pdf",
+    "pdf_sha256": "60337fbfa1eab4066f0e2c9a3d8d2167c5381659df2b07d73216441a7c11ce8f",
+    "note_path": "daily/2026-11-25/notes/shrock-2026-plasma-waveguides.md",
+    "processed_date": "2026-11-25",
+    "categories": [
+      "laser-plasma-acceleration",
+      "experimental-platforms-diagnostics",
+      "pic-and-plasma-simulation"
+    ],
+    "acceptance_date": "2026-11-24",
+    "acceptance_date_type": "Crossref accepted field; publisher acceptance/publication page unavailable",
+    "publication_date_type": "unverified; Crossref published-online duplicates accepted date without volume/page, not treated as publication",
+    "publication_status": "Crossref acceptance record; final publication not independently confirmed",
+    "fulltext_version": "author arXiv2512.08690v2 dated2026-11-03,113p; not publisher accepted manuscript or final VOR",
+    "arxiv_id": "2512.08690",
+    "preprint_version": "v2",
+    "preprint_date": "2025-12-09",
+    "preprint_revision_date": "2026-11-03",
+    "preprint_url": "https://arxiv.org/abs/2512.08690v2",
+    "identity_evidence": "exact title and all4 authors match; abstract subject and version confirmed from official arXiv; Crossref DOI newly assigned; finalVOR unavailable"
+  },
+  {
+    "title": "Phase-Space Shaping Due to Betatron Cooling in Wakefield Accelerators and the Onset of the Ion-Channel Laser",
+    "normalized_title": "phase space shaping due to betatron cooling in wakefield accelerators and the onset of the ion channel laser",
+    "doi": "10.1103/k67h-dvxp",
+    "authors": [
+      "Bilbao, P. J.",
+      "Silva, T.",
+      "Silva, L. O."
+    ],
+    "journal": "Physical Review Letters",
+    "publication_date": "2026-11-24",
+    "source_url": "https://journals.aps.org/prl/abstract/10.1103/k67h-dvxp",
+    "pdf_url": "https://harvest.aps.org/v2/journals/articles/10.1103/k67h-dvxp/fulltext",
+    "pdf_path": "daily/2026-11-25/pdfs/bilbao-2026-betatron-cooling.pdf",
+    "pdf_sha256": "2be32a85353c350778eb727c6f83a71d3ea4b6c0bd5c5f36574c0cdf27fe81fa",
+    "note_path": "daily/2026-11-25/notes/bilbao-2026-betatron-cooling.md",
+    "processed_date": "2026-11-25",
+    "categories": [
+      "laser-plasma-acceleration",
+      "strong-field-qed-radiation",
+      "pic-and-plasma-simulation"
+    ],
+    "publication_date_type": "publisher finalVOR first page",
+    "acceptance_date": "2026-10-30",
+    "publication_status": "published final VOR",
+    "fulltext_version": "APS finalVOR9p includingEndMatterA-C; onlineSupplement unavailable403",
+    "arxiv_id": "2510.24567",
+    "preprint_version": "v2",
+    "preprint_date": "2025-10-28",
+    "preprint_revision_date": "2026-10-29",
+    "identity_evidence": "Crossref has-preprint relation + exact title/authors; author version identity only, actual fulltext finalVOR",
+    "volume": "137",
+    "article_number": "225001"
+  },
+  {
+    "title": "Multi-diagnostic experimental validation of PIC/MCC simulations of symmetric capacitively coupled plasmas in CF4",
+    "normalized_title": "multi diagnostic experimental validation of pic mcc simulations of symmetric capacitively coupled plasmas in cf4",
+    "doi": "10.1088/1361-6595/aebfc4",
+    "authors": [
+      "Neuroth, Constantin",
+      "Wang, Li",
+      "Derzsi, Aranka",
+      "Hartmann, Peter",
+      "Beckfeld, Florian",
+      "Ryppa, Maximilian",
+      "Masheyeva, Ranna",
+      "Donkó, Zoltán",
+      "Schulze, Julian"
+    ],
+    "journal": "Plasma Sources Science and Technology",
+    "publication_date": "2026-11-24",
+    "source_url": "https://iopscience.iop.org/article/10.1088/1361-6595/aebfc4",
+    "pdf_url": "https://iopscience.iop.org/article/10.1088/1361-6595/aebfc4/pdf",
+    "pdf_path": "daily/2026-11-25/pdfs/neuroth-2026-cf4-pic-validation.pdf",
+    "pdf_sha256": "44199c207ec42ca7a95087e381c6223549d4dbac4782ba1e7b81863ed24b4a29",
+    "note_path": "daily/2026-11-25/notes/neuroth-2026-cf4-pic-validation.md",
+    "processed_date": "2026-11-25",
+    "categories": [
+      "pic-and-plasma-simulation",
+      "experimental-platforms-diagnostics"
+    ],
+    "publication_date_type": "publisher finalVOR article first page (PDFp2); cover+25article pages",
+    "acceptance_date": "2026-11-09",
+    "publication_status": "published final VOR",
+    "fulltext_version": "IOP finalVOR26p including1downloadcover",
+    "volume": "35",
+    "article_number": "115019"
+  },
+  {
+    "title": "Relativistic Harmonic Generation in Spatiotemporal Plasma Photonic Crystals",
+    "normalized_title": "relativistic harmonic generation in spatiotemporal plasma photonic crystals",
+    "doi": "10.48550/arXiv.2611.30084",
+    "authors": [
+      "Zhang, Haojie",
+      "Li, Boyuan",
+      "An, Xiangyan",
+      "Huang, Rong",
+      "Liu, Feng",
+      "Sheng, Zheng-Ming",
+      "Chen, Min"
+    ],
+    "journal": "arXiv",
+    "publication_date": "2026-11-23",
+    "source_url": "https://arxiv.org/abs/2611.30084v1",
+    "pdf_url": "https://arxiv.org/pdf/2611.30084v1",
+    "pdf_path": "daily/2026-11-25/pdfs/zhang-2026-plasma-crystals.pdf",
+    "pdf_sha256": "a28ff421c6030cc54014c31996d73f28764fcf27b49f6c417d8b96a32c3b11d5",
+    "note_path": "daily/2026-11-25/notes/zhang-2026-plasma-crystals.md",
+    "processed_date": "2026-11-25",
+    "categories": [
+      "experimental-platforms-diagnostics",
+      "pic-and-plasma-simulation"
+    ],
+    "publication_date_type": "arXivfirstsubmission2026-11-23; announced2026-11-24, not journal publication",
+    "publication_status": "author preprint; same-work journal not verified",
+    "fulltext_version": "arXivv1 13p including4pSupplement1",
+    "arxiv_id": "2611.30084",
+    "preprint_version": "v1",
+    "preprint_date": "2026-11-23",
+    "announcement_date": "2026-11-24"
+  }
+]

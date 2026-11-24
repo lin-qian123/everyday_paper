@@ -1,0 +1,124 @@
+{
+  "shrock-2026-plasma-waveguides": {
+    "arxiv_id_version": "2512.08690v2",
+    "source_url": "https://arxiv.org/abs/2512.08690v2",
+    "status": 200,
+    "metadata": {
+      "citation_title": [
+        "Plasma waveguides for high-intensity laser pulses"
+      ],
+      "citation_author": [
+        "Shrock, J. E.",
+        "Miao, B.",
+        "Rockafellow, E.",
+        "Milchberg, H. M."
+      ],
+      "citation_date": [
+        "2025/12/09"
+      ],
+      "citation_online_date": [
+        "2026/11/03"
+      ],
+      "citation_pdf_url": [
+        "https://arxiv.org/pdf/2512.08690"
+      ],
+      "citation_arxiv_id": [
+        "2512.08690"
+      ],
+      "citation_abstract": [
+        "Fundamental to many applications of laser pulses in science and technology is an extended interaction length with matter that significantly exceeds the distance over which the pulse would normally diffract and transversely spread. At low intensity, the interaction could simply be the linear refraction provided by a glass optical fiber to keep the pulse from spreading. At higher pulse intensities, however, the goal extends beyond diffraction-free pulse transport: an extended interaction length of high intensity light can give rise to bright secondary sources of photons and, at relativistic intensities, beams of high energy charged particles. Since these applications require laser intensities well above the threshold for ionization of atoms, new methods for overcoming pulse diffraction in a plasma have been developed. Chief among them are plasma waveguides -- optical fibers composed of plasma, with characteristic mode structure. This article reviews the methods and theory of plasma waveguides, highlighting the recent development of meter-scale plasma waveguides that have been instrumental to the laser acceleration of high-charge electron beams to energies ~10 GeV"
+      ]
+    },
+    "submission_history": "Submission history From: Howard Milchberg [ view email ] [v1] Tue, 9 Dec 2025 15:09:37 UTC (9,819 KB) [v2] Tue, 3 Nov 2026 16:23:16 UTC (7,948 KB)",
+    "abstract": "Abstract: Fundamental to many applications of laser pulses in science and technology is an extended interaction length with matter that significantly exceeds the distance over which the pulse would normally diffract and transversely spread. At low intensity, the interaction could simply be the linear refraction provided by a glass optical fiber to keep the pulse from spreading. At higher pulse intensities, however, the goal extends beyond diffraction-free pulse transport: an extended interaction length of high intensity light can give rise to bright secondary sources of photons and, at relativistic intensities, beams of high energy charged particles. Since these applications require laser intensities well above the threshold for ionization of atoms, new methods for overcoming pulse diffraction in a plasma have been developed. Chief among them are plasma waveguides -- optical fibers composed of plasma, with characteristic mode structure. This article reviews the methods and theory of plasma waveguides, highlighting the recent development of meter-scale plasma waveguides that have been instrumental to the laser acceleration of high-charge electron beams to energies ~10 GeV",
+    "pdf_download": {
+      "url": "https://arxiv.org/pdf/2512.08690v2",
+      "final_url": "https://arxiv.org/pdf/2512.08690v2",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 8138396,
+      "magic_pdf": true,
+      "saved_path": "daily/2026-11-25/pdfs/shrock-2026-plasma-waveguides.pdf",
+      "sha256": "60337fbfa1eab4066f0e2c9a3d8d2167c5381659df2b07d73216441a7c11ce8f"
+    }
+  },
+  "bilbao-2026-betatron-cooling": {
+    "arxiv_id_version": "2510.24567v2",
+    "source_url": "https://arxiv.org/abs/2510.24567v2",
+    "status": 200,
+    "metadata": {
+      "citation_title": [
+        "Phase-Space Shaping due to Betatron Cooling in Wakefield Accelerators and the Onset of the Ion-Channel Laser"
+      ],
+      "citation_author": [
+        "Bilbao, Pablo J.",
+        "Silva, Thales",
+        "Silva, Luis O."
+      ],
+      "citation_date": [
+        "2025/10/28"
+      ],
+      "citation_online_date": [
+        "2026/10/29"
+      ],
+      "citation_pdf_url": [
+        "https://arxiv.org/pdf/2510.24567"
+      ],
+      "citation_arxiv_id": [
+        "2510.24567"
+      ],
+      "citation_abstract": [
+        "Plasma-based accelerators are beginning to employ relativistic beams with unprecedented charge and ultrashort durations. These dense driver beams can drive wakes even in high-density plasmas ($\\gtrsim10^{19}$ cm$^{-3}$), where betatron radiation becomes increasingly important and begins to affect the dynamics of the accelerated beam. We show that betatron cooling leads to a strong structuring of the phase space of the beam. This gives rise to bunched, ring-like structures with positive radial position and momentum gradients, \\emph{i.e.}, population inversion of the amplitude of oscillation. We derive the characteristic timescales for this process analytically and confirm our predictions with multi-dimensional Particle-in-Cell simulations. The radiation-dominated regime of beam dynamics fundamentally alters the acceleration process and produces self-structured beams\\reviewtwo{; Particle-in-Cell simulations of the resulting beams show that it becomes unstable to the ion-channel laser and lead to exponential amplification of radiation."
+      ]
+    },
+    "submission_history": "Submission history From: Pablo J. Bilbao [ view email ] [v1] Tue, 28 Oct 2025 15:58:10 UTC (9,848 KB) [v2] Thu, 29 Oct 2026 09:09:01 UTC (11,171 KB)",
+    "abstract": "Abstract: Plasma-based accelerators are beginning to employ relativistic beams with unprecedented charge and ultrashort durations. These dense driver beams can drive wakes even in high-density plasmas ($\\gtrsim10^{19}$ cm$^{-3}$), where betatron radiation becomes increasingly important and begins to affect the dynamics of the accelerated beam. We show that betatron cooling leads to a strong structuring of the phase space of the beam. This gives rise to bunched, ring-like structures with positive radial position and momentum gradients, \\emph{i.e.}, population inversion of the amplitude of oscillation. We derive the characteristic timescales for this process analytically and confirm our predictions with multi-dimensional Particle-in-Cell simulations. The radiation-dominated regime of beam dynamics fundamentally alters the acceleration process and produces self-structured beams\\reviewtwo{; Particle-in-Cell simulations of the resulting beams show that it becomes unstable to the ion-channel laser and lead to exponential amplification of radiation.",
+    "pdf_download": "already valid publisher PDF; author PDF not downloaded"
+  },
+  "zhang-2026-plasma-crystals": {
+    "arxiv_id_version": "2611.30084v1",
+    "source_url": "https://arxiv.org/abs/2611.30084v1",
+    "status": 200,
+    "metadata": {
+      "citation_title": [
+        "Relativistic Harmonic Generation in Spatiotemporal Plasma Photonic Crystals"
+      ],
+      "citation_author": [
+        "Zhang, Haojie",
+        "Li, Boyuan",
+        "An, Xiangyan",
+        "Huang, Rong",
+        "Liu, Feng",
+        "Sheng, Zheng-Ming",
+        "Chen, Min"
+      ],
+      "citation_date": [
+        "2026/11/23"
+      ],
+      "citation_online_date": [
+        "2026/11/23"
+      ],
+      "citation_pdf_url": [
+        "https://arxiv.org/pdf/2611.30084"
+      ],
+      "citation_arxiv_id": [
+        "2611.30084"
+      ],
+      "citation_abstract": [
+        "Spatiotemporal photonic crystals offer a route to controlling the frequency, momentum, and energy of light. Extending this capability to relativistic laser intensities calls for a plasma-based platform. Here we propose a spatiotemporal plasma photonic crystal (SPPC) formed at a solid surface driven by intense pump pulses, with a separate probe interacting with the resulting modulation. The spatial and temporal periodicity of the SPPC determines the allowed harmonic frequencies and emission angles, while its complex Floquet bands explain how the probe draws energy from the modulation. Beyond harmonic generation, this picture predicts wavelength-dependent probe amplification as the probe accesses amplifying modes of the SPPC, providing an experimentally testable connection between the band structure and energy transfer. Agreement with particle-in-cell simulations supports this interpretation."
+      ]
+    },
+    "submission_history": "Submission history From: Haojie Zhang [ view email ] [v1] Mon, 23 Nov 2026 05:44:30 UTC (2,659 KB)",
+    "abstract": "Abstract: Spatiotemporal photonic crystals offer a route to controlling the frequency, momentum, and energy of light. Extending this capability to relativistic laser intensities calls for a plasma-based platform. Here we propose a spatiotemporal plasma photonic crystal (SPPC) formed at a solid surface driven by intense pump pulses, with a separate probe interacting with the resulting modulation. The spatial and temporal periodicity of the SPPC determines the allowed harmonic frequencies and emission angles, while its complex Floquet bands explain how the probe draws energy from the modulation. Beyond harmonic generation, this picture predicts wavelength-dependent probe amplification as the probe accesses amplifying modes of the SPPC, providing an experimentally testable connection between the band structure and energy transfer. Agreement with particle-in-cell simulations supports this interpretation.",
+    "pdf_download": {
+      "url": "https://arxiv.org/pdf/2611.30084v1",
+      "final_url": "https://arxiv.org/pdf/2611.30084v1",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 3026448,
+      "magic_pdf": true,
+      "saved_path": "daily/2026-11-25/pdfs/zhang-2026-plasma-crystals.pdf",
+      "sha256": "a28ff421c6030cc54014c31996d73f28764fcf27b49f6c417d8b96a32c3b11d5"
+    }
+  }
+}

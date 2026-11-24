@@ -1,0 +1,190 @@
+{
+  "source_pdf": "daily/2026-11-25/pdfs/zhang-2026-plasma-crystals.pdf",
+  "text_read": "all13pages including4p supplement",
+  "source_pages_visually_reviewed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "crops": [
+    {
+      "name": "fig1",
+      "source_pdf": "daily/2026-11-25/pdfs/zhang-2026-plasma-crystals.pdf",
+      "page": 2,
+      "clip": [
+        127.77628326416016,
+        43.23683166503906,
+        482.7542419433594,
+        189.3747100830078
+      ],
+      "matrix": 2,
+      "path": "daily/2026-11-25/notes/images/zhang-2026-plasma-crystals/fig1.png",
+      "sha256": "8791dbc2e0b013fe3b29164559f67bec35782f758ba3359ac935bc8b2dc6efcd"
+    },
+    {
+      "name": "fig2",
+      "source_pdf": "daily/2026-11-25/pdfs/zhang-2026-plasma-crystals.pdf",
+      "page": 3,
+      "clip": [
+        47.82099914550781,
+        194.1468963623047,
+        297.0281066894531,
+        333.12298583984375
+      ],
+      "matrix": 2,
+      "path": "daily/2026-11-25/notes/images/zhang-2026-plasma-crystals/fig2.png",
+      "sha256": "c438f01d29cd0d019a21c54b49d887c093ae80640b7984d259c14a4d555a5a89"
+    },
+    {
+      "name": "fig3",
+      "source_pdf": "daily/2026-11-25/pdfs/zhang-2026-plasma-crystals.pdf",
+      "page": 3,
+      "clip": [
+        400.2481384277344,
+        92.55342102050781,
+        487.3770446777344,
+        189.95657348632812
+      ],
+      "matrix": 2,
+      "path": "daily/2026-11-25/notes/images/zhang-2026-plasma-crystals/fig3.png",
+      "sha256": "5d9e4245aa6e022b4ca8b8f12dd8e7a6b9194328c61470000e303d300f242937"
+    },
+    {
+      "name": "fig4",
+      "source_pdf": "daily/2026-11-25/pdfs/zhang-2026-plasma-crystals.pdf",
+      "page": 5,
+      "clip": [
+        68.18131256103516,
+        201.83633422851562,
+        279.9465026855469,
+        315.90350341796875
+      ],
+      "matrix": 2,
+      "path": "daily/2026-11-25/notes/images/zhang-2026-plasma-crystals/fig4.png",
+      "sha256": "92e0b65686fb59b798115fce4fdcfbb7d62b93822093993ed631aaa0e441b8aa"
+    },
+    {
+      "name": "fig5",
+      "source_pdf": "daily/2026-11-25/pdfs/zhang-2026-plasma-crystals.pdf",
+      "page": 5,
+      "clip": [
+        335.89599609375,
+        228.11239624023438,
+        555.2005004882812,
+        395.0690002441406
+      ],
+      "matrix": 2,
+      "path": "daily/2026-11-25/notes/images/zhang-2026-plasma-crystals/fig5.png",
+      "sha256": "d1b02d44ae1b82c4f567c6b12bfb308c5130fa3deefb4a5284729d3953beb3cc"
+    },
+    {
+      "name": "fig6",
+      "source_pdf": "daily/2026-11-25/pdfs/zhang-2026-plasma-crystals.pdf",
+      "page": 6,
+      "clip": [
+        66.76399993896484,
+        45.82843017578125,
+        266.1293029785156,
+        201.73199462890625
+      ],
+      "matrix": 2,
+      "path": "daily/2026-11-25/notes/images/zhang-2026-plasma-crystals/fig6.png",
+      "sha256": "e493c0675092b8189cab5bf25982da36bd868f0331b681475679ab656b84665a"
+    },
+    {
+      "name": "fig7",
+      "source_pdf": "daily/2026-11-25/pdfs/zhang-2026-plasma-crystals.pdf",
+      "page": 6,
+      "clip": [
+        53.48500061035156,
+        341.61102294921875,
+        277.885009765625,
+        511.61102294921875
+      ],
+      "matrix": 2,
+      "path": "daily/2026-11-25/notes/images/zhang-2026-plasma-crystals/fig7.png",
+      "sha256": "4a539a1cb278153b2a1b7ca26b10ff99b5d26e6ff092f6b03ac96e1ea3894dde"
+    },
+    {
+      "name": "fig8",
+      "source_pdf": "daily/2026-11-25/pdfs/zhang-2026-plasma-crystals.pdf",
+      "page": 7,
+      "clip": [
+        48.738582611083984,
+        311.7399597167969,
+        297.9051818847656,
+        423.3901672363281
+      ],
+      "matrix": 2,
+      "path": "daily/2026-11-25/notes/images/zhang-2026-plasma-crystals/fig8.png",
+      "sha256": "79e7a748379594ea3af41e3d8aa9c5a17998c8c229104b6efdecad721f47652f"
+    },
+    {
+      "name": "fig9",
+      "source_pdf": "daily/2026-11-25/pdfs/zhang-2026-plasma-crystals.pdf",
+      "page": 7,
+      "clip": [
+        318.5343933105469,
+        155.8478240966797,
+        567.744384765625,
+        315.34222412109375
+      ],
+      "matrix": 2,
+      "path": "daily/2026-11-25/notes/images/zhang-2026-plasma-crystals/fig9.png",
+      "sha256": "69fe2dd99f9fc7a8f19288d47ab14184604466b654b8235e41d4ab1f72dd8ec1"
+    },
+    {
+      "name": "fig10",
+      "source_pdf": "daily/2026-11-25/pdfs/zhang-2026-plasma-crystals.pdf",
+      "page": 8,
+      "clip": [
+        41.84299850463867,
+        45.82728576660156,
+        291.0654296875,
+        255.5689697265625
+      ],
+      "matrix": 2,
+      "path": "daily/2026-11-25/notes/images/zhang-2026-plasma-crystals/fig10.png",
+      "sha256": "3458502b51d4b6303594d414f9c55aa92dace14814068a89fb9506353e3512f3"
+    },
+    {
+      "name": "fig11",
+      "source_pdf": "daily/2026-11-25/pdfs/zhang-2026-plasma-crystals.pdf",
+      "page": 8,
+      "clip": [
+        316.46099853515625,
+        44.543609619140625,
+        565.613037109375,
+        153.547607421875
+      ],
+      "matrix": 2,
+      "path": "daily/2026-11-25/notes/images/zhang-2026-plasma-crystals/fig11.png",
+      "sha256": "a77d88c23ef8f5bd7675703dce6206143e54dcc64e58c2e1b9af413604749aab"
+    },
+    {
+      "name": "fig12",
+      "source_pdf": "daily/2026-11-25/pdfs/zhang-2026-plasma-crystals.pdf",
+      "page": 8,
+      "clip": [
+        346.0864562988281,
+        264.0906982421875,
+        535.5394897460938,
+        420.2614440917969
+      ],
+      "matrix": 2,
+      "path": "daily/2026-11-25/notes/images/zhang-2026-plasma-crystals/fig12.png",
+      "sha256": "bcf54182917658949ae6378c7c599f0f4ce96b94e05fe8ee4a95f2500f12a911"
+    }
+  ],
+  "method": "local pdftotext + source-page render; no simulations rerun"
+}

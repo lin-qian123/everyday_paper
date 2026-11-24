@@ -1,0 +1,133 @@
+{
+  "source_pdf": "daily/2026-11-25/pdfs/bilbao-2026-betatron-cooling.pdf",
+  "source_pdf_sha256": "2be32a85353c350778eb727c6f83a71d3ea4b6c0bd5c5f36574c0cdf27fe81fa",
+  "actual_version": "APS final VOR9p, PRL137,225001, published2026-11-24",
+  "reader": "betatron_note agent",
+  "source_pages_visually_reviewed_1based": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "visual_method": "all9 source pages in3 contact sheets; page8 individually; equation1/3-6 high-resolution crops; retained4figures independently opened",
+  "figures": [
+    {
+      "figure": "fig2",
+      "source_pdf": "daily/2026-11-25/pdfs/bilbao-2026-betatron-cooling.pdf",
+      "source_page_1based": 4,
+      "clip_points": [
+        49,
+        462,
+        563,
+        661
+      ],
+      "matrix": [
+        2,
+        2
+      ],
+      "path": "daily/2026-11-25/notes/images/bilbao-2026-betatron-cooling/fig2.png",
+      "sha256": "7d45d70d8ab60e7b3671bfffb72e5eb7b288ed5c8f32e81f0999ae0cf5d879c7",
+      "width": 1028,
+      "height": 398,
+      "pixel_source_match": true,
+      "visually_reopened": true
+    },
+    {
+      "figure": "fig3",
+      "source_pdf": "daily/2026-11-25/pdfs/bilbao-2026-betatron-cooling.pdf",
+      "source_page_1based": 5,
+      "clip_points": [
+        311,
+        49,
+        564,
+        252
+      ],
+      "matrix": [
+        2,
+        2
+      ],
+      "path": "daily/2026-11-25/notes/images/bilbao-2026-betatron-cooling/fig3.png",
+      "sha256": "5b95dcbb80f743afa36a27a255c20b51142c4790d890616b8600474dbdb7e697",
+      "width": 506,
+      "height": 406,
+      "pixel_source_match": true,
+      "visually_reopened": true
+    },
+    {
+      "figure": "fig4",
+      "source_pdf": "daily/2026-11-25/pdfs/bilbao-2026-betatron-cooling.pdf",
+      "source_page_1based": 8,
+      "clip_points": [
+        49,
+        429,
+        300,
+        625
+      ],
+      "matrix": [
+        2,
+        2
+      ],
+      "path": "daily/2026-11-25/notes/images/bilbao-2026-betatron-cooling/fig4.png",
+      "sha256": "983624fab299cd508a1f8eaa88bb96618265a744584fa2d9408fa985c268d0e0",
+      "width": 502,
+      "height": 392,
+      "pixel_source_match": true,
+      "visually_reopened": true
+    },
+    {
+      "figure": "fig6",
+      "source_pdf": "daily/2026-11-25/pdfs/bilbao-2026-betatron-cooling.pdf",
+      "source_page_1based": 8,
+      "clip_points": [
+        312,
+        456,
+        564,
+        652
+      ],
+      "matrix": [
+        2,
+        2
+      ],
+      "path": "daily/2026-11-25/notes/images/bilbao-2026-betatron-cooling/fig6.png",
+      "sha256": "7c179c69801c2e49cc95f686efe9a5afea4f6836b635834d8552d970d2b8c8bc",
+      "width": 504,
+      "height": 392,
+      "pixel_source_match": true,
+      "visually_reopened": true
+    }
+  ],
+  "supplement_boundary": "Online supplemental page HTTP403 HTML5562B, no supplemental PDF obtained; End Matter AppendixA-C in main9p read fully",
+  "author_code_or_experiment_rerun": false,
+  "key_boundaries": [
+    "analytic+axisymmetric m0 PIC ring formation",
+    "ICL uses analytic preprocessing and separate boosted 2D slab PIC, no whole-chain3D selfconsistent validation",
+    "lasing fraction~50percent is particle eligibility, not energy efficiency",
+    "13scan 5-9percent ringradius RMS aftertr uses same-run measured mean energy history in tau",
+    "screen100cm is background-subtracted synthetic normalized intensity, not experiment"
+  ],
+  "source_discrepancies": [
+    "p2 dimensional reducedRR force prints omega_p^2 although squaring linear fields gives omega_p^4",
+    "p2 charge-squared normalization prints e2=re/(me c2), inconsistent with re=e2/(me c2)",
+    "Eq5 writes t omega_beta rather than integrated phase under varyinggamma; affine energy mapping is restricted",
+    "AppendixA omega_p unitHz vs angular-frequency definition",
+    "AppendixA lambda1=161nm resolution vs Fig3 spectrum166nm",
+    "p9 Zenodo[78] while references end77"
+  ],
+  "checked_at": "2026-11-24T23:12:13.775391+00:00",
+  "primary_additional_checks": {
+    "source_pages_visually_checked": [
+      2,
+      4,
+      5,
+      8
+    ],
+    "all4retainedcrops_reopened": true,
+    "fig3_b_axis_correction": "z[nm],x[um],rho[1e19cm^-3] confirmed highres original; corrected draft misreading ofcharge-density units",
+    "note_sha256_after_primary_review": "b4119aeefcb8e041241263c21890099e000a012e3726621ccae39b2cf66b1e10"
+  }
+}

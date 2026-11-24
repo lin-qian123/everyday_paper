@@ -1,0 +1,48 @@
+{
+  "run_date": "2026-11-25",
+  "checked_at": "2026-11-24T23:21:09.658660+00:00",
+  "ledger_before": 596,
+  "ledger_after": 600,
+  "new_works": 4,
+  "new_final_VORs": 2,
+  "actual_versions": [
+    "APSfinalVOR9p includingEndMatter",
+    "IOPfinalVOR26p including1cover",
+    "authorarXiv2512.08690v2 113p; Crossrefacceptanceonly",
+    "authorarXiv2611.30084v1 13p including4pSupplement"
+  ],
+  "old_work_updates": 0,
+  "old_works_preserved": 596,
+  "retry_before": 77,
+  "retry_after": 78,
+  "new_retry_dois": [
+    "10.1080/15361055.2026.2752318"
+  ],
+  "old_retry_objects_preserved": 77,
+  "pdf_pages": 161,
+  "pdf_bytes": 20281248,
+  "source_visual_pages_unique": 69,
+  "retained_crops": 30,
+  "primary_reopened_all_crops_and_source_pixels_verified": true,
+  "indexes": {
+    "command": "python scripts/build_indexes.py",
+    "works": 600,
+    "categories": 9
+  },
+  "tests": {
+    "command": "PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q",
+    "passed": 7,
+    "seconds": 3.5,
+    "observed_exit_code": 0
+  },
+  "mineru_requests": 1,
+  "mineru_result": "HTTP401 user token expired; localfallback recorded",
+  "author_models_or_experiments_rerun": false,
+  "existing_AGENTS_modification_preserved_and_excluded": true,
+  "publication": {
+    "authorized_target": "origin/master",
+    "procedure": "commit audited run files;verify staged/committedblobs andfreshlsremote;resultingcommitrecordedinautomationmemory"
+  },
+  "verification_path": "daily/2026-11-25/research/verification.json",
+  "unrelated_generator_wrapper_regressions_restored": 7
+}

@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-11-24T23:15:38.676732+00:00",
+  "RMP": {
+    "doi": "10.1103/mw87-cjg8",
+    "crossref_accepted": "2026-11-24",
+    "crossref_published_online": "2026-11-24",
+    "crossref_volume_page": null,
+    "publisher_direct": "403 HTML; harvest404",
+    "official_web_accepted_list": "cached list did not include this new record; direct work unavailable",
+    "decision": "publication_date=null; Crossref acceptance registration only; authorv2 actually read"
+  },
+  "PRL": {
+    "doi": "10.1103/k67h-dvxp",
+    "firstpage": "received2025-10-14 revised2026-08-24 accepted2026-10-30 published2026-11-24; PRL137,225001",
+    "actual_version": "finalVOR viaharvest;9p includingEndMatter"
+  },
+  "PSST": {
+    "doi": "10.1088/1361-6595/aebfc4",
+    "firstpage_PDFp2": "received2026-08-13 revised2026-10-26 accepted2026-11-09 published2026-11-24;35,115019",
+    "actual_version": "finalVOR26p including1cover"
+  },
+  "SPPC": {
+    "actual_version": "arXiv2611.30084v1 submitted2026-11-23T05:44:30UTC; announced11-24",
+    "journal": "no same-work journal verified; boundedCrossref exact-title top3 all unrelated; see sppc_journal_check.json"
+  }
+}

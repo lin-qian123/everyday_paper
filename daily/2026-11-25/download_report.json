@@ -1,0 +1,62 @@
+{
+  "checked_at": "2026-11-24T23:16:23.553275+00:00",
+  "downloads": [
+    {
+      "url": "https://arxiv.org/pdf/2512.08690v2",
+      "final_url": "https://arxiv.org/pdf/2512.08690v2",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 8138396,
+      "magic_pdf": true,
+      "saved_path": "daily/2026-11-25/pdfs/shrock-2026-plasma-waveguides.pdf",
+      "sha256": "60337fbfa1eab4066f0e2c9a3d8d2167c5381659df2b07d73216441a7c11ce8f",
+      "title": "Plasma waveguides for high-intensity laser pulses",
+      "actual_pdf_path": "daily/2026-11-25/pdfs/shrock-2026-plasma-waveguides.pdf",
+      "fulltext_version": "author arXiv2512.08690v2 dated2026-11-03,113p; not publisher accepted manuscript or final VOR"
+    },
+    {
+      "doi": "10.1103/k67h-dvxp",
+      "url": "https://harvest.aps.org/v2/journals/articles/10.1103/k67h-dvxp/fulltext",
+      "final_url": "https://harvest.aps.org/v2/journals/articles/10.1103/k67h-dvxp/fulltext",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 4933394,
+      "magic_pdf": true,
+      "saved_path": "daily/2026-11-25/pdfs/bilbao-2026-betatron-cooling.pdf",
+      "sha256": "2be32a85353c350778eb727c6f83a71d3ea4b6c0bd5c5f36574c0cdf27fe81fa",
+      "title": "Phase-Space Shaping Due to Betatron Cooling in Wakefield Accelerators and the Onset of the Ion-Channel Laser",
+      "actual_pdf_path": "daily/2026-11-25/pdfs/bilbao-2026-betatron-cooling.pdf",
+      "fulltext_version": "APS finalVOR9p includingEndMatterA-C; onlineSupplement unavailable403"
+    },
+    {
+      "doi": "10.1088/1361-6595/aebfc4",
+      "url": "https://iopscience.iop.org/article/10.1088/1361-6595/aebfc4/pdf",
+      "status": 200,
+      "final_url": "https://iopscience.iop.org/article/10.1088/1361-6595/aebfc4/pdf",
+      "mime": "application/pdf;charset=UTF-8",
+      "bytes": 4183010,
+      "magic_pdf": true,
+      "title": "Multi-diagnostic experimental validation of PIC/MCC simulations of symmetric capacitively coupled plasmas in CF4",
+      "actual_pdf_path": "daily/2026-11-25/pdfs/neuroth-2026-cf4-pic-validation.pdf",
+      "sha256": "44199c207ec42ca7a95087e381c6223549d4dbac4782ba1e7b81863ed24b4a29",
+      "fulltext_version": "IOP finalVOR26p including1downloadcover"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2611.30084v1",
+      "final_url": "https://arxiv.org/pdf/2611.30084v1",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 3026448,
+      "magic_pdf": true,
+      "saved_path": "daily/2026-11-25/pdfs/zhang-2026-plasma-crystals.pdf",
+      "sha256": "a28ff421c6030cc54014c31996d73f28764fcf27b49f6c417d8b96a32c3b11d5",
+      "title": "Relativistic Harmonic Generation in Spatiotemporal Plasma Photonic Crystals",
+      "actual_pdf_path": "daily/2026-11-25/pdfs/zhang-2026-plasma-crystals.pdf",
+      "fulltext_version": "arXivv1 13p including4pSupplement1"
+    }
+  ],
+  "failed_candidate": "10.1080/15361055.2026.2752318",
+  "failure_evidence": "research/other_formal_access.json",
+  "pdfs_kept_local_gitignored": true,
+  "total_bytes": 20281248
+}

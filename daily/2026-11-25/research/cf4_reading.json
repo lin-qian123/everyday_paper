@@ -1,0 +1,192 @@
+{
+  "reader": "waveguides_late_then_cf4",
+  "source_pdf": "daily/2026-11-25/pdfs/neuroth-2026-cf4-pic-validation.pdf",
+  "source_sha256": "44199c207ec42ca7a95087e381c6223549d4dbac4782ba1e7b81863ed24b4a29",
+  "actual_version": "publisher final VOR;1download cover+25article pages",
+  "doi": "10.1088/1361-6595/aebfc4",
+  "accepted_date": "2026-11-09",
+  "published_date": "2026-11-24",
+  "text_read_pdf_pages_1based": [
+    1,
+    26
+  ],
+  "text_scope": "cover, fullmaintext, appendixTables1-9, referencesstructure; no source-code/data download",
+  "source_visual_pages_1based": [
+    2,
+    6,
+    7,
+    9,
+    11,
+    13,
+    14,
+    16,
+    18,
+    20,
+    24
+  ],
+  "temporary_extra_crop_viewed": "Table1 PDF20 enlarged region for doublychargedR6/R8 identity",
+  "crops": [
+    {
+      "figure": 4,
+      "source_pdf_page_1based": 11,
+      "clip_pdf_points": [
+        115,
+        70,
+        555,
+        328
+      ],
+      "matrix": [
+        1.8,
+        1.8
+      ],
+      "path": "daily/2026-11-25/notes/images/neuroth-2026-cf4-pic-validation/figure-4.png",
+      "sha256": "b2052d0969a1169720df4acb2b7d2fdcf4f165befb14e846c0c152751eb1881f",
+      "crop_reopened_by_reader": true
+    },
+    {
+      "figure": 8,
+      "source_pdf_page_1based": 13,
+      "clip_pdf_points": [
+        115,
+        300,
+        555,
+        426
+      ],
+      "matrix": [
+        1.8,
+        1.8
+      ],
+      "path": "daily/2026-11-25/notes/images/neuroth-2026-cf4-pic-validation/figure-8.png",
+      "sha256": "da51076d46af0e32d753a1a4d8d81a097139b06fd538e75ebf343e6bede9d342",
+      "crop_reopened_by_reader": true
+    },
+    {
+      "figure": 9,
+      "source_pdf_page_1based": 14,
+      "clip_pdf_points": [
+        125,
+        65,
+        555,
+        315
+      ],
+      "matrix": [
+        1.8,
+        1.8
+      ],
+      "path": "daily/2026-11-25/notes/images/neuroth-2026-cf4-pic-validation/figure-9.png",
+      "sha256": "a4fb5a7690a86e6f928636e76dad542735126b781ddf80fdf20569f623adf8f3",
+      "crop_reopened_by_reader": true
+    },
+    {
+      "figure": 11,
+      "source_pdf_page_1based": 16,
+      "clip_pdf_points": [
+        115,
+        70,
+        555,
+        328
+      ],
+      "matrix": [
+        1.8,
+        1.8
+      ],
+      "path": "daily/2026-11-25/notes/images/neuroth-2026-cf4-pic-validation/figure-11.png",
+      "sha256": "5a9ef654fbcbefd2b86583776e9bf0ef296812c66c3df367874b8825f75d2fa6",
+      "crop_reopened_by_reader": true
+    },
+    {
+      "figure": 16,
+      "source_pdf_page_1based": 18,
+      "clip_pdf_points": [
+        125,
+        290,
+        555,
+        474
+      ],
+      "matrix": [
+        1.8,
+        1.8
+      ],
+      "path": "daily/2026-11-25/notes/images/neuroth-2026-cf4-pic-validation/figure-16.png",
+      "sha256": "3d8b9f466dff460f15cec413d9b3180e38cc6a0e79618c735f0c96ad1abe070c",
+      "crop_reopened_by_reader": true
+    }
+  ],
+  "mean_ion_energy_read_from_figure_labels_eV": {
+    "5Pa": {
+      "voltage_Vpp": [
+        200,
+        400,
+        600,
+        800
+      ],
+      "experiment": [
+        30.3,
+        47,
+        68,
+        89.7
+      ],
+      "original": [
+        43.4,
+        77.7,
+        111.8,
+        143.2
+      ],
+      "scaled": [
+        29.2,
+        44.3,
+        60.4,
+        77.5
+      ]
+    },
+    "30Pa": {
+      "voltage_Vpp": [
+        200,
+        400,
+        600,
+        800
+      ],
+      "experiment": [
+        9.7,
+        17.5,
+        26.3,
+        35.4
+      ],
+      "original": [
+        24.2,
+        51.4,
+        77.8,
+        104.1
+      ],
+      "scaled": [
+        11.3,
+        21.1,
+        27.2,
+        33.8
+      ]
+    }
+  },
+  "key_evidence_boundaries": [
+    "RFEAexperimenttotalfluxarbitraryunits;nofullabsolutefluxvalidation",
+    "5Pa densityunderestimatedabout2inhybridmodeandoverestimatedabout2inalpha mode",
+    "perpanelmaxnormalizationIFEDFandPROES",
+    "Figure9 original-vs-scaled changesbothcrosssectionsandIIRC;notpureablation",
+    "allionCF4elasticsigmax3/inelasticsigmax10;electroncrosssectionsnotrescaled",
+    "5Pacalibrationfrozenset30Pavsfitting/impliedblindvalidation",
+    "neutralradicaldensitiesandwallreactionsnotvalidated",
+    "Table1R6R8doublechargeversus8specieslistunresolved",
+    "4.2Figure13a1a3referenceactuallyFigure12"
+  ],
+  "parameter_bestfit": {
+    "ionCF4elastic_scale": 3,
+    "ionCF4inelastic_scale": 10,
+    "k_ii_m3_s": 2.5e-14,
+    "gamma": 0.01,
+    "R": 0.7
+  },
+  "related_work": "paperref55 WangLetalPSST35(2026)045016;notidentifiedasexistingcompletedledgeritem",
+  "author_codes_or_experiments_rerun": false,
+  "note_path": "daily/2026-11-25/notes/neuroth-2026-cf4-pic-validation.md",
+  "note_sha256": "91d55448abd1f20c1c1415146d29285e68676f2731f49395871f95eb879b827d",
+  "checked_at_utc": "2026-11-24T23:18:26.031659+00:00"
+}

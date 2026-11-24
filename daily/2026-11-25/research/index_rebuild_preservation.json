@@ -1,0 +1,16 @@
+{
+  "builder": "python scripts/build_indexes.py",
+  "works": 600,
+  "categories": 9,
+  "unrelated_existing_paper_wrappers_restored": [
+    "papers/10-1088-1741-4326-aebda4/README.md",
+    "papers/10-1088-2058-6272-aec41f/README.md",
+    "papers/10-1103-33h4-lf1m/README.md",
+    "papers/10-1103-bvnj-1wmg/README.md",
+    "papers/10-1103-gg1s-rxrg/README.md",
+    "papers/10-1103-p838-2l32/README.md",
+    "papers/10-1103-yp1k-gjh9/README.md"
+  ],
+  "reason": "all596existingledgerobjectsunchanged;retainlegacywrapperlinkrepairs",
+  "papers_root_index": "regenerated via write_papers_index(load_items()) after overbroad preservation filter temporarily restored it; current600-paper output verified"
+}

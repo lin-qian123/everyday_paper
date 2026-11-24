@@ -1,0 +1,293 @@
+{
+  "all_retained_crops_primary_reopened": true,
+  "primary_visual_method": "contact sheets of every retained crop plus source-page and high-resolution checks; no model rerun",
+  "retained_crops": 30,
+  "source_visual_unique_pages_total": 69,
+  "source_visual_pages_by_pdf": {
+    "daily/2026-11-25/pdfs/shrock-2026-plasma-waveguides.pdf": [
+      1,
+      6,
+      9,
+      12,
+      15,
+      16,
+      18,
+      21,
+      23,
+      26,
+      28,
+      31,
+      38,
+      40,
+      41,
+      42,
+      46,
+      47,
+      49,
+      50,
+      51,
+      52,
+      59,
+      61,
+      62,
+      65,
+      67,
+      71,
+      73,
+      75,
+      78,
+      81
+    ],
+    "daily/2026-11-25/pdfs/bilbao-2026-betatron-cooling.pdf": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "daily/2026-11-25/pdfs/neuroth-2026-cf4-pic-validation.pdf": [
+      2,
+      6,
+      7,
+      9,
+      10,
+      11,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      20,
+      21,
+      24
+    ],
+    "daily/2026-11-25/pdfs/zhang-2026-plasma-crystals.pdf": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  "primary_additional_pages": {
+    "daily/2026-11-25/pdfs/shrock-2026-plasma-waveguides.pdf": [
+      1,
+      15,
+      46,
+      50,
+      61,
+      81
+    ],
+    "daily/2026-11-25/pdfs/bilbao-2026-betatron-cooling.pdf": [
+      2,
+      4,
+      5,
+      8
+    ],
+    "daily/2026-11-25/pdfs/neuroth-2026-cf4-pic-validation.pdf": [
+      2,
+      6,
+      7,
+      10,
+      15,
+      19,
+      20,
+      21
+    ]
+  },
+  "crop_checks": [
+    {
+      "path": "daily/2026-11-25/notes/images/shrock-2026-plasma-waveguides/early-figure-3.png",
+      "source_page": 15,
+      "sha256": "9a656e3b303a65be04cd7b525fab6d4d9ec25fd52952969a65807533c7063d4c",
+      "source_pixels_match": true
+    },
+    {
+      "path": "daily/2026-11-25/notes/images/shrock-2026-plasma-waveguides/early-figure-6.png",
+      "source_page": 23,
+      "sha256": "cdeb7baf9178690fabf55fdc5a88dfeae4e9fa8a7756ff82340fcd9f98b12d8e",
+      "source_pixels_match": true
+    },
+    {
+      "path": "daily/2026-11-25/notes/images/shrock-2026-plasma-waveguides/early-figure-14.png",
+      "source_page": 42,
+      "sha256": "504d4c22ffaf3e8d8e1bca507b8de0be14510f666e0742d4e220aaad89a5b43e",
+      "source_pixels_match": true
+    },
+    {
+      "path": "daily/2026-11-25/notes/images/shrock-2026-plasma-waveguides/early-figure-18.png",
+      "source_page": 46,
+      "sha256": "1af640941f7d1cd25c69e535fcdfc644ebbc1ce8f9ca0b7e565f63dacd6b93a1",
+      "source_pixels_match": true
+    },
+    {
+      "path": "daily/2026-11-25/notes/images/shrock-2026-plasma-waveguides/early-figure-21.png",
+      "source_page": 50,
+      "sha256": "d19b737369ecf2a27717233bf45cdcb23f31e37e2ba6e39a0dcc41baec09490d",
+      "source_pixels_match": true
+    },
+    {
+      "path": "daily/2026-11-25/notes/images/shrock-2026-plasma-waveguides/late-figure-26.png",
+      "source_page": 59,
+      "sha256": "931033f0936c14be648455deca117e65574e3e3e527ac67757e6ac6e38792570",
+      "source_pixels_match": true
+    },
+    {
+      "path": "daily/2026-11-25/notes/images/shrock-2026-plasma-waveguides/late-figure-31.png",
+      "source_page": 65,
+      "sha256": "b5485e0632f89957ecc614545186cea55329167279887b4fe5d8d43cf68e1fd4",
+      "source_pixels_match": true
+    },
+    {
+      "path": "daily/2026-11-25/notes/images/shrock-2026-plasma-waveguides/late-figure-33.png",
+      "source_page": 71,
+      "sha256": "18184bae5284b1cbdd5c6ecbe326bcb17804115b50bf82a5b8403e488458307d",
+      "source_pixels_match": true
+    },
+    {
+      "path": "daily/2026-11-25/notes/images/shrock-2026-plasma-waveguides/late-figure-40.png",
+      "source_page": 81,
+      "sha256": "fb52ba7ca1918a041cfdc9b6ecb99475acb3535c2d09da9cb2c7a4be34412c33",
+      "source_pixels_match": true
+    },
+    {
+      "path": "daily/2026-11-25/notes/images/bilbao-2026-betatron-cooling/fig2.png",
+      "source_page": 4,
+      "sha256": "7d45d70d8ab60e7b3671bfffb72e5eb7b288ed5c8f32e81f0999ae0cf5d879c7",
+      "source_pixels_match": true
+    },
+    {
+      "path": "daily/2026-11-25/notes/images/bilbao-2026-betatron-cooling/fig3.png",
+      "source_page": 5,
+      "sha256": "5b95dcbb80f743afa36a27a255c20b51142c4790d890616b8600474dbdb7e697",
+      "source_pixels_match": true
+    },
+    {
+      "path": "daily/2026-11-25/notes/images/bilbao-2026-betatron-cooling/fig4.png",
+      "source_page": 8,
+      "sha256": "983624fab299cd508a1f8eaa88bb96618265a744584fa2d9408fa985c268d0e0",
+      "source_pixels_match": true
+    },
+    {
+      "path": "daily/2026-11-25/notes/images/bilbao-2026-betatron-cooling/fig6.png",
+      "source_page": 8,
+      "sha256": "7c179c69801c2e49cc95f686efe9a5afea4f6836b635834d8552d970d2b8c8bc",
+      "source_pixels_match": true
+    },
+    {
+      "path": "daily/2026-11-25/notes/images/neuroth-2026-cf4-pic-validation/figure-4.png",
+      "source_page": 11,
+      "sha256": "b2052d0969a1169720df4acb2b7d2fdcf4f165befb14e846c0c152751eb1881f",
+      "source_pixels_match": true
+    },
+    {
+      "path": "daily/2026-11-25/notes/images/neuroth-2026-cf4-pic-validation/figure-8.png",
+      "source_page": 13,
+      "sha256": "da51076d46af0e32d753a1a4d8d81a097139b06fd538e75ebf343e6bede9d342",
+      "source_pixels_match": true
+    },
+    {
+      "path": "daily/2026-11-25/notes/images/neuroth-2026-cf4-pic-validation/figure-9.png",
+      "source_page": 14,
+      "sha256": "a4fb5a7690a86e6f928636e76dad542735126b781ddf80fdf20569f623adf8f3",
+      "source_pixels_match": true
+    },
+    {
+      "path": "daily/2026-11-25/notes/images/neuroth-2026-cf4-pic-validation/figure-11.png",
+      "source_page": 16,
+      "sha256": "5a9ef654fbcbefd2b86583776e9bf0ef296812c66c3df367874b8825f75d2fa6",
+      "source_pixels_match": true
+    },
+    {
+      "path": "daily/2026-11-25/notes/images/neuroth-2026-cf4-pic-validation/figure-16.png",
+      "source_page": 18,
+      "sha256": "3d8b9f466dff460f15cec413d9b3180e38cc6a0e79618c735f0c96ad1abe070c",
+      "source_pixels_match": true
+    },
+    {
+      "path": "daily/2026-11-25/notes/images/zhang-2026-plasma-crystals/fig1.png",
+      "source_page": 2,
+      "sha256": "8791dbc2e0b013fe3b29164559f67bec35782f758ba3359ac935bc8b2dc6efcd",
+      "source_pixels_match": true
+    },
+    {
+      "path": "daily/2026-11-25/notes/images/zhang-2026-plasma-crystals/fig2.png",
+      "source_page": 3,
+      "sha256": "c438f01d29cd0d019a21c54b49d887c093ae80640b7984d259c14a4d555a5a89",
+      "source_pixels_match": true
+    },
+    {
+      "path": "daily/2026-11-25/notes/images/zhang-2026-plasma-crystals/fig3.png",
+      "source_page": 3,
+      "sha256": "5d9e4245aa6e022b4ca8b8f12dd8e7a6b9194328c61470000e303d300f242937",
+      "source_pixels_match": true
+    },
+    {
+      "path": "daily/2026-11-25/notes/images/zhang-2026-plasma-crystals/fig4.png",
+      "source_page": 5,
+      "sha256": "92e0b65686fb59b798115fce4fdcfbb7d62b93822093993ed631aaa0e441b8aa",
+      "source_pixels_match": true
+    },
+    {
+      "path": "daily/2026-11-25/notes/images/zhang-2026-plasma-crystals/fig5.png",
+      "source_page": 5,
+      "sha256": "d1b02d44ae1b82c4f567c6b12bfb308c5130fa3deefb4a5284729d3953beb3cc",
+      "source_pixels_match": true
+    },
+    {
+      "path": "daily/2026-11-25/notes/images/zhang-2026-plasma-crystals/fig6.png",
+      "source_page": 6,
+      "sha256": "e493c0675092b8189cab5bf25982da36bd868f0331b681475679ab656b84665a",
+      "source_pixels_match": true
+    },
+    {
+      "path": "daily/2026-11-25/notes/images/zhang-2026-plasma-crystals/fig7.png",
+      "source_page": 6,
+      "sha256": "4a539a1cb278153b2a1b7ca26b10ff99b5d26e6ff092f6b03ac96e1ea3894dde",
+      "source_pixels_match": true
+    },
+    {
+      "path": "daily/2026-11-25/notes/images/zhang-2026-plasma-crystals/fig8.png",
+      "source_page": 7,
+      "sha256": "79e7a748379594ea3af41e3d8aa9c5a17998c8c229104b6efdecad721f47652f",
+      "source_pixels_match": true
+    },
+    {
+      "path": "daily/2026-11-25/notes/images/zhang-2026-plasma-crystals/fig9.png",
+      "source_page": 7,
+      "sha256": "69fe2dd99f9fc7a8f19288d47ab14184604466b654b8235e41d4ab1f72dd8ec1",
+      "source_pixels_match": true
+    },
+    {
+      "path": "daily/2026-11-25/notes/images/zhang-2026-plasma-crystals/fig10.png",
+      "source_page": 8,
+      "sha256": "3458502b51d4b6303594d414f9c55aa92dace14814068a89fb9506353e3512f3",
+      "source_pixels_match": true
+    },
+    {
+      "path": "daily/2026-11-25/notes/images/zhang-2026-plasma-crystals/fig11.png",
+      "source_page": 8,
+      "sha256": "a77d88c23ef8f5bd7675703dce6206143e54dcc64e58c2e1b9af413604749aab",
+      "source_pixels_match": true
+    },
+    {
+      "path": "daily/2026-11-25/notes/images/zhang-2026-plasma-crystals/fig12.png",
+      "source_page": 8,
+      "sha256": "bcf54182917658949ae6378c7c599f0f4ce96b94e05fe8ee4a95f2500f12a911",
+      "source_pixels_match": true
+    }
+  ]
+}

@@ -2,11 +2,12 @@
 
 强场量子效应、辐射反作用、非线性 Compton、pair production 与极端场实验。
 
-- 当前收录：81 篇
-- 索引更新时间：2026-11-24
+- 当前收录：82 篇
+- 索引更新时间：2026-11-25
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-25 | [Phase-Space Shaping Due to Betatron Cooling in Wakefield Accelerators and the Onset of the Ion-Channel Laser](../papers/10-1103-k67h-dvxp/README.md) | Physical Review Letters | [笔记](../daily/2026-11-25/notes/bilbao-2026-betatron-cooling.md) |
 | 2026-11-23 | [Aggregating soft-photon recoil with a positive finite-step sampler](../papers/arxiv-2611-26402/README.md) | arXiv preprint | [笔记](../daily/2026-11-23/notes/elkina-2026-recoil.md) |
 | 2026-11-20 | [Polarized positron generation via laser-engineered quasistatic magnetic fields in a spatially extended herringbone target](../papers/arxiv-2611-24069/README.md) | arXiv preprint | [笔记](../daily/2026-11-20/notes/wu-2026-herringbone.md) |
 | 2026-11-17 | [Radiation in relativistic plasmas via particle simulations](../papers/arxiv-2611-18332/README.md) | arXiv preprint | [笔记](../daily/2026-11-17/notes/kritikos-2026-relativistic-radiation-md.md) |

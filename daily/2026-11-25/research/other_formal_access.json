@@ -1,0 +1,21 @@
+[
+  {
+    "doi": "10.1088/1361-6595/aebfc4",
+    "url": "https://iopscience.iop.org/article/10.1088/1361-6595/aebfc4/pdf",
+    "status": 200,
+    "final_url": "https://iopscience.iop.org/article/10.1088/1361-6595/aebfc4/pdf",
+    "mime": "application/pdf;charset=UTF-8",
+    "bytes": 4183010,
+    "magic_pdf": true
+  },
+  {
+    "doi": "10.1080/15361055.2026.2752318",
+    "url": "https://www.tandfonline.com/doi/pdf/10.1080/15361055.2026.2752318",
+    "status": 403,
+    "final_url": "https://www.tandfonline.com/doi/pdf/10.1080/15361055.2026.2752318",
+    "mime": "text/html; charset=UTF-8",
+    "bytes": 5617,
+    "magic_pdf": false,
+    "text_excerpt": "Just a moment... Enable JavaScript and cookies to continue"
+  }
+]

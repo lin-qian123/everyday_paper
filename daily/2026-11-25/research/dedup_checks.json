@@ -1,0 +1,147 @@
+{
+  "baseline_works": 596,
+  "new_works": [
+    {
+      "title": "Plasma waveguides for high-intensity laser pulses",
+      "doi": "10.1103/mw87-cjg8",
+      "exact_doi_matches": [],
+      "exact_normalized_title_matches": [],
+      "nearest_titles": [
+        {
+          "similarity": 0.625,
+          "title": "Plasma holograms for ultrahigh-intensity optics",
+          "doi": "10.1038/nphys4007"
+        },
+        {
+          "similarity": 0.5934065934065934,
+          "title": "Plasma lens for focusing attosecond pulses",
+          "doi": "10.1038/s41566-025-01794-y"
+        },
+        {
+          "similarity": 0.5544554455445545,
+          "title": "Gas Beam Dump and Power Meter for High Energy Lasers",
+          "doi": "10.48550/arXiv.2608.20645"
+        },
+        {
+          "similarity": 0.5370370370370371,
+          "title": "Moderator Modeling for High Intensity Slow Positron Sources",
+          "doi": "10.48550/arXiv.2609.22036"
+        },
+        {
+          "similarity": 0.5222929936305732,
+          "title": "SPRAY: A smoothed particle radiation hydrodynamics code for modeling high intensity laser-plasma interactions",
+          "doi": "10.48550/arXiv.2604.20124"
+        }
+      ],
+      "identity_scenario_decision": "distinct new work; formal/author aliases coalesce into one record; title + authors + abstract + setup reviewed"
+    },
+    {
+      "title": "Phase-Space Shaping Due to Betatron Cooling in Wakefield Accelerators and the Onset of the Ion-Channel Laser",
+      "doi": "10.1103/k67h-dvxp",
+      "exact_doi_matches": [],
+      "exact_normalized_title_matches": [],
+      "nearest_titles": [
+        {
+          "similarity": 0.5377358490566038,
+          "title": "High-Flux X-Ray Emission due to Injection into a Laser-Wakefield Accelerator beyond Its Depletion Length",
+          "doi": "10.1103/krsl-322s"
+        },
+        {
+          "similarity": 0.47393364928909953,
+          "title": "Beam shape effect on enhanced laser wakefield acceleration of electrons driven by 10-fs mJ-class pulses",
+          "doi": "10.1038/s41598-026-41516-0"
+        },
+        {
+          "similarity": 0.46511627906976744,
+          "title": "Dephasingless laser wakefield acceleration in a plasma waveguide",
+          "doi": "10.48550/arXiv.2606.20298"
+        },
+        {
+          "similarity": 0.45739910313901344,
+          "title": "Wake Perturbations in Laser- and Beam-Driven Plasma Wakefield Accelerators: A Symmetry-Based Multipole Classification",
+          "doi": "10.48550/arXiv.2606.18845"
+        },
+        {
+          "similarity": 0.45685279187817257,
+          "title": "Experimental Demonstration of Beam-Driven Wakefield Acceleration in Laser-Plasma Filament",
+          "doi": "10.1103/qjd9-p6dy"
+        }
+      ],
+      "identity_scenario_decision": "distinct new work; formal/author aliases coalesce into one record; title + authors + abstract + setup reviewed"
+    },
+    {
+      "title": "Multi-diagnostic experimental validation of PIC/MCC simulations of symmetric capacitively coupled plasmas in CF4",
+      "doi": "10.1088/1361-6595/aebfc4",
+      "exact_doi_matches": [],
+      "exact_normalized_title_matches": [],
+      "nearest_titles": [
+        {
+          "similarity": 0.4957983193277311,
+          "title": "Optimization of EUV output by experimentally validated radiation-hydrodynamic simulations across a broad laser parameter space",
+          "doi": "10.48550/arXiv.2606.05948"
+        },
+        {
+          "similarity": 0.4857142857142857,
+          "title": "Learning Similarity-Reduced Ion Kinetics across Scales and Regimes in Capacitively Coupled Plasmas",
+          "doi": "10.48550/arXiv.2611.22165"
+        },
+        {
+          "similarity": 0.4752475247524752,
+          "title": "A θ-implicit hybrid particle-in-cell algorithm for kinetic simulations of magnetized plasmas",
+          "doi": "10.48550/arXiv.2611.00127"
+        },
+        {
+          "similarity": 0.4712041884816754,
+          "title": "Experimental observation of drift acoustic cnoidal waves in a magnetized plasma",
+          "doi": "10.1103/mmzz-gq7q"
+        },
+        {
+          "similarity": 0.4712041884816754,
+          "title": "Experimental scaling of diffraction efficiency in laser-induced plasma gratings",
+          "doi": "10.1103/9q15-5b5w"
+        }
+      ],
+      "identity_scenario_decision": "distinct new work; formal/author aliases coalesce into one record; title + authors + abstract + setup reviewed"
+    },
+    {
+      "title": "Relativistic Harmonic Generation in Spatiotemporal Plasma Photonic Crystals",
+      "doi": "10.48550/arXiv.2611.30084",
+      "exact_doi_matches": [],
+      "exact_normalized_title_matches": [],
+      "nearest_titles": [
+        {
+          "similarity": 0.5185185185185185,
+          "title": "On stimulated scattering including harmonic generation in an unmagnetized pair plasma for arbitrary pump strengths",
+          "doi": "10.48550/arXiv.2611.17279"
+        },
+        {
+          "similarity": 0.5070422535211268,
+          "title": "Relativistically strong electromagnetic waves in magnetised plasmas",
+          "doi": "10.1017/S0022377826101342"
+        },
+        {
+          "similarity": 0.4823529411764706,
+          "title": "High-order harmonic generation in ion- and nanoparticle-containing aluminum laser-induced plasma",
+          "doi": "10.1063/5.0350047"
+        },
+        {
+          "similarity": 0.4819277108433735,
+          "title": "Microwave Resonant Discharges for Spatiotemporally Selective Plasma Breakdown Near Surfaces",
+          "doi": "10.48550/arXiv.2607.14495"
+        },
+        {
+          "similarity": 0.46357615894039733,
+          "title": "Generation of X-ray Spatiotemporal Vortices via Nonlinear Thomson Scattering",
+          "doi": "10.1017/hpl.2026.10117"
+        }
+      ],
+      "identity_scenario_decision": "distinct new work; formal/author aliases coalesce into one record; title + authors + abstract + setup reviewed"
+    }
+  ],
+  "related_work_boundaries": [
+    "RMP review differs from single original waveguide experiments; referenced source papers not re-counted as new works",
+    "Bilbao betatron radiative amplitude bunching differs from stored photon-recoil integrator and field-driven acceleration studies",
+    "Neuroth CF4 validation differs from referenced2026WangCF4striation paper and2021argon validation; neither assumed stored",
+    "Zhang SPPC solid-surface pump/probe differs from stored pair-plasma stimulated scattering and aluminum-plume HHG"
+  ]
+}

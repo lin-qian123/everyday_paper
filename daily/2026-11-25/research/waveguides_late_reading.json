@@ -1,0 +1,114 @@
+{
+  "reader": "waveguides_late",
+  "source_pdf": "daily/2026-11-25/pdfs/shrock-2026-plasma-waveguides.pdf",
+  "source_sha256": "60337fbfa1eab4066f0e2c9a3d8d2167c5381659df2b07d73216441a7c11ce8f",
+  "sections_read": [
+    "IV",
+    "V",
+    "VI"
+  ],
+  "text_read_pages_1based": [
+    53,
+    86
+  ],
+  "references_structure_checked": "startsPDF88; not individually audited",
+  "source_visual_pages_1based": [
+    59,
+    61,
+    62,
+    65,
+    67,
+    71,
+    73,
+    75,
+    78,
+    81
+  ],
+  "crops": [
+    {
+      "figure": 26,
+      "source_pdf_page_1based": 59,
+      "clip_pdf_points": [
+        68,
+        65,
+        553,
+        445
+      ],
+      "matrix": [
+        1.5,
+        1.5
+      ],
+      "path": "daily/2026-11-25/notes/images/shrock-2026-plasma-waveguides/late-figure-26.png",
+      "sha256": "931033f0936c14be648455deca117e65574e3e3e527ac67757e6ac6e38792570",
+      "source": "author arXiv 2512.08690v2; literature figures reproduced in review, not new independent measurements",
+      "crop_reopened_by_reader": true
+    },
+    {
+      "figure": 31,
+      "source_pdf_page_1based": 65,
+      "clip_pdf_points": [
+        77.3,
+        428.2,
+        341.5,
+        635.2
+      ],
+      "matrix": [
+        1.5,
+        1.5
+      ],
+      "path": "daily/2026-11-25/notes/images/shrock-2026-plasma-waveguides/late-figure-31.png",
+      "sha256": "b5485e0632f89957ecc614545186cea55329167279887b4fe5d8d43cf68e1fd4",
+      "source": "author arXiv 2512.08690v2; literature figures reproduced in review, not new independent measurements",
+      "crop_reopened_by_reader": true
+    },
+    {
+      "figure": 33,
+      "source_pdf_page_1based": 71,
+      "clip_pdf_points": [
+        71.9,
+        423.9,
+        540.1,
+        657.6
+      ],
+      "matrix": [
+        1.5,
+        1.5
+      ],
+      "path": "daily/2026-11-25/notes/images/shrock-2026-plasma-waveguides/late-figure-33.png",
+      "sha256": "18184bae5284b1cbdd5c6ecbe326bcb17804115b50bf82a5b8403e488458307d",
+      "source": "author arXiv 2512.08690v2; literature figures reproduced in review, not new independent measurements",
+      "crop_reopened_by_reader": true
+    },
+    {
+      "figure": 40,
+      "source_pdf_page_1based": 81,
+      "clip_pdf_points": [
+        75,
+        300,
+        535,
+        590
+      ],
+      "matrix": [
+        1.5,
+        1.5
+      ],
+      "path": "daily/2026-11-25/notes/images/shrock-2026-plasma-waveguides/late-figure-40.png",
+      "sha256": "fb52ba7ca1918a041cfdc9b6ecb99475acb3535c2d09da9cb2c7a4be34412c33",
+      "source": "author arXiv 2512.08690v2; literature figures reproduced in review, not new independent measurements",
+      "crop_reopened_by_reader": true
+    }
+  ],
+  "version_boundary": "actual author v2 dated2026-11-03; Crossref accepted2026-11-24; formal publication not independently confirmed",
+  "author_codes_or_experiments_rerun": false,
+  "conversion": "validated PDF/local pdftotext+page rendering fallback; parent coordinates MinerU status",
+  "key_audit_points": [
+    "Eq40 sqrtRc confirmed from page61",
+    "Eq41 molecular H2 density vs Eq39 atomic density distinction",
+    "Fig26 negative-delay panel scaledx100; normalized shape, not absolute fluence",
+    "Fig31 units density1e17/cm3 and w_um; actual literature experimental comparison",
+    "Fig40b ten gas pulses +/-1std, density normalizedn/n0; not electron stability",
+    "1m27valves plasma generation vs34cm9.5GeV and30cm10GeV endpoints must stay separate",
+    "100000shots368MeV gas-cell self-guiding not meter-preformed-waveguide lifetime",
+    "LP+CE Ti3eV is model explanation, not unique experimental mechanism proof"
+  ]
+}

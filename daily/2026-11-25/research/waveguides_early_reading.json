@@ -1,0 +1,209 @@
+{
+  "source_pdf": "daily/2026-11-25/pdfs/shrock-2026-plasma-waveguides.pdf",
+  "source_sha256": "60337fbfa1eab4066f0e2c9a3d8d2167c5381659df2b07d73216441a7c11ce8f",
+  "actual_version": "arXiv2512.08690v2, 2026-11-03,113pages; not publisher AM/VOR",
+  "text_read_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52
+  ],
+  "sections_read": [
+    "abstract",
+    "I.A-C",
+    "II.A-F",
+    "III.A-C.4"
+  ],
+  "visual_source_pages": [
+    6,
+    9,
+    12,
+    15,
+    16,
+    18,
+    21,
+    23,
+    26,
+    28,
+    31,
+    38,
+    40,
+    41,
+    42,
+    46,
+    47,
+    49,
+    50,
+    51,
+    52
+  ],
+  "visual_method": "Read .9x source-page renders, equations checked against original images; retained figures rendered at2x from exact image block bounding boxes",
+  "retained_figures": [
+    {
+      "figure": 3,
+      "source_pdf_page": 15,
+      "source_pdf": "daily/2026-11-25/pdfs/shrock-2026-plasma-waveguides.pdf",
+      "clip": [
+        80.25,
+        115.9000244140625,
+        531.1839599609375,
+        364.94000244140625
+      ],
+      "matrix": [
+        2,
+        2
+      ],
+      "path": "daily/2026-11-25/notes/images/shrock-2026-plasma-waveguides/early-figure-3.png",
+      "sha256": "9a656e3b303a65be04cd7b525fab6d4d9ec25fd52952969a65807533c7063d4c",
+      "pixels": [
+        903,
+        499
+      ]
+    },
+    {
+      "figure": 6,
+      "source_pdf_page": 23,
+      "source_pdf": "daily/2026-11-25/pdfs/shrock-2026-plasma-waveguides.pdf",
+      "clip": [
+        167.72500610351562,
+        56.30010986328125,
+        443.77484130859375,
+        338.53997802734375
+      ],
+      "matrix": [
+        2,
+        2
+      ],
+      "path": "daily/2026-11-25/notes/images/shrock-2026-plasma-waveguides/early-figure-6.png",
+      "sha256": "cdeb7baf9178690fabf55fdc5a88dfeae4e9fa8a7756ff82340fcd9f98b12d8e",
+      "pixels": [
+        553,
+        566
+      ]
+    },
+    {
+      "figure": 14,
+      "source_pdf_page": 42,
+      "source_pdf": "daily/2026-11-25/pdfs/shrock-2026-plasma-waveguides.pdf",
+      "clip": [
+        97.3499984741211,
+        76.0,
+        514.1497802734375,
+        386.7309875488281
+      ],
+      "matrix": [
+        2,
+        2
+      ],
+      "path": "daily/2026-11-25/notes/images/shrock-2026-plasma-waveguides/early-figure-14.png",
+      "sha256": "504d4c22ffaf3e8d8e1bca507b8de0be14510f666e0742d4e220aaad89a5b43e",
+      "pixels": [
+        835,
+        622
+      ]
+    },
+    {
+      "figure": 18,
+      "source_pdf_page": 46,
+      "source_pdf": "daily/2026-11-25/pdfs/shrock-2026-plasma-waveguides.pdf",
+      "clip": [
+        75.4000015258789,
+        70.0,
+        542.0,
+        310.5999755859375
+      ],
+      "matrix": [
+        2,
+        2
+      ],
+      "path": "daily/2026-11-25/notes/images/shrock-2026-plasma-waveguides/early-figure-18.png",
+      "sha256": "1af640941f7d1cd25c69e535fcdfc644ebbc1ce8f9ca0b7e565f63dacd6b93a1",
+      "pixels": [
+        934,
+        482
+      ]
+    },
+    {
+      "figure": 21,
+      "source_pdf_page": 50,
+      "source_pdf": "daily/2026-11-25/pdfs/shrock-2026-plasma-waveguides.pdf",
+      "clip": [
+        75.4000015258789,
+        363.22698974609375,
+        542.0,
+        484.97650146484375
+      ],
+      "matrix": [
+        2,
+        2
+      ],
+      "path": "daily/2026-11-25/notes/images/shrock-2026-plasma-waveguides/early-figure-21.png",
+      "sha256": "d19b737369ecf2a27717233bf45cdcb23f31e37e2ba6e39a0dcc41baec09490d",
+      "pixels": [
+        934,
+        244
+      ]
+    }
+  ],
+  "models_or_experiments_rerun": false,
+  "checked_at": "2026-11-24T23:12:55.708559+00:00",
+  "important_limits": [
+    "9.8m is calculated attenuation length from measured profile; actual example guide30cm",
+    "0.4kHz/6.5h is channel generation stability, not GeV accelerator reliability",
+    "Fig14 N_g is H2 molecule density and Tcut~8eV depends on f=.1 alpha=.5 n_mfp3; inner-wall ionization model optimistic ignores cooling",
+    "Fig23 late-delay measured/simulated periods differ4.5/3.1mm; no claim all cases fully agree",
+    "power e-fold leakage length1/(2alpha), not field1/alpha",
+    "LWFA low-density2e17cm^-3 meter-scale estimate assumes800nm a0~2; not universal criterion",
+    "Fig18(b) plot leftaxis neutral-shock positionum; caption says speed. Fit annotation velocity7.7e5cm/s, do not relabel plotted axis as speed."
+  ],
+  "retained_crops_reopened": true,
+  "assembled_note": "daily/2026-11-25/notes/shrock-2026-plasma-waveguides.md"
+}

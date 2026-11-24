@@ -1,0 +1,44 @@
+{
+  "status": "metadata/abstract discovery only, not fulltext read or ingested",
+  "current_arxiv_candidates": [
+    {
+      "arxiv_id": "2611.30439",
+      "title": "Bypassing the Nanoampere Limit: A Thick-Target Methodology for Ultra-Low-Energy Resonances in the $^{11}$B(p,$α$)2$α$ Reaction"
+    },
+    {
+      "arxiv_id": "2611.30086",
+      "title": "A Novel Multi-Target Approach for simultaneous enhancement of brightness, intensity, and bi-spectral performance of cold neutron sources"
+    },
+    {
+      "arxiv_id": "2611.30098",
+      "title": "Plasma-enabled magnet-free LSW search for eV-scale axions with laser-stimulated regeneration"
+    },
+    {
+      "arxiv_id": "2611.28266",
+      "title": "CNN-Based Locked Mode Detection and Prospects for Prediction Utilizing Density Fluctuation Signals"
+    }
+  ],
+  "other_formal_candidates": [
+    {
+      "doi": "10.1088/1361-6595/aec193",
+      "title": "LoKI-GM: a global model framework for plasma chemistry studies",
+      "status": "metadata only; fulltext availability not investigated"
+    },
+    {
+      "doi": "10.1088/1361-6587/aec1fe",
+      "title": "Stellarator plasma start-up model based on energy confinement time scaling laws, experimental verification and numerical simulation results",
+      "status": "metadata only; fulltext availability not investigated"
+    },
+    {
+      "doi": "10.1088/1741-4326/aec02f",
+      "title": "Impact of ICRH-driven beta-induced Alfvén eigenmode on fast-ion redistribution and ion heating in EAST plasmas",
+      "status": "metadata only; fulltext availability not investigated"
+    }
+  ],
+  "previous_unread_leads": [
+    "2611.27760 hot-layer ICF",
+    "10.1140/epjp/s13360-026-08565-w 51Vphotonuclear",
+    "2611.24653 activation"
+  ],
+  "selection_rationale": "prioritize new formal records/finalVOR and fulltext verification; bounded daily selection, no exhaustive claim"
+}

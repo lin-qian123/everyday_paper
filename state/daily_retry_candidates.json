@@ -1767,5 +1767,27 @@
     "output_pdf": "daily/2026-11-24/pdfs/shaheen-2026-activation.pdf",
     "pdf_hint_url": "https://www.degruyterbrill.com/document/doi/10.1515/kern-2026-0085/pdf",
     "journal": "Kerntechnik"
+  },
+  {
+    "doi": "10.1080/15361055.2026.2752318",
+    "title": "On the Mass-Production of Inertial Fusion Energy Targets for Athena at a 0.25-Hz Shot Rate",
+    "publication_date": "2026-11-24",
+    "publication_date_type": "Crossref online date; publisher firstpage not obtained",
+    "source_url": "https://www.tandfonline.com/doi/full/10.1080/15361055.2026.2752318",
+    "pdf_candidates": [
+      "https://www.tandfonline.com/doi/pdf/10.1080/15361055.2026.2752318"
+    ],
+    "pdf_hint_url": "https://www.tandfonline.com/doi/pdf/10.1080/15361055.2026.2752318",
+    "output_pdf": "daily/2026-11-25/pdfs/athena-2026-target-production.pdf",
+    "journal": "Fusion Science and Technology",
+    "topic": "ICF target manufacturing and repetition rate",
+    "source_family": "tandfonline",
+    "status": "download_failed",
+    "last_failure_class": "publisher_pdf_403_html",
+    "stderr": "Official PDF403 text/html5617B JavaScript/cookie challenge; HAL exacttitle top5numFound0; bounded web found no verified same-work legal authorPDF. No abstract-only note.",
+    "run_date": "2026-11-25",
+    "failure_count": 1,
+    "attempted_at": "2026-11-24T23:16:05.260398+00:00",
+    "evidence_path": "daily/2026-11-25/research/other_formal_access.json"
   }
 ]

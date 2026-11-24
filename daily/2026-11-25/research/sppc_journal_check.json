@@ -1,0 +1,47 @@
+{
+  "title": "Relativistic Harmonic Generation in Spatiotemporal Plasma Photonic Crystals",
+  "url": "https://api.crossref.org/works?query.title=Relativistic+Harmonic+Generation+in+Spatiotemporal+Plasma+Photonic+Crystals&rows=3",
+  "http_status": 200,
+  "items": [
+    {
+      "doi": "10.1002/andp.202300190",
+      "title": [
+        "Second Harmonic Generation in 1D Nonlinear Plasma Photonic Crystals"
+      ],
+      "type": "journal-article",
+      "published": {
+        "date-parts": [
+          [
+            2023,
+            7,
+            9
+          ]
+        ]
+      }
+    },
+    {
+      "doi": "10.5821/dissertation-2117-93929",
+      "title": [
+        "Second Harmonic Generation in Photonic Crystals"
+      ],
+      "type": "dissertation",
+      "published": null
+    },
+    {
+      "doi": "10.1007/s10946-019-09823-2",
+      "title": [
+        "Harmonic Generation by Relativistic Plasma Resonance"
+      ],
+      "type": "journal-article",
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            9
+          ]
+        ]
+      }
+    }
+  ],
+  "decision": "no exact same-work journal verified in bounded top3 query"
+}

@@ -1,0 +1,63 @@
+[
+  {
+    "doi": "10.1103/mw87-cjg8",
+    "url": "https://journals.aps.org/rmp/abstract/10.1103/mw87-cjg8",
+    "final_url": "https://journals.aps.org/rmp/abstract/10.1103/mw87-cjg8",
+    "status": 403,
+    "mime": "text/html; charset=UTF-8",
+    "bytes": 5550,
+    "magic_pdf": false,
+    "text_excerpt": "Just a moment... Enable JavaScript and cookies to continue"
+  },
+  {
+    "doi": "10.1103/mw87-cjg8",
+    "url": "https://journals.aps.org/rmp/pdf/10.1103/mw87-cjg8",
+    "final_url": "https://journals.aps.org/rmp/pdf/10.1103/mw87-cjg8",
+    "status": 403,
+    "mime": "text/html; charset=UTF-8",
+    "bytes": 5514,
+    "magic_pdf": false,
+    "text_excerpt": "Just a moment... Enable JavaScript and cookies to continue"
+  },
+  {
+    "doi": "10.1103/mw87-cjg8",
+    "url": "https://harvest.aps.org/v2/journals/articles/10.1103/mw87-cjg8/fulltext",
+    "final_url": "https://harvest.aps.org/v2/journals/articles/10.1103/mw87-cjg8/fulltext",
+    "status": 404,
+    "mime": "application/json",
+    "bytes": 52,
+    "magic_pdf": false,
+    "text_excerpt": "{\"errors\":[{\"title\":\"10.1103/mw87-cjg8 not found\"}]}"
+  },
+  {
+    "doi": "10.1103/k67h-dvxp",
+    "url": "https://journals.aps.org/prl/abstract/10.1103/k67h-dvxp",
+    "final_url": "https://journals.aps.org/prl/abstract/10.1103/k67h-dvxp",
+    "status": 403,
+    "mime": "text/html; charset=UTF-8",
+    "bytes": 5550,
+    "magic_pdf": false,
+    "text_excerpt": "Just a moment... Enable JavaScript and cookies to continue"
+  },
+  {
+    "doi": "10.1103/k67h-dvxp",
+    "url": "https://journals.aps.org/prl/pdf/10.1103/k67h-dvxp",
+    "final_url": "https://journals.aps.org/prl/pdf/10.1103/k67h-dvxp",
+    "status": 403,
+    "mime": "text/html; charset=UTF-8",
+    "bytes": 5514,
+    "magic_pdf": false,
+    "text_excerpt": "Just a moment... Enable JavaScript and cookies to continue"
+  },
+  {
+    "doi": "10.1103/k67h-dvxp",
+    "url": "https://harvest.aps.org/v2/journals/articles/10.1103/k67h-dvxp/fulltext",
+    "final_url": "https://harvest.aps.org/v2/journals/articles/10.1103/k67h-dvxp/fulltext",
+    "status": 200,
+    "mime": "application/pdf",
+    "bytes": 4933394,
+    "magic_pdf": true,
+    "saved_path": "daily/2026-11-25/pdfs/bilbao-2026-betatron-cooling.pdf",
+    "sha256": "2be32a85353c350778eb727c6f83a71d3ea4b6c0bd5c5f36574c0cdf27fe81fa"
+  }
+]

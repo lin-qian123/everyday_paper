@@ -1,10 +1,14 @@
 # 论文总索引
 
-- 当前入库论文：596 篇
-- 索引更新时间：2026-11-24
+- 当前入库论文：600 篇
+- 索引更新时间：2026-11-25
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-11-25 | [Phase-Space Shaping Due to Betatron Cooling in Wakefield Accelerators and the Onset of the Ion-Channel Laser](./10-1103-k67h-dvxp/README.md) | Physical Review Letters | [10.1103/k67h-dvxp](https://doi.org/10.1103/k67h-dvxp) |
+| 2026-11-25 | [Multi-diagnostic experimental validation of PIC/MCC simulations of symmetric capacitively coupled plasmas in CF4](./10-1088-1361-6595-aebfc4/README.md) | Plasma Sources Science and Technology | [10.1088/1361-6595/aebfc4](https://doi.org/10.1088/1361-6595/aebfc4) |
+| 2026-11-25 | [Relativistic Harmonic Generation in Spatiotemporal Plasma Photonic Crystals](./arxiv-2611-30084/README.md) | arXiv | [10.48550/arXiv.2611.30084](https://doi.org/10.48550/arXiv.2611.30084) |
+| 2026-11-25 | [Plasma waveguides for high-intensity laser pulses](./10-1103-mw87-cjg8/README.md) | Reviews of Modern Physics | [10.1103/mw87-cjg8](https://doi.org/10.1103/mw87-cjg8) |
 | 2026-11-24 | [Antimuon acceleration via electron driven coherent transition radiation](./10-1038-s41598-026-81462-5/README.md) | Scientific Reports | [10.1038/s41598-026-81462-5](https://doi.org/10.1038/s41598-026-81462-5) |
 | 2026-11-24 | [A conservative latent neural ODE for stiff collisional-radiative plasma kinetics](./arxiv-2611-27027/README.md) | arXiv preprint | [10.48550/arXiv.2611.27027](https://doi.org/10.48550/arXiv.2611.27027) |
 | 2026-11-24 | [Single-Pulse Dosimetry for Ultra-High-Dose-Rate X-Ray Pulses Based on Radiation-Induced Acoustic Signals](./arxiv-2611-27772/README.md) | arXiv preprint | [10.48550/arXiv.2611.27772](https://doi.org/10.48550/arXiv.2611.27772) |

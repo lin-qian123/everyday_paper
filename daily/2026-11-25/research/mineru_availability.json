@@ -1,0 +1,10 @@
+{
+  "checked_at": "2026-11-24T23:06:48.557333+00:00",
+  "requests": 1,
+  "url": "https://mineru.net/api/v4/extract/task",
+  "input_url": "https://arxiv.org/pdf/2512.08690v2",
+  "http_status": 401,
+  "code": null,
+  "msg": "user token expired",
+  "task_id": null
+}

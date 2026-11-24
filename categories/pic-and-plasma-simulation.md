@@ -2,11 +2,15 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：267 篇
-- 索引更新时间：2026-11-24
+- 当前收录：271 篇
+- 索引更新时间：2026-11-25
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-25 | [Phase-Space Shaping Due to Betatron Cooling in Wakefield Accelerators and the Onset of the Ion-Channel Laser](../papers/10-1103-k67h-dvxp/README.md) | Physical Review Letters | [笔记](../daily/2026-11-25/notes/bilbao-2026-betatron-cooling.md) |
+| 2026-11-25 | [Multi-diagnostic experimental validation of PIC/MCC simulations of symmetric capacitively coupled plasmas in CF4](../papers/10-1088-1361-6595-aebfc4/README.md) | Plasma Sources Science and Technology | [笔记](../daily/2026-11-25/notes/neuroth-2026-cf4-pic-validation.md) |
+| 2026-11-25 | [Relativistic Harmonic Generation in Spatiotemporal Plasma Photonic Crystals](../papers/arxiv-2611-30084/README.md) | arXiv | [笔记](../daily/2026-11-25/notes/zhang-2026-plasma-crystals.md) |
+| 2026-11-25 | [Plasma waveguides for high-intensity laser pulses](../papers/10-1103-mw87-cjg8/README.md) | Reviews of Modern Physics | [笔记](../daily/2026-11-25/notes/shrock-2026-plasma-waveguides.md) |
 | 2026-11-24 | [Antimuon acceleration via electron driven coherent transition radiation](../papers/10-1038-s41598-026-81462-5/README.md) | Scientific Reports | [笔记](../daily/2026-11-24/notes/xu-2026-antimuon.md) |
 | 2026-11-24 | [A conservative latent neural ODE for stiff collisional-radiative plasma kinetics](../papers/arxiv-2611-27027/README.md) | arXiv preprint | [笔记](../daily/2026-11-24/notes/xie-2026-latent-cr.md) |
 | 2026-11-24 | [Feasibility study of two-stage direct laser acceleration of electrons](../papers/arxiv-2611-27857/README.md) | arXiv preprint | [笔记](../daily/2026-11-24/notes/starodubtseva-2026-staged-dla.md) |
