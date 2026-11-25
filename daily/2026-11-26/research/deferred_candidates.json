@@ -1,0 +1,69 @@
+{
+  "selection": "two latest formal VORs selected; bounded nonexhaustive daily reading",
+  "current_plasma_metadata_only": [
+    {
+      "arxiv_id": "2611.32922",
+      "title": "Whistler instability driven by electron trapping in magnetic dips",
+      "subjects": "Subjects: Plasma Physics (physics.plasm-ph) ; Space Physics (physics.space-ph)"
+    },
+    {
+      "arxiv_id": "2611.32385",
+      "title": "Annular-curvature effects on high-frequency azimuthal fluctuations in 3D PIC simulations of Hall-thruster plasmas",
+      "subjects": "Subjects: Plasma Physics (physics.plasm-ph)"
+    },
+    {
+      "arxiv_id": "2611.32005",
+      "title": "Measuring the tug-of-war between two nonlinearities in a monopolar plasma vortex",
+      "subjects": "Subjects: Plasma Physics (physics.plasm-ph) ; Pattern Formation and Solitons (nlin.PS)"
+    },
+    {
+      "arxiv_id": "2611.31935",
+      "title": "Global full-f gyrokinetic analysis of energetic-particle-driven Alfvén eigenmodes and their phase-space drive with GYSELA",
+      "subjects": "Subjects: Plasma Physics (physics.plasm-ph)"
+    },
+    {
+      "arxiv_id": "2611.31769",
+      "title": "The effects of closure parameter on the properties of kinetic range plasma turbulence",
+      "subjects": "Subjects: Plasma Physics (physics.plasm-ph) ; Space Physics (physics.space-ph)"
+    },
+    {
+      "arxiv_id": "2611.31741",
+      "title": "Streaming instabilities and electron transport in electron transpiration cooling",
+      "subjects": "Subjects: Plasma Physics (physics.plasm-ph)"
+    },
+    {
+      "arxiv_id": "2611.31616",
+      "title": "Toward divertor plasma detachment in pure D-T plasma in fusion reactor with H-mode-like plasma confinement",
+      "subjects": "Subjects: Plasma Physics (physics.plasm-ph)"
+    },
+    {
+      "arxiv_id": "2611.31603",
+      "title": "Exact force-free three-dimensional toroidal equilibria and the sawtooth q(0) problem",
+      "subjects": "Subjects: Plasma Physics (physics.plasm-ph)"
+    },
+    {
+      "arxiv_id": "2611.32287",
+      "title": "Plasma Heating by Magnetic Reconnection and Alfven Waves in Collisionless Shocks",
+      "subjects": "Subjects: High Energy Astrophysical Phenomena (astro-ph.HE) ; Plasma Physics (physics.plasm-ph)"
+    },
+    {
+      "arxiv_id": "2611.31486",
+      "title": "CHORD: Learning Latent Spaces for Constrained Stellarator Design",
+      "subjects": "Subjects: Machine Learning (cs.LG) ; Plasma Physics (physics.plasm-ph)"
+    },
+    {
+      "arxiv_id": "2611.28035",
+      "title": "Making Reconnection Cooler: A relativistic resistive magnetohydrodynamics model for radiative collisionless reconnection",
+      "subjects": "Subjects: High Energy Astrophysical Phenomena (astro-ph.HE) ; Plasma Physics (physics.plasm-ph)"
+    }
+  ],
+  "other_formal_metadata_only": [
+    {
+      "doi": "10.1088/1361-6595/aeb8f3",
+      "title": "A kinetic simulation of orifice plasma formation in plasma cathodes",
+      "status": "availability not investigated, unread"
+    }
+  ],
+  "previous_unread_leads_reference": "daily/2026-11-25/research/deferred_candidates.json; no availability or scientific update this run",
+  "companion_reference": "companion_deferred.json"
+}

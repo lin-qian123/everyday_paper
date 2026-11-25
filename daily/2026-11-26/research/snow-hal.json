@@ -1,0 +1,13 @@
+{
+  "url": "https://api.archives-ouvertes.fr/search/?q=title_t%3A%22Production+of+carrier-free+185Ta+using+photonuclear+reactions+coupled+with+rapid+chemical+separations%22&wt=json&rows=5&fl=title_s%2CdoiId_s%2CarxivId_s%2CfileMain_s%2Curi_s",
+  "status": 200,
+  "response": {
+    "response": {
+      "numFound": 0,
+      "start": 0,
+      "maxScore": 0.0,
+      "numFoundExact": true,
+      "docs": []
+    }
+  }
+}

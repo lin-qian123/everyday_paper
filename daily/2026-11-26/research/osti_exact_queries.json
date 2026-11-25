@@ -1,0 +1,28 @@
+[
+  {
+    "doi": "10.1063/5.0350254",
+    "url": "https://www.osti.gov/api/v1/records?q=%22Machine-learning-guided+pre-shot+diagnostic+configuration+for+high-repetition-rate+laser-plasma+experiments%22&rows=5",
+    "status": 200,
+    "final_url": "https://www.osti.gov/api/v1/records?q=%22Machine-learning-guided+pre-shot+diagnostic+configuration+for+high-repetition-rate+laser-plasma+experiments%22&rows=5",
+    "mime": "application/xml",
+    "bytes": 61,
+    "response": null,
+    "non_json_prefix": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<records>\r\n</records>",
+    "exact_title_matches": [],
+    "parsed_record_count": 0,
+    "format_note": "OSTI returned empty XML records, not JSON; empty records verified from response body. Initial JSON-only parser failed; no search result inferred from exception."
+  },
+  {
+    "doi": "10.1007/s10967-026-10928-7",
+    "url": "https://www.osti.gov/api/v1/records?q=%22Production+of+carrier-free+185Ta+using+photonuclear+reactions+coupled+with+rapid+chemical+separations%22&rows=5",
+    "status": 200,
+    "final_url": "https://www.osti.gov/api/v1/records?q=%22Production+of+carrier-free+185Ta+using+photonuclear+reactions+coupled+with+rapid+chemical+separations%22&rows=5",
+    "mime": "application/xml",
+    "bytes": 61,
+    "response": null,
+    "non_json_prefix": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<records>\r\n</records>",
+    "exact_title_matches": [],
+    "parsed_record_count": 0,
+    "format_note": "OSTI returned empty XML records, not JSON; empty records verified from response body. Initial JSON-only parser failed; no search result inferred from exception."
+  }
+]

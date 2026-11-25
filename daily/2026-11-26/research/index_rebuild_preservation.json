@@ -1,0 +1,17 @@
+{
+  "command": "python scripts/build_indexes.py",
+  "works": 602,
+  "categories": 9,
+  "unrelated_old_paper_pages_restored": [
+    "papers/10-1088-1741-4326-aebda4/README.md",
+    "papers/10-1088-2058-6272-aec41f/README.md",
+    "papers/10-1103-33h4-lf1m/README.md",
+    "papers/10-1103-bvnj-1wmg/README.md",
+    "papers/10-1103-gg1s-rxrg/README.md",
+    "papers/10-1103-p838-2l32/README.md",
+    "papers/10-1103-yp1k-gjh9/README.md"
+  ],
+  "reason": "generator overwrites existing angle-wrapped legacy destinations; restored byte-exact baseline on seven unchanged old works",
+  "AGENTS_original_sha256": "34e18320c8191458fa513b47c4d55f6fc9c63da79e6b02f22d201ce5dfbb8e8d",
+  "AGENTS_unchanged": true
+}

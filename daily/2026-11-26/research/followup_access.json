@@ -1,0 +1,40 @@
+[
+  {
+    "slug": "arnold-2026-bremsstrahlung",
+    "kind": "pdf",
+    "url": "https://harvest.aps.org/v2/journals/articles/10.1103/rk4d-45t9/fulltext",
+    "final_url": "https://harvest.aps.org/v2/journals/articles/10.1103/rk4d-45t9/fulltext",
+    "status": 200,
+    "mime": "application/pdf",
+    "bytes": 1212214,
+    "is_pdf": true,
+    "sha256": "0cedb78210ba82fa4049bd6713f3a122b67fa14e5cde0746212cb32026f08257",
+    "checked_at": "2026-11-25T22:59:31.422442+00:00"
+  },
+  {
+    "slug": "arnold-2026-calculation",
+    "kind": "pdf",
+    "url": "https://harvest.aps.org/v2/journals/articles/10.1103/8rg8-tmgg/fulltext",
+    "final_url": "https://harvest.aps.org/v2/journals/articles/10.1103/8rg8-tmgg/fulltext",
+    "status": 200,
+    "mime": "application/pdf",
+    "bytes": 1530788,
+    "is_pdf": true,
+    "sha256": "2900c195be48ba0d59680944b3965634bfb4d0927d822bbc332a30ec21e1baa8",
+    "checked_at": "2026-11-25T22:59:31.857953+00:00"
+  },
+  {
+    "slug": "mariscal-2026-pre-shot-correct",
+    "kind": "article",
+    "url": "https://pubs.aip.org/aip/rsi/article/97/11/113532/3409304/Machine-learning-guided-pre-shot-diagnostic",
+    "final_url": "https://pubs.aip.org/aip/rsi/article/97/11/113532/3409304/Machine-learning-guided-pre-shot-diagnostic",
+    "status": 403,
+    "mime": "text/html; charset=UTF-8",
+    "bytes": 5739,
+    "is_pdf": false,
+    "sha256": "aca69f34592de24e5b814babdff2a9d2cacdf9492a244f81fda60b7f6fad47f8",
+    "checked_at": "2026-11-25T22:59:29.272759+00:00",
+    "pdf_links": [],
+    "date_metadata": []
+  }
+]

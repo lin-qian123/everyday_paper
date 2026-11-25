@@ -1,0 +1,46 @@
+{
+  "run_date": "2026-11-26",
+  "checked_at": "2026-11-25T23:09:18.006972+00:00",
+  "ledger_before": 600,
+  "ledger_after": 602,
+  "new_works": 2,
+  "new_final_VORs": 2,
+  "old_works_preserved": 600,
+  "retry_before": 78,
+  "retry_after": 80,
+  "new_retry_dois": [
+    "10.1063/5.0350254",
+    "10.1007/s10967-026-10928-7"
+  ],
+  "old_retry_objects_preserved": 78,
+  "pdf_pages": 16,
+  "pdf_bytes": 3245483,
+  "source_visual_pages_unique": 16,
+  "retained_crops": 10,
+  "mineru_requests": 0,
+  "author_models_or_experiments_rerun": false,
+  "indexes": {
+    "command": "python scripts/build_indexes.py",
+    "works": 602,
+    "categories": 9,
+    "status": "built"
+  },
+  "verification_path": "daily/2026-11-26/research/verification.json",
+  "publication": {
+    "authorized_target": "origin/master",
+    "procedure": "commit audited run paths then verify HEAD,tracking,fresh remote; result in automation memory"
+  },
+  "existing_AGENTS_modification_preserved_and_excluded": true,
+  "arxiv_rows": 365,
+  "arxiv_unique_ids": 348,
+  "crossref_rows": 400,
+  "crossref_unique_dois": 353,
+  "unrelated_generator_wrapper_regressions_restored": 7,
+  "tests": {
+    "command": "PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q",
+    "passed": 7,
+    "seconds": 2.1,
+    "observed_exit_code": 0
+  },
+  "primary_reopened_all_crops_and_source_pixels_verified": true
+}

@@ -1789,5 +1789,47 @@
     "failure_count": 1,
     "attempted_at": "2026-11-24T23:16:05.260398+00:00",
     "evidence_path": "daily/2026-11-25/research/other_formal_access.json"
+  },
+  {
+    "doi": "10.1063/5.0350254",
+    "title": "Machine-learning-guided pre-shot diagnostic configuration for high-repetition-rate laser-plasma experiments",
+    "journal": "Review of Scientific Instruments",
+    "publication_date": "2026-11-25",
+    "publication_date_type": "Crossref online date; final PDF not obtained",
+    "source_url": "https://pubs.aip.org/aip/rsi/article/97/11/113532/3409304/Machine-learning-guided-pre-shot-diagnostic",
+    "pdf_hint_url": "https://pubs.aip.org/aip/rsi/article-pdf/doi/10.1063/5.0350254/21210690/113532_1_5.0350254.pdf",
+    "pdf_candidates": [
+      "https://pubs.aip.org/aip/rsi/article-pdf/doi/10.1063/5.0350254/21210690/113532_1_5.0350254.pdf"
+    ],
+    "output_pdf": "daily/2026-11-26/pdfs/mariscal-2026-pre-shot.pdf",
+    "source_family": "aip",
+    "status": "download_failed",
+    "last_failure_class": "publisher_pdf_403_html",
+    "stderr": "Official Crossref PDF403 text/html5696B; corrected official article URL403 text/html5739B. HAL exact-title top5 numFound0; OSTI quoted-title query200 empty XML records; bounded web no verified same-work authorPDF. No abstract-only note.",
+    "run_date": "2026-11-26",
+    "failure_count": 1,
+    "attempted_at": "2026-11-25T23:06:29.696611+00:00",
+    "evidence_path": "daily/2026-11-26/research/formal_access.json"
+  },
+  {
+    "doi": "10.1007/s10967-026-10928-7",
+    "title": "Production of carrier-free 185Ta using photonuclear reactions coupled with rapid chemical separations",
+    "journal": "Journal of Radioanalytical and Nuclear Chemistry",
+    "publication_date": "2026-11-25",
+    "publication_date_type": "Crossref online date; final PDF not obtained",
+    "source_url": "https://link.springer.com/article/10.1007/s10967-026-10928-7",
+    "pdf_hint_url": "https://link.springer.com/content/pdf/10.1007/s10967-026-10928-7.pdf",
+    "pdf_candidates": [
+      "https://link.springer.com/content/pdf/10.1007/s10967-026-10928-7.pdf"
+    ],
+    "output_pdf": "daily/2026-11-26/pdfs/snow-2026-ta185.pdf",
+    "source_family": "springer",
+    "status": "download_failed",
+    "last_failure_class": "publisher_pdf_redirect_subscription_html",
+    "stderr": "Official PDF200 redirects to subscription article HTML325915B, no PDF magic; HAL exact-title top5 numFound0; OSTI quoted-title query200 empty XML records; bounded web no verified same-work authorPDF. No abstract-only note.",
+    "run_date": "2026-11-26",
+    "failure_count": 1,
+    "attempted_at": "2026-11-25T23:06:29.696611+00:00",
+    "evidence_path": "daily/2026-11-26/research/formal_access.json"
   }
 ]

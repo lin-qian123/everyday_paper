@@ -1,0 +1,371 @@
+[
+  {
+    "slug": "pogorelsky-2026-lwir",
+    "kind": "pdf",
+    "url": "https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2026.1969078/pdf",
+    "final_url": "https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2026.1969078/pdf",
+    "status": 200,
+    "mime": "application/pdf",
+    "bytes": 2033269,
+    "is_pdf": true,
+    "sha256": "e8bf15df0e5eaf7db719800b6cd8e7031826f8a195f7f0cbcc652a6fbf241b09",
+    "checked_at": "2026-11-25T22:58:53.169154+00:00"
+  },
+  {
+    "slug": "pogorelsky-2026-lwir",
+    "kind": "article",
+    "url": "https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2026.1969078/full",
+    "final_url": "https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2026.1969078/full",
+    "status": 200,
+    "mime": "text/html;charset=utf-8",
+    "bytes": 817532,
+    "is_pdf": false,
+    "sha256": "a3d56c162449274f830d18da4b212ad25be1848cb27b39d29e11aef5713a296f",
+    "checked_at": "2026-11-25T22:58:52.869750+00:00",
+    "pdf_links": [
+      "https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2026.1969078/pdf",
+      "https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2026.1969078/pdf"
+    ],
+    "date_metadata": [
+      {
+        "name": "citation_doi",
+        "content": "10.3389/fphy.2026.1969078"
+      },
+      {
+        "name": "citation_title",
+        "content": "Long wave infrared laser platform for plasma studies relevant to inertial fusion"
+      },
+      {
+        "name": "citation_pdf_url",
+        "content": "https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2026.1969078/pdf"
+      },
+      {
+        "name": "citation_publication_date",
+        "content": "2026/11/25"
+      }
+    ]
+  },
+  {
+    "slug": "mariscal-2026-pre-shot",
+    "kind": "pdf",
+    "url": "https://pubs.aip.org/aip/rsi/article-pdf/doi/10.1063/5.0350254/21210690/113532_1_5.0350254.pdf",
+    "final_url": "https://pubs.aip.org/aip/rsi/article-pdf/doi/10.1063/5.0350254/21210690/113532_1_5.0350254.pdf",
+    "status": 403,
+    "mime": "text/html; charset=UTF-8",
+    "bytes": 5696,
+    "is_pdf": false,
+    "sha256": "b57dc42765a771b4329700ed48d95d1a089a6ecc5f9bb9ea720248f4bf6b1abc",
+    "checked_at": "2026-11-25T22:58:51.068877+00:00",
+    "pdf_links": [],
+    "date_metadata": []
+  },
+  {
+    "slug": "mariscal-2026-pre-shot",
+    "kind": "article",
+    "url": "https://pubs.aip.org/rsi/article/97/11/113532/3422054/Machine-learning-guided-pre-shot-diagnostic",
+    "final_url": "https://pubs.aip.org/rsi/article/97/11/113532/3422054/Machine-learning-guided-pre-shot-diagnostic",
+    "status": 403,
+    "mime": "text/html; charset=UTF-8",
+    "bytes": 5727,
+    "is_pdf": false,
+    "sha256": "b9e15f9337c2d631e8af0bb4dd28db7e8c40ef36a1c54f456ea2d1d86a7155d3",
+    "checked_at": "2026-11-25T22:58:52.147985+00:00",
+    "pdf_links": [],
+    "date_metadata": [],
+    "route_validity": "Initial unverified article ID; excluded from conclusions. Correct official observed route and access are in followup_access.json."
+  },
+  {
+    "slug": "snow-2026-ta185",
+    "kind": "pdf",
+    "url": "https://link.springer.com/content/pdf/10.1007/s10967-026-10928-7.pdf",
+    "final_url": "https://link.springer.com/article/10.1007/s10967-026-10928-7",
+    "status": 200,
+    "mime": "text/html; charset=utf-8",
+    "bytes": 325915,
+    "is_pdf": false,
+    "sha256": "a47c02b4083489322c403981d09993161f45e14148860f58243e5435d26c9a45",
+    "checked_at": "2026-11-25T22:58:56.543984+00:00",
+    "pdf_links": [],
+    "date_metadata": [
+      {
+        "name": "360-site-verification",
+        "content": "1268d79b5e96aecf3ff2a7dac04ad990"
+      },
+      {
+        "name": "twitter:site",
+        "content": "@SpringerLink"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:image:alt",
+        "content": "Content cover image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Production of carrier-free 185Ta using photonuclear reactions coupled with rapid chemical separations"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Journal of Radioanalytical and Nuclear Chemistry - This work reports a method for producing carrier-free 185Ta via the 186W(γ,p) reaction through bremsstrahlung irradiation of natural tungsten..."
+      },
+      {
+        "name": "citation_pdf_url",
+        "content": "https://link.springer.com/content/pdf/10.1007/s10967-026-10928-7.pdf"
+      },
+      {
+        "name": "citation_title",
+        "content": "Production of carrier-free 185Ta using photonuclear reactions coupled with rapid chemical separations"
+      },
+      {
+        "name": "citation_doi",
+        "content": "10.1007/s10967-026-10928-7"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_title=Physics in nuclear medicine; citation_publication_date=2012; citation_id=CR2; citation_author=SR Cherry; citation_author=JA Sorenson; citation_author=ME Phelps; citation_publisher=Elsevier Health Sciences"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=Radiochim Acta; citation_title=The present and future of medical radionuclide production; citation_author=SM Qaim; citation_volume=100; citation_publication_date=2012; citation_pages=635-651; citation_doi=10.1524/ract.2012.1966; citation_id=CR3"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_title=The radiopharmaceutical chemistry of seldom-used radionuclides in nuclear medicine; citation_inbook_title=Radiopharmaceutical chemistry; citation_publication_date=2019; citation_pages=425-446; citation_id=CR4; citation_author=JP Holland; citation_publisher=Springer International Publishing"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=Nucl Med Biol; citation_title=Short lived radionuclides in therapy; citation_author=RP Spencer; citation_volume=14; citation_issue=6; citation_publication_date=1987; citation_pages=537-538; citation_id=CR5"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=J Nucl Med; citation_title=Dosimetric aspects of radiolabeled antibodies for tumor therapy; citation_author=JL Humm; citation_volume=27; citation_issue=9; citation_publication_date=1986; citation_pages=1490-1497; citation_id=CR6"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=Appl Radiat Isot; citation_title=Separation of carrier free lutetium produced in proton activated ytterbium with HDEHP; citation_author=S Lahiri, D Nayak, M Nandy, NR Das; citation_volume=49; citation_issue=8; citation_publication_date=1998; citation_pages=911-913; citation_doi=10.1016/S0969-8043(97)10101-4; citation_id=CR7"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_title=Handbook of radiopharmaceuticals: radiochemistry and applications; citation_publication_date=2002; citation_id=CR8; citation_author=MJ Welch; citation_author=CS Redvanly; citation_publisher=John Wiley & Sons, Ltd"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_title=\"How Far Are We from Dose On Demand of Short-Lived Radiopharmaceuticals?,\" in Perspectives on Nuclear Medicine for Molecular Diagnosis and Integrated Therapy; citation_publication_date=2016; citation_id=CR9; citation_author=G Pascali; citation_author=L Matesic; citation_publisher=Springer"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=J Labelled Comp Radiopharm; citation_title=A remote system for routine production of oxygen-15; citation_author=MJ Welch, MR Kilbourn; citation_volume=22; citation_issue=11; citation_publication_date=1985; citation_pages=1193-1200; citation_doi=10.1002/jlcr.2580221114; citation_id=CR10"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=Angew Chem Int Ed Engl; citation_title=Synthesis of 11C, 18F, 15O, and 13N radiolabels for positron emission tomography; citation_author=PW Miller, NJ Long, R Vilar, AD Gee; citation_volume=47; citation_issue=47; citation_publication_date=2008; citation_pages=8998-9033; citation_doi=10.1002/anie.200800222; citation_id=CR11"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=Appl Radiat Isot; citation_title=A ‘dose on demand’ biomarker generator for automated production of [18F]FDG; citation_author=PW Awasthi, J Watson, H Gali, G Matlock, A McFarland, J Bailey, A Anzellotti; citation_volume=89; citation_publication_date=2014; citation_pages=167-175; citation_doi=10.1016/j.apradiso.2014.02.015; citation_id=CR12"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=Nucl Med Biol; citation_title=Microfluidic approach for fast labeling optimization and dose-on-demand implementation; citation_author=G Pascali, G Mazzone, G Saccomanni, C Manera, PA Salvadori; citation_volume=37; citation_issue=5; citation_publication_date=2010; citation_pages=547-555; citation_doi=10.1016/j.nucmedbio.2010.03.006; citation_id=CR13"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=Drug Dev Ind Pharm; citation_title=Recent achievements in Tc-99m radiopharmaceutical direct production by medical cyclotrons; citation_author=A Boschi, P Martini, M Pasquali, L Uccelli; citation_volume=43; citation_issue=9; citation_publication_date=2017; citation_pages=1402-1412; citation_doi=10.1080/03639045.2017.1323911; citation_id=CR14"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=Int J Appl Radiat Isot; citation_title=The production of 157Dy for medical use; citation_author=E Lebowitz, MW Greene; citation_volume=22; citation_issue=12; citation_publication_date=1971; citation_pages=789-793; citation_doi=10.1016/0020-708X(71)90148-7; citation_id=CR15"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=Appl Radiat Isot; citation_title=A preliminary study for the production of high specific activity radionuclides for nuclear medicine obtained with the isotope separation on line technique; citation_author=F Borgna, M Ballan, S Corradetti, E Vettorato, A Monetti, M Rossignoli, M Manzolaro, D Scarpa, U Mazzi, N Realdon, A Andrighetto; citation_volume=127; citation_publication_date=2017; citation_pages=214-226; citation_doi=10.1016/j.apradiso.2017.06.022; citation_id=CR16"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=Appl Radiat Isot; citation_title=Separation of carrier free Dysprosium and Terbium isotopes from 12C6+ irradiated Nd2O3; citation_author=S Lahiri, D Nayak, SK Das; citation_volume=51; citation_issue=1; citation_publication_date=1999; citation_pages=27-32; citation_doi=10.1016/S0969-8043(98)00189-4; citation_id=CR17"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=Journal of Radioanalytical Nuclear Chemistry; citation_title=Separation of carrier-free 176, 177W and 176, 177Ta produced in 160 irradiated Holmium target; citation_author=K Banerjee, S Lahiri; citation_volume=250; citation_issue=2; citation_publication_date=2001; citation_pages=365-367; citation_doi=10.1023/A:1017924402557; citation_id=CR19"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=J Nucl Med; citation_title=Tantalum-178-a short-lived nuclide for nuclear medicine: production of the parent W-178; citation_author=BL Holman, GI Harris, RD Neirinckx, AG Jones, J Idoine; citation_volume=19; citation_issue=5; citation_publication_date=1978; citation_pages=510-513; citation_id=CR20"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=Eur J Nucl Med; citation_title=Bidistribution of tantalum-178 a short-lived radiopharmaceutical for blood pool imaging; citation_author=RA Wilson, SY Kopiwoda, RJ Callahan, RH Moore, CA Boucher, H Manspeaker, FP Castronovo, HW Strauss; citation_volume=12; citation_issue=2; citation_publication_date=1987; citation_pages=82-85; citation_id=CR22"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=Nat Rev Drug Discov; citation_title=Radiopharmaceutical therapy in cancer: clinical advances and challenges; citation_author=G Sgouros, L Bodei, MR McDevitt, JR Nedrow; citation_volume=19; citation_issue=9; citation_publication_date=2020; citation_pages=589-608; citation_doi=10.1038/s41573-020-0073-9; citation_id=CR23"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=Curr Radiopharm; citation_title=Theranostic applications of Lutetium-177 in radionuclide therapy; citation_author=T Das, S Banerjee; citation_volume=9; citation_issue=1; citation_publication_date=2016; citation_pages=94-101; citation_doi=10.2174/1874471008666150313114644; citation_id=CR24"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=J Chromatogr; citation_title=Extraction chromatographic separations of Tantalum and Tungsten from Hafnium and complex matrix constituents; citation_author=MS Snow, MR Finck, KP Carney, SS Morrison; citation_volume=1484; citation_publication_date=2017; citation_pages=1-6; citation_doi=10.1016/j.chroma.2017.01.019; citation_id=CR25"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=Nucl Med Biol; citation_title=Bulk production and evaluation of high specific activity 186gRe for cancer therapy using enriched 186WO3 targets in a proton beam; citation_author=T Mastren, V Radchenko, HT Bach, ER Balkin, ER Birnbaum, M Brugh, JW Engle, MD Gott, J Guthrie, HM Hennkens, KD John, AR Ketring, M Kuchuk, JR Maassen, CM Naranjo, M Nortier, TE Phelps, SS Jurisson, DS Wilbur, ME Fassbender; citation_volume=49; citation_publication_date=2017; citation_pages=24-29; citation_doi=10.1016/j.nucmedbio.2017.02.006; citation_id=CR26"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=Anal Chem; citation_title=Rapid separation of photofissioned uranium products via single-pass multiplexed chromatographic fission product separation system; citation_author=MS Snow, J Ward, B Bucher, JT Cooper, M Kinlaw, E Cardena, J Horkley, H Town, MR Finck, KP Carney; citation_volume=93; citation_issue=8; citation_publication_date=2021; citation_pages=3770-3777; citation_doi=10.1021/acs.analchem.0c04130; citation_id=CR27"
+      }
+    ]
+  },
+  {
+    "slug": "snow-2026-ta185",
+    "kind": "article",
+    "url": "https://link.springer.com/article/10.1007/s10967-026-10928-7",
+    "final_url": "https://link.springer.com/article/10.1007/s10967-026-10928-7",
+    "status": 200,
+    "mime": "text/html; charset=utf-8",
+    "bytes": 331276,
+    "is_pdf": false,
+    "sha256": "bb22e08388fa36e160272ead836f28cf148ab56705f498d075c9548152a3f5d9",
+    "checked_at": "2026-11-25T22:58:56.912750+00:00",
+    "pdf_links": [],
+    "date_metadata": [
+      {
+        "name": "360-site-verification",
+        "content": "1268d79b5e96aecf3ff2a7dac04ad990"
+      },
+      {
+        "name": "twitter:site",
+        "content": "@SpringerLink"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:image:alt",
+        "content": "Content cover image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Production of carrier-free 185Ta using photonuclear reactions coupled with rapid chemical separations"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Journal of Radioanalytical and Nuclear Chemistry - This work reports a method for producing carrier-free 185Ta via the 186W(γ,p) reaction through bremsstrahlung irradiation of natural tungsten..."
+      },
+      {
+        "name": "citation_pdf_url",
+        "content": "https://link.springer.com/content/pdf/10.1007/s10967-026-10928-7.pdf"
+      },
+      {
+        "name": "citation_title",
+        "content": "Production of carrier-free 185Ta using photonuclear reactions coupled with rapid chemical separations"
+      },
+      {
+        "name": "citation_doi",
+        "content": "10.1007/s10967-026-10928-7"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_title=Physics in nuclear medicine; citation_publication_date=2012; citation_id=CR2; citation_author=SR Cherry; citation_author=JA Sorenson; citation_author=ME Phelps; citation_publisher=Elsevier Health Sciences"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=Radiochim Acta; citation_title=The present and future of medical radionuclide production; citation_author=SM Qaim; citation_volume=100; citation_publication_date=2012; citation_pages=635-651; citation_doi=10.1524/ract.2012.1966; citation_id=CR3"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_title=The radiopharmaceutical chemistry of seldom-used radionuclides in nuclear medicine; citation_inbook_title=Radiopharmaceutical chemistry; citation_publication_date=2019; citation_pages=425-446; citation_id=CR4; citation_author=JP Holland; citation_publisher=Springer International Publishing"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=Nucl Med Biol; citation_title=Short lived radionuclides in therapy; citation_author=RP Spencer; citation_volume=14; citation_issue=6; citation_publication_date=1987; citation_pages=537-538; citation_id=CR5"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=J Nucl Med; citation_title=Dosimetric aspects of radiolabeled antibodies for tumor therapy; citation_author=JL Humm; citation_volume=27; citation_issue=9; citation_publication_date=1986; citation_pages=1490-1497; citation_id=CR6"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=Appl Radiat Isot; citation_title=Separation of carrier free lutetium produced in proton activated ytterbium with HDEHP; citation_author=S Lahiri, D Nayak, M Nandy, NR Das; citation_volume=49; citation_issue=8; citation_publication_date=1998; citation_pages=911-913; citation_doi=10.1016/S0969-8043(97)10101-4; citation_id=CR7"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_title=Handbook of radiopharmaceuticals: radiochemistry and applications; citation_publication_date=2002; citation_id=CR8; citation_author=MJ Welch; citation_author=CS Redvanly; citation_publisher=John Wiley & Sons, Ltd"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_title=\"How Far Are We from Dose On Demand of Short-Lived Radiopharmaceuticals?,\" in Perspectives on Nuclear Medicine for Molecular Diagnosis and Integrated Therapy; citation_publication_date=2016; citation_id=CR9; citation_author=G Pascali; citation_author=L Matesic; citation_publisher=Springer"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=J Labelled Comp Radiopharm; citation_title=A remote system for routine production of oxygen-15; citation_author=MJ Welch, MR Kilbourn; citation_volume=22; citation_issue=11; citation_publication_date=1985; citation_pages=1193-1200; citation_doi=10.1002/jlcr.2580221114; citation_id=CR10"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=Angew Chem Int Ed Engl; citation_title=Synthesis of 11C, 18F, 15O, and 13N radiolabels for positron emission tomography; citation_author=PW Miller, NJ Long, R Vilar, AD Gee; citation_volume=47; citation_issue=47; citation_publication_date=2008; citation_pages=8998-9033; citation_doi=10.1002/anie.200800222; citation_id=CR11"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=Appl Radiat Isot; citation_title=A ‘dose on demand’ biomarker generator for automated production of [18F]FDG; citation_author=PW Awasthi, J Watson, H Gali, G Matlock, A McFarland, J Bailey, A Anzellotti; citation_volume=89; citation_publication_date=2014; citation_pages=167-175; citation_doi=10.1016/j.apradiso.2014.02.015; citation_id=CR12"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=Nucl Med Biol; citation_title=Microfluidic approach for fast labeling optimization and dose-on-demand implementation; citation_author=G Pascali, G Mazzone, G Saccomanni, C Manera, PA Salvadori; citation_volume=37; citation_issue=5; citation_publication_date=2010; citation_pages=547-555; citation_doi=10.1016/j.nucmedbio.2010.03.006; citation_id=CR13"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=Drug Dev Ind Pharm; citation_title=Recent achievements in Tc-99m radiopharmaceutical direct production by medical cyclotrons; citation_author=A Boschi, P Martini, M Pasquali, L Uccelli; citation_volume=43; citation_issue=9; citation_publication_date=2017; citation_pages=1402-1412; citation_doi=10.1080/03639045.2017.1323911; citation_id=CR14"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=Int J Appl Radiat Isot; citation_title=The production of 157Dy for medical use; citation_author=E Lebowitz, MW Greene; citation_volume=22; citation_issue=12; citation_publication_date=1971; citation_pages=789-793; citation_doi=10.1016/0020-708X(71)90148-7; citation_id=CR15"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=Appl Radiat Isot; citation_title=A preliminary study for the production of high specific activity radionuclides for nuclear medicine obtained with the isotope separation on line technique; citation_author=F Borgna, M Ballan, S Corradetti, E Vettorato, A Monetti, M Rossignoli, M Manzolaro, D Scarpa, U Mazzi, N Realdon, A Andrighetto; citation_volume=127; citation_publication_date=2017; citation_pages=214-226; citation_doi=10.1016/j.apradiso.2017.06.022; citation_id=CR16"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=Appl Radiat Isot; citation_title=Separation of carrier free Dysprosium and Terbium isotopes from 12C6+ irradiated Nd2O3; citation_author=S Lahiri, D Nayak, SK Das; citation_volume=51; citation_issue=1; citation_publication_date=1999; citation_pages=27-32; citation_doi=10.1016/S0969-8043(98)00189-4; citation_id=CR17"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=Journal of Radioanalytical Nuclear Chemistry; citation_title=Separation of carrier-free 176, 177W and 176, 177Ta produced in 160 irradiated Holmium target; citation_author=K Banerjee, S Lahiri; citation_volume=250; citation_issue=2; citation_publication_date=2001; citation_pages=365-367; citation_doi=10.1023/A:1017924402557; citation_id=CR19"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=J Nucl Med; citation_title=Tantalum-178-a short-lived nuclide for nuclear medicine: production of the parent W-178; citation_author=BL Holman, GI Harris, RD Neirinckx, AG Jones, J Idoine; citation_volume=19; citation_issue=5; citation_publication_date=1978; citation_pages=510-513; citation_id=CR20"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=Eur J Nucl Med; citation_title=Bidistribution of tantalum-178 a short-lived radiopharmaceutical for blood pool imaging; citation_author=RA Wilson, SY Kopiwoda, RJ Callahan, RH Moore, CA Boucher, H Manspeaker, FP Castronovo, HW Strauss; citation_volume=12; citation_issue=2; citation_publication_date=1987; citation_pages=82-85; citation_id=CR22"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=Nat Rev Drug Discov; citation_title=Radiopharmaceutical therapy in cancer: clinical advances and challenges; citation_author=G Sgouros, L Bodei, MR McDevitt, JR Nedrow; citation_volume=19; citation_issue=9; citation_publication_date=2020; citation_pages=589-608; citation_doi=10.1038/s41573-020-0073-9; citation_id=CR23"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=Curr Radiopharm; citation_title=Theranostic applications of Lutetium-177 in radionuclide therapy; citation_author=T Das, S Banerjee; citation_volume=9; citation_issue=1; citation_publication_date=2016; citation_pages=94-101; citation_doi=10.2174/1874471008666150313114644; citation_id=CR24"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=J Chromatogr; citation_title=Extraction chromatographic separations of Tantalum and Tungsten from Hafnium and complex matrix constituents; citation_author=MS Snow, MR Finck, KP Carney, SS Morrison; citation_volume=1484; citation_publication_date=2017; citation_pages=1-6; citation_doi=10.1016/j.chroma.2017.01.019; citation_id=CR25"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=Nucl Med Biol; citation_title=Bulk production and evaluation of high specific activity 186gRe for cancer therapy using enriched 186WO3 targets in a proton beam; citation_author=T Mastren, V Radchenko, HT Bach, ER Balkin, ER Birnbaum, M Brugh, JW Engle, MD Gott, J Guthrie, HM Hennkens, KD John, AR Ketring, M Kuchuk, JR Maassen, CM Naranjo, M Nortier, TE Phelps, SS Jurisson, DS Wilbur, ME Fassbender; citation_volume=49; citation_publication_date=2017; citation_pages=24-29; citation_doi=10.1016/j.nucmedbio.2017.02.006; citation_id=CR26"
+      },
+      {
+        "name": "citation_reference",
+        "content": "citation_journal_title=Anal Chem; citation_title=Rapid separation of photofissioned uranium products via single-pass multiplexed chromatographic fission product separation system; citation_author=MS Snow, J Ward, B Bucher, JT Cooper, M Kinlaw, E Cardena, J Horkley, H Town, MR Finck, KP Carney; citation_volume=93; citation_issue=8; citation_publication_date=2021; citation_pages=3770-3777; citation_doi=10.1021/acs.analchem.0c04130; citation_id=CR27"
+      }
+    ]
+  }
+]

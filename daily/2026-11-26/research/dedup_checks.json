@@ -1,0 +1,54 @@
+{
+  "baseline_works": 600,
+  "new_work_checks": [
+    {
+      "doi": "10.3389/fphy.2026.1969078",
+      "exact_doi_matches": [],
+      "exact_normalized_title_matches": [],
+      "arxiv_owner_matches": [],
+      "nearest_old_titles": [
+        {
+          "doi": "10.1038/s41467-026-78880-4",
+          "title": "Strong-gain water-window X-ray laser driven by plasma photocathode wakefield acceleration",
+          "ratio": 0.4970414201183432
+        },
+        {
+          "doi": "10.1038/nature16525",
+          "title": "Multistage coupling of independent laser-plasma accelerators",
+          "ratio": 0.45714285714285713
+        },
+        {
+          "doi": "10.48550/arXiv.2607.27234",
+          "title": "LoKI-GM: a global model framework for plasma chemistry studies",
+          "ratio": 0.45390070921985815
+        }
+      ],
+      "author_abstract_scenario_review": "new work; no matching old authors/title/scenario; review illustrations are earlier referenced experiments not counted again"
+    },
+    {
+      "doi": "10.1103/rk4d-45t9",
+      "exact_doi_matches": [],
+      "exact_normalized_title_matches": [],
+      "arxiv_owner_matches": [],
+      "nearest_old_titles": [
+        {
+          "doi": "10.48550/arXiv.2611.05973",
+          "title": "Estimation of Very High Energy Electron (VHEE) beam parameters using an in-air screen",
+          "ratio": 0.46511627906976744
+        },
+        {
+          "doi": "10.48550/arXiv.2609.22036",
+          "title": "Moderator Modeling for High Intensity Slow Positron Sources",
+          "ratio": 0.4380952380952381
+        },
+        {
+          "doi": "10.48550/arXiv.2606.16066",
+          "title": "On modeling energetic electrons in laser fusion plasmas",
+          "ratio": 0.43564356435643564
+        }
+      ],
+      "author_abstract_scenario_review": "new Letter; same-work preprint2604.18685 counted once; PRD2605.03002 is a companion different article, not ingested separately; earlier JHEP massless-limit study is cited not relabeled as this work"
+    }
+  ],
+  "related_work_excluded_from_identity_aliases": true
+}

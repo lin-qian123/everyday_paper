@@ -1,10 +1,12 @@
 # 论文总索引
 
-- 当前入库论文：600 篇
-- 索引更新时间：2026-11-25
+- 当前入库论文：602 篇
+- 索引更新时间：2026-11-26
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-11-26 | [Long wave infrared laser platform for plasma studies relevant to inertial fusion](./10-3389-fphy-2026-1969078/README.md) | Frontiers in Physics | [10.3389/fphy.2026.1969078](https://doi.org/10.3389/fphy.2026.1969078) |
+| 2026-11-26 | [Extremely High-Energy Bremsstrahlung in Matter](./10-1103-rk4d-45t9/README.md) | Physical Review Letters | [10.1103/rk4d-45t9](https://doi.org/10.1103/rk4d-45t9) |
 | 2026-11-25 | [Phase-Space Shaping Due to Betatron Cooling in Wakefield Accelerators and the Onset of the Ion-Channel Laser](./10-1103-k67h-dvxp/README.md) | Physical Review Letters | [10.1103/k67h-dvxp](https://doi.org/10.1103/k67h-dvxp) |
 | 2026-11-25 | [Multi-diagnostic experimental validation of PIC/MCC simulations of symmetric capacitively coupled plasmas in CF4](./10-1088-1361-6595-aebfc4/README.md) | Plasma Sources Science and Technology | [10.1088/1361-6595/aebfc4](https://doi.org/10.1088/1361-6595/aebfc4) |
 | 2026-11-25 | [Relativistic Harmonic Generation in Spatiotemporal Plasma Photonic Crystals](./arxiv-2611-30084/README.md) | arXiv | [10.48550/arXiv.2611.30084](https://doi.org/10.48550/arXiv.2611.30084) |

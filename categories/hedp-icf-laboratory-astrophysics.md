@@ -2,11 +2,12 @@
 
 HEDP、惯性约束聚变、冲击、辐射输运、等离子体不稳定性与实验室天体物理。
 
-- 当前收录：148 篇
-- 索引更新时间：2026-11-25
+- 当前收录：149 篇
+- 索引更新时间：2026-11-26
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-26 | [Long wave infrared laser platform for plasma studies relevant to inertial fusion](../papers/10-3389-fphy-2026-1969078/README.md) | Frontiers in Physics | [笔记](../daily/2026-11-26/notes/pogorelsky-2026-lwir.md) |
 | 2026-11-20 | [The role of externally-driven density fluctuations in the enhancement of beam spray](../papers/arxiv-2611-24914/README.md) | arXiv preprint; submitted to PRL, acceptance/publication unverified | [笔记](../daily/2026-11-20/notes/mcmillen-2026-beam-spray.md) |
 | 2026-11-18 | [Physics-guided deep learning for high resolution X-ray free-electron laser imaging](../papers/10-1038-s41598-026-80553-7/README.md) | Scientific Reports (Article in Press; final VOR not acquired) | [笔记](../daily/2026-11-18/notes/lee-2026-xfel.md) |
 | 2026-11-18 | [Linear Electrostatic Instabilities Driven by Relativistic Non-Maxwellian Pair Beams](../papers/10-3390-plasma9040049/README.md) | Plasma 9(4), 49 (publisher VOR) | [笔记](../daily/2026-11-18/notes/dey-2026-pair-beams.md) |

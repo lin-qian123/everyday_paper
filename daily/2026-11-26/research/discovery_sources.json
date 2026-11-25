@@ -1,0 +1,198 @@
+{
+  "run_date": "2026-11-26",
+  "checked_at": "2026-11-25T22:58:13.339828+00:00",
+  "formal_first": true,
+  "crossref_window": [
+    "2026-11-25",
+    "2026-11-26"
+  ],
+  "queries": [
+    {
+      "query": "laser plasma acceleration",
+      "url": "https://api.crossref.org/works?query=laser+plasma+acceleration&filter=from-online-pub-date%3A2026-11-25%2Cuntil-online-pub-date%3A2026-11-26%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+      "status": 200,
+      "rows": 40
+    },
+    {
+      "query": "strong field QED radiation reaction",
+      "url": "https://api.crossref.org/works?query=strong+field+QED+radiation+reaction&filter=from-online-pub-date%3A2026-11-25%2Cuntil-online-pub-date%3A2026-11-26%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+      "status": 200,
+      "rows": 40
+    },
+    {
+      "query": "high energy density inertial confinement fusion",
+      "url": "https://api.crossref.org/works?query=high+energy+density+inertial+confinement+fusion&filter=from-online-pub-date%3A2026-11-25%2Cuntil-online-pub-date%3A2026-11-26%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+      "status": 200,
+      "rows": 40
+    },
+    {
+      "query": "particle in cell kinetic plasma simulation",
+      "url": "https://api.crossref.org/works?query=particle+in+cell+kinetic+plasma+simulation&filter=from-online-pub-date%3A2026-11-25%2Cuntil-online-pub-date%3A2026-11-26%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+      "status": 200,
+      "rows": 40
+    },
+    {
+      "query": "machine learning plasma accelerator",
+      "url": "https://api.crossref.org/works?query=machine+learning+plasma+accelerator&filter=from-online-pub-date%3A2026-11-25%2Cuntil-online-pub-date%3A2026-11-26%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+      "status": 200,
+      "rows": 40
+    },
+    {
+      "query": "electron converter bremsstrahlung gamma source",
+      "url": "https://api.crossref.org/works?query=electron+converter+bremsstrahlung+gamma+source&filter=from-online-pub-date%3A2026-11-25%2Cuntil-online-pub-date%3A2026-11-26%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+      "status": 200,
+      "rows": 40
+    },
+    {
+      "query": "photonuclear photoneutron isotope production",
+      "url": "https://api.crossref.org/works?query=photonuclear+photoneutron+isotope+production&filter=from-online-pub-date%3A2026-11-25%2Cuntil-online-pub-date%3A2026-11-26%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+      "status": 200,
+      "rows": 40
+    },
+    {
+      "query": "laser ion target nuclear reaction irradiation",
+      "url": "https://api.crossref.org/works?query=laser+ion+target+nuclear+reaction+irradiation&filter=from-online-pub-date%3A2026-11-25%2Cuntil-online-pub-date%3A2026-11-26%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+      "status": 200,
+      "rows": 40
+    },
+    {
+      "query": "beam shielding radiation diagnostics",
+      "url": "https://api.crossref.org/works?query=beam+shielding+radiation+diagnostics&filter=from-online-pub-date%3A2026-11-25%2Cuntil-online-pub-date%3A2026-11-26%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+      "status": 200,
+      "rows": 40
+    },
+    {
+      "query": "fusion neutron nuclear diagnostic",
+      "url": "https://api.crossref.org/works?query=fusion+neutron+nuclear+diagnostic&filter=from-online-pub-date%3A2026-11-25%2Cuntil-online-pub-date%3A2026-11-26%2Ctype%3Ajournal-article&rows=40&sort=relevance",
+      "status": 200,
+      "rows": 40
+    }
+  ],
+  "arxiv": [
+    {
+      "category": "physics.plasm-ph",
+      "url": "https://arxiv.org/list/physics.plasm-ph/recent?show=2000",
+      "attempts": [
+        200
+      ],
+      "status": 200,
+      "date_block": "Wed, 25 Nov 2026 (showing 11 of 11 entries )",
+      "expected_entries": 11,
+      "parsed_entries": 11,
+      "count_matches": true
+    },
+    {
+      "category": "physics.acc-ph",
+      "url": "https://arxiv.org/list/physics.acc-ph/recent?show=2000",
+      "attempts": [
+        200
+      ],
+      "status": 200,
+      "date_block": "Wed, 25 Nov 2026 (showing 2 of 2 entries )",
+      "expected_entries": 2,
+      "parsed_entries": 2,
+      "count_matches": true
+    },
+    {
+      "category": "physics.comp-ph",
+      "url": "https://arxiv.org/list/physics.comp-ph/recent?show=2000",
+      "attempts": [
+        200
+      ],
+      "status": 200,
+      "date_block": "Wed, 25 Nov 2026 (showing 15 of 15 entries )",
+      "expected_entries": 15,
+      "parsed_entries": 15,
+      "count_matches": true
+    },
+    {
+      "category": "physics.optics",
+      "url": "https://arxiv.org/list/physics.optics/recent?show=2000",
+      "attempts": [
+        200
+      ],
+      "status": 200,
+      "date_block": "Wed, 25 Nov 2026 (showing 32 of 32 entries )",
+      "expected_entries": 32,
+      "parsed_entries": 32,
+      "count_matches": true
+    },
+    {
+      "category": "physics.ins-det",
+      "url": "https://arxiv.org/list/physics.ins-det/recent?show=2000",
+      "attempts": [
+        200
+      ],
+      "status": 200,
+      "date_block": "Wed, 25 Nov 2026 (showing 9 of 9 entries )",
+      "expected_entries": 9,
+      "parsed_entries": 9,
+      "count_matches": true
+    },
+    {
+      "category": "nucl-ex",
+      "url": "https://arxiv.org/list/nucl-ex/recent?show=2000",
+      "attempts": [
+        200
+      ],
+      "status": 200,
+      "date_block": "Wed, 25 Nov 2026 (showing 3 of 3 entries )",
+      "expected_entries": 3,
+      "parsed_entries": 3,
+      "count_matches": true
+    },
+    {
+      "category": "nucl-th",
+      "url": "https://arxiv.org/list/nucl-th/recent?show=2000",
+      "attempts": [
+        200
+      ],
+      "status": 200,
+      "date_block": "Wed, 25 Nov 2026 (showing 15 of 15 entries )",
+      "expected_entries": 15,
+      "parsed_entries": 15,
+      "count_matches": true
+    },
+    {
+      "category": "hep-ph",
+      "url": "https://arxiv.org/list/hep-ph/recent?show=2000",
+      "attempts": [
+        200
+      ],
+      "status": 200,
+      "date_block": "Wed, 25 Nov 2026 (showing 44 of 44 entries )",
+      "expected_entries": 44,
+      "parsed_entries": 44,
+      "count_matches": true
+    },
+    {
+      "category": "physics.med-ph",
+      "url": "https://arxiv.org/list/physics.med-ph/recent?show=2000",
+      "attempts": [
+        200
+      ],
+      "status": 200,
+      "date_block": "Wed, 25 Nov 2026 (showing 1 of 1 entries )",
+      "expected_entries": 1,
+      "parsed_entries": 1,
+      "count_matches": true
+    },
+    {
+      "category": "cs.LG",
+      "url": "https://arxiv.org/list/cs.LG/recent?show=2000",
+      "attempts": [
+        200
+      ],
+      "status": 200,
+      "date_block": "Wed, 25 Nov 2026 (showing 233 of 233 entries )",
+      "expected_entries": 233,
+      "parsed_entries": 233,
+      "count_matches": true
+    }
+  ],
+  "scope": "Bounded top40 per Crossref query and newest announcement block per arXiv category; nonexhaustive.",
+  "crossref_rows": 400,
+  "crossref_unique_dois": 353,
+  "arxiv_rows": 365,
+  "arxiv_unique_ids": 348
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Long wave infrared laser platform for plasma studies relevant to inertial fusion",
+    "normalized_title": "long wave infrared laser platform for plasma studies relevant to inertial fusion",
+    "doi": "10.3389/fphy.2026.1969078",
+    "authors": [
+      "Pogorelsky, Igor V."
+    ],
+    "journal": "Frontiers in Physics",
+    "publication_date": "2026-11-25",
+    "publication_date_type": "publisher final PDF firstpage and Crossref online date agree",
+    "source_url": "https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2026.1969078/full",
+    "pdf_url": "https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2026.1969078/pdf",
+    "pdf_path": "daily/2026-11-26/pdfs/pogorelsky-2026-lwir.pdf",
+    "pdf_sha256": "e8bf15df0e5eaf7db719800b6cd8e7031826f8a195f7f0cbcc652a6fbf241b09",
+    "note_path": "daily/2026-11-26/notes/pogorelsky-2026-lwir.md",
+    "processed_date": "2026-11-26",
+    "categories": [
+      "hedp-icf-laboratory-astrophysics",
+      "experimental-platforms-diagnostics",
+      "laser-plasma-acceleration"
+    ],
+    "publication_status": "published version of record",
+    "fulltext_version": "publisher final VOR 9p",
+    "accepted_date": "2026-10-29",
+    "article_type": "Review"
+  },
+  {
+    "title": "Extremely High-Energy Bremsstrahlung in Matter",
+    "normalized_title": "extremely high energy bremsstrahlung in matter",
+    "doi": "10.1103/rk4d-45t9",
+    "authors": [
+      "Arnold, Peter",
+      "Bautista, Joshua",
+      "Elgedawy, Omar",
+      "Iqbal, Shahin"
+    ],
+    "journal": "Physical Review Letters",
+    "publication_date": "2026-11-25",
+    "publication_date_type": "publisher final PDF firstpage and Crossref online date agree",
+    "source_url": "https://journals.aps.org/prl/abstract/10.1103/rk4d-45t9",
+    "pdf_url": "https://harvest.aps.org/v2/journals/articles/10.1103/rk4d-45t9/fulltext",
+    "pdf_path": "daily/2026-11-26/pdfs/arnold-2026-bremsstrahlung.pdf",
+    "pdf_sha256": "0cedb78210ba82fa4049bd6713f3a122b67fa14e5cde0746212cb32026f08257",
+    "note_path": "daily/2026-11-26/notes/arnold-2026-bremsstrahlung.md",
+    "processed_date": "2026-11-26",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "strong-field-qed-radiation"
+    ],
+    "publication_status": "published version of record",
+    "fulltext_version": "publisher final VOR 7p including End Matter A1-A10",
+    "accepted_date": "2026-10-06",
+    "arxiv_id": "2604.18685",
+    "preprint_identifier": "10.48550/arXiv.2604.18685",
+    "related_work": [
+      {
+        "doi": "10.1103/8rg8-tmgg",
+        "relationship": "companion detailed calculation, different paper not identity alias; format/header only, not fulltext read or ingested"
+      },
+      {
+        "doi": "10.1007/JHEP03(2026)015",
+        "relationship": "earlier massless-limit study cited by the Letter, not identity alias; not read this run"
+      }
+    ]
+  }
+]

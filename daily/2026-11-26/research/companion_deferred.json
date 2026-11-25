@@ -1,0 +1,11 @@
+{
+  "doi": "10.1103/8rg8-tmgg",
+  "title": "Calculating extremely high-energy bremsstrahlung in matter",
+  "arxiv_id": "2605.03002",
+  "status": "final PDF acquired, header/structure only; NOT fulltext read, NOT ingested",
+  "pages": 38,
+  "sha256": "2900c195be48ba0d59680944b3965634bfb4d0927d822bbc332a30ec21e1baa8",
+  "bytes": 1530788,
+  "cleanup": "unread transient PDF and layout removed; redownload official source for later scientific reading",
+  "source_url": "https://harvest.aps.org/v2/journals/articles/10.1103/8rg8-tmgg/fulltext"
+}

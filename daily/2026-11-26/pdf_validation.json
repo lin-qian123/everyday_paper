@@ -1,0 +1,55 @@
+{
+  "checked_at": "2026-11-25T23:00:41.522852+00:00",
+  "pdfs": [
+    {
+      "slug": "pogorelsky-2026-lwir",
+      "path": "daily/2026-11-26/pdfs/pogorelsky-2026-lwir.pdf",
+      "bytes": 2033269,
+      "sha256": "e8bf15df0e5eaf7db719800b6cd8e7031826f8a195f7f0cbcc652a6fbf241b09",
+      "magic": "%PDF-",
+      "file_mime": "application/pdf",
+      "pdfinfo_pages": 9,
+      "pypdf_pages": 9,
+      "pymupdf_pages": 9,
+      "per_page_text_characters": [
+        4079,
+        7639,
+        5682,
+        5919,
+        4629,
+        6037,
+        5849,
+        4397,
+        9708
+      ],
+      "all_pages_readable_text": true,
+      "local_layout_text": "daily/2026-11-26/pdfs/pogorelsky-2026-lwir.txt"
+    },
+    {
+      "slug": "arnold-2026-bremsstrahlung",
+      "path": "daily/2026-11-26/pdfs/arnold-2026-bremsstrahlung.pdf",
+      "bytes": 1212214,
+      "sha256": "0cedb78210ba82fa4049bd6713f3a122b67fa14e5cde0746212cb32026f08257",
+      "magic": "%PDF-",
+      "file_mime": "application/pdf",
+      "pdfinfo_pages": 7,
+      "pypdf_pages": 7,
+      "pymupdf_pages": 7,
+      "per_page_text_characters": [
+        4004,
+        5754,
+        3435,
+        4161,
+        5895,
+        2268,
+        628
+      ],
+      "all_pages_readable_text": true,
+      "local_layout_text": "daily/2026-11-26/pdfs/arnold-2026-bremsstrahlung.txt"
+    }
+  ],
+  "total_pages": 16,
+  "total_bytes": 3245483,
+  "extraction": "pdftotext -layout plus per-page PyMuPDF text, local rendered visual review; MinerU not requested, previous run401 not retested",
+  "author_code_or_experiments_rerun": false
+}

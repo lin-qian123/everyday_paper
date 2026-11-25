@@ -1,0 +1,66 @@
+{
+  "checked_at": "2026-11-25T23:06:29.696611+00:00",
+  "validated_and_ingested": [
+    {
+      "slug": "pogorelsky-2026-lwir",
+      "path": "daily/2026-11-26/pdfs/pogorelsky-2026-lwir.pdf",
+      "bytes": 2033269,
+      "sha256": "e8bf15df0e5eaf7db719800b6cd8e7031826f8a195f7f0cbcc652a6fbf241b09",
+      "magic": "%PDF-",
+      "file_mime": "application/pdf",
+      "pdfinfo_pages": 9,
+      "pypdf_pages": 9,
+      "pymupdf_pages": 9,
+      "per_page_text_characters": [
+        4079,
+        7639,
+        5682,
+        5919,
+        4629,
+        6037,
+        5849,
+        4397,
+        9708
+      ],
+      "all_pages_readable_text": true,
+      "local_layout_text": "daily/2026-11-26/pdfs/pogorelsky-2026-lwir.txt"
+    },
+    {
+      "slug": "arnold-2026-bremsstrahlung",
+      "path": "daily/2026-11-26/pdfs/arnold-2026-bremsstrahlung.pdf",
+      "bytes": 1212214,
+      "sha256": "0cedb78210ba82fa4049bd6713f3a122b67fa14e5cde0746212cb32026f08257",
+      "magic": "%PDF-",
+      "file_mime": "application/pdf",
+      "pdfinfo_pages": 7,
+      "pypdf_pages": 7,
+      "pymupdf_pages": 7,
+      "per_page_text_characters": [
+        4004,
+        5754,
+        3435,
+        4161,
+        5895,
+        2268,
+        628
+      ],
+      "all_pages_readable_text": true,
+      "local_layout_text": "daily/2026-11-26/pdfs/arnold-2026-bremsstrahlung.txt"
+    }
+  ],
+  "failed_new_candidates": [
+    {
+      "doi": "10.1063/5.0350254",
+      "failure_class": "publisher_pdf_403_html",
+      "detail": "Official Crossref PDF403 text/html5696B; corrected official article URL403 text/html5739B. HAL exact-title top5 numFound0; OSTI quoted-title query200 empty XML records; bounded web no verified same-work authorPDF. No abstract-only note."
+    },
+    {
+      "doi": "10.1007/s10967-026-10928-7",
+      "failure_class": "publisher_pdf_redirect_subscription_html",
+      "detail": "Official PDF200 redirects to subscription article HTML325915B, no PDF magic; HAL exact-title top5 numFound0; OSTI quoted-title query200 empty XML records; bounded web no verified same-work authorPDF. No abstract-only note."
+    }
+  ],
+  "companion_format_only": "research/companion_deferred.json",
+  "mineru_requests": 0,
+  "extractor": "local pdftotext-layout and PyMuPDF renders, previous MinerU401 not retested"
+}

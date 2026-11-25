@@ -1,0 +1,181 @@
+{
+  "figures": [
+    {
+      "slug": "pogorelsky-2026-lwir",
+      "figure": "fig1",
+      "source_pdf_page": 3,
+      "rect_points": [
+        306,
+        86,
+        546,
+        294
+      ],
+      "scale": 2,
+      "path": "daily/2026-11-26/notes/images/pogorelsky-2026-lwir/fig1.png",
+      "sha256": "c5e49382454cfaa844b8b827f7b8005e8e20cee59d581587e35a295497d8a11c"
+    },
+    {
+      "slug": "pogorelsky-2026-lwir",
+      "figure": "fig2",
+      "source_pdf_page": 4,
+      "rect_points": [
+        50,
+        86,
+        290,
+        287
+      ],
+      "scale": 2,
+      "path": "daily/2026-11-26/notes/images/pogorelsky-2026-lwir/fig2.png",
+      "sha256": "e704d47504a56bde8215565193cef52df6c02c00b469ea012e6f44f50ceef97a"
+    },
+    {
+      "slug": "pogorelsky-2026-lwir",
+      "figure": "fig3",
+      "source_pdf_page": 5,
+      "rect_points": [
+        50,
+        86,
+        546,
+        242
+      ],
+      "scale": 2,
+      "path": "daily/2026-11-26/notes/images/pogorelsky-2026-lwir/fig3.png",
+      "sha256": "19f3515c1d6c81e17570161eabf215299daf42217373e08c0f41b2ecaa99a355"
+    },
+    {
+      "slug": "pogorelsky-2026-lwir",
+      "figure": "fig4",
+      "source_pdf_page": 5,
+      "rect_points": [
+        50,
+        260,
+        290,
+        406
+      ],
+      "scale": 2,
+      "path": "daily/2026-11-26/notes/images/pogorelsky-2026-lwir/fig4.png",
+      "sha256": "b639e555382011480b0158473830de241bb2861f976f4f4a254050e32591de01"
+    },
+    {
+      "slug": "pogorelsky-2026-lwir",
+      "figure": "fig5",
+      "source_pdf_page": 6,
+      "rect_points": [
+        306,
+        86,
+        546,
+        290
+      ],
+      "scale": 2,
+      "path": "daily/2026-11-26/notes/images/pogorelsky-2026-lwir/fig5.png",
+      "sha256": "f0913e97c370dbe28f3ef000b14923162f89a9ff2423fcf5198f3aa265215e00"
+    },
+    {
+      "slug": "pogorelsky-2026-lwir",
+      "figure": "fig6",
+      "source_pdf_page": 7,
+      "rect_points": [
+        50,
+        86,
+        290,
+        319
+      ],
+      "scale": 2,
+      "path": "daily/2026-11-26/notes/images/pogorelsky-2026-lwir/fig6.png",
+      "sha256": "80f18c58600947be0c2a978667fe3b7aed3d6a2d00c08ea8f02c3eca0186e0b8"
+    },
+    {
+      "slug": "pogorelsky-2026-lwir",
+      "figure": "fig7",
+      "source_pdf_page": 8,
+      "rect_points": [
+        50,
+        86,
+        546,
+        247
+      ],
+      "scale": 2,
+      "path": "daily/2026-11-26/notes/images/pogorelsky-2026-lwir/fig7.png",
+      "sha256": "88325d9f2a7ab16905702e33edc12f56f897d000a9341334c5f87b14bf0d1b84"
+    },
+    {
+      "slug": "arnold-2026-bremsstrahlung",
+      "figure": "fig1",
+      "source_pdf_page": 1,
+      "rect_points": [
+        313,
+        609,
+        561,
+        719
+      ],
+      "scale": 2,
+      "path": "daily/2026-11-26/notes/images/arnold-2026-bremsstrahlung/fig1.png",
+      "sha256": "61fdf2d579a83cd6b76e3a6e530d85a5ed85efb31338e7fc49064b47fb1c0325"
+    },
+    {
+      "slug": "arnold-2026-bremsstrahlung",
+      "figure": "fig2",
+      "source_pdf_page": 3,
+      "rect_points": [
+        47,
+        393,
+        563,
+        730
+      ],
+      "scale": 2,
+      "path": "daily/2026-11-26/notes/images/arnold-2026-bremsstrahlung/fig2.png",
+      "sha256": "595992e15f34e1da6f96fdbef27cbfbdd1f6e82f2626750228c32002576f43f0"
+    },
+    {
+      "slug": "arnold-2026-bremsstrahlung",
+      "figure": "fig3",
+      "source_pdf_page": 4,
+      "rect_points": [
+        310,
+        486,
+        562,
+        716
+      ],
+      "scale": 2,
+      "path": "daily/2026-11-26/notes/images/arnold-2026-bremsstrahlung/fig3.png",
+      "sha256": "8c915ed8bae598b106bff20df9311112a83b8da3e047fb5f62c58f65e9d036cc"
+    }
+  ],
+  "source_pages_viewed": {
+    "pogorelsky-2026-lwir": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "arnold-2026-bremsstrahlung": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  "view_method": "all-page contact sheets, additional individual key pages and all retained crops reopened; references structure checked, not independent bibliography audit",
+  "model_or_experiment_rerun": false,
+  "all_10_retained_crops_reopened": true,
+  "source_pixels_match": "10/10",
+  "additional_individual_pages": {
+    "pogorelsky-2026-lwir": [
+      7
+    ],
+    "arnold-2026-bremsstrahlung": [
+      3,
+      4,
+      6,
+      7
+    ]
+  }
+}

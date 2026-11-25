@@ -1,0 +1,3321 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          25
+        ]
+      ],
+      "date-time": "2026-11-25T09:16:24Z",
+      "timestamp": 1795598184517,
+      "version": "4.11.0"
+    },
+    "reference-count": 45,
+    "publisher": "Frontiers Media SA",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              25
+            ]
+          ],
+          "date-time": "2026-11-25T00:00:00Z",
+          "timestamp": 1795564800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "frontiersin.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Front. Phys."
+    ],
+    "abstract": "<jats:p>Advancing Inertial Confinement Fusion (ICF), particularly Fast Ignition and Shock Ignition, requires a deeper understanding of laser–plasma interactions in extreme regimes that remain difficult to access at large-scale ICF facilities. Long-wave infrared (LWIR) lasers provide a powerful approach, leveraging favorable wavelength scaling to access relativistic plasma physics, enable efficient laser beam channeling, and enhance the generation of hot electrons and energetic ions at significantly reduced laser intensity and plasma density. This capability allows laboratory-scale experiments to reproduce ICF-relevant conditions with improved diagnostic access and greater physical transparency. The Brookhaven National Laboratory Accelerator Test Facility offers a unique platform for such studies, combining a multi-terawatt LWIR laser with synchronized optical diagnostics and accelerator-based probes. This capability enables systematic investigation and optimization of key plasma processes governing ICF performance, thereby supporting the development of practical fusion energy systems.</jats:p>",
+    "DOI": "10.3389/fphy.2026.1969078",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          25
+        ]
+      ],
+      "date-time": "2026-11-25T08:36:41Z",
+      "timestamp": 1795595801000
+    },
+    "update-policy": "https://doi.org/10.3389/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Long wave infrared laser platform for plasma studies relevant to inertial fusion"
+    ],
+    "prefix": "10.3389",
+    "volume": "14",
+    "author": [
+      {
+        "given": "Igor V.",
+        "family": "Pogorelsky",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Brookhaven National Laboratory, Accelerator Test Facility",
+            "place": [
+              "Upton, NY, United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "1965",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          25
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "B1",
+        "doi-asserted-by": "publisher",
+        "first-page": "6",
+        "DOI": "10.1088/0370-1301/70/1/303",
+        "article-title": "Some criteria for a power producing thermonuclear reactor",
+        "volume": "70",
+        "author": "Lawson",
+        "year": "1957",
+        "journal-title": "Proc Phys Soc Section B"
+      },
+      {
+        "key": "B2",
+        "first-page": "1345207",
+        "article-title": "Vafaei-najafabadi N. Brookhaven's accelerator test facility: a testbed for advanced particle accelerators and lasers",
+        "author": "Pogorelsky",
+        "year": "2025",
+        "journal-title": "Proc SPIE 13452, Laser Technology for Defense and Security"
+      },
+      {
+        "key": "B3",
+        "doi-asserted-by": "publisher",
+        "first-page": "1901",
+        "DOI": "10.1063/1.872861",
+        "article-title": "Direct-drive laser fusion: status and prospects",
+        "volume": "5",
+        "author": "Bodner",
+        "year": "1998",
+        "journal-title": "Phys Plasmas"
+      },
+      {
+        "key": "B4",
+        "doi-asserted-by": "publisher",
+        "first-page": "110501",
+        "DOI": "10.1063/1.4934714",
+        "article-title": "Direct-drive inertial confinement fusion: a review",
+        "volume": "22",
+        "author": "Craxton",
+        "year": "2015",
+        "journal-title": "Phys Plasmas"
+      },
+      {
+        "key": "B5",
+        "doi-asserted-by": "publisher",
+        "first-page": "3933",
+        "DOI": "10.1063/1.871025",
+        "article-title": "Development of the indirect-drive approach to inertial confinement fusion and the target physics basis for ignition and gain",
+        "volume": "2",
+        "author": "Lindl",
+        "year": "1995",
+        "journal-title": "Phys Plasmas"
+      },
+      {
+        "key": "B6",
+        "doi-asserted-by": "publisher",
+        "first-page": "435",
+        "DOI": "10.1038/nphys3736",
+        "article-title": "Hurricane OA. Inertial-confinement fusion with lasers",
+        "volume": "12",
+        "author": "Betti",
+        "year": "2016",
+        "journal-title": "Nat Phys"
+      },
+      {
+        "key": "B7",
+        "doi-asserted-by": "publisher",
+        "first-page": "20200011",
+        "DOI": "10.1098/rsta.2020.0011",
+        "article-title": "Direct-drive laser fusion: status, plans and future",
+        "volume": "379",
+        "author": "Campbell",
+        "year": "2020",
+        "journal-title": "Philosophical Trans R Soc A: Math Phys Eng Sci"
+      },
+      {
+        "key": "B8",
+        "doi-asserted-by": "publisher",
+        "first-page": "041006",
+        "DOI": "10.1063/1.3116505",
+        "article-title": "The national ignition facility: ushering in a new age for high energy density science",
+        "volume": "16",
+        "author": "Moses",
+        "year": "2009",
+        "journal-title": "Phys Plasmas"
+      },
+      {
+        "key": "B9",
+        "doi-asserted-by": "publisher",
+        "first-page": "41898",
+        "DOI": "10.1063/PT.6.2.20221213a",
+        "article-title": "National ignition facility surpasses long-awaited fusion milestone",
+        "volume": "2022",
+        "author": "Kramer",
+        "year": "2022",
+        "journal-title": "Phys Today"
+      },
+      {
+        "key": "B10",
+        "doi-asserted-by": "publisher",
+        "first-page": "219",
+        "DOI": "10.1016/0030-4018(85)90120-8",
+        "article-title": "Compression of amplified chirped optical pulses",
+        "volume": "56",
+        "author": "Strickland",
+        "year": "1985",
+        "journal-title": "Opt Commun"
+      },
+      {
+        "key": "B11",
+        "doi-asserted-by": "publisher",
+        "first-page": "155001",
+        "DOI": "10.1103/PhysRevLett.98.155001",
+        "article-title": "Shock ignition of thermonuclear fuel with high areal density",
+        "volume": "98",
+        "author": "Zhou",
+        "year": "2007",
+        "journal-title": "Phys Rev Lett"
+      },
+      {
+        "key": "B12",
+        "doi-asserted-by": "publisher",
+        "first-page": "195001",
+        "DOI": "10.1103/PhysRevLett.129.195001",
+        "article-title": "Shock-augmented ignition approach to laser inertial fusion",
+        "volume": "129",
+        "author": "Scott",
+        "year": "2022",
+        "journal-title": "Phys Rev Lett"
+      },
+      {
+        "key": "B13",
+        "doi-asserted-by": "publisher",
+        "first-page": "1626",
+        "DOI": "10.1063/1.870664",
+        "article-title": "Ignition and high gain with ultrapowerful lasers",
+        "volume": "1",
+        "author": "Tabak",
+        "year": "1994",
+        "journal-title": "Phys Plasmas"
+      },
+      {
+        "key": "B14",
+        "doi-asserted-by": "publisher",
+        "first-page": "B651",
+        "DOI": "10.1088/0741-3335/49/12B/S60",
+        "article-title": "Progress and prospect of fast ignition of ICF targets",
+        "volume": "49",
+        "author": "Badziak",
+        "year": "2007",
+        "journal-title": "Plasma Phys Controlled Fusion"
+      },
+      {
+        "key": "B15",
+        "doi-asserted-by": "publisher",
+        "first-page": "810",
+        "DOI": "10.1038/s41567-020-0878-9",
+        "article-title": "Enhanced energy coupling for indirect-drive fast-ignition fusion targets",
+        "volume": "16",
+        "author": "Zhang",
+        "year": "2020",
+        "journal-title": "Nat Phys"
+      },
+      {
+        "key": "B16",
+        "doi-asserted-by": "publisher",
+        "first-page": "054002",
+        "DOI": "10.1088/0029-5515/54/5/054002",
+        "article-title": "Laser–plasma interactions for fast ignition",
+        "volume": "54",
+        "author": "Kemp",
+        "year": "2014",
+        "journal-title": "Nucl Fusion"
+      },
+      {
+        "key": "B17",
+        "doi-asserted-by": "publisher",
+        "first-page": "758",
+        "DOI": "10.1038/s41567-023-02363-2",
+        "article-title": "Demonstration of hot-spot fuel gain exceeding unity in direct drive inertial confinement fusion implosions",
+        "volume": "20",
+        "author": "Williams",
+        "year": "2024",
+        "journal-title": "Nat Phys"
+      },
+      {
+        "key": "B18",
+        "doi-asserted-by": "publisher",
+        "first-page": "043109",
+        "DOI": "10.1063/1.1884126",
+        "article-title": "Scalings for ultrarelativistic laser plasmas and quasimonoenergetic electrons",
+        "volume": "12",
+        "author": "Gordienko",
+        "year": "2005",
+        "journal-title": "Phys Plasmas"
+      },
+      {
+        "key": "B19",
+        "doi-asserted-by": "publisher",
+        "first-page": "2686",
+        "DOI": "10.1103/PhysRevLett.79.2686",
+        "article-title": "Laser hole boring into overdense plasma and relativistic electron currents for fast ignition of ICF targets",
+        "volume": "79",
+        "author": "Pukhov",
+        "year": "1997",
+        "journal-title": "Phys Rev Lett"
+      },
+      {
+        "key": "B20",
+        "doi-asserted-by": "publisher",
+        "first-page": "20200039",
+        "DOI": "10.1098/rsta.2020.0039",
+        "article-title": "Collisionless shock acceleration in the corona of an inertial confinement fusion pellet with possible application to ion fast ignition",
+        "volume": "379",
+        "author": "Boella",
+        "year": "2020",
+        "journal-title": "Philosophical Trans R Soc A: Math Phys Eng Sci"
+      },
+      {
+        "key": "B21",
+        "doi-asserted-by": "publisher",
+        "first-page": "459",
+        "DOI": "10.1364/OSAC.381467",
+        "article-title": "Demonstration of a 2 ps, 5 TW peak power, long-wave infrared laser based on chirped-pulse amplification with mixed-isotope CO2 amplifiers",
+        "volume": "3",
+        "author": "Polyanskiy",
+        "year": "2020",
+        "journal-title": "OSA Continuum"
+      },
+      {
+        "key": "B22",
+        "article-title": "Multi-terawatt, sub-picosecond long-wave infrared laser for next-generation particle accelerators",
+        "author": "Polyanskiy",
+        "year": "2023"
+      },
+      {
+        "key": "B23",
+        "doi-asserted-by": "publisher",
+        "first-page": "053106",
+        "DOI": "10.1063/5.0142239",
+        "article-title": "Proton acceleration in an overdense hydrogen plasma by intense CO2 laser pulses with nonlinear propagation effects in the underdense pre-plasma",
+        "volume": "30",
+        "author": "Chen",
+        "year": "2023",
+        "journal-title": "Phys Plasmas"
+      },
+      {
+        "key": "B24",
+        "doi-asserted-by": "publisher",
+        "first-page": "132",
+        "DOI": "10.1140/epja/s10050-023-01043-2",
+        "article-title": "Perspectives on laser-plasma physics in the relativistic transparency regime",
+        "volume": "59",
+        "author": "King",
+        "year": "2023",
+        "journal-title": "The Eur Phys J"
+      },
+      {
+        "key": "B25",
+        "doi-asserted-by": "publisher",
+        "first-page": "056705",
+        "DOI": "10.1063/1.3562926",
+        "article-title": "Observation of impurity free monoenergetic proton beams from the interaction of a CO2 laser with a gaseous target",
+        "volume": "18",
+        "author": "Najmudin",
+        "year": "2011",
+        "journal-title": "Phys Plasmas"
+      },
+      {
+        "key": "B26",
+        "doi-asserted-by": "publisher",
+        "first-page": "025102",
+        "DOI": "10.1103/PhysRevLett.134.025102",
+        "article-title": "Optical imaging of laser-driven fast electron Weibel-like filamentation in overcritical density plasma",
+        "volume": "134",
+        "author": "Dover",
+        "year": "2025",
+        "journal-title": "Phys Rev Lett"
+      },
+      {
+        "key": "B27",
+        "article-title": "Field mapping of CO2-laser-driven LWFA in blowout regime using electron beam probe at low density",
+        "author": "Gaikward",
+        "year": "2024"
+      },
+      {
+        "key": "B28",
+        "doi-asserted-by": "publisher",
+        "first-page": "055601",
+        "DOI": "10.1063/1.4946016",
+        "article-title": "Two decades of progress in understanding and control of laser plasma instabilities in indirect drive inertial fusion",
+        "volume": "23",
+        "author": "Montgomery",
+        "year": "2016",
+        "journal-title": "Phys Plasmas"
+      },
+      {
+        "key": "B29",
+        "doi-asserted-by": "publisher",
+        "first-page": "255004",
+        "DOI": "10.1103/PhysRevLett.109.255004",
+        "article-title": "Ablation pressure driven by an energetic electron beam in a dense plasma",
+        "volume": "109",
+        "author": "Gus’kov",
+        "year": "2012",
+        "journal-title": "Phys Rev Lett"
+      },
+      {
+        "key": "B30",
+        "doi-asserted-by": "publisher",
+        "first-page": "4037",
+        "DOI": "10.1038/s41467-024-48413-y",
+        "article-title": "Plasma electron acceleration driven by a long-wave-infrared laser",
+        "volume": "15",
+        "author": "Zgadzaj",
+        "year": "2024",
+        "journal-title": "Nat Commun"
+      },
+      {
+        "key": "B31",
+        "doi-asserted-by": "publisher",
+        "first-page": "436",
+        "DOI": "10.1103/PhysRevLett.86.436",
+        "article-title": "Fast ignition by intense laser-accelerated proton beams",
+        "volume": "86",
+        "author": "Roth",
+        "year": "2001",
+        "journal-title": "Phys Rev Lett"
+      },
+      {
+        "key": "B32",
+        "doi-asserted-by": "publisher",
+        "first-page": "054006",
+        "DOI": "10.1088/0029-5515/54/5/054006",
+        "article-title": "Fast ignition with laser-driven proton and ion beams",
+        "volume": "54",
+        "author": "Fernández",
+        "year": "2014",
+        "journal-title": "Nucl Fusion"
+      },
+      {
+        "key": "B33",
+        "doi-asserted-by": "publisher",
+        "first-page": "100799",
+        "DOI": "10.1016/j.hedp.2020.100799",
+        "article-title": "Control of intense-laser ion acceleration",
+        "volume": "36",
+        "author": "Nishiura",
+        "year": "2020",
+        "journal-title": "High Energy Density Phys"
+      },
+      {
+        "key": "B34",
+        "doi-asserted-by": "publisher",
+        "first-page": "042709",
+        "DOI": "10.1063/5.0191531",
+        "article-title": "Laser-to-proton conversion efficiency studies for proton fast ignition",
+        "volume": "31",
+        "author": "Kemp",
+        "year": "2024",
+        "journal-title": "Phys Plasmas"
+      },
+      {
+        "key": "B35",
+        "doi-asserted-by": "publisher",
+        "first-page": "013021",
+        "DOI": "10.1088/1367-2630/10/1/013021",
+        "article-title": "Radiation pressure acceleration of thin foils with circularly polarized laser pulses",
+        "volume": "10",
+        "author": "Robinson",
+        "year": "2008",
+        "journal-title": "New J Phys"
+      },
+      {
+        "key": "B36",
+        "doi-asserted-by": "publisher",
+        "first-page": "235004",
+        "DOI": "10.1103/PhysRevLett.108.235004",
+        "article-title": "Weibel-instability mediated collisionless shocks in the laboratory with ultraintense lasers",
+        "volume": "108",
+        "author": "Fiuza",
+        "year": "2012",
+        "journal-title": "Phys Rev Lett"
+      },
+      {
+        "key": "B37",
+        "doi-asserted-by": "publisher",
+        "first-page": "014801",
+        "DOI": "10.1103/PhysRevLett.106.014801",
+        "article-title": "Monoenergetic proton beams accelerated by a radiation pressure driven shock",
+        "volume": "106",
+        "author": "Palmer",
+        "year": "2011",
+        "journal-title": "Phys Rev Lett"
+      },
+      {
+        "key": "B38",
+        "doi-asserted-by": "publisher",
+        "first-page": "95",
+        "DOI": "10.1038/NPHYS2130",
+        "article-title": "Collisionless shocks in laser-produced plasma generate monoenergetic high-energy proton beam",
+        "volume": "8",
+        "author": "Haberberger",
+        "year": "2012",
+        "journal-title": "Nat Phys"
+      },
+      {
+        "key": "B39",
+        "doi-asserted-by": "publisher",
+        "first-page": "034003",
+        "DOI": "10.1088/0741-3335/58/3/034003",
+        "article-title": "Extending laser plasma accelerators into the mid-IR spectral domain with a next-generation ultra-fast CO2 laser",
+        "volume": "58",
+        "author": "Pogorelsky",
+        "year": "2016",
+        "journal-title": "Plasma Phys Controlled Fusion"
+      },
+      {
+        "key": "B40",
+        "doi-asserted-by": "publisher",
+        "first-page": "122701",
+        "DOI": "10.1063/5.0233454",
+        "article-title": "Degradation of performance in ICF implosions due to rayleigh–taylor instabilities: a Hamiltonian perspective",
+        "volume": "31",
+        "author": "Ruiz",
+        "year": "2024",
+        "journal-title": "Phys Plasmas"
+      },
+      {
+        "key": "B41",
+        "doi-asserted-by": "publisher",
+        "first-page": "83",
+        "DOI": "10.1103/PhysRevLett.2.83",
+        "article-title": "Spontaneously growing transverse waves in a plasma due to an anisotropic velocity distribution",
+        "volume": "2",
+        "author": "Weibel",
+        "year": "1959",
+        "journal-title": "Phys Rev Lett"
+      },
+      {
+        "key": "B42",
+        "doi-asserted-by": "publisher",
+        "first-page": "054003",
+        "DOI": "10.1088/0029-5515/54/5/054003",
+        "article-title": "Theory of fast electron transport for fast ignition",
+        "volume": "54",
+        "author": "Robinson",
+        "year": "2014",
+        "journal-title": "Nucl Fusion"
+      },
+      {
+        "key": "B43",
+        "doi-asserted-by": "publisher",
+        "first-page": "882",
+        "DOI": "10.1364/JOSA.65.000882",
+        "article-title": "Theory of relativistic self-focusing of laser radiation in plasmas",
+        "volume": "65",
+        "author": "Hora",
+        "year": "1975",
+        "journal-title": "J Opt Soc America"
+      },
+      {
+        "key": "B44",
+        "doi-asserted-by": "publisher",
+        "first-page": "20200159",
+        "DOI": "10.1098/rsta.2020.0159",
+        "article-title": "Whole-beam self-focusing in fusion-relevant plasma",
+        "volume": "379",
+        "author": "Spiers",
+        "year": "2020",
+        "journal-title": "Philosophical Trans R Soc A: Math Phys Eng Sci"
+      },
+      {
+        "key": "B45",
+        "doi-asserted-by": "publisher",
+        "first-page": "542",
+        "DOI": "10.1063/1.1333697",
+        "article-title": "Energetic proton generation in ultra-intense laser–solid interactions",
+        "volume": "8",
+        "author": "Wilks",
+        "year": "2001",
+        "journal-title": "Phys Plasmas"
+      }
+    ],
+    "container-title": [
+      "Frontiers in Physics"
+    ],
+    "link": [
+      {
+        "URL": "https://www.frontiersin.org/articles/10.3389/fphy.2026.1969078/full",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          25
+        ]
+      ],
+      "date-time": "2026-11-25T08:36:42Z",
+      "timestamp": 1795595802000
+    },
+    "score": 6.782151,
+    "resource": {
+      "primary": {
+        "URL": "https://www.frontiersin.org/articles/10.3389/fphy.2026.1969078/full"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          25
+        ]
+      ]
+    },
+    "references-count": 45,
+    "alternative-id": [
+      "10.3389/fphy.2026.1969078"
+    ],
+    "URL": "https://doi.org/10.3389/fphy.2026.1969078",
+    "ISSN": [
+      "2296-424X"
+    ],
+    "issn-type": [
+      {
+        "value": "2296-424X",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          25
+        ]
+      ]
+    },
+    "article-number": "1969078"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          25
+        ]
+      ],
+      "date-time": "2026-11-25T13:15:03Z",
+      "timestamp": 1795612503622,
+      "version": "4.11.2"
+    },
+    "reference-count": 21,
+    "publisher": "American Physical Society (APS)",
+    "issue": "22",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              25
+            ]
+          ],
+          "date-time": "2026-11-25T00:00:00Z",
+          "timestamp": 1795564800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100000001",
+        "name": "National Science Foundation",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "2412362"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "2412362"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000001",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100001809",
+        "name": "National Natural Science Foundation of China",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "12447145"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "12447145"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100001809",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100000780",
+        "name": "European Commission",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100000780",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100000781",
+        "name": "European Research Council",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "101164102"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "101164102"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100000781",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.aps.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Phys. Rev. Lett."
+    ],
+    "accepted": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          6
+        ]
+      ]
+    },
+    "abstract": "<jats:p>\n                    The theory of bremsstrahlung\n                    <a:math xmlns:a=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\">\n                      <a:mrow>\n                        <a:mi>e</a:mi>\n                        <a:mo stretchy=\"false\">→</a:mo>\n                        <a:mi>e</a:mi>\n                        <a:mi>γ</a:mi>\n                      </a:mrow>\n                    </a:math>\n                    by extremely high energy electrons passing through ordinary matter has been qualitatively incomplete. We revisit the suppression of bremsstrahlung by the Landau-Pomeranchuk-Migdal effect, here accounting for quantum disruption of that effect from pair production. Our analysis covers the full range of ultrarelativistic electron and photon energies (subject to a few simplifying approximations).\n                  </jats:p>",
+    "DOI": "10.1103/rk4d-45t9",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          6
+        ]
+      ],
+      "date-time": "2026-10-06T12:29:15Z",
+      "timestamp": 1791289755000
+    },
+    "update-policy": "https://doi.org/10.1103/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Extremely High-Energy Bremsstrahlung in Matter"
+    ],
+    "prefix": "10.1103",
+    "volume": "137",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-3889-6805",
+        "authenticated-orcid": true,
+        "given": "Peter",
+        "family": "Arnold",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "id": [
+              {
+                "id": "https://ror.org/0153tk833",
+                "id-type": "ROR",
+                "asserted-by": "publisher"
+              }
+            ],
+            "name": "University of Virginia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0006-9405-7682",
+        "authenticated-orcid": true,
+        "given": "Joshua",
+        "family": "Bautista",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "id": [
+              {
+                "id": "https://ror.org/0153tk833",
+                "id-type": "ROR",
+                "asserted-by": "publisher"
+              }
+            ],
+            "name": "University of Virginia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0146-6411",
+        "authenticated-orcid": true,
+        "given": "Omar",
+        "family": "Elgedawy",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "id": [
+              {
+                "id": "https://ror.org/01kq0pv72",
+                "id-type": "ROR",
+                "asserted-by": "publisher"
+              }
+            ],
+            "name": "South China Normal University"
+          },
+          {
+            "name": "Guangdong Provincial Key Laboratory of Nuclear Science"
+          },
+          {
+            "id": [
+              {
+                "id": "https://ror.org/02feahw73",
+                "id-type": "ROR",
+                "asserted-by": "publisher"
+              }
+            ],
+            "name": "CNRS"
+          },
+          {
+            "id": [
+              {
+                "id": "https://ror.org/05hy3tk52",
+                "id-type": "ROR",
+                "asserted-by": "publisher"
+              }
+            ],
+            "name": "École polytechnique"
+          },
+          {
+            "id": [
+              {
+                "id": "https://ror.org/042tfbd02",
+                "id-type": "ROR",
+                "asserted-by": "publisher"
+              }
+            ],
+            "name": "Institut Polytechnique de Paris"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8640-9963",
+        "authenticated-orcid": true,
+        "given": "Shahin",
+        "family": "Iqbal",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "id": [
+              {
+                "id": "https://ror.org/03e1sv842",
+                "id-type": "ROR",
+                "asserted-by": "publisher"
+              }
+            ],
+            "name": "National Centre for Physics"
+          },
+          {
+            "id": [
+              {
+                "id": "https://ror.org/01ggx4157",
+                "id-type": "ROR",
+                "asserted-by": "publisher"
+              }
+            ],
+            "name": "CERN"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "16",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          25
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "rk4d-45t9Cc1R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rspa.1934.0140",
+        "type": "journal-article"
+      },
+      {
+        "key": "rk4d-45t9Cc2R1",
+        "first-page": "535",
+        "type": "journal-article",
+        "volume": "92",
+        "author": "L. D. Landau",
+        "year": "1953",
+        "journal-title": "Dokl. Akad. Nauk SSSR"
+      },
+      {
+        "key": "rk4d-45t9Cc3R1",
+        "first-page": "735",
+        "type": "journal-article",
+        "volume": "92",
+        "author": "L. D. Landau",
+        "year": "1953",
+        "journal-title": "Dokl. Akad. Nauk SSSR"
+      },
+      {
+        "key": "rk4d-45t9Cc4R1",
+        "volume-title": "The Collected Papers of L.D. Landau",
+        "author": "L. Landau",
+        "year": "1965",
+        "type": "book"
+      },
+      {
+        "key": "rk4d-45t9Cc5R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRev.103.1811",
+        "type": "journal-article"
+      },
+      {
+        "key": "rk4d-45t9Cc6R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevLett.75.1949",
+        "type": "journal-article"
+      },
+      {
+        "key": "rk4d-45t9Cc7R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevD.56.1373",
+        "type": "journal-article"
+      },
+      {
+        "key": "rk4d-45t9Cc8R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevLett.91.014801",
+        "type": "journal-article"
+      },
+      {
+        "key": "rk4d-45t9Cc9R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevD.69.032001",
+        "type": "journal-article"
+      },
+      {
+        "key": "rk4d-45t9Cc10R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/RevModPhys.71.1501",
+        "type": "journal-article"
+      },
+      {
+        "key": "rk4d-45t9Cc11R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF02733969",
+        "type": "journal-article"
+      },
+      {
+        "key": "rk4d-45t9Cc12R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/JHEP03(2026)015",
+        "type": "journal-article"
+      },
+      {
+        "key": "rk4d-45t9Cc13R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/8rg8-tmgg",
+        "type": "journal-article"
+      },
+      {
+        "key": "rk4d-45t9Cc14R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevD.110.030001",
+        "type": "journal-article"
+      },
+      {
+        "key": "rk4d-45t9Cc15R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevD.82.074017",
+        "type": "journal-article"
+      },
+      {
+        "key": "rk4d-45t9Cc16R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1134/S0021364008140026",
+        "type": "journal-article"
+      },
+      {
+        "key": "rk4d-45t9Cc17R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevAccelBeams.20.111001",
+        "type": "journal-article"
+      },
+      {
+        "key": "rk4d-45t9Cc18R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1140/epjc/s10052-025-15077-x",
+        "type": "journal-article"
+      },
+      {
+        "key": "rk4d-45t9Cc19R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1140/epjs/s11734-025-01967-4",
+        "type": "journal-article"
+      },
+      {
+        "key": "rk4d-45t9Cc20R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/JHEP09(2024)131",
+        "type": "journal-article"
+      },
+      {
+        "key": "rk4d-45t9Cc21R1",
+        "unstructured": "J. Bautista, P. Arnold, O. Elgedawy, and S. Iqbal, Mathematica Code for Extremely High Energy Bremsstrahlung in Matter (2026), 10.5281/zenodo.22283988.",
+        "type": "other"
+      }
+    ],
+    "container-title": [
+      "Physical Review Letters"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.aps.org/article/10.1103/rk4d-45t9",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "http://harvest.aps.org/v2/journals/articles/10.1103/rk4d-45t9/fulltext",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          25
+        ]
+      ],
+      "date-time": "2026-11-25T12:46:55Z",
+      "timestamp": 1795610815000
+    },
+    "score": 9.492504,
+    "resource": {
+      "primary": {
+        "URL": "https://link.aps.org/doi/10.1103/rk4d-45t9"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          25
+        ]
+      ]
+    },
+    "references-count": 21,
+    "journal-issue": {
+      "issue": "22",
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            11
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1103/rk4d-45t9",
+    "relation": {
+      "has-preprint": [
+        {
+          "id-type": "doi",
+          "id": "10.48550/arXiv.2604.18685",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "ISSN": [
+      "0031-9007",
+      "1079-7114"
+    ],
+    "issn-type": [
+      {
+        "value": "0031-9007",
+        "type": "print"
+      },
+      {
+        "value": "1079-7114",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          25
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2026-05-08",
+        "name": "date_received",
+        "label": "Date Received",
+        "group": {
+          "name": "publication_dates",
+          "label": "Publication dates"
+        }
+      },
+      {
+        "value": "Published by the American Physical Society. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+        "name": "copyright_statement",
+        "label": "Copyright statement",
+        "group": {
+          "name": "copyright",
+          "label": "copyright"
+        }
+      },
+      {
+        "value": "2026",
+        "name": "copyright_year",
+        "label": "Copyright year",
+        "group": {
+          "name": "copyright",
+          "label": "copyright"
+        }
+      },
+      {
+        "value": "https://creativecommons.org/licenses/by/4.0/",
+        "name": "creative_commons_license",
+        "label": "Creative Commons license",
+        "group": {
+          "name": "licenses",
+          "label": "Licenses"
+        }
+      },
+      {
+        "value": "©2026 The authors",
+        "name": "copyright_holder",
+        "label": "Copyright holder",
+        "group": {
+          "name": "copyright",
+          "label": "copyright"
+        }
+      }
+    ],
+    "article-number": "221603"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          25
+        ]
+      ],
+      "date-time": "2026-11-25T13:13:33Z",
+      "timestamp": 1795612413982,
+      "version": "4.11.2"
+    },
+    "reference-count": 58,
+    "publisher": "American Physical Society (APS)",
+    "issue": "9",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              25
+            ]
+          ],
+          "date-time": "2026-11-25T00:00:00Z",
+          "timestamp": 1795564800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100000001",
+        "name": "National Science Foundation",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "2412362"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "2412362"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000001",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000001",
+        "name": "National Science Foundation",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "12447145"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "12447145"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000001",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100000781",
+        "name": "European Research Council",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "101164102"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "101164102"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100000781",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.aps.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Phys. Rev. D"
+    ],
+    "accepted": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          15
+        ]
+      ]
+    },
+    "abstract": "<jats:p>\n                    Ultrarelativistic electrons initiate electromagnetic showers in ordinary matter that evolve through bremsstrahlung and pair production. At very high energy, the quantum mechanical duration of bremsstrahlung becomes longer than the mean free time to elastically scatter from the medium, leading to a significant suppression known as the Landau-Pomeranchuk-Migdal (LPM) effect. For some ranges of bremsstrahlung photon and initial electron energies\n                    <a:math xmlns:a=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\">\n                      <a:mo stretchy=\"false\">(</a:mo>\n                      <a:msub>\n                        <a:mi>k</a:mi>\n                        <a:mi>γ</a:mi>\n                      </a:msub>\n                      <a:mo>,</a:mo>\n                      <a:mi>E</a:mi>\n                      <a:mo stretchy=\"false\">)</a:mo>\n                    </a:math>\n                    , the duration becomes so long that it will also overlap with subsequent pair production by the bremsstrahlung photon, disrupting LPM suppression and drastically changing LPM predictions. We have previously calculated this change for extremely high energies (\n                    <e:math xmlns:e=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\">\n                      <e:msub>\n                        <e:mi>k</e:mi>\n                        <e:mi>γ</e:mi>\n                      </e:msub>\n                      <e:mo>≫</e:mo>\n                      <e:mn>2</e:mn>\n                      <e:mtext> </e:mtext>\n                      <e:mtext> </e:mtext>\n                      <e:mi>TeV</e:mi>\n                    </e:math>\n                    or more, depending on the medium), for which the electron mass and medium-induced photon mass could be ignored. In this paper, we extend that analysis to lower (but still ultrarelativistic) energy by accounting for those masses, leading to a rich map of behavior in different regions of\n                    <g:math xmlns:g=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\">\n                      <g:mo stretchy=\"false\">(</g:mo>\n                      <g:msub>\n                        <g:mi>k</g:mi>\n                        <g:mi>γ</g:mi>\n                      </g:msub>\n                      <g:mo>,</g:mo>\n                      <g:mi>E</g:mi>\n                      <g:mo stretchy=\"false\">)</g:mo>\n                    </g:math>\n                    .\n                  </jats:p>",
+    "DOI": "10.1103/8rg8-tmgg",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          15
+        ]
+      ],
+      "date-time": "2026-10-15T15:09:39Z",
+      "timestamp": 1792076979000
+    },
+    "update-policy": "https://doi.org/10.1103/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Calculating extremely high-energy bremsstrahlung in matter"
+    ],
+    "prefix": "10.1103",
+    "volume": "114",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-3889-6805",
+        "authenticated-orcid": true,
+        "given": "Peter",
+        "family": "Arnold",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "id": [
+              {
+                "id": "https://ror.org/0153tk833",
+                "id-type": "ROR",
+                "asserted-by": "publisher"
+              }
+            ],
+            "name": "University of Virginia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0006-9405-7682",
+        "authenticated-orcid": true,
+        "given": "Joshua",
+        "family": "Bautista",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "id": [
+              {
+                "id": "https://ror.org/0153tk833",
+                "id-type": "ROR",
+                "asserted-by": "publisher"
+              }
+            ],
+            "name": "University of Virginia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0146-6411",
+        "authenticated-orcid": true,
+        "given": "Omar",
+        "family": "Elgedawy",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "id": [
+              {
+                "id": "https://ror.org/01kq0pv72",
+                "id-type": "ROR",
+                "asserted-by": "publisher"
+              }
+            ],
+            "name": "South China Normal University"
+          },
+          {
+            "id": [
+              {
+                "id": "https://ror.org/01kq0pv72",
+                "id-type": "ROR",
+                "asserted-by": "publisher"
+              }
+            ],
+            "name": "Guangdong Basic Research Center of Excellence for Structure and Fundamental Interactions of Matter"
+          },
+          {
+            "id": [
+              {
+                "id": "https://ror.org/02feahw73",
+                "id-type": "ROR",
+                "asserted-by": "publisher"
+              }
+            ],
+            "name": "CNRS"
+          },
+          {
+            "id": [
+              {
+                "id": "https://ror.org/05hy3tk52",
+                "id-type": "ROR",
+                "asserted-by": "publisher"
+              }
+            ],
+            "name": "École polytechnique"
+          },
+          {
+            "id": [
+              {
+                "id": "https://ror.org/042tfbd02",
+                "id-type": "ROR",
+                "asserted-by": "publisher"
+              }
+            ],
+            "name": "Institut Polytechnique de Paris"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8640-9963",
+        "authenticated-orcid": true,
+        "given": "Shahin",
+        "family": "Iqbal",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "id": [
+              {
+                "id": "https://ror.org/03e1sv842",
+                "id-type": "ROR",
+                "asserted-by": "publisher"
+              }
+            ],
+            "name": "National Centre for Physics"
+          },
+          {
+            "id": [
+              {
+                "id": "https://ror.org/01ggx4157",
+                "id-type": "ROR",
+                "asserted-by": "publisher"
+              }
+            ],
+            "name": "CERN"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "16",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          25
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "8rg8-tmggCc1R1",
+        "first-page": "535",
+        "type": "journal-article",
+        "volume": "92",
+        "author": "L. D. Landau",
+        "year": "1953",
+        "journal-title": "Dokl. Akad. Nauk SSSR"
+      },
+      {
+        "key": "8rg8-tmggCc2R1",
+        "first-page": "735",
+        "type": "journal-article",
+        "volume": "92",
+        "author": "L. D. Landau",
+        "year": "1953",
+        "journal-title": "Dokl. Akad. Nauk SSSR"
+      },
+      {
+        "key": "8rg8-tmggCc3R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRev.103.1811",
+        "type": "journal-article"
+      },
+      {
+        "key": "8rg8-tmggCc4R1",
+        "volume-title": "The Collected Papers of L. D. Landau",
+        "author": "L. Landau",
+        "year": "1965",
+        "type": "book"
+      },
+      {
+        "key": "8rg8-tmggCc5R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF02733969",
+        "type": "journal-article"
+      },
+      {
+        "key": "8rg8-tmggCc6R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/JHEP03(2026)015",
+        "type": "journal-article"
+      },
+      {
+        "key": "8rg8-tmggCc7R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/rk4d-45t9",
+        "type": "journal-article"
+      },
+      {
+        "key": "8rg8-tmggCc8R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/RevModPhys.71.1501",
+        "type": "journal-article"
+      },
+      {
+        "key": "8rg8-tmggCc9R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rspa.1934.0140",
+        "type": "journal-article"
+      },
+      {
+        "key": "8rg8-tmggCc10R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevD.110.030001",
+        "type": "journal-article"
+      },
+      {
+        "key": "8rg8-tmggCc11R1",
+        "first-page": "924",
+        "type": "journal-article",
+        "volume": "61",
+        "author": "B. G. Zakharov",
+        "year": "1998",
+        "journal-title": "Yad. Fiz.",
+        "ISSN": "https://id.crossref.org/issn/0044-0027",
+        "issn-type": "print"
+      },
+      {
+        "key": "8rg8-tmggCc11R2",
+        "first-page": "838",
+        "type": "journal-article",
+        "volume": "61",
+        "author": "B. G. Zakharov",
+        "year": "1998",
+        "journal-title": "Phys. At. Nucl.",
+        "ISSN": "https://id.crossref.org/issn/1063-7788",
+        "issn-type": "print"
+      },
+      {
+        "key": "8rg8-tmggCc12R1",
+        "first-page": "906",
+        "type": "journal-article",
+        "volume": "63",
+        "author": "B. G. Zakharov",
+        "year": "1996",
+        "journal-title": "Pis’ma Zh. Éksp. Teor. Fiz."
+      },
+      {
+        "key": "8rg8-tmggCc12R2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1134/1.567126",
+        "type": "journal-article"
+      },
+      {
+        "key": "8rg8-tmggCc13R1",
+        "first-page": "585",
+        "type": "journal-article",
+        "volume": "65",
+        "author": "B. G. Zakharov",
+        "year": "1997",
+        "journal-title": "Pis’ma Zh. Éksp. Teor. Fiz."
+      },
+      {
+        "key": "8rg8-tmggCc13R2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1134/1.567389",
+        "type": "journal-article"
+      },
+      {
+        "key": "8rg8-tmggCc14R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0550-3213(96)00426-9",
+        "type": "journal-article"
+      },
+      {
+        "key": "8rg8-tmggCc15R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0550-3213(96)00553-6",
+        "type": "journal-article"
+      },
+      {
+        "key": "8rg8-tmggCc16R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0550-3213(96)00581-0",
+        "type": "journal-article"
+      },
+      {
+        "key": "8rg8-tmggCc17R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0550-3213(98)00546-X",
+        "type": "journal-article"
+      },
+      {
+        "key": "8rg8-tmggCc18R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/JHEP07(2019)057",
+        "type": "journal-article"
+      },
+      {
+        "key": "8rg8-tmggCc19R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/JHEP09(2021)153",
+        "type": "journal-article"
+      },
+      {
+        "key": "8rg8-tmggCc20R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/JHEP10(2020)176",
+        "type": "journal-article"
+      },
+      {
+        "key": "8rg8-tmggCc21R1",
+        "unstructured": "Wolfram Research, Inc., Mathematica (various versions), Champaign, IL (2018–2021).",
+        "type": "other"
+      },
+      {
+        "key": "8rg8-tmggCc22R1",
+        "unstructured": "NIST Digital Library of Mathematical Functions, edited by F. W. J. Olver, A. B. Olde Daalhuis, D. W. Lozier, B. I. Schneider, R. F. Boisvert, C. W. Clark, B. R. Miller, B. V. Saunders, H. S. Cohl, and M. A. McClain, https://dlmf.nist.gov/ (Release 1.2.5 of 2025-12-15).",
+        "type": "other"
+      },
+      {
+        "key": "8rg8-tmggCc23R1",
+        "volume-title": "Table of Integrals, Series, and Products",
+        "author": "I. S. Gradshteyn",
+        "year": "1980",
+        "type": "book"
+      },
+      {
+        "key": "8rg8-tmggCc24R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jmaa.2021.125930",
+        "type": "journal-article"
+      },
+      {
+        "key": "8rg8-tmggCc25R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevD.22.2157",
+        "type": "journal-article"
+      },
+      {
+        "key": "8rg8-tmggCc26R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/9781009291446",
+        "type": "journal-article"
+      },
+      {
+        "key": "8rg8-tmggCc27R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/JHEP09(2016)078",
+        "type": "journal-article"
+      },
+      {
+        "key": "8rg8-tmggCc28R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/JHEP01(2025)193",
+        "type": "journal-article"
+      },
+      {
+        "key": "8rg8-tmggCc29R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevD.82.074017",
+        "type": "journal-article"
+      },
+      {
+        "key": "8rg8-tmggCc30R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1134/S0021364008140026",
+        "type": "journal-article"
+      },
+      {
+        "key": "8rg8-tmggCc31R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/175344",
+        "type": "journal-article"
+      },
+      {
+        "key": "8rg8-tmggCc32R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevD.70.091901",
+        "type": "journal-article"
+      },
+      {
+        "key": "8rg8-tmggCc33R1",
+        "volume-title": "Introduction to High Energy Physics",
+        "author": "D. H. Perkins",
+        "year": "1982",
+        "type": "book"
+      },
+      {
+        "key": "8rg8-tmggCc34R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4249/scholarpedia.10353",
+        "type": "journal-article"
+      },
+      {
+        "key": "8rg8-tmggCc35R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRev.123.1053",
+        "type": "journal-article"
+      },
+      {
+        "key": "8rg8-tmggCc36R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevLett.107.212002",
+        "type": "journal-article"
+      },
+      {
+        "key": "8rg8-tmggCc37R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevD.55.6957",
+        "type": "journal-article"
+      },
+      {
+        "key": "8rg8-tmggCc38R1",
+        "first-page": "58",
+        "type": "journal-article",
+        "volume": "113",
+        "author": "N. F. Shul’ga",
+        "year": "1998",
+        "journal-title": "Zh. Éksp. Teor. Fiz."
+      },
+      {
+        "key": "8rg8-tmggCc38R2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1134/1.558467",
+        "type": "journal-article"
+      },
+      {
+        "key": "8rg8-tmggCc39R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevD.69.032001",
+        "type": "journal-article"
+      },
+      {
+        "key": "8rg8-tmggCc40R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev.ns.04.120154.001531",
+        "type": "journal-article"
+      },
+      {
+        "key": "8rg8-tmggCc41R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5281/zenodo.22283988",
+        "type": "software"
+      },
+      {
+        "key": "8rg8-tmggCc42R1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1017/CBO9780511535130",
+        "type": "book",
+        "volume-title": "Finite-Temperature Field Theory Principles and Applications",
+        "author": "J. I. Kapusta",
+        "year": "2006"
+      },
+      {
+        "key": "8rg8-tmggCc43R1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1017/CBO9780511721700",
+        "type": "book",
+        "volume-title": "Thermal Field Theory",
+        "author": "M. Le Bellac",
+        "year": "1996"
+      },
+      {
+        "key": "8rg8-tmggCc44R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/1126-6708/2003/01/030",
+        "type": "journal-article"
+      },
+      {
+        "key": "8rg8-tmggCc45R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/1126-6708/2003/08/002",
+        "type": "journal-article"
+      },
+      {
+        "key": "8rg8-tmggCc46R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevD.62.036011",
+        "type": "journal-article"
+      },
+      {
+        "key": "8rg8-tmggCc47R1",
+        "volume-title": "An Introduction to Quantum Field Theory",
+        "author": "M. E. Peskin",
+        "year": "1995",
+        "type": "book"
+      },
+      {
+        "key": "8rg8-tmggCc48R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rspa.2004.1395",
+        "type": "journal-article"
+      },
+      {
+        "key": "8rg8-tmggCc49R1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/978-3-662-11761-3",
+        "type": "book",
+        "volume-title": "Formulas and Theorems for the Special Functions of Mathematical physics",
+        "author": "W. Magnus",
+        "year": "1966"
+      },
+      {
+        "key": "8rg8-tmggCc50R1",
+        "volume-title": "Handbook of Mathematical Functions",
+        "author": "M. Abramowitz",
+        "year": "1970",
+        "type": "book"
+      },
+      {
+        "key": "8rg8-tmggCc51R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/JHEP12(2018)120",
+        "type": "journal-article"
+      },
+      {
+        "key": "8rg8-tmggCc51R2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/JHEP12(2023)098",
+        "type": "journal-article"
+      },
+      {
+        "key": "8rg8-tmggCc51R3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/JHEP09(2024)169",
+        "type": "journal-article"
+      },
+      {
+        "key": "8rg8-tmggCc52R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/JHEP09(2024)131",
+        "type": "journal-article"
+      }
+    ],
+    "container-title": [
+      "Physical Review D"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.aps.org/article/10.1103/8rg8-tmgg",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "http://harvest.aps.org/v2/journals/articles/10.1103/8rg8-tmgg/fulltext",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          25
+        ]
+      ],
+      "date-time": "2026-11-25T12:35:34Z",
+      "timestamp": 1795610134000
+    },
+    "score": 9.895887,
+    "resource": {
+      "primary": {
+        "URL": "https://link.aps.org/doi/10.1103/8rg8-tmgg"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          25
+        ]
+      ]
+    },
+    "references-count": 58,
+    "journal-issue": {
+      "issue": "9",
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            11
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1103/8rg8-tmgg",
+    "relation": {
+      "has-preprint": [
+        {
+          "id-type": "doi",
+          "id": "10.48550/arXiv.2605.03002",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "ISSN": [
+      "2470-0010",
+      "2470-0029"
+    ],
+    "issn-type": [
+      {
+        "value": "2470-0010",
+        "type": "print"
+      },
+      {
+        "value": "2470-0029",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          25
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2026-05-08",
+        "name": "date_received",
+        "label": "Date Received",
+        "group": {
+          "name": "publication_dates",
+          "label": "Publication dates"
+        }
+      },
+      {
+        "value": "Published by the American Physical Society. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+        "name": "copyright_statement",
+        "label": "Copyright statement",
+        "group": {
+          "name": "copyright",
+          "label": "copyright"
+        }
+      },
+      {
+        "value": "2026",
+        "name": "copyright_year",
+        "label": "Copyright year",
+        "group": {
+          "name": "copyright",
+          "label": "copyright"
+        }
+      },
+      {
+        "value": "https://creativecommons.org/licenses/by/4.0/",
+        "name": "creative_commons_license",
+        "label": "Creative Commons license",
+        "group": {
+          "name": "licenses",
+          "label": "Licenses"
+        }
+      },
+      {
+        "value": "©2026 The authors",
+        "name": "copyright_holder",
+        "label": "Copyright holder",
+        "group": {
+          "name": "copyright",
+          "label": "copyright"
+        }
+      }
+    ],
+    "article-number": "093008"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          25
+        ]
+      ],
+      "date-time": "2026-11-25T12:17:36Z",
+      "timestamp": 1795609056284,
+      "version": "4.11.0"
+    },
+    "reference-count": 16,
+    "publisher": "AIP Publishing",
+    "issue": "11",
+    "funder": [
+      {
+        "name": "U.S. Department of Energy",
+        "award": [
+          "DE-AC52-07NA27344"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "DE-AC52-07NA27344"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "https://ror.org/01bj3aw27",
+            "id-type": "ROR",
+            "asserted-by": "crossref"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100006207",
+        "name": "Fusion Energy Sciences",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "DE-SC0024549"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "DE-SC0024549"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100006207",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100006207",
+        "name": "Fusion Energy Sciences",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "SCW1942"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "SCW1942"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100006207",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100007000",
+        "name": "Laboratory Directed Research and Development",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "23-ERD-035"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "23-ERD-035"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100007000",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100007000",
+        "name": "Laboratory Directed Research and Development",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "21-ERD-015"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "21-ERD-015"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100007000",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100007000",
+        "name": "Laboratory Directed Research and Development",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "20-ERD-048"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "20-ERD-048"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100007000",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "pubs.aip.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          1
+        ]
+      ]
+    },
+    "abstract": "<jats:p>Configuring a diagnostic before the next shot is an instrumentation problem that grows in importance as high-repetition-rate laser-plasma platforms scale from tens of shots to thousands. In the present campaign, a gated intensified optical camera required shot-to-shot retuning as peak image brightness varied with chamber pressure, laser energy, focus conditions, and target state. Static settings produced under-exposed or over-driven images, while manual tuning consumed shots and reduced measurement efficiency. We treat this problem as machine-learning-guided pre-shot diagnostic configuration using a hybrid framework: archived images and machine variables are reduced to a compact descriptor state, a neural-network surrogate is trained to predict that state from operating conditions and detector settings, and Bayesian optimization inverts the surrogate to recommend executable settings before each shot. On a 1 Hz multi-joule platform, the measured peak signal tracked requested targets from 1000 to 4500 counts with a correlation of 0.92 and a mean absolute error of 15%. These results demonstrate that campaign data can train practical empirical models supporting pre-shot diagnostic configuration for enhanced data quality and experimental efficiency in comparable laser-plasma campaigns.</jats:p>",
+    "DOI": "10.1063/5.0350254",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          25
+        ]
+      ],
+      "date-time": "2026-11-25T11:42:26Z",
+      "timestamp": 1795606946000
+    },
+    "update-policy": "https://doi.org/10.1063/aip-crossmark-policy-page",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Machine-learning-guided pre-shot diagnostic configuration for high-repetition-rate laser-plasma experiments"
+    ],
+    "prefix": "10.1063",
+    "volume": "97",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-9502-4205",
+        "authenticated-orcid": false,
+        "given": "D. A.",
+        "family": "Mariscal",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Lawrence Livermore National Laboratory 1 , Livermore, California 94550,",
+            "place": [
+              "USA"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0007-6733-0548",
+        "authenticated-orcid": false,
+        "given": "A.",
+        "family": "Sarkar",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Lawrence Livermore National Laboratory 1 , Livermore, California 94550,",
+            "place": [
+              "USA"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3588-9025",
+        "authenticated-orcid": false,
+        "given": "S.",
+        "family": "Feister",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Computer Science, California State University Channel Islands 2 , Camarillo, California 93012,",
+            "place": [
+              "USA"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5489-9144",
+        "authenticated-orcid": false,
+        "given": "C.",
+        "family": "Niemann",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of California 3 , Los Angeles, California 90095,",
+            "place": [
+              "USA"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6677-4813",
+        "authenticated-orcid": false,
+        "given": "B. Z.",
+        "family": "Djordjević",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Lawrence Livermore National Laboratory 1 , Livermore, California 94550,",
+            "place": [
+              "USA"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0356-1036",
+        "authenticated-orcid": false,
+        "given": "R. S.",
+        "family": "Dorst",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Lawrence Livermore National Laboratory 1 , Livermore, California 94550,",
+            "place": [
+              "USA"
+            ]
+          },
+          {
+            "name": "University of California 3 , Los Angeles, California 90095,",
+            "place": [
+              "USA"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8439-5518",
+        "authenticated-orcid": false,
+        "given": "C.",
+        "family": "Constantin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of California 3 , Los Angeles, California 90095,",
+            "place": [
+              "USA"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "J. E.",
+        "family": "Roth",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of California 3 , Los Angeles, California 90095,",
+            "place": [
+              "USA"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6620-7168",
+        "authenticated-orcid": false,
+        "given": "E.",
+        "family": "Cisneros",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of California 3 , Los Angeles, California 90095,",
+            "place": [
+              "USA"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "317",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          25
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "2026112506422181500_c1",
+        "doi-asserted-by": "publisher",
+        "first-page": "103106",
+        "DOI": "10.1063/5.0219183",
+        "article-title": "Deep learning based x-ray spectrometer for high repetition rate characterization of betatron radiation",
+        "volume": "31",
+        "year": "2024",
+        "journal-title": "Phys. Plasmas"
+      },
+      {
+        "key": "2026112506422181500_c2",
+        "doi-asserted-by": "publisher",
+        "first-page": "093901",
+        "DOI": "10.1063/5.0097777",
+        "article-title": "Enhanced analysis of experimental x-ray spectra through deep learning",
+        "volume": "29",
+        "year": "2022",
+        "journal-title": "Phys. Plasmas"
+      },
+      {
+        "key": "2026112506422181500_c3",
+        "doi-asserted-by": "publisher",
+        "first-page": "075101",
+        "DOI": "10.1063/5.0043835",
+        "article-title": "Development of a deep learning based automated data analysis for step-filter x-ray spectrometers in support of high-repetition rate short-pulse laser-driven acceleration experiments",
+        "volume": "92",
+        "year": "2021",
+        "journal-title": "Rev. Sci. Instrum."
+      },
+      {
+        "key": "2026112506422181500_c4",
+        "doi-asserted-by": "publisher",
+        "first-page": "035202",
+        "DOI": "10.1088/1361-6463/ad89d6",
+        "article-title": "Machine learning analysis of high-repetition-rate two-dimensional Thomson scattering spectra from laser-produced plasmas",
+        "volume": "58",
+        "year": "2025",
+        "journal-title": "J. Phys. D: Appl. Phys."
+      },
+      {
+        "key": "2026112506422181500_c5",
+        "doi-asserted-by": "publisher",
+        "first-page": "013903",
+        "DOI": "10.1063/5.0304922",
+        "article-title": "Transfer learning for analysis of collective and non-collective Thomson scattering spectra",
+        "volume": "33",
+        "year": "2026",
+        "journal-title": "Phys. Plasmas"
+      },
+      {
+        "key": "2026112506422181500_c6",
+        "doi-asserted-by": "publisher",
+        "first-page": "103547",
+        "DOI": "10.1063/5.0101857",
+        "article-title": "Applications of machine learning to a compact magnetic spectrometer for high repetition rate, laser-driven particle acceleration",
+        "volume": "93",
+        "year": "2022",
+        "journal-title": "Rev. Sci. Instrum."
+      },
+      {
+        "key": "2026112506422181500_c7",
+        "doi-asserted-by": "publisher",
+        "first-page": "023510",
+        "DOI": "10.1063/5.0101845",
+        "article-title": "A flexible proton beam imaging energy spectrometer (PROBIES) for high repetition rate or single-shot high energy density (HED) experiments",
+        "volume": "94",
+        "year": "2023",
+        "journal-title": "Rev. Sci. Instrum."
+      },
+      {
+        "key": "2026112506422181500_c8",
+        "doi-asserted-by": "publisher",
+        "first-page": "6355",
+        "DOI": "10.1038/s41467-020-20245-6",
+        "article-title": "Automation and control of laser wakefield accelerators using Bayesian optimization",
+        "volume": "11",
+        "year": "2020",
+        "journal-title": "Nat. Commun."
+      },
+      {
+        "key": "2026112506422181500_c9",
+        "doi-asserted-by": "publisher",
+        "first-page": "e35",
+        "DOI": "10.1017/hpl.2023.23",
+        "article-title": "Automated control and optimisation of laser driven ion acceleration",
+        "volume": "11",
+        "year": "2023",
+        "journal-title": "High Power Laser Sci. Eng."
+      },
+      {
+        "key": "2026112506422181500_c10",
+        "doi-asserted-by": "publisher",
+        "first-page": "073105",
+        "DOI": "10.1063/5.0190553",
+        "article-title": "Toward machine-learning-assisted PW-class high-repetition-rate experiments with solid targets",
+        "volume": "31",
+        "year": "2024",
+        "journal-title": "Phys. Plasmas"
+      },
+      {
+        "key": "2026112506422181500_c11",
+        "doi-asserted-by": "publisher",
+        "first-page": "351",
+        "DOI": "10.1038/s41586-021-03382-w",
+        "article-title": "The data-driven future of high-energy-density physics",
+        "volume": "593",
+        "year": "2021",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "2026112506422181500_c12",
+        "doi-asserted-by": "publisher",
+        "first-page": "082704",
+        "DOI": "10.1063/1.5108667",
+        "article-title": "Making inertial confinement fusion models more predictive",
+        "volume": "26",
+        "year": "2019",
+        "journal-title": "Phys. Plasmas"
+      },
+      {
+        "key": "2026112506422181500_c13",
+        "doi-asserted-by": "publisher",
+        "first-page": "104003",
+        "DOI": "10.1088/1361-6587/ac1f67",
+        "article-title": "Accelerating the rate of discovery: Toward high-repetition-rate HED science",
+        "volume": "63",
+        "year": "2021",
+        "journal-title": "Plasma Phys. Control. Fusion"
+      },
+      {
+        "key": "2026112506422181500_c14",
+        "doi-asserted-by": "publisher",
+        "first-page": "895890101",
+        "DOI": "10.1017/s002237782200126x",
+        "article-title": "Optimizing the configuration of plasma radiation detectors in the presence of uncertain instrument response and inadequate physics",
+        "volume": "89",
+        "year": "2023",
+        "journal-title": "J. Plasma Phys"
+      },
+      {
+        "key": "2026112506422181500_c15",
+        "doi-asserted-by": "publisher",
+        "first-page": "25",
+        "DOI": "10.3390/instruments7030025",
+        "article-title": "Two-dimensional Thomson scattering in laser-produced plasmas",
+        "volume": "7",
+        "year": "2023",
+        "journal-title": "Instruments"
+      },
+      {
+        "key": "2026112506422181500_c16",
+        "first-page": "265",
+        "article-title": "TensorFlow: A system for large-scale machine learning",
+        "year": "2016"
+      }
+    ],
+    "container-title": [
+      "Review of Scientific Instruments"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://pubs.aip.org/aip/rsi/article-pdf/doi/10.1063/5.0350254/21210690/113532_1_5.0350254.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://pubs.aip.org/aip/rsi/article-pdf/doi/10.1063/5.0350254/21210690/113532_1_5.0350254.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          25
+        ]
+      ],
+      "date-time": "2026-11-25T11:42:28Z",
+      "timestamp": 1795606948000
+    },
+    "score": 9.667355,
+    "resource": {
+      "primary": {
+        "URL": "https://pubs.aip.org/rsi/article/97/11/113532/3409304/Machine-learning-guided-pre-shot-diagnostic"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          1
+        ]
+      ]
+    },
+    "references-count": 16,
+    "journal-issue": {
+      "issue": "11",
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            1
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1063/5.0350254",
+    "ISSN": [
+      "0034-6748",
+      "1089-7623"
+    ],
+    "issn-type": [
+      {
+        "value": "0034-6748",
+        "type": "print"
+      },
+      {
+        "value": "1089-7623",
+        "type": "electronic"
+      }
+    ],
+    "published-other": {
+      "date-parts": [
+        [
+          2026,
+          11
+        ]
+      ]
+    },
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          1
+        ]
+      ]
+    },
+    "article-number": "113532"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          25
+        ]
+      ],
+      "date-time": "2026-11-25T22:14:01Z",
+      "timestamp": 1795644841023,
+      "version": "4.11.3"
+    },
+    "reference-count": 27,
+    "publisher": "Springer Science and Business Media LLC",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              25
+            ]
+          ],
+          "date-time": "2026-11-25T00:00:00Z",
+          "timestamp": 1795564800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              25
+            ]
+          ],
+          "date-time": "2026-11-25T00:00:00Z",
+          "timestamp": 1795564800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      }
+    ],
+    "funder": [
+      {
+        "name": "INL LDRD"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "J Radioanal Nucl Chem"
+    ],
+    "DOI": "10.1007/s10967-026-10928-7",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          25
+        ]
+      ],
+      "date-time": "2026-11-25T09:51:50Z",
+      "timestamp": 1795600310000
+    },
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Production of carrier-free 185Ta using photonuclear reactions coupled with rapid chemical separations"
+    ],
+    "prefix": "10.1007",
+    "author": [
+      {
+        "given": "Mathew S.",
+        "family": "Snow",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          },
+          {
+            "role": "corresponding-author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Mathew T.",
+        "family": "Kinlaw",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jessica",
+        "family": "Meiers",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Justin T.",
+        "family": "Cooper",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Leah",
+        "family": "Squires",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ari",
+        "family": "Foley-Janish",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Amanda",
+        "family": "Rynes",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Alan W.",
+        "family": "Hunt",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "John",
+        "family": "Longley",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jon",
+        "family": "Stoner",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Kevin",
+        "family": "Carney",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          25
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "10928_CR1",
+        "doi-asserted-by": "crossref",
+        "unstructured": ". Stoeklin G, Qaim SM and Roesch F (1995) The impact of radioactivity on medicine, Radiochimica Acta, pp. 249–272",
+        "DOI": "10.1524/ract.1995.7071.special-issue.249"
+      },
+      {
+        "key": "10928_CR2",
+        "volume-title": "Physics in nuclear medicine",
+        "author": "SR Cherry",
+        "year": "2012",
+        "unstructured": "Cherry SR, Sorenson JA, Phelps ME (2012) Physics in nuclear medicine, 4th e. Elsevier Health Sciences",
+        "edition": "4th e."
+      },
+      {
+        "key": "10928_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "635",
+        "DOI": "10.1524/ract.2012.1966",
+        "volume": "100",
+        "author": "SM Qaim",
+        "year": "2012",
+        "unstructured": "Qaim SM (2012) The present and future of medical radionuclide production. Radiochim Acta 100:635–651",
+        "journal-title": "Radiochim Acta"
+      },
+      {
+        "key": "10928_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "425",
+        "DOI": "10.1007/978-3-319-98947-1_24",
+        "volume-title": "Radiopharmaceutical chemistry",
+        "author": "JP Holland",
+        "year": "2019",
+        "unstructured": "Holland JP (2019) The radiopharmaceutical chemistry of seldom-used radionuclides in nuclear medicine. Radiopharmaceutical chemistry. Springer International Publishing, pp 425–446"
+      },
+      {
+        "issue": "6",
+        "key": "10928_CR5",
+        "first-page": "537",
+        "volume": "14",
+        "author": "RP Spencer",
+        "year": "1987",
+        "unstructured": "Spencer RP (1987) Short lived radionuclides in therapy. Nucl Med Biol 14(6):537–538",
+        "journal-title": "Nucl Med Biol"
+      },
+      {
+        "issue": "9",
+        "key": "10928_CR6",
+        "first-page": "1490",
+        "volume": "27",
+        "author": "JL Humm",
+        "year": "1986",
+        "unstructured": "Humm JL (1986) Dosimetric aspects of radiolabeled antibodies for tumor therapy. J Nucl Med 27(9):1490–1497",
+        "journal-title": "J Nucl Med"
+      },
+      {
+        "issue": "8",
+        "key": "10928_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "911",
+        "DOI": "10.1016/S0969-8043(97)10101-4",
+        "volume": "49",
+        "author": "S Lahiri",
+        "year": "1998",
+        "unstructured": "Lahiri S, Nayak D, Nandy M, Das NR (1998) Separation of carrier free lutetium produced in proton activated ytterbium with HDEHP. Appl Radiat Isot 49(8):911–913",
+        "journal-title": "Appl Radiat Isot"
+      },
+      {
+        "key": "10928_CR8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/0470846380",
+        "volume-title": "Handbook of radiopharmaceuticals: radiochemistry and applications",
+        "author": "MJ Welch",
+        "year": "2002",
+        "unstructured": "Welch MJ, Redvanly CS (2002) Handbook of radiopharmaceuticals: radiochemistry and applications. John Wiley & Sons, Ltd"
+      },
+      {
+        "key": "10928_CR9",
+        "volume-title": "\"How Far Are We from Dose On Demand of Short-Lived Radiopharmaceuticals?,\" in Perspectives on Nuclear Medicine for Molecular Diagnosis and Integrated Therapy",
+        "author": "G Pascali",
+        "year": "2016",
+        "unstructured": "Pascali G, Matesic L (2016) “How Far Are We from Dose On Demand of Short-Lived Radiopharmaceuticals?,” in Perspectives on Nuclear Medicine for Molecular Diagnosis and Integrated Therapy. Springer, New York"
+      },
+      {
+        "issue": "11",
+        "key": "10928_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "1193",
+        "DOI": "10.1002/jlcr.2580221114",
+        "volume": "22",
+        "author": "MJ Welch",
+        "year": "1985",
+        "unstructured": "Welch MJ, Kilbourn MR (1985) A remote system for routine production of oxygen-15. J Labelled Comp Radiopharm 22(11):1193–1200",
+        "journal-title": "J Labelled Comp Radiopharm"
+      },
+      {
+        "issue": "47",
+        "key": "10928_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "8998",
+        "DOI": "10.1002/anie.200800222",
+        "volume": "47",
+        "author": "PW Miller",
+        "year": "2008",
+        "unstructured": "Miller PW, Long NJ, Vilar R, Gee AD (2008) Synthesis of 11C, 18F, 15O, and 13N radiolabels for positron emission tomography. Angew Chem Int Ed Engl 47(47):8998–9033",
+        "journal-title": "Angew Chem Int Ed Engl"
+      },
+      {
+        "key": "10928_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "167",
+        "DOI": "10.1016/j.apradiso.2014.02.015",
+        "volume": "89",
+        "author": "PW Awasthi",
+        "year": "2014",
+        "unstructured": "Awasthi PW, Watson J, Gali H, Matlock G, McFarland A, Bailey J, Anzellotti A (2014) A ‘dose on demand’ biomarker generator for automated production of [18F]FDG. Appl Radiat Isot 89:167–175",
+        "journal-title": "Appl Radiat Isot"
+      },
+      {
+        "issue": "5",
+        "key": "10928_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "547",
+        "DOI": "10.1016/j.nucmedbio.2010.03.006",
+        "volume": "37",
+        "author": "G Pascali",
+        "year": "2010",
+        "unstructured": "Pascali G, Mazzone G, Saccomanni G, Manera C, Salvadori PA (2010) Microfluidic approach for fast labeling optimization and dose-on-demand implementation. Nucl Med Biol 37(5):547–555",
+        "journal-title": "Nucl Med Biol"
+      },
+      {
+        "issue": "9",
+        "key": "10928_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "1402",
+        "DOI": "10.1080/03639045.2017.1323911",
+        "volume": "43",
+        "author": "A Boschi",
+        "year": "2017",
+        "unstructured": "Boschi A, Martini P, Pasquali M, Uccelli L (2017) Recent achievements in Tc-99m radiopharmaceutical direct production by medical cyclotrons. Drug Dev Ind Pharm 43(9):1402–1412",
+        "journal-title": "Drug Dev Ind Pharm"
+      },
+      {
+        "issue": "12",
+        "key": "10928_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "789",
+        "DOI": "10.1016/0020-708X(71)90148-7",
+        "volume": "22",
+        "author": "E Lebowitz",
+        "year": "1971",
+        "unstructured": "Lebowitz E, Greene MW (1971) The production of 157Dy for medical use. Int J Appl Radiat Isot 22(12):789–793",
+        "journal-title": "Int J Appl Radiat Isot"
+      },
+      {
+        "key": "10928_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "214",
+        "DOI": "10.1016/j.apradiso.2017.06.022",
+        "volume": "127",
+        "author": "F Borgna",
+        "year": "2017",
+        "unstructured": "Borgna F, Ballan M, Corradetti S, Vettorato E, Monetti A, Rossignoli M, Manzolaro M, Scarpa D, Mazzi U, Realdon N, Andrighetto A (2017) A preliminary study for the production of high specific activity radionuclides for nuclear medicine obtained with the isotope separation on line technique. Appl Radiat Isot 127:214–226",
+        "journal-title": "Appl Radiat Isot"
+      },
+      {
+        "issue": "1",
+        "key": "10928_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "27",
+        "DOI": "10.1016/S0969-8043(98)00189-4",
+        "volume": "51",
+        "author": "S Lahiri",
+        "year": "1999",
+        "unstructured": "Lahiri S, Nayak D, Das SK (1999) Separation of carrier free Dysprosium and Terbium isotopes from 12C6+ irradiated Nd2O3. Appl Radiat Isot 51(1):27–32",
+        "journal-title": "Appl Radiat Isot"
+      },
+      {
+        "key": "10928_CR18",
+        "unstructured": "D. A. e. a. Brown, \"ENDF/B-VIII.0: the 8th major release of the nuclear reaction data library with CIELO-project cross sections, new standards and thermal scattering data,\" Nucl. Data Sheets, vol. 1, p. 148, 2018."
+      },
+      {
+        "issue": "2",
+        "key": "10928_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "365",
+        "DOI": "10.1023/A:1017924402557",
+        "volume": "250",
+        "author": "K Banerjee",
+        "year": "2001",
+        "unstructured": "Banerjee K, Lahiri S (2001) Separation of carrier-free 176, 177W and 176, 177Ta produced in 160 irradiated Holmium target. Journal of Radioanalytical Nuclear Chemistry 250(2):365–367",
+        "journal-title": "Journal of Radioanalytical Nuclear Chemistry"
+      },
+      {
+        "issue": "5",
+        "key": "10928_CR20",
+        "first-page": "510",
+        "volume": "19",
+        "author": "BL Holman",
+        "year": "1978",
+        "unstructured": "Holman BL, Harris GI, Neirinckx RD, Jones AG, Idoine J (1978) Tantalum-178-a short-lived nuclide for nuclear medicine: production of the parent W-178. J Nucl Med 19(5):510–513",
+        "journal-title": "J Nucl Med"
+      },
+      {
+        "key": "10928_CR21",
+        "unstructured": "Neirinckx RD, Holman BL and Davis MA (1979) Tantalum-178 radiopharmaceuticals for lung and liver imaging, Society of Nuclear Medicine, Inc, pp 801-809"
+      },
+      {
+        "issue": "2",
+        "key": "10928_CR22",
+        "first-page": "82",
+        "volume": "12",
+        "author": "RA Wilson",
+        "year": "1987",
+        "unstructured": "Wilson RA, Kopiwoda SY, Callahan RJ, Moore RH, Boucher CA, Manspeaker H, Castronovo FP, Strauss HW (1987) Bidistribution of tantalum-178 a short-lived radiopharmaceutical for blood pool imaging. Eur J Nucl Med 12(2):82–85",
+        "journal-title": "Eur J Nucl Med"
+      },
+      {
+        "issue": "9",
+        "key": "10928_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "589",
+        "DOI": "10.1038/s41573-020-0073-9",
+        "volume": "19",
+        "author": "G Sgouros",
+        "year": "2020",
+        "unstructured": "Sgouros G, Bodei L, McDevitt MR, Nedrow JR (2020) Radiopharmaceutical therapy in cancer: clinical advances and challenges. Nat Rev Drug Discov 19(9):589–608",
+        "journal-title": "Nat Rev Drug Discov"
+      },
+      {
+        "issue": "1",
+        "key": "10928_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "94",
+        "DOI": "10.2174/1874471008666150313114644",
+        "volume": "9",
+        "author": "T Das",
+        "year": "2016",
+        "unstructured": "Das T, Banerjee S (2016) Theranostic applications of Lutetium-177 in radionuclide therapy. Curr Radiopharm 9(1):94–101",
+        "journal-title": "Curr Radiopharm"
+      },
+      {
+        "key": "10928_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/j.chroma.2017.01.019",
+        "volume": "1484",
+        "author": "MS Snow",
+        "year": "2017",
+        "unstructured": "Snow MS, Finck MR, Carney KP, Morrison SS (2017) Extraction chromatographic separations of Tantalum and Tungsten from Hafnium and complex matrix constituents. J Chromatogr 1484:1–6",
+        "journal-title": "J Chromatogr"
+      },
+      {
+        "key": "10928_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "24",
+        "DOI": "10.1016/j.nucmedbio.2017.02.006",
+        "volume": "49",
+        "author": "T Mastren",
+        "year": "2017",
+        "unstructured": "Mastren T, Radchenko V, Bach HT, Balkin ER, Birnbaum ER, Brugh M, Engle JW, Gott MD, Guthrie J, Hennkens HM, John KD, Ketring AR, Kuchuk M, Maassen JR, Naranjo CM, Nortier M, Phelps TE, Jurisson SS, Wilbur DS, Fassbender ME (2017) Bulk production and evaluation of high specific activity 186gRe for cancer therapy using enriched 186WO3 targets in a proton beam. Nucl Med Biol 49:24–29",
+        "journal-title": "Nucl Med Biol"
+      },
+      {
+        "issue": "8",
+        "key": "10928_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "3770",
+        "DOI": "10.1021/acs.analchem.0c04130",
+        "volume": "93",
+        "author": "MS Snow",
+        "year": "2021",
+        "unstructured": "Snow MS, Ward J, Bucher B, Cooper JT, Kinlaw M, Cardena E, Horkley J, Town H, Finck MR, Carney KP (2021) Rapid separation of photofissioned uranium products via single-pass multiplexed chromatographic fission product separation system. Anal Chem 93(8):3770–3777",
+        "journal-title": "Anal Chem"
+      }
+    ],
+    "container-title": [
+      "Journal of Radioanalytical and Nuclear Chemistry"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s10967-026-10928-7.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s10967-026-10928-7",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s10967-026-10928-7.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          25
+        ]
+      ],
+      "date-time": "2026-11-25T22:01:35Z",
+      "timestamp": 1795644095000
+    },
+    "score": 13.670401,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/article/10.1007/s10967-026-10928-7"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          25
+        ]
+      ]
+    },
+    "references-count": 27,
+    "alternative-id": [
+      "10928"
+    ],
+    "URL": "https://doi.org/10.1007/s10967-026-10928-7",
+    "ISSN": [
+      "0236-5731",
+      "1588-2780"
+    ],
+    "issn-type": [
+      {
+        "value": "0236-5731",
+        "type": "print"
+      },
+      {
+        "value": "1588-2780",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          25
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "9 February 2026",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "12 May 2026",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "25 November 2026",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "The authors declare no conflict of interest regarding the data presented in this article.",
+        "order": 1,
+        "name": "Ethics",
+        "label": "Conflict of interest",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      }
+    ]
+  }
+]

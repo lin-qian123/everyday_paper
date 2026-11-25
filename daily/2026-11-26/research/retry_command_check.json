@@ -1,0 +1,42 @@
+{
+  "executed": false,
+  "queuewide_retry": false,
+  "new_entries": [
+    {
+      "doi": "10.1063/5.0350254",
+      "command_constructed": [
+        "/Users/yuxiangzhang/anaconda3/envs/python312/bin/python",
+        "/Volumes/PHILIPS/programs/everyday_paper/scripts/safe_pdf_download.py",
+        "--url",
+        "https://pubs.aip.org/aip/rsi/article-pdf/doi/10.1063/5.0350254/21210690/113532_1_5.0350254.pdf",
+        "--url",
+        "https://pubs.aip.org/aip/rsi/article/97/11/113532/3409304/Machine-learning-guided-pre-shot-diagnostic",
+        "--doi",
+        "10.1063/5.0350254",
+        "--output",
+        "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-11-26/pdfs/mariscal-2026-pre-shot.pdf",
+        "--report-json",
+        "/tmp/not-executed-report.json"
+      ],
+      "required_fields_present": true
+    },
+    {
+      "doi": "10.1007/s10967-026-10928-7",
+      "command_constructed": [
+        "/Users/yuxiangzhang/anaconda3/envs/python312/bin/python",
+        "/Volumes/PHILIPS/programs/everyday_paper/scripts/safe_pdf_download.py",
+        "--url",
+        "https://link.springer.com/content/pdf/10.1007/s10967-026-10928-7.pdf",
+        "--url",
+        "https://link.springer.com/article/10.1007/s10967-026-10928-7",
+        "--doi",
+        "10.1007/s10967-026-10928-7",
+        "--output",
+        "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-11-26/pdfs/snow-2026-ta185.pdf",
+        "--report-json",
+        "/tmp/not-executed-report.json"
+      ],
+      "required_fields_present": true
+    }
+  ]
+}

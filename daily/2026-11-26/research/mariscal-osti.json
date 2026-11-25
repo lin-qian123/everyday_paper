@@ -1,0 +1,393 @@
+{
+  "url": "https://www.osti.gov/api/v1/records?q=Machine-learning-guided+pre-shot+diagnostic+configuration+for+high-repetition-rate+laser-plasma+experiments&rows=5",
+  "status": 200,
+  "response": [
+    {
+      "language": "English",
+      "entry_date": "2026-08-29T20:27:31Z",
+      "relation": "FEL2026 - 42nd International Free Electron Laser Conference 23–28 Aug 2026 Li Ka Shing Center, Stanford University",
+      "identifier": "AC02-76SF00515",
+      "country_publication": "United States",
+      "publisher": "JACoW",
+      "description": "On behalf of the International Executive Committee of the FEL Conference series, we are pleased to announce the 42nd International Free Electron Laser Conference (FEL2026). The conference will be held at Li Ka Shing Center located on Stanford campus from August 23rd to August 28th, 2026. FEL2026 will focus on recent advances in free electron laser theory and experiments, electron beam, photon beam and undulator technologies, and applications of free electron lasers. FEL2026 will be hosted by SLAC National Accelerator Laboratory and Stanford PULSE Institute. Stanford is the birthplace of the free-electron laser. SLAC houses two premier X-ray FEL facilities (LCLS and LCLS‑II) in the US. The conference program will include an optional tour of the LCLS and LCLS-II. Stay tuned for more conference information by following this official conference website (www.fel2026.org). Email questions should be addressed to fel2026@slac.stanford.edu.",
+      "title": "FEL2026 - 42nd International Free Electron Laser Conference - Prepress",
+      "contract_number": "AC02-76SF00515; ",
+      "publication_date": "2026-08-28T00:00:00Z",
+      "osti_id": "3484872",
+      "product_type": "Conference",
+      "authors": [
+        "Summers, Tasha [SLAC National Accelerator Laboratory (SLAC), Menlo Park, CA (United States), AD]"
+      ],
+      "doe_contract_number": "AC02-76SF00515; ",
+      "subjects": [],
+      "sponsor_orgs": [
+        "USDOE Office of Science (SC)"
+      ],
+      "research_orgs": [
+        "SLAC National Accelerator Laboratory (SLAC)"
+      ],
+      "conference_info": "FEL2026 - 42nd International Free Electron Laser Conference 23–28 Aug 2026 Li Ka Shing Center, Stanford University",
+      "links": [
+        {
+          "rel": "citation",
+          "href": "https://www.osti.gov/biblio/3484872"
+        },
+        {
+          "rel": "fulltext",
+          "href": "https://www.osti.gov/servlets/purl/3484872"
+        }
+      ]
+    },
+    {
+      "language": "English",
+      "entry_date": "2026-10-30T05:00:11Z",
+      "relation": "Journal Name: Plasma Physics and Controlled Fusion ",
+      "identifier": "SC0024542; SC0021246; AC02-09CH11466",
+      "country_publication": "United States",
+      "journal_type": "AM",
+      "doi": "10.1088/1361-6587/aeb978",
+      "title": "Platform for high repetition rate proton stopping power measurements in Warm Dense Matter",
+      "other_number": "Journal ID: ISSN 0741-3335;871124; 871161; FIS2016-81056-R; EQC2018-005230-P; 654148; CLP087U16; CLP263P20; RGPIN-2019-05013; ANR-17-EURE-0027",
+      "contract_number": "AC02-09CH11466; SC0021246; SC0024542",
+      "publication_date": "2026-10-26T00:00:00Z",
+      "osti_id": "17426497",
+      "journal_name": "Plasma Physics and Controlled Fusion",
+      "product_type": "Journal Article",
+      "authors": [
+        "Malko, Sophia [Princeton Plasma Physics Laboratory] (ORCID:0000000310411092)",
+        "Bhutwala, Krish [Princeton Plasma Physics Laboratory] (ORCID:0000000193196409)",
+        "Vaisseau, Xavier [Focused Energy Inc]",
+        "Ospina, Valeria [Focused Energy Inc]",
+        "Nedbailo, Ryan [The University of Texas at Austin, Department of Physics]",
+        "Griff-McMahon, Jesse [Princeton University] (ORCID:0000000207740613)",
+        "Cayzac, Witold [CEA DAM Île-de-France]",
+        "Apiñaniz, Jon [CLPU]",
+        "Ehret, M [Extreme Light Infrastructure Beamlines]",
+        "Huerta, Alejandro [Centro de Laseres Pulsados Ultracortos Ultraintensos]",
+        "de Luis, Diego [CLPU]",
+        "Bailly-Grandvaux, Mathieu [University of Bordeaux]",
+        "Santos, Joao Jorge [University of Bordeaux]",
+        "Vargas, Joe Adrian [Massachusetts Institute of Technology]",
+        "McGuffey, Christopher S [General Atomics]",
+        "Tauschwitz, Anna [Goethe-Universität Frankfurt am Main]",
+        "Valenzuela-Villaseca, Vicente [Lawrence Livermore National Laboratory] (ORCID:0000000167721441)",
+        "Hollinger, Reed [Colorado State University, Walter Scott Jr College of Engineering]",
+        "Wang, Shoujun [Colorado State University]",
+        "Zeraouli, Ghassan [Colorado State University, Walter Scott Jr College of Engineering]",
+        "Anaraki, Sina [Colorado State University, Walter Scott Jr College of Engineering]",
+        "King, James [Colorado State University, Walter Scott Jr College of Engineering]",
+        "Johnson, Courtney [Princeton Plasma Physics Laboratory] (ORCID:0000000251093775)",
+        "Essa, Ashraf I [Princeton Plasma Physics Laboratory] (ORCID:0009000619713213)",
+        "Huault, Marine [University of Bordeaux]",
+        "Khetari, Samia [University of Salamanca] (ORCID:0009000630314854)",
+        "Atzeni, Stefano [Focused Energy GmbH]",
+        "Volpe, Luca [Universidad Politécnica de Madrid]",
+        "Lezhnin, Kirill [Princeton Plasma Physics Laboratory] (ORCID:000000027636069X)",
+        "Kraus, Frances [Princeton University Plasma Physics Laboratory] (ORCID:0000000257139316)",
+        "Fox, Will [University of Maryland] (ORCID:000000016289858X)",
+        "Fedosejevs, Robert [University of Alberta]",
+        "Rocca, Jorge J [Colorado State University, Walter Scott Jr College of Engineering]",
+        "Beg, Farhat N [University of California San Diego] (ORCID:0000000303918944)",
+        "Neumayer, Paul [GSI Helmholtzzentrum für Schwerionenforschung GmbH] (ORCID:0000000251568830)",
+        "Gatti, Giancarlo [CLPU]",
+        "Perez-Hernandez, Jose Antonio [Centro de Laseres Pulsados Ultracortos Ultraintensos] (ORCID:0000000211170190)"
+      ],
+      "article_type": "Accepted Manuscript",
+      "doe_contract_number": "AC02-09CH11466; SC0021246; SC0024542",
+      "subjects": [],
+      "sponsor_orgs": [
+        "USDOE"
+      ],
+      "research_orgs": [
+        "Princeton Plasma Physics Laboratory (PPPL), Princeton, NJ (United States)"
+      ],
+      "journal_issn": "ISSN 0741-3335",
+      "other_identifiers": [
+        "Journal ID: ISSN 0741-3335;871124; 871161; FIS2016-81056-R; EQC2018-005230-P; 654148; CLP087U16; CLP263P20; RGPIN-2019-05013; ANR-17-EURE-0027"
+      ],
+      "links": [
+        {
+          "rel": "citation",
+          "href": "https://www.osti.gov/biblio/17426497"
+        },
+        {
+          "rel": "fulltext",
+          "href": "https://www.osti.gov/servlets/purl/17426497"
+        },
+        {
+          "rel": "citation_doe_pages",
+          "href": "https://www.osti.gov/pages/biblio/17426497"
+        }
+      ]
+    },
+    {
+      "language": "English",
+      "entry_date": "2026-08-25T08:53:31Z",
+      "relation": "Journal Name: Plasma Physics and Controlled Fusion Journal Issue: 7 Journal Volume: 68",
+      "report_number": "LA-UR-25-24567",
+      "identifier": "NA0004144; AC02-76SF00515; SC0020340; NA0003525; AC52-07NA27344; 89233218CNA000001; NA0004089; NA0004147; SC0024476",
+      "journal_issue": "7",
+      "nondoe_contract_number": "871124; mvp00024; 101076233; 100182; 5086999001; PHY2020249; 280637173; IISN 4.4502.19; ST/V000721/1; A0170915731; ANR- 24-CE92-0060; EP/I031464; ANR-22-CE49- 0006; 20230322ER; 92270107; 233196; ERCAP0031552; 1632708; 03Z1O511; PHY2308860; 100866; PHY2205521; DMR21006; ANR-22-CE92-0031; ANR-22-CE49-0006; SFB/TRR-173-268565370; EP/W010097-1; EP/X025373/1; T2225018",
+      "country_publication": "United States",
+      "publisher": "IOP Publishing",
+      "journal_type": "AM",
+      "doi": "10.1088/1361-6587/ae672c",
+      "description": "This roadmap presents the state-of-the-art, current challenges and near future developments anticipated in the thriving field of warm dense matter (WDM) physics. Originating from strongly coupled plasma physics, high pressure physics and high energy density science, the WDM physics community has recently taken a giant leap forward. This is due to spectacular developments in laser technology, diagnostic capabilities, and computer simulation techniques. Only in the last decade has it become possible to perform accurate enough simulations &amp; experiments to truly verify theoretical results as well as to reliably design experiments based on predictions. Consequently, this roadmap discusses recent developments of and contemporary challenges for theoretical methods and experimental techniques needed to describe, create and diagnose WDM. A large part of this roadmap is dedicated to specific WDM systems and applications in astrophysics, inertial confinement fusion and novel material synthesis.",
+      "title": "Roadmap for warm dense matter physics",
+      "other_number": "Journal ID: ISSN 0741-3335; Journal ID: ISSN 1361-6587",
+      "contract_number": "89233218CNA000001; AC02-05CH11231; AC02-76SF00515; AC52-07NA27344; NA0003525; NA0003910; NA0004039; NA0004089; NA0004144; NA0004147; SC0020340; SC0024476; SC0024640",
+      "publication_date": "2026-07-15T00:00:00Z",
+      "journal_volume": "68",
+      "osti_id": "3484512",
+      "journal_name": "Plasma Physics and Controlled Fusion",
+      "product_type": "Journal Article",
+      "authors": [
+        "Vorberger, Jan [Helmholtz-Zentrum Dresden Rossendorf (Germany); et al.] (ORCID:0000000159269192)",
+        "Graziani, Frank [Lawrence Livermore National Laboratory] (ORCID:0000000272040509)",
+        "Riley, David [Queen’s University of Belfast] (ORCID:0000000262123212)",
+        "Baczewski, Andrew D [Sandia National Laboratories] (ORCID:0000000185539934)",
+        "Baraffe, Isabelle [University of Exeter; Ecole Normale Supérieure de Lyon] (ORCID:0000000183655982)",
+        "Bethkenhagen, Mandy [Ecole Polytechnique—Institut Polytechnique de Paris] (ORCID:0000000218382129)",
+        "Blouin, Simon [University of Victoria] (ORCID:0000000296321436)",
+        "Böhme, Maximilian P [Lawrence Livermore National Laboratory] (ORCID:0000000302903628)",
+        "Bonitz, Michael [Christian-Albrechts-Universität zu Kiel; Kiel Nano, Surface and Interface Science (KiNSIS), Kiel University] (ORCID:0000000179110656)",
+        "Bussmann, Michael [Helmholtz-Zentrum Dresden Rossendorf (HZDR)] (ORCID:0000000282583881)",
+        "Casner, Alexis [CEA, DAM, DIF; Université Paris-Saclay] (ORCID:0000000321761389)",
+        "Cayzac, Witold [CEA, DAM, DIF] (ORCID:0000000196821636)",
+        "Celliers, Peter [Lawrence Livermore National Laboratory] (ORCID:0000000176001227)",
+        "Chabrier, Gilles [Ecole Normale Supérieure de Lyon; University of Exeter] (ORCID:0000000283429149)",
+        "Chamel, Nicolas [Université Libre de Bruxelles—CP226] (ORCID:0000000332220115)",
+        "Chapman, Dave [First Light Fusion Ltd] (ORCID:0000000187411424)",
+        "Chen, Mohan [Peking University] (ORCID:0000000280715633)",
+        "Clérouin, Jean [Université Paris-Saclay] (ORCID:0000000321442759)",
+        "Collins, Gilbert [University of Rochester; University of Rochester; University of Rochester] (ORCID:0000000248831087)",
+        "Coppari, Federica [Lawrence Livermore National Laboratory] (ORCID:0000000315923898)",
+        "Döppner, Tilo [Lawrence Livermore National Laboratory] (ORCID:0000000257037125)",
+        "Dornheim, Tobias [Helmholtz-Zentrum Dresden Rossendorf (HZDR); Center for Advanced Systems Understanding (CASUS)] (ORCID:0000000172936615)",
+        "Fletcher, Luke B [Stanford University] (ORCID:0000000271207194)",
+        "Gericke, Dirk O [University of Warwick] (ORCID:0000000167979004)",
+        "Glenzer, Siegfried [Stanford University] (ORCID:0000000191120558)",
+        "Goncharov, Alexander F [Carnegie Institution for Science] (ORCID:0000000264228819)",
+        "Gregori, Gianluca [University of Oxford] (ORCID:0000000241530628)",
+        "Hamel, Sebastien [Lawrence Livermore National Laboratory] (ORCID:0000000342460892)",
+        "Hansen, Stephanie B [Sandia National Laboratories] (ORCID:0000000218869770)",
+        "Hartley, Nicholas J [Stanford University] (ORCID:0000000262682436)",
+        "Hu, Suxing [University of Rochester; University of Rochester; University of Rochester] (ORCID:0000000324653818)",
+        "Hurricane, Omar A [Lawrence Livermore National Laboratory] (ORCID:0000000286005448)",
+        "Karasiev, Valentin V [University of Rochester] (ORCID:0000000334456797)",
+        "Kas, Joshua J [University of Washington] (ORCID:0000000261030356)",
+        "Kettle, Brendan [Imperial College London] (ORCID:0000000344244448)",
+        "Kluge, Thomas [Helmholtz-Zentrum Dresden Rossendorf (HZDR)] (ORCID:0000000348615584)",
+        "Knudson, Marcus D [Sandia National Laboratories] (ORCID:0000000259164662)",
+        "Kononov, Alina [Sandia National Laboratories] (ORCID:000000026600224X)",
+        "Konôpková, Zuzana [European XFEL GmbH] (ORCID:0000000189056307)",
+        "Kraus, Dominik [Institut für Physik; Helmholtz-Zentrum Dresden Rossendorf (HZDR)] (ORCID:0000000263504180)",
+        "Kritcher, Andrea [Lawrence Livermore National Laboratory] (ORCID:0000000296941088)",
+        "Malko, Sophia [Princeton Plasma Physics Laboratory] (ORCID:0000000310411092)",
+        "Massacrier, Gérard [Centre de Recherche Astrophysique de Lyon UMR5574] (ORCID:0000000210212950)",
+        "Militzer, Burkhard [University of California] (ORCID:0000000270925629)",
+        "Moldabekov, Zhandos A [Helmholtz-Zentrum Dresden Rossendorf (HZDR); Center for Advanced Systems Understanding (CASUS)] (ORCID:0000000297259208)",
+        "Murillo, Michael S [Michigan State University] (ORCID:000000024365929X)",
+        "Nagler, Bob [Stanford University] (ORCID:0009000257367842)",
+        "Nettelmann, Nadine [Institut für Physik] (ORCID:0000000216087185)",
+        "Neumayer, Paul [GSI Helmholtzzentrum für Schwerionenforschung GmbH] (ORCID:0000000251568830)",
+        "Ofori-Okai, Benjamin K [Stanford University] (ORCID:0000000207376786)",
+        "Oleynik, Ivan I [University of South Florida] (ORCID:0000000253486484)",
+        "Preising, Martin [Helmholtz-Zentrum Dresden Rossendorf (HZDR); Institut für Physik] (ORCID:0000000176892736)",
+        "Pribram-Jones, Aurora [University of California] (ORCID:0000000302441814)",
+        "Ramazanov, Tlekkabul [Al-Farabi Kazakh National University] (ORCID:0009000923011152)",
+        "Ravasio, Alessandra [Ecole Polytechnique—Institut Polytechnique de Paris] (ORCID:0000000220776493)",
+        "Redmer, Ronald [Helmholtz-Zentrum Dresden Rossendorf (HZDR); Institut für Physik] (ORCID:000000033440863X)",
+        "Rethfeld, Baerbel [RPTU Kaiserslautern-Landau] (ORCID:0009000899214127)",
+        "Robinson, Alex P L [STFC Rutherford-Appleton Laboratory] (ORCID:0000000239677647)",
+        "Röpke, Gerd [Institut für Physik] (ORCID:0000000193195959)",
+        "Soubiran, François [Université Paris-Saclay] (ORCID:0000000209825178)",
+        "Starrett, Charles E [Los Alamos National Laboratory] (ORCID:0000000215828148)",
+        "Steinle-Neumann, Gerd [Universität Bayreuth] (ORCID:0000000174556149)",
+        "Sterne, Phillip A [Lawrence Livermore National Laboratory] (ORCID:0000000263983185)",
+        "Tanaka, Shigenori [Kobe University] (ORCID:0000000266592788)",
+        "Thompson, Aidan P [Sandia National Laboratories] (ORCID:0000000203249114)",
+        "Trickey, Samuel B [University of Florida] (ORCID:0000000192246304)",
+        "Vinci, Tommaso [Ecole Polytechnique—Institut Polytechnique de Paris] (ORCID:0000000215951752)",
+        "Vinko, Sam M [University of Oxford] (ORCID:0000000310160975)",
+        "Wang, Lei [Chinese Academy of Sciences] (ORCID:0009000413488583)",
+        "White, Alexander J [Los Alamos National Laboratory] (ORCID:0000000277713899)",
+        "White, Thomas G [University of Nevada] (ORCID:0000000238654240)",
+        "Zastrau, Ulf [European XFEL GmbH] (ORCID:0000000235754449)",
+        "Zurek, Eva [University at Buffalo, SUNY] (ORCID:000000030738867X)",
+        "Tolias, Panagiotis [Royal Institute of Technology (KTH)] (ORCID:0000000196328104)"
+      ],
+      "subjects": [
+        "36 MATERIALS SCIENCE",
+        "70 PLASMA PHYSICS AND FUSION TECHNOLOGY",
+        "71 CLASSICAL AND QUANTUM MECHANICS, GENERAL PHYSICS",
+        "74 ATOMIC AND MOLECULAR PHYSICS",
+        "dense astrophysical objects",
+        "high energy density physics",
+        "inertial confinement fusion",
+        "laser-matter interactions",
+        "quantum plasmas",
+        "strongly coupled plasmas",
+        "warm dense matter"
+      ],
+      "article_type": "Accepted Manuscript",
+      "format": "Article No. 073501",
+      "doe_contract_number": "89233218CNA000001; AC02-05CH11231; AC02-76SF00515; AC52-07NA27344; NA0003525; NA0003910; NA0004039; NA0004089; NA0004144; NA0004147; SC0020340; SC0024476; SC0024640",
+      "sponsor_orgs": [
+        "LDRD",
+        "Los Alamos National Laboratory (LANL), Los Alamos, NM (United States)",
+        "USDOE",
+        "USDOE National Nuclear Security Administration (NNSA)"
+      ],
+      "research_orgs": [
+        "Los Alamos National Laboratory (LANL), Los Alamos, NM (United States)",
+        "Princeton Plasma Physics Laboratory (PPPL), Princeton, NJ (United States)",
+        "University of Rochester, NY (United States)"
+      ],
+      "journal_issn": "ISSN 0741-3335",
+      "other_identifiers": [
+        "Journal ID: ISSN 0741-3335; Journal ID: ISSN 1361-6587"
+      ],
+      "links": [
+        {
+          "rel": "citation",
+          "href": "https://www.osti.gov/biblio/3484512"
+        },
+        {
+          "rel": "fulltext",
+          "href": "https://www.osti.gov/servlets/purl/3484512"
+        },
+        {
+          "rel": "citation_doe_pages",
+          "href": "https://www.osti.gov/pages/biblio/3484512"
+        }
+      ]
+    },
+    {
+      "language": "English",
+      "entry_date": "2026-05-06T11:33:56Z",
+      "relation": "Journal Name: Physical Review Research Journal Issue: 1 Journal Volume: 8",
+      "identifier": "NA0003960; NA0004146; SC0016804; AC02-76SF00515",
+      "journal_issue": "1",
+      "nondoe_contract_number": "100182; 100866; 1632708; PHY-2308860; FA9550-19-1-0072",
+      "country_publication": "United States",
+      "publisher": "American Physical Society (APS)",
+      "journal_type": "AM",
+      "doi": "10.1103/ggsf-hkm1",
+      "description": "Compact, stable, and versatile laser-driven ion sources hold great promise for applications ranging from medicine to materials science and fundamental physics. While single-shot sources have demonstrated favorable beam properties, including the peak fluxes necessary for several applications, high-repetition-rate operation will be necessary to generate and sustain the high average flux needed for many of the most exciting applications of laser-driven ion sources. Further, to navigate through the high-dimensional space of laser and target parameters toward experimental optima, it is essential to develop ion acceleration platforms compatible with machine learning techniques and capable of autonomous real-time optimization. Here, we present a multi-Hz ion acceleration platform employing a liquid sheet jet target. We characterize the laser-plasma interaction and the laser-driven proton beam across a variety of key parameters governing the interaction using an extensive suite of online diagnostics. We also demonstrate real-time, closed-loop optimization of the ion beam maximum energy by tuning the laser wave front using a Bayesian optimization scheme. This approach increased the maximum proton energy by 11% compared to a manually optimized wave front by enhancing the energy concentration within the laser focal spot, demonstrating the potential for closed-loop optimization schemes to tune future ion accelerators for robust high-repetition-rate operation.",
+      "title": "Characterization and automated optimization of laser-driven proton beams from converging liquid sheet jet targets",
+      "other_number": "Journal ID: ISSN 2643-1564",
+      "contract_number": "AC02-76SF00515; NA0003960; NA0004146; SC0016804",
+      "publication_date": "2026-01-29T00:00:00Z",
+      "journal_volume": "8",
+      "osti_id": "3023797",
+      "journal_name": "Physical Review Research",
+      "product_type": "Journal Article",
+      "authors": [
+        "Glenn, G. D. [SLAC National Accelerator Laboratory (SLAC), Menlo Park, CA (United States); Stanford Univ., CA (United States)] (ORCID:0000000253087977)",
+        "Treffert, F. [SLAC National Accelerator Laboratory (SLAC), Menlo Park, CA (United States); Technical Univ. of Darmstadt (Germany); Lawrence Livermore National Laboratory (LLNL), Livermore, CA (United States)] (ORCID:0000000312774241)",
+        "Ahmed, H. [Science and Technology Facilities Council (STFC), Oxford (United Kingdom). Rutherford Appleton Laboratory (RAL)] (ORCID:0000000221518971)",
+        "Astbury, S. [Science and Technology Facilities Council (STFC), Oxford (United Kingdom). Rutherford Appleton Laboratory (RAL)] (ORCID:0000000349429812)",
+        "Borghesi, M. [Queen's Univ., Belfast, Northern Ireland (United Kingdom)] (ORCID:0000000191650073)",
+        "Bourgeois, N. [Science and Technology Facilities Council (STFC), Oxford (United Kingdom). Rutherford Appleton Laboratory (RAL)]",
+        "Curry, C. B. [SLAC National Accelerator Laboratory (SLAC), Menlo Park, CA (United States); Univ. of Alberta, Edmonton, AB (Canada)] (ORCID:000000018756181X)",
+        "Dann, S. J. D. [Science and Technology Facilities Council (STFC), Oxford (United Kingdom). Rutherford Appleton Laboratory (RAL)] (ORCID:000000026875631X)",
+        "DiIorio, S. [Univ. of Michigan, Ann Arbor, MI (United States)] (ORCID:0000000221114897)",
+        "Dover, N. P. [Imperial College, London (United Kingdom)] (ORCID:0000000304203940)",
+        "Dzelzainis, T. [Science and Technology Facilities Council (STFC), Oxford (United Kingdom). Rutherford Appleton Laboratory (RAL)] (ORCID:0009000330421308)",
+        "Ettlinger, O. [Imperial College, London (United Kingdom)] (ORCID:0009000606583085)",
+        "Gauthier, M. [SLAC National Accelerator Laboratory (SLAC), Menlo Park, CA (United States)] (ORCID:0000000166089325)",
+        "Giuffrida, L. [Extreme Light Infrastructure (ELI ERIC), Dolní Břežany (Czech Republic). ELI Beamlines Facility] (ORCID:0000000341454829)",
+        "Gray, R. J. [Univ. of Strathclyde, Glasgow, Scotland (United Kingdom); Daresbury Laboratory (United Kingdom). Cockcroft Inst. of Accelerator Science and Technology (AST)]",
+        "Green, J. S. [Science and Technology Facilities Council (STFC), Oxford (United Kingdom). Rutherford Appleton Laboratory (RAL)]",
+        "Hicks, G. S. [Imperial College, London (United Kingdom)] (ORCID:0000000277975979)",
+        "Hyland, C. [Queen's Univ., Belfast, Northern Ireland (United Kingdom)] (ORCID:0000000282623927)",
+        "Istokskaia, V. [Extreme Light Infrastructure (ELI ERIC), Dolní Břežany (Czech Republic). ELI Beamlines Facility; Czech Technical Univ., Prague (Czech Republic)] (ORCID:0000000347689207)",
+        "King, M. [Univ. of Strathclyde, Glasgow, Scotland (United Kingdom); Daresbury Laboratory (United Kingdom). Cockcroft Inst. of Accelerator Science and Technology (AST)] (ORCID:0000000333706141)",
+        "Loughran, B. [Queen's Univ., Belfast, Northern Ireland (United Kingdom)] (ORCID:0000000165773336)",
+        "Margarone, D. [Extreme Light Infrastructure (ELI ERIC), Dolní Břežany (Czech Republic). ELI Beamlines Facility; Queen's Univ., Belfast, Northern Ireland (United Kingdom)] (ORCID:0000000219179683)",
+        "McCusker, O. [Queen's Univ., Belfast, Northern Ireland (United Kingdom)]",
+        "McKenna, P. [Univ. of Strathclyde, Glasgow, Scotland (United Kingdom); Daresbury Laboratory (United Kingdom). Cockcroft Inst. of Accelerator Science and Technology (AST)] (ORCID:0000000180617091)",
+        "Najmudin, Z. [Imperial College, London (United Kingdom)] (ORCID:0000000163234005)",
+        "Parisuaña, C. [SLAC National Accelerator Laboratory (SLAC), Menlo Park, CA (United States); Stanford Univ., CA (United States)] (ORCID:0000000316391264)",
+        "Parsons, P. [Queen's Univ., Belfast, Northern Ireland (United Kingdom)]",
+        "Spindloe, C. [Science and Technology Facilities Council (STFC), Oxford (United Kingdom). Rutherford Appleton Laboratory (RAL)] (ORCID:0000000266487400)",
+        "Streeter, M. J. V. [Queen's Univ., Belfast, Northern Ireland (United Kingdom)] (ORCID:0000000190869831)",
+        "Symes, D. R. [Science and Technology Facilities Council (STFC), Oxford (United Kingdom). Rutherford Appleton Laboratory (RAL)] (ORCID:0000000334439209)",
+        "Thomas, A. G. R. [Univ. of Michigan, Ann Arbor, MI (United States)] (ORCID:0000000332068512)",
+        "Xu, N. [Imperial College, London (United Kingdom)] (ORCID:0000000184221553)",
+        "Glenzer, S. H. [SLAC National Accelerator Laboratory (SLAC), Menlo Park, CA (United States)] (ORCID:0000000191120558)",
+        "Palmer, C. A. J. [Queen's Univ., Belfast, Northern Ireland (United Kingdom)] (ORCID:0000000237620380)"
+      ],
+      "article_type": "Accepted Manuscript",
+      "format": "Article No. 013101",
+      "doe_contract_number": "AC02-76SF00515; NA0003960; NA0004146; SC0016804",
+      "subjects": [],
+      "sponsor_orgs": [
+        "National Science Foundation (NSF)",
+        "US Air Force Office of Scientific Research (AFOSR)",
+        "USDOE National Nuclear Security Administration (NNSA)",
+        "USDOE Office of Science (SC), Fusion Energy Sciences (FES)"
+      ],
+      "research_orgs": [
+        "SLAC National Accelerator Laboratory (SLAC), Menlo Park, CA (United States)"
+      ],
+      "journal_issn": "ISSN 2643-1564",
+      "other_identifiers": [
+        "Journal ID: ISSN 2643-1564"
+      ],
+      "links": [
+        {
+          "rel": "citation",
+          "href": "https://www.osti.gov/biblio/3023797"
+        },
+        {
+          "rel": "fulltext",
+          "href": "https://www.osti.gov/servlets/purl/3023797"
+        },
+        {
+          "rel": "citation_doe_pages",
+          "href": "https://www.osti.gov/pages/biblio/3023797"
+        }
+      ]
+    },
+    {
+      "language": "English",
+      "entry_date": "2026-03-23T13:04:55Z",
+      "report_number": "None",
+      "identifier": "SC0015480",
+      "country_publication": "United States",
+      "doi": "10.2172/3006858",
+      "description": "This project set out to design, build, and deploy a real-time multi-point Thomson scattering (rt MPTS) system for NSTX-U, capable of providing electron temperature and density profiles—and their uncertainties—in real time for use in equilibrium reconstruction and plasma control. The long-term goal was to move Thomson scattering from a purely post-shot diagnostic to a central element of real-time situation awareness and feedback control on NSTX-U.",
+      "title": "Real-time Electron Temperature and Density Profile Measurements for NSTX-U",
+      "contract_number": "SC0015480; ",
+      "publication_date": "2025-12-09T00:00:00Z",
+      "osti_id": "3006858",
+      "product_type": "Technical Report",
+      "authors": [
+        "Kolemen, Egemen [Princeton Univ., NJ (United States)] (ORCID:0000000342123247)"
+      ],
+      "subjects": [
+        "70 PLASMA PHYSICS AND FUSION TECHNOLOGY"
+      ],
+      "format": "16 p.",
+      "doe_contract_number": "SC0015480; ",
+      "sponsor_orgs": [
+        "Office of Science (SC), Fusion Energy Sciences (FES)"
+      ],
+      "research_orgs": [
+        "Princeton Univ., NJ (United States)"
+      ],
+      "links": [
+        {
+          "rel": "citation",
+          "href": "https://www.osti.gov/biblio/3006858"
+        },
+        {
+          "rel": "fulltext",
+          "href": "https://www.osti.gov/servlets/purl/3006858"
+        }
+      ]
+    }
+  ]
+}

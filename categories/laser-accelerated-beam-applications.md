@@ -2,11 +2,12 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：159 篇
-- 索引更新时间：2026-11-25
+- 当前收录：160 篇
+- 索引更新时间：2026-11-26
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-26 | [Extremely High-Energy Bremsstrahlung in Matter](../papers/10-1103-rk4d-45t9/README.md) | Physical Review Letters | [笔记](../daily/2026-11-26/notes/arnold-2026-bremsstrahlung.md) |
 | 2026-11-24 | [Antimuon acceleration via electron driven coherent transition radiation](../papers/10-1038-s41598-026-81462-5/README.md) | Scientific Reports | [笔记](../daily/2026-11-24/notes/xu-2026-antimuon.md) |
 | 2026-11-24 | [Single-Pulse Dosimetry for Ultra-High-Dose-Rate X-Ray Pulses Based on Radiation-Induced Acoustic Signals](../papers/arxiv-2611-27772/README.md) | arXiv preprint | [笔记](../daily/2026-11-24/notes/han-2026-acoustic.md) |
 | 2026-11-20 | [Characterization of the fast neutron response of liquid scintillator detectors at NFS](../papers/arxiv-2611-24118/README.md) | arXiv preprint; submitted to NIM A, acceptance/publication unverified | [笔记](../daily/2026-11-20/notes/perez-2026-neutron-response.md) |

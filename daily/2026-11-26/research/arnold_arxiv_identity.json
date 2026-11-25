@@ -1,0 +1,19 @@
+{
+  "url": "https://arxiv.org/abs/2604.18685",
+  "status": 200,
+  "title": "Title: Extremely high-energy bremsstrahlung in matter",
+  "authors": "Authors: Peter Arnold , Joshua Bautista , Omar Elgedawy , Shahin Iqbal",
+  "history": "Submission history From: Peter Arnold [ view email ] [v1] Mon, 20 Apr 2026 18:00:02 UTC (235 KB) [v2] Thu, 7 May 2026 17:07:17 UTC (235 KB) [v3] Fri, 13 Nov 2026 18:38:16 UTC (254 KB)",
+  "doi": null,
+  "metadata_rows": [
+    "Comments: 7 pages, 3 figures. Main change from v2: paragraph discussing finite-size media added to very end of main text",
+    "Subjects: High Energy Physics - Phenomenology (hep-ph)",
+    "Report number: CPHT-RR013.042026, CERN-TH-2026-091",
+    "Cite as: arXiv:2604.18685 [hep-ph]",
+    "(or arXiv:2604.18685v3 [hep-ph] for this version)",
+    "https://doi.org/10.48550/arXiv.2604.18685 Focus to learn more arXiv-issued DOI via DataCite"
+  ],
+  "report_number": "CPHT-RR013.042026, CERN-TH-2026-091",
+  "journal_reference": "not present in returned metatable",
+  "doi_on_arxiv": "not present in returned metatable"
+}

@@ -2,11 +2,12 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：218 篇
-- 索引更新时间：2026-11-25
+- 当前收录：219 篇
+- 索引更新时间：2026-11-26
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-26 | [Long wave infrared laser platform for plasma studies relevant to inertial fusion](../papers/10-3389-fphy-2026-1969078/README.md) | Frontiers in Physics | [笔记](../daily/2026-11-26/notes/pogorelsky-2026-lwir.md) |
 | 2026-11-25 | [Multi-diagnostic experimental validation of PIC/MCC simulations of symmetric capacitively coupled plasmas in CF4](../papers/10-1088-1361-6595-aebfc4/README.md) | Plasma Sources Science and Technology | [笔记](../daily/2026-11-25/notes/neuroth-2026-cf4-pic-validation.md) |
 | 2026-11-25 | [Relativistic Harmonic Generation in Spatiotemporal Plasma Photonic Crystals](../papers/arxiv-2611-30084/README.md) | arXiv | [笔记](../daily/2026-11-25/notes/zhang-2026-plasma-crystals.md) |
 | 2026-11-25 | [Plasma waveguides for high-intensity laser pulses](../papers/10-1103-mw87-cjg8/README.md) | Reviews of Modern Physics | [笔记](../daily/2026-11-25/notes/shrock-2026-plasma-waveguides.md) |
