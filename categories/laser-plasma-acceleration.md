@@ -2,11 +2,12 @@
 
 LWFA、PWFA、wakefield、电子束品质、注入、去相位、波导与高梯度加速。
 
-- 当前收录：192 篇
-- 索引更新时间：2026-11-26
+- 当前收录：193 篇
+- 索引更新时间：2026-11-27
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-27 | [Speckle renewal, not bandwidth alone, mitigates kinetic Raman scattering at moderate bandwidth](../papers/arxiv-2611-33971/README.md) | arXiv preprint | [笔记](../daily/2026-11-27/notes/massonlaborde-2026-speckle.md) |
 | 2026-11-26 | [Long wave infrared laser platform for plasma studies relevant to inertial fusion](../papers/10-3389-fphy-2026-1969078/README.md) | Frontiers in Physics | [笔记](../daily/2026-11-26/notes/pogorelsky-2026-lwir.md) |
 | 2026-11-25 | [Phase-Space Shaping Due to Betatron Cooling in Wakefield Accelerators and the Onset of the Ion-Channel Laser](../papers/10-1103-k67h-dvxp/README.md) | Physical Review Letters | [笔记](../daily/2026-11-25/notes/bilbao-2026-betatron-cooling.md) |
 | 2026-11-25 | [Plasma waveguides for high-intensity laser pulses](../papers/10-1103-mw87-cjg8/README.md) | Reviews of Modern Physics | [笔记](../daily/2026-11-25/notes/shrock-2026-plasma-waveguides.md) |

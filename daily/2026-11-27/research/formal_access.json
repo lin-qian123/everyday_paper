@@ -1,0 +1,87 @@
+[
+  {
+    "slug": "dedominicis-2026-sc47",
+    "kind": "article",
+    "requested_url": "https://link.springer.com/article/10.1186/s40658-026-00968-z",
+    "final_url": "https://link.springer.com/article/10.1186/s40658-026-00968-z",
+    "status": 200,
+    "mime": "text/html; charset=utf-8",
+    "bytes": 250145,
+    "magic": "<!DOC",
+    "valid_pdf_signature": false,
+    "sha256": "e1c9bc0dc8382b108606e124e346a8fe03258d2dd6585035a375c5ec7b99fd2b",
+    "title": "Computational assessment of 47Sc production for theranostic applications via proton and deuteron irradiation of enriched 50Ti and 49Ti targets | EJNMMI Physics | Springer Nature Link",
+    "pdf_links": [
+      "/content/pdf/10.1186/s40658-026-00968-z_reference.pdf",
+      "/content/pdf/10.1186/s40658-026-00968-z_reference.pdf"
+    ],
+    "citation_meta": {
+      "citation_pdf_url": "https://link.springer.com/content/pdf/10.1186/s40658-026-00968-z.pdf",
+      "citation_fulltext_html_url": "https://link.springer.com/article/10.1186/s40658-026-00968-z",
+      "citation_journal_title": "EJNMMI Physics",
+      "citation_journal_abbrev": "EJNMMI Phys",
+      "citation_publisher": "Springer International Publishing",
+      "citation_issn": "2197-7364",
+      "citation_title": "Computational assessment of 47Sc production for theranostic applications via proton and deuteron irradiation of enriched 50Ti and 49Ti targets",
+      "citation_online_date": "2026/11/26",
+      "citation_firstpage": "",
+      "citation_lastpage": "",
+      "citation_article_type": "Original research",
+      "citation_fulltext_world_readable": "",
+      "citation_language": "en",
+      "citation_doi": "10.1186/s40658-026-00968-z",
+      "citation_springer_api_url": "http://api.springer.com/xmldata/jats?q=doi:10.1186/s40658-026-00968-z&api_key=",
+      "citation_author": "De Nardo, Laura",
+      "citation_author_institution": "National Institute of Nuclear Physics (INFN)-Padua, Padua, Italy",
+      "citation_author_email": "laura.melendezalafort@iov.veneto.it"
+    }
+  },
+  {
+    "slug": "dedominicis-2026-sc47",
+    "kind": "pdf",
+    "requested_url": "https://link.springer.com/content/pdf/10.1186/s40658-026-00968-z.pdf",
+    "final_url": "https://link.springer.com/content/pdf/10.1186/s40658-026-00968-z.pdf",
+    "status": 404,
+    "mime": null,
+    "bytes": 0,
+    "magic": "",
+    "valid_pdf_signature": false,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "slug": "faabomve-2026-rf-sheath",
+    "kind": "pdf",
+    "requested_url": "https://iopscience.iop.org/article/10.1088/1361-6595/aec324/pdf",
+    "final_url": "https://iopscience.iop.org/article/10.1088/1361-6595/aec324/pdf",
+    "status": 200,
+    "mime": "text/html;charset=UTF-8",
+    "bytes": 196656,
+    "magic": "<!DOC",
+    "valid_pdf_signature": false,
+    "sha256": "fb5db1f8c82b625cbf94d09982ab725fc83408bbc2217020bb299e1d62d86ad9"
+  },
+  {
+    "slug": "massonlaborde-2026-speckle",
+    "kind": "pdf",
+    "requested_url": "https://arxiv.org/pdf/2611.33971v1",
+    "final_url": "https://arxiv.org/pdf/2611.33971v1",
+    "status": 200,
+    "mime": "application/pdf",
+    "bytes": 533232,
+    "magic": "%PDF-",
+    "valid_pdf_signature": true,
+    "sha256": "b28b8c5fc3be32b1a30d627103ab7e3c78477f9b3a1222c4eb4db5900bfa05f2"
+  },
+  {
+    "slug": "walsh-2026-nernst",
+    "kind": "pdf",
+    "requested_url": "https://arxiv.org/pdf/2611.34766v1",
+    "final_url": "https://arxiv.org/pdf/2611.34766v1",
+    "status": 200,
+    "mime": "application/pdf",
+    "bytes": 1080252,
+    "magic": "%PDF-",
+    "valid_pdf_signature": true,
+    "sha256": "c4c75684fd0aab343ab7f0f1035745bb90ad6d84f17dd7e88c2a6a1e8bdbe048"
+  }
+]

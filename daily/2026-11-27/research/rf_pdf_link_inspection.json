@@ -1,0 +1,43 @@
+{
+  "url": "https://iopscience.iop.org/article/10.1088/1361-6595/aec324",
+  "citation_meta": {
+    "citation_journal_title": "Plasma Sources Science and Technology",
+    "citation_journal_abbrev": "Plasma Sources Sci. Technol.",
+    "citation_issn": "0963-0252",
+    "citation_publisher": "IOP Publishing",
+    "citation_author": "J Moritz",
+    "citation_author_institution": "Université de Lorraine, CNRS, IJL, F-54000 Nancy, France",
+    "citation_author_orcid": "http://orcid.org/0000-0002-2328-9308",
+    "citation_title": "Scaling of RF sheath rectification in magnetized plasmas: electron phase-induced enhancement and collapse",
+    "citation_online_date": "2026/11/26",
+    "citation_volume": "35",
+    "citation_issue": "11",
+    "citation_firstpage": "115021",
+    "citation_doi": "10.1088/1361-6595/aec324",
+    "citation_abstract_html_url": "https://iopscience.iop.org/article/10.1088/1361-6595/aec324/meta",
+    "citation_pdf_url": "https://iopscience.iop.org/article/10.1088/1361-6595/aec324/pdf",
+    "citation_xml_url": "https://iopscience.iop.org/article/10.1088/1361-6595/aec324/xml",
+    "citation_fulltext_html_url": "https://iopscience.iop.org/article/10.1088/1361-6595/aec324",
+    "citation_language": "en",
+    "citation_reference": "citation_journal_title=Nucl. Mater. Energy; citation_author=Bobkov V; citation_author=others; citation_volume=18; citation_publication_date=2019; citation_firstpage=131; citation_doi=10.1016/j.nme.2018.11.017;"
+  },
+  "links": [
+    {
+      "text": "",
+      "url": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fdoi.org%2F10.1088%2F1361-6595%2Faec324"
+    },
+    {
+      "text": "",
+      "url": "https://x.com/share?url=https%3A%2F%2Fdoi.org%2F10.1088%2F1361-6595%2Faec324&text=Scaling+of+RF+sheath+rectification+in+magnetized+plasmas%3A+electron+phase-induced+enhancement+and+collapse&via=ioppublishing"
+    },
+    {
+      "text": "",
+      "url": "https://bsky.app/intent/compose?text=Scaling+of+RF+sheath+rectification+in+magnetized+plasmas%3A+electron+phase-induced+enhancement+and+collapse%0Ahttps%3A%2F%2Fdoi.org%2F10.1088%2F1361-6595%2Faec324%0Avia+%40ioppublishing.bsky.social"
+    },
+    {
+      "text": "",
+      "url": "https://crossmark.crossref.org/dialog/?doi=10.1088/1361-6595/aec324&domain=pdf"
+    }
+  ],
+  "tail_text": "an analytical plasma series resonance (PSR) model. We show that tilting the magnetic field toward grazing incidence ( ) lowers the resonant frequency of the plasma-sheath system by effectively increasing the electron inertia along field lines. The dynamic response of the system is universally governed by the dimensionless parameter , which controls the interplay between the projected plasma frequency and the RF driving frequency . For large values ( ), the normalized rectified potential follows the classical capacitive limit of . As decreases, ion inertia effects cause the normalized potential to asymptote toward . At intermediate values ( ), a strong resonant enhancement of occurs, driven by the series resonance between the capacitive sheath and the inductive magnetized bulk. This potential peak is strongly attenuated as electron–neutral collisionality increases. Finally, for grazing angles near , the electron transit time through the sheath matches the RF period leading to a total collapse of the rectified potential. The analytical PSR model shows excellent agreement with PIC simulations across a wide of driving frequencies, RF voltage amplitudes, and discharge lengths. These results provide a robust predictive framework for controlling sheath potentials, impurity sourcing, and power coupling in industrial plasma sources and ion cyclotron resonance heating antennas in fusion devices. Export citation and abstract BibTeX RIS Previous article in issue Access this article The computer you are using is not registered by an institution with a subscription to this article. Please choose\n            one of the options below. Login IOPscience login Purchase from Article Galaxy CCC RightFind Purchase this article from our trusted document delivery partners. Rent from Make a recommendation To gain access to this content, please complete the Recommendation\n                    Form and we will follow up with your librarian or Institution on your behalf. For corporate researchers we can also follow up directly with your R&D manager, or the information\n                    management contact at your company. Institutional subscribers have access to the current volume, plus a\n                    10-year back file (where available). Show References Please wait… references are loading. Back to top 10.1088/1361-6595/aec324 You may also like Senior/postdoc on laser-driven plasma X-ray sources (276) ELI Beamlines (ELI ERIC) Scientist - Applied Laser Physics TAE Technologies Multiple tenure-track faculty positions Cornell University - Electrical and Computer Engineering More jobs Post a job IOPscience Journals Books IOP Conference Series About IOPscience Contact Us Developing countries access IOP Publishing open access policy Accessibility IOP Publishing Copyright notice Terms and Conditions Disclaimer Privacy and Cookie Policy Text and Data mining policy Publishing Support Authors Reviewers Conference Organisers About IOP Publishing IOP Publishing, the publishing arm of the Institute of Physics, is a purpose-led, not-for-profit, society-owned scientific publisher. We publish high-quality, trusted, peer-reviewed research in over 100 scientific journals on our IOPscience platform, providing visibility, recognition, and impact for work across the physical sciences. IOP Publishing Facebook page IOP Publishing LinkedIn page IOP Publishing Youtube page IOP Publishing WeChat QR code IOP Publishing Weibo page IOP Publishing Bluesky page IOP Publishing Threads page"
+}

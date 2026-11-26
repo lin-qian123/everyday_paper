@@ -1,0 +1,17 @@
+{
+  "command": [
+    "/Users/yuxiangzhang/anaconda3/envs/python312/bin/python",
+    "/Volumes/PHILIPS/programs/everyday_paper/scripts/safe_pdf_download.py",
+    "--url",
+    "https://iopscience.iop.org/article/10.1088/1361-6595/aec324/pdf",
+    "--url",
+    "https://iopscience.iop.org/article/10.1088/1361-6595/aec324",
+    "--doi",
+    "10.1088/1361-6595/aec324",
+    "--output",
+    "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-11-27/pdfs/faabomve-2026-rf-sheath.pdf",
+    "--report-json",
+    "/tmp/everyday-paper-20261127/retry-not-run.json"
+  ],
+  "constructed_only_not_executed": true
+}

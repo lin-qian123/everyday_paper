@@ -1,0 +1,2857 @@
+{
+  "checked_at": "2026-11-26T23:00:16.849402+00:00",
+  "results": [
+    {
+      "subject": "physics.plasm-ph",
+      "url": "https://arxiv.org/list/physics.plasm-ph/recent?show=2000",
+      "status": 200,
+      "heading": "Thu, 26 Nov 2026 (showing 8 of 8 entries )",
+      "rows": [
+        {
+          "arxiv_id": "2611.34766",
+          "url": "https://arxiv.org/abs/2611.34766",
+          "title": "Plasma transport by carrier electrons: Nernst advection beyond the heat-flow analogy due to kinetic stress",
+          "authors": "C. A. Walsh",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34717",
+          "url": "https://arxiv.org/abs/2611.34717",
+          "title": "A 2D fluid model in BOUT++/Hermes-3 for simulating detached divertor plasmas in tokamaks",
+          "authors": "Malamas Tsagkaridis , Ben Dudson , Mike Kryjak , Nami Li , Xueqiao Xu",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34459",
+          "url": "https://arxiv.org/abs/2611.34459",
+          "title": "Uphill Diffusion in Yukawa Plasmas",
+          "authors": "Matt E. Caplan , Evan B. Bauer , Mohammed Bettioua",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33989",
+          "url": "https://arxiv.org/abs/2611.33989",
+          "title": "Formation of Electron Velocity Distribution Functions at low-\\{beta} Quasi-Perpendicular Shocks From Physical-Mass-Ratio PIC Simulations",
+          "authors": "Zhoufan Mu , Yao Chen , Hao Ning , Shan Wang , Sibo Xu , Terry Zixu Liu , Ao Guo , Hui Zhang , Hui Zhu",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33971",
+          "url": "https://arxiv.org/abs/2611.33971",
+          "title": "Speckle renewal, not bandwidth alone, mitigates kinetic Raman scattering at moderate bandwidth",
+          "authors": "P.-E Masson-Laborde (CEA, LMCE), G Bouchard (CEA, LMCE), R Capdessus (CEA, LMCE), C Ruyer (CEA, LMCE), A Debayle (CEA, LMCE), A Fusaro (CEA, LMCE)",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33618",
+          "url": "https://arxiv.org/abs/2611.33618",
+          "title": "Global self-organisation via driven interchange turbulence in a hard-core Z-pinch",
+          "authors": "Jonathan Squire , Christopher Hill , Laoisa Huckle",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33357",
+          "url": "https://arxiv.org/abs/2611.33357",
+          "title": "Butterfly Effect in Kinetic Plasma Turbulence",
+          "authors": "Louis Henderson , Vladimir Zhdankin",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33483",
+          "url": "https://arxiv.org/abs/2611.33483",
+          "title": "Statistical analysis of crossing beam speckle fields",
+          "authors": "Ian D. Min-Roberts , Wojciech Rozmus , Pierre A. Michel",
+          "abstract": null
+        }
+      ]
+    },
+    {
+      "subject": "physics.acc-ph",
+      "url": "https://arxiv.org/list/physics.acc-ph/recent?show=2000",
+      "status": 200,
+      "heading": "Thu, 26 Nov 2026 (showing 1 of 1 entries )",
+      "rows": [
+        {
+          "arxiv_id": "2611.33680",
+          "url": "https://arxiv.org/abs/2611.33680",
+          "title": "Development of a low-level radio frequency system for remote in situ superconducting radio frequency cavity measurements and calibrations in conduction-cooling systems",
+          "authors": "C. Lim , K. Seol , S.E. Park , E.-S. Kim , E. Kako , S.Lee , B. R. Ko",
+          "abstract": null
+        }
+      ]
+    },
+    {
+      "subject": "physics.optics",
+      "url": "https://arxiv.org/list/physics.optics/recent?show=2000",
+      "status": 200,
+      "heading": "Thu, 26 Nov 2026 (showing 24 of 24 entries )",
+      "rows": [
+        {
+          "arxiv_id": "2611.34919",
+          "url": "https://arxiv.org/abs/2611.34919",
+          "title": "Voltage-Enhanced Photorefractive Hysteresis in Thin-Film Lithium Niobate Photonic-Crystal Cavities",
+          "authors": "Alessandro Buzzi , Bjarke A. Frederiksen , Mikkel Heuck , Dirk R. Englund , Dashiell L. P. Vitullo",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34834",
+          "url": "https://arxiv.org/abs/2611.34834",
+          "title": "A Reconfigurable Four-State Sensor Based on Orthogonal Thermal and Chemical Stimuli",
+          "authors": "Ashfaq Ur Rahman Ifty , Sadia Basher , Abdullah Al Zayed , Mohammad Abrar Kabir , Rakibul Hasan Sagor",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34607",
+          "url": "https://arxiv.org/abs/2611.34607",
+          "title": "Blind spatially varying PSF estimation for fluorescence microscopy",
+          "authors": "Minh Hai Nguyen , Florian Sarron , Paul Escande , Sylvain Cantaloube , Thomas Mangeat , Pierre Weiss",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34593",
+          "url": "https://arxiv.org/abs/2611.34593",
+          "title": "Tunable Terahertz Bandpass Filter based on the Photonic Emulation of a 2DEG Interferometer through the Geometric Phase of Light",
+          "authors": "Victor I. Iwanaga , Hiroaki Shirasaka , Shin'ichiro Hayashi , Katsuhiko Miyamoto , Yoshiharu Urata , Kouji Nawata , Jun-ichi Shikata , Norihiko Sekine , Seigo Ohno",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34578",
+          "url": "https://arxiv.org/abs/2611.34578",
+          "title": "Theory of Observability of Voigt-Wave Propagation in a Homogeneous Dielectric Material",
+          "authors": "Akhlesh Lakhtakia , Tom G. Mackay",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34552",
+          "url": "https://arxiv.org/abs/2611.34552",
+          "title": "Arbitrarily Weak Losses Destroy Fractal Bandstructure in Temporal Fibonacci Quasicrystals",
+          "authors": "Calvin M. Hooper",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34454",
+          "url": "https://arxiv.org/abs/2611.34454",
+          "title": "Solitons as conversion events in quadratic crystals",
+          "authors": "Francesco Beccarini , Claudio Conti",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34391",
+          "url": "https://arxiv.org/abs/2611.34391",
+          "title": "Producing and Measuring Circularly Polarized X-rays: A Jones and Mueller-Stokes Treatment of Crystal Phase Plates",
+          "authors": "Manuel Sanchez del Rio , Carsten Detlefs",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34384",
+          "url": "https://arxiv.org/abs/2611.34384",
+          "title": "Unveiling gauge-invariant on-chip phases from light intensity",
+          "authors": "Huiwen Li , Andrea Cataldo , Rohan Yadgirkar , Jun Gao , Ali W. Elshaari",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34361",
+          "url": "https://arxiv.org/abs/2611.34361",
+          "title": "Fourier-Transform Photothermal Spectroscopy with Transient-Lens Detection",
+          "authors": "Asha S. Thomas , Toluwatomi Haastrup , Luzhou Yu , Muyi Zhang , Jennifer P. Ogilvie",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34146",
+          "url": "https://arxiv.org/abs/2611.34146",
+          "title": "Minimum Effective-Susceptibility Bounds for Arbitrary Polarization Transformations in Metasurfaces",
+          "authors": "Ravi Hegde",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34059",
+          "url": "https://arxiv.org/abs/2611.34059",
+          "title": "Gradient Optical Diffraction Tomography Using Deep Learning-Assisted Amplitude Estimation",
+          "authors": "Julianna Winnik (1), Piotr Zdańkowski (1), Konrad Kosuge (1), Aleksandra Parys (1), Marzena Stefaniuk (2), Junwei Min (3), Baoli Yao (3 and 4), Maciej Trusiak (1) ((1) Institute of Micromechanics and Photonics, Warsaw University of Technology, Warsaw, Poland, (2) Laboratory of Neurobiology, BRAINCITY, Nencki Institute of Experimental Biology, Polish Academy of Sciences, Warsaw, Poland, (3) State Key Laboratory of Ultrafast Optical Science and Technology, Xi'an Institute of Optics and Precision Mechanics, Chinese Academy of Sciences, Xi'an, China, (4) University of Chinese Academy of Sciences, Beijing, China)",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33954",
+          "url": "https://arxiv.org/abs/2611.33954",
+          "title": "Ferroionic CuCrP2S6 Integrated Silicon Photonics for Neuromorphic Computing",
+          "authors": "Ghada Dushaq , Srinivasa R. Tamalampudi , Mahmoud Rasras",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33933",
+          "url": "https://arxiv.org/abs/2611.33933",
+          "title": "Transport Layer-Driven Optimization of Color and Efficiency in TADF OLEDs for Large-Area Applications",
+          "authors": "Manish Kumar , Jawid Nikan , Luiz Pereira",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33784",
+          "url": "https://arxiv.org/abs/2611.33784",
+          "title": "Existence of single-resonance parametric bound states in the continuum: System of Schrödinger equations",
+          "authors": "Xiuchen Yu , Ya Yan Lu",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33746",
+          "url": "https://arxiv.org/abs/2611.33746",
+          "title": "Carrier relaxation confines the Bogdanov--Takens degeneracy of an optically injected semiconductor laser",
+          "authors": "A. Martín-Ruiz , E. Chan-López , Carlos Antonio Marín-Mendoza",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33724",
+          "url": "https://arxiv.org/abs/2611.33724",
+          "title": "Deep-learning-enabled rapid spatially multiplexed wavefront sensing with a thin diffuser",
+          "authors": "Ming Xue , Shijie Wei , Shulei Zhao , Zhuojia Shi , Tengfei Wu , Xiaopeng Shao",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33483",
+          "url": "https://arxiv.org/abs/2611.33483",
+          "title": "Statistical analysis of crossing beam speckle fields",
+          "authors": "Ian D. Min-Roberts , Wojciech Rozmus , Pierre A. Michel",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34883",
+          "url": "https://arxiv.org/abs/2611.34883",
+          "title": "Transition Path Sampling for Rare Events in Non-Markovian Open Quantum Systems",
+          "authors": "Ritesh Pant , Kai Müller , Tarun Gera , Doran I. G. B. Raccah",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34554",
+          "url": "https://arxiv.org/abs/2611.34554",
+          "title": "Why do single photons produce interference fringes? The phase of a mode and the phase of a state",
+          "authors": "Andrea Aiello",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33852",
+          "url": "https://arxiv.org/abs/2611.33852",
+          "title": "A bright source of high-dimensional spatially entangled photon pairs based on beam-like Type-II SPDC",
+          "authors": "Ming Zhang , Zhiming Qing , Zhi-Cheng Ren , Jianping Ding , Xi-Lin Wang , Hui-Tian Wang",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33729",
+          "url": "https://arxiv.org/abs/2611.33729",
+          "title": "When Malus' Law Meets the Wigner-Bell Inequality: Violation by Nonseparable Classical Light",
+          "authors": "Xiao-Feng Qian",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33704",
+          "url": "https://arxiv.org/abs/2611.33704",
+          "title": "On-Demand Tailoring of High-Dimensional Orbital Angular Momentum States via a Phase-Only Hologram",
+          "authors": "Hao Sheng , Zi-Shuo Wang , Sheng-Qiang Jia , Zi-Mo Cheng , Li Fan , Jianping Ding , Jia-Min Xu , Zhi-Cheng Ren , Xi-Lin Wang , Hui-Tian Wang",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33481",
+          "url": "https://arxiv.org/abs/2611.33481",
+          "title": "Infrared-absorption magnetometry in a diamond nanocavity: demonstration and limits at the nanoscale",
+          "authors": "Nicholas J. Sorensen , Elham Zohari , Chris Coutts , Sean McNaney , Matteo Feder , Hadi Zadeh-Haghighi , Sigurd Flågan , Vinaya K. Kavatamane , Christoph Simon , Paul E. Barclay",
+          "abstract": null
+        }
+      ]
+    },
+    {
+      "subject": "physics.comp-ph",
+      "url": "https://arxiv.org/list/physics.comp-ph/recent?show=2000",
+      "status": 200,
+      "heading": "Thu, 26 Nov 2026 (showing 21 of 21 entries )",
+      "rows": [
+        {
+          "arxiv_id": "2611.34510",
+          "url": "https://arxiv.org/abs/2611.34510",
+          "title": "A Monolithic Fully Eulerian Lattice Boltzmann Framework for Fluid--Structure Interaction with Neo-Hookean Elastic Solids",
+          "authors": "Tristan Millet , Erwan Liberge",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34499",
+          "url": "https://arxiv.org/abs/2611.34499",
+          "title": "StePPO: Adaptive Step-Size Control for Initial-Value Problems Using Proximal Policy Optimisation",
+          "authors": "Milan Koumans , Nicola Pezzotti , Tristan S.W. Stevens",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34368",
+          "url": "https://arxiv.org/abs/2611.34368",
+          "title": "Numerical model for ice formation in soil samples",
+          "authors": "Varghese Babu , Dilip Gersappe",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33961",
+          "url": "https://arxiv.org/abs/2611.33961",
+          "title": "AI Buckingham: Agentic Discovery of Dimensionless Scaling Laws Across Physical Regimes",
+          "authors": "Ao Cheng , Lei Zhang , Guowei He",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33904",
+          "url": "https://arxiv.org/abs/2611.33904",
+          "title": "Estimating subcritical multiplication from stochastic neutron noise: a branching Brownian motion model for leakage counts",
+          "authors": "Antoine Bessemoulin , Eric Dumonteil",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33718",
+          "url": "https://arxiv.org/abs/2611.33718",
+          "title": "A nonequilibrium-capturing unified gas-kinetic scheme II: multi-frequency radiation transport",
+          "authors": "Hongyu Liu , Xiaojian Yang , Xing Ji , Jianxian Qiu , Kun Xu",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34755",
+          "url": "https://arxiv.org/abs/2611.34755",
+          "title": "Fewer Parameters, Longer Runtimes: The Wall-Clock Cost of Hybrid Quantum Physics-Informed Neural Networks",
+          "authors": "Leyan Lyu , Shabnam Jabeen",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34547",
+          "url": "https://arxiv.org/abs/2611.34547",
+          "title": "SCO-Hyper-Meta-Double-GroupNN: A Double-Group SU(2) Hyper-/Meta-Graph Neural Network for Cooperative Spin-Crossover Potential Energy Surfaces",
+          "authors": "Rong Fu , Tianhao Su , Shunbo Hu , Musen Li",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34479",
+          "url": "https://arxiv.org/abs/2611.34479",
+          "title": "Backpropagation as Dirac-bracket dynamics of dissipative training",
+          "authors": "Nicolaus Linneu Holanda , Ivan Eugenio Cunha",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34410",
+          "url": "https://arxiv.org/abs/2611.34410",
+          "title": "Structure-preserving finite element method for the 2D MHD-$α$ turbulence system",
+          "authors": "Patrick E. Farrell , Mingdong He , Kaibo Hu",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34310",
+          "url": "https://arxiv.org/abs/2611.34310",
+          "title": "Interpretable identification of constitutive parameter field for three-dimensional heterogeneous and graded hyperelastic materials from full-field displacements",
+          "authors": "Kanhaiya Lal Chaurasiya , Vaskar Halder , Prajyot Patil , Gaurav Navnath Shinde , Debashish Das , Akshay Joshi",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34118",
+          "url": "https://arxiv.org/abs/2611.34118",
+          "title": "Quantum Metric Connects Bond Delocalization to Phonon Softening",
+          "authors": "Tianqi Deng , Tiejun Zhu",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34058",
+          "url": "https://arxiv.org/abs/2611.34058",
+          "title": "Dopamine: A Cartesian grid large-eddy-simulation framework for coastal ocean modelling of free-surface waves",
+          "authors": "Akshay Patil",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33953",
+          "url": "https://arxiv.org/abs/2611.33953",
+          "title": "PINN-Slicer: Exploiting Rotational Symmetry to Solve the Photon Orbit Equation Around a Black Hole",
+          "authors": "Claire David , Tlotlo Oepeng , Harrison B. Prosper",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33849",
+          "url": "https://arxiv.org/abs/2611.33849",
+          "title": "Data-driven framework for invariant manifold identification in multiscale systems",
+          "authors": "Dimitris M. Manias , Ismaila Muhammed , Dimitris A. Goussis , Haralampos Hatzikirou",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33743",
+          "url": "https://arxiv.org/abs/2611.33743",
+          "title": "OrbACE: Orbital and Atomic Cluster Expansion",
+          "authors": "Etinosa Osaro , Dario Rocca",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33630",
+          "url": "https://arxiv.org/abs/2611.33630",
+          "title": "Graphical Rules for Zero-energy Quantum-Interference Patterns in Bipartite Lattices",
+          "authors": "Xinhao Fan , Shunbo Hu , Jingzhe Chen",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33576",
+          "url": "https://arxiv.org/abs/2611.33576",
+          "title": "Symmetry-Aware Residual Learning of Few-Body Molecular Wave Functions",
+          "authors": "Meital Bojan , Mikhail Maslov , Jing-Lun Li , Alex M. Bronstein , Mikhail Lemeshko",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33489",
+          "url": "https://arxiv.org/abs/2611.33489",
+          "title": "Data-free continuous-time physics-informed neural networks for vortex shedding: a consistent pressure across time windows",
+          "authors": "Mickaël Delcey , Cyril Regan , Masaki Fuchiwaki , Yoann Cheny",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33400",
+          "url": "https://arxiv.org/abs/2611.33400",
+          "title": "Gaussian priors from nonlinear PDEs with the semiclassical approximation",
+          "authors": "Alex Alberts",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.31340",
+          "url": "https://arxiv.org/abs/2611.31340",
+          "title": "A novel quantum lattice Boltzmann methodology for cosmological radiation transport",
+          "authors": "Rasmit Devkota , John Wise",
+          "abstract": null
+        }
+      ]
+    },
+    {
+      "subject": "physics.med-ph",
+      "url": "https://arxiv.org/list/physics.med-ph/recent?show=2000",
+      "status": 200,
+      "heading": "Thu, 26 Nov 2026 (showing 4 of 4 entries )",
+      "rows": [
+        {
+          "arxiv_id": "2611.34605",
+          "url": "https://arxiv.org/abs/2611.34605",
+          "title": "Fewer Fractions, Equieffective Plans: An optimization framework based on equieffective dose",
+          "authors": "Suryakant Kaushik , Jakob Ödén , Albin Fredriksson , Iuliana Toma-Dasu",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34008",
+          "url": "https://arxiv.org/abs/2611.34008",
+          "title": "DosePET: An Open-Source Dataset with 2100 Radiation Dose Maps for PET/CT",
+          "authors": "Eleftherios Tzanis , Antonios Tzortzakakis , Michail E. Klontzas",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33924",
+          "url": "https://arxiv.org/abs/2611.33924",
+          "title": "Monte Carlo-based secondary dose check platform for the world's first ultra-compact upright proton therapy system",
+          "authors": "Toghrul Alakbarzade , Emir Musa Olgun , Yuan James Rao , Billy W Loo Jr , Adam Johansson , Yong Yang , Murat Surucu , Mehmet Burcin Unlu , Serdar Charyyev",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33331",
+          "url": "https://arxiv.org/abs/2611.33331",
+          "title": "Do Not Let the Prior Heal the Anomaly: Selective Anchoring for Detection from Incomplete Measurements",
+          "authors": "Nicolas Tricard , Stefan Brandstätter , Jason Chen , Zituo Chen , Linzheng Wang , Georg Langs , Sili Deng",
+          "abstract": null
+        }
+      ]
+    },
+    {
+      "subject": "nucl-ex",
+      "url": "https://arxiv.org/list/nucl-ex/recent?show=2000",
+      "status": 200,
+      "heading": "Thu, 26 Nov 2026 (showing 3 of 3 entries )",
+      "rows": [
+        {
+          "arxiv_id": "2611.34503",
+          "url": "https://arxiv.org/abs/2611.34503",
+          "title": "Nuclear Modification of $π^0$ Production in pO and OO Collisions with ALICE",
+          "authors": "Nicolas Strangmann",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34355",
+          "url": "https://arxiv.org/abs/2611.34355",
+          "title": "Direct mass measurements of the high-spin isomers in self-conjugate 94Ag",
+          "authors": "Ville Virtanen , Mikael Reponen , Duy Duc Dao , Frédéric Nowacki , Tommi Eronen , Anu Kankainen , Olga Beliuskina , Lucia Caceres , Saikumar Chinthakayala , Ruben P. de Groote , Zhuang Ge , Jason D. Holt , Baishan Hu , Arthur Jaries , Brian Kootte , Gabriella Kripkó-Koncz , Sonja Kujanpää , Gwendal Loaëc , Iain D. Moore , Luis Miguel Motilla , Maxime Mougeot , Stylianos Nikas , Ilkka Pohjalainen , Andrea Raggio , Wirunchana Rattanasakuldilok , Nicolas Richterich , Jouni Ruotsalainen , Marek Stryjczyk , Juha Äystö",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34804",
+          "url": "https://arxiv.org/abs/2611.34804",
+          "title": "QED corrections to neutron and nuclear $β$-decay at order $α^2$",
+          "authors": "Zehua Cao , Richard J. Hill , Ryan Plestid , Peter Vander Griend",
+          "abstract": null
+        }
+      ]
+    },
+    {
+      "subject": "nucl-th",
+      "url": "https://arxiv.org/list/nucl-th/recent?show=2000",
+      "status": 200,
+      "heading": "Thu, 26 Nov 2026 (showing 9 of 9 entries )",
+      "rows": [
+        {
+          "arxiv_id": "2611.34752",
+          "url": "https://arxiv.org/abs/2611.34752",
+          "title": "Microscopic Approach to Neutron Elastic and Inelastic Cross Sections",
+          "authors": "Ibrahim Abdurrahman , Chloe Hebborn , Filomena Nunes , Gregory Potel",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34562",
+          "url": "https://arxiv.org/abs/2611.34562",
+          "title": "Equilibrium baseline for transverse-momentum correlations in Au+Au collisions at $\\sqrt{s_{NN}} = 3$-$39$ GeV: Conservation laws, resonance decays, quantum statistics, and collective flow",
+          "authors": "Oleh Savchuk",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34413",
+          "url": "https://arxiv.org/abs/2611.34413",
+          "title": "Large-scale fission properties with BSkG3 I : fission paths and spontaneous fission half-lives",
+          "authors": "Adrián Sánchez-Fernández , Wouter Ryssens , Stéphane Goriely",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33662",
+          "url": "https://arxiv.org/abs/2611.33662",
+          "title": "Introducing Parton-Level Fluctuations in the TRENTo-Sea Model",
+          "authors": "Jacob Reinach , Andreas Kirchner",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33379",
+          "url": "https://arxiv.org/abs/2611.33379",
+          "title": "Probabilistic Machine Learning for Total Kinetic Energy Distributions in Neutron-Induced Fission",
+          "authors": "Vaia Prassa , Martha Papadopoulou , Christos Bompotas",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33217",
+          "url": "https://arxiv.org/abs/2611.33217",
+          "title": "Anatomy of charge radii of Ca nuclei in self-consistent approaches with Skyrme and Fayans functionals",
+          "authors": "H. Nakada , T. Inakura , N. Hinohara",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34804",
+          "url": "https://arxiv.org/abs/2611.34804",
+          "title": "QED corrections to neutron and nuclear $β$-decay at order $α^2$",
+          "authors": "Zehua Cao , Richard J. Hill , Ryan Plestid , Peter Vander Griend",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34355",
+          "url": "https://arxiv.org/abs/2611.34355",
+          "title": "Direct mass measurements of the high-spin isomers in self-conjugate 94Ag",
+          "authors": "Ville Virtanen , Mikael Reponen , Duy Duc Dao , Frédéric Nowacki , Tommi Eronen , Anu Kankainen , Olga Beliuskina , Lucia Caceres , Saikumar Chinthakayala , Ruben P. de Groote , Zhuang Ge , Jason D. Holt , Baishan Hu , Arthur Jaries , Brian Kootte , Gabriella Kripkó-Koncz , Sonja Kujanpää , Gwendal Loaëc , Iain D. Moore , Luis Miguel Motilla , Maxime Mougeot , Stylianos Nikas , Ilkka Pohjalainen , Andrea Raggio , Wirunchana Rattanasakuldilok , Nicolas Richterich , Jouni Ruotsalainen , Marek Stryjczyk , Juha Äystö",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33292",
+          "url": "https://arxiv.org/abs/2611.33292",
+          "title": "Harder, Better, Faster, Stronger: The $Δ(1232)$ Resonance in Supernova QCD Axion Emission",
+          "authors": "Paolo Arcangeli , Konstantin Springmann , Michael Stadlbauer , Stefan Stelzl , Andreas Weiler",
+          "abstract": null
+        }
+      ]
+    },
+    {
+      "subject": "hep-ph",
+      "url": "https://arxiv.org/list/hep-ph/recent?show=2000",
+      "status": 200,
+      "heading": "Thu, 26 Nov 2026 (showing 47 of 47 entries )",
+      "rows": [
+        {
+          "arxiv_id": "2611.34927",
+          "url": "https://arxiv.org/abs/2611.34927",
+          "title": "KEBBABS: Kilometric Enhanced Balloon-Baseline for Axion Birefringence Search",
+          "authors": "Tommaso Feri , Silvia Gasparotto",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34888",
+          "url": "https://arxiv.org/abs/2611.34888",
+          "title": "The Look-Elsewhere Effect in Searches for New Physics: from Classical Methods to Machine Learning",
+          "authors": "Gaia Grosso , Sergio Rodriguez-Benitez , Louis Lyons",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34856",
+          "url": "https://arxiv.org/abs/2611.34856",
+          "title": "Probing the CKM Origin of CP Violation with Paramagnetic EDMs and Rare Kaon Decays",
+          "authors": "Giancarlo D'Ambrosio , Luca Di Luzio",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34838",
+          "url": "https://arxiv.org/abs/2611.34838",
+          "title": "Screening of New Abelian Long-Range Forces",
+          "authors": "Marco Costa , Andrey Shkerin , Ananda Thomlinson",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34815",
+          "url": "https://arxiv.org/abs/2611.34815",
+          "title": "Heavy-flavor transverse energy-energy correlators in the color-glass condensate",
+          "authors": "Zhong-Bo Kang , Carlos Lamas , Jani Penttala",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34808",
+          "url": "https://arxiv.org/abs/2611.34808",
+          "title": "Probing Ultralight Dark Matter at the Electroweak Scale",
+          "authors": "Martin Bauer , Sreemanti Chakraborti",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34804",
+          "url": "https://arxiv.org/abs/2611.34804",
+          "title": "QED corrections to neutron and nuclear $β$-decay at order $α^2$",
+          "authors": "Zehua Cao , Richard J. Hill , Ryan Plestid , Peter Vander Griend",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34631",
+          "url": "https://arxiv.org/abs/2611.34631",
+          "title": "Tackling the DVCS inverse problem with finite element method",
+          "authors": "Marija Čuić , Cédric Mezrag , José Manuel Morgado Chávez",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34604",
+          "url": "https://arxiv.org/abs/2611.34604",
+          "title": "Entanglement entropy in low x Deep Inelastic Scattering",
+          "authors": "Martin Hentschinski",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34595",
+          "url": "https://arxiv.org/abs/2611.34595",
+          "title": "Gravity-induced mixing, regeneration and CP violation",
+          "authors": "Jean-Marcel Rax",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34531",
+          "url": "https://arxiv.org/abs/2611.34531",
+          "title": "Rational terms and UV counterterms of the SMEFT at next-to-leading order in QCD",
+          "authors": "Giuseppe Ventura",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34525",
+          "url": "https://arxiv.org/abs/2611.34525",
+          "title": "Confronting $b \\to (s, d)μ^+ μ^-$ and $\\mathcal{L}_{K^{*}\\bar{K}^{*}}$ puzzle in a $U(1)_{B-3L_μ}$ framework with neutrino phenomenology",
+          "authors": "Dhiren Panda , Priya Mishra , Manas Kumar Mohapatra , Rukmani Mohanta",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34504",
+          "url": "https://arxiv.org/abs/2611.34504",
+          "title": "Majorana Neutrino Exchange in Free-Baryon $B_1B_2\\to ppe^-e^-$ Reactions",
+          "authors": "Yuan-Guo Xu , Bo Lan , Ben-Hou Xiang , Shuang-Shi Fang , Yi-Bing Zhang , Ru-Min Wang",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34502",
+          "url": "https://arxiv.org/abs/2611.34502",
+          "title": "Recent Developments in Colibri: A Neural-Network PDF Model and Improved Bayesian Sampling",
+          "authors": "Ella Cole , Valentina Schütze Sánchez",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34475",
+          "url": "https://arxiv.org/abs/2611.34475",
+          "title": "Conditional multiparameter thermometry with neutrino oscillations: MSW energy diversity and a plasma-noise benchmark",
+          "authors": "Jilali Loulijat , Abdallah Slaoui , El Hassan Saidi , Mohamed Gouighri , Berihu Teklu",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34464",
+          "url": "https://arxiv.org/abs/2611.34464",
+          "title": "Ultralight Dark Matter Spectrum with Gravitational Focusing and Doppler Motion",
+          "authors": "Shao-Feng Ge , Yong Tang , Yue-Hui Yao",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34439",
+          "url": "https://arxiv.org/abs/2611.34439",
+          "title": "Inverted Pendulum in the Sky: Floquet Stabilization of Cosmological Axions",
+          "authors": "Tokiro Numasawa , Masahito Yamazaki",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34438",
+          "url": "https://arxiv.org/abs/2611.34438",
+          "title": "Lighting up LZ with Loopy Transitions in a leptophilic Dark Sector",
+          "authors": "Simone Biondini , Clara Hofheinz , Stefan Melchin , Lorenzo Tiberi , Stefan Vogl",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34394",
+          "url": "https://arxiv.org/abs/2611.34394",
+          "title": "Isospin violating decay of D wave charmonia",
+          "authors": "Xing-Dao Guo , Qi Wu , Dian-Yong Chen",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34263",
+          "url": "https://arxiv.org/abs/2611.34263",
+          "title": "Complete NNLO QCD Calculations of $B_c^{(*)}\\to J/ψ(η_c)$ Form Factors and Semileptonic Decays",
+          "authors": "Wei Tao , Zhen-Jun Xiao , Ruilin Zhu , Qin Chang",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34213",
+          "url": "https://arxiv.org/abs/2611.34213",
+          "title": "Lower Bound on the Lightest Neutrino Mass with Resonant Neutrino Self-Interactions",
+          "authors": "Shao-Feng Ge , Joao Paulo Pinheiro , Shaoyang Qin , Ruitao Sun , Oleg Titov",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34172",
+          "url": "https://arxiv.org/abs/2611.34172",
+          "title": "Black hole accretion flows as dark matter bolometers",
+          "authors": "Ran Ding , Ningqiang Song , Cong Zhang",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34030",
+          "url": "https://arxiv.org/abs/2611.34030",
+          "title": "Towards Quark-Gluon Correlations in Pion from the Dyson-Schwinger Equations",
+          "authors": "Zanbin Xing , Jiayin Kang , Lei Chang",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34009",
+          "url": "https://arxiv.org/abs/2611.34009",
+          "title": "Non-perturbative charm production from color ropes in relativistic heavy ion collisions",
+          "authors": "Carl B. Rosenkvist , Marcus Bleicher",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34007",
+          "url": "https://arxiv.org/abs/2611.34007",
+          "title": "Determining the kaon distribution amplitudes by fitting the $D\\to K$ transition form factor to investigate the equivalence of two chiral LCSR frameworks",
+          "authors": "Fang-Ping Peng , Sheng-Bo Wu , Hai-Bing Fu",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33979",
+          "url": "https://arxiv.org/abs/2611.33979",
+          "title": "Coherent quantum-circuit simulation of Mueller dipole branching at small $x$: multiplicity fluctuations and DIS phenomenology",
+          "authors": "Wei Kou , Xurong Chen",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33959",
+          "url": "https://arxiv.org/abs/2611.33959",
+          "title": "Revisiting the collisional energy loss of a heavy quark in an anisotropic quark-gluon plasma",
+          "authors": "Mingda Cai , Yun Guo , Enke Wang",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33862",
+          "url": "https://arxiv.org/abs/2611.33862",
+          "title": "Origin of flavour cancellations in thermal leptogenesis",
+          "authors": "Teruyuki Kitabayashi",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33815",
+          "url": "https://arxiv.org/abs/2611.33815",
+          "title": "Collisional dynamics of neutrino flavor conversion: angular structures, inhomogeneity, and decoherence",
+          "authors": "Masamichi Zaizen",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33787",
+          "url": "https://arxiv.org/abs/2611.33787",
+          "title": "Higgsino dark matter explanation of LZ high-recoil event from deflected AMSB with $U(1)_X$ generated $μ$ term",
+          "authors": "Ke-Lin Li , Fei Wang",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33709",
+          "url": "https://arxiv.org/abs/2611.33709",
+          "title": "Heavy quark drag coefficient using phonon-heavy quark EFT",
+          "authors": "Andreas Kirchner , Noah Koliadko , Berndt Mueller , Jyotirmoy Roy",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33708",
+          "url": "https://arxiv.org/abs/2611.33708",
+          "title": "Singly-strange hidden-bottom and double-bottom molecular pentaquarks",
+          "authors": "Fu-Lai Wang , Jia-Ning Cui , Rui Chen , Xiang Liu",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33633",
+          "url": "https://arxiv.org/abs/2611.33633",
+          "title": "Determination of the strong coupling constant from the R ratio obtained in KEDR and BESIII experiments",
+          "authors": "Korneliy Todyshev , Andrei Kataev",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33537",
+          "url": "https://arxiv.org/abs/2611.33537",
+          "title": "Divergence-type hydrodynamics of radial oscillations in viscous neutron stars",
+          "authors": "J. Peralta-Ramos",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33482",
+          "url": "https://arxiv.org/abs/2611.33482",
+          "title": "Physics-informed neural networks for quark Dyson--Schwinger equations and propagator singularities",
+          "authors": "Xin-Peng Li , Zhong-Hua Huang",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33292",
+          "url": "https://arxiv.org/abs/2611.33292",
+          "title": "Harder, Better, Faster, Stronger: The $Δ(1232)$ Resonance in Supernova QCD Axion Emission",
+          "authors": "Paolo Arcangeli , Konstantin Springmann , Michael Stadlbauer , Stefan Stelzl , Andreas Weiler",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33280",
+          "url": "https://arxiv.org/abs/2611.33280",
+          "title": "Parton structure of mesonic states with tensor networks",
+          "authors": "Jack Y. Araz , Yamil Cahuana Medrano , Peter L. Nguyen , Zhong-Bo Kang , Jian-Wei Qiu , David Richards , Nobuo Sato , Marco Zaccheddu , Jia-Yue Zhang",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33279",
+          "url": "https://arxiv.org/abs/2611.33279",
+          "title": "From nested soft-collinear subtraction to NNLO QCD predictions with large language models",
+          "authors": "Federica Devoto , Kirill Melnikov , Ivan Novikov , Raoul Röntsch , Chiara Signorile-Signorile , Davide Maria Tagliabue , Matteo Tresoldi",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33180",
+          "url": "https://arxiv.org/abs/2611.33180",
+          "title": "Testing the Unitarity of Three-Flavor Neutrino Mixing above the GUT Scale",
+          "authors": "Bipin Singh Koranga , Samrat Vashisht",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34892",
+          "url": "https://arxiv.org/abs/2611.34892",
+          "title": "Massive Triangle in Cosmological Correlator beyond Conformal Coupling",
+          "authors": "Taushif Ahmed , Syed Mehedi Hasan",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34886",
+          "url": "https://arxiv.org/abs/2611.34886",
+          "title": "Time-weighted energy correlators are infrared unsafe in gauge theories",
+          "authors": "Siqing Yu",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34797",
+          "url": "https://arxiv.org/abs/2611.34797",
+          "title": "Measuring the flavor composition of high-energy neutrinos from the Milky Way",
+          "authors": "Mauricio Bustamante",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33970",
+          "url": "https://arxiv.org/abs/2611.33970",
+          "title": "Gradient-flow scale setting from octet baryon masses in N$^3$LO covariant chiral perturbation theory",
+          "authors": "Xiu-Lei Ren",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33324",
+          "url": "https://arxiv.org/abs/2611.33324",
+          "title": "NuSrcAgent: An AI Agent for High-Energy Neutrino Source Searches",
+          "authors": "Bei Zhou , Po-Wen Chang , Kohta Murase",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33311",
+          "url": "https://arxiv.org/abs/2611.33311",
+          "title": "Machine Learning for Calabi--Yau Geometry and Heterotic Compactification",
+          "authors": "Vishnu Jejjala , Damian Mayorga Pena",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33277",
+          "url": "https://arxiv.org/abs/2611.33277",
+          "title": "Unitarization from Spin Geometry",
+          "authors": "Francesco Bertucci , James Bonifacio , Andrew Schrader",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.28144",
+          "url": "https://arxiv.org/abs/2611.28144",
+          "title": "ACT Excited: Reconciling Starobinsky and Quadratic Chaotic Inflationary Models with ACT Results via Excited States",
+          "authors": "Amjad Ashoorioon , Abdolreza Yousefi-Sostani",
+          "abstract": null
+        }
+      ]
+    },
+    {
+      "subject": "physics.ins-det",
+      "url": "https://arxiv.org/list/physics.ins-det/recent?show=2000",
+      "status": 200,
+      "heading": "Thu, 26 Nov 2026 (showing 8 of 8 entries )",
+      "rows": [
+        {
+          "arxiv_id": "2611.33863",
+          "url": "https://arxiv.org/abs/2611.33863",
+          "title": "MuSTRNG: A Muon-Based Synchronizable True Random Number Generation System",
+          "authors": "Bohang Zou , Shubin Liu , Yu Wang , Ting Wang , Changqing Feng , Zhongtao Shen",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33680",
+          "url": "https://arxiv.org/abs/2611.33680",
+          "title": "Development of a low-level radio frequency system for remote in situ superconducting radio frequency cavity measurements and calibrations in conduction-cooling systems",
+          "authors": "C. Lim , K. Seol , S.E. Park , E.-S. Kim , E. Kako , S.Lee , B. R. Ko",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33226",
+          "url": "https://arxiv.org/abs/2611.33226",
+          "title": "Shower Shapes and Data-Driven Simulation Studies using a Highly Granular Crystal ECAL",
+          "authors": "Jack Rolph , Yong Liu , Baohua Qi , Shu Li , Zhiyu Zhao , Haijun Yang",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34909",
+          "url": "https://arxiv.org/abs/2611.34909",
+          "title": "The thermodynamic budget of objectivity",
+          "authors": "Wonyong Chung",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34699",
+          "url": "https://arxiv.org/abs/2611.34699",
+          "title": "Diagnosing internal leakage currents through magnetometry of lithium-ion cells",
+          "authors": "Shaurya Shukla , Chengtong Zhang , Yinan Hu , Stefan Benders , Mykhailo Flaks , Dmitry Budker , Alexej Jerschow",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34677",
+          "url": "https://arxiv.org/abs/2611.34677",
+          "title": "First Order Real Resonant Digital Filters and A Novel Orthogonal State Generator",
+          "authors": "Edward J. Daw",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33488",
+          "url": "https://arxiv.org/abs/2611.33488",
+          "title": "Quantum Noise-Limited Terahertz Interferometry for Distinguishing Ultra-Compact Supermassive Galactic Objects",
+          "authors": "Vishwas Patel , Pankaj S. Joshi , Swalih A. Valiyakath , Munn V. Shukla , Mehul R. Pandya",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33215",
+          "url": "https://arxiv.org/abs/2611.33215",
+          "title": "Modeling the LISA response in the time-frequency domain",
+          "authors": "Tomasz Kinowski , Christopher J. Moore",
+          "abstract": null
+        }
+      ]
+    },
+    {
+      "subject": "cs.LG",
+      "url": "https://arxiv.org/list/cs.LG/recent?show=2000",
+      "status": 200,
+      "heading": "Thu, 26 Nov 2026 (showing 271 of 271 entries )",
+      "rows": [
+        {
+          "arxiv_id": "2611.34935",
+          "url": "https://arxiv.org/abs/2611.34935",
+          "title": "Can image generation help visual reasoning? An empirical study",
+          "authors": "Xueyang Yu , Yifan Jing , Taiming Lu , Linrong Cai , Zhipeng Cai , Yunyang Xiong , Gabriel Sarch , Zhuang Liu",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34934",
+          "url": "https://arxiv.org/abs/2611.34934",
+          "title": "Attack Policy Selection can Mislead Monitor Evaluators",
+          "authors": "Charlie Griffin , Oliver Makins , Asa Cooper Stickland , Alessandro Abate , Yarin Gal , Abby D'Cruz , Xander Davies",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34930",
+          "url": "https://arxiv.org/abs/2611.34930",
+          "title": "A gene informed benchmark for BioScoring of pathology foundation models",
+          "authors": "Paul Vilars , Vincent Quoc-Huy Trinh , Maria Vakalopoulou , Dimitris Samaras , Stergios Christodoulidis , Mahdi S. Hosseini",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34923",
+          "url": "https://arxiv.org/abs/2611.34923",
+          "title": "Mixture-of-Loops Transformer",
+          "authors": "Lianghui Zhu , Shijie Wang , Xinggang Wang , Jinze Bai , Bo Wang , Xiang Bai",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34887",
+          "url": "https://arxiv.org/abs/2611.34887",
+          "title": "Interpretable and Accurate Hybrid Decision Trees with Selective Case-Based Splits",
+          "authors": "Cristiano Landi , Alessio Cascione , Riccardo Guidotti",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34858",
+          "url": "https://arxiv.org/abs/2611.34858",
+          "title": "From Prediction to Decision: Decision-Focused Fine-Tuning of Autoregressive Tabular Transformers for Cost-Sensitive Financial Events",
+          "authors": "Ashkan Golgoon , Giacomo Domeniconi , Samuel Atkins , Sergio Servantez , Zain Khandwala",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34848",
+          "url": "https://arxiv.org/abs/2611.34848",
+          "title": "Put the World Back: Timestamps Matter in Time Series Reasoning",
+          "authors": "Tingrui Huang , Yuanyuan Deng , Qingren Yao , Joaquin Vanschoren , Mykola Pechenizkiy , Songgaojun Deng",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34840",
+          "url": "https://arxiv.org/abs/2611.34840",
+          "title": "Provably Efficient Offline Discounted Reinforcement Learning under Recursive Entropic Risk",
+          "authors": "Amirparsa Bahrami , Oliver Mortensen , Mohammad Sadegh Talebi",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34830",
+          "url": "https://arxiv.org/abs/2611.34830",
+          "title": "Not all world models can doubt: how training objective and architecture shape epistemic uncertainty in JEPA and RSSM world models",
+          "authors": "Simon Baur , Wojciech Samek , Jackie Ma",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34826",
+          "url": "https://arxiv.org/abs/2611.34826",
+          "title": "Gradient TD($λ$) for Non-Linear Function Approximation",
+          "authors": "Sujeet Lahane",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34825",
+          "url": "https://arxiv.org/abs/2611.34825",
+          "title": "Routeability Before Routing: Routeability Audit Protocol (RAP) and RouteabilityBench for Audited LLM Model Selection",
+          "authors": "Yihang Lu , Denica Kjorvezir , Ana Gjorgjevikj , Carola Doerr , Tome Eftimov",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34821",
+          "url": "https://arxiv.org/abs/2611.34821",
+          "title": "LoopTitan: What Does Parameter Revisit Buy a Mixture-of-Experts?",
+          "authors": "Zichen Tian , Yudong Lu , Xuansheng Wu , Na Zou , Xia Hu , Guanchu Wang , Qianru Sun",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34818",
+          "url": "https://arxiv.org/abs/2611.34818",
+          "title": "Deep Reinforcement Learning for Multi-UAV Data Harvesting Under Variable Team Sizes and Agent Loss",
+          "authors": "Thiago de Souza Lamenza , Bruno José Olivieri de Souza , Markus Endler",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34816",
+          "url": "https://arxiv.org/abs/2611.34816",
+          "title": "Transferring Architecture as an Optimization Prior",
+          "authors": "Vighnesh Subramaniam , Boris Katz , Brian Cheung",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34805",
+          "url": "https://arxiv.org/abs/2611.34805",
+          "title": "Barron Smoothness for Layers in Deep Neural Networks",
+          "authors": "G. Welper",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34799",
+          "url": "https://arxiv.org/abs/2611.34799",
+          "title": "Split-RL: Local Conflict Resolution in Reinforcement Learning",
+          "authors": "Benjamin Fuhrer , Chen Tessler , Gal Dalal",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34779",
+          "url": "https://arxiv.org/abs/2611.34779",
+          "title": "Adaptive Reliability Reserves for Residential Battery Fleets",
+          "authors": "Maruthi Vemula , Neeraj Praneeth Gajula",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34777",
+          "url": "https://arxiv.org/abs/2611.34777",
+          "title": "When Every Rollout Fails: Splicing Learner-Conditioned Options into Long-Horizon Agent RL",
+          "authors": "Haowen Hou , Yicheng Liu , Zhen Huang , Jiaqi Wang",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34767",
+          "url": "https://arxiv.org/abs/2611.34767",
+          "title": "When to Trust a PFN: Detecting Harmful Shift in Tabular Foundation Models",
+          "authors": "Viet Nguyen , Herman Bergström , Stephan Rabanser , Rahul G. Krishnan",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34760",
+          "url": "https://arxiv.org/abs/2611.34760",
+          "title": "One Model, Many Modes: Evolving System Prompt Ensembles for Creative Generation",
+          "authors": "Daiwei Chen , Anda He , Binwei Yao , Junjie Hu , Ramya Korlakai Vinayak",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34758",
+          "url": "https://arxiv.org/abs/2611.34758",
+          "title": "Reading Fine-Tuning Diffs Through Lenses: Model Diffing for Backdoor Detection",
+          "authors": "Maximilian Petrowitsch , Ben Connors , Chris Kapulkin",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34746",
+          "url": "https://arxiv.org/abs/2611.34746",
+          "title": "BRIAR: Martingale Belief Smoothing on Bifurcation-Guided Reasoning Trees",
+          "authors": "Tianyi Yang , Haoran Zhang , Yifan Chen , Zixuan Li",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34734",
+          "url": "https://arxiv.org/abs/2611.34734",
+          "title": "From NP-Hardness to Exact Tractability Through Sample Abundance",
+          "authors": "Mojtaba Soltanalian",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34726",
+          "url": "https://arxiv.org/abs/2611.34726",
+          "title": "Hierarchical Graph Metanetworks",
+          "authors": "Ioannis Kalogeropoulos , Giorgos Bouritsas , Yannis Panagakis",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34723",
+          "url": "https://arxiv.org/abs/2611.34723",
+          "title": "Robust Recourse under Causal Graph Ambiguity",
+          "authors": "Muyan Anna Li , Juliette Sinnott , Mohammad Kohandel , Amir-Hossein Karimi",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34721",
+          "url": "https://arxiv.org/abs/2611.34721",
+          "title": "Privileged On-Policy Distillation for Calibrated Alzheimer's Diagnosis With Missing Modalities",
+          "authors": "Vo Minh Khoi Nguyen , Dat Tien Chung , Quang Minh Khoa Le , Duc Khang Nguyen , Le Thien Phuc Nguyen , Hoang Thien Nguyen , Minh Huu Nhat Le , Phat K. Huynh , Cuong Tuan Nguyen , Thanh Huy Nguyen , Ulas Bagci",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34711",
+          "url": "https://arxiv.org/abs/2611.34711",
+          "title": "Spec2Weights: Certifying Networks that a Language Model Writes from a Specification",
+          "authors": "Soumik Bhattacharjee , Musa Tur Farazi , Md Nasir Uddin , Tishna Sabrina , Chowdhury Mohammad Rakin Haider",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34707",
+          "url": "https://arxiv.org/abs/2611.34707",
+          "title": "When the Proxy Is Wrong: Mismatch-Corrected Bandits for Adaptive Data Sampling",
+          "authors": "Amine Saadi , Elissa Mhanna , Raphaël Féraud , Gwénolé Lecorvé",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34703",
+          "url": "https://arxiv.org/abs/2611.34703",
+          "title": "Maco-RL: Scaling Agent Capabilities with Mixed-Task Reinforcement Learning",
+          "authors": "Jiacheng Zhang , Qixing Zhou , Haiyang Wang , Qipeng Gu , Shuzhe Wu , Feiyang Pan , Lue Fan , Dandan Tu , Zhaoxiang Zhang",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34702",
+          "url": "https://arxiv.org/abs/2611.34702",
+          "title": "Effect of class proportion shifts on classifier curvature",
+          "authors": "Maxim Bolshim (1), Alexander Kugaevskikh (1) ((1) ITMO University, Saint Petersburg, Russia)",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34687",
+          "url": "https://arxiv.org/abs/2611.34687",
+          "title": "Evacuation Traffic Prediction for Dynamic Transportation Networks over Multiple Hurricanes: A Generalized Graph Learning Approach",
+          "authors": "Md Nafees Fuad Rafi , Samiul Hasan",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34678",
+          "url": "https://arxiv.org/abs/2611.34678",
+          "title": "Provably Efficient Concave Utility Reinforcement Learning with Linear Function Approximation",
+          "authors": "Max Qiushi Lin , Ahmed Magd , Sharan Vaswani",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34667",
+          "url": "https://arxiv.org/abs/2611.34667",
+          "title": "Learning to Be Truncated: Preparing LLM Checkpoints for SVD Compression",
+          "authors": "Chenyue Fang , Danila Mishin , Babak Falsafi",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34656",
+          "url": "https://arxiv.org/abs/2611.34656",
+          "title": "Do We Still Need Reinforcement Learning When We Can Read the World Model?",
+          "authors": "Mingchao Zhang , Miduo Cui , Kangze He , Yuanjun Li , Dapeng Li , Ce Zhang , Chuanchen Luo , Xue Yan , Mingzhe Xing , Zhumin Chen , Hangyu Mao , Bin Zhang , Zhiwei Xu",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34641",
+          "url": "https://arxiv.org/abs/2611.34641",
+          "title": "Distractor-Robust Reinforcement Learning via Variational Bisimulation",
+          "authors": "Benjamin Freed , Vivaan Singh , Dean Zadok , Roberto Calandra , Jeff Schneider , Howie Choset",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34629",
+          "url": "https://arxiv.org/abs/2611.34629",
+          "title": "Predicting acute food crises and discovering actionable drivers with causal machine learning",
+          "authors": "Mélissande Machefer , Michele Ronco , Michele Meroni , Jordi Cerdà-Bautista , Francesco Collivignarelli , Chungmann Kim , Nicolas Rost , Alessia Matanó , Esther Rodrigo-Bonet , Philipp Zimmer , Gustau Camps-Valls , Christina Corbane , Felix Rembold",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34627",
+          "url": "https://arxiv.org/abs/2611.34627",
+          "title": "DecisionReplay: A Corpus and Offline Simulator for Ensembling Decision Models",
+          "authors": "Dean Ariel , Seffi Cohen",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34618",
+          "url": "https://arxiv.org/abs/2611.34618",
+          "title": "Automated Batch-Variable Selection for ComBat-Based Radiomic Harmonization",
+          "authors": "Jose Lozano-Montoya , Gemma Urbanos , Carmen Prieto-de-la-Lastra , Emilio Soria-Olivas , Ana Jimenez-Pastor",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34602",
+          "url": "https://arxiv.org/abs/2611.34602",
+          "title": "Learning from Crowds with Unsupervised Item Response Models",
+          "authors": "Pascal Wullschleger , Majid Zarharan , Donnacha Daly , Marc Pouly , Jennifer Foster",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34581",
+          "url": "https://arxiv.org/abs/2611.34581",
+          "title": "ChemoMAE: Self-Supervised Spectral Representation Learning Reveals Chemical Heterogeneity in Historical Wood",
+          "authors": "Ryuji Yamaguchi , Miyuki Matsuo",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34579",
+          "url": "https://arxiv.org/abs/2611.34579",
+          "title": "Tune for Retention, Not Just Gain: SFT Forgets Far Less than You Think",
+          "authors": "Nirmit Joshi , Nathan Srebro , Eran Malach",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34573",
+          "url": "https://arxiv.org/abs/2611.34573",
+          "title": "Investigating the efficacy of vortex beam speckle patterns for the recognition of atmospheric turbulence and fractional topological charge with a deep learning model",
+          "authors": "Ratikanta Swain , Allarakha Shikder , Naseem Babu , Niladri Sarkar , Aryan Raj , Raghavan K. Easwaran",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34536",
+          "url": "https://arxiv.org/abs/2611.34536",
+          "title": "Kant-Q: A Q-Learning Algorithm for Kantian Equilibrium in Symmetric Markov Games",
+          "authors": "Rishi Bharadwaj , Sujit Gujar , Yadati Narahari",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34527",
+          "url": "https://arxiv.org/abs/2611.34527",
+          "title": "Resilience Analysis Through Automated Stage Identification and Quantitative Assessment",
+          "authors": "Anna Strzoda , Krzysztof Grochla , Rafael Munoz-Carpena",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34511",
+          "url": "https://arxiv.org/abs/2611.34511",
+          "title": "SMOTE 25 Years of Magic: What Has Been Done, What the Evidence Shows, and Whom It Reached",
+          "authors": "Thanapong Intharah , Pharamut Makjaroen , Kanvara Thawarorit , Supawit Chaingam",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34493",
+          "url": "https://arxiv.org/abs/2611.34493",
+          "title": "Auditing Identity and Timing Signals in Operational Logs",
+          "authors": "Andrew Hendel",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34472",
+          "url": "https://arxiv.org/abs/2611.34472",
+          "title": "DiversePlace: Diversity-Seeking Curriculum Reinforcement Learning for Macro Placement",
+          "authors": "Wenrui Zhou , Jiashun Liu , Wenji Fang , Zhiyao Xie , Ling Pan",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34402",
+          "url": "https://arxiv.org/abs/2611.34402",
+          "title": "Any-Rate: Half-Bit Multi-Precision LLM Quantization with Coded Bit-Planes",
+          "authors": "Hoonki Lee , Haechan Shin , Hyuntaek Jung , Yeonu Choi , Sangyeob Kim",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34397",
+          "url": "https://arxiv.org/abs/2611.34397",
+          "title": "Strong Starts, Simple Recipes: Unified Multi-Teacher On-Policy Distillation from Multimodal Specialists",
+          "authors": "Wenzheng Chang , Taiqiang Wu , Yuqi Xu , Yongfu Zhu , Zelin Peng , Ji Zhao , Shuai Dong , Wenpu Liu , Caoyuan Ma , Xuehui Wang , Ziyue Wang , Weichu Xie , Haiyuan Wan , Ngai Wong , Tong He , Wenqi Shao , Jiaqi Wang",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34363",
+          "url": "https://arxiv.org/abs/2611.34363",
+          "title": "Single-Database Rewards Are Hackable: Counterfactual Execution for Trustworthy Text-to-SQL RL",
+          "authors": "Shreshth Rai , Rishii Kumar Singh , Aksh Aggarwal",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34359",
+          "url": "https://arxiv.org/abs/2611.34359",
+          "title": "RAWPrism: A Three-Task Dataset and a Unified Model for RAW-Domain Image Fusion",
+          "authors": "Tianyi Hu , Yangdong Li , Shuyan Liu , Zihan Cao , Jingze Liang , Shaojie Wu , Chenyang Feng , Jincheng Di , Weijie Xiao , Liangjian Deng",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34351",
+          "url": "https://arxiv.org/abs/2611.34351",
+          "title": "Inverse Reinforcement Learning with State-Dependent Foresight for Human Decision-Making",
+          "authors": "Jinil Kim , Jinwoo Jeong , Hyeongjun Yun , Min-hwan Oh , Woo-Young Ahn",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34310",
+          "url": "https://arxiv.org/abs/2611.34310",
+          "title": "Interpretable identification of constitutive parameter field for three-dimensional heterogeneous and graded hyperelastic materials from full-field displacements",
+          "authors": "Kanhaiya Lal Chaurasiya , Vaskar Halder , Prajyot Patil , Gaurav Navnath Shinde , Debashish Das , Akshay Joshi",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34298",
+          "url": "https://arxiv.org/abs/2611.34298",
+          "title": "RAP: Radial-Angular Random Projection for Hyperbolic Representations",
+          "authors": "Jiahong Liu , Wenhao Yu , Yifan Li , Yanyu Chen , Rex Ying , Menglin Yang , Irwin King",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34276",
+          "url": "https://arxiv.org/abs/2611.34276",
+          "title": "Scaling Looped MoE Language Models under Matched Budgets: Information Flow and Parameter Allocation",
+          "authors": "Shipeng Bai , Jiayu Qin , Hong Liu , Xili Wang , Jianchao Tan , Jiacheng Li , He Zhang , Yifan Lu , Jiaqi Zhang , Kefeng Zhang , Yuchen Xie , Xunliang Cai",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34275",
+          "url": "https://arxiv.org/abs/2611.34275",
+          "title": "LatentCP-DPO: Conformal Pessimism for DPO with Finite-Sample Guarantees",
+          "authors": "Hongwei Xu , Jingyi Liu , Vincent Y. F. Tan , Zai Yang , Yulian Wu",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34270",
+          "url": "https://arxiv.org/abs/2611.34270",
+          "title": "LLM-coupled interpretable tool wear monitoring with multi-evidence reasoning in CNC machining",
+          "authors": "Yuntong Chen , Yingqi Li , Qiwen Shen , Guobin Zhao , Xitian Tian , Lijiang Huang",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34258",
+          "url": "https://arxiv.org/abs/2611.34258",
+          "title": "Train-Only-Constrained LM for Synthetic Clinical Trajectories: Leak-Safe Calibration and Auditable Dynamics",
+          "authors": "Yaser Kord , Moritz Hess",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34228",
+          "url": "https://arxiv.org/abs/2611.34228",
+          "title": "Change Point Detection with Generative Models",
+          "authors": "Tigran Ramazyan , Denis Derkach , Mikhail Hushchyn",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34211",
+          "url": "https://arxiv.org/abs/2611.34211",
+          "title": "Compute-Aware Submodular Online Learning in Open Multi-Agent Systems",
+          "authors": "Jing Liu , Luca Ballotta , Fangfei Li , Yang Tang , Ruggero Carli",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34206",
+          "url": "https://arxiv.org/abs/2611.34206",
+          "title": "Text-Conditioned Low-Rank Adaptation of Time-Series Foundation Models for Multimodal Forecasting",
+          "authors": "Kunqi Li , Bin Liang , Zhidong Li",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34166",
+          "url": "https://arxiv.org/abs/2611.34166",
+          "title": "Cell-Type-Specific Expression Is Hard to Predict from Bulk, but It Is Still Useful",
+          "authors": "Gadi Naveh , Amit Miller , Gal Keinan",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34154",
+          "url": "https://arxiv.org/abs/2611.34154",
+          "title": "When High Capacity Becomes Undeployable: Pore-Filling Constraints for Multi-Objective Optimization of Direct Air Capture Sorbents",
+          "authors": "Yujie Liu , Xuehua Shen , Zuotai Zhang",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34136",
+          "url": "https://arxiv.org/abs/2611.34136",
+          "title": "SOC-Net: Second-Order-Cone-Constrained Neural Networks",
+          "authors": "Seungseok Oh , Youngjae Min , Navid Azizan , Namhoon Cho",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34132",
+          "url": "https://arxiv.org/abs/2611.34132",
+          "title": "Agent-as-a-Verifier: From Scores to Evidence for General Verification",
+          "authors": "Yuxuan Sun , Hao (Mark) Chen , Nagarajan Natarajan , Sushrut Karmalkar , Niranjani Prasad , Amit Sharma , Hongxiang Fan",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34122",
+          "url": "https://arxiv.org/abs/2611.34122",
+          "title": "MUSE: Multi-Task Uncertainty-Aware Self-Supervised Encoder for mmWave ISAC",
+          "authors": "Nabeel Nisar Bhat , Jalees Nehvi , Rafael Berkvens , Jeroen Famaey",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34121",
+          "url": "https://arxiv.org/abs/2611.34121",
+          "title": "Unstable Action Boundaries in Lethal Drone Agents",
+          "authors": "Jacques Dumora , André-Louis Rochet , Simon Roburin",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34106",
+          "url": "https://arxiv.org/abs/2611.34106",
+          "title": "SysBio-SR: Benchmarking Symbolic Regression for Trajectory Fidelity and Mechanism Recovery in Systems Biology",
+          "authors": "Heng Rao , Dan Gao , Benjamin J Hoffman , Yu Gu , Zhenghao Liu , Ge Yu , Yang Cao , Minghan Chen",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34104",
+          "url": "https://arxiv.org/abs/2611.34104",
+          "title": "Do Machine Learning Ensembles Beat Published Quotas? Target Parameterization, Censored Baselines, and Conformal Intervals Under Admissions Reform",
+          "authors": "Dat Tat Mai , James Jin Kang",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34101",
+          "url": "https://arxiv.org/abs/2611.34101",
+          "title": "AlignPre: Skill-Aligned Post-Training for Latent-Free Generative Precipitation Nowcasting",
+          "authors": "Demin Yu , Kenghong Lin , Xutao Li",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34092",
+          "url": "https://arxiv.org/abs/2611.34092",
+          "title": "Improving Tail-Augmented Speculative Drafting with Hidden State Mixing and Gradient Detach",
+          "authors": "Yaniv Galron , Rabeeh Karimi Mahabadi , Maor Ashkenazi , Roger Waleffe , Talor Abramovich , Tiyasa Mitra , Yoav Miron , Dor Tsur , Sanjeev Satheesh , Jimmy Zhang , Jiaji Huang , Yonatan Geifman , Mostofa Patwary , Mohammad Shoeybi , Bita Rouhani , Ran Zilberstein",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34088",
+          "url": "https://arxiv.org/abs/2611.34088",
+          "title": "Feature Engineered Reinforcement Learning for S-pair Selection in Buchberger's Algorithm",
+          "authors": "Uzma Shafiq , Matthew England , Nayyar Zaidi",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34054",
+          "url": "https://arxiv.org/abs/2611.34054",
+          "title": "CARE-WM: Same-Horizon Self-Conditioning with Constraint-Adaptive Regularization for Latent World Models",
+          "authors": "Yuchen Lin , Kai Zhao",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34049",
+          "url": "https://arxiv.org/abs/2611.34049",
+          "title": "Decentralized Clustered Federated Learning for Cellular Traffic Forecasting over LEO Constellations",
+          "authors": "Jonas Kirch , Tiago Koketsu Rodrigues , Yuichi Kawamoto",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34019",
+          "url": "https://arxiv.org/abs/2611.34019",
+          "title": "Assessing the Physical Interpretability of AlphaEarth Foundation Embeddings Through Multi-Sensor Satellite Time-Series Benchmarking for Agricultural Mapping",
+          "authors": "El Houcine El Moussaoui , Chouaib El Hachimi , Saïd Khabba , Salwa Belaqziz , Bouchra Ait Hssaine , Abderrahman Lahrouni , Salah Er-Raki , Abdelghani Chehbouni",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34012",
+          "url": "https://arxiv.org/abs/2611.34012",
+          "title": "CARROT: Competitive Adaptive Graph Clustering via Semi-Relaxed Optimal Transport",
+          "authors": "Ching Fan Chiang , Jia-Yu Pan , Wen-Chieh Lin",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33998",
+          "url": "https://arxiv.org/abs/2611.33998",
+          "title": "The Reference Matters: Displacement Probing for Weight-Space Learning",
+          "authors": "Haechan Shin , Hoonki Lee , Jungwoon Kang , Wooyeol Baek , Sangyeob Kim , Jongyoo Kim",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33985",
+          "url": "https://arxiv.org/abs/2611.33985",
+          "title": "MolGPAO: Molecular Generative Pre-trained Autoregressive Octree with Speculative Decoding and Sub-Millisecond Seam Healing for 3D Molecules",
+          "authors": "Shangqian Chen , Guojiang Zhao , Zheng Cheng , Jiankun Wang , Hongshuai Wang , Zhifeng Gao",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33983",
+          "url": "https://arxiv.org/abs/2611.33983",
+          "title": "Quaternion-Tucker ZigZag Networks: Halving Transformer Backbone Parameters and Enabling Exact 2D Zero-Loss Continual Scaling",
+          "authors": "Shubham Barmase",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33973",
+          "url": "https://arxiv.org/abs/2611.33973",
+          "title": "Kolpona: An Agentic Framework with Gradient-Free Neuron Programming for RTL Generation",
+          "authors": "Musa Tur Farazi , Md Nasir Uddin , Soumik Bhattacharjee , Tishna Sabrina , Chowdhury Mohammad Rakin Haider",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33962",
+          "url": "https://arxiv.org/abs/2611.33962",
+          "title": "DLaR: Dynamic Stochasticity Control for Latent Reasoning in Large Language Models",
+          "authors": "Xiaocheng Luo , Peng Xu , Zaifu Zhan , Xiangyu Duan",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33952",
+          "url": "https://arxiv.org/abs/2611.33952",
+          "title": "DuoMI: Dual Mutual Information Regularization for Expert Reuse in Looped Transformers",
+          "authors": "Xinlai Kang , Zhenhe Wu , Haoyu Wang , Weihua He , Yaping Jin , Jie Hu , Hanting Chen",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33951",
+          "url": "https://arxiv.org/abs/2611.33951",
+          "title": "BReD: Block Replay Dithering for Stable Low-Bit EMA Optimizer States",
+          "authors": "Heshen Zhan , Youhan Huang , Yunke Peng , Yao Wang , Linghui Kong , Ziwei Zhu , Qingyu Han , Yaoyuan Wang , Congliang Chen , Ruoyu Sun",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33939",
+          "url": "https://arxiv.org/abs/2611.33939",
+          "title": "CondUQ: Calibrated Conditional Uncertainty Quantification Using Distribution Matching",
+          "authors": "Shizhuang Wang , Tianhao Wang , Xingqun Zhan",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33937",
+          "url": "https://arxiv.org/abs/2611.33937",
+          "title": "InstructTTS-OPD: On-Policy Distillation for Multi-Objective Instruction-Following TTS",
+          "authors": "Haitao Li , Tian Tan , Yuguang Yang , Guanrou Yang , Wenhao Guan , Chenglin Li , Shan Yang , Xie Chen",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33900",
+          "url": "https://arxiv.org/abs/2611.33900",
+          "title": "Correlation-Aware Evidential Fusion for Trusted Multi-View Classification",
+          "authors": "Tianyang Wang , Mengchi Zuo , Cai Xu , Yilin Zhang , Ziyu Guan , Wei Zhao",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33896",
+          "url": "https://arxiv.org/abs/2611.33896",
+          "title": "Looped Models are Fast Multi-Token Predictors",
+          "authors": "Ayhan Suleymanzade , Sean McLeish , Sehoon Kim , Jinwoo Kim , Antoine Bosselut",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33889",
+          "url": "https://arxiv.org/abs/2611.33889",
+          "title": "On the Learnability of Model Reprogramming: A Reachability and Relabeling Perspective",
+          "authors": "Zesheneg Ye , Pin-Yu Chen , Feng Liu",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33887",
+          "url": "https://arxiv.org/abs/2611.33887",
+          "title": "The Gradient Difference Induced by Detaching the Denominator in QK Normalization",
+          "authors": "Yuanqi Zhang , Haocheng Wang , Congping Lin",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33875",
+          "url": "https://arxiv.org/abs/2611.33875",
+          "title": "Random Voronoi Networks",
+          "authors": "Ray Verma , Pau Mateo-Bernardó , Daniel Mas Montserrat , David Bonet , Marçal Comajoan Cara , Alexander G. Ioannidis",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33872",
+          "url": "https://arxiv.org/abs/2611.33872",
+          "title": "Normalizing Flows are Capable World Models",
+          "authors": "Zijia Li , Yong-Hyun Park , Shusheng Yang , Jiatao Gu",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33850",
+          "url": "https://arxiv.org/abs/2611.33850",
+          "title": "Mitigating Overgeneralization in RND via Spectral Target Design",
+          "authors": "Minseok Jeong , Yechan Lee , Hyewon Choi , Jeongyong Yang , SooJean Han",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33827",
+          "url": "https://arxiv.org/abs/2611.33827",
+          "title": "FEAST: Fair and Efficient Adaptive Sampling for Task-Free On-Policy Learning",
+          "authors": "Yongxi Zhu , Ziyi Wang , Yichen Wu , Ruite Lu , Liao Chang , Haipeng Li , Ying Wei",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33825",
+          "url": "https://arxiv.org/abs/2611.33825",
+          "title": "On Grokking and the Dynamics of Generalization",
+          "authors": "Malik Amir",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33766",
+          "url": "https://arxiv.org/abs/2611.33766",
+          "title": "Don't Waste the Population: Post-Anneal Refinement for Combinatorial Optimization",
+          "authors": "Yuma Ichikawa",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33732",
+          "url": "https://arxiv.org/abs/2611.33732",
+          "title": "CovNovBench: A Benchmark for Evaluating Time Series Foundation Models under Covariate Novelty",
+          "authors": "Wenhao Pan , Ravi Kiran Selvam , Michael W. Mahoney , Mayank Jauhari , Mengfei Cao , Dmitry Efimov , Boris N. Oreshkin",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33719",
+          "url": "https://arxiv.org/abs/2611.33719",
+          "title": "Understanding Mode Collapse in Diffusion Models under Classifier-Free Guidance",
+          "authors": "Daniel Pfrommer , Chenyang Yuan , Frank Permenter , Ali Jadbabaie",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33716",
+          "url": "https://arxiv.org/abs/2611.33716",
+          "title": "Flipping the Coins: Training Physical Simulators through Hard Switches",
+          "authors": "Tianrun Gao , Ruiqi Feng , Haomin Wen , Tailin Wu , Liangqiong Qu , Xiaomeng Huang , Ruiqi Shu",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33652",
+          "url": "https://arxiv.org/abs/2611.33652",
+          "title": "Self-supervised Clipped-objective Reinforcement Leaning Framework for Risk-aware Portfolio Management",
+          "authors": "Zongshen Mu",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33648",
+          "url": "https://arxiv.org/abs/2611.33648",
+          "title": "PRIOR: Pre-Call Reasoning in SFT and Its Influence on Tool-Use Retention under RL",
+          "authors": "Kaiwen Hu , Hyunin Lee , Joseph Suh , Serina Chang , Shuai Shao , Yong Zhang , Namyong Park , Xiaoqiang Luo , Luke Simon , Somayeh Sojoudi",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33647",
+          "url": "https://arxiv.org/abs/2611.33647",
+          "title": "The Danger of Double Precision: Working Precision as a Hidden Constraint in Gaussian Process Maximum Likelihood",
+          "authors": "Thomas A. Scott",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33645",
+          "url": "https://arxiv.org/abs/2611.33645",
+          "title": "Pretraining for Forecasting in Relational Databases",
+          "authors": "Ziyue Lin , Sebastian Regalado Lozano , Michael Guerzhoy , Ricardo Baptista , George Stein",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33625",
+          "url": "https://arxiv.org/abs/2611.33625",
+          "title": "State Space Attention: Learning Context-Dependent Memory Retention",
+          "authors": "Ege Çakar , Cengiz Pehlevan",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33589",
+          "url": "https://arxiv.org/abs/2611.33589",
+          "title": "Amortizing Exact Orthogonality: Drift-Triggered Restoration for Orthogonal Fine-Tuning",
+          "authors": "Lanxin Zhao (1), Xiaoyu Li (2), Dai Shi (3), Junbin Gao (1), Andi Han (1) ((1) The University of Sydney, (2) University of New South Wales, (3) University of Cambridge)",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33571",
+          "url": "https://arxiv.org/abs/2611.33571",
+          "title": "Trigger-Invariant Contrastive Unlearning for Backdoor Removal",
+          "authors": "Santosh Chapagain , Shah Muhammad Hamdi , Soukaina Filali Boubrahimi",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33557",
+          "url": "https://arxiv.org/abs/2611.33557",
+          "title": "DiffER$^2$: Diffusion Ensembles for Retrosynthesis Prediction with SMILES Adapted Particle Guidance",
+          "authors": "Sean Current , Daniel Adu-Ampratwum , Xia Ning , Srinivasan Parthasarathy",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33527",
+          "url": "https://arxiv.org/abs/2611.33527",
+          "title": "Casper: A Projection-Based Neurosymbolic Layer for Scalable & Guaranteed Constraint Satisfaction",
+          "authors": "Lohith Konathala , Luca Andolfi , Eleonora Giunchiglia",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33525",
+          "url": "https://arxiv.org/abs/2611.33525",
+          "title": "Deletion You Can Check: Auditing LLM Unlearning",
+          "authors": "Mayank Gulati , Gerhard Wunder",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33523",
+          "url": "https://arxiv.org/abs/2611.33523",
+          "title": "A Perturbation-Driven Framework for Sensitivity Analysis of Dimensionality Reduction",
+          "authors": "Md Afridi Hasan , Jaemin Jo , Takanori Fujiwara",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33515",
+          "url": "https://arxiv.org/abs/2611.33515",
+          "title": "Evaluation and Restoration of Safety in Reasoning-Tuned LLMs",
+          "authors": "Ehsan Latif , Roberto Dailey , Risto Miikkulainen , Elliot Meyerson",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33487",
+          "url": "https://arxiv.org/abs/2611.33487",
+          "title": "The Geometry Is the Memory: Task-Density Routing for Continual LoRA",
+          "authors": "Alireza Heidari , Thomas Veasey , Mariano Tepper",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33469",
+          "url": "https://arxiv.org/abs/2611.33469",
+          "title": "Differentially Private Policy Optimization in Linear MDPs with Adversarial Rewards",
+          "authors": "Yi He",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33460",
+          "url": "https://arxiv.org/abs/2611.33460",
+          "title": "Fast Muscle-Driven Whole-Body Motion Tracking with a Differentiable World Model",
+          "authors": "Kaibo He , Maciej Bakowicz , Shihe Zhou , Yusen Feng , Yanan Sui , Dhanush Radhakrishnan",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33426",
+          "url": "https://arxiv.org/abs/2611.33426",
+          "title": "Scalpel and Brush: Pruning and Targeted Weight Editing of a Small Language Model by a Single LLM Agent",
+          "authors": "Sergei Koltcov , Vera Ignatenko , Anton Surkov , Rabie Abdultawab Ramadan",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33424",
+          "url": "https://arxiv.org/abs/2611.33424",
+          "title": "Yet Another Concept Drift Benchmark? A Principled Framework for Evaluating Drift Detectors",
+          "authors": "Lorenzo Iovine , Giacomo Ziffer , Emanuele Della Valle",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33417",
+          "url": "https://arxiv.org/abs/2611.33417",
+          "title": "Temporal Selective Exploration for Reinforcement Learning-Guided Continuous-Discrete Flow Matching in 3D Molecular Design",
+          "authors": "Lianghong Chen , Yan Yi Li , Gen Zhou , Yuxi Long , Ganlin Feng , Mike Domaratzki , Pingzhao Hu",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33399",
+          "url": "https://arxiv.org/abs/2611.33399",
+          "title": "Sequentially Acquiring Concept Knowledge to Guide Continual Learning",
+          "authors": "Shivanand Kundargi , Kowshik Thopalli , Tejas Gokhale",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33395",
+          "url": "https://arxiv.org/abs/2611.33395",
+          "title": "Federated Learning with Uncertainty Quantification on Pseudo Label Exchange",
+          "authors": "Jingqiao Tang , Phuoc-Toan Huynh , Richard Archibald , Feng Bao",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33364",
+          "url": "https://arxiv.org/abs/2611.33364",
+          "title": "Discovering Explicit Magnetic Core-Loss Equations via Symbolic Sparse Identification",
+          "authors": "Haoyu Wang , Jialin Zheng , Ziyang Xu , Yihao Wu , Alex Hanson",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33353",
+          "url": "https://arxiv.org/abs/2611.33353",
+          "title": "The Marauder's Map: Bézier Manifolds Reveal Hidden Surfaces for Model Merging and Ensembling",
+          "authors": "Abhiram Iyer , Mark T. Harnett , Sarthak Chandra",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33351",
+          "url": "https://arxiv.org/abs/2611.33351",
+          "title": "Understanding Failure Patterns in LLM-Based Mathematical Optimization Modeling",
+          "authors": "Ryoichi Takase , Xian Yeow Lee , Hikaru Tomonari , Masaya Tsunokake",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33335",
+          "url": "https://arxiv.org/abs/2611.33335",
+          "title": "FlowersBench: A FluidFlower-Inspired Dataset for Benchmarking Carbon Storage Surrogates Across Geological Structures",
+          "authors": "Farah Rabie , Hannah Menke , Florian Doster , Amy Gough , Ahmed H. Elsheikh",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33333",
+          "url": "https://arxiv.org/abs/2611.33333",
+          "title": "A Hierarchy of Risk Certificates for Representation-Based Prediction",
+          "authors": "Mohit Kumar , Somayeh Kargaran",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33332",
+          "url": "https://arxiv.org/abs/2611.33332",
+          "title": "Online Prediction System for Proactive Autoscaling",
+          "authors": "Jun Gao , Areg Poghosyan , Pavel Paulau , Sumit Mohanty , Tengfei Mu , Shawn Chen",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33325",
+          "url": "https://arxiv.org/abs/2611.33325",
+          "title": "Sparse Adaptation for In-Context Learning on Data Streams",
+          "authors": "João Neves , Afonso Lourenço , Lizy K. John , Eric P. Xing , João Gama",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33308",
+          "url": "https://arxiv.org/abs/2611.33308",
+          "title": "Change Partners at Every Layer: Balanced Random Regrouping for Model Merging",
+          "authors": "Kaiyang Li , Shaobo Han , Shihao Ji",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33302",
+          "url": "https://arxiv.org/abs/2611.33302",
+          "title": "Two Timescales of Forgetting in Fine-tuning of Language Models: Fast Behavioral Suppression and Slow Representational Drift",
+          "authors": "Yilin Luo , Jin Hwa Lee , Andrew M. Saxe , Antonio Sclocchi",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33259",
+          "url": "https://arxiv.org/abs/2611.33259",
+          "title": "Fast and Scalable Abstract Interpretation for Deep Neural Networks",
+          "authors": "Avaljot Singh , Dushyant Bharadwaj , Yasmin Chandini Sarita , Heng Zhong , Charith Mendis , Gagandeep Singh",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33257",
+          "url": "https://arxiv.org/abs/2611.33257",
+          "title": "One Token, Many Lessons: Sliding-Window Attention within Gated Delta Networks",
+          "authors": "Yuchen Song , Yangbin Chen",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33249",
+          "url": "https://arxiv.org/abs/2611.33249",
+          "title": "FERRETS: A Scalable Symbolic Transform for Time Series Classification",
+          "authors": "Antoine Guillaume",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33248",
+          "url": "https://arxiv.org/abs/2611.33248",
+          "title": "Typical Angina, Reversed: A Long-Standing Documentation Error in the UCI Heart Disease Data",
+          "authors": "Tejas Tovinkere Pattabhi",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33238",
+          "url": "https://arxiv.org/abs/2611.33238",
+          "title": "Sequential Testing on Complex and High Dimensional Data Streams Leveraging Unsupervised Model Errors",
+          "authors": "George Stamatelis , Iordanis Koutsopoulos",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33237",
+          "url": "https://arxiv.org/abs/2611.33237",
+          "title": "Resource-Efficient Multimodal Fusion for Early Rice Blast Forecasting in Sustainable Agriculture",
+          "authors": "Shubhajyoti Das , Pritam Bikram , Arindam Biswas , Samrat Paul , Parimal Sinha , Bhargab B. Bhattacharya",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33236",
+          "url": "https://arxiv.org/abs/2611.33236",
+          "title": "KiRA: Kronecker Input-Gated Rank Adaptation for Parameter-Efficient Fine-Tuning of Pretrained Models",
+          "authors": "Akil Ahmad Taki , Shaikh Anowarul Fattah",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33184",
+          "url": "https://arxiv.org/abs/2611.33184",
+          "title": "Semantic Density Does Not Predict Agent-Memory Collapse",
+          "authors": "Saksham Gupta , Yash Choudhary , Arpit Upadhyay",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33183",
+          "url": "https://arxiv.org/abs/2611.33183",
+          "title": "REI: Learning Ideation from Repository Evolution",
+          "authors": "Muyu Zou , Xiang Feng , Yufei Xu , Shanshan Ye , Zulong Chen , Lingyu Mu , Jinxin Hu , Jing Zhang",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33182",
+          "url": "https://arxiv.org/abs/2611.33182",
+          "title": "Neighbor Crowding Predicts Feature Stability in Sparse Autoencoders",
+          "authors": "Denis Federico Lim , Naveen Dasari , George Flint , Kevin Zhu",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33179",
+          "url": "https://arxiv.org/abs/2611.33179",
+          "title": "Deep Learning-Based Mesoscopic Emission Modeling",
+          "authors": "Abdelkader Dib , Milos Balac , Antonio Sciarretta",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33178",
+          "url": "https://arxiv.org/abs/2611.33178",
+          "title": "Geophysics-informed invertible operator network for Bayesian geophysical inversion",
+          "authors": "Yangwen Zhang , Xintong Wang , Xiaofei Guan , Peng Yu",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33168",
+          "url": "https://arxiv.org/abs/2611.33168",
+          "title": "Temporal Exposure to Byzantine Vulnerability Under Intermittent Participation in Federated Learning",
+          "authors": "Sasa Maric Robert Abbas",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33167",
+          "url": "https://arxiv.org/abs/2611.33167",
+          "title": "Code availability is not enough: schemas for documenting and extending data analysis",
+          "authors": "H. Sherry Zhang , Roger D. Peng",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33163",
+          "url": "https://arxiv.org/abs/2611.33163",
+          "title": "Quantum Machine Learning for Signature Forgery Detection",
+          "authors": "Nabila , Md Farhan Shahriyar , Nowshin Tabassum Puspa",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33162",
+          "url": "https://arxiv.org/abs/2611.33162",
+          "title": "Attributing Agentic Failure in Reasoning Vision-Language Models with Interactive 2D Environments",
+          "authors": "Pranav Guruprasad , Sean Rivera , Helen Lu , Arushi Jain , Hangliang Ren , Harshvardhan Sikka",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34938",
+          "url": "https://arxiv.org/abs/2611.34938",
+          "title": "Tokenisation is not in APX",
+          "authors": "Violeta Kastreva , Philip Whittington , Dennis Komm , Tiago Pimentel",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34928",
+          "url": "https://arxiv.org/abs/2611.34928",
+          "title": "Diverse Alternative Reasoning Traces for Hard Math Problems",
+          "authors": "Lukas Aichberger , Adam Golinski , Arno Blaas , Arwen Bradley , Jacob Springer , Mehrdad Farajtabar , Michael Kirchhof , Sinead Williamson",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34899",
+          "url": "https://arxiv.org/abs/2611.34899",
+          "title": "Enhancing Maritime Domain Awareness using Latent Space Representations",
+          "authors": "Rikard Vinge , Miguel A. Belenguer-Plomer , Isabelle Wittmann , Octavian Dumitru , Michele Lazzarini , Sergio Albani , Conrad M Albrecht",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34894",
+          "url": "https://arxiv.org/abs/2611.34894",
+          "title": "What a Drop Reveals: Sim-to-Real Material Estimation for Deformable Objects from Video",
+          "authors": "Ziyue Peng , Yanxi Hu , Junyoung Kim , Andrew Chen , Jin Yang , Chandrajit L. Bajaj , Etienne Vouga , William T. Freeman , Qixing Huang , Brandon Y. Feng",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34881",
+          "url": "https://arxiv.org/abs/2611.34881",
+          "title": "Stranger Things: When Objects Appear Without Their Typical Neighbors",
+          "authors": "Siddhartha Gairola , Jiahao Xie , Anna Kukleva , Francesco Locatello , Bernt Schiele",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34863",
+          "url": "https://arxiv.org/abs/2611.34863",
+          "title": "Focus Only on What's Important: Training-Free Focus Maps for Frozen Vision Transformers in Long-Video Object Segmentation",
+          "authors": "Harsha Karipineni , Rajesh Reddy Chintha",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34859",
+          "url": "https://arxiv.org/abs/2611.34859",
+          "title": "Model Weights, Airlocks and Sandboxes: A Call for Technical Validation of Re-identification Tests under the EDPB Anonymisation Guidelines",
+          "authors": "Rickard Brännvall , Henrik Forsgren , Erik Ylipää , Aslak Felin , Michael Popoff , Susanne Stenberg",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34841",
+          "url": "https://arxiv.org/abs/2611.34841",
+          "title": "Knowledge-Base Gradient Descent: Self-Structuring Learning through Question Answering",
+          "authors": "Masahiro Kato",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34813",
+          "url": "https://arxiv.org/abs/2611.34813",
+          "title": "Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models",
+          "authors": "Dezhi Luo , Fengyuan Yu , Haotian Zhang , Zehong Zhao , Ran Ji , Siyuan An , Huayi Qin , Qingying Gao , Zhongang Cai , Lei Yang , Ziqi Huang , Ruisi Wang , Maijunxian Wang , Hokin Deng",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34801",
+          "url": "https://arxiv.org/abs/2611.34801",
+          "title": "Guidance as Variance Matching",
+          "authors": "Ali Backour , Artem Lukoianov , Frank Permenter , Tommi Jaakkola , Justin Solomon , Vincent Sitzmann",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34785",
+          "url": "https://arxiv.org/abs/2611.34785",
+          "title": "PersonaFactory: Stylistic User Prompt Augmentation with Synthetic Persona Bank",
+          "authors": "Bich Ngoc Doan , Hanna Yukhymenko , Imanol Schlag",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34781",
+          "url": "https://arxiv.org/abs/2611.34781",
+          "title": "Comparative Study of Deep Learning Architectures for Brain Tumour Classification",
+          "authors": "Prisha Gupta , Pradeep Kumar Gupta",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34756",
+          "url": "https://arxiv.org/abs/2611.34756",
+          "title": "Collect for Coverage, Replay with Evidence: Adaptive and Efficient On-Policy Distillation for Long-Horizon Agents",
+          "authors": "Haowen Hou , Gen Li , Ruilin Li , Yicheng Liu , Zhen Huang , Shuai Dong , Congcong Wang , Kaiwen Tuo , Hongrui Wu , Zelin Peng , Kanghui Tian , Ji Zhao , Dianyi Wang , Jiaqi Wang",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34739",
+          "url": "https://arxiv.org/abs/2611.34739",
+          "title": "Was the Model Given the Right Action? Auditing and Repairing Action Interfaces in Navigation World Models",
+          "authors": "Ajmain Istiak Apon , Md Mehedi Hasan , Sejuti Rahman",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34725",
+          "url": "https://arxiv.org/abs/2611.34725",
+          "title": "Bigger Model or Bigger Table? How Much Backbone a Chorus N-gram Module Replaces",
+          "authors": "Szymon Kocur",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34724",
+          "url": "https://arxiv.org/abs/2611.34724",
+          "title": "LiDAR Intensity Reconstruction with Limited Real Data: An Architecture Benchmark under Fixed-Epoch Training",
+          "authors": "Christopher M. Coovrey , Aniruddha Bora",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34708",
+          "url": "https://arxiv.org/abs/2611.34708",
+          "title": "From Shared Patterns to Individual Evidence: Two-Stage Reasoning for Emerging Entities in Temporal Knowledge Graphs",
+          "authors": "Jinchuan Zhang , Lei Gao , Hongyu Jiang , Chong Mu , Chenang Cai , Ke Yan",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34645",
+          "url": "https://arxiv.org/abs/2611.34645",
+          "title": "A Hard Background Pairing Transfers across Classifiers and Images",
+          "authors": "Karl Li",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34637",
+          "url": "https://arxiv.org/abs/2611.34637",
+          "title": "Carrying Feature Ablations Across Sparse Autoencoder Seeds",
+          "authors": "Karl Li",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34634",
+          "url": "https://arxiv.org/abs/2611.34634",
+          "title": "LatentRL-QAS: Transfer via Latent Reinforcement Learning for Quantum Architecture Search",
+          "authors": "Maria Ilektra Plakitsi , Sebastian Feld , Akash Kundu",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34624",
+          "url": "https://arxiv.org/abs/2611.34624",
+          "title": "HoMe: Toward Practical Harness Optimization of Memory Systems for AI Assistants",
+          "authors": "Yifei Xu , Li Yu , Zhaoyang Liu , Ce Wang , Sen Huang , Yanyan Shen , Yun Lin , Linpeng Huang , Hong Mei",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34616",
+          "url": "https://arxiv.org/abs/2611.34616",
+          "title": "Conditional Independence Graph Learning from Dependent Data Via Time-Delay Embedding",
+          "authors": "Jitendra K. Tugnait",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34597",
+          "url": "https://arxiv.org/abs/2611.34597",
+          "title": "$μ$MPC: Microsecond-Scale Nonlinear and World Model Control from Edge to GPU via Koopman-Linearized Precompilation",
+          "authors": "Devesh Nath , Glen Chou",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34563",
+          "url": "https://arxiv.org/abs/2611.34563",
+          "title": "On Utilization of Edge-AI for condition monitoring towards predictive maintenance: A use case in dairy processing using explainable AI",
+          "authors": "Rahul Umesh Mhapsekar , Norah O'Shea , Omer Ali , Steven Davy , Lizy Abraham",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34529",
+          "url": "https://arxiv.org/abs/2611.34529",
+          "title": "AliceAI-Foundation-80B-A3B-Base",
+          "authors": "Nikolay Skachkov , Ekaterina Redina , Maksim Konoplev , Evgenii Uskov , Veronika Zykova , Ivan Tsarikov , Artemii Zakharov , Mariia Godunova , Dmitrii Lunin , Maria Nikiforova , Valerii Levanov , Anton Kalsin , Daniil Panteleev , Alexey Gerasev , Ilia Kopytin , Yermek Kapushev , Egor Liakhov , Irina Lialikova , Tatiana Taekina , Anastasia Volotova , Assol Kubaeva , Kirill Alekseev , Pavel Otlivanchik , Mukhammadfirdavs Kosimov , Vladislav Negodin , Ivan Vinogradov , Anton Andriushchenko , Maksim Nikitin , Daniil Sukhoi , Alexander Mazitov , Maksim Abraham , Philip Zmushko , Maksim Ignatov , Ivan Sapozhkov , Timofey Byzov , Edgar Shmavonian",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34516",
+          "url": "https://arxiv.org/abs/2611.34516",
+          "title": "Feasibility-Aware Deep Reinforcement Learning for O-CU and O-DU Mapping in 6G O-RAN",
+          "authors": "Mohammad Asif Habibi , Xavier Costa-Perez , Hans D. Schotten",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34495",
+          "url": "https://arxiv.org/abs/2611.34495",
+          "title": "Efficient Data Fusion in Distributionally Robust Optimization",
+          "authors": "Buse Şen , Aras Selvi , Jean Pauphilet , Daniel Kuhn",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34492",
+          "url": "https://arxiv.org/abs/2611.34492",
+          "title": "FlyingStart: Learned Cross-Token Warm Starts for Fixed-Point Decoding in Recurrent-Depth Language Models",
+          "authors": "Runguo Li , Dezhen Lu , Zixiang Ni",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34479",
+          "url": "https://arxiv.org/abs/2611.34479",
+          "title": "Backpropagation as Dirac-bracket dynamics of dissipative training",
+          "authors": "Nicolaus Linneu Holanda , Ivan Eugenio Cunha",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34452",
+          "url": "https://arxiv.org/abs/2611.34452",
+          "title": "Global Convergence of Second-Order Methods for Physics-Informed Neural Networks in the Overparameterized Limit",
+          "authors": "Konstantin Riedl , Justin Sirignano , Konstantinos Spiliopoulos",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34451",
+          "url": "https://arxiv.org/abs/2611.34451",
+          "title": "Decision-Aligned Value Learning for Selective Adoption of EEG Fusion in Human-Robot Collaboration",
+          "authors": "Xinjia Yu , Jing Yang , Yang Zhou , Tielin Shi , Tao Cheng",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34440",
+          "url": "https://arxiv.org/abs/2611.34440",
+          "title": "vSFT: Learning to Verbally Tune Agents at Test Time",
+          "authors": "Qishuai Wen , Rui Chen , Haiwen Li , Zhiyuan Huang , Qiwen Gu , Bingjie Gao , Geng Li , Jing Tang , Xiangxiang Chu , Chun-Guang Li",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34430",
+          "url": "https://arxiv.org/abs/2611.34430",
+          "title": "One Representation to Rule Them All -- Open-Vocabulary Change Detection from Text or Visual Examples",
+          "authors": "Blaž Rolih , Matic Fučka , Filip Wolf , Luka Čehovin Zajc",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34426",
+          "url": "https://arxiv.org/abs/2611.34426",
+          "title": "A Head-Level Investigative Study of Self-Supervised Backbones for Synthetic Speech Detection",
+          "authors": "Mohamed Mallat , Michele Panariello , Massimiliano Todisco , Anthony Larcher , Nicholas Evans",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34419",
+          "url": "https://arxiv.org/abs/2611.34419",
+          "title": "Decision-Focused Learning for Multistage Stochastic Programs, with Application to Power Network Repair Scheduling",
+          "authors": "David Krame Kadurha , Alessandro Zocca , Sandjai Bhulai",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34403",
+          "url": "https://arxiv.org/abs/2611.34403",
+          "title": "Recoverability policy editing for closed-loop safety in autonomous driving",
+          "authors": "Yang Guan , Shengbo Eben Li",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34393",
+          "url": "https://arxiv.org/abs/2611.34393",
+          "title": "Plausible Is Not Proven: Testing Failure Explanations in Monocular Depth Estimation",
+          "authors": "Zeeshan Ali , Md Rayyan , Anshuman Chakravorty , Omer Faraz , Anshi Bajaj , Amit Saini",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34381",
+          "url": "https://arxiv.org/abs/2611.34381",
+          "title": "Decoupling the clocks of learning and computing in spiking neural networks",
+          "authors": "Michalis Pagkalos , Panayiota Poirazi",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34373",
+          "url": "https://arxiv.org/abs/2611.34373",
+          "title": "Under the Influence -- of What? A Controlled Evaluation of Influence Functions",
+          "authors": "Johannes Gabriel Sindlinger , Arzu Burcu Güven , Rob van der Goot , Anna Rogers",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34346",
+          "url": "https://arxiv.org/abs/2611.34346",
+          "title": "Music Similarity Estimation from Jukebox Embeddings",
+          "authors": "Johannes Grafinger , Gerhard Widmer , Jan Schlüter",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34332",
+          "url": "https://arxiv.org/abs/2611.34332",
+          "title": "Scaling and Cross-Simulation Generalization of Graph Neural Networks for Cosmic-Web Classification in CAMELS",
+          "authors": "Kalash Thakkar , Unnati Shah",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34331",
+          "url": "https://arxiv.org/abs/2611.34331",
+          "title": "Puzzling-Bench: Evaluating Language Models on 23,777 Human-Written Puzzles with Community-Verified Answers",
+          "authors": "Abhinav Sharma , Li Li , Chien Van Nguyen , Sai Karthik Navuluru , Bo Ni , Xiangbo Gao , Xiaolei Huang , Yue Zhao , Nesreen K. Ahmed , Tyler Derr , Yu Wang , Hongjie Chen , Zhengzhong Tu , Thien Huu Nguyen , Ryan A. Rossi , Franck Dernoncourt",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34314",
+          "url": "https://arxiv.org/abs/2611.34314",
+          "title": "Variational Principles and Machine Learning: a Numerical Analysis and PDE perspective",
+          "authors": "Charalambos G. Makridakis",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34296",
+          "url": "https://arxiv.org/abs/2611.34296",
+          "title": "LatENSO v1.0: a learned latent state of the tropical Pacific for seasonal ENSO operators and forecasting",
+          "authors": "Milad Panahi , Annalisa Bracco",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34277",
+          "url": "https://arxiv.org/abs/2611.34277",
+          "title": "Beat This! Live - Online Beat and Downbeat Tracking by Predicting the Future",
+          "authors": "Bánk Juhász , Gerhard Widmer , Jan Schlüter",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34273",
+          "url": "https://arxiv.org/abs/2611.34273",
+          "title": "Libtt: A Compiler and Runtime for Tenstorrent Processors",
+          "authors": "Philipp Moritz , Sarah Dong",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34248",
+          "url": "https://arxiv.org/abs/2611.34248",
+          "title": "EXPOSURE: Explaining Sources of Uncertainty in Reinforcement Learning",
+          "authors": "Kiana Farhadyar , Yannick Vogt , Philipp Laur , Ayça Çelik , Iman Nematollahi , Gabriel Kalweit , Maria Kalweit",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34222",
+          "url": "https://arxiv.org/abs/2611.34222",
+          "title": "The Socratic PAUSE: safeguarding scientific judgement at AI speed",
+          "authors": "Abdulkadir Celik , Sir Bashir M. Al-Hashimi",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34158",
+          "url": "https://arxiv.org/abs/2611.34158",
+          "title": "Strategic and Robust Task Allocation for Combat Objectives in Adversarial Multi-Agent Environments",
+          "authors": "Jonas Peché , Dmitry Matveev , Vladimir Ciric , Lizaveta Sakalova , Günter Wallner",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34112",
+          "url": "https://arxiv.org/abs/2611.34112",
+          "title": "Not Every Input Needs Everything: Unifying Expert Gating, Model Cascades, and Agent Orchestration",
+          "authors": "Dat Tat Mai , Hung Tran Quy , Thai Viet Pham , James Jin Kang",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34093",
+          "url": "https://arxiv.org/abs/2611.34093",
+          "title": "Exploring the Design Factors of Pixel-space Diffusion",
+          "authors": "Mang Ning , Le Zhang , Albert Ali Salah , Itir Onal Ertugrul , Jintao Zhang",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34073",
+          "url": "https://arxiv.org/abs/2611.34073",
+          "title": "Accelerated Proximal Gradient Methods for Multiobjective Optimization over Probability Measures via Hilbert-Space Lifting",
+          "authors": "Dai Hai Nguyen",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34051",
+          "url": "https://arxiv.org/abs/2611.34051",
+          "title": "Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability",
+          "authors": "Xichong Zhang , Xixuan Hao , Zhichen Liu , Le Zhou , Zeyu Zhang , Boyu Chen , Mingfei Lu , Zehao Lin , Bo Tang , Yonggang Zhang , Linyun Liu , Feiyu Xiong , Jianlin Su , Zhiyu Li",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34036",
+          "url": "https://arxiv.org/abs/2611.34036",
+          "title": "Few-Shot Adaptation of Vision-Language Models via Agentic Model Editing",
+          "authors": "Yusheng Zhao , Xiao Luo , Zhiping Xiao , Ming Zhang",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34035",
+          "url": "https://arxiv.org/abs/2611.34035",
+          "title": "Post-Training Policy Replication for Strategy-Following Multi-Agent Deep Reinforcement Learning across Team Sizes",
+          "authors": "Yamato Takahagi , Yoshinari Motokawa , Toshiharu Sugawara",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.34014",
+          "url": "https://arxiv.org/abs/2611.34014",
+          "title": "Hetero-Associative Visuomotor Memory: Soft Recall as a Base for Learned Residuals in Few-Demonstration Imitation",
+          "authors": "Runcong Wang",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33972",
+          "url": "https://arxiv.org/abs/2611.33972",
+          "title": "Fine-Tuning Without Gradients? Closed-Form, LLM-Written Classifiers on a Frozen Encoder",
+          "authors": "Md Nasir Uddin , Musa Tur Farazi , Soumik Bhattacharjee , Tishna Sabrina , Chowdhury Mohammad Rakin Haider",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33957",
+          "url": "https://arxiv.org/abs/2611.33957",
+          "title": "RefMix: Expanding Endpoint Proposals for Diversity-Preserving Reward Fine-Tuning",
+          "authors": "Jaemin Kim , Christian Simon , Dongseok Shim , Wei-Yao Wang , Qiyu Wu , Masato Ishii , Shusuke Takahashi , Jong Chul Ye , Yuki Mitsufuji",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33950",
+          "url": "https://arxiv.org/abs/2611.33950",
+          "title": "A Graphical Criterion for Linear Causal Bounds",
+          "authors": "Alexis Bellot",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33848",
+          "url": "https://arxiv.org/abs/2611.33848",
+          "title": "ChemDeduce: Benchmarking LLMs for Unknown Chemical Identification through Interactive Simulated Experiments",
+          "authors": "Hengyi Cai , Yuqi Tang , Zichang Li , Huajun chen , Qiang Zhang , Keyan Ding",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33841",
+          "url": "https://arxiv.org/abs/2611.33841",
+          "title": "The Missing Root: Geometric Imagination Without Images in Large Language Models",
+          "authors": "Loïc Magnan , Tomasz Kozlowski",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33829",
+          "url": "https://arxiv.org/abs/2611.33829",
+          "title": "VoroPlex: A Python Framework for Multi-Threaded and Differentiable Voronoi Tessellation",
+          "authors": "Peihang Lin , Shanmei Wanyan , Mucheng Zhu , Ying Jiang , Chris H. Rycroft , Chenfanfu Jiang , Jiayin Lu",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33828",
+          "url": "https://arxiv.org/abs/2611.33828",
+          "title": "Learning a Whole-Body Pivot-Walking Gait for Heavy-Box Transport with a Humanoid",
+          "authors": "Rikuto Hidaka , Tsung-Yuan Chen , Kento Kawaharazuka",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33823",
+          "url": "https://arxiv.org/abs/2611.33823",
+          "title": "Pitfalls of Dependency-Ready Decoding for Masked Diffusion Language Models",
+          "authors": "Lina Berrayana , Christopher Malon , Yoichi Ishibashi , Taichi Aida , Masafumi Oyamada",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33822",
+          "url": "https://arxiv.org/abs/2611.33822",
+          "title": "MetaDecomp: Adaptive Task Decomposition via Meta-Learned Procedural Memory",
+          "authors": "Ziyi Wang , Yixiao He , Yichen Wu , Ruite Lu , Jiayu Wang , Ying Wei",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33812",
+          "url": "https://arxiv.org/abs/2611.33812",
+          "title": "KnitNet: Learning to Search at Inference Time for Exact RNA Inverse Design",
+          "authors": "Antonia Panescu , Xin Wang , Haoran Xu , Qingyu Chen , Carlos Oliver , Rex Ying",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33806",
+          "url": "https://arxiv.org/abs/2611.33806",
+          "title": "QPAT: A Universal Quantum Machine Learning Framework for Quantum-Assisted Training and Classical Inference",
+          "authors": "Yixiong Chen",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33788",
+          "url": "https://arxiv.org/abs/2611.33788",
+          "title": "InterGenEHR$^+$: An Interactive Framework for Natural Language-Conditioned Generation of Longitudinal Patient Trajectories",
+          "authors": "Yu Yang , Jiafeng Song , Baraa F Abed , Christina Creel , Sagar B Dave , Henry Foote , Lisa Lima , Victor Moas , Craig S Jabaley , Rishikesan Kamaleswaran , Pan Xu",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33773",
+          "url": "https://arxiv.org/abs/2611.33773",
+          "title": "Robust Adaptive Channel Estimation for RIS-Assisted mmWave Massive MIMO via a Stochastic Shannon Entropy Criterion",
+          "authors": "Mojtaba Hajiabadi , Saeid Pakravan , Hadi Zayyani , Mohammad Salman , Ming Zeng",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33767",
+          "url": "https://arxiv.org/abs/2611.33767",
+          "title": "RHOPE: LLM-Augmented Adaptive Experimental Design with Complex Contextual Information",
+          "authors": "Bowen Shi , Bo Li",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33759",
+          "url": "https://arxiv.org/abs/2611.33759",
+          "title": "Understanding Double Descent through Universal Compression",
+          "authors": "Jiaxuan Cheng , Addison Spiegel",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33743",
+          "url": "https://arxiv.org/abs/2611.33743",
+          "title": "OrbACE: Orbital and Atomic Cluster Expansion",
+          "authors": "Etinosa Osaro , Dario Rocca",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33741",
+          "url": "https://arxiv.org/abs/2611.33741",
+          "title": "FlashProve-Next: Verifiable Inference for Production LLM APIs",
+          "authors": "Liang Song",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33713",
+          "url": "https://arxiv.org/abs/2611.33713",
+          "title": "Nepali Currency Denomination Classification Using Convolutional Neural Networks (CNNs) and MobileNetV2: An Experimental Comparison",
+          "authors": "Sakar Lamichhane , Sandesh Bhatta , Aayush Adhikari , Aaron Sapkota",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33672",
+          "url": "https://arxiv.org/abs/2611.33672",
+          "title": "Node Differential Privacy via Node-Stable Graph Projections",
+          "authors": "Ishaq Aden-Ali , Adam Sealfon , Adam Smith , Thomas Steinke , Jonathan Ullman",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33668",
+          "url": "https://arxiv.org/abs/2611.33668",
+          "title": "Verifiable but Not Predictable: What Sentence Embeddings Know About Propositional Decomposition",
+          "authors": "Qingan Li , Tianxiao Wu , Xiling Cui",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33656",
+          "url": "https://arxiv.org/abs/2611.33656",
+          "title": "Online Identification Can Replace a Floor-Plan Prior on Unseen Buildings",
+          "authors": "Elias T.-H. Shieh , Chun Fu",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33644",
+          "url": "https://arxiv.org/abs/2611.33644",
+          "title": "Physics-Informed Learning for Multiplayer Differential Games",
+          "authors": "Takuma Adams , Andrew C. Cullen , Tansu Alpcan",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33639",
+          "url": "https://arxiv.org/abs/2611.33639",
+          "title": "How Much Effort Does an AI Code Reviewer Need? Evidence from Claude 5.5 Models on Plausible-but-Wrong Patches",
+          "authors": "Zax Shen , Hanling Zhang , Zixu Wang",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33632",
+          "url": "https://arxiv.org/abs/2611.33632",
+          "title": "Interpreting Speckle Effects Through Neuron Interventions",
+          "authors": "Shubham K. Singh , Hare Krishna",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33615",
+          "url": "https://arxiv.org/abs/2611.33615",
+          "title": "Learning from Natural Images Untangles Number Sense",
+          "authors": "Yechan Cho , Hyeonsu Lee , Emma Deneuville , Jaeson Jang",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33592",
+          "url": "https://arxiv.org/abs/2611.33592",
+          "title": "Improved Sample Complexity of Robust Reinforcement Learning with KL Uncertainty Sets",
+          "authors": "Yudan Wang , Zilong Deng , Nathaniel D. Bastian , Shaofeng Zou",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33576",
+          "url": "https://arxiv.org/abs/2611.33576",
+          "title": "Symmetry-Aware Residual Learning of Few-Body Molecular Wave Functions",
+          "authors": "Meital Bojan , Mikhail Maslov , Jing-Lun Li , Alex M. Bronstein , Mikhail Lemeshko",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33549",
+          "url": "https://arxiv.org/abs/2611.33549",
+          "title": "FokasNets: Completing missing boundary data in Physics-Informed Neural Networks and Operators via the Global Relation",
+          "authors": "Kyriakos C. Georgiou , Khemraj Shukla , Athanassios S. Fokas , George Em Karniadakis",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33542",
+          "url": "https://arxiv.org/abs/2611.33542",
+          "title": "RankCast: Phase-Aware Rank Balancing in MoE Serving",
+          "authors": "Kaidi Fu , Xu-Hao Lu , Pingwei Sun , Jianchao Tan , Yuchen Xie , Xunliang Cai",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33531",
+          "url": "https://arxiv.org/abs/2611.33531",
+          "title": "Adversarial Bandit Convex Optimization with $d^{3/2}\\sqrt{n}$ Regret",
+          "authors": "Alireza Bakhtiari , Kevin Jamieson , Tor Lattimore , Lillian Ratliff",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33514",
+          "url": "https://arxiv.org/abs/2611.33514",
+          "title": "Model Predictive Control of a Multirotor UAV with a Cable-Suspended Payload: A Comparison of Shifted and Transformer-Based Warm Starts",
+          "authors": "Athanasios Zeris",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33513",
+          "url": "https://arxiv.org/abs/2611.33513",
+          "title": "Learning to Reason in Real-Time",
+          "authors": "Xavier Schneider , Benjamin Schneider , Sun Sun , Olga Vechtomova , Victor Zhong",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33489",
+          "url": "https://arxiv.org/abs/2611.33489",
+          "title": "Data-free continuous-time physics-informed neural networks for vortex shedding: a consistent pressure across time windows",
+          "authors": "Mickaël Delcey , Cyril Regan , Masaki Fuchiwaki , Yoann Cheny",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33479",
+          "url": "https://arxiv.org/abs/2611.33479",
+          "title": "On the Impact of Extra Information in Bandit Learning: More is Not Always Merrier",
+          "authors": "Ramakrishnan Krishnamurthy",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33475",
+          "url": "https://arxiv.org/abs/2611.33475",
+          "title": "Memory as the Backbone: A Dual-Store Associative Memory Architecture for Visual Recognition",
+          "authors": "Ruizhi Wang , Xiangtao Wang , Bayar Menzat , Jianfeng Wang , Thomas Lukasiewicz",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33468",
+          "url": "https://arxiv.org/abs/2611.33468",
+          "title": "Learning from Recurrence: Internalizing Depth-Induced Preferences in Looped Language Models",
+          "authors": "Hui Chen , Joshua Elsdon , Can Goksen",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33467",
+          "url": "https://arxiv.org/abs/2611.33467",
+          "title": "SplatWAM: Splatting World Action Models for Real-Time 3D Imagination",
+          "authors": "Frank Tsu-Fang Lu , Karthik Sundar Senthilkumar , Christopher Thirgood , Oscar Mendez , Simon Hadfield",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33464",
+          "url": "https://arxiv.org/abs/2611.33464",
+          "title": "PAC Learning to Sample: On Computational Aspects of Language Generation",
+          "authors": "Alkis Kalavasis , Shuchen Li , Manolis Zampetakis",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33454",
+          "url": "https://arxiv.org/abs/2611.33454",
+          "title": "A Realistic End-to-End Runtime Crossover Estimation for Quantum-Enhanced Training of Large-Scale Machine Learning Models",
+          "authors": "Maximilian Alexander Wolf , Alona Sakhnenko , Florian Geissler , Andrea Matic , Jeanette Miriam Lorenz",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33452",
+          "url": "https://arxiv.org/abs/2611.33452",
+          "title": "HumblePRM: Improving VLM Abstention in Ambiguous Situations through Process Reward Modeling",
+          "authors": "Saket Reddy , Ke Yang , ChengXiang Zhai",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33447",
+          "url": "https://arxiv.org/abs/2611.33447",
+          "title": "Centered Kernel Distance: Dimension-Free Error Bounds for Comparing Neural Representations",
+          "authors": "Shujun Xiong , Sarah E. Harvey , Jacob Zavatone-Veth , Alexander H. Williams",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33437",
+          "url": "https://arxiv.org/abs/2611.33437",
+          "title": "ViCARD: Visual Credit Assignment with Reward-Gated Distillation for Multimodal Reasoning",
+          "authors": "Zijian Huang , Jiasi Chen",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33409",
+          "url": "https://arxiv.org/abs/2611.33409",
+          "title": "A Semantics-First Approach to Multimodal Video Captioning with Frozen Encoders and Stabilized Reinforcement Learning",
+          "authors": "Albert Chiwara , Erhan Guven",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33407",
+          "url": "https://arxiv.org/abs/2611.33407",
+          "title": "An Adversarial Multi-Agent Pursuit Game for Locomotor Agility Pretraining",
+          "authors": "Nathan A.C. Hogg , Matt Hyatt , Neil Klingensmith , George K. Thiruvathukal",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33400",
+          "url": "https://arxiv.org/abs/2611.33400",
+          "title": "Gaussian priors from nonlinear PDEs with the semiclassical approximation",
+          "authors": "Alex Alberts",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33398",
+          "url": "https://arxiv.org/abs/2611.33398",
+          "title": "Best-of-$N$ Test-Time Steering Can Lead to Reward Hacking in Vision-Language-Action Models",
+          "authors": "Vanshaj Khattar , Jing Liu , Toshiaki Koike-Akino , Ming Jin , Ye Wang",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33394",
+          "url": "https://arxiv.org/abs/2611.33394",
+          "title": "Confidence scores for gated automation of large language models",
+          "authors": "Luiz G. A. Alves , Aaron Vermeersch",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33393",
+          "url": "https://arxiv.org/abs/2611.33393",
+          "title": "Can a Short Video Clip Verify a Model Fix?",
+          "authors": "Raj Shan",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33379",
+          "url": "https://arxiv.org/abs/2611.33379",
+          "title": "Probabilistic Machine Learning for Total Kinetic Energy Distributions in Neutron-Induced Fission",
+          "authors": "Vaia Prassa , Martha Papadopoulou , Christos Bompotas",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33375",
+          "url": "https://arxiv.org/abs/2611.33375",
+          "title": "Evaluating Ensemble Methods for Algorithmic Stability Under Data Perturbations",
+          "authors": "Benjamin Edelhertz , Simon D. Nguyen , Tyler H. McCormick",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33331",
+          "url": "https://arxiv.org/abs/2611.33331",
+          "title": "Do Not Let the Prior Heal the Anomaly: Selective Anchoring for Detection from Incomplete Measurements",
+          "authors": "Nicolas Tricard , Stefan Brandstätter , Jason Chen , Zituo Chen , Linzheng Wang , Georg Langs , Sili Deng",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33318",
+          "url": "https://arxiv.org/abs/2611.33318",
+          "title": "What Must LLM Agents Communicate? From Information Loss to Communication Failures",
+          "authors": "Yi-Yun Chu , Xiaobin Shen",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33316",
+          "url": "https://arxiv.org/abs/2611.33316",
+          "title": "What Does RL Post-Training Teach Text-to-Image Models? A Skill-Wise Analysis of Flow-GRPO",
+          "authors": "Cheng Zhang , Jiesong Liu",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33315",
+          "url": "https://arxiv.org/abs/2611.33315",
+          "title": "Large-scale Model Merging via Recovery-aware Task Weighting",
+          "authors": "Kaiyang Li , Shaobo Han , Boming Chen , Martin Renqiang Min , Shihao Ji",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33314",
+          "url": "https://arxiv.org/abs/2611.33314",
+          "title": "Building a Unified Inline Code Editing Model for GitHub Copilot",
+          "authors": "Microsoft CodeAI Team , Microsoft VS Code Team : Julia Gong , Benjamin Liggett , Shengjie Ma , Ulugbek Abdullaev , Zhehui Liao , Benjamin Steenhoek , Gaurav Mittal , Fuhui Fang , Satarupa Guha , Hang Zhao , Anand Mooga , Cheng Long , Benjamin Simmonds , Soojin Choi , Luciana Abud , Nathan Halstead , Alexandru Dima , Yu Hu , Elsie Nallipogu",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33268",
+          "url": "https://arxiv.org/abs/2611.33268",
+          "title": "JetDiffusion: Pushing the Speed Limits of Video Generation with NVFP4 Sparse Attention",
+          "authors": "Yulun Wu , Zihan Min , Minshen Zhang , Kaiqin Kong , Ji Xie , Will Lin , Junda Chen , Wenxuan Tan , Aryan Kumar , Loay Rashid , Qingyu Yin , Hao Zhang",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33261",
+          "url": "https://arxiv.org/abs/2611.33261",
+          "title": "Same Tokenizer, Better Tokens: Choosing Image Tokens by MAP Inference",
+          "authors": "Piotr Kubaty (1 and 2), Jacek Tabor (1 and 3), Łukasz Struski (1) ((1) Faculty of Mathematics and Computer Science, Jagiellonian University, Kraków, Poland, (2) Doctoral School of Exact and Natural Sciences, Jagiellonian University, Kraków, Poland, (3) Centre for Credible Artificial Intelligence, Warsaw University of Technology, Poland)",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33252",
+          "url": "https://arxiv.org/abs/2611.33252",
+          "title": "MonoQPM: Splitting Features into Concepts for Inherent Interpretability and Predictive Performance",
+          "authors": "Thomas Norrenbrock , Robert Zimmermann , Timo Kaiser , Sovan Biswas , Neslihan Kose , Bodo Rosenhahn",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33243",
+          "url": "https://arxiv.org/abs/2611.33243",
+          "title": "Beyond the Efficiency-Efficacy Dilemma: A Critical Analysis of Transferability in Adversarial Malware Detection",
+          "authors": "Veysel Alevcan , Mohammad Furqan Ali , Teresa Sousa , Luís Miguel Campos , Christoforos Ntantogian",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33240",
+          "url": "https://arxiv.org/abs/2611.33240",
+          "title": "Learning the Platform, Not the Learner: Sequencing Shortcuts in the Offline Evaluation of Educational Recommender Systems and LLM Rankers",
+          "authors": "Youssef Jdidou",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33232",
+          "url": "https://arxiv.org/abs/2611.33232",
+          "title": "How Many Samples Is RL Worth? Best-of-N versus RL Post-Training for Text-to-Image Models",
+          "authors": "Salil Bhatnagar",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33229",
+          "url": "https://arxiv.org/abs/2611.33229",
+          "title": "Effect-Driven Skill Abstractions for Offline Reinforcement Learning",
+          "authors": "Burcu Kilic , David Drexel , Emre Ugur , Justus Piater",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33228",
+          "url": "https://arxiv.org/abs/2611.33228",
+          "title": "Soft Decentralized Expected SARSA: Equilibrium Selection via Gradual Adaptation",
+          "authors": "Giuseppe Martucci , Janusz M. Meylahn , Gurdal Arslan , Serdar Yuksel",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33227",
+          "url": "https://arxiv.org/abs/2611.33227",
+          "title": "Real Package, Wrong Controller: Static Auditing of Vendor--Protocol Mismatches in LLM-Generated PLC Code",
+          "authors": "S M Zia Ur Rashid , Sazidul Islam Hira , Suman Rath",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33225",
+          "url": "https://arxiv.org/abs/2611.33225",
+          "title": "A Causal Energy Prior for Learning Directed Acyclic Graphs",
+          "authors": "Marco Scutari , Noriaki Sato , Shuichi Kawano , Rui Yamaguchi , Seiya Imoto",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33200",
+          "url": "https://arxiv.org/abs/2611.33200",
+          "title": "Adaptive attention routing multimodal expert graph neural network for drug-drug interaction prediction",
+          "authors": "Jingyi Yang , Chengcheng Yan , Hongri Cong , Feifei Zhao",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33197",
+          "url": "https://arxiv.org/abs/2611.33197",
+          "title": "Extraneous Cognitive Load in Large Language Models",
+          "authors": "Arushi Gupta , Sheng Liu , James Zou",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33192",
+          "url": "https://arxiv.org/abs/2611.33192",
+          "title": "Dynamics of Collective Diversity in Human-AI Co-Creation for Creative Tasks",
+          "authors": "Manh Hung Nguyen , Chao Wen , Sebastian Tschiatschek , Adish Singla",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33188",
+          "url": "https://arxiv.org/abs/2611.33188",
+          "title": "One Neural Operator for Re-planning Low-Thrust Cislunar Transfers after Thrust Outages, at the Original or a Later Arrival",
+          "authors": "Selim Olgu Pilav",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33175",
+          "url": "https://arxiv.org/abs/2611.33175",
+          "title": "Feature-Based Explainability of Transformer Scoring Models: A Fidelity-First Framework for Automated Writing Assessment",
+          "authors": "Michael Hemenway , Edward W. Wolfe",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.33169",
+          "url": "https://arxiv.org/abs/2611.33169",
+          "title": "The Symmetry Budget: How Much Group Structure Should a Network Architecture Assume?",
+          "authors": "Noor Islam S. Mohammad , Mahmudul Hasan , Md. Basim Al Zabir Shammo , Hasan Siddiki , Jakaria Habib",
+          "abstract": null
+        },
+        {
+          "arxiv_id": "2611.03530",
+          "url": "https://arxiv.org/abs/2611.03530",
+          "title": "Generalizable Equivariant Diffusion Models for Non-Abelian Lattice Gauge Theory: Analytical Foundations and Numerical Scaling Tests",
+          "authors": "Gert Aarts , Diaa E. Habibi , Andreas Ipp , David I. Müller , Thomas R. Ranner , Lingxiao Wang , Wei Wang , Qianteng Zhu",
+          "abstract": null
+        }
+      ]
+    }
+  ]
+}

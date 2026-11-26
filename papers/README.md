@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：602 篇
-- 索引更新时间：2026-11-26
+- 当前入库论文：605 篇
+- 索引更新时间：2026-11-27
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-11-27 | [Computational assessment of 47Sc production for theranostic applications via proton and deuteron irradiation of enriched 50Ti and 49Ti targets](./10-1186-s40658-026-00968-z/README.md) | EJNMMI Physics | [10.1186/s40658-026-00968-z](https://doi.org/10.1186/s40658-026-00968-z) |
+| 2026-11-27 | [Speckle renewal, not bandwidth alone, mitigates kinetic Raman scattering at moderate bandwidth](./arxiv-2611-33971/README.md) | arXiv preprint | [10.48550/arXiv.2611.33971](https://doi.org/10.48550/arXiv.2611.33971) |
+| 2026-11-27 | [Plasma transport by carrier electrons: Nernst advection beyond the heat-flow analogy due to kinetic stress](./arxiv-2611-34766/README.md) | arXiv preprint | [10.48550/arXiv.2611.34766](https://doi.org/10.48550/arXiv.2611.34766) |
 | 2026-11-26 | [Long wave infrared laser platform for plasma studies relevant to inertial fusion](./10-3389-fphy-2026-1969078/README.md) | Frontiers in Physics | [10.3389/fphy.2026.1969078](https://doi.org/10.3389/fphy.2026.1969078) |
 | 2026-11-26 | [Extremely High-Energy Bremsstrahlung in Matter](./10-1103-rk4d-45t9/README.md) | Physical Review Letters | [10.1103/rk4d-45t9](https://doi.org/10.1103/rk4d-45t9) |
 | 2026-11-25 | [Phase-Space Shaping Due to Betatron Cooling in Wakefield Accelerators and the Onset of the Ion-Channel Laser](./10-1103-k67h-dvxp/README.md) | Physical Review Letters | [10.1103/k67h-dvxp](https://doi.org/10.1103/k67h-dvxp) |

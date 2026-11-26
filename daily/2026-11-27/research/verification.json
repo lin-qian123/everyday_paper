@@ -1,0 +1,31 @@
+{
+  "checked_at": "2026-11-26T23:14:14.774935+00:00",
+  "completed": 605,
+  "retry": 81,
+  "old_completed_preserved": 602,
+  "old_retry_preserved": 80,
+  "unique_nonnull_dois": 601,
+  "unique_normalized_titles": 605,
+  "qualified_arxiv_aliases": 407,
+  "figures_source_sha_pixels_passed": 21,
+  "primary_reopened_all_21_figures": true,
+  "review_source_pages_unique": 35,
+  "supplement_converted_contact_pages": 5,
+  "json_files_parsed": 25,
+  "markdown_files_parsed": 22,
+  "parsed_links": 3270,
+  "distinct_local_destinations": 1114,
+  "missing_links": [],
+  "inherited_bare_space_targets_checked": 1130,
+  "new_bare_space_targets": 0,
+  "candidate_files": 69,
+  "tests": {
+    "command": "PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q",
+    "passed": 7,
+    "seconds": 1.02,
+    "observed_exit_code": 0
+  },
+  "original_AGENTS_preserved_excluded": true,
+  "unrelated_legacy_pages_restored": 7,
+  "no_author_model_or_experiment_rerun": true
+}

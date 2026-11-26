@@ -10336,5 +10336,87 @@
         "relationship": "earlier massless-limit study cited by the Letter, not identity alias; not read this run"
       }
     ]
+  },
+  {
+    "title": "Computational assessment of 47Sc production for theranostic applications via proton and deuteron irradiation of enriched 50Ti and 49Ti targets",
+    "normalized_title": "computational assessment of 47sc production for theranostic applications via proton and deuteron irradiation of enriched 50ti and 49ti targets",
+    "doi": "10.1186/s40658-026-00968-z",
+    "authors": [
+      "Lucia De Dominicis",
+      "Laura Meléndez-Alafort",
+      "Laura De Nardo"
+    ],
+    "journal": "EJNMMI Physics",
+    "publication_date": "2026-11-26",
+    "publication_date_type": "publisher PDF Published online26November2026, article metadata and Crossref agree",
+    "accepted_date": "2026-11-11",
+    "source_url": "https://link.springer.com/article/10.1186/s40658-026-00968-z",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1186/s40658-026-00968-z_reference.pdf",
+    "publication_status": "published online Article in Press",
+    "fulltext_version": "publisher Article in Press14p, not final edited VOR",
+    "categories": [
+      "laser-accelerated-beam-applications"
+    ],
+    "supplement_path": "daily/2026-11-27/supplements/dedominicis-2026-sc47-tables.docx",
+    "pdf_path": "daily/2026-11-27/pdfs/dedominicis-2026-sc47.pdf",
+    "note_path": "daily/2026-11-27/notes/dedominicis-2026-sc47.md",
+    "pdf_sha256": "54091c3aadee0bf03b91c815d6bfce792e54c38558f79b810ec47cba4629b803",
+    "processed_date": "2026-11-27"
+  },
+  {
+    "title": "Speckle renewal, not bandwidth alone, mitigates kinetic Raman scattering at moderate bandwidth",
+    "normalized_title": "speckle renewal not bandwidth alone mitigates kinetic raman scattering at moderate bandwidth",
+    "doi": "10.48550/arXiv.2611.33971",
+    "arxiv_id": "2611.33971",
+    "arxiv_version": "v1",
+    "authors": [
+      "Masson-Laborde, P. -E",
+      "Bouchard, G",
+      "Capdessus, R",
+      "Ruyer, C",
+      "Debayle, A",
+      "Fusaro, A"
+    ],
+    "journal": "arXiv preprint",
+    "publication_date": "2026-11-25",
+    "publication_date_type": "arXiv first submission; announcement2026-11-26; PDF internal dated2026-11-26",
+    "source_url": "https://arxiv.org/abs/2611.33971",
+    "pdf_url": "https://arxiv.org/pdf/2611.33971v1",
+    "publication_status": "preprint; same-work journal not verified in bounded exact title Crossref top3",
+    "fulltext_version": "official author arXiv v1",
+    "categories": [
+      "hedp-icf-laboratory-astrophysics",
+      "pic-and-plasma-simulation",
+      "laser-plasma-acceleration"
+    ],
+    "pdf_path": "daily/2026-11-27/pdfs/massonlaborde-2026-speckle.pdf",
+    "note_path": "daily/2026-11-27/notes/massonlaborde-2026-speckle.md",
+    "pdf_sha256": "b28b8c5fc3be32b1a30d627103ab7e3c78477f9b3a1222c4eb4db5900bfa05f2",
+    "processed_date": "2026-11-27"
+  },
+  {
+    "title": "Plasma transport by carrier electrons: Nernst advection beyond the heat-flow analogy due to kinetic stress",
+    "normalized_title": "plasma transport by carrier electrons nernst advection beyond the heat flow analogy due to kinetic stress",
+    "doi": "10.48550/arXiv.2611.34766",
+    "arxiv_id": "2611.34766",
+    "arxiv_version": "v1",
+    "authors": [
+      "Walsh, C. A."
+    ],
+    "journal": "arXiv preprint",
+    "publication_date": "2026-11-25",
+    "publication_date_type": "arXiv first submission; announcement2026-11-26; PDF internal dated2026-11-26",
+    "source_url": "https://arxiv.org/abs/2611.34766",
+    "pdf_url": "https://arxiv.org/pdf/2611.34766v1",
+    "publication_status": "preprint; same-work journal not verified in bounded exact title Crossref top3",
+    "fulltext_version": "official author arXiv v1",
+    "categories": [
+      "hedp-icf-laboratory-astrophysics",
+      "pic-and-plasma-simulation"
+    ],
+    "pdf_path": "daily/2026-11-27/pdfs/walsh-2026-nernst.pdf",
+    "note_path": "daily/2026-11-27/notes/walsh-2026-nernst.md",
+    "pdf_sha256": "c4c75684fd0aab343ab7f0f1035745bb90ad6d84f17dd7e88c2a6a1e8bdbe048",
+    "processed_date": "2026-11-27"
   }
 ]

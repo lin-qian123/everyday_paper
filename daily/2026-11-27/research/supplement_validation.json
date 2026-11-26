@@ -1,0 +1,19 @@
+{
+  "path": "daily/2026-11-27/supplements/dedominicis-2026-sc47-tables.docx",
+  "sha256": "9c3519587fb4dca473219148f84133e2b1d53f3be312b9027e43ccb0572b91ab",
+  "bytes": 3060816,
+  "zip_crc": "passed",
+  "word_xml_parsed": true,
+  "tables": 3,
+  "all_three_scientific_tables_read": true,
+  "temporary_conversion": "LibreOffice5pagePDF visualcontact; not publisherPDF; deleted at cleanup",
+  "S3_kidney_mGy_per_MBq": {
+    "47Sc": 0.731,
+    "43Sc": 0.143,
+    "44gSc": 0.223,
+    "44mSc+44gSc": 2.81,
+    "46Sc": 2.62,
+    "48Sc": 1.39
+  },
+  "S1_total_energy_units": "MeV/nd; confirmsFig4axis vs captionkeV discrepancy"
+}

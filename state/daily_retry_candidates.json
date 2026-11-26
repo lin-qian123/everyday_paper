@@ -1831,5 +1831,26 @@
     "failure_count": 1,
     "attempted_at": "2026-11-25T23:06:29.696611+00:00",
     "evidence_path": "daily/2026-11-26/research/formal_access.json"
+  },
+  {
+    "doi": "10.1088/1361-6595/aec324",
+    "title": "Scaling of RF sheath rectification in magnetized plasmas: electron phase-induced enhancement and collapse",
+    "journal": "Plasma Sources Science and Technology",
+    "publication_date": "2026-11-26",
+    "publication_date_type": "official article online date and Crossref agree; final PDF not obtained",
+    "source_url": "https://iopscience.iop.org/article/10.1088/1361-6595/aec324",
+    "pdf_hint_url": "https://iopscience.iop.org/article/10.1088/1361-6595/aec324/pdf",
+    "pdf_candidates": [
+      "https://iopscience.iop.org/article/10.1088/1361-6595/aec324/pdf"
+    ],
+    "output_pdf": "daily/2026-11-27/pdfs/faabomve-2026-rf-sheath.pdf",
+    "source_family": "iop",
+    "status": "download_failed",
+    "last_failure_class": "publisher_pdf_returns_subscription_html",
+    "stderr": "Official PDF200 text/html196656B no PDF magic; article200196619B explicitly no institutional subscription. HAL exact-title top5 numFound0; OSTI quoted-title200 JSON[]2B. Bounded web no verified same-work authorPDF. No abstract-only note.",
+    "run_date": "2026-11-27",
+    "failure_count": 1,
+    "attempted_at": "2026-11-26T23:09:41.743881+00:00",
+    "evidence_path": "daily/2026-11-27/research/formal_access.json"
   }
 ]

@@ -1,0 +1,49 @@
+{
+  "run_date": "2026-11-27",
+  "checked_at": "2026-11-26T23:12:43.093630+00:00",
+  "ledger_before": 602,
+  "ledger_after": 605,
+  "new_works": 3,
+  "new_publisher_article_in_press": 1,
+  "new_author_preprints": 2,
+  "new_final_VORs": 0,
+  "old_works_preserved": 602,
+  "retry_before": 80,
+  "retry_after": 81,
+  "new_retry_dois": [
+    "10.1088/1361-6595/aec324"
+  ],
+  "old_retry_objects_preserved": 80,
+  "pdf_pages": 35,
+  "pdf_bytes": 3804278,
+  "scientific_supplement_docx_tables": 3,
+  "temporary_supplement_converted_visual_pages": 5,
+  "source_visual_pages_unique": 35,
+  "retained_crops": 21,
+  "primary_reopened_all_crops": true,
+  "mineru_requests": 0,
+  "author_models_or_experiments_rerun": false,
+  "indexes": {
+    "command": "python scripts/build_indexes.py",
+    "works": 605,
+    "categories": 9,
+    "status": "built"
+  },
+  "tests": {
+    "command": "PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q",
+    "passed": 7,
+    "seconds": 1.02,
+    "observed_exit_code": 0
+  },
+  "unrelated_generator_wrapper_regressions_restored": 7,
+  "verification_path": "daily/2026-11-27/research/verification.json",
+  "publication": {
+    "authorized_target": "origin/master",
+    "procedure": "commit audited run paths, verify committed blobs and HEAD==tracking==freshremote; result in automation memory"
+  },
+  "existing_AGENTS_modification_preserved_and_excluded": true,
+  "crossref_rows": 400,
+  "crossref_unique_dois": 343,
+  "arxiv_rows": 396,
+  "arxiv_unique_ids": 382
+}

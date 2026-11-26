@@ -1,0 +1,43 @@
+[
+  {
+    "key": "sc47",
+    "url": "https://link.springer.com/content/pdf/10.1186/s40658-026-00968-z_reference.pdf",
+    "final_url": "https://link.springer.com/content/pdf/10.1186/s40658-026-00968-z_reference.pdf",
+    "status": 200,
+    "bytes": 2190794,
+    "mime": "application/pdf",
+    "magic": "%PDF-",
+    "sha256": "54091c3aadee0bf03b91c815d6bfce792e54c38558f79b810ec47cba4629b803"
+  },
+  {
+    "key": "rf-article",
+    "url": "https://iopscience.iop.org/article/10.1088/1361-6595/aec324",
+    "final_url": "https://iopscience.iop.org/article/10.1088/1361-6595/aec324",
+    "status": 200,
+    "bytes": 196619,
+    "mime": "text/html;charset=UTF-8",
+    "magic": "<!DOC",
+    "sha256": "9cc65adf0692e7737a224f493c12add75b39e31d77a69cee18b41f04bc6cd6ac",
+    "title": "Scaling of RF sheath rectification in magnetized plasmas: electron phase-induced enhancement and collapse - IOPscience",
+    "text_excerpt": "Scaling of RF sheath rectification in magnetized plasmas: electron phase-induced enhancement and collapse - IOPscience Skip to content IOP Science home Accessibility Help Search Search all IOPscience content Search Article Lookup Journals Journals list Browse more than 100 science journal titles Subject collections Read the very best research published in IOP journals Publishing partners Partner organisations and publications Open access IOP Publishing open access policy guide IOP Conference Ser"
+  },
+  {
+    "key": "rf-hal",
+    "url": "https://api.archives-ouvertes.fr/search/?q=title_t:%22Scaling%20of%20RF%20sheath%20rectification%20in%20magnetized%20plasmas%22&rows=5&fl=title_s,doiId_s,uri_s,fileMain_s&wt=json",
+    "final_url": "https://api.archives-ouvertes.fr/search/?q=title_t:%22Scaling%20of%20RF%20sheath%20rectification%20in%20magnetized%20plasmas%22&rows=5&fl=title_s,doiId_s,uri_s,fileMain_s&wt=json",
+    "status": 200,
+    "bytes": 116,
+    "mime": "application/json; charset=utf-8",
+    "magic": "{\n  \"",
+    "sha256": "316b596864c92e18c8f6688107ad49ecfc3fe632ebdc85efe82c65ed28ba8064",
+    "response": {
+      "response": {
+        "numFound": 0,
+        "start": 0,
+        "maxScore": 0.0,
+        "numFoundExact": true,
+        "docs": []
+      }
+    }
+  }
+]

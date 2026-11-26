@@ -1,0 +1,686 @@
+[
+  {
+    "slug": "dedominicis-2026-sc47",
+    "url": "https://static-content.springer.com/esm/art%3A10.1186%2Fs40658-026-00968-z/MediaObjects/40658_2026_968_MOESM1_ESM.docx",
+    "status": 200,
+    "mime": "application/octet-stream",
+    "bytes": 3060816,
+    "sha256": "9c3519587fb4dca473219148f84133e2b1d53f3be312b9027e43ccb0572b91ab",
+    "path": "daily/2026-11-27/supplements/dedominicis-2026-sc47-tables.docx",
+    "word_document_xml_parsed": true,
+    "paragraphs": 655,
+    "tables": 3
+  },
+  {
+    "query": "Speckle renewal, not bandwidth alone, mitigates kinetic Raman scattering at moderate bandwidth",
+    "status": 200,
+    "bytes": 29113,
+    "results": [
+      {
+        "title": [
+          "Broad bandwidth, stimulated Raman scattering in optical fibers."
+        ],
+        "DOI": "10.1364/fio.2004.fwl3",
+        "author": [
+          {
+            "given": "E.A.",
+            "family": "Kuzin",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "S.",
+            "family": "Mendoza-Vazquez",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "J.",
+            "family": "Gutiérrez-Gutiérrez",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "B.",
+            "family": "Ibarra-Escamilla",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "J.W.",
+            "family": "Haus",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": null,
+        "relation": null
+      },
+      {
+        "title": [
+          "Effect of laser bandwidth on intense-field Raman scattering"
+        ],
+        "DOI": "10.1103/physreva.23.378",
+        "author": [
+          {
+            "given": "J.",
+            "family": "Cooper",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "A.",
+            "family": "Szöke",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              1981,
+              1,
+              1
+            ]
+          ]
+        },
+        "relation": null
+      },
+      {
+        "title": [
+          "Effects of moderate bandwidth on laser absorption and stimulated Raman sidescattering"
+        ],
+        "DOI": "10.1088/1741-4326/ada629",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-1232-3301",
+            "authenticated-orcid": true,
+            "given": "Ning",
+            "family": "Kang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yao",
+            "family": "Zhao",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Anle",
+            "family": "Lei",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-7621-4644",
+            "authenticated-orcid": true,
+            "given": "Huiya",
+            "family": "Liu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Fujian",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Guoxiao",
+            "family": "Xu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Honghai",
+            "family": "An",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jun",
+            "family": "Xiong",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Ruirong",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Zhiyong",
+            "family": "Xie",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Zhiheng",
+            "family": "Fang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Wei",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Lailin",
+            "family": "Ji",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Shenlei",
+            "family": "Zhou",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-7491-0627",
+            "authenticated-orcid": true,
+            "given": "Guangyue",
+            "family": "Hu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-0318-0732",
+            "authenticated-orcid": true,
+            "given": "Jiwei",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-6359-8212",
+            "authenticated-orcid": true,
+            "given": "Lifeng",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yanqi",
+            "family": "Gao",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Xiuguang",
+            "family": "Huang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Sizu",
+            "family": "Fu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              1,
+              20
+            ]
+          ]
+        },
+        "relation": null
+      }
+    ]
+  },
+  {
+    "query": "Plasma transport by carrier electrons: Nernst advection beyond the heat-flow analogy due to kinetic stress",
+    "status": 200,
+    "bytes": 36239,
+    "results": [
+      {
+        "title": [
+          "Kinetic corrections to heat-flow and Nernst advection for laser heated plasmas"
+        ],
+        "DOI": "10.1063/5.0225592",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-6639-3543",
+            "authenticated-orcid": false,
+            "given": "C. A.",
+            "family": "Walsh",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Lawrence Livermore National Laboratory , 7000 East Avenue, Livermore, California 94550,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-8098-5732",
+            "authenticated-orcid": false,
+            "given": "M.",
+            "family": "Sherlock",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Lawrence Livermore National Laboratory , 7000 East Avenue, Livermore, California 94550,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2024,
+              10,
+              10
+            ]
+          ]
+        },
+        "relation": null
+      },
+      {
+        "title": [
+          "Incorporating kinetic effects on Nernst advection in inertial fusion simulations"
+        ],
+        "DOI": "10.1088/1361-6587/aaca0b",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-5393-4585",
+            "authenticated-orcid": false,
+            "given": "J P",
+            "family": "Brodrick",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "M",
+            "family": "Sherlock",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-6758-220X",
+            "authenticated-orcid": false,
+            "given": "W A",
+            "family": "Farmer",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-3599-5629",
+            "authenticated-orcid": false,
+            "given": "A S",
+            "family": "Joglekar",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "R",
+            "family": "Barrois",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "J",
+            "family": "Wengraf",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "J J",
+            "family": "Bissell",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "R J",
+            "family": "Kingham",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-0390-7540",
+            "authenticated-orcid": false,
+            "given": "D Del",
+            "family": "Sorbo",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "M P",
+            "family": "Read",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "C P",
+            "family": "Ridgers",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2018,
+              6,
+              26
+            ]
+          ]
+        },
+        "relation": null
+      },
+      {
+        "title": [
+          "The Heat Carrier Flow Control in Heat Transport Systems"
+        ],
+        "DOI": "10.14529/ctcr160304",
+        "author": [
+          {
+            "given": "V.I.",
+            "family": "Panferov",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "S.V.",
+            "family": "Panferov",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2016
+            ]
+          ]
+        },
+        "relation": null
+      }
+    ]
+  },
+  {
+    "slug": "massonlaborde-2026-speckle",
+    "url": "https://arxiv.org/src/2611.33971v1",
+    "status": 200,
+    "mime": "application/gzip",
+    "bytes": 212539,
+    "sha256": "5df956fbf1ef8a994c228582775e6e2dd1760611cfcebc5c036475ac1aa3bedb",
+    "members": [
+      "00README.json",
+      "Fig1.pdf",
+      "Fig2a.pdf",
+      "Fig2b.pdf",
+      "Fig2c.pdf",
+      "Fig3a.pdf",
+      "Fig3b.pdf",
+      "Fig3c.pdf",
+      "PRL_BroadBand.bbl",
+      "PRL_BroadBand.tex"
+    ]
+  }
+]

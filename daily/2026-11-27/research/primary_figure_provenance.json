@@ -1,0 +1,156 @@
+{
+  "contact_sheet_pages": {
+    "dedominicis-2026-sc47": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "massonlaborde-2026-speckle": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "figures": [
+    {
+      "slug": "dedominicis-2026-sc47",
+      "source_pdf": "daily/2026-11-27/pdfs/dedominicis-2026-sc47.pdf",
+      "page_1based": 4,
+      "clip": [
+        45,
+        48,
+        552,
+        352
+      ],
+      "scale": 2,
+      "path": "daily/2026-11-27/notes/images/dedominicis-2026-sc47/fig1.png",
+      "sha256": "75ba9e78c92ae37861007e7a4a95d392279dadbfdca5934ef8b0e197699601a1"
+    },
+    {
+      "slug": "dedominicis-2026-sc47",
+      "source_pdf": "daily/2026-11-27/pdfs/dedominicis-2026-sc47.pdf",
+      "page_1based": 6,
+      "clip": [
+        45,
+        238,
+        553,
+        382
+      ],
+      "scale": 2,
+      "path": "daily/2026-11-27/notes/images/dedominicis-2026-sc47/fig2.png",
+      "sha256": "6cc06ba72dc51be18dd3aab043adca83b021bff10701f9c0e80dc1f4d70cf3cf"
+    },
+    {
+      "slug": "dedominicis-2026-sc47",
+      "source_pdf": "daily/2026-11-27/pdfs/dedominicis-2026-sc47.pdf",
+      "page_1based": 7,
+      "clip": [
+        45,
+        580,
+        552,
+        726
+      ],
+      "scale": 2,
+      "path": "daily/2026-11-27/notes/images/dedominicis-2026-sc47/fig3.png",
+      "sha256": "8c2284567648572a71657a6e603f05f68a439f0b572e242f5fb46bbd12b8495d"
+    },
+    {
+      "slug": "dedominicis-2026-sc47",
+      "source_pdf": "daily/2026-11-27/pdfs/dedominicis-2026-sc47.pdf",
+      "page_1based": 8,
+      "clip": [
+        45,
+        48,
+        552,
+        203
+      ],
+      "scale": 2,
+      "path": "daily/2026-11-27/notes/images/dedominicis-2026-sc47/fig4.png",
+      "sha256": "abdd8a7415cab3b0da833d7c7800b603925aeab9543a6c925b664195bdbf9262"
+    },
+    {
+      "slug": "dedominicis-2026-sc47",
+      "source_pdf": "daily/2026-11-27/pdfs/dedominicis-2026-sc47.pdf",
+      "page_1based": 8,
+      "clip": [
+        45,
+        203,
+        552,
+        352
+      ],
+      "scale": 2,
+      "path": "daily/2026-11-27/notes/images/dedominicis-2026-sc47/fig5.png",
+      "sha256": "33f804cbd25bfedc454d4b50f30cbbf43b64dae5c3603a88ebd91a4e45ac6814"
+    },
+    {
+      "slug": "dedominicis-2026-sc47",
+      "source_pdf": "daily/2026-11-27/pdfs/dedominicis-2026-sc47.pdf",
+      "page_1based": 9,
+      "clip": [
+        45,
+        48,
+        553,
+        213
+      ],
+      "scale": 2,
+      "path": "daily/2026-11-27/notes/images/dedominicis-2026-sc47/fig6.png",
+      "sha256": "09d853aa47c3c1c7e382b8250a313dc2d9438ddb15cc2ad6bf6554912750f1d9"
+    },
+    {
+      "slug": "massonlaborde-2026-speckle",
+      "source_pdf": "daily/2026-11-27/pdfs/massonlaborde-2026-speckle.pdf",
+      "page_1based": 2,
+      "clip": [
+        311,
+        50,
+        568,
+        307
+      ],
+      "scale": 2,
+      "path": "daily/2026-11-27/notes/images/massonlaborde-2026-speckle/fig1.png",
+      "sha256": "8b74e808f791c359d311dc09a99a7d3172d86db14fe4423a56598e9468cc6825"
+    },
+    {
+      "slug": "massonlaborde-2026-speckle",
+      "source_pdf": "daily/2026-11-27/pdfs/massonlaborde-2026-speckle.pdf",
+      "page_1based": 4,
+      "clip": [
+        47,
+        48,
+        569,
+        283
+      ],
+      "scale": 2,
+      "path": "daily/2026-11-27/notes/images/massonlaborde-2026-speckle/fig2.png",
+      "sha256": "ee4a9960bf2f4716b043dc92f48ae0c1ed0b65e9e624318e0025f0507202c8e3"
+    },
+    {
+      "slug": "massonlaborde-2026-speckle",
+      "source_pdf": "daily/2026-11-27/pdfs/massonlaborde-2026-speckle.pdf",
+      "page_1based": 5,
+      "clip": [
+        47,
+        47,
+        570,
+        262
+      ],
+      "scale": 2,
+      "path": "daily/2026-11-27/notes/images/massonlaborde-2026-speckle/fig3.png",
+      "sha256": "1ca9a50b2c7ba0b8c91715fe78063daab92ea5164443f8ccedf8b8d4708de2de"
+    }
+  ]
+}

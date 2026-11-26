@@ -1,0 +1,29 @@
+{
+  "url": "https://arxiv.org/abs/2611.34766",
+  "status": 200,
+  "metadata": {
+    "citation_title": [
+      "Plasma transport by carrier electrons: Nernst advection beyond the heat-flow analogy due to kinetic stress"
+    ],
+    "citation_author": [
+      "Walsh, C. A."
+    ],
+    "citation_date": [
+      "2026/11/25"
+    ],
+    "citation_online_date": [
+      "2026/11/25"
+    ],
+    "citation_pdf_url": [
+      "https://arxiv.org/pdf/2611.34766"
+    ],
+    "citation_arxiv_id": [
+      "2611.34766"
+    ],
+    "citation_abstract": [
+      "Nernst advection of magnetic fields down temperature gradients is lowered by kinetic stress from the $\\underline{\\underline{f}}_2$ electron distribution harmonic, which allows fluxes to stream past one another without isotropizing their lateral momentum. The long-held tie between heat-flow and Nernst advection is disrupted. When the distance between electron collisions is comparable to the magnetic field length-scale $L_B$, the kinetic stress affects magnetic transport in plasmas otherwise regarded as classical. This is from carrier electrons being deflected back and forth over the course of their trajectory. The field structure Knudsen number is defined: $Kn_B=14.8\\frac{\\lambda_{ei}}{L_B}\\frac{Z+0.40}{Z+4.86}$, with Nernst velocity halved by kinetic effects at $Kn_B=1$. The kinetic stress is relocalized by magnetization, following the relocalization of heat-flux. Righi-Leduc heat-flow is found to be similarly suppressed by kinetic stress. The linear results of this paper are found to faithfully represent the non-linear evolution of magnetic field at a heat-front, indicating that low-$Z$ plasmas throughout magnetized-HED are demagnetized more slowly than previously anticipated."
+    ]
+  },
+  "history": "Submission history From: Christopher Walsh [ view email ] [v1] Wed, 25 Nov 2026 17:34:10 UTC (729 KB)",
+  "abstract": "Abstract: Nernst advection of magnetic fields down temperature gradients is lowered by kinetic stress from the $\\underline{\\underline{f}}_2$ electron distribution harmonic, which allows fluxes to stream past one another without isotropizing their lateral momentum. The long-held tie between heat-flow and Nernst advection is disrupted. When the distance between electron collisions is comparable to the magnetic field length-scale $L_B$, the kinetic stress affects magnetic transport in plasmas otherwise regarded as classical. This is from carrier electrons being deflected back and forth over the course of their trajectory. The field structure Knudsen number is defined: $Kn_B=14.8\\frac{\\lambda_{ei}}{L_B}\\frac{Z+0.40}{Z+4.86}$, with Nernst velocity halved by kinetic effects at $Kn_B=1$. The kinetic stress is relocalized by magnetization, following the relocalization of heat-flux. Righi-Leduc heat-flow is found to be similarly suppressed by kinetic stress. The linear results of this paper are found to faithfully represent the non-linear evolution of magnetic field at a heat-front, indicating that low-$Z$ plasmas throughout magnetized-HED are demagnetized more slowly than previously anticipated."
+}

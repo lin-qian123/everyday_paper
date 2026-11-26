@@ -2,11 +2,13 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：271 篇
-- 索引更新时间：2026-11-26
+- 当前收录：273 篇
+- 索引更新时间：2026-11-27
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-27 | [Speckle renewal, not bandwidth alone, mitigates kinetic Raman scattering at moderate bandwidth](../papers/arxiv-2611-33971/README.md) | arXiv preprint | [笔记](../daily/2026-11-27/notes/massonlaborde-2026-speckle.md) |
+| 2026-11-27 | [Plasma transport by carrier electrons: Nernst advection beyond the heat-flow analogy due to kinetic stress](../papers/arxiv-2611-34766/README.md) | arXiv preprint | [笔记](../daily/2026-11-27/notes/walsh-2026-nernst.md) |
 | 2026-11-25 | [Phase-Space Shaping Due to Betatron Cooling in Wakefield Accelerators and the Onset of the Ion-Channel Laser](../papers/10-1103-k67h-dvxp/README.md) | Physical Review Letters | [笔记](../daily/2026-11-25/notes/bilbao-2026-betatron-cooling.md) |
 | 2026-11-25 | [Multi-diagnostic experimental validation of PIC/MCC simulations of symmetric capacitively coupled plasmas in CF4](../papers/10-1088-1361-6595-aebfc4/README.md) | Plasma Sources Science and Technology | [笔记](../daily/2026-11-25/notes/neuroth-2026-cf4-pic-validation.md) |
 | 2026-11-25 | [Relativistic Harmonic Generation in Spatiotemporal Plasma Photonic Crystals](../papers/arxiv-2611-30084/README.md) | arXiv | [笔记](../daily/2026-11-25/notes/zhang-2026-plasma-crystals.md) |

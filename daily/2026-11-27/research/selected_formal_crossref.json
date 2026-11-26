@@ -1,0 +1,1272 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          26
+        ]
+      ],
+      "date-time": "2026-11-26T12:15:39Z",
+      "timestamp": 1795695339778,
+      "version": "4.11.3"
+    },
+    "reference-count": 0,
+    "publisher": "Springer Science and Business Media LLC",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              26
+            ]
+          ],
+          "date-time": "2026-11-26T00:00:00Z",
+          "timestamp": 1795651200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              26
+            ]
+          ],
+          "date-time": "2026-11-26T00:00:00Z",
+          "timestamp": 1795651200000
+        },
+        "content-version": "am",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100013168",
+        "name": "Istituto Nazionale di Fisica Nucleare",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "Istituto Nazionale di Fisica Nucleare"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "Istituto Nazionale di Fisica Nucleare"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100013168",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100003500",
+        "name": "Università degli Studi di Padova",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "PARD-2023, CUP C93C23004250005"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "PARD-2023, CUP C93C23004250005"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100003500",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "EJNMMI Phys"
+    ],
+    "DOI": "10.1186/s40658-026-00968-z",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          26
+        ]
+      ],
+      "date-time": "2026-11-26T11:57:25Z",
+      "timestamp": 1795694245000
+    },
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Computational assessment of 47Sc production for theranostic applications via proton and deuteron irradiation of enriched 50Ti and 49Ti targets"
+    ],
+    "prefix": "10.1186",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-9616-7128",
+        "authenticated-orcid": false,
+        "given": "Lucia",
+        "family": "De Dominicis",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0701-3616",
+        "authenticated-orcid": false,
+        "given": "Laura",
+        "family": "Meléndez-Alafort",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          },
+          {
+            "role": "corresponding-author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0061-370X",
+        "authenticated-orcid": false,
+        "given": "Laura",
+        "family": "De Nardo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          26
+        ]
+      ]
+    },
+    "container-title": [
+      "EJNMMI Physics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/article/10.1186/s40658-026-00968-z",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          26
+        ]
+      ],
+      "date-time": "2026-11-26T11:57:25Z",
+      "timestamp": 1795694245000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/article/10.1186/s40658-026-00968-z"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          26
+        ]
+      ]
+    },
+    "references-count": 0,
+    "alternative-id": [
+      "968"
+    ],
+    "URL": "https://doi.org/10.1186/s40658-026-00968-z",
+    "relation": {},
+    "ISSN": [
+      "2197-7364"
+    ],
+    "issn-type": [
+      {
+        "value": "2197-7364",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          26
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "23 June 2026",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "11 November 2026",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "26 November 2026",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "Not applicable.",
+        "order": 1,
+        "name": "Ethics",
+        "label": "Ethics approval and consent to participate",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "Not applicable.",
+        "order": 2,
+        "name": "Ethics",
+        "label": "Consent for publication",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "The authors declare that they have no competing interests.",
+        "order": 3,
+        "name": "Ethics",
+        "label": "Competing interests",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          26
+        ]
+      ],
+      "date-time": "2026-11-26T07:12:01Z",
+      "timestamp": 1795677121841,
+      "version": "4.11.3"
+    },
+    "reference-count": 43,
+    "publisher": "IOP Publishing",
+    "issue": "11",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              26
+            ]
+          ],
+          "date-time": "2026-11-26T00:00:00Z",
+          "timestamp": 1795651200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 25,
+        "URL": "https://publishingsupport.iopscience.iop.org/iop-standard/v1"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              26
+            ]
+          ],
+          "date-time": "2026-11-26T00:00:00Z",
+          "timestamp": 1795651200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 25,
+        "URL": "https://iopscience.iop.org/info/page/text-and-data-mining"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "iopscience.iop.org"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Plasma Sources Sci. Technol."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          1
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    This paper investigates radio-frequency (RF) sheath rectification in strongly magnetized discharges under inclined magnetic field configurations using 1D3V particle-in-cell (PIC) simulations and an analytical plasma series resonance (PSR) model. We show that tilting the magnetic field toward grazing incidence (\n                    <jats:inline-formula>\n                      <jats:tex-math>\n                        \n                      </jats:tex-math>\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" overflow=\"scroll\">\n                        <mml:mrow>\n                          <mml:mi>θ</mml:mi>\n                          <mml:mo accent=\"false\" stretchy=\"false\">→</mml:mo>\n                          <mml:mn>0</mml:mn>\n                        </mml:mrow>\n                      </mml:math>\n                    </jats:inline-formula>\n                    ) lowers the resonant frequency of the plasma-sheath system by effectively increasing the electron inertia along field lines. The dynamic response of the system is universally governed by the dimensionless parameter\n                    <jats:inline-formula>\n                      <jats:tex-math>\n                        \n                      </jats:tex-math>\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" overflow=\"scroll\">\n                        <mml:mrow>\n                          <mml:mi>χ</mml:mi>\n                          <mml:mo>=</mml:mo>\n                          <mml:mfrac>\n                            <mml:mrow>\n                              <mml:msub>\n                                <mml:mi>ω</mml:mi>\n                                <mml:mrow>\n                                  <mml:mi>pe</mml:mi>\n                                </mml:mrow>\n                              </mml:msub>\n                              <mml:mi>sin</mml:mi>\n                              <mml:mo>⁡</mml:mo>\n                              <mml:mi>θ</mml:mi>\n                            </mml:mrow>\n                            <mml:mi>ω</mml:mi>\n                          </mml:mfrac>\n                        </mml:mrow>\n                      </mml:math>\n                    </jats:inline-formula>\n                    , which controls the interplay between the projected plasma frequency and the RF driving frequency\n                    <jats:inline-formula>\n                      <jats:tex-math>\n                        \n                      </jats:tex-math>\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" overflow=\"scroll\">\n                        <mml:mrow>\n                          <mml:mi>ω</mml:mi>\n                        </mml:mrow>\n                      </mml:math>\n                    </jats:inline-formula>\n                    . For large values (\n                    <jats:inline-formula>\n                      <jats:tex-math>\n                        \n                      </jats:tex-math>\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" overflow=\"scroll\">\n                        <mml:mrow>\n                          <mml:mi>χ</mml:mi>\n                          <mml:mo>≫</mml:mo>\n                          <mml:mn>100</mml:mn>\n                        </mml:mrow>\n                      </mml:math>\n                    </jats:inline-formula>\n                    ), the normalized rectified potential\n                    <jats:inline-formula>\n                      <jats:tex-math>\n                        \n                      </jats:tex-math>\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" overflow=\"scroll\">\n                        <mml:mrow>\n                          <mml:mo stretchy=\"false\">(</mml:mo>\n                          <mml:msub>\n                            <mml:mi>V</mml:mi>\n                            <mml:mrow>\n                              <mml:mtext>DC</mml:mtext>\n                            </mml:mrow>\n                          </mml:msub>\n                          <mml:mo>−</mml:mo>\n                          <mml:msub>\n                            <mml:mi>V</mml:mi>\n                            <mml:mrow>\n                              <mml:mtext>fl</mml:mtext>\n                            </mml:mrow>\n                          </mml:msub>\n                          <mml:mo stretchy=\"false\">)</mml:mo>\n                          <mml:mrow>\n                            <mml:mo>/</mml:mo>\n                          </mml:mrow>\n                          <mml:msub>\n                            <mml:mi>V</mml:mi>\n                            <mml:mrow>\n                              <mml:mtext>RF</mml:mtext>\n                            </mml:mrow>\n                          </mml:msub>\n                        </mml:mrow>\n                      </mml:math>\n                    </jats:inline-formula>\n                    follows the classical capacitive limit of\n                    <jats:inline-formula>\n                      <jats:tex-math>\n                        \n                      </jats:tex-math>\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" overflow=\"scroll\">\n                        <mml:mrow>\n                          <mml:mn>1</mml:mn>\n                          <mml:mrow>\n                            <mml:mo>/</mml:mo>\n                          </mml:mrow>\n                          <mml:mi>π</mml:mi>\n                        </mml:mrow>\n                      </mml:math>\n                    </jats:inline-formula>\n                    . As\n                    <jats:inline-formula>\n                      <jats:tex-math>\n                        \n                      </jats:tex-math>\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" overflow=\"scroll\">\n                        <mml:mrow>\n                          <mml:mi>χ</mml:mi>\n                        </mml:mrow>\n                      </mml:math>\n                    </jats:inline-formula>\n                    decreases, ion inertia effects cause the normalized potential to asymptote toward\n                    <jats:inline-formula>\n                      <jats:tex-math>\n                        \n                      </jats:tex-math>\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" overflow=\"scroll\">\n                        <mml:mrow>\n                          <mml:mn>1</mml:mn>\n                          <mml:mrow>\n                            <mml:mo>/</mml:mo>\n                          </mml:mrow>\n                          <mml:mn>2</mml:mn>\n                        </mml:mrow>\n                      </mml:math>\n                    </jats:inline-formula>\n                    . At intermediate values (\n                    <jats:inline-formula>\n                      <jats:tex-math>\n                        \n                      </jats:tex-math>\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" overflow=\"scroll\">\n                        <mml:mrow>\n                          <mml:msub>\n                            <mml:mi>χ</mml:mi>\n                            <mml:mrow>\n                              <mml:mi mathvariant=\"normal\">r</mml:mi>\n                            </mml:mrow>\n                          </mml:msub>\n                          <mml:mo>≈</mml:mo>\n                          <mml:mn>3</mml:mn>\n                          <mml:mtext>–</mml:mtext>\n                          <mml:mn>5</mml:mn>\n                        </mml:mrow>\n                      </mml:math>\n                    </jats:inline-formula>\n                    ), a strong resonant enhancement of\n                    <jats:inline-formula>\n                      <jats:tex-math>\n                        \n                      </jats:tex-math>\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" overflow=\"scroll\">\n                        <mml:mrow>\n                          <mml:msub>\n                            <mml:mi>V</mml:mi>\n                            <mml:mrow>\n                              <mml:mtext>DC</mml:mtext>\n                            </mml:mrow>\n                          </mml:msub>\n                        </mml:mrow>\n                      </mml:math>\n                    </jats:inline-formula>\n                    occurs, driven by the series resonance between the capacitive sheath and the inductive magnetized bulk. This potential peak is strongly attenuated as electron–neutral collisionality increases. Finally, for grazing angles near\n                    <jats:inline-formula>\n                      <jats:tex-math>\n                        \n                      </jats:tex-math>\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" overflow=\"scroll\">\n                        <mml:mrow>\n                          <mml:mi>χ</mml:mi>\n                          <mml:mo>≃</mml:mo>\n                          <mml:mn>1</mml:mn>\n                        </mml:mrow>\n                      </mml:math>\n                    </jats:inline-formula>\n                    , the electron transit time through the sheath matches the RF period leading to a total collapse of the rectified potential. The analytical PSR model shows excellent agreement with PIC simulations across a wide of driving frequencies, RF voltage amplitudes, and discharge lengths. These results provide a robust predictive framework for controlling sheath potentials, impurity sourcing, and power coupling in industrial plasma sources and ion cyclotron resonance heating antennas in fusion devices.\n                  </jats:p>",
+    "DOI": "10.1088/1361-6595/aec324",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          17
+        ]
+      ],
+      "date-time": "2026-11-17T22:52:27Z",
+      "timestamp": 1794955947000
+    },
+    "page": "115021",
+    "update-policy": "https://doi.org/10.1088/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Scaling of RF sheath rectification in magnetized plasmas: electron phase-induced enhancement and collapse"
+    ],
+    "prefix": "10.1088",
+    "volume": "35",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0002-9907-6517",
+        "authenticated-orcid": true,
+        "given": "L",
+        "family": "Tsowemoo Faabomve",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Université de Lorraine"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          },
+          {
+            "role": "data-curation",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "formal-analysis",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "investigation",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "methodology",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "software",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "visualization",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "writing-review-editing",
+            "vocabulary": "credit"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4026-6802",
+        "authenticated-orcid": true,
+        "given": "G",
+        "family": "Urbanczyk",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Université de Lorraine"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          },
+          {
+            "role": "supervision",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "writing-review-editing",
+            "vocabulary": "credit"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7035-4574",
+        "authenticated-orcid": true,
+        "given": "S",
+        "family": "Heuraux",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Université de Lorraine"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          },
+          {
+            "role": "formal-analysis",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "investigation",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "methodology",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "visualization",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "writing-review-editing",
+            "vocabulary": "credit"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2119-8648",
+        "authenticated-orcid": true,
+        "given": "P",
+        "family": "Hiret",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Basel"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          },
+          {
+            "role": "writing-review-editing",
+            "vocabulary": "credit"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1529-9362",
+        "authenticated-orcid": true,
+        "given": "L",
+        "family": "Marot",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Basel"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          },
+          {
+            "role": "writing-review-editing",
+            "vocabulary": "credit"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2328-9308",
+        "authenticated-orcid": true,
+        "given": "V",
+        "family": "Bobkov",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Max-Planck-Institut für Plasmaphysik"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          },
+          {
+            "role": "writing-review-editing",
+            "vocabulary": "credit"
+          }
+        ]
+      },
+      {
+        "given": "J",
+        "family": "Moritz",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Université de Lorraine"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          },
+          {
+            "role": "formal-analysis",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "funding-acquisition",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "investigation",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "methodology",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "project-administration",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "software",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "supervision",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "visualization",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "writing-review-editing",
+            "vocabulary": "credit"
+          }
+        ]
+      }
+    ],
+    "member": "266",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          26
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "psstaec324bib1",
+        "doi-asserted-by": "publisher",
+        "first-page": "S1005",
+        "DOI": "10.1016/j.jnucmat.2010.08.066",
+        "type": "journal-article",
+        "volume": "415",
+        "author": "Bobkov",
+        "year": "2011",
+        "journal-title": "J. Nucl. Mater."
+      },
+      {
+        "key": "psstaec324bib2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.nme.2024.101742",
+        "type": "journal-article",
+        "volume": "41",
+        "author": "Bobkov",
+        "year": "2024",
+        "journal-title": "Nucl. Mater. Energy"
+      },
+      {
+        "key": "psstaec324bib3",
+        "doi-asserted-by": "publisher",
+        "first-page": "491",
+        "DOI": "10.1016/j.jnucmat.2007.01.273",
+        "type": "journal-article",
+        "volume": "363",
+        "author": "Team C-Mod",
+        "year": "2007",
+        "journal-title": "J. Nucl. Mater."
+      },
+      {
+        "key": "psstaec324bib4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/1741-4326/ade456",
+        "type": "journal-article",
+        "volume": "65",
+        "author": "Alcator C-Mod Team",
+        "year": "2025",
+        "journal-title": "Nucl. Fusion"
+      },
+      {
+        "key": "psstaec324bib5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/0741-3335/55/1/015004",
+        "type": "journal-article",
+        "volume": "55",
+        "author": "Qin",
+        "year": "2013",
+        "journal-title": "Plasma Phys. Control. Fusion"
+      },
+      {
+        "key": "psstaec324bib6",
+        "doi-asserted-by": "publisher",
+        "first-page": "1253",
+        "DOI": "10.1063/1.347311",
+        "type": "journal-article",
+        "volume": "69",
+        "author": "Manenschijn",
+        "year": "1991",
+        "journal-title": "J. Appl. Phys."
+      },
+      {
+        "key": "psstaec324bib7",
+        "doi-asserted-by": "publisher",
+        "first-page": "288",
+        "DOI": "10.1016/S0040-6090(03)00385-7",
+        "type": "journal-article",
+        "volume": "435",
+        "author": "Kim",
+        "year": "2003",
+        "journal-title": "Thin Solid Films"
+      },
+      {
+        "key": "psstaec324bib8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/1361-6595/ac869a",
+        "type": "journal-article",
+        "volume": "31",
+        "author": "Tsankov",
+        "year": "2022",
+        "journal-title": "Plasma Sources Sci. Technol."
+      },
+      {
+        "key": "psstaec324bib9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0022377821000878",
+        "type": "journal-article",
+        "volume": "87",
+        "author": "Myra",
+        "year": "2021",
+        "journal-title": "J. Plasma Phys."
+      },
+      {
+        "key": "psstaec324bib10",
+        "doi-asserted-by": "publisher",
+        "first-page": "R45",
+        "DOI": "10.1088/0963-0252/8/3/202",
+        "type": "journal-article",
+        "volume": "8",
+        "author": "Kawamura",
+        "year": "1999",
+        "journal-title": "Plasma Sources Sci. Technol."
+      },
+      {
+        "key": "psstaec324bib11",
+        "doi-asserted-by": "publisher",
+        "first-page": "999",
+        "DOI": "10.1063/1.343003",
+        "type": "journal-article",
+        "volume": "65",
+        "author": "Riemann",
+        "year": "1989",
+        "journal-title": "J. Appl. Phys."
+      },
+      {
+        "key": "psstaec324bib12",
+        "doi-asserted-by": "publisher",
+        "first-page": "638",
+        "DOI": "10.1109/27.16552",
+        "type": "journal-article",
+        "volume": "16",
+        "author": "Lieberman",
+        "year": "1988",
+        "journal-title": "IEEE Trans. Plasma Sci."
+      },
+      {
+        "key": "psstaec324bib13",
+        "doi-asserted-by": "publisher",
+        "first-page": "238",
+        "DOI": "10.1103/PhysRevLett.5.238",
+        "type": "journal-article",
+        "volume": "5",
+        "author": "Takayama",
+        "year": "1960",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "psstaec324bib14",
+        "doi-asserted-by": "publisher",
+        "first-page": "5455",
+        "DOI": "10.1063/1.359242",
+        "type": "journal-article",
+        "volume": "77",
+        "author": "Annaratone",
+        "year": "1995",
+        "journal-title": "J. Appl. Phys."
+      },
+      {
+        "key": "psstaec324bib15",
+        "doi-asserted-by": "publisher",
+        "first-page": "6536",
+        "DOI": "10.1063/1.369025",
+        "type": "journal-article",
+        "volume": "84",
+        "author": "Ku",
+        "year": "1998",
+        "journal-title": "J. Appl. Phys."
+      },
+      {
+        "key": "psstaec324bib16",
+        "doi-asserted-by": "publisher",
+        "first-page": "96",
+        "DOI": "10.1088/0963-0252/7/2/003",
+        "type": "journal-article",
+        "volume": "7",
+        "author": "Cooperberg",
+        "year": "1998",
+        "journal-title": "Plasma Sources Sci. Technol."
+      },
+      {
+        "key": "psstaec324bib17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevLett.133.235302",
+        "type": "journal-article",
+        "volume": "133",
+        "author": "Sun",
+        "year": "2024",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "psstaec324bib18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/1742-6596/86/1/012010",
+        "type": "journal-article",
+        "volume": "86",
+        "author": "Schulze",
+        "year": "2007",
+        "journal-title": "J. Phys.: Conf. Ser."
+      },
+      {
+        "key": "psstaec324bib19",
+        "doi-asserted-by": "publisher",
+        "first-page": "1266",
+        "DOI": "10.1143/JPSJ.22.1266",
+        "type": "journal-article",
+        "volume": "22",
+        "author": "Dote",
+        "year": "1967"
+      },
+      {
+        "key": "psstaec324bib20",
+        "doi-asserted-by": "publisher",
+        "first-page": "57",
+        "DOI": "10.1088/0963-0252/12/1/308",
+        "type": "journal-article",
+        "volume": "12",
+        "author": "Qiu",
+        "year": "2003",
+        "journal-title": "Plasma Sources Sci. Technol."
+      },
+      {
+        "key": "psstaec324bib21",
+        "doi-asserted-by": "publisher",
+        "first-page": "423",
+        "DOI": "10.1119/1.1975598",
+        "type": "journal-article",
+        "volume": "37",
+        "author": "Taillet",
+        "year": "1969",
+        "journal-title": "Am. J. Phys."
+      },
+      {
+        "key": "psstaec324bib22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1063/1.2397043",
+        "type": "journal-article",
+        "volume": "13",
+        "author": "Czarnetzki",
+        "year": "2006",
+        "journal-title": "Phys. Plasmas"
+      },
+      {
+        "key": "psstaec324bib23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1051/epjconf/202634602003",
+        "type": "book",
+        "volume": "vol 346",
+        "author": "Mantsinen",
+        "year": "2026"
+      },
+      {
+        "key": "psstaec324bib24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fphy.2021.639010",
+        "type": "journal-article",
+        "volume": "9",
+        "author": "Takahashi",
+        "year": "2021",
+        "journal-title": "Front. Phys."
+      },
+      {
+        "key": "psstaec324bib25",
+        "doi-asserted-by": "publisher",
+        "first-page": "3",
+        "DOI": "10.1007/s41614-019-0024-2",
+        "type": "journal-article",
+        "volume": "3",
+        "author": "Takahashi",
+        "year": "2019",
+        "journal-title": "Rev. Mod. Phys."
+      },
+      {
+        "key": "psstaec324bib26",
+        "doi-asserted-by": "publisher",
+        "first-page": "520",
+        "DOI": "10.2514/1.B34574",
+        "type": "journal-article",
+        "volume": "29",
+        "author": "Williams",
+        "year": "2013",
+        "journal-title": "J. Propul. Power."
+      },
+      {
+        "key": "psstaec324bib27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.vacuum.2025.114349",
+        "type": "journal-article",
+        "volume": "239",
+        "author": "Hiret",
+        "year": "2025",
+        "journal-title": "Vacuum"
+      },
+      {
+        "key": "psstaec324bib28",
+        "doi-asserted-by": "publisher",
+        "first-page": "991",
+        "DOI": "10.3390/mi12080991",
+        "type": "journal-article",
+        "volume": "12",
+        "author": "Huff",
+        "year": "2021",
+        "journal-title": "Micromachines"
+      },
+      {
+        "key": "psstaec324bib29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1063/5.0273879",
+        "type": "journal-article",
+        "volume": "32",
+        "author": "Tang",
+        "year": "2025",
+        "journal-title": "Phys. Plasmas"
+      },
+      {
+        "key": "psstaec324bib30",
+        "doi-asserted-by": "publisher",
+        "first-page": "1628",
+        "DOI": "10.1063/1.863955",
+        "type": "journal-article",
+        "volume": "25",
+        "author": "Chodura",
+        "year": "1982",
+        "journal-title": "Phys. Fluids"
+      },
+      {
+        "key": "psstaec324bib31",
+        "doi-asserted-by": "publisher",
+        "first-page": "A327",
+        "DOI": "10.1088/0741-3335/47/5A/024",
+        "type": "journal-article",
+        "volume": "47",
+        "author": "Tskhakaya",
+        "year": "2005",
+        "journal-title": "Plasma Phys. Control. Fusion"
+      },
+      {
+        "key": "psstaec324bib32",
+        "doi-asserted-by": "publisher",
+        "first-page": "683",
+        "DOI": "10.1063/1.1431973",
+        "type": "journal-article",
+        "volume": "9",
+        "author": "Singha",
+        "year": "2002",
+        "journal-title": "Phys. Plasmas"
+      },
+      {
+        "key": "psstaec324bib33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1063/5.0187972",
+        "type": "journal-article",
+        "volume": "31",
+        "author": "Castillo",
+        "year": "2024",
+        "journal-title": "Phys. Plasmas"
+      },
+      {
+        "key": "psstaec324bib34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1063/1.5061832",
+        "type": "journal-article",
+        "volume": "26",
+        "author": "Moritz",
+        "year": "2019",
+        "journal-title": "Phys. Plasmas"
+      },
+      {
+        "key": "psstaec324bib35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1063/1.4990373",
+        "type": "journal-article",
+        "volume": "24",
+        "author": "Myra",
+        "year": "2017",
+        "journal-title": "Phys. Plasmas"
+      },
+      {
+        "key": "psstaec324bib36",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/1741-4326/abc4c4",
+        "type": "journal-article",
+        "volume": "61",
+        "author": "Myra",
+        "year": "2021",
+        "journal-title": "Nucl. Fusion"
+      },
+      {
+        "key": "psstaec324bib37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1051/epjconf/202634601012",
+        "type": "book",
+        "volume": "vol 346",
+        "author": "Faabomvé",
+        "year": "2026"
+      },
+      {
+        "key": "psstaec324bib38",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1063/1.5010852",
+        "type": "journal-article",
+        "volume": "25",
+        "author": "Moritz",
+        "year": "2018",
+        "journal-title": "Phys. Plasmas"
+      },
+      {
+        "key": "psstaec324bib39",
+        "doi-asserted-by": "publisher",
+        "first-page": "913",
+        "DOI": "10.1063/1.2838023",
+        "type": "journal-article",
+        "volume": "37",
+        "author": "Yoon",
+        "year": "2008",
+        "journal-title": "J. Phys. Chem. Ref. Data"
+      },
+      {
+        "key": "psstaec324bib40",
+        "doi-asserted-by": "publisher",
+        "first-page": "p 428",
+        "DOI": "10.1002/0471724254",
+        "type": "book",
+        "author": "Lieberman",
+        "year": "2005"
+      },
+      {
+        "key": "psstaec324bib41",
+        "first-page": "p 1089",
+        "author": "Chodura",
+        "year": "1989",
+        "type": "book"
+      },
+      {
+        "key": "psstaec324bib42",
+        "doi-asserted-by": "publisher",
+        "first-page": "2511",
+        "DOI": "10.1063/1.871969",
+        "type": "journal-article",
+        "volume": "3",
+        "author": "Riyopoulos",
+        "year": "1996",
+        "journal-title": "Phys. Plasmas"
+      },
+      {
+        "key": "psstaec324bib43",
+        "doi-asserted-by": "publisher",
+        "first-page": "131",
+        "DOI": "10.1016/j.nme.2018.11.017",
+        "type": "journal-article",
+        "volume": "18",
+        "author": "Bobkov",
+        "year": "2019",
+        "journal-title": "Nucl. Mater. Energy"
+      }
+    ],
+    "container-title": [
+      "Plasma Sources Science and Technology"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://iopscience.iop.org/article/10.1088/1361-6595/aec324",
+        "content-type": "text/html",
+        "content-version": "am",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://iopscience.iop.org/article/10.1088/1361-6595/aec324/pdf",
+        "content-type": "application/pdf",
+        "content-version": "am",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://iopscience.iop.org/article/10.1088/1361-6595/aec324",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://iopscience.iop.org/article/10.1088/1361-6595/aec324/pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://iopscience.iop.org/article/10.1088/1361-6595/aec324/pdf",
+        "content-type": "application/pdf",
+        "content-version": "am",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://iopscience.iop.org/article/10.1088/1361-6595/aec324/pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://iopscience.iop.org/article/10.1088/1361-6595/aec324/pdf",
+        "content-type": "application/pdf",
+        "content-version": "am",
+        "intended-application": "similarity-checking"
+      },
+      {
+        "URL": "https://iopscience.iop.org/article/10.1088/1361-6595/aec324/pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          26
+        ]
+      ],
+      "date-time": "2026-11-26T06:43:36Z",
+      "timestamp": 1795675416000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://iopscience.iop.org/article/10.1088/1361-6595/aec324"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          1
+        ]
+      ]
+    },
+    "references-count": 43,
+    "journal-issue": {
+      "issue": "11",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            26
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            1
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1088/1361-6595/aec324",
+    "relation": {},
+    "ISSN": [
+      "0963-0252",
+      "1361-6595"
+    ],
+    "issn-type": [
+      {
+        "value": "0963-0252",
+        "type": "print"
+      },
+      {
+        "value": "1361-6595",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          1
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Scaling of RF sheath rectification in magnetized plasmas: electron phase-induced enhancement and collapse",
+        "name": "article_title",
+        "label": "Article Title"
+      },
+      {
+        "value": "Plasma Sources Science and Technology",
+        "name": "journal_title",
+        "label": "Journal Title"
+      },
+      {
+        "value": "paper",
+        "name": "article_type",
+        "label": "Article Type"
+      },
+      {
+        "value": "© 2026 IOP Publishing Ltd. All rights, including for text and data mining, artificial intelligence training and development, machine learning and similar technologies, are reserved.",
+        "name": "copyright_information",
+        "label": "Copyright Information"
+      },
+      {
+        "value": "2026-05-13",
+        "name": "date_received",
+        "label": "Date Received",
+        "group": {
+          "name": "publication_dates",
+          "label": "Publication dates"
+        }
+      },
+      {
+        "value": "2026-11-17",
+        "name": "date_accepted",
+        "label": "Date Accepted",
+        "group": {
+          "name": "publication_dates",
+          "label": "Publication dates"
+        }
+      },
+      {
+        "value": "2026-11-26",
+        "name": "date_epub",
+        "label": "Online publication date",
+        "group": {
+          "name": "publication_dates",
+          "label": "Publication dates"
+        }
+      }
+    ]
+  }
+]

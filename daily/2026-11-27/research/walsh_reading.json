@@ -1,0 +1,289 @@
+{
+  "source_pdf": "daily/2026-11-27/pdfs/walsh-2026-nernst.pdf",
+  "source_pdf_sha256": "c4c75684fd0aab343ab7f0f1035745bb90ad6d84f17dd7e88c2a6a1e8bdbe048",
+  "read_scope": "Main abstract and Sections I–VII + Appendices A/B/C complete; references structure and cited identity only, not full cited papers. Full 15-page contacts seen, each retained figure visually reopened.",
+  "source_visual_pages_1based": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "figures": [
+    {
+      "figure": 1,
+      "source_page_1based": 2,
+      "clip_pdf_points": [
+        315,
+        55,
+        563,
+        239
+      ],
+      "matrix": [
+        2,
+        2
+      ],
+      "path": "daily/2026-11-27/notes/images/walsh-2026-nernst/fig1.png",
+      "sha256": "f37659ed44b9613ae007c244a470a9c3593d51313ed91bcddd84b4645752b11c"
+    },
+    {
+      "figure": 2,
+      "source_page_1based": 2,
+      "clip_pdf_points": [
+        315,
+        344,
+        563,
+        533
+      ],
+      "matrix": [
+        2,
+        2
+      ],
+      "path": "daily/2026-11-27/notes/images/walsh-2026-nernst/fig2.png",
+      "sha256": "65565f6dfe6701a77217034a292ed6edc246aa5b044c89f39218a4b232593ba8"
+    },
+    {
+      "figure": 3,
+      "source_page_1based": 5,
+      "clip_pdf_points": [
+        54,
+        55,
+        563,
+        576
+      ],
+      "matrix": [
+        2,
+        2
+      ],
+      "path": "daily/2026-11-27/notes/images/walsh-2026-nernst/fig3.png",
+      "sha256": "7779559de87ac93d7f3868cc7605bd8ff04ef38a1e3c6fe5e6640f9d29f764d1"
+    },
+    {
+      "figure": 4,
+      "source_page_1based": 6,
+      "clip_pdf_points": [
+        54,
+        55,
+        300,
+        398
+      ],
+      "matrix": [
+        2,
+        2
+      ],
+      "path": "daily/2026-11-27/notes/images/walsh-2026-nernst/fig4.png",
+      "sha256": "5104323c0b5d6df049f3ff9af077110842237ab0f2e671b8bdc46206c7dde76f"
+    },
+    {
+      "figure": 5,
+      "source_page_1based": 7,
+      "clip_pdf_points": [
+        315,
+        55,
+        563,
+        451
+      ],
+      "matrix": [
+        2,
+        2
+      ],
+      "path": "daily/2026-11-27/notes/images/walsh-2026-nernst/fig5.png",
+      "sha256": "a05afc297cb2e9fc76355cf65265e38b2c0c6cd73e2088fde996c0efe0df521b"
+    },
+    {
+      "figure": 6,
+      "source_page_1based": 8,
+      "clip_pdf_points": [
+        54,
+        55,
+        563,
+        439
+      ],
+      "matrix": [
+        2,
+        2
+      ],
+      "path": "daily/2026-11-27/notes/images/walsh-2026-nernst/fig6.png",
+      "sha256": "b94085c8d2cee3cea98f786be329bdcffb3394a0344b0a456955154224ecb266"
+    },
+    {
+      "figure": 7,
+      "source_page_1based": 9,
+      "clip_pdf_points": [
+        315,
+        55,
+        563,
+        275
+      ],
+      "matrix": [
+        2,
+        2
+      ],
+      "path": "daily/2026-11-27/notes/images/walsh-2026-nernst/fig7.png",
+      "sha256": "048383075d0cdad45ea43021ff324b2dbd9f4d35460fc081c4fe8c3719ab4b0a"
+    },
+    {
+      "figure": 8,
+      "source_page_1based": 10,
+      "clip_pdf_points": [
+        54,
+        55,
+        300,
+        411
+      ],
+      "matrix": [
+        2,
+        2
+      ],
+      "path": "daily/2026-11-27/notes/images/walsh-2026-nernst/fig8.png",
+      "sha256": "f3a29eac0fcba7621841c0db99d772b5c1655f9646f2a12ec783cdc497ceb103"
+    },
+    {
+      "figure": 9,
+      "source_page_1based": 11,
+      "clip_pdf_points": [
+        54,
+        55,
+        300,
+        237
+      ],
+      "matrix": [
+        2,
+        2
+      ],
+      "path": "daily/2026-11-27/notes/images/walsh-2026-nernst/fig9.png",
+      "sha256": "d46090e75c360399a72be18b95c4be2a7043d827aedb40b33158c2783c6256f1"
+    },
+    {
+      "figure": 10,
+      "source_page_1based": 11,
+      "clip_pdf_points": [
+        315,
+        55,
+        563,
+        363
+      ],
+      "matrix": [
+        2,
+        2
+      ],
+      "path": "daily/2026-11-27/notes/images/walsh-2026-nernst/fig10.png",
+      "sha256": "dbe472f9fb1452664397e2d3be9dc7e3026d7c589e73bc358829fd3f51a44f1a"
+    },
+    {
+      "figure": 11,
+      "source_page_1based": 14,
+      "clip_pdf_points": [
+        54,
+        55,
+        563,
+        464
+      ],
+      "matrix": [
+        2,
+        2
+      ],
+      "path": "daily/2026-11-27/notes/images/walsh-2026-nernst/fig11.png",
+      "sha256": "7f04564cc3116321fdfad35d9258a2f78114c932022b7705502096ff2f7f4293"
+    },
+    {
+      "figure": 12,
+      "source_page_1based": 15,
+      "clip_pdf_points": [
+        54,
+        55,
+        300,
+        278
+      ],
+      "matrix": [
+        2,
+        2
+      ],
+      "path": "daily/2026-11-27/notes/images/walsh-2026-nernst/fig12.png",
+      "sha256": "61cdf9d36b2ef8e026600ff9a79a87ba44e16a02c7461645515d1b51fea7f25a"
+    }
+  ],
+  "mineru_requests": 0,
+  "extraction": "pdftotext layout plus PyMuPDF per-page text and local raster visual review; known prior401 not retested",
+  "author_code_or_model_or_experiment_rerun": false,
+  "dedup_series_relationship": {
+    "2610.32085": "distinct earlier second paper; present ledger, processed2026-10-27; not same-work alias",
+    "2610.30303": "distinct earlier first paper cited; not present in current ledger; no new read here"
+  },
+  "checked_at": "2026-11-26T23:03:09.890273+00:00",
+  "all_retained_crops_reopened_by_reader": true,
+  "note_path": "daily/2026-11-27/notes/walsh-2026-nernst.md",
+  "known_manuscript_wording_issue": "After Eq7, source describes SF as gradients of f1x in y, inconsistent with 1D and Fig3 showing f1y gradients in x. Recorded without silently adopting as multidimensional mechanism.",
+  "reader_source_pixel_checks": [
+    {
+      "figure": 1,
+      "sha256_matches": true,
+      "source_pixels_match": true
+    },
+    {
+      "figure": 2,
+      "sha256_matches": true,
+      "source_pixels_match": true
+    },
+    {
+      "figure": 3,
+      "sha256_matches": true,
+      "source_pixels_match": true
+    },
+    {
+      "figure": 4,
+      "sha256_matches": true,
+      "source_pixels_match": true
+    },
+    {
+      "figure": 5,
+      "sha256_matches": true,
+      "source_pixels_match": true
+    },
+    {
+      "figure": 6,
+      "sha256_matches": true,
+      "source_pixels_match": true
+    },
+    {
+      "figure": 7,
+      "sha256_matches": true,
+      "source_pixels_match": true
+    },
+    {
+      "figure": 8,
+      "sha256_matches": true,
+      "source_pixels_match": true
+    },
+    {
+      "figure": 9,
+      "sha256_matches": true,
+      "source_pixels_match": true
+    },
+    {
+      "figure": 10,
+      "sha256_matches": true,
+      "source_pixels_match": true
+    },
+    {
+      "figure": 11,
+      "sha256_matches": true,
+      "source_pixels_match": true
+    },
+    {
+      "figure": 12,
+      "sha256_matches": true,
+      "source_pixels_match": true
+    }
+  ]
+}

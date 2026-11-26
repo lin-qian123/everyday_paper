@@ -1,0 +1,63 @@
+{
+  "checked_at": "2026-11-26T23:09:41.743881+00:00",
+  "scope": "10Crossref themes online2026-11-26..27, journal-article,40each relevancy;10officialarXiv subjects latest26Nov block enclosingdl",
+  "limits": "bounded nonexhaustive; excludes unrelated medical blood plasma, general ML and irrelevant laser manufacturing; no claim of global absence",
+  "crossref_initial_failures": "HEDP and converter queries429, each sequential retry200; subsequent preprint title check initial JSONparse failure, no count inferred, final sequential200 both saved",
+  "arxiv_heading_counts_all_match": true,
+  "subjects": [
+    {
+      "subject": "physics.plasm-ph",
+      "heading": "Thu, 26 Nov 2026 (showing 8 of 8 entries )",
+      "rows": 8
+    },
+    {
+      "subject": "physics.acc-ph",
+      "heading": "Thu, 26 Nov 2026 (showing 1 of 1 entries )",
+      "rows": 1
+    },
+    {
+      "subject": "physics.optics",
+      "heading": "Thu, 26 Nov 2026 (showing 24 of 24 entries )",
+      "rows": 24
+    },
+    {
+      "subject": "physics.comp-ph",
+      "heading": "Thu, 26 Nov 2026 (showing 21 of 21 entries )",
+      "rows": 21
+    },
+    {
+      "subject": "physics.med-ph",
+      "heading": "Thu, 26 Nov 2026 (showing 4 of 4 entries )",
+      "rows": 4
+    },
+    {
+      "subject": "nucl-ex",
+      "heading": "Thu, 26 Nov 2026 (showing 3 of 3 entries )",
+      "rows": 3
+    },
+    {
+      "subject": "nucl-th",
+      "heading": "Thu, 26 Nov 2026 (showing 9 of 9 entries )",
+      "rows": 9
+    },
+    {
+      "subject": "hep-ph",
+      "heading": "Thu, 26 Nov 2026 (showing 47 of 47 entries )",
+      "rows": 47
+    },
+    {
+      "subject": "physics.ins-det",
+      "heading": "Thu, 26 Nov 2026 (showing 8 of 8 entries )",
+      "rows": 8
+    },
+    {
+      "subject": "cs.LG",
+      "heading": "Thu, 26 Nov 2026 (showing 271 of 271 entries )",
+      "rows": 271
+    }
+  ],
+  "crossref_rows": 400,
+  "crossref_unique_dois": 343,
+  "arxiv_rows": 396,
+  "arxiv_unique_ids": 382
+}

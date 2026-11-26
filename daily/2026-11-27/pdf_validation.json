@@ -1,0 +1,90 @@
+{
+  "checked_at": "2026-11-26T23:09:41.743881+00:00",
+  "pdfs": [
+    {
+      "slug": "dedominicis-2026-sc47",
+      "path": "daily/2026-11-27/pdfs/dedominicis-2026-sc47.pdf",
+      "bytes": 2190794,
+      "sha256": "54091c3aadee0bf03b91c815d6bfce792e54c38558f79b810ec47cba4629b803",
+      "magic": "%PDF-",
+      "file_mime": "application/pdf",
+      "pdfinfo_pages": 14,
+      "pypdf_pages": 14,
+      "pymupdf_pages": 14,
+      "per_page_text_characters": [
+        2834,
+        4964,
+        4330,
+        1876,
+        3540,
+        2964,
+        3871,
+        3049,
+        2958,
+        5340,
+        3276,
+        4590,
+        6229,
+        3978
+      ],
+      "all_pages_readable_text": true,
+      "local_layout_text": "daily/2026-11-27/pdfs/dedominicis-2026-sc47.txt"
+    },
+    {
+      "slug": "massonlaborde-2026-speckle",
+      "path": "daily/2026-11-27/pdfs/massonlaborde-2026-speckle.pdf",
+      "bytes": 533232,
+      "sha256": "b28b8c5fc3be32b1a30d627103ab7e3c78477f9b3a1222c4eb4db5900bfa05f2",
+      "magic": "%PDF-",
+      "file_mime": "application/pdf",
+      "pdfinfo_pages": 6,
+      "pypdf_pages": 6,
+      "pymupdf_pages": 6,
+      "per_page_text_characters": [
+        5268,
+        4463,
+        5824,
+        4912,
+        4685,
+        5416
+      ],
+      "all_pages_readable_text": true,
+      "local_layout_text": "daily/2026-11-27/pdfs/massonlaborde-2026-speckle.txt"
+    },
+    {
+      "slug": "walsh-2026-nernst",
+      "path": "daily/2026-11-27/pdfs/walsh-2026-nernst.pdf",
+      "bytes": 1080252,
+      "sha256": "c4c75684fd0aab343ab7f0f1035745bb90ad6d84f17dd7e88c2a6a1e8bdbe048",
+      "magic": "%PDF-",
+      "file_mime": "application/pdf",
+      "pdfinfo_pages": 15,
+      "pypdf_pages": 15,
+      "pymupdf_pages": 15,
+      "per_page_text_characters": [
+        5077,
+        4115,
+        4231,
+        5035,
+        975,
+        3972,
+        3833,
+        2892,
+        4335,
+        4119,
+        3592,
+        4910,
+        4792,
+        2505,
+        365
+      ],
+      "all_pages_readable_text": true,
+      "local_layout_text": "daily/2026-11-27/pdfs/walsh-2026-nernst.txt"
+    }
+  ],
+  "total_pages": 35,
+  "total_bytes": 3804278,
+  "supplement": "original scientific DOCX3tables validated as ZIP/XML, all3read; temporary5pageLibreOfficePDF contact viewed, not publisherPDF and not retained",
+  "extraction": "pdftotext -layout, per-page PyMuPDF, rendered original figures; local fallback; MinerU0requests historical401 not retested",
+  "author_code_or_experiments_rerun": false
+}

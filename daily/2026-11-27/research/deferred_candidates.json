@@ -1,0 +1,26 @@
+{
+  "metadata_only_unread": [
+    {
+      "id": "2611.33483",
+      "title": "Statistical analysis of crossing beam speckle fields"
+    },
+    {
+      "id": "2611.33989",
+      "title": "Formation of Electron Velocity Distribution Functions at low-beta Quasi-Perpendicular Shocks From Physical-Mass-Ratio PIC Simulations"
+    },
+    {
+      "doi": "10.1017/s0022377826102591",
+      "title": "Integral ion Larmor radius treatment in the linear plasma response to resonant magnetic perturbations"
+    },
+    {
+      "doi": "10.1134/s1547477126701037",
+      "title": "Monte Carlo Study of Thermal Neutron and Gamma-Ray Conversion in a Composite Scintillator"
+    },
+    {
+      "doi": "10.1088/2057-1976/aec2f8",
+      "title": "Modeling of novel converging beam radiotherapy system in Geant4 Monte Carlo simulation"
+    }
+  ],
+  "previous_unread_leads": "B11thicktarget30439,coldneutron30086,axion30098,MLlock28266,ICF27760,51V08565-w,activation24653 not revisited",
+  "publication_boundary": "not selected does not imply no fulltext exists; no unattempted candidate added to retry"
+}

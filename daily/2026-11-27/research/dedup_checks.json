@@ -1,0 +1,86 @@
+{
+  "checked_at": "2026-11-26T23:09:41.743881+00:00",
+  "completed_before": 602,
+  "completed_after": 605,
+  "all_old_completed_objects_preserved": true,
+  "retry_before": 80,
+  "retry_after": 81,
+  "all_old_retry_objects_preserved": true,
+  "new_doi_and_title_collision": false,
+  "new_arxiv_owner_collision": false,
+  "title_normalization": "lowercase unicode alphanumeric whitespace; collapse punctuation and spaces",
+  "same_work_journal_check": "Crossref query.title top3 each preprint; no same-work formal record verified",
+  "distinct_related_series": [
+    "2610.30303",
+    "2610.32085"
+  ],
+  "inherited_completed_retry_overlap": "10.1016/j.jcp.2026.114707 unchanged; not a newly added duplicate",
+  "candidate_state": "metadata-only discoveries are not ingested; restricted fulltext only in retry",
+  "doi_unique_count": 601,
+  "normalized_title_unique_count": 605,
+  "qualified_arxiv_aliases_unique_count": 407,
+  "same_owner_alias_collision": false,
+  "nearest_title_checks": [
+    {
+      "new_doi": "10.1186/s40658-026-00968-z",
+      "nearest_old_titles": [
+        {
+          "ratio": 0.44936708860759494,
+          "doi": "10.3390/molecules31214029",
+          "title": "Optimizationand Performance Assessment of a Low-Dose Alanine Electron Paramagnetic Resonance Dosimetry Procedure for Potential Application in Electron Beam FLASH Radiotherapy"
+        },
+        {
+          "ratio": 0.4367816091954023,
+          "doi": "10.1017/hpl.2026.10182",
+          "title": "Nonlinear Enhancement of Laser-Foil Coupling and Secondary Sources under Irradiation by Dual Picosecond Petawatt Pulses"
+        },
+        {
+          "ratio": 0.43621399176954734,
+          "doi": "10.48550/arXiv.2606.27064",
+          "title": "Half-Life Measurements of 110Sn, 113Sn, 117mSn, and 123mSn Produced via Photon Activation of Natural Tin"
+        }
+      ]
+    },
+    {
+      "new_doi": "10.48550/arXiv.2611.33971",
+      "nearest_old_titles": [
+        {
+          "ratio": 0.4277456647398844,
+          "doi": "10.48550/arXiv.2607.25481",
+          "title": "Reconciling chemical models of X-ray Thomson Scattering with the Bethe f-sum rule"
+        },
+        {
+          "ratio": 0.4161849710982659,
+          "doi": "10.1017/hpl.2026.10136",
+          "title": "Spectral and spatial ion beam parameter optimization at petawatt laser facilities"
+        },
+        {
+          "ratio": 0.4067796610169492,
+          "doi": "10.48550/arXiv.2608.18373",
+          "title": "Plasma dynamics near the magnetic X-point of the two-wire model: Theory and Simulation"
+        }
+      ]
+    },
+    {
+      "new_doi": "10.48550/arXiv.2611.34766",
+      "nearest_old_titles": [
+        {
+          "ratio": 0.651685393258427,
+          "doi": "10.48550/arXiv.2610.32085",
+          "title": "Plasma transport by carrier electrons: delocalization length for heat-flux"
+        },
+        {
+          "ratio": 0.4756756756756757,
+          "doi": "10.1103/yw76-d6kh",
+          "title": "Plasma Flow Generation and Particle Acceleration from Expanding Magnetic Bubbles"
+        },
+        {
+          "ratio": 0.4321608040201005,
+          "doi": "10.1038/s41598-026-42431-0",
+          "title": "High-energy gamma-photons and pair electrons generation in polarized ultraintense laser fields"
+        }
+      ]
+    }
+  ],
+  "review": "different work for Walsh classical/heatflux series; Raman broadband background papers different scenario/control; Sc47V/photoproduction work different target/reaction"
+}

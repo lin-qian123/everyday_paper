@@ -1,0 +1,9 @@
+{
+  "url": "https://www.osti.gov/api/v1/records?q=%22Scaling+of+RF+sheath+rectification+in+magnetized+plasmas%22&rows=5",
+  "query": "\"Scaling of RF sheath rectification in magnetized plasmas\"",
+  "status": 200,
+  "mime": "application/json",
+  "bytes": 2,
+  "body_excerpt": "[]",
+  "interpretation": "inspect raw body; no valid author PDF identified in bounded exact title HAL + web search"
+}

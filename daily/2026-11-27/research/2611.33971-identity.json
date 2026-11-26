@@ -1,0 +1,34 @@
+{
+  "url": "https://arxiv.org/abs/2611.33971",
+  "status": 200,
+  "metadata": {
+    "citation_title": [
+      "Speckle renewal, not bandwidth alone, mitigates kinetic Raman scattering at moderate bandwidth"
+    ],
+    "citation_author": [
+      "Masson-Laborde, P. -E",
+      "Bouchard, G",
+      "Capdessus, R",
+      "Ruyer, C",
+      "Debayle, A",
+      "Fusaro, A"
+    ],
+    "citation_date": [
+      "2026/11/25"
+    ],
+    "citation_online_date": [
+      "2026/11/25"
+    ],
+    "citation_pdf_url": [
+      "https://arxiv.org/pdf/2611.33971"
+    ],
+    "citation_arxiv_id": [
+      "2611.33971"
+    ],
+    "citation_abstract": [
+      "Broadband lasers are expected to mitigate laser--plasma instabilities by shortening the coherence time. Using two-dimensional particle-in-cell simulations of kinetic Raman scattering, we compare two broadband beams with identical power spectra but different speckle dynamics. At 2% bandwidth, where Brillouin scattering is negligible, induced spatial incoherence (ISI) gives 34% less Raman backscatter than a broadband beam focused through a random phase plate (RPP+BB), an ordering that persists with immobile ions. The two fields differ in their finite-time speckle contrast."
+    ]
+  },
+  "history": "Submission history From: Paul-Edouard MASSON-LABORDE [ view email ] [via CCSD proxy] [v1] Wed, 25 Nov 2026 08:33:28 UTC (208 KB)",
+  "abstract": "Abstract: Broadband lasers are expected to mitigate laser--plasma instabilities by shortening the coherence time. Using two-dimensional particle-in-cell simulations of kinetic Raman scattering, we compare two broadband beams with identical power spectra but different speckle dynamics. At 2% bandwidth, where Brillouin scattering is negligible, induced spatial incoherence (ISI) gives 34% less Raman backscatter than a broadband beam focused through a random phase plate (RPP+BB), an ordering that persists with immobile ions. The two fields differ in their finite-time speckle contrast."
+}
