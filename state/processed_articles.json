@@ -10418,5 +10418,109 @@
     "note_path": "daily/2026-11-27/notes/walsh-2026-nernst.md",
     "pdf_sha256": "c4c75684fd0aab343ab7f0f1035745bb90ad6d84f17dd7e88c2a6a1e8bdbe048",
     "processed_date": "2026-11-27"
+  },
+  {
+    "title": "Enhanced laser-driven ion acceleration through electromagnetic energy coupling in annular sector targets",
+    "normalized_title": "enhanced laser driven ion acceleration through electromagnetic energy coupling in annular sector targets",
+    "doi": "10.1038/s41598-026-79975-0",
+    "authors": [
+      "Mohammad Rezaei-Pandari",
+      "Mahdi Shayganmanesh",
+      "Mohammad Hossein Mahdieh"
+    ],
+    "journal": "Scientific Reports",
+    "publication_date": "2026-11-27",
+    "publication_date_type": "publisher PDF and official metadata; Crossref agree",
+    "accepted_date": "2026-11-04",
+    "source_url": "https://www.nature.com/articles/s41598-026-79975-0",
+    "pdf_url": "https://www.nature.com/articles/s41598-026-79975-0_reference.pdf",
+    "publication_status": "published online Article in Press",
+    "fulltext_version": "publisher Article in Press17p; not final edited VOR",
+    "categories": [
+      "laser-plasma-acceleration",
+      "pic-and-plasma-simulation",
+      "experimental-platforms-diagnostics"
+    ],
+    "pdf_path": "daily/2026-11-28/pdfs/rezaeipandari-2026-annular.pdf",
+    "note_path": "daily/2026-11-28/notes/rezaeipandari-2026-annular.md",
+    "pdf_sha256": "de5b242ebf15008210093e395516f111e68bae41d738c82a031c67fa3479edd9",
+    "processed_date": "2026-11-28",
+    "supplement_path": "daily/2026-11-28/pdfs/rezaeipandari-2026-annular-supplement.pdf"
+  },
+  {
+    "title": "OpenMC Modelling of Neutron Spectra in the EU DEMO HCPB Divertor and Comparison with Reference MCNP Results",
+    "normalized_title": "openmc modelling of neutron spectra in the eu demo hcpb divertor and comparison with reference mcnp results",
+    "doi": "10.3390/app162311775",
+    "authors": [
+      "Ieva Skališiūtė",
+      "Simona Breidokaitė",
+      "Gediminas Stankūnas"
+    ],
+    "journal": "Applied Sciences",
+    "publication_date": "2026-11-27",
+    "publication_date_type": "publisher PDF and official metadata; Crossref agree",
+    "accepted_date": "2026-11-21",
+    "source_url": "https://www.mdpi.com/2076-3417/16/23/11775",
+    "pdf_url": "https://mdpi-res.com/d_attachment/applsci/applsci-16-11775/article_deploy/applsci-16-11775.pdf",
+    "publication_status": "published final version of record",
+    "fulltext_version": "publisher final VOR16p including AppendicesA/B",
+    "categories": [
+      "laser-accelerated-beam-applications",
+      "pic-and-plasma-simulation",
+      "magnetic-fusion-and-alpha-particles"
+    ],
+    "pdf_path": "daily/2026-11-28/pdfs/openmc-2026-divertor.pdf",
+    "note_path": "daily/2026-11-28/notes/openmc-2026-divertor.md",
+    "pdf_sha256": "93a3540622fb04b89394fab2d9ea97906d2bdd9552758d1fd523ee0b7961315d",
+    "processed_date": "2026-11-28"
+  },
+  {
+    "title": "Near- and far-field centroid-oscillation diagnostics of straight and curved discharge plasma waveguides",
+    "normalized_title": "near and far field centroid oscillation diagnostics of straight and curved discharge plasma waveguides",
+    "doi": "10.1088/2058-6272/aea103",
+    "authors": [
+      "Laifu 来福 MAN 满",
+      "Yiting YAN (严怡婷)",
+      "Zimin CHEN (陈子旻)",
+      "Mingfeng HUANG (黄明锋)",
+      "Zhenan WANG (王哲男)",
+      "Yuhui XIA (夏宇辉)",
+      "Ziyao TANG (唐子尧)",
+      "Jianghao HU (胡江浩)",
+      "Chentong LI (李辰童)",
+      "Wei YAN (鄢维)",
+      "Xuanyu LU (卢宣宇)",
+      "Shuo JIN (金硕)",
+      "Qiangyou HE (何强友)",
+      "Yanlyu FANG (方言律)",
+      "Xinlu XU (徐新路)",
+      "Yanying ZHAO (赵研英)",
+      "Chen 晨 LIN 林",
+      "Xueqing YAN (颜学庆)"
+    ],
+    "journal": "Plasma Science and Technology",
+    "volume": "28",
+    "article_number": "124004",
+    "publication_date": "2026-11-27",
+    "publication_date_type": "final publisher PDF Published27November2026, agrees current IOP and Crossref; partner early online metadata September recorded separately",
+    "accepted_date": "2026-09-01",
+    "source_url": "https://iopscience.iop.org/article/10.1088/2058-6272/aea103",
+    "pdf_url": "http://pst.hfcas.ac.cn/en/article/pdf/preview/10.1088/2058-6272/aea103.pdf",
+    "publication_status": "published final version of record",
+    "fulltext_version": "official partner journal final VOR8p",
+    "categories": [
+      "laser-plasma-acceleration",
+      "experimental-platforms-diagnostics"
+    ],
+    "pdf_path": "daily/2026-11-28/pdfs/man-2026-waveguide.pdf",
+    "note_path": "daily/2026-11-28/notes/man-2026-waveguide.md",
+    "pdf_sha256": "aaaefe6ca44f63101ce9a9392c28e96ae9d658caeca6c01ebf9a0b1d6061fd44",
+    "processed_date": "2026-11-28",
+    "related_work": [
+      {
+        "doi": "10.1103/79h1-q62n",
+        "relationship": "different relativistic laser centroid damping paper; not alias"
+      }
+    ]
   }
 ]

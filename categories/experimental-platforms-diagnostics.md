@@ -2,11 +2,13 @@
 
 高功率激光平台、靶设计、光学元件、诊断、重复频率、束线与实验工程问题。
 
-- 当前收录：219 篇
-- 索引更新时间：2026-11-27
+- 当前收录：221 篇
+- 索引更新时间：2026-11-28
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-28 | [Enhanced laser-driven ion acceleration through electromagnetic energy coupling in annular sector targets](../papers/10-1038-s41598-026-79975-0/README.md) | Scientific Reports | [笔记](../daily/2026-11-28/notes/rezaeipandari-2026-annular.md) |
+| 2026-11-28 | [Near- and far-field centroid-oscillation diagnostics of straight and curved discharge plasma waveguides](../papers/10-1088-2058-6272-aea103/README.md) | Plasma Science and Technology | [笔记](../daily/2026-11-28/notes/man-2026-waveguide.md) |
 | 2026-11-26 | [Long wave infrared laser platform for plasma studies relevant to inertial fusion](../papers/10-3389-fphy-2026-1969078/README.md) | Frontiers in Physics | [笔记](../daily/2026-11-26/notes/pogorelsky-2026-lwir.md) |
 | 2026-11-25 | [Multi-diagnostic experimental validation of PIC/MCC simulations of symmetric capacitively coupled plasmas in CF4](../papers/10-1088-1361-6595-aebfc4/README.md) | Plasma Sources Science and Technology | [笔记](../daily/2026-11-25/notes/neuroth-2026-cf4-pic-validation.md) |
 | 2026-11-25 | [Relativistic Harmonic Generation in Spatiotemporal Plasma Photonic Crystals](../papers/arxiv-2611-30084/README.md) | arXiv | [笔记](../daily/2026-11-25/notes/zhang-2026-plasma-crystals.md) |

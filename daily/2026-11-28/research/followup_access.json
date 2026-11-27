@@ -1,0 +1,327 @@
+{
+  "checked_at": "2026-11-27T23:03:39.690872+00:00",
+  "records": [
+    {
+      "doi": "10.1088/2058-6272/aea103",
+      "lookup": "HAL exact title top5",
+      "url": "https://api.archives-ouvertes.fr/search/?q=title_t%3A%22Near-+and+far-field+centroid-oscillation+diagnostics+of+straight+and+curved+discharge+plasma+waveguides%22&rows=5&fl=title_s%2CdoiId_s%2Curi_s%2CfileMain_s",
+      "status": 200,
+      "response": {
+        "response": {
+          "numFound": 0,
+          "start": 0,
+          "maxScore": 0.0,
+          "numFoundExact": true,
+          "docs": []
+        }
+      }
+    },
+    {
+      "doi": "10.1088/1361-6595/aec323",
+      "lookup": "HAL exact title top5",
+      "url": "https://api.archives-ouvertes.fr/search/?q=title_t%3A%22Frequency-tuned+impedance+matching+for+pulsed+capacitively+coupled+plasmas%3A+analysis+of+self-consistent+circuit-plasma+coupling%22&rows=5&fl=title_s%2CdoiId_s%2Curi_s%2CfileMain_s",
+      "status": 200,
+      "response": {
+        "response": {
+          "numFound": 0,
+          "start": 0,
+          "maxScore": 0.0,
+          "numFoundExact": true,
+          "docs": []
+        }
+      }
+    },
+    {
+      "name": "impedance",
+      "subscription_excerpt": "Access this article The computer you are using is not registered by an institution with a subscription to this article. Please choose\n            one of the options below. Login IOPscience login Purchase from Article Galaxy CCC RightFind Purchase this article from our trusted document delivery partn",
+      "citation_metadata": [
+        {
+          "name": "citation_journal_title",
+          "content": "Plasma Sources Science and Technology"
+        },
+        {
+          "name": "citation_journal_abbrev",
+          "content": "Plasma Sources Sci. Technol."
+        },
+        {
+          "name": "citation_issn",
+          "content": "0963-0252"
+        },
+        {
+          "name": "citation_publisher",
+          "content": "IOP Publishing"
+        },
+        {
+          "name": "citation_author",
+          "content": "Shimin Yu"
+        },
+        {
+          "name": "citation_author",
+          "content": "Zili Chen"
+        },
+        {
+          "name": "citation_author",
+          "content": "Yu Wang"
+        },
+        {
+          "name": "citation_author",
+          "content": "Zhipeng Chen"
+        },
+        {
+          "name": "citation_author",
+          "content": "Zhijiang Wang"
+        },
+        {
+          "name": "citation_author",
+          "content": "Wei Jiang"
+        },
+        {
+          "name": "citation_author",
+          "content": "Ya Zhang"
+        },
+        {
+          "name": "citation_author",
+          "content": "Julian Schulze"
+        },
+        {
+          "name": "citation_title",
+          "content": "Frequency-tuned impedance matching for pulsed capacitively coupled plasmas: analysis of self-consistent circuit-plasma coupling"
+        },
+        {
+          "name": "citation_online_date",
+          "content": "2026/11/27"
+        },
+        {
+          "name": "citation_volume",
+          "content": "35"
+        },
+        {
+          "name": "citation_issue",
+          "content": "11"
+        },
+        {
+          "name": "citation_firstpage",
+          "content": "115022"
+        },
+        {
+          "name": "citation_doi",
+          "content": "10.1088/1361-6595/aec323"
+        },
+        {
+          "name": "citation_abstract_html_url",
+          "content": "https://iopscience.iop.org/article/10.1088/1361-6595/aec323/meta"
+        },
+        {
+          "name": "citation_pdf_url",
+          "content": "https://iopscience.iop.org/article/10.1088/1361-6595/aec323/pdf"
+        },
+        {
+          "name": "citation_xml_url",
+          "content": "https://iopscience.iop.org/article/10.1088/1361-6595/aec323/xml"
+        },
+        {
+          "name": "citation_fulltext_html_url",
+          "content": "https://iopscience.iop.org/article/10.1088/1361-6595/aec323"
+        },
+        {
+          "name": "citation_language",
+          "content": "en"
+        }
+      ]
+    },
+    {
+      "name": "waveguide-iop",
+      "subscription_excerpt": "Access this article The computer you are using is not registered by an institution with a subscription to this article. Please choose\n            one of the options below. Login IOPscience login Purchase from Article Galaxy CCC RightFind Purchase this article from our trusted document delivery partn",
+      "citation_metadata": [
+        {
+          "name": "citation_journal_title",
+          "content": "Plasma Science and Technology"
+        },
+        {
+          "name": "citation_journal_abbrev",
+          "content": "Plasma Sci. Technol."
+        },
+        {
+          "name": "citation_issn",
+          "content": "1009-0630"
+        },
+        {
+          "name": "citation_publisher",
+          "content": "IOP Publishing"
+        },
+        {
+          "name": "citation_author",
+          "content": "Laifu MAN"
+        },
+        {
+          "name": "citation_author",
+          "content": "Yiting YAN (严怡婷)"
+        },
+        {
+          "name": "citation_author",
+          "content": "Zimin CHEN (陈子旻)"
+        },
+        {
+          "name": "citation_author",
+          "content": "Mingfeng HUANG (黄明锋)"
+        },
+        {
+          "name": "citation_author",
+          "content": "Zhenan WANG (王哲男)"
+        },
+        {
+          "name": "citation_author",
+          "content": "Yuhui XIA (夏宇辉)"
+        },
+        {
+          "name": "citation_author",
+          "content": "Ziyao TANG (唐子尧)"
+        },
+        {
+          "name": "citation_author",
+          "content": "Jianghao HU (胡江浩)"
+        },
+        {
+          "name": "citation_author",
+          "content": "Chentong LI (李辰童)"
+        },
+        {
+          "name": "citation_author",
+          "content": "Wei YAN (鄢维)"
+        },
+        {
+          "name": "citation_author",
+          "content": "Xuanyu LU (卢宣宇)"
+        },
+        {
+          "name": "citation_author",
+          "content": "Shuo JIN (金硕)"
+        },
+        {
+          "name": "citation_author",
+          "content": "Qiangyou HE (何强友)"
+        },
+        {
+          "name": "citation_author",
+          "content": "Yanlyu FANG (方言律)"
+        },
+        {
+          "name": "citation_author",
+          "content": "Xinlu XU (徐新路)"
+        },
+        {
+          "name": "citation_author",
+          "content": "Yanying ZHAO (赵研英)"
+        },
+        {
+          "name": "citation_author",
+          "content": "Chen LIN"
+        },
+        {
+          "name": "citation_author",
+          "content": "Xueqing YAN (颜学庆)"
+        },
+        {
+          "name": "citation_title",
+          "content": "Near- and far-field centroid-oscillation diagnostics of straight and curved discharge plasma waveguides"
+        },
+        {
+          "name": "citation_online_date",
+          "content": "2026/11/27"
+        },
+        {
+          "name": "citation_volume",
+          "content": "28"
+        },
+        {
+          "name": "citation_issue",
+          "content": "12"
+        },
+        {
+          "name": "citation_firstpage",
+          "content": "124004"
+        },
+        {
+          "name": "citation_doi",
+          "content": "10.1088/2058-6272/aea103"
+        },
+        {
+          "name": "citation_abstract_html_url",
+          "content": "https://iopscience.iop.org/article/10.1088/2058-6272/aea103/meta"
+        },
+        {
+          "name": "citation_pdf_url",
+          "content": "https://iopscience.iop.org/article/10.1088/2058-6272/aea103/pdf"
+        },
+        {
+          "name": "citation_xml_url",
+          "content": "https://iopscience.iop.org/article/10.1088/2058-6272/aea103/xml"
+        },
+        {
+          "name": "citation_fulltext_html_url",
+          "content": "https://iopscience.iop.org/article/10.1088/2058-6272/aea103"
+        },
+        {
+          "name": "citation_language",
+          "content": "en"
+        }
+      ]
+    },
+    {
+      "name": "waveguide partner official HTTP metadata",
+      "url": "http://pst.hfcas.ac.cn/article/id/0c7976dc-eb25-4736-8f19-5d1b7e1a9253",
+      "status": 200,
+      "initial_full_html_bytes": 249289,
+      "subsequent_bounded_curl_exit": 28,
+      "subsequent_partial_bytes": 59895,
+      "actual_pdf_url": "http://pst.hfcas.ac.cn/en/article/pdf/preview/10.1088/2058-6272/aea103.pdf",
+      "date_conflict": "IOP/Crossref2026-11-27; partner metadata online/publication2026-09-02, cached accepted page09-01; version to be read from PDF"
+    },
+    {
+      "name": "waveguide partner first PDF transfer",
+      "url": "http://pst.hfcas.ac.cn/en/article/pdf/preview/10.1088/2058-6272/aea103.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "content_length": 6810430,
+      "curl_exit": 28,
+      "timeout_seconds": 30,
+      "received_bytes": 78670,
+      "pdf_magic": true,
+      "complete": false,
+      "disposition": "temporary only; incomplete not validated/ingested"
+    },
+    {
+      "name": "waveguide partner direct transfer",
+      "curl_exit": 28,
+      "timeout_seconds": 45,
+      "received_bytes": 1266430,
+      "expected_bytes": 6810430,
+      "complete": false
+    },
+    {
+      "name": "waveguide resume",
+      "curl_exit": 33,
+      "message": "HTTP server does not support byte-range resume despite Accept-Ranges header"
+    },
+    {
+      "name": "OpenMC external scientific supplement",
+      "url": "https://www.mdpi.com/article/10.3390/app162311775/s1",
+      "status": 403,
+      "mime": "text/html",
+      "bytes": 413,
+      "read": false,
+      "scope": "main PDF appendicesA/B read; external S1-S18 unavailable"
+    },
+    {
+      "name": "waveguide recovered final PDF",
+      "url": "http://pst.hfcas.ac.cn/en/article/pdf/preview/10.1088/2058-6272/aea103.pdf",
+      "curl_exit": 0,
+      "bytes": 6810430,
+      "content_length": 6810430,
+      "sha256": "aaaefe6ca44f63101ce9a9392c28e96ae9d658caeca6c01ebf9a0b1d6061fd44",
+      "complete": true,
+      "pdf_structure": "three independent counts8p; published27Nov2026 accepted1Sep2026 final124004",
+      "disposition": "ingested, no new waveguide retry"
+    }
+  ]
+}

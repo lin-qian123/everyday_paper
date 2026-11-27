@@ -1,0 +1,104 @@
+{
+  "checked_at": "2026-11-27T23:10:56.270937+00:00",
+  "crossref_scope": "10 themes online2026-11-27..28 journal-article top40 per relevance",
+  "crossref_rows": 400,
+  "crossref_unique_dois": 326,
+  "crossref_failures_recovered": [
+    {
+      "query": "strong field QED radiation reaction",
+      "attempts": [
+        {
+          "status": 429,
+          "bytes": 0
+        },
+        {
+          "status": 429,
+          "bytes": 0
+        },
+        {
+          "sequential_recovery_status": 200,
+          "bytes": 507300
+        }
+      ]
+    },
+    {
+      "query": "laser ion beam target diagnostics",
+      "attempts": [
+        {
+          "status": 429,
+          "bytes": 0
+        },
+        {
+          "status": 200,
+          "bytes": 802069
+        }
+      ]
+    }
+  ],
+  "arxiv_scope": "10 official recent category pages; latest enclosing dl date block; all still26Nov",
+  "arxiv_rows": 396,
+  "arxiv_unique_ids": 382,
+  "subjects": [
+    {
+      "subject": "physics.plasm-ph",
+      "heading": "Thu, 26 Nov 2026 (showing 8 of 8 entries )",
+      "rows": 8,
+      "heading_count_match": true
+    },
+    {
+      "subject": "physics.acc-ph",
+      "heading": "Thu, 26 Nov 2026 (showing 1 of 1 entries )",
+      "rows": 1,
+      "heading_count_match": true
+    },
+    {
+      "subject": "physics.optics",
+      "heading": "Thu, 26 Nov 2026 (showing 24 of 24 entries )",
+      "rows": 24,
+      "heading_count_match": true
+    },
+    {
+      "subject": "physics.comp-ph",
+      "heading": "Thu, 26 Nov 2026 (showing 21 of 21 entries )",
+      "rows": 21,
+      "heading_count_match": true
+    },
+    {
+      "subject": "physics.med-ph",
+      "heading": "Thu, 26 Nov 2026 (showing 4 of 4 entries )",
+      "rows": 4,
+      "heading_count_match": true
+    },
+    {
+      "subject": "nucl-ex",
+      "heading": "Thu, 26 Nov 2026 (showing 3 of 3 entries )",
+      "rows": 3,
+      "heading_count_match": true
+    },
+    {
+      "subject": "nucl-th",
+      "heading": "Thu, 26 Nov 2026 (showing 9 of 9 entries )",
+      "rows": 9,
+      "heading_count_match": true
+    },
+    {
+      "subject": "hep-ph",
+      "heading": "Thu, 26 Nov 2026 (showing 47 of 47 entries )",
+      "rows": 47,
+      "heading_count_match": true
+    },
+    {
+      "subject": "physics.ins-det",
+      "heading": "Thu, 26 Nov 2026 (showing 8 of 8 entries )",
+      "rows": 8,
+      "heading_count_match": true
+    },
+    {
+      "subject": "cs.LG",
+      "heading": "Thu, 26 Nov 2026 (showing 271 of 271 entries )",
+      "rows": 271,
+      "heading_count_match": true
+    }
+  ],
+  "limits": "bounded nonexhaustive; no claim of global absence or full category topic coverage; unselected metadata not fulltext read; no new preprint selected"
+}

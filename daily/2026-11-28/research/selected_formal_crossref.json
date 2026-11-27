@@ -1,0 +1,3069 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          27
+        ]
+      ],
+      "date-time": "2026-11-27T09:13:55Z",
+      "timestamp": 1795770835133,
+      "version": "4.11.3"
+    },
+    "reference-count": 0,
+    "publisher": "Springer Science and Business Media LLC",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              27
+            ]
+          ],
+          "date-time": "2026-11-27T00:00:00Z",
+          "timestamp": 1795737600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              27
+            ]
+          ],
+          "date-time": "2026-11-27T00:00:00Z",
+          "timestamp": 1795737600000
+        },
+        "content-version": "am",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+      }
+    ],
+    "funder": [
+      {
+        "name": "Iran National Science Foundation",
+        "award": [
+          "4036338"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "4036338"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "https://ror.org/03sr1ma14",
+            "id-type": "ROR",
+            "asserted-by": "crossref"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Sci Rep"
+    ],
+    "DOI": "10.1038/s41598-026-79975-0",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          27
+        ]
+      ],
+      "date-time": "2026-11-27T08:44:54Z",
+      "timestamp": 1795769094000
+    },
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Enhanced laser-driven ion acceleration through electromagnetic energy coupling in annular sector targets"
+    ],
+    "prefix": "10.1038",
+    "author": [
+      {
+        "given": "Mohammad",
+        "family": "Rezaei-Pandari",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          },
+          {
+            "role": "corresponding-author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Mahdi",
+        "family": "Shayganmanesh",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Mohammad Hossein",
+        "family": "Mahdieh",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          27
+        ]
+      ]
+    },
+    "container-title": [
+      "Scientific Reports"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.nature.com/articles/s41598-026-79975-0",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          27
+        ]
+      ],
+      "date-time": "2026-11-27T08:44:54Z",
+      "timestamp": 1795769094000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.nature.com/articles/s41598-026-79975-0"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          27
+        ]
+      ]
+    },
+    "references-count": 0,
+    "alternative-id": [
+      "79975"
+    ],
+    "URL": "https://doi.org/10.1038/s41598-026-79975-0",
+    "relation": {},
+    "ISSN": [
+      "2045-2322"
+    ],
+    "issn-type": [
+      {
+        "value": "2045-2322",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          27
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "15 April 2026",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "4 November 2026",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "27 November 2026",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "The authors declare no competing interests.",
+        "order": 1,
+        "name": "Ethics",
+        "label": "Competing interests",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          27
+        ]
+      ],
+      "date-time": "2026-11-27T10:12:55Z",
+      "timestamp": 1795774375211,
+      "version": "4.11.3"
+    },
+    "reference-count": 23,
+    "publisher": "MDPI AG",
+    "issue": "23",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              27
+            ]
+          ],
+          "date-time": "2026-11-27T00:00:00Z",
+          "timestamp": 1795737600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              27
+            ]
+          ],
+          "date-time": "2026-11-27T00:00:00Z",
+          "timestamp": 1795737600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Appl. Sci.",
+      "Applied Sciences"
+    ],
+    "abstract": "<jats:p>This study presents the modelling and analysis of neutron spectra in the European demonstration fusion power plant (EU DEMO) helium-cooled pebble bed (HCPB) divertor using OpenMC. The OpenMC model was developed by converting an existing MCNP geometry model. The converted model was supplemented with material definitions, FENDL–3.2b and ENDF/B–VIII.0 nuclear data libraries, tally settings, variance reduction parameters, and a deuterium–tritium plasma neutron source. Neutron spectra were calculated for ten divertor components containing tungsten, a homogenized W-CuCrZr-H2O mixture, EUROFER, INCONEL alloy, titanium alloy and water. Statistical precision was assessed using median and flux-weighted relative uncertainties, both of which were below 10% in nine of the ten OpenMC regions. The OpenMC spectra were compared with previously calculated MCNP reference spectra. Energy groups with positive MCNP flux and an OpenMC/MCNP ratio not exceeding 20 were retained. Reference-normalized absolute spectral differences ranged from 8.36% to 17.65% in nine regions and reached 58.16% in the small water pipe. Unfiltered results are reported in the appendices. The analysis quantifies component-specific spectral differences and identifies the regions in which statistical precision limits the interpretation of individual energy groups.</jats:p>",
+    "DOI": "10.3390/app162311775",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          27
+        ]
+      ],
+      "date-time": "2026-11-27T09:10:32Z",
+      "timestamp": 1795770632000
+    },
+    "page": "11775",
+    "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "OpenMC Modelling of Neutron Spectra in the EU DEMO HCPB Divertor and Comparison with Reference MCNP Results"
+    ],
+    "prefix": "10.3390",
+    "volume": "16",
+    "author": [
+      {
+        "given": "Ieva",
+        "family": "Skališiūtė",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Laboratory of Nuclear Installation Safety, Lithuanian Energy Institute, Breslaujos St. 3, LT-44403 Kaunas, Lithuania"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Simona",
+        "family": "Breidokaitė",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Laboratory of Nuclear Installation Safety, Lithuanian Energy Institute, Breslaujos St. 3, LT-44403 Kaunas, Lithuania"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4996-4834",
+        "authenticated-orcid": false,
+        "given": "Gediminas",
+        "family": "Stankūnas",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Laboratory of Nuclear Installation Safety, Lithuanian Energy Institute, Breslaujos St. 3, LT-44403 Kaunas, Lithuania"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "1968",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          27
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "ref_1",
+        "unstructured": "Breidokaitė, S. (2025). Modeling of the Neutron Transport Based on the Monte Carlo Method and the Numerical Estimation of Radiological Quantities Towards the Future Nuclear Fusion Reactor DEMO. [Ph.D. Thesis, Lithuanian Energy Institute]."
+      },
+      {
+        "key": "ref_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "113010",
+        "DOI": "10.1016/j.fusengdes.2022.113010",
+        "article-title": "Divertor of the European DEMO: Engineering and technologies for power exhaust",
+        "volume": "175",
+        "author": "You",
+        "year": "2022",
+        "journal-title": "Fusion Eng. Des."
+      },
+      {
+        "key": "ref_3",
+        "doi-asserted-by": "crossref",
+        "first-page": "112428",
+        "DOI": "10.1016/j.fusengdes.2021.112428",
+        "article-title": "Neutronics analysis and activation calculation for tungsten used in the DEMO divertor targets: A comparative study between the effects of WCLL and HCPB blanket, different W compositions and chromium",
+        "volume": "169",
+        "author": "Noce",
+        "year": "2021",
+        "journal-title": "Fusion Eng. Des."
+      },
+      {
+        "key": "ref_4",
+        "unstructured": "Commissariat à l’énergie atomique et aux énergies alternatives (CEA) (2026, November 06). TRIPOLI-4. Available online: https://www.cea.fr/energies/tripoli-4/Pages/Accueil.aspx."
+      },
+      {
+        "key": "ref_5",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1051/epjn/2024031",
+        "article-title": "Status of the Serpent Monte Carlo code in 2024",
+        "volume": "11",
+        "author": "Valtavirta",
+        "year": "2025",
+        "journal-title": "EPJ Nucl. Sci. Technol."
+      },
+      {
+        "key": "ref_6",
+        "unstructured": "CERN (2026, November 06). About FLUKA. Available online: https://fluka.cern/about."
+      },
+      {
+        "key": "ref_7",
+        "unstructured": "Geant4 Collaboration (2026, November 06). Overview. Available online: https://www.geant4.org/about/."
+      },
+      {
+        "key": "ref_8",
+        "doi-asserted-by": "crossref",
+        "first-page": "90",
+        "DOI": "10.1016/j.anucene.2014.07.048",
+        "article-title": "OpenMC: A state–of–the–art Monte Carlo code for research and development",
+        "volume": "82",
+        "author": "Romano",
+        "year": "2015",
+        "journal-title": "Ann. Nucl. Energy"
+      },
+      {
+        "key": "ref_9",
+        "unstructured": "(2026, August 27). OpenMC Python API. Available online: https://docs.openmc.org/en/stable/pythonapi/index.html."
+      },
+      {
+        "key": "ref_10",
+        "doi-asserted-by": "crossref",
+        "first-page": "437",
+        "DOI": "10.1080/15361055.2024.2400762",
+        "article-title": "Validation of the OpenMC Code for Fusion Applications: The FNG-Streaming Benchmark Case",
+        "volume": "81",
+        "author": "Segantin",
+        "year": "2025",
+        "journal-title": "Fusion Sci. Technol."
+      },
+      {
+        "key": "ref_11",
+        "doi-asserted-by": "crossref",
+        "first-page": "805",
+        "DOI": "10.1080/15361055.2025.2476818",
+        "article-title": "Synchronization of the OpenMC and MCNP Models for ITER Neutronics",
+        "volume": "82",
+        "author": "Afanasenko",
+        "year": "2026",
+        "journal-title": "Fusion Sci. Technol."
+      },
+      {
+        "key": "ref_12",
+        "unstructured": "Park, J.H. (2025, January 4). Neutronics Benchmark of European DEMO and VNS Using MCNP and OpenMC for the Eurofusion Programme. Proceedings of the OpenMC Application to Tokamak Neutronics Analysis Meeting, Lemont, IL, USA."
+      },
+      {
+        "key": "ref_13",
+        "doi-asserted-by": "crossref",
+        "first-page": "14",
+        "DOI": "10.1007/s10894-022-00327-7",
+        "article-title": "Neutron Flux in EU DEMO Divertor Cassette Body Using HCPB and WCLL Breeding Blanket Models",
+        "volume": "41",
+        "author": "Breidokaite",
+        "year": "2022",
+        "journal-title": "J. Fusion Energ."
+      },
+      {
+        "key": "ref_14",
+        "unstructured": "(2026, August 29). OpenMC Theory and Methodology. Random Ray. Available online: https://docs.openmc.org/en/stable/methods/random_ray.html."
+      },
+      {
+        "key": "ref_15",
+        "unstructured": "(2026, August 29). OpenMC Theory and Methodology. Introduction. Available online: https://docs.openmc.org/en/stable/methods/introduction.html."
+      },
+      {
+        "key": "ref_16",
+        "unstructured": "(2026, August 29). OpenMC Theory and Methodology. Tallies. Available online: https://docs.openmc.org/en/stable/methods/tallies.html."
+      },
+      {
+        "key": "ref_17",
+        "unstructured": "(2026, August 29). OpenMC Theory and Methodology. Neutron Physics. Available online: https://docs.openmc.org/en/stable/methods/neutron_physics.html."
+      },
+      {
+        "key": "ref_18",
+        "unstructured": "(2026, August 29). OpenMC Theory and Methodology. Variance Reduction. Available online: https://docs.openmc.org/en/stable/methods/variance_reduction.html."
+      },
+      {
+        "key": "ref_19",
+        "unstructured": "(2026, August 29). openmc-dev/openmc_mcnp_adapter. MCNP Conversion Tools for OpenMC. Available online: https://github.com/openmc-dev/openmc_mcnp_adapter."
+      },
+      {
+        "key": "ref_20",
+        "unstructured": "(2026, August 29). Fusion-Energy/Openmc-Plasma-Source. OpenMC-Plasma-Source. Available online: https://github.com/fusion-energy/openmc-plasma-source."
+      },
+      {
+        "key": "ref_21",
+        "doi-asserted-by": "crossref",
+        "first-page": "113047",
+        "DOI": "10.1016/j.fusengdes.2022.113047",
+        "article-title": "Development of the plasma scenario for EU-DEMO: Status and plans",
+        "volume": "176",
+        "author": "Siccinio",
+        "year": "2022",
+        "journal-title": "Fusion Eng. Des."
+      },
+      {
+        "key": "ref_22",
+        "unstructured": "Werner, C.J., Armstrong, J.C., Brown, F.B., Bull, J.S., Casswell, L., Cox, L.J., Dixon, D.A., Forster, R.A., Goorley, J.T., and Hughes, H.G. (2017). MCNP User’s Manual Code Version 6.2, Los Alamos National Laboratory. Report LA-UR-17-29981."
+      },
+      {
+        "key": "ref_23",
+        "unstructured": "International Atomic Energy Agency (2026, August 29). Fusion Evaluated Nuclear Data Library—FENDL-3.2b. Available online: https://nds.iaea.org/fendl_library/websites/fendl32b/."
+      }
+    ],
+    "container-title": [
+      "Applied Sciences"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.mdpi.com/2076-3417/16/23/11775/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          27
+        ]
+      ],
+      "date-time": "2026-11-27T09:32:59Z",
+      "timestamp": 1795771979000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.mdpi.com/2076-3417/16/23/11775"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          27
+        ]
+      ]
+    },
+    "references-count": 23,
+    "journal-issue": {
+      "issue": "23",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "app162311775"
+    ],
+    "URL": "https://doi.org/10.3390/app162311775",
+    "relation": {},
+    "ISSN": [
+      "2076-3417"
+    ],
+    "issn-type": [
+      {
+        "value": "2076-3417",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          27
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          27
+        ]
+      ],
+      "date-time": "2026-11-27T11:12:30Z",
+      "timestamp": 1795777950963,
+      "version": "4.11.3"
+    },
+    "reference-count": 44,
+    "publisher": "IOP Publishing",
+    "issue": "12",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              27
+            ]
+          ],
+          "date-time": "2026-11-27T00:00:00Z",
+          "timestamp": 1795737600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://publishingsupport.iopscience.iop.org/iop-standard/v1"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              27
+            ]
+          ],
+          "date-time": "2026-11-27T00:00:00Z",
+          "timestamp": 1795737600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://iopscience.iop.org/info/page/text-and-data-mining"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100001809",
+        "name": "National Natural Science Foundation of China",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "12122501"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "12122501"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100001809",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100012166",
+        "name": "National Key Research and Development Program of China",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "2019YFF01014404"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "2019YFF01014404"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100012166",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "iopscience.iop.org"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Plasma Sci. Technol."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          12,
+          1
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Discharge capillary plasma waveguides are key components for long-distance laser guiding, multi-GeV laser wakefield acceleration, and staged accelerator coupling. Their optical axis, matched spot size, and effective channel depth directly affect laser guiding quality and beam pointing stability, while in curved waveguides the geometric centerline is not necessarily the optical equilibrium trajectory. Here we extend the established laser centroid-oscillation diagnostic by adding a far-field angular measurement to the conventional near-field exit-position measurement. Combining the two measurements reduces the phase ambiguity of position-only diagnostics and gives a more constrained inversion of the centroid-oscillation phase. In a straight discharge capillary, the two measurements give consistent phases near 154 degrees, corresponding to a matched spot size of about 53.3 μm and an effective channel depth of about 1.25×10\n                    <jats:sup>18</jats:sup>\n                    cm\n                    <jats:sup>−3</jats:sup>\n                    under the selected guiding condition. The same diagnostic is applied to a curved capillary with a 1.25 m curvature radius, where the far-field response indicates a preferred nonzero relative injection offset. This combined measurement provides an\n                    <jats:italic>in situ</jats:italic>\n                    phase-space diagnostic for straight and curved plasma waveguides.\n                  </jats:p>",
+    "DOI": "10.1088/2058-6272/aea103",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          1
+        ]
+      ],
+      "date-time": "2026-09-01T23:48:02Z",
+      "timestamp": 1788306482000
+    },
+    "page": "124004",
+    "update-policy": "https://doi.org/10.1088/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Near- and far-field centroid-oscillation diagnostics of straight and curved discharge plasma waveguides"
+    ],
+    "prefix": "10.1088",
+    "volume": "28",
+    "author": [
+      {
+        "given": "Laifu 来福",
+        "family": "MAN 满",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Peking University"
+          },
+          {
+            "name": "Beijing Laser Acceleration Innovation Center"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yiting YAN",
+        "family": "(严怡婷)",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Peking University"
+          },
+          {
+            "name": "Beijing Laser Acceleration Innovation Center"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Zimin CHEN",
+        "family": "(陈子旻)",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Peking University"
+          },
+          {
+            "name": "Beijing Laser Acceleration Innovation Center"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mingfeng HUANG",
+        "family": "(黄明锋)",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Peking University"
+          },
+          {
+            "name": "Beijing Laser Acceleration Innovation Center"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Zhenan WANG",
+        "family": "(王哲男)",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Peking University"
+          },
+          {
+            "name": "Beijing Laser Acceleration Innovation Center"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yuhui XIA",
+        "family": "(夏宇辉)",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Peking University"
+          },
+          {
+            "name": "Beijing Laser Acceleration Innovation Center"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ziyao TANG",
+        "family": "(唐子尧)",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Peking University"
+          },
+          {
+            "name": "Beijing Laser Acceleration Innovation Center"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jianghao HU",
+        "family": "(胡江浩)",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Peking University"
+          },
+          {
+            "name": "Beijing Laser Acceleration Innovation Center"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Chentong LI",
+        "family": "(李辰童)",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Peking University"
+          },
+          {
+            "name": "Beijing Laser Acceleration Innovation Center"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Wei YAN",
+        "family": "(鄢维)",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Peking University"
+          },
+          {
+            "name": "Beijing Laser Acceleration Innovation Center"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xuanyu LU",
+        "family": "(卢宣宇)",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Peking University"
+          },
+          {
+            "name": "Beijing Laser Acceleration Innovation Center"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Shuo JIN",
+        "family": "(金硕)",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Peking University"
+          },
+          {
+            "name": "Beijing Laser Acceleration Innovation Center"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Qiangyou HE",
+        "family": "(何强友)",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Peking University"
+          },
+          {
+            "name": "Beijing Laser Acceleration Innovation Center"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yanlyu FANG",
+        "family": "(方言律)",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Peking University"
+          },
+          {
+            "name": "Beijing Laser Acceleration Innovation Center"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xinlu XU",
+        "family": "(徐新路)",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Peking University"
+          },
+          {
+            "name": "Beijing Laser Acceleration Innovation Center"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yanying ZHAO",
+        "family": "(赵研英)",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Peking University"
+          },
+          {
+            "name": "Beijing Laser Acceleration Innovation Center"
+          },
+          {
+            "name": "Institute of Guangdong Laser Plasma Technology"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Chen 晨",
+        "family": "LIN 林",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Peking University"
+          },
+          {
+            "name": "Beijing Laser Acceleration Innovation Center"
+          },
+          {
+            "name": "Institute of Guangdong Laser Plasma Technology"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xueqing YAN",
+        "family": "(颜学庆)",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Peking University"
+          },
+          {
+            "name": "Beijing Laser Acceleration Innovation Center"
+          },
+          {
+            "name": "Institute of Guangdong Laser Plasma Technology"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "266",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          27
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "pst_28_12_124004_bib1",
+        "doi-asserted-by": "publisher",
+        "first-page": "267",
+        "DOI": "10.1103/PhysRevLett.43.267",
+        "type": "journal-article",
+        "volume": "43",
+        "author": "Tajima",
+        "year": "1979",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "pst_28_12_124004_bib2",
+        "doi-asserted-by": "publisher",
+        "first-page": "1229",
+        "DOI": "10.1103/RevModPhys.81.1229",
+        "type": "journal-article",
+        "volume": "81",
+        "author": "Esarey",
+        "year": "2009",
+        "journal-title": "Rev. Mod. Phys."
+      },
+      {
+        "key": "pst_28_12_124004_bib3",
+        "doi-asserted-by": "publisher",
+        "first-page": "775",
+        "DOI": "10.1038/nphoton.2013.234",
+        "type": "journal-article",
+        "volume": "7",
+        "author": "Hooker",
+        "year": "2013",
+        "journal-title": "Nat. Photonics"
+      },
+      {
+        "key": "pst_28_12_124004_bib4",
+        "doi-asserted-by": "publisher",
+        "first-page": "516",
+        "DOI": "10.1038/s41586-021-03678-x",
+        "type": "journal-article",
+        "volume": "595",
+        "author": "Wang",
+        "year": "2021",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "pst_28_12_124004_bib5",
+        "doi-asserted-by": "publisher",
+        "first-page": "659",
+        "DOI": "10.1038/s41586-022-04589-1",
+        "type": "journal-article",
+        "volume": "605",
+        "author": "Pompili",
+        "year": "2022",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "pst_28_12_124004_bib6",
+        "doi-asserted-by": "publisher",
+        "first-page": "150",
+        "DOI": "10.1038/s41566-022-01104-w",
+        "type": "journal-article",
+        "volume": "17",
+        "author": "Labat",
+        "year": "2023",
+        "journal-title": "Nat. Photonics"
+      },
+      {
+        "key": "pst_28_12_124004_bib7",
+        "doi-asserted-by": "publisher",
+        "first-page": "101301",
+        "DOI": "10.1103/PhysRevSTAB.13.101301",
+        "type": "journal-article",
+        "volume": "13",
+        "author": "Schroeder",
+        "year": "2010",
+        "journal-title": "Phys. Rev. ST Accel. Beams"
+      },
+      {
+        "key": "pst_28_12_124004_bib8",
+        "doi-asserted-by": "publisher",
+        "first-page": "2149",
+        "DOI": "10.1063/1.871668",
+        "type": "journal-article",
+        "volume": "3",
+        "author": "Milchberg",
+        "year": "1996",
+        "journal-title": "Phys. Plasmas"
+      },
+      {
+        "key": "pst_28_12_124004_bib9",
+        "doi-asserted-by": "publisher",
+        "first-page": "4186",
+        "DOI": "10.1103/PhysRevLett.77.4186",
+        "type": "journal-article",
+        "volume": "77",
+        "author": "Ehrlich",
+        "year": "1996",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "pst_28_12_124004_bib10",
+        "doi-asserted-by": "publisher",
+        "first-page": "68",
+        "DOI": "10.1364/JOSAB.13.000068",
+        "type": "journal-article",
+        "volume": "13",
+        "author": "Zigler",
+        "year": "1996",
+        "journal-title": "J. Opt. Soc. Am. B"
+      },
+      {
+        "key": "pst_28_12_124004_bib11",
+        "doi-asserted-by": "publisher",
+        "first-page": "538",
+        "DOI": "10.1038/nature02900",
+        "type": "journal-article",
+        "volume": "431",
+        "author": "Geddes",
+        "year": "2004",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "pst_28_12_124004_bib12",
+        "doi-asserted-by": "publisher",
+        "first-page": "90",
+        "DOI": "10.1364/JOSAB.17.000090",
+        "type": "journal-article",
+        "volume": "17",
+        "author": "Hooker",
+        "year": "2000",
+        "journal-title": "J. Opt. Soc. Am. B"
+      },
+      {
+        "key": "pst_28_12_124004_bib13",
+        "doi-asserted-by": "publisher",
+        "first-page": "4103",
+        "DOI": "10.1088/0953-4075/34/21/303",
+        "type": "journal-article",
+        "volume": "34",
+        "author": "Spence",
+        "year": "2001",
+        "journal-title": "J. Phys. B: At. Mol. Opt. Phys."
+      },
+      {
+        "key": "pst_28_12_124004_bib14",
+        "doi-asserted-by": "publisher",
+        "first-page": "138",
+        "DOI": "10.1364/JOSAB.20.000138",
+        "type": "journal-article",
+        "volume": "20",
+        "author": "Spence",
+        "year": "2003",
+        "journal-title": "J. Opt. Soc. Am. B"
+      },
+      {
+        "key": "pst_28_12_124004_bib15",
+        "doi-asserted-by": "publisher",
+        "first-page": "185003",
+        "DOI": "10.1103/PhysRevLett.89.185003",
+        "type": "journal-article",
+        "volume": "89",
+        "author": "Butler",
+        "year": "2002",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "pst_28_12_124004_bib16",
+        "doi-asserted-by": "publisher",
+        "first-page": "015401",
+        "DOI": "10.1103/PhysRevE.63.015401",
+        "type": "journal-article",
+        "volume": "63",
+        "author": "Spence",
+        "year": "2000",
+        "journal-title": "Phys. Rev. E"
+      },
+      {
+        "key": "pst_28_12_124004_bib17",
+        "doi-asserted-by": "publisher",
+        "first-page": "016407",
+        "DOI": "10.1103/PhysRevE.65.016407",
+        "type": "journal-article",
+        "volume": "65",
+        "author": "Bobrova",
+        "year": "2001",
+        "journal-title": "Phys. Rev. E"
+      },
+      {
+        "key": "pst_28_12_124004_bib18",
+        "doi-asserted-by": "publisher",
+        "first-page": "016401",
+        "DOI": "10.1103/PhysRevE.71.016401",
+        "type": "journal-article",
+        "volume": "71",
+        "author": "Broks",
+        "year": "2005",
+        "journal-title": "Phys. Rev. E"
+      },
+      {
+        "key": "pst_28_12_124004_bib19",
+        "doi-asserted-by": "publisher",
+        "first-page": "2200",
+        "DOI": "10.1103/PhysRevLett.69.2200",
+        "type": "journal-article",
+        "volume": "69",
+        "author": "Sprangle",
+        "year": "1992",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "pst_28_12_124004_bib20",
+        "doi-asserted-by": "publisher",
+        "first-page": "056703",
+        "DOI": "10.1063/1.4919278",
+        "type": "journal-article",
+        "volume": "22",
+        "author": "Gonsalves",
+        "year": "2015",
+        "journal-title": "Phys. Plasmas"
+      },
+      {
+        "key": "pst_28_12_124004_bib21",
+        "doi-asserted-by": "publisher",
+        "first-page": "020703",
+        "DOI": "10.1063/1.4793447",
+        "type": "journal-article",
+        "volume": "20",
+        "author": "Bobrova",
+        "year": "2013",
+        "journal-title": "Phys. Plasmas"
+      },
+      {
+        "key": "pst_28_12_124004_bib22",
+        "doi-asserted-by": "publisher",
+        "first-page": "084801",
+        "DOI": "10.1103/PhysRevLett.122.084801",
+        "type": "journal-article",
+        "volume": "122",
+        "author": "Gonsalves",
+        "year": "2019",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "pst_28_12_124004_bib23",
+        "doi-asserted-by": "publisher",
+        "first-page": "696",
+        "DOI": "10.1038/nphys418",
+        "type": "journal-article",
+        "volume": "2",
+        "author": "Leemans",
+        "year": "2006",
+        "journal-title": "Nat. Phys."
+      },
+      {
+        "key": "pst_28_12_124004_bib24",
+        "doi-asserted-by": "publisher",
+        "first-page": "245002",
+        "DOI": "10.1103/PhysRevLett.113.245002",
+        "type": "journal-article",
+        "volume": "113",
+        "author": "Leemans",
+        "year": "2014",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "pst_28_12_124004_bib25",
+        "doi-asserted-by": "publisher",
+        "first-page": "475",
+        "DOI": "10.1038/s41566-020-0657-2",
+        "type": "journal-article",
+        "volume": "14",
+        "author": "Caizergues",
+        "year": "2020",
+        "journal-title": "Nat. Photonics"
+      },
+      {
+        "key": "pst_28_12_124004_bib26",
+        "doi-asserted-by": "publisher",
+        "first-page": "056702",
+        "DOI": "10.1063/1.4946018",
+        "type": "journal-article",
+        "volume": "23",
+        "author": "Döpp",
+        "year": "2016",
+        "journal-title": "Phys. Plasmas"
+      },
+      {
+        "key": "pst_28_12_124004_bib27",
+        "doi-asserted-by": "publisher",
+        "first-page": "155002",
+        "DOI": "10.1103/PhysRevLett.115.155002",
+        "type": "journal-article",
+        "volume": "115",
+        "author": "Guillaume",
+        "year": "2015",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "pst_28_12_124004_bib28",
+        "doi-asserted-by": "publisher",
+        "first-page": "056405",
+        "DOI": "10.1103/PhysRevE.63.056405",
+        "type": "journal-article",
+        "volume": "63",
+        "author": "Sprangle",
+        "year": "2001",
+        "journal-title": "Phys. Rev. E"
+      },
+      {
+        "key": "pst_28_12_124004_bib29",
+        "doi-asserted-by": "publisher",
+        "first-page": "190",
+        "DOI": "10.1038/nature16525",
+        "type": "journal-article",
+        "volume": "530",
+        "author": "Steinke",
+        "year": "2016",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "pst_28_12_124004_bib30",
+        "doi-asserted-by": "publisher",
+        "first-page": "154801",
+        "DOI": "10.1103/PhysRevLett.120.154801",
+        "type": "journal-article",
+        "volume": "120",
+        "author": "Luo",
+        "year": "2018",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "pst_28_12_124004_bib31",
+        "doi-asserted-by": "publisher",
+        "first-page": "e16015",
+        "DOI": "10.1038/lsa.2016.15",
+        "type": "journal-article",
+        "volume": "5",
+        "author": "Chen",
+        "year": "2016",
+        "journal-title": "Light Sci. Appl."
+      },
+      {
+        "key": "pst_28_12_124004_bib32",
+        "doi-asserted-by": "publisher",
+        "first-page": "215001",
+        "DOI": "10.1103/PhysRevLett.130.215001",
+        "type": "journal-article",
+        "volume": "130",
+        "author": "Zhu",
+        "year": "2023",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "pst_28_12_124004_bib33",
+        "doi-asserted-by": "publisher",
+        "first-page": "e58",
+        "DOI": "10.1017/hpl.2023.40",
+        "type": "journal-article",
+        "volume": "11",
+        "author": "Li",
+        "year": "2023",
+        "journal-title": "High Power Laser Sci. Eng."
+      },
+      {
+        "key": "pst_28_12_124004_bib34",
+        "doi-asserted-by": "publisher",
+        "first-page": "043173",
+        "DOI": "10.1103/PhysRevResearch.2.043173",
+        "type": "journal-article",
+        "volume": "2",
+        "author": "Feder",
+        "year": "2020",
+        "journal-title": "Phys. Rev. Res."
+      },
+      {
+        "key": "pst_28_12_124004_bib35",
+        "doi-asserted-by": "publisher",
+        "first-page": "015204",
+        "DOI": "10.1103/PhysRevE.109.015204",
+        "type": "journal-article",
+        "volume": "109",
+        "author": "Lei",
+        "year": "2024",
+        "journal-title": "Phys. Rev. E"
+      },
+      {
+        "key": "pst_28_12_124004_bib36",
+        "doi-asserted-by": "publisher",
+        "first-page": "245001",
+        "DOI": "10.1103/PhysRevLett.131.245001",
+        "type": "journal-article",
+        "volume": "131",
+        "author": "Picksley",
+        "year": "2023",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "pst_28_12_124004_bib37",
+        "doi-asserted-by": "publisher",
+        "first-page": "025002",
+        "DOI": "10.1103/PhysRevLett.98.025002",
+        "type": "journal-article",
+        "volume": "98",
+        "author": "Gonsalves",
+        "year": "2007",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "pst_28_12_124004_bib38",
+        "doi-asserted-by": "publisher",
+        "first-page": "993",
+        "DOI": "10.1364/OL.24.000993",
+        "type": "journal-article",
+        "volume": "24",
+        "author": "Spence",
+        "year": "1999",
+        "journal-title": "Opt. Lett."
+      },
+      {
+        "key": "pst_28_12_124004_bib39",
+        "doi-asserted-by": "publisher",
+        "first-page": "073112",
+        "DOI": "10.1063/1.4926825",
+        "type": "journal-article",
+        "volume": "22",
+        "author": "Daniels",
+        "year": "2015",
+        "journal-title": "Phys. Plasmas"
+      },
+      {
+        "key": "pst_28_12_124004_bib40",
+        "doi-asserted-by": "publisher",
+        "first-page": "5568",
+        "DOI": "10.1103/PhysRevA.43.5568",
+        "type": "journal-article",
+        "volume": "43",
+        "author": "Ashkenazy",
+        "year": "1991",
+        "journal-title": "Phys. Rev. A"
+      },
+      {
+        "key": "pst_28_12_124004_bib41",
+        "doi-asserted-by": "publisher",
+        "first-page": "e17",
+        "DOI": "10.1017/hpl.2021.6",
+        "type": "journal-article",
+        "volume": "9",
+        "author": "Turner",
+        "year": "2021",
+        "journal-title": "High Power Laser Sci. Eng."
+      },
+      {
+        "key": "pst_28_12_124004_bib42",
+        "doi-asserted-by": "publisher",
+        "first-page": "123107",
+        "DOI": "10.1063/1.2821601",
+        "type": "journal-article",
+        "volume": "78",
+        "author": "Antsiferov",
+        "year": "2007",
+        "journal-title": "Rev. Sci. Instrum."
+      },
+      {
+        "key": "pst_28_12_124004_bib43",
+        "doi-asserted-by": "publisher",
+        "first-page": "105204",
+        "DOI": "10.1063/1.5022817",
+        "type": "journal-article",
+        "volume": "8",
+        "author": "Liu",
+        "year": "2018",
+        "journal-title": "AIP Adv."
+      },
+      {
+        "key": "pst_28_12_124004_bib44",
+        "doi-asserted-by": "publisher",
+        "first-page": "056706",
+        "DOI": "10.1063/1.3357175",
+        "type": "journal-article",
+        "volume": "17",
+        "author": "",
+        "year": "2010",
+        "journal-title": "Phys. Plasmas"
+      }
+    ],
+    "container-title": [
+      "Plasma Science and Technology"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://iopscience.iop.org/article/10.1088/2058-6272/aea103",
+        "content-type": "text/html",
+        "content-version": "am",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://iopscience.iop.org/article/10.1088/2058-6272/aea103/pdf",
+        "content-type": "application/pdf",
+        "content-version": "am",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://iopscience.iop.org/article/10.1088/2058-6272/aea103",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://iopscience.iop.org/article/10.1088/2058-6272/aea103/pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://iopscience.iop.org/article/10.1088/2058-6272/aea103/pdf",
+        "content-type": "application/pdf",
+        "content-version": "am",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://iopscience.iop.org/article/10.1088/2058-6272/aea103/pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://iopscience.iop.org/article/10.1088/2058-6272/aea103/pdf",
+        "content-type": "application/pdf",
+        "content-version": "am",
+        "intended-application": "similarity-checking"
+      },
+      {
+        "URL": "https://iopscience.iop.org/article/10.1088/2058-6272/aea103/pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          27
+        ]
+      ],
+      "date-time": "2026-11-27T10:38:09Z",
+      "timestamp": 1795775889000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://iopscience.iop.org/article/10.1088/2058-6272/aea103"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          27
+        ]
+      ]
+    },
+    "references-count": 44,
+    "journal-issue": {
+      "issue": "12",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            27
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            12,
+            1
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1088/2058-6272/aea103",
+    "relation": {},
+    "ISSN": [
+      "1009-0630",
+      "2058-6272"
+    ],
+    "issn-type": [
+      {
+        "value": "1009-0630",
+        "type": "print"
+      },
+      {
+        "value": "2058-6272",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          27
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Near- and far-field centroid-oscillation diagnostics of straight and curved discharge plasma waveguides",
+        "name": "article_title",
+        "label": "Article Title"
+      },
+      {
+        "value": "Plasma Science and Technology",
+        "name": "journal_title",
+        "label": "Journal Title"
+      },
+      {
+        "value": "paper",
+        "name": "article_type",
+        "label": "Article Type"
+      },
+      {
+        "value": "© 2026 2026 Hefei Institutes of Physical Science, Chinese Academy of Sciences and IOP Publishing. All rights, including for text and data mining, artificial intelligence training and development, machine learning and similar technologies, are reserved.",
+        "name": "copyright_information",
+        "label": "Copyright Information"
+      },
+      {
+        "value": "2026-05-21",
+        "name": "date_received",
+        "label": "Date Received",
+        "group": {
+          "name": "publication_dates",
+          "label": "Publication dates"
+        }
+      },
+      {
+        "value": "2026-09-01",
+        "name": "date_accepted",
+        "label": "Date Accepted",
+        "group": {
+          "name": "publication_dates",
+          "label": "Publication dates"
+        }
+      },
+      {
+        "value": "2026-11-27",
+        "name": "date_epub",
+        "label": "Online publication date",
+        "group": {
+          "name": "publication_dates",
+          "label": "Publication dates"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          27
+        ]
+      ],
+      "date-time": "2026-11-27T10:15:20Z",
+      "timestamp": 1795774520831,
+      "version": "4.11.3"
+    },
+    "reference-count": 64,
+    "publisher": "IOP Publishing",
+    "issue": "11",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              27
+            ]
+          ],
+          "date-time": "2026-11-27T00:00:00Z",
+          "timestamp": 1795737600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 26,
+        "URL": "https://publishingsupport.iopscience.iop.org/iop-standard/v1"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              27
+            ]
+          ],
+          "date-time": "2026-11-27T00:00:00Z",
+          "timestamp": 1795737600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 26,
+        "URL": "https://iopscience.iop.org/info/page/text-and-data-mining"
+      }
+    ],
+    "funder": [
+      {
+        "name": "China Scholarship Council",
+        "award": [
+          "202406160054"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "202406160054"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "https://ror.org/04atp4p48",
+            "id-type": "ROR",
+            "asserted-by": "crossref"
+          }
+        ]
+      },
+      {
+        "name": "German Research Foundation",
+        "award": [
+          "428942393"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "428942393"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "https://ror.org/018mejw64",
+            "id-type": "ROR",
+            "asserted-by": "crossref"
+          }
+        ]
+      },
+      {
+        "name": "National Natural Science Foundation of China",
+        "award": [
+          "12275095"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "12275095"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "https://ror.org/01h0zpd94",
+            "id-type": "ROR",
+            "asserted-by": "crossref"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "iopscience.iop.org"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Plasma Sources Sci. Technol."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          1
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Pulsed capacitively coupled plasmas (CCPs) exhibit strongly time-dependent electrical characteristics because the plasma density, sheath structure, and plasma conductivity change as a function of time within each pulse period. This makes impedance matching difficult when the driving frequency and matching-network elements are fixed. In this work, a self-consistent circuit-plasma simulation model is used to investigate frequency-tuned impedance matching for pulsed CCPs. The model couples an implicit PIC/MCC plasma kinetic simulation with an external RF circuit including a generator, matching network, and reactor stray branch. The plasma impedance is extracted from the simulated CCP voltage and current waveforms using Fourier analysis. Under fixed-frequency operation at\n                    <jats:inline-formula>\n                      <jats:tex-math>\n                        \n                      </jats:tex-math>\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" overflow=\"scroll\">\n                        <mml:mrow>\n                          <mml:mn>13.56</mml:mn>\n                          <mml:mtext> </mml:mtext>\n                          <mml:mrow>\n                            <mml:mi>MHz</mml:mi>\n                          </mml:mrow>\n                        </mml:mrow>\n                      </mml:math>\n                    </jats:inline-formula>\n                    , the reflection coefficient magnitude remains high during the effective pulse-on phase and a pronounced reflected-power peak appears after pulse ignition. A frequency-tuned matching strategy is then developed by determining, from the time-dependent plasma impedance, the driving frequency that minimizes the reflection coefficient magnitude while the matching-network elements remain fixed. The results show that frequency tuning strongly suppresses the reflected power during the pulse-on phase, while the power absorbed by the plasma changes only weakly under the imposed constant-generator-output-power condition. The results provide a proof-of-principle demonstration that driving-frequency modulation can compensate for transient impedance variations, reduce the reflected-power burden, and improve matching efficiency in pulsed CCPs without changing the matching-network elements within the pulse.\n                  </jats:p>",
+    "DOI": "10.1088/1361-6595/aec323",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          17
+        ]
+      ],
+      "date-time": "2026-11-17T22:52:17Z",
+      "timestamp": 1794955937000
+    },
+    "page": "115022",
+    "update-policy": "https://doi.org/10.1088/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Frequency-tuned impedance matching for pulsed capacitively coupled plasmas: analysis of self-consistent circuit-plasma coupling"
+    ],
+    "prefix": "10.1088",
+    "volume": "35",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-3832-5252",
+        "authenticated-orcid": true,
+        "given": "Shimin",
+        "family": "Yu",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Huazhong University of Science and Technology"
+          },
+          {
+            "name": "Ruhr University Bochum"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          },
+          {
+            "role": "conceptualization",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "investigation",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "visualization",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "writing-original-draft",
+            "vocabulary": "credit"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2104-5369",
+        "authenticated-orcid": false,
+        "given": "Zili",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Huazhong University of Science and Technology"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          },
+          {
+            "role": "conceptualization",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "formal-analysis",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "methodology",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "writing-review-editing",
+            "vocabulary": "credit"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3519-3677",
+        "authenticated-orcid": true,
+        "given": "Yu",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Huazhong University of Science and Technology"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          },
+          {
+            "role": "investigation",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "methodology",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "software",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "writing-review-editing",
+            "vocabulary": "credit"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8330-0070",
+        "authenticated-orcid": true,
+        "given": "Zhipeng",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Huazhong University of Science and Technology"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          },
+          {
+            "role": "supervision",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "writing-review-editing",
+            "vocabulary": "credit"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5276-1520",
+        "authenticated-orcid": false,
+        "given": "Zhijiang",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Huazhong University of Science and Technology"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          },
+          {
+            "role": "funding-acquisition",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "resources",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "supervision",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "writing-review-editing",
+            "vocabulary": "credit"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9394-585X",
+        "authenticated-orcid": true,
+        "given": "Wei",
+        "family": "Jiang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Huazhong University of Science and Technology"
+          },
+          {
+            "name": "Huazhong University of Science and Technology"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          },
+          {
+            "role": "conceptualization",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "funding-acquisition",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "investigation",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "methodology",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "resources",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "supervision",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "writing-review-editing",
+            "vocabulary": "credit"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0473-467X",
+        "authenticated-orcid": true,
+        "given": "Ya",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Wuhan University of Technology"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          },
+          {
+            "role": "investigation",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "methodology",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "writing-review-editing",
+            "vocabulary": "credit"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7929-5734",
+        "authenticated-orcid": true,
+        "given": "Julian",
+        "family": "Schulze",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Ruhr University Bochum"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          },
+          {
+            "role": "conceptualization",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "formal-analysis",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "funding-acquisition",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "investigation",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "methodology",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "project-administration",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "supervision",
+            "vocabulary": "credit"
+          },
+          {
+            "role": "writing-review-editing",
+            "vocabulary": "credit"
+          }
+        ]
+      }
+    ],
+    "member": "266",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          27
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "psstaec323bib1",
+        "author": "Lieberman",
+        "year": "2005",
+        "edition": "2nd edn",
+        "type": "book"
+      },
+      {
+        "key": "psstaec323bib2",
+        "author": "Chabert",
+        "year": "2011",
+        "type": "book"
+      },
+      {
+        "key": "psstaec323bib3",
+        "volume": "vol 7",
+        "author": "Sugawara",
+        "year": "1998",
+        "type": "book"
+      },
+      {
+        "key": "psstaec323bib4",
+        "doi-asserted-by": "publisher",
+        "first-page": "49",
+        "DOI": "10.1109/TMAT.2024.3420822",
+        "type": "journal-article",
+        "volume": "1",
+        "author": "Voronin",
+        "year": "2024",
+        "journal-title": "IEEE Trans. Mater. Electron Dev."
+      },
+      {
+        "key": "psstaec323bib5",
+        "doi-asserted-by": "publisher",
+        "first-page": "89",
+        "DOI": "10.1088/0963-0252/14/1/012",
+        "type": "journal-article",
+        "volume": "14",
+        "author": "Lee",
+        "year": "2005",
+        "journal-title": "Plasma Sources Sci. Technol."
+      },
+      {
+        "key": "psstaec323bib6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/1361-6595/ae7b83",
+        "type": "journal-article",
+        "volume": "35",
+        "author": "Jiang",
+        "year": "2026",
+        "journal-title": "Plasma Sources Sci. Technol."
+      },
+      {
+        "key": "psstaec323bib7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1116/1.4716176",
+        "type": "journal-article",
+        "volume": "30",
+        "author": "Banna",
+        "year": "2012",
+        "journal-title": "J. Vac. Sci. Technol. A"
+      },
+      {
+        "key": "psstaec323bib8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/0022-3727/47/30/303001",
+        "type": "journal-article",
+        "volume": "47",
+        "author": "Economou",
+        "year": "2014",
+        "journal-title": "J. Phys. D: Appl. Phys."
+      },
+      {
+        "key": "psstaec323bib9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.apsusc.2022.153604",
+        "type": "journal-article",
+        "volume": "596",
+        "author": "Kim",
+        "year": "2022",
+        "journal-title": "Appl. Surf. Sci."
+      },
+      {
+        "key": "psstaec323bib10",
+        "doi-asserted-by": "publisher",
+        "first-page": "2498",
+        "DOI": "10.1116/1.579494",
+        "type": "journal-article",
+        "volume": "13",
+        "author": "Ashida",
+        "year": "1995",
+        "journal-title": "J. Vac. Sci. Technol. A"
+      },
+      {
+        "key": "psstaec323bib11",
+        "doi-asserted-by": "publisher",
+        "first-page": "145",
+        "DOI": "10.1088/0963-0252/5/2/006",
+        "type": "journal-article",
+        "volume": "5",
+        "author": "Lieberman",
+        "year": "1996",
+        "journal-title": "Plasma Sources Sci. Technol."
+      },
+      {
+        "key": "psstaec323bib12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevE.64.036402",
+        "type": "journal-article",
+        "volume": "64",
+        "author": "Kaganovich",
+        "year": "2001",
+        "journal-title": "Phys. Rev. E"
+      },
+      {
+        "key": "psstaec323bib13",
+        "doi-asserted-by": "publisher",
+        "first-page": "432",
+        "DOI": "10.1088/0963-0252/4/3/013",
+        "type": "journal-article",
+        "volume": "4",
+        "author": "Overzet",
+        "year": "1995",
+        "journal-title": "Plasma Sources Sci. Technol."
+      },
+      {
+        "key": "psstaec323bib14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/0963-0252/23/6/065046",
+        "type": "journal-article",
+        "volume": "23",
+        "author": "Sirse",
+        "year": "2014",
+        "journal-title": "Plasma Sources Sci. Technol."
+      },
+      {
+        "key": "psstaec323bib15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1063/1.4884225",
+        "type": "journal-article",
+        "volume": "115",
+        "author": "Wen",
+        "year": "2014",
+        "journal-title": "J. Appl. Phys."
+      },
+      {
+        "key": "psstaec323bib16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/1361-6595/ade627",
+        "type": "journal-article",
+        "volume": "34",
+        "author": "Shanmugham Murugesan",
+        "year": "2025",
+        "journal-title": "Plasma Sources Sci. Technol."
+      },
+      {
+        "key": "psstaec323bib17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/1361-6595/ae6feb",
+        "type": "journal-article",
+        "volume": "35",
+        "author": "Luo",
+        "year": "2026",
+        "journal-title": "Plasma Sources Sci. Technol."
+      },
+      {
+        "key": "psstaec323bib18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1063/5.0002522",
+        "type": "journal-article",
+        "volume": "127",
+        "author": "Qu",
+        "year": "2020",
+        "journal-title": "J. Appl. Phys."
+      },
+      {
+        "key": "psstaec323bib19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1063/5.0060240",
+        "type": "journal-article",
+        "volume": "130",
+        "author": "Smith",
+        "year": "2021",
+        "journal-title": "J. Appl. Phys."
+      },
+      {
+        "key": "psstaec323bib20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/1361-6595/ae359e",
+        "type": "journal-article",
+        "volume": "35",
+        "author": "Yu",
+        "year": "2026",
+        "journal-title": "Plasma Sources Sci. Technol."
+      },
+      {
+        "key": "psstaec323bib21",
+        "doi-asserted-by": "publisher",
+        "first-page": "133",
+        "DOI": "10.1007/978-1-4471-2224-1_7",
+        "type": "book",
+        "author": "Zhang",
+        "year": "2012"
+      },
+      {
+        "key": "psstaec323bib22",
+        "doi-asserted-by": "publisher",
+        "first-page": "91",
+        "DOI": "10.1051/epjap:1998208",
+        "type": "journal-article",
+        "volume": "3",
+        "author": "Salem",
+        "year": "1998",
+        "journal-title": "Eur. Phys. J. Appl. Phys."
+      },
+      {
+        "key": "psstaec323bib23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/1361-6595/aae429",
+        "type": "journal-article",
+        "volume": "27",
+        "author": "Schmidt",
+        "year": "2018",
+        "journal-title": "Plasma Sources Sci. Technol."
+      },
+      {
+        "key": "psstaec323bib24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/1361-6463/ac49b6",
+        "type": "journal-article",
+        "volume": "55",
+        "author": "Gao",
+        "year": "2022",
+        "journal-title": "J. Phys. D: Appl. Phys."
+      },
+      {
+        "key": "psstaec323bib25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cpc.2022.108468",
+        "type": "journal-article",
+        "volume": "282",
+        "author": "Yu",
+        "year": "2023",
+        "journal-title": "Comput. Phys. Commun."
+      },
+      {
+        "key": "psstaec323bib26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1063/5.0096910",
+        "type": "journal-article",
+        "volume": "132",
+        "author": "Yu",
+        "year": "2022",
+        "journal-title": "J. Appl. Phys."
+      },
+      {
+        "key": "psstaec323bib27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/1402-4896/ad1f1e",
+        "type": "journal-article",
+        "volume": "99",
+        "author": "Chen",
+        "year": "2024",
+        "journal-title": "Phys. Scr."
+      },
+      {
+        "key": "psstaec323bib28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/1361-6595/ad3849",
+        "type": "journal-article",
+        "volume": "33",
+        "author": "Chen",
+        "year": "2024",
+        "journal-title": "Plasma Sources Sci. Technol."
+      },
+      {
+        "key": "psstaec323bib29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/1361-6595/aad2cd",
+        "type": "journal-article",
+        "volume": "27",
+        "author": "Schmidt",
+        "year": "2018",
+        "journal-title": "Plasma Sources Sci. Technol."
+      },
+      {
+        "key": "psstaec323bib30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1116/1.5056205",
+        "type": "journal-article",
+        "volume": "37",
+        "author": "Wang",
+        "year": "2019",
+        "journal-title": "J. Vac. Sci. Technol. A"
+      },
+      {
+        "key": "psstaec323bib31",
+        "doi-asserted-by": "publisher",
+        "first-page": "1353",
+        "DOI": "10.1109/JESTPE.2021.3073121",
+        "type": "journal-article",
+        "volume": "10",
+        "author": "Min",
+        "year": "2021",
+        "journal-title": "IEEE J. Emerg. Sel. Topics Power Electron."
+      },
+      {
+        "key": "psstaec323bib32",
+        "first-page": "pp 1",
+        "type": "conference-proceedings",
+        "article-title": "Full-wave phase-switched impedance modulation actuator for tunable matching networks",
+        "author": "Jurkov",
+        "year": "2025"
+      },
+      {
+        "key": "psstaec323bib33",
+        "doi-asserted-by": "publisher",
+        "first-page": "1940",
+        "DOI": "10.1109/TPEL.2017.2734678",
+        "type": "journal-article",
+        "volume": "33",
+        "author": "Al Bastami",
+        "year": "2018",
+        "journal-title": "IEEE Trans. Power Electron."
+      },
+      {
+        "key": "psstaec323bib34",
+        "doi-asserted-by": "publisher",
+        "first-page": "124",
+        "DOI": "10.1109/OJPEL.2020.2987782",
+        "type": "journal-article",
+        "volume": "1",
+        "author": "Al Bastami",
+        "year": "2020",
+        "journal-title": "IEEE Open J. Power Electron."
+      },
+      {
+        "key": "psstaec323bib35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/0022-3727/46/36/365203",
+        "type": "journal-article",
+        "volume": "46",
+        "author": "Charles",
+        "year": "2013",
+        "journal-title": "J. Phys. D: Appl. Phys."
+      },
+      {
+        "key": "psstaec323bib36",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/1361-6463/aa7524",
+        "type": "journal-article",
+        "volume": "50",
+        "author": "Takahashi",
+        "year": "2017",
+        "journal-title": "J. Phys. D: Appl. Phys."
+      },
+      {
+        "key": "psstaec323bib37",
+        "doi-asserted-by": "publisher",
+        "first-page": "227",
+        "DOI": "10.3389/fphy.2019.00227",
+        "type": "journal-article",
+        "volume": "7",
+        "author": "Takahashi",
+        "year": "2020",
+        "journal-title": "Front. Phys."
+      },
+      {
+        "key": "psstaec323bib38",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1063/5.0038596",
+        "type": "journal-article",
+        "volume": "11",
+        "author": "Hanaoka",
+        "year": "2021",
+        "journal-title": "AIP Adv."
+      },
+      {
+        "key": "psstaec323bib39",
+        "doi-asserted-by": "publisher",
+        "first-page": "2138",
+        "DOI": "10.1109/TPS.2020.2987554",
+        "type": "journal-article",
+        "volume": "48",
+        "author": "Hanaoka",
+        "year": "2020",
+        "journal-title": "IEEE Trans. Plasma Sci."
+      },
+      {
+        "key": "psstaec323bib40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fphy.2021.639010",
+        "type": "journal-article",
+        "volume": "9",
+        "author": "Takahashi",
+        "year": "2021",
+        "journal-title": "Front. Phys."
+      },
+      {
+        "key": "psstaec323bib41",
+        "article-title": "Automatic frequency tuning of an RF power source of an inductively coupled plasma reactor",
+        "author": "Hanawa",
+        "year": "1997",
+        "type": "other"
+      },
+      {
+        "key": "psstaec323bib42",
+        "article-title": "Pulsed RF power delivery for plasma processing",
+        "author": "Chen",
+        "year": "2002",
+        "type": "other"
+      },
+      {
+        "key": "psstaec323bib43",
+        "article-title": "Frequency tuning for pulsed radio frequency plasma processing",
+        "author": "Mueller",
+        "year": "2017",
+        "type": "other"
+      },
+      {
+        "key": "psstaec323bib44",
+        "article-title": "Method and apparatus for pulsed plasma processing using a time resolved tuning scheme for RF power delivery",
+        "author": "Banner",
+        "year": "2012",
+        "type": "other"
+      },
+      {
+        "key": "psstaec323bib45",
+        "article-title": "Method and device for matching impedance of pulse radio frequency plasma",
+        "author": "Ye",
+        "year": "2020",
+        "type": "other"
+      },
+      {
+        "key": "psstaec323bib46",
+        "doi-asserted-by": "publisher",
+        "first-page": "2719",
+        "DOI": "10.1063/1.860711",
+        "type": "journal-article",
+        "volume": "5",
+        "author": "Vahedi",
+        "year": "1993",
+        "journal-title": "Phys. Fluids B"
+      },
+      {
+        "key": "psstaec323bib47",
+        "doi-asserted-by": "publisher",
+        "first-page": "6569",
+        "DOI": "10.1143/JJAP.42.6569",
+        "type": "journal-article",
+        "volume": "42",
+        "author": "Abdel-Fattah",
+        "year": "2003",
+        "journal-title": "Jpn. J. Appl. Phys."
+      },
+      {
+        "key": "psstaec323bib48",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/1361-6463/abc11b",
+        "type": "journal-article",
+        "volume": "54",
+        "author": "Sharma",
+        "year": "2020",
+        "journal-title": "J. Phys. D: Appl. Phys."
+      },
+      {
+        "key": "psstaec323bib49",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/0022-3727/45/46/465205",
+        "type": "journal-article",
+        "volume": "45",
+        "author": "Korolov",
+        "year": "2012",
+        "journal-title": "J. Phys. D: Appl. Phys."
+      },
+      {
+        "key": "psstaec323bib50",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1063/5.0226790",
+        "type": "journal-article",
+        "volume": "137",
+        "author": "Yu",
+        "year": "2025",
+        "journal-title": "J. Appl. Phys."
+      },
+      {
+        "key": "psstaec323bib51",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/1361-6595/adf005",
+        "type": "journal-article",
+        "volume": "34",
+        "author": "Cao",
+        "year": "2025",
+        "journal-title": "Plasma Sources Sci. Technol."
+      },
+      {
+        "key": "psstaec323bib52",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/0963-0252/19/4/045023",
+        "type": "journal-article",
+        "volume": "19",
+        "author": "Wang",
+        "year": "2010",
+        "journal-title": "Plasma Sources Sci. Technol."
+      },
+      {
+        "key": "psstaec323bib53",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/0963-0252/20/3/035013",
+        "type": "journal-article",
+        "volume": "20",
+        "author": "Jiang",
+        "year": "2011",
+        "journal-title": "Plasma Sources Sci. Technol."
+      },
+      {
+        "key": "psstaec323bib54",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/1361-6595/abff74",
+        "type": "journal-article",
+        "volume": "30",
+        "author": "Wu",
+        "year": "2021",
+        "journal-title": "Plasma Sources Sci. Technol."
+      },
+      {
+        "key": "psstaec323bib55",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/1361-6595/ac2222",
+        "type": "journal-article",
+        "volume": "30",
+        "author": "Schulenberg",
+        "year": "2021",
+        "journal-title": "Plasma Sources Sci. Technol."
+      },
+      {
+        "key": "psstaec323bib56",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/1361-6595/ad0432",
+        "type": "journal-article",
+        "volume": "32",
+        "author": "Park",
+        "year": "2023",
+        "journal-title": "Plasma Sources Sci. Technol."
+      },
+      {
+        "key": "psstaec323bib57",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/1361-6595/ad257f",
+        "type": "journal-article",
+        "volume": "33",
+        "author": "Shi",
+        "year": "2024",
+        "journal-title": "Plasma Sources Sci. Technol."
+      },
+      {
+        "key": "psstaec323bib58",
+        "doi-asserted-by": "publisher",
+        "first-page": "1345",
+        "DOI": "10.1103/PhysRevA.27.1345",
+        "type": "journal-article",
+        "volume": "27",
+        "author": "Yamabe",
+        "year": "1983",
+        "journal-title": "Phys. Rev. A"
+      },
+      {
+        "key": "psstaec323bib59",
+        "doi-asserted-by": "publisher",
+        "first-page": "747",
+        "DOI": "10.1063/1.357820",
+        "type": "journal-article",
+        "volume": "76",
+        "author": "Phelps",
+        "year": "1994",
+        "journal-title": "J. Appl. Phys."
+      },
+      {
+        "key": "psstaec323bib60",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/ppap.201600098",
+        "type": "journal-article",
+        "volume": "14",
+        "author": "Pitchford",
+        "year": "2017",
+        "journal-title": "Plasma Process. Polym."
+      },
+      {
+        "key": "psstaec323bib61",
+        "doi-asserted-by": "publisher",
+        "first-page": "413",
+        "DOI": "10.1088/0963-0252/9/3/319",
+        "type": "journal-article",
+        "volume": "9",
+        "author": "Kawamura",
+        "year": "2000",
+        "journal-title": "Plasma Sources Sci. Technol."
+      },
+      {
+        "key": "psstaec323bib62",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1063/5.0160853",
+        "type": "journal-article",
+        "volume": "30",
+        "author": "Sun",
+        "year": "2023",
+        "journal-title": "Phys. Plasmas"
+      },
+      {
+        "key": "psstaec323bib63",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jcp.2024.113056",
+        "type": "journal-article",
+        "volume": "509",
+        "author": "Xu",
+        "year": "2024",
+        "journal-title": "J. Comput. Phys."
+      },
+      {
+        "key": "psstaec323bib64",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/0963-0252/21/5/055028",
+        "type": "journal-article",
+        "volume": "21",
+        "author": "Song",
+        "year": "2012",
+        "journal-title": "Plasma Sources Sci. Technol."
+      }
+    ],
+    "container-title": [
+      "Plasma Sources Science and Technology"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://iopscience.iop.org/article/10.1088/1361-6595/aec323",
+        "content-type": "text/html",
+        "content-version": "am",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://iopscience.iop.org/article/10.1088/1361-6595/aec323/pdf",
+        "content-type": "application/pdf",
+        "content-version": "am",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://iopscience.iop.org/article/10.1088/1361-6595/aec323",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://iopscience.iop.org/article/10.1088/1361-6595/aec323/pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://iopscience.iop.org/article/10.1088/1361-6595/aec323/pdf",
+        "content-type": "application/pdf",
+        "content-version": "am",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://iopscience.iop.org/article/10.1088/1361-6595/aec323/pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://iopscience.iop.org/article/10.1088/1361-6595/aec323/pdf",
+        "content-type": "application/pdf",
+        "content-version": "am",
+        "intended-application": "similarity-checking"
+      },
+      {
+        "URL": "https://iopscience.iop.org/article/10.1088/1361-6595/aec323/pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          27
+        ]
+      ],
+      "date-time": "2026-11-27T09:56:10Z",
+      "timestamp": 1795773370000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://iopscience.iop.org/article/10.1088/1361-6595/aec323"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          1
+        ]
+      ]
+    },
+    "references-count": 64,
+    "journal-issue": {
+      "issue": "11",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            27
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            1
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1088/1361-6595/aec323",
+    "relation": {},
+    "ISSN": [
+      "0963-0252",
+      "1361-6595"
+    ],
+    "issn-type": [
+      {
+        "value": "0963-0252",
+        "type": "print"
+      },
+      {
+        "value": "1361-6595",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          1
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Frequency-tuned impedance matching for pulsed capacitively coupled plasmas: analysis of self-consistent circuit-plasma coupling",
+        "name": "article_title",
+        "label": "Article Title"
+      },
+      {
+        "value": "Plasma Sources Science and Technology",
+        "name": "journal_title",
+        "label": "Journal Title"
+      },
+      {
+        "value": "paper",
+        "name": "article_type",
+        "label": "Article Type"
+      },
+      {
+        "value": "© 2026 IOP Publishing Ltd. All rights, including for text and data mining, artificial intelligence training and development, machine learning and similar technologies, are reserved.",
+        "name": "copyright_information",
+        "label": "Copyright Information"
+      },
+      {
+        "value": "2026-07-23",
+        "name": "date_received",
+        "label": "Date Received",
+        "group": {
+          "name": "publication_dates",
+          "label": "Publication dates"
+        }
+      },
+      {
+        "value": "2026-11-17",
+        "name": "date_accepted",
+        "label": "Date Accepted",
+        "group": {
+          "name": "publication_dates",
+          "label": "Publication dates"
+        }
+      },
+      {
+        "value": "2026-11-27",
+        "name": "date_epub",
+        "label": "Online publication date",
+        "group": {
+          "name": "publication_dates",
+          "label": "Publication dates"
+        }
+      }
+    ]
+  }
+]

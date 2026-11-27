@@ -1,0 +1,34 @@
+{
+  "status": "metadata-only/unread; not ingested or claimed verified science",
+  "items": [
+    {
+      "identifier": "2611.33989",
+      "title": "Formation of Electron Velocity Distribution Functions at low-\\{beta} Quasi-Perpendicular Shocks From Physical-Mass-Ratio PIC Simulations"
+    },
+    {
+      "identifier": "2611.33483",
+      "title": "Statistical analysis of crossing beam speckle fields"
+    },
+    {
+      "identifier": "2611.33483",
+      "title": "Statistical analysis of crossing beam speckle fields"
+    },
+    {
+      "identifier": "2611.34752",
+      "title": "Microscopic Approach to Neutron Elastic and Inelastic Cross Sections"
+    },
+    {
+      "identifier": "2611.33379",
+      "title": "Probabilistic Machine Learning for Total Kinetic Energy Distributions in Neutron-Induced Fission"
+    },
+    {
+      "identifier": "2611.33379",
+      "title": "Probabilistic Machine Learning for Total Kinetic Energy Distributions in Neutron-Induced Fission"
+    }
+  ],
+  "formal_not_selected": [
+    "10.3390/physics8040088",
+    "10.3390/pr14233836"
+  ],
+  "previous_deferred_leads": "B11 thick target2611.30439, coldneutron2611.30086, activation2611.24653 not additionally read"
+}

@@ -1852,5 +1852,26 @@
     "failure_count": 1,
     "attempted_at": "2026-11-26T23:09:41.743881+00:00",
     "evidence_path": "daily/2026-11-27/research/formal_access.json"
+  },
+  {
+    "doi": "10.1088/1361-6595/aec323",
+    "title": "Frequency-tuned impedance matching for pulsed capacitively coupled plasmas: analysis of self-consistent circuit-plasma coupling",
+    "journal": "Plasma Sources Science and Technology",
+    "publication_date": "2026-11-27",
+    "publication_date_type": "current official IOP citation_online_date and Crossref; final PDF not obtained",
+    "source_url": "https://iopscience.iop.org/article/10.1088/1361-6595/aec323",
+    "pdf_hint_url": "https://iopscience.iop.org/article/10.1088/1361-6595/aec323/pdf",
+    "pdf_candidates": [
+      "https://iopscience.iop.org/article/10.1088/1361-6595/aec323/pdf"
+    ],
+    "output_pdf": "daily/2026-11-28/pdfs/yu-2026-frequency-matching.pdf",
+    "source_family": "iop",
+    "status": "download_failed",
+    "last_failure_class": "publisher_pdf_returns_subscription_html",
+    "stderr": "Official PDF HTTP200 text/html211055B, no PDF magic; official page explicitly no institutional subscription. HAL exact title top5 numFound0. Bounded web no verified same-work author PDF. No abstract-only note.",
+    "run_date": "2026-11-28",
+    "failure_count": 1,
+    "attempted_at": "2026-11-27T23:15:01.972198+00:00",
+    "evidence_path": "daily/2026-11-28/research/formal_access.json"
   }
 ]

@@ -2,11 +2,12 @@
 
 转换靶韧致辐射、伽马源、光核反应、中子/同位素产生、辐照、诊疗、材料与核诊断应用。
 
-- 当前收录：161 篇
-- 索引更新时间：2026-11-27
+- 当前收录：162 篇
+- 索引更新时间：2026-11-28
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-28 | [OpenMC Modelling of Neutron Spectra in the EU DEMO HCPB Divertor and Comparison with Reference MCNP Results](../papers/10-3390-app162311775/README.md) | Applied Sciences | [笔记](../daily/2026-11-28/notes/openmc-2026-divertor.md) |
 | 2026-11-27 | [Computational assessment of 47Sc production for theranostic applications via proton and deuteron irradiation of enriched 50Ti and 49Ti targets](../papers/10-1186-s40658-026-00968-z/README.md) | EJNMMI Physics | [笔记](../daily/2026-11-27/notes/dedominicis-2026-sc47.md) |
 | 2026-11-26 | [Extremely High-Energy Bremsstrahlung in Matter](../papers/10-1103-rk4d-45t9/README.md) | Physical Review Letters | [笔记](../daily/2026-11-26/notes/arnold-2026-bremsstrahlung.md) |
 | 2026-11-24 | [Antimuon acceleration via electron driven coherent transition radiation](../papers/10-1038-s41598-026-81462-5/README.md) | Scientific Reports | [笔记](../daily/2026-11-24/notes/xu-2026-antimuon.md) |

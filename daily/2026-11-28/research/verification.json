@@ -1,0 +1,29 @@
+{
+  "checked_at": "2026-11-27T23:18:22.636122+00:00",
+  "status": "passed",
+  "scoped_files": 52,
+  "markdown_files": 22,
+  "json_files": 19,
+  "parsed_links": 3280,
+  "distinct_resolved_local_destinations": 1106,
+  "inherited_bare_space_destinations_checked": 1130,
+  "missing_local_links": 0,
+  "new_bare_space_targets": 0,
+  "non_null_primary_DOIs_unique": 604,
+  "normalized_titles_unique": 608,
+  "completed_old_objects_preserved": 605,
+  "retry_old_objects_preserved": 81,
+  "pdfs_validated": 4,
+  "pdf_pages": 49,
+  "source_pages_actually_viewed": 49,
+  "figures_pixel_and_SHA_matched": 11,
+  "source_pdf_and_text_ignored_by_git": true,
+  "existing_AGENTS_sha256": "34e18320c8191458fa513b47c4d55f6fc9c63da79e6b02f22d201ce5dfbb8e8d",
+  "tests": {
+    "command": "PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q",
+    "passed": 7,
+    "seconds": 3.69,
+    "observed_exit_code": 0
+  },
+  "publication_boundary": "source read + local artifact QA; no author computation/experiment rerun; publication outcome in automation memory"
+}

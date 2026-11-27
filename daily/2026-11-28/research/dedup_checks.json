@@ -1,0 +1,56 @@
+{
+  "baseline_completed": 605,
+  "baseline_retry": 81,
+  "selected_checks": [
+    {
+      "doi": "10.1038/s41598-026-79975-0",
+      "exact_identifier_title_source_matches": 0,
+      "closest_title_candidates": [
+        {
+          "doi": "",
+          "title": "Dual-picosecond-laser-driven generation of MV/m giant electromagnetic pulses",
+          "title_similarity": 0.556
+        },
+        {
+          "doi": "10.1038/s41598-025-29793-7",
+          "title": "Multi-PW laser-driven proton acceleration using a plasma-lens target",
+          "title_similarity": 0.547
+        },
+        {
+          "doi": "10.1103/wyt1-24q7",
+          "title": "Nonthermal Particle Acceleration by Magnetic Pumping in Pulsating Plasmas",
+          "title_similarity": 0.542
+        }
+      ],
+      "same_work_alias_policy": "annular early Research Square same-author geometry lead not independently ingested; two current main fulltexts distinct; no claimed old-paper scientific reread"
+    },
+    {
+      "doi": "10.3390/app162311775",
+      "exact_identifier_title_source_matches": 0,
+      "closest_title_candidates": [
+        {
+          "doi": "10.48550/arXiv.2608.20142",
+          "title": "Wavefront shaping of terahertz radiation using two-color flying-focus pulses with time-dependent focal velocities",
+          "title_similarity": 0.418
+        },
+        {
+          "doi": "10.1017/hpl.2026.10180",
+          "title": "Enhanced fast-electron generation by optimizing the crossing point of two picosecond laser pulses with large angles",
+          "title_similarity": 0.414
+        },
+        {
+          "doi": "10.48550/arXiv.2608.10988",
+          "title": "High-energy electron-positron beam collisions with large-angle disruptions",
+          "title_similarity": 0.409
+        }
+      ],
+      "same_work_alias_policy": "annular early Research Square same-author geometry lead not independently ingested; two current main fulltexts distinct; no claimed old-paper scientific reread"
+    },
+    {
+      "doi": "10.1088/2058-6272/aea103",
+      "exact_identifier_title_source_matches": 0,
+      "related_work_not_alias": "10.1103/79h1-q62n; current fulltext weak probe capillary measurement distinct from relativistic centroid-damping paper; old note not scientifically reread"
+    }
+  ],
+  "old_objects_to_preserve": 605
+}

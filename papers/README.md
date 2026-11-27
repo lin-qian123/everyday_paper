@@ -1,10 +1,13 @@
 # 论文总索引
 
-- 当前入库论文：605 篇
-- 索引更新时间：2026-11-27
+- 当前入库论文：608 篇
+- 索引更新时间：2026-11-28
 
 | 入库日期 | 论文 | 期刊/平台 | DOI |
 | --- | --- | --- | --- |
+| 2026-11-28 | [Enhanced laser-driven ion acceleration through electromagnetic energy coupling in annular sector targets](./10-1038-s41598-026-79975-0/README.md) | Scientific Reports | [10.1038/s41598-026-79975-0](https://doi.org/10.1038/s41598-026-79975-0) |
+| 2026-11-28 | [OpenMC Modelling of Neutron Spectra in the EU DEMO HCPB Divertor and Comparison with Reference MCNP Results](./10-3390-app162311775/README.md) | Applied Sciences | [10.3390/app162311775](https://doi.org/10.3390/app162311775) |
+| 2026-11-28 | [Near- and far-field centroid-oscillation diagnostics of straight and curved discharge plasma waveguides](./10-1088-2058-6272-aea103/README.md) | Plasma Science and Technology | [10.1088/2058-6272/aea103](https://doi.org/10.1088/2058-6272/aea103) |
 | 2026-11-27 | [Computational assessment of 47Sc production for theranostic applications via proton and deuteron irradiation of enriched 50Ti and 49Ti targets](./10-1186-s40658-026-00968-z/README.md) | EJNMMI Physics | [10.1186/s40658-026-00968-z](https://doi.org/10.1186/s40658-026-00968-z) |
 | 2026-11-27 | [Speckle renewal, not bandwidth alone, mitigates kinetic Raman scattering at moderate bandwidth](./arxiv-2611-33971/README.md) | arXiv preprint | [10.48550/arXiv.2611.33971](https://doi.org/10.48550/arXiv.2611.33971) |
 | 2026-11-27 | [Plasma transport by carrier electrons: Nernst advection beyond the heat-flow analogy due to kinetic stress](./arxiv-2611-34766/README.md) | arXiv preprint | [10.48550/arXiv.2611.34766](https://doi.org/10.48550/arXiv.2611.34766) |

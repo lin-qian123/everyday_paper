@@ -1,0 +1,108 @@
+{
+  "pdfs": [
+    {
+      "path": "daily/2026-11-28/pdfs/rezaeipandari-2026-annular.pdf",
+      "bytes": 5233279,
+      "sha256": "de5b242ebf15008210093e395516f111e68bae41d738c82a031c67fa3479edd9",
+      "magic": "%PDF-",
+      "mime": "application/pdf",
+      "pdfinfo_pages": 17,
+      "pypdf_pages": 17,
+      "pymupdf_pages": 17,
+      "per_page_text_chars": [
+        2946,
+        4757,
+        3717,
+        4693,
+        1914,
+        1705,
+        5100,
+        840,
+        4902,
+        3276,
+        4543,
+        846,
+        1189,
+        2600,
+        4452,
+        5924,
+        3330
+      ],
+      "local_layout_text": "daily/2026-11-28/pdfs/rezaeipandari-2026-annular.txt"
+    },
+    {
+      "path": "daily/2026-11-28/pdfs/rezaeipandari-2026-annular-supplement.pdf",
+      "bytes": 386753,
+      "sha256": "5841aabb2eed9f5351c68718a85d27af8e1994b970f14e0465454aa77ec8ab32",
+      "magic": "%PDF-",
+      "mime": "application/pdf",
+      "pdfinfo_pages": 8,
+      "pypdf_pages": 8,
+      "pymupdf_pages": 8,
+      "per_page_text_chars": [
+        2667,
+        3425,
+        1326,
+        2629,
+        2606,
+        947,
+        2819,
+        1355
+      ],
+      "local_layout_text": "daily/2026-11-28/pdfs/rezaeipandari-2026-annular-supplement.txt"
+    },
+    {
+      "path": "daily/2026-11-28/pdfs/openmc-2026-divertor.pdf",
+      "bytes": 1869186,
+      "sha256": "93a3540622fb04b89394fab2d9ea97906d2bdd9552758d1fd523ee0b7961315d",
+      "magic": "%PDF-",
+      "mime": "application/pdf",
+      "pdfinfo_pages": 16,
+      "pypdf_pages": 16,
+      "pymupdf_pages": 16,
+      "per_page_text_chars": [
+        3526,
+        3556,
+        3065,
+        3444,
+        1898,
+        1820,
+        3034,
+        2996,
+        1947,
+        2978,
+        2953,
+        1848,
+        2865,
+        2230,
+        2646,
+        4263
+      ],
+      "local_layout_text": "daily/2026-11-28/pdfs/openmc-2026-divertor.txt"
+    },
+    {
+      "path": "daily/2026-11-28/pdfs/man-2026-waveguide.pdf",
+      "bytes": 6810430,
+      "sha256": "aaaefe6ca44f63101ce9a9392c28e96ae9d658caeca6c01ebf9a0b1d6061fd44",
+      "magic": "%PDF-",
+      "mime": "application/pdf",
+      "pdfinfo_pages": 8,
+      "pypdf_pages": 8,
+      "pymupdf_pages": 8,
+      "per_page_text_chars": [
+        3016,
+        6395,
+        2612,
+        4734,
+        4880,
+        4318,
+        4413,
+        4302
+      ],
+      "local_layout_text": "daily/2026-11-28/pdfs/man-2026-waveguide.txt"
+    }
+  ],
+  "total_pages": 49,
+  "extraction": "local pdftotext layout and rendered-page fallback; MinerU0 requests; historical401 not retested",
+  "author_code_rerun": false
+}

@@ -1,0 +1,19 @@
+{
+  "new_retry_doi": "10.1088/1361-6595/aec323",
+  "required_fields_present": true,
+  "constructor_only_not_executed": true,
+  "command": [
+    "/Users/yuxiangzhang/anaconda3/envs/python312/bin/python",
+    "/Volumes/PHILIPS/programs/everyday_paper/scripts/safe_pdf_download.py",
+    "--url",
+    "https://iopscience.iop.org/article/10.1088/1361-6595/aec323/pdf",
+    "--url",
+    "https://iopscience.iop.org/article/10.1088/1361-6595/aec323",
+    "--doi",
+    "10.1088/1361-6595/aec323",
+    "--output",
+    "/Volumes/PHILIPS/programs/everyday_paper/daily/2026-11-28/pdfs/yu-2026-frequency-matching.pdf",
+    "--report-json",
+    "/tmp/everyday-paper-20261128/not-executed.json"
+  ]
+}

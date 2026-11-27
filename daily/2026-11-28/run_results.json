@@ -1,0 +1,47 @@
+{
+  "run_date": "2026-11-28",
+  "checked_at": "2026-11-27T23:18:22.636122+00:00",
+  "ledger_before": 605,
+  "ledger_after": 608,
+  "new_works": 3,
+  "new_final_VORs": 2,
+  "new_publisher_article_in_press": 1,
+  "new_author_preprints": 0,
+  "old_completed_objects_preserved": 605,
+  "retry_before": 81,
+  "retry_after": 82,
+  "old_retry_objects_preserved": 81,
+  "new_retry_dois": [
+    "10.1088/1361-6595/aec323"
+  ],
+  "waveguide_fulltext_recovered_not_queued": true,
+  "pdf_main_pages": 41,
+  "pdf_scientific_supplement_pages": 8,
+  "pdf_total_pages": 49,
+  "pdf_total_bytes": 14299648,
+  "source_visual_pages_unique": 49,
+  "retained_crops": 11,
+  "primary_reopened_all_crops": true,
+  "mineru_requests": 0,
+  "mineru_status": "historical401 not retested; local fallback",
+  "author_models_or_experiments_rerun": false,
+  "indexes": {
+    "command": "python scripts/build_indexes.py",
+    "works": 608,
+    "categories": 9,
+    "status": "built"
+  },
+  "tests": {
+    "command": "PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest -q",
+    "passed": 7,
+    "seconds": 3.69,
+    "observed_exit_code": 0
+  },
+  "external_science_supplement_gap": "OpenMC S1-S18 official s1 route403 HTML413B; not read; in-PDF AppendicesA/B read",
+  "verification_path": "daily/2026-11-28/research/verification.json",
+  "existing_AGENTS_modification_preserved_and_excluded": true,
+  "publication": {
+    "authorized_target": "origin/master",
+    "procedure": "commit scoped audited paths; verify staged and committed SHA plus HEAD==tracking==fresh ls-remote; outcome in automation memory"
+  }
+}

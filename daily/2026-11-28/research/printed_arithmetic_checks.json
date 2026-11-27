@@ -1,0 +1,14 @@
+{
+  "scope": "arithmetic of printed numbers only; not author-code or transport rerun",
+  "openmc_7090_flux": 64903048638218.53,
+  "openmc_7090_standard_error": 1441023414331.1746,
+  "mcnp_7090_flux_printed_example": 58757076638943.55,
+  "openmc_7090_integrated_relative_standard_error_percent": 2.2187981510015407,
+  "annular_field_persistence_ratio_rounded": 3.7692307692307687,
+  "annular_cutoff_ratio_rounded": 1.8105489773950487,
+  "annular_temperature_ratio_rounded": 4.74468085106383,
+  "rounding_note": "main Table1 uses unrounded values for4.73; rounded4.46/0.94 differs, retain author ratio with provenance",
+  "waveguide_nearfield_phase_deg": 153.76649036404243,
+  "waveguide_effective_length_from_rounded_slopes_m": 0.030339931081717595,
+  "curved_ideal_equilibrium_shift_um": -121.32823125511965
+}

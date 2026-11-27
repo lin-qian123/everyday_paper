@@ -1,0 +1,727 @@
+{
+  "checked_at": "2026-11-27T23:00:42.847362+00:00",
+  "records": [
+    {
+      "name": "annular",
+      "requested_url": "https://www.nature.com/articles/s41598-026-79975-0",
+      "final_url": "https://www.nature.com/articles/s41598-026-79975-0",
+      "status": 200,
+      "mime": "text/html; charset=utf-8",
+      "bytes": 213743,
+      "pdf_magic": false,
+      "metadata": [
+        {
+          "name": "360-site-verification",
+          "content": "5a2dc4ab3fcb9b0393241ffbbb490480"
+        },
+        {
+          "name": "journal_id",
+          "content": "41598"
+        },
+        {
+          "name": "dc.title",
+          "content": "Enhanced laser-driven ion acceleration through electromagnetic energy coupling in annular sector targets"
+        },
+        {
+          "name": "dc.source",
+          "content": "Scientific Reports 2026"
+        },
+        {
+          "name": "dc.format",
+          "content": "text/html"
+        },
+        {
+          "name": "dc.publisher",
+          "content": "Nature Publishing Group"
+        },
+        {
+          "name": "dc.date",
+          "content": "2026-11-27"
+        },
+        {
+          "name": "dc.type",
+          "content": "OriginalPaper"
+        },
+        {
+          "name": "dc.language",
+          "content": "En"
+        },
+        {
+          "name": "dc.copyright",
+          "content": "2026 The Author(s)"
+        },
+        {
+          "name": "dc.rights",
+          "content": "2026 The Author(s)"
+        },
+        {
+          "name": "dc.rightsAgent",
+          "content": "journalpermissions@springernature.com"
+        },
+        {
+          "name": "dc.description",
+          "content": "Enhancing laser-to-ion energy conversion and increasing the maximum ion energy remain central challenges for laser-driven ion sources. We present a two-dimensional Particle-In-Cell investigation of Target Normal Sheath Acceleration using an annular sector target and a flat target under otherwise identical irradiation conditions. An interaction-matched analysis shows that the partially enclosing geometry produces substantially stronger electromagnetic energy coupling and a hotter energetic-electron population. The terminal closed-control-surface electromagnetic coupling/retention proxy increases from 0.156 for the flat target to 0.616 for the annular sector target, while the median electron slope temperature over $$0\\le \\tau \\le 50$$&nbsp;fs increases from 0.94 to 4.46&nbsp;MeV. At $$\\tau \\simeq 400$$&nbsp;fs after laser–target contact, the proton cutoff obtained using a common relative spectral threshold increases from 9.29 to 16.82&nbsp;MeV. The hotter energetic-electron population, together with the species-resolved energy-transfer and particle-resolved work histories, is consistent with stronger electron heating and the resulting longitudinal sheath work being the primary energetic pathway for the ion-energy increase. Surface-resolved and initial-side trajectory diagnostics additionally show that the curved geometry produces a distinct cavity-directed inner-origin population, while the higher energetic tail is carried by outer-origin ions; the data therefore do not isolate an independent cutoff-energy gain caused solely by geometric ion convergence. These results identify enhanced laser–electron energy coupling, together with geometry-controlled particle transport, as the physically supported basis of the improved acceleration."
+        },
+        {
+          "name": "citation_pdf_url",
+          "content": "https://www.nature.com/articles/s41598-026-79975-0.pdf"
+        },
+        {
+          "name": "citation_fulltext_html_url",
+          "content": "https://www.nature.com/articles/s41598-026-79975-0"
+        },
+        {
+          "name": "citation_journal_title",
+          "content": "Scientific Reports"
+        },
+        {
+          "name": "citation_journal_abbrev",
+          "content": "Sci Rep"
+        },
+        {
+          "name": "citation_publisher",
+          "content": "Nature Publishing Group"
+        },
+        {
+          "name": "citation_issn",
+          "content": "2045-2322"
+        },
+        {
+          "name": "citation_title",
+          "content": "Enhanced laser-driven ion acceleration through electromagnetic energy coupling in annular sector targets"
+        },
+        {
+          "name": "citation_online_date",
+          "content": "2026/11/27"
+        },
+        {
+          "name": "citation_firstpage",
+          "content": ""
+        },
+        {
+          "name": "citation_lastpage",
+          "content": ""
+        },
+        {
+          "name": "citation_article_type",
+          "content": "Article"
+        },
+        {
+          "name": "citation_fulltext_world_readable",
+          "content": ""
+        },
+        {
+          "name": "citation_language",
+          "content": "en"
+        },
+        {
+          "name": "dc.identifier",
+          "content": "doi:10.1038/s41598-026-79975-0"
+        },
+        {
+          "name": "citation_doi",
+          "content": "10.1038/s41598-026-79975-0"
+        },
+        {
+          "name": "citation_springer_api_url",
+          "content": "http://api.springer.com/xmldata/jats?q=doi:10.1038/s41598-026-79975-0&api_key="
+        },
+        {
+          "name": "dc.creator",
+          "content": "Rezaei-Pandari, Mohammad"
+        },
+        {
+          "name": "dc.creator",
+          "content": "Shayganmanesh, Mahdi"
+        },
+        {
+          "name": "dc.creator",
+          "content": "Mahdieh, Mohammad Hossein"
+        },
+        {
+          "name": "dc.subject",
+          "content": "Optics and photonics"
+        },
+        {
+          "name": "dc.subject",
+          "content": "Physics"
+        },
+        {
+          "name": "citation_author",
+          "content": "Rezaei-Pandari, Mohammad"
+        },
+        {
+          "name": "citation_author_institution",
+          "content": "Department of Physics, Iran University of Science and Technology, Tehran, Iran"
+        },
+        {
+          "name": "citation_author",
+          "content": "Shayganmanesh, Mahdi"
+        },
+        {
+          "name": "citation_author_institution",
+          "content": "Department of Physics, Iran University of Science and Technology, Tehran, Iran"
+        },
+        {
+          "name": "citation_author",
+          "content": "Mahdieh, Mohammad Hossein"
+        },
+        {
+          "name": "citation_author_institution",
+          "content": "Department of Physics, Iran University of Science and Technology, Tehran, Iran"
+        }
+      ],
+      "links": [
+        {
+          "text": "Download PDF",
+          "href": "/articles/s41598-026-79975-0_reference.pdf"
+        },
+        {
+          "text": "Download PDF",
+          "href": "/articles/s41598-026-79975-0_reference.pdf"
+        },
+        {
+          "text": "Supplementary Information. (download PDF )",
+          "href": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-026-79975-0/MediaObjects/41598_2026_79975_MOESM1_ESM.pdf"
+        },
+        {
+          "text": "Download citation",
+          "href": "https://citation-needed.springer.com/v2/references/10.1038/s41598-026-79975-0?format=refman&flavour=citation"
+        },
+        {
+          "text": "Download PDF",
+          "href": "/articles/s41598-026-79975-0_reference.pdf"
+        }
+      ]
+    },
+    {
+      "name": "waveguide",
+      "url": "https://pst.hfcas.ac.cn/article/id/0c7976dc-eb25-4736-8f19-5d1b7e1a9253",
+      "error": "HTTPSConnectionPool(host='pst.hfcas.ac.cn', port=443): Max retries exceeded with url: /article/id/0c7976dc-eb25-4736-8f19-5d1b7e1a9253 (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'pst.hfcas.ac.cn'. (_ssl.c:1010)\")))"
+    },
+    {
+      "name": "openmc",
+      "requested_url": "https://www.mdpi.com/2076-3417/16/23/11775",
+      "final_url": "https://www.mdpi.com/2076-3417/16/23/11775",
+      "status": 403,
+      "mime": "text/html",
+      "bytes": 401,
+      "pdf_magic": false,
+      "metadata": [],
+      "links": []
+    },
+    {
+      "name": "impedance",
+      "requested_url": "https://iopscience.iop.org/article/10.1088/1361-6595/aec323/pdf",
+      "final_url": "https://iopscience.iop.org/article/10.1088/1361-6595/aec323/pdf",
+      "status": 200,
+      "mime": "text/html;charset=UTF-8",
+      "bytes": 211055,
+      "pdf_magic": false,
+      "metadata": [
+        {
+          "name": "citation_journal_title",
+          "content": "Plasma Sources Science and Technology"
+        },
+        {
+          "name": "citation_journal_abbrev",
+          "content": "Plasma Sources Sci. Technol."
+        },
+        {
+          "name": "citation_issn",
+          "content": "0963-0252"
+        },
+        {
+          "name": "citation_publisher",
+          "content": "IOP Publishing"
+        },
+        {
+          "name": "citation_author",
+          "content": "Shimin Yu"
+        },
+        {
+          "name": "citation_author_institution",
+          "content": "State Key Laboratory of Advanced Electromagnetic Technology, International Joint Research Laboratory of Magnetic Confinement Fusion and Plasma Physics, School of Electrical and Electronic Engineering, Huazhong University of Science and Technology, Wuhan 430074, People’s Republic of China"
+        },
+        {
+          "name": "citation_author_institution",
+          "content": "Chair of Applied Electrodynamics and Plasma Technology, Department of Electrical Engineering and Information Sciences, Ruhr University Bochum, D-44780 Bochum, Germany"
+        },
+        {
+          "name": "citation_author_orcid",
+          "content": "http://orcid.org/0000-0002-3832-5252"
+        },
+        {
+          "name": "citation_author",
+          "content": "Zili Chen"
+        },
+        {
+          "name": "citation_author_institution",
+          "content": "State Key Laboratory of Advanced Electromagnetic Technology, International Joint Research Laboratory of Magnetic Confinement Fusion and Plasma Physics, School of Electrical and Electronic Engineering, Huazhong University of Science and Technology, Wuhan 430074, People’s Republic of China"
+        },
+        {
+          "name": "citation_author_orcid",
+          "content": "http://orcid.org/0000-0002-2104-5369"
+        },
+        {
+          "name": "citation_author",
+          "content": "Yu Wang"
+        },
+        {
+          "name": "citation_author_institution",
+          "content": "School of Physics, Huazhong University of Science and Technology, Wuhan 430074, People’s Republic of China"
+        },
+        {
+          "name": "citation_author_orcid",
+          "content": "http://orcid.org/0000-0003-3519-3677"
+        },
+        {
+          "name": "citation_author",
+          "content": "Zhipeng Chen"
+        },
+        {
+          "name": "citation_author_institution",
+          "content": "State Key Laboratory of Advanced Electromagnetic Technology, International Joint Research Laboratory of Magnetic Confinement Fusion and Plasma Physics, School of Electrical and Electronic Engineering, Huazhong University of Science and Technology, Wuhan 430074, People’s Republic of China"
+        },
+        {
+          "name": "citation_author_orcid",
+          "content": "http://orcid.org/0000-0002-8330-0070"
+        },
+        {
+          "name": "citation_author",
+          "content": "Zhijiang Wang"
+        },
+        {
+          "name": "citation_author_institution",
+          "content": "State Key Laboratory of Advanced Electromagnetic Technology, International Joint Research Laboratory of Magnetic Confinement Fusion and Plasma Physics, School of Electrical and Electronic Engineering, Huazhong University of Science and Technology, Wuhan 430074, People’s Republic of China"
+        },
+        {
+          "name": "citation_author_orcid",
+          "content": "http://orcid.org/0000-0001-5276-1520"
+        },
+        {
+          "name": "citation_author",
+          "content": "Wei Jiang"
+        },
+        {
+          "name": "citation_author_institution",
+          "content": "State Key Laboratory of Advanced Electromagnetic Technology, International Joint Research Laboratory of Magnetic Confinement Fusion and Plasma Physics, School of Electrical and Electronic Engineering, Huazhong University of Science and Technology, Wuhan 430074, People’s Republic of China"
+        },
+        {
+          "name": "citation_author_institution",
+          "content": "School of Physics, Huazhong University of Science and Technology, Wuhan 430074, People’s Republic of China"
+        },
+        {
+          "name": "citation_author_orcid",
+          "content": "http://orcid.org/0000-0002-9394-585X"
+        },
+        {
+          "name": "citation_author",
+          "content": "Ya Zhang"
+        },
+        {
+          "name": "citation_author_institution",
+          "content": "School of Physics and Mechanics, Wuhan University of Technology, Wuhan 430070, People’s Republic of China"
+        },
+        {
+          "name": "citation_author_orcid",
+          "content": "http://orcid.org/0000-0003-0473-467X"
+        },
+        {
+          "name": "citation_author",
+          "content": "Julian Schulze"
+        },
+        {
+          "name": "citation_author_institution",
+          "content": "Chair of Applied Electrodynamics and Plasma Technology, Department of Electrical Engineering and Information Sciences, Ruhr University Bochum, D-44780 Bochum, Germany"
+        },
+        {
+          "name": "citation_author_orcid",
+          "content": "http://orcid.org/0000-0001-7929-5734"
+        },
+        {
+          "name": "citation_title",
+          "content": "Frequency-tuned impedance matching for pulsed capacitively coupled plasmas: analysis of self-consistent circuit-plasma coupling"
+        },
+        {
+          "name": "citation_online_date",
+          "content": "2026/11/27"
+        },
+        {
+          "name": "citation_volume",
+          "content": "35"
+        },
+        {
+          "name": "citation_issue",
+          "content": "11"
+        },
+        {
+          "name": "citation_firstpage",
+          "content": "115022"
+        },
+        {
+          "name": "citation_doi",
+          "content": "10.1088/1361-6595/aec323"
+        },
+        {
+          "name": "citation_abstract_html_url",
+          "content": "https://iopscience.iop.org/article/10.1088/1361-6595/aec323/meta"
+        },
+        {
+          "name": "citation_pdf_url",
+          "content": "https://iopscience.iop.org/article/10.1088/1361-6595/aec323/pdf"
+        },
+        {
+          "name": "citation_xml_url",
+          "content": "https://iopscience.iop.org/article/10.1088/1361-6595/aec323/xml"
+        },
+        {
+          "name": "citation_fulltext_html_url",
+          "content": "https://iopscience.iop.org/article/10.1088/1361-6595/aec323"
+        },
+        {
+          "name": "citation_language",
+          "content": "en"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_title=Principles of Plasma Discharges and Materials Processing; citation_author=Lieberman M A; citation_author=Lichtenberg A J; citation_publisher=Wiley; citation_publication_date=2005;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_title=Physics of Radio-Frequency Plasmas; citation_author=Chabert P; citation_author=Braithwaite N; citation_publisher=Cambridge University Press; citation_publication_date=2011;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_title=Plasma Etching: Fundamentals and Applications (Series on Semiconductor Science and Technology); citation_author=Sugawara M; citation_publisher=Oxford University Press; citation_publication_date=1998; citation_volume=vol 7;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=IEEE Trans. Mater. Electron Dev.; citation_author=Voronin S; citation_author=Vallée C; citation_volume=1; citation_publication_date=2024; citation_firstpage=49; citation_lastpage=63; citation_doi=10.1109/TMAT.2024.3420822;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=Plasma Sources Sci. Technol.; citation_author=Lee J; citation_author=Manuilenko O; citation_author=Babaeva N Y; citation_author=Kim H; citation_author=Shon J; citation_volume=14; citation_publication_date=2005; citation_firstpage=89; citation_doi=10.1088/0963-0252/14/1/012;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=Plasma Sources Sci. Technol.; citation_author=Jiang X; citation_author=Hartmann P; citation_author=Donkó Z; citation_author=Wang L; citation_author=Song Y H; citation_author=Schulze J; citation_volume=35; citation_publication_date=2026; citation_firstpage=085019; citation_doi=10.1088/1361-6595/ae7b83;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=J. Vac. Sci. Technol. A; citation_author=Banna S; citation_author=Agarwal A; citation_author=Cunge G; citation_author=Darnon M; citation_author=Pargon E; citation_author=Joubert O; citation_volume=30; citation_publication_date=2012; citation_firstpage=040801; citation_doi=10.1116/1.4716176;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=J. Phys. D: Appl. Phys.; citation_author=Economou D J; citation_volume=47; citation_publication_date=2014; citation_firstpage=303001; citation_doi=10.1088/0022-3727/47/30/303001;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=Appl. Surf. Sci.; citation_author=Kim H J; citation_author=Wen L; citation_author=San Kim D; citation_author=Kim K H; citation_author=Hong J W; citation_author=Chang W J; citation_author=Namgoong S; citation_author=Kim D W; citation_author=Yeom G Y; citation_volume=596; citation_publication_date=2022; citation_firstpage=153604; citation_doi=10.1016/j.apsusc.2022.153604;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=J. Vac. Sci. Technol. A; citation_author=Ashida S; citation_author=Lee C; citation_author=Lieberman M; citation_volume=13; citation_publication_date=1995; citation_firstpage=2498; citation_lastpage=507; citation_doi=10.1116/1.579494;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=Plasma Sources Sci. Technol.; citation_author=Lieberman M A; citation_author=Ashida S; citation_volume=5; citation_publication_date=1996; citation_firstpage=145; citation_doi=10.1088/0963-0252/5/2/006;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=Phys. Rev. E; citation_author=Kaganovich I; citation_author=Ramamurthi B; citation_author=Economou D J; citation_volume=64; citation_publication_date=2001; citation_firstpage=036402; citation_doi=10.1103/PhysRevE.64.036402;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=Plasma Sources Sci. Technol.; citation_author=Overzet L J; citation_author=Leong-Rousey F Y; citation_volume=4; citation_publication_date=1995; citation_firstpage=432; citation_doi=10.1088/0963-0252/4/3/013;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=Plasma Sources Sci. Technol.; citation_author=Sirse N; citation_author=Jeon M; citation_author=Yeom G; citation_author=Ellingboe A; citation_volume=23; citation_publication_date=2014; citation_firstpage=065046; citation_doi=10.1088/0963-0252/23/6/065046;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=J. Appl. Phys.; citation_author=Wen D Q; citation_author=Zhang Q Z; citation_author=Jiang W; citation_author=Song Y H; citation_author=Bogaerts A; citation_author=Wang Y N; citation_volume=115; citation_publication_date=2014; citation_firstpage=233303; citation_doi=10.1063/1.4884225;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=Plasma Sources Sci. Technol.; citation_author=Shanmugham Murugesan N; citation_author=Raja L L; citation_volume=34; citation_publication_date=2025; citation_firstpage=065014; citation_doi=10.1088/1361-6595/ade627;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=Plasma Sources Sci. Technol.; citation_author=Luo L Y; citation_author=Donkó Z; citation_author=Masheyeva R; citation_author=Li H P; citation_author=Hartmann P; citation_volume=35; citation_publication_date=2026; citation_firstpage=065004; citation_doi=10.1088/1361-6595/ae6feb;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=J. Appl. Phys.; citation_author=Qu C; citation_author=Lanham S J; citation_author=Shannon S C; citation_author=Nam S K; citation_author=Kushner M J; citation_volume=127; citation_publication_date=2020; citation_firstpage=133302; citation_doi=10.1063/5.0002522;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=J. Appl. Phys.; citation_author=Smith C L; citation_author=Nam S K; citation_author=Bae K; citation_author=Lee J Y; citation_author=Shannon S; citation_volume=130; citation_publication_date=2021; citation_firstpage=163304; citation_doi=10.1063/5.0060240;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=Plasma Sources Sci. Technol.; citation_author=Yu S; citation_author=Chen Z; citation_author=Wang Y; citation_author=Chen Z; citation_author=Wang Z; citation_author=Jiang W; citation_author=Zhang Y; citation_author=Schulze J; citation_volume=35; citation_publication_date=2026; citation_firstpage=025006; citation_doi=10.1088/1361-6595/ae359e;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_title=Extremum-Seeking Control and Applications: A Numerical Optimization-Based Approach; citation_author=Zhang C; citation_author=Ordóñez R; citation_publication_date=2012; citation_doi=10.1007/978-1-4471-2224-1_7;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=Eur. Phys. J. Appl. Phys.; citation_author=Salem M M; citation_author=Loiseau J F; citation_author=Held B; citation_volume=3; citation_publication_date=1998; citation_firstpage=91; citation_lastpage=95; citation_doi=10.1051/epjap:1998208;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=Plasma Sources Sci. Technol.; citation_author=Schmidt F; citation_author=Mussenbrock T; citation_author=Trieschmann J; citation_volume=27; citation_publication_date=2018; citation_firstpage=105017; citation_doi=10.1088/1361-6595/aae429;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=J. Phys. D: Appl. Phys.; citation_author=Gao J; citation_author=Yu S; citation_author=Wu H; citation_author=Wang Y; citation_author=Wang Z; citation_author=Pan Y; citation_author=Jiang W; citation_author=Zhang Y; citation_volume=55; citation_publication_date=2022; citation_firstpage=165201; citation_doi=10.1088/1361-6463/ac49b6;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=Comput. Phys. Commun.; citation_author=Yu S; citation_author=Wu H; citation_author=Xu J; citation_author=Wang Y; citation_author=Gao J; citation_author=Wang Z; citation_author=Jiang W; citation_author=Zhang Y; citation_volume=282; citation_publication_date=2023; citation_firstpage=108468; citation_doi=10.1016/j.cpc.2022.108468;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=J. Appl. Phys.; citation_author=Yu S; citation_author=Chen Z; citation_author=Wu H; citation_author=Guo L; citation_author=Wang Z; citation_author=Jiang W; citation_author=Zhang Y; citation_volume=132; citation_publication_date=2022; citation_firstpage=083302; citation_doi=10.1063/5.0096910;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=Phys. Scr.; citation_author=Chen Z; citation_author=Yu S; citation_author=Xu J; citation_author=Cao D; citation_author=Chen Z; citation_author=Jiang W; citation_author=Zhang Y; citation_volume=99; citation_publication_date=2024; citation_firstpage=025610; citation_doi=10.1088/1402-4896/ad1f1e;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=Plasma Sources Sci. Technol.; citation_author=Chen Z; citation_author=Wang H; citation_author=Yu S; citation_author=Wang Y; citation_author=Chen Z; citation_author=Jiang W; citation_author=Schulze J; citation_author=Zhang Y; citation_volume=33; citation_publication_date=2024; citation_firstpage=045003; citation_doi=10.1088/1361-6595/ad3849;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=Plasma Sources Sci. Technol.; citation_author=Schmidt F; citation_author=Schulze J; citation_author=Johnson E; citation_author=Booth J P; citation_author=Keil D; citation_author=French D M; citation_author=Trieschmann J; citation_author=Mussenbrock T; citation_volume=27; citation_publication_date=2018; citation_firstpage=095012; citation_doi=10.1088/1361-6595/aad2cd;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=J. Vac. Sci. Technol. A; citation_author=Wang J; citation_author=Diné S; citation_author=Booth J P; citation_author=Johnson E V; citation_volume=37; citation_publication_date=2019; citation_firstpage=021303; citation_doi=10.1116/1.5056205;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=IEEE J. Emerg. Sel. Topics Power Electron.; citation_author=Min J; citation_author=Chae B; citation_author=Suh Y; citation_author=Kim J; citation_author=Kim H; citation_volume=10; citation_publication_date=2021; citation_firstpage=1353; citation_lastpage=62; citation_doi=10.1109/JESTPE.2021.3073121;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_title=Full-wave phase-switched impedance modulation actuator for tunable matching networks; citation_conference_title=2025 IEEE 26th Workshop on Control and Modeling for Power Electronics (COMPEL); citation_author=Jurkov A; citation_author=Law Z; citation_author=Albrecht J; citation_author=Quinn R; citation_author=Radomski A; citation_publication_date=2025; citation_firstpage=pp 1; citation_lastpage=8; citation_publisher=IEEE;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=IEEE Trans. Power Electron.; citation_author=Al Bastami A; citation_author=Jurkov A S; citation_author=Gould P; citation_author=Hsing M; citation_author=Schmidt M; citation_author=Ha J I; citation_author=Perreault D J; citation_volume=33; citation_publication_date=2018; citation_firstpage=1940; citation_lastpage=51; citation_doi=10.1109/TPEL.2017.2734678;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=IEEE Open J. Power Electron.; citation_author=Al Bastami A; citation_author=Jurkov A S; citation_author=Otten D M; citation_author=Nguyen D T; citation_author=Radomski A T; citation_author=Perreault D J; citation_volume=1; citation_publication_date=2020; citation_firstpage=124; citation_lastpage=38; citation_doi=10.1109/OJPEL.2020.2987782;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=J. Phys. D: Appl. Phys.; citation_author=Charles C; citation_author=Boswell R; citation_author=Bish A; citation_volume=46; citation_publication_date=2013; citation_firstpage=365203; citation_doi=10.1088/0022-3727/46/36/365203;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=J. Phys. D: Appl. Phys.; citation_author=Takahashi K; citation_author=Nakano Y; citation_author=Ando A; citation_volume=50; citation_publication_date=2017; citation_firstpage=265201; citation_doi=10.1088/1361-6463/aa7524;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=Front. Phys.; citation_author=Takahashi K; citation_author=Hanaoka K; citation_author=Ando A; citation_volume=7; citation_publication_date=2020; citation_firstpage=227; citation_doi=10.3389/fphy.2019.00227;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=AIP Adv.; citation_author=Hanaoka K; citation_author=Takahashi K; citation_volume=11; citation_publication_date=2021; citation_firstpage=025013; citation_doi=10.1063/5.0038596;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=IEEE Trans. Plasma Sci.; citation_author=Hanaoka K; citation_author=Takahashi K; citation_author=Ando A; citation_volume=48; citation_publication_date=2020; citation_firstpage=2138; citation_lastpage=42; citation_doi=10.1109/TPS.2020.2987554;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=Front. Phys.; citation_author=Takahashi K; citation_author=Imai R; citation_author=Hanaoka K; citation_volume=9; citation_publication_date=2021; citation_firstpage=639010; citation_doi=10.3389/fphy.2021.639010;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_title=Automatic frequency tuning of an RF power source of an inductively coupled plasma reactor; citation_author=Hanawa H; citation_publication_date=1997;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_title=Pulsed RF power delivery for plasma processing; citation_author=Chen J Y; citation_author=Holland J P; citation_author=Sato A H; citation_author=Todorow V N; citation_publication_date=2002;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_title=Frequency tuning for pulsed radio frequency plasma processing; citation_author=Mueller M; citation_author=Choi M Y; citation_publication_date=2017;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_title=Method and apparatus for pulsed plasma processing using a time resolved tuning scheme for RF power delivery; citation_author=Banner S; citation_author=Todorow V; citation_author=Ramaswamy K; citation_publication_date=2012;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_title=Method and device for matching impedance of pulse radio frequency plasma; citation_author=Ye R; citation_author=Tu L; citation_author=Lei L C L; citation_publication_date=2020;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=Phys. Fluids B; citation_author=Vahedi V; citation_author=Birdsall C; citation_author=Lieberman M; citation_author=DiPeso G; citation_author=Rognlien T; citation_volume=5; citation_publication_date=1993; citation_firstpage=2719; citation_lastpage=29; citation_doi=10.1063/1.860711;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=Jpn. J. Appl. Phys.; citation_author=Abdel-Fattah E; citation_author=Sugai H; citation_volume=42; citation_publication_date=2003; citation_firstpage=6569; citation_doi=10.1143/JJAP.42.6569;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=J. Phys. D: Appl. Phys.; citation_author=Sharma S; citation_author=Sirse N; citation_author=Kuley A; citation_author=Sen A; citation_author=Turner M M; citation_volume=54; citation_publication_date=2020; citation_firstpage=055205; citation_doi=10.1088/1361-6463/abc11b;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=J. Phys. D: Appl. Phys.; citation_author=Korolov I; citation_author=Donkó Z; citation_author=Czarnetzki U; citation_author=Schulze J; citation_volume=45; citation_publication_date=2012; citation_firstpage=465205; citation_doi=10.1088/0022-3727/45/46/465205;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=J. Appl. Phys.; citation_author=Yu S; citation_author=Wang Y; citation_author=Chen Z; citation_author=Wang Z; citation_author=Wang L; citation_author=Jiang W; citation_author=Schulze J; citation_author=Zhang Y; citation_volume=137; citation_publication_date=2025; citation_firstpage=033301; citation_doi=10.1063/5.0226790;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=Plasma Sources Sci. Technol.; citation_author=Cao D; citation_author=Yu S; citation_author=Xu J; citation_author=Jiang W; citation_author=Schulze J; citation_author=Zhang Y; citation_volume=34; citation_publication_date=2025; citation_firstpage=075011; citation_doi=10.1088/1361-6595/adf005;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=Plasma Sources Sci. Technol.; citation_author=Wang H Y; citation_author=Jiang W; citation_author=Wang Y N; citation_volume=19; citation_publication_date=2010; citation_firstpage=045023; citation_doi=10.1088/0963-0252/19/4/045023;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=Plasma Sources Sci. Technol.; citation_author=Jiang W; citation_author=Wang H y; citation_author=Bi Z H; citation_author=Wang Y N; citation_volume=20; citation_publication_date=2011; citation_firstpage=035013; citation_doi=10.1088/0963-0252/20/3/035013;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=Plasma Sources Sci. Technol.; citation_author=Wu H; citation_author=Zhou Y; citation_author=Gao J; citation_author=Peng Y; citation_author=Wang Z; citation_author=Jiang W; citation_volume=30; citation_publication_date=2021; citation_firstpage=065029; citation_doi=10.1088/1361-6595/abff74;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=Plasma Sources Sci. Technol.; citation_author=Schulenberg D A; citation_author=Korolov I; citation_author=Donk’o Z; citation_author=Derzsi A; citation_author=Schulze J; citation_volume=30; citation_publication_date=2021; citation_firstpage=105003; citation_doi=10.1088/1361-6595/ac2222;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=Plasma Sources Sci. Technol.; citation_author=Park C W; citation_author=Horv’ath B; citation_author=Derzsi A; citation_author=Schulze J; citation_author=Kim J H; citation_author=Donk’o Z; citation_author=Lee H C; citation_volume=32; citation_publication_date=2023; citation_firstpage=115003; citation_doi=10.1088/1361-6595/ad0432;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=Plasma Sources Sci. Technol.; citation_author=Shi D H; citation_author=Wang X K; citation_author=Liu Y X; citation_author=Donk’o Z; citation_author=Schulze J; citation_author=Wang Y N; citation_volume=33; citation_publication_date=2024; citation_firstpage=025012; citation_doi=10.1088/1361-6595/ad257f;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=Phys. Rev. A; citation_author=Yamabe C; citation_author=Buckman S; citation_author=Phelps A; citation_volume=27; citation_publication_date=1983; citation_firstpage=1345; citation_doi=10.1103/PhysRevA.27.1345;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=J. Appl. Phys.; citation_author=Phelps A V; citation_volume=76; citation_publication_date=1994; citation_firstpage=747; citation_lastpage=53; citation_doi=10.1063/1.357820;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=Plasma Process. Polym.; citation_author=Pitchford L C; citation_author=others; citation_volume=14; citation_publication_date=2017; citation_firstpage=1600098; citation_doi=10.1002/ppap.201600098;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=Plasma Sources Sci. Technol.; citation_author=Kawamura E; citation_author=Birdsall C K; citation_author=Vahedi V; citation_volume=9; citation_publication_date=2000; citation_firstpage=413; citation_lastpage=28; citation_doi=10.1088/0963-0252/9/3/319;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=Phys. Plasmas; citation_author=Sun H; citation_author=Banerjee S; citation_author=Sharma S; citation_author=Powis A T; citation_author=Khrabrov A V; citation_author=Sydorenko D; citation_author=Chen J; citation_author=Kaganovich I D; citation_volume=30; citation_publication_date=2023; citation_firstpage=103509; citation_doi=10.1063/5.0160853;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=J. Comput. Phys.; citation_author=Xu J; citation_author=Chen Z; citation_author=Wang Y; citation_author=Yu S; citation_author=Wang H; citation_author=Jiang W; citation_author=Zhang Y; citation_volume=509; citation_publication_date=2024; citation_firstpage=113056; citation_doi=10.1016/j.jcp.2024.113056;"
+        },
+        {
+          "name": "citation_reference",
+          "content": "citation_journal_title=Plasma Sources Sci. Technol.; citation_author=Song S H; citation_author=Kushner M J; citation_volume=21; citation_publication_date=2012; citation_firstpage=055028; citation_doi=10.1088/0963-0252/21/5/055028;"
+        },
+        {
+          "name": "dc.creator",
+          "content": "Shimin Yu"
+        },
+        {
+          "name": "dc.creator",
+          "content": "Zili Chen"
+        },
+        {
+          "name": "dc.creator",
+          "content": "Yu Wang"
+        },
+        {
+          "name": "dc.creator",
+          "content": "Zhipeng Chen"
+        },
+        {
+          "name": "dc.creator",
+          "content": "Zhijiang Wang"
+        },
+        {
+          "name": "dc.creator",
+          "content": "Wei Jiang"
+        },
+        {
+          "name": "dc.creator",
+          "content": "Ya Zhang"
+        },
+        {
+          "name": "dc.creator",
+          "content": "Julian Schulze"
+        },
+        {
+          "name": "dc.publisher",
+          "content": "IOP Publishing",
+          "lang": "en"
+        },
+        {
+          "name": "dc.date",
+          "content": "2026-11-27",
+          "scheme": "W3CDTF"
+        },
+        {
+          "name": "dc.type",
+          "content": "Text",
+          "scheme": "DCMIType"
+        },
+        {
+          "name": "dc.format",
+          "content": "text/html",
+          "scheme": "IMT"
+        },
+        {
+          "name": "dc.identifier",
+          "content": "doi:10.1088/1361-6595/aec323"
+        },
+        {
+          "name": "dc.language",
+          "content": "en"
+        }
+      ],
+      "links": [
+        {
+          "text": "Scientist - Applied Laser Physics",
+          "href": "https://www.physicsworldjobs.com/job/34394/?trackid=9&utm_source=RestAPI&utm_source=IOPscience&utm_medium=Referral&utm_medium=organic&utm_campaign=IOPscience&utm_term=0963-0252&utm_content=FULLTEXT_DOWNLOAD"
+        },
+        {
+          "text": "MSc Programmes in Nuclear Physics",
+          "href": "https://www.physicsworldjobs.com/job/33497/?trackid=9&utm_source=RestAPI&utm_source=IOPscience&utm_medium=Referral&utm_medium=organic&utm_campaign=IOPscience&utm_term=0963-0252&utm_content=FULLTEXT_DOWNLOAD"
+        },
+        {
+          "text": "Manager, Electrical Engineering",
+          "href": "https://www.physicsworldjobs.com/job/34570/?trackid=9&utm_source=RestAPI&utm_source=IOPscience&utm_medium=Referral&utm_medium=organic&utm_campaign=IOPscience&utm_term=0963-0252&utm_content=FULLTEXT_DOWNLOAD"
+        },
+        {
+          "text": "More jobs",
+          "href": "https://www.physicsworldjobs.com/jobs?utm_source=IOPscience&utm_medium=organic&utm_campaign=IOPscience&utm_term=0963-0252&utm_content=FULLTEXT_DOWNLOAD"
+        },
+        {
+          "text": "Post a job",
+          "href": "https://employers.physicsworldjobs.com?utm_source=IOPscience&utm_medium=organic&utm_campaign=IOPscience&utm_term=0963-0252&utm_content=FULLTEXT_DOWNLOAD"
+        }
+      ]
+    }
+  ]
+}

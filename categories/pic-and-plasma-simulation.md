@@ -2,11 +2,13 @@
 
 PIC 算法、动理学求解、能量守恒格式、谱方法、数值稳定性与多物理耦合。
 
-- 当前收录：273 篇
-- 索引更新时间：2026-11-27
+- 当前收录：275 篇
+- 索引更新时间：2026-11-28
 
 | 入库日期 | 论文 | 期刊/平台 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-11-28 | [Enhanced laser-driven ion acceleration through electromagnetic energy coupling in annular sector targets](../papers/10-1038-s41598-026-79975-0/README.md) | Scientific Reports | [笔记](../daily/2026-11-28/notes/rezaeipandari-2026-annular.md) |
+| 2026-11-28 | [OpenMC Modelling of Neutron Spectra in the EU DEMO HCPB Divertor and Comparison with Reference MCNP Results](../papers/10-3390-app162311775/README.md) | Applied Sciences | [笔记](../daily/2026-11-28/notes/openmc-2026-divertor.md) |
 | 2026-11-27 | [Speckle renewal, not bandwidth alone, mitigates kinetic Raman scattering at moderate bandwidth](../papers/arxiv-2611-33971/README.md) | arXiv preprint | [笔记](../daily/2026-11-27/notes/massonlaborde-2026-speckle.md) |
 | 2026-11-27 | [Plasma transport by carrier electrons: Nernst advection beyond the heat-flow analogy due to kinetic stress](../papers/arxiv-2611-34766/README.md) | arXiv preprint | [笔记](../daily/2026-11-27/notes/walsh-2026-nernst.md) |
 | 2026-11-25 | [Phase-Space Shaping Due to Betatron Cooling in Wakefield Accelerators and the Onset of the Ion-Channel Laser](../papers/10-1103-k67h-dvxp/README.md) | Physical Review Letters | [笔记](../daily/2026-11-25/notes/bilbao-2026-betatron-cooling.md) |

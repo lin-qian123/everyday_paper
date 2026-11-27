@@ -1,0 +1,178 @@
+[
+  {
+    "image": "daily/2026-11-28/notes/images/rezaeipandari-2026-annular/fig2.png",
+    "source": "daily/2026-11-28/pdfs/rezaeipandari-2026-annular.pdf",
+    "page_one_based": 5,
+    "clip_points": [
+      45,
+      50,
+      552,
+      578
+    ],
+    "matrix": 2,
+    "source_sha256": "de5b242ebf15008210093e395516f111e68bae41d738c82a031c67fa3479edd9",
+    "image_sha256": "f2daa44913329fdc524361b7776fdb72f5f07b398aecd8aa59d7fbe4acec690b",
+    "primary_viewed_final_crop": true,
+    "pixel_match": true
+  },
+  {
+    "image": "daily/2026-11-28/notes/images/rezaeipandari-2026-annular/fig4.png",
+    "source": "daily/2026-11-28/pdfs/rezaeipandari-2026-annular.pdf",
+    "page_one_based": 8,
+    "clip_points": [
+      38,
+      42,
+      563,
+      701
+    ],
+    "matrix": 2,
+    "source_sha256": "de5b242ebf15008210093e395516f111e68bae41d738c82a031c67fa3479edd9",
+    "image_sha256": "ee9597633fed3f697f89094ec430a57b2879c2dddd6a0f7720cc77359184c666",
+    "primary_viewed_final_crop": true,
+    "pixel_match": true
+  },
+  {
+    "image": "daily/2026-11-28/notes/images/rezaeipandari-2026-annular/fig8.png",
+    "source": "daily/2026-11-28/pdfs/rezaeipandari-2026-annular.pdf",
+    "page_one_based": 14,
+    "clip_points": [
+      45,
+      48,
+      552,
+      506
+    ],
+    "matrix": 2,
+    "source_sha256": "de5b242ebf15008210093e395516f111e68bae41d738c82a031c67fa3479edd9",
+    "image_sha256": "c99e15f7d6a1c14eb9bb078cc984e15bc6638a17d0361233efad125a763a2fa8",
+    "primary_viewed_final_crop": true,
+    "pixel_match": true
+  },
+  {
+    "image": "daily/2026-11-28/notes/images/rezaeipandari-2026-annular/figS1.png",
+    "source": "daily/2026-11-28/pdfs/rezaeipandari-2026-annular-supplement.pdf",
+    "page_one_based": 2,
+    "clip_points": [
+      30,
+      145,
+      570,
+      568
+    ],
+    "matrix": 2,
+    "source_sha256": "5841aabb2eed9f5351c68718a85d27af8e1994b970f14e0465454aa77ec8ab32",
+    "image_sha256": "497c75e39f112e4a6477bb7d4640e37a36b95b7a72769035b80522e12f76abd9",
+    "primary_viewed_final_crop": true,
+    "pixel_match": true
+  },
+  {
+    "image": "daily/2026-11-28/notes/images/rezaeipandari-2026-annular/figS3.png",
+    "source": "daily/2026-11-28/pdfs/rezaeipandari-2026-annular-supplement.pdf",
+    "page_one_based": 4,
+    "clip_points": [
+      30,
+      330,
+      570,
+      748
+    ],
+    "matrix": 2,
+    "source_sha256": "5841aabb2eed9f5351c68718a85d27af8e1994b970f14e0465454aa77ec8ab32",
+    "image_sha256": "c68644b38f96873d594d32b16185ba97856889d8e716cccc2f1275aa5e41b724",
+    "primary_viewed_final_crop": true,
+    "pixel_match": true
+  },
+  {
+    "image": "daily/2026-11-28/notes/images/rezaeipandari-2026-annular/figS6.png",
+    "source": "daily/2026-11-28/pdfs/rezaeipandari-2026-annular-supplement.pdf",
+    "page_one_based": 8,
+    "clip_points": [
+      30,
+      60,
+      570,
+      768
+    ],
+    "matrix": 2,
+    "source_sha256": "5841aabb2eed9f5351c68718a85d27af8e1994b970f14e0465454aa77ec8ab32",
+    "image_sha256": "7cf81cf200c02d69a47e11bea631c0039769c5cf2f4a9fccc92015708fc5f37e",
+    "primary_viewed_final_crop": true,
+    "pixel_match": true
+  },
+  {
+    "image": "daily/2026-11-28/notes/images/openmc-2026-divertor/fig3.png",
+    "source": "daily/2026-11-28/pdfs/openmc-2026-divertor.pdf",
+    "page_one_based": 9,
+    "clip_points": [
+      160,
+      300,
+      567,
+      673
+    ],
+    "matrix": 2,
+    "source_sha256": "93a3540622fb04b89394fab2d9ea97906d2bdd9552758d1fd523ee0b7961315d",
+    "image_sha256": "285c4224a77349d06a4c569397a1e812fd06dd328496331822e4b563ec637250",
+    "primary_viewed_final_crop": true,
+    "pixel_match": true
+  },
+  {
+    "image": "daily/2026-11-28/notes/images/openmc-2026-divertor/fig4.png",
+    "source": "daily/2026-11-28/pdfs/openmc-2026-divertor.pdf",
+    "page_one_based": 10,
+    "clip_points": [
+      160,
+      315,
+      567,
+      505
+    ],
+    "matrix": 2,
+    "source_sha256": "93a3540622fb04b89394fab2d9ea97906d2bdd9552758d1fd523ee0b7961315d",
+    "image_sha256": "4b94c8695dd9728df941aef82a0c60707b2c38b1729379fc107a0ba1fc6f934a",
+    "primary_viewed_final_crop": true,
+    "pixel_match": true
+  },
+  {
+    "image": "daily/2026-11-28/notes/images/openmc-2026-divertor/fig5.png",
+    "source": "daily/2026-11-28/pdfs/openmc-2026-divertor.pdf",
+    "page_one_based": 12,
+    "clip_points": [
+      160,
+      65,
+      567,
+      494
+    ],
+    "matrix": 2,
+    "source_sha256": "93a3540622fb04b89394fab2d9ea97906d2bdd9552758d1fd523ee0b7961315d",
+    "image_sha256": "7cbd848f47969ed709b6c2f9719ff40ea60c07bf9578fcb04d77fcfb7550bb8d",
+    "primary_viewed_final_crop": true,
+    "pixel_match": true
+  },
+  {
+    "image": "daily/2026-11-28/notes/images/man-2026-waveguide/fig4.png",
+    "source": "daily/2026-11-28/pdfs/man-2026-waveguide.pdf",
+    "page_one_based": 6,
+    "clip_points": [
+      40,
+      60,
+      296,
+      676
+    ],
+    "matrix": 2,
+    "source_sha256": "aaaefe6ca44f63101ce9a9392c28e96ae9d658caeca6c01ebf9a0b1d6061fd44",
+    "image_sha256": "d614862e53416e22a929c5110406e341421dc9ae24661435543c037593508eb7",
+    "primary_viewed_final_crop": true,
+    "pixel_match": true
+  },
+  {
+    "image": "daily/2026-11-28/notes/images/man-2026-waveguide/fig6.png",
+    "source": "daily/2026-11-28/pdfs/man-2026-waveguide.pdf",
+    "page_one_based": 7,
+    "clip_points": [
+      298,
+      60,
+      552,
+      302
+    ],
+    "matrix": 2,
+    "source_sha256": "aaaefe6ca44f63101ce9a9392c28e96ae9d658caeca6c01ebf9a0b1d6061fd44",
+    "image_sha256": "0414fc302bd8a68ac8b2d3de46dc04e96b024fcc55efbbac10a97463806d0936",
+    "primary_viewed_final_crop": true,
+    "pixel_match": true
+  }
+]

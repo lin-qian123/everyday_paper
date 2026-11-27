@@ -1,0 +1,41 @@
+{
+  "restored": [
+    {
+      "path": "papers/10-1088-1741-4326-aebda4/README.md",
+      "sha256": "b61725e7674494efd8d76da9b623a3abcda1409346d6fc9f7c54a67351f51d15",
+      "reason": "unrelated inherited link wrappers overwritten by builder; restored byte exact"
+    },
+    {
+      "path": "papers/10-1088-2058-6272-aec41f/README.md",
+      "sha256": "93a4c98fba6066855a51fde7dc5b8b967d72912cad81c4e658f3ae4301f3076c",
+      "reason": "unrelated inherited link wrappers overwritten by builder; restored byte exact"
+    },
+    {
+      "path": "papers/10-1103-33h4-lf1m/README.md",
+      "sha256": "eca142c264d69d278f269f4aae21e26cbc79c13621cf87ae8ff04f2d3268cfeb",
+      "reason": "unrelated inherited link wrappers overwritten by builder; restored byte exact"
+    },
+    {
+      "path": "papers/10-1103-bvnj-1wmg/README.md",
+      "sha256": "a685766592b5f26a33c89f09794a6e78c667dbaa2f2e4cb2ec760655b680ef2f",
+      "reason": "unrelated inherited link wrappers overwritten by builder; restored byte exact"
+    },
+    {
+      "path": "papers/10-1103-gg1s-rxrg/README.md",
+      "sha256": "b5d8b4cc41f27b45afab8f93546e9a8b1c1f2bf09ed2f85242f9d8e7656ccb3d",
+      "reason": "unrelated inherited link wrappers overwritten by builder; restored byte exact"
+    },
+    {
+      "path": "papers/10-1103-p838-2l32/README.md",
+      "sha256": "c3269bcb4c08cab8bee55ef4e3e4813cae24707bd0681e06cbf906458ac1b6e6",
+      "reason": "unrelated inherited link wrappers overwritten by builder; restored byte exact"
+    },
+    {
+      "path": "papers/10-1103-yp1k-gjh9/README.md",
+      "sha256": "642f6153c0281a04642710838691a079406ddbbb62562625bce024e45684ebf8",
+      "reason": "unrelated inherited link wrappers overwritten by builder; restored byte exact"
+    }
+  ],
+  "count": 7,
+  "existing_AGENTS_sha256": "34e18320c8191458fa513b47c4d55f6fc9c63da79e6b02f22d201ce5dfbb8e8d"
+}
